@@ -1,0 +1,408 @@
+domainIncludes	label_snail	rangeIncludes	label-dash	label	isPartOf	subPropertyOf	equivalentProperty	subproperties	inverseOf	supersedes	supersededBy	comment
+CreativeWork	abstract	Text	abstract	abstract	pending:							An abstract is a short description that summarizes a <a class="localLink" href="/CreativeWork">CreativeWork</a>.
+DeliveryEvent	access_code	Text	access-code	accessCode								Password, PIN, or access code needed for delivery (e.g. from a locker).
+CreativeWork	access_mode	Text	access-mode	accessMode								The human sensory perceptual system or cognitive faculty through which a person may process or perceive information. Values should be drawn from the <a href="https://www.w3.org/2021/a11y-discov-vocab/latest/#accessMode-vocabulary">approved vocabulary</a>.
+CreativeWork	accessibility_api	Text	accessibility-api	accessibilityAPI								Indicates that the resource is compatible with the referenced accessibility API. Values should be drawn from the <a href="https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityAPI-vocabulary">approved vocabulary</a>.
+CreativeWork	accessibility_control	Text	accessibility-control	accessibilityControl								Identifies input methods that are sufficient to fully control the described resource. Values should be drawn from the <a href="https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityControl-vocabulary">approved vocabulary</a>.
+CreativeWork	accessibility_feature	Text	accessibility-feature	accessibilityFeature								Content features of the resource, such as accessible media, alternatives and supported enhancements for accessibility. Values should be drawn from the <a href="https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityFeature-vocabulary">approved vocabulary</a>.
+CreativeWork	accessibility_hazard	Text	accessibility-hazard	accessibilityHazard								A characteristic of the described resource that is physiologically dangerous to some users. Related to WCAG 2.0 guideline 2.3. Values should be drawn from the <a href="https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityHazard-vocabulary">approved vocabulary</a>.
+CreativeWork	accessibility_summary	Text	accessibility-summary	accessibilitySummary								A human-readable summary of specific accessibility features or deficiencies, consistent with the other accessibility metadata but expressing subtleties such as "short descriptions are present but long descriptions will be needed for non-visual users" or "short descriptions are present and no long descriptions are needed."
+Accommodation	accommodation_category	Text	accommodation-category	accommodationCategory	pending:	category						Category of an <a class="localLink" href="/Accommodation">Accommodation</a>, following real estate conventions, e.g. RESO (see <a href="https://ddwiki.reso.org/display/DDW17/PropertySubType+Field">PropertySubType</a>, and <a href="https://ddwiki.reso.org/display/DDW17/PropertyType+Field">PropertyType</a> fields  for suggested values).
+Invoice	account_id	Text	account-id	accountId		identifier						The identifier for the account the payment will be applied to.
+BusOrCoach, Car	acriss_code	Text	acriss-code	acrissCode	https://auto.schema.org							The ACRISS Car Classification Code is a code used by many car rental companies, for classifying vehicles. ACRISS stands for Association of Car Rental Industry Systems and Standards.
+DietarySupplement, Drug, DrugStrength, Substance	active_ingredient	Text	active-ingredient	activeIngredient								An active ingredient, typically chemical compounds and/or biologic substances.
+Person	additional_name	Text	additional-name	additionalName		alternateName						An additional name for a Person, can be used for a middle name.
+ExercisePlan	additional_variable	Text	additional-variable	additionalVariable								Any additional component of the exercise prescription that may need to be articulated to the patient. This may include the order of exercises, the number of repetitions of movement, quantitative distance, progressions over time, etc.
+PostalAddress	address_locality	Text	address-locality	addressLocality								The locality in which the street address is, and which is in the region. For example, Mountain View.
+DefinedRegion, PostalAddress	address_region	Text	address-region	addressRegion								The region in which the locality is, and which is in the country. For example, California or another appropriate first-level <a href="https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country">Administrative division</a>.
+Drug	administration_route	Text	administration-route	administrationRoute								A route by which this drug may be administered, e.g. 'oral'.
+Drug	alcohol_warning	Text	alcohol-warning	alcoholWarning								Any precaution, guidance, contraindication, etc. related to consumption of alcohol while taking this drug.
+MedicalRiskScore	algorithm	Text	algorithm	algorithm								The algorithm or rules to follow to compute the score.
+AlignmentObject	alignment_type	Text	alignment-type	alignmentType								A category of alignment between the learning resource and the framework node. Recommended values include: 'requires', 'textComplexity', 'readingLevel', and 'educationalSubject'.
+Thing	alternate_name	Text	alternate-name	alternateName				additionalName				An alias for the item.
+CreativeWork	alternative_headline	Text	alternative-headline	alternativeHeadline								A secondary title of the CreativeWork.
+SoftwareApplication	application_suite	Text	application-suite	applicationSuite								The name of the application suite to which the application belongs (e.g. Excel belongs to Office).
+Flight	arrival_gate	Text	arrival-gate	arrivalGate								Identifier of the flight's arrival gate.
+TrainTrip	arrival_platform	Text	arrival-platform	arrivalPlatform								The platform where the train arrives.
+Flight	arrival_terminal	Text	arrival-terminal	arrivalTerminal								Identifier of the flight's arrival terminal.
+Article	article_body	Text	article-body	articleBody								The actual body of the article.
+Article	article_section	Text	article-section	articleSection								Articles may belong to one or more 'sections' in a magazine or newspaper, such as Sports, Lifestyle, etc.
+MedicalWebPage	aspect	Text	aspect	aspect							mainContentOfPage	An aspect of medical practice that is considered on the page, such as 'diagnosis', 'treatment', 'causes', 'prognosis', 'etiology', 'epidemiology', etc.
+APIReference	assembly	Text	assembly	assembly							executableLibraryName	Library file name, e.g., mscorlib.dll, system.web.dll.
+APIReference	assembly_version	Text	assembly-version	assemblyVersion								Associated product/technology version. E.g., .NET Framework 4.5.
+AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy	associated_pathophysiology	Text	associated-pathophysiology	associatedPathophysiology								If applicable, a description of the pathophysiology associated with the anatomical system, including potential abnormal changes in the mechanical, physical, and biochemical functions of the system.
+Audience	audience_type	Text	audience-type	audienceType								The target group associated with a given audience (e.g. veterans, car owners, musicians, etc.).
+SoftwareApplication	available_on_device	Text	available-on-device	availableOnDevice						device		Device required to run the application. Used in cases where a specific make/model is required to run the application.
+CreativeWork, Organization, Person, Product, Service	award	Text	award	award						awards		An award won by or for this item.
+CreativeWork, Organization, Person, Product	awards	Text	awards	awards							award	Awards won by or for this item.
+JobPosting	benefits	Text	benefits	benefits							jobBenefits	Description of benefits associated with the job.
+Joint	biomechnical_class	Text	biomechnical-class	biomechnicalClass								The biomechanical properties of the bone.
+MediaObject	bitrate	Text	bitrate	bitrate								The bitrate of the media object.
+FlightReservation	boarding_group	Text	boarding-group	boardingGroup								The airline-specific indicator of boarding order / preference.
+AnatomicalStructure, MedicalProcedure	body_location	Text	body-location	bodyLocation								Location in the body of the anatomical structure.
+Book	book_edition	Text	book-edition	bookEdition								The edition of the book.
+GeoShape	box	Text	box	box								A box is the area enclosed by the rectangle formed by two points. The first point is the lower corner, the second point is the upper corner. A box is expressed as two points separated by a space character.
+Place	branch_code	Text	branch-code	branchCode								"A short textual code (also called ""store code"") that uniquely identifies a place of business. The code is typically assigned by the parentOrganization and used in structured URLs.<br/><br/>
+
+For example, in the URL http://www.starbucks.co.uk/store-locator/etc/detail/3047 the code ""3047"" is a branchCode for a particular branch."
+Drug	breastfeeding_warning	Text	breastfeeding-warning	breastfeedingWarning								Any precaution, guidance, contraindication, etc. related to this drug's use by breastfeeding mothers.
+BroadcastChannel	broadcast_channel_id	Text	broadcast-channel-id	broadcastChannelId								The unique address by which the BroadcastService can be identified in a provider lineup. In US, this is typically a number.
+BroadcastService	broadcast_display_name	Text	broadcast-display-name	broadcastDisplayName								The name displayed in the channel guide. For many US affiliates, it is the network name.
+BroadcastChannel	broadcast_service_tier	Text	broadcast-service-tier	broadcastServiceTier								The type of service required to have access to the channel (e.g. Standard or Premium).
+BroadcastFrequencySpecification	broadcast_sub_channel	Text	broadcast-sub-channel	broadcastSubChannel	pending:							The subchannel used for the broadcast.
+BroadcastService	broadcast_timezone	Text	broadcast-timezone	broadcastTimezone								The timezone in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 format</a> for which the service bases its broadcasts.
+WebApplication	browser_requirements	Text	browser-requirements	browserRequirements								Specifies browser requirements in human-readable text. For example, 'requires HTML5 support'.
+BusTrip	bus_name	Text	bus-name	busName								The name of the bus (e.g. Bolt Express).
+BusTrip	bus_number	Text	bus-number	busNumber								The unique identifier for the bus.
+BroadcastService, Person, Vehicle	call_sign	Text	call-sign	callSign	pending:	identifier						A <a href="https://en.wikipedia.org/wiki/Call_sign">callsign</a>, as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles.
+MobileApplication	carrier_requirements	Text	carrier-requirements	carrierRequirements								Specifies specific carrier(s) requirements for the application (e.g. an application may only work on a specific carrier network).
+MusicRelease	catalog_number	Text	catalog-number	catalogNumber								The catalog number for the release.
+PerformanceRole	character_name	Text	character-name	characterName								The name of a character played in some acting or performing role, i.e. in a PerformanceRole.
+Offer	checkout_page_url_template	Text	checkout-page-url-template	checkoutPageURLTemplate	pending:							A URL template (RFC 6570) for a checkout page for an offer. This approach allows merchants to specify a URL for online checkout of the offered product, by interpolating parameters such as the logged in user ID, product ID, quantity, discount code etc. Parameter naming and standardization are not specified here.
+ChemicalSubstance	chemical_composition	Text	chemical-composition	chemicalComposition	pending:							The chemical composition describes the identity and relative ratio of the chemical elements that make up the substance.
+GeoShape	circle	Text	circle	circle								A circle is the circular region of a specified radius centered at a specified latitude and longitude. A circle is expressed as a pair followed by a radius in meters.
+ClaimReview	claim_reviewed	Text	claim-reviewed	claimReviewed								A short summary of the specific claims reviewed in a ClaimReview.
+Drug	clincal_pharmacology	Text	clincal-pharmacology	clincalPharmacology							clinicalPharmacology	Description of the absorption and elimination of drugs, including their concentration (pharmacokinetics, pK) and biological effects (pharmacodynamics, pD).
+Drug	clinical_pharmacology	Text	clinical-pharmacology	clinicalPharmacology						clincalPharmacology		Description of the absorption and elimination of drugs, including their concentration (pharmacokinetics, pK) and biological effects (pharmacodynamics, pD).
+SoftwareSourceCode	code_sample_type	Text	code-sample-type	codeSampleType						sampleType		What type of code sample: full (compile ready) solution, code snippet, inline code, scripts, template.
+CategoryCode, MedicalCode	code_value	Text	code-value	codeValue	pending:	termCode						A short textual code that uniquely identifies the value.
+MedicalCode	coding_system	Text	coding-system	codingSystem								The coding system, e.g. 'ICD-10'.
+Product	color	Text	color	color								The color of the product.
+UserComments	comment_text	Text	comment-text	commentText								The text of the UserComment.
+CreativeWork	conditions_of_access	Text	conditions-of-access	conditionsOfAccess	pending:							"Conditions that affect the availability of, or method(s) of access to, an item. Typically used for real world items such as an <a class=""localLink"" href=""/ArchiveComponent"">ArchiveComponent</a> held by an <a class=""localLink"" href=""/ArchiveOrganization"">ArchiveOrganization</a>. This property is not suitable for use as a general Web access control mechanism. It is expressed only in natural language.<br/><br/>
+
+For example ""Available by appointment from the Reading Room"" or ""Accessible only from logged-in accounts ""."
+Invoice, Order	confirmation_number	Text	confirmation-number	confirmationNumber		identifier						A number that confirms the given order or payment has been received.
+ContactPoint	contact_type	Text	contact-type	contactType								A person or organization can have different contact points, for different purposes. For example, a sales contact point, a PR contact point and so on. This property is used to specify the kind of contact point.
+MediaObject	content_size	Text	content-size	contentSize								File size in (mega/kilo)bytes.
+EntryPoint	content_type	Text	content-type	contentType								The supported content type(s) for an EntryPoint response.
+Recipe	cooking_method	Text	cooking-method	cookingMethod								The method of cooking, such as Frying, Steaming, ...
+CreativeWork	copyright_notice	Text	copyright-notice	copyrightNotice	pending:							Text of a notice appropriate for describing the copyright aspects of this Creative Work, ideally indicating the owner of the copyright for the Work.
+DrugCost	cost_currency	Text	cost-currency	costCurrency								The currency (in 3-letter) of the drug cost. See: http://en.wikipedia.org/wiki/ISO_4217.
+DrugCost	cost_origin	Text	cost-origin	costOrigin								Additional details to capture the origin of the cost data. For example, 'Medicare Part B'.
+SoftwareApplication	countries_not_supported	Text	countries-not-supported	countriesNotSupported								Countries for which the application is not supported. You can also provide the two-letter ISO 3166-1 alpha-2 country code.
+SoftwareApplication	countries_supported	Text	countries-supported	countriesSupported								Countries for which the application is supported. You can also provide the two-letter ISO 3166-1 alpha-2 country code.
+Product	country_of_assembly	Text	country-of-assembly	countryOfAssembly	pending:							The place where the product was assembled.
+Product	country_of_last_processing	Text	country-of-last-processing	countryOfLastProcessing	pending:							The place where the item (typically <a class="localLink" href="/Product">Product</a>) was last processed and tested before importation.
+Course	course_code	Text	course-code	courseCode								The identifier for the <a class="localLink" href="/Course">Course</a> used by the course <a class="localLink" href="/provider">provider</a> (e.g. CS101 or 6.001).
+CourseInstance	course_workload	Text	course-workload	courseWorkload	pending:							The amount of work expected of students taking the course, often provided as a figure per week or per month, and may be broken down by type. For example, "2 hours of lectures, 1 hour of lab work and 3 hours of independent study per week".
+CreativeWork	credit_text	Text	credit-text	creditText	pending:							Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work.
+LocalBusiness	currencies_accepted	Text	currencies-accepted	currenciesAccepted								"The currency accepted.<br/><br/>
+
+Use standard formats: <a href=""http://en.wikipedia.org/wiki/ISO_4217"">ISO 4217 currency format</a>, e.g. ""USD""; <a href=""https://en.wikipedia.org/wiki/List_of_cryptocurrencies"">Ticker symbol</a> for cryptocurrencies, e.g. ""BTC""; well known names for <a href=""https://en.wikipedia.org/wiki/Local_exchange_trading_system"">Local Exchange Trading Systems</a> (LETS) and other currency types, e.g. ""Ithaca HOUR""."
+DatedMoneySpecification, ExchangeRateSpecification, LoanOrCredit, MonetaryAmount, MonetaryAmountDistribution	currency	Text	currency	currency								"The currency in which the monetary amount is expressed.<br/><br/>
+
+Use standard formats: <a href=""http://en.wikipedia.org/wiki/ISO_4217"">ISO 4217 currency format</a>, e.g. ""USD""; <a href=""https://en.wikipedia.org/wiki/List_of_cryptocurrencies"">Ticker symbol</a> for cryptocurrencies, e.g. ""BTC""; well known names for <a href=""https://en.wikipedia.org/wiki/Local_exchange_trading_system"">Local Exchange Trading Systems</a> (LETS) and other currency types, e.g. ""Ithaca HOUR""."
+CDCPMDRecord	cvd_facility_county	Text	cvd-facility-county	cvdFacilityCounty	pending:							Name of the County of the NHSN facility that this data record applies to. Use <a class="localLink" href="/cvdFacilityId">cvdFacilityId</a> to identify the facility. To provide other details, <a class="localLink" href="/healthcareReportingData">healthcareReportingData</a> can be used on a <a class="localLink" href="/Hospital">Hospital</a> entry.
+CDCPMDRecord	cvd_facility_id	Text	cvd-facility-id	cvdFacilityId	pending:							Identifier of the NHSN facility that this data record applies to. Use <a class="localLink" href="/cvdFacilityCounty">cvdFacilityCounty</a> to indicate the county. To provide other details, <a class="localLink" href="/healthcareReportingData">healthcareReportingData</a> can be used on a <a class="localLink" href="/Hospital">Hospital</a> entry.
+NewsArticle	dateline	Text	dateline	dateline								"A <a href=""https://en.wikipedia.org/wiki/Dateline"">dateline</a> is a brief piece of text included in news articles that describes where and when the story was written or filed though the date is often omitted. Sometimes only a placename is provided.<br/><br/>
+
+Structured representations of dateline-related information can also be expressed more explicitly using <a class=""localLink"" href=""/locationCreated"">locationCreated</a> (which represents where a work was created, e.g. where a news report was written).  For location depicted or described in the content, use <a class=""localLink"" href=""/contentLocation"">contentLocation</a>.<br/><br/>
+
+Dateline summaries are oriented more towards human readers than towards automated processing, and can vary substantially. Some examples: ""BEIRUT, Lebanon, June 2."", ""Paris, France"", ""December 19, 2017 11:43AM Reporting from Washington"", ""Beijing/Moscow"", ""QUEZON CITY, Philippines""."
+Flight	departure_gate	Text	departure-gate	departureGate								Identifier of the flight's departure gate.
+TrainTrip	departure_platform	Text	departure-platform	departurePlatform								The platform from which the train departs.
+Flight	departure_terminal	Text	departure-terminal	departureTerminal								Identifier of the flight's departure terminal.
+TechArticle	dependencies	Text	dependencies	dependencies								Prerequisites needed to fulfill steps in article.
+Thing	description	Text	description	description			dc:description	disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256				A description of the item.
+SoftwareApplication	device	Text	device	device							availableOnDevice	Device required to run the application. Used in cases where a specific make/model is required to run the application.
+Diet	diet_features	Text	diet-features	dietFeatures								Nutritional information specific to the dietary plan. May include dietary recommendations on what foods to avoid, what foods to consume, and specific alterations/deviations from the USDA or other regulatory body's approved dietary guidelines.
+Thing	disambiguating_description	Text	disambiguating-description	disambiguatingDescription		description						A sub property of description. A short description of the item used to disambiguate from other, similar items. Information from other properties (in particular, name) may be necessary for the description to be useful for disambiguation.
+Order	discount_code	Text	discount-code	discountCode								Code used to redeem a discount.
+Order	discount_currency	Text	discount-currency	discountCurrency								"The currency of the discount.<br/><br/>
+
+Use standard formats: <a href=""http://en.wikipedia.org/wiki/ISO_4217"">ISO 4217 currency format</a>, e.g. ""USD""; <a href=""https://en.wikipedia.org/wiki/List_of_cryptocurrencies"">Ticker symbol</a> for cryptocurrencies, e.g. ""BTC""; well known names for <a href=""https://en.wikipedia.org/wiki/Local_exchange_trading_system"">Local Exchange Trading Systems</a> (LETS) and other currency types, e.g. ""Ithaca HOUR""."
+Drug	dosage_form	Text	dosage-form	dosageForm								A dosage form in which this drug/supplement is available, e.g. 'tablet', 'suspension', 'injection'.
+DoseSchedule	dose_unit	Text	dose-unit	doseUnit								The unit of the dose, e.g. 'mg'.
+Drug, DrugCost	drug_unit	Text	drug-unit	drugUnit								The unit in which the drug is measured, e.g. '5 mg tablet'.
+Organization, Person	duns	Text	duns	duns		identifier						The Dun &amp; Bradstreet DUNS number for identifying an organization or business person.
+Question, SolveMathAction	edu_question_type	Text	edu-question-type	eduQuestionType	pending:							For questions that are part of learning resources (e.g. Quiz), eduQuestionType indicates the format of question being given. Example: "Multiple choice", "Open ended", "Flashcard".
+AlignmentObject	educational_framework	Text	educational-framework	educationalFramework								The framework to which the resource being described is aligned.
+EducationalAudience	educational_role	Text	educational-role	educationalRole								An educationalRole of an EducationalAudience.
+JobPosting	eligibility_to_work_requirement	Text	eligibility-to-work-requirement	eligibilityToWorkRequirement	pending:							The legal requirements such as citizenship, visa and other documentation required for an applicant to this job.
+ContactPoint, Organization, Person	email	Text	email	email								Email address.
+AudioObject, ImageObject, VideoObject	embedded_text_caption	Text	embedded-text-caption	embeddedTextCaption	pending:	caption						Represents textual captioning from a <a class="localLink" href="/MediaObject">MediaObject</a>, e.g. text of a 'meme'.
+JobPosting	employer_overview	Text	employer-overview	employerOverview	pending:							A description of the employer, career opportunities and work environment for this position.
+JobPosting	employment_type	Text	employment-type	employmentType								Type of employment (e.g. full-time, part-time, contract, temporary, seasonal, internship).
+EntryPoint	encoding_type	Text	encoding-type	encodingType								The supported encoding type(s) for an EntryPoint request.
+MedicalCondition, PhysicalActivity	epidemiology	Text	epidemiology	epidemiology								The characteristics of associated patients, such as age, gender, race etc.
+MedicalGuideline	evidence_origin	Text	evidence-origin	evidenceOrigin								Source of the data used to formulate the guidance, e.g. RCT, consensus opinion, etc.
+APIReference	executable_library_name	Text	executable-library-name	executableLibraryName						assembly		Library file name, e.g., mscorlib.dll, system.web.dll.
+ExerciseAction, ExercisePlan	exercise_type	Text	exercise-type	exerciseType								Type(s) of exercise or activity, such as strength training, flexibility training, aerobics, cardiac rehabilitation, etc.
+MedicalCondition	expected_prognosis	Text	expected-prognosis	expectedPrognosis								The likely outcome in either the short term or long term of the medical condition.
+Diet	expert_considerations	Text	expert-considerations	expertConsiderations								Medical expert advice related to the plan.
+Person	family_name	Text	family-name	familyName								Family name. In the U.S., the last name of a Person.
+ContactPoint, Organization, Person, Place	fax_number	Text	fax-number	faxNumber								The fax number.
+SoftwareApplication	file_size	Text	file-size	fileSize								Size of the application / package (e.g. 18MB). In the absence of a unit (MB, KB etc.), KB will be assumed.
+Flight	flight_number	Text	flight-number	flightNumber		identifier						The unique identifier for a flight including the airline IATA code. For example, if describing United flight 110, where the IATA code for United is 'UA', the flightNumber is 'UA110'.
+Accommodation	floor_level	Text	floor-level	floorLevel	pending:							"The floor level for an <a class=""localLink"" href=""/Accommodation"">Accommodation</a> in a multi-storey building. Since counting
+  systems <a href=""https://en.wikipedia.org/wiki/Storey#Consecutive_number_floor_designations"">vary internationally</a>, the local system should be used where possible."
+MedicalProcedure	followup	Text	followup	followup								Typical or recommended followup care after the procedure is performed.
+Drug	food_warning	Text	food-warning	foodWarning								Any precaution, guidance, contraindication, etc. related to consumption of specific foods while taking this drug.
+DoseSchedule	frequency	Text	frequency	frequency				repeatFrequency				How often the dose is taken, e.g. 'daily'.
+VideoGame	game_edition	Text	game-edition	gameEdition								The edition of a video game.
+Person	given_name	Text	given-name	givenName								Given name. In the U.S., the first name of a Person.
+Organization, Person, Place	global_location_number	Text	global-location-number	globalLocationNumber		identifier						The <a href="http://www.gs1.org/gln">Global Location Number</a> (GLN, sometimes also referred to as International Location Number or ILN) of the respective organization, person, or place. The GLN is a 13-digit number used to identify parties and physical locations.
+Demand, Offer, Product	gtin12	Text	gtin12	gtin12		gtin, identifier						The GTIN-12 code of the product, or the product to which the offer refers. The GTIN-12 is the 12-digit GS1 Identification Key composed of a U.P.C. Company Prefix, Item Reference, and Check Digit used to identify trade items. See <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GS1 GTIN Summary</a> for more details.
+Demand, Offer, Product	gtin13	Text	gtin13	gtin13		gtin, identifier						The GTIN-13 code of the product, or the product to which the offer refers. This is equivalent to 13-digit ISBN codes and EAN UCC-13. Former 12-digit UPC codes can be converted into a GTIN-13 code by simply adding a preceding zero. See <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GS1 GTIN Summary</a> for more details.
+Demand, Offer, Product	gtin14	Text	gtin14	gtin14		gtin, identifier						The GTIN-14 code of the product, or the product to which the offer refers. See <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GS1 GTIN Summary</a> for more details.
+Demand, Offer, Product	gtin8	Text	gtin8	gtin8		gtin, identifier						The GTIN-8 code of the product, or the product to which the offer refers. This code is also known as EAN/UCC-8 or 8-digit EAN. See <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GS1 GTIN Summary</a> for more details.
+Gene, Protein	has_bio_polymer_sequence	Text	has-bio-polymer-sequence	hasBioPolymerSequence	pending:	hasRepresentation						A symbolic representation of a BioChemEntity. For example, a nucleotide sequence of a Gene or an amino acid sequence of a Protein.
+CreativeWork	headline	Text	headline	headline								Headline of the article.
+HealthPlanCostSharingSpecification	health_plan_coinsurance_option	Text	health-plan-coinsurance-option	healthPlanCoinsuranceOption	pending:							Whether the coinsurance applies before or after deductible, etc. TODO: Is this a closed set?
+HealthPlanCostSharingSpecification	health_plan_copay_option	Text	health-plan-copay-option	healthPlanCopayOption	pending:							Whether the copay is before or after deductible, etc. TODO: Is this a closed set?
+HealthInsurancePlan	health_plan_drug_option	Text	health-plan-drug-option	healthPlanDrugOption	pending:							TODO.
+HealthInsurancePlan, HealthPlanFormulary	health_plan_drug_tier	Text	health-plan-drug-tier	healthPlanDrugTier	pending:							The tier(s) of drugs offered by this formulary or insurance plan.
+HealthInsurancePlan	health_plan_id	Text	health-plan-id	healthPlanId	pending:							The 14-character, HIOS-generated Plan ID number. (Plan IDs must be unique, even across different markets.)
+HealthPlanNetwork, MedicalOrganization	health_plan_network_id	Text	health-plan-network-id	healthPlanNetworkId	pending:							Name or unique ID of network. (Networks are often reused across different insurance plans.)
+HealthPlanNetwork	health_plan_network_tier	Text	health-plan-network-tier	healthPlanNetworkTier	pending:							The tier(s) for this network.
+HealthPlanCostSharingSpecification	health_plan_pharmacy_category	Text	health-plan-pharmacy-category	healthPlanPharmacyCategory	pending:							The category or type of pharmacy associated with this cost sharing.
+Person	honorific_prefix	Text	honorific-prefix	honorificPrefix								An honorific prefix preceding a Person's name such as Dr/Mrs/Mr.
+Person	honorific_suffix	Text	honorific-suffix	honorificSuffix								An honorific suffix following a Person's name such as M.D./PhD/MSCSW.
+MedicalProcedure	how_performed	Text	how-performed	howPerformed								How the procedure is performed.
+EntryPoint	http_method	Text	http-method	httpMethod								An HTTP method that specifies the appropriate HTTP method for a request to an HTTP EntryPoint. Values are capitalized strings as used in HTTP.
+Airline, Airport	iata_code	Text	iata-code	iataCode								IATA identifier for an airline or airport.
+Airport	icao_code	Text	icao-code	icaoCode								ICAO identifier for an airport.
+MolecularEntity	in_ch_i	Text	in-ch-i	inChI	pending:	hasRepresentation						Non-proprietary identifier for molecular entity that can be used in printed and electronic data sources thus enabling easier linking of diverse data compilations.
+MolecularEntity	in_ch_i_key	Text	in-ch-i-key	inChIKey	pending:	hasRepresentation						InChIKey is a hashed version of the full InChI (using the SHA-256 algorithm).
+Product	in_product_group_with_id	Text	in-product-group-with-id	inProductGroupWithID	pending:							Indicates the <a class="localLink" href="/productGroupID">productGroupID</a> for a <a class="localLink" href="/ProductGroup">ProductGroup</a> that this product <a class="localLink" href="/isVariantOf">isVariantOf</a>.
+Thesis	in_support_of	Text	in-support-of	inSupportOf	https://bib.schema.org							Qualification, candidature, degree, application that Thesis supports.
+JobPosting	incentive_compensation	Text	incentive-compensation	incentiveCompensation						incentives		Description of bonus and commission compensation aspects of the job.
+JobPosting	incentives	Text	incentives	incentives							incentiveCompensation	Description of bonus and commission compensation aspects of the job.
+InfectiousDisease	infectious_agent	Text	infectious-agent	infectiousAgent								The actual infectious agent, such as a specific bacterium.
+Recipe	ingredients	Text	ingredients	ingredients		supply					recipeIngredient	A single ingredient used in the recipe, e.g. sugar, flour or garlic.
+CreativeWork	interactivity_type	Text	interactivity-type	interactivityType								The predominant mode of learning supported by the learning resource. Acceptable values are 'active', 'expositive', or 'mixed'.
+Book	isbn	Text	isbn	isbn		identifier	http://purl.org/ontology/bibo/isbn					The ISBN of the book.
+Organization, Person, Place	isic_v4	Text	isic-v4	isicV4								The International Standard of Industrial Classification of All Economic Activities (ISIC), Revision 4 code for a particular organization, business person, or place.
+Organization	iso6523code	Text	iso6523code	iso6523Code	pending:							An organization identifier as defined in ISO 6523(-1). Note that many existing organization identifiers such as <a href="leiCode">leiCode</a>, <a href="duns">duns</a> and <a href="vatID">vatID</a> can be expressed as an ISO 6523 identifier by setting the ICD part of the ISO 6523 identifier accordingly.
+MusicRecording	isrc_code	Text	isrc-code	isrcCode								The International Standard Recording Code for the recording.
+Blog, CreativeWorkSeries, Dataset, WebSite	issn	Text	issn	issn		identifier	http://purl.org/ontology/bibo/issn					The International Standard Serial Number (ISSN) that identifies this serial publication. You can repeat this property to identify different formats of, or the linking ISSN (ISSN-L) for, this serial publication.
+MusicComposition	iswc_code	Text	iswc-code	iswcCode								The International Standard Musical Work Code for the composition.
+MolecularEntity	iupac_name	Text	iupac-name	iupacName	pending:							Systematic method of naming chemical compounds as recommended by the International Union of Pure and Applied Chemistry (IUPAC).
+JobPosting	job_benefits	Text	job-benefits	jobBenefits						benefits		Description of benefits associated with the job.
+JobPosting	job_location_type	Text	job-location-type	jobLocationType	pending:							A description of the job location (e.g. TELECOMMUTE for telecommute jobs).
+Vehicle	known_vehicle_damages	Text	known-vehicle-damages	knownVehicleDamages								A textual description of known damages, both repaired and unrepaired.
+Organization	legal_name	Text	legal-name	legalName								The official name of the organization, e.g. the registered company name.
+Organization	lei_code	Text	lei-code	leiCode		identifier						An organization identifier that uniquely identifies a legal entity as defined in ISO 17442.
+GeoShape	line	Text	line	line								A line is a point-to-point path consisting of two or more points. A line is expressed as a series of two or more point objects separated by space.
+LinkRole	link_relationship	Text	link-relationship	linkRelationship	pending:							Indicates the relationship type of a Web link.
+LodgingReservation	lodging_unit_description	Text	lodging-unit-description	lodgingUnitDescription								A full description of the lodging unit.
+Flight	meal_service	Text	meal-service	mealService								Description of the meals that will be provided or available for purchase.
+DietarySupplement, Drug	mechanism_of_action	Text	mechanism-of-action	mechanismOfAction								The specific biochemical interaction through which this drug or supplement produces its pharmacological effect.
+ProgramMembership	membership_number	Text	membership-number	membershipNumber								A unique identifier for the membership.
+Offer, Product	mobile_url	Text	mobile-url	mobileUrl	pending:							"The <a class=""localLink"" href=""/mobileUrl"">mobileUrl</a> property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated 'mobile site'.<br/><br/>
+
+To discourage over-use, and reflecting intial usecases, the property is expected only on <a class=""localLink"" href=""/Product"">Product</a> and <a class=""localLink"" href=""/Offer"">Offer</a>, rather than <a class=""localLink"" href=""/Thing"">Thing</a>. The general trend in web technology is towards <a href=""https://en.wikipedia.org/wiki/Responsive_web_design"">responsive design</a> in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established <a class=""localLink"" href=""/url"">url</a> property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all <a class=""localLink"" href=""/url"">url</a> markup to use <a class=""localLink"" href=""/mobileUrl"">mobileUrl</a> for more mobile-oriented pages. The property is intended for the case when items (primarily <a class=""localLink"" href=""/Product"">Product</a> and <a class=""localLink"" href=""/Offer"">Offer</a>) have extra URLs hosted on an additional ""mobile site"" alongside the main one. It should not be taken as an endorsement of this publication style."
+MolecularEntity	molecular_formula	Text	molecular-formula	molecularFormula	pending:							The empirical formula is the simplest whole number ratio of all the atoms in a molecule.
+Demand, Offer, Product	mpn	Text	mpn	mpn								The Manufacturer Part Number (MPN) of the product, or the product to which the offer refers.
+Muscle	muscle_action	Text	muscle-action	muscleAction								The movement the muscle generates.
+MusicComposition	music_composition_form	Text	music-composition-form	musicCompositionForm								The type of composition (e.g. overture, sonata, symphony, etc.).
+MusicComposition	musical_key	Text	musical-key	musicalKey								The key, mode, or scale this composition uses.
+Organization, Person	naics	Text	naics	naics								The North American Industry Classification System (NAICS) code for a particular organization or business person.
+Thing	name	Text	name	name		http://www.w3.org/2000/01/rdf-schema#label	dc:title					The name of the item.
+MedicalCondition	natural_progression	Text	natural-progression	naturalProgression								The expected progression of the condition if it is not treated and allowed to progress naturally.
+DietarySupplement, Drug	non_proprietary_name	Text	non-proprietary-name	nonProprietaryName								The generic name of this drug or supplement.
+Product	nsn	Text	nsn	nsn	pending:	identifier						Indicates the <a href="https://en.wikipedia.org/wiki/NATO_Stock_Number">NATO stock number</a> (nsn) of a <a class="localLink" href="/Product">Product</a>.
+CivicStructure, LocalBusiness	opening_hours	Text	opening-hours	openingHours								"The general opening hours for a business. Opening hours can be specified as a weekly time range, starting with days, then times per day. Multiple days can be listed with commas ',' separating each day. Day or time ranges are specified using a hyphen '-'.<br/><br/>
+
+<ul>
+<li>Days are specified using the following two-letter combinations: <code>Mo</code>, <code>Tu</code>, <code>We</code>, <code>Th</code>, <code>Fr</code>, <code>Sa</code>, <code>Su</code>.</li>
+<li>Times are specified using 24:00 format. For example, 3pm is specified as <code>15:00</code>, 10am as <code>10:00</code>. </li>
+<li>Here is an example: <code>&lt;time itemprop=""openingHours"" datetime=&quot;Tu,Th 16:00-20:00&quot;&gt;Tuesdays and Thursdays 4-8pm&lt;/time&gt;</code>.</li>
+<li>If a business is open 7 days a week, then it can be specified as <code>&lt;time itemprop=&quot;openingHours&quot; datetime=&quot;Mo-Su&quot;&gt;Monday through Sunday, all day&lt;/time&gt;</code>.</li>
+</ul>"
+SoftwareApplication	operating_system	Text	operating-system	operatingSystem								Operating systems supported (Windows 7, OS X 10.6, Android 1.6).
+OrderItem	order_item_number	Text	order-item-number	orderItemNumber								The identifier of the order item.
+Order	order_number	Text	order-number	orderNumber		identifier						The identifier of the transaction.
+MediaReview	original_media_context_description	Text	original-media-context-description	originalMediaContextDescription	pending:	description						Describes, in a <a class="localLink" href="/MediaReview">MediaReview</a> when dealing with <a class="localLink" href="/DecontextualizedContent">DecontextualizedContent</a>, background information that can contribute to better interpretation of the <a class="localLink" href="/MediaObject">MediaObject</a>.
+Drug	overdosage	Text	overdosage	overdosage								Any information related to overdose on a drug, including signs or symptoms, treatments, contact information for emergency response.
+Article, Chapter, PublicationIssue, PublicationVolume	pagination	Text	pagination	pagination			http://purl.org/ontology/bibo/pages					Any description of pages that is not separated into pageStart and pageEnd; for example, "1-6, 9, 55" or "10-12, 46-49".
+FlightReservation	passenger_sequence_number	Text	passenger-sequence-number	passengerSequenceNumber								The passenger's sequence number as assigned by the airline.
+MedicalCondition, PhysicalActivity	pathophysiology	Text	pathophysiology	pathophysiology								Changes in the normal mechanical, physical, and biochemical functions that are associated with this activity or condition.
+LocalBusiness	payment_accepted	Text	payment-accepted	paymentAccepted								Cash, Credit Card, Cryptocurrency, Local Exchange Tradings System, etc.
+Invoice, Order	payment_method_id	Text	payment-method-id	paymentMethodId								An identifier for the method of payment used (e.g. the last 4 digits of the credit card).
+SoftwareApplication	permissions	Text	permissions	permissions								Permission(s) required to run the app (for example, a mobile app may require full internet access or may run only on wifi).
+Accommodation	permitted_usage	Text	permitted-usage	permittedUsage								Indications regarding the permitted usage of the accommodation.
+PronounceableText	phonetic_text	Text	phonetic-text	phoneticText	pending:							Representation of a text <a class="localLink" href="/textValue">textValue</a> using the specified <a class="localLink" href="/speechToTextMarkup">speechToTextMarkup</a>. For example the city name of Houston in IPA: /?hju?st?n/.
+Diet	physiological_benefits	Text	physiological-benefits	physiologicalBenefits								Specific physiologic benefits associated to the plan.
+MediaObject	player_type	Text	player-type	playerType								Player type required&#x2014;for example, Flash or Silverlight.
+GeoShape	polygon	Text	polygon	polygon								A polygon is the area enclosed by a point-to-point path for which the starting and ending points are the same. A polygon is expressed as a series of four or more space delimited points where the first and final points are identical.
+MedicalCondition	possible_complication	Text	possible-complication	possibleComplication								A possible unexpected and unfavorable evolution of a medical condition. Complications may include worsening of the signs or symptoms of the disease, extension of the condition to other organ systems, etc.
+PostalAddress	post_office_box_number	Text	post-office-box-number	postOfficeBoxNumber								The post office box number for PO box addresses.
+MedicalDevice	post_op	Text	post-op	postOp								A description of the postoperative procedures, care, and/or followups for this device.
+DefinedRegion, GeoCoordinates, GeoShape, PostalAddress	postal_code	Text	postal-code	postalCode								The postal code. For example, 94043.
+PostalCodeRangeSpecification	postal_code_begin	Text	postal-code-begin	postalCodeBegin	pending:							First postal code in a range (included).
+PostalCodeRangeSpecification	postal_code_end	Text	postal-code-end	postalCodeEnd	pending:							Last postal code in the range (included). Needs to be after <a class="localLink" href="/postalCodeBegin">postalCodeBegin</a>.
+DefinedRegion	postal_code_prefix	Text	postal-code-prefix	postalCodePrefix	pending:							A defined range of postal codes indicated by a common textual prefix. Used for non-numeric systems such as UK.
+MedicalDevice	pre_op	Text	pre-op	preOp								A description of the workup, testing, and other preparations required before implanting this device.
+Drug	pregnancy_warning	Text	pregnancy-warning	pregnancyWarning								Any precaution, guidance, contraindication, etc. related to this drug's use during pregnancy.
+Offer, PriceSpecification, Reservation, Ticket, TradeAction	price_currency	Text	price-currency	priceCurrency								"The currency of the price, or a price component when attached to <a class=""localLink"" href=""/PriceSpecification"">PriceSpecification</a> and its subtypes.<br/><br/>
+
+Use standard formats: <a href=""http://en.wikipedia.org/wiki/ISO_4217"">ISO 4217 currency format</a>, e.g. ""USD""; <a href=""https://en.wikipedia.org/wiki/List_of_cryptocurrencies"">Ticker symbol</a> for cryptocurrencies, e.g. ""BTC""; well known names for <a href=""https://en.wikipedia.org/wiki/Local_exchange_trading_system"">Local Exchange Trading Systems</a> (LETS) and other currency types, e.g. ""Ithaca HOUR""."
+LocalBusiness	price_range	Text	price-range	priceRange								The price range of the business, for example <code>$$$</code>.
+NewsArticle	print_column	Text	print-column	printColumn								The number of the column in which the NewsArticle appears in the print edition.
+NewsArticle	print_edition	Text	print-edition	printEdition								The edition of the print product in which the NewsArticle appears.
+NewsArticle	print_page	Text	print-page	printPage								If this NewsArticle appears in print, this field indicates the name of the page on which the article is found. Please note that this field is intended for the exact page name (e.g. A5, B18).
+NewsArticle	print_section	Text	print-section	printSection								If this NewsArticle appears in print, this field indicates the print section in which the article appeared.
+MedicalDevice	procedure	Text	procedure	procedure								A description of the procedure involved in setting up, using, and/or installing the device.
+SoftwareApplication	processor_requirements	Text	processor-requirements	processorRequirements								Processor architecture required to run the application (e.g. IA64).
+ProductGroup	product_group_id	Text	product-group-id	productGroupID	pending:							Indicates a textual identifier for a ProductGroup.
+Product	product_id	Text	product-id	productID		identifier						The product identifier, such as ISBN. For example: <code>meta itemprop="productID" content="isbn:123-456-789"</code>.
+TechArticle	proficiency_level	Text	proficiency-level	proficiencyLevel								Proficiency needed for this content; expected values: 'Beginner', 'Expert'.
+ProgramMembership	program_name	Text	program-name	programName								The program providing the membership.
+APIReference	programming_model	Text	programming-model	programmingModel								Indicates whether API is managed or unmanaged.
+DietarySupplement, Drug	proprietary_name	Text	proprietary-name	proprietaryName								Proprietary name given to the diet plan, typically by its originator or creator.
+Service	provider_mobility	Text	provider-mobility	providerMobility								Indicates the mobility of a provided service (e.g. 'static', 'dynamic').
+MedicalScholarlyArticle	publication_type	Text	publication-type	publicationType								The type of the medical article, taken from the US NLM MeSH publication type catalog. See also <a href="http://www.nlm.nih.gov/mesh/pubtypes.html">MeSH documentation</a>.
+SearchAction	query	Text	query	query		instrument						A sub property of instrument. The query used on this action.
+Rating	rating_explanation	Text	rating-explanation	ratingExplanation	pending:							A short explanation (e.g. one to two sentences) providing background context and other information that led to the conclusion expressed in the rating. This is particularly applicable to ratings associated with "fact check" markup using <a class="localLink" href="/ClaimReview">ClaimReview</a>.
+Recipe	recipe_category	Text	recipe-category	recipeCategory								The category of the recipeï¿½for example, appetizer, entree, etc.
+Recipe	recipe_cuisine	Text	recipe-cuisine	recipeCuisine								The cuisine of the recipe (for example, French or Ethiopian).
+Recipe	recipe_ingredient	Text	recipe-ingredient	recipeIngredient		supply				ingredients		A single ingredient used in the recipe, e.g. sugar, flour or garlic.
+MedicalGuidelineRecommendation	recommendation_strength	Text	recommendation-strength	recommendationStrength								Strength of the guideline's recommendation (e.g. 'class I').
+Report	report_number	Text	report-number	reportNumber								The number or other unique designator assigned to a Report by the publishing organization.
+PeopleAudience	required_gender	Text	required-gender	requiredGender								Audiences defined by a person's gender.
+Reservation	reservation_id	Text	reservation-id	reservationId								A unique identifier for the reservation.
+JobPosting, Occupation	responsibilities	Text	responsibilities	responsibilities								Responsibilities associated with this role or Occupation.
+Guide, Rating, Review	review_aspect	Text	review-aspect	reviewAspect								This Review or Rating is relevant to this part or facet of the itemReviewed.
+Review	review_body	Text	review-body	reviewBody								The actual body of the review.
+Diet	risks	Text	risks	risks								Specific physiologic risks associated to the diet plan.
+SoftwareSourceCode	runtime	Text	runtime	runtime							runtimePlatform	Runtime platform or script interpreter dependencies (example: Java v1, Python 2.3, .NET Framework 3.0).
+SoftwareSourceCode	runtime_platform	Text	runtime-platform	runtimePlatform						runtime		Runtime platform or script interpreter dependencies (example: Java v1, Python 2.3, .NET Framework 3.0).
+Drug	rxcui	Text	rxcui	rxcui	pending:							The RxCUI drug identifier from RXNORM.
+DietarySupplement	safety_consideration	Text	safety-consideration	safetyConsideration								Any potential safety concern associated with the supplement. May include interactions with other drugs and foods, pregnancy, breastfeeding, known adverse reactions, and documented efficacy of the supplement.
+EmployeeRole, JobPosting	salary_currency	Text	salary-currency	salaryCurrency								The currency (coded using <a href="http://en.wikipedia.org/wiki/ISO_4217">ISO 4217</a>) used for the main salary information in this job posting or for this employee.
+SoftwareSourceCode	sample_type	Text	sample-type	sampleType							codeSampleType	What type of code sample: full (compile ready) solution, code snippet, inline code, scripts, template.
+Schedule	schedule_timezone	Text	schedule-timezone	scheduleTimezone	pending:							Indicates the timezone for which the time(s) indicated in the <a class="localLink" href="/Schedule">Schedule</a> are given. The value provided should be among those listed in the IANA Time Zone Database.
+Seat	seat_number	Text	seat-number	seatNumber								The location of the reserved seat (e.g., 27).
+Seat	seat_row	Text	seat-row	seatRow								The row location of the reserved seat (e.g., B).
+Seat	seat_section	Text	seat-section	seatSection								The section location of the reserved seat (e.g. Orchestra).
+FlightReservation	security_screening	Text	security-screening	securityScreening								The type of security screening the passenger is subject to.
+Demand, IndividualProduct, Offer	serial_number	Text	serial-number	serialNumber		identifier		vehicleIdentificationNumber				The serial number or any alphanumeric identifier of a particular product. When attached to an offer, it is a shortcut for the serial number of the product included in the offer.
+FoodEstablishment	serves_cuisine	Text	serves-cuisine	servesCuisine								The cuisine of the restaurant.
+NutritionInformation	serving_size	Text	serving-size	servingSize								The serving size, in terms of the number of volume or mass.
+MediaObject	sha256	Text	sha256	sha256	pending:	description						The <a href="https://en.wikipedia.org/wiki/SHA-2">SHA-2</a> SHA256 hash of the content of the item. For example, a zero-length input has value 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+OfferShippingDetails, ShippingRateSettings	shipping_label	Text	shipping-label	shippingLabel	pending:							Label to match an <a class="localLink" href="/OfferShippingDetails">OfferShippingDetails</a> with a <a class="localLink" href="/ShippingRateSettings">ShippingRateSettings</a> (within the context of a <a class="localLink" href="/shippingSettingsLink">shippingSettingsLink</a> cross-reference).
+SuperficialAnatomy	significance	Text	significance	significance								The significance associated with the superficial anatomy; as an example, how characteristics of the superficial anatomy can suggest underlying medical conditions or courses of treatment.
+Demand, Offer, Product	sku	Text	sku	sku		identifier						The Stock Keeping Unit (SKU), i.e. a merchant-specific identifier for a product or service, or the product to which the offer refers.
+Brand, Organization, Place, Product, Service	slogan	Text	slogan	slogan								A slogan or motto associated with the item.
+MolecularEntity	smiles	Text	smiles	smiles	pending:	hasRepresentation						A specification in form of a line notation for describing the structure of chemical species using short ASCII strings.  Double bond stereochemistry \ indicators may need to be escaped in the string in formats where the backslash is an escape character.
+SoftwareApplication	software_version	Text	software-version	softwareVersion								Version of the software instance.
+JobPosting	special_commitments	Text	special-commitments	specialCommitments								Any special commitments associated with this job posting. Valid entries include VeteranCommit, MilitarySpouseCommit, etc.
+PronounceableText	speech_to_text_markup	Text	speech-to-text-markup	speechToTextMarkup	pending:							Form of markup used. eg. <a href="https://www.w3.org/TR/speech-synthesis11">SSML</a> or <a href="https://www.wikidata.org/wiki/Property:P898">IPA</a>.
+PostalAddress	street_address	Text	street-address	streetAddress								The street address. For example, 1600 Amphitheatre Pkwy.
+DrugStrength	strength_unit	Text	strength-unit	strengthUnit								The units of an active ingredient's strength, e.g. mg.
+Joint	structural_class	Text	structural-class	structuralClass								The name given to how bone physically connects to each other.
+MedicalConditionStage	sub_stage_suffix	Text	sub-stage-suffix	subStageSuffix								The substage, e.g. 'a' for Stage IIIa.
+AlignmentObject	target_description	Text	target-description	targetDescription								The description of a node in an established educational framework.
+AlignmentObject	target_name	Text	target-name	targetName								The name of a node in an established educational framework.
+APIReference	target_platform	Text	target-platform	targetPlatform								Type of app development: phone, Metro style, desktop, XBox, etc.
+DietarySupplement, DoseSchedule	target_population	Text	target-population	targetPopulation								Characteristics of the population for which this is intended, or which typically uses it, e.g. 'adults'.
+Organization, Person	tax_id	Text	tax-id	taxID		identifier						The Tax / Fiscal ID of the organization or person, e.g. the TIN in the US or the CIF/NIF in Spain.
+ContactPoint, Organization, Person, Place	telephone	Text	telephone	telephone								The telephone number.
+DefinedTerm	term_code	Text	term-code	termCode	pending:			codeValue				A code that identifies this <a class="localLink" href="/DefinedTerm">DefinedTerm</a> within a <a class="localLink" href="/DefinedTermSet">DefinedTermSet</a>
+CreativeWork	text	Text	text	text								The textual content of this CreativeWork.
+PronounceableText	text_value	Text	text-value	textValue	pending:							Text value being annotated.
+Corporation	ticker_symbol	Text	ticker-symbol	tickerSymbol								The exchange traded instrument associated with a Corporation object. The tickerSymbol is expressed as an exchange and an instrument name separated by a space character. For the exchange component of the tickerSymbol attribute, we recommend using the controlled vocabulary of Market Identifier Codes (MIC) specified in ISO 15022.
+Ticket	ticket_number	Text	ticket-number	ticketNumber								The unique identifier for the ticket.
+EducationalOccupationalProgram	time_of_day	Text	time-of-day	timeOfDay	pending:							The time of day the program normally runs. For example, "evenings".
+PathologyTest	tissue_sample	Text	tissue-sample	tissueSample								The type of tissue sample required for the test.
+JobPosting	title	Text	title	title								The title of the job.
+ParcelDelivery	tracking_number	Text	tracking-number	trackingNumber								Shipper tracking number.
+TrainTrip	train_name	Text	train-name	trainName								The name of the train (e.g. The Orient Express).
+TrainTrip	train_number	Text	train-number	trainNumber								The unique identifier for the train.
+AudioObject, VideoObject	transcript	Text	transcript	transcript								If this MediaObject is an AudioObject or VideoObject, the transcript of that object.
+DeliveryTimeSettings, OfferShippingDetails	transit_time_label	Text	transit-time-label	transitTimeLabel	pending:							Label to match an <a class="localLink" href="/OfferShippingDetails">OfferShippingDetails</a> with a <a class="localLink" href="/DeliveryTimeSettings">DeliveryTimeSettings</a> (within the context of a <a class="localLink" href="/shippingSettingsLink">shippingSettingsLink</a> cross-reference).
+InfectiousDisease	transmission_method	Text	transmission-method	transmissionMethod								How the disease spreads, either as a route or vector, for example 'direct contact', 'Aedes aegypti', etc.
+CreativeWork, Event	typical_age_range	Text	typical-age-range	typicalAgeRange								The typical expected age range, e.g. '7-9', '11-'.
+PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification	unit_text	Text	unit-text	unitText								"A string or text indicating the unit of measurement. Useful if you cannot provide a standard unit code for
+<a href='unitCode'>unitCode</a>."
+EntryPoint	url_template	Text	url-template	urlTemplate								An url template (RFC6570) that will be used to construct the target of the execution of the action.
+HyperTocEntry	utterances	Text	utterances	utterances	pending:							Text of an utterances (spoken words, lyrics etc.) that occurs at a certain section of a media object, represented as a <a class="localLink" href="/HyperTocEntry">HyperTocEntry</a>.
+PropertyValueSpecification	value_name	Text	value-name	valueName								Indicates the name of the PropertyValueSpecification to be used in URL templates and form encoding in a manner analogous to HTML's input@name.
+PropertyValueSpecification	value_pattern	Text	value-pattern	valuePattern								Specifies a regular expression for testing literal values according to the HTML spec.
+ComicIssue	variant_cover	Text	variant-cover	variantCover	https://bib.schema.org							"A description of the variant cover
+        for the issue, if the issue is a variant printing. For example, ""Bryan Hitch
+        Variant Cover"" or ""2nd Printing Variant""."
+Organization, Person	vat_id	Text	vat-id	vatID								The Value-added Tax ID of the organization or person.
+Vehicle	vehicle_configuration	Text	vehicle-configuration	vehicleConfiguration								A short text indicating the configuration of the vehicle, e.g. '5dr hatchback ST 2.5 MT 225 hp' or 'limited edition'.
+Vehicle	vehicle_identification_number	Text	vehicle-identification-number	vehicleIdentificationNumber		serialNumber						The Vehicle Identification Number (VIN) is a unique serial number used by the automotive industry to identify individual motor vehicles.
+Vehicle	vehicle_interior_color	Text	vehicle-interior-color	vehicleInteriorColor								The color or color combination of the interior of the vehicle.
+Vehicle	vehicle_interior_type	Text	vehicle-interior-type	vehicleInteriorType								The type or material of the interior of the vehicle (e.g. synthetic fabric, leather, wood, etc.). While most interior types are characterized by the material used, an interior type can also be based on vehicle usage or target audience.
+BroadcastEvent, BroadcastService, ScreeningEvent	video_format	Text	video-format	videoFormat								The type of screening or video broadcast used (e.g. IMAX, 3D, SD, HD, etc.).
+VideoObject	video_frame_size	Text	video-frame-size	videoFrameSize								The frame size of the video.
+VideoObject	video_quality	Text	video-quality	videoQuality								The quality of the video.
+JobPosting	work_hours	Text	work-hours	workHours								The typical working hours for this job (e.g. 1st shift, night shift, 8am-5pm).
+ChooseAction	action_option	Text, Thing	action-option	actionOption		object				option		A sub property of object. The options subject to this action.
+PropertyValueSpecification	default_value	Text, Thing	default-value	defaultValue								The default value of the input.  For properties that expect a literal, the default is a literal value, for properties that expect an object, it's an ID reference to one of the current values.
+ChooseAction	option	Text, Thing	option	option		object					actionOption	A sub property of object. The options subject to this action.
+LoanOrCredit	required_collateral	Text, Thing	required-collateral	requiredCollateral								Assets required to secure loan or credit repayments. It may take form of third party pledge, goods, financial instruments (cash, securities, etc.)
+VideoGame, VideoGameSeries	game_platform	Text, Thing, URL	game-platform	gamePlatform								The electronic systems used to play <a href="http://en.wikipedia.org/wiki/Category:Video_game_platforms">video games</a>.
+Organization, Person	knows_about	Text, Thing, URL	knows-about	knowsAbout	pending:							Of a <a class="localLink" href="/Person">Person</a>, and less typically of an <a class="localLink" href="/Organization">Organization</a>, to indicate a topic that is known about - suggesting possible expertise but not implying it. We do not distinguish skill levels here, or relate this to educational content, events, objectives or <a class="localLink" href="/JobPosting">JobPosting</a> descriptions.
+SoftwareApplication	application_category	Text, URL	application-category	applicationCategory								Type of software application, e.g. 'Game, Multimedia'.
+SoftwareApplication	application_sub_category	Text, URL	application-sub-category	applicationSubCategory								Subcategory of the application, e.g. 'Arcade Game'.
+VisualArtwork	art_medium	Text, URL	art-medium	artMedium		material						The material used. (E.g. Oil, Watercolour, Acrylic, Linoprint, Marble, Cyanotype, Digital, Lithograph, DryPoint, Intaglio, Pastel, Woodcut, Pencil, Mixed Media, etc.)
+VisualArtwork	artform	Text, URL	artform	artform								e.g. Painting, Drawing, Sculpture, Print, Photograph, Assemblage, Collage, etc.
+VisualArtwork	artwork_surface	Text, URL	artwork-surface	artworkSurface						surface		The supporting materials for the artwork, e.g. Canvas, Paper, Wood, Board, etc.
+Demand, Offer, Product	asin	Text, URL	asin	asin	pending:	identifier						"An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization (summary from <a href=""https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number"">Wikipedia</a>'s article).<br/><br/>
+
+Note also that this is a definition for how to include ASINs in Schema.org data, and not a definition of ASINs in general - see documentation from Amazon for authoritative details.
+ASINs are most commonly encoded as text strings, but the [asin] property supports URL/URI as potential values too."
+BankAccount	bank_account_type	Text, URL	bank-account-type	bankAccountType	pending:							The type of a bank account.
+CourseInstance	course_mode	Text, URL	course-mode	courseMode								The medium or means of delivery of the course instance or the mode of study, either as a text label (e.g. "online", "onsite" or "blended"; "synchronous" or "asynchronous"; "full-time" or "part-time") or as a URL reference to a term from a controlled vocabulary (e.g. https://ceds.ed.gov/element/001311#Asynchronous).
+CreativeWork	edit_eidr	Text, URL	edit-eidr	editEIDR	pending:	identifier						"An <a href=""https://eidr.org/"">EIDR</a> (Entertainment Identifier Registry) <a class=""localLink"" href=""/identifier"">identifier</a> representing a specific edit / edition for a work of film or television.<br/><br/>
+
+For example, the motion picture known as ""Ghostbusters"" whose <a class=""localLink"" href=""/titleEIDR"">titleEIDR</a> is ""10.5240/7EC7-228A-510A-053E-CBB8-J"" has several edits, e.g. ""10.5240/1F2A-E1C5-680A-14C6-E76B-I"" and ""10.5240/8A35-3BEE-6497-5D12-9E4F-3"".<br/><br/>
+
+Since schema.org types like <a class=""localLink"" href=""/Movie"">Movie</a> and <a class=""localLink"" href=""/TVEpisode"">TVEpisode</a> can be used for both works and their multiple expressions, it is possible to use <a class=""localLink"" href=""/titleEIDR"">titleEIDR</a> alone (for a general description), or alongside <a class=""localLink"" href=""/editEIDR"">editEIDR</a> for a more edit-specific description."
+EducationalOccupationalProgram	educational_program_mode	Text, URL	educational-program-mode	educationalProgramMode	pending:							Similar to courseMode, the medium or means of delivery of the program as a whole. The value may either be a text label (e.g. "online", "onsite" or "blended"; "synchronous" or "asynchronous"; "full-time" or "part-time") or a URL reference to a term from a controlled vocabulary (e.g. https://ceds.ed.gov/element/001311#Asynchronous ).
+CreativeWork, MediaObject	encoding_format	Text, URL	encoding-format	encodingFormat						fileFormat		"Media type typically expressed using a MIME format (see <a href=""http://www.iana.org/assignments/media-types/media-types.xhtml"">IANA site</a> and <a href=""https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types"">MDN reference</a>), e.g. application/zip for a SoftwareApplication binary, audio/mpeg for .mp3 etc.<br/><br/>
+
+In cases where a <a class=""localLink"" href=""/CreativeWork"">CreativeWork</a> has several media type representations, <a class=""localLink"" href=""/encoding"">encoding</a> can be used to indicate each <a class=""localLink"" href=""/MediaObject"">MediaObject</a> alongside particular <a class=""localLink"" href=""/encodingFormat"">encodingFormat</a> information.<br/><br/>
+
+Unregistered or niche encoding and file formats can be indicated instead via the most appropriate URL, e.g. defining Web page or a Wikipedia/Wikidata entry."
+SoftwareApplication	feature_list	Text, URL	feature-list	featureList								Features or modules provided by this application (and possibly required by other applications).
+FinancialProduct, FinancialService	fees_and_commissions_specification	Text, URL	fees-and-commissions-specification	feesAndCommissionsSpecification								Description of fees, commissions, and other terms applied either to a class of financial product, or by a financial service organization.
+CreativeWork	file_format	Text, URL	file-format	fileFormat							encodingFormat	Media type, typically MIME format (see <a href="http://www.iana.org/assignments/media-types/media-types.xhtml">IANA site</a>) of the content, e.g. application/zip of a SoftwareApplication binary. In cases where a CreativeWork has several media type representations, 'encoding' can be used to indicate each MediaObject alongside particular fileFormat information. Unregistered or niche file formats can be indicated instead via the most appropriate URL, e.g. defining Web page or a Wikipedia entry.
+BroadcastChannel, CreativeWork, MusicGroup	genre	Text, URL	genre	genre				legislationType				Genre of the creative work, broadcast channel or group.
+Demand, Offer, Product	gtin	Text, URL	gtin	gtin	pending:	identifier		gtin12, gtin13, gtin14, gtin8				"A Global Trade Item Number (<a href=""https://www.gs1.org/standards/id-keys/gtin"">GTIN</a>). GTINs identify trade items, including products and services, using numeric identification codes.<br/><br/>
+
+The GS1 <a href=""https://www.gs1.org/standards/Digital-Link/"">digital link specifications</a> express GTINs as URLs (URIs, IRIs, etc.). Details including regular expression examples can be found in, Section 6 of the GS1 URI Syntax specification; see also <a href=""https://github.com/schemaorg/schemaorg/issues/3156#issuecomment-1209522809"">schema.org tracking issue</a> for schema.org-specific discussion. A correct <a class=""localLink"" href=""/gtin"">gtin</a> value should be a valid GTIN, which means that it should be an all-numeric string of either 8, 12, 13 or 14 digits, or a ""GS1 Digital Link"" URL based on such a string. The numeric component should also have a <a href=""https://www.gs1.org/services/check-digit-calculator"">valid GS1 check digit</a> and meet the other rules for valid GTINs. See also <a href=""http://www.gs1.org/barcodes/technical/idkeys/gtin"">GS1's GTIN Summary</a> and <a href=""https://en.wikipedia.org/wiki/Global_Trade_Item_Number"">Wikipedia</a> for more details. Left-padding of the gtin values is not required or encouraged. The <a class=""localLink"" href=""/gtin"">gtin</a> property generalizes the earlier <a class=""localLink"" href=""/gtin8"">gtin8</a>, <a class=""localLink"" href=""/gtin12"">gtin12</a>, <a class=""localLink"" href=""/gtin13"">gtin13</a>, and <a class=""localLink"" href=""/gtin14"">gtin14</a> properties.<br/><br/>
+
+Note also that this is a definition for how to include GTINs in Schema.org data, and not a definition of GTINs in general - see the GS1 documentation for authoritative details."
+Legislation	legislation_identifier	Text, URL	legislation-identifier	legislationIdentifier	pending:	identifier						An identifier for the legislation. This can be either a string-based identifier, like the CELEX at EU level or the NOR in France, or a web-based, URL/URI identifier, like an ELI (European Legislation Identifier) or an URN-Lex.
+LoanOrCredit	loan_type	Text, URL	loan-type	loanType	pending:							The type of a loan or credit.
+DataCatalog, DataDownload, Dataset, PropertyValue	measurement_technique	Text, URL	measurement-technique	measurementTechnique	pending:							"A technique or technology used in a <a class=""localLink"" href=""/Dataset"">Dataset</a> (or <a class=""localLink"" href=""/DataDownload"">DataDownload</a>, <a class=""localLink"" href=""/DataCatalog"">DataCatalog</a>),
+corresponding to the method used for measuring the corresponding variable(s) (described using <a class=""localLink"" href=""/variableMeasured"">variableMeasured</a>). This is oriented towards scientific and scholarly dataset publication but may have broader applicability; it is not intended as a full representation of measurement, but rather as a high level summary for dataset discovery.<br/><br/>
+
+For example, if <a class=""localLink"" href=""/variableMeasured"">variableMeasured</a> is: molecule concentration, <a class=""localLink"" href=""/measurementTechnique"">measurementTechnique</a> could be: ""mass spectrometry"" or ""nmr spectroscopy"" or ""colorimetry"" or ""immunofluorescence"".<br/><br/>
+
+If the <a class=""localLink"" href=""/variableMeasured"">variableMeasured</a> is ""depression rating"", the <a class=""localLink"" href=""/measurementTechnique"">measurementTechnique</a> could be ""Zung Scale"" or ""HAM-D"" or ""Beck Depression Inventory"".<br/><br/>
+
+If there are several <a class=""localLink"" href=""/variableMeasured"">variableMeasured</a> properties recorded for some given data object, use a <a class=""localLink"" href=""/PropertyValue"">PropertyValue</a> for each <a class=""localLink"" href=""/variableMeasured"">variableMeasured</a> and attach the corresponding <a class=""localLink"" href=""/measurementTechnique"">measurementTechnique</a>."
+SoftwareApplication	memory_requirements	Text, URL	memory-requirements	memoryRequirements								Minimum memory requirements.
+Role	named_position	Text, URL	named-position	namedPosition							roleName	A position played, performed or filled by a person or organization, as part of an organization. For example, an athlete in a SportsTeam might play in the position named 'Quarterback'.
+PropertyValue	property_id	Text, URL	property-id	propertyID								"A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be
+(1) a prefixed string, mainly meant to be used with standards for product properties; (2) a site-specific, non-prefixed string (e.g. the primary key of the property or the vendor-specific ID of the property), or (3)
+a URL indicating the type of the property, either pointing to an external vocabulary, or a Web resource that describes the property (e.g. a glossary entry).
+Standards bodies should promote a standard prefix for the identifiers of properties from their standards."
+SoftwareApplication	release_notes	Text, URL	release-notes	releaseNotes								Description of what changed in this version.
+SoftwareApplication	requirements	Text, URL	requirements	requirements							softwareRequirements	Component dependency requirements for application. This includes runtime environments and shared libraries that are not included in the application distribution package, but required to run the application (examples: DirectX, Java or .NET runtime).
+Role	role_name	Text, URL	role-name	roleName						namedPosition		A role played, performed or filled by a person or organization. For example, the team of creators for a comic book might fill the roles named 'inker', 'penciller', and 'letterer'; or an athlete in a SportsTeam might play in the position named 'Quarterback'.
+CreativeWork	schema_version	Text, URL	schema-version	schemaVersion								"Indicates (by URL or string) a particular version of a schema used in some CreativeWork. This property was created primarily to
+    indicate the use of a specific schema.org release, e.g. <code>10.0</code> as a simple string, or more explicitly via URL, <code>docs/releases.html#v10.0</code>. There may be situations in which other schemas might usefully be referenced this way, e.g. <code>http://dublincore.org/specifications/dublin-core/dces/1999-07-02/</code> but this has not been carefully explored in the community."
+JobPosting	security_clearance_requirement	Text, URL	security-clearance-requirement	securityClearanceRequirement	pending:							A description of any security clearance requirements of the job.
+SoftwareApplication	software_requirements	Text, URL	software-requirements	softwareRequirements						requirements		Component dependency requirements for application. This includes runtime environments and shared libraries that are not included in the application distribution package, but required to run the application (examples: DirectX, Java or .NET runtime).
+SportsEvent, SportsOrganization	sport	Text, URL	sport	sport	pending:							A type of sport (e.g. Baseball).
+SoftwareApplication	storage_requirements	Text, URL	storage-requirements	storageRequirements								Storage requirements (free space required).
+VisualArtwork	surface	Text, URL	surface	surface		material					artworkSurface	A material used as a surface in some artwork, e.g. Canvas, Paper, Wood, Board, etc.
+Service	terms_of_service	Text, URL	terms-of-service	termsOfService	pending:							Human-readable terms of service documentation.
+Ticket	ticket_token	Text, URL	ticket-token	ticketToken								Reference to an asset (e.g., Barcode, QR code image or PDF) usable for entrance.
+Movie, TVEpisode	title_eidr	Text, URL	title-eidr	titleEIDR	pending:	identifier						"An <a href=""https://eidr.org/"">EIDR</a> (Entertainment Identifier Registry) <a class=""localLink"" href=""/identifier"">identifier</a> representing at the most general/abstract level, a work of film or television.<br/><br/>
+
+For example, the motion picture known as ""Ghostbusters"" has a titleEIDR of  ""10.5240/7EC7-228A-510A-053E-CBB8-J"". This title (or work) may have several variants, which EIDR calls ""edits"". See <a class=""localLink"" href=""/editEIDR"">editEIDR</a>.<br/><br/>
+
+Since schema.org types like <a class=""localLink"" href=""/Movie"">Movie</a> and <a class=""localLink"" href=""/TVEpisode"">TVEpisode</a> can be used for both works and their multiple expressions, it is possible to use <a class=""localLink"" href=""/titleEIDR"">titleEIDR</a> alone (for a general description), or alongside <a class=""localLink"" href=""/editEIDR"">editEIDR</a> for a more edit-specific description."
+PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification	unit_code	Text, URL	unit-code	unitCode								The unit of measurement given using the UN/CEFACT Common Code (3 characters) or a URL. Other codes than the UN/CEFACT Common Code may be used with a prefix followed by a colon.
+HealthInsurancePlan	uses_health_plan_id_standard	Text, URL	uses-health-plan-id-standard	usesHealthPlanIdStandard	pending:							The standard for interpreting the Plan ID. The preferred is "HIOS". See the Centers for Medicare &amp; Medicaid Services for more details.
+Drug	warning	Text, URL	warning	warning								Any FDA or other warnings about the drug (text or URL).
