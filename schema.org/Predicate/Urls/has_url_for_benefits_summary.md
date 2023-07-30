@@ -35,8 +35,8 @@ Predicate to specify the Url of HealthInsurancePlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/url/_for_benefits_summary_url :: URL ] or 
-- [ has_url_for_benefits_summary_url :: URL ] 
+- [ #has_/url/_for_benefits_summary:: URL ] or 
+- [ has_url_for_benefits_summary :: URL ] 
 
 The URL that goes directly to the summary of benefits and coverage for the specific standard plan or plan variation.
 

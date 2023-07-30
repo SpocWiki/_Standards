@@ -33,8 +33,8 @@ aliases:
 Predicate to specify the Url of CreativeWork.
 
 Use it like this: 
-- [ #has_/url/_for_thumbnail_url :: URL ] or 
-- [ has_url_for_thumbnail_url :: URL ] 
+- [ #has_/url/_for_thumbnail :: URL ] or 
+- [ has_url_for_thumbnail :: URL ] 
 
 A thumbnail image relevant to the Thing.
 

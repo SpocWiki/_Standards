@@ -33,8 +33,8 @@ aliases:
 Predicate to specify the Url of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/url/_for_download_url :: URL ] or 
-- [ has_url_for_download_url :: URL ] 
+- [ #has_/url/_for_download :: URL ] or 
+- [ has_url_for_download :: URL ] 
 
 If the file can be downloaded, URL to download the binary.
 

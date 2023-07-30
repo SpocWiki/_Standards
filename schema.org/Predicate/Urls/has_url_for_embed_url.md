@@ -33,8 +33,8 @@ aliases:
 Predicate to specify the Url of MediaObject.
 
 Use it like this: 
-- [ #has_/url/_for_embed_url :: URL ] or 
-- [ has_url_for_embed_url :: URL ] 
+- [ #has_/url/_for_embed :: URL ] or 
+- [ has_url_for_embed :: URL ] 
 
 A URL pointing to a player for a specific video. In general, this is the information in the &lt;code&gt;src&lt;/code&gt; element of an &lt;code&gt;embed&lt;/code&gt; tag and should not be the same as the content of the &lt;code&gt;loc&lt;/code&gt; tag.
 

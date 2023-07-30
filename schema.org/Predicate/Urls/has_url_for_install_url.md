@@ -33,8 +33,8 @@ aliases:
 Predicate to specify the Url of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/url/_for_install_url :: URL ] or 
-- [ has_url_for_install_url :: URL ] 
+- [ #has_/url/_for_install :: URL ] or 
+- [ has_url_for_install :: URL ] 
 
 URL at which the app may be installed, if different from the URL of the item.
 

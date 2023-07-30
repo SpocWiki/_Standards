@@ -33,8 +33,8 @@ aliases:
 Predicate to specify the Url of AlignmentObject.
 
 Use it like this: 
-- [ #has_/url/_for_target_url :: URL ] or 
-- [ has_url_for_target_url :: URL ] 
+- [ #has_/url/_for_target :: URL ] or 
+- [ has_url_for_target :: URL ] 
 
 The URL of a node in an established educational framework.
 

@@ -33,8 +33,8 @@ aliases:
 Predicate to specify the Url of Order.
 
 Use it like this: 
-- [ #has_/url/_for_payment_url :: URL ] or 
-- [ has_url_for_payment_url :: URL ] 
+- [ #has_/url/_for_payment :: URL ] or 
+- [ has_url_for_payment :: URL ] 
 
 The URL for sending a payment.
 

@@ -33,8 +33,8 @@ aliases:
 Predicate to specify the Url of Thing.
 
 Use it like this: 
-- [ #has_/url/_for_url :: URL ] or 
-- [ has_url_for_url :: URL ] 
+- [ #has_/url/_for :: URL ] or 
+- [ has_url_for :: URL ] 
 
 URL of the item.
 

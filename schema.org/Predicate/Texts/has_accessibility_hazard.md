@@ -36,7 +36,9 @@ Use it like this:
 - [ #has_/text/_about_accessibility_hazard :: Text ] or 
 - [ has_text_about_accessibility_hazard :: Text ] 
 
-A characteristic of the described resource that is physiologically dangerous to some users. Related to WCAG 2.0 guideline 2.3. Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityHazard-vocabulary).
+A characteristic of the described resource that is physiologically dangerous to some users. 
+Related to WCAG 2.0 guideline 2.3. 
+Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityHazard-vocabulary).
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]

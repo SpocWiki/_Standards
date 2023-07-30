@@ -33,8 +33,8 @@ aliases:
 Predicate to specify the Url of CreativeWork.
 
 Use it like this: 
-- [ #has_/url/_for_discussion_url :: URL ] or 
-- [ has_url_for_discussion_url :: URL ] 
+- [ #has_/url/_for_discussion :: URL ] or 
+- [ has_url_for_discussion :: URL ] 
 
 A link to the page containing the comments of the CreativeWork.
 
