@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [ #has_/text/_about_dateline :: Text ] or 
+- [ #has_/text_about_/dateline :: Text ] or 
 - [ has_text_about_dateline :: Text ] 
 
 A [dateline](https://en.wikipedia.org/wiki/Dateline) is a brief piece of text included in news articles that describes where and when the story was written or filed though the date is often omitted. Sometimes only a placename is provided.&lt;br/&gt;&lt;br/&gt;

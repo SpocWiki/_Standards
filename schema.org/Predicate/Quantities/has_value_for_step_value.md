@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of PropertyValueSpecification.
 
 Use it like this: 
-- [ #has_/value/_for_step_value :: Number ] or 
+- [ #has_/value_for_/step_value :: Number ] or 
 - [ has_value_for_step_value :: Number ] 
 
 The stepValue attribute indicates the granularity that is expected (and required) of the value in a PropertyValueSpecification.

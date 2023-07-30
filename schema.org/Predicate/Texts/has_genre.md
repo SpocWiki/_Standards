@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of BroadcastChannel, CreativeWork, MusicGroup.
 
 Use it like this: 
-- [ #has_/text/_about_genre :: Text, URL ] or 
+- [ #has_/text_about_/genre :: Text, URL ] or 
 - [ has_text_about_genre :: Text, URL ] 
 
 Genre of the creative work, broadcast channel or group.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of LodgingReservation.
 
 Use it like this: 
-- [ #has_/text/_about_lodging_unit_description :: Text ] or 
+- [ #has_/text_about_/lodging_unit_description :: Text ] or 
 - [ has_text_about_lodging_unit_description :: Text ] 
 
 A full description of the lodging unit.

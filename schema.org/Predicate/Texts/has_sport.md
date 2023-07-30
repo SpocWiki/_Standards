@@ -35,7 +35,7 @@ Predicate to describe the Text of SportsEvent, SportsOrganization.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_sport :: Text, URL ] or 
+- [ #has_/text_about_/sport :: Text, URL ] or 
 - [ has_text_about_sport :: Text, URL ] 
 
 A type of sport (e.g. Baseball).

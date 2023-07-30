@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [ #has_/text/_about_alternate_name :: Text ] or 
+- [ #has_/text_about_/alternate_name :: Text ] or 
 - [ has_text_about_alternate_name :: Text ] 
 
 An alias for the item.

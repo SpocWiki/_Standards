@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Audience.
 
 Use it like this: 
-- [ #has_/text/_about_audience_type :: Text ] or 
+- [ #has_/text_about_/audience_type :: Text ] or 
 - [ has_text_about_audience_type :: Text ] 
 
 The target group associated with a given audience (e.g. veterans, car owners, musicians, etc.).

@@ -35,7 +35,7 @@ Predicate to specify the Url of Accommodation, ApartmentComplex, Place.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/url/_for_tour_booking_page :: URL ] or 
+- [ #has_/url_for_/tour_booking_page :: URL ] or 
 - [ has_url_for_tour_booking_page :: URL ] 
 
 A page providing information on how to book a tour of some [[Place]], such as an [[Accommodation]] or [[ApartmentComplex]] in a real estate setting, as well as other kinds of tours as appropriate.

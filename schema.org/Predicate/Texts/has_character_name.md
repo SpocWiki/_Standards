@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of PerformanceRole.
 
 Use it like this: 
-- [ #has_/text/_about_character_name :: Text ] or 
+- [ #has_/text_about_/character_name :: Text ] or 
 - [ has_text_about_character_name :: Text ] 
 
 The name of a character played in some acting or performing role, i.e. in a PerformanceRole.

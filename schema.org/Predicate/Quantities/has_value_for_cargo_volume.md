@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [ #has_/value/_for_cargo_volume :: QuantitativeValue ] or 
+- [ #has_/value_for_/cargo_volume :: QuantitativeValue ] or 
 - [ has_value_for_cargo_volume :: QuantitativeValue ] 
 
 The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.&lt;br/&gt;&lt;br/&gt;

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Invoice, Order.
 
 Use it like this: 
-- [ #has_/text/_about_confirmation_number :: Text ] or 
+- [ #has_/text_about_/confirmation_number :: Text ] or 
 - [ has_text_about_confirmation_number :: Text ] 
 
 A number that confirms the given order or payment has been received.

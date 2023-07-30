@@ -33,7 +33,7 @@ aliases:
 Predicate to specify the Url of WebPage.
 
 Use it like this: 
-- [ #has_/url/_for_related_link :: URL ] or 
+- [ #has_/url_for_/related_link :: URL ] or 
 - [ has_url_for_related_link :: URL ] 
 
 A link related to this web page, for example to other related web pages.

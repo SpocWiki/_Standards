@@ -35,7 +35,7 @@ Predicate to describe the Text of MolecularEntity.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_smiles :: Text ] or 
+- [ #has_/text_about_/smiles :: Text ] or 
 - [ has_text_about_smiles :: Text ] 
 
 A specification in form of a line notation for describing the structure of chemical species using short ASCII strings.  Double bond stereochemistry \ indicators may need to be escaped in the string in formats where the backslash is an escape character.

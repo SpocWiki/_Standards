@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text/_about_given_name :: Text ] or 
+- [ #has_/text_about_/given_name :: Text ] or 
 - [ has_text_about_given_name :: Text ] 
 
 Given name. In the U.S., the first name of a Person.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- [ #has_/text/_about_boarding_group :: Text ] or 
+- [ #has_/text_about_/boarding_group :: Text ] or 
 - [ has_text_about_boarding_group :: Text ] 
 
 The airline-specific indicator of boarding order / preference.

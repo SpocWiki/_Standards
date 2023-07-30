@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of PropertyValueSpecification.
 
 Use it like this: 
-- [ #has_/text/_about_value_name :: Text ] or 
+- [ #has_/text_about_/value_name :: Text ] or 
 - [ has_text_about_value_name :: Text ] 
 
 Indicates the name of the PropertyValueSpecification to be used in URL templates and form encoding in a manner analogous to HTML"s input@name.

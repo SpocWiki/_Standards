@@ -35,7 +35,7 @@ Predicate to describe the Text of Organization.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_iso6523code :: Text ] or 
+- [ #has_/text_about_/iso6523code :: Text ] or 
 - [ has_text_about_iso6523code :: Text ] 
 
 An organization identifier as defined in ISO 6523(-1). Note that many existing organization identifiers such as [leiCode](leiCode), [duns](duns) and [vatID](vatID) can be expressed as an ISO 6523 identifier by setting the ICD part of the ISO 6523 identifier accordingly.

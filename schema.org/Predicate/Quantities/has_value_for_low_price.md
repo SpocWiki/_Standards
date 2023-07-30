@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of AggregateOffer.
 
 Use it like this: 
-- [ #has_/value/_for_low_price :: Number, Text ] or 
+- [ #has_/value_for_/low_price :: Number, Text ] or 
 - [ has_value_for_low_price :: Number, Text ] 
 
 The lowest price of all offers available.&lt;br/&gt;&lt;br/&gt;

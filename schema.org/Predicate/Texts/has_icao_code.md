@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Airport.
 
 Use it like this: 
-- [ #has_/text/_about_icao_code :: Text ] or 
+- [ #has_/text_about_/icao_code :: Text ] or 
 - [ has_text_about_icao_code :: Text ] 
 
 ICAO identifier for an airport.

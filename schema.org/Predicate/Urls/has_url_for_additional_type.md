@@ -33,7 +33,7 @@ aliases:
 Predicate to specify the Url of Thing.
 
 Use it like this: 
-- [ #has_/url/_for_additional_type :: URL ] or 
+- [ #has_/url_for_/additional_type :: URL ] or 
 - [ has_url_for_additional_type :: URL ] 
 
 An additional type for the item, typically used for adding more specific types from external vocabularies in microdata syntax. This is a relationship between something and a class that the thing is in. In RDFa syntax, it is better to use the native RDFa syntax - the &#x27;typeof&#x27; attribute - for multiple types. Schema.org tools may have only weaker understanding of extra types, in particular those defined externally.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [ #has_/text/_about_recipe_category :: Text ] or 
+- [ #has_/text_about_/recipe_category :: Text ] or 
 - [ has_text_about_recipe_category :: Text ] 
 
 The category of the recipeï¿½for example, appetizer, entree, etc.

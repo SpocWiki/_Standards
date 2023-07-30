@@ -35,7 +35,7 @@ Predicate to describe the Text of ChemicalSubstance.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_chemical_composition :: Text ] or 
+- [ #has_/text_about_/chemical_composition :: Text ] or 
 - [ has_text_about_chemical_composition :: Text ] 
 
 The chemical composition describes the identity and relative ratio of the chemical elements that make up the substance.

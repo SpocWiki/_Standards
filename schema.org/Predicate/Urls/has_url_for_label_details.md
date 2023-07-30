@@ -33,7 +33,7 @@ aliases:
 Predicate to specify the Url of Drug.
 
 Use it like this: 
-- [ #has_/url/_for_label_details :: URL ] or 
+- [ #has_/url_for_/label_details :: URL ] or 
 - [ has_url_for_label_details :: URL ] 
 
 Link to the drug&#x27;s label details.

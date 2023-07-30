@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of InfectiousDisease.
 
 Use it like this: 
-- [ #has_/text/_about_infectious_agent :: Text ] or 
+- [ #has_/text_about_/infectious_agent :: Text ] or 
 - [ has_text_about_infectious_agent :: Text ] 
 
 The actual infectious agent, such as a specific bacterium.

@@ -35,7 +35,7 @@ Predicate to describe the Text of Accommodation.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_accommodation_category :: Text ] or 
+- [ #has_/text_about_/accommodation_category :: Text ] or 
 - [ has_text_about_accommodation_category :: Text ] 
 
 Category of an [[Accommodation]], following real estate conventions, e.g. RESO (see [PropertySubType](https://ddwiki.reso.org/display/DDW17/PropertySubType+Field), and [PropertyType](https://ddwiki.reso.org/display/DDW17/PropertyType+Field) fields  for suggested values).

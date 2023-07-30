@@ -33,7 +33,7 @@ aliases:
 Predicate to specify the Url of Thing.
 
 Use it like this: 
-- [ #has_/url/_for_same_as :: URL ] or 
+- [ #has_/url_for_/same_as :: URL ] or 
 - [ has_url_for_same_as :: URL ] 
 
 URL of a reference Web page that unambiguously indicates the item&#x27;s identity. E.g. the URL of the item&#x27;s Wikipedia page, Wikidata entry, or official website.

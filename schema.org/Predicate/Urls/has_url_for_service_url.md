@@ -33,7 +33,7 @@ aliases:
 Predicate to specify the Url of ServiceChannel.
 
 Use it like this: 
-- [ #has_/url/_for_service :: URL ] or 
+- [ #has_/url_for_/service :: URL ] or 
 - [ has_url_for_service :: URL ] 
 
 The website to access the service.

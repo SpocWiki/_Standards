@@ -33,7 +33,7 @@ aliases:
 Predicate to specify the Url of MediaObject.
 
 Use it like this: 
-- [ #has_/url/_for_content :: URL ] or 
+- [ #has_/url_for_/content :: URL ] or 
 - [ has_url_for_content :: URL ] 
 
 Actual bytes of the media object, for example the image file or video file.

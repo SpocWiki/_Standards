@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Brand, Organization, Place, Product, Service.
 
 Use it like this: 
-- [ #has_/text/_about_slogan :: Text ] or 
+- [ #has_/text_about_/slogan :: Text ] or 
 - [ has_text_about_slogan :: Text ] 
 
 A slogan or motto associated with the item.

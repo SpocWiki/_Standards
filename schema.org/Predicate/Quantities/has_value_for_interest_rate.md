@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of FinancialProduct.
 
 Use it like this: 
-- [ #has_/value/_for_interest_rate :: Number, QuantitativeValue ] or 
+- [ #has_/value_for_/interest_rate :: Number, QuantitativeValue ] or 
 - [ has_value_for_interest_rate :: Number, QuantitativeValue ] 
 
 The interest rate, charged or paid, applicable to the financial product. Note: This is different from the calculated annualPercentageRate.

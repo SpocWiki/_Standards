@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification.
 
 Use it like this: 
-- [ #has_/text/_about_unit_text :: Text ] or 
+- [ #has_/text_about_/unit_text :: Text ] or 
 - [ has_text_about_unit_text :: Text ] 
 
 A string or text indicating the unit of measurement. Useful if you cannot provide a standard unit code for

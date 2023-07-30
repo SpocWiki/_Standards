@@ -35,7 +35,7 @@ Predicate to describe the Text of Demand, Offer, Product.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_asin :: Text, URL ] or 
+- [ #has_/text_about_/asin :: Text, URL ] or 
 - [ has_text_about_asin :: Text, URL ] 
 
 An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization (summary from [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number)"s article).&lt;br/&gt;&lt;br/&gt;

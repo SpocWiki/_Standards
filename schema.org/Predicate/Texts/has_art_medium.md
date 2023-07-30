@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- [ #has_/text/_about_art_medium :: Text, URL ] or 
+- [ #has_/text_about_/art_medium :: Text, URL ] or 
 - [ has_text_about_art_medium :: Text, URL ] 
 
 The material used. (E.g. Oil, Watercolour, Acrylic, Linoprint, Marble, Cyanotype, Digital, Lithograph, DryPoint, Intaglio, Pastel, Woodcut, Pencil, Mixed Media, etc.)

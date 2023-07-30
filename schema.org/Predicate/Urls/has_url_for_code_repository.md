@@ -33,7 +33,7 @@ aliases:
 Predicate to specify the Url of SoftwareSourceCode.
 
 Use it like this: 
-- [ #has_/url/_for_code_repository :: URL ] or 
+- [ #has_/url_for_/code_repository :: URL ] or 
 - [ has_url_for_code_repository :: URL ] 
 
 Link to the repository where the un-compiled, human readable code and related code is located (SVN, GitHub, CodePlex).

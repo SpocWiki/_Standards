@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- [ #has_/text/_about_procedure :: Text ] or 
+- [ #has_/text_about_/procedure :: Text ] or 
 - [ has_text_about_procedure :: Text ] 
 
 A description of the procedure involved in setting up, using, and/or installing the device.

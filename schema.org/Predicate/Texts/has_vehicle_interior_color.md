@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [ #has_/text/_about_vehicle_interior_color :: Text ] or 
+- [ #has_/text_about_/vehicle_interior_color :: Text ] or 
 - [ has_text_about_vehicle_interior_color :: Text ] 
 
 The color or color combination of the interior of the vehicle.

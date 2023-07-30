@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [ #has_/text/_about_duns :: Text ] or 
+- [ #has_/text_about_/duns :: Text ] or 
 - [ has_text_about_duns :: Text ] 
 
 The Dun &amp;amp; Bradstreet DUNS number for identifying an organization or business person.

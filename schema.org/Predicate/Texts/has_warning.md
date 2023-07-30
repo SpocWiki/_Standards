@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text/_about_warning :: Text, URL ] or 
+- [ #has_/text_about_/warning :: Text, URL ] or 
 - [ has_text_about_warning :: Text, URL ] 
 
 Any FDA or other warnings about the drug (text or URL).

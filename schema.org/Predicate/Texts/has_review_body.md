@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Review.
 
 Use it like this: 
-- [ #has_/text/_about_review_body :: Text ] or 
+- [ #has_/text_about_/review_body :: Text ] or 
 - [ has_text_about_review_body :: Text ] 
 
 The actual body of the review.

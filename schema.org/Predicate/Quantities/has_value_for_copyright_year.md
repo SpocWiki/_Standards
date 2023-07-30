@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- [ #has_/value/_for_copyright_year :: Number ] or 
+- [ #has_/value_for_/copyright_year :: Number ] or 
 - [ has_value_for_copyright_year :: Number ] 
 
 The year during which the claimed copyright for the CreativeWork was first asserted.

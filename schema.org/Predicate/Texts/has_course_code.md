@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Course.
 
 Use it like this: 
-- [ #has_/text/_about_course_code :: Text ] or 
+- [ #has_/text_about_/course_code :: Text ] or 
 - [ has_text_about_course_code :: Text ] 
 
 The identifier for the [[Course]] used by the course [[provider]] (e.g. CS101 or 6.001).

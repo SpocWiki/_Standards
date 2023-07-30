@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text/_about_application_category :: Text, URL ] or 
+- [ #has_/text_about_/application_category :: Text, URL ] or 
 - [ has_text_about_application_category :: Text, URL ] 
 
 Type of software application, e.g. "Game, Multimedia".

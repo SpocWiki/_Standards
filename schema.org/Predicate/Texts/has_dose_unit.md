@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of DoseSchedule.
 
 Use it like this: 
-- [ #has_/text/_about_dose_unit :: Text ] or 
+- [ #has_/text_about_/dose_unit :: Text ] or 
 - [ has_text_about_dose_unit :: Text ] 
 
 The unit of the dose, e.g. "mg".

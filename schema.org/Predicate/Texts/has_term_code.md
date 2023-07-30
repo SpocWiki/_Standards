@@ -35,7 +35,7 @@ Predicate to describe the Text of DefinedTerm.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_term_code :: Text ] or 
+- [ #has_/text_about_/term_code :: Text ] or 
 - [ has_text_about_term_code :: Text ] 
 
 A code that identifies this [[DefinedTerm]] within a [[DefinedTermSet]]

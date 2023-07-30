@@ -35,7 +35,7 @@ Predicate to describe the Text of ProductGroup.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_product_group_id :: Text ] or 
+- [ #has_/text_about_/product_group_id :: Text ] or 
 - [ has_text_about_product_group_id :: Text ] 
 
 Indicates a textual identifier for a ProductGroup.

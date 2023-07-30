@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text/_about_feature_list :: Text, URL ] or 
+- [ #has_/text_about_/feature_list :: Text, URL ] or 
 - [ has_text_about_feature_list :: Text, URL ] 
 
 Features or modules provided by this application (and possibly required by other applications).

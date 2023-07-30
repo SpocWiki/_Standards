@@ -35,7 +35,7 @@ Predicate to describe the Quantity of RepaymentSpecification.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value/_for_early_prepayment_penalty :: MonetaryAmount ] or 
+- [ #has_/value_for_/early_prepayment_penalty :: MonetaryAmount ] or 
 - [ has_value_for_early_prepayment_penalty :: MonetaryAmount ] 
 
 The amount to be paid as a penalty in the event of early payment of the loan.

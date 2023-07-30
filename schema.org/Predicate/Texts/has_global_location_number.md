@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/text/_about_global_location_number :: Text ] or 
+- [ #has_/text_about_/global_location_number :: Text ] or 
 - [ has_text_about_global_location_number :: Text ] 
 
 The [Global Location Number](http://www.gs1.org/gln) (GLN, sometimes also referred to as International Location Number or ILN) of the respective organization, person, or place. The GLN is a 13-digit number used to identify parties and physical locations.

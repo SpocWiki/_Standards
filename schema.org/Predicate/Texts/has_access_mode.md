@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text/_about_access_mode :: Text ] or 
+- [ #has_/text_about_/access_mode :: Text ] or 
 - [ has_text_about_access_mode :: Text ] 
 
 The human sensory perceptual system or cognitive faculty through which a person may process or perceive information. Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessMode-vocabulary).

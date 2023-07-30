@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of FinancialProduct, FinancialService.
 
 Use it like this: 
-- [ #has_/text/_about_fees_and_commissions_specification :: Text, URL ] or 
+- [ #has_/text_about_/fees_and_commissions_specification :: Text, URL ] or 
 - [ has_text_about_fees_and_commissions_specification :: Text, URL ] 
 
 Description of fees, commissions, and other terms applied either to a class of financial product, or by a financial service organization.

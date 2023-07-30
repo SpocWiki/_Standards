@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- [ #has_/text/_about_music_composition_form :: Text ] or 
+- [ #has_/text_about_/music_composition_form :: Text ] or 
 - [ has_text_about_music_composition_form :: Text ] 
 
 The type of composition (e.g. overture, sonata, symphony, etc.).

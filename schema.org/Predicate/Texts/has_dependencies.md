@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of TechArticle.
 
 Use it like this: 
-- [ #has_/text/_about_dependencies :: Text ] or 
+- [ #has_/text_about_/dependencies :: Text ] or 
 - [ has_text_about_dependencies :: Text ] 
 
 Prerequisites needed to fulfill steps in article.

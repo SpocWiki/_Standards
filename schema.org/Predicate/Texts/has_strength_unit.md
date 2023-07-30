@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of DrugStrength.
 
 Use it like this: 
-- [ #has_/text/_about_strength_unit :: Text ] or 
+- [ #has_/text_about_/strength_unit :: Text ] or 
 - [ has_text_about_strength_unit :: Text ] 
 
 The units of an active ingredient"s strength, e.g. mg.

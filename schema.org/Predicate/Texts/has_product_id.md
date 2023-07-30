@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Product.
 
 Use it like this: 
-- [ #has_/text/_about_product_id :: Text ] or 
+- [ #has_/text_about_/product_id :: Text ] or 
 - [ has_text_about_product_id :: Text ] 
 
 The product identifier, such as ISBN. For example: &lt;code&gt;meta itemprop="productID" content="isbn:123-456-789"&lt;/code&gt;.

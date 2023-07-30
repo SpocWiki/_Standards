@@ -35,7 +35,7 @@ Predicate to describe the Text of CreativeWork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_edit_eidr :: Text, URL ] or 
+- [ #has_/text_about_/edit_eidr :: Text, URL ] or 
 - [ has_text_about_edit_eidr :: Text, URL ] 
 
 An [EIDR](https://eidr.org/) (Entertainment Identifier Registry) [[identifier]] representing a specific edit / edition for a work of film or television.&lt;br/&gt;&lt;br/&gt;

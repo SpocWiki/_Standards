@@ -35,7 +35,7 @@ Predicate to describe the Text of PronounceableText.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_speech_to_text_markup :: Text ] or 
+- [ #has_/text_about_/speech_to_text_markup :: Text ] or 
 - [ has_text_about_speech_to_text_markup :: Text ] 
 
 Form of markup used. eg. [SSML](https://www.w3.org/TR/speech-synthesis11) or [IPA](https://www.wikidata.org/wiki/Property:P898).

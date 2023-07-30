@@ -33,7 +33,7 @@ aliases:
 Predicate to specify the Url of ParcelDelivery.
 
 Use it like this: 
-- [ #has_/url/_for_tracking :: URL ] or 
+- [ #has_/url_for_/tracking :: URL ] or 
 - [ has_url_for_tracking :: URL ] 
 
 Tracking url for the parcel delivery.

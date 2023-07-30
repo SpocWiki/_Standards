@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- [ #has_/text/_about_iswc_code :: Text ] or 
+- [ #has_/text_about_/iswc_code :: Text ] or 
 - [ has_text_about_iswc_code :: Text ] 
 
 The International Standard Musical Work Code for the composition.

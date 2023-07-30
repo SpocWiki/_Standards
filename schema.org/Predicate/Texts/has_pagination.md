@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Article, Chapter, PublicationIssue, PublicationVolume.
 
 Use it like this: 
-- [ #has_/text/_about_pagination :: Text ] or 
+- [ #has_/text_about_/pagination :: Text ] or 
 - [ has_text_about_pagination :: Text ] 
 
 Any description of pages that is not separated into pageStart and pageEnd; for example, "1-6, 9, 55" or "10-12, 46-49".

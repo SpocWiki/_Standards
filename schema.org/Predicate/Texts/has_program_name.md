@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of ProgramMembership.
 
 Use it like this: 
-- [ #has_/text/_about_program_name :: Text ] or 
+- [ #has_/text_about_/program_name :: Text ] or 
 - [ has_text_about_program_name :: Text ] 
 
 The program providing the membership.

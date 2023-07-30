@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of AlignmentObject.
 
 Use it like this: 
-- [ #has_/text/_about_alignment_type :: Text ] or 
+- [ #has_/text_about_/alignment_type :: Text ] or 
 - [ has_text_about_alignment_type :: Text ] 
 
 A category of alignment between the learning resource and the framework node. Recommended values include: "requires", "textComplexity", "readingLevel", and "educationalSubject".

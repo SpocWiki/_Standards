@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text/_about_additional_name :: Text ] or 
+- [ #has_/text_about_/additional_name :: Text ] or 
 - [ has_text_about_additional_name :: Text ] 
 
 An additional name for a Person, can be used for a middle name.

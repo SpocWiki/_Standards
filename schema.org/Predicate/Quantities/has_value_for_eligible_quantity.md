@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Demand, Offer, PriceSpecification.
 
 Use it like this: 
-- [ #has_/value/_for_eligible_quantity :: QuantitativeValue ] or 
+- [ #has_/value_for_/eligible_quantity :: QuantitativeValue ] or 
 - [ has_value_for_eligible_quantity :: QuantitativeValue ] 
 
 The interval and unit of measurement of ordering quantities for which the offer or price specification is valid. This allows e.g. specifying that a certain freight charge is valid only for a certain quantity.

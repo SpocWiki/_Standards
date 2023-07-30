@@ -35,7 +35,7 @@ Predicate to describe the Text of HealthInsurancePlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_health_plan_id :: Text ] or 
+- [ #has_/text_about_/health_plan_id :: Text ] or 
 - [ has_text_about_health_plan_id :: Text ] 
 
 The 14-character, HIOS-generated Plan ID number. (Plan IDs must be unique, even across different markets.)

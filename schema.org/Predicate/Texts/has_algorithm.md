@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MedicalRiskScore.
 
 Use it like this: 
-- [ #has_/text/_about_algorithm :: Text ] or 
+- [ #has_/text_about_/algorithm :: Text ] or 
 - [ has_text_about_algorithm :: Text ] 
 
 The algorithm or rules to follow to compute the score.

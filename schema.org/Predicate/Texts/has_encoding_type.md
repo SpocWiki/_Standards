@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of EntryPoint.
 
 Use it like this: 
-- [ #has_/text/_about_encoding_type :: Text ] or 
+- [ #has_/text_about_/encoding_type :: Text ] or 
 - [ has_text_about_encoding_type :: Text ] 
 
 The supported encoding type(s) for an EntryPoint request.

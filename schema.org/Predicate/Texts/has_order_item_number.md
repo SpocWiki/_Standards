@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of OrderItem.
 
 Use it like this: 
-- [ #has_/text/_about_order_item_number :: Text ] or 
+- [ #has_/text_about_/order_item_number :: Text ] or 
 - [ has_text_about_order_item_number :: Text ] 
 
 The identifier of the order item.

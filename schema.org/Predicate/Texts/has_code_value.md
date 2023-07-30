@@ -35,7 +35,7 @@ Predicate to describe the Text of CategoryCode, MedicalCode.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_code_value :: Text ] or 
+- [ #has_/text_about_/code_value :: Text ] or 
 - [ has_text_about_code_value :: Text ] 
 
 A short textual code that uniquely identifies the value.

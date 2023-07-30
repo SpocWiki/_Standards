@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of WebApplication.
 
 Use it like this: 
-- [ #has_/text/_about_browser_requirements :: Text ] or 
+- [ #has_/text_about_/browser_requirements :: Text ] or 
 - [ has_text_about_browser_requirements :: Text ] 
 
 Specifies browser requirements in human-readable text. For example, "requires HTML5 support".

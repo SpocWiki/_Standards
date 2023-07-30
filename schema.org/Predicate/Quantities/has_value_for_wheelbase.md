@@ -35,7 +35,7 @@ Predicate to describe the Quantity of Vehicle.
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has_/value/_for_wheelbase :: QuantitativeValue ] or 
+- [ #has_/value_for_/wheelbase :: QuantitativeValue ] or 
 - [ has_value_for_wheelbase :: QuantitativeValue ] 
 
 The distance between the centers of the front and rear wheels.&lt;br/&gt;&lt;br/&gt;

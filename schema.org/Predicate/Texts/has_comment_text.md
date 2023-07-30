@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of UserComments.
 
 Use it like this: 
-- [ #has_/text/_about_comment_text :: Text ] or 
+- [ #has_/text_about_/comment_text :: Text ] or 
 - [ has_text_about_comment_text :: Text ] 
 
 The text of the UserComment.

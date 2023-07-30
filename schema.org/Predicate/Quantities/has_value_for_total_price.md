@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Reservation, Ticket.
 
 Use it like this: 
-- [ #has_/value/_for_total_price :: Number, PriceSpecification, Text ] or 
+- [ #has_/value_for_/total_price :: Number, PriceSpecification, Text ] or 
 - [ has_value_for_total_price :: Number, PriceSpecification, Text ] 
 
 The total price for the reservation or ticket, including applicable taxes, shipping, etc.&lt;br/&gt;&lt;br/&gt;

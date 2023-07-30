@@ -33,7 +33,7 @@ aliases:
 Predicate to specify the Url of UserComments.
 
 Use it like this: 
-- [ #has_/url/_for_reply_to :: URL ] or 
+- [ #has_/url_for_/reply_to :: URL ] or 
 - [ has_url_for_reply_to :: URL ] 
 
 The URL at which a reply may be posted to the specified UserComment.

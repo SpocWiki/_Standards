@@ -35,7 +35,7 @@ Predicate to describe the Text of JobPosting.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_eligibility_to_work_requirement :: Text ] or 
+- [ #has_/text_about_/eligibility_to_work_requirement :: Text ] or 
 - [ has_text_about_eligibility_to_work_requirement :: Text ] 
 
 The legal requirements such as citizenship, visa and other documentation required for an applicant to this job.

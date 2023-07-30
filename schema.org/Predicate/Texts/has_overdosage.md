@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text/_about_overdosage :: Text ] or 
+- [ #has_/text_about_/overdosage :: Text ] or 
 - [ has_text_about_overdosage :: Text ] 
 
 Any information related to overdose on a drug, including signs or symptoms, treatments, contact information for emergency response.

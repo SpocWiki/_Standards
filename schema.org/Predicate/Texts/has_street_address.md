@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
-- [ #has_/text/_about_street_address :: Text ] or 
+- [ #has_/text_about_/street_address :: Text ] or 
 - [ has_text_about_street_address :: Text ] 
 
 The street address. For example, 1600 Amphitheatre Pkwy.

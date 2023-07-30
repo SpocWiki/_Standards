@@ -35,7 +35,7 @@ Predicate to specify the Url of SpecialAnnouncement.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/url/_for_school_closures_info :: URL, WebContent ] or 
+- [ #has_/url_for_/school_closures_info :: URL, WebContent ] or 
 - [ has_url_for_school_closures_info :: URL, WebContent ] 
 
 Information about school closures.

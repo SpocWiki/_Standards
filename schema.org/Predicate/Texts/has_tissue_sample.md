@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of PathologyTest.
 
 Use it like this: 
-- [ #has_/text/_about_tissue_sample :: Text ] or 
+- [ #has_/text_about_/tissue_sample :: Text ] or 
 - [ has_text_about_tissue_sample :: Text ] 
 
 The type of tissue sample required for the test.

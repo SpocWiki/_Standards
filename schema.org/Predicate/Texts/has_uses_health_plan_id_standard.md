@@ -35,7 +35,7 @@ Predicate to describe the Text of HealthInsurancePlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_uses_health_plan_id_standard :: Text, URL ] or 
+- [ #has_/text_about_/uses_health_plan_id_standard :: Text, URL ] or 
 - [ has_text_about_uses_health_plan_id_standard :: Text, URL ] 
 
 The standard for interpreting the Plan ID. The preferred is "HIOS". See the Centers for Medicare &amp;amp; Medicaid Services for more details.

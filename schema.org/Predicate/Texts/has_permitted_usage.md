@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Accommodation.
 
 Use it like this: 
-- [ #has_/text/_about_permitted_usage :: Text ] or 
+- [ #has_/text_about_/permitted_usage :: Text ] or 
 - [ has_text_about_permitted_usage :: Text ] 
 
 Indications regarding the permitted usage of the accommodation.

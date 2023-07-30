@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of PeopleAudience.
 
 Use it like this: 
-- [ #has_/value/_for_required_max_age :: Integer ] or 
+- [ #has_/value_for_/required_max_age :: Integer ] or 
 - [ has_value_for_required_max_age :: Integer ] 
 
 Audiences defined by a person&#x27;s maximum age.

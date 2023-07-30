@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of AnatomicalStructure, MedicalProcedure.
 
 Use it like this: 
-- [ #has_/text/_about_body_location :: Text ] or 
+- [ #has_/text_about_/body_location :: Text ] or 
 - [ has_text_about_body_location :: Text ] 
 
 Location in the body of the anatomical structure.

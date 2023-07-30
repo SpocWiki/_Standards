@@ -35,7 +35,7 @@ aliases:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text/_about_clincal_pharmacology :: Text ] or 
+- [ #has_/text_about_/clincal_pharmacology :: Text ] or 
 - [ has_text_about_clincal_pharmacology :: Text ] 
 
 Description of the absorption and elimination of drugs, including their concentration (pharmacokinetics, pK) and biological effects (pharmacodynamics, pD).

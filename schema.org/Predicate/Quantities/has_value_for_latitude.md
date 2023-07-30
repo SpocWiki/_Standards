@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of GeoCoordinates, Place.
 
 Use it like this: 
-- [ #has_/value/_for_latitude :: Number, Text ] or 
+- [ #has_/value_for_/latitude :: Number, Text ] or 
 - [ has_value_for_latitude :: Number, Text ] 
 
 The latitude of a location. For example &lt;code&gt;37.42242&lt;/code&gt; (&lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/World_Geodetic_System&quot;&gt;WGS 84]]).

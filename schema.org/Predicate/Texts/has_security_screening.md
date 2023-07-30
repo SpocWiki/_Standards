@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- [ #has_/text/_about_security_screening :: Text ] or 
+- [ #has_/text_about_/security_screening :: Text ] or 
 - [ has_text_about_security_screening :: Text ] 
 
 The type of security screening the passenger is subject to.

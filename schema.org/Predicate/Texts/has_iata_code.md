@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Airline, Airport.
 
 Use it like this: 
-- [ #has_/text/_about_iata_code :: Text ] or 
+- [ #has_/text_about_/iata_code :: Text ] or 
 - [ has_text_about_iata_code :: Text ] 
 
 IATA identifier for an airline or airport.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [ #has_/text/_about_cooking_method :: Text ] or 
+- [ #has_/text_about_/cooking_method :: Text ] or 
 - [ has_text_about_cooking_method :: Text ] 
 
 The method of cooking, such as Frying, Steaming, ...

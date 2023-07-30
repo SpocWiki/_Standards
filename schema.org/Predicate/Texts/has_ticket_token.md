@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Ticket.
 
 Use it like this: 
-- [ #has_/text/_about_ticket_token :: Text, URL ] or 
+- [ #has_/text_about_/ticket_token :: Text, URL ] or 
 - [ has_text_about_ticket_token :: Text, URL ] 
 
 Reference to an asset (e.g., Barcode, QR code image or PDF) usable for entrance.

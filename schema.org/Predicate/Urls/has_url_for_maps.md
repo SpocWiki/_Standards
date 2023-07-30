@@ -35,7 +35,7 @@ aliases:
 Predicate to specify the Url of Place.
 
 Use it like this: 
-- [ #has_/url/_for_maps :: URL ] or 
+- [ #has_/url_for_/maps :: URL ] or 
 - [ has_url_for_maps :: URL ] 
 
 A URL to a map of the place.

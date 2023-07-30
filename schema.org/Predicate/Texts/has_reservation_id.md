@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Reservation.
 
 Use it like this: 
-- [ #has_/text/_about_reservation_id :: Text ] or 
+- [ #has_/text_about_/reservation_id :: Text ] or 
 - [ has_text_about_reservation_id :: Text ] 
 
 A unique identifier for the reservation.

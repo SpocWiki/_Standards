@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MusicRecording.
 
 Use it like this: 
-- [ #has_/text/_about_isrc_code :: Text ] or 
+- [ #has_/text_about_/isrc_code :: Text ] or 
 - [ has_text_about_isrc_code :: Text ] 
 
 The International Standard Recording Code for the recording.

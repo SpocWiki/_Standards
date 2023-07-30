@@ -35,7 +35,7 @@ Predicate to describe the Quantity of MolecularEntity.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value/_for_molecular_weight :: QuantitativeValue, Text ] or 
+- [ #has_/value_for_/molecular_weight :: QuantitativeValue, Text ] or 
 - [ has_value_for_molecular_weight :: QuantitativeValue, Text ] 
 
 This is the molecular weight of the entity being described, not of the parent. Units should be included in the form &#x27;&amp;lt;Number&amp;gt; &amp;lt;unit&amp;gt;&#x27;, for example &#x27;12 amu&#x27; or as &#x27;&amp;lt;QuantitativeValue&amp;gt;.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [ #has_/value/_for_fuel_consumption_l_km :: QuantitativeValue ] or 
+- [ #has_/value_for_/fuel_consumption_l_km :: QuantitativeValue ] or 
 - [ has_value_for_fuel_consumption_l_km :: QuantitativeValue ] 
 
 The amount of fuel consumed for traveling a particular distance or temporal duration with the given vehicle (e.g. liters per 100 km).&lt;br/&gt;&lt;br/&gt;

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- [ #has_/text/_about_currencies_accepted :: Text ] or 
+- [ #has_/text_about_/currencies_accepted :: Text ] or 
 - [ has_text_about_currencies_accepted :: Text ] 
 
 The currency accepted.&lt;br/&gt;&lt;br/&gt;

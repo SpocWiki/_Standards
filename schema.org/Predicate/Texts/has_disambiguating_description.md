@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [ #has_/text/_about_disambiguating_description :: Text ] or 
+- [ #has_/text_about_/disambiguating_description :: Text ] or 
 - [ has_text_about_disambiguating_description :: Text ] 
 
 A sub property of description. A short description of the item used to disambiguate from other, similar items. Information from other properties (in particular, name) may be necessary for the description to be useful for disambiguation.

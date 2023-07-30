@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Book.
 
 Use it like this: 
-- [ #has_/text/_about_book_edition :: Text ] or 
+- [ #has_/text_about_/book_edition :: Text ] or 
 - [ has_text_about_book_edition :: Text ] 
 
 The edition of the book.

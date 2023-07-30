@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Review.
 
 Use it like this: 
-- [ #has_/value/_for_review_rating_stars :: Rating ] or 
+- [ #has_/value_for_/review_rating_stars :: Rating ] or 
 - [ has_value_for_review_rating_stars :: Rating ] 
 
 The rating given in this review. Note that reviews can themselves be rated. The &lt;code&gt;reviewRating&lt;/code&gt; applies to rating given by the review. The [[aggregateRating]] property applies to the review itself, as a creative work.

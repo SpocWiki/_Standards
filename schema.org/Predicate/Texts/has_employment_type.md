@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text/_about_employment_type :: Text ] or 
+- [ #has_/text_about_/employment_type :: Text ] or 
 - [ has_text_about_employment_type :: Text ] 
 
 Type of employment (e.g. full-time, part-time, contract, temporary, seasonal, internship).

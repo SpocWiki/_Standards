@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.
 
 Use it like this: 
-- [ #has_/value/_for_min_value :: Number ] or 
+- [ #has_/value_for_/min_value :: Number ] or 
 - [ has_value_for_min_value :: Number ] 
 
 The lower value of some characteristic or property.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of BroadcastFrequencySpecification.
 
 Use it like this: 
-- [ #has_/value/_for_broadcast_frequency_value :: Number, QuantitativeValue ] or 
+- [ #has_/value_for_/broadcast_frequency_value :: Number, QuantitativeValue ] or 
 - [ has_value_for_broadcast_frequency_value :: Number, QuantitativeValue ] 
 
 The frequency in MHz for a particular broadcast.

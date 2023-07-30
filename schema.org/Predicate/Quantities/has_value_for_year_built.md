@@ -35,7 +35,7 @@ Predicate to describe the Quantity of Accommodation.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value/_for_year_built :: Number ] or 
+- [ #has_/value_for_/year_built :: Number ] or 
 - [ has_value_for_year_built :: Number ] 
 
 The year an [[Accommodation]] was constructed. This corresponds to the &lt;a href&#x3D;&quot;https://ddwiki.reso.org/display/DDW17/YearBuilt+Field&quot;&gt;YearBuilt field in RESO]].

@@ -24,8 +24,8 @@ tags:
 - schema.org/Predicate/Text
 
 aliases:
-- telephone
-- telephone
+- telephone 
+- telephone/Mobile 
 - telephone
 - has_text_about_telephone
 ---
@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of ContactPoint, Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/text/_about_telephone :: Text ] or 
+- [ #has_/text_about_/telephone :: Text ] or 
 - [ has_text_about_telephone :: Text ] 
 
 The telephone number.

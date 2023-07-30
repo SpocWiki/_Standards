@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Order.
 
 Use it like this: 
-- [ #has_/value/_for_discount :: Number, Text ] or 
+- [ #has_/value_for_/discount :: Number, Text ] or 
 - [ has_value_for_discount :: Number, Text ] 
 
 Any discount applied (to an Order).

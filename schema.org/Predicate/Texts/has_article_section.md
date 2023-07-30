@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Article.
 
 Use it like this: 
-- [ #has_/text/_about_article_section :: Text ] or 
+- [ #has_/text_about_/article_section :: Text ] or 
 - [ has_text_about_article_section :: Text ] 
 
 Articles may belong to one or more "sections" in a magazine or newspaper, such as Sports, Lifestyle, etc.

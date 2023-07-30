@@ -35,7 +35,7 @@ aliases:
 Predicate to specify the Url of WebPage.
 
 Use it like this: 
-- [ #has_/url/_for_significant_links :: URL ] or 
+- [ #has_/url_for_/significant_links :: URL ] or 
 - [ has_url_for_significant_links :: URL ] 
 
 The most significant URLs on the page. Typically, these are the non-navigation links that are clicked on the most.

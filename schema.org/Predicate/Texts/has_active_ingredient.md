@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of DietarySupplement, Drug, DrugStrength, Substance.
 
 Use it like this: 
-- [ #has_/text/_about_active_ingredient :: Text ] or 
+- [ #has_/text_about_/active_ingredient :: Text ] or 
 - [ has_text_about_active_ingredient :: Text ] 
 
 An active ingredient, typically chemical compounds and/or biologic substances.

@@ -35,7 +35,7 @@ Predicate to describe the Text of MolecularEntity.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text/_about_iupac_name :: Text ] or 
+- [ #has_/text_about_/iupac_name :: Text ] or 
 - [ has_text_about_iupac_name :: Text ] 
 
 Systematic method of naming chemical compounds as recommended by the International Union of Pure and Applied Chemistry (IUPAC).

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Demand, Offer.
 
 Use it like this: 
-- [ #has_/value/_for_advance_booking_requirement :: QuantitativeValue ] or 
+- [ #has_/value_for_/advance_booking_requirement :: QuantitativeValue ] or 
 - [ has_value_for_advance_booking_requirement :: QuantitativeValue ] 
 
 The amount of time that is required between accepting the offer and the actual usage of the resource or service.
