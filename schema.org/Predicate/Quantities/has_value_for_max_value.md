@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.
 
 Use it like this: 
-- [ #has_/value_for_/max_value :: Number ] or 
+- [ #has_/value_for/_max_value :: Number ] or 
 - [ has_value_for_max_value :: Number ] 
 
 The upper value of some characteristic or property.

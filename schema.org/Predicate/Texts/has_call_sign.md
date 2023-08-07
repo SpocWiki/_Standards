@@ -35,7 +35,7 @@ Predicate to describe the Text of BroadcastService, Person, Vehicle.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/call_sign :: Text ] or 
+- [ #has_/text_about/_call_sign :: Text ] or 
 - [ has_text_about_call_sign :: Text ] 
 
 A [callsign](https://en.wikipedia.org/wiki/Call_sign), as used in broadcasting and radio communications to identify people, radio and TV stations, or vehicles.

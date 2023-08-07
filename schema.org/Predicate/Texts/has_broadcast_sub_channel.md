@@ -35,7 +35,7 @@ Predicate to describe the Text of BroadcastFrequencySpecification.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/broadcast_sub_channel :: Text ] or 
+- [ #has_/text_about/_broadcast_sub_channel :: Text ] or 
 - [ has_text_about_broadcast_sub_channel :: Text ] 
 
 The subchannel used for the broadcast.

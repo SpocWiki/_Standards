@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of ItemList.
 
 Use it like this: 
-- [ #has_/number/_of_items :: Integer ] or 
+- [ #has_/number_of/_items :: Integer ] or 
 - [ has_number_of_items :: Integer ] 
 
 The number of items in an ItemList. Note that some descriptions might not fully describe all items in a list (e.g., multi-page pagination); in such cases, the numberOfItems would be for the entire list.

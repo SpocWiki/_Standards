@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the Duration of Invoice.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_duration_of_billing_period::P#Y#M#W#DT#H#M#s.fff] or 
@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_duration_of_billing_period)
 (range::Duration)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

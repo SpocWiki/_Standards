@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MedicalScholarlyArticle.
 
 Use it like this: 
-- [ #has_/text_about_/publication_type :: Text ] or 
+- [ #has_/text_about/_publication_type :: Text ] or 
 - [ has_text_about_publication_type :: Text ] 
 
 The type of the medical article, taken from the US NLM MeSH publication type catalog. See also [MeSH documentation](http://www.nlm.nih.gov/mesh/pubtypes.html).

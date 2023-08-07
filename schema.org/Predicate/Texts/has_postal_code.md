@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of DefinedRegion, GeoCoordinates, GeoShape, PostalAddress.
 
 Use it like this: 
-- [ #has_/text_about_/postal_code :: Text ] or 
+- [ #has_/text_about/_postal_code :: Text ] or 
 - [ has_text_about_postal_code :: Text ] 
 
 The postal code. For example, 94043.

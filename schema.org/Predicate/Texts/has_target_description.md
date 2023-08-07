@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of AlignmentObject.
 
 Use it like this: 
-- [ #has_/text_about_/target_description :: Text ] or 
+- [ #has_/text_about/_target_description :: Text ] or 
 - [ has_text_about_target_description :: Text ] 
 
 The description of a node in an established educational framework.

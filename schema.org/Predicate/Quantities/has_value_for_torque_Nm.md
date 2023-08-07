@@ -35,7 +35,7 @@ Predicate to describe the Quantity of EngineSpecification.
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has_/value_for_/torque_Nm :: QuantitativeValue ] or 
+- [ #has_/value_for/_torque_Nm :: QuantitativeValue ] or 
 - [ has_value_for_torque_Nm :: QuantitativeValue ] 
 
 The torque (turning force) of the vehicle&#x27;s engine.&lt;br/&gt;&lt;br/&gt;

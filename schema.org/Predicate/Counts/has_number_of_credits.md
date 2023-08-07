@@ -35,7 +35,7 @@ Predicate to describe the Number of Course, EducationalOccupationalProgram.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_credits :: Integer, StructuredValue ] or 
+- [ #has_/number_of/_credits :: Integer, StructuredValue ] or 
 - [ has_number_of_credits :: Integer, StructuredValue ] 
 
 The number of credits or units awarded by a Course or required to complete an EducationalOccupationalProgram.

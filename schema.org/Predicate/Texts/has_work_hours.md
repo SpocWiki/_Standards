@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_about_/work_hours :: Text ] or 
+- [ #has_/text_about/_work_hours :: Text ] or 
 - [ has_text_about_work_hours :: Text ] 
 
 The typical working hours for this job (e.g. 1st shift, night shift, 8am-5pm).

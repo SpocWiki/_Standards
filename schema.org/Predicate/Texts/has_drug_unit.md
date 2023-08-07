@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Drug, DrugCost.
 
 Use it like this: 
-- [ #has_/text_about_/drug_unit :: Text ] or 
+- [ #has_/text_about/_drug_unit :: Text ] or 
 - [ has_text_about_drug_unit :: Text ] 
 
 The unit in which the drug is measured, e.g. "5 mg tablet".

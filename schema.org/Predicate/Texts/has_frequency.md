@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of DoseSchedule.
 
 Use it like this: 
-- [ #has_/text_about_/frequency :: Text ] or 
+- [ #has_/text_about/_frequency :: Text ] or 
 - [ has_text_about_frequency :: Text ] 
 
 How often the dose is taken, e.g. "daily".

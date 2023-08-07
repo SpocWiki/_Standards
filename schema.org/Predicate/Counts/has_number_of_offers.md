@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of AggregateOffer.
 
 Use it like this: 
-- [ #has_/number/_of_offers :: Integer ] or 
+- [ #has_/number_of/_offers :: Integer ] or 
 - [ has_number_of_offers :: Integer ] 
 
 The number of offers for the product.

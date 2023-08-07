@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MedicalProcedure.
 
 Use it like this: 
-- [ #has_/text_about_/how_performed :: Text ] or 
+- [ #has_/text_about/_how_performed :: Text ] or 
 - [ has_text_about_how_performed :: Text ] 
 
 How the procedure is performed.

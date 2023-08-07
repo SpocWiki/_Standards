@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- [ #has_/text_about_/player_type :: Text ] or 
+- [ #has_/text_about/_player_type :: Text ] or 
 - [ has_text_about_player_type :: Text ] 
 
 Player type required&amp;#x2014;for example, Flash or Silverlight.

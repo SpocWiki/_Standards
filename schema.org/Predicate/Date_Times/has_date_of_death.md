@@ -31,11 +31,14 @@ aliases:
 
 Predicate to describe the date of Person.
 
-[is_part_of:: ]
+
 
 Use it like this: 
-- [has_date_of_death::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_of_death::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_date_of_death :: P#Y#M#W#DT#H#M#s.fff] or 
+- [ #has_/date/_of_death :: P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+
+Peter [#has_/date/_of_birth :: 2022-2-3]. 
+Peter [birth-date :: 2022-2-3] 
 
 Date of death.
 
@@ -44,9 +47,9 @@ Formal Predicate:
 (name::has_date_of_death)
 (range::Date)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

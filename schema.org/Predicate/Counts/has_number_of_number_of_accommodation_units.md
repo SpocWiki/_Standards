@@ -35,7 +35,7 @@ Predicate to describe the Number of ApartmentComplex, FloorPlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_number_of_accommodation_units :: QuantitativeValue ] or 
+- [ #has_/number_of/_number_of_accommodation_units :: QuantitativeValue ] or 
 - [ has_number_of_number_of_accommodation_units :: QuantitativeValue ] 
 
 Indicates the total (available plus unavailable) number of accommodation units in an <a class="localLink" href="/ApartmentComplex">ApartmentComplex</a>, or the number of accommodation units for a specific <a class="localLink" href="/FloorPlan">FloorPlan</a> (within its specific <a class="localLink" href="/ApartmentComplex">ApartmentComplex</a>). See also <a class="localLink" href="/numberOfAvailableAccommodationUnits">numberOfAvailableAccommodationUnits</a>.

@@ -35,7 +35,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/device :: Text ] or 
+- [ #has_/text_about/_device :: Text ] or 
 - [ has_text_about_device :: Text ] 
 
 Device required to run the application. Used in cases where a specific make/model is required to run the application.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Corporation.
 
 Use it like this: 
-- [ #has_/text_about_/ticker_symbol :: Text ] or 
+- [ #has_/text_about/_ticker_symbol :: Text ] or 
 - [ has_text_about_ticker_symbol :: Text ] 
 
 The exchange traded instrument associated with a Corporation object. The tickerSymbol is expressed as an exchange and an instrument name separated by a space character. For the exchange component of the tickerSymbol attribute, we recommend using the controlled vocabulary of Market Identifier Codes (MIC) specified in ISO 15022.

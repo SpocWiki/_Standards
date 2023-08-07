@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of ExerciseAction, TravelAction.
 
 Use it like this: 
-- [ #has_/value_for_/distance_in_meters :: Distance ] or 
+- [ #has_/value_for/_distance_in_meters :: Distance ] or 
 - [ has_value_for_distance_in_meters :: Distance ] 
 
 The distance travelled, e.g. exercising or travelling.

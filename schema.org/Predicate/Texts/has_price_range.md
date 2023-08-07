@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- [ #has_/text_about_/price_range :: Text ] or 
+- [ #has_/text_about/_price_range :: Text ] or 
 - [ has_text_about_price_range :: Text ] 
 
 The price range of the business, for example &lt;code&gt;$$$&lt;/code&gt;.

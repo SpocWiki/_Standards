@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of JobPosting, Occupation.
 
 Use it like this: 
-- [ #has_/text_about_/responsibilities :: Text ] or 
+- [ #has_/text_about/_responsibilities :: Text ] or 
 - [ has_text_about_responsibilities :: Text ] 
 
 Responsibilities associated with this role or Occupation.

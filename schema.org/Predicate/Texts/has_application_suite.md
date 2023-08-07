@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/application_suite :: Text ] or 
+- [ #has_/text_about/_application_suite :: Text ] or 
 - [ has_text_about_application_suite :: Text ] 
 
 The name of the application suite to which the application belongs (e.g. Excel belongs to Office).

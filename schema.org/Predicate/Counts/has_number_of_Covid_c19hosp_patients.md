@@ -35,7 +35,7 @@ Predicate to describe the Number of CDCPMDRecord.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_Covid_c19hosp_patients :: Number ] or 
+- [ #has_/number_of/_Covid_c19hosp_patients :: Number ] or 
 - [ has_number_of_Covid_c19hosp_patients :: Number ] 
 
 numc19hosppats - HOSPITALIZED: Patients currently hospitalized in an inpatient care location who have suspected or confirmed COVID-19.

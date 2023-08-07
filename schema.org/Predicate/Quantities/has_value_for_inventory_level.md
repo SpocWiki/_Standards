@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Demand, Offer, SomeProducts.
 
 Use it like this: 
-- [ #has_/value_for_/inventory_level :: QuantitativeValue ] or 
+- [ #has_/value_for/_inventory_level :: QuantitativeValue ] or 
 - [ has_value_for_inventory_level :: QuantitativeValue ] 
 
 The current approximate inventory level for the item or items.

@@ -35,7 +35,7 @@ aliases:
 Predicate to describe the Text of ChooseAction.
 
 Use it like this: 
-- [ #has_/text_about_/option :: Text, Thing ] or 
+- [ #has_/text_about/_option :: Text, Thing ] or 
 - [ has_text_about_option :: Text, Thing ] 
 
 A sub property of object. The options subject to this action.

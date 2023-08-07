@@ -35,7 +35,7 @@ Predicate to describe the Number of CDCPMDRecord.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_Covid_icu_beds :: Number ] or 
+- [ #has_/number_of/_Covid_icu_beds :: Number ] or 
 - [ has_number_of_Covid_icu_beds :: Number ] 
 
 numicubeds - ICU BEDS: Total number of staffed inpatient intensive care unit (ICU) beds.

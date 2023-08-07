@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of Game, VideoGameSeries.
 
 Use it like this: 
-- [ #has_/number/_of_number_of_players :: QuantitativeValue ] or 
+- [ #has_/number_of/_number_of_players :: QuantitativeValue ] or 
 - [ has_number_of_number_of_players :: QuantitativeValue ] 
 
 Indicate how many people can play this game (minimum, maximum, or range).

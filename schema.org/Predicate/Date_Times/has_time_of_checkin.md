@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the time of LodgingBusiness, LodgingReservation.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_time_of_checkin_time::P#Y#M#W#DT#H#M#s.fff] or 
@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_time_of_checkin_time)
 (range::DateTime, Time)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

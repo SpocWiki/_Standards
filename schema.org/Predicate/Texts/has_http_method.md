@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of EntryPoint.
 
 Use it like this: 
-- [ #has_/text_about_/http_method :: Text ] or 
+- [ #has_/text_about/_http_method :: Text ] or 
 - [ has_text_about_http_method :: Text ] 
 
 An HTTP method that specifies the appropriate HTTP method for a request to an HTTP EntryPoint. Values are capitalized strings as used in HTTP.

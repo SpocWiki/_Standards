@@ -35,7 +35,7 @@ Predicate to describe the Text of ComicIssue.
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has_/text_about_/variant_cover :: Text ] or 
+- [ #has_/text_about/_variant_cover :: Text ] or 
 - [ has_text_about_variant_cover :: Text ] 
 
 A description of the variant cover

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of InteractionCounter.
 
 Use it like this: 
-- [ #has_/number/_of_user_interactions :: Integer ] or 
+- [ #has_/number_of/_user_interactions :: Integer ] or 
 - [ has_number_of_user_interactions :: Integer ] 
 
 The number of interactions for the CreativeWork using the WebSite or SoftwareApplication.

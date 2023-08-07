@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Rating.
 
 Use it like this: 
-- [ #has_/value_for_/rating_value :: Number, Text ] or 
+- [ #has_/value_for/_rating_value :: Number, Text ] or 
 - [ has_value_for_rating_value :: Number, Text ] 
 
 The rating for the content.&lt;br/&gt;&lt;br/&gt;

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of Episode.
 
 Use it like this: 
-- [ #has_/number/_of_episode :: Integer, Text ] or 
+- [ #has_/number_of/_episode :: Integer, Text ] or 
 - [ has_number_of_episode :: Integer, Text ] 
 
 Position of the episode within an ordered group of episodes.

@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_duration_of_billing)
 (range::Duration, Number, QuantitativeValue)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of EmployeeRole, JobPosting.
 
 Use it like this: 
-- [ #has_/text_about_/salary_currency :: Text ] or 
+- [ #has_/text_about/_salary_currency :: Text ] or 
 - [ has_text_about_salary_currency :: Text ] 
 
 The currency (coded using [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217)) used for the main salary information in this job posting or for this employee.

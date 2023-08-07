@@ -35,7 +35,7 @@ Predicate to describe the Text of HyperTocEntry.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/utterances :: Text ] or 
+- [ #has_/text_about/_utterances :: Text ] or 
 - [ has_text_about_utterances :: Text ] 
 
 Text of an utterances (spoken words, lyrics etc.) that occurs at a certain section of a media object, represented as a [[HyperTocEntry]].

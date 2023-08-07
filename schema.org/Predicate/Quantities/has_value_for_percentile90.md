@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of QuantitativeValueDistribution.
 
 Use it like this: 
-- [ #has_/value_for_/percentile90 :: Number ] or 
+- [ #has_/value_for/_percentile90 :: Number ] or 
 - [ has_value_for_percentile90 :: Number ] 
 
 The 90th percentile value.

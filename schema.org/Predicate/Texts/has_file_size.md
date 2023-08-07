@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/file_size :: Text ] or 
+- [ #has_/text_about/_file_size :: Text ] or 
 - [ has_text_about_file_size :: Text ] 
 
 Size of the application / package (e.g. 18MB). In the absence of a unit (MB, KB etc.), KB will be assumed.

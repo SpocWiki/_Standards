@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- [ #has_/value_for_/sodium_in_milliGram :: Mass ] or 
+- [ #has_/value_for/_sodium_in_milliGram :: Mass ] or 
 - [ has_value_for_sodium_in_milliGram :: Mass ] 
 
 The number of milligrams of sodium.

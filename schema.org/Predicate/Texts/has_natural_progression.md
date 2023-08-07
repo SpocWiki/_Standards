@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- [ #has_/text_about_/natural_progression :: Text ] or 
+- [ #has_/text_about/_natural_progression :: Text ] or 
 - [ has_text_about_natural_progression :: Text ] 
 
 The expected progression of the condition if it is not treated and allowed to progress naturally.

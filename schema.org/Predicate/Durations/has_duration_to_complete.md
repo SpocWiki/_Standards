@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_duration_to_complete)
 (range::Duration)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

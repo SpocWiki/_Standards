@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Order.
 
 Use it like this: 
-- [ #has_/text_about_/discount_currency :: Text ] or 
+- [ #has_/text_about/_discount_currency :: Text ] or 
 - [ has_text_about_discount_currency :: Text ] 
 
 The currency of the discount.&lt;br/&gt;&lt;br/&gt;

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of DietarySupplement, DoseSchedule.
 
 Use it like this: 
-- [ #has_/text_about_/target_population :: Text ] or 
+- [ #has_/text_about/_target_population :: Text ] or 
 - [ has_text_about_target_population :: Text ] 
 
 Characteristics of the population for which this is intended, or which typically uses it, e.g. "adults".

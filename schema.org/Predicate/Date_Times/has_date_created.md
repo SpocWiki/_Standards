@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the date of CreativeWork, DataFeedItem.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_date_created::P#Y#M#W#DT#H#M#s.fff] or 
@@ -44,7 +44,7 @@ Formal Predicate:
 (name::has_date_created)
 (range::Date, DateTime)
 
-Is [sub_property_of::]
+
 
 Has [sub_properties::legislationDate]
 

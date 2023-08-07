@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Invoice.
 
 Use it like this: 
-- [ #has_/value_for_/total_payment_due :: MonetaryAmount, PriceSpecification ] or 
+- [ #has_/value_for/_total_payment_due :: MonetaryAmount, PriceSpecification ] or 
 - [ has_value_for_total_payment_due :: MonetaryAmount, PriceSpecification ] 
 
 The total amount due.

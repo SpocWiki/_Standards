@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of ExercisePlan.
 
 Use it like this: 
-- [ #has_/number/_of_repetitions :: Number, QuantitativeValue ] or 
+- [ #has_/number_of/_repetitions :: Number, QuantitativeValue ] or 
 - [ has_number_of_repetitions :: Number, QuantitativeValue ] 
 
 Number of times one should repeat the activity.

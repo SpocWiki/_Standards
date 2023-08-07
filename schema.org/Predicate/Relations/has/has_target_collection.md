@@ -39,7 +39,7 @@ A sub property of object. The collection target of the action.
 
 Relation describes that: 
 [ #has_/domain  :: UpdateAction ]
-( #has_/name :: is_target_collection )
+( #has_/name :: has_target_collection )
 ( #has_/range :: Thing )
 
 [ #is_/sub_property_of  :: object ]

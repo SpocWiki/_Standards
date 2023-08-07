@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Drug, TherapeuticProcedure.
 
 Use it like this: 
-- [ #has_/value_for_/dose_schedule :: DoseSchedule ] or 
+- [ #has_/value_for/_dose_schedule :: DoseSchedule ] or 
 - [ has_value_for_dose_schedule :: DoseSchedule ] 
 
 A dosing schedule for the drug for a given population, either observed, recommended, or maximum dose based on the type used.

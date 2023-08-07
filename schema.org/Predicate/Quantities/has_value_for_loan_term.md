@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of LoanOrCredit.
 
 Use it like this: 
-- [ #has_/value_for_/loan_term :: QuantitativeValue ] or 
+- [ #has_/value_for/_loan_term :: QuantitativeValue ] or 
 - [ has_value_for_loan_term :: QuantitativeValue ] 
 
 The duration of the loan or credit agreement.

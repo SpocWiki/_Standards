@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- [ #has_/text_about_/content_size :: Text ] or 
+- [ #has_/text_about/_content_size :: Text ] or 
 - [ has_text_about_content_size :: Text ] 
 
 File size in (mega/kilo)bytes.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [ #has_/text_about_/vehicle_identification_number :: Text ] or 
+- [ #has_/text_about/_vehicle_identification_number :: Text ] or 
 - [ has_text_about_vehicle_identification_number :: Text ] 
 
 The Vehicle Identification Number (VIN) is a unique serial number used by the automotive industry to identify individual motor vehicles.

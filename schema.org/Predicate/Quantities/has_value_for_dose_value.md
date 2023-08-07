@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of DoseSchedule.
 
 Use it like this: 
-- [ #has_/value_for_/dose_value :: Number, QualitativeValue ] or 
+- [ #has_/value_for/_dose_value :: Number, QualitativeValue ] or 
 - [ has_value_for_dose_value :: Number, QualitativeValue ] 
 
 The value of the dose, e.g. 500.

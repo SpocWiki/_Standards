@@ -35,7 +35,7 @@ Predicate to describe the Number of Schedule.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_repeats :: Integer ] or 
+- [ #has_/number_of/_repeats :: Integer ] or 
 - [ has_number_of_repeats :: Integer ] 
 
 Defines the number of times a recurring <a class="localLink" href="/Event">Event</a> will take place.

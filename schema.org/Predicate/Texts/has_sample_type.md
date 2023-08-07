@@ -35,7 +35,7 @@ aliases:
 Predicate to describe the Text of SoftwareSourceCode.
 
 Use it like this: 
-- [ #has_/text_about_/sample_type :: Text ] or 
+- [ #has_/text_about/_sample_type :: Text ] or 
 - [ has_text_about_sample_type :: Text ] 
 
 What type of code sample: full (compile ready) solution, code snippet, inline code, scripts, template.

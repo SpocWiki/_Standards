@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of PeopleAudience.
 
 Use it like this: 
-- [ #has_/number/_of_required_min_age :: Integer ] or 
+- [ #has_/number_of/_required_min_age :: Integer ] or 
 - [ has_number_of_required_min_age :: Integer ] 
 
 Audiences defined by a person's minimum age.

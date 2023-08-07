@@ -46,9 +46,9 @@ Formal Predicate:
 (name::has_date_of_merchant_return_days)
 (range::Date, DateTime, Integer)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

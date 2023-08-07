@@ -35,7 +35,7 @@ Predicate to describe the Text of PronounceableText.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/text_value :: Text ] or 
+- [ #has_/text_about/_text_value :: Text ] or 
 - [ has_text_about_text_value :: Text ] 
 
 Text value being annotated.

@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the Duration of Flight.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_duration_of_flight::P#Y#M#W#DT#H#M#s.fff] or 
@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_duration_of_flight)
 (range::Duration, Text)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

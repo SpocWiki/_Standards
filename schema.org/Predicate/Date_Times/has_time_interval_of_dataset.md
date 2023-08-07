@@ -33,7 +33,7 @@ aliases:
 
 Predicate to describe the date of Dataset.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_time_interval_of_dataset::P#Y#M#W#DT#H#M#s.fff] or 
@@ -46,9 +46,9 @@ Formal Predicate:
 (name::has_date_interval_of_dataset)
 (range::DateTime)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

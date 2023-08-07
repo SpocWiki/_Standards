@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of MedicalGuideline.
 
 Use it like this: 
-- [ #has_/text_about_/evidence_origin :: Text ] or 
+- [ #has_/text_about/_evidence_origin :: Text ] or 
 - [ has_text_about_evidence_origin :: Text ] 
 
 Source of the data used to formulate the guidance, e.g. RCT, consensus opinion, etc.

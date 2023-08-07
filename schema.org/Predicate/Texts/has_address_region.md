@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of DefinedRegion, PostalAddress.
 
 Use it like this: 
-- [ #has_/text_about_/address_region :: Text ] or 
+- [ #has_/text_about/_address_region :: Text ] or 
 - [ has_text_about_address_region :: Text ] 
 
 The region in which the locality is, and which is in the country. For example, California or another appropriate first-level [Administrative division](https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country).

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [ #has_/text_about_/vat_id :: Text ] or 
+- [ #has_/text_about/_vat_id :: Text ] or 
 - [ has_text_about_vat_id :: Text ] 
 
 The Value-added Tax ID of the organization or person.

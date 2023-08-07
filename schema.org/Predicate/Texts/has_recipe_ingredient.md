@@ -35,7 +35,7 @@ aliases:
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [ #has_/text_about_/recipe_ingredient :: Text ] or 
+- [ #has_/text_about/_recipe_ingredient :: Text ] or 
 - [ has_text_about_recipe_ingredient :: Text ] 
 
 A single ingredient used in the recipe, e.g. sugar, flour or garlic.

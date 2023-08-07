@@ -13,7 +13,7 @@ type: Predi_Duration
 title: has_duration_of_{{label_snail}}
 
 linkTitle: has_duration_of_{{label_snail}}
-keywords: 
+keywords: [{{label_snail}}]
 layout: 
 draft: false
 publishDate:

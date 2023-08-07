@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the Duration of HowTo, HowToDirection.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_duration_to_prepare::P#Y#M#W#DT#H#M#s.fff] or 
@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_duration_to_prepare)
 (range::Duration)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

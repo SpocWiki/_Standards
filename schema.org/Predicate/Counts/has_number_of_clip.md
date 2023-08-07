@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of Clip.
 
 Use it like this: 
-- [ #has_/number/_of_clip :: Integer, Text ] or 
+- [ #has_/number_of/_clip :: Integer, Text ] or 
 - [ has_number_of_clip :: Integer, Text ] 
 
 Position of the clip within an ordered group of clips.

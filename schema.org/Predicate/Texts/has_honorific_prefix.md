@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text_about_/honorific_prefix :: Text ] or 
+- [ #has_/text_about/_honorific_prefix :: Text ] or 
 - [ has_text_about_honorific_prefix :: Text ] 
 
 An honorific prefix preceding a Person"s name such as Dr/Mrs/Mr.

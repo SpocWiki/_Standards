@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the Duration of Recipe.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_duration_of_cooking::P#Y#M#W#DT#H#M#s.fff] or 
@@ -46,7 +46,7 @@ Formal Predicate:
 
 Is [sub_property_of::performTime]
 
-Has [sub_properties::]
+
 
 
 ## Confidential Links & Embeds: 

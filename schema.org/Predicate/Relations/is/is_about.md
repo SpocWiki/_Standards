@@ -27,22 +27,24 @@ aliases:
 - about
 - about
 - is_about
+- has_as_subject
 ---
 
 Use it like this: 
 - [ #is/_about :: Thing ] or 
 - [ is_about :: Thing ] 
 
-The subject matter of the content.
+The subject matter of the content. 
+This has a very narrow meaning compared to [[RDF~subject]], [[../../../../RDF/RDF~predicate]], and [[RDF~object]]. 
 
 Relation describes that: 
 [ #has_/domain  :: CommunicateAction, CreativeWork, Event ]
 ( #has_/name :: is_about )
 ( #has_/range :: Thing )
 
-[ #is_/inverse_of  :: [[has_subject_of]] ]
+[ #is_/inverse_of  :: [[../has/is_subject_of]] ]
 
-[ #has_/sub_properties :: [ mainEntity ] ]
+[ #has_/sub_properties :: [ [has_main_entity](../has/has_main_entity.md) ] ]
 
 
 

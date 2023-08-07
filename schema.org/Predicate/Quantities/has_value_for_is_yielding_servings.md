@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Recipe.
 
 Use it like this: 
-- [ #has_/value_for_/is_yielding_servings :: QuantitativeValue, Text ] or 
+- [ #has_/value_for/_is_yielding_servings :: QuantitativeValue, Text ] or 
 - [ has_value_for_is_yielding_servings :: QuantitativeValue, Text ] 
 
 The quantity produced by the recipe (for example, number of people served, number of servings, etc).

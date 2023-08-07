@@ -35,7 +35,7 @@ Predicate to describe the Quantity of RepaymentSpecification.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value_for_/loan_payment_frequency :: Number ] or 
+- [ #has_/value_for/_loan_payment_frequency :: Number ] or 
 - [ has_value_for_loan_payment_frequency :: Number ] 
 
 Frequency of payments due, i.e. number of months between payments. This is defined as a frequency, i.e. the reciprocal of a period of time.

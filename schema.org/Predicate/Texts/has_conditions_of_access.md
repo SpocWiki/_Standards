@@ -35,7 +35,7 @@ Predicate to describe the Text of CreativeWork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/conditions_of_access :: Text ] or 
+- [ #has_/text_about/_conditions_of_access :: Text ] or 
 - [ has_text_about_conditions_of_access :: Text ] 
 
 Conditions that affect the availability of, or method(s) of access to, an item. Typically used for real world items such as an [[ArchiveComponent]] held by an [[ArchiveOrganization]]. This property is not suitable for use as a general Web access control mechanism. It is expressed only in natural language.&lt;br/&gt;&lt;br/&gt;

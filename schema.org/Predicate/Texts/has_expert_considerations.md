@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_about_/expert_considerations :: Text ] or 
+- [ #has_/text_about/_expert_considerations :: Text ] or 
 - [ has_text_about_expert_considerations :: Text ] 
 
 Medical expert advice related to the plan.

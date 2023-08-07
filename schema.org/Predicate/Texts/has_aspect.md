@@ -35,7 +35,7 @@ aliases:
 Predicate to describe the Text of MedicalWebPage.
 
 Use it like this: 
-- [ #has_/text_about_/aspect :: Text ] or 
+- [ #has_/text_about/_aspect :: Text ] or 
 - [ has_text_about_aspect :: Text ] 
 
 An aspect of medical practice that is considered on the page, such as "diagnosis", "treatment", "causes", "prognosis", "etiology", "epidemiology", etc.

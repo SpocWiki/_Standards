@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Seat.
 
 Use it like this: 
-- [ #has_/text_about_/seat_row :: Text ] or 
+- [ #has_/text_about/_seat_row :: Text ] or 
 - [ has_text_about_seat_row :: Text ] 
 
 The row location of the reserved seat (e.g., B).

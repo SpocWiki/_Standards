@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy.
 
 Use it like this: 
-- [ #has_/text_about_/associated_pathophysiology :: Text ] or 
+- [ #has_/text_about/_associated_pathophysiology :: Text ] or 
 - [ has_text_about_associated_pathophysiology :: Text ] 
 
 If applicable, a description of the pathophysiology associated with the anatomical system, including potential abnormal changes in the mechanical, physical, and biochemical functions of the system.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Organization.
 
 Use it like this: 
-- [ #has_/text_about_/lei_code :: Text ] or 
+- [ #has_/text_about/_lei_code :: Text ] or 
 - [ has_text_about_lei_code :: Text ] 
 
 An organization identifier that uniquely identifies a legal entity as defined in ISO 17442.

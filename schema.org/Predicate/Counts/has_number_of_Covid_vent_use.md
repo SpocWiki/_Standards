@@ -35,7 +35,7 @@ Predicate to describe the Number of CDCPMDRecord.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_Covid_vent_use :: Number ] or 
+- [ #has_/number_of/_Covid_vent_use :: Number ] or 
 - [ has_number_of_Covid_vent_use :: Number ] 
 
 numventuse - MECHANICAL VENTILATORS IN USE: Total number of ventilators in use.

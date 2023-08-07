@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_about_/accessibility_control :: Text ] or 
+- [ #has_/text_about/_accessibility_control :: Text ] or 
 - [ has_text_about_accessibility_control :: Text ] 
 
 Identifies input methods that are sufficient to fully control the described resource. Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityControl-vocabulary).

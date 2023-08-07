@@ -13,7 +13,7 @@ type: Predi_Relation
 title: is_{{label_snail}}
 
 linkTitle: is_{{label_snail}}
-keywords: 
+keywords: [{{label_snail}}]
 layout: 
 draft: false
 publishDate:

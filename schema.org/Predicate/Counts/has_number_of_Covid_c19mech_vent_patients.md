@@ -35,7 +35,7 @@ Predicate to describe the Number of CDCPMDRecord.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_Covid_c19mech_vent_patients :: Number ] or 
+- [ #has_/number_of/_Covid_c19mech_vent_patients :: Number ] or 
 - [ has_number_of_Covid_c19mech_vent_patients :: Number ] 
 
 numc19mechventpats - HOSPITALIZED and VENTILATED: Patients hospitalized in an NHSN inpatient care location who have suspected or confirmed COVID-19 and are on a mechanical ventilator.

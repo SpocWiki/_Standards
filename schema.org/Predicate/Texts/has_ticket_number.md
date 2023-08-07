@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Ticket.
 
 Use it like this: 
-- [ #has_/text_about_/ticket_number :: Text ] or 
+- [ #has_/text_about/_ticket_number :: Text ] or 
 - [ has_text_about_ticket_number :: Text ] 
 
 The unique identifier for the ticket.

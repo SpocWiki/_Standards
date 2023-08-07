@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Place.
 
 Use it like this: 
-- [ #has_/text_about_/branch_code :: Text ] or 
+- [ #has_/text_about/_branch_code :: Text ] or 
 - [ has_text_about_branch_code :: Text ] 
 
 A short textual code (also called "store code") that uniquely identifies a place of business. The code is typically assigned by the parentOrganization and used in structured URLs.&lt;br/&gt;&lt;br/&gt;

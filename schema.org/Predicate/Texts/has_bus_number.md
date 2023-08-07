@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of BusTrip.
 
 Use it like this: 
-- [ #has_/text_about_/bus_number :: Text ] or 
+- [ #has_/text_about/_bus_number :: Text ] or 
 - [ has_text_about_bus_number :: Text ] 
 
 The unique identifier for the bus.

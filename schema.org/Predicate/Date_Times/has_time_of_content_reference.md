@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_time_of_content_reference)
 (range::DateTime)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ Predicate to describe the Number of Accommodation, ApartmentComplex, FloorPlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_number_of_bedrooms :: Number, QuantitativeValue ] or 
+- [ #has_/number_of/_number_of_bedrooms :: Number, QuantitativeValue ] or 
 - [ has_number_of_number_of_bedrooms :: Number, QuantitativeValue ] 
 
 The total integer number of bedrooms in a some <a class="localLink" href="/Accommodation">Accommodation</a>, <a class="localLink" href="/ApartmentComplex">ApartmentComplex</a> or <a class="localLink" href="/FloorPlan">FloorPlan</a>.

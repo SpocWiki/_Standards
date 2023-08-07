@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Demand, Offer.
 
 Use it like this: 
-- [ #has_/value_for_/eligible_duration :: QuantitativeValue ] or 
+- [ #has_/value_for/_eligible_duration :: QuantitativeValue ] or 
 - [ has_value_for_eligible_duration :: QuantitativeValue ] 
 
 The duration for which the given offer is valid.

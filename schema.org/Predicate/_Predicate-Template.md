@@ -13,7 +13,7 @@ type: Predicate
 title: {{has_label_snail}}
 
 linkTitle: 
-keywords: 
+keywords: [{{label_snail}}]
 layout: 
 draft: false
 publishDate:

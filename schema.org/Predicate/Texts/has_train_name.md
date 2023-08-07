@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of TrainTrip.
 
 Use it like this: 
-- [ #has_/text_about_/train_name :: Text ] or 
+- [ #has_/text_about/_train_name :: Text ] or 
 - [ has_text_about_train_name :: Text ] 
 
 The name of the train (e.g. The Orient Express).

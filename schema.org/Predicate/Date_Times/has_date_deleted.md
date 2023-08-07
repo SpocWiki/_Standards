@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the date of DataFeedItem.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_date_deleted::P#Y#M#W#DT#H#M#s.fff] or 
@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_date_deleted)
 (range::Date, DateTime)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

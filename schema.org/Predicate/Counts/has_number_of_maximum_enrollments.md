@@ -35,7 +35,7 @@ Predicate to describe the Number of EducationalOccupationalProgram.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_maximum_enrollments :: Integer ] or 
+- [ #has_/number_of/_maximum_enrollments :: Integer ] or 
 - [ has_number_of_maximum_enrollments :: Integer ] 
 
 The maximum number of students who may be enrolled in the program.

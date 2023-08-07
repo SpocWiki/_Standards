@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of BusinessAudience, Organization.
 
 Use it like this: 
-- [ #has_/number/_of_number_of_employees :: QuantitativeValue ] or 
+- [ #has_/number_of/_number_of_employees :: QuantitativeValue ] or 
 - [ has_number_of_number_of_employees :: QuantitativeValue ] 
 
 The number of employees in an organization, e.g. business.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- [ #has_/text_about_/mechanism_of_action :: Text ] or 
+- [ #has_/text_about/_mechanism_of_action :: Text ] or 
 - [ has_text_about_mechanism_of_action :: Text ] 
 
 The specific biochemical interaction through which this drug or supplement produces its pharmacological effect.

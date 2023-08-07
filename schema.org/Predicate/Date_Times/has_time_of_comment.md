@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the time of UserComments.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_time_of_comment::P#Y#M#W#DT#H#M#s.fff] or 

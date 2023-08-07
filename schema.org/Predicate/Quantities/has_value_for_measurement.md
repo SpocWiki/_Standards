@@ -35,7 +35,7 @@ Predicate to describe the Quantity of Offer, Product, SizeSpecification.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value_for_/measurement :: QuantitativeValue ] or 
+- [ #has_/value_for/_measurement :: QuantitativeValue ] or 
 - [ has_value_for_measurement :: QuantitativeValue ] 
 
 A product measurement, for example the inseam of pants, the wheel size of a bicycle, or the gauge of a screw. Usually an exact measurement, but can also be a range of measurements for adjustable products, for example belts and ski bindings.

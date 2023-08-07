@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of DatedMoneySpecification, InvestmentOrDeposit, LoanOrCredit, MonetaryGrant, MoneyTransfer.
 
 Use it like this: 
-- [ #has_/value_for_/amount :: MonetaryAmount, Number ] or 
+- [ #has_/value_for/_amount :: MonetaryAmount, Number ] or 
 - [ has_value_for_amount :: MonetaryAmount, Number ] 
 
 The amount of money.

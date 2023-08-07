@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of MediaObject, OfferShippingDetails, Person, Product, VisualArtwork.
 
 Use it like this: 
-- [ #has_/value_for_/height_in_meters :: Distance, QuantitativeValue ] or 
+- [ #has_/value_for/_height_in_meters :: Distance, QuantitativeValue ] or 
 - [ has_value_for_height_in_meters :: Distance, QuantitativeValue ] 
 
 The height of the item.

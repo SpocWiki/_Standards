@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of PublicationVolume.
 
 Use it like this: 
-- [ #has_/number/_of_volume :: Integer, Text ] or 
+- [ #has_/number_of/_volume :: Integer, Text ] or 
 - [ has_number_of_volume :: Integer, Text ] 
 
 Identifies the volume of publication or multi-part work; for example, "iii" or "2".

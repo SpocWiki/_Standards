@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the time of RentalCarReservation.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_time_to_drop_off::P#Y#M#W#DT#H#M#s.fff] or 
@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_time_to_drop_off)
 (range::DateTime)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

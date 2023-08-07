@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_about_/schema_version :: Text, URL ] or 
+- [ #has_/text_about/_schema_version :: Text, URL ] or 
 - [ has_text_about_schema_version :: Text, URL ] 
 
 Indicates (by URL or string) a particular version of a schema used in some CreativeWork. This property was created primarily to

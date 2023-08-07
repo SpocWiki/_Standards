@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of BusTrip.
 
 Use it like this: 
-- [ #has_/text_about_/bus_name :: Text ] or 
+- [ #has_/text_about/_bus_name :: Text ] or 
 - [ has_text_about_bus_name :: Text ] 
 
 The name of the bus (e.g. Bolt Express).

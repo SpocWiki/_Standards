@@ -35,7 +35,7 @@ Predicate to describe the Number of Schedule.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number/_of_day_in_month :: Integer ] or 
+- [ #has_/number_of/_day_in_month :: Integer ] or 
 - [ has_number_of_day_in_month :: Integer ] 
 
 Defines the day(s) of the month on which a recurring <a class="localLink" href="/Event">Event</a> takes place. Specified as an <a class="localLink" href="/Integer">Integer</a> between 1-31.

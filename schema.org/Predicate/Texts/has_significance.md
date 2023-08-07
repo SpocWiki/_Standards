@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of SuperficialAnatomy.
 
 Use it like this: 
-- [ #has_/text_about_/significance :: Text ] or 
+- [ #has_/text_about/_significance :: Text ] or 
 - [ has_text_about_significance :: Text ] 
 
 The significance associated with the superficial anatomy; as an example, how characteristics of the superficial anatomy can suggest underlying medical conditions or courses of treatment.

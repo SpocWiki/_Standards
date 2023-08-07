@@ -44,9 +44,9 @@ Formal Predicate:
 (name::has_date_of_sd_published)
 (range::Date)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

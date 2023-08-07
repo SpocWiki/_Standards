@@ -35,7 +35,7 @@ Predicate to describe the Text of CreativeWork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/copyright_notice :: Text ] or 
+- [ #has_/text_about/_copyright_notice :: Text ] or 
 - [ has_text_about_copyright_notice :: Text ] 
 
 Text of a notice appropriate for describing the copyright aspects of this Creative Work, ideally indicating the owner of the copyright for the Work.

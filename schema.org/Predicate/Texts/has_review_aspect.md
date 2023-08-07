@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Guide, Rating, Review.
 
 Use it like this: 
-- [ #has_/text_about_/review_aspect :: Text ] or 
+- [ #has_/text_about/_review_aspect :: Text ] or 
 - [ has_text_about_review_aspect :: Text ] 
 
 This Review or Rating is relevant to this part or facet of the itemReviewed.

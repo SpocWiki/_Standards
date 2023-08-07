@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Demand, Offer.
 
 Use it like this: 
-- [ #has_/value_for_/delivery_lead_time :: QuantitativeValue ] or 
+- [ #has_/value_for/_delivery_lead_time :: QuantitativeValue ] or 
 - [ has_value_for_delivery_lead_time :: QuantitativeValue ] 
 
 The typical delay between the receipt of the order and the goods either leaving the warehouse or being prepared for pickup, in case the delivery method is on site pickup.

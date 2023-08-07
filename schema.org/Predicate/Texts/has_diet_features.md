@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_about_/diet_features :: Text ] or 
+- [ #has_/text_about/_diet_features :: Text ] or 
 - [ has_text_about_diet_features :: Text ] 
 
 Nutritional information specific to the dietary plan. May include dietary recommendations on what foods to avoid, what foods to consume, and specific alterations/deviations from the USDA or other regulatory body"s approved dietary guidelines.

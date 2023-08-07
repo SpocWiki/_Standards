@@ -36,8 +36,8 @@ Use it like this:
 A sub property of object. The object that is being replaced.
 
 Relation describes that: 
-[ #has_/domain  :: ReplaceAction ]
-( #has_/name :: is_replacee )
+( #has_/domain  :: ReplaceAction )
+( #has_/name :: has_replacee )
 ( #has_/range :: Thing )
 
 [ #is_/sub_property_of  :: object ]

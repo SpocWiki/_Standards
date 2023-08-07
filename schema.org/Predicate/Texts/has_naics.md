@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [ #has_/text_about_/naics :: Text ] or 
+- [ #has_/text_about/_naics :: Text ] or 
 - [ has_text_about_naics :: Text ] 
 
 The North American Industry Classification System (NAICS) code for a particular organization or business person.

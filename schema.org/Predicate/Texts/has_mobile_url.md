@@ -35,7 +35,7 @@ Predicate to describe the Text of Offer, Product.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/mobile_url :: Text ] or 
+- [ #has_/text_about/_mobile_url :: Text ] or 
 - [ has_text_about_mobile_url :: Text ] 
 
 The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated "mobile site".&lt;br/&gt;&lt;br/&gt;

@@ -35,7 +35,7 @@ Predicate to describe the Number of Vehicle.
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has_/number/_of_seating_capacity :: Number, QuantitativeValue ] or 
+- [ #has_/number_of/_seating_capacity :: Number, QuantitativeValue ] or 
 - [ has_number_of_seating_capacity :: Number, QuantitativeValue ] 
 
 The number of persons that can be seated (e.g. in a vehicle), both in terms of the physical space available, and in terms of limitations set by law.

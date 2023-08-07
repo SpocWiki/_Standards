@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of CreativeWork.
 
 Use it like this: 
-- [ #has_/number/_of_comments :: Integer ] or 
+- [ #has_/number_of/_comments :: Integer ] or 
 - [ has_number_of_comments :: Integer ] 
 
 The number of comments this CreativeWork (e.g. Article, Question or Answer) has received. This is most applicable to works published in Web sites with commenting system; additional comments may exist elsewhere.

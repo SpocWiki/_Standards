@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of Invoice.
 
 Use it like this: 
-- [ #has_/value_for_/minimum_payment_due :: MonetaryAmount, PriceSpecification ] or 
+- [ #has_/value_for/_minimum_payment_due :: MonetaryAmount, PriceSpecification ] or 
 - [ has_value_for_minimum_payment_due :: MonetaryAmount, PriceSpecification ] 
 
 The minimum payment required at this time.

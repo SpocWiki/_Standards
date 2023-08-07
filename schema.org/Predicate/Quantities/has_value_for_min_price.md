@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of PriceSpecification.
 
 Use it like this: 
-- [ #has_/value_for_/min_price :: Number ] or 
+- [ #has_/value_for/_min_price :: Number ] or 
 - [ has_value_for_min_price :: Number ] 
 
 The lowest price if the price is a range.

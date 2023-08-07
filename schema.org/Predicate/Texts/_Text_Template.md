@@ -38,7 +38,7 @@ Predicate to describe the Text of {{domainIncludes}}.
 [ #is_/part_of :: {{isPartOf}} ]
 
 Use it like this: 
-- [ #has_/text_about_/{{label_snail}} :: {{rangeIncludes}} ] or 
+- [ #has_/text_about/_{{label_snail}} :: {{rangeIncludes}} ] or 
 - [ has_text_about_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}

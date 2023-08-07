@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of ContactPoint.
 
 Use it like this: 
-- [ #has_/text_about_/contact_type :: Text ] or 
+- [ #has_/text_about/_contact_type :: Text ] or 
 - [ has_text_about_contact_type :: Text ] 
 
 A person or organization can have different contact points, for different purposes. For example, a sales contact point, a PR contact point and so on. This property is used to specify the kind of contact point.

@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of VideoGame.
 
 Use it like this: 
-- [ #has_/text_about_/game_edition :: Text ] or 
+- [ #has_/text_about/_game_edition :: Text ] or 
 - [ has_text_about_game_edition :: Text ] 
 
 The edition of a video game.

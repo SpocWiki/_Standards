@@ -35,7 +35,7 @@ Predicate to describe the Text of EducationalOccupationalProgram.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/time_of_day :: Text ] or 
+- [ #has_/text_about/_time_of_day :: Text ] or 
 - [ has_text_about_time_of_day :: Text ] 
 
 The time of day the program normally runs. For example, "evenings".

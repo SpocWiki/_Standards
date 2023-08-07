@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of NutritionInformation.
 
 Use it like this: 
-- [ #has_/value_for_/carbohydrate_in_gram :: Mass ] or 
+- [ #has_/value_for/_carbohydrate_in_gram :: Mass ] or 
 - [ has_value_for_carbohydrate_in_gram :: Mass ] 
 
 The number of grams of carbohydrates.

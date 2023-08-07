@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the Duration of Audiobook, Episode, Event, MediaObject, Movie, MusicRecording, MusicRelease, QuantitativeValueDistribution, Schedule.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_duration::P#Y#M#W#DT#H#M#s.fff] or 
@@ -44,7 +44,7 @@ Formal Predicate:
 (name::has_duration)
 (range::Duration)
 
-Is [sub_property_of::]
+
 
 Has [sub_properties::loanTerm]
 

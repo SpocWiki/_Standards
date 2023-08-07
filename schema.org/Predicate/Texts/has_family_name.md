@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text_about_/family_name :: Text ] or 
+- [ #has_/text_about/_family_name :: Text ] or 
 - [ has_text_about_family_name :: Text ] 
 
 Family name. In the U.S., the last name of a Person.

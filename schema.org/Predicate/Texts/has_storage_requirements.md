@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/storage_requirements :: Text, URL ] or 
+- [ #has_/text_about/_storage_requirements :: Text, URL ] or 
 - [ has_text_about_storage_requirements :: Text, URL ] 
 
 Storage requirements (free space required).

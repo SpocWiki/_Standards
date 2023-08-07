@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of Organization.
 
 Use it like this: 
-- [ #has_/text_about_/legal_name :: Text ] or 
+- [ #has_/text_about/_legal_name :: Text ] or 
 - [ has_text_about_legal_name :: Text ] 
 
 The official name of the organization, e.g. the registered company name.

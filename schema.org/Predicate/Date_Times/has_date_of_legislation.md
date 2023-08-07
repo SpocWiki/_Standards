@@ -46,7 +46,7 @@ Formal Predicate:
 
 Is [sub_property_of::dateCreated]
 
-Has [sub_properties::]
+
 
 
 ## Confidential Links & Embeds: 

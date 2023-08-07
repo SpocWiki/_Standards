@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of Article, Chapter, PublicationIssue, PublicationVolume.
 
 Use it like this: 
-- [ #has_/number/_of_page_start :: Integer, Text ] or 
+- [ #has_/number_of/_page_start :: Integer, Text ] or 
 - [ has_number_of_page_start :: Integer, Text ] 
 
 The page on which the work starts; for example "135" or "xiii".

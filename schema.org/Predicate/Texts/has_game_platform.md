@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of VideoGame, VideoGameSeries.
 
 Use it like this: 
-- [ #has_/text_about_/game_platform :: Text, Thing, URL ] or 
+- [ #has_/text_about/_game_platform :: Text, Thing, URL ] or 
 - [ has_text_about_game_platform :: Text, Thing, URL ] 
 
 The electronic systems used to play [video games](http://en.wikipedia.org/wiki/Category:Video_game_platforms).

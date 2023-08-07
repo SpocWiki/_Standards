@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of Accommodation, Apartment, FloorPlan, House, LodgingBusiness, SingleFamilyResidence, Suite.
 
 Use it like this: 
-- [ #has_/number/_of_number_of_rooms :: Number, QuantitativeValue ] or 
+- [ #has_/number_of/_number_of_rooms :: Number, QuantitativeValue ] or 
 - [ has_number_of_number_of_rooms :: Number, QuantitativeValue ] 
 
 The number of rooms (excluding bathrooms and closets) of the accommodation or lodging business.

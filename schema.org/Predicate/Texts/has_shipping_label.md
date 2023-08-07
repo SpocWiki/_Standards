@@ -35,7 +35,7 @@ Predicate to describe the Text of OfferShippingDetails, ShippingRateSettings.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/shipping_label :: Text ] or 
+- [ #has_/text_about/_shipping_label :: Text ] or 
 - [ has_text_about_shipping_label :: Text ] 
 
 Label to match an [[OfferShippingDetails]] with a [[ShippingRateSettings]] (within the context of a [[shippingSettingsLink]] cross-reference).

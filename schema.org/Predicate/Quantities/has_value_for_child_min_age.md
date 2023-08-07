@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of ParentAudience.
 
 Use it like this: 
-- [ #has_/value_for_/child_min_age :: Number ] or 
+- [ #has_/value_for/_child_min_age :: Number ] or 
 - [ has_value_for_child_min_age :: Number ] 
 
 Minimal age of the child.

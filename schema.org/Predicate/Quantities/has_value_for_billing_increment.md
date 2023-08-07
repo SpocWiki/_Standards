@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Quantity of UnitPriceSpecification.
 
 Use it like this: 
-- [ #has_/value_for_/billing_increment :: Number ] or 
+- [ #has_/value_for/_billing_increment :: Number ] or 
 - [ has_value_for_billing_increment :: Number ] 
 
 This property specifies the minimal quantity and rounding increment that will be the basis for the billing. The unit of measurement is specified by the unitCode property.

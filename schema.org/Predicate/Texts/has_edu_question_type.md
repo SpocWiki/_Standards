@@ -35,7 +35,7 @@ Predicate to describe the Text of Question, SolveMathAction.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/edu_question_type :: Text ] or 
+- [ #has_/text_about/_edu_question_type :: Text ] or 
 - [ has_text_about_edu_question_type :: Text ] 
 
 For questions that are part of learning resources (e.g. Quiz), eduQuestionType indicates the format of question being given. Example: "Multiple choice", "Open ended", "Flashcard".

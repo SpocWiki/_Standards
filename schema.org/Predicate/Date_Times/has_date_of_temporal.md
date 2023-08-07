@@ -31,7 +31,7 @@ aliases:
 
 Predicate to describe the date of CreativeWork.
 
-[is_part_of:: ]
+
 
 Use it like this: 
 - [has_date_of_temporal::P#Y#M#W#DT#H#M#s.fff] or 
@@ -45,9 +45,9 @@ Formal Predicate:
 (name::has_date_of_temporal)
 (range::DateTime, Text)
 
-Is [sub_property_of::]
 
-Has [sub_properties::]
+
+
 
 
 ## Confidential Links & Embeds: 

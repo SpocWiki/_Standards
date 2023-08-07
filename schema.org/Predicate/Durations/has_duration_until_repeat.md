@@ -47,7 +47,7 @@ Formal Predicate:
 
 Is [sub_property_of::frequency]
 
-Has [sub_properties::]
+
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ Predicate to describe the Text of Accommodation.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/floor_level :: Text ] or 
+- [ #has_/text_about/_floor_level :: Text ] or 
 - [ has_text_about_floor_level :: Text ] 
 
 The floor level for an [[Accommodation]] in a multi-storey building. Since counting

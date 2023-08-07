@@ -35,7 +35,7 @@ Predicate to describe the Text of BusOrCoach, Car.
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has_/text_about_/acriss_code :: Text ] or 
+- [ #has_/text_about/_acriss_code :: Text ] or 
 - [ has_text_about_acriss_code :: Text ] 
 
 The ACRISS Car Classification Code is a code used by many car rental companies, for classifying vehicles. ACRISS stands for Association of Car Rental Industry Systems and Standards.

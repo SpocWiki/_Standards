@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/countries_not_supported :: Text ] or 
+- [ #has_/text_about/_countries_not_supported :: Text ] or 
 - [ has_text_about_countries_not_supported :: Text ] 
 
 Countries for which the application is not supported. You can also provide the two-letter ISO 3166-1 alpha-2 country code.

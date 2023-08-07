@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of Article.
 
 Use it like this: 
-- [ #has_/number/_of_words :: Integer ] or 
+- [ #has_/number_of/_words :: Integer ] or 
 - [ has_number_of_words :: Integer ] 
 
 The number of words in the text of the Article.

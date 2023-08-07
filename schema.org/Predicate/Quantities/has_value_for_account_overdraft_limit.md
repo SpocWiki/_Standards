@@ -35,7 +35,7 @@ Predicate to describe the Quantity of BankAccount.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value_for_/account_overdraft_limit :: MonetaryAmount ] or 
+- [ #has_/value_for/_account_overdraft_limit :: MonetaryAmount ] or 
 - [ has_value_for_account_overdraft_limit :: MonetaryAmount ] 
 
 An overdraft is an extension of credit from a lending institution when an account reaches zero.

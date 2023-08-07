@@ -33,7 +33,7 @@ aliases:
 Predicate to describe the Number of RsvpAction.
 
 Use it like this: 
-- [ #has_/number/_of_additional_number_of_guests :: Number ] or 
+- [ #has_/number_of/_additional_number_of_guests :: Number ] or 
 - [ has_number_of_additional_number_of_guests :: Number ] 
 
 If responding yes, the number of guests who will attend in addition to the invitee.
