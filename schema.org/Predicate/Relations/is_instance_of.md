@@ -27,19 +27,32 @@ aliases:
 - instance_of
 - instanceOf
 - is_instance_of
+- is_member_of 
+- collection-members 
 ---
-
-Use it like this: 
-- [ #is_/instance_of :: Class] or 
-- [ is_instance_of :: Class] 
 
 Relates an Object to its Class. Can be implemented with dedicated #Tags
 
-Relation describes that: 
+
+The *Type-Instance* relationship, 
+which helps to group **similar** objects
+---such as an organization and its members. 
+
+There is no distinction between individual members of a collection
+---all of them are of the same Type and treated equally. 
+
+## Alternative Structural Relations:
+- [is_part_of](is_part_of.md)
+- [is_element_of](is_element_of.md)
+
+## Use it like this: 
+- [ #is_/instance_of :: Class] or 
+- [ is_instance_of :: Class] 
+
+## Relation describes that: 
 [ #has_/domain  :: Thing]
 ( #has_/name :: is_instance_of)
 ( #has_/range :: Class)
-
 
 
 ## Confidential Links & Embeds: 

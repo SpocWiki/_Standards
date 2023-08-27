@@ -20,6 +20,7 @@ aliases:
 Types are classes of  Entities/Objects with Identity and defined Properties. 
 Types can be used to represent Sets of similar/substitutable Entities. 
 
+They are the Object of the [is_instance_of](Predicate/Relations/is_instance_of.md) Relation to their [Instances](Type/Instance.md). 
 
 
 ## Confidential Links & Embeds: 

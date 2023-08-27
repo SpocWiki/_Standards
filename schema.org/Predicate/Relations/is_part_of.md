@@ -29,6 +29,33 @@ aliases:
 - is_part_of
 ---
 
+Aggregate 
+Composite 
+Assembly 
+[[../../Type/is_a_/structural/Compound]]  
+
+
+
+# An Assembly-parts* relationship, 
+which differentiates between a product and its parts, or subassemblies
+---such as the relationship of a molecule to its atoms. 
+
+This is different from 
+- the [is_element_of](is_element_of.md) Relation that characterizes loose Association in a Container and from 
+- the [is_instance_of](is_instance_of.md) Relation between a Class/Type and its Instances. 
+
+All parts are **tightly integrated** according to the internal structure of the Assembly. 
+Access to individual Parts is not (regularly) possible, unless by destroying the Assembly. 
+Often the Elements are created and destroyed together with the Assembly.
+
+The **Number and type of parts/subassemblies is predefined** and does not vary. 
+
+Each part has a **specific Role and named Relationship**. 
+This corresponds to the Members of a class/type/record or RDF class. 
+
+The Assembly has new (emergent) Qualities, expressed by new Methods, 
+but there may also be Methods that just propagate and aggregate Element Methods. 
+
 Use it like this: 
 - [ #is_/part_of :: CreativeWork, URL] or 
 - [ is_part_of :: CreativeWork, URL] 
@@ -43,6 +70,20 @@ Relation describes that:
 [ #is_/inverse_of  :: hasPart]
 
 [ #has_/sub_properties :: [ inDefinedTermSet, partOfEpisode, partOfSeason, partOfSeries, partOfTVSeries]]
+
+## Examples: 
+
+### Car 
+with Parts like 
+#### Steering_Wheel 
+#### Chassis 
+#### Engine 
+#### Cludge 
+#### Front-right_Wheel
+#### Front-left_Wheel
+#### Back-right_Wheel
+#### Back-left_Wheel
+etc. 
 
 
 

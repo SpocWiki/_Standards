@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -25,12 +25,13 @@ tags:
 
 aliases:
 - collection
-- collection
 - Collection
 - is_a_collection
+- container
+- 
 ---
 
-Class of all collections.
+Class of all collections with [Items](collection/Item.md).
 
 Tag Instances like this: 
 #is_/a_/collection
@@ -38,6 +39,10 @@ Tag Instances like this:
 [ #is_/part_of :: https://bib.schema.org ]
 
 A collection of items, e.g. creative works or products.
+
+The collection provides functionality, such as iterating over its members
+and performing operations on each of them. 
+
 
 [ #is_/sub_class_of :: [[../CreativeWork]] ]
 
