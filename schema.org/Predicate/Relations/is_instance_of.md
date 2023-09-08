@@ -30,16 +30,15 @@ aliases:
 - is_member_of 
 - collection-members 
 ---
+# [Type](../../Type.md)-[Instance](../../Type/Instance.md) Relationship 
+Relates an Object to its Class. 
+Can be implemented with dedicated #Tags 
 
-Relates an Object to its Class. Can be implemented with dedicated #Tags
-
-
-The *Type-Instance* relationship, 
-which helps to group **similar** objects
+Helps to group all (potential) **similar** objects 
 ---such as an organization and its members. 
 
-There is no distinction between individual members of a collection
----all of them are of the same Type and treated equally. 
+Unlike the untyped, finite [Item](../../Type/is_a_/structural/collection/Item.md) Relation, this is an infinite, typed Relation. 
+Each [Instance](../../Type/Instance.md) has its own Identity.
 
 ## Alternative Structural Relations:
 - [is_part_of](is_part_of.md)

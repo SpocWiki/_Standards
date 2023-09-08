@@ -3,32 +3,25 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_collection Class
 linkTitle: is_a_collection Class
-
-keywords: [collection]
+keywords:
+  - collection
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- schema.org/Type
-
+  - schema.org/Type
 aliases:
-- collection
-- Collection
-- is_a_collection
-- container
-- 
+  - collection
+  - Collection
+  - is_a_collection
+  - container
 ---
 
 Class of all collections with [Items](collection/Item.md).

@@ -35,9 +35,8 @@ Assembly
 [[../../Type/is_a_/structural/Compound]]  
 
 
-
-# An Assembly-parts* relationship, 
-which differentiates between a product and its parts, or subassemblies
+# [Compound](../../Type/is_a_/structural/Compound.md)-[Part](../../Type/is_a_/structural/Compound/Part.md) Relationship, 
+which differentiates between a Product and its Parts, or Sub-Assemblies
 ---such as the relationship of a molecule to its atoms. 
 
 This is different from 
