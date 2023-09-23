@@ -32,8 +32,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_in_collection :: Thing ] or 
-- [ is_in_collection :: Thing ] 
+- [ #is/_in_collection :: [Thing](../../../Thing.md) ] or 
+- [ is_in_collection :: [Thing](../../../Thing.md) ] 
 
 A sub property of object. The collection target of the action.
 

@@ -30,7 +30,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_mentioning :: Thing ] or 
+- [ #is/_mentioning :: [Thing](../../../Thing.md) ] or 
 - [ is_mentioning :: [[../../../Type/is_a_|Thing]] ] 
 
 Indicates that the [[../../../Type/is_a_/creative_work|Creative Work]] contains a reference to, but is not necessarily about a concept.

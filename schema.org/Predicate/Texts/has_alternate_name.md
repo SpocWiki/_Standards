@@ -39,7 +39,7 @@ Use it like this:
 An alias for the item.
 
 Predicated describes that: 
-[ #has_/domain  :: Thing ]
+[ #has_/domain  :: [Thing](../../Thing.md) ]
 ( #has_/name :: has_text_about_alternate_name )
 ( #has_/range :: Text )
 

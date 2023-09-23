@@ -29,11 +29,11 @@ aliases:
 - is_used_to_diagnose
 ---
 
+A condition the test is used to diagnose.
+
 Use it like this: 
 - [ #is/_used_to_diagnose :: MedicalCondition ] or 
 - [ is_used_to_diagnose :: MedicalCondition ] 
-
-A condition the test is used to diagnose.
 
 Relation describes that: 
 [ #has_/domain  :: MedicalTest ]

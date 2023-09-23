@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_error :: Thing ] or 
-- [ has_error :: Thing ] 
+- [ #has/_error :: [Thing](../../../Thing.md) ] or 
+- [ has_error :: [Thing](../../../Thing.md) ] 
 
 For failed actions, more information on the cause of the failure.
 

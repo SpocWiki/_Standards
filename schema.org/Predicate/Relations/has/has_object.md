@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_object :: Thing ] or 
-- [ has_object :: Thing ] 
+- [ #has/_object :: [Thing](../../../Thing.md) ] or 
+- [ has_object :: [Thing](../../../Thing.md) ] 
 
 The object upon which the action is carried out, whose state is kept intact or changed. Also known as the semantic roles `patient`, `affected` or `undergoer` (which change their state) or theme (which doesn't). E.g. John read **a book**. 
 Rather choose one of the more specific Roles listed below:

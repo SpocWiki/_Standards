@@ -1,45 +1,21 @@
 ---
-license: CC BY-SA 4.0
-confidential: public
-isDeleted: false
-isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate Relation
-publish: true
-
-# Hugo Tags
-type: Predi_Relation
-title: is_subclass_of
-
-linkTitle: is_subclass_of
-keywords: 
-layout: 
-draft: false
-publishDate:
-expiryDate: 
-
-tags:
-- schema.org/Predicate/Relation
-
 aliases:
-- subclass-of
-- subclass_of
-- subclassOf
-- is_subclass_of
+  - rdfs:subPropertyOf
+  - owl:subPropertyOf
 ---
 
 Use it like this: 
-- [ #is_/sub_class_of :: Class] or 
-- [ is_sub_class_of :: Class] 
+- [ #is_/sub_relation_of :: [Relation](../Relation.md)] or 
+- [ is_sub_relation_of :: [Relation](../Relation.md)] 
 
-Relates a subclass to its super-class. 
-Can be implemented with dedicated #Tags
+Relates a sub-Relation to its super-Relation. 
+sub-Relations are Sub-Sets of (binary) Relations 
+Also the [has_domain](../has_domain.md) and [has_range](../has_range.md) form Sub-Sets of the original Sets.
 
 Relation describes that: 
-[ #has_/domain  :: [Class](../../Type.md)]
-( #has_/name :: [is_subclass_of](is_sub_class_of.md))
-( #has_/range :: [Class](../../Type.md))
+[ #has_/domain  :: [Relation](../Relation.md)]
+( #has_/name :: is_subclass_of)
+( #has_/range :: [Relation](../Relation.md))
 
 
 ## Confidential Links & Embeds: 

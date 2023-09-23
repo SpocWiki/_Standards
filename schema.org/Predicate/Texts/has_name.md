@@ -39,7 +39,7 @@ Use it like this:
 The name of the item.
 
 Predicated describes that: 
-[ #has_/domain  :: Thing ]
+[ #has_/domain  :: [Thing](../../Thing.md) ]
 ( #has_/name :: has_text_about_name )
 ( #has_/range :: Text )
 

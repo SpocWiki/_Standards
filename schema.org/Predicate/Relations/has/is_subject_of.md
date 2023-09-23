@@ -36,7 +36,7 @@ Use it like this:
 A CreativeWork or Event about this Thing.
 
 Relation describes that: 
-[ #has_/domain  :: Thing ]
+[ #has_/domain  :: [Thing](../../../Thing.md) ]
 ( #has_/name :: is_subject_of )
 ( #has_/range :: CreativeWork, Event )
 

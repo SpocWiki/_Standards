@@ -22,7 +22,8 @@ Types can be used to represent Sets of similar/substitutable Entities.
 
 They are the Object of the [is_instance_of](Predicate/Relations/is_instance_of.md) Relation to their [Instances](Type/Instance.md). 
 
-
+Different from Sets in naive Set-Theory, the Instances are usually neither finite nor enumerable 
+and thus must be treated specially in inference. 
 ## Confidential Links & Embeds: 
 - [[../../_public/schema.org/Type.md|Type]] 
 - [[../../_internal/schema.org/Type.internal.md|Type.internal]] 

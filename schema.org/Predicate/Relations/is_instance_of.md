@@ -42,11 +42,13 @@ Each [Instance](../../Type/Instance.md) has its own Identity.
 
 ## Alternative Structural Relations:
 - [is_part_of](is_part_of.md)
-- [is_element_of](is_element_of.md)
+- [is_element_of](is_element_of.md) 
 
 ## Use it like this: 
 - [ #is_/instance_of :: Class] or 
-- [ is_instance_of :: Class] 
+- [ is_instance_of :: Class]  for Objects
+Or use 
+- [is_subclass_of](is_sub_class_of.md)  for Classes
 
 ## Relation describes that: 
 [ #has_/domain  :: Thing]

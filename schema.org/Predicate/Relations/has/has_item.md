@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item :: Thing ] or 
-- [ has_item :: Thing ] 
+- [ #has/_item :: [Thing](../../../Thing.md) ] or 
+- [ has_item :: [Thing](../../../Thing.md) ] 
 
 An entity represented by an entry in a list or data feed (e.g. an 'artist' in a list of 'artists').
 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A person (alive, dead, undead, or fictional).
 
-[ #is_/sub_class_of :: [[../Thing]] ]
+[ #is_/sub_class_of :: [[Agent]] ]
 
 [ #has_/sub_classes :: [ Patient ] ]
 

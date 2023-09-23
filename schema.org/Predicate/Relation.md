@@ -5,23 +5,25 @@ publish: true
 confidential: public
 isDeleted: false
 isReadOnly: false
+
 tags:
-  - schema.org/Predicate
+- schema.org/Predicate
+
 aliases:
-  - Quantity
-  - rdf:Property
+- Quantity
+- 
+
 ---
 
 # Property Overview
-
-This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range]]. 
-[[Range]]
-
 
 A [Quantity](Property.md) connects a Scalar Value to an Entity. 
 A [Relation](Relation.md) connects to another Entity. 
 [Property](Property.md) unifies both. 
 
+In RDF there is no distinction between these, except for the specified Range. 
+But since ValueTypes are fundamentally different from ReferenceTypes in Software, 
+it makes sense to also differentiate between [Property](Property.md) and [Relation](Relation.md). 
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/schema.org/Predicate/Property.md|Property]] 

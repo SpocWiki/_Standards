@@ -1,41 +1,36 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_use_action Class
 linkTitle: is_a_use_action Class
-
-keywords: [use_action]
+keywords:
+  - use_action
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- schema.org/Type
-
+  - schema.org/Type
 aliases:
-- use-action
-- use_action
-- UseAction
-- is_a_use_action
+  - use-action
+  - use_action
+  - UseAction
+  - is_a_use_action
+  - is_using_up
 ---
+The act of applying an object to its intended purpose, 
+but also consuming it in the Action in contrast to [[is_using]].
 
 Class of all use_actions.
 
 Tag Instances like this: 
 #is_/a_/use_action
-
-The act of applying an object to its intended purpose.
 
 [ #is_/sub_class_of :: [[../ConsumeAction]] ]
 

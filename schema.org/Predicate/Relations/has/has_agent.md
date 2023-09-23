@@ -36,9 +36,9 @@ Use it like this:
 The direct performer or driver of the action (animate or inanimate). E.g. &lt;em&gt;John&lt;/em&gt; wrote a book.
 
 Relation describes that: 
-[ #has_/domain  :: Action ]
+[ #has_/domain  :: [Action](../../../Type/is_a_/action.md) ]
 ( #has_/name :: has_agent )
-( #has_/range :: Organization, Person )
+( #has_/range :: [Organization](../../../Type/is_a_/organization.md), [Person](../../../Type/is_a_/person.md) )
 
 
 

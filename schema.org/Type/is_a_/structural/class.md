@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -32,14 +32,13 @@ aliases:
 - is_a_class
 ---
 
-Class of all classs.
+The single Meta-Class of all [Classes](../../../Type.md).
+The Type 'class', also often called a 'Type'; equivalent to rdfs:Class.
 
 Tag Instances like this: 
 #is_/a_/class
 
 [ #is_/part_of :: https://meta.schema.org ]
-
-A class, also often called a 'Type'; equivalent to rdfs:Class.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

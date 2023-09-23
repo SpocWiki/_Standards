@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item_reviewed :: Thing ] or 
-- [ has_item_reviewed :: Thing ] 
+- [ #has/_item_reviewed :: [Thing](../../../Thing.md) ] or 
+- [ has_item_reviewed :: [Thing](../../../Thing.md) ] 
 
 The item that is being reviewed/rated.
 

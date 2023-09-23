@@ -37,6 +37,11 @@ Tagging Instances like this is futile, because it is implied:
 
 The most generic type of item.
 
+Don't used this as a Relation, because it is too vague. Rather use 
+- [is_instance_of](../Predicate/Relations/is_instance_of.md) for Objects or 
+- [is_subclass_of](is_sub_class_of.md)  for Classes
+
+
 [ #has_/sub_classes :: [ Action, BioChemEntity, CreativeWork, Event, Intangible, MedicalEntity, Organization, Person, Place, Product, StupidType, Taxon ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]

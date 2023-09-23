@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_instrument :: Thing ] or 
-- [ has_instrument :: Thing ] 
+- [ #has/_instrument :: [Thing](../../../Thing.md) ] or 
+- [ has_instrument :: [Thing](../../../Thing.md) ] 
 
 The object that helped the agent perform the action. E.g. John wrote a book with &lt;em&gt;a pen&lt;/em&gt;.
 

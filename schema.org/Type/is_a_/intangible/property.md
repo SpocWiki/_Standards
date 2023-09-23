@@ -1,45 +1,40 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_property Class
 linkTitle: is_a_property Class
-
-keywords: [property]
+keywords:
+  - property
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 equivalent_class: http://www.w3.org/1999/02/22-rdf-syntax-ns#Property
-
 tags:
-- schema.org/Type
-
+  - schema.org/Type
 aliases:
-- property
-- property
-- Property
-- is_a_property
+  - property
+  - property
+  - Property
+  - is_a_property
+  - rdf:Property
+  - schema:Property
 ---
 
-Class of all propertys.
+The Class/Type of all [Properties](../../../Predicate/Property.md).
 
 Tag Instances like this: 
-#is_/a_/property
+#is_/a_/property 
 
 [ #is_/part_of :: https://meta.schema.org ]
 
-A property, used to indicate attributes and relationships of some Thing; equivalent to rdf:Property.
+[Properties](../../../Predicate/Property.md) are used to indicate attributes and relationships of some Thing; equivalent to rdf:Property.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

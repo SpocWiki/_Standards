@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_main_entity :: Thing ] or 
-- [ has_main_entity :: Thing ] 
+- [ #has/_main_entity :: [Thing](../../../Thing.md) ] or 
+- [ has_main_entity :: [Thing](../../../Thing.md) ] 
 
 Indicates the primary entity described in some page or other CreativeWork.
 

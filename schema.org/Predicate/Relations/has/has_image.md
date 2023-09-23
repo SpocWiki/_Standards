@@ -36,7 +36,7 @@ Use it like this:
 An image of the item. This can be a [[URL]] or a fully described [[ImageObject]].
 
 Relation describes that: 
-[ #has_/domain  :: Thing ]
+[ #has_/domain  :: [Thing](../../../Thing.md) ]
 ( #has_/name :: has_image )
 ( #has_/range :: ImageObject, URL )
 
