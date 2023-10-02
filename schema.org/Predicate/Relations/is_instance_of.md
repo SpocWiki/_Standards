@@ -22,7 +22,7 @@ aliases:
   - instance_of
   - instanceOf
   - is_instance_of
-  - rdf: type
+  - rdf~type
   - is_a
   - is_an
 ---

@@ -13,7 +13,7 @@ aliases:
   - additionalType
   - has_url_for_additional_type
   - rdfs: Class
-  - rdf: type
+  - rdf~type
   - 
 ---
 ```turtle

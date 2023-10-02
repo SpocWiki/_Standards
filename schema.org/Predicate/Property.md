@@ -9,8 +9,8 @@ tags:
   - schema.org/Predicate
 aliases:
   - Quantity
-  - rdf:Property
-  - schema:Property
+  - rdf~Property
+  - schema~Property
 ---
 
 # Property Overview
