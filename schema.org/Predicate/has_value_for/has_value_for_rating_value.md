@@ -41,8 +41,8 @@ The rating for the content.&lt;br/&gt;&lt;br/&gt;
 Usage guidelines:&lt;br/&gt;&lt;br/&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Use values from 0123456789 (Unicode &#x27;DIGIT ZERO&#x27; (U+0030) to &#x27;DIGIT NINE&#x27; (U+0039)) rather than superficially similar Unicode symbols.&lt;/li&gt;
-&lt;li&gt;Use &#x27;.&#x27; (Unicode &#x27;FULL STOP&#x27; (U+002E)) rather than &#x27;,&#x27; to indicate a decimal point. Avoid using these symbols as a readability separator.&lt;/li&gt;
+&lt;li&gt;Use values from 0123456789 (Unicode 'DIGIT ZERO' (U+0030) to 'DIGIT NINE' (U+0039)) rather than superficially similar Unicode symbols.&lt;/li&gt;
+&lt;li&gt;Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.&lt;/li&gt;
 &lt;/ul&gt;
 
 Predicate describes that: 

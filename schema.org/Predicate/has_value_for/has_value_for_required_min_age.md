@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/value_for/_required_min_age :: Integer ] or 
 - [ has_value_for_required_min_age :: Integer ] 
 
-Audiences defined by a person&#x27;s minimum age.
+Audiences defined by a person's minimum age.
 
 Predicate describes that: 
 [ #has_/domain  :: PeopleAudience ]

@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/value_for/_strength_value :: Number ] or 
 - [ has_value_for_strength_value :: Number ] 
 
-The value of an active ingredient&#x27;s strength, e.g. 325.
+The value of an active ingredient's strength, e.g. 325.
 
 Predicate describes that: 
 [ #has_/domain  :: DrugStrength ]

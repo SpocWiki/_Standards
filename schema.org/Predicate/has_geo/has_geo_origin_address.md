@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/geo/_origin_address :: PostalAddress ] or 
 - [ has_geo_origin_address :: PostalAddress ] 
 
-Shipper&#x27;s address.
+Shipper's address.
 
 Predicate describes that: 
 [ #has_/domain  :: ParcelDelivery ]

@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/value_for/_content_rating_stars :: Rating, Text ] or 
 - [ has_value_for_content_rating_stars :: Rating, Text ] 
 
-Official rating of a piece of content&amp;#x2014;for example, &#x27;MPAA PG-13&#x27;.
+Official rating of a piece of content&amp;#x2014;for example, 'MPAA PG-13'.
 
 Predicate describes that: 
 [ #has_/domain  :: CreativeWork ]

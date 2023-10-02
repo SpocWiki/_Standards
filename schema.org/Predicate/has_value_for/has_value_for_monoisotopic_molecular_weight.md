@@ -38,7 +38,7 @@ Use it like this:
 - [ #has_/value_for/_monoisotopic_molecular_weight :: QuantitativeValue, Text ] or 
 - [ has_value_for_monoisotopic_molecular_weight :: QuantitativeValue, Text ] 
 
-The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass. Please include the units in the form &#x27;&amp;lt;Number&amp;gt; &amp;lt;unit&amp;gt;&#x27;, for example &#x27;770.230488 g/mol&#x27; or as &#x27;&amp;lt;QuantitativeValue&amp;gt;.
+The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass. Please include the units in the form '&amp;lt;Number&amp;gt; &amp;lt;unit&amp;gt;', for example '770.230488 g/mol' or as '&amp;lt;QuantitativeValue&amp;gt;.
 
 Predicate describes that: 
 [ #has_/domain  :: MolecularEntity ]
