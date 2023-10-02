@@ -20,7 +20,7 @@ publishDate:
 expiryDate: 
 
 tags:
-- schema.org/Composite
+- schema-org/Composite
 
 aliases:
 - Composite 
@@ -29,9 +29,10 @@ aliases:
 - 
 ---
 
-The Compound is assembled from [[../../../Compound/Part]]s. 
-It is the Object of the [is_part_of](Compound/is_part_of.md) Relation from the [[../../../Compound/Part]]s. 
+The Composite is assembled from [[Composite/Part|Part]]s. 
+It is the Object of the [is_part_of](Compound/is_part_of.md) Relation from the [[Composite/Part|Part]]s. 
 
 #class/Composite 
+
 
 It can model both abstract Assemblies of Part-Types and concrete Assemblies of [[Class/Thing|Things]]. 

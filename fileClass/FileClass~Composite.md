@@ -1,9 +1,9 @@
 ---
-limit: 100
-mapWithTag: false
+limit: 99
+mapWithTag: true
 icon: component
-tagNames: 
+tagNames: [class/Composite, schema-org/Composite]
 excludes: 
 extends: FileClass-Thing
-version: 2
+version: 7
 ---

@@ -20,7 +20,7 @@ publishDate:
 expiryDate: 
 
 tags:
-- schema.org/Collection
+- schema-org/Collection
 
 aliases:
 - Part
