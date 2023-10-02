@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_replacer :: [Thing](../../../Thing.md) ] or 
-- [ has_replacer :: [Thing](../../../Thing.md) ] 
+- [ #has/_replacer :: [Thing](../../../Class/Thing.md) ] or 
+- [ has_replacer :: [Thing](../../../Class/Thing.md) ] 
 
 A sub property of object. The object that replaces.
 

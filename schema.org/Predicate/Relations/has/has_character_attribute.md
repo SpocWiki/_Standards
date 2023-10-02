@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_character_attribute :: [Thing](../../../Thing.md) ] or 
-- [ has_character_attribute :: [Thing](../../../Thing.md) ] 
+- [ #has/_character_attribute :: [Thing](../../../Class/Thing.md) ] or 
+- [ has_character_attribute :: [Thing](../../../Class/Thing.md) ] 
 
 A piece of data that represents a particular aspect of a fictional character (skill, power, character points, advantage, disadvantage).
 

@@ -36,7 +36,7 @@ Use it like this:
 Indicates a potential Action, which describes an idealized action in which this thing would play an 'object' role.
 
 Relation describes that: 
-[ #has_/domain  :: [Thing](../../../Thing.md) ]
+[ #has_/domain  :: [Thing](../../../Class/Thing.md) ]
 ( #has_/name :: is_potential_action )
 ( #has_/range :: Action )
 

@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_reservation_for :: [Thing](../../../Thing.md) ] or 
-- [ has_reservation_for :: [Thing](../../../Thing.md) ] 
+- [ #has/_reservation_for :: [Thing](../../../Class/Thing.md) ] or 
+- [ has_reservation_for :: [Thing](../../../Class/Thing.md) ] 
 
 The thing -- flight, event, restaurant, etc. being reserved.
 

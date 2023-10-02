@@ -27,8 +27,12 @@ tags:
 
 aliases:
 - class
-- class
 - Class
+- additional-type
+- additional_type
+- additionalType
+- has_url_for_additional_type
+- rdfs~Class
 - is_a_class
 ---
 
@@ -40,7 +44,7 @@ The Type 'class', also often called a 'Type'; equivalent to rdfs:Class.
 Types are classes of  Entities/Objects with Identity and defined Properties. 
 Types can be used to represent Sets of similar/substitutable Entities. 
 
-They are the Object of the [is_instance_of](Predicate/Relations/is_instance_of.md) Relation to their [Instances](Thing.md). 
+They are the Object of the [is_instance_of](Class/is_instance_of.md) Relation to their [Instances](Class/Thing.md). 
 
 Different from Sets in naive Set-Theory, the Instances are usually neither finite nor enumerable 
 and thus must be treated specially in inference. 

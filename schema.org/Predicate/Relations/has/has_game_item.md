@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_game_item :: [Thing](../../../Thing.md) ] or 
-- [ has_game_item :: [Thing](../../../Thing.md) ] 
+- [[Thing| #has/_game_item :: [Thing]] ] or 
+- [[../../../Class/Thing.md| has_game_item :: [Thing]] ] 
 
 An item is an object within the game world that can be collected by a player or, occasionally, a non-player character.
 

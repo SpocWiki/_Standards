@@ -39,7 +39,7 @@ Use it like this:
 URL of a reference Web page that unambiguously indicates the item's identity. E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.
 
 Predicate describes that: 
-[ #has_/domain  :: [Thing](../../Thing.md) ]
+[ #has_/domain  :: [Thing](../../Class/Thing.md) ]
 ( #has_/name :: has_url_for_same_as )
 ( #has_/range :: URL )
 

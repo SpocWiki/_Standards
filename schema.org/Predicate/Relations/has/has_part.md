@@ -40,7 +40,7 @@ Relation describes that:
 ( #has_/name :: has_part )
 ( #has_/range :: CreativeWork )
 
-[ #is_/inverse_of  :: [[../is_part_of]] ]
+[ #is_/inverse_of  :: [[../../../Compound/is_part_of]] ]
 
 [ #has_/sub_properties :: [ containsSeason, episode, season, tocEntry ] ]
 

@@ -39,13 +39,13 @@ In RDFa syntax, it is better to use the native RDFa syntax - the 'typeof' attrib
 Schema.org tools may have only weaker understanding of extra types, in particular those defined externally.
 
 Predicate describes that: 
-[ #has_/domain  :: [[Thing]] ]
+[ #has_/domain  :: [[../../Class/Thing]] ]
 ( #has_/name :: has_url_for_additional_type )
 ( #has_/range :: URL )
 
 #is_/sub_property_of  :: [ [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) ]
 
-[is_instance_of](../Relations/is_instance_of.md) 
+[is_instance_of](../../Class/is_instance_of.md) 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Urls/has_url_for_additional_type.md|has_url_for_additional_type]] 

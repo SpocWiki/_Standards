@@ -30,8 +30,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_quest :: [Thing](../../../Thing.md) ] or 
-- [ has_quest :: [Thing](../../../Thing.md) ] 
+- [ #has/_quest :: [Thing](../../../Class/Thing.md) ] or 
+- [ has_quest :: [Thing](../../../Class/Thing.md) ] 
 
 The task that a player-controlled character, or group of characters may complete in order to gain a reward.
 

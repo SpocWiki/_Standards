@@ -29,4 +29,4 @@ aliases:
 - 
 ---
 
-Subject of the [is_part_of](../../../../Predicate/Relations/is_part_of.md) Relation to the [Compound](../Compound.md). 
+Subject of the [is_part_of](is_part_of.md) Relation to the [Compound](../Compound.md). 

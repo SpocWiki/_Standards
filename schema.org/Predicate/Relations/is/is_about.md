@@ -31,8 +31,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_about :: [Thing](../../../Thing.md) ] or 
-- [ is_about :: [Thing](../../../Thing.md) ] 
+- [ #is/_about :: [Thing](../../../Class/Thing.md) ] or 
+- [ is_about :: [Thing](../../../Class/Thing.md) ] 
 
 The subject matter of the content. 
 This has a very narrow meaning compared to [[../../../../RDF/RDF~Relations/rdf~subject]], [[../../../../RDF/RDF~Relations/rdf~predicate]], and [[../../../../RDF/RDF~Relations/rdf~object]]. 

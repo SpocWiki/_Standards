@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/name :: is_part_of_tv_series )
 ( #has_/range :: [[../../../Type/is_a_/creative_work/tv_series|TV-Series]] )
 
-[ #is_/sub_property_of  :: [[../is_part_of]] ]
+[ #is_/sub_property_of  :: [[../../../Compound/is_part_of]] ]
 
 
 

@@ -30,7 +30,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_mentioning :: [Thing](../../../Thing.md) ] or 
+- [ #is/_mentioning :: [Thing](../../../Class/Thing.md) ] or 
 - [ is_mentioning :: [[../../../Type/is_a_|Thing]] ] 
 
 Indicates that the [[../../../Type/is_a_/creative_work|Creative Work]] contains a reference to, but is not necessarily about a concept.
@@ -38,7 +38,7 @@ Indicates that the [[../../../Type/is_a_/creative_work|Creative Work]] contains 
 Relation describes that: 
 [ #has_/domain  :: [[../../../Type/is_a_/creative_work]] ]
 ( #has_/name :: is_mentioning )
-( #has_/range :: [[../../../Thing|thing]] )
+( #has_/range :: [[../../../Class/Thing|thing]] )
 
 
 
