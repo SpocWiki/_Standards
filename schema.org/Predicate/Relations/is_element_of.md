@@ -34,7 +34,7 @@ such as a book, a bottle of wine, and a birthday card.
 
 These [Collection](../../Collection.md) - [Item](../../Collection/Item.md)s are 
 - usually generic, but sometimes they are untyped (i.e. `Object`), 
-- less uniform than [Instances](../../Type/Instance.md), which are [instances_of](is_instance_of.md) of a [Classes](../../Classes.md) 
+- less uniform than [Instances](../../Thing.md), which are [instances_of](is_instance_of.md) of a [Classes](../../Classes.md) 
 - and not as tightly coupled as the [Parts](../../Compound/Part.md) that are [parts_of](is_part_of.md) a [Compound](../../Compound.md)  relationship. 
 
 The collection provides functionality, such as iterating over its members

@@ -11,7 +11,7 @@ tags:
 aliases:
   - Object
   - Thing
-  - Instance 
+  - Instance
   - Entity
   - owl:Thing
   - SomeThing
@@ -44,12 +44,16 @@ has_/sub_classes:
   - "[[Type/is_a_/product|product]]"
   - "[[Type/is_a_/taxon|taxon]]"
 ---
-# Things/Entities/Resources  
+# Things/Entities/Resources/Instances 
 
 The Class of all things. Everything you can think about is a 'thing'. 
 AKA AnyThing, EveryThing, SomeThing 
 
 The most generic type of item.
+
+Instances are the Members of a [Classes](../Classes.md). 
+They are the Subject of the [is_instance_of](../Predicate/Relations/is_instance_of.md) Relation to their [Classes](../Classes.md). 
+
 
 Tagging Instances like this is futile, because it is implied: 
 #is_/a_/thing
@@ -87,4 +91,48 @@ either in the Frontmatter or anywhere in the Text.
 - [[../../_private/schema.org/Thing.private.md|Entity.private]] 
 - [[../../_personal/schema.org/Thing.personal.md|Entity.personal]] 
 - [[../../_secret/schema.org/Thing.secret.md|Entity.secret]] 
+
+
+
+---
+license: (c)copyrighted
+confidential: private
+isDeleted: false
+isReadOnly: false
+
+# Obsidian well-known Keys
+cssclass: private note
+publish: false
+
+# Hugo Tags
+# type: #Tags falls back to the Directory in Hugo
+type: private note
+title: Thing
+
+linkTitle: Thing
+keywords: [Thing]
+layout: 
+draft: true
+publishDate:
+expiryDate: 
+
+tags:
+- Thing
+- rather use #Tags (see below); remove the `#` if used here!
+
+aliases:
+- Thing
+- 
+
+# Thing-Facts
+createTime: 2023-10-02
+
+# any other Data:
+Key: Value
+Predicate: #Object
+Predicate: [[Object]]
+
+lang: en
+---
+
 

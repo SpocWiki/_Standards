@@ -31,14 +31,14 @@ aliases:
   - itemtype 
   - additionalType 
 ---
-# [Classes](../../Classes.md)-[Instance](../../Type/Instance.md) Relationship 
+# [Classes](../../Classes.md)-[Thing](../../Thing.md) Relationship 
 Relates an Object to its Class. 
 Can be implemented with a dedicated #Tag for each Class to enable Tools to restrict the Range to defined Classes.
 
 Helps to group all (potential) **similar** objects 
  
 Unlike the untyped, finite [Item](../../Collection/Item.md) Relation, this is an infinite, typed Relation. 
-Each [Instance](../../Type/Instance.md) has its own Identity.
+Each [Thing](../../Thing.md) has its own Identity.
 
 Verbs: 
 - rdf:type for XML-RDF
