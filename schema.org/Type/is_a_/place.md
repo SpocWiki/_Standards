@@ -1,33 +1,29 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_place Class
 linkTitle: is_a_place Class
-
-keywords: [place]
+keywords:
+  - place
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- schema.org/Type
-
+  - schema.org/Type
 aliases:
-- place
-- place
-- Place
-- is_a_place
+  - place
+  - place
+  - Place
+  - is_a_place
+  - schema:place
+  - places
 ---
 
 Class of all places.
@@ -37,7 +33,7 @@ Tag Instances like this:
 
 Entities that have a somewhat fixed, physical extension.
 
-[ #is_/sub_class_of :: [[../Thing]] ]
+[ #is_/sub_class_of :: [[../../Thing.md|Thing]] ] 
 
 [ #has_/sub_classes :: [ Accommodation, AdministrativeArea, CivicStructure, Landform, LandmarksOrHistoricalBuildings, LocalBusiness, Residence, TouristAttraction, TouristDestination ] ]
 

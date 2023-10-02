@@ -5,8 +5,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is_/sub_class_of :: Class] or 
-- [ is_sub_class_of :: Class] 
+- [ #is_/sub_property_of :: [Class](../../Type.md)] or 
+- [ is_sub_property_of :: [Class](../../Type.md)] 
 
 Relates a sub-Property to its super-Property. 
 Sub-Properties are more specialized and assign a (named) subset of the Values to a (named, reified) subset of the Subjects. 
@@ -14,7 +14,7 @@ Sub-Properties are more specialized and assign a (named) subset of the Values to
 Relation describes that: 
 [ #has_/domain  :: [Quantity](../Property.md)]
 ( #has_/name :: is_sub_property_of)
-( #has_/range :: [Relation](../Relation.md))
+( #has_/range :: [Quantity](../Property.md))
 
 
 ## Confidential Links & Embeds: 

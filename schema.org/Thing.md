@@ -1,5 +1,5 @@
 ---
-type: Predicate
+type: Type
 license: CC BY-SA 4.0
 publish: true
 confidential: public
@@ -7,6 +7,7 @@ isDeleted: false
 isReadOnly: false
 tags:
   - schema.org/Predicate
+  - schema.org/Type
 aliases:
   - Object
   - Thing
@@ -15,7 +16,53 @@ aliases:
   - SomeThing
   - AnyThing
   - schema:Thing
+  - is_a_
+  - is_a_thing
+  - rdfs:Resource
+  - things
+cssclasses:
+  - Type
+title: is_a_thing Class
+linkTitle: is_a_thing Class
+keywords:
+  - thing
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+has_/sub_classes:
+  - "[[./Type/is_a_/action|Action]]"
+  - "[[Type/is_a_/bio_chem_entity|bio_chem_entity]]"
+  - "[[Type/is_a_/creative_work|creative_work]]"
+  - "[[Type/is_a_/event|event]]"
+  - "[[Type/is_a_/Intangible|Intangible]]"
+  - "[[Type/is_a_/medical_entity|medical-entity]]"
+  - "[[Type/is_a_/place.md|place]]"
+  - "[[Type/is_a_/organization|organization]]"
+  - "[[Type/is_a_/person|person]]"
+  - "[[Type/is_a_/product|product]]"
+  - "[[Type/is_a_/taxon|taxon]]"
 ---
+# Things/Entities/Resources  
+
+The Class of all things. Everything you can think about is a 'thing'. 
+AKA AnyThing, EveryThing, SomeThing 
+
+The most generic type of item.
+
+Tagging Instances like this is futile, because it is implied: 
+#is_/a_/thing
+
+Don't used this as a Relation, because it is too vague. Rather use 
+- [is_instance_of](../Predicate/Relations/is_instance_of.md) for Objects or 
+- [is_subclass_of](is_sub_class_of.md)  for Classes
+
+
+#has_/sub_classes :: [ "[[Action]]", [[Bio_Chem_Entity]], [Creative_Work](Type/is_a_/creative_work.md), [[Event]], [[Intangible]], [[MedicalEntity]], [[Organization]], [[Person]], [place](Type/is_a_/place.md), [[Product]], [[stupid_Type]], [[Taxon]] ] 
+
+has_/sub_classes:: [ "[[./Type/is_a_/action|Action]]", "[[Type/is_a_/bio_chem_entity|bio_chem_entity]]", "[[Type/is_a_/creative_work|creative_work]]", "[[Type/is_a_/event|event]]", "[[Type/is_a_/Intangible|Intangible]]", "[[Type/is_a_/medical_entity|medical-entity]]", "[[Type/is_a_/place.md|place]]", "[[Type/is_a_/organization|organization]]", "[[Type/is_a_/person|person]]", "[[Type/is_a_/product|product]]", "[[Type/is_a_/taxon|taxon]]" ]
+
+[ #has_/properties :: [ "[has_url_for_additional_type](Predicate/Urls/has_url_for_additional_type.md)", '[has_alternate_name](Predicate/Texts/has_alternate_name.md)', "[has_description](Predicate/Texts/has_description.md)", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 Entities are Objects with an Identity, usually a unique Name and/or URL. 
 The unique Name allows to add Properties and Relations to them
@@ -31,8 +78,6 @@ Subject->Relation->Object
 
 Obsidian allows to naturally capture these Triples,
 either in the Frontmatter or anywhere in the Text.
-
-
 
 ## Confidential Links & Embeds: 
 - [Entity](../../_public/schema.org/Thing.md) 

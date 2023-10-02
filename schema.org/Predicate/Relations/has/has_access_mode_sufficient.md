@@ -33,8 +33,8 @@ Use it like this:
 - [ #has/_access_mode_sufficient :: ItemList ] or 
 - [ has_access_mode_sufficient :: ItemList ] 
 
-A list of single or combined accessModes that are sufficient
-to understand all the intellectual content of a resource.
+A list of single or combined [access_modes](../../Texts/has_access_mode.md) 
+that are sufficient to understand all the intellectual content of a resource.
 
 Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessModeSufficient-vocabulary).
 

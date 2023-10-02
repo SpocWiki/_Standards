@@ -1,33 +1,28 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_structured_value Class
 linkTitle: is_a_structured_value Class
-
-keywords: [structured_value]
+keywords:
+  - structured_value
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- schema.org/Type
-
+  - schema.org/Type
 aliases:
-- structured-value
-- structured_value
-- StructuredValue
-- is_a_structured_value
+  - structured-value
+  - structured_value
+  - StructuredValue
+  - is_a_structured_value
+  - Structured_Values
 ---
 
 Class of all structured_values.

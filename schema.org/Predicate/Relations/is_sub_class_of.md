@@ -3,30 +3,27 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: is_subclass_of
-
 linkTitle: is_subclass_of
 keywords: 
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- schema.org/Predicate/Relation
-
+  - schema.org/Predicate/Relation
 aliases:
-- subclass-of
-- subclass_of
-- subclassOf
-- is_subclass_of
+  - subclass-of
+  - subclass_of
+  - subclassOf
+  - is_subclass_of
+  - is_a_kind_of
+  - are_a_kind_of
 ---
 
 Use it like this: 

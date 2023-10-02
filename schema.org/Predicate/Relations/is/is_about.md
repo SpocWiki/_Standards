@@ -35,7 +35,7 @@ Use it like this:
 - [ is_about :: [Thing](../../../Thing.md) ] 
 
 The subject matter of the content. 
-This has a very narrow meaning compared to [[RDF~subject]], [[../../../../RDF/RDF~predicate]], and [[RDF~object]]. 
+This has a very narrow meaning compared to [[../../../../RDF/RDF~Relations/RDF~subject]], [[../../../../RDF/RDF~Relations/RDF~predicate]], and [[../../../../RDF/RDF~Relations/RDF~object]]. 
 
 Relation describes that: 
 [ #has_/domain  :: CommunicateAction, CreativeWork, Event ]

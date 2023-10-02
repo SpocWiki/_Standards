@@ -5,7 +5,7 @@ aliases:
   - schema:Activity
 ---
 
-Activities describe Processes that happened (in the past).
+Class of Activities, i.e. Processes that happened (in the past).
 This Description can either be 
 - concrete, i.e. concerning actual (usually physical) Instances of Objects 
 - or abstract, i.e. describing a Set of Activities with classes of Objects involved/used  

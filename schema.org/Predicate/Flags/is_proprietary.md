@@ -37,7 +37,7 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_proprietary :: Boolean ] 
 
-True if this item&#x27;s name is a proprietary/brand name (vs. generic name).
+True if this item's name is a proprietary/brand name (vs. generic name).
 
 Predicate describes that: 
 [ #has_/domain  :: DietarySupplement, Drug ]

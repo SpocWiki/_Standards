@@ -1,43 +1,38 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_creative_work Class
 linkTitle: is_a_creative_work Class
-
-keywords: [creative_work]
+keywords:
+  - creative_work
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- schema.org/Type
-
+  - schema.org/Type
 aliases:
-- creative-work
-- creative_work
-- CreativeWork
-- is_a_creative_work
+  - creative-work
+  - creative_work
+  - CreativeWork
+  - is_a_creative_work
+  - creative_works
 ---
 
-Class of all creative_works.
+[[Class]] of all [[creative_work]]s.
 
 Tag Instances like this: 
 #is_/a_/creative_work
 
 The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
-[ #is_/sub_class_of :: [[../Thing]] ]
+#is_/sub_class_of :: [Thing](../../Thing.md) 
 
 [ #has_/sub_classes :: [ AmpStory, ArchiveComponent, Article, Atlas, Blog, Book, Chapter, Claim, Clip, Code, Collection, ComicStory, Comment, Conversation, Course, CreativeWorkSeason, CreativeWorkSeries, DataCatalog, Dataset, DefinedTermSet, Diet, DigitalDocument, Drawing, EducationalOccupationalCredential, Episode, ExercisePlan, Game, Guide, HowTo, HowToDirection, HowToSection, HowToStep, HowToTip, HyperToc, HyperTocEntry, LearningResource, Legislation, Manuscript, Map, MathSolver, MediaObject, MediaReviewItem, Menu, MenuSection, Message, Movie, MusicComposition, MusicPlaylist, MusicRecording, Painting, Photograph, Play, Poster, PublicationIssue, PublicationVolume, Quotation, Review, Sculpture, Season, SheetMusic, ShortStory, SoftwareApplication, SoftwareSourceCode, SpecialAnnouncement, Statement, TVSeason, TVSeries, Thesis, VisualArtwork, WebContent, WebPage, WebPageElement, WebSite ] ]
 

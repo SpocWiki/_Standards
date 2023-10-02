@@ -3,7 +3,8 @@
 Flags are Boolean Predicates with `true` and `false` as the only allowed Values. 
 
 Similar to Tags, they can be attached to Entities,
-but there is also a negative Value which can be attached. 
+but different from Tags, which are only positive,
+also a negative Value can be attached. 
 
 Tags have only an implicit binary Logic where a missing Tag indicates `false`.
 

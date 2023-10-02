@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -30,7 +30,7 @@ aliases:
 - is_a_quantity
 ---
 
-Class of all quantitys.
+Class of all Quantities, i.e. measurable Values.
 
 Tag Instances like this: 
 #is_/a_/quantity

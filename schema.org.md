@@ -3,6 +3,9 @@ Most OpenId Claims are mapped to the http://schemas.xmlsoap.org/ws/2005/05/ident
 WS-Trust and WS-Federation are used to authorize SOAP Web-Service Calls and share the Namespace
 http://schemas.xmlsoap.org/ws/2005/05/identity/claims/ 
 
+Schema.org is a network of Interfaces, but is sampled with a Hierarchy described here: 
+
+
 | Here          | Outlook      | Schema.org          | OpenID-Claims      | WS-Federation   | LDAP            | FOAF                                                             |
 | ------------- | ------------ | ------------------- | ------------------ | --------------- | --------------- | ---------------------------------------------------------------- |
 |               |              |                     | Subject            |                 | DN              |                                                                  |

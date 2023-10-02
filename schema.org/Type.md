@@ -5,16 +5,20 @@ publish: true
 confidential: public
 isDeleted: false
 isReadOnly: false
-
 tags:
-- schema.org/Predicate
-
+  - schema.org/Predicate
 aliases:
-- Class
-- 
-
+  - additional-type
+  - additional_type
+  - additionalType
+  - has_url_for_additional_type
+  - rdfs: Class
+  - rdf: type
+  - 
 ---
-
+```turtle
+ 
+```
 # Type Overview
 
 Types are classes of  Entities/Objects with Identity and defined Properties. 

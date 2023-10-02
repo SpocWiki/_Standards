@@ -38,7 +38,7 @@ Indicates that the [[../../../Type/is_a_/creative_work|Creative Work]] contains 
 Relation describes that: 
 [ #has_/domain  :: [[../../../Type/is_a_/creative_work]] ]
 ( #has_/name :: is_mentioning )
-( #has_/range :: [[../../../Type/is_a_|thing]] )
+( #has_/range :: [[../../../Thing|thing]] )
 
 
 

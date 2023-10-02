@@ -33,7 +33,7 @@ Use it like this:
 - [ #is/_member_of :: [[../../../Type/is_a_/organization]], [[../../../Type/is_a_/intangible/program_membership]] ] or 
 - [ is_member_of :: [[../../../Type/is_a_/organization]], [[../../../Type/is_a_/intangible/program_membership]] ] 
 
-An [[../../../Type/is_a_/organization]] (or [[../../../Type/is_a_/intangible/program_membership]]) to which this Person or Organization belongs.
+An [organization](../../../Type/is_a_/organization) (or [program_membership](../../../Type/is_a_/intangible/program_membership)) to which this Person or Organization belongs.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]

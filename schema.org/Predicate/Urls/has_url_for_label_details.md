@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/url_for_/label_details :: URL ] or 
 - [ has_url_for_label_details :: URL ] 
 
-Link to the drug&#x27;s label details.
+Link to the drug's label details.
 
 Predicate describes that: 
 [ #has_/domain  :: Drug ]

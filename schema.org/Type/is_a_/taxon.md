@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A set of organisms asserted to represent a natural cohesive biological unit.
 
-[ #is_/sub_class_of :: [[../Thing]] ]
+[ #is_/sub_class_of :: [[../../Thing.md|Thing]] ] 
 
 [ #has_/properties :: [ additionalType, alternateName, childTaxon, description, disambiguatingDescription, hasDefinedTerm, identifier, image, mainEntityOfPage, name, parentTaxon, potentialAction, sameAs, subjectOf, taxonRank, url ] ]
 

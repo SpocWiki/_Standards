@@ -10,6 +10,7 @@ tags:
 aliases:
   - Quantity
   - rdf:Property
+  - schema:Property
 ---
 
 # Property Overview
@@ -17,6 +18,7 @@ aliases:
 This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range]]. 
 [[Range]]
 
+- [ is_sub_property_of :: rdf:Property] 
 
 A [Quantity](Property.md) connects a Scalar Value to an Entity. 
 A [Relation](Relation.md) connects to another Entity. 

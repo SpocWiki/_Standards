@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,7 +39,7 @@ Tag Instances like this:
 
 A chemical substance is 'a portion of matter of constant composition, composed of molecular entities of the same type or of different types' (source: <a href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=59999">ChEBI:59999</a>).
 
-[ #is_/sub_class_of :: [[../BioChemEntity]] ]
+[ #is_/sub_class_of :: [[../Bio_Chem_Entity|Bio_Chem_Entity]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ] ]
 
