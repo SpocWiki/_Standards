@@ -24,6 +24,8 @@ aliases:
   - is_subclass_of
   - is_a_kind_of
   - are_a_kind_of
+  - rdfs~subClassOf
+  - 
 ---
 
 Use it like this: 
@@ -34,9 +36,9 @@ Relates a subclass to its super-class.
 Can be implemented with dedicated #Tags
 
 Relation describes that: 
-[ #has_/domain  :: [Class](../../Type.md)]
+[ #has_/domain  :: [Class](../../Classes.md)]
 ( #has_/name :: [is_subclass_of](is_sub_class_of.md))
-( #has_/range :: [Class](../../Type.md))
+( #has_/range :: [Class](../../Classes.md))
 
 
 ## Confidential Links & Embeds: 

@@ -11,6 +11,7 @@ tags:
 aliases:
   - Object
   - Thing
+  - Instance 
   - Entity
   - owl:Thing
   - SomeThing

@@ -38,7 +38,7 @@ Use it like this:
 
 Relates a property to a property that is its inverse.
 
-Inverse properties relate the same pairs of items to each other, but in reversed direction.
+Inverse Relations relate the same pairs of items to each other, but in reversed direction.
 
 If an Inverse exists, it is identical to the Converse.
 

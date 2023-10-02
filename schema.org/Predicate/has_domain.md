@@ -30,15 +30,15 @@ aliases:
 [ #is_/part_of :: https://meta.schema.org ]
 
 Use it like this: 
-- [ #has/_domain :: [[../../../Type|Class]] ] or 
-- [ has_domain :: [[../../../Type|Class]] ] 
+- [ #has/_domain :: [[../Classes|Class]] ] or 
+- [ has_domain :: [[../Classes|Class]] ] 
 
 Relates a property to a class that is (one of) the type(s) the property is expected to be used on.
 
 Relation describes that: 
 [ #has_/domain  :: [[../../../Type/is_a_thing/intangible/property]] ]
 ( #has_/name :: has_domain )
-( #has_/range :: [Class](../../../Type.md) )
+( #has_/range :: [Class](../Classes.md) )
 
 
 

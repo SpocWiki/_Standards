@@ -25,7 +25,7 @@ aliases:
   - creative_works
 ---
 
-[[Class]] of all [[creative_work]]s.
+[[../../class]] of all [[creative_work]]s.
 
 Tag Instances like this: 
 #is_/a_/creative_work

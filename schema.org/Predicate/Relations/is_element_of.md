@@ -26,16 +26,16 @@ aliases:
   - assembly-parts
   - Organization-Member
 ---
-# [Collection](../../Type/is_a_/structural/collection.md) - [[Item]] Relationship, 
+# [Collection](../../Collection.md) - [[../../Collection/Item]] Relationship, 
 in which the aggregated object represents a container. 
 
 For example, a postal package can include different contents 
 such as a book, a bottle of wine, and a birthday card. 
 
-These [collection](../../Type/is_a_/structural/collection.md) - [Item](../../Type/is_a_/structural/collection/Item.md)s are 
+These [Collection](../../Collection.md) - [Item](../../Collection/Item.md)s are 
 - usually generic, but sometimes they are untyped (i.e. `Object`), 
-- less uniform than [Instances](../../Type/Instance.md), which are [instances_of](is_instance_of.md) of a [Type](../../Type.md) 
-- and not as tightly coupled as the [Parts](../../Type/is_a_/structural/Compound/Part.md) that are [parts_of](is_part_of.md) a [Compound](../../Type/is_a_/structural/Compound.md)  relationship. 
+- less uniform than [Instances](../../Type/Instance.md), which are [instances_of](is_instance_of.md) of a [Classes](../../Classes.md) 
+- and not as tightly coupled as the [Parts](../../Compound/Part.md) that are [parts_of](is_part_of.md) a [Compound](../../Compound.md)  relationship. 
 
 The collection provides functionality, such as iterating over its members
 and performing operations on each of them. 

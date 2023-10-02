@@ -32,16 +32,16 @@ aliases:
 Aggregate 
 Composite 
 Assembly 
-[[../../Type/is_a_/structural/Compound]]  
+[[../../Compound]]  
 
 
-# [Compound](../../Type/is_a_/structural/Compound.md)-[Part](../../Type/is_a_/structural/Compound/Part.md) Relationship, 
+# [Compound](../../Compound.md)-[Part](../../Compound/Part.md) Relationship, 
 which differentiates between a Product and its Parts, or Sub-Assemblies
 ---such as the relationship of a molecule to its atoms. 
 
 This is different from 
-- the [is_element_of](is_element_of.md) Relation that characterizes loose Association in a Container and from 
-- the [is_instance_of](is_instance_of.md) Relation between a Class/Type and its Instances. 
+- the [is_element_of](is_element_of.md) Relation that characterizes loose Association of [[../../Collection/Item|Items]] in a [[../../Collection|Collection]] and from 
+- the [is_instance_of](is_instance_of.md) Relation between a Class/Type and its Instances/ [[../../Thing|Things]] . 
 
 All parts are **tightly integrated** according to the internal structure of the Assembly. 
 Access to individual Parts is not (regularly) possible, unless by destroying the Assembly. 

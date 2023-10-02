@@ -1,6 +1,12 @@
+---
+aliases: 
+- tags
+- adjectives
+---
+
 # Flags Overview
  
-Flags are Boolean Predicates with `true` and `false` as the only allowed Values. 
+Flags AKA Tags are Boolean Predicates with `true` and `false` as the only allowed Values. 
 
 Similar to Tags, they can be attached to Entities,
 but different from Tags, which are only positive,
@@ -9,7 +15,7 @@ also a negative Value can be attached.
 Tags have only an implicit binary Logic where a missing Tag indicates `false`.
 
 Flags implement an explicit binary Logic.
-But they can also implement a ternary logic using the empty '` `' Value or be omitted completely. 
+But they can also implement a ternary logic using the empty '` `' or `null` Value or be omitted completely. 
 
 
 

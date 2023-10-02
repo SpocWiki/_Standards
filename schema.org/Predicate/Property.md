@@ -11,6 +11,9 @@ aliases:
   - Quantity
   - rdf~Property
   - schema~Property
+  - property
+  - itemprop 
+  - 
 ---
 
 # Property Overview
@@ -23,6 +26,25 @@ This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range
 A [Quantity](Property.md) connects a Scalar Value to an Entity. 
 A [Relation](Relation.md) connects to another Entity. 
 [Property](Property.md) unifies both. 
+
+## Syntax: 
+RDFa Lite:
+```html
+<div vocab="https://schema.org/" typeof="Product">
+	<span property="ratingValue">87</span>
+</div>
+```
+Json-LD:
+```json-LD
+ { "schema:name": "John Doe", }
+```
+
+MicroData
+```html
+<div vocab="https://schema.org/" itemtype="Product">
+	<span itemprop="ratingValue">87</span>
+</div>
+```
 
 
 ## Confidential Links & Embeds: 

@@ -23,20 +23,30 @@ aliases:
   - instanceOf
   - is_instance_of
   - rdf~type
-  - @type
+  - "rdf: type"
+  - typeof
+  - '@type'
   - is_a
   - is_an
+  - itemtype 
+  - additionalType 
 ---
-# [Type](../../Type.md)-[Instance](../../Type/Instance.md) Relationship 
+# [Classes](../../Classes.md)-[Instance](../../Type/Instance.md) Relationship 
 Relates an Object to its Class. 
 Can be implemented with a dedicated #Tag for each Class to enable Tools to restrict the Range to defined Classes.
 
-
-
 Helps to group all (potential) **similar** objects 
  
-Unlike the untyped, finite [Item](../../Type/is_a_/structural/collection/Item.md) Relation, this is an infinite, typed Relation. 
+Unlike the untyped, finite [Item](../../Collection/Item.md) Relation, this is an infinite, typed Relation. 
 Each [Instance](../../Type/Instance.md) has its own Identity.
+
+Verbs: 
+- rdf:type for XML-RDF
+- typeof Attribute in HTML 
+- @type in JSON-LD 
+- [[is_instance_of]] or [[is_a]] in this Markdown Structure 
+- itemtype or additionalType in MicroData 
+-  
 
 ## Alternative Structural Relations:
 - [is_part_of](is_part_of.md)
