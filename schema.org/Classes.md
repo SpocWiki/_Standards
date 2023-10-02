@@ -12,8 +12,8 @@ aliases:
   - additional_type
   - additionalType
   - has_url_for_additional_type
-  - rdfs: Class
-  - rdf~type
+  - rdfs~Class
+  - class
   - 
 ---
 ```turtle

@@ -32,7 +32,7 @@ aliases:
 - is_a_class
 ---
 
-The single Meta-Class of all [Classes](../../../Type.md).
+The single Meta-Class of all [Classes](../../../Classes.md).
 The Type 'class', also often called a 'Type'; equivalent to rdfs:Class.
 
 Tag Instances like this: 
@@ -40,7 +40,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://meta.schema.org ]
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+[ #is_/sub_class_of :: [[Type/is_a_/Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ] ]
 

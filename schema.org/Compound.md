@@ -29,5 +29,5 @@ aliases:
 - 
 ---
 
-The Compound is assembled from [[Compound/Part]]s. 
-It is the Object of the [is_part_of](is_part_of.md) Relation from the [[Compound/Part]]s. 
+The Compound is assembled from [[../../../Compound/Part]]s. 
+It is the Object of the [is_part_of](is_part_of.md) Relation from the [[../../../Compound/Part]]s. 

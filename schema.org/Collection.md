@@ -24,7 +24,8 @@ aliases:
   - container
 ---
 
-Class of all (mutable) collections with untyped [Items](collection/Item.md).
+Class of all (mutable) collections with untyped [Items](../../../Collection/Item.md).
+It is the Object of the [[Predicate/Relations/has/is_member_of|is_member_of]] Relation from the [[../../../Compound/Part]]s. [[Collection]]
 
 Tag Instances like this: 
 #is_/a_/collection
