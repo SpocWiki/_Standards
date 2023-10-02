@@ -5,17 +5,17 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is_/sub_relation_of :: [Relation](../Relation.md)] or 
-- [ is_sub_relation_of :: [Relation](../Relation.md)] 
+- [ #is_/sub_relation_of :: [Relation](../../Relation.md)] or 
+- [ is_sub_relation_of :: [Relation](../../Relation.md)] 
 
 Relates a sub-Relation to its super-Relation. 
 sub-Relations are Sub-Sets of (binary) Relations 
 Also the [has_domain](../has_domain.md) and [has_range](../has_range.md) form Sub-Sets of the original Sets.
 
 Relation describes that: 
-[ #has_/domain  :: [Relation](../Relation.md)]
+[ #has_/domain  :: [Relation](../../Relation.md)]
 ( #has_/name :: is_subclass_of)
-( #has_/range :: [Relation](../Relation.md))
+( #has_/range :: [Relation](../../Relation.md))
 
 
 ## Confidential Links & Embeds: 

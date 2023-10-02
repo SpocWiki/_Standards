@@ -24,7 +24,7 @@ This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range
 - [ is_sub_property_of :: rdf:Property] 
 
 A [Quantity](Property.md) connects a Scalar Value to an Entity. 
-A [Relation](Relation.md) connects to another Entity. 
+A [Relation](../Relation.md) connects to another Entity. 
 [Property](Property.md) unifies both. 
 
 ## Syntax: 
