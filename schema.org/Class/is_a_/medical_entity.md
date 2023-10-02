@@ -37,7 +37,7 @@ Tag Instances like this:
 
 The most generic type of entity related to health and the practice of medicine.
 
-[ #is_/sub_class_of :: [[../../Thing.md|Thing]] ] 
+[ #is_/sub_class_of :[[../Thing|Thing]]]] ] 
 
 [ #has_/sub_classes :: [ AnatomicalStructure, AnatomicalSystem, DrugClass, DrugCost, LifestyleModification, MedicalCause, MedicalCondition, MedicalContraindication, MedicalDevice, MedicalGuideline, MedicalIndication, MedicalIntangible, MedicalProcedure, MedicalRiskEstimator, MedicalRiskFactor, MedicalStudy, MedicalTest, Substance, SuperficialAnatomy ] ]
 

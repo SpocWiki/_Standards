@@ -31,14 +31,14 @@ aliases:
   - itemtype 
   - additionalType 
 ---
-# [Classes](../../Classes.md)-[Thing](../../Thing.md) Relationship 
+# [Classes](../../Classes.md)-[Thing](Thing.md) Relationship 
 Relates an Object to its Class. 
 Can be implemented with a dedicated #Tag for each Class to enable Tools to restrict the Range to defined Classes.
 
 Helps to group all (potential) **similar** objects 
  
-Unlike the untyped, finite [Item](../../Collection/Item.md) Relation, this is an infinite, typed Relation. 
-Each [Thing](../../Thing.md) has its own Identity.
+Unlike the untyped, finite [Item](../Collection/Item.md) Relation, this is an infinite, typed Relation. 
+Each [Thing](Thing.md) has its own Identity.
 
 Verbs: 
 - rdf:type for XML-RDF
@@ -49,14 +49,14 @@ Verbs:
 -  
 
 ## Alternative Structural Relations:
-- [is_part_of](is_part_of.md)
-- [is_element_of](is_element_of.md) 
+- [is_part_of](../Compound/is_part_of.md)
+- [is_element_of](../Collection/is_element_of.md) 
 
 ## Use it like this: 
 - [ #is_/instance_of :: Class] or 
 - [ is_instance_of :: Class]  for Objects
 Or use 
-- [is_subclass_of](is_sub_class_of.md)  for Classes
+- [is_subclass_of](is_sub-class_of.md)  for Classes
 
 ## Relation describes that: 
 [ #has_/domain  :: Thing]

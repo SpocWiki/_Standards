@@ -32,7 +32,7 @@ Tag Instances like this:
 
 The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
-#is_/sub_class_of :: [Thing](../../Thing.md) 
+#is_/sub_class_of :: [Thing](../Thing.md) 
 
 [ #has_/sub_classes :: [ AmpStory, ArchiveComponent, Article, Atlas, Blog, Book, Chapter, Claim, Clip, Code, Collection, ComicStory, Comment, Conversation, Course, CreativeWorkSeason, CreativeWorkSeries, DataCatalog, Dataset, DefinedTermSet, Diet, DigitalDocument, Drawing, EducationalOccupationalCredential, Episode, ExercisePlan, Game, Guide, HowTo, HowToDirection, HowToSection, HowToStep, HowToTip, HyperToc, HyperTocEntry, LearningResource, Legislation, Manuscript, Map, MathSolver, MediaObject, MediaReviewItem, Menu, MenuSection, Message, Movie, MusicComposition, MusicPlaylist, MusicRecording, Painting, Photograph, Play, Poster, PublicationIssue, PublicationVolume, Quotation, Review, Sculpture, Season, SheetMusic, ShortStory, SoftwareApplication, SoftwareSourceCode, SpecialAnnouncement, Statement, TVSeason, TVSeries, Thesis, VisualArtwork, WebContent, WebPage, WebPageElement, WebSite ] ]
 

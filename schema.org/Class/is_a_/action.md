@@ -45,7 +45,7 @@ Synonyms/Aliases:
 [Activity](Activity.md): `schema:Action` is used for specific, well-defined actions, 
 while `schema:Activity` is used for broader, ongoing processes or events that may involve multiple actions or steps.
 
-[ #is_/sub_class_of :: [[../../Thing.md|Thing]] ] 
+[ #is_/sub_class_of :: [[../Thing|Thing]] ] 
 
 [ #has_/sub_classes :: [ AchieveAction, AssessAction, ConsumeAction, ControlAction, CreateAction, FindAction, InteractAction, MoveAction, OrganizeAction, PlayAction, SearchAction, SeekToAction, SolveMathAction, TradeAction, TransferAction, UpdateAction ] ]
 

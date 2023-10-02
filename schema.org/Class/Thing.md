@@ -52,15 +52,15 @@ AKA AnyThing, EveryThing, SomeThing
 The most generic type of item.
 
 Instances are the Members of a [Classes](../Classes.md). 
-They are the Subject of the [is_instance_of](../Predicate/Relations/is_instance_of.md) Relation to their [Classes](../Classes.md). 
+They are the Subject of the [is_instance_of](is_instance_of.md) Relation to their [Classes](../Classes.md). 
 
 
 Tagging Instances like this is futile, because it is implied: 
 #is_/a_/thing
 
 Don't used this as a Relation, because it is too vague. Rather use 
-- [is_instance_of](../Predicate/Relations/is_instance_of.md) for Objects or 
-- [is_subclass_of](is_sub_class_of.md)  for Classes
+- [is_instance_of](is_instance_of.md) for Objects or 
+- [is_subclass_of](is_sub-class_of.md)  for Classes
 
 
 #has_/sub_classes :: [ "[[Action]]", [[Bio_Chem_Entity]], [Creative_Work](Type/is_a_/creative_work.md), [[Event]], [[Intangible]], [[MedicalEntity]], [[Organization]], [[Person]], [place](Type/is_a_/place.md), [[Product]], [[stupid_Type]], [[Taxon]] ] 

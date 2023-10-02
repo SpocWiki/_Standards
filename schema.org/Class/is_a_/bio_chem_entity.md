@@ -39,7 +39,7 @@ Tag Instances like this:
 
 Any biological, chemical, or biochemical thing. For example: a protein; a gene; a chemical; a synthetic chemical.
 
-[ #is_/sub_class_of :: [[../../Thing.md|Thing]] ] 
+[ #is_/sub_class_of :[[../Thing|Thing]]]] ] 
 
 [ #has_/sub_classes :: [ ChemicalSubstance, Gene, MolecularEntity, Protein ] ]
 
