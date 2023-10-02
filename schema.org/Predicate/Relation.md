@@ -15,10 +15,10 @@ aliases:
 
 ---
 
-# Property Overview
+# Relation
 
+A [Relation](Relation.md) connects one [[../Class/Thing|Thing]] to another. 
 A [Quantity](Property.md) connects a Scalar Value to an Entity. 
-A [Relation](Relation.md) connects to another Entity. 
 [Property](Property.md) unifies both. 
 
 In RDF there is no distinction between these, except for the specified Range. 

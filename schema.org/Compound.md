@@ -31,3 +31,5 @@ aliases:
 
 The Compound is assembled from [[../../../Compound/Part]]s. 
 It is the Object of the [is_part_of](Compound/is_part_of.md) Relation from the [[../../../Compound/Part]]s. 
+
+It can model both abstract Assemblies of Part-Types and concrete Assemblies of [[Class/Thing|Things]]. 

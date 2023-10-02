@@ -29,4 +29,8 @@ aliases:
 - 
 ---
 
-Subject of the [is_part_of](is_part_of.md) Relation to the [Compound](../Compound.md). 
+Subject of the [is_part_of](is_part_of.md) Relation/Function to the [Compound](../Compound.md). 
+This is the base-Relation/Function of more concrete Roles as in 
+Applies both the [[../Class/Thing|Instances]] and to [[../Class|Classes]], 
+although it is not possible to distinguish multiple Instances of the same Class 
+when they are used 
