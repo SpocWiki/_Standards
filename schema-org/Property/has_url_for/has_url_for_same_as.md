@@ -30,19 +30,19 @@ aliases:
 - sameAs
 - has_url_for_same_as
 ---
+URLs of reference Web pages that unambiguously indicate the item's identity. 
+E.g. the URLs of the item's Wikidata entry, Wikipedia page, database-IDs, social media websites, or official website.
 
-Predicate to specify the Url of Thing.
+Predicate to specify another [[../../Class/is_a_/data_type/text/url|url]] of a [[../../Class/Thing|Thing]].
 
 Use it like this: 
-- [ #has_/url_for_/same_as :: URL ] or 
-- [ has_url_for_same_as :: URL ] 
-
-URL of a reference Web page that unambiguously indicates the item's identity. E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.
+- [ #has_/url_for_/same_as :: [[URL]] ] or 
+- [ has_url_for_same_as :: [[URL]] ] 
 
 Predicate describes that: 
-[ #has_/domain  :: [Thing](../../Class/Thing.md) ]
+[ #has_/domain  :: [[../../Class/Thing|Thing]] ]
 ( #has_/name :: has_url_for_same_as )
-( #has_/range :: URL )
+( #has_/range :: [[URL]] )
 
 
 

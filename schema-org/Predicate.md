@@ -27,7 +27,7 @@ tags:
 # Predicate Overview
 
 Class of Predicates; adds [[Property|Properties]] or [[Relation|Relations]] to Notes in the Form of Key: Value Pairs, 
-- either in the Front-Matter [[Property|Property]]
+- either in the Front-Matter [[Property|property]]
 - or in the Text using 2 Colons and either round or square Brackets [ like :: this ]. 
 These Pairs form Connections/Sentences between the current Note (as the Subject), the Key (as the Verb/Predicate) and the Object (or Value).
 
