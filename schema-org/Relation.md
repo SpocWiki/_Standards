@@ -14,7 +14,7 @@ aliases:
 - 
 
 ---
-
+#rd/fs-d/f§_dfgjf´fj``gh´´hg jkkjkjkjkhjk
 # Relation
 
 A [Relation](Relation.md) connects one [[Class/Thing|Thing]] to another. 

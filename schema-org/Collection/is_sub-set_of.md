@@ -16,7 +16,7 @@ draft: false
 publishDate: 
 expiryDate: 
 tags:
-  - schema-org/Relation
+  - schema-org/Collection
 aliases:
   - subset-of
   - subset_of

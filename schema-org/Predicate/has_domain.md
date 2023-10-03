@@ -17,8 +17,7 @@ layout:
 draft: false
 publishDate: 
 expiryDate: 
-tags:
-  - schema-org/Relation
+tags: [schema-org/Relation]
 aliases:
   - domain_includes
   - domainIncludes

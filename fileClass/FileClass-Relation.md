@@ -8,6 +8,6 @@ extends: FileClass-Thing
 version: 5
 ---
 
-has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('\"_Standards/schema-org/Class\"')"}}
+has_range:: {"type":"File","options":{"dvQueryString":"dv.pages('\"_Standards/schema-org/Class\"')"},"style":{"code":false}}
 has_domain:: {"type":"File","options":{"dvQueryString":"dv.pages('\"_Standards/schema-org/Class\"')"}}
 

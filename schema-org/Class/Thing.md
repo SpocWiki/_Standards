@@ -6,7 +6,7 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - schema-org/Property
+  - class/Thing
   - schema-org/Class
 aliases:
   - Object
@@ -31,6 +31,8 @@ layout:
 draft: false
 publishDate: 
 expiryDate: 
+createTime: 2023-10-02
+lang: en
 has_/sub_classes:
   - "[[./Type/is_a_/action|Action]]"
   - "[[Type/is_a_/bio_chem_entity|bio_chem_entity]]"
@@ -91,48 +93,3 @@ either in the Frontmatter or anywhere in the Text.
 - [[../../_private/schema.org/Thing.private.md|Entity.private]] 
 - [[../../_personal/schema.org/Thing.personal.md|Entity.personal]] 
 - [[../../_secret/schema.org/Thing.secret.md|Entity.secret]] 
-
-
-
----
-license: (c)copyrighted
-confidential: private
-isDeleted: false
-isReadOnly: false
-
-# Obsidian well-known Keys
-cssclass: private note
-publish: false
-
-# Hugo Tags
-# type: #Tags falls back to the Directory in Hugo
-type: private note
-title: Thing
-
-linkTitle: Thing
-keywords: [Thing]
-layout: 
-draft: true
-publishDate:
-expiryDate: 
-
-tags:
-- Thing
-- rather use #Tags (see below); remove the `#` if used here!
-
-aliases:
-- Thing
-- 
-
-# Thing-Facts
-createTime: 2023-10-02
-
-# any other Data:
-Key: Value
-Predicate: #Object
-Predicate: [[Object]]
-
-lang: en
----
-
-

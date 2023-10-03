@@ -23,6 +23,7 @@ aliases:
   - CreativeWork
   - is_a_creative_work
   - creative_works
+fileClass: 
 ---
 
 [[../../Class]] of all [[creative_work]]s.

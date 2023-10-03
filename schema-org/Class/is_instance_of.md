@@ -30,6 +30,7 @@ aliases:
   - is_an
   - itemtype 
   - additionalType 
+fileClass: [FileClass-Relation]
 ---
 # [Classes](../../Classes.md)-[Thing](Thing.md) Relationship 
 Relates an Object to its Class. 
