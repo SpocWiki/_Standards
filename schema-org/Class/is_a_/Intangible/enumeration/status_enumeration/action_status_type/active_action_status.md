@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: ActionStatusType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

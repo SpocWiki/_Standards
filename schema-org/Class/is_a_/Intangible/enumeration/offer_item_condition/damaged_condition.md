@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: OfferItemCondition
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

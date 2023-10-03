@@ -23,6 +23,7 @@ expiryDate:
 supersedes: DatedMoneySpecification
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

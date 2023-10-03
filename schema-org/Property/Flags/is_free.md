@@ -23,6 +23,7 @@ expiryDate:
 superseded_by: isAccessibleForFree
 
 tags:
+- class/Property
 - schema-org/Property/True
 
 aliases:

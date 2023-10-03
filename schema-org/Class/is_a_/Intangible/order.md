@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -21,6 +21,7 @@ publishDate:
 expiryDate: 
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:
@@ -28,6 +29,7 @@ aliases:
 - order
 - Order
 - is_an_order
+fileClass: [FileClass-Class]
 ---
 
 Class of all orders.

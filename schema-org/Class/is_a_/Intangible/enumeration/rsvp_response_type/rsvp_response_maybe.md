@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: RsvpResponseType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

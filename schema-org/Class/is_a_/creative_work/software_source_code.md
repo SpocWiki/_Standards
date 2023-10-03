@@ -23,6 +23,7 @@ expiryDate:
 supersedes: Code
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

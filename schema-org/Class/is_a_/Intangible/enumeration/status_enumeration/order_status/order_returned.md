@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: OrderStatus
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

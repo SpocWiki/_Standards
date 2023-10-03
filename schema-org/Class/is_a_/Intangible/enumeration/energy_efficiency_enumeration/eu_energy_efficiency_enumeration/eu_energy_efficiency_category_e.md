@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: EUEnergyEfficiencyEnumeration
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

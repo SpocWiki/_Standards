@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: DrugPregnancyCategory
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

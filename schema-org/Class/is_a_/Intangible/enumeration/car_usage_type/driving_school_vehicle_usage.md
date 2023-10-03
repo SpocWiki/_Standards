@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: CarUsageType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

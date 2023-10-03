@@ -7,6 +7,7 @@ isDeleted: false
 isReadOnly: false
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

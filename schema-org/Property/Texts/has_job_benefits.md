@@ -23,6 +23,7 @@ expiryDate:
 supersedes: benefits
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

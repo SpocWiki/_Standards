@@ -23,6 +23,7 @@ expiryDate:
 superseded_by: exerciseCourse
 
 tags:
+- class/Property
 - schema-org/Property/geo
 
 aliases:

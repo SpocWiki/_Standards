@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: DeliveryMethod
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

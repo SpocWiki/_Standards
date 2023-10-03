@@ -23,6 +23,7 @@ expiryDate:
 supersedes: Season
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

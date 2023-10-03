@@ -25,6 +25,7 @@ enumerationtype: MerchantReturnEnumeration
 supersedes: ProductReturnUnlimitedWindow
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

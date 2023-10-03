@@ -22,6 +22,7 @@ expiryDate:
 supersedes: paymentDue
 
 tags:
+- class/Property
 - schema-org/Property/Date
 
 aliases:

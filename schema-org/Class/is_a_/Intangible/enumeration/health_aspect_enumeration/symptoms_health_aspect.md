@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: HealthAspectEnumeration
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

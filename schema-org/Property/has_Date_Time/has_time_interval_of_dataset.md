@@ -22,6 +22,7 @@ expiryDate:
 superseded_by: temporalCoverage
 
 tags:
+- class/Property
 - schema-org/Property/Date
 
 aliases:

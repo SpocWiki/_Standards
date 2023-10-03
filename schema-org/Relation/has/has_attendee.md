@@ -22,6 +22,7 @@ expiryDate:
 supersedes: attendees
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

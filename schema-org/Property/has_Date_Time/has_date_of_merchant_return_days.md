@@ -22,6 +22,7 @@ expiryDate:
 supersedes: productReturnDays
 
 tags:
+- class/Property
 - schema-org/Property/Date
 
 aliases:

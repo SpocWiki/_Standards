@@ -20,6 +20,7 @@ publishDate:
 expiryDate: 
 
 tags:
+- class/Property
 - schema-org/Property/Durations
 
 aliases:

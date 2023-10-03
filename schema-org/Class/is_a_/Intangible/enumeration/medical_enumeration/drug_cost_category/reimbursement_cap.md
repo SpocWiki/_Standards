@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: DrugCostCategory
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

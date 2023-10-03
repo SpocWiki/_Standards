@@ -22,6 +22,7 @@ expiryDate:
 supersedes: bookingAgent
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

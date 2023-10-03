@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: ReservationStatusType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

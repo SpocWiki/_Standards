@@ -23,6 +23,7 @@ expiryDate:
 superseded_by: serviceArea
 
 tags:
+- class/Property
 - schema-org/Property/geo
 
 aliases:

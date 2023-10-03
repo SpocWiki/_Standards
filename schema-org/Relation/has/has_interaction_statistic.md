@@ -22,6 +22,7 @@ expiryDate:
 supersedes: interactionCount
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: SteeringPositionValue
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

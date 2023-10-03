@@ -23,6 +23,7 @@ expiryDate:
 superseded_by: availableOnDevice
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

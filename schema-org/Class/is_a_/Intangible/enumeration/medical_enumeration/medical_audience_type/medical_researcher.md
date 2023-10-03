@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MedicalAudienceType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

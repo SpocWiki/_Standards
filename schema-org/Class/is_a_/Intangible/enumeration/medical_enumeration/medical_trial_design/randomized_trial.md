@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MedicalTrialDesign
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

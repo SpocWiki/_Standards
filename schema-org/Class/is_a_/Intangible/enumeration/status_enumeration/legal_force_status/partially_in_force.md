@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: LegalForceStatus
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

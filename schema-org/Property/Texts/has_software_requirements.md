@@ -23,6 +23,7 @@ expiryDate:
 supersedes: requirements
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

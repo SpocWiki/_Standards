@@ -22,6 +22,7 @@ expiryDate:
 superseded_by: includedInDataCatalog
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

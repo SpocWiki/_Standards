@@ -23,6 +23,7 @@ expiryDate:
 supersedes: sampleType
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

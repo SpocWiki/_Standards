@@ -23,6 +23,7 @@ expiryDate:
 superseded_by: MonetaryAmount
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

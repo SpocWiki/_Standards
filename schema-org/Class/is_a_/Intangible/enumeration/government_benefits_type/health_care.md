@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: GovernmentBenefitsType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

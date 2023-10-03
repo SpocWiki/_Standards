@@ -23,6 +23,7 @@ expiryDate:
 equivalent_class: http://purl.bioontology.org/ontology/SNOMEDCT/51114001
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

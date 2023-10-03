@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: RefundTypeEnumeration
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

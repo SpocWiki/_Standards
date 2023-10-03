@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MedicineSystem
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

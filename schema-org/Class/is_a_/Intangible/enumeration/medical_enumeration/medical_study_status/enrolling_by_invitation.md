@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MedicalStudyStatus
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -23,6 +23,7 @@ expiryDate:
 supersedes: fileFormat
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

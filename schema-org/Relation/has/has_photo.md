@@ -22,6 +22,7 @@ expiryDate:
 supersedes: photos
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

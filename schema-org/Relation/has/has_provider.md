@@ -22,6 +22,7 @@ expiryDate:
 supersedes: carrier
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

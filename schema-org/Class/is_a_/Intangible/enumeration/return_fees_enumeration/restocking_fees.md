@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: ReturnFeesEnumeration
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

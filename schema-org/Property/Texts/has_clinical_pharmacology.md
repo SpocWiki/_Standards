@@ -23,6 +23,7 @@ expiryDate:
 supersedes: clincalPharmacology
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

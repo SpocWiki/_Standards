@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MusicAlbumReleaseType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -22,6 +22,7 @@ expiryDate:
 supersedes: contactPoints
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

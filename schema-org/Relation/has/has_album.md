@@ -22,6 +22,7 @@ expiryDate:
 supersedes: albums
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

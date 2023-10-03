@@ -22,6 +22,7 @@ expiryDate:
 supersedes: encodings
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

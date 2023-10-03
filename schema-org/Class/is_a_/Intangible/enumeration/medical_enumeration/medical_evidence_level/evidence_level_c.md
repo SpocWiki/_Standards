@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MedicalEvidenceLevel
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

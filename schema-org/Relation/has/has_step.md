@@ -22,6 +22,7 @@ expiryDate:
 supersedes: steps
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

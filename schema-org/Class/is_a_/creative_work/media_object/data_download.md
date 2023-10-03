@@ -23,6 +23,7 @@ expiryDate:
 equivalent_class: http://www.w3.org/ns/dcat#Distribution
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

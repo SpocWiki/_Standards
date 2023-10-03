@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: ItemListOrderType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

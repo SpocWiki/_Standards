@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MapCategoryType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

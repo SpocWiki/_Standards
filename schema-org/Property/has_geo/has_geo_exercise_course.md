@@ -23,6 +23,7 @@ expiryDate:
 supersedes: course
 
 tags:
+- class/Property
 - schema-org/Property/geo
 
 aliases:

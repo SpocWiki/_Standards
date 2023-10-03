@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: GameServerStatus
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

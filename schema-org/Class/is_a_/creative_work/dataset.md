@@ -23,6 +23,7 @@ expiryDate:
 equivalent_class: http://purl.org/dc/dcmitype/Dataset, http://www.w3.org/ns/dcat#Dataset, http://rdfs.org/ns/void#Dataset
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

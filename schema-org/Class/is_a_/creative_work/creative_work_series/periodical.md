@@ -23,6 +23,7 @@ expiryDate:
 equivalent_class: http://purl.org/ontology/bibo/Periodical
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

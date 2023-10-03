@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MedicalSpecialty
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

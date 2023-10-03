@@ -22,6 +22,7 @@ expiryDate:
 supersedes: season
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

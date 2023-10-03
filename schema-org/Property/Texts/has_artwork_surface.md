@@ -23,6 +23,7 @@ expiryDate:
 supersedes: surface
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

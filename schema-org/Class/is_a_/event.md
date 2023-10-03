@@ -23,6 +23,7 @@ expiryDate:
 equivalent_class: http://purl.org/dc/dcmitype/Event
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

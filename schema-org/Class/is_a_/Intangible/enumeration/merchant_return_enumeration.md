@@ -23,6 +23,7 @@ expiryDate:
 supersedes: ProductReturnEnumeration
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

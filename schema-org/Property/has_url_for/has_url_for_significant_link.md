@@ -23,6 +23,7 @@ expiryDate:
 supersedes: significantLinks
 
 tags:
+- class/Property
 - schema-org/Property/Url
 
 aliases:

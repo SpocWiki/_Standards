@@ -22,6 +22,7 @@ expiryDate:
 supersedes: subEvents
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

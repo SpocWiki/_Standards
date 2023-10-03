@@ -23,6 +23,7 @@ expiryDate:
 equivalent_class: rdfs:class
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

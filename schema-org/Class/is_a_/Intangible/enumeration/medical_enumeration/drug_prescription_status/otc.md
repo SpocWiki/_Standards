@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: DrugPrescriptionStatus
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

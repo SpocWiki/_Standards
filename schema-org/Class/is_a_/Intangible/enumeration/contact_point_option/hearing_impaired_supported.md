@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: ContactPointOption
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

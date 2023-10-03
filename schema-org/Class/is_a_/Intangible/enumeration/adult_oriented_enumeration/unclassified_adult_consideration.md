@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: AdultOrientedEnumeration
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

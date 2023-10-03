@@ -23,6 +23,7 @@ expiryDate:
 supersedes: UserPlusOnes, UserCheckins, UserBlocks, UserLikes, UserDownloads, UserPageVisits, UserComments, UserTweets, UserInteraction, UserPlays
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

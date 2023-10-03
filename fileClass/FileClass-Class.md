@@ -10,4 +10,4 @@ version: 6
 
 
 
-is_sub_class_of:: {"type":"File","options":{"dvQueryString":"dv.pages('\"_Standards/schema-org/Class\"')"}}
+is_sub_class_of:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}

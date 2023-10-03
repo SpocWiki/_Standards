@@ -23,6 +23,7 @@ supersedes: {{supersedes}}
 superseded_by: {{supersededBy}}
 
 tags:
+- class/Property
 - schema-org/Property/Durations
 
 aliases:

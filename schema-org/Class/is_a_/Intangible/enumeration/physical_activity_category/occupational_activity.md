@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: PhysicalActivityCategory
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

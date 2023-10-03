@@ -23,6 +23,7 @@ expiryDate:
 supersedes: option
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

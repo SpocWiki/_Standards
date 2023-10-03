@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: DayOfWeek
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: PhysicalExam
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

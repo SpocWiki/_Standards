@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: ReturnMethodEnumeration
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

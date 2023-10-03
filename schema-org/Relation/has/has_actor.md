@@ -22,6 +22,7 @@ expiryDate:
 supersedes: actors
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

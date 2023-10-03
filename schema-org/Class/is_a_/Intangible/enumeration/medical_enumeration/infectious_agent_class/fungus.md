@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: InfectiousAgentClass
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -23,6 +23,7 @@ supersedes: {{supersedes}}
 superseded_by: {{supersededBy}}
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

@@ -23,6 +23,7 @@ expiryDate:
 supersedes: containedIn
 
 tags:
+- class/Property
 - schema-org/Property/geo
 
 aliases:

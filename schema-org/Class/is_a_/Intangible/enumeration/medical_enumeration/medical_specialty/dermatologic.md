@@ -25,6 +25,7 @@ enumerationtype: MedicalSpecialty
 superseded_by: Dermatology
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MedicalImagingTechnique
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

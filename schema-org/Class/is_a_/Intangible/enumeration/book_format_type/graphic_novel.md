@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: BookFormatType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

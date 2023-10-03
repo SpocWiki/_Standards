@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MedicalDevicePurpose
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

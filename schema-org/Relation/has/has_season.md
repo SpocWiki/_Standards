@@ -23,6 +23,7 @@ supersedes: seasons
 superseded_by: containsSeason
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

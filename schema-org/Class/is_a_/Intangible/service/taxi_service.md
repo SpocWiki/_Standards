@@ -23,6 +23,7 @@ expiryDate:
 supersedes: Taxi
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: GenderType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

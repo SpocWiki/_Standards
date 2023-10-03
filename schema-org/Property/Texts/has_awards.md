@@ -23,6 +23,7 @@ expiryDate:
 superseded_by: award
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

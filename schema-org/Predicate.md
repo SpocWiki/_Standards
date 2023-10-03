@@ -7,6 +7,7 @@ isDeleted: false
 isReadOnly: false
 
 tags:
+- class/Property
 - schema-org/Property
 
 aliases:
@@ -18,6 +19,7 @@ aliases:
 - 
 
 tags:
+- class/Property
 - schema-org/Property
 
 ---

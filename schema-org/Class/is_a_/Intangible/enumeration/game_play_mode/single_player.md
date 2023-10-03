@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: GamePlayMode
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -22,6 +22,7 @@ expiryDate:
 supersedes: blogPosts
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

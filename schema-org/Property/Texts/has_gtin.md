@@ -21,6 +21,7 @@ publishDate:
 expiryDate: 
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

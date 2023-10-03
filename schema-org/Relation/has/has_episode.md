@@ -22,6 +22,7 @@ expiryDate:
 supersedes: episodes
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

@@ -23,6 +23,7 @@ supersedes: serviceArea
 superseded_by:  
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

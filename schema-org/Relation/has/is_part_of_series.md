@@ -22,6 +22,7 @@ expiryDate:
 supersedes: partOfTVSeries
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

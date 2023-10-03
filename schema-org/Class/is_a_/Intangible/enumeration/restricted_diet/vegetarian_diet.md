@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: RestrictedDiet
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

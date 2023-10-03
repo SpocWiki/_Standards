@@ -23,6 +23,7 @@ expiryDate:
 equivalent_class: http://xmlns.com/foaf/0.1/Person
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

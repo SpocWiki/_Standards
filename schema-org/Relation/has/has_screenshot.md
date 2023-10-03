@@ -20,6 +20,7 @@ publishDate:
 expiryDate: 
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

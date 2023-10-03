@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: ItemAvailability
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -23,6 +23,7 @@ supersedes: area
 superseded_by: areaServed
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

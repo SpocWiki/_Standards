@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: DigitalDocumentPermissionType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

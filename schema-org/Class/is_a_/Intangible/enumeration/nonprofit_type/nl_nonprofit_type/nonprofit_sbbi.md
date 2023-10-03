@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: NLNonprofitType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

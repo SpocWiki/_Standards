@@ -22,6 +22,7 @@ expiryDate:
 supersedes: reviews
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

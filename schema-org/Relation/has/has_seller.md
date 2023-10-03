@@ -22,6 +22,7 @@ expiryDate:
 supersedes: merchant, vendor
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

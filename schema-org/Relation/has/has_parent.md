@@ -22,6 +22,7 @@ expiryDate:
 supersedes: parents
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

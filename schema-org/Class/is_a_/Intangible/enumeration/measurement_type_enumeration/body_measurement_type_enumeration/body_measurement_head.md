@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: BodyMeasurementTypeEnumeration
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -23,6 +23,7 @@ expiryDate:
 supersedes: ingredients
 
 tags:
+- class/Property
 - schema-org/Property/Text
 
 aliases:

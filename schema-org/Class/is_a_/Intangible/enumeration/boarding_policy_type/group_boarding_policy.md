@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: BoardingPolicyType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

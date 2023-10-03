@@ -25,6 +25,7 @@ enumerationtype: MerchantReturnEnumeration
 supersedes: ProductReturnNotPermitted
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

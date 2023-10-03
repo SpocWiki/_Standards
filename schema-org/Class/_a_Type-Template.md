@@ -27,6 +27,7 @@ supersedes: {{supersedes}}
 superseded_by: {{supersededBy}}
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

@@ -22,6 +22,7 @@ expiryDate:
 supersedes: colleagues
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

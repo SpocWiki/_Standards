@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: LegalValueLevel
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

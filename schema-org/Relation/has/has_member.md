@@ -22,6 +22,7 @@ expiryDate:
 supersedes: members, musicGroupMember
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

@@ -22,6 +22,7 @@ expiryDate:
 supersedes: aspect
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

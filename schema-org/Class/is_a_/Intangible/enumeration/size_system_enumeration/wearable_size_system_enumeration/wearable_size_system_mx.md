@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: WearableSizeSystemEnumeration
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:

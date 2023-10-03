@@ -22,6 +22,7 @@ expiryDate:
 supersedes: hasProductReturnPolicy
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

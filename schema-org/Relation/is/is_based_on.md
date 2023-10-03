@@ -22,6 +22,7 @@ expiryDate:
 supersedes: isBasedOnUrl
 
 tags:
+- class/Relation
 - schema-org/Relation
 
 aliases:

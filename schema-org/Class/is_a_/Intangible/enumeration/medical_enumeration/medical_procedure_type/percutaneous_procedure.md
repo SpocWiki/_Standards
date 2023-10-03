@@ -23,6 +23,7 @@ expiryDate:
 enumerationtype: MedicalProcedureType
 
 tags:
+- class/Class
 - schema-org/Class
 
 aliases:
