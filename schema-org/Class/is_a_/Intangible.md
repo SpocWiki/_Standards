@@ -36,7 +36,7 @@ Class of all intangibles.
 Tag Instances like this: 
 #is_/an_/intangible
 
-A utility class that serves as the umbrella for a number of 'intangible' things such as [Quantities](Intangible/Quantity.md), [Structured Values](Intangible/structured_value.md), etc.
+A utility class that serves as the umbrella for a number of 'intangible' things such as [Quantities](../../Predicate/Quantity.md), [Structured Values](Intangible/structured_value.md), etc.
 
 [ #is_/sub_class_of :: [[../Thing|Thing]] ] 
 

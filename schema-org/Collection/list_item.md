@@ -38,7 +38,7 @@ Tag Instances like this:
 
 An list item, e.g. a step in a checklist or how-to description.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+[ #is_/sub_class_of ::[[../Class/is_a_/Intangible]]] ]
 
 [ #has_/sub_classes :: [ HowToDirection, HowToItem, HowToSection, HowToStep, HowToTip ] ]
 

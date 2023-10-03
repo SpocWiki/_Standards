@@ -39,7 +39,7 @@ Use it like this:
 - [ #has_/duration/_until_repeat::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 Defines the frequency at which [[Event]]s will occur according to a schedule [[Schedule]]. The intervals between
-      events should be defined as a [[Duration]] of time.
+      events should be defined as a [[../../Predicate/Quantity/duration]] of time.
 
 Formal Predicate: 
 [domain::Schedule]

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 kg' or '4 milligrams'.
 
-[ #is_/sub_class_of :: [[../Intangible]] ]
+[ #is_/sub_class_of :: [[../Class/is_a_/Intangible]] ]
 
 [ #has_/sub_classes :: [ Distance, Duration, Energy, Mass ] ]
 

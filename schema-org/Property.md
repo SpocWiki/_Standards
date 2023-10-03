@@ -17,10 +17,9 @@ aliases:
   - 
 ---
 
-# Property Overview
+# Property 
 
 This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range]]. 
-[[Range]]
 
 #class/Property 
 

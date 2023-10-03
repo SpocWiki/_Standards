@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Properties that take Energy as values are of the form '&lt;Number&gt; &lt;Energy unit of measure&gt;'.
 
-[ #is_/sub_class_of :: [[../Quantity]] ]
+[ #is_/sub_class_of :[[../Quantity]]]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
