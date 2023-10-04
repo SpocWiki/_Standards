@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -33,12 +33,11 @@ aliases:
 - is_a_sunday
 ---
 
-Class of all sundays.
+Class of all sundays, the day of the week between Saturday and Monday.
+
 
 Tag Instances like this: 
 #is_/a_/sunday
-
-The day of the week between Saturday and Monday.
 
 [ #is_/sub_class_of :: [[../DayOfWeek]] ]
 

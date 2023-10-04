@@ -31,7 +31,7 @@ aliases:
 - has_text_about_term_code
 ---
 
-Predicate to describe the Text of DefinedTerm.
+Predicate to describe the Text of [[../../Class/is_a_/Intangible/defined_term|defined_Term]]. 
 
 [ #is_/part_of :: pending: ]
 
@@ -42,11 +42,11 @@ Use it like this:
 A code that identifies this [[DefinedTerm]] within a [[DefinedTermSet]]
 
 Predicated describes that: 
-[ #has_/domain  :: DefinedTerm ]
+[ #has_/domain  :: [[../../Relation/has/has_defined_term|defined_term]] ]
 ( #has_/name :: has_text_about_term_code )
-( #has_/range :: Text )
+( #has_/range :: text )
 
-[ #has_/sub_properties :: [ codeValue ] ]
+#has_/sub_properties :: [ [[has_code_value]] ]
 
 
 

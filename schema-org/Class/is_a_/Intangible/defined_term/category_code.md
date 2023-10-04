@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,14 +31,12 @@ aliases:
 - is_a_category_code
 ---
 
-Class of all category_codes.
+Class of all defined category_codes.
 
 Tag Instances like this: 
 #is_/a_/category_code
 
 [ #is_/part_of :: https://pending.schema.org ]
-
-A Category Code.
 
 [ #is_/sub_class_of :: [[../DefinedTerm]] ]
 

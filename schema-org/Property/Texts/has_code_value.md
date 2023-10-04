@@ -31,7 +31,8 @@ aliases:
 - has_text_about_code_value
 ---
 
-Predicate to describe the Text of CategoryCode, MedicalCode.
+Predicate to describe the short textual code, 
+that uniquely identifies the value of CategoryCode, MedicalCode.
 
 [ #is_/part_of :: pending: ]
 
@@ -39,10 +40,8 @@ Use it like this:
 - [ #has_/text_about/_code_value :: Text ] or 
 - [ has_text_about_code_value :: Text ] 
 
-A short textual code that uniquely identifies the value.
-
 Predicated describes that: 
-[ #has_/domain  :: CategoryCode, MedicalCode ]
+[ #has_/domain  :: [[../../Class/is_a_/Intangible/defined_term/category_code|CategoryCode]], [[../../Class/is_a_/Intangible/defined_term/category_code/medical_code|MedicalCode]] ]
 ( #has_/name :: has_text_about_code_value )
 ( #has_/range :: Text )
 

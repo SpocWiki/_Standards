@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,12 +31,11 @@ aliases:
 - is_an_audience
 ---
 
-Class of all audiences.
+Class of all intended audiences for an item, 
+i.e. the groups for whom an item was created.
 
 Tag Instances like this: 
 #is_/an_/audience
-
-Intended audience for an item, i.e. the group for whom the item was created.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

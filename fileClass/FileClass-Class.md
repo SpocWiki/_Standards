@@ -1,4 +1,5 @@
 ---
+is_sub_class_of: '{"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}'
 limit: 100
 mapWithTag: true
 icon: list
@@ -10,4 +11,4 @@ version: 6
 
 
 
-is_sub_class_of:: {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
+\_is_sub_class_of::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}

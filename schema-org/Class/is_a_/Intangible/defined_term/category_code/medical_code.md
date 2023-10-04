@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -36,7 +36,6 @@ Class of all medical_codes.
 Tag Instances like this: 
 #is_/a_/medical_code
 
-A code for a medical entity.
 
 [ #is_/sub_class_of :: [[../CategoryCode, MedicalIntangible]] ]
 
