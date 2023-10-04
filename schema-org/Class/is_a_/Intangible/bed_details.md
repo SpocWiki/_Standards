@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -29,14 +29,17 @@ aliases:
 - bed_details
 - BedDetails
 - is_a_bed_details
+fileClass: [FileClass~Class]
 ---
 
-Class of all bed_detailss.
+Class of all bed_details, i.e. entities holding detailed information about the available bed types, 
+e.g. the quantity of twin beds for a hotel room. 
+For the single case of just one bed of a certain type, you can use bed directly with a text. See also <a class="localLink" href="/BedType">BedType</a> (under development).
 
 Tag Instances like this: 
 #is_/a_/bed_details
 
-An entity holding detailed information about the available bed types, e.g. the quantity of twin beds for a hotel room. For the single case of just one bed of a certain type, you can use bed directly with a text. See also <a class="localLink" href="/BedType">BedType</a> (under development).
+
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
