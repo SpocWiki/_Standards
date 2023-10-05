@@ -51,25 +51,36 @@ has_/sub_classes:
 The Class of all things. Everything you can think about is a 'thing'. 
 AKA AnyThing, EveryThing, SomeThing 
 
-The most generic type of item.
+The most generic [[../Class|Class/Type]] of item.
+Each [Thing](Thing.md) has its own Identity.
 
-Instances are the Members of a [Classes](../Classes.md). 
-They are the Subject of the [is_instance_of](is_instance_of.md) Relation to their [Classes](../Classes.md). 
+They are the Subject of the [[is_instance_of]] Relation to their [[../Classes.md|Classes]]. 
+This is disjoint to the [[is_part_of]] and [[../Collection/is_item_in|is_item_in]] Relations. 
+
+Instances can be Members of [[../Classes.md|Classes]]. Typically the narrowest Sub-Class is specified, 
+as the [[is_sub-class_of|subclass-of]] Relation allows to infer many other Classes 
+(but not all! A Thing may be an instance of multiple disjoint Class Hierarchies). 
 
 
 Tagging Instances like this is futile, because it is implied: 
 #is_/a_/thing
 
-Don't used this as a Relation, because it is too vague. Rather use 
-- [is_instance_of](is_instance_of.md) for Objects or 
-- [is_subclass_of](is_sub-class_of.md)  for Classes
+Don't used this Class in a Relation, because it is too vague. Rather use 
+- [[is_instance_of]] for Objects or 
+- [[is_sub-class_of|is_subclass_of]]  for Classes
 
+But this [#is_/instance_of :: [[../Class|Class]] ] 
 
-#has_/sub_classes :: [ "[[Action]]", [[Bio_Chem_Entity]], [Creative_Work](Type/is_a_/creative_work.md), [[Event]], [[Intangible]], [[MedicalEntity]], [[Organization]], [[Person]], [place](Type/is_a_/place.md), [[Product]], [[stupid_Type]], [[Taxon]] ] 
+[[]]
+#is_an_insta
+
+[ #is_/sub_class_of :: [[./Thing|Thing]] ] 
+
+#has_/sub_classes :: [[Type/is_a_/creative_work.md| "[[Action]], [[Type/is_a_/place.md|[Event]], [[Product]], [[stupid_Type]], [[Taxon]] ] 
 
 has_/sub_classes:: [ "[[./Type/is_a_/action|Action]]", "[[Type/is_a_/bio_chem_entity|bio_chem_entity]]", "[[Type/is_a_/creative_work|creative_work]]", "[[Type/is_a_/event|event]]", "[[Type/is_a_/Intangible|Intangible]]", "[[Type/is_a_/medical_entity|medical-entity]]", "[[Type/is_a_/place.md|place]]", "[[Type/is_a_/organization|organization]]", "[[Type/is_a_/person|person]]", "[[Type/is_a_/product|product]]", "[[Type/is_a_/taxon|taxon]]" ]
 
-[ #has_/properties :: [ "[has_url_for_additional_type](Predicate/Urls/has_url_for_additional_type.md)", '[has_alternate_name](Predicate/Texts/has_alternate_name.md)', "[has_description](Predicate/Texts/has_description.md)", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
+[[Predicate/Urls/has_url_for_additional_type.md| #has_/properties :: [ "[has_url_for_additional_type]]", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', "[[Predicate/Texts/has_description.md|has_description]]", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 Entities are Objects with an Identity, usually a unique Name and/or URL. 
 The unique Name allows to add Properties and Relations to them
@@ -87,9 +98,9 @@ Obsidian allows to naturally capture these Triples,
 either in the Frontmatter or anywhere in the Text.
 
 ## Confidential Links & Embeds: 
-- [Entity](../../_public/schema.org/Thing.md) 
+- [[../../_public/schema.org/Thing.md|Entity]] 
 - [[../../_internal/schema.org/Thing.internal.md|Entity.internal]] 
-- [Entity.protect](../../_protect/schema.org/Thing.protect.md) 
+- [[../../_protect/schema.org/Thing.protect.md|Entity.protect]] 
 - [[../../_private/schema.org/Thing.private.md|Entity.private]] 
 - [[../../_personal/schema.org/Thing.personal.md|Entity.personal]] 
 - [[../../_secret/schema.org/Thing.secret.md|Entity.secret]] 

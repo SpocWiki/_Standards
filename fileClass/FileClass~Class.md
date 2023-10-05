@@ -1,14 +1,13 @@
 ---
-is_sub_class_of: '{"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}'
 limit: 100
 mapWithTag: true
 icon: list
 tagNames: [schema-org/Class, class/Class]
 excludes: 
-extends: FileClass-Thing
-version: 6
+extends: FileClass~IThing/FileClass~IIntangible
+version: 9
 ---
 
 
 
-\_is_sub_class_of::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
+is_sub_class_of::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}

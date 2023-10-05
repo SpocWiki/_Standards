@@ -29,8 +29,15 @@ aliases:
 - 
 ---
 
-Subject of the [is_part_of](is_part_of.md) Relation/Function to the [Compound](../Compound.md). 
-This is the base-Relation/Function of more concrete Roles as in 
+Subject of the [is_part_of](is_part_of.md) Relation/Function to the [Composite](../Composite.md). 
+This is the base-Relation/Function of more concrete Roles for Parts/Components/Modules in a [[../Composite|Composite]]. 
 Applies both the [[../Class/Thing|Instances]] and to [[../Class|Classes]], 
-although it is not possible to distinguish multiple Instances of the same Class 
-when they are used 
+although it requires typed Sub-Relations to be able to distinguish multiple Instances of the same Class when they are used like 
+e.g. the Tires of a Car require these Sub-Relations of the [[is_part_of]] Relation: 
+- is_front_left_tire_of 
+- is_front_right_tire_of 
+- is_back_left_tire_of 
+- is_back_right_tire_of 
+- is_spare_tire_of 
+
+Alternatively, rather define a Car-Class with these 5 Link-Properties. 

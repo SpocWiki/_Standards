@@ -28,16 +28,16 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is_/is_module_of :: Compound] or 
-- [ is_is_module_of :: Compound] 
+- [ #is_/is_module_of :: Composite] or 
+- [ is_is_module_of :: Composite] 
 
 Relates a module to its super-set. 
 Can be implemented with dedicated #Tags
 
 Relation describes that: 
-[ #has_/domain  :: [Compound](../Compound.md)]
+[ #has_/domain  :: [Composite](../Composite.md)]
 ( #has_/name :: [is_module_of](is_is_module_of.md))
-( #has_/range :: [Compound](../Compound.md))
+( #has_/range :: [Composite](../Composite.md))
 
 
 ## Confidential Links & Embeds: 

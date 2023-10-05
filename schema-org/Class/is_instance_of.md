@@ -25,21 +25,26 @@ aliases:
   - rdf~type
   - "rdf: type"
   - typeof
-  - '@type'
+  - "@type"
   - is_a
   - is_an
-  - itemtype 
-  - additionalType 
-fileClass: [FileClass-Relation]
+  - itemtype
+  - additionalType
+  - is_an_instance_of
+fileClass:
+  - FileClass-Relation
 ---
-# [Classes](../../Classes.md)-[Thing](Thing.md) Relationship 
-Relates an Object to its Class. 
+# [Class](../../Classes.md)-[Thing](Thing.md) Relationship 
+Relates an Object/Thing/Entity to its Class. 
 Can be implemented with a dedicated #Tag for each Class to enable Tools to restrict the Range to defined Classes.
 
-Helps to group all (potential) **similar** objects 
+Classes help to group all (potential) **similar** objects and extend Rules 
+from (countable) Sets (for which you can use Induction) 
+to uncountable Classes. 
  
-Unlike the untyped, finite [Item](../Collection/Item.md) Relation, this is an infinite, typed Relation. 
-Each [Thing](Thing.md) has its own Identity.
+Unlike the untyped, finite [[../Collection/is_item_in|is_element_of]] Relation, 
+or the typed, finite [[../Composite/is_part_of|is_part_of]] Relation 
+this is an infinite, typed Relation. 
 
 Verbs: 
 - rdf:type for XML-RDF
@@ -50,8 +55,8 @@ Verbs:
 -  
 
 ## Alternative Structural Relations:
-- [is_part_of](../Compound/is_part_of.md)
-- [is_element_of](../Collection/is_element_of.md) 
+- [is_part_of](../Composite/is_part_of.md)
+- [is_item_in](../Collection/is_item_in.md) 
 
 ## Use it like this: 
 - [ #is_/instance_of :: Class] or 
@@ -60,7 +65,7 @@ Or use
 - [is_subclass_of](is_sub-class_of.md)  for Classes
 
 ## Relation describes that: 
-[ #has_/domain  :: Thing]
+[ #has_/domain  :: [[Thing]]] 
 ( #has_/name :: is_instance_of)
 ( #has_/range :: Class)
 

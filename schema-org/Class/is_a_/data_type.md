@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,14 +31,14 @@ aliases:
 - is_a_data_type
 ---
 
-Class of all data_types.
+Class of all (basic) data types such as Integers, Strings, etc.
+#class/data_type
+
 
 Tag Instances like this: 
 #is_/a_/data_type
 
-The basic data types such as Integers, Strings, etc.
-
-[ #is_/sub_class_of :: [[../rdfs:class]] ]
+[ #is_/sub_class_of :: [[../../Class|Class]] ]
 
 [ #has_/sub_classes :: [ Boolean, Time, DateTime, Date, Text, Number ] ]
 

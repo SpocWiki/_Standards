@@ -55,7 +55,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://meta.schema.org ]
 
-[ #is_/sub_class_of :: [[Type/is_a_/Intangible]] ]
+[  #is_/sub_class_of :: [[./Class/is_a_/Intangible|Intangible]]  ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ] ]
 

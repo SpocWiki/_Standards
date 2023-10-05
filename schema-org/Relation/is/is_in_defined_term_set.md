@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/name :: is_in_defined_term_set )
 ( #has_/range :: DefinedTermSet, URL )
 
-[ #is_/sub_property_of  :: [[../../../Compound/is_part_of]] ]
+[ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
 
 [ #has_/sub_properties :: [[is_in_code_set]] ]
 
