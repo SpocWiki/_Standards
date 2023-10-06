@@ -1,13 +1,14 @@
 ---
 limit: 9
 mapWithTag: true
+icon: cloud-fog
 excludes:
-icon: link-2
+extends: 
 version: 5
-tagNames: [class/IThing, schema-org/IThing]
+tagNames: [class/Thing, schema-org/Thing]
 ---
 
-#class/IThing
+fileClass:: {"type":"Multi","options":{"valuesList":{},"sourceType":"ValuesFromDVQuery","valuesListNotePath":"","valuesFromDVQuery":"dv.pages('\"_Standards/fileClass\"').map(f =>f.file.name)"},"style":{"code":false}}
 
 NameText:: {"type":"Input","options":{}}
 DescriptionText:: {"type":"Input","options":{}}
