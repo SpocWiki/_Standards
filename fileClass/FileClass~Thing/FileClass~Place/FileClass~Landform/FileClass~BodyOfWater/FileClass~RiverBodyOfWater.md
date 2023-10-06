@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: waves
+version: 6
 tagNames: [class/RiverBodyOfWater, class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater, schema-org/RiverBodyOfWater]
 tags: ["class/RiverBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater

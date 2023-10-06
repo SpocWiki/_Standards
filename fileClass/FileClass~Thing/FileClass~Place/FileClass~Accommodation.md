@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: hotel
+version: 6
 tagNames: [class/Accommodation, class/Thing/Place/Accommodation, schema-org/Accommodation]
 tags: ["class/Accommodation", "class/Thing/Place/Accommodation"]
 extends: FileClass~Thing/FileClass~Place

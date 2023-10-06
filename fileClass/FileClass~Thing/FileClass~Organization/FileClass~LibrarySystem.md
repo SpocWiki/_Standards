@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: book-copy
+version: 6
 tagNames: [class/LibrarySystem, class/Thing/Organization/LibrarySystem, schema-org/LibrarySystem]
 tags: ["class/LibrarySystem", "class/Thing/Organization/LibrarySystem"]
 extends: FileClass~Thing/FileClass~Organization

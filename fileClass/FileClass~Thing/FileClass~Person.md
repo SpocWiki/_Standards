@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: person-standing
+version: 6
 tagNames: [class/Person, class/Thing/Person, schema-org/Person]
 tags: ["class/Person", "class/Thing/Person"]
 extends: FileClass~Thing

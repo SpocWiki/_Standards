@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: hotel
+version: 6
 tagNames: [class/LodgingBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness, schema-org/LodgingBusiness]
 tags: ["class/LodgingBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness

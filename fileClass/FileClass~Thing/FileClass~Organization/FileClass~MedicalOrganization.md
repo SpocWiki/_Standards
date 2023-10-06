@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: cross
+version: 6
 tagNames: [class/MedicalOrganization, class/Thing/Organization/MedicalOrganization, schema-org/MedicalOrganization]
 tags: ["class/MedicalOrganization", "class/Thing/Organization/MedicalOrganization"]
 extends: FileClass~Thing/FileClass~Organization

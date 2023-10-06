@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: bus
+version: 6
 tagNames: [class/Vehicle, class/Thing/Product/Vehicle, schema-org/Vehicle]
 tags: ["class/Vehicle", "class/Thing/Product/Vehicle"]
 extends: FileClass~Thing/FileClass~Product

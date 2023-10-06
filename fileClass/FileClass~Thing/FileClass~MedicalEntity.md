@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: plus-circle
+version: 6
 tagNames: [class/MedicalEntity, class/Thing/MedicalEntity, schema-org/MedicalEntity]
 tags: ["class/MedicalEntity", "class/Thing/MedicalEntity"]
 extends: FileClass~Thing

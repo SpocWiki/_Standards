@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: church
+version: 6
 tagNames: [class/PlaceOfWorship, class/Thing/Place/CivicStructure/PlaceOfWorship, schema-org/PlaceOfWorship]
 tags: ["class/PlaceOfWorship", "class/Thing/Place/CivicStructure/PlaceOfWorship"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure

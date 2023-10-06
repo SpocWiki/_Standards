@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: utensils
+version: 6
 tagNames: [class/FoodEstablishment, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment, schema-org/FoodEstablishment]
 tags: ["class/FoodEstablishment", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness

@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: hotel
+version: 6
 tagNames: [class/ApartmentComplex, class/Thing/Place/Residence/ApartmentComplex, schema-org/ApartmentComplex]
 tags: ["class/ApartmentComplex", "class/Thing/Place/Residence/ApartmentComplex"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Residence
