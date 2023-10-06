@@ -12,6 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~Creativ
 #class/CreativeWorkSeries
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries
 
-EndDate:: {"type":"Number","options":{}}
+EndDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 Issn:: {"type":"Input","options":{}}
-StartDate:: {"type":"Number","options":{}}
+StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

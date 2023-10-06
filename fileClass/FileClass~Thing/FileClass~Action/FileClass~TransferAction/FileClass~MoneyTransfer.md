@@ -12,5 +12,5 @@ extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 #class/MoneyTransfer
 #class/Thing/Action/TransferAction/MoneyTransfer
 
-Amount:: {"type":"Input","options":{}}
+Amount:: {"type":"Number","options":{}}
 BeneficiaryBank:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion')"}}

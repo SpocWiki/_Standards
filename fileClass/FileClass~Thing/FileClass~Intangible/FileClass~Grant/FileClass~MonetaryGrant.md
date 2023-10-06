@@ -12,4 +12,4 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Grant
 #class/MonetaryGrant
 #class/Thing/Intangible/Grant/MonetaryGrant
 
-Amount:: {"type":"Input","options":{}}
+Amount:: {"type":"Number","options":{}}

@@ -12,5 +12,5 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~Organizat
 #class/EmployeeRole
 #class/Thing/Intangible/Role/OrganizationRole/EmployeeRole
 
-BaseSalary:: {"type":"Input","options":{}}
+BaseSalary:: {"type":"Number","options":{}}
 SalaryCurrency:: {"type":"Input","options":{}}

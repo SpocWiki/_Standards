@@ -22,5 +22,5 @@ ReservationFor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 ReservationId:: {"type":"Input","options":{}}
 ReservationStatus:: {"type":"Select","options":{"valuesList":{"ReservationCancelled","ReservationConfirmed","ReservationHold","ReservationPending"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 ReservedTicket:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Ticket')"}}
-TotalPrice:: {"type":"Input","options":{}}
+TotalPrice:: {"type":"Number","options":{}}
 UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}

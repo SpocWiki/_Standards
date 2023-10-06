@@ -15,6 +15,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 Currency:: {"type":"Input","options":{}}
 MaxValue:: {"type":"Number","options":{}}
 MinValue:: {"type":"Number","options":{}}
-ValidFrom:: {"type":"Number","options":{}}
-ValidThrough:: {"type":"Number","options":{}}
+ValidFrom:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 Value:: {"type":"Boolean","options":{}}

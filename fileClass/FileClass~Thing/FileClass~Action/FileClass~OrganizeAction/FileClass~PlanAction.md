@@ -12,4 +12,4 @@ extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
 #class/PlanAction
 #class/Thing/Action/OrganizeAction/PlanAction
 
-ScheduledTime:: {"type":"Number","options":{}}
+ScheduledTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

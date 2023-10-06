@@ -16,7 +16,7 @@ AssociatedArticle:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#c
 Bitrate:: {"type":"Input","options":{}}
 ContentSize:: {"type":"Input","options":{}}
 ContentUrl:: {"type":"Input","options":{}}
-Duration:: {"type":"Input","options":{}}
+Duration:: {"type":"Number","options":{"min":"0","max":"2359"}}
 EmbedUrl:: {"type":"Input","options":{}}
 EncodesCreativeWork:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 EndTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
@@ -28,5 +28,5 @@ RegionsAllowed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 RequiresSubscription:: {"type":"Boolean","options":{}}
 Sha256:: {"type":"Input","options":{}}
 StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
-UploadDate:: {"type":"Number","options":{}}
+UploadDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 Width:: {"type":"Number","options":{}}

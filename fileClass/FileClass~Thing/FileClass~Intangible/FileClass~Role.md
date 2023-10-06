@@ -12,6 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible
 #class/Role
 #class/Thing/Intangible/Role
 
-EndDate:: {"type":"Number","options":{}}
+EndDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 RoleName:: {"type":"Input","options":{}}
-StartDate:: {"type":"Number","options":{}}
+StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

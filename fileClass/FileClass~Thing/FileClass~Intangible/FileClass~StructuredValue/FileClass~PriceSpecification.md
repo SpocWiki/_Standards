@@ -14,10 +14,10 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 
 EligibleQuantity:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 EligibleTransactionVolume:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')"}}
-MaxPrice:: {"type":"Input","options":{}}
-MinPrice:: {"type":"Input","options":{}}
-Price:: {"type":"Input","options":{}}
+MaxPrice:: {"type":"Number","options":{}}
+MinPrice:: {"type":"Number","options":{}}
+Price:: {"type":"Number","options":{}}
 PriceCurrency:: {"type":"Input","options":{}}
-ValidFrom:: {"type":"Number","options":{}}
-ValidThrough:: {"type":"Number","options":{}}
+ValidFrom:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 ValueAddedTaxIncluded:: {"type":"Boolean","options":{}}

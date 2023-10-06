@@ -12,7 +12,7 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo
 #class/Recipe
 #class/Thing/CreativeWork/HowTo/Recipe
 
-CookTime:: {"type":"Input","options":{}}
+CookTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 CookingMethod:: {"type":"Input","options":{}}
 Nutrition:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')"}}
 RecipeCategory:: {"type":"Input","options":{}}

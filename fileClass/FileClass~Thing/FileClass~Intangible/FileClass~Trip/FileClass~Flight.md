@@ -20,7 +20,7 @@ BoardingPolicy:: {"type":"Select","options":{"valuesList":{"GroupBoardingPolicy"
 DepartureAirport:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/CivicStructure/Airport')"}}
 DepartureGate:: {"type":"Input","options":{}}
 DepartureTerminal:: {"type":"Input","options":{}}
-EstimatedFlightDuration:: {"type":"Input","options":{}}
+EstimatedFlightDuration:: {"type":"Number","options":{"min":"0","max":"2359"}}
 FlightDistance:: {"type":"Input","options":{}}
 FlightNumber:: {"type":"Input","options":{}}
 MealService:: {"type":"Input","options":{}}

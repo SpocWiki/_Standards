@@ -12,12 +12,12 @@ extends: FileClass~Thing/FileClass~Intangible
 #class/EducationalOccupationalProgram
 #class/Thing/Intangible/EducationalOccupationalProgram
 
-ApplicationDeadline:: {"type":"Number","options":{}}
-ApplicationStartDate:: {"type":"Number","options":{}}
+ApplicationDeadline:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+ApplicationStartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 DayOfWeek:: {"type":"Select","options":{"valuesList":{"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","PublicHolidays"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 EducationalCredentialAwarded:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')"}}
 EducationalProgramMode:: {"type":"Input","options":{}}
-EndDate:: {"type":"Number","options":{}}
+EndDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 FinancialAidEligible:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 HasCourse:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/LearningResource/Course')"}}
 MaximumEnrollment:: {"type":"Number","options":{}}
@@ -29,10 +29,10 @@ ProgramPrerequisites:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages(
 ProgramType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 Provider:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 SalaryUponCompletion:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution')"}}
-StartDate:: {"type":"Number","options":{}}
-TermDuration:: {"type":"Input","options":{}}
+StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+TermDuration:: {"type":"Number","options":{"min":"0","max":"2359"}}
 TermsPerYear:: {"type":"Number","options":{}}
 TimeOfDay:: {"type":"Input","options":{}}
-TimeToComplete:: {"type":"Input","options":{}}
+TimeToComplete:: {"type":"Number","options":{"min":"0","max":"2359"}}
 TrainingSalary:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution')"}}
 TypicalCreditsPerTerm:: {"type":"Number","options":{}}

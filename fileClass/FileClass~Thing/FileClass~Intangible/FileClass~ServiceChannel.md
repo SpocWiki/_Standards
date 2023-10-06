@@ -13,7 +13,7 @@ extends: FileClass~Thing/FileClass~Intangible
 #class/Thing/Intangible/ServiceChannel
 
 AvailableLanguage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Language')"}}
-ProcessingTime:: {"type":"Input","options":{}}
+ProcessingTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 ProvidesService:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Service')"}}
 ServiceLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 ServicePhone:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')"}}

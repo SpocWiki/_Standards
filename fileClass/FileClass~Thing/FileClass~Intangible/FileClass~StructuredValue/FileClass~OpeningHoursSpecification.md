@@ -12,8 +12,8 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 #class/OpeningHoursSpecification
 #class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
 
-Closes:: {"type":"Input","options":{}}
+Closes:: {"type":"Number","options":{"min":"0","max":"2359"}}
 DayOfWeek:: {"type":"Select","options":{"valuesList":{"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","PublicHolidays"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
-Opens:: {"type":"Input","options":{}}
-ValidFrom:: {"type":"Number","options":{}}
-ValidThrough:: {"type":"Number","options":{}}
+Opens:: {"type":"Number","options":{"min":"0","max":"2359"}}
+ValidFrom:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

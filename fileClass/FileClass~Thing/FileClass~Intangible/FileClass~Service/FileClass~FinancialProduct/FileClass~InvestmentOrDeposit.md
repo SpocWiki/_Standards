@@ -12,4 +12,4 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~Financ
 #class/InvestmentOrDeposit
 #class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit
 
-Amount:: {"type":"Input","options":{}}
+Amount:: {"type":"Number","options":{}}

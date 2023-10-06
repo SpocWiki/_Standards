@@ -12,5 +12,5 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 #class/RealEstateListing
 #class/Thing/CreativeWork/WebPage/RealEstateListing
 
-DatePosted:: {"type":"Number","options":{}}
-LeaseLength:: {"type":"Input","options":{}}
+DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}

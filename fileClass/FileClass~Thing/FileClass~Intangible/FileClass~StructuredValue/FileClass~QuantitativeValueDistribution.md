@@ -12,7 +12,7 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 #class/QuantitativeValueDistribution
 #class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution
 
-Duration:: {"type":"Input","options":{}}
+Duration:: {"type":"Number","options":{"min":"0","max":"2359"}}
 Median:: {"type":"Number","options":{}}
 Percentile10:: {"type":"Number","options":{}}
 Percentile25:: {"type":"Number","options":{}}

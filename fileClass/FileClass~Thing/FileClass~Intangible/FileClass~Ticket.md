@@ -12,11 +12,11 @@ extends: FileClass~Thing/FileClass~Intangible
 #class/Ticket
 #class/Thing/Intangible/Ticket
 
-DateIssued:: {"type":"Number","options":{}}
+DateIssued:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 IssuedBy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 PriceCurrency:: {"type":"Input","options":{}}
 TicketNumber:: {"type":"Input","options":{}}
 TicketToken:: {"type":"Input","options":{}}
 TicketedSeat:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Seat')"}}
-TotalPrice:: {"type":"Input","options":{}}
+TotalPrice:: {"type":"Number","options":{}}
 UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}

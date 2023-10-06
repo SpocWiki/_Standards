@@ -15,15 +15,15 @@ extends: FileClass~Thing/FileClass~Intangible
 Title:: {"type":"Input","options":{}}
 ApplicantLocationRequirements:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}
 ApplicationContact:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')"}}
-BaseSalary:: {"type":"Input","options":{}}
-DatePosted:: {"type":"Number","options":{}}
+BaseSalary:: {"type":"Number","options":{}}
+DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 DirectApply:: {"type":"Boolean","options":{}}
 EducationRequirements:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')"}}
 EligibilityToWorkRequirement:: {"type":"Input","options":{}}
 EmployerOverview:: {"type":"Input","options":{}}
 EmploymentType:: {"type":"Input","options":{}}
 EmploymentUnit:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
-EstimatedSalary:: {"type":"Input","options":{}}
+EstimatedSalary:: {"type":"Number","options":{}}
 ExperienceInPlaceOfEducation:: {"type":"Boolean","options":{}}
 ExperienceRequirements:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/OccupationalExperienceRequirements')"}}
 HiringOrganization:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
@@ -33,7 +33,7 @@ JobBenefits:: {"type":"Input","options":{}}
 JobImmediateStart:: {"type":"Boolean","options":{}}
 JobLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 JobLocationType:: {"type":"Input","options":{}}
-JobStartDate:: {"type":"Number","options":{}}
+JobStartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 OccupationalCategory:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')"}}
 PhysicalRequirement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 Qualifications:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')"}}
@@ -45,5 +45,5 @@ SensoryRequirement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 Skills:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 SpecialCommitments:: {"type":"Input","options":{}}
 TotalJobOpenings:: {"type":"Number","options":{}}
-ValidThrough:: {"type":"Number","options":{}}
+ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 WorkHours:: {"type":"Input","options":{}}

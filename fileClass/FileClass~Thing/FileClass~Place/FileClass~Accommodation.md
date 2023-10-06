@@ -17,7 +17,7 @@ AccommodationFloorPlan:: {"type":"MultiFile","options":{"dvQueryString":"dv.page
 Bed:: {"type":"Input","options":{}}
 FloorLevel:: {"type":"Input","options":{}}
 FloorSize:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
-LeaseLength:: {"type":"Input","options":{}}
+LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 NumberOfBathroomsTotal:: {"type":"Number","options":{}}
 NumberOfBedrooms:: {"type":"Number","options":{}}
 NumberOfFullBathrooms:: {"type":"Number","options":{}}

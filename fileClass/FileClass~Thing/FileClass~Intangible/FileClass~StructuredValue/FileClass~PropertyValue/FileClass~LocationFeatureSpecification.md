@@ -13,5 +13,5 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClas
 #class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification
 
 HoursAvailable:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')"}}
-ValidFrom:: {"type":"Number","options":{}}
-ValidThrough:: {"type":"Number","options":{}}
+ValidFrom:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

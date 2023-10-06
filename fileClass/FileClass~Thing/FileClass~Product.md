@@ -56,9 +56,9 @@ Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 Pattern:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 PositiveNotes:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}
 ProductID:: {"type":"Input","options":{}}
-ProductionDate:: {"type":"Number","options":{}}
-PurchaseDate:: {"type":"Number","options":{}}
-ReleaseDate:: {"type":"Number","options":{}}
+ProductionDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+PurchaseDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+ReleaseDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 Review:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Review')"}}
 Size:: {"type":"Input","options":{}}
 Sku:: {"type":"Input","options":{}}

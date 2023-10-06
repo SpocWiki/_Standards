@@ -22,7 +22,7 @@ ItemCondition:: {"type":"Select","options":{"valuesList":{"DamagedCondition","Ne
 ItemDefectReturnFees:: {"type":"Select","options":{"valuesList":{"FreeReturn","OriginalShippingFees","RestockingFees","ReturnFeesCustomerResponsibility","ReturnShippingFees"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 ItemDefectReturnLabelSource:: {"type":"Select","options":{"valuesList":{"ReturnLabelCustomerResponsibility","ReturnLabelDownloadAndPrint","ReturnLabelInBox"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 ItemDefectReturnShippingFeesAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
-MerchantReturnDays:: {"type":"Number","options":{}}
+MerchantReturnDays:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 MerchantReturnLink:: {"type":"Input","options":{}}
 RefundType:: {"type":"Select","options":{"valuesList":{"ExchangeRefund","FullRefund","StoreCreditRefund"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 RestockingFee:: {"type":"Number","options":{}}

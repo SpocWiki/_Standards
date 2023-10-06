@@ -13,10 +13,10 @@ extends: FileClass~Thing/FileClass~CreativeWork
 #class/Thing/CreativeWork/HowTo
 
 EstimatedCost:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')"}}
-PerformTime:: {"type":"Input","options":{}}
-PrepTime:: {"type":"Input","options":{}}
+PerformTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
+PrepTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 Step:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 Supply:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')"}}
 Tool:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')"}}
-TotalTime:: {"type":"Input","options":{}}
+TotalTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 Yield:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}

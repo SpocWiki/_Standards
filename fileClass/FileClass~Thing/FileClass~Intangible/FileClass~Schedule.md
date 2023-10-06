@@ -16,12 +16,12 @@ ByDay:: {"type":"Select","options":{"valuesList":{"Sunday","Monday","Tuesday","W
 ByMonth:: {"type":"Number","options":{}}
 ByMonthDay:: {"type":"Number","options":{}}
 ByMonthWeek:: {"type":"Number","options":{}}
-Duration:: {"type":"Input","options":{}}
-EndDate:: {"type":"Number","options":{}}
+Duration:: {"type":"Number","options":{"min":"0","max":"2359"}}
+EndDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 EndTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
-ExceptDate:: {"type":"Number","options":{}}
+ExceptDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 RepeatCount:: {"type":"Number","options":{}}
-RepeatFrequency:: {"type":"Input","options":{}}
+RepeatFrequency:: {"type":"Number","options":{"min":"0","max":"2359"}}
 ScheduleTimezone:: {"type":"Input","options":{}}
-StartDate:: {"type":"Number","options":{}}
+StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

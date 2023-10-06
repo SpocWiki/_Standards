@@ -49,9 +49,9 @@ CountryOfOrigin:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 CreativeWorkStatus:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
 Creator:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 CreditText:: {"type":"Input","options":{}}
-DateCreated:: {"type":"Number","options":{}}
-DateModified:: {"type":"Number","options":{}}
-DatePublished:: {"type":"Number","options":{}}
+DateCreated:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+DateModified:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+DatePublished:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 DiscussionUrl:: {"type":"Input","options":{}}
 EditEIDR:: {"type":"Input","options":{}}
 Editor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
@@ -61,7 +61,7 @@ EducationalUse:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 Encoding:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}}
 EncodingFormat:: {"type":"Input","options":{}}
 ExampleOfWork:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
-Expires:: {"type":"Number","options":{}}
+Expires:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 Funder:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 Funding:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Grant')"}}
 Genre:: {"type":"Input","options":{}}
@@ -97,7 +97,7 @@ RecordedAt:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 ReleasedEvent:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Event/PublicationEvent')"}}
 Review:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Review')"}}
 SchemaVersion:: {"type":"Input","options":{}}
-SdDatePublished:: {"type":"Number","options":{}}
+SdDatePublished:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 SdLicense:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 SdPublisher:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 Size:: {"type":"Input","options":{}}
@@ -111,7 +111,7 @@ TemporalCoverage:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultI
 Text:: {"type":"Input","options":{}}
 Thumbnail:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
 ThumbnailUrl:: {"type":"Input","options":{}}
-TimeRequired:: {"type":"Input","options":{}}
+TimeRequired:: {"type":"Number","options":{"min":"0","max":"2359"}}
 TranslationOfWork:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 Translator:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 TypicalAgeRange:: {"type":"Input","options":{}}

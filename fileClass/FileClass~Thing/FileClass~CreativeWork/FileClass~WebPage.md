@@ -13,7 +13,7 @@ extends: FileClass~Thing/FileClass~CreativeWork
 #class/Thing/CreativeWork/WebPage
 
 Breadcrumb:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList/BreadcrumbList')"}}
-LastReviewed:: {"type":"Number","options":{}}
+LastReviewed:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 MainContentOfPage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/WebPageElement')"}}
 PrimaryImageOfPage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
 RelatedLink:: {"type":"Input","options":{}}

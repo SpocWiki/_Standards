@@ -15,7 +15,7 @@ extends: FileClass~Thing/FileClass~Intangible
 IssuedBy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 IssuedThrough:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Service')"}}
 PermitAudience:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
-ValidFor:: {"type":"Input","options":{}}
-ValidFrom:: {"type":"Number","options":{}}
+ValidFor:: {"type":"Number","options":{"min":"0","max":"2359"}}
+ValidFrom:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 ValidIn:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}
-ValidUntil:: {"type":"Number","options":{}}
+ValidUntil:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

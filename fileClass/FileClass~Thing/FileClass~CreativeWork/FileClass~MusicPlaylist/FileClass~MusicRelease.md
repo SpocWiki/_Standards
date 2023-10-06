@@ -14,7 +14,7 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist
 
 CatalogNumber:: {"type":"Input","options":{}}
 CreditedTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
-Duration:: {"type":"Input","options":{}}
+Duration:: {"type":"Number","options":{"min":"0","max":"2359"}}
 MusicReleaseFormat:: {"type":"Select","options":{"valuesList":{"CassetteFormat","CDFormat","DigitalAudioTapeFormat","DigitalFormat","DVDFormat","LaserDiscFormat","VinylFormat"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 RecordLabel:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 ReleaseOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')"}}

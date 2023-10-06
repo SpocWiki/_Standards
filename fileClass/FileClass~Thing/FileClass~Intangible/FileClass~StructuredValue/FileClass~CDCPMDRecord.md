@@ -28,4 +28,4 @@ CvdNumICUBedsOcc:: {"type":"Number","options":{}}
 CvdNumTotBeds:: {"type":"Number","options":{}}
 CvdNumVent:: {"type":"Number","options":{}}
 CvdNumVentUse:: {"type":"Number","options":{}}
-DatePosted:: {"type":"Number","options":{}}
+DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

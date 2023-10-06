@@ -14,5 +14,5 @@ extends: FileClass~Thing/FileClass~MedicalEntity
 
 EvidenceLevel:: {"type":"Select","options":{"valuesList":{"EvidenceLevelA","EvidenceLevelB","EvidenceLevelC"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 EvidenceOrigin:: {"type":"Input","options":{}}
-GuidelineDate:: {"type":"Number","options":{}}
+GuidelineDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 GuidelineSubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}

@@ -12,7 +12,7 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification
 #class/ExercisePlan
 #class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan
 
-ActivityDuration:: {"type":"Input","options":{}}
+ActivityDuration:: {"type":"Number","options":{"min":"0","max":"2359"}}
 ActivityFrequency:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 AdditionalVariable:: {"type":"Input","options":{}}
 ExerciseType:: {"type":"Input","options":{}}

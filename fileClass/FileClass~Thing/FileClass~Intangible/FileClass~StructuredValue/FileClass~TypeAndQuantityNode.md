@@ -12,7 +12,7 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 #class/TypeAndQuantityNode
 #class/Thing/Intangible/StructuredValue/TypeAndQuantityNode
 
-AmountOfThisGood:: {"type":"Input","options":{}}
+AmountOfThisGood:: {"type":"Number","options":{}}
 BusinessFunction:: {"type":"Input","options":{}}
 TypeOfGood:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product')"}}
 UnitCode:: {"type":"Input","options":{}}

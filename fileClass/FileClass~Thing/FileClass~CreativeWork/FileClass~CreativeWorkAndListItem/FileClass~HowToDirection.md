@@ -15,8 +15,8 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListIte
 AfterMedia:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}}
 BeforeMedia:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}}
 DuringMedia:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}}
-PerformTime:: {"type":"Input","options":{}}
-PrepTime:: {"type":"Input","options":{}}
+PerformTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
+PrepTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 Supply:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')"}}
 Tool:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')"}}
-TotalTime:: {"type":"Input","options":{}}
+TotalTime:: {"type":"Number","options":{"min":"0","max":"2359"}}

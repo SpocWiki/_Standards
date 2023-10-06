@@ -12,7 +12,7 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Offer
 #class/AggregateOffer
 #class/Thing/Intangible/Offer/AggregateOffer
 
-HighPrice:: {"type":"Input","options":{}}
-LowPrice:: {"type":"Input","options":{}}
+HighPrice:: {"type":"Number","options":{}}
+LowPrice:: {"type":"Number","options":{}}
 OfferCount:: {"type":"Number","options":{}}
 Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Demand')"}}

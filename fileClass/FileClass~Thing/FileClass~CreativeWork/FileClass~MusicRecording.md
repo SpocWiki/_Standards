@@ -13,7 +13,7 @@ extends: FileClass~Thing/FileClass~CreativeWork
 #class/Thing/CreativeWork/MusicRecording
 
 ByArtist:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"}}
-Duration:: {"type":"Input","options":{}}
+Duration:: {"type":"Number","options":{"min":"0","max":"2359"}}
 InAlbum:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')"}}
 InPlaylist:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicPlaylist')"}}
 IsrcCode:: {"type":"Input","options":{}}

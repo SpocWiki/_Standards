@@ -12,9 +12,9 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~Financ
 #class/LoanOrCredit
 #class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit
 
-Amount:: {"type":"Input","options":{}}
+Amount:: {"type":"Number","options":{}}
 Currency:: {"type":"Input","options":{}}
-GracePeriod:: {"type":"Input","options":{}}
+GracePeriod:: {"type":"Number","options":{"min":"0","max":"2359"}}
 LoanRepaymentForm:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/RepaymentSpecification')"}}
 LoanTerm:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 LoanType:: {"type":"Input","options":{}}

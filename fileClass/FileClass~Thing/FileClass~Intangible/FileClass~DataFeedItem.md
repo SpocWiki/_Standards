@@ -12,7 +12,7 @@ extends: FileClass~Thing/FileClass~Intangible
 #class/DataFeedItem
 #class/Thing/Intangible/DataFeedItem
 
-DateCreated:: {"type":"Number","options":{}}
-DateDeleted:: {"type":"Number","options":{}}
-DateModified:: {"type":"Number","options":{}}
+DateCreated:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+DateDeleted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+DateModified:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 Item:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}

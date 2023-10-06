@@ -16,7 +16,7 @@ AccelerationTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 BodyType:: {"type":"Input","options":{}}
 CallSign:: {"type":"Input","options":{}}
 CargoVolume:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
-DateVehicleFirstRegistered:: {"type":"Number","options":{}}
+DateVehicleFirstRegistered:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 DriveWheelConfiguration:: {"type":"Select","options":{"valuesList":{"AllWheelDriveConfiguration","FourWheelDriveConfiguration","FrontWheelDriveConfiguration","RearWheelDriveConfiguration"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 EmissionsCO2:: {"type":"Number","options":{}}
 FuelCapacity:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
@@ -26,7 +26,7 @@ FuelType:: {"type":"Input","options":{}}
 KnownVehicleDamages:: {"type":"Input","options":{}}
 MeetsEmissionStandard:: {"type":"Input","options":{}}
 MileageFromOdometer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
-ModelDate:: {"type":"Number","options":{}}
+ModelDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 NumberOfAirbags:: {"type":"Number","options":{}}
 NumberOfAxles:: {"type":"Number","options":{}}
 NumberOfDoors:: {"type":"Number","options":{}}
@@ -43,7 +43,7 @@ VehicleEngine:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 VehicleIdentificationNumber:: {"type":"Input","options":{}}
 VehicleInteriorColor:: {"type":"Input","options":{}}
 VehicleInteriorType:: {"type":"Input","options":{}}
-VehicleModelDate:: {"type":"Number","options":{}}
+VehicleModelDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 VehicleSeatingCapacity:: {"type":"Number","options":{}}
 VehicleSpecialUsage:: {"type":"Select","options":{"valuesList":{"DrivingSchoolVehicleUsage","RentalVehicleUsage","TaxiVehicleUsage"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 VehicleTransmission:: {"type":"Input","options":{}}

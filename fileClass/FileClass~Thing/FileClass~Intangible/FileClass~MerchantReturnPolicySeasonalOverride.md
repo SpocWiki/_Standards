@@ -12,7 +12,7 @@ extends: FileClass~Thing/FileClass~Intangible
 #class/MerchantReturnPolicySeasonalOverride
 #class/Thing/Intangible/MerchantReturnPolicySeasonalOverride
 
-EndDate:: {"type":"Number","options":{}}
-MerchantReturnDays:: {"type":"Number","options":{}}
+EndDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+MerchantReturnDays:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 ReturnPolicyCategory:: {"type":"Select","options":{"valuesList":{"MerchantReturnFiniteReturnWindow","MerchantReturnNotPermitted","MerchantReturnUnlimitedWindow","MerchantReturnUnspecified"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
-StartDate:: {"type":"Number","options":{}}
+StartDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

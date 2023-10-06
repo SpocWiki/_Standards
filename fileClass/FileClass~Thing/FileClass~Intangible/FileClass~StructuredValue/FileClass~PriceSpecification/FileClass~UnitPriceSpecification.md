@@ -12,7 +12,7 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClas
 #class/UnitPriceSpecification
 #class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification
 
-BillingDuration:: {"type":"Input","options":{}}
+BillingDuration:: {"type":"Number","options":{}}
 BillingIncrement:: {"type":"Number","options":{}}
 BillingStart:: {"type":"Number","options":{}}
 PriceComponentType:: {"type":"Select","options":{"valuesList":{"ActivationFee","CleaningFee","DistanceFee","Downpayment","Installment","Subscription"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}

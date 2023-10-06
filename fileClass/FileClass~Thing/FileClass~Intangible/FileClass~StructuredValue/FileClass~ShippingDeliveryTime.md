@@ -13,6 +13,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 #class/Thing/Intangible/StructuredValue/ShippingDeliveryTime
 
 BusinessDays:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')"}}
-CutoffTime:: {"type":"Input","options":{}}
+CutoffTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 HandlingTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 TransitTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
