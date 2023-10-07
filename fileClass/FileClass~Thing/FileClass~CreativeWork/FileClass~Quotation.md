@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: quote
+version: 6
 tagNames: [class/Quotation, class/Thing/CreativeWork/Quotation, schema-org/Quotation]
 tags: ["class/Quotation", "class/Thing/CreativeWork/Quotation"]
 extends: FileClass~Thing/FileClass~CreativeWork

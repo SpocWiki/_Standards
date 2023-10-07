@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: paperclip
+version: 6
 tagNames: [class/Clip, class/Thing/CreativeWork/Clip, schema-org/Clip]
 tags: ["class/Clip", "class/Thing/CreativeWork/Clip"]
 extends: FileClass~Thing/FileClass~CreativeWork

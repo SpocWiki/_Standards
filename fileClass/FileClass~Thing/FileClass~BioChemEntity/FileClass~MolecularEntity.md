@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: atom
+version: 6
 tagNames: [class/MolecularEntity, class/Thing/BioChemEntity/MolecularEntity, schema-org/MolecularEntity]
 tags: ["class/MolecularEntity", "class/Thing/BioChemEntity/MolecularEntity"]
 extends: FileClass~Thing/FileClass~BioChemEntity

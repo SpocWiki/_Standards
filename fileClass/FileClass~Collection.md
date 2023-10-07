@@ -7,3 +7,5 @@ excludes:
 extends: FileClass~Thing
 version: 12
 ---
+
+Items:: {"type":"MultiFile","options":{}}

@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: clapperboard
+version: 6
 tagNames: [class/Movie, class/Thing/CreativeWork/Movie, schema-org/Movie]
 tags: ["class/Movie", "class/Thing/CreativeWork/Movie"]
 extends: FileClass~Thing/FileClass~CreativeWork

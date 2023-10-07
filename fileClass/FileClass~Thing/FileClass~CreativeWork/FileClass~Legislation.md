@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: scale
+version: 6
 tagNames: [class/Legislation, class/Thing/CreativeWork/Legislation, schema-org/Legislation]
 tags: ["class/Legislation", "class/Thing/CreativeWork/Legislation"]
 extends: FileClass~Thing/FileClass~CreativeWork

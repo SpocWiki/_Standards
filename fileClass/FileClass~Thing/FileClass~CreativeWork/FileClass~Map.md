@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: map
+version: 6
 tagNames: [class/Map, class/Thing/CreativeWork/Map, schema-org/Map]
 tags: ["class/Map", "class/Thing/CreativeWork/Map"]
 extends: FileClass~Thing/FileClass~CreativeWork

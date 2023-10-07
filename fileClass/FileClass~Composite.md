@@ -7,3 +7,5 @@ excludes:
 extends: FileClass~Thing
 version: 9
 ---
+
+Components:: {"type":"MultiFile","options":{}}

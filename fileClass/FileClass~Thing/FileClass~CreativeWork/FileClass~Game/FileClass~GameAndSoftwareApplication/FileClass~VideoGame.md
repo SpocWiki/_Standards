@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: gamepad-2
+version: 6
 tagNames: [class/VideoGame, class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame, schema-org/VideoGame]
 tags: ["class/VideoGame", "class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Game/FileClass~GameAndSoftwareApplication

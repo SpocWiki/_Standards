@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: dna
+version: 6
 tagNames: [class/Gene, class/Thing/BioChemEntity/Gene, schema-org/Gene]
 tags: ["class/Gene", "class/Thing/BioChemEntity/Gene"]
 extends: FileClass~Thing/FileClass~BioChemEntity
