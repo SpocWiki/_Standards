@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: dumbbell
 version: 5
 tagNames: [class/ExerciseGym, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/ExerciseGym, schema-org/ExerciseGym]
 tags: ["class/ExerciseGym", "#is_/an_/ExerciseGym", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/ExerciseGym"]

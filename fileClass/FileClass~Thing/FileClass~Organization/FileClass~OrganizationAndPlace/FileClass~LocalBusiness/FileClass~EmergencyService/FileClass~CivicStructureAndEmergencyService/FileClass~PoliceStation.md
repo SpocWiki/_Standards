@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: siren
 version: 5
 tagNames: [class/PoliceStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/PoliceStation, schema-org/PoliceStation]
 tags: ["class/PoliceStation", "#is_/a_/PoliceStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/PoliceStation"]

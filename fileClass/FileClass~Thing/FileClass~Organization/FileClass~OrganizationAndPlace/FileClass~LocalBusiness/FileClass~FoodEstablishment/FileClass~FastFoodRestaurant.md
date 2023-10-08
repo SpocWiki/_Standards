@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: utensils
 version: 5
 tagNames: [class/FastFoodRestaurant, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant, schema-org/FastFoodRestaurant]
 tags: ["class/FastFoodRestaurant", "#is_/a_/FastFoodRestaurant", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant"]

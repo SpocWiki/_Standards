@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: flag-triangle-right
 version: 5
 tagNames: [class/GolfCourse, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/GolfCourse, schema-org/GolfCourse]
 tags: ["class/GolfCourse", "#is_/a_/GolfCourse", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/GolfCourse"]

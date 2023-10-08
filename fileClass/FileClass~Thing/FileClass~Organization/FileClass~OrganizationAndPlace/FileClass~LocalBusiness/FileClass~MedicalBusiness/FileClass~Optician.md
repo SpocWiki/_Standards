@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: glasses
 version: 5
 tagNames: [class/Optician, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician, schema-org/Optician]
 tags: ["class/Optician", "#is_/an_/Optician", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician"]

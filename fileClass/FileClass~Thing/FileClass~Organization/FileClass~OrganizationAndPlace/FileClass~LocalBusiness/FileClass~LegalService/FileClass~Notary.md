@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: scale
 version: 5
 tagNames: [class/Notary, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Notary, schema-org/Notary]
 tags: ["class/Notary", "#is_/a_/Notary", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Notary"]

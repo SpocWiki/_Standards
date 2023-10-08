@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: paperclip
 version: 5
 tagNames: [class/Clip, class/Thing/CreativeWork/Clip, schema-org/Clip]
 tags: ["class/Clip", "#is_/a_/Clip", "class/Thing/CreativeWork/Clip"]

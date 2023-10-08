@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: list-music
 version: 5
 tagNames: [class/MusicPlaylist, class/Thing/CreativeWork/MusicPlaylist, schema-org/MusicPlaylist]
 tags: ["class/MusicPlaylist", "#is_/a_/MusicPlaylist", "class/Thing/CreativeWork/MusicPlaylist"]

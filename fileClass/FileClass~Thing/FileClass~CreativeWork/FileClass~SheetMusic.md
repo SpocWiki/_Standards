@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: music-4
 version: 5
 tagNames: [class/SheetMusic, class/Thing/CreativeWork/SheetMusic, schema-org/SheetMusic]
 tags: ["class/SheetMusic", "#is_/a_/SheetMusic", "class/Thing/CreativeWork/SheetMusic"]

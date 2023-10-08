@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: book
 version: 5
 tagNames: [class/Book, class/Thing/CreativeWork/Book, schema-org/Book]
 tags: ["class/Book", "#is_/a_/Book", "class/Thing/CreativeWork/Book"]

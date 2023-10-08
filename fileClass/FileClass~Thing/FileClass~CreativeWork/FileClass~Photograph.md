@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: camera
 version: 5
 tagNames: [class/Photograph, class/Thing/CreativeWork/Photograph, schema-org/Photograph]
 tags: ["class/Photograph", "#is_/a_/Photograph", "class/Thing/CreativeWork/Photograph"]

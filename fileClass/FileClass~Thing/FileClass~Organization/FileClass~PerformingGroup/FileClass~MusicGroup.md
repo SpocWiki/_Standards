@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: music
 version: 5
 tagNames: [class/MusicGroup, class/Thing/Organization/PerformingGroup/MusicGroup, schema-org/MusicGroup]
 tags: ["class/MusicGroup", "#is_/a_/MusicGroup", "class/Thing/Organization/PerformingGroup/MusicGroup"]

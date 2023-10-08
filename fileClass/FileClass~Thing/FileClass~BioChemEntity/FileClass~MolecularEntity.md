@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: atom
 version: 5
 tagNames: [class/MolecularEntity, class/Thing/BioChemEntity/MolecularEntity, schema-org/MolecularEntity]
 tags: ["class/MolecularEntity", "#is_/a_/MolecularEntity", "class/Thing/BioChemEntity/MolecularEntity"]

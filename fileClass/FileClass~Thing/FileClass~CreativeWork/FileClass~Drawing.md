@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: pencil
 version: 5
 tagNames: [class/Drawing, class/Thing/CreativeWork/Drawing, schema-org/Drawing]
 tags: ["class/Drawing", "#is_/a_/Drawing", "class/Thing/CreativeWork/Drawing"]

@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: scale
 version: 5
 tagNames: [class/Legislation, class/Thing/CreativeWork/Legislation, schema-org/Legislation]
 tags: ["class/Legislation", "#is_/a_/Legislation", "class/Thing/CreativeWork/Legislation"]

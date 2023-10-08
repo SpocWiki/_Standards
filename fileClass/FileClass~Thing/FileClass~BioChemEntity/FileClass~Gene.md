@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: dna
 version: 5
 tagNames: [class/Gene, class/Thing/BioChemEntity/Gene, schema-org/Gene]
 tags: ["class/Gene", "#is_/a_/Gene", "class/Thing/BioChemEntity/Gene"]

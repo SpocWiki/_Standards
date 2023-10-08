@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: scale
 version: 5
 tagNames: [class/Attorney, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney, schema-org/Attorney]
 tags: ["class/Attorney", "#is_/an_/Attorney", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney"]

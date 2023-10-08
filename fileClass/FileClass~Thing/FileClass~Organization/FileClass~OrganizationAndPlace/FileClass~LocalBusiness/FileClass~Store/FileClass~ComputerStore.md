@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: laptop
 version: 5
 tagNames: [class/ComputerStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ComputerStore, schema-org/ComputerStore]
 tags: ["class/ComputerStore", "#is_/a_/ComputerStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ComputerStore"]

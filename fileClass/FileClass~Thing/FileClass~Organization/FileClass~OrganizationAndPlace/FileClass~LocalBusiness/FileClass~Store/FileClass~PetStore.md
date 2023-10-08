@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: dog
 version: 5
 tagNames: [class/PetStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PetStore, schema-org/PetStore]
 tags: ["class/PetStore", "#is_/a_/PetStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PetStore"]

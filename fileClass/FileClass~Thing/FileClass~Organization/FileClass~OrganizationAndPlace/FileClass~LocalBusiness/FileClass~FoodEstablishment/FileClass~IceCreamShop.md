@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: ice-cream
 version: 5
 tagNames: [class/IceCreamShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop, schema-org/IceCreamShop]
 tags: ["class/IceCreamShop", "#is_/an_/IceCreamShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop"]

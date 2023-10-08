@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: gem
 version: 5
 tagNames: [class/JewelryStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore, schema-org/JewelryStore]
 tags: ["class/JewelryStore", "#is_/a_/JewelryStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore"]

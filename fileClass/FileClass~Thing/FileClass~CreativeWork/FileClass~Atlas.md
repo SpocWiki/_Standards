@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: map
 version: 5
 tagNames: [class/Atlas, class/Thing/CreativeWork/Atlas, schema-org/Atlas]
 tags: ["class/Atlas", "#is_/an_/Atlas", "class/Thing/CreativeWork/Atlas"]

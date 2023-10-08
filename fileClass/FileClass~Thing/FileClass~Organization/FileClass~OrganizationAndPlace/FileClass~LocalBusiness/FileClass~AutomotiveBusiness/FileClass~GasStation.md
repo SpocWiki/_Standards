@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: fuel
 version: 5
 tagNames: [class/GasStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation, schema-org/GasStation]
 tags: ["class/GasStation", "#is_/a_/GasStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation"]

@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: footprints
 version: 5
 tagNames: [class/ShoeStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore, schema-org/ShoeStore]
 tags: ["class/ShoeStore", "#is_/a_/ShoeStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore"]

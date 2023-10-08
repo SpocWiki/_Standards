@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: martini
 version: 5
 tagNames: [class/Distillery, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery, schema-org/Distillery]
 tags: ["class/Distillery", "#is_/a_/Distillery", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery"]

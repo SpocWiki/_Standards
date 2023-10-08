@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: coffee
 version: 5
 tagNames: [class/CafeOrCoffeeShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop, schema-org/CafeOrCoffeeShop]
 tags: ["class/CafeOrCoffeeShop", "#is_/a_/CafeOrCoffeeShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop"]

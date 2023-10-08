@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: quote
 version: 5
 tagNames: [class/Quotation, class/Thing/CreativeWork/Quotation, schema-org/Quotation]
 tags: ["class/Quotation", "#is_/a_/Quotation", "class/Thing/CreativeWork/Quotation"]

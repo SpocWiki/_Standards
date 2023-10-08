@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: brush
 version: 5
 tagNames: [class/Painting, class/Thing/CreativeWork/Painting, schema-org/Painting]
 tags: ["class/Painting", "#is_/a_/Painting", "class/Thing/CreativeWork/Painting"]

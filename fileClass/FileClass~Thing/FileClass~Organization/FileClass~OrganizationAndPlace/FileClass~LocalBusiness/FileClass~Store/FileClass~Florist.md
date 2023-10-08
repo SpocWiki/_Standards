@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: flower
 version: 5
 tagNames: [class/Florist, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/Florist, schema-org/Florist]
 tags: ["class/Florist", "#is_/a_/Florist", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/Florist"]

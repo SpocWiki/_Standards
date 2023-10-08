@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: wine
 version: 5
 tagNames: [class/Winery, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Winery, schema-org/Winery]
 tags: ["class/Winery", "#is_/a_/Winery", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Winery"]

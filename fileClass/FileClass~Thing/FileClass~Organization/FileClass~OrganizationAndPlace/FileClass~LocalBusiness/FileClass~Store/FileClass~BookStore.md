@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: book
 version: 5
 tagNames: [class/BookStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BookStore, schema-org/BookStore]
 tags: ["class/BookStore", "#is_/a_/BookStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BookStore"]

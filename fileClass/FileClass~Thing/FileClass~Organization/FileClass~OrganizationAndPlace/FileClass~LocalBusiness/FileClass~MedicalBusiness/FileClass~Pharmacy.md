@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: tablets
 version: 5
 tagNames: [class/Pharmacy, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy, schema-org/Pharmacy]
 tags: ["class/Pharmacy", "#is_/a_/Pharmacy", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy"]

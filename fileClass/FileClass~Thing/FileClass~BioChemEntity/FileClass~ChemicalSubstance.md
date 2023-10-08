@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: flask-conical
 version: 5
 tagNames: [class/ChemicalSubstance, class/Thing/BioChemEntity/ChemicalSubstance, schema-org/ChemicalSubstance]
 tags: ["class/ChemicalSubstance", "#is_/a_/ChemicalSubstance", "class/Thing/BioChemEntity/ChemicalSubstance"]

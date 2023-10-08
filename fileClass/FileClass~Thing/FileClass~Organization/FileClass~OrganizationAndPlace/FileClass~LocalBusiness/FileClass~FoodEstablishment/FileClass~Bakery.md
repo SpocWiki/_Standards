@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: croissant
 version: 5
 tagNames: [class/Bakery, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Bakery, schema-org/Bakery]
 tags: ["class/Bakery", "#is_/a_/Bakery", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Bakery"]

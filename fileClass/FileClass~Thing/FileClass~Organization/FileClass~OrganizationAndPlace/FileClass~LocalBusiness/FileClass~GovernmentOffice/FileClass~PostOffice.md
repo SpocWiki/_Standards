@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: mail
 version: 5
 tagNames: [class/PostOffice, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice/PostOffice, schema-org/PostOffice]
 tags: ["class/PostOffice", "#is_/a_/PostOffice", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice/PostOffice"]

@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: dog
 version: 5
 tagNames: [class/AnimalShelter, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter, schema-org/AnimalShelter]
 tags: ["class/AnimalShelter", "#is_/an_/AnimalShelter", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter"]

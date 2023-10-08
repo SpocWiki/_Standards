@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: siren
 version: 5
 tagNames: [class/CivicStructureAndEmergencyService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService, schema-org/CivicStructureAndEmergencyService]
 tags: ["class/CivicStructureAndEmergencyService", "#is_/a_/CivicStructureAndEmergencyService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService"]

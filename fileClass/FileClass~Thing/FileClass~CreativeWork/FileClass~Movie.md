@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: clapperboard
 version: 5
 tagNames: [class/Movie, class/Thing/CreativeWork/Movie, schema-org/Movie]
 tags: ["class/Movie", "#is_/a_/Movie", "class/Thing/CreativeWork/Movie"]

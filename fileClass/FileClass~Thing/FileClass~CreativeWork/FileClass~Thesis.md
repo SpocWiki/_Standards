@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: graduation-cap
 version: 5
 tagNames: [class/Thesis, class/Thing/CreativeWork/Thesis, schema-org/Thesis]
 tags: ["class/Thesis", "#is_/a_/Thesis", "class/Thing/CreativeWork/Thesis"]

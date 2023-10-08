@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: siren
 version: 5
 tagNames: [class/FireStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation, schema-org/FireStation]
 tags: ["class/FireStation", "#is_/a_/FireStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation"]

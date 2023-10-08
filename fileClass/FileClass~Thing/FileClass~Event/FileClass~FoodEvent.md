@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: utensils
 version: 5
 tagNames: [class/FoodEvent, class/Thing/Event/FoodEvent, schema-org/FoodEvent]
 tags: ["class/FoodEvent", "#is_/a_/FoodEvent", "class/Thing/Event/FoodEvent"]
