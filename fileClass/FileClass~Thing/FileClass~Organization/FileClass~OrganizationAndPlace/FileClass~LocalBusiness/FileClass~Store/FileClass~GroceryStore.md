@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GroceryStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GroceryStore, schema-org/GroceryStore]
-tags: ["class/GroceryStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GroceryStore"]
+tags: ["class/GroceryStore", "#is_/a_/GroceryStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GroceryStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---
 
+# GroceryStore
+This is a kind of [[FileClass~Store]]
+
+A grocery store.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/GroceryStore
 #class/GroceryStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/GroceryStore
 
+## Properties:
 
-A grocery store.
 

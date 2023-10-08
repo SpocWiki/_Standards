@@ -5,25 +5,42 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ImageObject, class/Thing/CreativeWork/MediaObject/ImageObject, schema-org/ImageObject]
-tags: ["class/ImageObject", "class/Thing/CreativeWork/MediaObject/ImageObject"]
+tags: ["class/ImageObject", "#is_/an_/ImageObject", "class/Thing/CreativeWork/MediaObject/ImageObject"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 ---
 
-#class/ImageObject
-#class/Thing/CreativeWork/MediaObject/ImageObject
-
+# ImageObject
+This is a kind of [[FileClass~MediaObject]]
 
 An image file.
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/an_/ImageObject
+#class/ImageObject
+#class/Thing/CreativeWork/MediaObject/ImageObject
+
+## Properties:
+
+### Caption
 The caption for this object. For downloadable machine formats (closed caption, subtitles etc.) use MediaObject and indicate the [[encodingFormat]].
+
 Caption:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}}
 
+### EmbeddedTextCaption
 Represents textual captioning from a [[MediaObject]], e.g. text of a 'meme'.
+
 EmbeddedTextCaption:: {"type":"Input","options":{}}
 
+### ExifData
 exif data for this object.
+
 ExifData:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
 
+### RepresentativeOfPage
 Indicates whether this image is representative of the content of the page.
+
 RepresentativeOfPage:: {"type":"Boolean","options":{}}
+
+

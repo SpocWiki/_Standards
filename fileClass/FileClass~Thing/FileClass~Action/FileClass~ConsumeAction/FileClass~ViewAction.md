@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ViewAction, class/Thing/Action/ConsumeAction/ViewAction, schema-org/ViewAction]
-tags: ["class/ViewAction", "class/Thing/Action/ConsumeAction/ViewAction"]
+tags: ["class/ViewAction", "#is_/a_/ViewAction", "class/Thing/Action/ConsumeAction/ViewAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 ---
 
+# ViewAction
+This is a kind of [[FileClass~ConsumeAction]]
+
+The act of consuming static visual content.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/ViewAction
 #class/ViewAction
 #class/Thing/Action/ConsumeAction/ViewAction
 
+## Properties:
 
-The act of consuming static visual content.
 

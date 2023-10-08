@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReactAction, class/Thing/Action/AssessAction/ReactAction, schema-org/ReactAction]
-tags: ["class/ReactAction", "class/Thing/Action/AssessAction/ReactAction"]
+tags: ["class/ReactAction", "#is_/a_/ReactAction", "class/Thing/Action/AssessAction/ReactAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 ---
 
+# ReactAction
+This is a kind of [[FileClass~AssessAction]]
+
+The act of responding instinctively and emotionally to an object, expressing a sentiment.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/ReactAction
 #class/ReactAction
 #class/Thing/Action/AssessAction/ReactAction
 
+## Properties:
 
-The act of responding instinctively and emotionally to an object, expressing a sentiment.
 

@@ -5,13 +5,12 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Grant, class/Thing/Intangible/Grant, schema-org/Grant]
-tags: ["class/Grant", "class/Thing/Intangible/Grant"]
+tags: ["class/Grant", "#is_/a_/Grant", "class/Thing/Intangible/Grant"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
-#class/Grant
-#class/Thing/Intangible/Grant
-
+# Grant
+This is a kind of [[FileClass~Intangible]]
 
 A grant, typically financial or otherwise quantifiable, of resources. Typically a [[funder]] sponsors some [[MonetaryAmount]] to an [[Organization]] or [[Person]],  
  sometimes not necessarily via a dedicated or long-lived [[Project]], resulting in one or more outputs, or [[fundedItem]]s. For financial sponsorship, indicate the [[funder]] of a [[MonetaryGrant]]. For non-financial support, indicate [[sponsor]] of [[Grant]]s of resources (e.g. office space).  
@@ -19,11 +18,27 @@ A grant, typically financial or otherwise quantifiable, of resources. Typically 
  The amount of a [[Grant]] is represented using [[amount]] as a [[MonetaryAmount]].
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/Grant
+#class/Grant
+#class/Thing/Intangible/Grant
+
+## Properties:
+
+### FundedItem
 Indicates something directly or indirectly funded or sponsored through a [[Grant]]. See also [[ownershipFundingInfo]].
+
 FundedItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/BioChemEntity')"}}
 
+### Funder
 A person or organization that supports (sponsors) something through some kind of financial contribution.
+
 Funder:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
+### Sponsor
 A person or organization that supports a thing through a pledge, promise, or financial contribution. E.g. a sponsor of a Medical Study or a corporate sponsor of an event.
+
 Sponsor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+
+

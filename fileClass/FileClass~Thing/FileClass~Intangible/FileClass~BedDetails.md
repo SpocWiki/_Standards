@@ -5,19 +5,32 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BedDetails, class/Thing/Intangible/BedDetails, schema-org/BedDetails]
-tags: ["class/BedDetails", "class/Thing/Intangible/BedDetails"]
+tags: ["class/BedDetails", "#is_/a_/BedDetails", "class/Thing/Intangible/BedDetails"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
-#class/BedDetails
-#class/Thing/Intangible/BedDetails
-
+# BedDetails
+This is a kind of [[FileClass~Intangible]]
 
 An entity holding detailed information about the available bed types, e.g. the quantity of twin beds for a hotel room. For the single case of just one bed of a certain type, you can use bed directly with a text. See also [[BedType]] (under development).
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/BedDetails
+#class/BedDetails
+#class/Thing/Intangible/BedDetails
+
+## Properties:
+
+### NumberOfBeds
 The quantity of the given bed type available in the HotelRoom, Suite, House, or Apartment.
+
 NumberOfBeds:: {"type":"Number","options":{}}
 
+### TypeOfBed
 The type of bed to which the BedDetail refers, i.e. the type of bed available in the quantity indicated by quantity.
+
 TypeOfBed:: {"type":"Input","options":{}}
+
+

@@ -5,16 +5,27 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Thesis, class/Thing/CreativeWork/Thesis, schema-org/Thesis]
-tags: ["class/Thesis", "class/Thing/CreativeWork/Thesis"]
+tags: ["class/Thesis", "#is_/a_/Thesis", "class/Thing/CreativeWork/Thesis"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
-#class/Thesis
-#class/Thing/CreativeWork/Thesis
-
+# Thesis
+This is a kind of [[FileClass~CreativeWork]]
 
 A thesis or dissertation document submitted in support of candidature for an academic degree or professional qualification.
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/Thesis
+#class/Thesis
+#class/Thing/CreativeWork/Thesis
+
+## Properties:
+
+### InSupportOf
 Qualification, candidature, degree, application that Thesis supports.
+
 InSupportOf:: {"type":"Input","options":{}}
+
+

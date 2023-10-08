@@ -5,73 +5,124 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Order, class/Thing/Intangible/Order, schema-org/Order]
-tags: ["class/Order", "class/Thing/Intangible/Order"]
+tags: ["class/Order", "#is_/an_/Order", "class/Thing/Intangible/Order"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
-#class/Order
-#class/Thing/Intangible/Order
-
+# Order
+This is a kind of [[FileClass~Intangible]]
 
 An order is a confirmation of a transaction (a receipt), which can contain multiple line items, each represented by an Offer that has been accepted by the customer.
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/an_/Order
+#class/Order
+#class/Thing/Intangible/Order
+
+## Properties:
+
+### AcceptedOffer
 The offer(s) -- e.g., product, quantity and price combinations -- included in the order.
+
 AcceptedOffer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Offer')"}}
 
+### BillingAddress
 The billing address for the order.
+
 BillingAddress:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')"}}
 
+### Broker
 An entity that arranges for an exchange between a buyer and a seller.  In most cases a broker never acquires or releases ownership of a product or service involved in an exchange.  If it is not clear whether an entity is a broker, seller, or buyer, the latter two terms are preferred.
+
 Broker:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
+### ConfirmationNumber
 A number that confirms the given order or payment has been received.
+
 ConfirmationNumber:: {"type":"Input","options":{}}
 
+### Customer
 Party placing the order or paying the invoice.
+
 Customer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
+### Discount
 Any discount applied (to an Order).
+
 Discount:: {"type":"Number","options":{}}
 
+### DiscountCode
 Code used to redeem a discount.
+
 DiscountCode:: {"type":"Input","options":{}}
 
-The currency of the discount.\n\nUse standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/ISO\_4217), e.g. "USD"; [Ticker symbol](https://en.wikipedia.org/wiki/List\_of\_cryptocurrencies) for cryptocurrencies, e.g. "BTC"; well known names for [Local Exchange Trading Systems](https://en.wikipedia.org/wiki/Local\_exchange\_trading\_system) (LETS) and other currency types, e.g. "Ithaca HOUR".
+### DiscountCurrency
+The currency of the discount.
+
+Use standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/ISO\_4217), e.g. "USD"; [Ticker symbol](https://en.wikipedia.org/wiki/List\_of\_cryptocurrencies) for cryptocurrencies, e.g. "BTC"; well known names for [Local Exchange Trading Systems](https://en.wikipedia.org/wiki/Local\_exchange\_trading\_system) (LETS) and other currency types, e.g. "Ithaca HOUR".
+
 DiscountCurrency:: {"type":"Input","options":{}}
 
+### IsGift
 Indicates whether the offer was accepted as a gift for someone other than the buyer.
+
 IsGift:: {"type":"Boolean","options":{}}
 
+### OrderDate
 Date order was placed.
+
 OrderDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
+### OrderDelivery
 The delivery of the parcel related to this order or order item.
+
 OrderDelivery:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ParcelDelivery')"}}
 
+### OrderNumber
 The identifier of the transaction.
+
 OrderNumber:: {"type":"Input","options":{}}
 
+### OrderStatus
 The current status of the order.
+
 OrderStatus:: {"type":"Select","options":{"valuesList":{"OrderCancelled","OrderDelivered","OrderInTransit","OrderPaymentDue","OrderPickupAvailable","OrderProblem","OrderProcessing","OrderReturned"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
+### OrderedItem
 The item ordered.
+
 OrderedItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/OrderItem')"}}
 
+### PartOfInvoice
 The order is being paid as part of the referenced Invoice.
+
 PartOfInvoice:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Invoice')"}}
 
+### PaymentDueDate
 The date that payment is due.
+
 PaymentDueDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
+### PaymentMethod
 The name of the credit card or other method of payment for the order.
+
 PaymentMethod:: {"type":"Input","options":{}}
 
+### PaymentMethodId
 An identifier for the method of payment used (e.g. the last 4 digits of the credit card).
+
 PaymentMethodId:: {"type":"Input","options":{}}
 
+### PaymentUrl
 The URL for sending a payment.
+
 PaymentUrl:: {"type":"Input","options":{}}
 
+### Seller
 An entity which offers (sells / leases / lends / loans) the services / goods.  A seller may also be a provider.
+
 Seller:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
+
+

@@ -5,22 +5,37 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AggregateRating, class/Thing/Intangible/Rating/AggregateRating, schema-org/AggregateRating]
-tags: ["class/AggregateRating", "class/Thing/Intangible/Rating/AggregateRating"]
+tags: ["class/AggregateRating", "#is_/an_/AggregateRating", "class/Thing/Intangible/Rating/AggregateRating"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating
 ---
 
-#class/AggregateRating
-#class/Thing/Intangible/Rating/AggregateRating
-
+# AggregateRating
+This is a kind of [[FileClass~Rating]]
 
 The average rating based on multiple ratings or reviews.
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/an_/AggregateRating
+#class/AggregateRating
+#class/Thing/Intangible/Rating/AggregateRating
+
+## Properties:
+
+### ItemReviewed
 The item that is being reviewed/rated.
+
 ItemReviewed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 
+### RatingCount
 The count of total number of ratings.
+
 RatingCount:: {"type":"Number","options":{}}
 
+### ReviewCount
 The count of total number of reviews.
+
 ReviewCount:: {"type":"Number","options":{}}
+
+

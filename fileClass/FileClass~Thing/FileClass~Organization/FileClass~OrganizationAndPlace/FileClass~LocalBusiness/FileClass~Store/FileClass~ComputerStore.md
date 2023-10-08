@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ComputerStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ComputerStore, schema-org/ComputerStore]
-tags: ["class/ComputerStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ComputerStore"]
+tags: ["class/ComputerStore", "#is_/a_/ComputerStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ComputerStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---
 
+# ComputerStore
+This is a kind of [[FileClass~Store]]
+
+A computer store.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/ComputerStore
 #class/ComputerStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ComputerStore
 
+## Properties:
 
-A computer store.
 

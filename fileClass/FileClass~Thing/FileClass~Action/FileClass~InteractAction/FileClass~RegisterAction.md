@@ -5,13 +5,28 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RegisterAction, class/Thing/Action/InteractAction/RegisterAction, schema-org/RegisterAction]
-tags: ["class/RegisterAction", "class/Thing/Action/InteractAction/RegisterAction"]
+tags: ["class/RegisterAction", "#is_/a_/RegisterAction", "class/Thing/Action/InteractAction/RegisterAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 ---
 
+# RegisterAction
+This is a kind of [[FileClass~InteractAction]]
+
+The act of registering to be a user of a service, product or web page.
+
+Related actions:
+
+\* [[JoinAction]]: Unlike JoinAction, RegisterAction implies you are registering to be a user of a service, \*not\* a group/team of people.
+\* [[FollowAction]]: Unlike FollowAction, RegisterAction doesn't imply that the agent is expecting to poll for updates from the object.
+\* [[SubscribeAction]]: Unlike SubscribeAction, RegisterAction doesn't imply that the agent is expecting updates from the object.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/RegisterAction
 #class/RegisterAction
 #class/Thing/Action/InteractAction/RegisterAction
 
+## Properties:
 
-The act of registering to be a user of a service, product or web page.\n\nRelated actions:\n\n\* [[JoinAction]]: Unlike JoinAction, RegisterAction implies you are registering to be a user of a service, \*not\* a group/team of people.\n\* [[FollowAction]]: Unlike FollowAction, RegisterAction doesn't imply that the agent is expecting to poll for updates from the object.\n\* [[SubscribeAction]]: Unlike SubscribeAction, RegisterAction doesn't imply that the agent is expecting updates from the object.
 

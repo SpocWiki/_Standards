@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InteractAction, class/Thing/Action/InteractAction, schema-org/InteractAction]
-tags: ["class/InteractAction", "class/Thing/Action/InteractAction"]
+tags: ["class/InteractAction", "#is_/an_/InteractAction", "class/Thing/Action/InteractAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
+# InteractAction
+This is a kind of [[FileClass~Action]]
+
+The act of interacting with another person or organization.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/an_/InteractAction
 #class/InteractAction
 #class/Thing/Action/InteractAction
 
+## Properties:
 
-The act of interacting with another person or organization.
 

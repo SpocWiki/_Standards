@@ -5,16 +5,27 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DefinedTermSet, class/Thing/CreativeWork/DefinedTermSet, schema-org/DefinedTermSet]
-tags: ["class/DefinedTermSet", "class/Thing/CreativeWork/DefinedTermSet"]
+tags: ["class/DefinedTermSet", "#is_/a_/DefinedTermSet", "class/Thing/CreativeWork/DefinedTermSet"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
-#class/DefinedTermSet
-#class/Thing/CreativeWork/DefinedTermSet
-
+# DefinedTermSet
+This is a kind of [[FileClass~CreativeWork]]
 
 A set of defined terms, for example a set of categories or a classification scheme, a glossary, dictionary or enumeration.
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/DefinedTermSet
+#class/DefinedTermSet
+#class/Thing/CreativeWork/DefinedTermSet
+
+## Properties:
+
+### HasDefinedTerm
 A Defined Term contained in this term set.
+
 HasDefinedTerm:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
+
+

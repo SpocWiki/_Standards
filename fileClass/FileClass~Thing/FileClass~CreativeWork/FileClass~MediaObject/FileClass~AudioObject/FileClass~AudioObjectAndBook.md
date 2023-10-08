@@ -5,33 +5,54 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AudioObjectAndBook, class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook, schema-org/AudioObjectAndBook]
-tags: ["class/AudioObjectAndBook", "class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook"]
+tags: ["class/AudioObjectAndBook", "#is_/an_/AudioObjectAndBook", "class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject
 ---
 
-#class/AudioObjectAndBook
-#class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
-
+# AudioObjectAndBook
+This is a kind of [[FileClass~AudioObject]]
 
 See AudioObject, Book for more information.
 
 
-## Properties of [[FileClass~Book]]
+## Use one of these Tags for Objects of this Type:
 
+#is_/an_/AudioObjectAndBook
+#class/AudioObjectAndBook
+#class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
+
+## Properties:
+
+
+
+## Properties of [[FileClass~Book]]
+### Abridged
 Indicates whether the book is an abridged edition.
+
 Abridged:: {"type":"Boolean","options":{}}
 
+### BookEdition
 The edition of the book.
+
 BookEdition:: {"type":"Input","options":{}}
 
+### BookFormat
 The format of the book.
+
 BookFormat:: {"type":"Select","options":{"valuesList":{"AudiobookFormat","EBook","GraphicNovel","Hardcover","Paperback"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
+### Illustrator
 The illustrator of the book.
+
 Illustrator:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
 
+### Isbn
 The ISBN of the book.
+
 Isbn:: {"type":"Input","options":{}}
 
+### NumberOfPages
 The number of pages in the book.
+
 NumberOfPages:: {"type":"Number","options":{}}
+

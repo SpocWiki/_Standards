@@ -5,16 +5,27 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReturnAction, class/Thing/Action/TransferAction/ReturnAction, schema-org/ReturnAction]
-tags: ["class/ReturnAction", "class/Thing/Action/TransferAction/ReturnAction"]
+tags: ["class/ReturnAction", "#is_/a_/ReturnAction", "class/Thing/Action/TransferAction/ReturnAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 
-#class/ReturnAction
-#class/Thing/Action/TransferAction/ReturnAction
-
+# ReturnAction
+This is a kind of [[FileClass~TransferAction]]
 
 The act of returning to the origin that which was previously received (concrete objects) or taken (ownership).
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/ReturnAction
+#class/ReturnAction
+#class/Thing/Action/TransferAction/ReturnAction
+
+## Properties:
+
+### Recipient
 A sub property of participant. The participant who is at the receiving end of the action.
+
 Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
+
+

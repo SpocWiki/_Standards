@@ -5,16 +5,32 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GiveAction, class/Thing/Action/TransferAction/GiveAction, schema-org/GiveAction]
-tags: ["class/GiveAction", "class/Thing/Action/TransferAction/GiveAction"]
+tags: ["class/GiveAction", "#is_/a_/GiveAction", "class/Thing/Action/TransferAction/GiveAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 
+# GiveAction
+This is a kind of [[FileClass~TransferAction]]
+
+The act of transferring ownership of an object to a destination. Reciprocal of TakeAction.
+
+Related actions:
+
+\* [[TakeAction]]: Reciprocal of GiveAction.
+\* [[SendAction]]: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/GiveAction
 #class/GiveAction
 #class/Thing/Action/TransferAction/GiveAction
 
+## Properties:
 
-The act of transferring ownership of an object to a destination. Reciprocal of TakeAction.\n\nRelated actions:\n\n\* [[TakeAction]]: Reciprocal of GiveAction.\n\* [[SendAction]]: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).
-
-
+### Recipient
 A sub property of participant. The participant who is at the receiving end of the action.
+
 Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
+
+

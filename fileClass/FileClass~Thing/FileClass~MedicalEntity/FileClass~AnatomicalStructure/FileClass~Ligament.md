@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Ligament, class/Thing/MedicalEntity/AnatomicalStructure/Ligament, schema-org/Ligament]
-tags: ["class/Ligament", "class/Thing/MedicalEntity/AnatomicalStructure/Ligament"]
+tags: ["class/Ligament", "#is_/a_/Ligament", "class/Thing/MedicalEntity/AnatomicalStructure/Ligament"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---
 
+# Ligament
+This is a kind of [[FileClass~AnatomicalStructure]]
+
+A short band of tough, flexible, fibrous connective tissue that functions to connect multiple bones, cartilages, and structurally support joints.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/Ligament
 #class/Ligament
 #class/Thing/MedicalEntity/AnatomicalStructure/Ligament
 
+## Properties:
 
-A short band of tough, flexible, fibrous connective tissue that functions to connect multiple bones, cartilages, and structurally support joints.
 

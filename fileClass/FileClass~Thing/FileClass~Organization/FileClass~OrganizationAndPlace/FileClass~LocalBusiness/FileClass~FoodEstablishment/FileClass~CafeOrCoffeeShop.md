@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CafeOrCoffeeShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop, schema-org/CafeOrCoffeeShop]
-tags: ["class/CafeOrCoffeeShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop"]
+tags: ["class/CafeOrCoffeeShop", "#is_/a_/CafeOrCoffeeShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FoodEstablishment
 ---
 
+# CafeOrCoffeeShop
+This is a kind of [[FileClass~FoodEstablishment]]
+
+A cafe or coffee shop.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/CafeOrCoffeeShop
 #class/CafeOrCoffeeShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop
 
+## Properties:
 
-A cafe or coffee shop.
 

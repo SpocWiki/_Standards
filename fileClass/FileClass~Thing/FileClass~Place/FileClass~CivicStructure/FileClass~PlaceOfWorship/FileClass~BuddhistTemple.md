@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BuddhistTemple, class/Thing/Place/CivicStructure/PlaceOfWorship/BuddhistTemple, schema-org/BuddhistTemple]
-tags: ["class/BuddhistTemple", "class/Thing/Place/CivicStructure/PlaceOfWorship/BuddhistTemple"]
+tags: ["class/BuddhistTemple", "#is_/a_/BuddhistTemple", "class/Thing/Place/CivicStructure/PlaceOfWorship/BuddhistTemple"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship
 ---
 
+# BuddhistTemple
+This is a kind of [[FileClass~PlaceOfWorship]]
+
+A Buddhist temple.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/BuddhistTemple
 #class/BuddhistTemple
 #class/Thing/Place/CivicStructure/PlaceOfWorship/BuddhistTemple
 
+## Properties:
 
-A Buddhist temple.
 

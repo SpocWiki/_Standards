@@ -5,13 +5,12 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SpecialAnnouncement, class/Thing/CreativeWork/SpecialAnnouncement, schema-org/SpecialAnnouncement]
-tags: ["class/SpecialAnnouncement", "class/Thing/CreativeWork/SpecialAnnouncement"]
+tags: ["class/SpecialAnnouncement", "#is_/a_/SpecialAnnouncement", "class/Thing/CreativeWork/SpecialAnnouncement"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
-#class/SpecialAnnouncement
-#class/Thing/CreativeWork/SpecialAnnouncement
-
+# SpecialAnnouncement
+This is a kind of [[FileClass~CreativeWork]]
 
 A SpecialAnnouncement combines a simple date-stamped textual information update  
  with contextualized Web links and other structured data.  It represents an information update made by a  
@@ -39,43 +38,79 @@ A SpecialAnnouncement combines a simple date-stamped textual information update
  media type information, e.g. "application/rss+xml" or "application/atom+xml".
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/SpecialAnnouncement
+#class/SpecialAnnouncement
+#class/Thing/CreativeWork/SpecialAnnouncement
+
+## Properties:
+
+### AnnouncementLocation
 Indicates a specific [[CivicStructure]] or [[LocalBusiness]] associated with the SpecialAnnouncement. For example, a specific testing facility or business with special opening hours. For a larger geographic region like a quarantine of an entire region, use [[spatialCoverage]].
+
 AnnouncementLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/CivicStructure')"}}
 
+### Category
 A category for the item. Greater signs or slashes can be used to informally indicate a category hierarchy.
+
 Category:: {"type":"Select","options":{"valuesList":{"AerobicActivity","AnaerobicActivity","Balance","Flexibility","LeisureTimeActivity","OccupationalActivity","StrengthTraining"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
+### DatePosted
 Publication date of an online listing.
+
 DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
+### DiseasePreventionInfo
 Information about disease prevention.
+
 DiseasePreventionInfo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/WebContent')"}}
 
+### DiseaseSpreadStatistics
 Statistical information about the spread of a disease, either as [[WebContent]], or  
  described directly as a [[Dataset]], or the specific [[Observation]]s in the dataset. When a [[WebContent]] URL is  
  provided, the page indicated might also contain more such markup.
+
 DiseaseSpreadStatistics:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Dataset')"}}
 
+### GettingTestedInfo
 Information about getting tested (for a [[MedicalCondition]]), e.g. in the context of a pandemic.
+
 GettingTestedInfo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/WebContent')"}}
 
+### GovernmentBenefitsInfo
 governmentBenefitsInfo provides information about government benefits associated with a SpecialAnnouncement.
+
 GovernmentBenefitsInfo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Service/GovernmentService')"}}
 
+### NewsUpdatesAndGuidelines
 Indicates a page with news updates and guidelines. This could often be (but is not required to be) the main page containing [[SpecialAnnouncement]] markup on a site.
+
 NewsUpdatesAndGuidelines:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/WebContent')"}}
 
+### PublicTransportClosuresInfo
 Information about public transport closures.
+
 PublicTransportClosuresInfo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/WebContent')"}}
 
+### QuarantineGuidelines
 Guidelines about quarantine rules, e.g. in the context of a pandemic.
+
 QuarantineGuidelines:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/WebContent')"}}
 
+### SchoolClosuresInfo
 Information about school closures.
+
 SchoolClosuresInfo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/WebContent')"}}
 
+### TravelBans
 Information about travel bans, e.g. in the context of a pandemic.
+
 TravelBans:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/WebContent')"}}
 
+### WebFeed
 The URL for a feed, e.g. associated with a podcast series, blog, or series of date-stamped updates. This is usually RSS or Atom.
+
 WebFeed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')"}}
+
+

@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OnlineBusiness, class/Thing/Organization/OnlineBusiness, schema-org/OnlineBusiness]
-tags: ["class/OnlineBusiness", "class/Thing/Organization/OnlineBusiness"]
+tags: ["class/OnlineBusiness", "#is_/an_/OnlineBusiness", "class/Thing/Organization/OnlineBusiness"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
+# OnlineBusiness
+This is a kind of [[FileClass~Organization]]
+
+A particular online business, either standalone or the online part of a broader organization. Examples include an eCommerce site, an online travel booking site, an online learning site, an online logistics and shipping provider, an online (virtual) doctor, etc.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/an_/OnlineBusiness
 #class/OnlineBusiness
 #class/Thing/Organization/OnlineBusiness
 
+## Properties:
 
-A particular online business, either standalone or the online part of a broader organization. Examples include an eCommerce site, an online travel booking site, an online learning site, an online logistics and shipping provider, an online (virtual) doctor, etc.
 

@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ComputerLanguage, class/Thing/Intangible/ComputerLanguage, schema-org/ComputerLanguage]
-tags: ["class/ComputerLanguage", "class/Thing/Intangible/ComputerLanguage"]
+tags: ["class/ComputerLanguage", "#is_/a_/ComputerLanguage", "class/Thing/Intangible/ComputerLanguage"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
+# ComputerLanguage
+This is a kind of [[FileClass~Intangible]]
+
+This type covers computer programming languages such as Scheme and Lisp, as well as other language-like computer representations. Natural languages are best represented with the [[Language]] type.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/ComputerLanguage
 #class/ComputerLanguage
 #class/Thing/Intangible/ComputerLanguage
 
+## Properties:
 
-This type covers computer programming languages such as Scheme and Lisp, as well as other language-like computer representations. Natural languages are best represented with the [[Language]] type.
 

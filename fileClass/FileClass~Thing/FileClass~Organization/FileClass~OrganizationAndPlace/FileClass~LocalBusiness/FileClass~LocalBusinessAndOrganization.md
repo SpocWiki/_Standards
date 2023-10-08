@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LocalBusinessAndOrganization, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganization, schema-org/LocalBusinessAndOrganization]
-tags: ["class/LocalBusinessAndOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganization"]
+tags: ["class/LocalBusinessAndOrganization", "#is_/a_/LocalBusinessAndOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganization"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 
+# LocalBusinessAndOrganization
+This is a kind of [[FileClass~LocalBusiness]]
+
+See LocalBusiness, Organization for more information.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/LocalBusinessAndOrganization
 #class/LocalBusinessAndOrganization
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganization
 
+## Properties:
 
-See LocalBusiness, Organization for more information.
 

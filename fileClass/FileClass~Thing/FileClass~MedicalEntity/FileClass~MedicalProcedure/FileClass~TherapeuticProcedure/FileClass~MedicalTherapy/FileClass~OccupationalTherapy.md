@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OccupationalTherapy, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy, schema-org/OccupationalTherapy]
-tags: ["class/OccupationalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy"]
+tags: ["class/OccupationalTherapy", "#is_/an_/OccupationalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy
 ---
 
+# OccupationalTherapy
+This is a kind of [[FileClass~MedicalTherapy]]
+
+A treatment of people with physical, emotional, or social problems, using purposeful activity to help them overcome or learn to deal with their problems.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/an_/OccupationalTherapy
 #class/OccupationalTherapy
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy
 
+## Properties:
 
-A treatment of people with physical, emotional, or social problems, using purposeful activity to help them overcome or learn to deal with their problems.
 

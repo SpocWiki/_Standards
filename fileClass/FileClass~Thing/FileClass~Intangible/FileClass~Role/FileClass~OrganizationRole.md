@@ -5,16 +5,27 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OrganizationRole, class/Thing/Intangible/Role/OrganizationRole, schema-org/OrganizationRole]
-tags: ["class/OrganizationRole", "class/Thing/Intangible/Role/OrganizationRole"]
+tags: ["class/OrganizationRole", "#is_/an_/OrganizationRole", "class/Thing/Intangible/Role/OrganizationRole"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 ---
 
-#class/OrganizationRole
-#class/Thing/Intangible/Role/OrganizationRole
-
+# OrganizationRole
+This is a kind of [[FileClass~Role]]
 
 A subclass of Role used to describe roles within organizations.
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/an_/OrganizationRole
+#class/OrganizationRole
+#class/Thing/Intangible/Role/OrganizationRole
+
+## Properties:
+
+### NumberedPosition
 A number associated with a role in an organization, for example, the number on an athlete's jersey.
+
 NumberedPosition:: {"type":"Number","options":{}}
+
+

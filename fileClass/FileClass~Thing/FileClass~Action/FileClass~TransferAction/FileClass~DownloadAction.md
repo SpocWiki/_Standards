@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DownloadAction, class/Thing/Action/TransferAction/DownloadAction, schema-org/DownloadAction]
-tags: ["class/DownloadAction", "class/Thing/Action/TransferAction/DownloadAction"]
+tags: ["class/DownloadAction", "#is_/a_/DownloadAction", "class/Thing/Action/TransferAction/DownloadAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 
+# DownloadAction
+This is a kind of [[FileClass~TransferAction]]
+
+The act of downloading an object.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/DownloadAction
 #class/DownloadAction
 #class/Thing/Action/TransferAction/DownloadAction
 
+## Properties:
 
-The act of downloading an object.
 

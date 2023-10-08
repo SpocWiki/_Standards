@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MobilePhoneStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore, schema-org/MobilePhoneStore]
-tags: ["class/MobilePhoneStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore"]
+tags: ["class/MobilePhoneStore", "#is_/a_/MobilePhoneStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---
 
+# MobilePhoneStore
+This is a kind of [[FileClass~Store]]
+
+A store that sells mobile phones and related accessories.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/MobilePhoneStore
 #class/MobilePhoneStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore
 
+## Properties:
 
-A store that sells mobile phones and related accessories.
 

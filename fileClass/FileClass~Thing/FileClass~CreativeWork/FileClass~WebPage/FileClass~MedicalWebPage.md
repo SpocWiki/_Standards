@@ -5,16 +5,27 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalWebPage, class/Thing/CreativeWork/WebPage/MedicalWebPage, schema-org/MedicalWebPage]
-tags: ["class/MedicalWebPage", "class/Thing/CreativeWork/WebPage/MedicalWebPage"]
+tags: ["class/MedicalWebPage", "#is_/a_/MedicalWebPage", "class/Thing/CreativeWork/WebPage/MedicalWebPage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---
 
-#class/MedicalWebPage
-#class/Thing/CreativeWork/WebPage/MedicalWebPage
-
+# MedicalWebPage
+This is a kind of [[FileClass~WebPage]]
 
 A web page that provides medical information.
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/MedicalWebPage
+#class/MedicalWebPage
+#class/Thing/CreativeWork/WebPage/MedicalWebPage
+
+## Properties:
+
+### MedicalAudience
 Medical audience for page.
+
 MedicalAudience:: {"type":"Select","options":{"valuesList":{"Clinician","MedicalResearcher"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+
+

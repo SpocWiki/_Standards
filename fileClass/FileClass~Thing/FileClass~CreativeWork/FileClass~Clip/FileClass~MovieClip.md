@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MovieClip, class/Thing/CreativeWork/Clip/MovieClip, schema-org/MovieClip]
-tags: ["class/MovieClip", "class/Thing/CreativeWork/Clip/MovieClip"]
+tags: ["class/MovieClip", "#is_/a_/MovieClip", "class/Thing/CreativeWork/Clip/MovieClip"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 ---
 
+# MovieClip
+This is a kind of [[FileClass~Clip]]
+
+A short segment/part of a movie.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/MovieClip
 #class/MovieClip
 #class/Thing/CreativeWork/Clip/MovieClip
 
+## Properties:
 
-A short segment/part of a movie.
 

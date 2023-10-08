@@ -5,16 +5,27 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReservationPackage, class/Thing/Intangible/Reservation/ReservationPackage, schema-org/ReservationPackage]
-tags: ["class/ReservationPackage", "class/Thing/Intangible/Reservation/ReservationPackage"]
+tags: ["class/ReservationPackage", "#is_/a_/ReservationPackage", "class/Thing/Intangible/Reservation/ReservationPackage"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---
 
-#class/ReservationPackage
-#class/Thing/Intangible/Reservation/ReservationPackage
-
+# ReservationPackage
+This is a kind of [[FileClass~Reservation]]
 
 A group of multiple reservations with common values for all sub-reservations.
 
 
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/ReservationPackage
+#class/ReservationPackage
+#class/Thing/Intangible/Reservation/ReservationPackage
+
+## Properties:
+
+### SubReservation
 The individual reservations included in the package. Typically a repeated property.
+
 SubReservation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Reservation')"}}
+
+

@@ -5,13 +5,22 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Restaurant, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant, schema-org/Restaurant]
-tags: ["class/Restaurant", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant"]
+tags: ["class/Restaurant", "#is_/a_/Restaurant", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FoodEstablishment
 ---
 
+# Restaurant
+This is a kind of [[FileClass~FoodEstablishment]]
+
+A restaurant.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/a_/Restaurant
 #class/Restaurant
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant
 
+## Properties:
 
-A restaurant.
 

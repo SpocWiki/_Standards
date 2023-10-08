@@ -5,13 +5,12 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EventSeries, class/Thing/Intangible/Series/EventAndSeries/EventSeries, schema-org/EventSeries]
-tags: ["class/EventSeries", "class/Thing/Intangible/Series/EventAndSeries/EventSeries"]
+tags: ["class/EventSeries", "#is_/an_/EventSeries", "class/Thing/Intangible/Series/EventAndSeries/EventSeries"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries
 ---
 
-#class/EventSeries
-#class/Thing/Intangible/Series/EventAndSeries/EventSeries
-
+# EventSeries
+This is a kind of [[FileClass~EventAndSeries]]
 
 A series of [[Event]]s. Included events can relate with the series using the [[superEvent]] property.  
  An EventSeries is a collection of events that share some unifying characteristic. For example, "The Olympic Games" is a series, which  
@@ -23,4 +22,14 @@ A series of [[Event]]s. Included events can relate with the series using the [[s
  worrying about which kinds of series are really event-like enough to call an Event. In general an EventSeries  
  may seem more Event-like when the period of time is compact and when aspects such as location are fixed, but  
  it may also sometimes prove useful to describe a longer-term series as an Event.
+
+
+## Use one of these Tags for Objects of this Type:
+
+#is_/an_/EventSeries
+#class/EventSeries
+#class/Thing/Intangible/Series/EventAndSeries/EventSeries
+
+## Properties:
+
 
