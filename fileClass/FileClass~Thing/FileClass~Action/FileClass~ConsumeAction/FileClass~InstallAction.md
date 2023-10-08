@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 #class/InstallAction
 #class/Thing/Action/ConsumeAction/InstallAction
 
+
+The act of installing an application.
+

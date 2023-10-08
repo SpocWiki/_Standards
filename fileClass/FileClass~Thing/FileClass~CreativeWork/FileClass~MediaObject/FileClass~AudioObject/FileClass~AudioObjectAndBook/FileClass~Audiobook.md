@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~
 #class/Audiobook
 #class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook/Audiobook
 
+
+An audiobook.
+
+
+A person who reads (performs) the audiobook.
 ReadBy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}

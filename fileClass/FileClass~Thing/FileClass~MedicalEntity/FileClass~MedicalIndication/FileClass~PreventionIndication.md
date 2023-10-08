@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication
 #class/PreventionIndication
 #class/Thing/MedicalEntity/MedicalIndication/PreventionIndication
 
+
+An indication for preventing an underlying condition, symptom, etc.
+

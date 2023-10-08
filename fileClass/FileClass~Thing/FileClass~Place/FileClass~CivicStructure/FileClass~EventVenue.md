@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 #class/EventVenue
 #class/Thing/Place/CivicStructure/EventVenue
 
+
+An event venue.
+

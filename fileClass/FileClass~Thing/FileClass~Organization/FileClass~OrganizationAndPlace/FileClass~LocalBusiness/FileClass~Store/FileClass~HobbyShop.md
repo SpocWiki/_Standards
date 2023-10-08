@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/HobbyShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HobbyShop
 
+
+A store that sells materials useful or necessary for various hobbies.
+

@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: scale
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/Notary, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Notary, schema-org/Notary]
 tags: ["class/Notary", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Notary"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LegalService
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 
 #class/Notary
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Notary
+
+
+A notary.
 

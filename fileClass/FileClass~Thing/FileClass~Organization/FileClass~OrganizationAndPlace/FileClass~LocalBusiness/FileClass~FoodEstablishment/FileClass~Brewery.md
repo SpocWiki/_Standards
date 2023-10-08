@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/Brewery
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Brewery
 
+
+Brewery.
+

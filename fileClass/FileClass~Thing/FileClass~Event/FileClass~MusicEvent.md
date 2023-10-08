@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/MusicEvent
 #class/Thing/Event/MusicEvent
 
+
+Event type: Music event.
+

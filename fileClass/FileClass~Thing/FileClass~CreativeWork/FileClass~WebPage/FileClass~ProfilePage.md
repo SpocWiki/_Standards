@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 #class/ProfilePage
 #class/Thing/CreativeWork/WebPage/ProfilePage
 
+
+Web page type: Profile page.
+

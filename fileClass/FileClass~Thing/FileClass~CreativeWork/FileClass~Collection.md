@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~CreativeWork
 #class/Collection
 #class/Thing/CreativeWork/Collection
 
+
+A collection of items, e.g. creative works or products.
+
+
+The number of items in the [[Collection]].
 CollectionSize:: {"type":"Number","options":{}}

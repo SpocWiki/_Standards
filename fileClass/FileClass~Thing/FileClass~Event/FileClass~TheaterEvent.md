@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/TheaterEvent
 #class/Thing/Event/TheaterEvent
 
+
+Event type: Theater performance.
+

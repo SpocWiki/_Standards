@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: waves
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/SeaBodyOfWater, class/Thing/Place/Landform/BodyOfWater/SeaBodyOfWater, schema-org/SeaBodyOfWater]
 tags: ["class/SeaBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/SeaBodyOfWater"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWate
 
 #class/SeaBodyOfWater
 #class/Thing/Place/Landform/BodyOfWater/SeaBodyOfWater
+
+
+A sea (for example, the Caspian sea).
 

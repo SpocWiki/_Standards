@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 #class/Playground
 #class/Thing/Place/CivicStructure/Playground
 
+
+A playground.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 #class/IgnoreAction
 #class/Thing/Action/AssessAction/IgnoreAction
 
+
+The act of intentionally disregarding the object. An agent ignores an object.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action
 #class/OrganizeAction
 #class/Thing/Action/OrganizeAction
 
+
+The act of manipulating/administering/supervising/controlling one or more objects.
+

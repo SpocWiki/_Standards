@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~React
 #class/EndorseAction
 #class/Thing/Action/AssessAction/ReactAction/EndorseAction
 
+
+An agent approves/certifies/likes/supports/sanctions an object.
+
+
+A sub property of participant. The person/organization being supported.
 Endorsee:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}

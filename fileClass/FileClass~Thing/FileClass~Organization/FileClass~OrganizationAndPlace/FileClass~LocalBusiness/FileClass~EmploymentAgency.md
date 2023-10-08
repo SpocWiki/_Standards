@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/EmploymentAgency
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmploymentAgency
 
+
+An employment agency.
+

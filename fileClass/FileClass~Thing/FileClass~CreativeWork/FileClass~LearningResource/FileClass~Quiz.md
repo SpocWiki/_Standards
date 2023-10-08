@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
 #class/Quiz
 #class/Thing/CreativeWork/LearningResource/Quiz
 
+
+Quiz: A test of knowledge, skills and abilities.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 #class/Table
 #class/Thing/CreativeWork/WebPageElement/Table
 
+
+A table on a Web page.
+

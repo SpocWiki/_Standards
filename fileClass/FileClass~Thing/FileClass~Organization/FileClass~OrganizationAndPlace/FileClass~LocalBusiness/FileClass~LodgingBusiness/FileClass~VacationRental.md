@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/VacationRental
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/VacationRental
 
+
+A kind of lodging business that focuses on renting single properties for limited time.
+

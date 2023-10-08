@@ -12,5 +12,12 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Peopl
 #class/ParentAudience
 #class/Thing/Intangible/Audience/PeopleAudience/ParentAudience
 
+
+A set of characteristics describing parents, who can be interested in viewing some content.
+
+
+Maximal age of the child.
 ChildMaxAge:: {"type":"Number","options":{}}
+
+Minimal age of the child.
 ChildMinAge:: {"type":"Number","options":{}}

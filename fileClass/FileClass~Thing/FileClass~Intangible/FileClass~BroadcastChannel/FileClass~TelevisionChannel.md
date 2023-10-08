@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel
 #class/TelevisionChannel
 #class/Thing/Intangible/BroadcastChannel/TelevisionChannel
 
+
+A unique instance of a television BroadcastService on a CableOrSatelliteService lineup.
+

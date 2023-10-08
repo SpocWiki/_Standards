@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Place
 #class/Residence
 #class/Thing/Place/Residence
 
+
+The place where a person lives.
+
+
+A floorplan of some [[Accommodation]].
 AccommodationFloorPlan:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/FloorPlan')"}}

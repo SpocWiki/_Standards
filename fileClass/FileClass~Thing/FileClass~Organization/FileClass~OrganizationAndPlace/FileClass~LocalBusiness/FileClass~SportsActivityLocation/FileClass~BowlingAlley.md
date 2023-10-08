@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/BowlingAlley
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/BowlingAlley
 
+
+A bowling alley.
+

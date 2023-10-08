@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place
 #class/LandmarksOrHistoricalBuildings
 #class/Thing/Place/LandmarksOrHistoricalBuildings
 
+
+An historical landmark or building.
+

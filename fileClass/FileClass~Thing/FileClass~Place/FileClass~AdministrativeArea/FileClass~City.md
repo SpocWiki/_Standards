@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea
 #class/City
 #class/Thing/Place/AdministrativeArea/City
 
+
+A city or town.
+

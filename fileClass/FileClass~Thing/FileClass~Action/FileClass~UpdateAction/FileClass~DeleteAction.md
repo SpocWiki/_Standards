@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction
 #class/DeleteAction
 #class/Thing/Action/UpdateAction/DeleteAction
 
+
+The act of editing a recipient by removing one of its objects.
+

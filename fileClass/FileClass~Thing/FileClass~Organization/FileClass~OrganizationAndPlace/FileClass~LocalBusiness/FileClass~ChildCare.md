@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/ChildCare
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ChildCare
 
+
+A Childcare center.
+

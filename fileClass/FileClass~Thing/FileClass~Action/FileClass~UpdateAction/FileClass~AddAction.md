@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction
 #class/AddAction
 #class/Thing/Action/UpdateAction/AddAction
 
+
+The act of editing by adding an object to a collection.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 #class/AboutPage
 #class/Thing/CreativeWork/WebPage/AboutPage
 
+
+Web page type: About page.
+

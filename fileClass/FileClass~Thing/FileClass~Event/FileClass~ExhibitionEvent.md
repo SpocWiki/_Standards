@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/ExhibitionEvent
 #class/Thing/Event/ExhibitionEvent
 
+
+Event type: Exhibition event, e.g. at a museum, library, archive, tradeshow, ...
+

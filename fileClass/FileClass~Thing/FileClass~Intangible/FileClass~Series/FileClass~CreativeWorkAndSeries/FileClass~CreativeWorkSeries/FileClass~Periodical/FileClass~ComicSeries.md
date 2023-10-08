@@ -12,3 +12,8 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~Creativ
 #class/ComicSeries
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/ComicSeries
 
+
+A sequential publication of comic stories under a  
+unifying title, for example "The Amazing Spider-Man" or "Groo the  
+Wanderer".
+

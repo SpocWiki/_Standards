@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 #class/EducationalAudience
 #class/Thing/Intangible/Audience/EducationalAudience
 
+
+An EducationalAudience.
+
+
+An educationalRole of an EducationalAudience.
 EducationalRole:: {"type":"Input","options":{}}

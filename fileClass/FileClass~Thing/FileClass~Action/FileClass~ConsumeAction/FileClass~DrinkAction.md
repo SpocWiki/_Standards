@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 #class/DrinkAction
 #class/Thing/Action/ConsumeAction/DrinkAction
 
+
+The act of swallowing liquids.
+

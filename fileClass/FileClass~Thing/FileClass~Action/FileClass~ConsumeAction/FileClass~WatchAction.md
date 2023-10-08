@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 #class/WatchAction
 #class/Thing/Action/ConsumeAction/WatchAction
 
+
+The act of consuming dynamic/moving visual content.
+

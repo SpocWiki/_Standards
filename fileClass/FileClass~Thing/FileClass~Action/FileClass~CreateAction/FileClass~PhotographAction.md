@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 #class/PhotographAction
 #class/Thing/Action/CreateAction/PhotographAction
 
+
+The act of capturing still images of objects using a camera.
+

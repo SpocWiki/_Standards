@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~Financ
 #class/BrokerageAccount
 #class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BrokerageAccount
 
+
+An account that allows an investor to deposit funds and place investment orders with a licensed broker or brokerage firm.
+

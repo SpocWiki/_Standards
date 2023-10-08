@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 #class/PerformingArtsTheater
 #class/Thing/Place/CivicStructure/PerformingArtsTheater
 
+
+A theater or other performing art center.
+

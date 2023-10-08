@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/MovieRentalStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MovieRentalStore
 
+
+A movie rental store.
+

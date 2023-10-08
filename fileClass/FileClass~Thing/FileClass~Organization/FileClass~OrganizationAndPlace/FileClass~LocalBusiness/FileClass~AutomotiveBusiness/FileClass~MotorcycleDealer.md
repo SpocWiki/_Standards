@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/MotorcycleDealer
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleDealer
 
+
+A motorcycle dealer.
+

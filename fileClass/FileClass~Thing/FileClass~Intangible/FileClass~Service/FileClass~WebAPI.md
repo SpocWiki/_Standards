@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 #class/WebAPI
 #class/Thing/Intangible/Service/WebAPI
 
+
+An application programming interface accessible over Web/Internet technologies.
+
+
+Further documentation describing the Web API in more detail.
 Documentation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/AutomatedTeller
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AutomatedTeller
 
+
+ATM/cash machine.
+

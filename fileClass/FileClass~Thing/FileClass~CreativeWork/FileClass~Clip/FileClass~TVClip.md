@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 #class/TVClip
 #class/Thing/CreativeWork/Clip/TVClip
 
+
+A short TV program or a segment/part of a TV program.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork
 #class/CoverArt
 #class/Thing/CreativeWork/VisualArtwork/CoverArt
 
+
+The artwork on the outer surface of a CreativeWork.
+

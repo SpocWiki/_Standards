@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Plac
 #class/Synagogue
 #class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue
 
+
+A synagogue.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 #class/CollectionPage
 #class/Thing/CreativeWork/WebPage/CollectionPage
 
+
+Web page type: Collection page.
+

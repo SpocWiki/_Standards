@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 #class/UserReview
 #class/Thing/CreativeWork/Review/UserReview
 
+
+A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in contrast with [[CriticReview]].
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/DanceEvent
 #class/Thing/Event/DanceEvent
 
+
+Event type: A social dance.
+

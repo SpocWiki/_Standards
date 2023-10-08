@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 #class/ViewAction
 #class/Thing/Action/ConsumeAction/ViewAction
 
+
+The act of consuming static visual content.
+

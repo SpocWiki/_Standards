@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/SaleEvent
 #class/Thing/Event/SaleEvent
 
+
+Event type: Sales event.
+

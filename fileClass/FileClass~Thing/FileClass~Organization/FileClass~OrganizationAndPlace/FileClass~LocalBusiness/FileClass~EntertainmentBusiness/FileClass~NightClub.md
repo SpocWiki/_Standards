@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/NightClub
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/NightClub
 
+
+A nightclub or discotheque.
+

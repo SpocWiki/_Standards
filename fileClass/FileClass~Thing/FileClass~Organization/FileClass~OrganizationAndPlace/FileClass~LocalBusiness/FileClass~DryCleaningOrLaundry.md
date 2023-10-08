@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/DryCleaningOrLaundry
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/DryCleaningOrLaundry
 
+
+A dry-cleaning business.
+

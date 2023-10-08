@@ -12,19 +12,54 @@ extends: FileClass~Thing/FileClass~MedicalEntity
 #class/MedicalCondition
 #class/Thing/MedicalEntity/MedicalCondition
 
+
+Any condition of the human body that affects the normal functioning of a person, whether physically or mentally. Includes diseases, injuries, disabilities, disorders, syndromes, etc.
+
+
+The anatomy of the underlying organ system or structures associated with this entity.
 AssociatedAnatomy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}}
+
+One of a set of differential diagnoses for the condition. Specifically, a closely-related or competing diagnosis typically considered later in the cognitive process whereby this medical condition is distinguished from others most likely responsible for a similar collection of signs and symptoms to reach the most parsimonious diagnosis or diagnoses in a patient.
 DifferentialDiagnosis:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DDxElement')"}}
+
+Specifying a drug or medicine used in a medication procedure.
 Drug:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"}}
+
+The characteristics of associated patients, such as age, gender, race etc.
 Epidemiology:: {"type":"Input","options":{}}
+
+The likely outcome in either the short term or long term of the medical condition.
 ExpectedPrognosis:: {"type":"Input","options":{}}
+
+The expected progression of the condition if it is not treated and allowed to progress naturally.
 NaturalProgression:: {"type":"Input","options":{}}
+
+Changes in the normal mechanical, physical, and biochemical functions that are associated with this activity or condition.
 Pathophysiology:: {"type":"Input","options":{}}
+
+A possible unexpected and unfavorable evolution of a medical condition. Complications may include worsening of the signs or symptoms of the disease, extension of the condition to other organ systems, etc.
 PossibleComplication:: {"type":"Input","options":{}}
+
+A possible treatment to address this condition, sign or symptom.
 PossibleTreatment:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"}}
+
+A preventative therapy used to prevent an initial occurrence of the medical condition, such as vaccination.
 PrimaryPrevention:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"}}
+
+A modifiable or non-modifiable factor that increases the risk of a patient contracting this condition, e.g. age,  coexisting condition.
 RiskFactor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')"}}
+
+A preventative therapy used to prevent reoccurrence of the medical condition after an initial episode of the condition.
 SecondaryPrevention:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"}}
+
+A sign or symptom of this condition. Signs are objective or physically observable manifestations of the medical condition while symptoms are the subjective experience of the medical condition.
 SignOrSymptom:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')"}}
+
+The stage of the condition, if applicable.
 Stage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage')"}}
+
+The status of the study (enumerated).
 Status:: {"type":"Select","options":{"valuesList":{"EventCancelled","EventMovedOnline","EventPostponed","EventRescheduled","EventScheduled"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+
+A medical test typically performed given this condition.
 TypicalTest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalTest')"}}

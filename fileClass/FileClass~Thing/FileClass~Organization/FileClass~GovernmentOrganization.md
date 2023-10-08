@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization
 #class/GovernmentOrganization
 #class/Thing/Organization/GovernmentOrganization
 
+
+A governmental organization or agency.
+

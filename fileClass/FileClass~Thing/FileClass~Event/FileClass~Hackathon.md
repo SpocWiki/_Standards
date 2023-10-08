@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/Hackathon
 #class/Thing/Event/Hackathon
 
+
+A [hackathon](https://en.wikipedia.org/wiki/Hackathon) event.
+

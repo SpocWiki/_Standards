@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~Ca
 #class/MedicalCode
 #class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode
 
+
+A code for a medical entity.
+
+
+The coding system, e.g. 'ICD-10'.
 CodingSystem:: {"type":"Input","options":{}}

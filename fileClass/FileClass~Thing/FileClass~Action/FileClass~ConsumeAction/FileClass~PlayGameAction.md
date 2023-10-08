@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 #class/PlayGameAction
 #class/Thing/Action/ConsumeAction/PlayGameAction
 
+
+The act of playing a video game.
+
+
+Indicates the availability type of the game content associated with this action, such as whether it is a full version or a demo.
 GameAvailabilityType:: {"type":"Select","options":{"valuesList":{"DemoGameAvailability","FullGameAvailability"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}

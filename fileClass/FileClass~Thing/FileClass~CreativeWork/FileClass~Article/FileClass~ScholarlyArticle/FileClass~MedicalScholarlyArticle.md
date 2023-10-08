@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Scho
 #class/MedicalScholarlyArticle
 #class/Thing/CreativeWork/Article/ScholarlyArticle/MedicalScholarlyArticle
 
+
+A scholarly article in the medical domain.
+
+
+The type of the medical article, taken from the US NLM MeSH publication type catalog. See also [MeSH documentation](http://www.nlm.nih.gov/mesh/pubtypes.html).
 PublicationType:: {"type":"Input","options":{}}

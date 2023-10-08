@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/HVACBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HVACBusiness
 
+
+A business that provides Heating, Ventilation and Air Conditioning services.
+

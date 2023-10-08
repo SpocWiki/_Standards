@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 #class/ReactAction
 #class/Thing/Action/AssessAction/ReactAction
 
+
+The act of responding instinctively and emotionally to an object, expressing a sentiment.
+

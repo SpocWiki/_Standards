@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/File
 #class/VitalSign
 #class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign
 
+
+Vital signs are measures of various physiological functions in order to assess the most basic body functions.
+

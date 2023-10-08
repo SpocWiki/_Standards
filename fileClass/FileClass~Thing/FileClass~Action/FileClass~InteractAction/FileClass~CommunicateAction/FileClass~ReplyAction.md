@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~Com
 #class/ReplyAction
 #class/Thing/Action/InteractAction/CommunicateAction/ReplyAction
 
+
+The act of responding to a question/message asked/sent by the object. Related to [[AskAction]].\n\nRelated actions:\n\n\* [[AskAction]]: Appears generally as an origin of a ReplyAction.
+
+
+A sub property of result. The Comment created or sent as a result of this action.
 ResultComment:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment')"}}

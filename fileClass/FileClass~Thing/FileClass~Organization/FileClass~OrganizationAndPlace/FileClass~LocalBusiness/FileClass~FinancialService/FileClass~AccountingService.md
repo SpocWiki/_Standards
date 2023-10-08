@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/AccountingService
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AccountingService
 
+
+Accountancy business.\n\nAs a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Service]]\(s).
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization
 #class/VeterinaryCare
 #class/Thing/Organization/MedicalOrganization/VeterinaryCare
 
+
+A vet's office.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 #class/NoteDigitalDocument
 #class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument
 
+
+A file containing a note, primarily for the author.
+

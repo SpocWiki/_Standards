@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Soci
 #class/BlogPosting
 #class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
 
+
+A blog post.
+

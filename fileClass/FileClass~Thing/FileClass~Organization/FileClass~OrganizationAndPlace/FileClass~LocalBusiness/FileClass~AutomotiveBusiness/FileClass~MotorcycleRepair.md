@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/MotorcycleRepair
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleRepair
 
+
+A motorcycle repair shop.
+

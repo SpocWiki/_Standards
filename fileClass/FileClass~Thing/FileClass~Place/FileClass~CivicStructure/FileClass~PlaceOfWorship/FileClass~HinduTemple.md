@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Plac
 #class/HinduTemple
 #class/Thing/Place/CivicStructure/PlaceOfWorship/HinduTemple
 
+
+A Hindu temple.
+

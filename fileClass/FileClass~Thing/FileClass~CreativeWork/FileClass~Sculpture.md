@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork
 #class/Sculpture
 #class/Thing/CreativeWork/Sculpture
 
+
+A piece of sculpture.
+

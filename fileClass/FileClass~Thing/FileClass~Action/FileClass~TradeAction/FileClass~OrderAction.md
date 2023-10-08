@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 #class/OrderAction
 #class/Thing/Action/TradeAction/OrderAction
 
+
+An agent orders an object/product/service to be delivered/sent.
+
+
+A sub property of instrument. The method of delivery.
 DeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnSitePickup","ParcelService"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}

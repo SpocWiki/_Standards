@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Gove
 #class/LegislativeBuilding
 #class/Thing/Place/CivicStructure/GovernmentBuilding/LegislativeBuilding
 
+
+A legislative building&#x2014;for example, the state capitol.
+

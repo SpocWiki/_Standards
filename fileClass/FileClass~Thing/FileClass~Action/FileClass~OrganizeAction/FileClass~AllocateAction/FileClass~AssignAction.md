@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~All
 #class/AssignAction
 #class/Thing/Action/OrganizeAction/AllocateAction/AssignAction
 
+
+The act of allocating an action/event/task to some destination (someone or something).
+

@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~Com
 #class/InviteAction
 #class/Thing/Action/InteractAction/CommunicateAction/InviteAction
 
+
+The act of asking someone to attend an event. Reciprocal of RsvpAction.
+
+
+Upcoming or past event associated with this place, organization, or action.
 Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Event')"}}

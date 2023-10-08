@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork
 #class/ShortStory
 #class/Thing/CreativeWork/ShortStory
 
+
+Short story or tale. A brief work of literature, usually written in narrative prose.
+

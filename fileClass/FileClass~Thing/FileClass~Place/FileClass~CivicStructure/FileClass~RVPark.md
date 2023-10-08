@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 #class/RVPark
 #class/Thing/Place/CivicStructure/RVPark
 
+
+A place offering space for "Recreational Vehicles", Caravans, mobile homes and the like.
+

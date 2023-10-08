@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: utensils
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/FastFoodRestaurant, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant, schema-org/FastFoodRestaurant]
 tags: ["class/FastFoodRestaurant", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FoodEstablishment
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 
 #class/FastFoodRestaurant
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant
+
+
+A fast-food restaurant.
 

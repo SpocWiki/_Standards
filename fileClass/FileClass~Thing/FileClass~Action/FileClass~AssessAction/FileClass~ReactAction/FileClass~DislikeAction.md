@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~React
 #class/DislikeAction
 #class/Thing/Action/AssessAction/ReactAction/DislikeAction
 
+
+The act of expressing a negative sentiment about the object. An agent dislikes an object (a proposition, topic or theme) with participants.
+

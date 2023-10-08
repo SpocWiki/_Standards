@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: warehouse
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/SelfStorage, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage, schema-org/SelfStorage]
 tags: ["class/SelfStorage", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 
 #class/SelfStorage
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage
+
+
+A self-storage facility.
 

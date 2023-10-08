@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~FindAction
 #class/CheckAction
 #class/Thing/Action/FindAction/CheckAction
 
+
+An agent inspects, determines, investigates, inquires, or examines an object's accuracy, quality, condition, or state.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~Coll
 #class/VideoGallery
 #class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery
 
+
+Web page type: Video gallery page.
+

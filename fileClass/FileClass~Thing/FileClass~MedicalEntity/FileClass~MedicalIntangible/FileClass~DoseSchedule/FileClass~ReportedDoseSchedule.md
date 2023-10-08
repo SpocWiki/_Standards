@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/Fil
 #class/ReportedDoseSchedule
 #class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule
 
+
+A patient-reported or observed dosing schedule for a drug or supplement.
+

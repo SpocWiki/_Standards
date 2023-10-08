@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/File
 #class/RadiationTherapy
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/RadiationTherapy
 
+
+A process of care using radiation aimed at improving a health condition.
+

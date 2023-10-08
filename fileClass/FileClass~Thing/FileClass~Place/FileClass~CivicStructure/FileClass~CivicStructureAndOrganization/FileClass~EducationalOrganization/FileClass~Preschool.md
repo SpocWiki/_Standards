@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Civi
 #class/Preschool
 #class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/Preschool
 
+
+A preschool.
+

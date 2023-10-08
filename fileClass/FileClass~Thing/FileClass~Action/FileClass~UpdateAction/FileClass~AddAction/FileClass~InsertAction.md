@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAc
 #class/InsertAction
 #class/Thing/Action/UpdateAction/AddAction/InsertAction
 
+
+The act of adding at a specific location in an ordered collection.
+
+
+A sub property of location. The final location of the object or the agent after the action.
 ToLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/RealEstateAgent
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent
 
+
+A real-estate agent.
+

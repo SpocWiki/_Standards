@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
 #class/TheaterGroup
 #class/Thing/Organization/PerformingGroup/TheaterGroup
 
+
+A theater group or company, for example, the Royal Shakespeare Company or Druid Theatre.
+

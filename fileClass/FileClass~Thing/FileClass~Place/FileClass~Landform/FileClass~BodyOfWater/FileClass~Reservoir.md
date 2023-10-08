@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: waves
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/Reservoir, class/Thing/Place/Landform/BodyOfWater/Reservoir, schema-org/Reservoir]
 tags: ["class/Reservoir", "class/Thing/Place/Landform/BodyOfWater/Reservoir"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWate
 
 #class/Reservoir
 #class/Thing/Place/Landform/BodyOfWater/Reservoir
+
+
+A reservoir of water, typically an artificially created lake, like the Lake Kariba reservoir.
 

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/ArtGallery
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ArtGallery
 
+
+An art gallery.
+

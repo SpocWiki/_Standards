@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/ChildrensEvent
 #class/Thing/Event/ChildrensEvent
 
+
+Event type: Children's event.
+

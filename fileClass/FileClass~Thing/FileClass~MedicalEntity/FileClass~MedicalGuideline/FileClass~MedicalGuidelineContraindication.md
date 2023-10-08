@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline
 #class/MedicalGuidelineContraindication
 #class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineContraindication
 
+
+A guideline contraindication that designates a process as harmful and where quality of the data supporting the contraindication is sound.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action
 #class/CreateAction
 #class/Thing/Action/CreateAction
 
+
+The act of deliberately creating/producing/generating/building a result out of the agent.
+

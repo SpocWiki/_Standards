@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~Com
 #class/ShareAction
 #class/Thing/Action/InteractAction/CommunicateAction/ShareAction
 
+
+The act of distributing content to people for their amusement or edification.
+

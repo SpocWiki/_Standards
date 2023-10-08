@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~React
 #class/WantAction
 #class/Thing/Action/AssessAction/ReactAction/WantAction
 
+
+The act of expressing a desire about the object. An agent wants an object.
+

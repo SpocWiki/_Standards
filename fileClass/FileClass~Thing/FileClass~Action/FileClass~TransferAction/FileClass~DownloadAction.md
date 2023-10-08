@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 #class/DownloadAction
 #class/Thing/Action/TransferAction/DownloadAction
 
+
+The act of downloading an object.
+

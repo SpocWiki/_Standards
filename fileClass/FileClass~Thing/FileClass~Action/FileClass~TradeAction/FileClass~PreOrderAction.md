@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 #class/PreOrderAction
 #class/Thing/Action/TradeAction/PreOrderAction
 
+
+An agent orders a (not yet released) object/product/service to be delivered/sent.
+

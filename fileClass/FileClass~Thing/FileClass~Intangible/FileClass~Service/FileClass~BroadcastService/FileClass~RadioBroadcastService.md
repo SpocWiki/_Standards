@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~Broadc
 #class/RadioBroadcastService
 #class/Thing/Intangible/Service/BroadcastService/RadioBroadcastService
 
+
+A delivery service through which radio content is provided via broadcast over the air or online.
+

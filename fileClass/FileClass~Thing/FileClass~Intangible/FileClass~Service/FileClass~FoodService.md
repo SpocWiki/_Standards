@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 #class/FoodService
 #class/Thing/Intangible/Service/FoodService
 
+
+A food service, like breakfast, lunch, or dinner.
+

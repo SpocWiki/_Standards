@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea
 #class/SchoolDistrict
 #class/Thing/Place/AdministrativeArea/SchoolDistrict
 
+
+A School District is an administrative area for the administration of schools.
+

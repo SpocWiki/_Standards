@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/TennisComplex
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/TennisComplex
 
+
+A tennis complex.
+

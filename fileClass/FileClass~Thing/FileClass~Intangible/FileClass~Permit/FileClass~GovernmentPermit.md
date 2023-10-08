@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Permit
 #class/GovernmentPermit
 #class/Thing/Intangible/Permit/GovernmentPermit
 
+
+A permit issued by a government agency.
+

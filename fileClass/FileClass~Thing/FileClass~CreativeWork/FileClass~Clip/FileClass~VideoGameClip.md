@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 #class/VideoGameClip
 #class/Thing/CreativeWork/Clip/VideoGameClip
 
+
+A short segment/part of a video game.
+

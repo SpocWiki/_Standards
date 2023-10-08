@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason
 #class/PodcastSeason
 #class/Thing/CreativeWork/CreativeWorkSeason/PodcastSeason
 
+
+A single season of a podcast. Many podcasts do not break down into separate seasons. In that case, PodcastSeries should be used.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event/FileClass~PublicationEvent
 #class/OnDemandEvent
 #class/Thing/Event/PublicationEvent/OnDemandEvent
 
+
+A publication event, e.g. catch-up TV or radio podcast, during which a program is available on-demand.
+

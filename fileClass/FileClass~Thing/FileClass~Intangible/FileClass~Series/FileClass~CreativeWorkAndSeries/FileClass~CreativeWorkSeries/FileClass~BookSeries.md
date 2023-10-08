@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~Creativ
 #class/BookSeries
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/BookSeries
 
+
+A series of books. Included books can be indicated with the hasPart property.
+

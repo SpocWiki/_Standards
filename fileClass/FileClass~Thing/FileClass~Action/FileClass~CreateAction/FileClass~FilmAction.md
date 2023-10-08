@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 #class/FilmAction
 #class/Thing/Action/CreateAction/FilmAction
 
+
+The act of capturing sound and moving images on film, video, or digitally.
+

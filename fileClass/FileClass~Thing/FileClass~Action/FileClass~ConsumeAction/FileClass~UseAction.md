@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 #class/UseAction
 #class/Thing/Action/ConsumeAction/UseAction
 
+
+The act of applying an object to its intended purpose.
+

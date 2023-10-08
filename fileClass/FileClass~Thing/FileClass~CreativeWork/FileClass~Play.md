@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork
 #class/Play
 #class/Thing/CreativeWork/Play
 
+
+A play is a form of literature, usually consisting of dialogue between characters, intended for theatrical performance rather than just reading. Note: A performance of a Play would be a [[TheaterEvent]] or [[BroadcastEvent]] - the \*Play\* being the [[workPerformed]].
+

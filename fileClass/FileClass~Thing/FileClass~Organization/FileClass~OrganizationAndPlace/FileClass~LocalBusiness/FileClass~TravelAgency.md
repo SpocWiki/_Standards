@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: luggage
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/TravelAgency, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TravelAgency, schema-org/TravelAgency]
 tags: ["class/TravelAgency", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TravelAgency"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 
 #class/TravelAgency
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TravelAgency
+
+
+A travel agency.
 

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 #class/EmployerReview
 #class/Thing/CreativeWork/Review/EmployerReview
 
+
+An [[EmployerReview]] is a review of an [[Organization]] regarding its role as an employer, written by a current or former employee of that organization.
+

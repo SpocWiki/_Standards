@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~Aggrega
 #class/EmployerAggregateRating
 #class/Thing/Intangible/Rating/AggregateRating/EmployerAggregateRating
 
+
+An aggregate rating of an Organization related to its role as an employer.
+

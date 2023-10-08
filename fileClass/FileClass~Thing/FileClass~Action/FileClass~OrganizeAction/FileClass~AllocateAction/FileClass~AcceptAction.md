@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~All
 #class/AcceptAction
 #class/Thing/Action/OrganizeAction/AllocateAction/AcceptAction
 
+
+The act of committing to/adopting an object.\n\nRelated actions:\n\n\* [[RejectAction]]: The antonym of AcceptAction.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action
 #class/InteractAction
 #class/Thing/Action/InteractAction
 
+
+The act of interacting with another person or organization.
+

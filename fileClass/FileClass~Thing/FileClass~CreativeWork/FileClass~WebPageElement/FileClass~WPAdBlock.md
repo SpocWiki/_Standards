@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 #class/WPAdBlock
 #class/Thing/CreativeWork/WebPageElement/WPAdBlock
 
+
+An advertising section of the page.
+

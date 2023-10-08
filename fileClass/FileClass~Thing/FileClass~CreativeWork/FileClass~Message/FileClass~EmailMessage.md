@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Message
 #class/EmailMessage
 #class/Thing/CreativeWork/Message/EmailMessage
 
+
+An email message.
+

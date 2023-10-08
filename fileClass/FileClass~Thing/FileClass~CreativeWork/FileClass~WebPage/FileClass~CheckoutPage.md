@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 #class/CheckoutPage
 #class/Thing/CreativeWork/WebPage/CheckoutPage
 
+
+Web page type: Checkout page.
+

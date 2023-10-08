@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 #class/DrawAction
 #class/Thing/Action/CreateAction/DrawAction
 
+
+The act of producing a visual/graphical representation of an object, typically with a pen/pencil and paper as instruments.
+

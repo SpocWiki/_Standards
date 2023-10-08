@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 #class/WPSideBar
 #class/Thing/CreativeWork/WebPageElement/WPSideBar
 
+
+A sidebar section of the page.
+

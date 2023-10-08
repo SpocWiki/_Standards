@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 #class/ClaimReview
 #class/Thing/CreativeWork/Review/ClaimReview
 
+
+A fact-checking review of claims made (or reported) in some creative work (referenced via itemReviewed).
+
+
+A short summary of the specific claims reviewed in a ClaimReview.
 ClaimReviewed:: {"type":"Input","options":{}}

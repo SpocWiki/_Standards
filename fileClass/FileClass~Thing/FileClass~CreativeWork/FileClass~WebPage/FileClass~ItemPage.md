@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 #class/ItemPage
 #class/Thing/CreativeWork/WebPage/ItemPage
 
+
+A page devoted to a single item, such as a particular product or hotel.
+

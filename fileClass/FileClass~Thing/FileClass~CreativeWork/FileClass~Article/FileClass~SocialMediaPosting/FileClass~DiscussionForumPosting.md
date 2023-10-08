@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~Soci
 #class/DiscussionForumPosting
 #class/Thing/CreativeWork/Article/SocialMediaPosting/DiscussionForumPosting
 
+
+A posting to a discussion forum.
+

@@ -6,19 +6,20 @@ excludes:
 extends: 
 version: 5
 tagNames: [class/Thing, schema-org/Thing]
+tags: ["class/Thing"]
 ---
 
 fileClass:: {"type":"Multi","options":{"valuesList":{},"sourceType":"ValuesFromDVQuery","valuesListNotePath":"","valuesFromDVQuery":"dv.pages('\"_Standards/fileClass\"').map(f =>f.file.name)"},"style":{"code":false}}
 
-NameText:: {"type":"Input","options":{}}
-DescriptionText:: {"type":"Input","options":{}}
-AdditionalTypeText:: {"type":"Input","options":{}}
-AlternateNameText:: {"type":"Input","options":{}}
-DisambiguatingDescriptionText:: {"type":"Input","options":{}}
-IdentifierText:: {"type":"Input","options":{}}
-ImageText:: {"type":"Input","options":{}}
-MainEntityOfPageText:: {"type":"Input","options":{}}
-PotentialActionText:: {"type":"Input","options":{}}
-SameAsText:: {"type":"Input","options":{}}
-SubjectOfText:: {"type":"Input","options":{}}
-UrlText:: {"type":"Input","options":{}}
+Name:: {"type":"Input","options":{}}
+Description:: {"type":"Input","options":{}}
+AdditionalType:: {"type":"Input","options":{}}
+AlternateName:: {"type":"Input","options":{}}
+DisambiguatingDescription:: {"type":"Input","options":{}}
+Identifier:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
+Image:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
+MainEntityOfPage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
+PotentialAction:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Action')"}}
+SameAs:: {"type":"Input","options":{}}
+SubjectOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
+Url:: {"type":"Input","options":{}}

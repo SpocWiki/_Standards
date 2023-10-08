@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowTo
 #class/HowToTool
 #class/Thing/Intangible/ListItem/HowToItem/HowToTool
 
+
+A tool used (but not consumed) when performing instructions for how to achieve a result.
+

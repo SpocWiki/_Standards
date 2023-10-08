@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 #class/Bone
 #class/Thing/MedicalEntity/AnatomicalStructure/Bone
 
+
+Rigid connective tissue that comprises up the skeletal structure of the human body.
+

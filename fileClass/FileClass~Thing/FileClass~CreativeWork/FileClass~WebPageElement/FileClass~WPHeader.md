@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 #class/WPHeader
 #class/Thing/CreativeWork/WebPageElement/WPHeader
 
+
+The header section of the page.
+

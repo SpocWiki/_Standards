@@ -1,14 +1,17 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: tablets
-version: 6
-tagNames: [class/Pharmacy, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Pharmacy, schema-org/Pharmacy]
-tags: ["class/Pharmacy", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Pharmacy"]
+excludes:
+icon: link-2
+version: 5
+tagNames: [class/Pharmacy, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy, schema-org/Pharmacy]
+tags: ["class/Pharmacy", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization
 ---
 
 #class/Pharmacy
-#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Pharmacy
+#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Pharmacy
+
+
+A pharmacy or drugstore.
 

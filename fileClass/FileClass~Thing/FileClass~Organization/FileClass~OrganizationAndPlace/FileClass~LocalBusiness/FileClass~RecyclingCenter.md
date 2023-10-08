@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/RecyclingCenter
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RecyclingCenter
 
+
+A recycling center.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Residence
 #class/GatedResidenceCommunity
 #class/Thing/Place/Residence/GatedResidenceCommunity
 
+
+Residence type: Gated community.
+

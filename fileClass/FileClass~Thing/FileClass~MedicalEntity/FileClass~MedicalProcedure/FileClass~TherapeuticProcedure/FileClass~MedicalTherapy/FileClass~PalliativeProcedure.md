@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/File
 #class/PalliativeProcedure
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure
 
+
+A medical procedure intended primarily for palliative purposes, aimed at relieving the symptoms of an underlying health condition.
+

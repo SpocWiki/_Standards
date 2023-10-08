@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAc
 #class/PrependAction
 #class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction
 
+
+The act of inserting at the beginning if an ordered collection.
+

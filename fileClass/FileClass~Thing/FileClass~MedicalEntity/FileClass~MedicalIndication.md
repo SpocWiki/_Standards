@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity
 #class/MedicalIndication
 #class/Thing/MedicalEntity/MedicalIndication
 
+
+A condition or factor that indicates use of a medical therapy, including signs, symptoms, risk factors, anatomical states, etc.
+

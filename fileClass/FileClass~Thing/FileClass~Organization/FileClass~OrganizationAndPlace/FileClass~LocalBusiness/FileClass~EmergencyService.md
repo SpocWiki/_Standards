@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: siren
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/EmergencyService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService, schema-org/EmergencyService]
 tags: ["class/EmergencyService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 
 #class/EmergencyService
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService
+
+
+An emergency service, such as a fire station or ER.
 

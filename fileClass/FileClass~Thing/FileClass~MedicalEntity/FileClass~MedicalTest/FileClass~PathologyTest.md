@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 #class/PathologyTest
 #class/Thing/MedicalEntity/MedicalTest/PathologyTest
 
+
+A medical test performed by a laboratory that typically involves examination of a tissue sample by a pathologist.
+
+
+The type of tissue sample required for the test.
 TissueSample:: {"type":"Input","options":{}}

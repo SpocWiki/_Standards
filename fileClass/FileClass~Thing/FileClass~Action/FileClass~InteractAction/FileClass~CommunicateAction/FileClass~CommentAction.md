@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~Com
 #class/CommentAction
 #class/Thing/Action/InteractAction/CommunicateAction/CommentAction
 
+
+The act of generating a comment about a subject.
+
+
+A sub property of result. The Comment created or sent as a result of this action.
 ResultComment:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment')"}}

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Peopl
 #class/MedicalAudience
 #class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience
 
+
+Target audiences for medical web pages.
+

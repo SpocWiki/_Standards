@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness
 #class/OnlineStore
 #class/Thing/Organization/OnlineBusiness/OnlineStore
 
+
+An eCommerce site.
+

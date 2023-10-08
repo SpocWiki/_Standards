@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/Festival
 #class/Thing/Event/Festival
 
+
+Event type: Festival.
+

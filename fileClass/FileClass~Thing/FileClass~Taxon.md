@@ -12,7 +12,18 @@ extends: FileClass~Thing
 #class/Taxon
 #class/Thing/Taxon
 
+
+A set of organisms asserted to represent a natural cohesive biological unit.
+
+
+Closest child taxa of the taxon in question.
 ChildTaxon:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Taxon')"}}
+
+A Defined Term contained in this term set.
 HasDefinedTerm:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
+
+Closest parent taxon of the taxon in question.
 ParentTaxon:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Taxon')"}}
+
+The taxonomic rank of this taxon given preferably as a URI from a controlled vocabulary – typically the ranks from TDWG TaxonRank ontology or equivalent Wikidata URIs.
 TaxonRank:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}

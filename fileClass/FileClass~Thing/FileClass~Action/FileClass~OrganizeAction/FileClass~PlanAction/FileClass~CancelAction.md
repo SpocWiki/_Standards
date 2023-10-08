@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~Pla
 #class/CancelAction
 #class/Thing/Action/OrganizeAction/PlanAction/CancelAction
 
+
+The act of asserting that a future event/action is no longer going to happen.\n\nRelated actions:\n\n\* [[ConfirmAction]]: The antonym of CancelAction.
+

@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: waves
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/Canal, class/Thing/Place/Landform/BodyOfWater/Canal, schema-org/Canal]
 tags: ["class/Canal", "class/Thing/Place/Landform/BodyOfWater/Canal"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWate
 
 #class/Canal
 #class/Thing/Place/Landform/BodyOfWater/Canal
+
+
+A canal, like the Panama Canal.
 

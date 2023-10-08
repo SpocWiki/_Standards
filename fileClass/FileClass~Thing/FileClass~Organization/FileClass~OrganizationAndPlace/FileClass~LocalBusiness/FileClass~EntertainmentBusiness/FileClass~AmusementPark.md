@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/AmusementPark
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark
 
+
+An amusement park.
+

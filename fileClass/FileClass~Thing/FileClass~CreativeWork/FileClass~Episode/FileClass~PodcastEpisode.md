@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Episode
 #class/PodcastEpisode
 #class/Thing/CreativeWork/Episode/PodcastEpisode
 
+
+A single episode of a podcast series.
+

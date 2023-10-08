@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/LocalBusinessAndOrganizationAndPlace
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LocalBusinessAndOrganizationAndPlace
 
+
+See LocalBusiness, Organization, Place for more information.
+

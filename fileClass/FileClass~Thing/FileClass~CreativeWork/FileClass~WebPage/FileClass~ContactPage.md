@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 #class/ContactPage
 #class/Thing/CreativeWork/WebPage/ContactPage
 
+
+Web page type: Contact page.
+

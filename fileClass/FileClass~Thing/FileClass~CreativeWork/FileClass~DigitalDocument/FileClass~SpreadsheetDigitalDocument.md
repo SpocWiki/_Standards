@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 #class/SpreadsheetDigitalDocument
 #class/Thing/CreativeWork/DigitalDocument/SpreadsheetDigitalDocument
 
+
+A spreadsheet file.
+

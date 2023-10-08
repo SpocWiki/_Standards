@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/ConvenienceStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ConvenienceStore
 
+
+A convenience store.
+

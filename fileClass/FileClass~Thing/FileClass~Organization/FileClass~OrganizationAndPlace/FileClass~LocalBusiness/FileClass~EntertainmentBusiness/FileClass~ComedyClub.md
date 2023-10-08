@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/ComedyClub
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ComedyClub
 
+
+A comedy club.
+

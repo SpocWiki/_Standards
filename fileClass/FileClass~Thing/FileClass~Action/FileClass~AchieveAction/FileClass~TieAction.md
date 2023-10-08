@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 #class/TieAction
 #class/Thing/Action/AchieveAction/TieAction
 
+
+The act of reaching a draw in a competitive activity.
+

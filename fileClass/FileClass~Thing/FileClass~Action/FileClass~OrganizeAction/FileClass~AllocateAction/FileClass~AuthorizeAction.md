@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~All
 #class/AuthorizeAction
 #class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction
 
+
+The act of granting permission to an object.
+
+
+A sub property of participant. The participant who is at the receiving end of the action.
 Recipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}

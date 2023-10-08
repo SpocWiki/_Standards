@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization
 #class/Consortium
 #class/Thing/Organization/Consortium
 
+
+A Consortium is a membership [[Organization]] whose members are typically Organizations.
+

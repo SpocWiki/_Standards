@@ -12,6 +12,15 @@ extends: FileClass~Thing/FileClass~Event
 #class/EducationEvent
 #class/Thing/Event/EducationEvent
 
+
+Event type: Education event.
+
+
+The item being described is intended to assess the competency or learning outcome defined by the referenced term.
 Assesses:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
+
+The level in terms of progression through an educational or training context. Examples of educational levels include 'beginner', 'intermediate' or 'advanced', and formal sets of level indicators.
 EducationalLevel:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}
+
+The item being described is intended to help a person learn the competency or learning outcome defined by the referenced term.
 Teaches:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm')"}}

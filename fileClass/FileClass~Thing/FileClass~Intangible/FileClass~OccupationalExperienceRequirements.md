@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Intangible
 #class/OccupationalExperienceRequirements
 #class/Thing/Intangible/OccupationalExperienceRequirements
 
+
+Indicates employment-related experience requirements, e.g. [[monthsOfExperience]].
+
+
+Indicates the minimal number of months of experience required for a position.
 MonthsOfExperience:: {"type":"Number","options":{}}

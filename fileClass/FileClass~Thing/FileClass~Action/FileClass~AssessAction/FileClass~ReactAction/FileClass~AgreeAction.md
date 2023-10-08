@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~React
 #class/AgreeAction
 #class/Thing/Action/AssessAction/ReactAction/AgreeAction
 
+
+The act of expressing a consistency of opinion with the object. An agent agrees to/about an object (a proposition, topic or theme) with participants.
+

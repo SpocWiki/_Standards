@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House
 #class/SingleFamilyResidence
 #class/Thing/Place/Accommodation/House/SingleFamilyResidence
 
+
+Residence type: Single-family home.
+

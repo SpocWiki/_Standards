@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 #class/MarryAction
 #class/Thing/Action/InteractAction/MarryAction
 
+
+The act of marrying a person.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 #class/RadioClip
 #class/Thing/CreativeWork/Clip/RadioClip
 
+
+A short radio program or a segment/part of a radio program.
+

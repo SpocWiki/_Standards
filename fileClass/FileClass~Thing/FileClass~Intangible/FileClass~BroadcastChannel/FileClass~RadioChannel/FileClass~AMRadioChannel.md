@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileCla
 #class/AMRadioChannel
 #class/Thing/Intangible/BroadcastChannel/RadioChannel/AMRadioChannel
 
+
+A radio channel that uses AM.
+

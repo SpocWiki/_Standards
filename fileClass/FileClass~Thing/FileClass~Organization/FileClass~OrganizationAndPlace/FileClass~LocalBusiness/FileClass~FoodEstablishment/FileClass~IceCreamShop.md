@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: ice-cream
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/IceCreamShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop, schema-org/IceCreamShop]
 tags: ["class/IceCreamShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FoodEstablishment
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 
 #class/IceCreamShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop
+
+
+An ice cream shop.
 

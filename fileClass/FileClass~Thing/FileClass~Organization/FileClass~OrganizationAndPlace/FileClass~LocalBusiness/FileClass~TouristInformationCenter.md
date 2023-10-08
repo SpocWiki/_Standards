@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/TouristInformationCenter
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TouristInformationCenter
 
+
+A tourist information center.
+

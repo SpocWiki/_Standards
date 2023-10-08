@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization
 #class/NGO
 #class/Thing/Organization/NGO
 
+
+Organization: Non-governmental Organization.
+

@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~PlayAction
 #class/PerformAction
 #class/Thing/Action/PlayAction/PerformAction
 
+
+The act of participating in performance arts.
+
+
+A sub property of location. The entertainment business where the action occurred.
 EntertainmentBusiness:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness')"}}

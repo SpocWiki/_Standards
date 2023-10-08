@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~MoveAction
 #class/DepartAction
 #class/Thing/Action/MoveAction/DepartAction
 
+
+The act of  departing from a place. An agent departs from a fromLocation for a destination, optionally with participants.
+

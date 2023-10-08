@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 #class/ScholarlyArticle
 #class/Thing/CreativeWork/Article/ScholarlyArticle
 
+
+A scholarly article.
+

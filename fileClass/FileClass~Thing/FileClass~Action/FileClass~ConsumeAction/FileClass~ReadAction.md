@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 #class/ReadAction
 #class/Thing/Action/ConsumeAction/ReadAction
 
+
+The act of consuming written content.
+

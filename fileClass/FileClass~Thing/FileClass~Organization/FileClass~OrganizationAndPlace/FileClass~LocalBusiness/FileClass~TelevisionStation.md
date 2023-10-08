@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: radio-tower
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/TelevisionStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation, schema-org/TelevisionStation]
 tags: ["class/TelevisionStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 
 #class/TelevisionStation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation
+
+
+A television station.
 

@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline
 #class/MedicalGuidelineRecommendation
 #class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation
 
+
+A guideline recommendation that is regarded as efficacious and where quality of the data supporting the recommendation is sound.
+
+
+Strength of the guideline's recommendation (e.g. 'class I').
 RecommendationStrength:: {"type":"Input","options":{}}

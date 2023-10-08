@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 #class/SearchResultsPage
 #class/Thing/CreativeWork/WebPage/SearchResultsPage
 
+
+Web page type: Search results page.
+

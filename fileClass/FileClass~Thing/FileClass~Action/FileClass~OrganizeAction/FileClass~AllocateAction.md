@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
 #class/AllocateAction
 #class/Thing/Action/OrganizeAction/AllocateAction
 
+
+The act of organizing tasks/objects/events by associating resources to it.
+

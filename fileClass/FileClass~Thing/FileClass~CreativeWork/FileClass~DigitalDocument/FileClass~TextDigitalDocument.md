@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 #class/TextDigitalDocument
 #class/Thing/CreativeWork/DigitalDocument/TextDigitalDocument
 
+
+A file composed primarily of text.
+

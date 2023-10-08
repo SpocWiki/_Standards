@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 #class/Zoo
 #class/Thing/Place/CivicStructure/Zoo
 
+
+A zoo.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 #class/BloodTest
 #class/Thing/MedicalEntity/MedicalTest/BloodTest
 
+
+A medical test performed on a sample of a patient's blood.
+

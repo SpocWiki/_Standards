@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/ComedyEvent
 #class/Thing/Event/ComedyEvent
 
+
+Event type: Comedy event.
+

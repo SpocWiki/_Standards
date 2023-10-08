@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/File
 #class/PhysicalTherapy
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PhysicalTherapy
 
+
+A process of progressive physical care and rehabilitation aimed at improving a health condition.
+

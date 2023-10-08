@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Product
 #class/SomeProducts
 #class/Thing/Product/SomeProducts
 
+
+A placeholder for multiple similar products of the same kind.
+
+
+The current approximate inventory level for the item or items.
 InventoryLevel:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}

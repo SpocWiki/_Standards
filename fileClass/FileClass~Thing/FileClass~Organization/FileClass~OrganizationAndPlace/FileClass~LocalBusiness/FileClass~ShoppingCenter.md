@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/ShoppingCenter
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ShoppingCenter
 
+
+A shopping center or mall.
+

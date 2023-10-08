@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/GovernmentOffice
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice
 
+
+A government office&#x2014;for example, an IRS or DMV office.
+

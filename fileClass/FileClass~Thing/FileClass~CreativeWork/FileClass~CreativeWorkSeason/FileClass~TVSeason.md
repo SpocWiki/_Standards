@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason
 #class/TVSeason
 #class/Thing/CreativeWork/CreativeWorkSeason/TVSeason
 
+
+Season dedicated to TV broadcast and associated online delivery.
+

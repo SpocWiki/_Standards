@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Episode
 #class/RadioEpisode
 #class/Thing/CreativeWork/Episode/RadioEpisode
 
+
+A radio episode which can be part of a series or season.
+

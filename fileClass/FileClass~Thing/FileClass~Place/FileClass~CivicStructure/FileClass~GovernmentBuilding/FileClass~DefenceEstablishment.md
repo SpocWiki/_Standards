@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Gove
 #class/DefenceEstablishment
 #class/Thing/Place/CivicStructure/GovernmentBuilding/DefenceEstablishment
 
+
+A defence establishment, such as an army or navy base.
+

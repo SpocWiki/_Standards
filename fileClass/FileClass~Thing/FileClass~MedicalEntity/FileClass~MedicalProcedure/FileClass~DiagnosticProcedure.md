@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure
 #class/DiagnosticProcedure
 #class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure
 
+
+A medical procedure intended primarily for diagnostic, as opposed to therapeutic, purposes.
+

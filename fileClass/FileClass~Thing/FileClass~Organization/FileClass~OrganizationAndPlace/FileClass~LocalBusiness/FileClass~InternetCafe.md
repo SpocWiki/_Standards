@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/InternetCafe
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/InternetCafe
 
+
+An internet cafe.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 #class/EatAction
 #class/Thing/Action/ConsumeAction/EatAction
 
+
+The act of swallowing solid objects.
+

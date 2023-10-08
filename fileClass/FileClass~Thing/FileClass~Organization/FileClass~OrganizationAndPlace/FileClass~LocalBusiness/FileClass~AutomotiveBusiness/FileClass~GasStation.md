@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: fuel
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/GasStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation, schema-org/GasStation]
 tags: ["class/GasStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~AutomotiveBusiness
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 
 #class/GasStation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation
+
+
+A gas station.
 

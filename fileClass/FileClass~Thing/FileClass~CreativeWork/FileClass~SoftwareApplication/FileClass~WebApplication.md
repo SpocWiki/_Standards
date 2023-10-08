@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 #class/WebApplication
 #class/Thing/CreativeWork/SoftwareApplication/WebApplication
 
+
+Web applications.
+
+
+Specifies browser requirements in human-readable text. For example, 'requires HTML5 support'.
 BrowserRequirements:: {"type":"Input","options":{}}

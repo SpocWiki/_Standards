@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~News
 #class/AnalysisNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle
 
+
+An AnalysisNewsArticle is a [[NewsArticle]] that, while based on factual reporting, incorporates the expertise of the author/producer, offering interpretations and conclusions.
+

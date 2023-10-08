@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action
 #class/AssessAction
 #class/Thing/Action/AssessAction
 
+
+The act of forming one's opinion, reaction or sentiment.
+

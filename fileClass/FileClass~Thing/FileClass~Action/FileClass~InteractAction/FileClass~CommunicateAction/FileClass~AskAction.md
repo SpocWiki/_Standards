@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~Com
 #class/AskAction
 #class/Thing/Action/InteractAction/CommunicateAction/AskAction
 
+
+The act of posing a question / favor to someone.\n\nRelated actions:\n\n\* [[ReplyAction]]: Appears generally as a response to AskAction.
+
+
+A sub property of object. A question.
 Question:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Comment/Question')"}}

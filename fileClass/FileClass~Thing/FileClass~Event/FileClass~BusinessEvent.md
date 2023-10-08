@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/BusinessEvent
 #class/Thing/Event/BusinessEvent
 
+
+Event type: Business event.
+

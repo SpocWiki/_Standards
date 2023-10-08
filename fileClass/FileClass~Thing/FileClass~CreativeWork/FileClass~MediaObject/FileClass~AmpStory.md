@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 #class/AmpStory
 #class/Thing/CreativeWork/MediaObject/AmpStory
 
+
+A creative work with a visual storytelling format intended to be viewed online, particularly on mobile devices.
+

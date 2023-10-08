@@ -12,5 +12,12 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~Peopl
 #class/Patient
 #class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient
 
+
+A patient is any person recipient of health care services.
+
+
+One or more alternative conditions considered in the differential diagnosis process as output of a diagnosis process.
 Diagnosis:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalCondition')"}}
+
+Specifying a drug or medicine used in a medication procedure.
 Drug:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"}}

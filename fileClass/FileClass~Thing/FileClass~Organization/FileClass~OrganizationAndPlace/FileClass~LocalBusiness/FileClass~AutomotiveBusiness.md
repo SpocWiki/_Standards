@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/AutomotiveBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness
 
+
+Car repair, sales, or parts.
+

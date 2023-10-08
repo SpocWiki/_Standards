@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~Financ
 #class/PaymentService
 #class/Thing/Intangible/Service/FinancialProduct/PaymentService
 
+
+A Service to transfer funds from a person or organization to a beneficiary person or organization.
+

@@ -12,5 +12,12 @@ extends: FileClass~Thing/FileClass~Intangible
 #class/Audience
 #class/Thing/Intangible/Audience
 
+
+Intended audience for an item, i.e. the group for whom the item was created.
+
+
+The target group associated with a given audience (e.g. veterans, car owners, musicians, etc.).
 AudienceType:: {"type":"Input","options":{}}
+
+The geographic area associated with the audience.
 GeographicArea:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}

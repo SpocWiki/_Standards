@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 #class/PaintAction
 #class/Thing/Action/CreateAction/PaintAction
 
+
+The act of producing a painting, typically with paint and canvas as instruments.
+

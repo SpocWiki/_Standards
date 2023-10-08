@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place
 #class/AdministrativeArea
 #class/Thing/Place/AdministrativeArea
 
+
+A geographical region, typically under the jurisdiction of a particular government.
+

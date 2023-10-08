@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAc
 #class/AppendAction
 #class/Thing/Action/UpdateAction/AddAction/InsertAction/AppendAction
 
+
+The act of inserting at the end if an ordered collection.
+

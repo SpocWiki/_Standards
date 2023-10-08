@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~FindAction
 #class/DiscoverAction
 #class/Thing/Action/FindAction/DiscoverAction
 
+
+The act of discovering/finding an object.
+

@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~Financ
 #class/InvestmentOrDeposit
 #class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit
 
+
+A type of financial product that typically requires the client to transfer funds to a financial service in return for potential beneficial financial return.
+
+
+The amount of money.
 Amount:: {"type":"Number","options":{}}

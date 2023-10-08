@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 #class/ParkingFacility
 #class/Thing/Place/CivicStructure/ParkingFacility
 
+
+A parking lot or other parking facility.
+

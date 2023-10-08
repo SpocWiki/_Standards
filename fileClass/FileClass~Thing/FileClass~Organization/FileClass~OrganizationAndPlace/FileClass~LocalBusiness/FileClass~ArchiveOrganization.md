@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/ArchiveOrganization
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization
 
+
+An organization with archival holdings. An organization which keeps and preserves archival material and typically makes it accessible to the public.
+
+
+Collection, [fonds](https://en.wikipedia.org/wiki/Fonds), or item held, kept or maintained by an [[ArchiveOrganization]].
 ArchiveHeld:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/ArchiveComponent')"}}

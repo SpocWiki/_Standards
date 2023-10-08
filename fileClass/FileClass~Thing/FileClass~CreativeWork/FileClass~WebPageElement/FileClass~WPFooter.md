@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 #class/WPFooter
 #class/Thing/CreativeWork/WebPageElement/WPFooter
 
+
+The footer section of the page.
+

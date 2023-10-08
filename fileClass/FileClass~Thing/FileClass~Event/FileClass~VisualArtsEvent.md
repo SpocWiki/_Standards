@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Event
 #class/VisualArtsEvent
 #class/Thing/Event/VisualArtsEvent
 
+
+Event type: Visual arts event.
+

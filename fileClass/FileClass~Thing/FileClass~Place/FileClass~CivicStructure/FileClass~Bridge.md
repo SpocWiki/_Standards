@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 #class/Bridge
 #class/Thing/Place/CivicStructure/Bridge
 
+
+A bridge.
+

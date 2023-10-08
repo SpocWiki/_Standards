@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 #class/MusicVideoObject
 #class/Thing/CreativeWork/MediaObject/MusicVideoObject
 
+
+A music video file.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 #class/Museum
 #class/Thing/Place/CivicStructure/Museum
 
+
+A museum.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Comment
 #class/CorrectionComment
 #class/Thing/CreativeWork/Comment/CorrectionComment
 
+
+A [[comment]] that corrects [[CreativeWork]].
+

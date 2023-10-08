@@ -12,3 +12,7 @@ extends: FileClass~Thing/FileClass~Organization
 #class/Project
 #class/Thing/Organization/Project
 
+
+An enterprise (potentially individual but typically collaborative), planned to achieve a particular aim.  
+ Use properties from [[Organization]], [[subOrganization]]/[[parentOrganization]] to indicate project sub-structures.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~Com
 #class/ConfirmAction
 #class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction
 
+
+The act of notifying someone that a future event/action is going to happen as expected.\n\nRelated actions:\n\n\* [[CancelAction]]: The antonym of ConfirmAction.
+

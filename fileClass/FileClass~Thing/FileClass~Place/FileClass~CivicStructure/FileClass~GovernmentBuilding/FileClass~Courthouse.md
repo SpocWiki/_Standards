@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Gove
 #class/Courthouse
 #class/Thing/Place/CivicStructure/GovernmentBuilding/Courthouse
 
+
+A courthouse.
+

@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/PawnShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PawnShop
 
+
+A shop that will buy, or lend money against the security of, personal possessions.
+

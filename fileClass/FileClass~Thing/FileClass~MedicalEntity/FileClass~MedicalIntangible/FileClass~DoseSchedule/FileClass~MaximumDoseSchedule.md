@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/Fil
 #class/MaximumDoseSchedule
 #class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule
 
+
+The maximum dosing schedule considered safe for a drug or supplement as recommended by an authority or by the drug/supplement's manufacturer. Capture the recommending authority in the recognizingAuthority property of MedicalEntity.
+

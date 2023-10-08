@@ -12,5 +12,12 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 #class/TechArticle
 #class/Thing/CreativeWork/Article/TechArticle
 
+
+A technical article - Example: How-to (task) topics, step-by-step, procedural troubleshooting, specifications, etc.
+
+
+Prerequisites needed to fulfill steps in article.
 Dependencies:: {"type":"Input","options":{}}
+
+Proficiency needed for this content; expected values: 'Beginner', 'Expert'.
 ProficiencyLevel:: {"type":"Input","options":{}}

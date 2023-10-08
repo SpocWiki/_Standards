@@ -12,5 +12,12 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/F
 #class/Artery
 #class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Artery
 
+
+A type of blood vessel that specifically carries blood away from the heart.
+
+
+The branches that comprise the arterial structure.
 ArterialBranch:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}}
+
+The area to which the artery supplies blood.
 SupplyTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')"}}

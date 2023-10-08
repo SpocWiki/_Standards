@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 #class/PresentationDigitalDocument
 #class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument
 
+
+A file containing slides or used for a presentation.
+

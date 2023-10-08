@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/InsuranceAgency
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/InsuranceAgency
 
+
+An Insurance agency.
+

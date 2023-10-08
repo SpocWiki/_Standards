@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: utensils
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/FoodEvent, class/Thing/Event/FoodEvent, schema-org/FoodEvent]
 tags: ["class/FoodEvent", "class/Thing/Event/FoodEvent"]
 extends: FileClass~Thing/FileClass~Event
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Event
 
 #class/FoodEvent
 #class/Thing/Event/FoodEvent
+
+
+Event type: Food event.
 

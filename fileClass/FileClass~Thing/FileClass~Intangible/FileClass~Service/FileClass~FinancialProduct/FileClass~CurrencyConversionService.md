@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~Financ
 #class/CurrencyConversionService
 #class/Thing/Intangible/Service/FinancialProduct/CurrencyConversionService
 
+
+A service to convert funds from one currency to another currency.
+

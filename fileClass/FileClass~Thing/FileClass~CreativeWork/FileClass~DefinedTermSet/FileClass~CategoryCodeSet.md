@@ -12,4 +12,9 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet
 #class/CategoryCodeSet
 #class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet
 
+
+A set of Category Code values.
+
+
+A Category code contained in this code set.
 HasCategoryCode:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')"}}

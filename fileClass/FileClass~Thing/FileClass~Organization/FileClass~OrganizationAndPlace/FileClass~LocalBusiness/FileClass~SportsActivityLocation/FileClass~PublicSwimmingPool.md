@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/PublicSwimmingPool
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/PublicSwimmingPool
 
+
+A public swimming pool.
+

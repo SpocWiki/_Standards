@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/SportsClub
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/SportsClub
 
+
+A sports club.
+

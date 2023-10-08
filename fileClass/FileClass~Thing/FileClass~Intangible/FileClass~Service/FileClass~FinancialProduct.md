@@ -12,6 +12,15 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 #class/FinancialProduct
 #class/Thing/Intangible/Service/FinancialProduct
 
+
+A product provided to consumers and businesses by financial institutions such as banks, insurance companies, brokerage firms, consumer finance companies, and investment companies which comprise the financial services industry.
+
+
+The annual rate that is charged for borrowing (or made by investing), expressed as a single percentage number that represents the actual yearly cost of funds over the term of a loan. This includes any fees or additional costs associated with the transaction.
 AnnualPercentageRate:: {"type":"Number","options":{}}
+
+Description of fees, commissions, and other terms applied either to a class of financial product, or by a financial service organization.
 FeesAndCommissionsSpecification:: {"type":"Input","options":{}}
+
+The interest rate, charged or paid, applicable to the financial product. Note: This is different from the calculated annualPercentageRate.
 InterestRate:: {"type":"Number","options":{}}

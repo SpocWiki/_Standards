@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~News
 #class/AskPublicNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/AskPublicNewsArticle
 
+
+A [[NewsArticle]] expressing an open call by a [[NewsMediaOrganization]] asking the public for input, insights, clarifications, anecdotes, documentation, etc., on an issue, for reporting purposes.
+

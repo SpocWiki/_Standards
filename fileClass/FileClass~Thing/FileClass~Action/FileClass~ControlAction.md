@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action
 #class/ControlAction
 #class/Thing/Action/ControlAction
 
+
+An agent controls a device or application.
+

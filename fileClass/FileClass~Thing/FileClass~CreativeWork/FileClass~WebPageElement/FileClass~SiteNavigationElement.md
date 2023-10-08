@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 #class/SiteNavigationElement
 #class/Thing/CreativeWork/WebPageElement/SiteNavigationElement
 
+
+A navigation element of the page.
+

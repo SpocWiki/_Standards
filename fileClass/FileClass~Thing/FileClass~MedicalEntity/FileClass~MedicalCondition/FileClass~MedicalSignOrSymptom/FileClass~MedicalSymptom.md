@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/File
 #class/MedicalSymptom
 #class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSymptom
 
+
+Any complaint sensed and expressed by the patient (therefore defined as subjective)  like stomachache, lower-back pain, or fatigue.
+

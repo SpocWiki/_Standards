@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes: 
-icon: coffee
-version: 6
+excludes:
+icon: link-2
+version: 5
 tagNames: [class/CafeOrCoffeeShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop, schema-org/CafeOrCoffeeShop]
 tags: ["class/CafeOrCoffeeShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FoodEstablishment
@@ -11,4 +11,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 
 #class/CafeOrCoffeeShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop
+
+
+A cafe or coffee shop.
 

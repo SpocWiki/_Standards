@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseA
 #class/WearAction
 #class/Thing/Action/ConsumeAction/UseAction/WearAction
 
+
+The act of dressing oneself in clothing.
+

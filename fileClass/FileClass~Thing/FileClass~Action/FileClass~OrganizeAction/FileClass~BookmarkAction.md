@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
 #class/BookmarkAction
 #class/Thing/Action/OrganizeAction/BookmarkAction
 
+
+An agent bookmarks/flags/labels/tags/marks an object.
+

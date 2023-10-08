@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 #class/AdultEntertainment
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment
 
+
+An adult entertainment establishment.
+

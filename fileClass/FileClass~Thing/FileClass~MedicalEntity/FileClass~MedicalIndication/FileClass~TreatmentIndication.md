@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication
 #class/TreatmentIndication
 #class/Thing/MedicalEntity/MedicalIndication/TreatmentIndication
 
+
+An indication for treating an underlying condition, symptom, etc.
+

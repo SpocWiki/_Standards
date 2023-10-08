@@ -12,5 +12,12 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClas
 #class/PaymentChargeSpecification
 #class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification
 
+
+The costs of settling the payment using a particular payment method.
+
+
+The delivery method(s) to which the delivery charge or payment charge specification applies.
 AppliesToDeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","OnSitePickup","ParcelService"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+
+The payment method(s) to which the payment charge specification applies.
 AppliesToPaymentMethod:: {"type":"Input","options":{}}

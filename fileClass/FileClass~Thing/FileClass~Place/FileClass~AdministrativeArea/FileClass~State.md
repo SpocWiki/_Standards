@@ -12,3 +12,6 @@ extends: FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea
 #class/State
 #class/Thing/Place/AdministrativeArea/State
 
+
+A state or province of a country.
+
