@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: waves
 version: 5
 tagNames: [class/OceanBodyOfWater, class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater, schema-org/OceanBodyOfWater]
 tags: ["class/OceanBodyOfWater", "#is_/an_/OceanBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater"]

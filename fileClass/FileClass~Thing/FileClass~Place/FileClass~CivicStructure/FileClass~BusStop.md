@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: bus
 version: 5
 tagNames: [class/BusStop, class/Thing/Place/CivicStructure/BusStop, schema-org/BusStop]
 tags: ["class/BusStop", "#is_/a_/BusStop", "class/Thing/Place/CivicStructure/BusStop"]

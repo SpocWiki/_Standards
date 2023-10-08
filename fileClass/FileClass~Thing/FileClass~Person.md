@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: person-standing
 version: 5
 tagNames: [class/Person, class/Thing/Person, schema-org/Person]
 tags: ["class/Person", "#is_/a_/Person", "class/Thing/Person"]

@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: anchor
 version: 5
 tagNames: [class/BoatTerminal, class/Thing/Place/CivicStructure/BoatTerminal, schema-org/BoatTerminal]
 tags: ["class/BoatTerminal", "#is_/a_/BoatTerminal", "class/Thing/Place/CivicStructure/BoatTerminal"]

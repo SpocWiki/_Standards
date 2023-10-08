@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: waves
 version: 5
 tagNames: [class/Reservoir, class/Thing/Place/Landform/BodyOfWater/Reservoir, schema-org/Reservoir]
 tags: ["class/Reservoir", "#is_/a_/Reservoir", "class/Thing/Place/Landform/BodyOfWater/Reservoir"]

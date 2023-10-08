@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: skull
 version: 5
 tagNames: [class/Crematorium, class/Thing/Place/CivicStructure/Crematorium, schema-org/Crematorium]
 tags: ["class/Crematorium", "#is_/a_/Crematorium", "class/Thing/Place/CivicStructure/Crematorium"]

@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: train
 version: 5
 tagNames: [class/TrainStation, class/Thing/Place/CivicStructure/TrainStation, schema-org/TrainStation]
 tags: ["class/TrainStation", "#is_/a_/TrainStation", "class/Thing/Place/CivicStructure/TrainStation"]

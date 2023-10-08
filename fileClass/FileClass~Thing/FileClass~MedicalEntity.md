@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: plus-circle
 version: 5
 tagNames: [class/MedicalEntity, class/Thing/MedicalEntity, schema-org/MedicalEntity]
 tags: ["class/MedicalEntity", "#is_/a_/MedicalEntity", "class/Thing/MedicalEntity"]

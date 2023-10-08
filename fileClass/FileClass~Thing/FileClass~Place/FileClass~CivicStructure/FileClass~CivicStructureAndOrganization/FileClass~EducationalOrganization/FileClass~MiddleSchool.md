@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: school
 version: 5
 tagNames: [class/MiddleSchool, class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/MiddleSchool, schema-org/MiddleSchool]
 tags: ["class/MiddleSchool", "#is_/a_/MiddleSchool", "class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/MiddleSchool"]

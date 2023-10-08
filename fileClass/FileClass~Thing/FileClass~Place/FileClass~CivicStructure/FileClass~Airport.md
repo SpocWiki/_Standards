@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: plane-landing
 version: 5
 tagNames: [class/Airport, class/Thing/Place/CivicStructure/Airport, schema-org/Airport]
 tags: ["class/Airport", "#is_/an_/Airport", "class/Thing/Place/CivicStructure/Airport"]

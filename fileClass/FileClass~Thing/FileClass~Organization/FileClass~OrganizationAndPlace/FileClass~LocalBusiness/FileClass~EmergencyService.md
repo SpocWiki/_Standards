@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: siren
 version: 5
 tagNames: [class/EmergencyService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService, schema-org/EmergencyService]
 tags: ["class/EmergencyService", "#is_/an_/EmergencyService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService"]

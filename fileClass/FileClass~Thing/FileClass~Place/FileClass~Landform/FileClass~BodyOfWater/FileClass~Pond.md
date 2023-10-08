@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: waves
 version: 5
 tagNames: [class/Pond, class/Thing/Place/Landform/BodyOfWater/Pond, schema-org/Pond]
 tags: ["class/Pond", "#is_/a_/Pond", "class/Thing/Place/Landform/BodyOfWater/Pond"]

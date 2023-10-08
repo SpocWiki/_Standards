@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: radio-tower
 version: 5
 tagNames: [class/TelevisionStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation, schema-org/TelevisionStation]
 tags: ["class/TelevisionStation", "#is_/a_/TelevisionStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation"]

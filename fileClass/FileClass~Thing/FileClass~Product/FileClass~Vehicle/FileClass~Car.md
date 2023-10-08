@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: car
 version: 5
 tagNames: [class/Car, class/Thing/Product/Vehicle/Car, schema-org/Car]
 tags: ["class/Car", "#is_/a_/Car", "class/Thing/Product/Vehicle/Car"]

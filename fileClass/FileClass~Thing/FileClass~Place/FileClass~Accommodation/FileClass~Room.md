@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: bed
 version: 5
 tagNames: [class/Room, class/Thing/Place/Accommodation/Room, schema-org/Room]
 tags: ["class/Room", "#is_/a_/Room", "class/Thing/Place/Accommodation/Room"]

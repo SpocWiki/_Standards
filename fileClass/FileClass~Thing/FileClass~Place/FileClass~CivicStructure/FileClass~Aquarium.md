@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: fish
 version: 5
 tagNames: [class/Aquarium, class/Thing/Place/CivicStructure/Aquarium, schema-org/Aquarium]
 tags: ["class/Aquarium", "#is_/an_/Aquarium", "class/Thing/Place/CivicStructure/Aquarium"]

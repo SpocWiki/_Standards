@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: banknote
 version: 5
 tagNames: [class/FinancialService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService, schema-org/FinancialService]
 tags: ["class/FinancialService", "#is_/a_/FinancialService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService"]

@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: waves
 version: 5
 tagNames: [class/Waterfall, class/Thing/Place/Landform/BodyOfWater/Waterfall, schema-org/Waterfall]
 tags: ["class/Waterfall", "#is_/a_/Waterfall", "class/Thing/Place/Landform/BodyOfWater/Waterfall"]

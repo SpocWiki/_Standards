@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: scale
 version: 5
 tagNames: [class/LegalService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService, schema-org/LegalService]
 tags: ["class/LegalService", "#is_/a_/LegalService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService"]

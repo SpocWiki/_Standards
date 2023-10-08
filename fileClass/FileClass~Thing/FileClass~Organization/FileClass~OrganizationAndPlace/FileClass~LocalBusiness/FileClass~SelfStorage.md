@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: warehouse
 version: 5
 tagNames: [class/SelfStorage, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage, schema-org/SelfStorage]
 tags: ["class/SelfStorage", "#is_/a_/SelfStorage", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage"]

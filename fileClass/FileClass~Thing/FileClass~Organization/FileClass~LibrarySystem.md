@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: book-copy
 version: 5
 tagNames: [class/LibrarySystem, class/Thing/Organization/LibrarySystem, schema-org/LibrarySystem]
 tags: ["class/LibrarySystem", "#is_/a_/LibrarySystem", "class/Thing/Organization/LibrarySystem"]

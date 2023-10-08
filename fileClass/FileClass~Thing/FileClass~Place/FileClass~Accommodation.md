@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: hotel
 version: 5
 tagNames: [class/Accommodation, class/Thing/Place/Accommodation, schema-org/Accommodation]
 tags: ["class/Accommodation", "#is_/an_/Accommodation", "class/Thing/Place/Accommodation"]

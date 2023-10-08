@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: skull
 version: 5
 tagNames: [class/Cemetery, class/Thing/Place/CivicStructure/Cemetery, schema-org/Cemetery]
 tags: ["class/Cemetery", "#is_/a_/Cemetery", "class/Thing/Place/CivicStructure/Cemetery"]

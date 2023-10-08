@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: trees
 version: 5
 tagNames: [class/Park, class/Thing/Place/CivicStructure/Park, schema-org/Park]
 tags: ["class/Park", "#is_/a_/Park", "class/Thing/Place/CivicStructure/Park"]

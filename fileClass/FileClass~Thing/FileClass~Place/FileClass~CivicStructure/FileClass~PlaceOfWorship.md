@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: church
 version: 5
 tagNames: [class/PlaceOfWorship, class/Thing/Place/CivicStructure/PlaceOfWorship, schema-org/PlaceOfWorship]
 tags: ["class/PlaceOfWorship", "#is_/a_/PlaceOfWorship", "class/Thing/Place/CivicStructure/PlaceOfWorship"]

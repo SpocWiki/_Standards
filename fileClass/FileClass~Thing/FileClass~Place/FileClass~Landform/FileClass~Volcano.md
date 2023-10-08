@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: mountain
 version: 5
 tagNames: [class/Volcano, class/Thing/Place/Landform/Volcano, schema-org/Volcano]
 tags: ["class/Volcano", "#is_/a_/Volcano", "class/Thing/Place/Landform/Volcano"]

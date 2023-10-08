@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: waves
 version: 5
 tagNames: [class/Canal, class/Thing/Place/Landform/BodyOfWater/Canal, schema-org/Canal]
 tags: ["class/Canal", "#is_/a_/Canal", "class/Thing/Place/Landform/BodyOfWater/Canal"]

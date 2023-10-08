@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: tent
 version: 5
 tagNames: [class/CampingPitch, class/Thing/Place/Accommodation/CampingPitch, schema-org/CampingPitch]
 tags: ["class/CampingPitch", "#is_/a_/CampingPitch", "class/Thing/Place/Accommodation/CampingPitch"]

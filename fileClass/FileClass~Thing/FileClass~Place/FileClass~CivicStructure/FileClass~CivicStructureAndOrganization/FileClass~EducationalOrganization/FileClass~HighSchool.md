@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: school
 version: 5
 tagNames: [class/HighSchool, class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/HighSchool, schema-org/HighSchool]
 tags: ["class/HighSchool", "#is_/a_/HighSchool", "class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/HighSchool"]

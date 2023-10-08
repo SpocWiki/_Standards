@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: waves
 version: 5
 tagNames: [class/RiverBodyOfWater, class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater, schema-org/RiverBodyOfWater]
 tags: ["class/RiverBodyOfWater", "#is_/a_/RiverBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater"]

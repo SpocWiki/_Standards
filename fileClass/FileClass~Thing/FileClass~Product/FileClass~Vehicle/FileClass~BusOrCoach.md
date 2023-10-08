@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: bus
 version: 5
 tagNames: [class/BusOrCoach, class/Thing/Product/Vehicle/BusOrCoach, schema-org/BusOrCoach]
 tags: ["class/BusOrCoach", "#is_/a_/BusOrCoach", "class/Thing/Product/Vehicle/BusOrCoach"]

@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: microscope
 version: 5
 tagNames: [class/ResearchOrganization, class/Thing/Organization/ResearchOrganization, schema-org/ResearchOrganization]
 tags: ["class/ResearchOrganization", "#is_/a_/ResearchOrganization", "class/Thing/Organization/ResearchOrganization"]

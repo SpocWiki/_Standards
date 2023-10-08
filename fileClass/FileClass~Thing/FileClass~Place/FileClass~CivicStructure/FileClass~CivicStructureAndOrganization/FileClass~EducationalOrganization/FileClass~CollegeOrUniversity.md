@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: school
 version: 5
 tagNames: [class/CollegeOrUniversity, class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/CollegeOrUniversity, schema-org/CollegeOrUniversity]
 tags: ["class/CollegeOrUniversity", "#is_/a_/CollegeOrUniversity", "class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization/CollegeOrUniversity"]

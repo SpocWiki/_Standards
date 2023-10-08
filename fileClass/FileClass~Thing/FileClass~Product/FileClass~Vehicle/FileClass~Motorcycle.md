@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: bike
 version: 5
 tagNames: [class/Motorcycle, class/Thing/Product/Vehicle/Motorcycle, schema-org/Motorcycle]
 tags: ["class/Motorcycle", "#is_/a_/Motorcycle", "class/Thing/Product/Vehicle/Motorcycle"]

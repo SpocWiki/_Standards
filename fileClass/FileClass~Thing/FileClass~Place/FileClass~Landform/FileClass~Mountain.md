@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: mountain
 version: 5
 tagNames: [class/Mountain, class/Thing/Place/Landform/Mountain, schema-org/Mountain]
 tags: ["class/Mountain", "#is_/a_/Mountain", "class/Thing/Place/Landform/Mountain"]

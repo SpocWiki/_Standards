@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: palmtree
 version: 5
 tagNames: [class/Beach, class/Thing/Place/CivicStructure/Beach, schema-org/Beach]
 tags: ["class/Beach", "#is_/a_/Beach", "class/Thing/Place/CivicStructure/Beach"]

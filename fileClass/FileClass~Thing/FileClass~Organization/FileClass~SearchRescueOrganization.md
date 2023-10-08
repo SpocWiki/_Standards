@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: siren
 version: 5
 tagNames: [class/SearchRescueOrganization, class/Thing/Organization/SearchRescueOrganization, schema-org/SearchRescueOrganization]
 tags: ["class/SearchRescueOrganization", "#is_/a_/SearchRescueOrganization", "class/Thing/Organization/SearchRescueOrganization"]

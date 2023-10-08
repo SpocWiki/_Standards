@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: music
 version: 5
 tagNames: [class/MusicVenue, class/Thing/Place/CivicStructure/MusicVenue, schema-org/MusicVenue]
 tags: ["class/MusicVenue", "#is_/a_/MusicVenue", "class/Thing/Place/CivicStructure/MusicVenue"]

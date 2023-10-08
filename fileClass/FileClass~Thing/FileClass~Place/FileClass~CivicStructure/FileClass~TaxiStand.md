@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: car
 version: 5
 tagNames: [class/TaxiStand, class/Thing/Place/CivicStructure/TaxiStand, schema-org/TaxiStand]
 tags: ["class/TaxiStand", "#is_/a_/TaxiStand", "class/Thing/Place/CivicStructure/TaxiStand"]

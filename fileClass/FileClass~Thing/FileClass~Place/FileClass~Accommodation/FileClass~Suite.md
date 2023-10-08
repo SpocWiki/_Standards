@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: hotel
 version: 5
 tagNames: [class/Suite, class/Thing/Place/Accommodation/Suite, schema-org/Suite]
 tags: ["class/Suite", "#is_/a_/Suite", "class/Thing/Place/Accommodation/Suite"]

@@ -2,7 +2,7 @@
 limit: 9
 mapWithTag: true
 excludes:
-icon: link-2
+icon: cross
 version: 5
 tagNames: [class/MedicalOrganization, class/Thing/Organization/MedicalOrganization, schema-org/MedicalOrganization]
 tags: ["class/MedicalOrganization", "#is_/a_/MedicalOrganization", "class/Thing/Organization/MedicalOrganization"]
