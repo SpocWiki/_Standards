@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/UnitPriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification, schema-org/UnitPriceSpecification]
+tagNames: [class/UnitPriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification, is_an_/UnitPriceSpecification, schema-org/UnitPriceSpecification]
 tags: ["class/UnitPriceSpecification", "#is_/an_/UnitPriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 ---
