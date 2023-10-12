@@ -34,7 +34,7 @@ aliases:
 Class of all news_media_organizations.
 
 Tag Instances like this: 
-#is_/a_/news_media_organization
+#is_a_/news_media_organization
 
 [ #is_/part_of :: https://pending.schema.org ]
 

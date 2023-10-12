@@ -34,7 +34,7 @@ aliases:
 Class of all broadcast_events.
 
 Tag Instances like this: 
-#is_/a_/broadcast_event
+#is_a_/broadcast_event
 
 An over the air or online broadcast event.
 

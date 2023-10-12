@@ -34,7 +34,7 @@ aliases:
 Class of all recycling_centers.
 
 Tag Instances like this: 
-#is_/a_/recycling_center
+#is_a_/recycling_center
 
 A recycling center.
 

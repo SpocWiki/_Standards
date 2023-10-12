@@ -36,7 +36,7 @@ aliases:
 Class of all damaged_conditions.
 
 Tag Instances like this: 
-#is_/a_/damaged_condition
+#is_a_/damaged_condition
 
 Indicates that the item is damaged.
 

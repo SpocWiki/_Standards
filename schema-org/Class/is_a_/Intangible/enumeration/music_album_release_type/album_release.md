@@ -36,7 +36,7 @@ aliases:
 Class of all album_releases.
 
 Tag Instances like this: 
-#is_/an_/album_release
+#is_an_/album_release
 
 AlbumRelease.
 

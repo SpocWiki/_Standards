@@ -34,7 +34,7 @@ aliases:
 Class of all hindu_temples.
 
 Tag Instances like this: 
-#is_/a_/hindu_temple
+#is_a_/hindu_temple
 
 A Hindu temple.
 

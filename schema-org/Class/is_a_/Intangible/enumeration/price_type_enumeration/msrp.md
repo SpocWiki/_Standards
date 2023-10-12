@@ -36,7 +36,7 @@ aliases:
 Class of all msrps.
 
 Tag Instances like this: 
-#is_/a_/msrp
+#is_a_/msrp
 
 [ #is_/part_of :: https://pending.schema.org ]
 

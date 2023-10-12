@@ -36,7 +36,7 @@ aliases:
 Class of all downpayments.
 
 Tag Instances like this: 
-#is_/a_/downpayment
+#is_a_/downpayment
 
 [ #is_/part_of :: https://pending.schema.org ]
 

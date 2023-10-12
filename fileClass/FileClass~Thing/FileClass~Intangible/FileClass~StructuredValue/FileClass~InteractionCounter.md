@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InteractionCounter, class/Thing/Intangible/StructuredValue/InteractionCounter, is_an_/InteractionCounter, schema-org/InteractionCounter]
-tags: ["class/InteractionCounter", "#is_/an_/InteractionCounter", "class/Thing/Intangible/StructuredValue/InteractionCounter"]
+tags: ["class/InteractionCounter", "#is_an_/InteractionCounter", "class/Thing/Intangible/StructuredValue/InteractionCounter"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A summary of how users have interacted with this CreativeWork. In most cases, au
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/InteractionCounter
+#is_an_/InteractionCounter
 #class/InteractionCounter
 #class/Thing/Intangible/StructuredValue/InteractionCounter
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Rating, class/Thing/Intangible/Rating, is_a_/Rating, schema-org/Rating]
-tags: ["class/Rating", "#is_/a_/Rating", "class/Thing/Intangible/Rating"]
+tags: ["class/Rating", "#is_a_/Rating", "class/Thing/Intangible/Rating"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A rating is an evaluation on a numeric scale, such as 1 to 5 stars.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Rating
+#is_a_/Rating
 #class/Rating
 #class/Thing/Intangible/Rating
 

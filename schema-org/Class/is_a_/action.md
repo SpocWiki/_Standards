@@ -30,7 +30,7 @@ Class of all actions.
 #class/Action
 
 Tag Instances like this: 
-#is_/an_/action
+#is_an_/action
 
 An action performed by a direct agent and indirect participants upon a direct object. 
 Optionally happens at a location with the help of an inanimate instrument. 

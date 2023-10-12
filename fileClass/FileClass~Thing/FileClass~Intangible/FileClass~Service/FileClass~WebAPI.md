@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WebAPI, class/Thing/Intangible/Service/WebAPI, is_a_/WebAPI, schema-org/WebAPI]
-tags: ["class/WebAPI", "#is_/a_/WebAPI", "class/Thing/Intangible/Service/WebAPI"]
+tags: ["class/WebAPI", "#is_a_/WebAPI", "class/Thing/Intangible/Service/WebAPI"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 ---
 
@@ -17,7 +17,7 @@ An application programming interface accessible over Web/Internet technologies.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WebAPI
+#is_a_/WebAPI
 #class/WebAPI
 #class/Thing/Intangible/Service/WebAPI
 

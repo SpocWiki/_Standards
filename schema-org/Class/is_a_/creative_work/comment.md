@@ -34,7 +34,7 @@ aliases:
 Class of all comments.
 
 Tag Instances like this: 
-#is_/a_/comment
+#is_a_/comment
 
 A comment on an item - for example, a comment on a blog post. The comment's content is expressed via the <a class="localLink" href="/text">text</a> property, and its topic via <a class="localLink" href="/about">about</a>, properties shared with all CreativeWorks.
 

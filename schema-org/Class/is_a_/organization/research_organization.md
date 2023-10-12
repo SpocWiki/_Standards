@@ -34,7 +34,7 @@ aliases:
 Class of all research_organizations.
 
 Tag Instances like this: 
-#is_/a_/research_organization
+#is_a_/research_organization
 
 [ #is_/part_of :: https://pending.schema.org ]
 

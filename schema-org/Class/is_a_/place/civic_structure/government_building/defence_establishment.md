@@ -34,7 +34,7 @@ aliases:
 Class of all defence_establishments.
 
 Tag Instances like this: 
-#is_/a_/defence_establishment
+#is_a_/defence_establishment
 
 A defence establishment, such as an army or navy base.
 

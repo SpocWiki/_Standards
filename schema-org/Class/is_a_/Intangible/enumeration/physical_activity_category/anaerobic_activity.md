@@ -36,7 +36,7 @@ aliases:
 Class of all anaerobic_activitys.
 
 Tag Instances like this: 
-#is_/an_/anaerobic_activity
+#is_an_/anaerobic_activity
 
 Physical activity that is of high-intensity which utilizes the anaerobic metabolism of the body.
 

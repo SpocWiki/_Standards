@@ -34,7 +34,7 @@ aliases:
 Class of all floats.
 
 Tag Instances like this: 
-#is_/a_/float
+#is_a_/float
 
 Data type: Floating number.
 

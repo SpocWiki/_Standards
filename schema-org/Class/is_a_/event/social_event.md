@@ -34,7 +34,7 @@ aliases:
 Class of all social_events.
 
 Tag Instances like this: 
-#is_/a_/social_event
+#is_a_/social_event
 
 Event type: Social event.
 

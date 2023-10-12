@@ -34,7 +34,7 @@ aliases:
 Class of all category_code_sets.
 
 Tag Instances like this: 
-#is_/a_/category_code_set
+#is_a_/category_code_set
 
 [ #is_/part_of :: https://pending.schema.org ]
 

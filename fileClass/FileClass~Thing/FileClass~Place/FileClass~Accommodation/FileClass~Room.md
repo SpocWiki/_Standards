@@ -5,7 +5,7 @@ excludes:
 icon: bed
 version: 5
 tagNames: [class/Room, class/Thing/Place/Accommodation/Room, is_a_/Room, schema-org/Room]
-tags: ["class/Room", "#is_/a_/Room", "class/Thing/Place/Accommodation/Room"]
+tags: ["class/Room", "#is_a_/Room", "class/Thing/Place/Accommodation/Room"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 ---
 
@@ -19,7 +19,7 @@ A room is a distinguishable space within a structure, usually separated from oth
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Room
+#is_a_/Room
 #class/Room
 #class/Thing/Place/Accommodation/Room
 

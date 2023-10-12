@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FoodEstablishmentReservation, class/Thing/Intangible/Reservation/FoodEstablishmentReservation, is_a_/FoodEstablishmentReservation, schema-org/FoodEstablishmentReservation]
-tags: ["class/FoodEstablishmentReservation", "#is_/a_/FoodEstablishmentReservation", "class/Thing/Intangible/Reservation/FoodEstablishmentReservation"]
+tags: ["class/FoodEstablishmentReservation", "#is_a_/FoodEstablishmentReservation", "class/Thing/Intangible/Reservation/FoodEstablishmentReservation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---
 
@@ -19,7 +19,7 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FoodEstablishmentReservation
+#is_a_/FoodEstablishmentReservation
 #class/FoodEstablishmentReservation
 #class/Thing/Intangible/Reservation/FoodEstablishmentReservation
 

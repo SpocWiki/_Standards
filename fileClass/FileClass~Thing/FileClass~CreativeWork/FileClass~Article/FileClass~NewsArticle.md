@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/NewsArticle, class/Thing/CreativeWork/Article/NewsArticle, is_a_/NewsArticle, schema-org/NewsArticle]
-tags: ["class/NewsArticle", "#is_/a_/NewsArticle", "class/Thing/CreativeWork/Article/NewsArticle"]
+tags: ["class/NewsArticle", "#is_a_/NewsArticle", "class/Thing/CreativeWork/Article/NewsArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 ---
 
@@ -18,7 +18,7 @@ A NewsArticle is an article whose content reports news, or provides background c
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/NewsArticle
+#is_a_/NewsArticle
 #class/NewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle
 

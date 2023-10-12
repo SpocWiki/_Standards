@@ -34,7 +34,7 @@ aliases:
 Class of all review_news_articles.
 
 Tag Instances like this: 
-#is_/a_/review_news_article
+#is_a_/review_news_article
 
 [ #is_/part_of :: https://pending.schema.org ]
 

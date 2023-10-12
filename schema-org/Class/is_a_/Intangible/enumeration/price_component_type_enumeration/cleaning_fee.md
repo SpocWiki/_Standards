@@ -36,7 +36,7 @@ aliases:
 Class of all cleaning_fees.
 
 Tag Instances like this: 
-#is_/a_/cleaning_fee
+#is_a_/cleaning_fee
 
 [ #is_/part_of :: https://pending.schema.org ]
 

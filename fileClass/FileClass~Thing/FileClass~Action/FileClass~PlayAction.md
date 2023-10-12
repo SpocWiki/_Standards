@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PlayAction, class/Thing/Action/PlayAction, is_a_/PlayAction, schema-org/PlayAction]
-tags: ["class/PlayAction", "#is_/a_/PlayAction", "class/Thing/Action/PlayAction"]
+tags: ["class/PlayAction", "#is_a_/PlayAction", "class/Thing/Action/PlayAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -22,7 +22,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PlayAction
+#is_a_/PlayAction
 #class/PlayAction
 #class/Thing/Action/PlayAction
 

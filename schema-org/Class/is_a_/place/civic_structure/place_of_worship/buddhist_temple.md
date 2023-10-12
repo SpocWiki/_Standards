@@ -34,7 +34,7 @@ aliases:
 Class of all buddhist_temples.
 
 Tag Instances like this: 
-#is_/a_/buddhist_temple
+#is_a_/buddhist_temple
 
 A Buddhist temple.
 

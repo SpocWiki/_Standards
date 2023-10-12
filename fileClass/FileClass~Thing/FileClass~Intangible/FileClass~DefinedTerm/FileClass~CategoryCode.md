@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CategoryCode, class/Thing/Intangible/DefinedTerm/CategoryCode, is_a_/CategoryCode, schema-org/CategoryCode]
-tags: ["class/CategoryCode", "#is_/a_/CategoryCode", "class/Thing/Intangible/DefinedTerm/CategoryCode"]
+tags: ["class/CategoryCode", "#is_a_/CategoryCode", "class/Thing/Intangible/DefinedTerm/CategoryCode"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm
 ---
 
@@ -17,7 +17,7 @@ A Category Code.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CategoryCode
+#is_a_/CategoryCode
 #class/CategoryCode
 #class/Thing/Intangible/DefinedTerm/CategoryCode
 

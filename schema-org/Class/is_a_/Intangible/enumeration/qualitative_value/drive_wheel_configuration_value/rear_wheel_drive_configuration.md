@@ -36,7 +36,7 @@ aliases:
 Class of all rear_wheel_drive_configurations.
 
 Tag Instances like this: 
-#is_/a_/rear_wheel_drive_configuration
+#is_a_/rear_wheel_drive_configuration
 
 Real-wheel drive is a transmission layout where the engine drives the rear wheels.
 

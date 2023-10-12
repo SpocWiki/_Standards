@@ -36,7 +36,7 @@ aliases:
 Class of all hematologics.
 
 Tag Instances like this: 
-#is_/a_/hematologic
+#is_a_/hematologic
 
 A specific branch of medical science that pertains to diagnosis and treatment of disorders of blood and blood producing organs.
 

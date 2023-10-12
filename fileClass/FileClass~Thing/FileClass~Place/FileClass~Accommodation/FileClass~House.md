@@ -5,7 +5,7 @@ excludes:
 icon: home
 version: 5
 tagNames: [class/House, class/Thing/Place/Accommodation/House, is_a_/House, schema-org/House]
-tags: ["class/House", "#is_/a_/House", "class/Thing/Place/Accommodation/House"]
+tags: ["class/House", "#is_a_/House", "class/Thing/Place/Accommodation/House"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 ---
 
@@ -17,7 +17,7 @@ A house is a building or structure that has the ability to be occupied for habit
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/House
+#is_a_/House
 #class/House
 #class/Thing/Place/Accommodation/House
 

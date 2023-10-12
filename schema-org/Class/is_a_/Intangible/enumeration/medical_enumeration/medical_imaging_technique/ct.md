@@ -36,7 +36,7 @@ aliases:
 Class of all cts.
 
 Tag Instances like this: 
-#is_/a_/ct
+#is_a_/ct
 
 X-ray computed tomography imaging.
 

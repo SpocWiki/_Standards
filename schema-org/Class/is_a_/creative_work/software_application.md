@@ -34,7 +34,7 @@ aliases:
 Class of all software_applications.
 
 Tag Instances like this: 
-#is_/a_/software_application
+#is_a_/software_application
 
 A software application.
 

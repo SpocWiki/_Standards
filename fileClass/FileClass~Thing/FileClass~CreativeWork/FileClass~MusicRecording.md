@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MusicRecording, class/Thing/CreativeWork/MusicRecording, is_a_/MusicRecording, schema-org/MusicRecording]
-tags: ["class/MusicRecording", "#is_/a_/MusicRecording", "class/Thing/CreativeWork/MusicRecording"]
+tags: ["class/MusicRecording", "#is_a_/MusicRecording", "class/Thing/CreativeWork/MusicRecording"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A music recording (track), usually a single song.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MusicRecording
+#is_a_/MusicRecording
 #class/MusicRecording
 #class/Thing/CreativeWork/MusicRecording
 

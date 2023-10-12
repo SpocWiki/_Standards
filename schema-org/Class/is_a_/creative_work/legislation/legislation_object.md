@@ -34,7 +34,7 @@ aliases:
 Class of all legislation_objects.
 
 Tag Instances like this: 
-#is_/a_/legislation_object
+#is_a_/legislation_object
 
 [ #is_/part_of :: https://pending.schema.org ]
 

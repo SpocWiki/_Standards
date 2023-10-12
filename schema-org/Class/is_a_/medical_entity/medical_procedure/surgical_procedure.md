@@ -36,7 +36,7 @@ aliases:
 Class of all surgical_procedures.
 
 Tag Instances like this: 
-#is_/a_/surgical_procedure
+#is_a_/surgical_procedure
 
 A medical procedure involving an incision with instruments; performed for diagnose, or therapeutic purposes.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BrainStructure, class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure, is_a_/BrainStructure, schema-org/BrainStructure]
-tags: ["class/BrainStructure", "#is_/a_/BrainStructure", "class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure"]
+tags: ["class/BrainStructure", "#is_a_/BrainStructure", "class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---
 
@@ -17,7 +17,7 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BrainStructure
+#is_a_/BrainStructure
 #class/BrainStructure
 #class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure
 

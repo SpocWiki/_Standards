@@ -34,7 +34,7 @@ aliases:
 Class of all medicine_systems.
 
 Tag Instances like this: 
-#is_/a_/medicine_system
+#is_a_/medicine_system
 
 Systems of medical practice.
 

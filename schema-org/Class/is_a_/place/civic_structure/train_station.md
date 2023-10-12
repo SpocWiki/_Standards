@@ -34,7 +34,7 @@ aliases:
 Class of all train_stations.
 
 Tag Instances like this: 
-#is_/a_/train_station
+#is_a_/train_station
 
 A train station.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all date_times.
 
 Tag Instances like this: 
-#is_/a_/date_time
+#is_a_/date_time
 
 A combination of date and time of day in the form [-]CCYY-MM-DDThh:mm:ss[Z|(+|-)hh:mm] (see Chapter 5.4 of ISO 8601).
 

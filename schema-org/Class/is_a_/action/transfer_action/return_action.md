@@ -34,7 +34,7 @@ aliases:
 Class of all return_actions.
 
 Tag Instances like this: 
-#is_/a_/return_action
+#is_a_/return_action
 
 The act of returning to the origin that which was previously received (concrete objects) or taken (ownership).
 

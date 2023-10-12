@@ -35,7 +35,7 @@ aliases:
 Class of all codes.
 
 Tag Instances like this: 
-#is_/a_/code
+#is_a_/code
 
 Computer programming source code. Example: Full (compile ready) solutions, code snippet samples, scripts, templates.
 

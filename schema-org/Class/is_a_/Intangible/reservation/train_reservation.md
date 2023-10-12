@@ -34,7 +34,7 @@ aliases:
 Class of all train_reservations.
 
 Tag Instances like this: 
-#is_/a_/train_reservation
+#is_a_/train_reservation
 
 A reservation for train travel.
 

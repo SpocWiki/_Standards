@@ -34,7 +34,7 @@ aliases:
 Class of all scholarly_articles.
 
 Tag Instances like this: 
-#is_/a_/scholarly_article
+#is_a_/scholarly_article
 
 A scholarly article.
 

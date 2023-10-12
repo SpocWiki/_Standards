@@ -36,7 +36,7 @@ aliases:
 Class of all ios_platforms.
 
 Tag Instances like this: 
-#is_/an_/ios_platform
+#is_an_/ios_platform
 
 [ #is_/part_of :: https://pending.schema.org ]
 

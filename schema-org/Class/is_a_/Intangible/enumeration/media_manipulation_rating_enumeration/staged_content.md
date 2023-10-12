@@ -36,7 +36,7 @@ aliases:
 Class of all staged_contents.
 
 Tag Instances like this: 
-#is_/a_/staged_content
+#is_a_/staged_content
 
 [ #is_/part_of :: https://pending.schema.org ]
 

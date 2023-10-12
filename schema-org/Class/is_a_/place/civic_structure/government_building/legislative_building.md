@@ -34,7 +34,7 @@ aliases:
 Class of all legislative_buildings.
 
 Tag Instances like this: 
-#is_/a_/legislative_building
+#is_a_/legislative_building
 
 A legislative building&#x2014;for example, the state capitol.
 

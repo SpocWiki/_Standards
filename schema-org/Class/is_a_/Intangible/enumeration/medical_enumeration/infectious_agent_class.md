@@ -34,7 +34,7 @@ aliases:
 Class of all infectious_agent_classs.
 
 Tag Instances like this: 
-#is_/an_/infectious_agent_class
+#is_an_/infectious_agent_class
 
 Classes of agents or pathogens that transmit infectious diseases. Enumerated type.
 

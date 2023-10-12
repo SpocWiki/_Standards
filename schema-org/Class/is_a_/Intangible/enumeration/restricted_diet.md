@@ -34,7 +34,7 @@ aliases:
 Class of all restricted_diets.
 
 Tag Instances like this: 
-#is_/a_/restricted_diet
+#is_a_/restricted_diet
 
 A diet restricted to certain foods or preparations for cultural, religious, health or lifestyle reasons.
 

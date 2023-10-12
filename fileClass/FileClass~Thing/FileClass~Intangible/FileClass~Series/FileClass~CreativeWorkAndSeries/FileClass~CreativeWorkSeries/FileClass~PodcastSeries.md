@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PodcastSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries, is_a_/PodcastSeries, schema-org/PodcastSeries]
-tags: ["class/PodcastSeries", "#is_/a_/PodcastSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries"]
+tags: ["class/PodcastSeries", "#is_a_/PodcastSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 ---
 
@@ -17,7 +17,7 @@ A podcast is an episodic series of digital audio or video files which a user can
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PodcastSeries
+#is_a_/PodcastSeries
 #class/PodcastSeries
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries
 

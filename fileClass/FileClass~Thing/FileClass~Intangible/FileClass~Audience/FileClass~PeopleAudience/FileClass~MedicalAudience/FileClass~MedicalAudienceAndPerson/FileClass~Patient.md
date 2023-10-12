@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Patient, class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient, is_a_/Patient, schema-org/Patient]
-tags: ["class/Patient", "#is_/a_/Patient", "class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient"]
+tags: ["class/Patient", "#is_a_/Patient", "class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson
 ---
 
@@ -17,7 +17,7 @@ A patient is any person recipient of health care services.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Patient
+#is_a_/Patient
 #class/Patient
 #class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient
 

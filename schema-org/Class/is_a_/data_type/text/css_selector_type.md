@@ -34,7 +34,7 @@ aliases:
 Class of all css_selector_types.
 
 Tag Instances like this: 
-#is_/a_/css_selector_type
+#is_a_/css_selector_type
 
 [ #is_/part_of :: https://pending.schema.org ]
 

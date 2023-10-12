@@ -34,7 +34,7 @@ aliases:
 Class of all dates.
 
 Tag Instances like this: 
-#is_/a_/date
+#is_a_/date
 
 A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date format</a>.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all alcohol_considerations.
 
 Tag Instances like this: 
-#is_/an_/alcohol_consideration
+#is_an_/alcohol_consideration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all arrive_actions.
 
 Tag Instances like this: 
-#is_/an_/arrive_action
+#is_an_/arrive_action
 
 The act of arriving at a place. An agent arrives at a destination from a fromLocation, optionally with participants.
 

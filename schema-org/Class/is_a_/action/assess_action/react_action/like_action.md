@@ -34,7 +34,7 @@ aliases:
 Class of all like_actions.
 
 Tag Instances like this: 
-#is_/a_/like_action
+#is_a_/like_action
 
 The act of expressing a positive sentiment about the object. An agent likes an object (a proposition, topic or theme) with participants.
 

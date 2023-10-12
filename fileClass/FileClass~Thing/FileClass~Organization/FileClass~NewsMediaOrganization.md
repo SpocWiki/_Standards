@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/NewsMediaOrganization, class/Thing/Organization/NewsMediaOrganization, is_a_/NewsMediaOrganization, schema-org/NewsMediaOrganization]
-tags: ["class/NewsMediaOrganization", "#is_/a_/NewsMediaOrganization", "class/Thing/Organization/NewsMediaOrganization"]
+tags: ["class/NewsMediaOrganization", "#is_a_/NewsMediaOrganization", "class/Thing/Organization/NewsMediaOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -17,7 +17,7 @@ A News/Media organization such as a newspaper or TV station.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/NewsMediaOrganization
+#is_a_/NewsMediaOrganization
 #class/NewsMediaOrganization
 #class/Thing/Organization/NewsMediaOrganization
 

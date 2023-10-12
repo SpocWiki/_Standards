@@ -34,7 +34,7 @@ aliases:
 Class of all how_to_supplys.
 
 Tag Instances like this: 
-#is_/a_/how_to_supply
+#is_a_/how_to_supply
 
 A supply consumed when performing the instructions for how to achieve a result.
 

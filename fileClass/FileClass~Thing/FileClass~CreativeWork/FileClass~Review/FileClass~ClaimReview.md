@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ClaimReview, class/Thing/CreativeWork/Review/ClaimReview, is_a_/ClaimReview, schema-org/ClaimReview]
-tags: ["class/ClaimReview", "#is_/a_/ClaimReview", "class/Thing/CreativeWork/Review/ClaimReview"]
+tags: ["class/ClaimReview", "#is_a_/ClaimReview", "class/Thing/CreativeWork/Review/ClaimReview"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 ---
 
@@ -17,7 +17,7 @@ A fact-checking review of claims made (or reported) in some creative work (refer
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ClaimReview
+#is_a_/ClaimReview
 #class/ClaimReview
 #class/Thing/CreativeWork/Review/ClaimReview
 

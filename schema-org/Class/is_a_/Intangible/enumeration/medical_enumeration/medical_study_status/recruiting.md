@@ -36,7 +36,7 @@ aliases:
 Class of all recruitings.
 
 Tag Instances like this: 
-#is_/a_/recruiting
+#is_a_/recruiting
 
 Recruiting participants.
 

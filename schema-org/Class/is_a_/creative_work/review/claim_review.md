@@ -34,7 +34,7 @@ aliases:
 Class of all claim_reviews.
 
 Tag Instances like this: 
-#is_/a_/claim_review
+#is_a_/claim_review
 
 A fact-checking review of claims made (or reported) in some creative work (referenced via itemReviewed).
 

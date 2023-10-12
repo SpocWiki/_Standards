@@ -34,7 +34,7 @@ aliases:
 Class of all quantitative_values.
 
 Tag Instances like this: 
-#is_/a_/quantitative_value
+#is_a_/quantitative_value
 
 A point value or interval for product characteristics and other purposes.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all note_digital_documents.
 
 Tag Instances like this: 
-#is_/a_/note_digital_document
+#is_a_/note_digital_document
 
 A file containing a note, primarily for the author.
 

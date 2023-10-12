@@ -36,7 +36,7 @@ aliases:
 Class of all observationals.
 
 Tag Instances like this: 
-#is_/an_/observational
+#is_an_/observational
 
 An observational study design.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all trips.
 
 Tag Instances like this: 
-#is_/a_/trip
+#is_a_/trip
 
 A trip or journey. An itinerary of visits to one or more places.
 

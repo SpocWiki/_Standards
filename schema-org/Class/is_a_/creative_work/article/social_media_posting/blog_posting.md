@@ -34,7 +34,7 @@ aliases:
 Class of all blog_postings.
 
 Tag Instances like this: 
-#is_/a_/blog_posting
+#is_a_/blog_posting
 
 A blog post.
 

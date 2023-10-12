@@ -36,7 +36,7 @@ aliases:
 Class of all in_forces.
 
 Tag Instances like this: 
-#is_/an_/in_force
+#is_an_/in_force
 
 [ #is_/part_of :: https://pending.schema.org ]
 

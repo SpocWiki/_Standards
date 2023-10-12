@@ -34,7 +34,7 @@ aliases:
 Class of all books.
 
 Tag Instances like this: 
-#is_/a_/book
+#is_a_/book
 
 A book.
 

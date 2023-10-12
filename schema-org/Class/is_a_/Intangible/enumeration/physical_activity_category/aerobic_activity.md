@@ -36,7 +36,7 @@ aliases:
 Class of all aerobic_activitys.
 
 Tag Instances like this: 
-#is_/an_/aerobic_activity
+#is_an_/aerobic_activity
 
 Physical activity of relatively low intensity that depends primarily on the aerobic energy-generating process; during activity, the aerobic metabolism uses oxygen to adequately meet energy demands during exercise.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all comedy_clubs.
 
 Tag Instances like this: 
-#is_/a_/comedy_club
+#is_a_/comedy_club
 
 A comedy club.
 

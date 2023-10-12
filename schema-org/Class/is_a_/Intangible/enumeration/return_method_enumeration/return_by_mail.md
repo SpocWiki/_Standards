@@ -36,7 +36,7 @@ aliases:
 Class of all return_by_mails.
 
 Tag Instances like this: 
-#is_/a_/return_by_mail
+#is_a_/return_by_mail
 
 [ #is_/part_of :: https://pending.schema.org ]
 

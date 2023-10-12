@@ -34,7 +34,7 @@ aliases:
 Class of all draw_actions.
 
 Tag Instances like this: 
-#is_/a_/draw_action
+#is_a_/draw_action
 
 The act of producing a visual/graphical representation of an object, typically with a pen/pencil and paper as instruments.
 

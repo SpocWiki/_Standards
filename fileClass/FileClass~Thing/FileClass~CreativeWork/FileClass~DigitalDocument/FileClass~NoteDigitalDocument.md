@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/NoteDigitalDocument, class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument, is_a_/NoteDigitalDocument, schema-org/NoteDigitalDocument]
-tags: ["class/NoteDigitalDocument", "#is_/a_/NoteDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument"]
+tags: ["class/NoteDigitalDocument", "#is_a_/NoteDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 ---
 
@@ -17,7 +17,7 @@ A file containing a note, primarily for the author.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/NoteDigitalDocument
+#is_a_/NoteDigitalDocument
 #class/NoteDigitalDocument
 #class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument
 

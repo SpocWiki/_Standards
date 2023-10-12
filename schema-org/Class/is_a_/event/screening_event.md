@@ -34,7 +34,7 @@ aliases:
 Class of all screening_events.
 
 Tag Instances like this: 
-#is_/a_/screening_event
+#is_a_/screening_event
 
 A screening of a movie or other video.
 

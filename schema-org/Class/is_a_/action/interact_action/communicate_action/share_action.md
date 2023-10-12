@@ -34,7 +34,7 @@ aliases:
 Class of all share_actions.
 
 Tag Instances like this: 
-#is_/a_/share_action
+#is_a_/share_action
 
 The act of distributing content to people for their amusement or edification.
 

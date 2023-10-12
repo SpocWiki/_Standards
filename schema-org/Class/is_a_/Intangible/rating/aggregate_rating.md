@@ -34,7 +34,7 @@ aliases:
 Class of all aggregate_ratings.
 
 Tag Instances like this: 
-#is_/an_/aggregate_rating
+#is_an_/aggregate_rating
 
 The average rating based on multiple ratings or reviews.
 

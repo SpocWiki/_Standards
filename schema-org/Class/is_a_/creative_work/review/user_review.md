@@ -34,7 +34,7 @@ aliases:
 Class of all user_reviews.
 
 Tag Instances like this: 
-#is_/a_/user_review
+#is_a_/user_review
 
 [ #is_/part_of :: https://pending.schema.org ]
 

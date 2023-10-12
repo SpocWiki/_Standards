@@ -34,7 +34,7 @@ aliases:
 Class of all ownership_infos.
 
 Tag Instances like this: 
-#is_/an_/ownership_info
+#is_an_/ownership_info
 
 A structured value providing information about when a certain organization or person owned a certain product.
 

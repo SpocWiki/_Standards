@@ -34,7 +34,7 @@ aliases:
 Class of all photographs.
 
 Tag Instances like this: 
-#is_/a_/photograph
+#is_a_/photograph
 
 A photograph.
 

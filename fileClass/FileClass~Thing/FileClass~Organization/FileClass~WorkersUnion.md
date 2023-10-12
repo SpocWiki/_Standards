@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WorkersUnion, class/Thing/Organization/WorkersUnion, is_a_/WorkersUnion, schema-org/WorkersUnion]
-tags: ["class/WorkersUnion", "#is_/a_/WorkersUnion", "class/Thing/Organization/WorkersUnion"]
+tags: ["class/WorkersUnion", "#is_a_/WorkersUnion", "class/Thing/Organization/WorkersUnion"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -17,7 +17,7 @@ A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is a
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WorkersUnion
+#is_a_/WorkersUnion
 #class/WorkersUnion
 #class/Thing/Organization/WorkersUnion
 

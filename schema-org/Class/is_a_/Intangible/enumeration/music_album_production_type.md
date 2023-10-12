@@ -34,7 +34,7 @@ aliases:
 Class of all music_album_production_types.
 
 Tag Instances like this: 
-#is_/a_/music_album_production_type
+#is_a_/music_album_production_type
 
 Classification of the album by its type of content: soundtrack, live album, studio album, etc.
 

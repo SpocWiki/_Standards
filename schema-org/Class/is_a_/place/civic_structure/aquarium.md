@@ -34,7 +34,7 @@ aliases:
 Class of all aquariums.
 
 Tag Instances like this: 
-#is_/an_/aquarium
+#is_an_/aquarium
 
 Aquarium.
 

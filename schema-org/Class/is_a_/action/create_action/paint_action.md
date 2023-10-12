@@ -34,7 +34,7 @@ aliases:
 Class of all paint_actions.
 
 Tag Instances like this: 
-#is_/a_/paint_action
+#is_a_/paint_action
 
 The act of producing a painting, typically with paint and canvas as instruments.
 

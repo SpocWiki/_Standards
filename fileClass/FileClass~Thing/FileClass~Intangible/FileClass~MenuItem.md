@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MenuItem, class/Thing/Intangible/MenuItem, is_a_/MenuItem, schema-org/MenuItem]
-tags: ["class/MenuItem", "#is_/a_/MenuItem", "class/Thing/Intangible/MenuItem"]
+tags: ["class/MenuItem", "#is_a_/MenuItem", "class/Thing/Intangible/MenuItem"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A food or drink item listed in a menu or menu section.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MenuItem
+#is_a_/MenuItem
 #class/MenuItem
 #class/Thing/Intangible/MenuItem
 

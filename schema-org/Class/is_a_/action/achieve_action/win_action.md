@@ -34,7 +34,7 @@ aliases:
 Class of all win_actions.
 
 Tag Instances like this: 
-#is_/a_/win_action
+#is_a_/win_action
 
 The act of achieving victory in a competitive activity.
 

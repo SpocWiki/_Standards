@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WarrantyPromise, class/Thing/Intangible/StructuredValue/WarrantyPromise, is_a_/WarrantyPromise, schema-org/WarrantyPromise]
-tags: ["class/WarrantyPromise", "#is_/a_/WarrantyPromise", "class/Thing/Intangible/StructuredValue/WarrantyPromise"]
+tags: ["class/WarrantyPromise", "#is_a_/WarrantyPromise", "class/Thing/Intangible/StructuredValue/WarrantyPromise"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A structured value representing the duration and scope of services that will be 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WarrantyPromise
+#is_a_/WarrantyPromise
 #class/WarrantyPromise
 #class/Thing/Intangible/StructuredValue/WarrantyPromise
 

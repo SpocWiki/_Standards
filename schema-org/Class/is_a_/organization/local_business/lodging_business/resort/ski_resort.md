@@ -34,7 +34,7 @@ aliases:
 Class of all ski_resorts.
 
 Tag Instances like this: 
-#is_/a_/ski_resort
+#is_a_/ski_resort
 
 A ski resort.
 

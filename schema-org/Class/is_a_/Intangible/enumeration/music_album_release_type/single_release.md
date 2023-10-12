@@ -36,7 +36,7 @@ aliases:
 Class of all single_releases.
 
 Tag Instances like this: 
-#is_/a_/single_release
+#is_a_/single_release
 
 SingleRelease.
 

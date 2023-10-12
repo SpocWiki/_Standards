@@ -34,7 +34,7 @@ aliases:
 Class of all general_contractors.
 
 Tag Instances like this: 
-#is_/a_/general_contractor
+#is_a_/general_contractor
 
 A general contractor.
 

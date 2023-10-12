@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalProcedure, class/Thing/MedicalEntity/MedicalProcedure, is_a_/MedicalProcedure, schema-org/MedicalProcedure]
-tags: ["class/MedicalProcedure", "#is_/a_/MedicalProcedure", "class/Thing/MedicalEntity/MedicalProcedure"]
+tags: ["class/MedicalProcedure", "#is_a_/MedicalProcedure", "class/Thing/MedicalEntity/MedicalProcedure"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ A process of care used in either a diagnostic, therapeutic, preventive or pallia
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalProcedure
+#is_a_/MedicalProcedure
 #class/MedicalProcedure
 #class/Thing/MedicalEntity/MedicalProcedure
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PhysicalActivity, class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity, is_a_/PhysicalActivity, schema-org/PhysicalActivity]
-tags: ["class/PhysicalActivity", "#is_/a_/PhysicalActivity", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity"]
+tags: ["class/PhysicalActivity", "#is_a_/PhysicalActivity", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification
 ---
 
@@ -17,7 +17,7 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PhysicalActivity
+#is_a_/PhysicalActivity
 #class/PhysicalActivity
 #class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity
 

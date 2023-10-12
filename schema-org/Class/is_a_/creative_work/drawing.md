@@ -34,7 +34,7 @@ aliases:
 Class of all drawings.
 
 Tag Instances like this: 
-#is_/a_/drawing
+#is_a_/drawing
 
 [ #is_/part_of :: https://pending.schema.org ]
 

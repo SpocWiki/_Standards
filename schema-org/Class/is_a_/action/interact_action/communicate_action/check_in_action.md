@@ -34,7 +34,7 @@ aliases:
 Class of all check_in_actions.
 
 Tag Instances like this: 
-#is_/a_/check_in_action
+#is_a_/check_in_action
 
 The act of an agent communicating (service provider, social media, etc) their arrival by registering/confirming for a previously reserved service (e.g. flight check-in) or at a place (e.g. hotel), possibly resulting in a result (boarding pass, etc).
 

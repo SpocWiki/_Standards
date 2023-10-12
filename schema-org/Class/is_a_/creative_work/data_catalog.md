@@ -36,7 +36,7 @@ aliases:
 Class of all data_catalogs.
 
 Tag Instances like this: 
-#is_/a_/data_catalog
+#is_a_/data_catalog
 
 A collection of datasets.
 

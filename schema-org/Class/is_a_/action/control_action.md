@@ -34,7 +34,7 @@ aliases:
 Class of all control_actions.
 
 Tag Instances like this: 
-#is_/a_/control_action
+#is_a_/control_action
 
 An agent controls a device or application.
 

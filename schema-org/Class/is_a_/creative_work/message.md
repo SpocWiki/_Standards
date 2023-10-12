@@ -34,7 +34,7 @@ aliases:
 Class of all messages.
 
 Tag Instances like this: 
-#is_/a_/message
+#is_a_/message
 
 A single message from a sender to one or more organizations or people.
 

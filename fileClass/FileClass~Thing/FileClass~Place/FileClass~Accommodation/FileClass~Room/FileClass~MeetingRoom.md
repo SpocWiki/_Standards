@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MeetingRoom, class/Thing/Place/Accommodation/Room/MeetingRoom, is_a_/MeetingRoom, schema-org/MeetingRoom]
-tags: ["class/MeetingRoom", "#is_/a_/MeetingRoom", "class/Thing/Place/Accommodation/Room/MeetingRoom"]
+tags: ["class/MeetingRoom", "#is_a_/MeetingRoom", "class/Thing/Place/Accommodation/Room/MeetingRoom"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room
 ---
 
@@ -19,7 +19,7 @@ A meeting room, conference room, or conference hall is a room provided for singu
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MeetingRoom
+#is_a_/MeetingRoom
 #class/MeetingRoom
 #class/Thing/Place/Accommodation/Room/MeetingRoom
 

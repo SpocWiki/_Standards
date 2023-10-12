@@ -36,7 +36,7 @@ aliases:
 Class of all back_orders.
 
 Tag Instances like this: 
-#is_/a_/back_order
+#is_a_/back_order
 
 Indicates that the item is available on back order.
 

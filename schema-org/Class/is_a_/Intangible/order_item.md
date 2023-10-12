@@ -34,7 +34,7 @@ aliases:
 Class of all order_items.
 
 Tag Instances like this: 
-#is_/an_/order_item
+#is_an_/order_item
 
 An order item is a line of an order. It includes the quantity and shipping details of a bought offer.
 

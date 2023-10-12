@@ -34,7 +34,7 @@ aliases:
 Class of all medical_guideline_recommendations.
 
 Tag Instances like this: 
-#is_/a_/medical_guideline_recommendation
+#is_a_/medical_guideline_recommendation
 
 A guideline recommendation that is regarded as efficacious and where quality of the data supporting the recommendation is sound.
 

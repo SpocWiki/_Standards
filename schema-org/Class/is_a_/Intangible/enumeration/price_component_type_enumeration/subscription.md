@@ -36,7 +36,7 @@ aliases:
 Class of all subscriptions.
 
 Tag Instances like this: 
-#is_/a_/subscription
+#is_a_/subscription
 
 [ #is_/part_of :: https://pending.schema.org ]
 

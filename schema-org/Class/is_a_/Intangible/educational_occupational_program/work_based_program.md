@@ -34,7 +34,7 @@ aliases:
 Class of all work_based_programs.
 
 Tag Instances like this: 
-#is_/a_/work_based_program
+#is_a_/work_based_program
 
 [ #is_/part_of :: https://pending.schema.org ]
 

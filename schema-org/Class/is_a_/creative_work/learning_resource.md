@@ -34,7 +34,7 @@ aliases:
 Class of all learning_resources.
 
 Tag Instances like this: 
-#is_/a_/learning_resource
+#is_a_/learning_resource
 
 [ #is_/part_of :: https://pending.schema.org ]
 

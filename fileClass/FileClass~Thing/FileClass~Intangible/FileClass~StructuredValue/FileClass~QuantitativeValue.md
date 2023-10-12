@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/QuantitativeValue, class/Thing/Intangible/StructuredValue/QuantitativeValue, is_a_/QuantitativeValue, schema-org/QuantitativeValue]
-tags: ["class/QuantitativeValue", "#is_/a_/QuantitativeValue", "class/Thing/Intangible/StructuredValue/QuantitativeValue"]
+tags: ["class/QuantitativeValue", "#is_a_/QuantitativeValue", "class/Thing/Intangible/StructuredValue/QuantitativeValue"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A point value or interval for product characteristics and other purposes.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/QuantitativeValue
+#is_a_/QuantitativeValue
 #class/QuantitativeValue
 #class/Thing/Intangible/StructuredValue/QuantitativeValue
 

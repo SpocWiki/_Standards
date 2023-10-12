@@ -36,7 +36,7 @@ aliases:
 Class of all taxi_services.
 
 Tag Instances like this: 
-#is_/a_/taxi_service
+#is_a_/taxi_service
 
 A service for a vehicle for hire with a driver for local travel. Fares are usually calculated based on distance traveled.
 

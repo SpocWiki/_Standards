@@ -34,7 +34,7 @@ aliases:
 Class of all online_businesss.
 
 Tag Instances like this: 
-#is_/an_/online_business
+#is_an_/online_business
 
 [ #is_/part_of :: https://pending.schema.org ]
 

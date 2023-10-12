@@ -36,7 +36,7 @@ aliases:
 Class of all body_measurement_waists.
 
 Tag Instances like this: 
-#is_/a_/body_measurement_waist
+#is_a_/body_measurement_waist
 
 [ #is_/part_of :: https://pending.schema.org ]
 

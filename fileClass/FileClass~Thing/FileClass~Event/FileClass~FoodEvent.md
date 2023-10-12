@@ -5,7 +5,7 @@ excludes:
 icon: utensils
 version: 5
 tagNames: [class/FoodEvent, class/Thing/Event/FoodEvent, is_a_/FoodEvent, schema-org/FoodEvent]
-tags: ["class/FoodEvent", "#is_/a_/FoodEvent", "class/Thing/Event/FoodEvent"]
+tags: ["class/FoodEvent", "#is_a_/FoodEvent", "class/Thing/Event/FoodEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---
 
@@ -17,7 +17,7 @@ Event type: Food event.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FoodEvent
+#is_a_/FoodEvent
 #class/FoodEvent
 #class/Thing/Event/FoodEvent
 

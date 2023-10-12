@@ -34,7 +34,7 @@ aliases:
 Class of all performing_groups.
 
 Tag Instances like this: 
-#is_/a_/performing_group
+#is_a_/performing_group
 
 A performance group, such as a band, an orchestra, or a circus.
 

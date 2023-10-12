@@ -34,7 +34,7 @@ aliases:
 Class of all exchange_rate_specifications.
 
 Tag Instances like this: 
-#is_/an_/exchange_rate_specification
+#is_an_/exchange_rate_specification
 
 [ #is_/part_of :: https://pending.schema.org ]
 

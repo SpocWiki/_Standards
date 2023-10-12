@@ -34,7 +34,7 @@ aliases:
 Class of all emergency_services.
 
 Tag Instances like this: 
-#is_/an_/emergency_service
+#is_an_/emergency_service
 
 An emergency service, such as a fire station or ER.
 

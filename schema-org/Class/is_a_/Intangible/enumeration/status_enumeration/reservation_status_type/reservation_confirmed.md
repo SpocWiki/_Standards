@@ -36,7 +36,7 @@ aliases:
 Class of all reservation_confirmeds.
 
 Tag Instances like this: 
-#is_/a_/reservation_confirmed
+#is_a_/reservation_confirmed
 
 The status of a confirmed reservation.
 

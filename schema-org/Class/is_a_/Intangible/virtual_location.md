@@ -34,7 +34,7 @@ aliases:
 Class of all virtual_locations.
 
 Tag Instances like this: 
-#is_/a_/virtual_location
+#is_a_/virtual_location
 
 [ #is_/part_of :: https://pending.schema.org ]
 

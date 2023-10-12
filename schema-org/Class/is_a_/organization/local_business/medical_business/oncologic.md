@@ -36,7 +36,7 @@ aliases:
 Class of all oncologics.
 
 Tag Instances like this: 
-#is_/an_/oncologic
+#is_an_/oncologic
 
 A specific branch of medical science that deals with benign and malignant tumors, including the study of their development, diagnosis, treatment and prevention.
 

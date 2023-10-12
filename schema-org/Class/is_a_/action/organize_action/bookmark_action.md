@@ -34,7 +34,7 @@ aliases:
 Class of all bookmark_actions.
 
 Tag Instances like this: 
-#is_/a_/bookmark_action
+#is_a_/bookmark_action
 
 An agent bookmarks/flags/labels/tags/marks an object.
 

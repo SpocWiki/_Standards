@@ -34,7 +34,7 @@ aliases:
 Class of all radio_clips.
 
 Tag Instances like this: 
-#is_/a_/radio_clip
+#is_a_/radio_clip
 
 A short radio program or a segment/part of a radio program.
 

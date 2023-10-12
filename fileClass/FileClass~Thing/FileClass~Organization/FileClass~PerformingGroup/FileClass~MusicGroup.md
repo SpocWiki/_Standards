@@ -5,7 +5,7 @@ excludes:
 icon: music
 version: 5
 tagNames: [class/MusicGroup, class/Thing/Organization/PerformingGroup/MusicGroup, is_a_/MusicGroup, schema-org/MusicGroup]
-tags: ["class/MusicGroup", "#is_/a_/MusicGroup", "class/Thing/Organization/PerformingGroup/MusicGroup"]
+tags: ["class/MusicGroup", "#is_a_/MusicGroup", "class/Thing/Organization/PerformingGroup/MusicGroup"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
 ---
 
@@ -17,7 +17,7 @@ A musical group, such as a band, an orchestra, or a choir. Can also be a solo mu
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MusicGroup
+#is_a_/MusicGroup
 #class/MusicGroup
 #class/Thing/Organization/PerformingGroup/MusicGroup
 

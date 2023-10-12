@@ -34,7 +34,7 @@ aliases:
 Class of all veterinary_cares.
 
 Tag Instances like this: 
-#is_/a_/veterinary_care
+#is_a_/veterinary_care
 
 A vet's office.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all compilation_albums.
 
 Tag Instances like this: 
-#is_/a_/compilation_album
+#is_a_/compilation_album
 
 CompilationAlbum.
 

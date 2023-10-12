@@ -34,7 +34,7 @@ aliases:
 Class of all quote_actions.
 
 Tag Instances like this: 
-#is_/a_/quote_action
+#is_a_/quote_action
 
 An agent quotes/estimates/appraises an object/product/service with a price at a location/store.
 

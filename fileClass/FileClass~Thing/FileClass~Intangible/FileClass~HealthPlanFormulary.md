@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HealthPlanFormulary, class/Thing/Intangible/HealthPlanFormulary, is_a_/HealthPlanFormulary, schema-org/HealthPlanFormulary]
-tags: ["class/HealthPlanFormulary", "#is_/a_/HealthPlanFormulary", "class/Thing/Intangible/HealthPlanFormulary"]
+tags: ["class/HealthPlanFormulary", "#is_a_/HealthPlanFormulary", "class/Thing/Intangible/HealthPlanFormulary"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ For a given health insurance plan, the specification for costs and coverage of p
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HealthPlanFormulary
+#is_a_/HealthPlanFormulary
 #class/HealthPlanFormulary
 #class/Thing/Intangible/HealthPlanFormulary
 

@@ -34,7 +34,7 @@ aliases:
 Class of all bus_stops.
 
 Tag Instances like this: 
-#is_/a_/bus_stop
+#is_a_/bus_stop
 
 A bus stop.
 

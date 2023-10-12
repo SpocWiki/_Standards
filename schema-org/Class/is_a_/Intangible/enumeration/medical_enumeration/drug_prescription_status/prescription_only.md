@@ -36,7 +36,7 @@ aliases:
 Class of all prescription_onlys.
 
 Tag Instances like this: 
-#is_/a_/prescription_only
+#is_a_/prescription_only
 
 Available by prescription only.
 

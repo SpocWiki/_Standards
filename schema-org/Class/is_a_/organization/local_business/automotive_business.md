@@ -34,7 +34,7 @@ aliases:
 Class of all automotive_businesss.
 
 Tag Instances like this: 
-#is_/an_/automotive_business
+#is_an_/automotive_business
 
 Car repair, sales, or parts.
 

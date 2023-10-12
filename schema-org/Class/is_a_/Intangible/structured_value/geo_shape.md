@@ -34,7 +34,7 @@ aliases:
 Class of all geo_shapes.
 
 Tag Instances like this: 
-#is_/a_/geo_shape
+#is_a_/geo_shape
 
 The geographic shape of a place. A GeoShape can be described using several properties whose values are based on latitude/longitude pairs. Either whitespace or commas can be used to separate latitude and longitude; whitespace should be used when writing a list of several such points.
 

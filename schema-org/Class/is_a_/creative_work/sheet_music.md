@@ -34,7 +34,7 @@ aliases:
 Class of all sheet_musics.
 
 Tag Instances like this: 
-#is_/a_/sheet_music
+#is_a_/sheet_music
 
 [ #is_/part_of :: https://pending.schema.org ]
 

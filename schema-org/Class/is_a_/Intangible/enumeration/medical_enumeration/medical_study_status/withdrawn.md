@@ -36,7 +36,7 @@ aliases:
 Class of all withdrawns.
 
 Tag Instances like this: 
-#is_/a_/withdrawn
+#is_a_/withdrawn
 
 Withdrawn.
 

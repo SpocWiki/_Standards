@@ -34,7 +34,7 @@ aliases:
 Class of all email_messages.
 
 Tag Instances like this: 
-#is_/an_/email_message
+#is_an_/email_message
 
 An email message.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all faq_pages.
 
 Tag Instances like this: 
-#is_/a_/faq_page
+#is_a_/faq_page
 
 A <a class="localLink" href="/FAQPage">FAQPage</a> is a <a class="localLink" href="/WebPage">WebPage</a> presenting one or more "<a href="https://en.wikipedia.org/wiki/FAQ">Frequently asked questions</a>" (see also <a class="localLink" href="/QAPage">QAPage</a>).
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AnatomicalStructure, class/Thing/MedicalEntity/AnatomicalStructure, is_an_/AnatomicalStructure, schema-org/AnatomicalStructure]
-tags: ["class/AnatomicalStructure", "#is_/an_/AnatomicalStructure", "class/Thing/MedicalEntity/AnatomicalStructure"]
+tags: ["class/AnatomicalStructure", "#is_an_/AnatomicalStructure", "class/Thing/MedicalEntity/AnatomicalStructure"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ Any part of the human body, typically a component of an anatomical system. Organ
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AnatomicalStructure
+#is_an_/AnatomicalStructure
 #class/AnatomicalStructure
 #class/Thing/MedicalEntity/AnatomicalStructure
 

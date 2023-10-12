@@ -34,7 +34,7 @@ aliases:
 Class of all wear_actions.
 
 Tag Instances like this: 
-#is_/a_/wear_action
+#is_a_/wear_action
 
 The act of dressing oneself in clothing.
 

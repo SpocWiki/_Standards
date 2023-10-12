@@ -36,7 +36,7 @@ aliases:
 Class of all data_downloads.
 
 Tag Instances like this: 
-#is_/a_/data_download
+#is_a_/data_download
 
 All or part of a <a class="localLink" href="/Dataset">Dataset</a> in downloadable form.
 

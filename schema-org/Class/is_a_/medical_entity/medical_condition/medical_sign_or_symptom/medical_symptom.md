@@ -34,7 +34,7 @@ aliases:
 Class of all medical_symptoms.
 
 Tag Instances like this: 
-#is_/a_/medical_symptom
+#is_a_/medical_symptom
 
 Any complaint sensed and expressed by the patient (therefore defined as subjective)  like stomachache, lower-back pain, or fatigue.
 

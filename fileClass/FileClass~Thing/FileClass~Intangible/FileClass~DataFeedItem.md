@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DataFeedItem, class/Thing/Intangible/DataFeedItem, is_a_/DataFeedItem, schema-org/DataFeedItem]
-tags: ["class/DataFeedItem", "#is_/a_/DataFeedItem", "class/Thing/Intangible/DataFeedItem"]
+tags: ["class/DataFeedItem", "#is_a_/DataFeedItem", "class/Thing/Intangible/DataFeedItem"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A single item within a larger data feed.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DataFeedItem
+#is_a_/DataFeedItem
 #class/DataFeedItem
 #class/Thing/Intangible/DataFeedItem
 

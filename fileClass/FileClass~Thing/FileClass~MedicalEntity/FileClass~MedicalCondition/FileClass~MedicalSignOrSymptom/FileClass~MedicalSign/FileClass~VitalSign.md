@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/VitalSign, class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign, is_a_/VitalSign, schema-org/VitalSign]
-tags: ["class/VitalSign", "#is_/a_/VitalSign", "class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign"]
+tags: ["class/VitalSign", "#is_a_/VitalSign", "class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign
 ---
 
@@ -17,7 +17,7 @@ Vital signs are measures of various physiological functions in order to assess t
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/VitalSign
+#is_a_/VitalSign
 #class/VitalSign
 #class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign
 

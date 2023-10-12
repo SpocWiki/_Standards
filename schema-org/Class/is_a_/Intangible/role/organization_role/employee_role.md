@@ -34,7 +34,7 @@ aliases:
 Class of all employee_roles.
 
 Tag Instances like this: 
-#is_/an_/employee_role
+#is_an_/employee_role
 
 A subclass of OrganizationRole used to describe employee relationships.
 

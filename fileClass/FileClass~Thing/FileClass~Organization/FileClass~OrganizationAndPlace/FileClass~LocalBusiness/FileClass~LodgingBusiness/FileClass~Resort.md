@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Resort, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort, is_a_/Resort, schema-org/Resort]
-tags: ["class/Resort", "#is_/a_/Resort", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort"]
+tags: ["class/Resort", "#is_a_/Resort", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LodgingBusiness
 ---
 
@@ -19,7 +19,7 @@ A resort is a place used for relaxation or recreation, attracting visitors for h
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Resort
+#is_a_/Resort
 #class/Resort
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort
 

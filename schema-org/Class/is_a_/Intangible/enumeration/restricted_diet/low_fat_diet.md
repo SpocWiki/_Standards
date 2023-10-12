@@ -36,7 +36,7 @@ aliases:
 Class of all low_fat_diets.
 
 Tag Instances like this: 
-#is_/a_/low_fat_diet
+#is_a_/low_fat_diet
 
 A diet focused on reduced fat and cholesterol intake.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all persons.
 
 Tag Instances like this: 
-#is_/a_/person
+#is_a_/person
 
 A person (alive, dead, undead, or fictional).
 

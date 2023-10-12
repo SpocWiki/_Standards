@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OrganizationAndPlace, class/Thing/Place/OrganizationAndPlace, is_an_/OrganizationAndPlace, schema-org/OrganizationAndPlace]
-tags: ["class/OrganizationAndPlace", "#is_/an_/OrganizationAndPlace", "class/Thing/Place/OrganizationAndPlace"]
+tags: ["class/OrganizationAndPlace", "#is_an_/OrganizationAndPlace", "class/Thing/Place/OrganizationAndPlace"]
 extends: FileClass~Thing/FileClass~Place
 ---
 
@@ -17,7 +17,7 @@ See Organization, Place for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OrganizationAndPlace
+#is_an_/OrganizationAndPlace
 #class/OrganizationAndPlace
 #class/Thing/Place/OrganizationAndPlace
 

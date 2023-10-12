@@ -34,7 +34,7 @@ aliases:
 Class of all contact_pages.
 
 Tag Instances like this: 
-#is_/a_/contact_page
+#is_a_/contact_page
 
 Web page type: Contact page.
 

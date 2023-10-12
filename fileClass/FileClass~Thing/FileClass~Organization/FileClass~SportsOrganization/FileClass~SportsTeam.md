@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SportsTeam, class/Thing/Organization/SportsOrganization/SportsTeam, is_a_/SportsTeam, schema-org/SportsTeam]
-tags: ["class/SportsTeam", "#is_/a_/SportsTeam", "class/Thing/Organization/SportsOrganization/SportsTeam"]
+tags: ["class/SportsTeam", "#is_a_/SportsTeam", "class/Thing/Organization/SportsOrganization/SportsTeam"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization
 ---
 
@@ -17,7 +17,7 @@ Organization: Sports team.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SportsTeam
+#is_a_/SportsTeam
 #class/SportsTeam
 #class/Thing/Organization/SportsOrganization/SportsTeam
 

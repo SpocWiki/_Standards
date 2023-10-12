@@ -34,7 +34,7 @@ aliases:
 Class of all library_systems.
 
 Tag Instances like this: 
-#is_/a_/library_system
+#is_a_/library_system
 
 [ #is_/part_of :: https://pending.schema.org ]
 

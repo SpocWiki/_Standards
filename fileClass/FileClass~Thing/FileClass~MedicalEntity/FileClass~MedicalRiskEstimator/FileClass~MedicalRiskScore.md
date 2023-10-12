@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalRiskScore, class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore, is_a_/MedicalRiskScore, schema-org/MedicalRiskScore]
-tags: ["class/MedicalRiskScore", "#is_/a_/MedicalRiskScore", "class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore"]
+tags: ["class/MedicalRiskScore", "#is_a_/MedicalRiskScore", "class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator
 ---
 
@@ -17,7 +17,7 @@ A simple system that adds up the number of risk factors to yield a score that is
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalRiskScore
+#is_a_/MedicalRiskScore
 #class/MedicalRiskScore
 #class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore
 

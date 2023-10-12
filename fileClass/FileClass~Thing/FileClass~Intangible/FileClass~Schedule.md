@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Schedule, class/Thing/Intangible/Schedule, is_a_/Schedule, schema-org/Schedule]
-tags: ["class/Schedule", "#is_/a_/Schedule", "class/Thing/Intangible/Schedule"]
+tags: ["class/Schedule", "#is_a_/Schedule", "class/Thing/Intangible/Schedule"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -19,7 +19,7 @@ A schedule defines a repeating time period used to describe a regularly occurrin
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Schedule
+#is_a_/Schedule
 #class/Schedule
 #class/Thing/Intangible/Schedule
 

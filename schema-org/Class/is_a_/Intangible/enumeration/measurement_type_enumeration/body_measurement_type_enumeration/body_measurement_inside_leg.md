@@ -36,7 +36,7 @@ aliases:
 Class of all body_measurement_inside_legs.
 
 Tag Instances like this: 
-#is_/a_/body_measurement_inside_leg
+#is_a_/body_measurement_inside_leg
 
 [ #is_/part_of :: https://pending.schema.org ]
 

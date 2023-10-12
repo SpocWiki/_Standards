@@ -34,7 +34,7 @@ aliases:
 Class of all payment_cards.
 
 Tag Instances like this: 
-#is_/a_/payment_card
+#is_a_/payment_card
 
 A payment method using a credit, debit, store or other card to associate the payment with an account.
 

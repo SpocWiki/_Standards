@@ -34,7 +34,7 @@ aliases:
 Class of all lodging_businesss.
 
 Tag Instances like this: 
-#is_/a_/lodging_business
+#is_a_/lodging_business
 
 A lodging business, such as a motel, hotel, or inn.
 

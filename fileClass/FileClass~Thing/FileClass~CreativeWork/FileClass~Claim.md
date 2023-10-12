@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Claim, class/Thing/CreativeWork/Claim, is_a_/Claim, schema-org/Claim]
-tags: ["class/Claim", "#is_/a_/Claim", "class/Thing/CreativeWork/Claim"]
+tags: ["class/Claim", "#is_a_/Claim", "class/Thing/CreativeWork/Claim"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -19,7 +19,7 @@ A [[Claim]] in Schema.org represents a specific, factually-oriented claim that c
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Claim
+#is_a_/Claim
 #class/Claim
 #class/Thing/CreativeWork/Claim
 

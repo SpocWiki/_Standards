@@ -36,7 +36,7 @@ aliases:
 Class of all appearances.
 
 Tag Instances like this: 
-#is_/an_/appearance
+#is_an_/appearance
 
 Appearance assessment with clinical examination.
 

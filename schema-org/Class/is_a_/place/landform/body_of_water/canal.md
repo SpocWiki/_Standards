@@ -34,7 +34,7 @@ aliases:
 Class of all canals.
 
 Tag Instances like this: 
-#is_/a_/canal
+#is_a_/canal
 
 A canal, like the Panama Canal.
 

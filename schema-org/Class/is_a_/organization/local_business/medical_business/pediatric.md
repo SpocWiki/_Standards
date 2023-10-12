@@ -36,7 +36,7 @@ aliases:
 Class of all pediatrics.
 
 Tag Instances like this: 
-#is_/a_/pediatric
+#is_a_/pediatric
 
 A specific branch of medical science that specializes in the care of infants, children and adolescents.
 

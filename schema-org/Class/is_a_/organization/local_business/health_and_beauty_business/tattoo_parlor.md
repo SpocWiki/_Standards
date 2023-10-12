@@ -34,7 +34,7 @@ aliases:
 Class of all tattoo_parlors.
 
 Tag Instances like this: 
-#is_/a_/tattoo_parlor
+#is_a_/tattoo_parlor
 
 A tattoo parlor.
 

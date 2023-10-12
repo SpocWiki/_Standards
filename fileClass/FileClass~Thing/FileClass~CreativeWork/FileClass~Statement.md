@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Statement, class/Thing/CreativeWork/Statement, is_a_/Statement, schema-org/Statement]
-tags: ["class/Statement", "#is_/a_/Statement", "class/Thing/CreativeWork/Statement"]
+tags: ["class/Statement", "#is_a_/Statement", "class/Thing/CreativeWork/Statement"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A statement about something, for example a fun or interesting fact. If known, th
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Statement
+#is_a_/Statement
 #class/Statement
 #class/Thing/CreativeWork/Statement
 

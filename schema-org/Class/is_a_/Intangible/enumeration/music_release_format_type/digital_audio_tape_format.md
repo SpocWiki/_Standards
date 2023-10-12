@@ -36,7 +36,7 @@ aliases:
 Class of all digital_audio_tape_formats.
 
 Tag Instances like this: 
-#is_/a_/digital_audio_tape_format
+#is_a_/digital_audio_tape_format
 
 DigitalAudioTapeFormat.
 

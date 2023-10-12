@@ -36,7 +36,7 @@ aliases:
 Class of all psychiatrics.
 
 Tag Instances like this: 
-#is_/a_/psychiatric
+#is_a_/psychiatric
 
 A specific branch of medical science that is concerned with the study, treatment, and prevention of mental illness, using both medical and psychological therapies.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all tie_actions.
 
 Tag Instances like this: 
-#is_/a_/tie_action
+#is_a_/tie_action
 
 The act of reaching a draw in a competitive activity.
 

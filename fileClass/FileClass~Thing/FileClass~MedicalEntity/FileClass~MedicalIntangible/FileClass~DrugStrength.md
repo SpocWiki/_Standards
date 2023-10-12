@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DrugStrength, class/Thing/MedicalEntity/MedicalIntangible/DrugStrength, is_a_/DrugStrength, schema-org/DrugStrength]
-tags: ["class/DrugStrength", "#is_/a_/DrugStrength", "class/Thing/MedicalEntity/MedicalIntangible/DrugStrength"]
+tags: ["class/DrugStrength", "#is_a_/DrugStrength", "class/Thing/MedicalEntity/MedicalIntangible/DrugStrength"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 ---
 
@@ -17,7 +17,7 @@ A specific strength in which a medical drug is available in a specific country.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DrugStrength
+#is_a_/DrugStrength
 #class/DrugStrength
 #class/Thing/MedicalEntity/MedicalIntangible/DrugStrength
 

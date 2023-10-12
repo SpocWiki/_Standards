@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Consortium, class/Thing/Organization/Consortium, is_a_/Consortium, schema-org/Consortium]
-tags: ["class/Consortium", "#is_/a_/Consortium", "class/Thing/Organization/Consortium"]
+tags: ["class/Consortium", "#is_a_/Consortium", "class/Thing/Organization/Consortium"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -17,7 +17,7 @@ A Consortium is a membership [[Organization]] whose members are typically Organi
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Consortium
+#is_a_/Consortium
 #class/Consortium
 #class/Thing/Organization/Consortium
 

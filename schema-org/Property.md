@@ -49,7 +49,7 @@ A [Relation](Relation.md) connects to another Entity.
 [Property](Property.md) unifies both and can be considered a String/Text-Quantity. 
 
 The Class/Type of all [Properties](../[Properties](Property.md) like this: 
-#is_/a_/property 
+#is_a_/property 
 
 [ #is_/part_of :: https://meta.schema.org ]
 

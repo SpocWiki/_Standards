@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Diet, class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet, is_a_/Diet, schema-org/Diet]
-tags: ["class/Diet", "#is_/a_/Diet", "class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet"]
+tags: ["class/Diet", "#is_a_/Diet", "class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification
 ---
 
@@ -17,7 +17,7 @@ A strategy of regulating the intake of food to achieve or maintain a specific he
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Diet
+#is_a_/Diet
 #class/Diet
 #class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet
 

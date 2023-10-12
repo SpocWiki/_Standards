@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CivicStructureAndSportsActivityLocation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation, is_a_/CivicStructureAndSportsActivityLocation, schema-org/CivicStructureAndSportsActivityLocation]
-tags: ["class/CivicStructureAndSportsActivityLocation", "#is_/a_/CivicStructureAndSportsActivityLocation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation"]
+tags: ["class/CivicStructureAndSportsActivityLocation", "#is_a_/CivicStructureAndSportsActivityLocation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~SportsActivityLocation
 ---
 
@@ -17,7 +17,7 @@ See CivicStructure, SportsActivityLocation for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CivicStructureAndSportsActivityLocation
+#is_a_/CivicStructureAndSportsActivityLocation
 #class/CivicStructureAndSportsActivityLocation
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation
 

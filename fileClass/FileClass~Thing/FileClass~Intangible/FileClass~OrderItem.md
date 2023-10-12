@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OrderItem, class/Thing/Intangible/OrderItem, is_an_/OrderItem, schema-org/OrderItem]
-tags: ["class/OrderItem", "#is_/an_/OrderItem", "class/Thing/Intangible/OrderItem"]
+tags: ["class/OrderItem", "#is_an_/OrderItem", "class/Thing/Intangible/OrderItem"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ An order item is a line of an order. It includes the quantity and shipping detai
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OrderItem
+#is_an_/OrderItem
 #class/OrderItem
 #class/Thing/Intangible/OrderItem
 

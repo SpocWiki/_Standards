@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Taxon, class/Thing/Taxon, is_a_/Taxon, schema-org/Taxon]
-tags: ["class/Taxon", "#is_/a_/Taxon", "class/Thing/Taxon"]
+tags: ["class/Taxon", "#is_a_/Taxon", "class/Thing/Taxon"]
 extends: FileClass~Thing
 ---
 
@@ -17,7 +17,7 @@ A set of organisms asserted to represent a natural cohesive biological unit.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Taxon
+#is_a_/Taxon
 #class/Taxon
 #class/Thing/Taxon
 

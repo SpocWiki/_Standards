@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PropertyValue, class/Thing/Intangible/StructuredValue/PropertyValue, is_a_/PropertyValue, schema-org/PropertyValue]
-tags: ["class/PropertyValue", "#is_/a_/PropertyValue", "class/Thing/Intangible/StructuredValue/PropertyValue"]
+tags: ["class/PropertyValue", "#is_a_/PropertyValue", "class/Thing/Intangible/StructuredValue/PropertyValue"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -19,7 +19,7 @@ A property-value pair, e.g. representing a feature of a product or place. Use th
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PropertyValue
+#is_a_/PropertyValue
 #class/PropertyValue
 #class/Thing/Intangible/StructuredValue/PropertyValue
 

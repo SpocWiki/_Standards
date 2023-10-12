@@ -34,7 +34,7 @@ aliases:
 Class of all shopping_centers.
 
 Tag Instances like this: 
-#is_/a_/shopping_center
+#is_a_/shopping_center
 
 A shopping center or mall.
 

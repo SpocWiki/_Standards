@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CheckAction, class/Thing/Action/FindAction/CheckAction, is_a_/CheckAction, schema-org/CheckAction]
-tags: ["class/CheckAction", "#is_/a_/CheckAction", "class/Thing/Action/FindAction/CheckAction"]
+tags: ["class/CheckAction", "#is_a_/CheckAction", "class/Thing/Action/FindAction/CheckAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~FindAction
 ---
 
@@ -17,7 +17,7 @@ An agent inspects, determines, investigates, inquires, or examines an object's a
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CheckAction
+#is_a_/CheckAction
 #class/CheckAction
 #class/Thing/Action/FindAction/CheckAction
 

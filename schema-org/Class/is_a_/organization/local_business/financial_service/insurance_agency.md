@@ -34,7 +34,7 @@ aliases:
 Class of all insurance_agencys.
 
 Tag Instances like this: 
-#is_/an_/insurance_agency
+#is_an_/insurance_agency
 
 An Insurance agency.
 

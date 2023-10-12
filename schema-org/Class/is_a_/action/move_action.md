@@ -34,7 +34,7 @@ aliases:
 Class of all move_actions.
 
 Tag Instances like this: 
-#is_/a_/move_action
+#is_a_/move_action
 
 The act of an agent relocating to a place.
 

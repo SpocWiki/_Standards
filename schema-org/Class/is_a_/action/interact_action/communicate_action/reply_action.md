@@ -34,7 +34,7 @@ aliases:
 Class of all reply_actions.
 
 Tag Instances like this: 
-#is_/a_/reply_action
+#is_a_/reply_action
 
 The act of responding to a question/message asked/sent by the object. Related to <a class="localLink" href="/AskAction">AskAction</a>.
 

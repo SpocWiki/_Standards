@@ -34,7 +34,7 @@ aliases:
 Class of all some_productss.
 
 Tag Instances like this: 
-#is_/a_/some_products
+#is_a_/some_products
 
 A placeholder for multiple similar products of the same kind.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GeoShape, class/Thing/Intangible/StructuredValue/GeoShape, is_a_/GeoShape, schema-org/GeoShape]
-tags: ["class/GeoShape", "#is_/a_/GeoShape", "class/Thing/Intangible/StructuredValue/GeoShape"]
+tags: ["class/GeoShape", "#is_a_/GeoShape", "class/Thing/Intangible/StructuredValue/GeoShape"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ The geographic shape of a place. A GeoShape can be described using several prope
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/GeoShape
+#is_a_/GeoShape
 #class/GeoShape
 #class/Thing/Intangible/StructuredValue/GeoShape
 

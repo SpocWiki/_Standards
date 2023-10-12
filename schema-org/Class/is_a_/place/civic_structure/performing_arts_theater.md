@@ -34,7 +34,7 @@ aliases:
 Class of all performing_arts_theaters.
 
 Tag Instances like this: 
-#is_/a_/performing_arts_theater
+#is_a_/performing_arts_theater
 
 A theater or other performing art center.
 

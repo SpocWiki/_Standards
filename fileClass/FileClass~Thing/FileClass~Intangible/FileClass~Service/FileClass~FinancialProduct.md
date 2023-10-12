@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FinancialProduct, class/Thing/Intangible/Service/FinancialProduct, is_a_/FinancialProduct, schema-org/FinancialProduct]
-tags: ["class/FinancialProduct", "#is_/a_/FinancialProduct", "class/Thing/Intangible/Service/FinancialProduct"]
+tags: ["class/FinancialProduct", "#is_a_/FinancialProduct", "class/Thing/Intangible/Service/FinancialProduct"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 ---
 
@@ -17,7 +17,7 @@ A product provided to consumers and businesses by financial institutions such as
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FinancialProduct
+#is_a_/FinancialProduct
 #class/FinancialProduct
 #class/Thing/Intangible/Service/FinancialProduct
 

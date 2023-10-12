@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DrugClass, class/Thing/MedicalEntity/DrugClass, is_a_/DrugClass, schema-org/DrugClass]
-tags: ["class/DrugClass", "#is_/a_/DrugClass", "class/Thing/MedicalEntity/DrugClass"]
+tags: ["class/DrugClass", "#is_a_/DrugClass", "class/Thing/MedicalEntity/DrugClass"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ A class of medical drugs, e.g., statins. Classes can represent general pharmacol
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DrugClass
+#is_a_/DrugClass
 #class/DrugClass
 #class/Thing/MedicalEntity/DrugClass
 

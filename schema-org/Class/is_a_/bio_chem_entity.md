@@ -34,7 +34,7 @@ aliases:
 Class of all bio_chem_entitys.
 
 Tag Instances like this: 
-#is_/a_/bio_chem_entity
+#is_a_/bio_chem_entity
 
 [ #is_/part_of :: https://pending.schema.org ]
 

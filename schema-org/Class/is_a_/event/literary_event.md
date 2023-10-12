@@ -34,7 +34,7 @@ aliases:
 Class of all literary_events.
 
 Tag Instances like this: 
-#is_/a_/literary_event
+#is_a_/literary_event
 
 Event type: Literary event.
 

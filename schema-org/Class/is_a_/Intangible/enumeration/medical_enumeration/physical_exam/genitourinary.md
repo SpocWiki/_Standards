@@ -36,7 +36,7 @@ aliases:
 Class of all genitourinarys.
 
 Tag Instances like this: 
-#is_/a_/genitourinary
+#is_a_/genitourinary
 
 Genitourinary system function assessment with clinical examination.
 

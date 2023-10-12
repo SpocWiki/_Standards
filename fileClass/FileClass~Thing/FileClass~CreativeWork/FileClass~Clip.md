@@ -5,7 +5,7 @@ excludes:
 icon: paperclip
 version: 5
 tagNames: [class/Clip, class/Thing/CreativeWork/Clip, is_a_/Clip, schema-org/Clip]
-tags: ["class/Clip", "#is_/a_/Clip", "class/Thing/CreativeWork/Clip"]
+tags: ["class/Clip", "#is_a_/Clip", "class/Thing/CreativeWork/Clip"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A short TV or radio program or a segment/part of a program.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Clip
+#is_a_/Clip
 #class/Clip
 #class/Thing/CreativeWork/Clip
 

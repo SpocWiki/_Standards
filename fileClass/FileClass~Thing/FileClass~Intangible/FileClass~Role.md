@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Role, class/Thing/Intangible/Role, is_a_/Role, schema-org/Role]
-tags: ["class/Role", "#is_/a_/Role", "class/Thing/Intangible/Role"]
+tags: ["class/Role", "#is_a_/Role", "class/Thing/Intangible/Role"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -19,7 +19,7 @@ See also [blog post](http://blog.schema.org/2014/06/introducing-role.html).
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Role
+#is_a_/Role
 #class/Role
 #class/Thing/Intangible/Role
 

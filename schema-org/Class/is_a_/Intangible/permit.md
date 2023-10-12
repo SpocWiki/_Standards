@@ -34,7 +34,7 @@ aliases:
 Class of all permits.
 
 Tag Instances like this: 
-#is_/a_/permit
+#is_a_/permit
 
 A permit issued by an organization, e.g. a parking pass.
 

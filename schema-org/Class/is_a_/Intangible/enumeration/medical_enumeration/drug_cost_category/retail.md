@@ -36,7 +36,7 @@ aliases:
 Class of all retails.
 
 Tag Instances like this: 
-#is_/a_/retail
+#is_a_/retail
 
 The drug's cost represents the retail cost of the drug.
 

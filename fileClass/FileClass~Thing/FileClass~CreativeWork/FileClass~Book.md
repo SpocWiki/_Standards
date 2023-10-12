@@ -5,7 +5,7 @@ excludes:
 icon: book
 version: 5
 tagNames: [class/Book, class/Thing/CreativeWork/Book, is_a_/Book, schema-org/Book]
-tags: ["class/Book", "#is_/a_/Book", "class/Thing/CreativeWork/Book"]
+tags: ["class/Book", "#is_a_/Book", "class/Thing/CreativeWork/Book"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A book.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Book
+#is_a_/Book
 #class/Book
 #class/Thing/CreativeWork/Book
 

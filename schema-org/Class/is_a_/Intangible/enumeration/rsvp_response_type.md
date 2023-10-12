@@ -34,7 +34,7 @@ aliases:
 Class of all rsvp_response_types.
 
 Tag Instances like this: 
-#is_/a_/rsvp_response_type
+#is_a_/rsvp_response_type
 
 RsvpResponseType is an enumeration type whose instances represent responding to an RSVP request.
 

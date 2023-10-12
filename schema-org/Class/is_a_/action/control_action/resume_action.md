@@ -34,7 +34,7 @@ aliases:
 Class of all resume_actions.
 
 Tag Instances like this: 
-#is_/a_/resume_action
+#is_a_/resume_action
 
 The act of resuming a device or application which was formerly paused (e.g. resume music playback or resume a timer).
 

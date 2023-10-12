@@ -36,7 +36,7 @@ aliases:
 Class of all onlines.
 
 Tag Instances like this: 
-#is_/an_/online
+#is_an_/online
 
 Game server status: Online. Server is available.
 

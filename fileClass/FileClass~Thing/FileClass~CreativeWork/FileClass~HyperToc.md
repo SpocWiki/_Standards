@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HyperToc, class/Thing/CreativeWork/HyperToc, is_a_/HyperToc, schema-org/HyperToc]
-tags: ["class/HyperToc", "#is_/a_/HyperToc", "class/Thing/CreativeWork/HyperToc"]
+tags: ["class/HyperToc", "#is_a_/HyperToc", "class/Thing/CreativeWork/HyperToc"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A HyperToc represents a hypertext table of contents for complex media objects, s
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HyperToc
+#is_a_/HyperToc
 #class/HyperToc
 #class/Thing/CreativeWork/HyperToc
 

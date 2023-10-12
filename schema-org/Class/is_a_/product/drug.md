@@ -36,7 +36,7 @@ aliases:
 Class of all drugs.
 
 Tag Instances like this: 
-#is_/a_/drug
+#is_a_/drug
 
 A chemical or biologic substance, used as a medical therapy, that has a physiological effect on an organism. Here the term drug is used interchangeably with the term medicine although clinical knowledge makes a clear difference between them.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all drink_actions.
 
 Tag Instances like this: 
-#is_/a_/drink_action
+#is_a_/drink_action
 
 The act of swallowing liquids.
 

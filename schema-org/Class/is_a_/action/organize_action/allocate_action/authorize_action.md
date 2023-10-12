@@ -34,7 +34,7 @@ aliases:
 Class of all authorize_actions.
 
 Tag Instances like this: 
-#is_/an_/authorize_action
+#is_an_/authorize_action
 
 The act of granting permission to an object.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HyperTocEntry, class/Thing/CreativeWork/HyperTocEntry, is_a_/HyperTocEntry, schema-org/HyperTocEntry]
-tags: ["class/HyperTocEntry", "#is_/a_/HyperTocEntry", "class/Thing/CreativeWork/HyperTocEntry"]
+tags: ["class/HyperTocEntry", "#is_a_/HyperTocEntry", "class/Thing/CreativeWork/HyperTocEntry"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A HyperToEntry is an item within a [[HyperToc]], which represents a hypertext ta
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HyperTocEntry
+#is_a_/HyperTocEntry
 #class/HyperTocEntry
 #class/Thing/CreativeWork/HyperTocEntry
 

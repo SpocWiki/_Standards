@@ -36,7 +36,7 @@ aliases:
 Class of all anesthesias.
 
 Tag Instances like this: 
-#is_/an_/anesthesia
+#is_an_/anesthesia
 
 A specific branch of medical science that pertains to study of anesthetics and their application.
 

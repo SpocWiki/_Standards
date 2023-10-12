@@ -36,7 +36,7 @@ aliases:
 Class of all homeopathics.
 
 Tag Instances like this: 
-#is_/a_/homeopathic
+#is_a_/homeopathic
 
 A system of medicine based on the principle that a disease can be cured by a substance that produces similar symptoms in healthy people.
 

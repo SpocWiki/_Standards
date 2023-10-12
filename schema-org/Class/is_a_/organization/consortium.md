@@ -34,7 +34,7 @@ aliases:
 Class of all consortiums.
 
 Tag Instances like this: 
-#is_/a_/consortium
+#is_a_/consortium
 
 [ #is_/part_of :: https://pending.schema.org ]
 

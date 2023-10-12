@@ -34,7 +34,7 @@ aliases:
 Class of all department_stores.
 
 Tag Instances like this: 
-#is_/a_/department_store
+#is_a_/department_store
 
 A department store.
 

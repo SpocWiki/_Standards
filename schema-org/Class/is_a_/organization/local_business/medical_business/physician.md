@@ -34,7 +34,7 @@ aliases:
 Class of all physicians.
 
 Tag Instances like this: 
-#is_/a_/physician
+#is_a_/physician
 
 A doctor's office.
 

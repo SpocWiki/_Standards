@@ -63,7 +63,7 @@ as the [[is_sub-class_of|subclass-of]] Relation allows to infer many other Class
 
 
 Tagging Instances like this is futile, because it is implied: 
-#is_/a_/thing
+#is_a_/thing
 
 Don't used this Class in a Relation, because it is too vague. Rather use 
 - [[is_instance_of]] for Objects or 

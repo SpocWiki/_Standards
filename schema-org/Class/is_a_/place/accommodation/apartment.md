@@ -34,7 +34,7 @@ aliases:
 Class of all apartments.
 
 Tag Instances like this: 
-#is_/an_/apartment
+#is_an_/apartment
 
 An apartment (in American English) or flat (in British English) is a self-contained housing unit (a type of residential real estate) that occupies only part of a building (source: Wikipedia, the free encyclopedia, see <a href="http://en.wikipedia.org/wiki/Apartment">http://en.wikipedia.org/wiki/Apartment</a>).
 

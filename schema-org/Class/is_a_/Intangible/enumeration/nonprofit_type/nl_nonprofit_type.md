@@ -34,7 +34,7 @@ aliases:
 Class of all nl_nonprofit_types.
 
 Tag Instances like this: 
-#is_/a_/nl_nonprofit_type
+#is_a_/nl_nonprofit_type
 
 [ #is_/part_of :: https://pending.schema.org ]
 

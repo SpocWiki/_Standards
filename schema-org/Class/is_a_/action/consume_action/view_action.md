@@ -34,7 +34,7 @@ aliases:
 Class of all view_actions.
 
 Tag Instances like this: 
-#is_/a_/view_action
+#is_a_/view_action
 
 The act of consuming static visual content.
 

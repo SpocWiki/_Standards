@@ -34,7 +34,7 @@ aliases:
 Class of all solve_math_actions.
 
 Tag Instances like this: 
-#is_/a_/solve_math_action
+#is_a_/solve_math_action
 
 [ #is_/part_of :: https://pending.schema.org ]
 

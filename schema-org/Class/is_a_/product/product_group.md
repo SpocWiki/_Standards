@@ -34,7 +34,7 @@ aliases:
 Class of all product_groups.
 
 Tag Instances like this: 
-#is_/a_/product_group
+#is_a_/product_group
 
 [ #is_/part_of :: https://pending.schema.org ]
 

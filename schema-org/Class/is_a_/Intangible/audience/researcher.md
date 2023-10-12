@@ -34,7 +34,7 @@ aliases:
 Class of all researchers.
 
 Tag Instances like this: 
-#is_/a_/researcher
+#is_a_/researcher
 
 Researchers.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalClinic, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/MedicalClinic, is_a_/MedicalClinic, schema-org/MedicalClinic]
-tags: ["class/MedicalClinic", "#is_/a_/MedicalClinic", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/MedicalClinic"]
+tags: ["class/MedicalClinic", "#is_a_/MedicalClinic", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/MedicalClinic"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization
 ---
 
@@ -17,7 +17,7 @@ A facility, often associated with a hospital or medical school, that is devoted 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalClinic
+#is_a_/MedicalClinic
 #class/MedicalClinic
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/MedicalClinic
 

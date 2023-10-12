@@ -34,7 +34,7 @@ aliases:
 Class of all sports_activity_locations.
 
 Tag Instances like this: 
-#is_/a_/sports_activity_location
+#is_a_/sports_activity_location
 
 A sports location, such as a playing field.
 

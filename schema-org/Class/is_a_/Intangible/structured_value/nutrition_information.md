@@ -34,7 +34,7 @@ aliases:
 Class of all nutrition_informations.
 
 Tag Instances like this: 
-#is_/a_/nutrition_information
+#is_a_/nutrition_information
 
 Nutritional information about the recipe.
 

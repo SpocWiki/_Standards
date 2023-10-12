@@ -36,7 +36,7 @@ aliases:
 Class of all laser_disc_formats.
 
 Tag Instances like this: 
-#is_/a_/laser_disc_format
+#is_a_/laser_disc_format
 
 LaserDiscFormat.
 

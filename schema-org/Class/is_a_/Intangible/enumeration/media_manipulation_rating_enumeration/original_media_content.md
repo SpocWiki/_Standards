@@ -36,7 +36,7 @@ aliases:
 Class of all original_media_contents.
 
 Tag Instances like this: 
-#is_/an_/original_media_content
+#is_an_/original_media_content
 
 [ #is_/part_of :: https://pending.schema.org ]
 

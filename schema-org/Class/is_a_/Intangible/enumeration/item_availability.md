@@ -35,7 +35,7 @@ aliases:
 Class of all item_availabilitys.
 
 Tag Instances like this: 
-#is_/an_/item_availability
+#is_an_/item_availability
 
 A list of possible product availability options:
 - [[item_availability/back_order]]

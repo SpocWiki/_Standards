@@ -34,7 +34,7 @@ aliases:
 Class of all search_results_pages.
 
 Tag Instances like this: 
-#is_/a_/search_results_page
+#is_a_/search_results_page
 
 Web page type: Search results page.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all obstetrics.
 
 Tag Instances like this: 
-#is_/an_/obstetric
+#is_an_/obstetric
 
 A specific branch of medical science that specializes in the care of women during the prenatal and postnatal care and with the delivery of the child.
 

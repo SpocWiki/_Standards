@@ -34,7 +34,7 @@ aliases:
 Class of all react_actions.
 
 Tag Instances like this: 
-#is_/a_/react_action
+#is_a_/react_action
 
 The act of responding instinctively and emotionally to an object, expressing a sentiment.
 

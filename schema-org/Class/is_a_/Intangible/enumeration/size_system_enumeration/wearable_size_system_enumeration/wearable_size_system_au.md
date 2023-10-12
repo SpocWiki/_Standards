@@ -36,7 +36,7 @@ aliases:
 Class of all wearable_size_system_aus.
 
 Tag Instances like this: 
-#is_/a_/wearable_size_system_au
+#is_a_/wearable_size_system_au
 
 [ #is_/part_of :: https://pending.schema.org ]
 

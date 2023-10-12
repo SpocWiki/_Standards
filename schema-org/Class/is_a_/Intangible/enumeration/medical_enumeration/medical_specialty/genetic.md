@@ -36,7 +36,7 @@ aliases:
 Class of all genetics.
 
 Tag Instances like this: 
-#is_/a_/genetic
+#is_a_/genetic
 
 A specific branch of medical science that pertains to hereditary transmission and the variation of inherited characteristics and disorders.
 

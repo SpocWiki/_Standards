@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Guide, class/Thing/CreativeWork/Guide, is_a_/Guide, schema-org/Guide]
-tags: ["class/Guide", "#is_/a_/Guide", "class/Thing/CreativeWork/Guide"]
+tags: ["class/Guide", "#is_a_/Guide", "class/Thing/CreativeWork/Guide"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ This is a kind of [[FileClass~CreativeWork]]
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Guide
+#is_a_/Guide
 #class/Guide
 #class/Thing/CreativeWork/Guide
 

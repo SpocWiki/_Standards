@@ -34,7 +34,7 @@ aliases:
 Class of all medical_risk_scores.
 
 Tag Instances like this: 
-#is_/a_/medical_risk_score
+#is_a_/medical_risk_score
 
 A simple system that adds up the number of risk factors to yield a score that is associated with prognosis, e.g. CHAD score, TIMI risk score.
 

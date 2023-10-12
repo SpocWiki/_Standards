@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Episode, class/Thing/CreativeWork/Episode, is_an_/Episode, schema-org/Episode]
-tags: ["class/Episode", "#is_/an_/Episode", "class/Thing/CreativeWork/Episode"]
+tags: ["class/Episode", "#is_an_/Episode", "class/Thing/CreativeWork/Episode"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A media episode (e.g. TV, radio, video game) which can be part of a series or se
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Episode
+#is_an_/Episode
 #class/Episode
 #class/Thing/CreativeWork/Episode
 

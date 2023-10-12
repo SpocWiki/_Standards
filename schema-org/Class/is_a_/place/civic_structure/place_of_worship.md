@@ -34,7 +34,7 @@ aliases:
 Class of all place_of_worships.
 
 Tag Instances like this: 
-#is_/a_/place_of_worship
+#is_a_/place_of_worship
 
 Place of worship, such as a church, synagogue, or mosque.
 

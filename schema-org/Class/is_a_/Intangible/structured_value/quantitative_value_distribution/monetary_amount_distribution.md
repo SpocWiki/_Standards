@@ -34,7 +34,7 @@ aliases:
 Class of all monetary_amount_distributions.
 
 Tag Instances like this: 
-#is_/a_/monetary_amount_distribution
+#is_a_/monetary_amount_distribution
 
 A statistical distribution of monetary amounts.
 

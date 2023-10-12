@@ -34,7 +34,7 @@ aliases:
 Class of all food_establishment_reservations.
 
 Tag Instances like this: 
-#is_/a_/food_establishment_reservation
+#is_a_/food_establishment_reservation
 
 A reservation to dine at a food-related business.
 

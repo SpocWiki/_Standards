@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Product, class/Thing/Product, is_a_/Product, schema-org/Product]
-tags: ["class/Product", "#is_/a_/Product", "class/Thing/Product"]
+tags: ["class/Product", "#is_a_/Product", "class/Thing/Product"]
 extends: FileClass~Thing
 ---
 
@@ -17,7 +17,7 @@ Any offered product or service. For example: a pair of shoes; a concert ticket; 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Product
+#is_a_/Product
 #class/Product
 #class/Thing/Product
 

@@ -34,7 +34,7 @@ aliases:
 Class of all food_establishments.
 
 Tag Instances like this: 
-#is_/a_/food_establishment
+#is_a_/food_establishment
 
 A food-related business.
 

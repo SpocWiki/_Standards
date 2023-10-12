@@ -34,7 +34,7 @@ aliases:
 Class of all apartment_complexs.
 
 Tag Instances like this: 
-#is_/an_/apartment_complex
+#is_an_/apartment_complex
 
 Residence type: Apartment complex.
 

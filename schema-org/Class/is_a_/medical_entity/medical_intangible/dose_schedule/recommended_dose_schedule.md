@@ -34,7 +34,7 @@ aliases:
 Class of all recommended_dose_schedules.
 
 Tag Instances like this: 
-#is_/a_/recommended_dose_schedule
+#is_a_/recommended_dose_schedule
 
 A recommended dosing schedule for a drug or supplement as prescribed or recommended by an authority or by the drug/supplement's manufacturer. Capture the recommending authority in the recognizingAuthority property of MedicalEntity.
 

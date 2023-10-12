@@ -36,7 +36,7 @@ aliases:
 Class of all leisure_time_activitys.
 
 Tag Instances like this: 
-#is_/a_/leisure_time_activity
+#is_a_/leisure_time_activity
 
 Any physical activity engaged in for recreational purposes. Examples may include ballroom dancing, roller skating, canoeing, fishing, etc.
 

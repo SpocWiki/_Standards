@@ -34,7 +34,7 @@ aliases:
 Class of all government_offices.
 
 Tag Instances like this: 
-#is_/a_/government_office
+#is_a_/government_office
 
 A government office&#x2014;for example, an IRS or DMV office.
 

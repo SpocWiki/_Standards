@@ -37,7 +37,7 @@ e.g. the quantity of twin beds for a hotel room.
 For the single case of just one bed of a certain type, you can use bed directly with a text. See also <a class="localLink" href="/BedType">BedType</a> (under development).
 
 Tag Instances like this: 
-#is_/a_/bed_details
+#is_a_/bed_details
 
 
 

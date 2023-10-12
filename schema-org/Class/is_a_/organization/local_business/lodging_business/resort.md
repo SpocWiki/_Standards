@@ -34,7 +34,7 @@ aliases:
 Class of all resorts.
 
 Tag Instances like this: 
-#is_/a_/resort
+#is_a_/resort
 
 A resort is a place used for relaxation or recreation, attracting visitors for holidays or vacations. Resorts are places, towns or sometimes commercial establishments operated by a single company (source: Wikipedia, the free encyclopedia, see <a href="http://en.wikipedia.org/wiki/Resort">http://en.wikipedia.org/wiki/Resort</a>).
 <br /><br />

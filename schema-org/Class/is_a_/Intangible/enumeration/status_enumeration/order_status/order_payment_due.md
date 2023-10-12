@@ -36,7 +36,7 @@ aliases:
 Class of all order_payment_dues.
 
 Tag Instances like this: 
-#is_/an_/order_payment_due
+#is_an_/order_payment_due
 
 OrderStatus representing that payment is due on an order.
 

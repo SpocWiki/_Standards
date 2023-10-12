@@ -34,7 +34,7 @@ aliases:
 Class of all lend_actions.
 
 Tag Instances like this: 
-#is_/a_/lend_action
+#is_a_/lend_action
 
 The act of providing an object under an agreement that it will be returned at a later date. Reciprocal of BorrowAction.
 

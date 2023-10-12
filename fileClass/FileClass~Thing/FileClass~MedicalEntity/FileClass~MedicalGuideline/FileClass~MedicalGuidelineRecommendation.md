@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalGuidelineRecommendation, class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation, is_a_/MedicalGuidelineRecommendation, schema-org/MedicalGuidelineRecommendation]
-tags: ["class/MedicalGuidelineRecommendation", "#is_/a_/MedicalGuidelineRecommendation", "class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation"]
+tags: ["class/MedicalGuidelineRecommendation", "#is_a_/MedicalGuidelineRecommendation", "class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline
 ---
 
@@ -17,7 +17,7 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalGuidelineRecommendation
+#is_a_/MedicalGuidelineRecommendation
 #class/MedicalGuidelineRecommendation
 #class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation
 

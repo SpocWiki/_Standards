@@ -36,7 +36,7 @@ aliases:
 Class of all used_conditions.
 
 Tag Instances like this: 
-#is_/a_/used_condition
+#is_a_/used_condition
 
 Indicates that the item is used.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all energy_consumption_detailss.
 
 Tag Instances like this: 
-#is_/an_/energy_consumption_details
+#is_an_/energy_consumption_details
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all how_to_steps.
 
 Tag Instances like this: 
-#is_/a_/how_to_step
+#is_a_/how_to_step
 
 A step in the instructions for how to achieve a result. It is an ordered list with HowToDirection and/or HowToTip items.
 

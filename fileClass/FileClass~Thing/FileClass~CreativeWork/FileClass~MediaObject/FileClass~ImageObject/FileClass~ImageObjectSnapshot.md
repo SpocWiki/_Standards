@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ImageObjectSnapshot, class/Thing/CreativeWork/MediaObject/ImageObject/ImageObjectSnapshot, is_an_/ImageObjectSnapshot, schema-org/ImageObjectSnapshot]
-tags: ["class/ImageObjectSnapshot", "#is_/an_/ImageObjectSnapshot", "class/Thing/CreativeWork/MediaObject/ImageObject/ImageObjectSnapshot"]
+tags: ["class/ImageObjectSnapshot", "#is_an_/ImageObjectSnapshot", "class/Thing/CreativeWork/MediaObject/ImageObject/ImageObjectSnapshot"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject
 ---
 
@@ -17,7 +17,7 @@ A specific and exact (byte-for-byte) version of an [[ImageObject]]. Two byte-for
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/ImageObjectSnapshot
+#is_an_/ImageObjectSnapshot
 #class/ImageObjectSnapshot
 #class/Thing/CreativeWork/MediaObject/ImageObject/ImageObjectSnapshot
 

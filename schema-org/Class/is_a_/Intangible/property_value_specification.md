@@ -34,7 +34,7 @@ aliases:
 Class of all property_value_specifications.
 
 Tag Instances like this: 
-#is_/a_/property_value_specification
+#is_a_/property_value_specification
 
 A Property value specification.
 

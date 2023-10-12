@@ -34,7 +34,7 @@ aliases:
 Class of all opening_hours_specifications.
 
 Tag Instances like this: 
-#is_/an_/opening_hours_specification
+#is_an_/opening_hours_specification
 
 A structured value providing information about the opening hours of a place or a certain service inside a place.
 

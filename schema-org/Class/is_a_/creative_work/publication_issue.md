@@ -36,7 +36,7 @@ aliases:
 Class of all publication_issues.
 
 Tag Instances like this: 
-#is_/a_/publication_issue
+#is_a_/publication_issue
 
 A part of a successively published publication such as a periodical or publication volume, often numbered, usually containing a grouping of works such as articles.
 

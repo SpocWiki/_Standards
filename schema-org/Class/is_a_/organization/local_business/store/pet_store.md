@@ -34,7 +34,7 @@ aliases:
 Class of all pet_stores.
 
 Tag Instances like this: 
-#is_/a_/pet_store
+#is_a_/pet_store
 
 A pet store.
 

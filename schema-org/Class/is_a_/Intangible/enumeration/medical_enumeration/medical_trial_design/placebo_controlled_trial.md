@@ -36,7 +36,7 @@ aliases:
 Class of all placebo_controlled_trials.
 
 Tag Instances like this: 
-#is_/a_/placebo_controlled_trial
+#is_a_/placebo_controlled_trial
 
 A placebo-controlled trial design.
 

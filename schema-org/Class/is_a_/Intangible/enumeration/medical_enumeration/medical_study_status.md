@@ -34,7 +34,7 @@ aliases:
 Class of all medical_study_statuss.
 
 Tag Instances like this: 
-#is_/a_/medical_study_status
+#is_a_/medical_study_status
 
 The status of a medical study. Enumerated type.
 

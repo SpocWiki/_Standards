@@ -34,7 +34,7 @@ aliases:
 Class of all enumerations.
 
 Tag Instances like this: 
-#is_/an_/enumeration
+#is_an_/enumeration
 
 Lists or enumerationsâ€”for example, a list of cuisines or music genres, etc.
 

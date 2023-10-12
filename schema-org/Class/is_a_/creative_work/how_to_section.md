@@ -34,7 +34,7 @@ aliases:
 Class of all how_to_sections.
 
 Tag Instances like this: 
-#is_/a_/how_to_section
+#is_a_/how_to_section
 
 A sub-grouping of steps in the instructions for how to achieve a result (e.g. steps for making a pie crust within a pie recipe).
 

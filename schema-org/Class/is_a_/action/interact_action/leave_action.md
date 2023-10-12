@@ -34,7 +34,7 @@ aliases:
 Class of all leave_actions.
 
 Tag Instances like this: 
-#is_/a_/leave_action
+#is_a_/leave_action
 
 An agent leaves an event / group with participants/friends at a location.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all arterys.
 
 Tag Instances like this: 
-#is_/an_/artery
+#is_an_/artery
 
 A type of blood vessel that specifically carries blood away from the heart.
 

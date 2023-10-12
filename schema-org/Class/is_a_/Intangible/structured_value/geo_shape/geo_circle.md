@@ -34,7 +34,7 @@ aliases:
 Class of all geo_circles.
 
 Tag Instances like this: 
-#is_/a_/geo_circle
+#is_a_/geo_circle
 
 A GeoCircle is a GeoShape representing a circular geographic area. As it is a GeoShape
           it provides the simple textual property 'circle', but also allows the combination of postalCode alongside geoRadius.

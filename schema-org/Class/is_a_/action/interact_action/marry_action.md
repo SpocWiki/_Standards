@@ -34,7 +34,7 @@ aliases:
 Class of all marry_actions.
 
 Tag Instances like this: 
-#is_/a_/marry_action
+#is_a_/marry_action
 
 The act of marrying a person.
 

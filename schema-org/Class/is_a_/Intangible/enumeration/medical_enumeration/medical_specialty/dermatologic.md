@@ -38,7 +38,7 @@ aliases:
 Class of all dermatologics.
 
 Tag Instances like this: 
-#is_/a_/dermatologic
+#is_a_/dermatologic
 
 Something relating to or practicing dermatology.
 

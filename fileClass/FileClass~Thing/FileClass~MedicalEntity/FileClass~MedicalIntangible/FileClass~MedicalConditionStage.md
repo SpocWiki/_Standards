@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalConditionStage, class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage, is_a_/MedicalConditionStage, schema-org/MedicalConditionStage]
-tags: ["class/MedicalConditionStage", "#is_/a_/MedicalConditionStage", "class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage"]
+tags: ["class/MedicalConditionStage", "#is_a_/MedicalConditionStage", "class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 ---
 
@@ -17,7 +17,7 @@ A stage of a medical condition, such as 'Stage IIIa'.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalConditionStage
+#is_a_/MedicalConditionStage
 #class/MedicalConditionStage
 #class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage
 

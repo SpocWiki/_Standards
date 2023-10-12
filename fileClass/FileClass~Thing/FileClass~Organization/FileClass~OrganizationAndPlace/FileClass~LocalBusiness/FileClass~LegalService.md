@@ -5,7 +5,7 @@ excludes:
 icon: scale
 version: 5
 tagNames: [class/LegalService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService, is_a_/LegalService, schema-org/LegalService]
-tags: ["class/LegalService", "#is_/a_/LegalService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService"]
+tags: ["class/LegalService", "#is_a_/LegalService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 
@@ -19,7 +19,7 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[Se
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LegalService
+#is_a_/LegalService
 #class/LegalService
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService
 

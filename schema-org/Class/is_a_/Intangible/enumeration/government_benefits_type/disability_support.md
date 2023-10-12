@@ -36,7 +36,7 @@ aliases:
 Class of all disability_supports.
 
 Tag Instances like this: 
-#is_/a_/disability_support
+#is_a_/disability_support
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -36,7 +36,7 @@ aliases:
 Class of all demo_albums.
 
 Tag Instances like this: 
-#is_/a_/demo_album
+#is_a_/demo_album
 
 DemoAlbum.
 

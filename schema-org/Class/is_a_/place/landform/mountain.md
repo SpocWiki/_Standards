@@ -34,7 +34,7 @@ aliases:
 Class of all mountains.
 
 Tag Instances like this: 
-#is_/a_/mountain
+#is_a_/mountain
 
 A mountain, like Mount Whitney or Mount Everest.
 

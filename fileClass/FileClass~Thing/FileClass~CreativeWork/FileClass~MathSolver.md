@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MathSolver, class/Thing/CreativeWork/MathSolver, is_a_/MathSolver, schema-org/MathSolver]
-tags: ["class/MathSolver", "#is_/a_/MathSolver", "class/Thing/CreativeWork/MathSolver"]
+tags: ["class/MathSolver", "#is_a_/MathSolver", "class/Thing/CreativeWork/MathSolver"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A math solver which is capable of solving a subset of mathematical problems.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MathSolver
+#is_a_/MathSolver
 #class/MathSolver
 #class/Thing/CreativeWork/MathSolver
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FlightReservation, class/Thing/Intangible/Reservation/FlightReservation, is_a_/FlightReservation, schema-org/FlightReservation]
-tags: ["class/FlightReservation", "#is_/a_/FlightReservation", "class/Thing/Intangible/Reservation/FlightReservation"]
+tags: ["class/FlightReservation", "#is_a_/FlightReservation", "class/Thing/Intangible/Reservation/FlightReservation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---
 
@@ -19,7 +19,7 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FlightReservation
+#is_a_/FlightReservation
 #class/FlightReservation
 #class/Thing/Intangible/Reservation/FlightReservation
 

@@ -30,7 +30,7 @@ fileClass:
 [[../../Class]] of all [[creative_work]]s.
 
 Tag Instances like this: 
-#is_/a_/creative_work
+#is_a_/creative_work
 
 The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 

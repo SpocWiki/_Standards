@@ -34,7 +34,7 @@ aliases:
 Class of all brands.
 
 Tag Instances like this: 
-#is_/a_/brand
+#is_a_/brand
 
 A brand is a name used by an organization or business person for labeling a product, product group, or similar.
 

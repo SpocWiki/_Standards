@@ -34,7 +34,7 @@ aliases:
 Class of all play_actions.
 
 Tag Instances like this: 
-#is_/a_/play_action
+#is_a_/play_action
 
 The act of playing/exercising/training/performing for enjoyment, leisure, recreation, competition or exercise.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all bike_stores.
 
 Tag Instances like this: 
-#is_/a_/bike_store
+#is_a_/bike_store
 
 A bike store.
 

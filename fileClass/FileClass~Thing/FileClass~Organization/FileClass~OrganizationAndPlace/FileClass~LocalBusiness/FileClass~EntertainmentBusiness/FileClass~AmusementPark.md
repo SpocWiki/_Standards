@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AmusementPark, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark, is_an_/AmusementPark, schema-org/AmusementPark]
-tags: ["class/AmusementPark", "#is_/an_/AmusementPark", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark"]
+tags: ["class/AmusementPark", "#is_an_/AmusementPark", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~EntertainmentBusiness
 ---
 
@@ -17,7 +17,7 @@ An amusement park.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AmusementPark
+#is_an_/AmusementPark
 #class/AmusementPark
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AmusementPark
 

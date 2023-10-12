@@ -36,7 +36,7 @@ aliases:
 Class of all laboratory_sciences.
 
 Tag Instances like this: 
-#is_/a_/laboratory_science
+#is_a_/laboratory_science
 
 A medical science pertaining to chemical, hematological, immunologic, microscopic, or bacteriological diagnostic analyses or research.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all drug_pregnancy_categorys.
 
 Tag Instances like this: 
-#is_/a_/drug_pregnancy_category
+#is_a_/drug_pregnancy_category
 
 Categories that represent an assessment of the risk of fetal injury due to a drug or pharmaceutical used as directed by the mother during pregnancy.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all healthcare_considerations.
 
 Tag Instances like this: 
-#is_/a_/healthcare_consideration
+#is_a_/healthcare_consideration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

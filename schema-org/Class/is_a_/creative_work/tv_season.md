@@ -34,7 +34,7 @@ aliases:
 Class of all tv_seasons.
 
 Tag Instances like this: 
-#is_/a_/tv_season
+#is_a_/tv_season
 
 Season dedicated to TV broadcast and associated online delivery.
 

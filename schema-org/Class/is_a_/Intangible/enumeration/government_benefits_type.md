@@ -34,7 +34,7 @@ aliases:
 Class of all government_benefits_types.
 
 Tag Instances like this: 
-#is_/a_/government_benefits_type
+#is_a_/government_benefits_type
 
 [ #is_/part_of :: https://pending.schema.org ]
 

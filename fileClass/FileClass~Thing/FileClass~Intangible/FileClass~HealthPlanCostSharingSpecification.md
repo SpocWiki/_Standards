@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HealthPlanCostSharingSpecification, class/Thing/Intangible/HealthPlanCostSharingSpecification, is_a_/HealthPlanCostSharingSpecification, schema-org/HealthPlanCostSharingSpecification]
-tags: ["class/HealthPlanCostSharingSpecification", "#is_/a_/HealthPlanCostSharingSpecification", "class/Thing/Intangible/HealthPlanCostSharingSpecification"]
+tags: ["class/HealthPlanCostSharingSpecification", "#is_a_/HealthPlanCostSharingSpecification", "class/Thing/Intangible/HealthPlanCostSharingSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A description of costs to the patient under a given network or formulary.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HealthPlanCostSharingSpecification
+#is_a_/HealthPlanCostSharingSpecification
 #class/HealthPlanCostSharingSpecification
 #class/Thing/Intangible/HealthPlanCostSharingSpecification
 

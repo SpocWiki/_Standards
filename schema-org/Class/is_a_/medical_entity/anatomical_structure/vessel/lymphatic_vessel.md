@@ -34,7 +34,7 @@ aliases:
 Class of all lymphatic_vessels.
 
 Tag Instances like this: 
-#is_/a_/lymphatic_vessel
+#is_a_/lymphatic_vessel
 
 A type of blood vessel that specifically carries lymph fluid unidirectionally toward the heart.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all safety_health_aspects.
 
 Tag Instances like this: 
-#is_/a_/safety_health_aspect
+#is_a_/safety_health_aspect
 
 [ #is_/part_of :: https://pending.schema.org ]
 

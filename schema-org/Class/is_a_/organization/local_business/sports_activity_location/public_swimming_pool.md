@@ -34,7 +34,7 @@ aliases:
 Class of all public_swimming_pools.
 
 Tag Instances like this: 
-#is_/a_/public_swimming_pool
+#is_a_/public_swimming_pool
 
 A public swimming pool.
 

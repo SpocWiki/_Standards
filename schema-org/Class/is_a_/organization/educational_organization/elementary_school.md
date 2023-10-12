@@ -34,7 +34,7 @@ aliases:
 Class of all elementary_schools.
 
 Tag Instances like this: 
-#is_/an_/elementary_school
+#is_an_/elementary_school
 
 An elementary school.
 

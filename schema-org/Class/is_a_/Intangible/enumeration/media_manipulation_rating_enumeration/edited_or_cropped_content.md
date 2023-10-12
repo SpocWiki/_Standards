@@ -36,7 +36,7 @@ aliases:
 Class of all edited_or_cropped_contents.
 
 Tag Instances like this: 
-#is_/an_/edited_or_cropped_content
+#is_an_/edited_or_cropped_content
 
 [ #is_/part_of :: https://pending.schema.org ]
 

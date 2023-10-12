@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ShippingRateSettings, class/Thing/Intangible/StructuredValue/ShippingRateSettings, is_a_/ShippingRateSettings, schema-org/ShippingRateSettings]
-tags: ["class/ShippingRateSettings", "#is_/a_/ShippingRateSettings", "class/Thing/Intangible/StructuredValue/ShippingRateSettings"]
+tags: ["class/ShippingRateSettings", "#is_a_/ShippingRateSettings", "class/Thing/Intangible/StructuredValue/ShippingRateSettings"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A ShippingRateSettings represents re-usable pieces of shipping information. It i
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ShippingRateSettings
+#is_a_/ShippingRateSettings
 #class/ShippingRateSettings
 #class/Thing/Intangible/StructuredValue/ShippingRateSettings
 

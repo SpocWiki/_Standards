@@ -36,7 +36,7 @@ aliases:
 Class of all potential_action_statuss.
 
 Tag Instances like this: 
-#is_/a_/potential_action_status
+#is_a_/potential_action_status
 
 A description of an action that is supported.
 

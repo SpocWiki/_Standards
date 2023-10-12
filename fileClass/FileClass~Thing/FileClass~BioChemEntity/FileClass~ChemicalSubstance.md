@@ -5,7 +5,7 @@ excludes:
 icon: flask-conical
 version: 5
 tagNames: [class/ChemicalSubstance, class/Thing/BioChemEntity/ChemicalSubstance, is_a_/ChemicalSubstance, schema-org/ChemicalSubstance]
-tags: ["class/ChemicalSubstance", "#is_/a_/ChemicalSubstance", "class/Thing/BioChemEntity/ChemicalSubstance"]
+tags: ["class/ChemicalSubstance", "#is_a_/ChemicalSubstance", "class/Thing/BioChemEntity/ChemicalSubstance"]
 extends: FileClass~Thing/FileClass~BioChemEntity
 ---
 
@@ -17,7 +17,7 @@ A chemical substance is 'a portion of matter of constant composition, composed o
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ChemicalSubstance
+#is_a_/ChemicalSubstance
 #class/ChemicalSubstance
 #class/Thing/BioChemEntity/ChemicalSubstance
 

@@ -34,7 +34,7 @@ aliases:
 Class of all media_subscriptions.
 
 Tag Instances like this: 
-#is_/a_/media_subscription
+#is_a_/media_subscription
 
 A subscription which allows a user to access media including audio, video, books, etc.
 

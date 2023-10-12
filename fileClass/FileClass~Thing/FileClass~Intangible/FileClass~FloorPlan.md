@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FloorPlan, class/Thing/Intangible/FloorPlan, is_a_/FloorPlan, schema-org/FloorPlan]
-tags: ["class/FloorPlan", "#is_/a_/FloorPlan", "class/Thing/Intangible/FloorPlan"]
+tags: ["class/FloorPlan", "#is_a_/FloorPlan", "class/Thing/Intangible/FloorPlan"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A FloorPlan is an explicit representation of a collection of similar accommodati
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FloorPlan
+#is_a_/FloorPlan
 #class/FloorPlan
 #class/Thing/Intangible/FloorPlan
 

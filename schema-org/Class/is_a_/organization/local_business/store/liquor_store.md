@@ -34,7 +34,7 @@ aliases:
 Class of all liquor_stores.
 
 Tag Instances like this: 
-#is_/a_/liquor_store
+#is_a_/liquor_store
 
 A shop that sells alcoholic drinks such as wine, beer, whisky and other spirits.
 

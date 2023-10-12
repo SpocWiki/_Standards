@@ -34,7 +34,7 @@ aliases:
 Class of all winerys.
 
 Tag Instances like this: 
-#is_/a_/winery
+#is_a_/winery
 
 A winery.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all organizations.
 
 Tag Instances like this: 
-#is_/an_/organization
+#is_an_/organization
 
 An organization such as a school, NGO, corporation, club, etc.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Order, class/Thing/Intangible/Order, is_an_/Order, schema-org/Order]
-tags: ["class/Order", "#is_/an_/Order", "class/Thing/Intangible/Order"]
+tags: ["class/Order", "#is_an_/Order", "class/Thing/Intangible/Order"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ An order is a confirmation of a transaction (a receipt), which can contain multi
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Order
+#is_an_/Order
 #class/Order
 #class/Thing/Intangible/Order
 

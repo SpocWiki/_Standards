@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Course, class/Thing/CreativeWork/LearningResource/Course, is_a_/Course, schema-org/Course]
-tags: ["class/Course", "#is_/a_/Course", "class/Thing/CreativeWork/LearningResource/Course"]
+tags: ["class/Course", "#is_a_/Course", "class/Thing/CreativeWork/LearningResource/Course"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
 ---
 
@@ -17,7 +17,7 @@ A description of an educational course which may be offered as distinct instance
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Course
+#is_a_/Course
 #class/Course
 #class/Thing/CreativeWork/LearningResource/Course
 

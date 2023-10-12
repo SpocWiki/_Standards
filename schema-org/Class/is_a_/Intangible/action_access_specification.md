@@ -34,7 +34,7 @@ aliases:
 Class of all action_access_specifications.
 
 Tag Instances like this: 
-#is_/an_/action_access_specification
+#is_an_/action_access_specification
 
 A set of requirements that must be fulfilled in order to perform an Action.
 

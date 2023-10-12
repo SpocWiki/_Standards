@@ -34,7 +34,7 @@ aliases:
 Class of all energys.
 
 Tag Instances like this: 
-#is_/an_/energy
+#is_an_/energy
 
 Properties that take Energy as values are of the form '&lt;Number&gt; &lt;Energy unit of measure&gt;'.
 

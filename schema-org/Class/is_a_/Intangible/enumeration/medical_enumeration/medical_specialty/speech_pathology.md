@@ -36,7 +36,7 @@ aliases:
 Class of all speech_pathologys.
 
 Tag Instances like this: 
-#is_/a_/speech_pathology
+#is_a_/speech_pathology
 
 The scientific study and treatment of defects, disorders, and malfunctions of speech and voice, as stuttering, lisping, or lalling, and of language disturbances, as aphasia or delayed language acquisition.
 

@@ -38,7 +38,7 @@ aliases:
 Class of all merchant_return_unspecifieds.
 
 Tag Instances like this: 
-#is_/a_/merchant_return_unspecified
+#is_a_/merchant_return_unspecified
 
 [ #is_/part_of :: https://pending.schema.org ]
 

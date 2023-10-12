@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MortgageLoan, class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan, is_a_/MortgageLoan, schema-org/MortgageLoan]
-tags: ["class/MortgageLoan", "#is_/a_/MortgageLoan", "class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan"]
+tags: ["class/MortgageLoan", "#is_a_/MortgageLoan", "class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit
 ---
 
@@ -17,7 +17,7 @@ A loan in which property or real estate is used as collateral. (A loan securitiz
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MortgageLoan
+#is_a_/MortgageLoan
 #class/MortgageLoan
 #class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan
 

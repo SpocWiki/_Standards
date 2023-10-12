@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Review, class/Thing/CreativeWork/Review, is_a_/Review, schema-org/Review]
-tags: ["class/Review", "#is_/a_/Review", "class/Thing/CreativeWork/Review"]
+tags: ["class/Review", "#is_a_/Review", "class/Thing/CreativeWork/Review"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A review of an item - for example, of a restaurant, movie, or store.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Review
+#is_a_/Review
 #class/Review
 #class/Thing/CreativeWork/Review
 

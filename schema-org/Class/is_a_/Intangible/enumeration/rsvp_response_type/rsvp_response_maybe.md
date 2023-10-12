@@ -36,7 +36,7 @@ aliases:
 Class of all rsvp_response_maybes.
 
 Tag Instances like this: 
-#is_/a_/rsvp_response_maybe
+#is_a_/rsvp_response_maybe
 
 The invitee may or may not attend.
 

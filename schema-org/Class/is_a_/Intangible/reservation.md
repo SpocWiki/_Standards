@@ -34,7 +34,7 @@ aliases:
 Class of all reservations.
 
 Tag Instances like this: 
-#is_/a_/reservation
+#is_a_/reservation
 
 Describes a reservation for travel, dining or an event. Some reservations require tickets. 
 

@@ -34,7 +34,7 @@ aliases:
 Class of all menu_items.
 
 Tag Instances like this: 
-#is_/a_/menu_item
+#is_a_/menu_item
 
 A food or drink item listed in a menu or menu section.
 

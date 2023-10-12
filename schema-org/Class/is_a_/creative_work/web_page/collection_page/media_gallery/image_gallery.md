@@ -34,7 +34,7 @@ aliases:
 Class of all image_gallerys.
 
 Tag Instances like this: 
-#is_/an_/image_gallery
+#is_an_/image_gallery
 
 Web page type: Image gallery page.
 

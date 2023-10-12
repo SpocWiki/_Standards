@@ -34,7 +34,7 @@ aliases:
 Class of all electronics_stores.
 
 Tag Instances like this: 
-#is_/an_/electronics_store
+#is_an_/electronics_store
 
 An electronics store.
 

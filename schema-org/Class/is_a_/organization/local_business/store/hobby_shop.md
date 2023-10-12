@@ -34,7 +34,7 @@ aliases:
 Class of all hobby_shops.
 
 Tag Instances like this: 
-#is_/a_/hobby_shop
+#is_a_/hobby_shop
 
 A store that sells materials useful or necessary for various hobbies.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Poster, class/Thing/CreativeWork/Poster, is_a_/Poster, schema-org/Poster]
-tags: ["class/Poster", "#is_/a_/Poster", "class/Thing/CreativeWork/Poster"]
+tags: ["class/Poster", "#is_a_/Poster", "class/Thing/CreativeWork/Poster"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A large, usually printed placard, bill, or announcement, often illustrated, that
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Poster
+#is_a_/Poster
 #class/Poster
 #class/Thing/CreativeWork/Poster
 

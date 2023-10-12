@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DeactivateAction, class/Thing/Action/ControlAction/DeactivateAction, is_a_/DeactivateAction, schema-org/DeactivateAction]
-tags: ["class/DeactivateAction", "#is_/a_/DeactivateAction", "class/Thing/Action/ControlAction/DeactivateAction"]
+tags: ["class/DeactivateAction", "#is_a_/DeactivateAction", "class/Thing/Action/ControlAction/DeactivateAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ControlAction
 ---
 
@@ -17,7 +17,7 @@ The act of stopping or deactivating a device or application (e.g. stopping a tim
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DeactivateAction
+#is_a_/DeactivateAction
 #class/DeactivateAction
 #class/Thing/Action/ControlAction/DeactivateAction
 

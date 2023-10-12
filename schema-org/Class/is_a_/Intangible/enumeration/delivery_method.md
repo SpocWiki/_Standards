@@ -34,7 +34,7 @@ aliases:
 Class of all delivery_methods.
 
 Tag Instances like this: 
-#is_/a_/delivery_method
+#is_a_/delivery_method
 
 A delivery method is a standardized procedure for transferring the product or service to the destination of fulfillment chosen by the customer. Delivery methods are characterized by the means of transportation used, and by the organization or group that is the contracting party for the sending organization or person.
 

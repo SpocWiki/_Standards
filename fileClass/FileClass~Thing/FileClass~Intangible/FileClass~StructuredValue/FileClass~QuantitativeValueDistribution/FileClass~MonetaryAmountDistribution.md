@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MonetaryAmountDistribution, class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution, is_a_/MonetaryAmountDistribution, schema-org/MonetaryAmountDistribution]
-tags: ["class/MonetaryAmountDistribution", "#is_/a_/MonetaryAmountDistribution", "class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution"]
+tags: ["class/MonetaryAmountDistribution", "#is_a_/MonetaryAmountDistribution", "class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution
 ---
 
@@ -17,7 +17,7 @@ A statistical distribution of monetary amounts.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MonetaryAmountDistribution
+#is_a_/MonetaryAmountDistribution
 #class/MonetaryAmountDistribution
 #class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution
 

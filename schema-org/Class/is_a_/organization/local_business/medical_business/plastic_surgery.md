@@ -36,7 +36,7 @@ aliases:
 Class of all plastic_surgerys.
 
 Tag Instances like this: 
-#is_/a_/plastic_surgery
+#is_a_/plastic_surgery
 
 A specific branch of medical science that pertains to therapeutic or cosmetic repair or re-formation of missing, injured or malformed tissues or body parts by manual and instrumental means.
 

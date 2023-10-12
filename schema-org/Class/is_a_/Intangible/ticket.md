@@ -34,7 +34,7 @@ aliases:
 Class of all tickets.
 
 Tag Instances like this: 
-#is_/a_/ticket
+#is_a_/ticket
 
 Used to describe a ticket to an event, a flight, a bus ride, etc.
 

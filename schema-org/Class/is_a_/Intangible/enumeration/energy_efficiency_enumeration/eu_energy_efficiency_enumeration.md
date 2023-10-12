@@ -34,7 +34,7 @@ aliases:
 Class of all eu_energy_efficiency_enumerations.
 
 Tag Instances like this: 
-#is_/an_/eu_energy_efficiency_enumeration
+#is_an_/eu_energy_efficiency_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

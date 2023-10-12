@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AudioObjectAndBook, class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook, is_an_/AudioObjectAndBook, schema-org/AudioObjectAndBook]
-tags: ["class/AudioObjectAndBook", "#is_/an_/AudioObjectAndBook", "class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook"]
+tags: ["class/AudioObjectAndBook", "#is_an_/AudioObjectAndBook", "class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject
 ---
 
@@ -17,7 +17,7 @@ See AudioObject, Book for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AudioObjectAndBook
+#is_an_/AudioObjectAndBook
 #class/AudioObjectAndBook
 #class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
 

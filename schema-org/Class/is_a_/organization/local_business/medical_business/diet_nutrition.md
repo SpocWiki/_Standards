@@ -36,7 +36,7 @@ aliases:
 Class of all diet_nutritions.
 
 Tag Instances like this: 
-#is_/a_/diet_nutrition
+#is_a_/diet_nutrition
 
 Dietetics and nutrition as a medical specialty.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all catholic_churchs.
 
 Tag Instances like this: 
-#is_/a_/catholic_church
+#is_a_/catholic_church
 
 A Catholic church.
 

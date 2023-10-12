@@ -36,7 +36,7 @@ aliases:
 Class of all wearable_measurement_backs.
 
 Tag Instances like this: 
-#is_/a_/wearable_measurement_back
+#is_a_/wearable_measurement_back
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all event_venues.
 
 Tag Instances like this: 
-#is_/an_/event_venue
+#is_an_/event_venue
 
 An event venue.
 

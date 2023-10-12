@@ -34,7 +34,7 @@ aliases:
 Class of all diagnostic_procedures.
 
 Tag Instances like this: 
-#is_/a_/diagnostic_procedure
+#is_a_/diagnostic_procedure
 
 A medical procedure intended primarily for diagnostic, as opposed to therapeutic, purposes.
 

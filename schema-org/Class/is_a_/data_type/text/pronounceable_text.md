@@ -34,7 +34,7 @@ aliases:
 Class of all pronounceable_texts.
 
 Tag Instances like this: 
-#is_/a_/pronounceable_text
+#is_a_/pronounceable_text
 
 [ #is_/part_of :: https://pending.schema.org ]
 

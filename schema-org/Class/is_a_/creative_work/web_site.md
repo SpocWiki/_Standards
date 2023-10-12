@@ -34,7 +34,7 @@ aliases:
 Class of all web_sites.
 
 Tag Instances like this: 
-#is_/a_/web_site
+#is_a_/web_site
 
 A WebSite is a set of related web pages and other items typically served from a single web domain and accessible via URLs.
 

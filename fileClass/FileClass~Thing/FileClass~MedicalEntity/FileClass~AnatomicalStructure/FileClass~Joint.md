@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Joint, class/Thing/MedicalEntity/AnatomicalStructure/Joint, is_a_/Joint, schema-org/Joint]
-tags: ["class/Joint", "#is_/a_/Joint", "class/Thing/MedicalEntity/AnatomicalStructure/Joint"]
+tags: ["class/Joint", "#is_a_/Joint", "class/Thing/MedicalEntity/AnatomicalStructure/Joint"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---
 
@@ -17,7 +17,7 @@ The anatomical location at which two or more bones make contact.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Joint
+#is_a_/Joint
 #class/Joint
 #class/Thing/MedicalEntity/AnatomicalStructure/Joint
 

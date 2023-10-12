@@ -36,7 +36,7 @@ aliases:
 Class of all co_ops.
 
 Tag Instances like this: 
-#is_/a_/co_op
+#is_a_/co_op
 
 Play mode: CoOp. Co-operative games, where you play on the same team with friends.
 

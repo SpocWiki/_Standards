@@ -5,7 +5,7 @@ excludes:
 icon: car
 version: 5
 tagNames: [class/Car, class/Thing/Product/Vehicle/Car, is_a_/Car, schema-org/Car]
-tags: ["class/Car", "#is_/a_/Car", "class/Thing/Product/Vehicle/Car"]
+tags: ["class/Car", "#is_a_/Car", "class/Thing/Product/Vehicle/Car"]
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 ---
 
@@ -16,7 +16,7 @@ A car is a wheeled, self-powered motor vehicle used for transportation.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Car
+#is_a_/Car
 #class/Car
 #class/Thing/Product/Vehicle/Car
 

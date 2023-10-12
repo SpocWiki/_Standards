@@ -34,7 +34,7 @@ aliases:
 Class of all size_system_enumerations.
 
 Tag Instances like this: 
-#is_/a_/size_system_enumeration
+#is_a_/size_system_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

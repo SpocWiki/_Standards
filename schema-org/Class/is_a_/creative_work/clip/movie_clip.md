@@ -34,7 +34,7 @@ aliases:
 Class of all movie_clips.
 
 Tag Instances like this: 
-#is_/a_/movie_clip
+#is_a_/movie_clip
 
 A short segment/part of a movie.
 

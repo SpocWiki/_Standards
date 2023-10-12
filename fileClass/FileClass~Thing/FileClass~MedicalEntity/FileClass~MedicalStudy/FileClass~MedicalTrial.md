@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalTrial, class/Thing/MedicalEntity/MedicalStudy/MedicalTrial, is_a_/MedicalTrial, schema-org/MedicalTrial]
-tags: ["class/MedicalTrial", "#is_/a_/MedicalTrial", "class/Thing/MedicalEntity/MedicalStudy/MedicalTrial"]
+tags: ["class/MedicalTrial", "#is_a_/MedicalTrial", "class/Thing/MedicalEntity/MedicalStudy/MedicalTrial"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy
 ---
 
@@ -17,7 +17,7 @@ A medical trial is a type of medical study that uses a scientific process to com
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalTrial
+#is_a_/MedicalTrial
 #class/MedicalTrial
 #class/Thing/MedicalEntity/MedicalStudy/MedicalTrial
 

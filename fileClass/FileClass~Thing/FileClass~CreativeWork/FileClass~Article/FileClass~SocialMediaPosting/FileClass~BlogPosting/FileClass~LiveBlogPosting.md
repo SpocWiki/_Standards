@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LiveBlogPosting, class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting, is_a_/LiveBlogPosting, schema-org/LiveBlogPosting]
-tags: ["class/LiveBlogPosting", "#is_/a_/LiveBlogPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting"]
+tags: ["class/LiveBlogPosting", "#is_a_/LiveBlogPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting
 ---
 
@@ -17,7 +17,7 @@ A [[LiveBlogPosting]] is a [[BlogPosting]] intended to provide a rolling textual
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LiveBlogPosting
+#is_a_/LiveBlogPosting
 #class/LiveBlogPosting
 #class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting
 

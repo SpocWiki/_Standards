@@ -34,7 +34,7 @@ aliases:
 Class of all roofing_contractors.
 
 Tag Instances like this: 
-#is_/a_/roofing_contractor
+#is_a_/roofing_contractor
 
 A roofing contractor.
 

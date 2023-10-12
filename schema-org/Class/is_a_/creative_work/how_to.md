@@ -34,7 +34,7 @@ aliases:
 Class of all how_tos.
 
 Tag Instances like this: 
-#is_/a_/how_to
+#is_a_/how_to
 
 Instructions that explain how to achieve a result by performing a sequence of steps.
 

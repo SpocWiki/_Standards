@@ -34,7 +34,7 @@ aliases:
 Class of all bus_or_coachs.
 
 Tag Instances like this: 
-#is_/a_/bus_or_coach
+#is_a_/bus_or_coach
 
 [ #is_/part_of :: https://auto.schema.org ]
 

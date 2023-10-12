@@ -34,7 +34,7 @@ aliases:
 Class of all campgrounds.
 
 Tag Instances like this: 
-#is_/a_/campground
+#is_a_/campground
 
 A camping site, campsite, or <a class="localLink" href="/Campground">Campground</a> is a place used for overnight stay in the outdoors, typically containing individual <a class="localLink" href="/CampingPitch">CampingPitch</a> locations. 
 

@@ -34,7 +34,7 @@ aliases:
 Class of all program_memberships.
 
 Tag Instances like this: 
-#is_/a_/program_membership
+#is_a_/program_membership
 
 Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler clubs (e.g. "AAA"), purchase clubs ("Safeway Club"), etc.
 

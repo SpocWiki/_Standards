@@ -34,7 +34,7 @@ aliases:
 Class of all diagnostic_labs.
 
 Tag Instances like this: 
-#is_/a_/diagnostic_lab
+#is_a_/diagnostic_lab
 
 A medical laboratory that offers on-site or off-site diagnostic services.
 

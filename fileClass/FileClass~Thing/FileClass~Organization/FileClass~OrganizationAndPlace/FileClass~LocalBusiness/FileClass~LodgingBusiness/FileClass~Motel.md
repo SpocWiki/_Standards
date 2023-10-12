@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Motel, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Motel, is_a_/Motel, schema-org/Motel]
-tags: ["class/Motel", "#is_/a_/Motel", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Motel"]
+tags: ["class/Motel", "#is_a_/Motel", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Motel"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LodgingBusiness
 ---
 
@@ -19,7 +19,7 @@ A motel.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Motel
+#is_a_/Motel
 #class/Motel
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Motel
 

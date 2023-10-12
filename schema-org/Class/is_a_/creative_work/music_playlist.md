@@ -34,7 +34,7 @@ aliases:
 Class of all music_playlists.
 
 Tag Instances like this: 
-#is_/a_/music_playlist
+#is_a_/music_playlist
 
 A collection of music tracks in playlist form.
 

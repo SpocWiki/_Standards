@@ -34,7 +34,7 @@ aliases:
 Class of all waterfalls.
 
 Tag Instances like this: 
-#is_/a_/waterfall
+#is_a_/waterfall
 
 A waterfall, like Niagara.
 

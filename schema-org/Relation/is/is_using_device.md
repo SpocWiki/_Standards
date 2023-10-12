@@ -40,7 +40,7 @@ Relation describes that:
 ( #has_/name :: is_using_device)
 ( #has_/range :: MedicalDevice)
 
-#is_/a_/use_action 
+#is_a_/use_action 
 ( [[is_sub_Relation_of]] :: [use_action](../../../Type/is_a_/action/consume_action/use_action.md) )
 
 

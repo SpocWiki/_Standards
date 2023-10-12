@@ -34,7 +34,7 @@ aliases:
 Class of all hotel_rooms.
 
 Tag Instances like this: 
-#is_/a_/hotel_room
+#is_a_/hotel_room
 
 A hotel room is a single room in a hotel.
 <br /><br />

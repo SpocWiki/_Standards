@@ -34,7 +34,7 @@ aliases:
 Class of all transfer_actions.
 
 Tag Instances like this: 
-#is_/a_/transfer_action
+#is_a_/transfer_action
 
 The act of transferring/moving (abstract or concrete) animate or inanimate objects from one place to another.
 

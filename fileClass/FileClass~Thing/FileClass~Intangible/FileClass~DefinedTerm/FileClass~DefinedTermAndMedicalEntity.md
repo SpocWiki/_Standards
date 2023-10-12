@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DefinedTermAndMedicalEntity, class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity, is_a_/DefinedTermAndMedicalEntity, schema-org/DefinedTermAndMedicalEntity]
-tags: ["class/DefinedTermAndMedicalEntity", "#is_/a_/DefinedTermAndMedicalEntity", "class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity"]
+tags: ["class/DefinedTermAndMedicalEntity", "#is_a_/DefinedTermAndMedicalEntity", "class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm
 ---
 
@@ -17,7 +17,7 @@ See DefinedTerm, MedicalEntity for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DefinedTermAndMedicalEntity
+#is_a_/DefinedTermAndMedicalEntity
 #class/DefinedTermAndMedicalEntity
 #class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity
 

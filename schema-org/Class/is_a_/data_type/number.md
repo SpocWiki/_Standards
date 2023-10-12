@@ -34,7 +34,7 @@ aliases:
 Class of all numbers.
 
 Tag Instances like this: 
-#is_/a_/number
+#is_a_/number
 
 Data type: Number.
 

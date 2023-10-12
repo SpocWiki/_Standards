@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BreadcrumbList, class/Thing/Intangible/ItemList/BreadcrumbList, is_a_/BreadcrumbList, schema-org/BreadcrumbList]
-tags: ["class/BreadcrumbList", "#is_/a_/BreadcrumbList", "class/Thing/Intangible/ItemList/BreadcrumbList"]
+tags: ["class/BreadcrumbList", "#is_a_/BreadcrumbList", "class/Thing/Intangible/ItemList/BreadcrumbList"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ItemList
 ---
 
@@ -19,7 +19,7 @@ The [[position]] property is used to reconstruct the order of the items in a Bre
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BreadcrumbList
+#is_a_/BreadcrumbList
 #class/BreadcrumbList
 #class/Thing/Intangible/ItemList/BreadcrumbList
 

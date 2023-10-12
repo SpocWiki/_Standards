@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WriteAction, class/Thing/Action/CreateAction/WriteAction, is_a_/WriteAction, schema-org/WriteAction]
-tags: ["class/WriteAction", "#is_/a_/WriteAction", "class/Thing/Action/CreateAction/WriteAction"]
+tags: ["class/WriteAction", "#is_a_/WriteAction", "class/Thing/Action/CreateAction/WriteAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 ---
 
@@ -17,7 +17,7 @@ The act of authoring written creative content.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WriteAction
+#is_a_/WriteAction
 #class/WriteAction
 #class/Thing/Action/CreateAction/WriteAction
 

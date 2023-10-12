@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AggregateRating, class/Thing/Intangible/Rating/AggregateRating, is_an_/AggregateRating, schema-org/AggregateRating]
-tags: ["class/AggregateRating", "#is_/an_/AggregateRating", "class/Thing/Intangible/Rating/AggregateRating"]
+tags: ["class/AggregateRating", "#is_an_/AggregateRating", "class/Thing/Intangible/Rating/AggregateRating"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating
 ---
 
@@ -17,7 +17,7 @@ The average rating based on multiple ratings or reviews.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AggregateRating
+#is_an_/AggregateRating
 #class/AggregateRating
 #class/Thing/Intangible/Rating/AggregateRating
 

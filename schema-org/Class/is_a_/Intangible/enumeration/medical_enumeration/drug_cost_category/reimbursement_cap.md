@@ -36,7 +36,7 @@ aliases:
 Class of all reimbursement_caps.
 
 Tag Instances like this: 
-#is_/a_/reimbursement_cap
+#is_a_/reimbursement_cap
 
 The drug's cost represents the maximum reimbursement paid by an insurer for the drug.
 

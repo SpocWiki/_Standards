@@ -36,7 +36,7 @@ aliases:
 Class of all decontextualized_contents.
 
 Tag Instances like this: 
-#is_/a_/decontextualized_content
+#is_a_/decontextualized_content
 
 [ #is_/part_of :: https://pending.schema.org ]
 

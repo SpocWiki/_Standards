@@ -34,7 +34,7 @@ aliases:
 Class of all motorcycles.
 
 Tag Instances like this: 
-#is_/a_/motorcycle
+#is_a_/motorcycle
 
 [ #is_/part_of :: https://auto.schema.org ]
 

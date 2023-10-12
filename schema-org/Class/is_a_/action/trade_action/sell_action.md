@@ -34,7 +34,7 @@ aliases:
 Class of all sell_actions.
 
 Tag Instances like this: 
-#is_/a_/sell_action
+#is_a_/sell_action
 
 The act of taking money from a buyer in exchange for goods or services rendered. An agent sells an object, product, or service to a buyer for a price. Reciprocal of BuyAction.
 

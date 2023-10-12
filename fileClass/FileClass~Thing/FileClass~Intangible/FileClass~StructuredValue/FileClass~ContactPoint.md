@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ContactPoint, class/Thing/Intangible/StructuredValue/ContactPoint, is_a_/ContactPoint, schema-org/ContactPoint]
-tags: ["class/ContactPoint", "#is_/a_/ContactPoint", "class/Thing/Intangible/StructuredValue/ContactPoint"]
+tags: ["class/ContactPoint", "#is_a_/ContactPoint", "class/Thing/Intangible/StructuredValue/ContactPoint"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A contact point&#x2014;for example, a Customer Complaints department.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ContactPoint
+#is_a_/ContactPoint
 #class/ContactPoint
 #class/Thing/Intangible/StructuredValue/ContactPoint
 

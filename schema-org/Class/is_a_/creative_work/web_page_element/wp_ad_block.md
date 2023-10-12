@@ -34,7 +34,7 @@ aliases:
 Class of all wp_ad_blocks.
 
 Tag Instances like this: 
-#is_/a_/wp_ad_block
+#is_a_/wp_ad_block
 
 An advertising section of the page.
 

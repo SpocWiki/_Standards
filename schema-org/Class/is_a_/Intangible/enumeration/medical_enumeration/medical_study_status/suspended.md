@@ -36,7 +36,7 @@ aliases:
 Class of all suspendeds.
 
 Tag Instances like this: 
-#is_/a_/suspended
+#is_a_/suspended
 
 Suspended.
 

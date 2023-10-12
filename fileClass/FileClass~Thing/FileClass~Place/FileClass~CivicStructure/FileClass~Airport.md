@@ -5,7 +5,7 @@ excludes:
 icon: plane-landing
 version: 5
 tagNames: [class/Airport, class/Thing/Place/CivicStructure/Airport, is_an_/Airport, schema-org/Airport]
-tags: ["class/Airport", "#is_/an_/Airport", "class/Thing/Place/CivicStructure/Airport"]
+tags: ["class/Airport", "#is_an_/Airport", "class/Thing/Place/CivicStructure/Airport"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 
@@ -17,7 +17,7 @@ An airport.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Airport
+#is_an_/Airport
 #class/Airport
 #class/Thing/Place/CivicStructure/Airport
 

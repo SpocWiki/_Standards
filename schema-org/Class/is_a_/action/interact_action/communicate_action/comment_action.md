@@ -34,7 +34,7 @@ aliases:
 Class of all comment_actions.
 
 Tag Instances like this: 
-#is_/a_/comment_action
+#is_a_/comment_action
 
 The act of generating a comment about a subject.
 

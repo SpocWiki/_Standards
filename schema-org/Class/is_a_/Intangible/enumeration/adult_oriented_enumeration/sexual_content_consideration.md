@@ -36,7 +36,7 @@ aliases:
 Class of all sexual_content_considerations.
 
 Tag Instances like this: 
-#is_/a_/sexual_content_consideration
+#is_a_/sexual_content_consideration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

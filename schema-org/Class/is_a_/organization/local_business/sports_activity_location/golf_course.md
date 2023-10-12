@@ -34,7 +34,7 @@ aliases:
 Class of all golf_courses.
 
 Tag Instances like this: 
-#is_/a_/golf_course
+#is_a_/golf_course
 
 A golf course.
 

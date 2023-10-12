@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EventSeries, class/Thing/Intangible/Series/EventAndSeries/EventSeries, is_an_/EventSeries, schema-org/EventSeries]
-tags: ["class/EventSeries", "#is_/an_/EventSeries", "class/Thing/Intangible/Series/EventAndSeries/EventSeries"]
+tags: ["class/EventSeries", "#is_an_/EventSeries", "class/Thing/Intangible/Series/EventAndSeries/EventSeries"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries
 ---
 
@@ -26,7 +26,7 @@ A series of [[Event]]s. Included events can relate with the series using the [[s
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/EventSeries
+#is_an_/EventSeries
 #class/EventSeries
 #class/Thing/Intangible/Series/EventAndSeries/EventSeries
 

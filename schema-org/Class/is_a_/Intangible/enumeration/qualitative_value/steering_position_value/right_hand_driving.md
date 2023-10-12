@@ -36,7 +36,7 @@ aliases:
 Class of all right_hand_drivings.
 
 Tag Instances like this: 
-#is_/a_/right_hand_driving
+#is_a_/right_hand_driving
 
 The steering position is on the right side of the vehicle (viewed from the main direction of driving).
 

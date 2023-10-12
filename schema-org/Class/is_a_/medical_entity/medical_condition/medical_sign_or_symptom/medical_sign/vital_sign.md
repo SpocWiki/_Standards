@@ -34,7 +34,7 @@ aliases:
 Class of all vital_signs.
 
 Tag Instances like this: 
-#is_/a_/vital_sign
+#is_a_/vital_sign
 
 Vital signs are measures of various physiological functions in order to assess the most basic body functions.
 

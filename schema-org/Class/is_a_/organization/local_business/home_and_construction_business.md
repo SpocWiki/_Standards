@@ -34,7 +34,7 @@ aliases:
 Class of all home_and_construction_businesss.
 
 Tag Instances like this: 
-#is_/a_/home_and_construction_business
+#is_a_/home_and_construction_business
 
 A construction business.
 

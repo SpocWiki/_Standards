@@ -34,7 +34,7 @@ aliases:
 Class of all funding_schemes.
 
 Tag Instances like this: 
-#is_/a_/funding_scheme
+#is_a_/funding_scheme
 
 [ #is_/part_of :: https://pending.schema.org ]
 

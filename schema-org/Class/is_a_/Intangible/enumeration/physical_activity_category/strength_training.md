@@ -36,7 +36,7 @@ aliases:
 Class of all strength_trainings.
 
 Tag Instances like this: 
-#is_/a_/strength_training
+#is_a_/strength_training
 
 Physical activity that is engaged in to improve muscle and bone strength. Also referred to as resistance training.
 

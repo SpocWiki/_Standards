@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Question, class/Thing/CreativeWork/Comment/Question, is_a_/Question, schema-org/Question]
-tags: ["class/Question", "#is_/a_/Question", "class/Thing/CreativeWork/Comment/Question"]
+tags: ["class/Question", "#is_a_/Question", "class/Thing/CreativeWork/Comment/Question"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Comment
 ---
 
@@ -17,7 +17,7 @@ A specific question - e.g. from a user seeking answers online, or collected in a
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Question
+#is_a_/Question
 #class/Question
 #class/Thing/CreativeWork/Comment/Question
 

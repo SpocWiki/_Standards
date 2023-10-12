@@ -36,7 +36,7 @@ aliases:
 Class of all substances.
 
 Tag Instances like this: 
-#is_/a_/substance
+#is_a_/substance
 
 Any matter of defined composition that has discrete existence, whose origin may be biological, mineral or chemical.
 

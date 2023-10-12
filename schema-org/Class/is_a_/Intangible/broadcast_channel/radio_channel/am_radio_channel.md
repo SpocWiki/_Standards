@@ -34,7 +34,7 @@ aliases:
 Class of all am_radio_channels.
 
 Tag Instances like this: 
-#is_/an_/am_radio_channel
+#is_an_/am_radio_channel
 
 A radio channel that uses AM.
 

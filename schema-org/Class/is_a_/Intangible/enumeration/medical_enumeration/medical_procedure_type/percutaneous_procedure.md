@@ -36,7 +36,7 @@ aliases:
 Class of all percutaneous_procedures.
 
 Tag Instances like this: 
-#is_/a_/percutaneous_procedure
+#is_a_/percutaneous_procedure
 
 A type of medical procedure that involves percutaneous techniques, where access to organs or tissue is achieved via needle-puncture of the skin. For example, catheter-based procedures like stent delivery.
 

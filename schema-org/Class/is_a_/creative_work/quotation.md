@@ -34,7 +34,7 @@ aliases:
 Class of all quotations.
 
 Tag Instances like this: 
-#is_/a_/quotation
+#is_a_/quotation
 
 [ #is_/part_of :: https://pending.schema.org ]
 

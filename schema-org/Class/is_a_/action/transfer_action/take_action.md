@@ -34,7 +34,7 @@ aliases:
 Class of all take_actions.
 
 Tag Instances like this: 
-#is_/a_/take_action
+#is_a_/take_action
 
 The act of gaining ownership of an object from an origin. Reciprocal of GiveAction.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all rv_parks.
 
 Tag Instances like this: 
-#is_/a_/rv_park
+#is_a_/rv_park
 
 A place offering space for "Recreational Vehicles", Caravans, mobile homes and the like.
 

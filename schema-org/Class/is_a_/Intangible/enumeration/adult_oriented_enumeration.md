@@ -34,7 +34,7 @@ aliases:
 Class of all adult_oriented_enumerations. 
 
 Tag Instances like this: 
-#is_/an_/adult_oriented_enumeration
+#is_an_/adult_oriented_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

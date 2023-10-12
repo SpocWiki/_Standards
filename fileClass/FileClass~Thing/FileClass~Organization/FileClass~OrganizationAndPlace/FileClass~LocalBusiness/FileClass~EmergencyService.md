@@ -5,7 +5,7 @@ excludes:
 icon: siren
 version: 5
 tagNames: [class/EmergencyService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService, is_an_/EmergencyService, schema-org/EmergencyService]
-tags: ["class/EmergencyService", "#is_/an_/EmergencyService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService"]
+tags: ["class/EmergencyService", "#is_an_/EmergencyService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 
@@ -17,7 +17,7 @@ An emergency service, such as a fire station or ER.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/EmergencyService
+#is_an_/EmergencyService
 #class/EmergencyService
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService
 

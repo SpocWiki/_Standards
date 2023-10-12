@@ -34,7 +34,7 @@ aliases:
 Class of all offer_item_conditions.
 
 Tag Instances like this: 
-#is_/an_/offer_item_condition
+#is_an_/offer_item_condition
 
 A list of possible conditions for the item.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BankAccount, class/Thing/Intangible/Service/FinancialProduct/BankAccount, is_a_/BankAccount, schema-org/BankAccount]
-tags: ["class/BankAccount", "#is_/a_/BankAccount", "class/Thing/Intangible/Service/FinancialProduct/BankAccount"]
+tags: ["class/BankAccount", "#is_a_/BankAccount", "class/Thing/Intangible/Service/FinancialProduct/BankAccount"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 ---
 
@@ -17,7 +17,7 @@ A product or service offered by a bank whereby one may deposit, withdraw or tran
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BankAccount
+#is_a_/BankAccount
 #class/BankAccount
 #class/Thing/Intangible/Service/FinancialProduct/BankAccount
 

@@ -34,7 +34,7 @@ aliases:
 Class of all donate_actions.
 
 Tag Instances like this: 
-#is_/a_/donate_action
+#is_a_/donate_action
 
 The act of providing goods, services, or money without compensation, often for philanthropic reasons.
 

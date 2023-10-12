@@ -34,7 +34,7 @@ aliases:
 Class of all book_format_types.
 
 Tag Instances like this: 
-#is_/a_/book_format_type
+#is_a_/book_format_type
 
 The publication format of the book.
 

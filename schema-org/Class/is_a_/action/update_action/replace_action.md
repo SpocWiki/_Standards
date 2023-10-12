@@ -34,7 +34,7 @@ aliases:
 Class of all replace_actions.
 
 Tag Instances like this: 
-#is_/a_/replace_action
+#is_a_/replace_action
 
 The act of editing a recipient by replacing an old object with a new object.
 

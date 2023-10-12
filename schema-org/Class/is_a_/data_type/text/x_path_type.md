@@ -34,7 +34,7 @@ aliases:
 Class of all x_path_types.
 
 Tag Instances like this: 
-#is_/a_/x_path_type
+#is_a_/x_path_type
 
 [ #is_/part_of :: https://pending.schema.org ]
 

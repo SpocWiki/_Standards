@@ -34,7 +34,7 @@ aliases:
 Class of all endorse_actions.
 
 Tag Instances like this: 
-#is_/an_/endorse_action
+#is_an_/endorse_action
 
 An agent approves/certifies/likes/supports/sanctions an object.
 

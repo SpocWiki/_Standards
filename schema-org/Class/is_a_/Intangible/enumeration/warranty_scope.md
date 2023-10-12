@@ -34,7 +34,7 @@ aliases:
 Class of all warranty_scopes.
 
 Tag Instances like this: 
-#is_/a_/warranty_scope
+#is_a_/warranty_scope
 
 A range of services that will be provided to a customer free of charge in case of a defect or malfunction of a product.
 

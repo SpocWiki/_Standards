@@ -34,7 +34,7 @@ aliases:
 Class of all bar_or_pubs.
 
 Tag Instances like this: 
-#is_/a_/bar_or_pub
+#is_a_/bar_or_pub
 
 A bar or pub.
 

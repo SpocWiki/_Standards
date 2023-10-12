@@ -34,7 +34,7 @@ aliases:
 Class of all auto_washs.
 
 Tag Instances like this: 
-#is_/an_/auto_wash
+#is_an_/auto_wash
 
 A car wash business.
 

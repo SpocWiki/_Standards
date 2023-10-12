@@ -34,7 +34,7 @@ aliases:
 Class of all offer_for_leases.
 
 Tag Instances like this: 
-#is_/an_/offer_for_lease
+#is_an_/offer_for_lease
 
 [ #is_/part_of :: https://pending.schema.org ]
 

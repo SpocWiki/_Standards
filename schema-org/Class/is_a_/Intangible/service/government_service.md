@@ -34,7 +34,7 @@ aliases:
 Class of all government_services.
 
 Tag Instances like this: 
-#is_/a_/government_service
+#is_a_/government_service
 
 A service provided by a government organization, e.g. food stamps, veterans benefits, etc.
 

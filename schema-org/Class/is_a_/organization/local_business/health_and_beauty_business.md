@@ -34,7 +34,7 @@ aliases:
 Class of all health_and_beauty_businesss.
 
 Tag Instances like this: 
-#is_/a_/health_and_beauty_business
+#is_a_/health_and_beauty_business
 
 Health and beauty.
 

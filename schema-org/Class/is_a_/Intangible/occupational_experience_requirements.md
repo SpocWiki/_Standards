@@ -34,7 +34,7 @@ aliases:
 Class of all occupational_experience_requirementss.
 
 Tag Instances like this: 
-#is_/an_/occupational_experience_requirements
+#is_an_/occupational_experience_requirements
 
 [ #is_/part_of :: https://pending.schema.org ]
 

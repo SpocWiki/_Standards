@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DonateAction, class/Thing/Action/TradeAction/DonateAction, is_a_/DonateAction, schema-org/DonateAction]
-tags: ["class/DonateAction", "#is_/a_/DonateAction", "class/Thing/Action/TradeAction/DonateAction"]
+tags: ["class/DonateAction", "#is_a_/DonateAction", "class/Thing/Action/TradeAction/DonateAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---
 
@@ -17,7 +17,7 @@ The act of providing goods, services, or money without compensation, often for p
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DonateAction
+#is_a_/DonateAction
 #class/DonateAction
 #class/Thing/Action/TradeAction/DonateAction
 

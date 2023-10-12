@@ -34,7 +34,7 @@ aliases:
 Class of all legal_force_statuss.
 
 Tag Instances like this: 
-#is_/a_/legal_force_status
+#is_a_/legal_force_status
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ServiceChannel, class/Thing/Intangible/ServiceChannel, is_a_/ServiceChannel, schema-org/ServiceChannel]
-tags: ["class/ServiceChannel", "#is_/a_/ServiceChannel", "class/Thing/Intangible/ServiceChannel"]
+tags: ["class/ServiceChannel", "#is_a_/ServiceChannel", "class/Thing/Intangible/ServiceChannel"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A means for accessing a service, e.g. a government office location, web site, or
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ServiceChannel
+#is_a_/ServiceChannel
 #class/ServiceChannel
 #class/Thing/Intangible/ServiceChannel
 

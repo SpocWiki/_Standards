@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PropertyValueSpecification, class/Thing/Intangible/PropertyValueSpecification, is_a_/PropertyValueSpecification, schema-org/PropertyValueSpecification]
-tags: ["class/PropertyValueSpecification", "#is_/a_/PropertyValueSpecification", "class/Thing/Intangible/PropertyValueSpecification"]
+tags: ["class/PropertyValueSpecification", "#is_a_/PropertyValueSpecification", "class/Thing/Intangible/PropertyValueSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A Property value specification.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PropertyValueSpecification
+#is_a_/PropertyValueSpecification
 #class/PropertyValueSpecification
 #class/Thing/Intangible/PropertyValueSpecification
 

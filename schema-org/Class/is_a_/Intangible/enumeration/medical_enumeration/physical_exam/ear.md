@@ -36,7 +36,7 @@ aliases:
 Class of all ears.
 
 Tag Instances like this: 
-#is_/an_/ear
+#is_an_/ear
 
 Ear function assessment with clinical examination.
 

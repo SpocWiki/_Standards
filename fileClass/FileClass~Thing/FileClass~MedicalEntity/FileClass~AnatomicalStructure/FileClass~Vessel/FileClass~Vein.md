@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Vein, class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Vein, is_a_/Vein, schema-org/Vein]
-tags: ["class/Vein", "#is_/a_/Vein", "class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Vein"]
+tags: ["class/Vein", "#is_a_/Vein", "class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Vein"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel
 ---
 
@@ -17,7 +17,7 @@ A type of blood vessel that specifically carries blood to the heart.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Vein
+#is_a_/Vein
 #class/Vein
 #class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Vein
 

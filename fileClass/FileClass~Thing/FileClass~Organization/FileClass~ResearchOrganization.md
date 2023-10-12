@@ -5,7 +5,7 @@ excludes:
 icon: microscope
 version: 5
 tagNames: [class/ResearchOrganization, class/Thing/Organization/ResearchOrganization, is_a_/ResearchOrganization, schema-org/ResearchOrganization]
-tags: ["class/ResearchOrganization", "#is_/a_/ResearchOrganization", "class/Thing/Organization/ResearchOrganization"]
+tags: ["class/ResearchOrganization", "#is_a_/ResearchOrganization", "class/Thing/Organization/ResearchOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -17,7 +17,7 @@ A Research Organization (e.g. scientific institute, research company).
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ResearchOrganization
+#is_a_/ResearchOrganization
 #class/ResearchOrganization
 #class/Thing/Organization/ResearchOrganization
 

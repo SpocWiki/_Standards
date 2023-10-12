@@ -34,7 +34,7 @@ aliases:
 Class of all medical_risk_calculators.
 
 Tag Instances like this: 
-#is_/a_/medical_risk_calculator
+#is_a_/medical_risk_calculator
 
 A complex mathematical calculation requiring an online calculator, used to assess prognosis. Note: use the url property of Thing to record any URLs for online calculators.
 

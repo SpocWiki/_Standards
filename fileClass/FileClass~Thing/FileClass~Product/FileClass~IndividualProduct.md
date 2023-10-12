@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/IndividualProduct, class/Thing/Product/IndividualProduct, is_an_/IndividualProduct, schema-org/IndividualProduct]
-tags: ["class/IndividualProduct", "#is_/an_/IndividualProduct", "class/Thing/Product/IndividualProduct"]
+tags: ["class/IndividualProduct", "#is_an_/IndividualProduct", "class/Thing/Product/IndividualProduct"]
 extends: FileClass~Thing/FileClass~Product
 ---
 
@@ -17,7 +17,7 @@ A single, identifiable product instance (e.g. a laptop with a particular serial 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/IndividualProduct
+#is_an_/IndividualProduct
 #class/IndividualProduct
 #class/Thing/Product/IndividualProduct
 

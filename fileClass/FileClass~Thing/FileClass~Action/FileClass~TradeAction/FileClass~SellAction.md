@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SellAction, class/Thing/Action/TradeAction/SellAction, is_a_/SellAction, schema-org/SellAction]
-tags: ["class/SellAction", "#is_/a_/SellAction", "class/Thing/Action/TradeAction/SellAction"]
+tags: ["class/SellAction", "#is_a_/SellAction", "class/Thing/Action/TradeAction/SellAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---
 
@@ -17,7 +17,7 @@ The act of taking money from a buyer in exchange for goods or services rendered.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SellAction
+#is_a_/SellAction
 #class/SellAction
 #class/Thing/Action/TradeAction/SellAction
 

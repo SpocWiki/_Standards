@@ -36,7 +36,7 @@ aliases:
 Class of all in_store_onlys.
 
 Tag Instances like this: 
-#is_/an_/in_store_only
+#is_an_/in_store_only
 
 Indicates that the item is available only at physical locations.
 

@@ -38,7 +38,7 @@ aliases:
 Class of all dermatologys.
 
 Tag Instances like this: 
-#is_/a_/dermatology
+#is_a_/dermatology
 
 A specific branch of medical science that pertains to diagnosis and treatment of disorders of skin.
 

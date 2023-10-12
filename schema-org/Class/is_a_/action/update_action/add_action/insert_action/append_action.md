@@ -34,7 +34,7 @@ aliases:
 Class of all append_actions.
 
 Tag Instances like this: 
-#is_/an_/append_action
+#is_an_/append_action
 
 The act of inserting at the end if an ordered collection.
 

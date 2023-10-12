@@ -36,7 +36,7 @@ aliases:
 Class of all rheumatologics.
 
 Tag Instances like this: 
-#is_/a_/rheumatologic
+#is_a_/rheumatologic
 
 A specific branch of medical science that deals with the study and treatment of rheumatic, autoimmune or joint diseases.
 

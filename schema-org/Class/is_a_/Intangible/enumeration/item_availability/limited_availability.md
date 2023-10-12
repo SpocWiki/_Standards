@@ -36,7 +36,7 @@ aliases:
 Class of all limited_availabilitys.
 
 Tag Instances like this: 
-#is_/a_/limited_availability
+#is_a_/limited_availability
 
 Indicates that the item has limited availability.
 

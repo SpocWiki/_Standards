@@ -34,7 +34,7 @@ aliases:
 Class of all employer_aggregate_ratings.
 
 Tag Instances like this: 
-#is_/an_/employer_aggregate_rating
+#is_an_/employer_aggregate_rating
 
 An aggregate rating of an Organization related to its role as an employer.
 

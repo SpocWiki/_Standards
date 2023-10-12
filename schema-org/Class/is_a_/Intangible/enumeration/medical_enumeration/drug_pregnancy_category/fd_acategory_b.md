@@ -36,7 +36,7 @@ aliases:
 Class of all fd_acategory_bs.
 
 Tag Instances like this: 
-#is_/a_/fd_acategory_b
+#is_a_/fd_acategory_b
 
 A designation by the US FDA signifying that animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women.
 

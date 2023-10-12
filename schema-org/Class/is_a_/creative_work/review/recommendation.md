@@ -34,7 +34,7 @@ aliases:
 Class of all recommendations.
 
 Tag Instances like this: 
-#is_/a_/recommendation
+#is_a_/recommendation
 
 [ #is_/part_of :: https://pending.schema.org ]
 

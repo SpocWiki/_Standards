@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SendAction, class/Thing/Action/TransferAction/SendAction, is_a_/SendAction, schema-org/SendAction]
-tags: ["class/SendAction", "#is_/a_/SendAction", "class/Thing/Action/TransferAction/SendAction"]
+tags: ["class/SendAction", "#is_a_/SendAction", "class/Thing/Action/TransferAction/SendAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 
@@ -20,7 +20,7 @@ The act of physically/electronically dispatching an object for transfer from an 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SendAction
+#is_a_/SendAction
 #class/SendAction
 #class/Thing/Action/TransferAction/SendAction
 

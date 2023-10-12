@@ -34,7 +34,7 @@ aliases:
 Class of all satirical_articles.
 
 Tag Instances like this: 
-#is_/a_/satirical_article
+#is_a_/satirical_article
 
 [ #is_/part_of :: https://pending.schema.org ]
 

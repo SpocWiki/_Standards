@@ -34,7 +34,7 @@ aliases:
 Class of all mortgage_loans.
 
 Tag Instances like this: 
-#is_/a_/mortgage_loan
+#is_a_/mortgage_loan
 
 [ #is_/part_of :: https://pending.schema.org ]
 

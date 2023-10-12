@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FurnitureStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/FurnitureStore, is_a_/FurnitureStore, schema-org/FurnitureStore]
-tags: ["class/FurnitureStore", "#is_/a_/FurnitureStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/FurnitureStore"]
+tags: ["class/FurnitureStore", "#is_a_/FurnitureStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/FurnitureStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---
 
@@ -17,7 +17,7 @@ A furniture store.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FurnitureStore
+#is_a_/FurnitureStore
 #class/FurnitureStore
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/FurnitureStore
 

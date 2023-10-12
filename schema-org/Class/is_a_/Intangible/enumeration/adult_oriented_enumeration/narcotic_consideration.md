@@ -36,7 +36,7 @@ aliases:
 Class of all narcotic_considerations.
 
 Tag Instances like this: 
-#is_/a_/narcotic_consideration
+#is_a_/narcotic_consideration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

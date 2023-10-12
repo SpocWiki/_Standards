@@ -36,7 +36,7 @@ aliases:
 Class of all effectiveness_health_aspects.
 
 Tag Instances like this: 
-#is_/an_/effectiveness_health_aspect
+#is_an_/effectiveness_health_aspect
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HowToItem, class/Thing/Intangible/ListItem/HowToItem, is_a_/HowToItem, schema-org/HowToItem]
-tags: ["class/HowToItem", "#is_/a_/HowToItem", "class/Thing/Intangible/ListItem/HowToItem"]
+tags: ["class/HowToItem", "#is_a_/HowToItem", "class/Thing/Intangible/ListItem/HowToItem"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem
 ---
 
@@ -17,7 +17,7 @@ An item used as either a tool or supply when performing the instructions for how
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HowToItem
+#is_a_/HowToItem
 #class/HowToItem
 #class/Thing/Intangible/ListItem/HowToItem
 

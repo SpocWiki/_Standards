@@ -34,7 +34,7 @@ aliases:
 Class of all medical_tests.
 
 Tag Instances like this: 
-#is_/a_/medical_test
+#is_a_/medical_test
 
 Any medical test, typically performed for diagnostic purposes.
 

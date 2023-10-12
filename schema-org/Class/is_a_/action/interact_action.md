@@ -34,7 +34,7 @@ aliases:
 Class of all interact_actions.
 
 Tag Instances like this: 
-#is_/an_/interact_action
+#is_an_/interact_action
 
 The act of interacting with another person or organization.
 

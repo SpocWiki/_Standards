@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CreateAction, class/Thing/Action/CreateAction, is_a_/CreateAction, schema-org/CreateAction]
-tags: ["class/CreateAction", "#is_/a_/CreateAction", "class/Thing/Action/CreateAction"]
+tags: ["class/CreateAction", "#is_a_/CreateAction", "class/Thing/Action/CreateAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -17,7 +17,7 @@ The act of deliberately creating/producing/generating/building a result out of t
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CreateAction
+#is_a_/CreateAction
 #class/CreateAction
 #class/Thing/Action/CreateAction
 

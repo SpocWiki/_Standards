@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CookAction, class/Thing/Action/CreateAction/CookAction, is_a_/CookAction, schema-org/CookAction]
-tags: ["class/CookAction", "#is_/a_/CookAction", "class/Thing/Action/CreateAction/CookAction"]
+tags: ["class/CookAction", "#is_a_/CookAction", "class/Thing/Action/CreateAction/CookAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 ---
 
@@ -17,7 +17,7 @@ The act of producing/preparing food.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CookAction
+#is_a_/CookAction
 #class/CookAction
 #class/Thing/Action/CreateAction/CookAction
 

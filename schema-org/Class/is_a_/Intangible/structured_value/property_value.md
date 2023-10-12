@@ -34,7 +34,7 @@ aliases:
 Class of all property_values.
 
 Tag Instances like this: 
-#is_/a_/property_value
+#is_a_/property_value
 
 A property-value pair, e.g. representing a feature of a product or place. Use the 'name' property for the name of the property. If there is an additional human-readable version of the value, put that into the 'description' property.
 

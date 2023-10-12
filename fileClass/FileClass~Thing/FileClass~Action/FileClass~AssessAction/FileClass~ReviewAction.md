@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReviewAction, class/Thing/Action/AssessAction/ReviewAction, is_a_/ReviewAction, schema-org/ReviewAction]
-tags: ["class/ReviewAction", "#is_/a_/ReviewAction", "class/Thing/Action/AssessAction/ReviewAction"]
+tags: ["class/ReviewAction", "#is_a_/ReviewAction", "class/Thing/Action/AssessAction/ReviewAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 ---
 
@@ -17,7 +17,7 @@ The act of producing a balanced opinion about the object for an audience. An age
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ReviewAction
+#is_a_/ReviewAction
 #class/ReviewAction
 #class/Thing/Action/AssessAction/ReviewAction
 

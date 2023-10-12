@@ -34,7 +34,7 @@ aliases:
 Class of all video_game_clips.
 
 Tag Instances like this: 
-#is_/a_/video_game_clip
+#is_a_/video_game_clip
 
 A short segment/part of a video game.
 

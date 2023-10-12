@@ -36,7 +36,7 @@ aliases:
 Class of all multicellular_parasites.
 
 Tag Instances like this: 
-#is_/a_/multicellular_parasite
+#is_a_/multicellular_parasite
 
 Multicellular parasite that causes an infection.
 

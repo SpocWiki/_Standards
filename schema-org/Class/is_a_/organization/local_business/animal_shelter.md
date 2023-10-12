@@ -34,7 +34,7 @@ aliases:
 Class of all animal_shelters.
 
 Tag Instances like this: 
-#is_/an_/animal_shelter
+#is_an_/animal_shelter
 
 Animal shelter.
 

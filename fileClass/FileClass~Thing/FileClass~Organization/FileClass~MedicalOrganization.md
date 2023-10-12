@@ -5,7 +5,7 @@ excludes:
 icon: cross
 version: 5
 tagNames: [class/MedicalOrganization, class/Thing/Organization/MedicalOrganization, is_a_/MedicalOrganization, schema-org/MedicalOrganization]
-tags: ["class/MedicalOrganization", "#is_/a_/MedicalOrganization", "class/Thing/Organization/MedicalOrganization"]
+tags: ["class/MedicalOrganization", "#is_a_/MedicalOrganization", "class/Thing/Organization/MedicalOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -17,7 +17,7 @@ A medical organization (physical or not), such as hospital, institution or clini
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalOrganization
+#is_a_/MedicalOrganization
 #class/MedicalOrganization
 #class/Thing/Organization/MedicalOrganization
 

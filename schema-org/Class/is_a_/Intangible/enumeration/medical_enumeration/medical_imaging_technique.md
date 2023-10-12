@@ -34,7 +34,7 @@ aliases:
 Class of all medical_imaging_techniques.
 
 Tag Instances like this: 
-#is_/a_/medical_imaging_technique
+#is_a_/medical_imaging_technique
 
 Any medical imaging modality typically used for diagnostic purposes. Enumerated type.
 

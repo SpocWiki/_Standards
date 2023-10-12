@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LifestyleModification, class/Thing/MedicalEntity/LifestyleModification, is_a_/LifestyleModification, schema-org/LifestyleModification]
-tags: ["class/LifestyleModification", "#is_/a_/LifestyleModification", "class/Thing/MedicalEntity/LifestyleModification"]
+tags: ["class/LifestyleModification", "#is_a_/LifestyleModification", "class/Thing/MedicalEntity/LifestyleModification"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ A process of care involving exercise, changes to diet, fitness routines, and oth
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LifestyleModification
+#is_a_/LifestyleModification
 #class/LifestyleModification
 #class/Thing/MedicalEntity/LifestyleModification
 

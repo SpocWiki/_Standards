@@ -34,7 +34,7 @@ aliases:
 Class of all qa_pages.
 
 Tag Instances like this: 
-#is_/a_/qa_page
+#is_a_/qa_page
 
 A QAPage is a WebPage focussed on a specific Question and its Answer(s), e.g. in a question answering site or documenting Frequently Asked Questions (FAQs).
 

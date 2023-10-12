@@ -36,7 +36,7 @@ aliases:
 Class of all return_in_stores.
 
 Tag Instances like this: 
-#is_/a_/return_in_store
+#is_a_/return_in_store
 
 [ #is_/part_of :: https://pending.schema.org ]
 

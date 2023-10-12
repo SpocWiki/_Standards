@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/QAPage, class/Thing/CreativeWork/WebPage/QAPage, is_a_/QAPage, schema-org/QAPage]
-tags: ["class/QAPage", "#is_/a_/QAPage", "class/Thing/CreativeWork/WebPage/QAPage"]
+tags: ["class/QAPage", "#is_a_/QAPage", "class/Thing/CreativeWork/WebPage/QAPage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---
 
@@ -17,7 +17,7 @@ A QAPage is a WebPage focussed on a specific Question and its Answer(s), e.g. in
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/QAPage
+#is_a_/QAPage
 #class/QAPage
 #class/Thing/CreativeWork/WebPage/QAPage
 

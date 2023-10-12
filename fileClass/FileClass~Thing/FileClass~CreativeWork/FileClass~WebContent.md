@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WebContent, class/Thing/CreativeWork/WebContent, is_a_/WebContent, schema-org/WebContent]
-tags: ["class/WebContent", "#is_/a_/WebContent", "class/Thing/CreativeWork/WebContent"]
+tags: ["class/WebContent", "#is_a_/WebContent", "class/Thing/CreativeWork/WebContent"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ WebContent is a type representing all [[WebPage]], [[WebSite]] and [[WebPageElem
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WebContent
+#is_a_/WebContent
 #class/WebContent
 #class/Thing/CreativeWork/WebContent
 

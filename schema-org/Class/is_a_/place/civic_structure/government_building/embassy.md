@@ -34,7 +34,7 @@ aliases:
 Class of all embassys.
 
 Tag Instances like this: 
-#is_/an_/embassy
+#is_an_/embassy
 
 An embassy.
 

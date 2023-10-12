@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InviteAction, class/Thing/Action/InteractAction/CommunicateAction/InviteAction, is_an_/InviteAction, schema-org/InviteAction]
-tags: ["class/InviteAction", "#is_/an_/InviteAction", "class/Thing/Action/InteractAction/CommunicateAction/InviteAction"]
+tags: ["class/InviteAction", "#is_an_/InviteAction", "class/Thing/Action/InteractAction/CommunicateAction/InviteAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---
 
@@ -17,7 +17,7 @@ The act of asking someone to attend an event. Reciprocal of RsvpAction.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/InviteAction
+#is_an_/InviteAction
 #class/InviteAction
 #class/Thing/Action/InteractAction/CommunicateAction/InviteAction
 

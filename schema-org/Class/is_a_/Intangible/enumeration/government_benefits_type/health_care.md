@@ -36,7 +36,7 @@ aliases:
 Class of all health_cares.
 
 Tag Instances like this: 
-#is_/a_/health_care
+#is_a_/health_care
 
 [ #is_/part_of :: https://pending.schema.org ]
 

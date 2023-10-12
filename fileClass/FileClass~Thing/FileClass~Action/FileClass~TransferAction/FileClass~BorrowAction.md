@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BorrowAction, class/Thing/Action/TransferAction/BorrowAction, is_a_/BorrowAction, schema-org/BorrowAction]
-tags: ["class/BorrowAction", "#is_/a_/BorrowAction", "class/Thing/Action/TransferAction/BorrowAction"]
+tags: ["class/BorrowAction", "#is_a_/BorrowAction", "class/Thing/Action/TransferAction/BorrowAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 
@@ -21,7 +21,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BorrowAction
+#is_a_/BorrowAction
 #class/BorrowAction
 #class/Thing/Action/TransferAction/BorrowAction
 

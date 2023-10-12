@@ -36,7 +36,7 @@ aliases:
 Class of all payment_completes.
 
 Tag Instances like this: 
-#is_/a_/payment_complete
+#is_a_/payment_complete
 
 The payment has been received and processed.
 

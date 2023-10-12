@@ -5,7 +5,7 @@ excludes:
 icon: bus
 version: 5
 tagNames: [class/BusOrCoach, class/Thing/Product/Vehicle/BusOrCoach, is_a_/BusOrCoach, schema-org/BusOrCoach]
-tags: ["class/BusOrCoach", "#is_/a_/BusOrCoach", "class/Thing/Product/Vehicle/BusOrCoach"]
+tags: ["class/BusOrCoach", "#is_a_/BusOrCoach", "class/Thing/Product/Vehicle/BusOrCoach"]
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 ---
 
@@ -17,7 +17,7 @@ A bus (also omnibus or autobus) is a road vehicle designed to carry passengers. 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BusOrCoach
+#is_a_/BusOrCoach
 #class/BusOrCoach
 #class/Thing/Product/Vehicle/BusOrCoach
 

@@ -34,7 +34,7 @@ aliases:
 Class of all music_events.
 
 Tag Instances like this: 
-#is_/a_/music_event
+#is_a_/music_event
 
 Event type: Music event.
 

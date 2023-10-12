@@ -36,7 +36,7 @@ aliases:
 Class of all balances.
 
 Tag Instances like this: 
-#is_/a_/balance
+#is_a_/balance
 
 Physical activity that is engaged to help maintain posture and balance.
 

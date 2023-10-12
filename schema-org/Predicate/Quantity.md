@@ -34,7 +34,7 @@ aliases:
 Class of all Quantities, i.e. measurable Values.
 
 Tag Instances like this: 
-#is_/a_/quantity
+#is_a_/quantity
 
 Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 kg' or '4 milligrams'.
 

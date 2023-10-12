@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GameServer, class/Thing/Intangible/GameServer, is_a_/GameServer, schema-org/GameServer]
-tags: ["class/GameServer", "#is_/a_/GameServer", "class/Thing/Intangible/GameServer"]
+tags: ["class/GameServer", "#is_a_/GameServer", "class/Thing/Intangible/GameServer"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ Server that provides game interaction in a multiplayer game.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/GameServer
+#is_a_/GameServer
 #class/GameServer
 #class/Thing/Intangible/GameServer
 

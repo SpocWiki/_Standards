@@ -34,7 +34,7 @@ aliases:
 Class of all food_events.
 
 Tag Instances like this: 
-#is_/a_/food_event
+#is_a_/food_event
 
 Event type: Food event.
 

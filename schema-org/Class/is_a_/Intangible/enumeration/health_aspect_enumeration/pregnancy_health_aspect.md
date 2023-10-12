@@ -36,7 +36,7 @@ aliases:
 Class of all pregnancy_health_aspects.
 
 Tag Instances like this: 
-#is_/a_/pregnancy_health_aspect
+#is_a_/pregnancy_health_aspect
 
 [ #is_/part_of :: https://pending.schema.org ]
 

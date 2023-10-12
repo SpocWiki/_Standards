@@ -36,7 +36,7 @@ aliases:
 Class of all toll_frees.
 
 Tag Instances like this: 
-#is_/a_/toll_free
+#is_a_/toll_free
 
 The associated telephone number is toll free.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all mixtape_albums.
 
 Tag Instances like this: 
-#is_/a_/mixtape_album
+#is_a_/mixtape_album
 
 MixtapeAlbum.
 

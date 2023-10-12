@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/StructuredValue, class/Thing/Intangible/StructuredValue, is_a_/StructuredValue, schema-org/StructuredValue]
-tags: ["class/StructuredValue", "#is_/a_/StructuredValue", "class/Thing/Intangible/StructuredValue"]
+tags: ["class/StructuredValue", "#is_a_/StructuredValue", "class/Thing/Intangible/StructuredValue"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ Structured values are used when the value of a property has a more complex struc
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/StructuredValue
+#is_a_/StructuredValue
 #class/StructuredValue
 #class/Thing/Intangible/StructuredValue
 

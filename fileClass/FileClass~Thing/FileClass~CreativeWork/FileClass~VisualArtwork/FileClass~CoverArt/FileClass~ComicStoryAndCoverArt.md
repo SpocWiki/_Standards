@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ComicStoryAndCoverArt, class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt, is_a_/ComicStoryAndCoverArt, schema-org/ComicStoryAndCoverArt]
-tags: ["class/ComicStoryAndCoverArt", "#is_/a_/ComicStoryAndCoverArt", "class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt"]
+tags: ["class/ComicStoryAndCoverArt", "#is_a_/ComicStoryAndCoverArt", "class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt
 ---
 
@@ -17,7 +17,7 @@ See ComicStory, CoverArt for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ComicStoryAndCoverArt
+#is_a_/ComicStoryAndCoverArt
 #class/ComicStoryAndCoverArt
 #class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt
 

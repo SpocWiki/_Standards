@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PeopleAudience, class/Thing/Intangible/Audience/PeopleAudience, is_a_/PeopleAudience, schema-org/PeopleAudience]
-tags: ["class/PeopleAudience", "#is_/a_/PeopleAudience", "class/Thing/Intangible/Audience/PeopleAudience"]
+tags: ["class/PeopleAudience", "#is_a_/PeopleAudience", "class/Thing/Intangible/Audience/PeopleAudience"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 ---
 
@@ -17,7 +17,7 @@ A set of characteristics belonging to people, e.g. who compose an item's target 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PeopleAudience
+#is_a_/PeopleAudience
 #class/PeopleAudience
 #class/Thing/Intangible/Audience/PeopleAudience
 

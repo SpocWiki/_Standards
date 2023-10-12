@@ -36,7 +36,7 @@ aliases:
 Class of all store_credit_refunds.
 
 Tag Instances like this: 
-#is_/a_/store_credit_refund
+#is_a_/store_credit_refund
 
 [ #is_/part_of :: https://pending.schema.org ]
 

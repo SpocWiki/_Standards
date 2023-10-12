@@ -36,7 +36,7 @@ aliases:
 Class of all otolaryngologics.
 
 Tag Instances like this: 
-#is_/an_/otolaryngologic
+#is_an_/otolaryngologic
 
 A specific branch of medical science that is concerned with the ear, nose and throat and their respective disease states.
 

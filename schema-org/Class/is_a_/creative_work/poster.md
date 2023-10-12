@@ -34,7 +34,7 @@ aliases:
 Class of all posters.
 
 Tag Instances like this: 
-#is_/a_/poster
+#is_a_/poster
 
 [ #is_/part_of :: https://pending.schema.org ]
 

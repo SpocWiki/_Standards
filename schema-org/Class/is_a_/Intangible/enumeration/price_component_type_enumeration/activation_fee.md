@@ -36,7 +36,7 @@ aliases:
 Class of all activation_fees.
 
 Tag Instances like this: 
-#is_/an_/activation_fee
+#is_an_/activation_fee
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all demands.
 
 Tag Instances like this: 
-#is_/a_/demand
+#is_a_/demand
 
 A demand entity represents the public, not necessarily binding, not necessarily exclusive, announcement by an organization or person to seek a certain type of goods or services. For describing demand using this type, the very same properties used for Offer apply.
 

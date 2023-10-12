@@ -34,7 +34,7 @@ aliases:
 Class of all lodging_reservations.
 
 Tag Instances like this: 
-#is_/a_/lodging_reservation
+#is_a_/lodging_reservation
 
 A reservation for lodging at a hotel, motel, inn, etc.
 

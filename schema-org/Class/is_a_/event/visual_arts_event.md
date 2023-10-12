@@ -34,7 +34,7 @@ aliases:
 Class of all visual_arts_events.
 
 Tag Instances like this: 
-#is_/a_/visual_arts_event
+#is_a_/visual_arts_event
 
 Event type: Visual arts event.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all electricians.
 
 Tag Instances like this: 
-#is_/an_/electrician
+#is_an_/electrician
 
 An electrician.
 

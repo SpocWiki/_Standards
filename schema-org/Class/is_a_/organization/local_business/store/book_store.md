@@ -34,7 +34,7 @@ aliases:
 Class of all book_stores.
 
 Tag Instances like this: 
-#is_/a_/book_store
+#is_a_/book_store
 
 A bookstore.
 

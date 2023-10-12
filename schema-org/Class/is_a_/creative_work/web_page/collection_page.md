@@ -34,7 +34,7 @@ aliases:
 Class of all collection_pages.
 
 Tag Instances like this: 
-#is_/a_/collection_page
+#is_a_/collection_page
 
 Web page type: Collection page.
 

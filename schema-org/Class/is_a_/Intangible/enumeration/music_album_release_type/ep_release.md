@@ -36,7 +36,7 @@ aliases:
 Class of all ep_releases.
 
 Tag Instances like this: 
-#is_/an_/ep_release
+#is_an_/ep_release
 
 EPRelease.
 

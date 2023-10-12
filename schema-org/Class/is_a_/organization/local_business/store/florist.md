@@ -34,7 +34,7 @@ aliases:
 Class of all florists.
 
 Tag Instances like this: 
-#is_/a_/florist
+#is_a_/florist
 
 A florist.
 

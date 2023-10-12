@@ -36,7 +36,7 @@ aliases:
 Class of all nursings.
 
 Tag Instances like this: 
-#is_/a_/nursing
+#is_a_/nursing
 
 A health profession of a person formally educated and trained in the care of the sick or infirm person.
 

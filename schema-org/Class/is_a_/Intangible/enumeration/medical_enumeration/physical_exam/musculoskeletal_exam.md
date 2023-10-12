@@ -36,7 +36,7 @@ aliases:
 Class of all musculoskeletal_exams.
 
 Tag Instances like this: 
-#is_/a_/musculoskeletal_exam
+#is_a_/musculoskeletal_exam
 
 Musculoskeletal system clinical examination.
 

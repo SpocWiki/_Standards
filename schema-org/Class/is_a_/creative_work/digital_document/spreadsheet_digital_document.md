@@ -34,7 +34,7 @@ aliases:
 Class of all spreadsheet_digital_documents.
 
 Tag Instances like this: 
-#is_/a_/spreadsheet_digital_document
+#is_a_/spreadsheet_digital_document
 
 A spreadsheet file.
 

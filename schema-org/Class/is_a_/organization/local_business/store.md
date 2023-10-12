@@ -28,7 +28,7 @@ aliases:
 Class of all stores.
 
 Tag Instances like this: 
-#is_/a_/store
+#is_a_/store
 
 A retail good store.
 

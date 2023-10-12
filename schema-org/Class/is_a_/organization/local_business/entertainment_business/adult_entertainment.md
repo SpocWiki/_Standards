@@ -34,7 +34,7 @@ aliases:
 Class of all adult_entertainments.
 
 Tag Instances like this: 
-#is_/an_/adult_entertainment
+#is_an_/adult_entertainment
 
 An adult entertainment establishment.
 

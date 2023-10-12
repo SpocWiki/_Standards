@@ -34,7 +34,7 @@ aliases:
 Class of all wholesale_stores.
 
 Tag Instances like this: 
-#is_/a_/wholesale_store
+#is_a_/wholesale_store
 
 A wholesale store.
 

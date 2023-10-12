@@ -34,7 +34,7 @@ aliases:
 Class of all archive_organizations.
 
 Tag Instances like this: 
-#is_/an_/archive_organization
+#is_an_/archive_organization
 
 [ #is_/part_of :: https://pending.schema.org ]
 

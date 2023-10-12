@@ -34,7 +34,7 @@ aliases:
 Class of all playgrounds.
 
 Tag Instances like this: 
-#is_/a_/playground
+#is_a_/playground
 
 A playground.
 

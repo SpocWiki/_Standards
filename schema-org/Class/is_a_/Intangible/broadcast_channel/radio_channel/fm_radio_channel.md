@@ -34,7 +34,7 @@ aliases:
 Class of all fm_radio_channels.
 
 Tag Instances like this: 
-#is_/a_/fm_radio_channel
+#is_a_/fm_radio_channel
 
 A radio channel that uses FM.
 

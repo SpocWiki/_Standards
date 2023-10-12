@@ -34,7 +34,7 @@ aliases:
 Class of all video_games.
 
 Tag Instances like this: 
-#is_/a_/video_game
+#is_a_/video_game
 
 A video game is an electronic game that involves human interaction with a user interface to generate visual feedback on a video device.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all tourist_destinations.
 
 Tag Instances like this: 
-#is_/a_/tourist_destination
+#is_a_/tourist_destination
 
 [ #is_/part_of :: https://pending.schema.org ]
 

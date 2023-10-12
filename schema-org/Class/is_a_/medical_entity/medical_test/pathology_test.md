@@ -34,7 +34,7 @@ aliases:
 Class of all pathology_tests.
 
 Tag Instances like this: 
-#is_/a_/pathology_test
+#is_a_/pathology_test
 
 A medical test performed by a laboratory that typically involves examination of a tissue sample by a pathologist.
 

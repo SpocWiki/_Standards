@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ConstraintNode, class/Thing/Intangible/ConstraintNode, is_a_/ConstraintNode, schema-org/ConstraintNode]
-tags: ["class/ConstraintNode", "#is_/a_/ConstraintNode", "class/Thing/Intangible/ConstraintNode"]
+tags: ["class/ConstraintNode", "#is_a_/ConstraintNode", "class/Thing/Intangible/ConstraintNode"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -18,7 +18,7 @@ The ConstraintNode type is provided to support usecases in which a node in a str
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ConstraintNode
+#is_a_/ConstraintNode
 #class/ConstraintNode
 #class/Thing/Intangible/ConstraintNode
 

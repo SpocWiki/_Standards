@@ -34,7 +34,7 @@ aliases:
 Class of all crematoriums.
 
 Tag Instances like this: 
-#is_/a_/crematorium
+#is_a_/crematorium
 
 A crematorium.
 

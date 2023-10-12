@@ -34,7 +34,7 @@ aliases:
 Class of all moving_companys.
 
 Tag Instances like this: 
-#is_/a_/moving_company
+#is_a_/moving_company
 
 A moving company.
 

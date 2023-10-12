@@ -34,7 +34,7 @@ aliases:
 Class of all urls.
 
 Tag Instances like this: 
-#is_/a_/url
+#is_a_/url
 
 Data type: URL.
 

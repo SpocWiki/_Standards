@@ -34,7 +34,7 @@ aliases:
 Class of all music_album_release_types.
 
 Tag Instances like this: 
-#is_/a_/music_album_release_type
+#is_a_/music_album_release_type
 
 The kind of release which this album is: single, EP or album.
 

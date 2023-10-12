@@ -34,7 +34,7 @@ aliases:
 Class of all comedy_events.
 
 Tag Instances like this: 
-#is_/a_/comedy_event
+#is_a_/comedy_event
 
 Event type: Comedy event.
 

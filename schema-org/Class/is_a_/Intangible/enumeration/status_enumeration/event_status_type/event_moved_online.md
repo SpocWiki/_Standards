@@ -36,7 +36,7 @@ aliases:
 Class of all event_moved_onlines.
 
 Tag Instances like this: 
-#is_/an_/event_moved_online
+#is_an_/event_moved_online
 
 Indicates that the event was changed to allow online participation. See <a class="localLink" href="/eventAttendanceMode">eventAttendanceMode</a> for specifics of whether it is now fully or partially online.
 

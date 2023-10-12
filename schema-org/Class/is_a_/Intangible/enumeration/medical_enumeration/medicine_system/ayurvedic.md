@@ -36,7 +36,7 @@ aliases:
 Class of all ayurvedics.
 
 Tag Instances like this: 
-#is_/an_/ayurvedic
+#is_an_/ayurvedic
 
 A system of medicine that originated in India over thousands of years and that focuses on integrating and balancing the body, mind, and spirit.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all noninvasive_procedures.
 
 Tag Instances like this: 
-#is_/a_/noninvasive_procedure
+#is_a_/noninvasive_procedure
 
 A type of medical procedure that involves noninvasive techniques.
 

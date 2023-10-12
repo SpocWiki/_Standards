@@ -36,7 +36,7 @@ aliases:
 Class of all creative_work_seasons.
 
 Tag Instances like this: 
-#is_/a_/creative_work_season
+#is_a_/creative_work_season
 
 A media season, e.g. TV, radio, video game etc.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all professional_services.
 
 Tag Instances like this: 
-#is_/a_/professional_service
+#is_a_/professional_service
 
 Original definition: "provider of professional services."
 

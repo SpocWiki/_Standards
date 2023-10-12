@@ -36,7 +36,7 @@ aliases:
 Class of all event_cancelleds.
 
 Tag Instances like this: 
-#is_/an_/event_cancelled
+#is_an_/event_cancelled
 
 The event has been cancelled. If the event has multiple startDate values, all are assumed to be cancelled. Either startDate or previousStartDate may be used to specify the event's cancelled date(s).
 

@@ -36,7 +36,7 @@ aliases:
 Class of all list_prices.
 
 Tag Instances like this: 
-#is_/a_/list_price
+#is_a_/list_price
 
 [ #is_/part_of :: https://pending.schema.org ]
 

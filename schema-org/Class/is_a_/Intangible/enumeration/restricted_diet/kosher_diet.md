@@ -36,7 +36,7 @@ aliases:
 Class of all kosher_diets.
 
 Tag Instances like this: 
-#is_/a_/kosher_diet
+#is_a_/kosher_diet
 
 A diet conforming to Jewish dietary practices.
 

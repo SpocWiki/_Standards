@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Language, class/Thing/Intangible/Language, is_a_/Language, schema-org/Language]
-tags: ["class/Language", "#is_/a_/Language", "class/Thing/Intangible/Language"]
+tags: ["class/Language", "#is_a_/Language", "class/Thing/Intangible/Language"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ Natural languages such as Spanish, Tamil, Hindi, English, etc. Formal language c
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Language
+#is_a_/Language
 #class/Language
 #class/Thing/Intangible/Language
 

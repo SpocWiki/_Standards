@@ -34,7 +34,7 @@ aliases:
 Class of all medical_risk_estimators.
 
 Tag Instances like this: 
-#is_/a_/medical_risk_estimator
+#is_a_/medical_risk_estimator
 
 Any rule set or interactive tool for estimating the risk of developing a complication or condition.
 

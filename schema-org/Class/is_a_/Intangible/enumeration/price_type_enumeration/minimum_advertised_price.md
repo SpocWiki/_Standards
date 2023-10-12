@@ -36,7 +36,7 @@ aliases:
 Class of all minimum_advertised_prices.
 
 Tag Instances like this: 
-#is_/a_/minimum_advertised_price
+#is_a_/minimum_advertised_price
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReviewNewsArticle, class/Thing/CreativeWork/Review/CriticReview/CriticReviewAndNewsArticle/ReviewNewsArticle, is_a_/ReviewNewsArticle, schema-org/ReviewNewsArticle]
-tags: ["class/ReviewNewsArticle", "#is_/a_/ReviewNewsArticle", "class/Thing/CreativeWork/Review/CriticReview/CriticReviewAndNewsArticle/ReviewNewsArticle"]
+tags: ["class/ReviewNewsArticle", "#is_a_/ReviewNewsArticle", "class/Thing/CreativeWork/Review/CriticReview/CriticReviewAndNewsArticle/ReviewNewsArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~CriticReviewAndNewsArticle
 ---
 
@@ -17,7 +17,7 @@ A [[NewsArticle]] and [[CriticReview]] providing a professional critic's assessm
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ReviewNewsArticle
+#is_a_/ReviewNewsArticle
 #class/ReviewNewsArticle
 #class/Thing/CreativeWork/Review/CriticReview/CriticReviewAndNewsArticle/ReviewNewsArticle
 

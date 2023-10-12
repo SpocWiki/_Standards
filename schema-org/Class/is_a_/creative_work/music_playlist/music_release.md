@@ -34,7 +34,7 @@ aliases:
 Class of all music_releases.
 
 Tag Instances like this: 
-#is_/a_/music_release
+#is_a_/music_release
 
 A MusicRelease is a specific release of a music album.
 

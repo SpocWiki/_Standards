@@ -36,7 +36,7 @@ aliases:
 Class of all failed_action_statuss.
 
 Tag Instances like this: 
-#is_/a_/failed_action_status
+#is_a_/failed_action_status
 
 An action that failed to complete. The action's error property and the HTTP return code contain more information about the failure.
 

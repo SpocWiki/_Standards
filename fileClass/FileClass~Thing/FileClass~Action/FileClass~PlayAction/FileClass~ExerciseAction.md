@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ExerciseAction, class/Thing/Action/PlayAction/ExerciseAction, is_an_/ExerciseAction, schema-org/ExerciseAction]
-tags: ["class/ExerciseAction", "#is_/an_/ExerciseAction", "class/Thing/Action/PlayAction/ExerciseAction"]
+tags: ["class/ExerciseAction", "#is_an_/ExerciseAction", "class/Thing/Action/PlayAction/ExerciseAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~PlayAction
 ---
 
@@ -17,7 +17,7 @@ The act of participating in exertive activity for the purposes of improving heal
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/ExerciseAction
+#is_an_/ExerciseAction
 #class/ExerciseAction
 #class/Thing/Action/PlayAction/ExerciseAction
 

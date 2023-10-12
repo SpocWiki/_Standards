@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Event, class/Thing/Event, is_an_/Event, schema-org/Event]
-tags: ["class/Event", "#is_/an_/Event", "class/Thing/Event"]
+tags: ["class/Event", "#is_an_/Event", "class/Thing/Event"]
 extends: FileClass~Thing
 ---
 
@@ -17,7 +17,7 @@ An event happening at a certain time and location, such as a concert, lecture, o
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Event
+#is_an_/Event
 #class/Event
 #class/Thing/Event
 

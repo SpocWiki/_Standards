@@ -34,7 +34,7 @@ aliases:
 Class of all vehicles.
 
 Tag Instances like this: 
-#is_/a_/vehicle
+#is_a_/vehicle
 
 A vehicle is a device that is designed or used to transport people or cargo over land, water, air, or through space.
 

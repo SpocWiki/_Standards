@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PathologyTest, class/Thing/MedicalEntity/MedicalTest/PathologyTest, is_a_/PathologyTest, schema-org/PathologyTest]
-tags: ["class/PathologyTest", "#is_/a_/PathologyTest", "class/Thing/MedicalEntity/MedicalTest/PathologyTest"]
+tags: ["class/PathologyTest", "#is_a_/PathologyTest", "class/Thing/MedicalEntity/MedicalTest/PathologyTest"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 ---
 
@@ -17,7 +17,7 @@ A medical test performed by a laboratory that typically involves examination of 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PathologyTest
+#is_a_/PathologyTest
 #class/PathologyTest
 #class/Thing/MedicalEntity/MedicalTest/PathologyTest
 

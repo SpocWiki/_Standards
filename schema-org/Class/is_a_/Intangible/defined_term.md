@@ -61,7 +61,7 @@ use `description` to provide the definition of the term.
 ```
 
 Tag Term-Classes like this: 
-#is_/a_/defined_term
+#is_a_/defined_term
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -36,7 +36,7 @@ aliases:
 Class of all results_availables.
 
 Tag Instances like this: 
-#is_/a_/results_available
+#is_a_/results_available
 
 Results are available.
 

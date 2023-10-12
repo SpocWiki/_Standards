@@ -34,7 +34,7 @@ aliases:
 Class of all college_or_universitys.
 
 Tag Instances like this: 
-#is_/a_/college_or_university
+#is_a_/college_or_university
 
 A college, university, or other third-level educational institution.
 

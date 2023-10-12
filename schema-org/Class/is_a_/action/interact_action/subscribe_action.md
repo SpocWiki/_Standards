@@ -34,7 +34,7 @@ aliases:
 Class of all subscribe_actions.
 
 Tag Instances like this: 
-#is_/a_/subscribe_action
+#is_a_/subscribe_action
 
 The act of forming a personal connection with someone/something (object) unidirectionally/asymmetrically to get updates pushed to.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all x_rays.
 
 Tag Instances like this: 
-#is_/a_/x_ray
+#is_a_/x_ray
 
 X-ray imaging.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalObservationalStudy, class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy, is_a_/MedicalObservationalStudy, schema-org/MedicalObservationalStudy]
-tags: ["class/MedicalObservationalStudy", "#is_/a_/MedicalObservationalStudy", "class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy"]
+tags: ["class/MedicalObservationalStudy", "#is_a_/MedicalObservationalStudy", "class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy
 ---
 
@@ -17,7 +17,7 @@ An observational study is a type of medical study that attempts to infer the pos
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalObservationalStudy
+#is_a_/MedicalObservationalStudy
 #class/MedicalObservationalStudy
 #class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy
 

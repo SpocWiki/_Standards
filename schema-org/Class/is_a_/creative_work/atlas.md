@@ -34,7 +34,7 @@ aliases:
 Class of all atlass.
 
 Tag Instances like this: 
-#is_/an_/atlas
+#is_an_/atlas
 
 [ #is_/part_of :: https://bib.schema.org ]
 

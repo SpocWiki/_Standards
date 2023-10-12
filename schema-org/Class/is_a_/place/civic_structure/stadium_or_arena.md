@@ -34,7 +34,7 @@ aliases:
 Class of all stadium_or_arenas.
 
 Tag Instances like this: 
-#is_/a_/stadium_or_arena
+#is_a_/stadium_or_arena
 
 A stadium.
 

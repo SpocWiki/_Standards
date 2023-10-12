@@ -34,7 +34,7 @@ aliases:
 Class of all attorneys.
 
 Tag Instances like this: 
-#is_/an_/attorney
+#is_an_/attorney
 
 Professional service: Attorney. 
 

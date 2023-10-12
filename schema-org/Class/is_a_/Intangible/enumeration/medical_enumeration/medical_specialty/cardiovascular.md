@@ -36,7 +36,7 @@ aliases:
 Class of all cardiovasculars.
 
 Tag Instances like this: 
-#is_/a_/cardiovascular
+#is_a_/cardiovascular
 
 A specific branch of medical science that pertains to diagnosis and treatment of disorders of heart and vasculature.
 

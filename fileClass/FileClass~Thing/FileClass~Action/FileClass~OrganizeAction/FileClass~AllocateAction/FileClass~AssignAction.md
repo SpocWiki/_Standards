@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AssignAction, class/Thing/Action/OrganizeAction/AllocateAction/AssignAction, is_an_/AssignAction, schema-org/AssignAction]
-tags: ["class/AssignAction", "#is_/an_/AssignAction", "class/Thing/Action/OrganizeAction/AllocateAction/AssignAction"]
+tags: ["class/AssignAction", "#is_an_/AssignAction", "class/Thing/Action/OrganizeAction/AllocateAction/AssignAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
 ---
 
@@ -17,7 +17,7 @@ The act of allocating an action/event/task to some destination (someone or somet
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AssignAction
+#is_an_/AssignAction
 #class/AssignAction
 #class/Thing/Action/OrganizeAction/AllocateAction/AssignAction
 

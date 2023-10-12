@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RsvpAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction, is_a_/RsvpAction, schema-org/RsvpAction]
-tags: ["class/RsvpAction", "#is_/a_/RsvpAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction"]
+tags: ["class/RsvpAction", "#is_a_/RsvpAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction
 ---
 
@@ -17,7 +17,7 @@ The act of notifying an event organizer as to whether you expect to attend the e
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/RsvpAction
+#is_a_/RsvpAction
 #class/RsvpAction
 #class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction
 

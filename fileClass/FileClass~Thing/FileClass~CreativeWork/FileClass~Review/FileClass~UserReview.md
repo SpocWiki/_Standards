@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/UserReview, class/Thing/CreativeWork/Review/UserReview, is_an_/UserReview, schema-org/UserReview]
-tags: ["class/UserReview", "#is_/an_/UserReview", "class/Thing/CreativeWork/Review/UserReview"]
+tags: ["class/UserReview", "#is_an_/UserReview", "class/Thing/CreativeWork/Review/UserReview"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 ---
 
@@ -17,7 +17,7 @@ A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in co
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/UserReview
+#is_an_/UserReview
 #class/UserReview
 #class/Thing/CreativeWork/Review/UserReview
 

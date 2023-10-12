@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MaximumDoseSchedule, class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule, is_a_/MaximumDoseSchedule, schema-org/MaximumDoseSchedule]
-tags: ["class/MaximumDoseSchedule", "#is_/a_/MaximumDoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule"]
+tags: ["class/MaximumDoseSchedule", "#is_a_/MaximumDoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule
 ---
 
@@ -17,7 +17,7 @@ The maximum dosing schedule considered safe for a drug or supplement as recommen
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MaximumDoseSchedule
+#is_a_/MaximumDoseSchedule
 #class/MaximumDoseSchedule
 #class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule
 

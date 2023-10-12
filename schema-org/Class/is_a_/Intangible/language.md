@@ -35,7 +35,7 @@ Class of all **natural** languages such as Spanish, Tamil, Hindi, English, etc.
 Formal language code tags expressed in <a href="https://en.wikipedia.org/wiki/IETF_language_tag">BCP 47</a> can be used via the <a class="localLink" href="/alternateName">alternateName</a> property. 
 
 Tag Instances like this: 
-#is_/a_/language
+#is_a_/language
 
 The Language type **previously** also covered programming languages 
 such as Scheme and Lisp, 

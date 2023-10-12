@@ -34,7 +34,7 @@ aliases:
 Class of all music_recordings.
 
 Tag Instances like this: 
-#is_/a_/music_recording
+#is_a_/music_recording
 
 A music recording (track), usually a single song.
 

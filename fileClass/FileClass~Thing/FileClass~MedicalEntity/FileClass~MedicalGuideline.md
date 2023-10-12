@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalGuideline, class/Thing/MedicalEntity/MedicalGuideline, is_a_/MedicalGuideline, schema-org/MedicalGuideline]
-tags: ["class/MedicalGuideline", "#is_/a_/MedicalGuideline", "class/Thing/MedicalEntity/MedicalGuideline"]
+tags: ["class/MedicalGuideline", "#is_a_/MedicalGuideline", "class/Thing/MedicalEntity/MedicalGuideline"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ Any recommendation made by a standard society (e.g. ACC/AHA) or consensus statem
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalGuideline
+#is_a_/MedicalGuideline
 #class/MedicalGuideline
 #class/Thing/MedicalEntity/MedicalGuideline
 

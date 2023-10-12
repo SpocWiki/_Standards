@@ -36,7 +36,7 @@ aliases:
 Class of all vegetarian_diets.
 
 Tag Instances like this: 
-#is_/a_/vegetarian_diet
+#is_a_/vegetarian_diet
 
 A diet exclusive of animal meat.
 

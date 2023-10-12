@@ -34,7 +34,7 @@ aliases:
 Class of all medical_device_purposes.
 
 Tag Instances like this: 
-#is_/a_/medical_device_purpose
+#is_a_/medical_device_purpose
 
 Categories of medical devices, organized by the purpose or intended use of the device.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TennisComplex, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/TennisComplex, is_a_/TennisComplex, schema-org/TennisComplex]
-tags: ["class/TennisComplex", "#is_/a_/TennisComplex", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/TennisComplex"]
+tags: ["class/TennisComplex", "#is_a_/TennisComplex", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/TennisComplex"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~SportsActivityLocation
 ---
 
@@ -17,7 +17,7 @@ A tennis complex.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TennisComplex
+#is_a_/TennisComplex
 #class/TennisComplex
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/TennisComplex
 

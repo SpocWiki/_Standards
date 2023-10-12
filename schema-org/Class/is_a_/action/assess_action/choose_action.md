@@ -34,7 +34,7 @@ aliases:
 Class of all choose_actions.
 
 Tag Instances like this: 
-#is_/a_/choose_action
+#is_a_/choose_action
 
 The act of expressing a preference from a set of options or a large or unbounded set of choices/options.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all funguss.
 
 Tag Instances like this: 
-#is_/a_/fungus
+#is_a_/fungus
 
 Pathogenic fungus.
 

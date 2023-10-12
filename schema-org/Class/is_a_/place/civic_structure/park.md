@@ -34,7 +34,7 @@ aliases:
 Class of all parks.
 
 Tag Instances like this: 
-#is_/a_/park
+#is_a_/park
 
 A park.
 

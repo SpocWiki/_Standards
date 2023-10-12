@@ -34,7 +34,7 @@ aliases:
 Class of all childrens_events.
 
 Tag Instances like this: 
-#is_/a_/childrens_event
+#is_a_/childrens_event
 
 Event type: Children's event.
 

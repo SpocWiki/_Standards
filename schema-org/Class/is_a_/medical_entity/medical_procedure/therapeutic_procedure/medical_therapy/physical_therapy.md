@@ -34,7 +34,7 @@ aliases:
 Class of all physical_therapys.
 
 Tag Instances like this: 
-#is_/a_/physical_therapy
+#is_a_/physical_therapy
 
 A process of progressive physical care and rehabilitation aimed at improving a health condition.
 

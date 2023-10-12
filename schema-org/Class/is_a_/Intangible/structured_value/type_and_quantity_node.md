@@ -34,7 +34,7 @@ aliases:
 Class of all type_and_quantity_nodes.
 
 Tag Instances like this: 
-#is_/a_/type_and_quantity_node
+#is_a_/type_and_quantity_node
 
 A structured value indicating the quantity, unit of measurement, and business function of goods included in a bundle offer.
 

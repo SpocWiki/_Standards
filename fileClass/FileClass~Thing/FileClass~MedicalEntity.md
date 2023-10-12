@@ -5,7 +5,7 @@ excludes:
 icon: plus-circle
 version: 5
 tagNames: [class/MedicalEntity, class/Thing/MedicalEntity, is_a_/MedicalEntity, schema-org/MedicalEntity]
-tags: ["class/MedicalEntity", "#is_/a_/MedicalEntity", "class/Thing/MedicalEntity"]
+tags: ["class/MedicalEntity", "#is_a_/MedicalEntity", "class/Thing/MedicalEntity"]
 extends: FileClass~Thing
 ---
 
@@ -17,7 +17,7 @@ The most generic type of entity related to health and the practice of medicine.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalEntity
+#is_a_/MedicalEntity
 #class/MedicalEntity
 #class/Thing/MedicalEntity
 

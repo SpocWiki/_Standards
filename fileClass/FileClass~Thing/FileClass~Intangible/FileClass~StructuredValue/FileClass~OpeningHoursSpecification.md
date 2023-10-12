@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OpeningHoursSpecification, class/Thing/Intangible/StructuredValue/OpeningHoursSpecification, is_an_/OpeningHoursSpecification, schema-org/OpeningHoursSpecification]
-tags: ["class/OpeningHoursSpecification", "#is_/an_/OpeningHoursSpecification", "class/Thing/Intangible/StructuredValue/OpeningHoursSpecification"]
+tags: ["class/OpeningHoursSpecification", "#is_an_/OpeningHoursSpecification", "class/Thing/Intangible/StructuredValue/OpeningHoursSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -22,7 +22,7 @@ If the value for the [[closes]] property is less than the value for the [[opens]
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OpeningHoursSpecification
+#is_an_/OpeningHoursSpecification
 #class/OpeningHoursSpecification
 #class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
 

@@ -34,7 +34,7 @@ aliases:
 Class of all monetary_grants.
 
 Tag Instances like this: 
-#is_/a_/monetary_grant
+#is_a_/monetary_grant
 
 [ #is_/part_of :: https://pending.schema.org ]
 

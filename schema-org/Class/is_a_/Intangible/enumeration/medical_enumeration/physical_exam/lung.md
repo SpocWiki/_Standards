@@ -36,7 +36,7 @@ aliases:
 Class of all lungs.
 
 Tag Instances like this: 
-#is_/a_/lung
+#is_a_/lung
 
 Lung and respiratory system clinical examination.
 

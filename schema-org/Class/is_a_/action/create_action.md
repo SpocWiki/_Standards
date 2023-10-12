@@ -34,7 +34,7 @@ aliases:
 Class of all create_actions.
 
 Tag Instances like this: 
-#is_/a_/create_action
+#is_a_/create_action
 
 The act of deliberately creating/producing/generating/building a result out of the agent.
 

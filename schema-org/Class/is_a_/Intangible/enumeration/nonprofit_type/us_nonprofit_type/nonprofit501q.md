@@ -36,7 +36,7 @@ aliases:
 Class of all nonprofit501qs.
 
 Tag Instances like this: 
-#is_/a_/nonprofit501q
+#is_a_/nonprofit501q
 
 [ #is_/part_of :: https://pending.schema.org ]
 

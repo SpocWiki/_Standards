@@ -34,7 +34,7 @@ aliases:
 Class of all media_manipulation_rating_enumerations.
 
 Tag Instances like this: 
-#is_/a_/media_manipulation_rating_enumeration
+#is_a_/media_manipulation_rating_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

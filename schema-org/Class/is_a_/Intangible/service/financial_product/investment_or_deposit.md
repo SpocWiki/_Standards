@@ -34,7 +34,7 @@ aliases:
 Class of all investment_or_deposits.
 
 Tag Instances like this: 
-#is_/an_/investment_or_deposit
+#is_an_/investment_or_deposit
 
 A type of financial product that typically requires the client to transfer funds to a financial service in return for potential beneficial financial return.
 

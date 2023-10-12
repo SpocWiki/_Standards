@@ -34,7 +34,7 @@ aliases:
 Class of all muscles.
 
 Tag Instances like this: 
-#is_/a_/muscle
+#is_a_/muscle
 
 A muscle is an anatomical structure consisting of a contractile form of tissue that animals use to effect movement.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all parcel_deliverys.
 
 Tag Instances like this: 
-#is_/a_/parcel_delivery
+#is_a_/parcel_delivery
 
 The delivery of a parcel either via the postal service or a commercial service.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all night_clubs.
 
 Tag Instances like this: 
-#is_/a_/night_club
+#is_a_/night_club
 
 A nightclub or discotheque.
 

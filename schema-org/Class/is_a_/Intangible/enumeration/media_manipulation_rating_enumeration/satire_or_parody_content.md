@@ -36,7 +36,7 @@ aliases:
 Class of all satire_or_parody_contents.
 
 Tag Instances like this: 
-#is_/a_/satire_or_parody_content
+#is_a_/satire_or_parody_content
 
 [ #is_/part_of :: https://pending.schema.org ]
 

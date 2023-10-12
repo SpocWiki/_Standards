@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SoftwareApplication, class/Thing/CreativeWork/SoftwareApplication, is_a_/SoftwareApplication, schema-org/SoftwareApplication]
-tags: ["class/SoftwareApplication", "#is_/a_/SoftwareApplication", "class/Thing/CreativeWork/SoftwareApplication"]
+tags: ["class/SoftwareApplication", "#is_a_/SoftwareApplication", "class/Thing/CreativeWork/SoftwareApplication"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A software application.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SoftwareApplication
+#is_a_/SoftwareApplication
 #class/SoftwareApplication
 #class/Thing/CreativeWork/SoftwareApplication
 

@@ -34,7 +34,7 @@ aliases:
 Class of all tv_episodes.
 
 Tag Instances like this: 
-#is_/a_/tv_episode
+#is_a_/tv_episode
 
 A TV episode which can be part of a series or season.
 

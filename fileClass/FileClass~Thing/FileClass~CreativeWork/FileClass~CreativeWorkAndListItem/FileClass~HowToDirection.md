@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HowToDirection, class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection, is_a_/HowToDirection, schema-org/HowToDirection]
-tags: ["class/HowToDirection", "#is_/a_/HowToDirection", "class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection"]
+tags: ["class/HowToDirection", "#is_a_/HowToDirection", "class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem
 ---
 
@@ -17,7 +17,7 @@ A direction indicating a single action to do in the instructions for how to achi
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HowToDirection
+#is_a_/HowToDirection
 #class/HowToDirection
 #class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection
 

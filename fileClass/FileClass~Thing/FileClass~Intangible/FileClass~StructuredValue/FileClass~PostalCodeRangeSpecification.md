@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PostalCodeRangeSpecification, class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification, is_a_/PostalCodeRangeSpecification, schema-org/PostalCodeRangeSpecification]
-tags: ["class/PostalCodeRangeSpecification", "#is_/a_/PostalCodeRangeSpecification", "class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification"]
+tags: ["class/PostalCodeRangeSpecification", "#is_a_/PostalCodeRangeSpecification", "class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ Indicates a range of postal codes, usually defined as the set of valid codes bet
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PostalCodeRangeSpecification
+#is_a_/PostalCodeRangeSpecification
 #class/PostalCodeRangeSpecification
 #class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification
 

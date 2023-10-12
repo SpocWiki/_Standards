@@ -34,7 +34,7 @@ aliases:
 Class of all visual_artworks.
 
 Tag Instances like this: 
-#is_/a_/visual_artwork
+#is_a_/visual_artwork
 
 A work of art that is primarily visual in character.
 

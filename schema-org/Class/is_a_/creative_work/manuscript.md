@@ -34,7 +34,7 @@ aliases:
 Class of all manuscripts.
 
 Tag Instances like this: 
-#is_/a_/manuscript
+#is_a_/manuscript
 
 [ #is_/part_of :: https://pending.schema.org ]
 

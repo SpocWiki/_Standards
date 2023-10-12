@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BroadcastService, class/Thing/Intangible/Service/BroadcastService, is_a_/BroadcastService, schema-org/BroadcastService]
-tags: ["class/BroadcastService", "#is_/a_/BroadcastService", "class/Thing/Intangible/Service/BroadcastService"]
+tags: ["class/BroadcastService", "#is_a_/BroadcastService", "class/Thing/Intangible/Service/BroadcastService"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 ---
 
@@ -17,7 +17,7 @@ A delivery service through which content is provided via broadcast over the air 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BroadcastService
+#is_a_/BroadcastService
 #class/BroadcastService
 #class/Thing/Intangible/Service/BroadcastService
 

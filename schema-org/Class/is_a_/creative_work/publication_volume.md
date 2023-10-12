@@ -34,7 +34,7 @@ aliases:
 Class of all publication_volumes.
 
 Tag Instances like this: 
-#is_/a_/publication_volume
+#is_a_/publication_volume
 
 A part of a successively published publication such as a periodical or multi-volume work, often numbered. It may represent a time span, such as a year.
 

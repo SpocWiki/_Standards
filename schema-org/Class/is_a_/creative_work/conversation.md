@@ -34,7 +34,7 @@ aliases:
 Class of all conversations.
 
 Tag Instances like this: 
-#is_/a_/conversation
+#is_a_/conversation
 
 One or more messages between organizations or people on a particular topic. Individual messages can be linked to the conversation with isPartOf or hasPart properties.
 

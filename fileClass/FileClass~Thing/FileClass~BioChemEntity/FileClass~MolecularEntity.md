@@ -5,7 +5,7 @@ excludes:
 icon: atom
 version: 5
 tagNames: [class/MolecularEntity, class/Thing/BioChemEntity/MolecularEntity, is_a_/MolecularEntity, schema-org/MolecularEntity]
-tags: ["class/MolecularEntity", "#is_/a_/MolecularEntity", "class/Thing/BioChemEntity/MolecularEntity"]
+tags: ["class/MolecularEntity", "#is_a_/MolecularEntity", "class/Thing/BioChemEntity/MolecularEntity"]
 extends: FileClass~Thing/FileClass~BioChemEntity
 ---
 
@@ -17,7 +17,7 @@ Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, rad
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MolecularEntity
+#is_a_/MolecularEntity
 #class/MolecularEntity
 #class/Thing/BioChemEntity/MolecularEntity
 

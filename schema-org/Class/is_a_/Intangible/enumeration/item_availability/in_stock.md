@@ -36,7 +36,7 @@ aliases:
 Class of all in_stocks.
 
 Tag Instances like this: 
-#is_/an_/in_stock
+#is_an_/in_stock
 
 Indicates that the item is in stock.
 

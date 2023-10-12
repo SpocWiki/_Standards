@@ -34,7 +34,7 @@ aliases:
 Class of all courthouses.
 
 Tag Instances like this: 
-#is_/a_/courthouse
+#is_a_/courthouse
 
 A courthouse.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all payment_services.
 
 Tag Instances like this: 
-#is_/a_/payment_service
+#is_a_/payment_service
 
 A Service to transfer funds from a person or organization to a beneficiary person or organization.
 

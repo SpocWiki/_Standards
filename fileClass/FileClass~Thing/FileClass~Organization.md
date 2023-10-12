@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Organization, class/Thing/Organization, is_an_/Organization, schema-org/Organization]
-tags: ["class/Organization", "#is_/an_/Organization", "class/Thing/Organization"]
+tags: ["class/Organization", "#is_an_/Organization", "class/Thing/Organization"]
 extends: FileClass~Thing
 ---
 
@@ -17,7 +17,7 @@ An organization such as a school, NGO, corporation, club, etc.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Organization
+#is_an_/Organization
 #class/Organization
 #class/Thing/Organization
 

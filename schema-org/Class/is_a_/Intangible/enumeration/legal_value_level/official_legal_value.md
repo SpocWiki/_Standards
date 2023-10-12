@@ -36,7 +36,7 @@ aliases:
 Class of all official_legal_values.
 
 Tag Instances like this: 
-#is_/an_/official_legal_value
+#is_an_/official_legal_value
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OrganizationRole, class/Thing/Intangible/Role/OrganizationRole, is_an_/OrganizationRole, schema-org/OrganizationRole]
-tags: ["class/OrganizationRole", "#is_/an_/OrganizationRole", "class/Thing/Intangible/Role/OrganizationRole"]
+tags: ["class/OrganizationRole", "#is_an_/OrganizationRole", "class/Thing/Intangible/Role/OrganizationRole"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 ---
 
@@ -17,7 +17,7 @@ A subclass of Role used to describe roles within organizations.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OrganizationRole
+#is_an_/OrganizationRole
 #class/OrganizationRole
 #class/Thing/Intangible/Role/OrganizationRole
 

@@ -34,7 +34,7 @@ aliases:
 Class of all action_status_types.
 
 Tag Instances like this: 
-#is_/an_/action_status_type
+#is_an_/action_status_type
 
 The status of an Action.
 

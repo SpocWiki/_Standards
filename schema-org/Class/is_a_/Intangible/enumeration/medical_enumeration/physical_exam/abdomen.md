@@ -36,7 +36,7 @@ aliases:
 Class of all abdomens.
 
 Tag Instances like this: 
-#is_/an_/abdomen
+#is_an_/abdomen
 
 Abdomen clinical examination.
 

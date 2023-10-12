@@ -34,7 +34,7 @@ aliases:
 Class of all ponds.
 
 Tag Instances like this: 
-#is_/a_/pond
+#is_a_/pond
 
 A pond.
 

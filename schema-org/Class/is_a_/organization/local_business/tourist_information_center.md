@@ -34,7 +34,7 @@ aliases:
 Class of all tourist_information_centers.
 
 Tag Instances like this: 
-#is_/a_/tourist_information_center
+#is_a_/tourist_information_center
 
 A tourist information center.
 

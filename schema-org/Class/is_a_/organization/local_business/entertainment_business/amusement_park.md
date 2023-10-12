@@ -34,7 +34,7 @@ aliases:
 Class of all amusement_parks.
 
 Tag Instances like this: 
-#is_/an_/amusement_park
+#is_an_/amusement_park
 
 An amusement park.
 

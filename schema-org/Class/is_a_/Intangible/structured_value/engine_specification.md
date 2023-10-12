@@ -34,7 +34,7 @@ aliases:
 Class of all engine_specifications.
 
 Tag Instances like this: 
-#is_/an_/engine_specification
+#is_an_/engine_specification
 
 Information about the engine of the vehicle. A vehicle can have multiple engines represented by multiple engine specification entities.
 

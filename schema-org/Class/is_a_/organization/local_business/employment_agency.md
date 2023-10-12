@@ -34,7 +34,7 @@ aliases:
 Class of all employment_agencys.
 
 Tag Instances like this: 
-#is_/an_/employment_agency
+#is_an_/employment_agency
 
 An employment agency.
 

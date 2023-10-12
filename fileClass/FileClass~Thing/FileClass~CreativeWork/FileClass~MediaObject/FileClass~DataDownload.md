@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DataDownload, class/Thing/CreativeWork/MediaObject/DataDownload, is_a_/DataDownload, schema-org/DataDownload]
-tags: ["class/DataDownload", "#is_/a_/DataDownload", "class/Thing/CreativeWork/MediaObject/DataDownload"]
+tags: ["class/DataDownload", "#is_a_/DataDownload", "class/Thing/CreativeWork/MediaObject/DataDownload"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 ---
 
@@ -17,7 +17,7 @@ All or part of a [[Dataset]] in downloadable form.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DataDownload
+#is_a_/DataDownload
 #class/DataDownload
 #class/Thing/CreativeWork/MediaObject/DataDownload
 

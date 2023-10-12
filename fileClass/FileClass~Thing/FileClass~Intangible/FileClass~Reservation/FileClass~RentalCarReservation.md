@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RentalCarReservation, class/Thing/Intangible/Reservation/RentalCarReservation, is_a_/RentalCarReservation, schema-org/RentalCarReservation]
-tags: ["class/RentalCarReservation", "#is_/a_/RentalCarReservation", "class/Thing/Intangible/Reservation/RentalCarReservation"]
+tags: ["class/RentalCarReservation", "#is_a_/RentalCarReservation", "class/Thing/Intangible/Reservation/RentalCarReservation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---
 
@@ -19,7 +19,7 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/RentalCarReservation
+#is_a_/RentalCarReservation
 #class/RentalCarReservation
 #class/Thing/Intangible/Reservation/RentalCarReservation
 

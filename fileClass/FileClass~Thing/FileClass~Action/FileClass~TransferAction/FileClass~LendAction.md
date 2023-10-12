@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LendAction, class/Thing/Action/TransferAction/LendAction, is_a_/LendAction, schema-org/LendAction]
-tags: ["class/LendAction", "#is_/a_/LendAction", "class/Thing/Action/TransferAction/LendAction"]
+tags: ["class/LendAction", "#is_a_/LendAction", "class/Thing/Action/TransferAction/LendAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 
@@ -21,7 +21,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LendAction
+#is_a_/LendAction
 #class/LendAction
 #class/Thing/Action/TransferAction/LendAction
 

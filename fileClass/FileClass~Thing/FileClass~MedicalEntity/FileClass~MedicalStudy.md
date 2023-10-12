@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalStudy, class/Thing/MedicalEntity/MedicalStudy, is_a_/MedicalStudy, schema-org/MedicalStudy]
-tags: ["class/MedicalStudy", "#is_/a_/MedicalStudy", "class/Thing/MedicalEntity/MedicalStudy"]
+tags: ["class/MedicalStudy", "#is_a_/MedicalStudy", "class/Thing/MedicalEntity/MedicalStudy"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ A medical study is an umbrella type covering all kinds of research studies relat
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalStudy
+#is_a_/MedicalStudy
 #class/MedicalStudy
 #class/Thing/MedicalEntity/MedicalStudy
 

@@ -36,7 +36,7 @@ aliases:
 Class of all completed_action_statuss.
 
 Tag Instances like this: 
-#is_/a_/completed_action_status
+#is_a_/completed_action_status
 
 An action that has already taken place.
 

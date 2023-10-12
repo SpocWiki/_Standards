@@ -36,7 +36,7 @@ aliases:
 Class of all sold_outs.
 
 Tag Instances like this: 
-#is_/a_/sold_out
+#is_a_/sold_out
 
 Indicates that the item has sold out.
 

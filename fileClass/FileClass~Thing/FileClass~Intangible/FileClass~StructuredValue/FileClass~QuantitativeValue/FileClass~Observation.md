@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Observation, class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation, is_an_/Observation, schema-org/Observation]
-tags: ["class/Observation", "#is_/an_/Observation", "class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation"]
+tags: ["class/Observation", "#is_an_/Observation", "class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue
 ---
 
@@ -19,7 +19,7 @@ Instances of the class [[Observation]] are used to specify observations about an
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Observation
+#is_an_/Observation
 #class/Observation
 #class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation
 

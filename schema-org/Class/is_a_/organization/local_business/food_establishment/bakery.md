@@ -34,7 +34,7 @@ aliases:
 Class of all bakerys.
 
 Tag Instances like this: 
-#is_/a_/bakery
+#is_a_/bakery
 
 A bakery.
 

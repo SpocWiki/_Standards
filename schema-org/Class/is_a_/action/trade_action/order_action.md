@@ -34,7 +34,7 @@ aliases:
 Class of all order_actions.
 
 Tag Instances like this: 
-#is_/an_/order_action
+#is_an_/order_action
 
 An agent orders an object/product/service to be delivered/sent.
 

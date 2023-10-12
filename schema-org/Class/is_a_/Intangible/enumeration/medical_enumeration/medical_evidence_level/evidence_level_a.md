@@ -36,7 +36,7 @@ aliases:
 Class of all evidence_level_as.
 
 Tag Instances like this: 
-#is_/an_/evidence_level_a
+#is_an_/evidence_level_a
 
 Data derived from multiple randomized clinical trials or meta-analyses.
 

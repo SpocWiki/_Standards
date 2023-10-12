@@ -34,7 +34,7 @@ aliases:
 Class of all grants.
 
 Tag Instances like this: 
-#is_/a_/grant
+#is_a_/grant
 
 [ #is_/part_of :: https://pending.schema.org ]
 

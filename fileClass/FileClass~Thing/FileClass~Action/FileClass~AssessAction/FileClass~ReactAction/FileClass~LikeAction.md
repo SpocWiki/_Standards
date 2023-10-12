@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LikeAction, class/Thing/Action/AssessAction/ReactAction/LikeAction, is_a_/LikeAction, schema-org/LikeAction]
-tags: ["class/LikeAction", "#is_/a_/LikeAction", "class/Thing/Action/AssessAction/ReactAction/LikeAction"]
+tags: ["class/LikeAction", "#is_a_/LikeAction", "class/Thing/Action/AssessAction/ReactAction/LikeAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 ---
 
@@ -17,7 +17,7 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LikeAction
+#is_a_/LikeAction
 #class/LikeAction
 #class/Thing/Action/AssessAction/ReactAction/LikeAction
 

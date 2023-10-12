@@ -34,7 +34,7 @@ aliases:
 Class of all lifestyle_modifications.
 
 Tag Instances like this: 
-#is_/a_/lifestyle_modification
+#is_a_/lifestyle_modification
 
 A process of care involving exercise, changes to diet, fitness routines, and other lifestyle changes aimed at improving a health condition.
 

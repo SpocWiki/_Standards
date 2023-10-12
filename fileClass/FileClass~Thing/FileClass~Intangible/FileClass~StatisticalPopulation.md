@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/StatisticalPopulation, class/Thing/Intangible/StatisticalPopulation, is_a_/StatisticalPopulation, schema-org/StatisticalPopulation]
-tags: ["class/StatisticalPopulation", "#is_/a_/StatisticalPopulation", "class/Thing/Intangible/StatisticalPopulation"]
+tags: ["class/StatisticalPopulation", "#is_a_/StatisticalPopulation", "class/Thing/Intangible/StatisticalPopulation"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -19,7 +19,7 @@ A StatisticalPopulation is a set of instances of a certain given type that satis
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/StatisticalPopulation
+#is_a_/StatisticalPopulation
 #class/StatisticalPopulation
 #class/Thing/Intangible/StatisticalPopulation
 

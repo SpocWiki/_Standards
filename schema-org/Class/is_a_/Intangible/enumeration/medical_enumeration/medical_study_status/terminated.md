@@ -36,7 +36,7 @@ aliases:
 Class of all terminateds.
 
 Tag Instances like this: 
-#is_/a_/terminated
+#is_a_/terminated
 
 Terminated.
 

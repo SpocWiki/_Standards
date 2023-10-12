@@ -34,7 +34,7 @@ aliases:
 Class of all continents.
 
 Tag Instances like this: 
-#is_/a_/continent
+#is_a_/continent
 
 One of the continents (for example, Europe or Africa).
 

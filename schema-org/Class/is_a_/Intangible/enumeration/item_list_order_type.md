@@ -34,7 +34,7 @@ aliases:
 Class of all item_list_order_types.
 
 Tag Instances like this: 
-#is_/an_/item_list_order_type
+#is_an_/item_list_order_type
 
 Enumerated for values for itemListOrder for indicating how an ordered ItemList is organized.
 

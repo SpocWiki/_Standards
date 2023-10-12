@@ -34,7 +34,7 @@ aliases:
 Class of all cdcpmd_records.
 
 Tag Instances like this: 
-#is_/a_/cdcpmd_record
+#is_a_/cdcpmd_record
 
 [ #is_/part_of :: https://pending.schema.org ]
 

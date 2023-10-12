@@ -36,7 +36,7 @@ aliases:
 Class of all zone_boarding_policys.
 
 Tag Instances like this: 
-#is_/a_/zone_boarding_policy
+#is_a_/zone_boarding_policy
 
 The airline boards by zones of the plane.
 

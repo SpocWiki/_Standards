@@ -36,7 +36,7 @@ aliases:
 Class of all unclassified_adult_considerations.
 
 Tag Instances like this: 
-#is_/an_/unclassified_adult_consideration
+#is_an_/unclassified_adult_consideration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

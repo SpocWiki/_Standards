@@ -36,7 +36,7 @@ aliases:
 Class of all item_list_order_descendings.
 
 Tag Instances like this: 
-#is_/an_/item_list_order_descending
+#is_an_/item_list_order_descending
 
 An ItemList ordered with higher values listed first.
 

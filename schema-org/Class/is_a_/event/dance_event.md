@@ -34,7 +34,7 @@ aliases:
 Class of all dance_events.
 
 Tag Instances like this: 
-#is_/a_/dance_event
+#is_a_/dance_event
 
 Event type: A social dance.
 

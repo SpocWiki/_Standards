@@ -34,7 +34,7 @@ aliases:
 Class of all media_review_items.
 
 Tag Instances like this: 
-#is_/a_/media_review_item
+#is_a_/media_review_item
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WebPage, class/Thing/CreativeWork/WebPage, is_a_/WebPage, schema-org/WebPage]
-tags: ["class/WebPage", "#is_/a_/WebPage", "class/Thing/CreativeWork/WebPage"]
+tags: ["class/WebPage", "#is_a_/WebPage", "class/Thing/CreativeWork/WebPage"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A web page. Every web page is implicitly assumed to be declared to be of type We
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WebPage
+#is_a_/WebPage
 #class/WebPage
 #class/Thing/CreativeWork/WebPage
 

@@ -34,7 +34,7 @@ aliases:
 Class of all self_storages.
 
 Tag Instances like this: 
-#is_/a_/self_storage
+#is_a_/self_storage
 
 A self-storage facility.
 

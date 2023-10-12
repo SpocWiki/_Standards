@@ -36,7 +36,7 @@ aliases:
 Class of all eu_energy_efficiency_category_cs.
 
 Tag Instances like this: 
-#is_/an_/eu_energy_efficiency_category_c
+#is_an_/eu_energy_efficiency_category_c
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DigitalDocument, class/Thing/CreativeWork/DigitalDocument, is_a_/DigitalDocument, schema-org/DigitalDocument]
-tags: ["class/DigitalDocument", "#is_/a_/DigitalDocument", "class/Thing/CreativeWork/DigitalDocument"]
+tags: ["class/DigitalDocument", "#is_a_/DigitalDocument", "class/Thing/CreativeWork/DigitalDocument"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ An electronic file or document.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DigitalDocument
+#is_a_/DigitalDocument
 #class/DigitalDocument
 #class/Thing/CreativeWork/DigitalDocument
 

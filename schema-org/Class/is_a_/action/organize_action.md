@@ -34,7 +34,7 @@ aliases:
 Class of all organize_actions.
 
 Tag Instances like this: 
-#is_/an_/organize_action
+#is_an_/organize_action
 
 The act of manipulating/administering/supervising/controlling one or more objects.
 

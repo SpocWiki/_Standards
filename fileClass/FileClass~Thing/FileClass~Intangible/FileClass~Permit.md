@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Permit, class/Thing/Intangible/Permit, is_a_/Permit, schema-org/Permit]
-tags: ["class/Permit", "#is_/a_/Permit", "class/Thing/Intangible/Permit"]
+tags: ["class/Permit", "#is_a_/Permit", "class/Thing/Intangible/Permit"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A permit issued by an organization, e.g. a parking pass.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Permit
+#is_a_/Permit
 #class/Permit
 #class/Thing/Intangible/Permit
 

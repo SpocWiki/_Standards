@@ -34,7 +34,7 @@ aliases:
 Class of all ocean_body_of_waters.
 
 Tag Instances like this: 
-#is_/an_/ocean_body_of_water
+#is_an_/ocean_body_of_water
 
 An ocean (for example, the Pacific).
 

@@ -5,7 +5,7 @@ excludes:
 icon: hotel
 version: 5
 tagNames: [class/Suite, class/Thing/Place/Accommodation/Suite, is_a_/Suite, schema-org/Suite]
-tags: ["class/Suite", "#is_/a_/Suite", "class/Thing/Place/Accommodation/Suite"]
+tags: ["class/Suite", "#is_a_/Suite", "class/Thing/Place/Accommodation/Suite"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 ---
 
@@ -19,7 +19,7 @@ A suite in a hotel or other public accommodation, denotes a class of luxury acco
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Suite
+#is_a_/Suite
 #class/Suite
 #class/Thing/Place/Accommodation/Suite
 

@@ -36,7 +36,7 @@ aliases:
 Class of all hardcovers.
 
 Tag Instances like this: 
-#is_/a_/hardcover
+#is_a_/hardcover
 
 Book format: Hardcover.
 

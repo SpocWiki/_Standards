@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CommunicateAction, class/Thing/Action/InteractAction/CommunicateAction, is_a_/CommunicateAction, schema-org/CommunicateAction]
-tags: ["class/CommunicateAction", "#is_/a_/CommunicateAction", "class/Thing/Action/InteractAction/CommunicateAction"]
+tags: ["class/CommunicateAction", "#is_a_/CommunicateAction", "class/Thing/Action/InteractAction/CommunicateAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 ---
 
@@ -17,7 +17,7 @@ The act of conveying information to another person via a communication medium (i
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CommunicateAction
+#is_a_/CommunicateAction
 #class/CommunicateAction
 #class/Thing/Action/InteractAction/CommunicateAction
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MonetaryAmount, class/Thing/Intangible/StructuredValue/MonetaryAmount, is_a_/MonetaryAmount, schema-org/MonetaryAmount]
-tags: ["class/MonetaryAmount", "#is_/a_/MonetaryAmount", "class/Thing/Intangible/StructuredValue/MonetaryAmount"]
+tags: ["class/MonetaryAmount", "#is_a_/MonetaryAmount", "class/Thing/Intangible/StructuredValue/MonetaryAmount"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A monetary value or range. This type can be used to describe an amount of money 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MonetaryAmount
+#is_a_/MonetaryAmount
 #class/MonetaryAmount
 #class/Thing/Intangible/StructuredValue/MonetaryAmount
 

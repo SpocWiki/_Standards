@@ -34,7 +34,7 @@ aliases:
 Class of all audio_object_snapshots.
 
 Tag Instances like this: 
-#is_/an_/audio_object_snapshot
+#is_an_/audio_object_snapshot
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all auto_repairs.
 
 Tag Instances like this: 
-#is_/an_/auto_repair
+#is_an_/auto_repair
 
 Car repair business.
 

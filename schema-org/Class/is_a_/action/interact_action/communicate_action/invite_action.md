@@ -34,7 +34,7 @@ aliases:
 Class of all invite_actions.
 
 Tag Instances like this: 
-#is_/an_/invite_action
+#is_an_/invite_action
 
 The act of asking someone to attend an event. Reciprocal of RsvpAction.
 

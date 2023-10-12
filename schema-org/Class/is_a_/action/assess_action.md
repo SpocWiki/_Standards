@@ -34,7 +34,7 @@ aliases:
 Class of all assess_actions.
 
 Tag Instances like this: 
-#is_/an_/assess_action
+#is_an_/assess_action
 
 The act of forming one's opinion, reaction or sentiment.
 

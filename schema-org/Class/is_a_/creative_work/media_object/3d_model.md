@@ -34,7 +34,7 @@ aliases:
 Class of all 3d_models.
 
 Tag Instances like this: 
-#is_/a_/3d_model
+#is_a_/3d_model
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -36,7 +36,7 @@ aliases:
 Class of all payment_declineds.
 
 Tag Instances like this: 
-#is_/a_/payment_declined
+#is_a_/payment_declined
 
 The payee received the payment, but it was declined for some reason.
 

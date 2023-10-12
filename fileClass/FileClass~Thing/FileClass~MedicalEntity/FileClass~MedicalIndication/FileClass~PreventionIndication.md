@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PreventionIndication, class/Thing/MedicalEntity/MedicalIndication/PreventionIndication, is_a_/PreventionIndication, schema-org/PreventionIndication]
-tags: ["class/PreventionIndication", "#is_/a_/PreventionIndication", "class/Thing/MedicalEntity/MedicalIndication/PreventionIndication"]
+tags: ["class/PreventionIndication", "#is_a_/PreventionIndication", "class/Thing/MedicalEntity/MedicalIndication/PreventionIndication"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication
 ---
 
@@ -17,7 +17,7 @@ An indication for preventing an underlying condition, symptom, etc.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PreventionIndication
+#is_a_/PreventionIndication
 #class/PreventionIndication
 #class/Thing/MedicalEntity/MedicalIndication/PreventionIndication
 

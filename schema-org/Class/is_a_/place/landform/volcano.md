@@ -34,7 +34,7 @@ aliases:
 Class of all volcanos.
 
 Tag Instances like this: 
-#is_/a_/volcano
+#is_a_/volcano
 
 A volcano, like Fujisan.
 

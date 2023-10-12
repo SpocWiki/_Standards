@@ -34,7 +34,7 @@ aliases:
 Class of all convenience_stores.
 
 Tag Instances like this: 
-#is_/a_/convenience_store
+#is_a_/convenience_store
 
 A convenience store.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MenuSection, class/Thing/CreativeWork/MenuSection, is_a_/MenuSection, schema-org/MenuSection]
-tags: ["class/MenuSection", "#is_/a_/MenuSection", "class/Thing/CreativeWork/MenuSection"]
+tags: ["class/MenuSection", "#is_a_/MenuSection", "class/Thing/CreativeWork/MenuSection"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A sub-grouping of food or drink items in a menu. E.g. courses (such as 'Dinner',
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MenuSection
+#is_a_/MenuSection
 #class/MenuSection
 #class/Thing/CreativeWork/MenuSection
 

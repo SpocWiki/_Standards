@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Message, class/Thing/CreativeWork/Message, is_a_/Message, schema-org/Message]
-tags: ["class/Message", "#is_/a_/Message", "class/Thing/CreativeWork/Message"]
+tags: ["class/Message", "#is_a_/Message", "class/Thing/CreativeWork/Message"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A single message from a sender to one or more organizations or people.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Message
+#is_a_/Message
 #class/Message
 #class/Thing/CreativeWork/Message
 

@@ -34,7 +34,7 @@ aliases:
 Class of all internet_cafes.
 
 Tag Instances like this: 
-#is_/an_/internet_cafe
+#is_an_/internet_cafe
 
 An internet cafe.
 

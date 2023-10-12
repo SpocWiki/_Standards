@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PalliativeProcedure, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure, is_a_/PalliativeProcedure, schema-org/PalliativeProcedure]
-tags: ["class/PalliativeProcedure", "#is_/a_/PalliativeProcedure", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure"]
+tags: ["class/PalliativeProcedure", "#is_a_/PalliativeProcedure", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy
 ---
 
@@ -17,7 +17,7 @@ A medical procedure intended primarily for palliative purposes, aimed at relievi
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PalliativeProcedure
+#is_a_/PalliativeProcedure
 #class/PalliativeProcedure
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure
 

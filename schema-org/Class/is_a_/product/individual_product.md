@@ -34,7 +34,7 @@ aliases:
 Class of all individual_products.
 
 Tag Instances like this: 
-#is_/an_/individual_product
+#is_an_/individual_product
 
 A single, identifiable product instance (e.g. a laptop with a particular serial number).
 

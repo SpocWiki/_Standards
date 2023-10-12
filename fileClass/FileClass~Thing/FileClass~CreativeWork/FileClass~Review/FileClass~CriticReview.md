@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CriticReview, class/Thing/CreativeWork/Review/CriticReview, is_a_/CriticReview, schema-org/CriticReview]
-tags: ["class/CriticReview", "#is_/a_/CriticReview", "class/Thing/CreativeWork/Review/CriticReview"]
+tags: ["class/CriticReview", "#is_a_/CriticReview", "class/Thing/CreativeWork/Review/CriticReview"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 ---
 
@@ -17,7 +17,7 @@ A [[CriticReview]] is a more specialized form of Review written or published by 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CriticReview
+#is_a_/CriticReview
 #class/CriticReview
 #class/Thing/CreativeWork/Review/CriticReview
 

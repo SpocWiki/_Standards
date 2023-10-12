@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TVClip, class/Thing/CreativeWork/Clip/TVClip, is_a_/TVClip, schema-org/TVClip]
-tags: ["class/TVClip", "#is_/a_/TVClip", "class/Thing/CreativeWork/Clip/TVClip"]
+tags: ["class/TVClip", "#is_a_/TVClip", "class/Thing/CreativeWork/Clip/TVClip"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 ---
 
@@ -17,7 +17,7 @@ A short TV program or a segment/part of a TV program.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TVClip
+#is_a_/TVClip
 #class/TVClip
 #class/Thing/CreativeWork/Clip/TVClip
 

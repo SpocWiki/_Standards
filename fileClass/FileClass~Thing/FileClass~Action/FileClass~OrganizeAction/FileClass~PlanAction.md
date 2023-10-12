@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PlanAction, class/Thing/Action/OrganizeAction/PlanAction, is_a_/PlanAction, schema-org/PlanAction]
-tags: ["class/PlanAction", "#is_/a_/PlanAction", "class/Thing/Action/OrganizeAction/PlanAction"]
+tags: ["class/PlanAction", "#is_a_/PlanAction", "class/Thing/Action/OrganizeAction/PlanAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
 ---
 
@@ -17,7 +17,7 @@ The act of planning the execution of an event/task/action/reservation/plan to a 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PlanAction
+#is_a_/PlanAction
 #class/PlanAction
 #class/Thing/Action/OrganizeAction/PlanAction
 

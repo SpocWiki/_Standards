@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Apartment, class/Thing/Place/Accommodation/Apartment, is_an_/Apartment, schema-org/Apartment]
-tags: ["class/Apartment", "#is_/an_/Apartment", "class/Thing/Place/Accommodation/Apartment"]
+tags: ["class/Apartment", "#is_an_/Apartment", "class/Thing/Place/Accommodation/Apartment"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 ---
 
@@ -17,7 +17,7 @@ An apartment (in American English) or flat (in British English) is a self-contai
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Apartment
+#is_an_/Apartment
 #class/Apartment
 #class/Thing/Place/Accommodation/Apartment
 

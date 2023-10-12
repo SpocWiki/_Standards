@@ -36,7 +36,7 @@ aliases:
 Class of all protozoas.
 
 Tag Instances like this: 
-#is_/a_/protozoa
+#is_a_/protozoa
 
 Single-celled organism that causes an infection.
 

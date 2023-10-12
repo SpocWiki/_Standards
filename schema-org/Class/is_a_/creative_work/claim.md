@@ -34,7 +34,7 @@ aliases:
 Class of all claims.
 
 Tag Instances like this: 
-#is_/a_/claim
+#is_a_/claim
 
 [ #is_/part_of :: https://pending.schema.org ]
 

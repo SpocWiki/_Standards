@@ -36,7 +36,7 @@ aliases:
 Class of all remix_albums.
 
 Tag Instances like this: 
-#is_/a_/remix_album
+#is_a_/remix_album
 
 RemixAlbum.
 

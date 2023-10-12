@@ -36,7 +36,7 @@ aliases:
 Class of all usage_or_schedule_health_aspects.
 
 Tag Instances like this: 
-#is_/a_/usage_or_schedule_health_aspect
+#is_a_/usage_or_schedule_health_aspect
 
 [ #is_/part_of :: https://pending.schema.org ]
 

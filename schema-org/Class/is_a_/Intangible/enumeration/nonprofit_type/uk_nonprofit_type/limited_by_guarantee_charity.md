@@ -36,7 +36,7 @@ aliases:
 Class of all limited_by_guarantee_charitys.
 
 Tag Instances like this: 
-#is_/a_/limited_by_guarantee_charity
+#is_a_/limited_by_guarantee_charity
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SeekToAction, class/Thing/Action/SeekToAction, is_a_/SeekToAction, schema-org/SeekToAction]
-tags: ["class/SeekToAction", "#is_/a_/SeekToAction", "class/Thing/Action/SeekToAction"]
+tags: ["class/SeekToAction", "#is_a_/SeekToAction", "class/Thing/Action/SeekToAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -17,7 +17,7 @@ This is the [[Action]] of navigating to a specific [[startOffset]] timestamp wit
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SeekToAction
+#is_a_/SeekToAction
 #class/SeekToAction
 #class/Thing/Action/SeekToAction
 

@@ -34,7 +34,7 @@ aliases:
 Class of all ratings.
 
 Tag Instances like this: 
-#is_/a_/rating
+#is_a_/rating
 
 A rating is an evaluation on a numeric scale, such as 1 to 5 stars.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all how_to_tools.
 
 Tag Instances like this: 
-#is_/a_/how_to_tool
+#is_a_/how_to_tool
 
 A tool used (but not consumed) when performing instructions for how to achieve a result.
 

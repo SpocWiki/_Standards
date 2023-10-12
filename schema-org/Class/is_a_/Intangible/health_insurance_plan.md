@@ -34,7 +34,7 @@ aliases:
 Class of all health_insurance_plans.
 
 Tag Instances like this: 
-#is_/a_/health_insurance_plan
+#is_a_/health_insurance_plan
 
 [ #is_/part_of :: https://pending.schema.org ]
 

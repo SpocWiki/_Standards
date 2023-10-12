@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RecommendedDoseSchedule, class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule, is_a_/RecommendedDoseSchedule, schema-org/RecommendedDoseSchedule]
-tags: ["class/RecommendedDoseSchedule", "#is_/a_/RecommendedDoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule"]
+tags: ["class/RecommendedDoseSchedule", "#is_a_/RecommendedDoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule
 ---
 
@@ -17,7 +17,7 @@ A recommended dosing schedule for a drug or supplement as prescribed or recommen
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/RecommendedDoseSchedule
+#is_a_/RecommendedDoseSchedule
 #class/RecommendedDoseSchedule
 #class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule
 

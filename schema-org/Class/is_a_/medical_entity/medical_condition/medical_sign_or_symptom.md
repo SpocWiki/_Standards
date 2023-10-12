@@ -34,7 +34,7 @@ aliases:
 Class of all medical_sign_or_symptoms.
 
 Tag Instances like this: 
-#is_/a_/medical_sign_or_symptom
+#is_a_/medical_sign_or_symptom
 
 Any feature associated or not with a medical condition. In medicine a symptom is generally subjective while a sign is objective.
 

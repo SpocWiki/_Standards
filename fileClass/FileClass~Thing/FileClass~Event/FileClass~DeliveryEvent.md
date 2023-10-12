@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DeliveryEvent, class/Thing/Event/DeliveryEvent, is_a_/DeliveryEvent, schema-org/DeliveryEvent]
-tags: ["class/DeliveryEvent", "#is_/a_/DeliveryEvent", "class/Thing/Event/DeliveryEvent"]
+tags: ["class/DeliveryEvent", "#is_a_/DeliveryEvent", "class/Thing/Event/DeliveryEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---
 
@@ -17,7 +17,7 @@ An event involving the delivery of an item.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DeliveryEvent
+#is_a_/DeliveryEvent
 #class/DeliveryEvent
 #class/Thing/Event/DeliveryEvent
 

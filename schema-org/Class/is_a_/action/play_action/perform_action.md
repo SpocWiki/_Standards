@@ -34,7 +34,7 @@ aliases:
 Class of all perform_actions.
 
 Tag Instances like this: 
-#is_/a_/perform_action
+#is_a_/perform_action
 
 The act of participating in performance arts.
 

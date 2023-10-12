@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EducationalOccupationalProgram, class/Thing/Intangible/EducationalOccupationalProgram, is_an_/EducationalOccupationalProgram, schema-org/EducationalOccupationalProgram]
-tags: ["class/EducationalOccupationalProgram", "#is_/an_/EducationalOccupationalProgram", "class/Thing/Intangible/EducationalOccupationalProgram"]
+tags: ["class/EducationalOccupationalProgram", "#is_an_/EducationalOccupationalProgram", "class/Thing/Intangible/EducationalOccupationalProgram"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A program offered by an institution which determines the learning progress to ac
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/EducationalOccupationalProgram
+#is_an_/EducationalOccupationalProgram
 #class/EducationalOccupationalProgram
 #class/Thing/Intangible/EducationalOccupationalProgram
 

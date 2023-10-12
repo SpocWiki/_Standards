@@ -34,7 +34,7 @@ aliases:
 Class of all brokerage_accounts.
 
 Tag Instances like this: 
-#is_/a_/brokerage_account
+#is_a_/brokerage_account
 
 [ #is_/part_of :: https://pending.schema.org ]
 

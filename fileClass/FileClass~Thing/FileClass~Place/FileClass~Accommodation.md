@@ -5,7 +5,7 @@ excludes:
 icon: hotel
 version: 5
 tagNames: [class/Accommodation, class/Thing/Place/Accommodation, is_an_/Accommodation, schema-org/Accommodation]
-tags: ["class/Accommodation", "#is_/an_/Accommodation", "class/Thing/Place/Accommodation"]
+tags: ["class/Accommodation", "#is_an_/Accommodation", "class/Thing/Place/Accommodation"]
 extends: FileClass~Thing/FileClass~Place
 ---
 
@@ -20,7 +20,7 @@ An accommodation is a place that can accommodate human beings, e.g. a hotel room
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Accommodation
+#is_an_/Accommodation
 #class/Accommodation
 #class/Thing/Place/Accommodation
 

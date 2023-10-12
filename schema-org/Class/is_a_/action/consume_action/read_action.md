@@ -34,7 +34,7 @@ aliases:
 Class of all read_actions.
 
 Tag Instances like this: 
-#is_/a_/read_action
+#is_a_/read_action
 
 The act of consuming written content.
 

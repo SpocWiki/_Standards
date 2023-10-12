@@ -34,7 +34,7 @@ aliases:
 Class of all game_availability_enumerations.
 
 Tag Instances like this: 
-#is_/a_/game_availability_enumeration
+#is_a_/game_availability_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

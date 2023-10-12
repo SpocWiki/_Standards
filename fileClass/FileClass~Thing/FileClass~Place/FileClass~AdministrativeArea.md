@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AdministrativeArea, class/Thing/Place/AdministrativeArea, is_an_/AdministrativeArea, schema-org/AdministrativeArea]
-tags: ["class/AdministrativeArea", "#is_/an_/AdministrativeArea", "class/Thing/Place/AdministrativeArea"]
+tags: ["class/AdministrativeArea", "#is_an_/AdministrativeArea", "class/Thing/Place/AdministrativeArea"]
 extends: FileClass~Thing/FileClass~Place
 ---
 
@@ -17,7 +17,7 @@ A geographical region, typically under the jurisdiction of a particular governme
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AdministrativeArea
+#is_an_/AdministrativeArea
 #class/AdministrativeArea
 #class/Thing/Place/AdministrativeArea
 

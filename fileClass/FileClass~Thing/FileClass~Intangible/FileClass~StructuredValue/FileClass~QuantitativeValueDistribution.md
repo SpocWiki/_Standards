@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/QuantitativeValueDistribution, class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution, is_a_/QuantitativeValueDistribution, schema-org/QuantitativeValueDistribution]
-tags: ["class/QuantitativeValueDistribution", "#is_/a_/QuantitativeValueDistribution", "class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution"]
+tags: ["class/QuantitativeValueDistribution", "#is_a_/QuantitativeValueDistribution", "class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A statistical distribution of values.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/QuantitativeValueDistribution
+#is_a_/QuantitativeValueDistribution
 #class/QuantitativeValueDistribution
 #class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution
 

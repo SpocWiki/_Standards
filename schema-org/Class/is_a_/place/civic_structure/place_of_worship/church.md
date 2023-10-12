@@ -34,7 +34,7 @@ aliases:
 Class of all churchs.
 
 Tag Instances like this: 
-#is_/a_/church
+#is_a_/church
 
 A church.
 

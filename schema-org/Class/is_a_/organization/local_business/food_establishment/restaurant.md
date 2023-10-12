@@ -34,7 +34,7 @@ aliases:
 Class of all restaurants.
 
 Tag Instances like this: 
-#is_/a_/restaurant
+#is_a_/restaurant
 
 A restaurant.
 

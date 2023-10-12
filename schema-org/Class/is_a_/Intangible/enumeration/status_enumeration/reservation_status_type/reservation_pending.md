@@ -36,7 +36,7 @@ aliases:
 Class of all reservation_pendings.
 
 Tag Instances like this: 
-#is_/a_/reservation_pending
+#is_a_/reservation_pending
 
 The status of a reservation when a request has been sent, but not confirmed.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all exercise_actions.
 
 Tag Instances like this: 
-#is_/an_/exercise_action
+#is_an_/exercise_action
 
 The act of participating in exertive activity for the purposes of improving health and fitness.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all find_actions.
 
 Tag Instances like this: 
-#is_/a_/find_action
+#is_a_/find_action
 
 The act of finding an object.
 

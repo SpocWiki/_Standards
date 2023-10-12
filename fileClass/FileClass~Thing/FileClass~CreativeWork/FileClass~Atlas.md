@@ -5,7 +5,7 @@ excludes:
 icon: map
 version: 5
 tagNames: [class/Atlas, class/Thing/CreativeWork/Atlas, is_an_/Atlas, schema-org/Atlas]
-tags: ["class/Atlas", "#is_/an_/Atlas", "class/Thing/CreativeWork/Atlas"]
+tags: ["class/Atlas", "#is_an_/Atlas", "class/Thing/CreativeWork/Atlas"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Atlas
+#is_an_/Atlas
 #class/Atlas
 #class/Thing/CreativeWork/Atlas
 

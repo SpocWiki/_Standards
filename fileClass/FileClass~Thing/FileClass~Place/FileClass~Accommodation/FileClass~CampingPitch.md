@@ -5,7 +5,7 @@ excludes:
 icon: tent
 version: 5
 tagNames: [class/CampingPitch, class/Thing/Place/Accommodation/CampingPitch, is_a_/CampingPitch, schema-org/CampingPitch]
-tags: ["class/CampingPitch", "#is_/a_/CampingPitch", "class/Thing/Place/Accommodation/CampingPitch"]
+tags: ["class/CampingPitch", "#is_a_/CampingPitch", "class/Thing/Place/Accommodation/CampingPitch"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 ---
 
@@ -24,7 +24,7 @@ A [[CampingPitch]] is an individual place for overnight stay in the outdoors, ty
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CampingPitch
+#is_a_/CampingPitch
 #class/CampingPitch
 #class/Thing/Place/Accommodation/CampingPitch
 

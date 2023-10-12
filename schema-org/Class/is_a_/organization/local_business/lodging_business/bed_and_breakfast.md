@@ -34,7 +34,7 @@ aliases:
 Class of all bed_and_breakfasts.
 
 Tag Instances like this: 
-#is_/a_/bed_and_breakfast
+#is_a_/bed_and_breakfast
 
 Bed and breakfast.
 <br /><br />

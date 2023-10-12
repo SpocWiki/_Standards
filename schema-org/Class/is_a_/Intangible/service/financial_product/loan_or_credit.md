@@ -34,7 +34,7 @@ aliases:
 Class of all loan_or_credits.
 
 Tag Instances like this: 
-#is_/a_/loan_or_credit
+#is_a_/loan_or_credit
 
 A financial product for the loaning of an amount of money, or line of credit, under agreed terms and charges.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SearchAction, class/Thing/Action/SearchAction, is_a_/SearchAction, schema-org/SearchAction]
-tags: ["class/SearchAction", "#is_/a_/SearchAction", "class/Thing/Action/SearchAction"]
+tags: ["class/SearchAction", "#is_a_/SearchAction", "class/Thing/Action/SearchAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -21,7 +21,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SearchAction
+#is_a_/SearchAction
 #class/SearchAction
 #class/Thing/Action/SearchAction
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/JobPosting, class/Thing/Intangible/JobPosting, is_a_/JobPosting, schema-org/JobPosting]
-tags: ["class/JobPosting", "#is_/a_/JobPosting", "class/Thing/Intangible/JobPosting"]
+tags: ["class/JobPosting", "#is_a_/JobPosting", "class/Thing/Intangible/JobPosting"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A listing that describes a job opening in a certain organization.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/JobPosting
+#is_a_/JobPosting
 #class/JobPosting
 #class/Thing/Intangible/JobPosting
 

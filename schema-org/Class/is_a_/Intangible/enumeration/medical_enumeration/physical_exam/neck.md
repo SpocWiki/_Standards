@@ -36,7 +36,7 @@ aliases:
 Class of all necks.
 
 Tag Instances like this: 
-#is_/a_/neck
+#is_a_/neck
 
 Neck assessment with clinical examination.
 

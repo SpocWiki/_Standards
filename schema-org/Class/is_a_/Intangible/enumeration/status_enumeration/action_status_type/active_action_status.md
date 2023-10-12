@@ -36,7 +36,7 @@ aliases:
 Class of all active_action_statuss.
 
 Tag Instances like this: 
-#is_/an_/active_action_status
+#is_an_/active_action_status
 
 An in-progress action (e.g., while watching the movie, or driving to a location).
 

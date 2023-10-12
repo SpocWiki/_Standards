@@ -36,7 +36,7 @@ aliases:
 Class of all completeds.
 
 Tag Instances like this: 
-#is_/a_/completed
+#is_a_/completed
 
 Completed.
 

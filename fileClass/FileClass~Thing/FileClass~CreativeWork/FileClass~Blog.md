@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Blog, class/Thing/CreativeWork/Blog, is_a_/Blog, schema-org/Blog]
-tags: ["class/Blog", "#is_/a_/Blog", "class/Thing/CreativeWork/Blog"]
+tags: ["class/Blog", "#is_a_/Blog", "class/Thing/CreativeWork/Blog"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A [blog](https://en.wikipedia.org/wiki/Blog), sometimes known as a "weblog". Not
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Blog
+#is_a_/Blog
 #class/Blog
 #class/Thing/CreativeWork/Blog
 

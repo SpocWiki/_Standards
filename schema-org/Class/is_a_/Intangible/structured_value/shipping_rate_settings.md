@@ -34,7 +34,7 @@ aliases:
 Class of all shipping_rate_settingss.
 
 Tag Instances like this: 
-#is_/a_/shipping_rate_settings
+#is_a_/shipping_rate_settings
 
 [ #is_/part_of :: https://pending.schema.org ]
 

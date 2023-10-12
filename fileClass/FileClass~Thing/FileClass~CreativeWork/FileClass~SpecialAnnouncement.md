@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SpecialAnnouncement, class/Thing/CreativeWork/SpecialAnnouncement, is_a_/SpecialAnnouncement, schema-org/SpecialAnnouncement]
-tags: ["class/SpecialAnnouncement", "#is_/a_/SpecialAnnouncement", "class/Thing/CreativeWork/SpecialAnnouncement"]
+tags: ["class/SpecialAnnouncement", "#is_a_/SpecialAnnouncement", "class/Thing/CreativeWork/SpecialAnnouncement"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -40,7 +40,7 @@ A SpecialAnnouncement combines a simple date-stamped textual information update
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SpecialAnnouncement
+#is_a_/SpecialAnnouncement
 #class/SpecialAnnouncement
 #class/Thing/CreativeWork/SpecialAnnouncement
 

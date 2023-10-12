@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LinkRole, class/Thing/Intangible/Role/LinkRole, is_a_/LinkRole, schema-org/LinkRole]
-tags: ["class/LinkRole", "#is_/a_/LinkRole", "class/Thing/Intangible/Role/LinkRole"]
+tags: ["class/LinkRole", "#is_a_/LinkRole", "class/Thing/Intangible/Role/LinkRole"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 ---
 
@@ -17,7 +17,7 @@ A Role that represents a Web link, e.g. as expressed via the 'url' property. Its
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LinkRole
+#is_a_/LinkRole
 #class/LinkRole
 #class/Thing/Intangible/Role/LinkRole
 

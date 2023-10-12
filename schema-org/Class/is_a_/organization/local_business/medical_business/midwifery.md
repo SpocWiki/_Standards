@@ -36,7 +36,7 @@ aliases:
 Class of all midwiferys.
 
 Tag Instances like this: 
-#is_/a_/midwifery
+#is_a_/midwifery
 
 A nurse-like health profession that deals with pregnancy, childbirth, and the postpartum period (including care of the newborn), besides sexual and reproductive health of women throughout their lives.
 

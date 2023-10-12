@@ -34,7 +34,7 @@ aliases:
 Class of all fire_stations.
 
 Tag Instances like this: 
-#is_/a_/fire_station
+#is_a_/fire_station
 
 A fire station. With firemen.
 

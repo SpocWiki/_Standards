@@ -34,7 +34,7 @@ aliases:
 Class of all guides.
 
 Tag Instances like this: 
-#is_/a_/guide
+#is_a_/guide
 
 [ #is_/part_of :: https://pending.schema.org ]
 

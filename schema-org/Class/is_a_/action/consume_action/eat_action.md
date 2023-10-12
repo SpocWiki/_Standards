@@ -34,7 +34,7 @@ aliases:
 Class of all eat_actions.
 
 Tag Instances like this: 
-#is_/an_/eat_action
+#is_an_/eat_action
 
 The act of swallowing solid objects.
 

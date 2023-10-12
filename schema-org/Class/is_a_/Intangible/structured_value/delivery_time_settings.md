@@ -34,7 +34,7 @@ aliases:
 Class of all delivery_time_settingss.
 
 Tag Instances like this: 
-#is_/a_/delivery_time_settings
+#is_a_/delivery_time_settings
 
 [ #is_/part_of :: https://pending.schema.org ]
 

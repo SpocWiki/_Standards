@@ -34,7 +34,7 @@ aliases:
 Class of all advertiser_content_articles.
 
 Tag Instances like this: 
-#is_/an_/advertiser_content_article
+#is_an_/advertiser_content_article
 
 [ #is_/part_of :: https://pending.schema.org ]
 

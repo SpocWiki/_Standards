@@ -34,7 +34,7 @@ aliases:
 Class of all medical_observational_study_designs.
 
 Tag Instances like this: 
-#is_/a_/medical_observational_study_design
+#is_a_/medical_observational_study_design
 
 Design models for observational medical studies. Enumerated type.
 

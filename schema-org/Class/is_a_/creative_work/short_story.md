@@ -34,7 +34,7 @@ aliases:
 Class of all short_storys.
 
 Tag Instances like this: 
-#is_/a_/short_story
+#is_a_/short_story
 
 [ #is_/part_of :: https://pending.schema.org ]
 

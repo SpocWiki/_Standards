@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MediaReview, class/Thing/CreativeWork/Review/MediaReview, is_a_/MediaReview, schema-org/MediaReview]
-tags: ["class/MediaReview", "#is_/a_/MediaReview", "class/Thing/CreativeWork/Review/MediaReview"]
+tags: ["class/MediaReview", "#is_a_/MediaReview", "class/Thing/CreativeWork/Review/MediaReview"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 ---
 
@@ -20,7 +20,7 @@ A [[MediaReview]] is a more specialized form of Review dedicated to the evaluati
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MediaReview
+#is_a_/MediaReview
 #class/MediaReview
 #class/Thing/CreativeWork/Review/MediaReview
 

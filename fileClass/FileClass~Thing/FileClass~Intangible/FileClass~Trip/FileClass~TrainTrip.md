@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TrainTrip, class/Thing/Intangible/Trip/TrainTrip, is_a_/TrainTrip, schema-org/TrainTrip]
-tags: ["class/TrainTrip", "#is_/a_/TrainTrip", "class/Thing/Intangible/Trip/TrainTrip"]
+tags: ["class/TrainTrip", "#is_a_/TrainTrip", "class/Thing/Intangible/Trip/TrainTrip"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 ---
 
@@ -17,7 +17,7 @@ A trip on a commercial train line.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TrainTrip
+#is_a_/TrainTrip
 #class/TrainTrip
 #class/Thing/Intangible/Trip/TrainTrip
 

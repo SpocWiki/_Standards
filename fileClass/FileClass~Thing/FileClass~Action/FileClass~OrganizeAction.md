@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OrganizeAction, class/Thing/Action/OrganizeAction, is_an_/OrganizeAction, schema-org/OrganizeAction]
-tags: ["class/OrganizeAction", "#is_/an_/OrganizeAction", "class/Thing/Action/OrganizeAction"]
+tags: ["class/OrganizeAction", "#is_an_/OrganizeAction", "class/Thing/Action/OrganizeAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -17,7 +17,7 @@ The act of manipulating/administering/supervising/controlling one or more object
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OrganizeAction
+#is_an_/OrganizeAction
 #class/OrganizeAction
 #class/Thing/Action/OrganizeAction
 

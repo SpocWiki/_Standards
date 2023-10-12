@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/JoinAction, class/Thing/Action/InteractAction/JoinAction, is_a_/JoinAction, schema-org/JoinAction]
-tags: ["class/JoinAction", "#is_/a_/JoinAction", "class/Thing/Action/InteractAction/JoinAction"]
+tags: ["class/JoinAction", "#is_a_/JoinAction", "class/Thing/Action/InteractAction/JoinAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 ---
 
@@ -23,7 +23,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/JoinAction
+#is_a_/JoinAction
 #class/JoinAction
 #class/Thing/Action/InteractAction/JoinAction
 

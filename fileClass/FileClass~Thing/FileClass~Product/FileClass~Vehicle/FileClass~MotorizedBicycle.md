@@ -5,7 +5,7 @@ excludes:
 icon: bike
 version: 5
 tagNames: [class/MotorizedBicycle, class/Thing/Product/Vehicle/MotorizedBicycle, is_a_/MotorizedBicycle, schema-org/MotorizedBicycle]
-tags: ["class/MotorizedBicycle", "#is_/a_/MotorizedBicycle", "class/Thing/Product/Vehicle/MotorizedBicycle"]
+tags: ["class/MotorizedBicycle", "#is_a_/MotorizedBicycle", "class/Thing/Product/Vehicle/MotorizedBicycle"]
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 ---
 
@@ -17,7 +17,7 @@ A motorized bicycle is a bicycle with an attached motor used to power the vehicl
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MotorizedBicycle
+#is_a_/MotorizedBicycle
 #class/MotorizedBicycle
 #class/Thing/Product/Vehicle/MotorizedBicycle
 

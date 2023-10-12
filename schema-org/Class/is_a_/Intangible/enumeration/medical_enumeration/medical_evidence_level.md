@@ -34,7 +34,7 @@ aliases:
 Class of all medical_evidence_levels.
 
 Tag Instances like this: 
-#is_/a_/medical_evidence_level
+#is_a_/medical_evidence_level
 
 Level of evidence for a medical guideline. Enumerated type.
 

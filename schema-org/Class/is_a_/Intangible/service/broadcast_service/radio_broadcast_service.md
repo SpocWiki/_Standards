@@ -34,7 +34,7 @@ aliases:
 Class of all radio_broadcast_services.
 
 Tag Instances like this: 
-#is_/a_/radio_broadcast_service
+#is_a_/radio_broadcast_service
 
 [ #is_/part_of :: https://pending.schema.org ]
 

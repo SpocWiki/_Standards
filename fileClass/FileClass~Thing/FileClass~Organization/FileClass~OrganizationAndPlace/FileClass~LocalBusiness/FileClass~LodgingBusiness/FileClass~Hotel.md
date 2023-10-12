@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Hotel, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hotel, is_a_/Hotel, schema-org/Hotel]
-tags: ["class/Hotel", "#is_/a_/Hotel", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hotel"]
+tags: ["class/Hotel", "#is_a_/Hotel", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hotel"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LodgingBusiness
 ---
 
@@ -19,7 +19,7 @@ A hotel is an establishment that provides lodging paid on a short-term basis (so
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Hotel
+#is_a_/Hotel
 #class/Hotel
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hotel
 

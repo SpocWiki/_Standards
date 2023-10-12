@@ -5,7 +5,7 @@ excludes:
 icon: map
 version: 5
 tagNames: [class/Map, class/Thing/CreativeWork/Map, is_a_/Map, schema-org/Map]
-tags: ["class/Map", "#is_/a_/Map", "class/Thing/CreativeWork/Map"]
+tags: ["class/Map", "#is_a_/Map", "class/Thing/CreativeWork/Map"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A map.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Map
+#is_a_/Map
 #class/Map
 #class/Thing/CreativeWork/Map
 

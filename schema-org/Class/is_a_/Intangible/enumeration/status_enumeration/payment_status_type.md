@@ -34,7 +34,7 @@ aliases:
 Class of all payment_status_types.
 
 Tag Instances like this: 
-#is_/a_/payment_status_type
+#is_a_/payment_status_type
 
 A specific payment status. For example, PaymentDue, PaymentComplete, etc.
 

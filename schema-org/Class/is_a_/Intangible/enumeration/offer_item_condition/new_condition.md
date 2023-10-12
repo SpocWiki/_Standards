@@ -36,7 +36,7 @@ aliases:
 Class of all new_conditions.
 
 Tag Instances like this: 
-#is_/a_/new_condition
+#is_a_/new_condition
 
 Indicates that the item is new.
 

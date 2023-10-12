@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ListenAction, class/Thing/Action/ConsumeAction/ListenAction, is_a_/ListenAction, schema-org/ListenAction]
-tags: ["class/ListenAction", "#is_/a_/ListenAction", "class/Thing/Action/ConsumeAction/ListenAction"]
+tags: ["class/ListenAction", "#is_a_/ListenAction", "class/Thing/Action/ConsumeAction/ListenAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 ---
 
@@ -17,7 +17,7 @@ The act of consuming audio content.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ListenAction
+#is_a_/ListenAction
 #class/ListenAction
 #class/Thing/Action/ConsumeAction/ListenAction
 

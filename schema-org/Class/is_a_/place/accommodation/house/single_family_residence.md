@@ -34,7 +34,7 @@ aliases:
 Class of all single_family_residences.
 
 Tag Instances like this: 
-#is_/a_/single_family_residence
+#is_a_/single_family_residence
 
 Residence type: Single-family home.
 

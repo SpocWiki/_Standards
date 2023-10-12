@@ -34,7 +34,7 @@ aliases:
 Class of all delivery_events.
 
 Tag Instances like this: 
-#is_/a_/delivery_event
+#is_a_/delivery_event
 
 An event involving the delivery of an item.
 

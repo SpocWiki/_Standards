@@ -36,7 +36,7 @@ aliases:
 Class of all full_game_availabilitys.
 
 Tag Instances like this: 
-#is_/a_/full_game_availability
+#is_a_/full_game_availability
 
 [ #is_/part_of :: https://pending.schema.org ]
 

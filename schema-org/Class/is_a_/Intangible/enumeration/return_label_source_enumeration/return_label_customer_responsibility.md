@@ -36,7 +36,7 @@ aliases:
 Class of all return_label_customer_responsibilitys.
 
 Tag Instances like this: 
-#is_/a_/return_label_customer_responsibility
+#is_a_/return_label_customer_responsibility
 
 [ #is_/part_of :: https://pending.schema.org ]
 

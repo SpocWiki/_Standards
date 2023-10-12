@@ -34,7 +34,7 @@ aliases:
 Class of all librarys.
 
 Tag Instances like this: 
-#is_/a_/library
+#is_a_/library
 
 A library.
 

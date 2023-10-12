@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/UnitPriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification, is_an_/UnitPriceSpecification, schema-org/UnitPriceSpecification]
-tags: ["class/UnitPriceSpecification", "#is_/an_/UnitPriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification"]
+tags: ["class/UnitPriceSpecification", "#is_an_/UnitPriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 ---
 
@@ -17,7 +17,7 @@ The price asked for a given offer by the respective organization or person.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/UnitPriceSpecification
+#is_an_/UnitPriceSpecification
 #class/UnitPriceSpecification
 #class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification
 

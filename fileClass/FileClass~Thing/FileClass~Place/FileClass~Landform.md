@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Landform, class/Thing/Place/Landform, is_a_/Landform, schema-org/Landform]
-tags: ["class/Landform", "#is_/a_/Landform", "class/Thing/Place/Landform"]
+tags: ["class/Landform", "#is_a_/Landform", "class/Thing/Place/Landform"]
 extends: FileClass~Thing/FileClass~Place
 ---
 
@@ -17,7 +17,7 @@ A landform or physical feature.  Landform elements include mountains, plains, la
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Landform
+#is_a_/Landform
 #class/Landform
 #class/Thing/Place/Landform
 

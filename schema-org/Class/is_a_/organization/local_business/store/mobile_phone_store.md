@@ -34,7 +34,7 @@ aliases:
 Class of all mobile_phone_stores.
 
 Tag Instances like this: 
-#is_/a_/mobile_phone_store
+#is_a_/mobile_phone_store
 
 A store that sells mobile phones and related accessories.
 

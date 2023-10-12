@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalCode, class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode, is_a_/MedicalCode, schema-org/MedicalCode]
-tags: ["class/MedicalCode", "#is_/a_/MedicalCode", "class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode"]
+tags: ["class/MedicalCode", "#is_a_/MedicalCode", "class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible
 ---
 
@@ -17,7 +17,7 @@ A code for a medical entity.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalCode
+#is_a_/MedicalCode
 #class/MedicalCode
 #class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Periodical, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical, is_a_/Periodical, schema-org/Periodical]
-tags: ["class/Periodical", "#is_/a_/Periodical", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical"]
+tags: ["class/Periodical", "#is_a_/Periodical", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 ---
 
@@ -19,7 +19,7 @@ See also [blog post](http://blog.schema.org/2014/09/schemaorg-support-for-biblio
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Periodical
+#is_a_/Periodical
 #class/Periodical
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical
 

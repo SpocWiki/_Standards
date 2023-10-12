@@ -34,7 +34,7 @@ aliases:
 Class of all accept_actions.
 
 Tag Instances like this: 
-#is_/an_/accept_action
+#is_an_/accept_action
 
 The act of committing to/adopting an object.
 

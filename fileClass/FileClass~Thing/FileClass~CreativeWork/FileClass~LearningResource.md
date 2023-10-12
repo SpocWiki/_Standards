@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LearningResource, class/Thing/CreativeWork/LearningResource, is_a_/LearningResource, schema-org/LearningResource]
-tags: ["class/LearningResource", "#is_/a_/LearningResource", "class/Thing/CreativeWork/LearningResource"]
+tags: ["class/LearningResource", "#is_a_/LearningResource", "class/Thing/CreativeWork/LearningResource"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -19,7 +19,7 @@ The LearningResource type can be used to indicate [[CreativeWork]]s (whether phy
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LearningResource
+#is_a_/LearningResource
 #class/LearningResource
 #class/Thing/CreativeWork/LearningResource
 

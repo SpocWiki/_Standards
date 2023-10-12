@@ -34,7 +34,7 @@ aliases:
 Class of all zoos.
 
 Tag Instances like this: 
-#is_/a_/zoo
+#is_a_/zoo
 
 A zoo.
 

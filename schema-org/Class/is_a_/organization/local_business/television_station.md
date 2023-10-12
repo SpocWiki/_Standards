@@ -34,7 +34,7 @@ aliases:
 Class of all television_stations.
 
 Tag Instances like this: 
-#is_/a_/television_station
+#is_a_/television_station
 
 A television station.
 

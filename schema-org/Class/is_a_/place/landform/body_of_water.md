@@ -34,7 +34,7 @@ aliases:
 Class of all body_of_waters.
 
 Tag Instances like this: 
-#is_/a_/body_of_water
+#is_a_/body_of_water
 
 A body of water, such as a sea, ocean, or lake.
 

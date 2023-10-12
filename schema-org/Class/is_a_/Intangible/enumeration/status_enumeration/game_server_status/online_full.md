@@ -36,7 +36,7 @@ aliases:
 Class of all online_fulls.
 
 Tag Instances like this: 
-#is_/an_/online_full
+#is_an_/online_full
 
 Game server status: OnlineFull. Server is online but unavailable. The maximum number of players has reached.
 

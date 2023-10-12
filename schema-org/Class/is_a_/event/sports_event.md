@@ -34,7 +34,7 @@ aliases:
 Class of all sports_events.
 
 Tag Instances like this: 
-#is_/a_/sports_event
+#is_a_/sports_event
 
 Event type: Sports event.
 

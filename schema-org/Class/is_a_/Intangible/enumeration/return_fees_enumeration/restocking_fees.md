@@ -36,7 +36,7 @@ aliases:
 Class of all restocking_feess.
 
 Tag Instances like this: 
-#is_/a_/restocking_fees
+#is_a_/restocking_fees
 
 [ #is_/part_of :: https://pending.schema.org ]
 

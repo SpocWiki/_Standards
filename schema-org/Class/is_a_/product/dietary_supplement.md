@@ -34,7 +34,7 @@ aliases:
 Class of all dietary_supplements.
 
 Tag Instances like this: 
-#is_/a_/dietary_supplement
+#is_a_/dietary_supplement
 
 A product taken by mouth that contains a dietary ingredient intended to supplement the diet. Dietary ingredients may include vitamins, minerals, herbs or other botanicals, amino acids, and substances such as enzymes, organ tissues, glandulars and metabolites.
 

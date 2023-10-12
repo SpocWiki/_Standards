@@ -34,7 +34,7 @@ aliases:
 Class of all checkout_pages.
 
 Tag Instances like this: 
-#is_/a_/checkout_page
+#is_a_/checkout_page
 
 Web page type: Checkout page.
 

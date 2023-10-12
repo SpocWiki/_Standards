@@ -34,7 +34,7 @@ aliases:
 Class of all medical_guideline_contraindications.
 
 Tag Instances like this: 
-#is_/a_/medical_guideline_contraindication
+#is_a_/medical_guideline_contraindication
 
 A guideline contraindication that designates a process as harmful and where quality of the data supporting the contraindication is sound.
 

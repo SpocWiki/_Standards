@@ -34,7 +34,7 @@ aliases:
 Class of all anatomical_systems.
 
 Tag Instances like this: 
-#is_/an_/anatomical_system
+#is_an_/anatomical_system
 
 An anatomical system is a group of anatomical structures that work together to perform a certain task. Anatomical systems, such as organ systems, are one organizing principle of anatomy, and can include circulatory, digestive, endocrine, integumentary, immune, lymphatic, muscular, nervous, reproductive, respiratory, skeletal, urinary, vestibular, and other systems.
 

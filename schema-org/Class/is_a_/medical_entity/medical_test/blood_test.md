@@ -34,7 +34,7 @@ aliases:
 Class of all blood_tests.
 
 Tag Instances like this: 
-#is_/a_/blood_test
+#is_a_/blood_test
 
 A medical test performed on a sample of a patient's blood.
 

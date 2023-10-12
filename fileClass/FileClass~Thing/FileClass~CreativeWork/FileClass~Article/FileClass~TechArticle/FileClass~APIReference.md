@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/APIReference, class/Thing/CreativeWork/Article/TechArticle/APIReference, is_an_/APIReference, schema-org/APIReference]
-tags: ["class/APIReference", "#is_/an_/APIReference", "class/Thing/CreativeWork/Article/TechArticle/APIReference"]
+tags: ["class/APIReference", "#is_an_/APIReference", "class/Thing/CreativeWork/Article/TechArticle/APIReference"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle
 ---
 
@@ -17,7 +17,7 @@ Reference documentation for application programming interfaces (APIs).
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/APIReference
+#is_an_/APIReference
 #class/APIReference
 #class/Thing/CreativeWork/Article/TechArticle/APIReference
 

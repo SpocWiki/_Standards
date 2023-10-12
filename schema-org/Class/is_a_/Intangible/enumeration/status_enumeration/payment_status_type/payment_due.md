@@ -36,7 +36,7 @@ aliases:
 Class of all payment_dues.
 
 Tag Instances like this: 
-#is_/a_/payment_due
+#is_a_/payment_due
 
 The payment is due, but still within an acceptable time to be received.
 

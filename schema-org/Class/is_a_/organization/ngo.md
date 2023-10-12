@@ -34,7 +34,7 @@ aliases:
 Class of all ngos.
 
 Tag Instances like this: 
-#is_/a_/ngo
+#is_a_/ngo
 
 Organization: Non-governmental Organization.
 

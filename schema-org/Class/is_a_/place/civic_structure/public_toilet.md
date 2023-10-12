@@ -34,7 +34,7 @@ aliases:
 Class of all public_toilets.
 
 Tag Instances like this: 
-#is_/a_/public_toilet
+#is_a_/public_toilet
 
 [ #is_/part_of :: https://pending.schema.org ]
 

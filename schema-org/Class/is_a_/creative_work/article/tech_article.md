@@ -34,7 +34,7 @@ aliases:
 Class of all tech_articles.
 
 Tag Instances like this: 
-#is_/a_/tech_article
+#is_a_/tech_article
 
 A technical article - Example: How-to (task) topics, step-by-step, procedural troubleshooting, specifications, etc.
 

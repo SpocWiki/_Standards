@@ -36,7 +36,7 @@ aliases:
 Class of all halal_diets.
 
 Tag Instances like this: 
-#is_/a_/halal_diet
+#is_a_/halal_diet
 
 A diet conforming to Islamic dietary practices.
 

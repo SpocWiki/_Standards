@@ -34,7 +34,7 @@ aliases:
 Class of all how_to_items.
 
 Tag Instances like this: 
-#is_/a_/how_to_item
+#is_a_/how_to_item
 
 An item used as either a tool or supply when performing the instructions for how to achieve a result.
 

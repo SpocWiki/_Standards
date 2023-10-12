@@ -36,7 +36,7 @@ aliases:
 Class of all discontinueds.
 
 Tag Instances like this: 
-#is_/a_/discontinued
+#is_a_/discontinued
 
 Indicates that the item has been discontinued.
 

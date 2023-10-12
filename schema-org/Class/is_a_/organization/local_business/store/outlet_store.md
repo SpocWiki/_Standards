@@ -34,7 +34,7 @@ aliases:
 Class of all outlet_stores.
 
 Tag Instances like this: 
-#is_/an_/outlet_store
+#is_an_/outlet_store
 
 An outlet store.
 

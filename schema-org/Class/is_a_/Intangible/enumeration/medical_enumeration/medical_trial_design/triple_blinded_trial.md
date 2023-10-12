@@ -36,7 +36,7 @@ aliases:
 Class of all triple_blinded_trials.
 
 Tag Instances like this: 
-#is_/a_/triple_blinded_trial
+#is_a_/triple_blinded_trial
 
 A trial design in which neither the researcher, the person administering the therapy nor the patient knows the details of the treatment the patient was randomly assigned to.
 

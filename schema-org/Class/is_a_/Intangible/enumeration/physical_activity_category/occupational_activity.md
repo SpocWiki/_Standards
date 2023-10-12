@@ -36,7 +36,7 @@ aliases:
 Class of all occupational_activitys.
 
 Tag Instances like this: 
-#is_/an_/occupational_activity
+#is_an_/occupational_activity
 
 Any physical activity engaged in for job-related purposes. Examples may include waiting tables, maid service, carrying a mailbag, picking fruits or vegetables, construction work, etc.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all sculptures.
 
 Tag Instances like this: 
-#is_/a_/sculpture
+#is_a_/sculpture
 
 A piece of sculpture.
 

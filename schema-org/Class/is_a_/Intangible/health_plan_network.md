@@ -34,7 +34,7 @@ aliases:
 Class of all health_plan_networks.
 
 Tag Instances like this: 
-#is_/a_/health_plan_network
+#is_a_/health_plan_network
 
 [ #is_/part_of :: https://pending.schema.org ]
 

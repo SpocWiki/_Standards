@@ -34,7 +34,7 @@ aliases:
 Class of all day_of_weeks.
 
 Tag Instances like this: 
-#is_/a_/day_of_week
+#is_a_/day_of_week
 
 The day of the week, e.g. used to specify to which day the opening hours of an OpeningHoursSpecification refer.
 

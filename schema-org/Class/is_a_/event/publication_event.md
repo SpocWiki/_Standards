@@ -34,7 +34,7 @@ aliases:
 Class of all publication_events.
 
 Tag Instances like this: 
-#is_/a_/publication_event
+#is_a_/publication_event
 
 A PublicationEvent corresponds indifferently to the event of publication for a CreativeWork of any type, e.g. a broadcast event, an on-demand event, a book/journal publication via a variety of delivery media.
 

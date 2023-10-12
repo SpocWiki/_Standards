@@ -34,7 +34,7 @@ aliases:
 Class of all occupations.
 
 Tag Instances like this: 
-#is_/an_/occupation
+#is_an_/occupation
 
 A profession, may involve prolonged training and/or a formal qualification.
 

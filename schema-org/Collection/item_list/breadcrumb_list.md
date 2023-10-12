@@ -34,7 +34,7 @@ aliases:
 Class of all breadcrumb_lists.
 
 Tag Instances like this: 
-#is_/a_/breadcrumb_list
+#is_a_/breadcrumb_list
 
 A BreadcrumbList is an ItemList consisting of a chain of linked Web pages, typically described using at least their URL and their name, and typically ending with the current page.
 

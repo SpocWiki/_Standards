@@ -34,7 +34,7 @@ aliases:
 Class of all ask_actions.
 
 Tag Instances like this: 
-#is_/an_/ask_action
+#is_an_/ask_action
 
 The act of posing a question / favor to someone.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all dangerous_good_considerations.
 
 Tag Instances like this: 
-#is_/a_/dangerous_good_consideration
+#is_a_/dangerous_good_consideration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

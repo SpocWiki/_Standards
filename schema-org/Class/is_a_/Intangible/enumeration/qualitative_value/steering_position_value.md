@@ -34,7 +34,7 @@ aliases:
 Class of all steering_position_values.
 
 Tag Instances like this: 
-#is_/a_/steering_position_value
+#is_a_/steering_position_value
 
 A value indicating a steering position.
 

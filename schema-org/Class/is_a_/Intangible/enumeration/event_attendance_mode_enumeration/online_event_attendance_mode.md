@@ -36,7 +36,7 @@ aliases:
 Class of all online_event_attendance_modes.
 
 Tag Instances like this: 
-#is_/an_/online_event_attendance_mode
+#is_an_/online_event_attendance_mode
 
 [ #is_/part_of :: https://pending.schema.org ]
 

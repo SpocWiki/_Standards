@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Protein, class/Thing/BioChemEntity/Protein, is_a_/Protein, schema-org/Protein]
-tags: ["class/Protein", "#is_/a_/Protein", "class/Thing/BioChemEntity/Protein"]
+tags: ["class/Protein", "#is_a_/Protein", "class/Thing/BioChemEntity/Protein"]
 extends: FileClass~Thing/FileClass~BioChemEntity
 ---
 
@@ -17,7 +17,7 @@ Protein is here used in its widest possible definition, as classes of amino acid
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Protein
+#is_a_/Protein
 #class/Protein
 #class/Thing/BioChemEntity/Protein
 

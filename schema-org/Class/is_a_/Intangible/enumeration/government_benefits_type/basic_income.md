@@ -36,7 +36,7 @@ aliases:
 Class of all basic_incomes.
 
 Tag Instances like this: 
-#is_/a_/basic_income
+#is_a_/basic_income
 
 [ #is_/part_of :: https://pending.schema.org ]
 

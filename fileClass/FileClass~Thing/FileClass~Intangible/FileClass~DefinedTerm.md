@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DefinedTerm, class/Thing/Intangible/DefinedTerm, is_a_/DefinedTerm, schema-org/DefinedTerm]
-tags: ["class/DefinedTerm", "#is_/a_/DefinedTerm", "class/Thing/Intangible/DefinedTerm"]
+tags: ["class/DefinedTerm", "#is_a_/DefinedTerm", "class/Thing/Intangible/DefinedTerm"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A word, name, acronym, phrase, etc. with a formal definition. Often used in the 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DefinedTerm
+#is_a_/DefinedTerm
 #class/DefinedTerm
 #class/Thing/Intangible/DefinedTerm
 

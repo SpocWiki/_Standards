@@ -34,7 +34,7 @@ aliases:
 Class of all investment_funds.
 
 Tag Instances like this: 
-#is_/an_/investment_fund
+#is_an_/investment_fund
 
 [ #is_/part_of :: https://pending.schema.org ]
 

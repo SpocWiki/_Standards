@@ -5,7 +5,7 @@ excludes:
 icon: waves
 version: 5
 tagNames: [class/LakeBodyOfWater, class/Thing/Place/Landform/BodyOfWater/LakeBodyOfWater, is_a_/LakeBodyOfWater, schema-org/LakeBodyOfWater]
-tags: ["class/LakeBodyOfWater", "#is_/a_/LakeBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/LakeBodyOfWater"]
+tags: ["class/LakeBodyOfWater", "#is_a_/LakeBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/LakeBodyOfWater"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
 ---
 
@@ -17,7 +17,7 @@ A lake (for example, Lake Pontrachain).
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LakeBodyOfWater
+#is_a_/LakeBodyOfWater
 #class/LakeBodyOfWater
 #class/Thing/Place/Landform/BodyOfWater/LakeBodyOfWater
 

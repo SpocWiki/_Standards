@@ -36,7 +36,7 @@ aliases:
 Class of all studio_albums.
 
 Tag Instances like this: 
-#is_/a_/studio_album
+#is_a_/studio_album
 
 StudioAlbum.
 

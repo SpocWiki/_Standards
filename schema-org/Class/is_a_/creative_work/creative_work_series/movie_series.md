@@ -34,7 +34,7 @@ aliases:
 Class of all movie_seriess.
 
 Tag Instances like this: 
-#is_/a_/movie_series
+#is_a_/movie_series
 
 A series of movies. Included movies can be indicated with the hasPart property.
 

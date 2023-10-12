@@ -34,7 +34,7 @@ aliases:
 Class of all auto_parts_stores.
 
 Tag Instances like this: 
-#is_/an_/auto_parts_store
+#is_an_/auto_parts_store
 
 An auto parts store.
 

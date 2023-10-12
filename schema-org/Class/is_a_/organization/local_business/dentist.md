@@ -34,7 +34,7 @@ aliases:
 Class of all dentists.
 
 Tag Instances like this: 
-#is_/a_/dentist
+#is_a_/dentist
 
 A dentist.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all employer_reviews.
 
 Tag Instances like this: 
-#is_/an_/employer_review
+#is_an_/employer_review
 
 [ #is_/part_of :: https://pending.schema.org ]
 

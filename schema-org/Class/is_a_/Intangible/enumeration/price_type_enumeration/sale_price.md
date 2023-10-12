@@ -36,7 +36,7 @@ aliases:
 Class of all sale_prices.
 
 Tag Instances like this: 
-#is_/a_/sale_price
+#is_a_/sale_price
 
 [ #is_/part_of :: https://pending.schema.org ]
 

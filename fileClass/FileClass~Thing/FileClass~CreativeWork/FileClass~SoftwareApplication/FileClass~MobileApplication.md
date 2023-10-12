@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MobileApplication, class/Thing/CreativeWork/SoftwareApplication/MobileApplication, is_a_/MobileApplication, schema-org/MobileApplication]
-tags: ["class/MobileApplication", "#is_/a_/MobileApplication", "class/Thing/CreativeWork/SoftwareApplication/MobileApplication"]
+tags: ["class/MobileApplication", "#is_a_/MobileApplication", "class/Thing/CreativeWork/SoftwareApplication/MobileApplication"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 ---
 
@@ -17,7 +17,7 @@ A software application designed specifically to work well on a mobile device suc
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MobileApplication
+#is_a_/MobileApplication
 #class/MobileApplication
 #class/Thing/CreativeWork/SoftwareApplication/MobileApplication
 

@@ -34,7 +34,7 @@ aliases:
 Class of all medical_entitys.
 
 Tag Instances like this: 
-#is_/a_/medical_entity
+#is_a_/medical_entity
 
 The most generic type of entity related to health and the practice of medicine.
 

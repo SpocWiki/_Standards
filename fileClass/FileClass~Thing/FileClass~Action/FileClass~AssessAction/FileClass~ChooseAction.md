@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ChooseAction, class/Thing/Action/AssessAction/ChooseAction, is_a_/ChooseAction, schema-org/ChooseAction]
-tags: ["class/ChooseAction", "#is_/a_/ChooseAction", "class/Thing/Action/AssessAction/ChooseAction"]
+tags: ["class/ChooseAction", "#is_a_/ChooseAction", "class/Thing/Action/AssessAction/ChooseAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 ---
 
@@ -17,7 +17,7 @@ The act of expressing a preference from a set of options or a large or unbounded
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ChooseAction
+#is_a_/ChooseAction
 #class/ChooseAction
 #class/Thing/Action/AssessAction/ChooseAction
 

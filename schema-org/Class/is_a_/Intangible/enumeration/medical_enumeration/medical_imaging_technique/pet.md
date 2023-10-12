@@ -36,7 +36,7 @@ aliases:
 Class of all pets.
 
 Tag Instances like this: 
-#is_/a_/pet
+#is_a_/pet
 
 Positron emission tomography imaging.
 

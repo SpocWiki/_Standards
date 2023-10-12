@@ -36,7 +36,7 @@ aliases:
 Class of all cd_formats.
 
 Tag Instances like this: 
-#is_/a_/cd_format
+#is_a_/cd_format
 
 CDFormat.
 

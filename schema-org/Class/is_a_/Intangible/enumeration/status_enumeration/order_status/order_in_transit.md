@@ -36,7 +36,7 @@ aliases:
 Class of all order_in_transits.
 
 Tag Instances like this: 
-#is_/an_/order_in_transit
+#is_an_/order_in_transit
 
 OrderStatus representing that an order is in transit.
 

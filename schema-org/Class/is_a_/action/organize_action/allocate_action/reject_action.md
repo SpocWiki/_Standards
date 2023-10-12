@@ -34,7 +34,7 @@ aliases:
 Class of all reject_actions.
 
 Tag Instances like this: 
-#is_/a_/reject_action
+#is_a_/reject_action
 
 The act of rejecting to/adopting an object.
 

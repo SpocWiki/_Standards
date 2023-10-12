@@ -36,7 +36,7 @@ aliases:
 Class of all business_supports.
 
 Tag Instances like this: 
-#is_/a_/business_support
+#is_a_/business_support
 
 [ #is_/part_of :: https://pending.schema.org ]
 

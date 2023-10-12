@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AchieveAction, class/Thing/Action/AchieveAction, is_an_/AchieveAction, schema-org/AchieveAction]
-tags: ["class/AchieveAction", "#is_/an_/AchieveAction", "class/Thing/Action/AchieveAction"]
+tags: ["class/AchieveAction", "#is_an_/AchieveAction", "class/Thing/Action/AchieveAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -17,7 +17,7 @@ The act of accomplishing something via previous efforts. It is an instantaneous 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AchieveAction
+#is_an_/AchieveAction
 #class/AchieveAction
 #class/Thing/Action/AchieveAction
 

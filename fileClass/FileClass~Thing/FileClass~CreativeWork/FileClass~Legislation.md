@@ -5,7 +5,7 @@ excludes:
 icon: scale
 version: 5
 tagNames: [class/Legislation, class/Thing/CreativeWork/Legislation, is_a_/Legislation, schema-org/Legislation]
-tags: ["class/Legislation", "#is_/a_/Legislation", "class/Thing/CreativeWork/Legislation"]
+tags: ["class/Legislation", "#is_a_/Legislation", "class/Thing/CreativeWork/Legislation"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A legal document such as an act, decree, bill, etc. (enforceable or not) or a co
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Legislation
+#is_a_/Legislation
 #class/Legislation
 #class/Thing/CreativeWork/Legislation
 

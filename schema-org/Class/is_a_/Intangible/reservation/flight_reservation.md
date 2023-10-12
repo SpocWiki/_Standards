@@ -34,7 +34,7 @@ aliases:
 Class of all flight_reservations.
 
 Tag Instances like this: 
-#is_/a_/flight_reservation
+#is_a_/flight_reservation
 
 A reservation for air travel.
 

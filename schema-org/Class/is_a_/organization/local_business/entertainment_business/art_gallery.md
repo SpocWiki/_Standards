@@ -34,7 +34,7 @@ aliases:
 Class of all art_gallerys.
 
 Tag Instances like this: 
-#is_/an_/art_gallery
+#is_an_/art_gallery
 
 An art gallery.
 

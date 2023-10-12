@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Nerve, class/Thing/MedicalEntity/AnatomicalStructure/Nerve, is_a_/Nerve, schema-org/Nerve]
-tags: ["class/Nerve", "#is_/a_/Nerve", "class/Thing/MedicalEntity/AnatomicalStructure/Nerve"]
+tags: ["class/Nerve", "#is_a_/Nerve", "class/Thing/MedicalEntity/AnatomicalStructure/Nerve"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---
 
@@ -17,7 +17,7 @@ A common pathway for the electrochemical nerve impulses that are transmitted alo
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Nerve
+#is_a_/Nerve
 #class/Nerve
 #class/Thing/MedicalEntity/AnatomicalStructure/Nerve
 

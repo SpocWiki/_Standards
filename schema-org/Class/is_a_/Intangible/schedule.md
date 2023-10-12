@@ -34,7 +34,7 @@ aliases:
 Class of all schedules.
 
 Tag Instances like this: 
-#is_/a_/schedule
+#is_a_/schedule
 
 [ #is_/part_of :: https://pending.schema.org ]
 

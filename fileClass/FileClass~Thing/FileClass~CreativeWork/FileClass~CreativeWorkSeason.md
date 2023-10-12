@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CreativeWorkSeason, class/Thing/CreativeWork/CreativeWorkSeason, is_a_/CreativeWorkSeason, schema-org/CreativeWorkSeason]
-tags: ["class/CreativeWorkSeason", "#is_/a_/CreativeWorkSeason", "class/Thing/CreativeWork/CreativeWorkSeason"]
+tags: ["class/CreativeWorkSeason", "#is_a_/CreativeWorkSeason", "class/Thing/CreativeWork/CreativeWorkSeason"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A media season, e.g. TV, radio, video game etc.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CreativeWorkSeason
+#is_a_/CreativeWorkSeason
 #class/CreativeWorkSeason
 #class/Thing/CreativeWork/CreativeWorkSeason
 

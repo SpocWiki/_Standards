@@ -34,7 +34,7 @@ aliases:
 Class of all car_usage_types.
 
 Tag Instances like this: 
-#is_/a_/car_usage_type
+#is_a_/car_usage_type
 
 [ #is_/part_of :: https://auto.schema.org ]
 

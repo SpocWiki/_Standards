@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PaymentChargeSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification, is_a_/PaymentChargeSpecification, schema-org/PaymentChargeSpecification]
-tags: ["class/PaymentChargeSpecification", "#is_/a_/PaymentChargeSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification"]
+tags: ["class/PaymentChargeSpecification", "#is_a_/PaymentChargeSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 ---
 
@@ -17,7 +17,7 @@ The costs of settling the payment using a particular payment method.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PaymentChargeSpecification
+#is_a_/PaymentChargeSpecification
 #class/PaymentChargeSpecification
 #class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification
 

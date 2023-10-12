@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HowToTip, class/Thing/CreativeWork/CreativeWorkAndListItem/HowToTip, is_a_/HowToTip, schema-org/HowToTip]
-tags: ["class/HowToTip", "#is_/a_/HowToTip", "class/Thing/CreativeWork/CreativeWorkAndListItem/HowToTip"]
+tags: ["class/HowToTip", "#is_a_/HowToTip", "class/Thing/CreativeWork/CreativeWorkAndListItem/HowToTip"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem
 ---
 
@@ -17,7 +17,7 @@ An explanation in the instructions for how to achieve a result. It provides supp
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HowToTip
+#is_a_/HowToTip
 #class/HowToTip
 #class/Thing/CreativeWork/CreativeWorkAndListItem/HowToTip
 

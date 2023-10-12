@@ -34,7 +34,7 @@ aliases:
 Class of all check_out_actions.
 
 Tag Instances like this: 
-#is_/a_/check_out_action
+#is_a_/check_out_action
 
 The act of an agent communicating (service provider, social media, etc) their departure of a previously reserved service (e.g. flight check-in) or place (e.g. hotel).
 

@@ -34,7 +34,7 @@ aliases:
 Class of all accommodations.
 
 Tag Instances like this: 
-#is_/an_/accommodation
+#is_an_/accommodation
 
 An accommodation is a place that can accommodate human beings, e.g. a hotel room, a camping pitch, or a meeting room. Many accommodations are for overnight stays, but this is not a mandatory requirement.
 For more specific types of accommodations not defined in schema.org, one can use additionalType with external vocabularies.

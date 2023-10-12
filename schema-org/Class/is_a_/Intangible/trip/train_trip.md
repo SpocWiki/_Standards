@@ -34,7 +34,7 @@ aliases:
 Class of all train_trips.
 
 Tag Instances like this: 
-#is_/a_/train_trip
+#is_a_/train_trip
 
 A trip on a commercial train line.
 

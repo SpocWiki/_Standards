@@ -34,7 +34,7 @@ aliases:
 Class of all suites.
 
 Tag Instances like this: 
-#is_/a_/suite
+#is_a_/suite
 
 A suite in a hotel or other public accommodation, denotes a class of luxury accommodations, the key feature of which is multiple rooms (source: Wikipedia, the free encyclopedia, see <a href="http://en.wikipedia.org/wiki/Suite_(hotel)">http://en.wikipedia.org/wiki/Suite_(hotel)</a>).
 <br /><br />

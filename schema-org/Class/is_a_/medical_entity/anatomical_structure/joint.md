@@ -34,7 +34,7 @@ aliases:
 Class of all joints.
 
 Tag Instances like this: 
-#is_/a_/joint
+#is_a_/joint
 
 The anatomical location at which two or more bones make contact.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all food_services.
 
 Tag Instances like this: 
-#is_/a_/food_service
+#is_a_/food_service
 
 A food service, like breakfast, lunch, or dinner.
 

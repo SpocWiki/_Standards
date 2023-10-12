@@ -36,7 +36,7 @@ aliases:
 Class of all graphic_novels.
 
 Tag Instances like this: 
-#is_/a_/graphic_novel
+#is_a_/graphic_novel
 
 [ #is_/part_of :: https://bib.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SocialMediaPosting, class/Thing/CreativeWork/Article/SocialMediaPosting, is_a_/SocialMediaPosting, schema-org/SocialMediaPosting]
-tags: ["class/SocialMediaPosting", "#is_/a_/SocialMediaPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting"]
+tags: ["class/SocialMediaPosting", "#is_a_/SocialMediaPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 ---
 
@@ -17,7 +17,7 @@ A post to a social media platform, including blog posts, tweets, Facebook posts,
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SocialMediaPosting
+#is_a_/SocialMediaPosting
 #class/SocialMediaPosting
 #class/Thing/CreativeWork/Article/SocialMediaPosting
 

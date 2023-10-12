@@ -36,7 +36,7 @@ aliases:
 Class of all evidence_level_cs.
 
 Tag Instances like this: 
-#is_/an_/evidence_level_c
+#is_an_/evidence_level_c
 
 Only consensus opinion of experts, case studies, or standard-of-care.
 

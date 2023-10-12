@@ -34,7 +34,7 @@ aliases:
 Class of all diets.
 
 Tag Instances like this: 
-#is_/a_/diet
+#is_a_/diet
 
 A strategy of regulating the intake of food to achieve or maintain a specific health-related goal.
 

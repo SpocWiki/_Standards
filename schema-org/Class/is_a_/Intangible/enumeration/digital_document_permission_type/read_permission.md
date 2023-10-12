@@ -36,7 +36,7 @@ aliases:
 Class of all read_permissions.
 
 Tag Instances like this: 
-#is_/a_/read_permission
+#is_a_/read_permission
 
 Permission to read or view the document.
 

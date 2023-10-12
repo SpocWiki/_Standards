@@ -34,7 +34,7 @@ aliases:
 Class of all pharmacys.
 
 Tag Instances like this: 
-#is_/a_/pharmacy
+#is_a_/pharmacy
 
 A pharmacy or drugstore.
 

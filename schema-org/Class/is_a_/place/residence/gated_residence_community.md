@@ -34,7 +34,7 @@ aliases:
 Class of all gated_residence_communitys.
 
 Tag Instances like this: 
-#is_/a_/gated_residence_community
+#is_a_/gated_residence_community
 
 Residence type: Gated community.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all reserve_actions.
 
 Tag Instances like this: 
-#is_/a_/reserve_action
+#is_a_/reserve_action
 
 Reserving a concrete object.
 

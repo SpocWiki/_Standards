@@ -34,7 +34,7 @@ aliases:
 Class of all entry_points.
 
 Tag Instances like this: 
-#is_/an_/entry_point
+#is_an_/entry_point
 
 An entry point, within some Web-based protocol.
 

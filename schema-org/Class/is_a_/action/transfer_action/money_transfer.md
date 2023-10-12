@@ -34,7 +34,7 @@ aliases:
 Class of all money_transfers.
 
 Tag Instances like this: 
-#is_/a_/money_transfer
+#is_a_/money_transfer
 
 [ #is_/part_of :: https://pending.schema.org ]
 

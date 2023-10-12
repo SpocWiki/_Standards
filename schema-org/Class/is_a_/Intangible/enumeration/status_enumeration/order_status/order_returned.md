@@ -36,7 +36,7 @@ aliases:
 Class of all order_returneds.
 
 Tag Instances like this: 
-#is_/an_/order_returned
+#is_an_/order_returned
 
 OrderStatus representing that an order has been returned.
 

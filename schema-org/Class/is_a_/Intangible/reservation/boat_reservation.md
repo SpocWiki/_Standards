@@ -34,7 +34,7 @@ aliases:
 Class of all boat_reservations.
 
 Tag Instances like this: 
-#is_/a_/boat_reservation
+#is_a_/boat_reservation
 
 [ #is_/part_of :: https://pending.schema.org ]
 

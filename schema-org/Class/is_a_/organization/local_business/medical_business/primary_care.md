@@ -36,7 +36,7 @@ aliases:
 Class of all primary_cares.
 
 Tag Instances like this: 
-#is_/a_/primary_care
+#is_a_/primary_care
 
 The medical care by a physician, or other health-care professional, who is the patient's first contact with the health-care system and who may recommend a specialist if necessary.
 

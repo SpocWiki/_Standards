@@ -34,7 +34,7 @@ aliases:
 Class of all exercise_plans.
 
 Tag Instances like this: 
-#is_/an_/exercise_plan
+#is_an_/exercise_plan
 
 Fitness-related activity designed for a specific health-related purpose, including defined exercise routines as well as activity prescribed by a clinician.
 

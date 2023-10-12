@@ -36,7 +36,7 @@ aliases:
 Class of all eyes.
 
 Tag Instances like this: 
-#is_/an_/eye
+#is_an_/eye
 
 Eye or ophthalmological function assessment with clinical examination.
 

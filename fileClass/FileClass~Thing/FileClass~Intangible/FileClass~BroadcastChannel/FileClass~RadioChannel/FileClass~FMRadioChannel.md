@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FMRadioChannel, class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel, is_a_/FMRadioChannel, schema-org/FMRadioChannel]
-tags: ["class/FMRadioChannel", "#is_/a_/FMRadioChannel", "class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel"]
+tags: ["class/FMRadioChannel", "#is_a_/FMRadioChannel", "class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel
 ---
 
@@ -17,7 +17,7 @@ A radio channel that uses FM.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FMRadioChannel
+#is_a_/FMRadioChannel
 #class/FMRadioChannel
 #class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel
 

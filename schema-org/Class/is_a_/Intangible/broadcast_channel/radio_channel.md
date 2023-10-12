@@ -34,7 +34,7 @@ aliases:
 Class of all radio_channels.
 
 Tag Instances like this: 
-#is_/a_/radio_channel
+#is_a_/radio_channel
 
 A unique instance of a radio BroadcastService on a CableOrSatelliteService lineup.
 

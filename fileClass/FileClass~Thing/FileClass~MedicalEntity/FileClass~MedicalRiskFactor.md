@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalRiskFactor, class/Thing/MedicalEntity/MedicalRiskFactor, is_a_/MedicalRiskFactor, schema-org/MedicalRiskFactor]
-tags: ["class/MedicalRiskFactor", "#is_/a_/MedicalRiskFactor", "class/Thing/MedicalEntity/MedicalRiskFactor"]
+tags: ["class/MedicalRiskFactor", "#is_a_/MedicalRiskFactor", "class/Thing/MedicalEntity/MedicalRiskFactor"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ A risk factor is anything that increases a person's likelihood of developing or 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalRiskFactor
+#is_a_/MedicalRiskFactor
 #class/MedicalRiskFactor
 #class/Thing/MedicalEntity/MedicalRiskFactor
 

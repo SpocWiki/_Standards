@@ -34,7 +34,7 @@ aliases:
 Class of all educational_audiences.
 
 Tag Instances like this: 
-#is_/an_/educational_audience
+#is_an_/educational_audience
 
 An EducationalAudience.
 

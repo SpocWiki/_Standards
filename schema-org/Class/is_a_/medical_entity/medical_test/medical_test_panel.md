@@ -34,7 +34,7 @@ aliases:
 Class of all medical_test_panels.
 
 Tag Instances like this: 
-#is_/a_/medical_test_panel
+#is_a_/medical_test_panel
 
 Any collection of tests commonly ordered together.
 

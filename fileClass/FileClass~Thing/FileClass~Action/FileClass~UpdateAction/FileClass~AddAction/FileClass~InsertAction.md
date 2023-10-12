@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InsertAction, class/Thing/Action/UpdateAction/AddAction/InsertAction, is_an_/InsertAction, schema-org/InsertAction]
-tags: ["class/InsertAction", "#is_/an_/InsertAction", "class/Thing/Action/UpdateAction/AddAction/InsertAction"]
+tags: ["class/InsertAction", "#is_an_/InsertAction", "class/Thing/Action/UpdateAction/AddAction/InsertAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction
 ---
 
@@ -17,7 +17,7 @@ The act of adding at a specific location in an ordered collection.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/InsertAction
+#is_an_/InsertAction
 #class/InsertAction
 #class/Thing/Action/UpdateAction/AddAction/InsertAction
 

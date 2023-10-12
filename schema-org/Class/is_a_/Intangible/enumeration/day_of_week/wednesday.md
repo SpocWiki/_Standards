@@ -36,7 +36,7 @@ aliases:
 Class of all wednesdays.
 
 Tag Instances like this: 
-#is_/a_/wednesday
+#is_a_/wednesday
 
 The day of the week between Tuesday and Thursday.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all game_server_statuss.
 
 Tag Instances like this: 
-#is_/a_/game_server_status
+#is_a_/game_server_status
 
 Status of a game server.
 

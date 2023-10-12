@@ -34,7 +34,7 @@ aliases:
 Class of all palliative_procedures.
 
 Tag Instances like this: 
-#is_/a_/palliative_procedure
+#is_a_/palliative_procedure
 
 A medical procedure intended primarily for palliative purposes, aimed at relieving the symptoms of an underlying health condition.
 

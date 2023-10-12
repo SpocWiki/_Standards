@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ProgramMembership, class/Thing/Intangible/ProgramMembership, is_a_/ProgramMembership, schema-org/ProgramMembership]
-tags: ["class/ProgramMembership", "#is_/a_/ProgramMembership", "class/Thing/Intangible/ProgramMembership"]
+tags: ["class/ProgramMembership", "#is_a_/ProgramMembership", "class/Thing/Intangible/ProgramMembership"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ProgramMembership
+#is_a_/ProgramMembership
 #class/ProgramMembership
 #class/Thing/Intangible/ProgramMembership
 

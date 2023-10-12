@@ -34,7 +34,7 @@ aliases:
 Class of all image_object_snapshots.
 
 Tag Instances like this: 
-#is_/an_/image_object_snapshot
+#is_an_/image_object_snapshot
 
 [ #is_/part_of :: https://pending.schema.org ]
 

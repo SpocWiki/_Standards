@@ -36,7 +36,7 @@ aliases:
 Class of all refurbished_conditions.
 
 Tag Instances like this: 
-#is_/a_/refurbished_condition
+#is_a_/refurbished_condition
 
 Indicates that the item is refurbished.
 

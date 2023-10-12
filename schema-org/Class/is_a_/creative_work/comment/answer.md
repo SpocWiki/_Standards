@@ -34,7 +34,7 @@ aliases:
 Class of all answers.
 
 Tag Instances like this: 
-#is_/an_/answer
+#is_an_/answer
 
 An answer offered to a question; perhaps correct, perhaps opinionated or wrong.
 

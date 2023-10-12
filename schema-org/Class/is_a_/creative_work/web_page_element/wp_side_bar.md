@@ -34,7 +34,7 @@ aliases:
 Class of all wp_side_bars.
 
 Tag Instances like this: 
-#is_/a_/wp_side_bar
+#is_a_/wp_side_bar
 
 A sidebar section of the page.
 

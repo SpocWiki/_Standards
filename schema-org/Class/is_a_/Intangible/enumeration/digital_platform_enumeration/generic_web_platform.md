@@ -36,7 +36,7 @@ aliases:
 Class of all generic_web_platforms.
 
 Tag Instances like this: 
-#is_/a_/generic_web_platform
+#is_a_/generic_web_platform
 
 [ #is_/part_of :: https://pending.schema.org ]
 

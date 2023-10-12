@@ -36,7 +36,7 @@ aliases:
 Class of all toxicologics.
 
 Tag Instances like this: 
-#is_/a_/toxicologic
+#is_a_/toxicologic
 
 A specific branch of medical science that is concerned with poisons, their nature, effects and detection and involved in the treatment of poisoning.
 

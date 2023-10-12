@@ -34,7 +34,7 @@ aliases:
 Class of all business_events.
 
 Tag Instances like this: 
-#is_/a_/business_event
+#is_a_/business_event
 
 Event type: Business event.
 

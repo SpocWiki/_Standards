@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TransferAction, class/Thing/Action/TransferAction, is_a_/TransferAction, schema-org/TransferAction]
-tags: ["class/TransferAction", "#is_/a_/TransferAction", "class/Thing/Action/TransferAction"]
+tags: ["class/TransferAction", "#is_a_/TransferAction", "class/Thing/Action/TransferAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -17,7 +17,7 @@ The act of transferring/moving (abstract or concrete) animate or inanimate objec
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TransferAction
+#is_a_/TransferAction
 #class/TransferAction
 #class/Thing/Action/TransferAction
 

@@ -34,7 +34,7 @@ aliases:
 Class of all delivery_charge_specifications.
 
 Tag Instances like this: 
-#is_/a_/delivery_charge_specification
+#is_a_/delivery_charge_specification
 
 The price for the delivery of an offer using a particular delivery method.
 

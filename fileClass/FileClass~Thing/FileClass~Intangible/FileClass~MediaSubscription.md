@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MediaSubscription, class/Thing/Intangible/MediaSubscription, is_a_/MediaSubscription, schema-org/MediaSubscription]
-tags: ["class/MediaSubscription", "#is_/a_/MediaSubscription", "class/Thing/Intangible/MediaSubscription"]
+tags: ["class/MediaSubscription", "#is_a_/MediaSubscription", "class/Thing/Intangible/MediaSubscription"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A subscription which allows a user to access media including audio, video, books
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MediaSubscription
+#is_a_/MediaSubscription
 #class/MediaSubscription
 #class/Thing/Intangible/MediaSubscription
 

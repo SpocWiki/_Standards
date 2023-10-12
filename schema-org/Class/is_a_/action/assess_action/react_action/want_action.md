@@ -34,7 +34,7 @@ aliases:
 Class of all want_actions.
 
 Tag Instances like this: 
-#is_/a_/want_action
+#is_a_/want_action
 
 The act of expressing a desire about the object. An agent wants an object.
 

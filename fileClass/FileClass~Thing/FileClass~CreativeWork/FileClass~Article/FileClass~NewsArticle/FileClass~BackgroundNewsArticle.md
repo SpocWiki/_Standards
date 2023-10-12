@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BackgroundNewsArticle, class/Thing/CreativeWork/Article/NewsArticle/BackgroundNewsArticle, is_a_/BackgroundNewsArticle, schema-org/BackgroundNewsArticle]
-tags: ["class/BackgroundNewsArticle", "#is_/a_/BackgroundNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/BackgroundNewsArticle"]
+tags: ["class/BackgroundNewsArticle", "#is_a_/BackgroundNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/BackgroundNewsArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 ---
 
@@ -17,7 +17,7 @@ A [[NewsArticle]] providing historical context, definition and detail on a speci
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BackgroundNewsArticle
+#is_a_/BackgroundNewsArticle
 #class/BackgroundNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/BackgroundNewsArticle
 

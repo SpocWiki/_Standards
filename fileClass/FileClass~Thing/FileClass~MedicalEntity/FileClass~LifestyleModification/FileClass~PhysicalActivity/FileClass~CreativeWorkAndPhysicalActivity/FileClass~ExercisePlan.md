@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ExercisePlan, class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan, is_an_/ExercisePlan, schema-org/ExercisePlan]
-tags: ["class/ExercisePlan", "#is_/an_/ExercisePlan", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan"]
+tags: ["class/ExercisePlan", "#is_an_/ExercisePlan", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity
 ---
 
@@ -17,7 +17,7 @@ Fitness-related activity designed for a specific health-related purpose, includi
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/ExercisePlan
+#is_an_/ExercisePlan
 #class/ExercisePlan
 #class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan
 

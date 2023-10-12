@@ -34,7 +34,7 @@ aliases:
 Class of all hair_salons.
 
 Tag Instances like this: 
-#is_/a_/hair_salon
+#is_a_/hair_salon
 
 A hair salon.
 

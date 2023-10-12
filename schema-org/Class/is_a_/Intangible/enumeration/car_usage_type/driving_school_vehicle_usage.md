@@ -36,7 +36,7 @@ aliases:
 Class of all driving_school_vehicle_usages.
 
 Tag Instances like this: 
-#is_/a_/driving_school_vehicle_usage
+#is_a_/driving_school_vehicle_usage
 
 [ #is_/part_of :: https://auto.schema.org ]
 

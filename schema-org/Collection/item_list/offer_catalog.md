@@ -34,7 +34,7 @@ aliases:
 Class of all offer_catalogs.
 
 Tag Instances like this: 
-#is_/an_/offer_catalog
+#is_an_/offer_catalog
 
 An OfferCatalog is an ItemList that contains related Offers and/or further OfferCatalogs that are offeredBy the same provider.
 

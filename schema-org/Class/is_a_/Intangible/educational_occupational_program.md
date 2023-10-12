@@ -34,7 +34,7 @@ aliases:
 Class of all educational_occupational_programs.
 
 Tag Instances like this: 
-#is_/an_/educational_occupational_program
+#is_an_/educational_occupational_program
 
 [ #is_/part_of :: https://pending.schema.org ]
 

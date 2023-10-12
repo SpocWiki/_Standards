@@ -34,7 +34,7 @@ aliases:
 Class of all pre_order_actions.
 
 Tag Instances like this: 
-#is_/a_/pre_order_action
+#is_a_/pre_order_action
 
 An agent orders a (not yet released) object/product/service to be delivered/sent.
 

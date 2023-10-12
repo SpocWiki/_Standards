@@ -34,7 +34,7 @@ aliases:
 Class of all automated_tellers.
 
 Tag Instances like this: 
-#is_/an_/automated_teller
+#is_an_/automated_teller
 
 ATM/cash machine.
 

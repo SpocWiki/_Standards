@@ -34,7 +34,7 @@ aliases:
 Class of all jewelry_stores.
 
 Tag Instances like this: 
-#is_/a_/jewelry_store
+#is_a_/jewelry_store
 
 A jewelry store.
 

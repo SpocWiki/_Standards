@@ -38,7 +38,7 @@ They can be at most countable, but to allow for Mathematical Induction,
 they also need to be finitely typed (to allow a finite switch-Statement). 
 
 Tag Instances like this: 
-#is_/a_/collection
+#is_a_/collection
 
 [ #is_/part_of :: https://bib.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all genes.
 
 Tag Instances like this: 
-#is_/a_/gene
+#is_a_/gene
 
 [ #is_/part_of :: https://pending.schema.org ]
 

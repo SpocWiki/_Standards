@@ -36,7 +36,7 @@ aliases:
 Class of all original_shipping_feess.
 
 Tag Instances like this: 
-#is_/an_/original_shipping_fees
+#is_an_/original_shipping_fees
 
 [ #is_/part_of :: https://pending.schema.org ]
 

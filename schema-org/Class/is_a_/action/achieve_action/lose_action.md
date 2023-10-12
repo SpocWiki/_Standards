@@ -36,7 +36,7 @@ Class of all lose_actions.
 #class/Class
 
 Tag Instances like this: 
-#is_/a_/lose_action
+#is_a_/lose_action
 
 The act of being defeated in a competitive activity.
 

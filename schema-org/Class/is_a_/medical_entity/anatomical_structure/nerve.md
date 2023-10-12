@@ -34,7 +34,7 @@ aliases:
 Class of all nerves.
 
 Tag Instances like this: 
-#is_/a_/nerve
+#is_a_/nerve
 
 A common pathway for the electrochemical nerve impulses that are transmitted along each of the axons.
 

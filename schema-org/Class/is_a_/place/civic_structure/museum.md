@@ -34,7 +34,7 @@ aliases:
 Class of all museums.
 
 Tag Instances like this: 
-#is_/a_/museum
+#is_a_/museum
 
 A museum.
 

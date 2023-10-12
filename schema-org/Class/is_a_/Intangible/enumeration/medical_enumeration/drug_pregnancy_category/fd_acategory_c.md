@@ -36,7 +36,7 @@ aliases:
 Class of all fd_acategory_cs.
 
 Tag Instances like this: 
-#is_/a_/fd_acategory_c
+#is_a_/fd_acategory_c
 
 A designation by the US FDA signifying that animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.
 

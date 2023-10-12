@@ -36,7 +36,7 @@ aliases:
 Class of all payment_automatically_applieds.
 
 Tag Instances like this: 
-#is_/a_/payment_automatically_applied
+#is_a_/payment_automatically_applied
 
 An automatic payment system is in place and will be used.
 

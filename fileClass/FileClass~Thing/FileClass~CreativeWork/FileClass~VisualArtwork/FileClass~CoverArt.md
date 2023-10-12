@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CoverArt, class/Thing/CreativeWork/VisualArtwork/CoverArt, is_a_/CoverArt, schema-org/CoverArt]
-tags: ["class/CoverArt", "#is_/a_/CoverArt", "class/Thing/CreativeWork/VisualArtwork/CoverArt"]
+tags: ["class/CoverArt", "#is_a_/CoverArt", "class/Thing/CreativeWork/VisualArtwork/CoverArt"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork
 ---
 
@@ -17,7 +17,7 @@ The artwork on the outer surface of a CreativeWork.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CoverArt
+#is_a_/CoverArt
 #class/CoverArt
 #class/Thing/CreativeWork/VisualArtwork/CoverArt
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HowToSupply, class/Thing/Intangible/ListItem/HowToItem/HowToSupply, is_a_/HowToSupply, schema-org/HowToSupply]
-tags: ["class/HowToSupply", "#is_/a_/HowToSupply", "class/Thing/Intangible/ListItem/HowToItem/HowToSupply"]
+tags: ["class/HowToSupply", "#is_a_/HowToSupply", "class/Thing/Intangible/ListItem/HowToItem/HowToSupply"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem
 ---
 
@@ -17,7 +17,7 @@ A supply consumed when performing the instructions for how to achieve a result.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HowToSupply
+#is_a_/HowToSupply
 #class/HowToSupply
 #class/Thing/Intangible/ListItem/HowToItem/HowToSupply
 

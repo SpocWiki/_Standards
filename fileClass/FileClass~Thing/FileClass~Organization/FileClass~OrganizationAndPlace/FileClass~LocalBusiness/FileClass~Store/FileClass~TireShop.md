@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TireShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop, is_a_/TireShop, schema-org/TireShop]
-tags: ["class/TireShop", "#is_/a_/TireShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop"]
+tags: ["class/TireShop", "#is_a_/TireShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---
 
@@ -17,7 +17,7 @@ A tire shop.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TireShop
+#is_a_/TireShop
 #class/TireShop
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop
 

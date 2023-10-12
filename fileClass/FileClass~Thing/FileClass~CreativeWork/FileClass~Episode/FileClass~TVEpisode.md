@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TVEpisode, class/Thing/CreativeWork/Episode/TVEpisode, is_a_/TVEpisode, schema-org/TVEpisode]
-tags: ["class/TVEpisode", "#is_/a_/TVEpisode", "class/Thing/CreativeWork/Episode/TVEpisode"]
+tags: ["class/TVEpisode", "#is_a_/TVEpisode", "class/Thing/CreativeWork/Episode/TVEpisode"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Episode
 ---
 
@@ -17,7 +17,7 @@ A TV episode which can be part of a series or season.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TVEpisode
+#is_a_/TVEpisode
 #class/TVEpisode
 #class/Thing/CreativeWork/Episode/TVEpisode
 

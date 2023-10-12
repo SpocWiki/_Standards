@@ -34,7 +34,7 @@ aliases:
 Class of all profile_pages.
 
 Tag Instances like this: 
-#is_/a_/profile_page
+#is_a_/profile_page
 
 Web page type: Profile page.
 

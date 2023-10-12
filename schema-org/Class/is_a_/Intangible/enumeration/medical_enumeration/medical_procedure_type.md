@@ -34,7 +34,7 @@ aliases:
 Class of all medical_procedure_types.
 
 Tag Instances like this: 
-#is_/a_/medical_procedure_type
+#is_a_/medical_procedure_type
 
 An enumeration that describes different types of medical procedures.
 

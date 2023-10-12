@@ -34,7 +34,7 @@ aliases:
 Class of all tv_clips.
 
 Tag Instances like this: 
-#is_/a_/tv_clip
+#is_a_/tv_clip
 
 A short TV program or a segment/part of a TV program.
 

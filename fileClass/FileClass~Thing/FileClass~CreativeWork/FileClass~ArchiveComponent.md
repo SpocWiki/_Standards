@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ArchiveComponent, class/Thing/CreativeWork/ArchiveComponent, is_an_/ArchiveComponent, schema-org/ArchiveComponent]
-tags: ["class/ArchiveComponent", "#is_/an_/ArchiveComponent", "class/Thing/CreativeWork/ArchiveComponent"]
+tags: ["class/ArchiveComponent", "#is_an_/ArchiveComponent", "class/Thing/CreativeWork/ArchiveComponent"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ An intangible type to be applied to any archive content, carrying with it a set 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/ArchiveComponent
+#is_an_/ArchiveComponent
 #class/ArchiveComponent
 #class/Thing/CreativeWork/ArchiveComponent
 

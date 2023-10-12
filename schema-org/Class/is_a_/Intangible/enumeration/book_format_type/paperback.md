@@ -36,7 +36,7 @@ aliases:
 Class of all paperbacks.
 
 Tag Instances like this: 
-#is_/a_/paperback
+#is_a_/paperback
 
 Book format: Paperback.
 

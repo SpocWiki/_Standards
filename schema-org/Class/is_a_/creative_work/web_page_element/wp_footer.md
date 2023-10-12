@@ -34,7 +34,7 @@ aliases:
 Class of all wp_footers.
 
 Tag Instances like this: 
-#is_/a_/wp_footer
+#is_a_/wp_footer
 
 The footer section of the page.
 

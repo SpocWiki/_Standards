@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ConfirmAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction, is_a_/ConfirmAction, schema-org/ConfirmAction]
-tags: ["class/ConfirmAction", "#is_/a_/ConfirmAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction"]
+tags: ["class/ConfirmAction", "#is_a_/ConfirmAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction
 ---
 
@@ -21,7 +21,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ConfirmAction
+#is_a_/ConfirmAction
 #class/ConfirmAction
 #class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction
 

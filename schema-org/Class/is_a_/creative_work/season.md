@@ -36,7 +36,7 @@ aliases:
 Class of all seasons.
 
 Tag Instances like this: 
-#is_/a_/season
+#is_a_/season
 
 A media season, e.g. TV, radio, video game etc.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all offline_temporarilys.
 
 Tag Instances like this: 
-#is_/an_/offline_temporarily
+#is_an_/offline_temporarily
 
 Game server status: OfflineTemporarily. Server is offline now but it can be online soon.
 

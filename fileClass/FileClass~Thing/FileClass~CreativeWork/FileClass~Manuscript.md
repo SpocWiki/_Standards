@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Manuscript, class/Thing/CreativeWork/Manuscript, is_a_/Manuscript, schema-org/Manuscript]
-tags: ["class/Manuscript", "#is_/a_/Manuscript", "class/Thing/CreativeWork/Manuscript"]
+tags: ["class/Manuscript", "#is_a_/Manuscript", "class/Thing/CreativeWork/Manuscript"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A book, document, or piece of music written by hand rather than typed or printed
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Manuscript
+#is_a_/Manuscript
 #class/Manuscript
 #class/Thing/CreativeWork/Manuscript
 

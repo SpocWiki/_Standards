@@ -36,7 +36,7 @@ aliases:
 Class of all unemployment_supports.
 
 Tag Instances like this: 
-#is_/an_/unemployment_support
+#is_an_/unemployment_support
 
 [ #is_/part_of :: https://pending.schema.org ]
 

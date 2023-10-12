@@ -34,7 +34,7 @@ aliases:
 Class of all service_channels.
 
 Tag Instances like this: 
-#is_/a_/service_channel
+#is_a_/service_channel
 
 A means for accessing a service, e.g. a government office location, web site, or phone number.
 

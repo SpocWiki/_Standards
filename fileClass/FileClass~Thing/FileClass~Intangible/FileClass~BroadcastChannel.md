@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BroadcastChannel, class/Thing/Intangible/BroadcastChannel, is_a_/BroadcastChannel, schema-org/BroadcastChannel]
-tags: ["class/BroadcastChannel", "#is_/a_/BroadcastChannel", "class/Thing/Intangible/BroadcastChannel"]
+tags: ["class/BroadcastChannel", "#is_a_/BroadcastChannel", "class/Thing/Intangible/BroadcastChannel"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BroadcastChannel
+#is_a_/BroadcastChannel
 #class/BroadcastChannel
 #class/Thing/Intangible/BroadcastChannel
 

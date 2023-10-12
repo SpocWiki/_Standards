@@ -36,7 +36,7 @@ aliases:
 Class of all reservation_cancelleds.
 
 Tag Instances like this: 
-#is_/a_/reservation_cancelled
+#is_a_/reservation_cancelled
 
 The status for a previously confirmed reservation that is now cancelled.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all dvd_formats.
 
 Tag Instances like this: 
-#is_/a_/dvd_format
+#is_a_/dvd_format
 
 DVDFormat.
 

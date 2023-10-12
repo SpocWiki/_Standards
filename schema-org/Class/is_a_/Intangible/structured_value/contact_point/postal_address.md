@@ -34,7 +34,7 @@ aliases:
 Class of all postal_addresss.
 
 Tag Instances like this: 
-#is_/a_/postal_address
+#is_a_/postal_address
 
 The mailing address.
 

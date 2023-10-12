@@ -34,7 +34,7 @@ aliases:
 Class of all shoe_stores.
 
 Tag Instances like this: 
-#is_/a_/shoe_store
+#is_a_/shoe_store
 
 A shoe store.
 

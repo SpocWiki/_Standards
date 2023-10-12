@@ -34,7 +34,7 @@ aliases:
 Class of all payment_methods.
 
 Tag Instances like this: 
-#is_/a_/payment_method
+#is_a_/payment_method
 
 A payment method is a standardized procedure for transferring the monetary amount for a purchase. Payment methods are characterized by the legal and technical structures used, and by the organization or group carrying out the transaction.
 

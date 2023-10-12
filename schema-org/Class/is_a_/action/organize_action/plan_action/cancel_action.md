@@ -34,7 +34,7 @@ aliases:
 Class of all cancel_actions.
 
 Tag Instances like this: 
-#is_/a_/cancel_action
+#is_a_/cancel_action
 
 The act of asserting that a future event/action is no longer going to happen.
 

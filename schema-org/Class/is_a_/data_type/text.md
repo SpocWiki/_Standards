@@ -34,7 +34,7 @@ aliases:
 Class of all texts.
 
 Tag Instances like this: 
-#is_/a_/text
+#is_a_/text
 
 Data type: Text.
 

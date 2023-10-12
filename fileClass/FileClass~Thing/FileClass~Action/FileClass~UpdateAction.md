@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/UpdateAction, class/Thing/Action/UpdateAction, is_an_/UpdateAction, schema-org/UpdateAction]
-tags: ["class/UpdateAction", "#is_/an_/UpdateAction", "class/Thing/Action/UpdateAction"]
+tags: ["class/UpdateAction", "#is_an_/UpdateAction", "class/Thing/Action/UpdateAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -17,7 +17,7 @@ The act of managing by changing/editing the state of the object.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/UpdateAction
+#is_an_/UpdateAction
 #class/UpdateAction
 #class/Thing/Action/UpdateAction
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OccupationalTherapy, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy, is_an_/OccupationalTherapy, schema-org/OccupationalTherapy]
-tags: ["class/OccupationalTherapy", "#is_/an_/OccupationalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy"]
+tags: ["class/OccupationalTherapy", "#is_an_/OccupationalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy
 ---
 
@@ -17,7 +17,7 @@ A treatment of people with physical, emotional, or social problems, using purpos
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OccupationalTherapy
+#is_an_/OccupationalTherapy
 #class/OccupationalTherapy
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy
 

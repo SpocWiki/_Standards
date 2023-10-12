@@ -37,7 +37,7 @@ aliases:
 Class of all comment_permissions.
 
 Tag Instances like this: 
-#is_/a_/comment_permission
+#is_a_/comment_permission
 
 Permission to add comments to the document.
 Comments are MetaData that should be stored separately from the actual Data. 

@@ -34,7 +34,7 @@ aliases:
 Class of all correction_comments.
 
 Tag Instances like this: 
-#is_/a_/correction_comment
+#is_a_/correction_comment
 
 [ #is_/part_of :: https://pending.schema.org ]
 

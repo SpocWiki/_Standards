@@ -34,7 +34,7 @@ aliases:
 Class of all suspend_actions.
 
 Tag Instances like this: 
-#is_/a_/suspend_action
+#is_a_/suspend_action
 
 The act of momentarily pausing a device or application (e.g. pause music playback or pause a timer).
 

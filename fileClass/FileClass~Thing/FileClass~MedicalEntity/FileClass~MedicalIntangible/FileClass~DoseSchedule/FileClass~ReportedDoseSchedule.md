@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReportedDoseSchedule, class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule, is_a_/ReportedDoseSchedule, schema-org/ReportedDoseSchedule]
-tags: ["class/ReportedDoseSchedule", "#is_/a_/ReportedDoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule"]
+tags: ["class/ReportedDoseSchedule", "#is_a_/ReportedDoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule
 ---
 
@@ -17,7 +17,7 @@ A patient-reported or observed dosing schedule for a drug or supplement.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ReportedDoseSchedule
+#is_a_/ReportedDoseSchedule
 #class/ReportedDoseSchedule
 #class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/ReportedDoseSchedule
 

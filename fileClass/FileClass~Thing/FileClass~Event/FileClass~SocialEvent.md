@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SocialEvent, class/Thing/Event/SocialEvent, is_a_/SocialEvent, schema-org/SocialEvent]
-tags: ["class/SocialEvent", "#is_/a_/SocialEvent", "class/Thing/Event/SocialEvent"]
+tags: ["class/SocialEvent", "#is_a_/SocialEvent", "class/Thing/Event/SocialEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---
 
@@ -17,7 +17,7 @@ Event type: Social event.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SocialEvent
+#is_a_/SocialEvent
 #class/SocialEvent
 #class/Thing/Event/SocialEvent
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AdvertiserContentArticle, class/Thing/CreativeWork/Article/AdvertiserContentArticle, is_an_/AdvertiserContentArticle, schema-org/AdvertiserContentArticle]
-tags: ["class/AdvertiserContentArticle", "#is_/an_/AdvertiserContentArticle", "class/Thing/CreativeWork/Article/AdvertiserContentArticle"]
+tags: ["class/AdvertiserContentArticle", "#is_an_/AdvertiserContentArticle", "class/Thing/CreativeWork/Article/AdvertiserContentArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 ---
 
@@ -17,7 +17,7 @@ An [[Article]] that an external entity has paid to place or to produce to its sp
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AdvertiserContentArticle
+#is_an_/AdvertiserContentArticle
 #class/AdvertiserContentArticle
 #class/Thing/CreativeWork/Article/AdvertiserContentArticle
 

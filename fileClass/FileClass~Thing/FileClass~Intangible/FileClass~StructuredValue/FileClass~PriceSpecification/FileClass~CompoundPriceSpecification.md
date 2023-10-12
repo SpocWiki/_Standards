@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CompoundPriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification, is_a_/CompoundPriceSpecification, schema-org/CompoundPriceSpecification]
-tags: ["class/CompoundPriceSpecification", "#is_/a_/CompoundPriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification"]
+tags: ["class/CompoundPriceSpecification", "#is_a_/CompoundPriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 ---
 
@@ -17,7 +17,7 @@ A compound price specification is one that bundles multiple prices that all appl
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CompoundPriceSpecification
+#is_a_/CompoundPriceSpecification
 #class/CompoundPriceSpecification
 #class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification
 

@@ -36,7 +36,7 @@ aliases:
 Class of all females.
 
 Tag Instances like this: 
-#is_/a_/female
+#is_a_/female
 
 The female gender.
 

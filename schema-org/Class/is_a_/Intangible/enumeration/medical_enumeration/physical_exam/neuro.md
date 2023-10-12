@@ -36,7 +36,7 @@ aliases:
 Class of all neuros.
 
 Tag Instances like this: 
-#is_/a_/neuro
+#is_a_/neuro
 
 Neurological system clinical examination.
 

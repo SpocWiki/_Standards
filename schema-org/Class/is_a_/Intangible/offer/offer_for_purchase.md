@@ -34,7 +34,7 @@ aliases:
 Class of all offer_for_purchases.
 
 Tag Instances like this: 
-#is_/an_/offer_for_purchase
+#is_an_/offer_for_purchase
 
 [ #is_/part_of :: https://pending.schema.org ]
 

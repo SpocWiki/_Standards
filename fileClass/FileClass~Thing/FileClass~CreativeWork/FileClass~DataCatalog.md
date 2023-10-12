@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DataCatalog, class/Thing/CreativeWork/DataCatalog, is_a_/DataCatalog, schema-org/DataCatalog]
-tags: ["class/DataCatalog", "#is_/a_/DataCatalog", "class/Thing/CreativeWork/DataCatalog"]
+tags: ["class/DataCatalog", "#is_a_/DataCatalog", "class/Thing/CreativeWork/DataCatalog"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A collection of datasets.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DataCatalog
+#is_a_/DataCatalog
 #class/DataCatalog
 #class/Thing/CreativeWork/DataCatalog
 

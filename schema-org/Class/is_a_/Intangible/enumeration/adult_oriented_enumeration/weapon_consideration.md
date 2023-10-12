@@ -36,7 +36,7 @@ aliases:
 Class of all weapon_considerations.
 
 Tag Instances like this: 
-#is_/a_/weapon_consideration
+#is_a_/weapon_consideration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

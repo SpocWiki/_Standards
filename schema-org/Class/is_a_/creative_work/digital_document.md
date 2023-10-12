@@ -34,7 +34,7 @@ aliases:
 Class of all digital_documents.
 
 Tag Instances like this: 
-#is_/a_/digital_document
+#is_a_/digital_document
 
 An electronic file or document.
 

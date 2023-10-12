@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Service, class/Thing/Intangible/Service, is_a_/Service, schema-org/Service]
-tags: ["class/Service", "#is_/a_/Service", "class/Thing/Intangible/Service"]
+tags: ["class/Service", "#is_a_/Service", "class/Thing/Intangible/Service"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A service provided by an organization, e.g. delivery service, print services, et
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Service
+#is_a_/Service
 #class/Service
 #class/Thing/Intangible/Service
 

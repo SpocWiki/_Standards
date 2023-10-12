@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TVSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/TVSeries, is_a_/TVSeries, schema-org/TVSeries]
-tags: ["class/TVSeries", "#is_/a_/TVSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/TVSeries"]
+tags: ["class/TVSeries", "#is_a_/TVSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/TVSeries"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 ---
 
@@ -17,7 +17,7 @@ CreativeWorkSeries dedicated to TV broadcast and associated online delivery.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TVSeries
+#is_a_/TVSeries
 #class/TVSeries
 #class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/TVSeries
 

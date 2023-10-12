@@ -34,7 +34,7 @@ aliases:
 Class of all hackathons.
 
 Tag Instances like this: 
-#is_/a_/hackathon
+#is_a_/hackathon
 
 [ #is_/part_of :: https://pending.schema.org ]
 

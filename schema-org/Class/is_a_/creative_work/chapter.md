@@ -34,7 +34,7 @@ aliases:
 Class of all chapters.
 
 Tag Instances like this: 
-#is_/a_/chapter
+#is_a_/chapter
 
 [ #is_/part_of :: https://bib.schema.org ]
 

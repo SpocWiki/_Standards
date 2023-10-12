@@ -34,7 +34,7 @@ aliases:
 Class of all confirm_actions.
 
 Tag Instances like this: 
-#is_/a_/confirm_action
+#is_a_/confirm_action
 
 The act of notifying someone that a future event/action is going to happen as expected.
 

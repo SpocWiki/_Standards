@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Comment, class/Thing/CreativeWork/Comment, is_a_/Comment, schema-org/Comment]
-tags: ["class/Comment", "#is_/a_/Comment", "class/Thing/CreativeWork/Comment"]
+tags: ["class/Comment", "#is_a_/Comment", "class/Thing/CreativeWork/Comment"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A comment on an item - for example, a comment on a blog post. The comment's cont
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Comment
+#is_a_/Comment
 #class/Comment
 #class/Thing/CreativeWork/Comment
 

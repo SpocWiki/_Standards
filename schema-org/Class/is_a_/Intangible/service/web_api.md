@@ -34,7 +34,7 @@ aliases:
 Class of all web_apis.
 
 Tag Instances like this: 
-#is_/a_/web_api
+#is_a_/web_api
 
 [ #is_/part_of :: https://pending.schema.org ]
 

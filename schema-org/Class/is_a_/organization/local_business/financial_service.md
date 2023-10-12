@@ -34,7 +34,7 @@ aliases:
 Class of all financial_services.
 
 Tag Instances like this: 
-#is_/a_/financial_service
+#is_a_/financial_service
 
 Financial services business.
 

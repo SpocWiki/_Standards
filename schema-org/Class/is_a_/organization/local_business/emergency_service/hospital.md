@@ -34,7 +34,7 @@ aliases:
 Class of all hospitals.
 
 Tag Instances like this: 
-#is_/a_/hospital
+#is_a_/hospital
 
 A hospital.
 

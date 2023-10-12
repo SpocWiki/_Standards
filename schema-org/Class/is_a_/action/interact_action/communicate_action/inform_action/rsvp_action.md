@@ -34,7 +34,7 @@ aliases:
 Class of all rsvp_actions.
 
 Tag Instances like this: 
-#is_/a_/rsvp_action
+#is_a_/rsvp_action
 
 The act of notifying an event organizer as to whether you expect to attend the event.
 

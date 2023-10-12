@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AggregateOffer, class/Thing/Intangible/Offer/AggregateOffer, is_an_/AggregateOffer, schema-org/AggregateOffer]
-tags: ["class/AggregateOffer", "#is_/an_/AggregateOffer", "class/Thing/Intangible/Offer/AggregateOffer"]
+tags: ["class/AggregateOffer", "#is_an_/AggregateOffer", "class/Thing/Intangible/Offer/AggregateOffer"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Offer
 ---
 
@@ -19,7 +19,7 @@ Note: AggregateOffers are normally expected to associate multiple offers that al
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AggregateOffer
+#is_an_/AggregateOffer
 #class/AggregateOffer
 #class/Thing/Intangible/Offer/AggregateOffer
 

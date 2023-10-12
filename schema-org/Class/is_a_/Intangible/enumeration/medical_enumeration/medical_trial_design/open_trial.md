@@ -36,7 +36,7 @@ aliases:
 Class of all open_trials.
 
 Tag Instances like this: 
-#is_/an_/open_trial
+#is_an_/open_trial
 
 A trial design in which the researcher knows the full details of the treatment, and so does the patient.
 

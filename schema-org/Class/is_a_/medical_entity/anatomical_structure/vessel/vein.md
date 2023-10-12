@@ -34,7 +34,7 @@ aliases:
 Class of all veins.
 
 Tag Instances like this: 
-#is_/a_/vein
+#is_a_/vein
 
 A type of blood vessel that specifically carries blood to the heart.
 

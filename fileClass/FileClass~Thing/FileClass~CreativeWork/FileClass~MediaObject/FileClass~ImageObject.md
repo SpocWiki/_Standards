@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ImageObject, class/Thing/CreativeWork/MediaObject/ImageObject, is_an_/ImageObject, schema-org/ImageObject]
-tags: ["class/ImageObject", "#is_/an_/ImageObject", "class/Thing/CreativeWork/MediaObject/ImageObject"]
+tags: ["class/ImageObject", "#is_an_/ImageObject", "class/Thing/CreativeWork/MediaObject/ImageObject"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 ---
 
@@ -17,7 +17,7 @@ An image file.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/ImageObject
+#is_an_/ImageObject
 #class/ImageObject
 #class/Thing/CreativeWork/MediaObject/ImageObject
 

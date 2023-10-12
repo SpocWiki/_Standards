@@ -34,7 +34,7 @@ aliases:
 Class of all physical_activity_categorys.
 
 Tag Instances like this: 
-#is_/a_/physical_activity_category
+#is_a_/physical_activity_category
 
 Categories of physical activity, organized by physiologic classification.
 

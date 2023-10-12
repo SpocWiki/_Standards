@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalAudienceAndPerson, class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson, is_a_/MedicalAudienceAndPerson, schema-org/MedicalAudienceAndPerson]
-tags: ["class/MedicalAudienceAndPerson", "#is_/a_/MedicalAudienceAndPerson", "class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson"]
+tags: ["class/MedicalAudienceAndPerson", "#is_a_/MedicalAudienceAndPerson", "class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience
 ---
 
@@ -17,7 +17,7 @@ See MedicalAudience, Person for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalAudienceAndPerson
+#is_a_/MedicalAudienceAndPerson
 #class/MedicalAudienceAndPerson
 #class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson
 

@@ -34,7 +34,7 @@ aliases:
 Class of all pawn_shops.
 
 Tag Instances like this: 
-#is_/a_/pawn_shop
+#is_a_/pawn_shop
 
 A shop that will buy, or lend money against the security of, personal possessions.
 

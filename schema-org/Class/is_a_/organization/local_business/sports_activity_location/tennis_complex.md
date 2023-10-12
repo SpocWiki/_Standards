@@ -34,7 +34,7 @@ aliases:
 Class of all tennis_complexs.
 
 Tag Instances like this: 
-#is_/a_/tennis_complex
+#is_a_/tennis_complex
 
 A tennis complex.
 

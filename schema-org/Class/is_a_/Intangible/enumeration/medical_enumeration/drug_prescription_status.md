@@ -34,7 +34,7 @@ aliases:
 Class of all drug_prescription_statuss.
 
 Tag Instances like this: 
-#is_/a_/drug_prescription_status
+#is_a_/drug_prescription_status
 
 Indicates whether this drug is available by prescription or over-the-counter.
 

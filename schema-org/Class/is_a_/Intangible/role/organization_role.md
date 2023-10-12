@@ -34,7 +34,7 @@ aliases:
 Class of all organization_roles.
 
 Tag Instances like this: 
-#is_/an_/organization_role
+#is_an_/organization_role
 
 A subclass of Role used to describe roles within organizations.
 

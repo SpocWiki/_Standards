@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WebApplication, class/Thing/CreativeWork/SoftwareApplication/WebApplication, is_a_/WebApplication, schema-org/WebApplication]
-tags: ["class/WebApplication", "#is_/a_/WebApplication", "class/Thing/CreativeWork/SoftwareApplication/WebApplication"]
+tags: ["class/WebApplication", "#is_a_/WebApplication", "class/Thing/CreativeWork/SoftwareApplication/WebApplication"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 ---
 
@@ -17,7 +17,7 @@ Web applications.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WebApplication
+#is_a_/WebApplication
 #class/WebApplication
 #class/Thing/CreativeWork/SoftwareApplication/WebApplication
 

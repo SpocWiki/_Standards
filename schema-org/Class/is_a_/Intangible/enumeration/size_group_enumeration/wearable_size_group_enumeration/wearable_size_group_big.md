@@ -36,7 +36,7 @@ aliases:
 Class of all wearable_size_group_bigs.
 
 Tag Instances like this: 
-#is_/a_/wearable_size_group_big
+#is_a_/wearable_size_group_big
 
 [ #is_/part_of :: https://pending.schema.org ]
 

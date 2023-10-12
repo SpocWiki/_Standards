@@ -34,7 +34,7 @@ aliases:
 Class of all watch_actions.
 
 Tag Instances like this: 
-#is_/a_/watch_action
+#is_a_/watch_action
 
 The act of consuming dynamic/moving visual content.
 

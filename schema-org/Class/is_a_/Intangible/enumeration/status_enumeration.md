@@ -34,7 +34,7 @@ aliases:
 Class of all status_enumerations.
 
 Tag Instances like this: 
-#is_/a_/status_enumeration
+#is_a_/status_enumeration
 
 Lists or enumerations dealing with status types.
 

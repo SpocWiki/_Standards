@@ -34,7 +34,7 @@ aliases:
 Class of all music_stores.
 
 Tag Instances like this: 
-#is_/a_/music_store
+#is_a_/music_store
 
 A music store.
 

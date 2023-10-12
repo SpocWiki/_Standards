@@ -36,7 +36,7 @@ Class of all (basic) data types such as Integers, Strings, etc.
 
 
 Tag Instances like this: 
-#is_/a_/data_type
+#is_a_/data_type
 
 [ #is_/sub_class_of :: [[../../Class|Class]] ]
 

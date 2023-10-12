@@ -36,7 +36,7 @@ aliases:
 Class of all therapeutics.
 
 Tag Instances like this: 
-#is_/a_/therapeutic
+#is_a_/therapeutic
 
 A medical device used for therapeutic purposes.
 

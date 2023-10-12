@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MerchantReturnPolicy, class/Thing/Intangible/MerchantReturnPolicy, is_a_/MerchantReturnPolicy, schema-org/MerchantReturnPolicy]
-tags: ["class/MerchantReturnPolicy", "#is_/a_/MerchantReturnPolicy", "class/Thing/Intangible/MerchantReturnPolicy"]
+tags: ["class/MerchantReturnPolicy", "#is_a_/MerchantReturnPolicy", "class/Thing/Intangible/MerchantReturnPolicy"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A MerchantReturnPolicy provides information about product return policies associ
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MerchantReturnPolicy
+#is_a_/MerchantReturnPolicy
 #class/MerchantReturnPolicy
 #class/Thing/Intangible/MerchantReturnPolicy
 

@@ -36,7 +36,7 @@ aliases:
 Class of all diagnostics.
 
 Tag Instances like this: 
-#is_/a_/diagnostic
+#is_a_/diagnostic
 
 A medical device used for diagnostic purposes.
 

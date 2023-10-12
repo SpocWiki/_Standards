@@ -36,7 +36,7 @@ aliases:
 Class of all gluten_free_diets.
 
 Tag Instances like this: 
-#is_/a_/gluten_free_diet
+#is_a_/gluten_free_diet
 
 A diet exclusive of gluten.
 

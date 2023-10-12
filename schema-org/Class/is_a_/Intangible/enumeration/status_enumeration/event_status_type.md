@@ -34,7 +34,7 @@ aliases:
 Class of all event_status_types.
 
 Tag Instances like this: 
-#is_/an_/event_status_type
+#is_an_/event_status_type
 
 EventStatusType is an enumeration type whose instances represent several states that an Event may be in.
 

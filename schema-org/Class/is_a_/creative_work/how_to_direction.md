@@ -34,7 +34,7 @@ aliases:
 Class of all how_to_directions.
 
 Tag Instances like this: 
-#is_/a_/how_to_direction
+#is_a_/how_to_direction
 
 A direction indicating a single action to do in the instructions for how to achieve a result.
 

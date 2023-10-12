@@ -34,7 +34,7 @@ aliases:
 Class of all medical_scholarly_articles.
 
 Tag Instances like this: 
-#is_/a_/medical_scholarly_article
+#is_a_/medical_scholarly_article
 
 A scholarly article in the medical domain.
 

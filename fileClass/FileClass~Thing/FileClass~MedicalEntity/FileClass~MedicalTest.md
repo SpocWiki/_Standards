@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalTest, class/Thing/MedicalEntity/MedicalTest, is_a_/MedicalTest, schema-org/MedicalTest]
-tags: ["class/MedicalTest", "#is_/a_/MedicalTest", "class/Thing/MedicalEntity/MedicalTest"]
+tags: ["class/MedicalTest", "#is_a_/MedicalTest", "class/Thing/MedicalEntity/MedicalTest"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ Any medical test, typically performed for diagnostic purposes.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalTest
+#is_a_/MedicalTest
 #class/MedicalTest
 #class/Thing/MedicalEntity/MedicalTest
 

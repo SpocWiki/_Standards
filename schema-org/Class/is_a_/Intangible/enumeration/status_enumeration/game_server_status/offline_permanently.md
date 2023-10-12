@@ -36,7 +36,7 @@ aliases:
 Class of all offline_permanentlys.
 
 Tag Instances like this: 
-#is_/an_/offline_permanently
+#is_an_/offline_permanently
 
 Game server status: OfflinePermanently. Server is offline and not available.
 

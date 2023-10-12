@@ -34,7 +34,7 @@ aliases:
 Class of all government_buildings.
 
 Tag Instances like this: 
-#is_/a_/government_building
+#is_a_/government_building
 
 A government building.
 

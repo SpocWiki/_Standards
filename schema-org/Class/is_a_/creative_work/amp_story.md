@@ -34,7 +34,7 @@ aliases:
 Class of all amp_storys.
 
 Tag Instances like this: 
-#is_/an_/amp_story
+#is_an_/amp_story
 
 [ #is_/part_of :: https://pending.schema.org ]
 

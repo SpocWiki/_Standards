@@ -36,7 +36,7 @@ aliases:
 Class of all pharmacy_specialtys.
 
 Tag Instances like this: 
-#is_/a_/pharmacy_specialty
+#is_a_/pharmacy_specialty
 
 The practice or art and science of preparing and dispensing drugs and medicines.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DigitalDocumentPermission, class/Thing/Intangible/DigitalDocumentPermission, is_a_/DigitalDocumentPermission, schema-org/DigitalDocumentPermission]
-tags: ["class/DigitalDocumentPermission", "#is_/a_/DigitalDocumentPermission", "class/Thing/Intangible/DigitalDocumentPermission"]
+tags: ["class/DigitalDocumentPermission", "#is_a_/DigitalDocumentPermission", "class/Thing/Intangible/DigitalDocumentPermission"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A permission for a particular person or group to access a particular file.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DigitalDocumentPermission
+#is_a_/DigitalDocumentPermission
 #class/DigitalDocumentPermission
 #class/Thing/Intangible/DigitalDocumentPermission
 

@@ -34,7 +34,7 @@ aliases:
 Class of all medical_trial_designs.
 
 Tag Instances like this: 
-#is_/a_/medical_trial_design
+#is_a_/medical_trial_design
 
 Design models for medical trials. Enumerated type.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all sports_clubs.
 
 Tag Instances like this: 
-#is_/a_/sports_club
+#is_a_/sports_club
 
 A sports club.
 

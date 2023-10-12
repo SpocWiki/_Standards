@@ -36,7 +36,7 @@ aliases:
 Class of all interaction_counters.
 
 Tag Instances like this: 
-#is_/an_/interaction_counter
+#is_an_/interaction_counter
 
 A summary of how users have interacted with this CreativeWork. In most cases, authors will use a subtype to specify the specific type of interaction.
 

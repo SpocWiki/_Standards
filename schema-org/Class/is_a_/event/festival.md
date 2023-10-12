@@ -34,7 +34,7 @@ aliases:
 Class of all festivals.
 
 Tag Instances like this: 
-#is_/a_/festival
+#is_a_/festival
 
 Event type: Festival.
 

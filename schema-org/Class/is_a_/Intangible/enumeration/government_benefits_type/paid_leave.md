@@ -36,7 +36,7 @@ aliases:
 Class of all paid_leaves.
 
 Tag Instances like this: 
-#is_/a_/paid_leave
+#is_a_/paid_leave
 
 [ #is_/part_of :: https://pending.schema.org ]
 

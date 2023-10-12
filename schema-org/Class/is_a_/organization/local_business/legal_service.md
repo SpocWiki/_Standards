@@ -34,7 +34,7 @@ aliases:
 Class of all legal_services.
 
 Tag Instances like this: 
-#is_/a_/legal_service
+#is_a_/legal_service
 
 A LegalService is a business that provides legally-oriented services, advice and representation, e.g. law firms.
 

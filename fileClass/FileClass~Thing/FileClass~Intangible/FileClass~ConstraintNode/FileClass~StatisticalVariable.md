@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/StatisticalVariable, class/Thing/Intangible/ConstraintNode/StatisticalVariable, is_a_/StatisticalVariable, schema-org/StatisticalVariable]
-tags: ["class/StatisticalVariable", "#is_/a_/StatisticalVariable", "class/Thing/Intangible/ConstraintNode/StatisticalVariable"]
+tags: ["class/StatisticalVariable", "#is_a_/StatisticalVariable", "class/Thing/Intangible/ConstraintNode/StatisticalVariable"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode
 ---
 
@@ -17,7 +17,7 @@ This is a kind of [[FileClass~ConstraintNode]]
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/StatisticalVariable
+#is_a_/StatisticalVariable
 #class/StatisticalVariable
 #class/Thing/Intangible/ConstraintNode/StatisticalVariable
 

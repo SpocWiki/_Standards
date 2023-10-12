@@ -34,7 +34,7 @@ aliases:
 Class of all prepend_actions.
 
 Tag Instances like this: 
-#is_/a_/prepend_action
+#is_a_/prepend_action
 
 The act of inserting at the beginning if an ordered collection.
 

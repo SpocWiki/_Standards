@@ -34,7 +34,7 @@ aliases:
 Class of all news_articles.
 
 Tag Instances like this: 
-#is_/a_/news_article
+#is_a_/news_article
 
 A NewsArticle is an article whose content reports news, or provides background context and supporting materials for understanding the news.
 

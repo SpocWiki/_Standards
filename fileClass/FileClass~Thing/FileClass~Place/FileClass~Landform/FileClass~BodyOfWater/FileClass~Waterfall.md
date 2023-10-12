@@ -5,7 +5,7 @@ excludes:
 icon: waves
 version: 5
 tagNames: [class/Waterfall, class/Thing/Place/Landform/BodyOfWater/Waterfall, is_a_/Waterfall, schema-org/Waterfall]
-tags: ["class/Waterfall", "#is_/a_/Waterfall", "class/Thing/Place/Landform/BodyOfWater/Waterfall"]
+tags: ["class/Waterfall", "#is_a_/Waterfall", "class/Thing/Place/Landform/BodyOfWater/Waterfall"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
 ---
 
@@ -17,7 +17,7 @@ A waterfall, like Niagara.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Waterfall
+#is_a_/Waterfall
 #class/Waterfall
 #class/Thing/Place/Landform/BodyOfWater/Waterfall
 

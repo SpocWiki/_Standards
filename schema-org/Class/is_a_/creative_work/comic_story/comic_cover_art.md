@@ -34,7 +34,7 @@ aliases:
 Class of all comic_cover_arts.
 
 Tag Instances like this: 
-#is_/a_/comic_cover_art
+#is_a_/comic_cover_art
 
 [ #is_/part_of :: https://bib.schema.org ]
 

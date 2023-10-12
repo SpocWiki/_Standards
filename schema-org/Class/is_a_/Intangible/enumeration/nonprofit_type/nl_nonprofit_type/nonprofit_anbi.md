@@ -36,7 +36,7 @@ aliases:
 Class of all nonprofit_anbis.
 
 Tag Instances like this: 
-#is_/a_/nonprofit_anbi
+#is_a_/nonprofit_anbi
 
 [ #is_/part_of :: https://pending.schema.org ]
 

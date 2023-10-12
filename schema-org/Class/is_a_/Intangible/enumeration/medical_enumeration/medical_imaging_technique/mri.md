@@ -36,7 +36,7 @@ aliases:
 Class of all mris.
 
 Tag Instances like this: 
-#is_/a_/mri
+#is_a_/mri
 
 Magnetic resonance imaging.
 

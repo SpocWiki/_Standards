@@ -34,7 +34,7 @@ aliases:
 Class of all fast_food_restaurants.
 
 Tag Instances like this: 
-#is_/a_/fast_food_restaurant
+#is_a_/fast_food_restaurant
 
 A fast-food restaurant.
 

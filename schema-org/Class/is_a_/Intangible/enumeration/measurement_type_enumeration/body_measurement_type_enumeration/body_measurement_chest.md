@@ -36,7 +36,7 @@ aliases:
 Class of all body_measurement_chests.
 
 Tag Instances like this: 
-#is_/a_/body_measurement_chest
+#is_a_/body_measurement_chest
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all mosques.
 
 Tag Instances like this: 
-#is_/a_/mosque
+#is_a_/mosque
 
 A mosque.
 

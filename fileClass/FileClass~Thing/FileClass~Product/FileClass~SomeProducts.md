@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SomeProducts, class/Thing/Product/SomeProducts, is_a_/SomeProducts, schema-org/SomeProducts]
-tags: ["class/SomeProducts", "#is_/a_/SomeProducts", "class/Thing/Product/SomeProducts"]
+tags: ["class/SomeProducts", "#is_a_/SomeProducts", "class/Thing/Product/SomeProducts"]
 extends: FileClass~Thing/FileClass~Product
 ---
 
@@ -17,7 +17,7 @@ A placeholder for multiple similar products of the same kind.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SomeProducts
+#is_a_/SomeProducts
 #class/SomeProducts
 #class/Thing/Product/SomeProducts
 

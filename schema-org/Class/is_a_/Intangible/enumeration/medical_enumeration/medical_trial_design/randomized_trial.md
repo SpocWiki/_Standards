@@ -36,7 +36,7 @@ aliases:
 Class of all randomized_trials.
 
 Tag Instances like this: 
-#is_/a_/randomized_trial
+#is_a_/randomized_trial
 
 A randomized trial design.
 

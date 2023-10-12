@@ -34,7 +34,7 @@ aliases:
 Class of all photograph_actions.
 
 Tag Instances like this: 
-#is_/a_/photograph_action
+#is_a_/photograph_action
 
 The act of capturing still images of objects using a camera.
 

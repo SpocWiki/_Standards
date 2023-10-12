@@ -34,7 +34,7 @@ aliases:
 Class of all meeting_rooms.
 
 Tag Instances like this: 
-#is_/a_/meeting_room
+#is_a_/meeting_room
 
 A meeting room, conference room, or conference hall is a room provided for singular events such as business conferences and meetings (source: Wikipedia, the free encyclopedia, see <a href="http://en.wikipedia.org/wiki/Conference_hall">http://en.wikipedia.org/wiki/Conference_hall</a>).
 <br /><br />

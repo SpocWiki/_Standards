@@ -36,7 +36,7 @@ aliases:
 Class of all registrys.
 
 Tag Instances like this: 
-#is_/a_/registry
+#is_a_/registry
 
 A registry-based study design.
 

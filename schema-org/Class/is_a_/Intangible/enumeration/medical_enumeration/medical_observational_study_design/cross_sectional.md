@@ -36,7 +36,7 @@ aliases:
 Class of all cross_sectionals.
 
 Tag Instances like this: 
-#is_/a_/cross_sectional
+#is_a_/cross_sectional
 
 Studies carried out on pre-existing data (usually from 'snapshot' surveys), such as that collected by the Census Bureau. Sometimes called Prevalence Studies.
 

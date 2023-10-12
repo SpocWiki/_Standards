@@ -36,7 +36,7 @@ aliases:
 Class of all how_or_where_health_aspects.
 
 Tag Instances like this: 
-#is_/a_/how_or_where_health_aspect
+#is_a_/how_or_where_health_aspect
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ProductAndSubstance, class/Thing/MedicalEntity/Substance/ProductAndSubstance, is_a_/ProductAndSubstance, schema-org/ProductAndSubstance]
-tags: ["class/ProductAndSubstance", "#is_/a_/ProductAndSubstance", "class/Thing/MedicalEntity/Substance/ProductAndSubstance"]
+tags: ["class/ProductAndSubstance", "#is_a_/ProductAndSubstance", "class/Thing/MedicalEntity/Substance/ProductAndSubstance"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance
 ---
 
@@ -17,7 +17,7 @@ See Product, Substance for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ProductAndSubstance
+#is_a_/ProductAndSubstance
 #class/ProductAndSubstance
 #class/Thing/MedicalEntity/Substance/ProductAndSubstance
 

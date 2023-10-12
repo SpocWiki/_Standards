@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ProfessionalService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService, is_a_/ProfessionalService, schema-org/ProfessionalService]
-tags: ["class/ProfessionalService", "#is_/a_/ProfessionalService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService"]
+tags: ["class/ProfessionalService", "#is_a_/ProfessionalService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 
@@ -21,7 +21,7 @@ The general [[ProfessionalService]] type for local businesses was deprecated due
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ProfessionalService
+#is_a_/ProfessionalService
 #class/ProfessionalService
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService
 

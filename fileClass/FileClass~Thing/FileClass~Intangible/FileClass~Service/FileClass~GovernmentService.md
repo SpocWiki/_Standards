@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GovernmentService, class/Thing/Intangible/Service/GovernmentService, is_a_/GovernmentService, schema-org/GovernmentService]
-tags: ["class/GovernmentService", "#is_/a_/GovernmentService", "class/Thing/Intangible/Service/GovernmentService"]
+tags: ["class/GovernmentService", "#is_a_/GovernmentService", "class/Thing/Intangible/Service/GovernmentService"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 ---
 
@@ -17,7 +17,7 @@ A service provided by a government organization, e.g. food stamps, veterans bene
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/GovernmentService
+#is_a_/GovernmentService
 #class/GovernmentService
 #class/Thing/Intangible/Service/GovernmentService
 

@@ -36,7 +36,7 @@ aliases:
 Class of all group_boarding_policys.
 
 Tag Instances like this: 
-#is_/a_/group_boarding_policy
+#is_a_/group_boarding_policy
 
 The airline boards by groups based on check-in time, priority, etc.
 

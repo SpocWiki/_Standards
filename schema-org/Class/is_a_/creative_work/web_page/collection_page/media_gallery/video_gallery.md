@@ -34,7 +34,7 @@ aliases:
 Class of all video_gallerys.
 
 Tag Instances like this: 
-#is_/a_/video_gallery
+#is_a_/video_gallery
 
 Web page type: Video gallery page.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all prions.
 
 Tag Instances like this: 
-#is_/a_/prion
+#is_a_/prion
 
 A prion is an infectious agent composed of protein in a misfolded form.
 

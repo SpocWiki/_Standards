@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TieAction, class/Thing/Action/AchieveAction/TieAction, is_a_/TieAction, schema-org/TieAction]
-tags: ["class/TieAction", "#is_/a_/TieAction", "class/Thing/Action/AchieveAction/TieAction"]
+tags: ["class/TieAction", "#is_a_/TieAction", "class/Thing/Action/AchieveAction/TieAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 ---
 
@@ -17,7 +17,7 @@ The act of reaching a draw in a competitive activity.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TieAction
+#is_a_/TieAction
 #class/TieAction
 #class/Thing/Action/AchieveAction/TieAction
 

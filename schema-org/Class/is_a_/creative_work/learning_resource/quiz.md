@@ -34,7 +34,7 @@ aliases:
 Class of all quizs.
 
 Tag Instances like this: 
-#is_/a_/quiz
+#is_a_/quiz
 
 [ #is_/part_of :: https://pending.schema.org ]
 

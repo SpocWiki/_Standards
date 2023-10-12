@@ -5,7 +5,7 @@ excludes:
 icon: bus
 version: 5
 tagNames: [class/Vehicle, class/Thing/Product/Vehicle, is_a_/Vehicle, schema-org/Vehicle]
-tags: ["class/Vehicle", "#is_/a_/Vehicle", "class/Thing/Product/Vehicle"]
+tags: ["class/Vehicle", "#is_a_/Vehicle", "class/Thing/Product/Vehicle"]
 extends: FileClass~Thing/FileClass~Product
 ---
 
@@ -17,7 +17,7 @@ A vehicle is a device that is designed or used to transport people or cargo over
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Vehicle
+#is_a_/Vehicle
 #class/Vehicle
 #class/Thing/Product/Vehicle
 

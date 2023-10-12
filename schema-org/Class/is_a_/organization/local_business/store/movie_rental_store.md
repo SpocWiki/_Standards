@@ -34,7 +34,7 @@ aliases:
 Class of all movie_rental_stores.
 
 Tag Instances like this: 
-#is_/a_/movie_rental_store
+#is_a_/movie_rental_store
 
 A movie rental store.
 

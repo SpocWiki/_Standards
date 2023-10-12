@@ -34,7 +34,7 @@ aliases:
 Class of all physical_exams.
 
 Tag Instances like this: 
-#is_/a_/physical_exam
+#is_a_/physical_exam
 
 A type of physical examination of a patient performed by a physician.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all invoices.
 
 Tag Instances like this: 
-#is_/an_/invoice
+#is_an_/invoice
 
 A statement of the money due for goods or services; a bill.
 

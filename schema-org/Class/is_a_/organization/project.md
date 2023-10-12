@@ -34,7 +34,7 @@ aliases:
 Class of all projects.
 
 Tag Instances like this: 
-#is_/a_/project
+#is_a_/project
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all reservation_packages.
 
 Tag Instances like this: 
-#is_/a_/reservation_package
+#is_a_/reservation_package
 
 A group of multiple reservations with common values for all sub-reservations.
 

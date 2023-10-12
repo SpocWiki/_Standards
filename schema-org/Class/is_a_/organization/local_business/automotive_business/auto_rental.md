@@ -34,7 +34,7 @@ aliases:
 Class of all auto_rentals.
 
 Tag Instances like this: 
-#is_/an_/auto_rental
+#is_an_/auto_rental
 
 A car rental business.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all broadcast_services.
 
 Tag Instances like this: 
-#is_/a_/broadcast_service
+#is_a_/broadcast_service
 
 A delivery service through which content is provided via broadcast over the air or online.
 

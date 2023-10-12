@@ -36,7 +36,7 @@ aliases:
 Class of all pre_orders.
 
 Tag Instances like this: 
-#is_/a_/pre_order
+#is_a_/pre_order
 
 Indicates that the item is available for pre-order.
 

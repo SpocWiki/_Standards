@@ -34,7 +34,7 @@ aliases:
 Class of all about_pages.
 
 Tag Instances like this: 
-#is_/an_/about_page
+#is_an_/about_page
 
 Web page type: About page.
 

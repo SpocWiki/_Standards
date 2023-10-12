@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SportsOrganization, class/Thing/Organization/SportsOrganization, is_a_/SportsOrganization, schema-org/SportsOrganization]
-tags: ["class/SportsOrganization", "#is_/a_/SportsOrganization", "class/Thing/Organization/SportsOrganization"]
+tags: ["class/SportsOrganization", "#is_a_/SportsOrganization", "class/Thing/Organization/SportsOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -17,7 +17,7 @@ Represents the collection of all sports organizations, including sports teams, g
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SportsOrganization
+#is_a_/SportsOrganization
 #class/SportsOrganization
 #class/Thing/Organization/SportsOrganization
 

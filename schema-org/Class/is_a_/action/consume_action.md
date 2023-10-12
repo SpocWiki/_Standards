@@ -34,7 +34,7 @@ aliases:
 Class of all consume_actions.
 
 Tag Instances like this: 
-#is_/a_/consume_action
+#is_a_/consume_action
 
 The act of ingesting information/resources/food.
 

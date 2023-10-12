@@ -34,7 +34,7 @@ aliases:
 Class of all music_venues.
 
 Tag Instances like this: 
-#is_/a_/music_venue
+#is_a_/music_venue
 
 A music venue.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all hindu_diets.
 
 Tag Instances like this: 
-#is_/a_/hindu_diet
+#is_a_/hindu_diet
 
 A diet conforming to Hindu dietary practices, in particular, beef-free.
 

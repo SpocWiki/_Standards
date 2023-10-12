@@ -36,7 +36,7 @@ aliases:
 Class of all podiatrics.
 
 Tag Instances like this: 
-#is_/a_/podiatric
+#is_a_/podiatric
 
 Podiatry is the care of the human foot, especially the diagnosis and treatment of foot disorders.
 

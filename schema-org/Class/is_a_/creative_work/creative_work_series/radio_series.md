@@ -34,7 +34,7 @@ aliases:
 Class of all radio_seriess.
 
 Tag Instances like this: 
-#is_/a_/radio_series
+#is_a_/radio_series
 
 CreativeWorkSeries dedicated to radio broadcast and associated online delivery.
 

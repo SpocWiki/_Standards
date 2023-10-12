@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AudioObjectSnapshot, class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectSnapshot, is_an_/AudioObjectSnapshot, schema-org/AudioObjectSnapshot]
-tags: ["class/AudioObjectSnapshot", "#is_/an_/AudioObjectSnapshot", "class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectSnapshot"]
+tags: ["class/AudioObjectSnapshot", "#is_an_/AudioObjectSnapshot", "class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectSnapshot"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject
 ---
 
@@ -17,7 +17,7 @@ A specific and exact (byte-for-byte) version of an [[AudioObject]]. Two byte-for
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AudioObjectSnapshot
+#is_an_/AudioObjectSnapshot
 #class/AudioObjectSnapshot
 #class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectSnapshot
 

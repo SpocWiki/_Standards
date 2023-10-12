@@ -34,7 +34,7 @@ aliases:
 Class of all computer_stores.
 
 Tag Instances like this: 
-#is_/a_/computer_store
+#is_a_/computer_store
 
 A computer store.
 

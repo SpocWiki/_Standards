@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InfectiousDisease, class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease, is_an_/InfectiousDisease, schema-org/InfectiousDisease]
-tags: ["class/InfectiousDisease", "#is_/an_/InfectiousDisease", "class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease"]
+tags: ["class/InfectiousDisease", "#is_an_/InfectiousDisease", "class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition
 ---
 
@@ -17,7 +17,7 @@ An infectious disease is a clinically evident human disease resulting from the p
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/InfectiousDisease
+#is_an_/InfectiousDisease
 #class/InfectiousDisease
 #class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease
 

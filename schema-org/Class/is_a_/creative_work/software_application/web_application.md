@@ -34,7 +34,7 @@ aliases:
 Class of all web_applications.
 
 Tag Instances like this: 
-#is_/a_/web_application
+#is_a_/web_application
 
 Web applications.
 

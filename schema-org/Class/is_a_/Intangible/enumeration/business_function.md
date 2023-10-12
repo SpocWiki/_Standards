@@ -34,7 +34,7 @@ aliases:
 Class of all business_functions.
 
 Tag Instances like this: 
-#is_/a_/business_function
+#is_a_/business_function
 
 The business function specifies the type of activity or access (i.e., the bundle of rights) offered by the organization or business person through the offer. Typical are sell, rental or lease, maintenance or repair, manufacture / produce, recycle / dispose, engineering / construction, or installation. Proprietary specifications of access rights are also instances of this class.
 

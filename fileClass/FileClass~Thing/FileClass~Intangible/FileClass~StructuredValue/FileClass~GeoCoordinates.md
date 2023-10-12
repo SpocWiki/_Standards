@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GeoCoordinates, class/Thing/Intangible/StructuredValue/GeoCoordinates, is_a_/GeoCoordinates, schema-org/GeoCoordinates]
-tags: ["class/GeoCoordinates", "#is_/a_/GeoCoordinates", "class/Thing/Intangible/StructuredValue/GeoCoordinates"]
+tags: ["class/GeoCoordinates", "#is_a_/GeoCoordinates", "class/Thing/Intangible/StructuredValue/GeoCoordinates"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ The geographic coordinates of a place or event.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/GeoCoordinates
+#is_a_/GeoCoordinates
 #class/GeoCoordinates
 #class/Thing/Intangible/StructuredValue/GeoCoordinates
 

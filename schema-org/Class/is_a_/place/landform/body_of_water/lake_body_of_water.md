@@ -34,7 +34,7 @@ aliases:
 Class of all lake_body_of_waters.
 
 Tag Instances like this: 
-#is_/a_/lake_body_of_water
+#is_a_/lake_body_of_water
 
 A lake (for example, Lake Pontrachain).
 

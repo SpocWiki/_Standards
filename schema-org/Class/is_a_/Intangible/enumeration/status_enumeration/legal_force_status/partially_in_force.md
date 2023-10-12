@@ -36,7 +36,7 @@ aliases:
 Class of all partially_in_forces.
 
 Tag Instances like this: 
-#is_/a_/partially_in_force
+#is_a_/partially_in_force
 
 [ #is_/part_of :: https://pending.schema.org ]
 

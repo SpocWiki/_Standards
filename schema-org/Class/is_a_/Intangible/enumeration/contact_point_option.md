@@ -34,7 +34,7 @@ aliases:
 Class of all contact_point_options.
 
 Tag Instances like this: 
-#is_/a_/contact_point_option
+#is_a_/contact_point_option
 
 Enumerated options related to a ContactPoint.
 

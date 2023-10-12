@@ -34,7 +34,7 @@ aliases:
 Class of all apply_actions.
 
 Tag Instances like this: 
-#is_/an_/apply_action
+#is_an_/apply_action
 
 The act of registering to an organization/service without the guarantee to receive it.
 

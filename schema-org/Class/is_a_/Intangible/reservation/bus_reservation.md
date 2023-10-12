@@ -34,7 +34,7 @@ aliases:
 Class of all bus_reservations.
 
 Tag Instances like this: 
-#is_/a_/bus_reservation
+#is_a_/bus_reservation
 
 A reservation for bus travel. 
 

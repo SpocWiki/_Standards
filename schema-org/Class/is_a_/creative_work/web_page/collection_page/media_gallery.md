@@ -34,7 +34,7 @@ aliases:
 Class of all media_gallerys.
 
 Tag Instances like this: 
-#is_/a_/media_gallery
+#is_a_/media_gallery
 
 Web page type: Media gallery page. A mixed-media page that can contain media such as images, videos, and other multimedia.
 

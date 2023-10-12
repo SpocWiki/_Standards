@@ -35,7 +35,7 @@ Class of all taxons, i. e. Sets of organisms asserted to represent a natural coh
 These create a [[Taxonomy]] . 
 
 Tag Instances like this: 
-#is_/a_/taxon
+#is_a_/taxon
 
 [ #is_/part_of :: https://pending.schema.org ]
 

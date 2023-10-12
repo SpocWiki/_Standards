@@ -36,7 +36,7 @@ aliases:
 Class of all live_albums.
 
 Tag Instances like this: 
-#is_/a_/live_album
+#is_a_/live_album
 
 LiveAlbum.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all trade_actions.
 
 Tag Instances like this: 
-#is_/a_/trade_action
+#is_a_/trade_action
 
 The act of participating in an exchange of goods and services for monetary compensation. An agent trades an object, product or service with a participant in exchange for a one time or periodic payment.
 

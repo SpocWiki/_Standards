@@ -36,7 +36,7 @@ aliases:
 Class of all radiographys.
 
 Tag Instances like this: 
-#is_/a_/radiography
+#is_a_/radiography
 
 Radiography is an imaging technique that uses electromagnetic radiation other than visible light, especially X-rays, to view the internal structure of a non-uniformly composed and opaque object such as the human body.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all cemeterys.
 
 Tag Instances like this: 
-#is_/a_/cemetery
+#is_a_/cemetery
 
 A graveyard.
 

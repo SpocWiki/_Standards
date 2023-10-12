@@ -34,7 +34,7 @@ aliases:
 Class of all anatomical_structures.
 
 Tag Instances like this: 
-#is_/an_/anatomical_structure
+#is_an_/anatomical_structure
 
 Any part of the human body, typically a component of an anatomical system. Organs, tissues, and cells are all anatomical structures.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BusinessAudience, class/Thing/Intangible/Audience/BusinessAudience, is_a_/BusinessAudience, schema-org/BusinessAudience]
-tags: ["class/BusinessAudience", "#is_/a_/BusinessAudience", "class/Thing/Intangible/Audience/BusinessAudience"]
+tags: ["class/BusinessAudience", "#is_a_/BusinessAudience", "class/Thing/Intangible/Audience/BusinessAudience"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 ---
 
@@ -17,7 +17,7 @@ A set of characteristics belonging to businesses, e.g. who compose an item's tar
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BusinessAudience
+#is_a_/BusinessAudience
 #class/BusinessAudience
 #class/Thing/Intangible/Audience/BusinessAudience
 

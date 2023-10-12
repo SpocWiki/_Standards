@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FundingScheme, class/Thing/Organization/FundingScheme, is_a_/FundingScheme, schema-org/FundingScheme]
-tags: ["class/FundingScheme", "#is_/a_/FundingScheme", "class/Thing/Organization/FundingScheme"]
+tags: ["class/FundingScheme", "#is_a_/FundingScheme", "class/Thing/Organization/FundingScheme"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -19,7 +19,7 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FundingScheme
+#is_a_/FundingScheme
 #class/FundingScheme
 #class/Thing/Organization/FundingScheme
 

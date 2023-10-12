@@ -34,7 +34,7 @@ aliases:
 Class of all order_statuss.
 
 Tag Instances like this: 
-#is_/an_/order_status
+#is_an_/order_status
 
 Enumerated status values for Order.
 

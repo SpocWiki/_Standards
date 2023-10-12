@@ -36,7 +36,7 @@ aliases:
 Class of all transformed_contents.
 
 Tag Instances like this: 
-#is_/a_/transformed_content
+#is_a_/transformed_content
 
 [ #is_/part_of :: https://pending.schema.org ]
 

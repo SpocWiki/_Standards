@@ -34,7 +34,7 @@ aliases:
 Class of all drug_classs.
 
 Tag Instances like this: 
-#is_/a_/drug_class
+#is_a_/drug_class
 
 A class of medical drugs, e.g., statins. Classes can represent general pharmacological class, common mechanisms of action, common physiological effects, etc.
 

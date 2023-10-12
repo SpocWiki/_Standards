@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/VoteAction, class/Thing/Action/AssessAction/ChooseAction/VoteAction, is_a_/VoteAction, schema-org/VoteAction]
-tags: ["class/VoteAction", "#is_/a_/VoteAction", "class/Thing/Action/AssessAction/ChooseAction/VoteAction"]
+tags: ["class/VoteAction", "#is_a_/VoteAction", "class/Thing/Action/AssessAction/ChooseAction/VoteAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction
 ---
 
@@ -17,7 +17,7 @@ The act of expressing a preference from a fixed/finite/structured set of choices
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/VoteAction
+#is_a_/VoteAction
 #class/VoteAction
 #class/Thing/Action/AssessAction/ChooseAction/VoteAction
 

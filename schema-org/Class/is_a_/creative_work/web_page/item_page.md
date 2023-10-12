@@ -34,7 +34,7 @@ aliases:
 Class of all item_pages.
 
 Tag Instances like this: 
-#is_/an_/item_page
+#is_an_/item_page
 
 A page devoted to a single item, such as a particular product or hotel.
 

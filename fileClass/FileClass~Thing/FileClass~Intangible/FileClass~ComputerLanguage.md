@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ComputerLanguage, class/Thing/Intangible/ComputerLanguage, is_a_/ComputerLanguage, schema-org/ComputerLanguage]
-tags: ["class/ComputerLanguage", "#is_/a_/ComputerLanguage", "class/Thing/Intangible/ComputerLanguage"]
+tags: ["class/ComputerLanguage", "#is_a_/ComputerLanguage", "class/Thing/Intangible/ComputerLanguage"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ComputerLanguage
+#is_a_/ComputerLanguage
 #class/ComputerLanguage
 #class/Thing/Intangible/ComputerLanguage
 

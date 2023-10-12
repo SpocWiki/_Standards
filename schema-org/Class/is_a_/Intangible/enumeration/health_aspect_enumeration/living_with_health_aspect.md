@@ -36,7 +36,7 @@ aliases:
 Class of all living_with_health_aspects.
 
 Tag Instances like this: 
-#is_/a_/living_with_health_aspect
+#is_a_/living_with_health_aspect
 
 [ #is_/part_of :: https://pending.schema.org ]
 

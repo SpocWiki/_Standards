@@ -34,7 +34,7 @@ aliases:
 Class of all discover_actions.
 
 Tag Instances like this: 
-#is_/a_/discover_action
+#is_a_/discover_action
 
 The act of discovering/finding an object.
 

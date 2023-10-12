@@ -36,7 +36,7 @@ aliases:
 Class of all wearable_measurement_heights.
 
 Tag Instances like this: 
-#is_/a_/wearable_measurement_height
+#is_a_/wearable_measurement_height
 
 [ #is_/part_of :: https://pending.schema.org ]
 

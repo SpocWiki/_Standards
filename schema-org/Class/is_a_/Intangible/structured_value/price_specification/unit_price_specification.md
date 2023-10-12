@@ -34,7 +34,7 @@ aliases:
 Class of all unit_price_specifications.
 
 Tag Instances like this: 
-#is_/a_/unit_price_specification
+#is_a_/unit_price_specification
 
 The price asked for a given offer by the respective organization or person.
 

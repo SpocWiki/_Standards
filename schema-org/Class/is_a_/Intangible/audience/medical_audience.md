@@ -34,7 +34,7 @@ aliases:
 Class of all medical_audiences.
 
 Tag Instances like this: 
-#is_/a_/medical_audience
+#is_a_/medical_audience
 
 Target audiences for medical web pages.
 

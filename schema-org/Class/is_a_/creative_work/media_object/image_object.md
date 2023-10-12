@@ -36,7 +36,7 @@ aliases:
 Class of all image_objects.
 
 Tag Instances like this: 
-#is_/an_/image_object
+#is_an_/image_object
 
 An image file.
 

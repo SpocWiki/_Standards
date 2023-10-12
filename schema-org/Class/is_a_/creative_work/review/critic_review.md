@@ -34,7 +34,7 @@ aliases:
 Class of all critic_reviews.
 
 Tag Instances like this: 
-#is_/a_/critic_review
+#is_a_/critic_review
 
 [ #is_/part_of :: https://pending.schema.org ]
 

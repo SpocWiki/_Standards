@@ -34,7 +34,7 @@ aliases:
 Class of all postal_code_range_specifications.
 
 Tag Instances like this: 
-#is_/a_/postal_code_range_specification
+#is_a_/postal_code_range_specification
 
 [ #is_/part_of :: https://pending.schema.org ]
 

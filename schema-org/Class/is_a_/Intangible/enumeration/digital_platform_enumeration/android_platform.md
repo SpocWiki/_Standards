@@ -36,7 +36,7 @@ aliases:
 Class of all android_platforms.
 
 Tag Instances like this: 
-#is_/an_/android_platform
+#is_an_/android_platform
 
 [ #is_/part_of :: https://pending.schema.org ]
 

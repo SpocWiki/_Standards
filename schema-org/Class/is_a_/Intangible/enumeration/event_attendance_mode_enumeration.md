@@ -34,7 +34,7 @@ aliases:
 Class of all event_attendance_mode_enumerations.
 
 Tag Instances like this: 
-#is_/an_/event_attendance_mode_enumeration
+#is_an_/event_attendance_mode_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

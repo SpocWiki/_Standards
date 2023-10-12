@@ -34,7 +34,7 @@ aliases:
 Class of all day_spas.
 
 Tag Instances like this: 
-#is_/a_/day_spa
+#is_a_/day_spa
 
 A day spa.
 

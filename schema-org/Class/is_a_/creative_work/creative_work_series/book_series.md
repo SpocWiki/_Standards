@@ -34,7 +34,7 @@ aliases:
 Class of all book_seriess.
 
 Tag Instances like this: 
-#is_/a_/book_series
+#is_a_/book_series
 
 A series of books. Included books can be indicated with the hasPart property.
 

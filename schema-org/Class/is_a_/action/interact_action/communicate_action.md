@@ -34,7 +34,7 @@ aliases:
 Class of all communicate_actions.
 
 Tag Instances like this: 
-#is_/a_/communicate_action
+#is_a_/communicate_action
 
 The act of conveying information to another person via a communication medium (instrument) such as speech, email, or telephone conversation.
 

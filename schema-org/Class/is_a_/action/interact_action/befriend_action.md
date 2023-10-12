@@ -34,7 +34,7 @@ aliases:
 Class of all befriend_actions.
 
 Tag Instances like this: 
-#is_/a_/befriend_action
+#is_a_/befriend_action
 
 The act of forming a personal connection with someone (object) mutually/bidirectionally/symmetrically.
 

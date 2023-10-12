@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TypeAndQuantityNode, class/Thing/Intangible/StructuredValue/TypeAndQuantityNode, is_a_/TypeAndQuantityNode, schema-org/TypeAndQuantityNode]
-tags: ["class/TypeAndQuantityNode", "#is_/a_/TypeAndQuantityNode", "class/Thing/Intangible/StructuredValue/TypeAndQuantityNode"]
+tags: ["class/TypeAndQuantityNode", "#is_a_/TypeAndQuantityNode", "class/Thing/Intangible/StructuredValue/TypeAndQuantityNode"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A structured value indicating the quantity, unit of measurement, and business fu
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TypeAndQuantityNode
+#is_a_/TypeAndQuantityNode
 #class/TypeAndQuantityNode
 #class/Thing/Intangible/StructuredValue/TypeAndQuantityNode
 

@@ -34,7 +34,7 @@ aliases:
 Class of all performance_roles.
 
 Tag Instances like this: 
-#is_/a_/performance_role
+#is_a_/performance_role
 
 A PerformanceRole is a Role that some entity places with regard to a theatrical performance, e.g. in a Movie, TVSeries etc.
 

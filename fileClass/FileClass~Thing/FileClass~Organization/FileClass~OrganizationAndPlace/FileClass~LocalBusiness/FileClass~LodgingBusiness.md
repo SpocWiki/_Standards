@@ -5,7 +5,7 @@ excludes:
 icon: hotel
 version: 5
 tagNames: [class/LodgingBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness, is_a_/LodgingBusiness, schema-org/LodgingBusiness]
-tags: ["class/LodgingBusiness", "#is_/a_/LodgingBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness"]
+tags: ["class/LodgingBusiness", "#is_a_/LodgingBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 
@@ -17,7 +17,7 @@ A lodging business, such as a motel, hotel, or inn.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LodgingBusiness
+#is_a_/LodgingBusiness
 #class/LodgingBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness
 

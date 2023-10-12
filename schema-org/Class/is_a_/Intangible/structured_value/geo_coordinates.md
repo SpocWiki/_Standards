@@ -34,7 +34,7 @@ aliases:
 Class of all geo_coordinatess.
 
 Tag Instances like this: 
-#is_/a_/geo_coordinates
+#is_a_/geo_coordinates
 
 The geographic coordinates of a place or event.
 

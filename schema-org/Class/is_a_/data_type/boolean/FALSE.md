@@ -34,7 +34,7 @@ aliases:
 Class of all FALSEs.
 
 Tag Instances like this: 
-#is_/a_/FALSE
+#is_a_/FALSE
 
 The boolean value false.
 

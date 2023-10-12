@@ -36,7 +36,7 @@ aliases:
 Class of all full_refunds.
 
 Tag Instances like this: 
-#is_/a_/full_refund
+#is_a_/full_refund
 
 [ #is_/part_of :: https://pending.schema.org ]
 

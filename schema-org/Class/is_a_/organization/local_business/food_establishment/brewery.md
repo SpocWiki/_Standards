@@ -34,7 +34,7 @@ aliases:
 Class of all brewerys.
 
 Tag Instances like this: 
-#is_/a_/brewery
+#is_a_/brewery
 
 Brewery.
 

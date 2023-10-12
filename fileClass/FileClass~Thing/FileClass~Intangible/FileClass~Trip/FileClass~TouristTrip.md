@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TouristTrip, class/Thing/Intangible/Trip/TouristTrip, is_a_/TouristTrip, schema-org/TouristTrip]
-tags: ["class/TouristTrip", "#is_/a_/TouristTrip", "class/Thing/Intangible/Trip/TouristTrip"]
+tags: ["class/TouristTrip", "#is_a_/TouristTrip", "class/Thing/Intangible/Trip/TouristTrip"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 ---
 
@@ -18,7 +18,7 @@ A tourist trip. A created itinerary of visits to one or more places of interest 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TouristTrip
+#is_a_/TouristTrip
 #class/TouristTrip
 #class/Thing/Intangible/Trip/TouristTrip
 

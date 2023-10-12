@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HowTo, class/Thing/CreativeWork/HowTo, is_a_/HowTo, schema-org/HowTo]
-tags: ["class/HowTo", "#is_/a_/HowTo", "class/Thing/CreativeWork/HowTo"]
+tags: ["class/HowTo", "#is_a_/HowTo", "class/Thing/CreativeWork/HowTo"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ Instructions that explain how to achieve a result by performing a sequence of st
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HowTo
+#is_a_/HowTo
 #class/HowTo
 #class/Thing/CreativeWork/HowTo
 

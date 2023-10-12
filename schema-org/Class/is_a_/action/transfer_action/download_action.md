@@ -34,7 +34,7 @@ aliases:
 Class of all download_actions.
 
 Tag Instances like this: 
-#is_/a_/download_action
+#is_a_/download_action
 
 The act of downloading an object.
 

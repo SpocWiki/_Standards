@@ -34,7 +34,7 @@ aliases:
 Class of all data_feeds.
 
 Tag Instances like this: 
-#is_/a_/data_feed
+#is_a_/data_feed
 
 A single feed providing structured information about one or more entities or topics.
 

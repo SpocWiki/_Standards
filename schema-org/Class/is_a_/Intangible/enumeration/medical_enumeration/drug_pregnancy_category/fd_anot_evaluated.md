@@ -36,7 +36,7 @@ aliases:
 Class of all fd_anot_evaluateds.
 
 Tag Instances like this: 
-#is_/a_/fd_anot_evaluated
+#is_a_/fd_anot_evaluated
 
 A designation that the drug in question has not been assigned a pregnancy category designation by the US FDA.
 

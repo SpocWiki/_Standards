@@ -34,7 +34,7 @@ aliases:
 Class of all preschools.
 
 Tag Instances like this: 
-#is_/a_/preschool
+#is_a_/preschool
 
 A preschool.
 

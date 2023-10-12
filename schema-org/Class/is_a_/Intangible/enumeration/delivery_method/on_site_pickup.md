@@ -36,7 +36,7 @@ aliases:
 Class of all on_site_pickups.
 
 Tag Instances like this: 
-#is_/an_/on_site_pickup
+#is_an_/on_site_pickup
 
 A DeliveryMethod in which an item is collected on site, e.g. in a store or at a box office.
 

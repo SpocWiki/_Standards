@@ -51,7 +51,7 @@ Different from Sets in naive Set-Theory, the Instances are usually neither finit
 and thus must be treated specially in inference. 
 
 Tag Instances like this: 
-#is_/a_/class
+#is_a_/class
 
 [ #is_/part_of :: https://meta.schema.org ]
 

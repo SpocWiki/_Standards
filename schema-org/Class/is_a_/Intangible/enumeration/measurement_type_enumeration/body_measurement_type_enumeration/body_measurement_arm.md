@@ -36,7 +36,7 @@ aliases:
 Class of all body_measurement_arms.
 
 Tag Instances like this: 
-#is_/a_/body_measurement_arm
+#is_a_/body_measurement_arm
 
 [ #is_/part_of :: https://pending.schema.org ]
 

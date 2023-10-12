@@ -34,7 +34,7 @@ aliases:
 Class of all theater_events.
 
 Tag Instances like this: 
-#is_/a_/theater_event
+#is_a_/theater_event
 
 Event type: Theater performance.
 

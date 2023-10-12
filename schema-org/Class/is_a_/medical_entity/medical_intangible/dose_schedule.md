@@ -34,7 +34,7 @@ aliases:
 Class of all dose_schedules.
 
 Tag Instances like this: 
-#is_/a_/dose_schedule
+#is_a_/dose_schedule
 
 A specific dosing schedule for a drug or supplement.
 

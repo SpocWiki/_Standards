@@ -34,7 +34,7 @@ aliases:
 Class of all thesiss.
 
 Tag Instances like this: 
-#is_/a_/thesis
+#is_a_/thesis
 
 [ #is_/part_of :: https://bib.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalDevice, class/Thing/MedicalEntity/MedicalDevice, is_a_/MedicalDevice, schema-org/MedicalDevice]
-tags: ["class/MedicalDevice", "#is_/a_/MedicalDevice", "class/Thing/MedicalEntity/MedicalDevice"]
+tags: ["class/MedicalDevice", "#is_a_/MedicalDevice", "class/Thing/MedicalEntity/MedicalDevice"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ Any object used in a medical capacity, such as to diagnose or treat a patient.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalDevice
+#is_a_/MedicalDevice
 #class/MedicalDevice
 #class/Thing/MedicalEntity/MedicalDevice
 

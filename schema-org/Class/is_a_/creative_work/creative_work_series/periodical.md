@@ -36,7 +36,7 @@ aliases:
 Class of all periodicals.
 
 Tag Instances like this: 
-#is_/a_/periodical
+#is_a_/periodical
 
 A publication in any medium issued in successive parts bearing numerical or chronological designations and intended to continue indefinitely, such as a magazine, scholarly journal, or newspaper.
 

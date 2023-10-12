@@ -36,7 +36,7 @@ aliases:
 Class of all size_system_imperials.
 
 Tag Instances like this: 
-#is_/a_/size_system_imperial
+#is_a_/size_system_imperial
 
 [ #is_/part_of :: https://pending.schema.org ]
 

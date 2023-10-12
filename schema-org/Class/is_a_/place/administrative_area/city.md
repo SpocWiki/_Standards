@@ -34,7 +34,7 @@ aliases:
 Class of all citys.
 
 Tag Instances like this: 
-#is_/a_/city
+#is_a_/city
 
 A city or town.
 

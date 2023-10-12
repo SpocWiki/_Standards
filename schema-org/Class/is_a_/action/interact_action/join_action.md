@@ -34,7 +34,7 @@ aliases:
 Class of all join_actions.
 
 Tag Instances like this: 
-#is_/a_/join_action
+#is_a_/join_action
 
 An agent joins an event/group with participants/friends at a location.
 

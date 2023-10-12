@@ -34,7 +34,7 @@ aliases:
 Class of all services.
 
 Tag Instances like this: 
-#is_/a_/service
+#is_a_/service
 
 A service provided by an organization, e.g. delivery service, print services, etc.
 

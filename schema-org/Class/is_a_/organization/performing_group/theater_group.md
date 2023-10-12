@@ -34,7 +34,7 @@ aliases:
 Class of all theater_groups.
 
 Tag Instances like this: 
-#is_/a_/theater_group
+#is_a_/theater_group
 
 A theater group or company, for example, the Royal Shakespeare Company or Druid Theatre.
 

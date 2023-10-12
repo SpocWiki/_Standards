@@ -34,7 +34,7 @@ aliases:
 Class of all return_label_source_enumerations.
 
 Tag Instances like this: 
-#is_/a_/return_label_source_enumeration
+#is_a_/return_label_source_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

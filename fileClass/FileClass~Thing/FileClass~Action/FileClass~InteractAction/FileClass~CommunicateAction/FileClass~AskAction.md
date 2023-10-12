@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AskAction, class/Thing/Action/InteractAction/CommunicateAction/AskAction, is_an_/AskAction, schema-org/AskAction]
-tags: ["class/AskAction", "#is_/an_/AskAction", "class/Thing/Action/InteractAction/CommunicateAction/AskAction"]
+tags: ["class/AskAction", "#is_an_/AskAction", "class/Thing/Action/InteractAction/CommunicateAction/AskAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---
 
@@ -21,7 +21,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AskAction
+#is_an_/AskAction
 #class/AskAction
 #class/Thing/Action/InteractAction/CommunicateAction/AskAction
 

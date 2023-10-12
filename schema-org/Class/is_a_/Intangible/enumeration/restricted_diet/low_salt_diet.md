@@ -36,7 +36,7 @@ aliases:
 Class of all low_salt_diets.
 
 Tag Instances like this: 
-#is_/a_/low_salt_diet
+#is_a_/low_salt_diet
 
 A diet focused on reduced sodium intake.
 

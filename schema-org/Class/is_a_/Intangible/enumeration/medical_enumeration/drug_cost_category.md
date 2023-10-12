@@ -34,7 +34,7 @@ aliases:
 Class of all drug_cost_categorys.
 
 Tag Instances like this: 
-#is_/a_/drug_cost_category
+#is_a_/drug_cost_category
 
 Enumerated categories of medical drug costs.
 

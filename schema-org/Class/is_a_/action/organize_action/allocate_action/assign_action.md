@@ -34,7 +34,7 @@ aliases:
 Class of all assign_actions.
 
 Tag Instances like this: 
-#is_/an_/assign_action
+#is_an_/assign_action
 
 The act of allocating an action/event/task to some destination (someone or something).
 

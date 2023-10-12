@@ -34,7 +34,7 @@ aliases:
 Class of all motorcycle_repairs.
 
 Tag Instances like this: 
-#is_/a_/motorcycle_repair
+#is_a_/motorcycle_repair
 
 A motorcycle repair shop.
 

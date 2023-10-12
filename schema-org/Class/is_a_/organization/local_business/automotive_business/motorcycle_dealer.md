@@ -34,7 +34,7 @@ aliases:
 Class of all motorcycle_dealers.
 
 Tag Instances like this: 
-#is_/a_/motorcycle_dealer
+#is_a_/motorcycle_dealer
 
 A motorcycle dealer.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all sale_events.
 
 Tag Instances like this: 
-#is_/a_/sale_event
+#is_a_/sale_event
 
 Event type: Sales event.
 

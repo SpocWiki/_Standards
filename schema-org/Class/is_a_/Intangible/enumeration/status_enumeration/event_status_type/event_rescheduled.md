@@ -36,7 +36,7 @@ aliases:
 Class of all event_rescheduleds.
 
 Tag Instances like this: 
-#is_/an_/event_rescheduled
+#is_an_/event_rescheduled
 
 The event has been rescheduled. The event's previousStartDate should be set to the old date and the startDate should be set to the event's new date. (If the event has been rescheduled multiple times, the previousStartDate property may be repeated.)
 

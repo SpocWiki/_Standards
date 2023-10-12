@@ -34,7 +34,7 @@ aliases:
 Class of all receive_actions.
 
 Tag Instances like this: 
-#is_/a_/receive_action
+#is_a_/receive_action
 
 The act of physically/electronically taking delivery of an object that has been transferred from an origin to a destination. Reciprocal of SendAction.
 

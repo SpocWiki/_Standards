@@ -36,7 +36,7 @@ aliases:
 Class of all medical_procedures.
 
 Tag Instances like this: 
-#is_/a_/medical_procedure
+#is_a_/medical_procedure
 
 A process of care used in either a diagnostic, therapeutic, preventive or palliative capacity that relies on invasive (surgical), non-invasive, or other techniques.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all return_at_kiosks.
 
 Tag Instances like this: 
-#is_/a_/return_at_kiosk
+#is_a_/return_at_kiosk
 
 [ #is_/part_of :: https://pending.schema.org ]
 

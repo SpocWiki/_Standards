@@ -34,7 +34,7 @@ aliases:
 Class of all financial_products.
 
 Tag Instances like this: 
-#is_/a_/financial_product
+#is_a_/financial_product
 
 A product provided to consumers and businesses by financial institutions such as banks, insurance companies, brokerage firms, consumer finance companies, and investment companies which comprise the financial services industry.
 

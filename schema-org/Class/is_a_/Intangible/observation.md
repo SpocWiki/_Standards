@@ -34,7 +34,7 @@ aliases:
 Class of all observations.
 
 Tag Instances like this: 
-#is_/an_/observation
+#is_an_/observation
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -36,7 +36,7 @@ aliases:
 Class of all medical_devices.
 
 Tag Instances like this: 
-#is_/a_/medical_device
+#is_a_/medical_device
 
 Any object used in a medical capacity, such as to diagnose or treat a patient.
 

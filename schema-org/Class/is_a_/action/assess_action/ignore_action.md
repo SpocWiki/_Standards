@@ -34,7 +34,7 @@ aliases:
 Class of all ignore_actions.
 
 Tag Instances like this: 
-#is_/an_/ignore_action
+#is_an_/ignore_action
 
 The act of intentionally disregarding the object. An agent ignores an object.
 

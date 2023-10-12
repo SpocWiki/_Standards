@@ -28,7 +28,7 @@ aliases:
 Class of all structured_values.
 
 Tag Instances like this: 
-#is_/a_/structured_value
+#is_a_/structured_value
 
 Structured values are used when the value of a property has a more complex structure than simply being a textual value or a reference to another thing.
 

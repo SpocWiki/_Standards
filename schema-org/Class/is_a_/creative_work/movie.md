@@ -34,7 +34,7 @@ aliases:
 Class of all movies.
 
 Tag Instances like this: 
-#is_/a_/movie
+#is_a_/movie
 
 A movie.
 

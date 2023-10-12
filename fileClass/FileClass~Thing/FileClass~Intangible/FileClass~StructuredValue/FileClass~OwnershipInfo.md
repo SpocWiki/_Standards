@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OwnershipInfo, class/Thing/Intangible/StructuredValue/OwnershipInfo, is_an_/OwnershipInfo, schema-org/OwnershipInfo]
-tags: ["class/OwnershipInfo", "#is_/an_/OwnershipInfo", "class/Thing/Intangible/StructuredValue/OwnershipInfo"]
+tags: ["class/OwnershipInfo", "#is_an_/OwnershipInfo", "class/Thing/Intangible/StructuredValue/OwnershipInfo"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A structured value providing information about when a certain organization or pe
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OwnershipInfo
+#is_an_/OwnershipInfo
 #class/OwnershipInfo
 #class/Thing/Intangible/StructuredValue/OwnershipInfo
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Invoice, class/Thing/Intangible/Invoice, is_an_/Invoice, schema-org/Invoice]
-tags: ["class/Invoice", "#is_/an_/Invoice", "class/Thing/Intangible/Invoice"]
+tags: ["class/Invoice", "#is_an_/Invoice", "class/Thing/Intangible/Invoice"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A statement of the money due for goods or services; a bill.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Invoice
+#is_an_/Invoice
 #class/Invoice
 #class/Thing/Intangible/Invoice
 

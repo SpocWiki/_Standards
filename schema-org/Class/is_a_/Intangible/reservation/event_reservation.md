@@ -34,7 +34,7 @@ aliases:
 Class of all event_reservations.
 
 Tag Instances like this: 
-#is_/an_/event_reservation
+#is_an_/event_reservation
 
 A reservation for an event like a concert, sporting event, or lecture.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all hvac_businesss.
 
 Tag Instances like this: 
-#is_/a_/hvac_business
+#is_a_/hvac_business
 
 A business that provides Heating, Ventilation and Air Conditioning services.
 

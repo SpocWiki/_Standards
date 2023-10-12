@@ -34,7 +34,7 @@ aliases:
 Class of all endorsement_ratings.
 
 Tag Instances like this: 
-#is_/an_/endorsement_rating
+#is_an_/endorsement_rating
 
 An EndorsementRating is a rating that expresses some level of endorsement, for example inclusion in a "critic's pick" blog,
 a "Like" or "+1" on a social network. It can be considered the <a class="localLink" href="/result">result</a> of an <a class="localLink" href="/EndorseAction">EndorseAction</a> in which the <a class="localLink" href="/object">object</a> of the action is rated positively by

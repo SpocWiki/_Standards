@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ProductCollection, class/Thing/CreativeWork/Collection/CollectionAndProduct/ProductCollection, is_a_/ProductCollection, schema-org/ProductCollection]
-tags: ["class/ProductCollection", "#is_/a_/ProductCollection", "class/Thing/CreativeWork/Collection/CollectionAndProduct/ProductCollection"]
+tags: ["class/ProductCollection", "#is_a_/ProductCollection", "class/Thing/CreativeWork/Collection/CollectionAndProduct/ProductCollection"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct
 ---
 
@@ -17,7 +17,7 @@ A set of products (either [[ProductGroup]]s or specific variants) that are liste
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ProductCollection
+#is_a_/ProductCollection
 #class/ProductCollection
 #class/Thing/CreativeWork/Collection/CollectionAndProduct/ProductCollection
 

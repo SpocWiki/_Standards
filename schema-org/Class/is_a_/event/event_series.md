@@ -34,7 +34,7 @@ aliases:
 Class of all event_seriess.
 
 Tag Instances like this: 
-#is_/an_/event_series
+#is_an_/event_series
 
 [ #is_/part_of :: https://pending.schema.org ]
 

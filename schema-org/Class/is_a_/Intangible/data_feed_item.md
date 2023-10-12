@@ -34,7 +34,7 @@ aliases:
 Class of all data_feed_items.
 
 Tag Instances like this: 
-#is_/a_/data_feed_item
+#is_a_/data_feed_item
 
 A single item within a larger data feed.
 

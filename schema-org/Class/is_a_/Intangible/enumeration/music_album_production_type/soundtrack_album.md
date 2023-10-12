@@ -36,7 +36,7 @@ aliases:
 Class of all soundtrack_albums.
 
 Tag Instances like this: 
-#is_/a_/soundtrack_album
+#is_a_/soundtrack_album
 
 SoundtrackAlbum.
 

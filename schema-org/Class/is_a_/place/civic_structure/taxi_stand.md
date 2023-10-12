@@ -34,7 +34,7 @@ aliases:
 Class of all taxi_stands.
 
 Tag Instances like this: 
-#is_/a_/taxi_stand
+#is_a_/taxi_stand
 
 A taxi stand.
 

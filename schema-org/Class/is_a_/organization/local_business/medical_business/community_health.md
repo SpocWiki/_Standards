@@ -36,7 +36,7 @@ aliases:
 Class of all community_healths.
 
 Tag Instances like this: 
-#is_/a_/community_health
+#is_a_/community_health
 
 A field of public health focusing on improving health characteristics of a defined population in relation with their geographical or environment areas.
 

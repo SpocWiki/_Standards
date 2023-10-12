@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ComicStory, class/Thing/CreativeWork/ComicStory, is_a_/ComicStory, schema-org/ComicStory]
-tags: ["class/ComicStory", "#is_/a_/ComicStory", "class/Thing/CreativeWork/ComicStory"]
+tags: ["class/ComicStory", "#is_a_/ComicStory", "class/Thing/CreativeWork/ComicStory"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -19,7 +19,7 @@ comics have at least two stories: a cover (ComicCoverArt) and an interior story.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ComicStory
+#is_a_/ComicStory
 #class/ComicStory
 #class/Thing/CreativeWork/ComicStory
 

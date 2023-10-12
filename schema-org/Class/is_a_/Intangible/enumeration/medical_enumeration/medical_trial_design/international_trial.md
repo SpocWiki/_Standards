@@ -36,7 +36,7 @@ aliases:
 Class of all international_trials.
 
 Tag Instances like this: 
-#is_/an_/international_trial
+#is_an_/international_trial
 
 An international trial.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all unincorporated_association_charitys.
 
 Tag Instances like this: 
-#is_/an_/unincorporated_association_charity
+#is_an_/unincorporated_association_charity
 
 [ #is_/part_of :: https://pending.schema.org ]
 

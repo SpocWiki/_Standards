@@ -34,7 +34,7 @@ aliases:
 Class of all police_stations.
 
 Tag Instances like this: 
-#is_/a_/police_station
+#is_a_/police_station
 
 A police station.
 

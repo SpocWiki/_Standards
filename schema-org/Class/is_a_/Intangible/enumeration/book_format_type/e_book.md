@@ -36,7 +36,7 @@ aliases:
 Class of all e_books.
 
 Tag Instances like this: 
-#is_/an_/e_book
+#is_an_/e_book
 
 Book format: Ebook.
 

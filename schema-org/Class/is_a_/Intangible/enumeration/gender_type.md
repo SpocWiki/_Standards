@@ -34,7 +34,7 @@ aliases:
 Class of all gender_types.
 
 Tag Instances like this: 
-#is_/a_/gender_type
+#is_a_/gender_type
 
 An enumeration of genders.
 

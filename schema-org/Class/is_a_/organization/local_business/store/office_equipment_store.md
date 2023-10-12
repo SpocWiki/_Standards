@@ -34,7 +34,7 @@ aliases:
 Class of all office_equipment_stores.
 
 Tag Instances like this: 
-#is_/an_/office_equipment_store
+#is_an_/office_equipment_store
 
 An office equipment store.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all active_not_recruitings.
 
 Tag Instances like this: 
-#is_/an_/active_not_recruiting
+#is_an_/active_not_recruiting
 
 Active, but not recruiting new participants.
 

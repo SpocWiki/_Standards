@@ -36,7 +36,7 @@ aliases:
 Class of all hearing_impaired_supporteds.
 
 Tag Instances like this: 
-#is_/a_/hearing_impaired_supported
+#is_a_/hearing_impaired_supported
 
 Uses devices to support users with hearing impairments.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all cars.
 
 Tag Instances like this: 
-#is_/a_/car
+#is_a_/car
 
 A car is a wheeled, self-powered motor vehicle used for transportation.
 

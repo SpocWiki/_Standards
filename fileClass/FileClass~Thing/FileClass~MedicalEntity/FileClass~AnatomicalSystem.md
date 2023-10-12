@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AnatomicalSystem, class/Thing/MedicalEntity/AnatomicalSystem, is_an_/AnatomicalSystem, schema-org/AnatomicalSystem]
-tags: ["class/AnatomicalSystem", "#is_/an_/AnatomicalSystem", "class/Thing/MedicalEntity/AnatomicalSystem"]
+tags: ["class/AnatomicalSystem", "#is_an_/AnatomicalSystem", "class/Thing/MedicalEntity/AnatomicalSystem"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ An anatomical system is a group of anatomical structures that work together to p
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AnatomicalSystem
+#is_an_/AnatomicalSystem
 #class/AnatomicalSystem
 #class/Thing/MedicalEntity/AnatomicalSystem
 

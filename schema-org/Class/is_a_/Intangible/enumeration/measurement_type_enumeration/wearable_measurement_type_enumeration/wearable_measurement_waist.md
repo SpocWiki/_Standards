@@ -36,7 +36,7 @@ aliases:
 Class of all wearable_measurement_waists.
 
 Tag Instances like this: 
-#is_/a_/wearable_measurement_waist
+#is_a_/wearable_measurement_waist
 
 [ #is_/part_of :: https://pending.schema.org ]
 

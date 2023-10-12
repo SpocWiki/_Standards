@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OnlineBusiness, class/Thing/Organization/OnlineBusiness, is_an_/OnlineBusiness, schema-org/OnlineBusiness]
-tags: ["class/OnlineBusiness", "#is_/an_/OnlineBusiness", "class/Thing/Organization/OnlineBusiness"]
+tags: ["class/OnlineBusiness", "#is_an_/OnlineBusiness", "class/Thing/Organization/OnlineBusiness"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -17,7 +17,7 @@ A particular online business, either standalone or the online part of a broader 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OnlineBusiness
+#is_an_/OnlineBusiness
 #class/OnlineBusiness
 #class/Thing/Organization/OnlineBusiness
 

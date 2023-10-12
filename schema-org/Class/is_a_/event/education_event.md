@@ -34,7 +34,7 @@ aliases:
 Class of all education_events.
 
 Tag Instances like this: 
-#is_/an_/education_event
+#is_an_/education_event
 
 Event type: Education event.
 

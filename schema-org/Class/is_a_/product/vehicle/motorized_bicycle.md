@@ -34,7 +34,7 @@ aliases:
 Class of all motorized_bicycles.
 
 Tag Instances like this: 
-#is_/a_/motorized_bicycle
+#is_a_/motorized_bicycle
 
 [ #is_/part_of :: https://auto.schema.org ]
 

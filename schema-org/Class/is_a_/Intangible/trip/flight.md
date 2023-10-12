@@ -34,7 +34,7 @@ aliases:
 Class of all flights.
 
 Tag Instances like this: 
-#is_/a_/flight
+#is_a_/flight
 
 An airline flight.
 

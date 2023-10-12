@@ -5,7 +5,7 @@ excludes:
 icon: tent
 version: 5
 tagNames: [class/Campground, class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground, is_a_/Campground, schema-org/Campground]
-tags: ["class/Campground", "#is_/a_/Campground", "class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground"]
+tags: ["class/Campground", "#is_a_/Campground", "class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness
 ---
 
@@ -23,7 +23,7 @@ A camping site, campsite, or [[Campground]] is a place used for overnight stay i
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Campground
+#is_a_/Campground
 #class/Campground
 #class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground
 

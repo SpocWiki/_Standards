@@ -34,7 +34,7 @@ aliases:
 Class of all middle_schools.
 
 Tag Instances like this: 
-#is_/a_/middle_school
+#is_a_/middle_school
 
 A middle school (typically for children aged around 11-14, although this varies somewhat).
 

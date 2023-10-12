@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalTherapy, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy, is_a_/MedicalTherapy, schema-org/MedicalTherapy]
-tags: ["class/MedicalTherapy", "#is_/a_/MedicalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy"]
+tags: ["class/MedicalTherapy", "#is_a_/MedicalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure
 ---
 
@@ -17,7 +17,7 @@ Any medical intervention designed to prevent, treat, and cure human diseases and
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalTherapy
+#is_a_/MedicalTherapy
 #class/MedicalTherapy
 #class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy
 

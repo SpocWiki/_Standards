@@ -34,7 +34,7 @@ aliases:
 Class of all tv_seriess.
 
 Tag Instances like this: 
-#is_/a_/tv_series
+#is_a_/tv_series
 
 CreativeWorkSeries dedicated to TV broadcast and associated online delivery.
 

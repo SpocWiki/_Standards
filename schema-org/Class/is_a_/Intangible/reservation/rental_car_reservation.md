@@ -34,7 +34,7 @@ aliases:
 Class of all rental_car_reservations.
 
 Tag Instances like this: 
-#is_/a_/rental_car_reservation
+#is_a_/rental_car_reservation
 
 A reservation for a rental car.
 

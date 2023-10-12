@@ -34,7 +34,7 @@ aliases:
 Class of all real_estate_agents.
 
 Tag Instances like this: 
-#is_/a_/real_estate_agent
+#is_a_/real_estate_agent
 
 A real-estate agent.
 

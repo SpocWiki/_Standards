@@ -34,7 +34,7 @@ aliases:
 Class of all specialtys.
 
 Tag Instances like this: 
-#is_/a_/specialty
+#is_a_/specialty
 
 Any branch of a field in which people typically develop specific expertise, usually after significant study, time, and effort.
 

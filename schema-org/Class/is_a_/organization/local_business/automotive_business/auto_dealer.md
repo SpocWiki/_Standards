@@ -34,7 +34,7 @@ aliases:
 Class of all auto_dealers.
 
 Tag Instances like this: 
-#is_/an_/auto_dealer
+#is_an_/auto_dealer
 
 An car dealership.
 

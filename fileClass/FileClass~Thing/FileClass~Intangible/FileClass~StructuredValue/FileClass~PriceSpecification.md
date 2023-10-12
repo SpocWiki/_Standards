@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification, is_a_/PriceSpecification, schema-org/PriceSpecification]
-tags: ["class/PriceSpecification", "#is_/a_/PriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification"]
+tags: ["class/PriceSpecification", "#is_a_/PriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A structured value representing a price or price range. Typically, only the subc
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PriceSpecification
+#is_a_/PriceSpecification
 #class/PriceSpecification
 #class/Thing/Intangible/StructuredValue/PriceSpecification
 

@@ -34,7 +34,7 @@ aliases:
 Class of all register_actions.
 
 Tag Instances like this: 
-#is_/a_/register_action
+#is_a_/register_action
 
 The act of registering to be a user of a service, product or web page.
 

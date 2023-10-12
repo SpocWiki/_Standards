@@ -34,7 +34,7 @@ aliases:
 Class of all online_stores.
 
 Tag Instances like this: 
-#is_/an_/online_store
+#is_an_/online_store
 
 [ #is_/part_of :: https://pending.schema.org ]
 

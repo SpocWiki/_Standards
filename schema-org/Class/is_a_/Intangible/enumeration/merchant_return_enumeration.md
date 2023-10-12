@@ -36,7 +36,7 @@ aliases:
 Class of all merchant_return_enumerations.
 
 Tag Instances like this: 
-#is_/a_/merchant_return_enumeration
+#is_a_/merchant_return_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

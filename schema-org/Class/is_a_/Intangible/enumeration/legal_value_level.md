@@ -34,7 +34,7 @@ aliases:
 Class of all legal_value_levels.
 
 Tag Instances like this: 
-#is_/a_/legal_value_level
+#is_a_/legal_value_level
 
 [ #is_/part_of :: https://pending.schema.org ]
 

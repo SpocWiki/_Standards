@@ -34,7 +34,7 @@ aliases:
 Class of all parking_facilitys.
 
 Tag Instances like this: 
-#is_/a_/parking_facility
+#is_a_/parking_facility
 
 A parking lot or other parking facility.
 

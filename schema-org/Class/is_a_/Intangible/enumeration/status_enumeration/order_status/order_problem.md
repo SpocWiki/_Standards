@@ -36,7 +36,7 @@ aliases:
 Class of all order_problems.
 
 Tag Instances like this: 
-#is_/an_/order_problem
+#is_an_/order_problem
 
 OrderStatus representing that there is a problem with the order.
 

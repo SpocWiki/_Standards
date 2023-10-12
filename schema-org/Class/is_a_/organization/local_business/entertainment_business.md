@@ -34,7 +34,7 @@ aliases:
 Class of all entertainment_businesss.
 
 Tag Instances like this: 
-#is_/an_/entertainment_business
+#is_an_/entertainment_business
 
 A business providing entertainment.
 

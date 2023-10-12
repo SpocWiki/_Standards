@@ -36,7 +36,7 @@ aliases:
 Class of all surgicals.
 
 Tag Instances like this: 
-#is_/a_/surgical
+#is_a_/surgical
 
 A specific branch of medical science that pertains to treating diseases, injuries and deformities by manual and instrumental means.
 

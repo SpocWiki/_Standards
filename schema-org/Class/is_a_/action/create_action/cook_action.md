@@ -34,7 +34,7 @@ aliases:
 Class of all cook_actions.
 
 Tag Instances like this: 
-#is_/a_/cook_action
+#is_a_/cook_action
 
 The act of producing/preparing food.
 

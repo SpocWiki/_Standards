@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BlogPosting, class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting, is_a_/BlogPosting, schema-org/BlogPosting]
-tags: ["class/BlogPosting", "#is_/a_/BlogPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting"]
+tags: ["class/BlogPosting", "#is_a_/BlogPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting
 ---
 
@@ -17,7 +17,7 @@ A blog post.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BlogPosting
+#is_a_/BlogPosting
 #class/BlogPosting
 #class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting
 

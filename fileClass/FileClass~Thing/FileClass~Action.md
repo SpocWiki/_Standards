@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Action, class/Thing/Action, is_an_/Action, schema-org/Action]
-tags: ["class/Action", "#is_/an_/Action", "class/Thing/Action"]
+tags: ["class/Action", "#is_an_/Action", "class/Thing/Action"]
 extends: FileClass~Thing
 ---
 
@@ -19,7 +19,7 @@ See also [blog post](http://blog.schema.org/2014/04/announcing-schemaorg-actions
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Action
+#is_an_/Action
 #class/Action
 #class/Thing/Action
 

@@ -36,7 +36,7 @@ aliases:
 Class of all nonprofit527s.
 
 Tag Instances like this: 
-#is_/a_/nonprofit527
+#is_a_/nonprofit527
 
 [ #is_/part_of :: https://pending.schema.org ]
 

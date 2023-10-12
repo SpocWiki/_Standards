@@ -34,7 +34,7 @@ aliases:
 Class of all how_to_tips.
 
 Tag Instances like this: 
-#is_/a_/how_to_tip
+#is_a_/how_to_tip
 
 An explanation in the instructions for how to achieve a result. It provides supplementary information about a technique, supply, author's preference, etc. It can explain what could be done, or what should not be done, but doesn't specify what should be done (see HowToDirection).
 

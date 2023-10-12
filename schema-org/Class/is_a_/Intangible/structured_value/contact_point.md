@@ -34,7 +34,7 @@ aliases:
 Class of all contact_points.
 
 Tag Instances like this: 
-#is_/a_/contact_point
+#is_a_/contact_point
 
 A contact point&#x2014;for example, a Customer Complaints department.
 

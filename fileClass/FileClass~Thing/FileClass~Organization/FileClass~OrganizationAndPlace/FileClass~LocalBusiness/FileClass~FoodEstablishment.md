@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FoodEstablishment, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment, is_a_/FoodEstablishment, schema-org/FoodEstablishment]
-tags: ["class/FoodEstablishment", "#is_/a_/FoodEstablishment", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment"]
+tags: ["class/FoodEstablishment", "#is_a_/FoodEstablishment", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 
@@ -17,7 +17,7 @@ A food-related business.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FoodEstablishment
+#is_a_/FoodEstablishment
 #class/FoodEstablishment
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment
 

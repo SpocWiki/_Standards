@@ -34,7 +34,7 @@ aliases:
 Class of all educational_organizations.
 
 Tag Instances like this: 
-#is_/an_/educational_organization
+#is_an_/educational_organization
 
 An educational organization.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all wp_headers.
 
 Tag Instances like this: 
-#is_/a_/wp_header
+#is_a_/wp_header
 
 The header section of the page.
 

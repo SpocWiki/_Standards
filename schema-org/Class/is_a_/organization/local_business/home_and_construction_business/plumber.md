@@ -34,7 +34,7 @@ aliases:
 Class of all plumbers.
 
 Tag Instances like this: 
-#is_/a_/plumber
+#is_a_/plumber
 
 A plumbing service.
 

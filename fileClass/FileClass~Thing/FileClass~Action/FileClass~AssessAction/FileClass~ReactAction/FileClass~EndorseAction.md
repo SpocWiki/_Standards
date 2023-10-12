@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EndorseAction, class/Thing/Action/AssessAction/ReactAction/EndorseAction, is_an_/EndorseAction, schema-org/EndorseAction]
-tags: ["class/EndorseAction", "#is_/an_/EndorseAction", "class/Thing/Action/AssessAction/ReactAction/EndorseAction"]
+tags: ["class/EndorseAction", "#is_an_/EndorseAction", "class/Thing/Action/AssessAction/ReactAction/EndorseAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 ---
 
@@ -17,7 +17,7 @@ An agent approves/certifies/likes/supports/sanctions an object.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/EndorseAction
+#is_an_/EndorseAction
 #class/EndorseAction
 #class/Thing/Action/AssessAction/ReactAction/EndorseAction
 

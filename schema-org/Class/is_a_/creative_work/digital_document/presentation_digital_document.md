@@ -34,7 +34,7 @@ aliases:
 Class of all presentation_digital_documents.
 
 Tag Instances like this: 
-#is_/a_/presentation_digital_document
+#is_a_/presentation_digital_document
 
 A file containing slides or used for a presentation.
 

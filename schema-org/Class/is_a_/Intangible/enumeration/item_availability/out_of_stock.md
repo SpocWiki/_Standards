@@ -36,7 +36,7 @@ aliases:
 Class of all out_of_stocks.
 
 Tag Instances like this: 
-#is_/an_/out_of_stock
+#is_an_/out_of_stock
 
 Indicates that the item is out of stock.
 

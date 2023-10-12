@@ -34,7 +34,7 @@ aliases:
 Class of all hyper_toc_entrys.
 
 Tag Instances like this: 
-#is_/a_/hyper_toc_entry
+#is_a_/hyper_toc_entry
 
 [ #is_/part_of :: https://pending.schema.org ]
 

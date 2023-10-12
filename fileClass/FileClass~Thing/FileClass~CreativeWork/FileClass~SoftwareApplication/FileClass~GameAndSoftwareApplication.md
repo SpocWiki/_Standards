@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GameAndSoftwareApplication, class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication, is_a_/GameAndSoftwareApplication, schema-org/GameAndSoftwareApplication]
-tags: ["class/GameAndSoftwareApplication", "#is_/a_/GameAndSoftwareApplication", "class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication"]
+tags: ["class/GameAndSoftwareApplication", "#is_a_/GameAndSoftwareApplication", "class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 ---
 
@@ -17,7 +17,7 @@ See Game, SoftwareApplication for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/GameAndSoftwareApplication
+#is_a_/GameAndSoftwareApplication
 #class/GameAndSoftwareApplication
 #class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication
 

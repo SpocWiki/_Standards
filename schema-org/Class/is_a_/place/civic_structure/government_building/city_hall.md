@@ -34,7 +34,7 @@ aliases:
 Class of all city_halls.
 
 Tag Instances like this: 
-#is_/a_/city_hall
+#is_a_/city_hall
 
 A city hall.
 

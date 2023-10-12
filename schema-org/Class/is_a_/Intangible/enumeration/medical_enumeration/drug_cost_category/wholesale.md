@@ -36,7 +36,7 @@ aliases:
 Class of all wholesales.
 
 Tag Instances like this: 
-#is_/a_/wholesale
+#is_a_/wholesale
 
 The drug's cost represents the wholesale acquisition cost of the drug.
 

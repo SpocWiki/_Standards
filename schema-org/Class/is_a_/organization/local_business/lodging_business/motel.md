@@ -34,7 +34,7 @@ aliases:
 Class of all motels.
 
 Tag Instances like this: 
-#is_/a_/motel
+#is_a_/motel
 
 A motel.
 <br /><br />

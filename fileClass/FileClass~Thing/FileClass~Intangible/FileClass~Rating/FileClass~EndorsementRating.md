@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EndorsementRating, class/Thing/Intangible/Rating/EndorsementRating, is_an_/EndorsementRating, schema-org/EndorsementRating]
-tags: ["class/EndorsementRating", "#is_/an_/EndorsementRating", "class/Thing/Intangible/Rating/EndorsementRating"]
+tags: ["class/EndorsementRating", "#is_an_/EndorsementRating", "class/Thing/Intangible/Rating/EndorsementRating"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating
 ---
 
@@ -21,7 +21,7 @@ An EndorsementRating is a rating that expresses some level of endorsement, for e
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/EndorsementRating
+#is_an_/EndorsementRating
 #class/EndorsementRating
 #class/Thing/Intangible/Rating/EndorsementRating
 

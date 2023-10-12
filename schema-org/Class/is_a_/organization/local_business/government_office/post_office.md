@@ -34,7 +34,7 @@ aliases:
 Class of all post_offices.
 
 Tag Instances like this: 
-#is_/a_/post_office
+#is_a_/post_office
 
 A post office.
 

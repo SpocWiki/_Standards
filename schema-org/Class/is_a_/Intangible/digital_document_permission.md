@@ -34,7 +34,7 @@ aliases:
 Class of all digital_document_permissions.
 
 Tag Instances like this: 
-#is_/a_/digital_document_permission
+#is_a_/digital_document_permission
 
 A permission for a particular person or group to access a particular file.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all track_actions.
 
 Tag Instances like this: 
-#is_/a_/track_action
+#is_a_/track_action
 
 An agent tracks an object for updates.
 

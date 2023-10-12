@@ -34,7 +34,7 @@ aliases:
 Class of all disagree_actions.
 
 Tag Instances like this: 
-#is_/a_/disagree_action
+#is_a_/disagree_action
 
 The act of expressing a difference of opinion with the object. An agent disagrees to/about an object (a proposition, topic or theme) with participants.
 

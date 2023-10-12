@@ -34,7 +34,7 @@ aliases:
 Class of all music_release_format_types.
 
 Tag Instances like this: 
-#is_/a_/music_release_format_type
+#is_a_/music_release_format_type
 
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).
 

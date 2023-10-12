@@ -34,7 +34,7 @@ aliases:
 Class of all proteins.
 
 Tag Instances like this: 
-#is_/a_/protein
+#is_a_/protein
 
 [ #is_/part_of :: https://pending.schema.org ]
 

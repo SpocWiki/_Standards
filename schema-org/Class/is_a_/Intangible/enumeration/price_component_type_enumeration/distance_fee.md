@@ -36,7 +36,7 @@ aliases:
 Class of all distance_fees.
 
 Tag Instances like this: 
-#is_/a_/distance_fee
+#is_a_/distance_fee
 
 [ #is_/part_of :: https://pending.schema.org ]
 

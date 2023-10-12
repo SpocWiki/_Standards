@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RejectAction, class/Thing/Action/OrganizeAction/AllocateAction/RejectAction, is_a_/RejectAction, schema-org/RejectAction]
-tags: ["class/RejectAction", "#is_/a_/RejectAction", "class/Thing/Action/OrganizeAction/AllocateAction/RejectAction"]
+tags: ["class/RejectAction", "#is_a_/RejectAction", "class/Thing/Action/OrganizeAction/AllocateAction/RejectAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
 ---
 
@@ -21,7 +21,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/RejectAction
+#is_a_/RejectAction
 #class/RejectAction
 #class/Thing/Action/OrganizeAction/AllocateAction/RejectAction
 

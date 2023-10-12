@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TradeAction, class/Thing/Action/TradeAction, is_a_/TradeAction, schema-org/TradeAction]
-tags: ["class/TradeAction", "#is_/a_/TradeAction", "class/Thing/Action/TradeAction"]
+tags: ["class/TradeAction", "#is_a_/TradeAction", "class/Thing/Action/TradeAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -17,7 +17,7 @@ The act of participating in an exchange of goods and services for monetary compe
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TradeAction
+#is_a_/TradeAction
 #class/TradeAction
 #class/Thing/Action/TradeAction
 

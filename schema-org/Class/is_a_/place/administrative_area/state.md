@@ -34,7 +34,7 @@ aliases:
 Class of all states.
 
 Tag Instances like this: 
-#is_/a_/state
+#is_a_/state
 
 A state or province of a country.
 

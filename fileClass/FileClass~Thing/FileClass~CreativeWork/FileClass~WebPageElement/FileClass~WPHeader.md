@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WPHeader, class/Thing/CreativeWork/WebPageElement/WPHeader, is_a_/WPHeader, schema-org/WPHeader]
-tags: ["class/WPHeader", "#is_/a_/WPHeader", "class/Thing/CreativeWork/WebPageElement/WPHeader"]
+tags: ["class/WPHeader", "#is_a_/WPHeader", "class/Thing/CreativeWork/WebPageElement/WPHeader"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 ---
 
@@ -17,7 +17,7 @@ The header section of the page.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WPHeader
+#is_a_/WPHeader
 #class/WPHeader
 #class/Thing/CreativeWork/WebPageElement/WPHeader
 

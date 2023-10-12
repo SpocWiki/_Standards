@@ -34,7 +34,7 @@ aliases:
 Class of all currency_conversion_services.
 
 Tag Instances like this: 
-#is_/a_/currency_conversion_service
+#is_a_/currency_conversion_service
 
 A service to convert funds from one currency to another currency.
 

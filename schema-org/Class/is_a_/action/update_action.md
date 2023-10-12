@@ -34,7 +34,7 @@ aliases:
 Class of all update_actions.
 
 Tag Instances like this: 
-#is_/an_/update_action
+#is_an_/update_action
 
 The act of managing by changing/editing the state of the object.
 

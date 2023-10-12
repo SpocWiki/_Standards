@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ScheduleAction, class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction, is_a_/ScheduleAction, schema-org/ScheduleAction]
-tags: ["class/ScheduleAction", "#is_/a_/ScheduleAction", "class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction"]
+tags: ["class/ScheduleAction", "#is_a_/ScheduleAction", "class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction
 ---
 
@@ -21,7 +21,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ScheduleAction
+#is_a_/ScheduleAction
 #class/ScheduleAction
 #class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction
 

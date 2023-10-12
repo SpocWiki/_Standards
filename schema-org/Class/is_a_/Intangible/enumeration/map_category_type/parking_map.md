@@ -36,7 +36,7 @@ aliases:
 Class of all parking_maps.
 
 Tag Instances like this: 
-#is_/a_/parking_map
+#is_a_/parking_map
 
 A parking map.
 

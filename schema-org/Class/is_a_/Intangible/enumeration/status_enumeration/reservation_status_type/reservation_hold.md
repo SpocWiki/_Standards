@@ -36,7 +36,7 @@ aliases:
 Class of all reservation_holds.
 
 Tag Instances like this: 
-#is_/a_/reservation_hold
+#is_a_/reservation_hold
 
 The status of a reservation on hold pending an update like credit card number or flight changes.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all drive_wheel_configuration_values.
 
 Tag Instances like this: 
-#is_/a_/drive_wheel_configuration_value
+#is_a_/drive_wheel_configuration_value
 
 A value indicating which roadwheels will receive torque.
 

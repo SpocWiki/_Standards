@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Flight, class/Thing/Intangible/Trip/Flight, is_a_/Flight, schema-org/Flight]
-tags: ["class/Flight", "#is_/a_/Flight", "class/Thing/Intangible/Trip/Flight"]
+tags: ["class/Flight", "#is_a_/Flight", "class/Thing/Intangible/Trip/Flight"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 ---
 
@@ -17,7 +17,7 @@ An airline flight.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Flight
+#is_a_/Flight
 #class/Flight
 #class/Thing/Intangible/Trip/Flight
 

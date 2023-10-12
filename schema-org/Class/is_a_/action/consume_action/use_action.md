@@ -30,7 +30,7 @@ but also consuming it in the Action in contrast to [[is_using]].
 Class of all use_actions.
 
 Tag Instances like this: 
-#is_/a_/use_action
+#is_a_/use_action
 
 [ #is_/sub_class_of :: [[../ConsumeAction]] ]
 

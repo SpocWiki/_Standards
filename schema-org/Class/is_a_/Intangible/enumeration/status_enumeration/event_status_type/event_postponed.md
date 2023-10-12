@@ -36,7 +36,7 @@ aliases:
 Class of all event_postponeds.
 
 Tag Instances like this: 
-#is_/an_/event_postponed
+#is_an_/event_postponed
 
 The event has been postponed and no new date has been set. The event's previousStartDate should be set.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all patients.
 
 Tag Instances like this: 
-#is_/a_/patient
+#is_a_/patient
 
 A patient is any person recipient of health care services.
 

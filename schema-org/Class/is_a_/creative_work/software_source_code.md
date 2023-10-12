@@ -36,7 +36,7 @@ aliases:
 Class of all software_source_codes.
 
 Tag Instances like this: 
-#is_/a_/software_source_code
+#is_a_/software_source_code
 
 Computer programming source code. Example: Full (compile ready) solutions, code snippet samples, scripts, templates.
 

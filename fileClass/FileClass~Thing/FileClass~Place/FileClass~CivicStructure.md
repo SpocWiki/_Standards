@@ -5,7 +5,7 @@ excludes:
 icon: building
 version: 5
 tagNames: [class/CivicStructure, class/Thing/Place/CivicStructure, is_a_/CivicStructure, schema-org/CivicStructure]
-tags: ["class/CivicStructure", "#is_/a_/CivicStructure", "class/Thing/Place/CivicStructure"]
+tags: ["class/CivicStructure", "#is_a_/CivicStructure", "class/Thing/Place/CivicStructure"]
 extends: FileClass~Thing/FileClass~Place
 ---
 
@@ -17,7 +17,7 @@ A public structure, such as a town hall or concert hall.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CivicStructure
+#is_a_/CivicStructure
 #class/CivicStructure
 #class/Thing/Place/CivicStructure
 

@@ -34,7 +34,7 @@ aliases:
 Class of all school_districts.
 
 Tag Instances like this: 
-#is_/a_/school_district
+#is_a_/school_district
 
 [ #is_/part_of :: https://pending.schema.org ]
 

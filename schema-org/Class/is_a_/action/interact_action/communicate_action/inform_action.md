@@ -34,7 +34,7 @@ aliases:
 Class of all inform_actions.
 
 Tag Instances like this: 
-#is_/an_/inform_action
+#is_an_/inform_action
 
 The act of notifying someone of information pertinent to them, with no expectation of a response.
 

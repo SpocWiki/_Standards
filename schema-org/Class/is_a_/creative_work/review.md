@@ -34,7 +34,7 @@ aliases:
 Class of all reviews.
 
 Tag Instances like this: 
-#is_/a_/review
+#is_a_/review
 
 A review of an item - for example, of a restaurant, movie, or store.
 

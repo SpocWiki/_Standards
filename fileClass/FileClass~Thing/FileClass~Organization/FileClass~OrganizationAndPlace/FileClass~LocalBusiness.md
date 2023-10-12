@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LocalBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness, is_a_/LocalBusiness, schema-org/LocalBusiness]
-tags: ["class/LocalBusiness", "#is_/a_/LocalBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness"]
+tags: ["class/LocalBusiness", "#is_a_/LocalBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness"]
 extends: FileClass~Thing/FileClass~Place/FileClass~OrganizationAndPlace
 ---
 
@@ -17,7 +17,7 @@ A particular physical business or branch of an organization. Examples of LocalBu
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/LocalBusiness
+#is_a_/LocalBusiness
 #class/LocalBusiness
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness
 

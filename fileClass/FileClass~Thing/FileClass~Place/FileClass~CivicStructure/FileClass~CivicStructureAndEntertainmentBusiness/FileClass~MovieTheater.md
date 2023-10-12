@@ -5,7 +5,7 @@ excludes:
 icon: clapperboard
 version: 5
 tagNames: [class/MovieTheater, class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater, is_a_/MovieTheater, schema-org/MovieTheater]
-tags: ["class/MovieTheater", "#is_/a_/MovieTheater", "class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater"]
+tags: ["class/MovieTheater", "#is_a_/MovieTheater", "class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness
 ---
 
@@ -17,7 +17,7 @@ A movie theater.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MovieTheater
+#is_a_/MovieTheater
 #class/MovieTheater
 #class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater
 

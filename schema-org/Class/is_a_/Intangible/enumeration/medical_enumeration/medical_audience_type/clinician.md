@@ -36,7 +36,7 @@ aliases:
 Class of all clinicians.
 
 Tag Instances like this: 
-#is_/a_/clinician
+#is_a_/clinician
 
 Medical clinicians, including practicing physicians and other medical professionals involved in clinical practice.
 

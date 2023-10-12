@@ -34,7 +34,7 @@ aliases:
 Class of all vote_actions.
 
 Tag Instances like this: 
-#is_/a_/vote_action
+#is_a_/vote_action
 
 The act of expressing a preference from a fixed/finite/structured set of choices/options.
 

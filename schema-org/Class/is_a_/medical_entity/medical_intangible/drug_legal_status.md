@@ -34,7 +34,7 @@ aliases:
 Class of all drug_legal_statuss.
 
 Tag Instances like this: 
-#is_/a_/drug_legal_status
+#is_a_/drug_legal_status
 
 The legal availability status of a medical drug.
 

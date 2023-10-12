@@ -34,7 +34,7 @@ aliases:
 Class of all river_body_of_waters.
 
 Tag Instances like this: 
-#is_/a_/river_body_of_water
+#is_a_/river_body_of_water
 
 A river (for example, the broad majestic Shannon).
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FundingAgency, class/Thing/Organization/Project/FundingAgency, is_a_/FundingAgency, schema-org/FundingAgency]
-tags: ["class/FundingAgency", "#is_/a_/FundingAgency", "class/Thing/Organization/Project/FundingAgency"]
+tags: ["class/FundingAgency", "#is_a_/FundingAgency", "class/Thing/Organization/Project/FundingAgency"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~Project
 ---
 
@@ -20,7 +20,7 @@ A FundingAgency is an organization that implements one or more [[FundingScheme]]
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/FundingAgency
+#is_a_/FundingAgency
 #class/FundingAgency
 #class/Thing/Organization/Project/FundingAgency
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Place, class/Thing/Place, is_a_/Place, schema-org/Place]
-tags: ["class/Place", "#is_/a_/Place", "class/Thing/Place"]
+tags: ["class/Place", "#is_a_/Place", "class/Thing/Place"]
 extends: FileClass~Thing
 ---
 
@@ -17,7 +17,7 @@ Entities that have a somewhat fixed, physical extension.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Place
+#is_a_/Place
 #class/Place
 #class/Thing/Place
 

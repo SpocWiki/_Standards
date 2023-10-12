@@ -34,7 +34,7 @@ aliases:
 Class of all statistical_populations.
 
 Tag Instances like this: 
-#is_/a_/statistical_population
+#is_a_/statistical_population
 
 [ #is_/part_of :: https://pending.schema.org ]
 

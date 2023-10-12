@@ -34,7 +34,7 @@ aliases:
 Class of all payment_charge_specifications.
 
 Tag Instances like this: 
-#is_/a_/payment_charge_specification
+#is_a_/payment_charge_specification
 
 The costs of settling the payment using a particular payment method.
 

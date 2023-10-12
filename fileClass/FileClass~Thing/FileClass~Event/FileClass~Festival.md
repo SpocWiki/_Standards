@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Festival, class/Thing/Event/Festival, is_a_/Festival, schema-org/Festival]
-tags: ["class/Festival", "#is_/a_/Festival", "class/Thing/Event/Festival"]
+tags: ["class/Festival", "#is_a_/Festival", "class/Thing/Event/Festival"]
 extends: FileClass~Thing/FileClass~Event
 ---
 
@@ -17,7 +17,7 @@ Event type: Festival.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Festival
+#is_a_/Festival
 #class/Festival
 #class/Thing/Event/Festival
 

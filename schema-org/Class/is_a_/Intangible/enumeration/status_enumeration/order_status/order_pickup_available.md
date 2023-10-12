@@ -36,7 +36,7 @@ aliases:
 Class of all order_pickup_availables.
 
 Tag Instances like this: 
-#is_/an_/order_pickup_available
+#is_an_/order_pickup_available
 
 OrderStatus representing availability of an order for pickup.
 

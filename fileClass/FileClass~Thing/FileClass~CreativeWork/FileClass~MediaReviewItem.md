@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MediaReviewItem, class/Thing/CreativeWork/MediaReviewItem, is_a_/MediaReviewItem, schema-org/MediaReviewItem]
-tags: ["class/MediaReviewItem", "#is_/a_/MediaReviewItem", "class/Thing/CreativeWork/MediaReviewItem"]
+tags: ["class/MediaReviewItem", "#is_a_/MediaReviewItem", "class/Thing/CreativeWork/MediaReviewItem"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ Represents an item or group of closely related items treated as a unit for the s
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MediaReviewItem
+#is_a_/MediaReviewItem
 #class/MediaReviewItem
 #class/Thing/CreativeWork/MediaReviewItem
 

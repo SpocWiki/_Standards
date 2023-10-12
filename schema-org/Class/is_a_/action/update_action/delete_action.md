@@ -34,7 +34,7 @@ aliases:
 Class of all delete_actions.
 
 Tag Instances like this: 
-#is_/a_/delete_action
+#is_a_/delete_action
 
 The act of editing a recipient by removing one of its objects.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all live_blog_postings.
 
 Tag Instances like this: 
-#is_/a_/live_blog_posting
+#is_a_/live_blog_posting
 
 A <a class="localLink" href="/LiveBlogPosting">LiveBlogPosting</a> is a <a class="localLink" href="/BlogPosting">BlogPosting</a> intended to provide a rolling textual coverage of an ongoing event through continuous updates.
 

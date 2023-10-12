@@ -34,7 +34,7 @@ aliases:
 Class of all mobile_applications.
 
 Tag Instances like this: 
-#is_/a_/mobile_application
+#is_a_/mobile_application
 
 A software application designed specifically to work well on a mobile device such as a telephone.
 

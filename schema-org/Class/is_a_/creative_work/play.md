@@ -34,7 +34,7 @@ aliases:
 Class of all plays.
 
 Tag Instances like this: 
-#is_/a_/play
+#is_a_/play
 
 [ #is_/part_of :: https://pending.schema.org ]
 

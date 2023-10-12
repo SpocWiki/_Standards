@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Type3DModel, class/Thing/CreativeWork/MediaObject/Type3DModel, is_a_/Type3DModel, schema-org/Type3DModel]
-tags: ["class/Type3DModel", "#is_/a_/Type3DModel", "class/Thing/CreativeWork/MediaObject/Type3DModel"]
+tags: ["class/Type3DModel", "#is_a_/Type3DModel", "class/Thing/CreativeWork/MediaObject/Type3DModel"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 ---
 
@@ -18,7 +18,7 @@ A 3D model represents some kind of 3D content, which may have [[encoding]]s in o
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Type3DModel
+#is_a_/Type3DModel
 #class/Type3DModel
 #class/Thing/CreativeWork/MediaObject/Type3DModel
 

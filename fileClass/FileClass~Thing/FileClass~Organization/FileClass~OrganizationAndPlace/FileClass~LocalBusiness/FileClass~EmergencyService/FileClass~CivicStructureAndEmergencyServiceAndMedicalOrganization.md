@@ -5,7 +5,7 @@ excludes:
 icon: siren
 version: 5
 tagNames: [class/CivicStructureAndEmergencyServiceAndMedicalOrganization, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization, is_a_/CivicStructureAndEmergencyServiceAndMedicalOrganization, schema-org/CivicStructureAndEmergencyServiceAndMedicalOrganization]
-tags: ["class/CivicStructureAndEmergencyServiceAndMedicalOrganization", "#is_/a_/CivicStructureAndEmergencyServiceAndMedicalOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization"]
+tags: ["class/CivicStructureAndEmergencyServiceAndMedicalOrganization", "#is_a_/CivicStructureAndEmergencyServiceAndMedicalOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~EmergencyService
 ---
 
@@ -17,7 +17,7 @@ See CivicStructure, EmergencyService, MedicalOrganization for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CivicStructureAndEmergencyServiceAndMedicalOrganization
+#is_a_/CivicStructureAndEmergencyServiceAndMedicalOrganization
 #class/CivicStructureAndEmergencyServiceAndMedicalOrganization
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization
 

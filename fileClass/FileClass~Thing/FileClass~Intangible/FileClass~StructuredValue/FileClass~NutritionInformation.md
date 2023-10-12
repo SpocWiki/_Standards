@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/NutritionInformation, class/Thing/Intangible/StructuredValue/NutritionInformation, is_a_/NutritionInformation, schema-org/NutritionInformation]
-tags: ["class/NutritionInformation", "#is_/a_/NutritionInformation", "class/Thing/Intangible/StructuredValue/NutritionInformation"]
+tags: ["class/NutritionInformation", "#is_a_/NutritionInformation", "class/Thing/Intangible/StructuredValue/NutritionInformation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ Nutritional information about the recipe.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/NutritionInformation
+#is_a_/NutritionInformation
 #class/NutritionInformation
 #class/Thing/Intangible/StructuredValue/NutritionInformation
 

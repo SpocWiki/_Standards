@@ -5,7 +5,7 @@ excludes:
 icon: waves
 version: 5
 tagNames: [class/OceanBodyOfWater, class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater, is_an_/OceanBodyOfWater, schema-org/OceanBodyOfWater]
-tags: ["class/OceanBodyOfWater", "#is_/an_/OceanBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater"]
+tags: ["class/OceanBodyOfWater", "#is_an_/OceanBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
 ---
 
@@ -17,7 +17,7 @@ An ocean (for example, the Pacific).
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OceanBodyOfWater
+#is_an_/OceanBodyOfWater
 #class/OceanBodyOfWater
 #class/Thing/Place/Landform/BodyOfWater/OceanBodyOfWater
 

@@ -5,7 +5,7 @@ excludes:
 icon: dna
 version: 5
 tagNames: [class/Gene, class/Thing/BioChemEntity/Gene, is_a_/Gene, schema-org/Gene]
-tags: ["class/Gene", "#is_/a_/Gene", "class/Thing/BioChemEntity/Gene"]
+tags: ["class/Gene", "#is_a_/Gene", "class/Thing/BioChemEntity/Gene"]
 extends: FileClass~Thing/FileClass~BioChemEntity
 ---
 
@@ -17,7 +17,7 @@ A discrete unit of inheritance which affects one or more biological traits (Sour
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Gene
+#is_a_/Gene
 #class/Gene
 #class/Thing/BioChemEntity/Gene
 

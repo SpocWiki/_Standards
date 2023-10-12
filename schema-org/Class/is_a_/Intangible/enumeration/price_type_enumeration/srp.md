@@ -36,7 +36,7 @@ aliases:
 Class of all srps.
 
 Tag Instances like this: 
-#is_/a_/srp
+#is_a_/srp
 
 [ #is_/part_of :: https://pending.schema.org ]
 

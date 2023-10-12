@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EnergyConsumptionDetails, class/Thing/Intangible/EnergyConsumptionDetails, is_an_/EnergyConsumptionDetails, schema-org/EnergyConsumptionDetails]
-tags: ["class/EnergyConsumptionDetails", "#is_/an_/EnergyConsumptionDetails", "class/Thing/Intangible/EnergyConsumptionDetails"]
+tags: ["class/EnergyConsumptionDetails", "#is_an_/EnergyConsumptionDetails", "class/Thing/Intangible/EnergyConsumptionDetails"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/EnergyConsumptionDetails
+#is_an_/EnergyConsumptionDetails
 #class/EnergyConsumptionDetails
 #class/Thing/Intangible/EnergyConsumptionDetails
 

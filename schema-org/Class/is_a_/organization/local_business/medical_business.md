@@ -34,7 +34,7 @@ aliases:
 Class of all medical_businesss.
 
 Tag Instances like this: 
-#is_/a_/medical_business
+#is_a_/medical_business
 
 A particular physical or virtual business of an organization for medical purposes. Examples of MedicalBusiness include different businesses run by health professionals.
 

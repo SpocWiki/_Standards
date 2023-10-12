@@ -52,8 +52,8 @@ Semantic Graphs are much richer and allow for automated inference of Information
 	* Date and Time: are written in ISO Format with Tags like #has_/date/_ .  Missing Time indicates Noon; missing Date indicates a periodic Event
 	* Durations: start with #has_/duration/_ and are specified using the ISO-Notation P#Y#M#DT#H#M#S.### 
 	* Urls: usually specify Web-Addresses using #has_/url_for_/, but may also be URIs which are only (unique) Identifiers 
-	* Flags: Tags are Boolean Properties/Attribute and can be applied using #is_/_/ or #is_/not_/  
-	* Types: common Type(s) of Entities can be specified by Tags #is_/a_/ or #is_/an_/ followed by the Class Name 
+	* Flags: Tags are Boolean Properties/Attribute and can be applied using #is_/ or #is_not_/  
+	* Types: common Type(s) of Entities can be specified by Tags #is_a_/ or #is_an_/ followed by the Class Name 
 	* Lists: are Values enclosed in [ square Brackets, separated by Commas ] . 
 
 Entering these Predicates is supported by #Tags of the same name, which are also supported in the FrontMatter (unlike [ [Links]]). These Tags are structured further to support drill-down and to distinguish them from ad-hoc Tags: 

@@ -34,7 +34,7 @@ aliases:
 Class of all opticians.
 
 Tag Instances like this: 
-#is_/an_/optician
+#is_an_/optician
 
 A store that sells reading glasses and similar devices for improving vision.
 

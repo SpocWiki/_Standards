@@ -34,7 +34,7 @@ aliases:
 Class of all medical_intangibles.
 
 Tag Instances like this: 
-#is_/a_/medical_intangible
+#is_a_/medical_intangible
 
 A utility class that serves as the umbrella for a number of 'intangible' things in the medical space.
 

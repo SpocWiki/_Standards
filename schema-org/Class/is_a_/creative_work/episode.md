@@ -34,7 +34,7 @@ aliases:
 Class of all episodes.
 
 Tag Instances like this: 
-#is_/an_/episode
+#is_an_/episode
 
 A media episode (e.g. TV, radio, video game) which can be part of a series or season.
 

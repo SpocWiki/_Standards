@@ -34,7 +34,7 @@ aliases:
 Class of all reservation_status_types.
 
 Tag Instances like this: 
-#is_/a_/reservation_status_type
+#is_a_/reservation_status_type
 
 Enumerated status values for Reservation.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all chiropractics.
 
 Tag Instances like this: 
-#is_/a_/chiropractic
+#is_a_/chiropractic
 
 A system of medicine focused on the relationship between the body's structure, mainly the spine, and its functioning.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all venue_maps.
 
 Tag Instances like this: 
-#is_/a_/venue_map
+#is_a_/venue_map
 
 A venue map (e.g. for malls, auditoriums, museums, etc.).
 

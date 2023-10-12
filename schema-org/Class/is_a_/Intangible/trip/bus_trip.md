@@ -34,7 +34,7 @@ aliases:
 Class of all bus_trips.
 
 Tag Instances like this: 
-#is_/a_/bus_trip
+#is_a_/bus_trip
 
 A trip on a commercial bus line.
 

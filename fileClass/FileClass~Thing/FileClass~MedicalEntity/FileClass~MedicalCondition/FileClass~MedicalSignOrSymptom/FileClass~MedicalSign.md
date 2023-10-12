@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalSign, class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign, is_a_/MedicalSign, schema-org/MedicalSign]
-tags: ["class/MedicalSign", "#is_/a_/MedicalSign", "class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign"]
+tags: ["class/MedicalSign", "#is_a_/MedicalSign", "class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom
 ---
 
@@ -17,7 +17,7 @@ Any physical manifestation of a person's medical condition discoverable by objec
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalSign
+#is_a_/MedicalSign
 #class/MedicalSign
 #class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign
 

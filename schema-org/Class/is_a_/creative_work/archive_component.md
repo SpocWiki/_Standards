@@ -34,7 +34,7 @@ aliases:
 Class of all archive_components.
 
 Tag Instances like this: 
-#is_/an_/archive_component
+#is_an_/archive_component
 
 [ #is_/part_of :: https://pending.schema.org ]
 

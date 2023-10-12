@@ -36,7 +36,7 @@ aliases:
 Class of all osteopathics.
 
 Tag Instances like this: 
-#is_/an_/osteopathic
+#is_an_/osteopathic
 
 A system of medicine focused on promoting the body's innate ability to heal itself.
 

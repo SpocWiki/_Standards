@@ -34,7 +34,7 @@ aliases:
 Class of all boarding_policy_types.
 
 Tag Instances like this: 
-#is_/a_/boarding_policy_type
+#is_a_/boarding_policy_type
 
 A type of boarding policy used by an airline.
 

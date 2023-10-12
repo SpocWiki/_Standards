@@ -34,7 +34,7 @@ aliases:
 Class of all ligaments.
 
 Tag Instances like this: 
-#is_/a_/ligament
+#is_a_/ligament
 
 A short band of tough, flexible, fibrous connective tissue that functions to connect multiple bones, cartilages, and structurally support joints.
 

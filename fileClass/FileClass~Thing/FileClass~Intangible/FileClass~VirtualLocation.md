@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/VirtualLocation, class/Thing/Intangible/VirtualLocation, is_a_/VirtualLocation, schema-org/VirtualLocation]
-tags: ["class/VirtualLocation", "#is_/a_/VirtualLocation", "class/Thing/Intangible/VirtualLocation"]
+tags: ["class/VirtualLocation", "#is_a_/VirtualLocation", "class/Thing/Intangible/VirtualLocation"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ An online or virtual location for attending events. For example, one may attend 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/VirtualLocation
+#is_a_/VirtualLocation
 #class/VirtualLocation
 #class/Thing/Intangible/VirtualLocation
 

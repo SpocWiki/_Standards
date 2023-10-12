@@ -34,7 +34,7 @@ aliases:
 Class of all defined_regions.
 
 Tag Instances like this: 
-#is_/a_/defined_region
+#is_a_/defined_region
 
 [ #is_/part_of :: https://pending.schema.org ]
 

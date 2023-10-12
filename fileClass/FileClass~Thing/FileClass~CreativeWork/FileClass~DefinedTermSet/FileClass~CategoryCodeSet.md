@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CategoryCodeSet, class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet, is_a_/CategoryCodeSet, schema-org/CategoryCodeSet]
-tags: ["class/CategoryCodeSet", "#is_/a_/CategoryCodeSet", "class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet"]
+tags: ["class/CategoryCodeSet", "#is_a_/CategoryCodeSet", "class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet
 ---
 
@@ -17,7 +17,7 @@ A set of Category Code values.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CategoryCodeSet
+#is_a_/CategoryCodeSet
 #class/CategoryCodeSet
 #class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet
 

@@ -36,7 +36,7 @@ aliases:
 Class of all skins.
 
 Tag Instances like this: 
-#is_/a_/skin
+#is_a_/skin
 
 Skin assessment with clinical examination.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all cafe_or_coffee_shops.
 
 Tag Instances like this: 
-#is_/a_/cafe_or_coffee_shop
+#is_a_/cafe_or_coffee_shop
 
 A cafe or coffee shop.
 

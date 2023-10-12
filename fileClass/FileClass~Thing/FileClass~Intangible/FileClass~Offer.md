@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Offer, class/Thing/Intangible/Offer, is_an_/Offer, schema-org/Offer]
-tags: ["class/Offer", "#is_/an_/Offer", "class/Thing/Intangible/Offer"]
+tags: ["class/Offer", "#is_an_/Offer", "class/Thing/Intangible/Offer"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -21,7 +21,7 @@ For [GTIN](http://www.gs1.org/barcodes/technical/idkeys/gtin)-related fields, se
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Offer
+#is_an_/Offer
 #class/Offer
 #class/Thing/Intangible/Offer
 

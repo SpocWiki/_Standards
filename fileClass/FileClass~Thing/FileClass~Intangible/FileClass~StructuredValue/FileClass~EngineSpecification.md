@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EngineSpecification, class/Thing/Intangible/StructuredValue/EngineSpecification, is_an_/EngineSpecification, schema-org/EngineSpecification]
-tags: ["class/EngineSpecification", "#is_/an_/EngineSpecification", "class/Thing/Intangible/StructuredValue/EngineSpecification"]
+tags: ["class/EngineSpecification", "#is_an_/EngineSpecification", "class/Thing/Intangible/StructuredValue/EngineSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ Information about the engine of the vehicle. A vehicle can have multiple engines
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/EngineSpecification
+#is_an_/EngineSpecification
 #class/EngineSpecification
 #class/Thing/Intangible/StructuredValue/EngineSpecification
 

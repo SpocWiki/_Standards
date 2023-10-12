@@ -34,7 +34,7 @@ aliases:
 Class of all garden_stores.
 
 Tag Instances like this: 
-#is_/a_/garden_store
+#is_a_/garden_store
 
 A garden store.
 

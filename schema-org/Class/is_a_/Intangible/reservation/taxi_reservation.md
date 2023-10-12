@@ -34,7 +34,7 @@ aliases:
 Class of all taxi_reservations.
 
 Tag Instances like this: 
-#is_/a_/taxi_reservation
+#is_a_/taxi_reservation
 
 A reservation for a taxi.
 

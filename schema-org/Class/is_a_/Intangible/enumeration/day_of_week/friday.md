@@ -36,7 +36,7 @@ aliases:
 Class of all fridays.
 
 Tag Instances like this: 
-#is_/a_/friday
+#is_a_/friday
 
 The day of the week between Thursday and Saturday.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all digital_document_permission_types.
 
 Tag Instances like this: 
-#is_/a_/digital_document_permission_type
+#is_a_/digital_document_permission_type
 
 A type of permission which can be granted for accessing a digital document.
 

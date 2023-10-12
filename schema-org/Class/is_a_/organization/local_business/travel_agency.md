@@ -34,7 +34,7 @@ aliases:
 Class of all travel_agencys.
 
 Tag Instances like this: 
-#is_/a_/travel_agency
+#is_a_/travel_agency
 
 A travel agency.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all bank_or_credit_unions.
 
 Tag Instances like this: 
-#is_/a_/bank_or_credit_union
+#is_a_/bank_or_credit_union
 
 Bank or credit union.
 

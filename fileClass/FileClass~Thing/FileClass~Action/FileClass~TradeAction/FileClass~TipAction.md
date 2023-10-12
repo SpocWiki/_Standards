@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TipAction, class/Thing/Action/TradeAction/TipAction, is_a_/TipAction, schema-org/TipAction]
-tags: ["class/TipAction", "#is_/a_/TipAction", "class/Thing/Action/TradeAction/TipAction"]
+tags: ["class/TipAction", "#is_a_/TipAction", "class/Thing/Action/TradeAction/TipAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---
 
@@ -17,7 +17,7 @@ The act of giving money voluntarily to a beneficiary in recognition of services 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TipAction
+#is_a_/TipAction
 #class/TipAction
 #class/Thing/Action/TradeAction/TipAction
 

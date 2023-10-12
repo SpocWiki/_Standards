@@ -34,7 +34,7 @@ aliases:
 Class of all creative_work_seriess.
 
 Tag Instances like this: 
-#is_/a_/creative_work_series
+#is_a_/creative_work_series
 
 A CreativeWorkSeries in schema.org is a group of related items, typically but not necessarily of the same kind. CreativeWorkSeries are usually organized into some order, often chronological. Unlike <a class="localLink" href="/ItemList">ItemList</a> which is a general purpose data structure for lists of things, the emphasis with CreativeWorkSeries is on published materials (written e.g. books and periodicals, or media such as TV, radio and games).
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WorkBasedProgram, class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram, is_a_/WorkBasedProgram, schema-org/WorkBasedProgram]
-tags: ["class/WorkBasedProgram", "#is_/a_/WorkBasedProgram", "class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram"]
+tags: ["class/WorkBasedProgram", "#is_a_/WorkBasedProgram", "class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram
 ---
 
@@ -17,7 +17,7 @@ A program with both an educational and employment component. Typically based at 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WorkBasedProgram
+#is_a_/WorkBasedProgram
 #class/WorkBasedProgram
 #class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram
 

@@ -36,7 +36,7 @@ aliases:
 Class of all therapeutic_procedures.
 
 Tag Instances like this: 
-#is_/a_/therapeutic_procedure
+#is_a_/therapeutic_procedure
 
 A medical procedure intended primarily for therapeutic purposes, aimed at improving a health condition.
 

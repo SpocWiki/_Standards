@@ -34,7 +34,7 @@ aliases:
 Class of all api_references.
 
 Tag Instances like this: 
-#is_/an_/api_reference
+#is_an_/api_reference
 
 Reference documentation for application programming interfaces (APIs).
 

@@ -34,7 +34,7 @@ aliases:
 Class of all search_actions.
 
 Tag Instances like this: 
-#is_/a_/search_action
+#is_a_/search_action
 
 The act of searching for an object.
 

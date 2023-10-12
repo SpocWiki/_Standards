@@ -34,7 +34,7 @@ aliases:
 Class of all questions.
 
 Tag Instances like this: 
-#is_/a_/question
+#is_a_/question
 
 A specific question - e.g. from a user seeking answers online, or collected in a Frequently Asked Questions (FAQ) document.
 

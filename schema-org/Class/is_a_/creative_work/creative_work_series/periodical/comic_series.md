@@ -34,7 +34,7 @@ aliases:
 Class of all comic_seriess.
 
 Tag Instances like this: 
-#is_/a_/comic_series
+#is_a_/comic_series
 
 [ #is_/part_of :: https://bib.schema.org ]
 

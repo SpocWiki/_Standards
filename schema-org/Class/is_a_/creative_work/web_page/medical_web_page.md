@@ -34,7 +34,7 @@ aliases:
 Class of all medical_web_pages.
 
 Tag Instances like this: 
-#is_/a_/medical_web_page
+#is_a_/medical_web_page
 
 A web page that provides medical information.
 

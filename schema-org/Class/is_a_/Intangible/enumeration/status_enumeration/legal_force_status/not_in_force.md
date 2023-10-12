@@ -36,7 +36,7 @@ aliases:
 Class of all not_in_forces.
 
 Tag Instances like this: 
-#is_/a_/not_in_force
+#is_a_/not_in_force
 
 [ #is_/part_of :: https://pending.schema.org ]
 

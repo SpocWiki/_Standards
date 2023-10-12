@@ -34,7 +34,7 @@ aliases:
 Class of all dislike_actions.
 
 Tag Instances like this: 
-#is_/a_/dislike_action
+#is_a_/dislike_action
 
 The act of expressing a negative sentiment about the object. An agent dislikes an object (a proposition, topic or theme) with participants.
 

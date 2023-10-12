@@ -34,7 +34,7 @@ aliases:
 Class of all return_method_enumerations.
 
 Tag Instances like this: 
-#is_/a_/return_method_enumeration
+#is_a_/return_method_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

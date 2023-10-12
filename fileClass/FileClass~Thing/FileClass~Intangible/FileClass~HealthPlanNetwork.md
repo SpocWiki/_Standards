@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HealthPlanNetwork, class/Thing/Intangible/HealthPlanNetwork, is_a_/HealthPlanNetwork, schema-org/HealthPlanNetwork]
-tags: ["class/HealthPlanNetwork", "#is_/a_/HealthPlanNetwork", "class/Thing/Intangible/HealthPlanNetwork"]
+tags: ["class/HealthPlanNetwork", "#is_a_/HealthPlanNetwork", "class/Thing/Intangible/HealthPlanNetwork"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A US-style health insurance plan network.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HealthPlanNetwork
+#is_a_/HealthPlanNetwork
 #class/HealthPlanNetwork
 #class/Thing/Intangible/HealthPlanNetwork
 

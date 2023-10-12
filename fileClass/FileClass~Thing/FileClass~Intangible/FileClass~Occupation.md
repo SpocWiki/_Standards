@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Occupation, class/Thing/Intangible/Occupation, is_an_/Occupation, schema-org/Occupation]
-tags: ["class/Occupation", "#is_/an_/Occupation", "class/Thing/Intangible/Occupation"]
+tags: ["class/Occupation", "#is_an_/Occupation", "class/Thing/Intangible/Occupation"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A profession, may involve prolonged training and/or a formal qualification.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Occupation
+#is_an_/Occupation
 #class/Occupation
 #class/Thing/Intangible/Occupation
 

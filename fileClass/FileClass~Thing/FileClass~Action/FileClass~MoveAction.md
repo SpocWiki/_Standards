@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MoveAction, class/Thing/Action/MoveAction, is_a_/MoveAction, schema-org/MoveAction]
-tags: ["class/MoveAction", "#is_/a_/MoveAction", "class/Thing/Action/MoveAction"]
+tags: ["class/MoveAction", "#is_a_/MoveAction", "class/Thing/Action/MoveAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 
@@ -21,7 +21,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MoveAction
+#is_a_/MoveAction
 #class/MoveAction
 #class/Thing/Action/MoveAction
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OfferForPurchase, class/Thing/Intangible/Offer/OfferForPurchase, is_an_/OfferForPurchase, schema-org/OfferForPurchase]
-tags: ["class/OfferForPurchase", "#is_/an_/OfferForPurchase", "class/Thing/Intangible/Offer/OfferForPurchase"]
+tags: ["class/OfferForPurchase", "#is_an_/OfferForPurchase", "class/Thing/Intangible/Offer/OfferForPurchase"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Offer
 ---
 
@@ -19,7 +19,7 @@ An [[OfferForPurchase]] in Schema.org represents an [[Offer]] to sell something,
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OfferForPurchase
+#is_an_/OfferForPurchase
 #class/OfferForPurchase
 #class/Thing/Intangible/Offer/OfferForPurchase
 

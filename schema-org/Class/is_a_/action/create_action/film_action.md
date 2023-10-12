@@ -34,7 +34,7 @@ aliases:
 Class of all film_actions.
 
 Tag Instances like this: 
-#is_/a_/film_action
+#is_a_/film_action
 
 The act of capturing sound and moving images on film, video, or digitally.
 

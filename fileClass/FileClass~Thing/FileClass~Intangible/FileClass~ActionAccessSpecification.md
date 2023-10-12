@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ActionAccessSpecification, class/Thing/Intangible/ActionAccessSpecification, is_an_/ActionAccessSpecification, schema-org/ActionAccessSpecification]
-tags: ["class/ActionAccessSpecification", "#is_/an_/ActionAccessSpecification", "class/Thing/Intangible/ActionAccessSpecification"]
+tags: ["class/ActionAccessSpecification", "#is_an_/ActionAccessSpecification", "class/Thing/Intangible/ActionAccessSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A set of requirements that must be fulfilled in order to perform an Action.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/ActionAccessSpecification
+#is_an_/ActionAccessSpecification
 #class/ActionAccessSpecification
 #class/Thing/Intangible/ActionAccessSpecification
 

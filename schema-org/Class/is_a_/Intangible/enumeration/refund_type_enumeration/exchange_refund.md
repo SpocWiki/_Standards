@@ -36,7 +36,7 @@ aliases:
 Class of all exchange_refunds.
 
 Tag Instances like this: 
-#is_/an_/exchange_refund
+#is_an_/exchange_refund
 
 [ #is_/part_of :: https://pending.schema.org ]
 

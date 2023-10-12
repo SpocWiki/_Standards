@@ -34,7 +34,7 @@ aliases:
 Class of all tip_actions.
 
 Tag Instances like this: 
-#is_/a_/tip_action
+#is_a_/tip_action
 
 The act of giving money voluntarily to a beneficiary in recognition of services rendered.
 

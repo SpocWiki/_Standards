@@ -34,7 +34,7 @@ aliases:
 Class of all newspapers.
 
 Tag Instances like this: 
-#is_/a_/newspaper
+#is_a_/newspaper
 
 [ #is_/part_of :: https://bib.schema.org ]
 

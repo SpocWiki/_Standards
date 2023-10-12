@@ -34,7 +34,7 @@ aliases:
 Class of all locksmiths.
 
 Tag Instances like this: 
-#is_/a_/locksmith
+#is_a_/locksmith
 
 A locksmith.
 

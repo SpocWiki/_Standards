@@ -34,7 +34,7 @@ aliases:
 Class of all reported_dose_schedules.
 
 Tag Instances like this: 
-#is_/a_/reported_dose_schedule
+#is_a_/reported_dose_schedule
 
 A patient-reported or observed dosing schedule for a drug or supplement.
 

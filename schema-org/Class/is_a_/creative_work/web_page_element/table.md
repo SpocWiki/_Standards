@@ -34,7 +34,7 @@ aliases:
 Class of all tables.
 
 Tag Instances like this: 
-#is_/a_/table
+#is_a_/table
 
 A table on a Web page.
 

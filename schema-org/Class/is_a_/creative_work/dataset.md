@@ -36,7 +36,7 @@ aliases:
 Class of all datasets.
 
 Tag Instances like this: 
-#is_/a_/dataset
+#is_a_/dataset
 
 A body of structured information describing some topic(s) of interest.
 

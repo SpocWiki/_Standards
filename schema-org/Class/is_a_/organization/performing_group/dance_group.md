@@ -34,7 +34,7 @@ aliases:
 Class of all dance_groups.
 
 Tag Instances like this: 
-#is_/a_/dance_group
+#is_a_/dance_group
 
 A dance group&#x2014;for example, the Alvin Ailey Dance Theater or Riverdance.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Brand, class/Thing/Intangible/Brand, is_a_/Brand, schema-org/Brand]
-tags: ["class/Brand", "#is_/a_/Brand", "class/Thing/Intangible/Brand"]
+tags: ["class/Brand", "#is_a_/Brand", "class/Thing/Intangible/Brand"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A brand is a name used by an organization or business person for labeling a prod
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Brand
+#is_a_/Brand
 #class/Brand
 #class/Thing/Intangible/Brand
 

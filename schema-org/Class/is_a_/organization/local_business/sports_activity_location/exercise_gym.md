@@ -34,7 +34,7 @@ aliases:
 Class of all exercise_gyms.
 
 Tag Instances like this: 
-#is_/an_/exercise_gym
+#is_an_/exercise_gym
 
 A gym.
 

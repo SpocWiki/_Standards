@@ -34,7 +34,7 @@ aliases:
 Class of all home_goods_stores.
 
 Tag Instances like this: 
-#is_/a_/home_goods_store
+#is_a_/home_goods_store
 
 A home goods store.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all respiratory_therapys.
 
 Tag Instances like this: 
-#is_/a_/respiratory_therapy
+#is_a_/respiratory_therapy
 
 The therapy that is concerned with the maintenance or improvement of respiratory function (as in patients with pulmonary disease).
 

@@ -34,7 +34,7 @@ aliases:
 Class of all complete_data_feeds.
 
 Tag Instances like this: 
-#is_/a_/complete_data_feed
+#is_a_/complete_data_feed
 
 [ #is_/part_of :: https://pending.schema.org ]
 

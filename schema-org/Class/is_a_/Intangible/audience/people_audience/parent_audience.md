@@ -34,7 +34,7 @@ aliases:
 Class of all parent_audiences.
 
 Tag Instances like this: 
-#is_/a_/parent_audience
+#is_a_/parent_audience
 
 A set of characteristics describing parents, who can be interested in viewing some content.
 

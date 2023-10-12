@@ -34,7 +34,7 @@ aliases:
 Class of all medical_signs.
 
 Tag Instances like this: 
-#is_/a_/medical_sign
+#is_a_/medical_sign
 
 Any physical manifestation of a person's medical condition discoverable by objective diagnostic tests or physical examination.
 

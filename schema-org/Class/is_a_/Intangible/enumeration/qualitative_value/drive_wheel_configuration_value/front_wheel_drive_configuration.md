@@ -36,7 +36,7 @@ aliases:
 Class of all front_wheel_drive_configurations.
 
 Tag Instances like this: 
-#is_/a_/front_wheel_drive_configuration
+#is_a_/front_wheel_drive_configuration
 
 Front-wheel drive is a transmission layout where the engine drives the front wheels.
 

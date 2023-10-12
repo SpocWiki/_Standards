@@ -36,7 +36,7 @@ aliases:
 Class of all mixed_event_attendance_modes.
 
 Tag Instances like this: 
-#is_/a_/mixed_event_attendance_mode
+#is_a_/mixed_event_attendance_mode
 
 [ #is_/part_of :: https://pending.schema.org ]
 

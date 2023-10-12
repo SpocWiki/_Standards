@@ -34,7 +34,7 @@ aliases:
 Class of all medical_indications.
 
 Tag Instances like this: 
-#is_/a_/medical_indication
+#is_a_/medical_indication
 
 A condition or factor that indicates use of a medical therapy, including signs, symptoms, risk factors, anatomical states, etc.
 

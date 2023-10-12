@@ -34,7 +34,7 @@ aliases:
 Class of all seats.
 
 Tag Instances like this: 
-#is_/a_/seat
+#is_a_/seat
 
 Used to describe a seat, such as a reserved seat in an event reservation.
 

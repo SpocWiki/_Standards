@@ -34,7 +34,7 @@ aliases:
 Class of all corporations.
 
 Tag Instances like this: 
-#is_/a_/corporation
+#is_a_/corporation
 
 Organization: A business corporation.
 

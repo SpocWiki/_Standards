@@ -38,7 +38,7 @@ aliases:
 Class of all merchant_return_finite_return_windows.
 
 Tag Instances like this: 
-#is_/a_/merchant_return_finite_return_window
+#is_a_/merchant_return_finite_return_window
 
 [ #is_/part_of :: https://pending.schema.org ]
 

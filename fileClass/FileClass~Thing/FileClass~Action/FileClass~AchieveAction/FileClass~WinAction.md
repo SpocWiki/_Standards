@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WinAction, class/Thing/Action/AchieveAction/WinAction, is_a_/WinAction, schema-org/WinAction]
-tags: ["class/WinAction", "#is_/a_/WinAction", "class/Thing/Action/AchieveAction/WinAction"]
+tags: ["class/WinAction", "#is_a_/WinAction", "class/Thing/Action/AchieveAction/WinAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 ---
 
@@ -17,7 +17,7 @@ The act of achieving victory in a competitive activity.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WinAction
+#is_a_/WinAction
 #class/WinAction
 #class/Thing/Action/AchieveAction/WinAction
 

@@ -34,7 +34,7 @@ aliases:
 Class of all music_albums.
 
 Tag Instances like this: 
-#is_/a_/music_album
+#is_a_/music_album
 
 A collection of music tracks.
 

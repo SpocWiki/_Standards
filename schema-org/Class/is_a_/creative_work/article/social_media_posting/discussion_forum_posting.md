@@ -34,7 +34,7 @@ aliases:
 Class of all discussion_forum_postings.
 
 Tag Instances like this: 
-#is_/a_/discussion_forum_posting
+#is_a_/discussion_forum_posting
 
 A posting to a discussion forum.
 

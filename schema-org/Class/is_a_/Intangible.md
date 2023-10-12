@@ -34,7 +34,7 @@ aliases:
 Class of all intangibles.
 
 Tag Instances like this: 
-#is_/an_/intangible
+#is_an_/intangible
 
 A utility class that serves as the umbrella for a number of 'intangible' things such as [Quantities](../../Predicate/Quantity.md), [Structured Values](Intangible/structured_value.md), etc.
 

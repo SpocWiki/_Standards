@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ProductModel, class/Thing/Product/ProductModel, is_a_/ProductModel, schema-org/ProductModel]
-tags: ["class/ProductModel", "#is_/a_/ProductModel", "class/Thing/Product/ProductModel"]
+tags: ["class/ProductModel", "#is_a_/ProductModel", "class/Thing/Product/ProductModel"]
 extends: FileClass~Thing/FileClass~Product
 ---
 
@@ -17,7 +17,7 @@ A datasheet or vendor specification of a product (in the sense of a prototypical
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ProductModel
+#is_a_/ProductModel
 #class/ProductModel
 #class/Thing/Product/ProductModel
 

@@ -5,7 +5,7 @@ excludes:
 icon: graduation-cap
 version: 5
 tagNames: [class/Thesis, class/Thing/CreativeWork/Thesis, is_a_/Thesis, schema-org/Thesis]
-tags: ["class/Thesis", "#is_/a_/Thesis", "class/Thing/CreativeWork/Thesis"]
+tags: ["class/Thesis", "#is_a_/Thesis", "class/Thing/CreativeWork/Thesis"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A thesis or dissertation document submitted in support of candidature for an aca
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Thesis
+#is_a_/Thesis
 #class/Thesis
 #class/Thing/CreativeWork/Thesis
 

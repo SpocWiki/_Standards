@@ -34,7 +34,7 @@ aliases:
 Class of all bones.
 
 Tag Instances like this: 
-#is_/a_/bone
+#is_a_/bone
 
 Rigid connective tissue that comprises up the skeletal structure of the human body.
 

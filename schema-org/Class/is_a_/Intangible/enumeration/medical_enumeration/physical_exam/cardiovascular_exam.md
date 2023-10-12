@@ -36,7 +36,7 @@ aliases:
 Class of all cardiovascular_exams.
 
 Tag Instances like this: 
-#is_/a_/cardiovascular_exam
+#is_a_/cardiovascular_exam
 
 Cardiovascular system assessment with clinical examination.
 

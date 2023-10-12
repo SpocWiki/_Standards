@@ -36,7 +36,7 @@ aliases:
 Class of all spoken_word_albums.
 
 Tag Instances like this: 
-#is_/a_/spoken_word_album
+#is_a_/spoken_word_album
 
 SpokenWordAlbum.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all install_actions.
 
 Tag Instances like this: 
-#is_/an_/install_action
+#is_an_/install_action
 
 The act of installing an application.
 

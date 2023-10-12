@@ -36,7 +36,7 @@ aliases:
 Class of all heads.
 
 Tag Instances like this: 
-#is_/a_/head
+#is_a_/head
 
 Head assessment with clinical examination.
 

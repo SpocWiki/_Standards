@@ -34,7 +34,7 @@ aliases:
 Class of all site_navigation_elements.
 
 Tag Instances like this: 
-#is_/a_/site_navigation_element
+#is_a_/site_navigation_element
 
 A navigation element of the page.
 

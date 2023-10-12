@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ViewAction, class/Thing/Action/ConsumeAction/ViewAction, is_a_/ViewAction, schema-org/ViewAction]
-tags: ["class/ViewAction", "#is_/a_/ViewAction", "class/Thing/Action/ConsumeAction/ViewAction"]
+tags: ["class/ViewAction", "#is_a_/ViewAction", "class/Thing/Action/ConsumeAction/ViewAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 ---
 
@@ -17,7 +17,7 @@ The act of consuming static visual content.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ViewAction
+#is_a_/ViewAction
 #class/ViewAction
 #class/Thing/Action/ConsumeAction/ViewAction
 

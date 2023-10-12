@@ -34,7 +34,7 @@ aliases:
 Class of all bridges.
 
 Tag Instances like this: 
-#is_/a_/bridge
+#is_a_/bridge
 
 A bridge.
 

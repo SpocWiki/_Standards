@@ -34,7 +34,7 @@ aliases:
 Class of all un_register_actions.
 
 Tag Instances like this: 
-#is_/an_/un_register_action
+#is_an_/un_register_action
 
 The act of un-registering from a service.
 

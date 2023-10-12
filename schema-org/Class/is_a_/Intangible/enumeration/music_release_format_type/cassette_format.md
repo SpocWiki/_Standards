@@ -36,7 +36,7 @@ aliases:
 Class of all cassette_formats.
 
 Tag Instances like this: 
-#is_/a_/cassette_format
+#is_a_/cassette_format
 
 CassetteFormat.
 

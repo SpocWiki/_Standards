@@ -34,7 +34,7 @@ aliases:
 Class of all play_game_actions.
 
 Tag Instances like this: 
-#is_/a_/play_game_action
+#is_a_/play_game_action
 
 [ #is_/part_of :: https://pending.schema.org ]
 

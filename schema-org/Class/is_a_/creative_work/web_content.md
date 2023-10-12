@@ -34,7 +34,7 @@ aliases:
 Class of all web_contents.
 
 Tag Instances like this: 
-#is_/a_/web_content
+#is_a_/web_content
 
 [ #is_/part_of :: https://pending.schema.org ]
 

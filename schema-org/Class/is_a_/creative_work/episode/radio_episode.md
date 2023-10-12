@@ -34,7 +34,7 @@ aliases:
 Class of all radio_episodes.
 
 Tag Instances like this: 
-#is_/a_/radio_episode
+#is_a_/radio_episode
 
 A radio episode which can be part of a series or season.
 

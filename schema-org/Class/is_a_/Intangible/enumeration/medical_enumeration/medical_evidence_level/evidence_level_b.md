@@ -36,7 +36,7 @@ aliases:
 Class of all evidence_level_bs.
 
 Tag Instances like this: 
-#is_/an_/evidence_level_b
+#is_an_/evidence_level_b
 
 Data derived from a single randomized trial, or nonrandomized studies.
 

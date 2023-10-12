@@ -34,7 +34,7 @@ aliases:
 Class of all broadcast_channels.
 
 Tag Instances like this: 
-#is_/a_/broadcast_channel
+#is_a_/broadcast_channel
 
 A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 

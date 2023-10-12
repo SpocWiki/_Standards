@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MoneyTransfer, class/Thing/Action/TransferAction/MoneyTransfer, is_a_/MoneyTransfer, schema-org/MoneyTransfer]
-tags: ["class/MoneyTransfer", "#is_/a_/MoneyTransfer", "class/Thing/Action/TransferAction/MoneyTransfer"]
+tags: ["class/MoneyTransfer", "#is_a_/MoneyTransfer", "class/Thing/Action/TransferAction/MoneyTransfer"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 
@@ -17,7 +17,7 @@ The act of transferring money from one place to another place. This may occur el
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MoneyTransfer
+#is_a_/MoneyTransfer
 #class/MoneyTransfer
 #class/Thing/Action/TransferAction/MoneyTransfer
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WebSite, class/Thing/CreativeWork/WebSite, is_a_/WebSite, schema-org/WebSite]
-tags: ["class/WebSite", "#is_/a_/WebSite", "class/Thing/CreativeWork/WebSite"]
+tags: ["class/WebSite", "#is_a_/WebSite", "class/Thing/CreativeWork/WebSite"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A WebSite is a set of related web pages and other items typically served from a 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/WebSite
+#is_a_/WebSite
 #class/WebSite
 #class/Thing/CreativeWork/WebSite
 

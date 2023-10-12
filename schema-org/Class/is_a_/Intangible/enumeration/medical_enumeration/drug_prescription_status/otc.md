@@ -36,7 +36,7 @@ aliases:
 Class of all otcs.
 
 Tag Instances like this: 
-#is_/an_/otc
+#is_an_/otc
 
 The character of a medical substance, typically a medicine, of being available over the counter or not.
 

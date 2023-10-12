@@ -34,7 +34,7 @@ aliases:
 Class of all prevention_indications.
 
 Tag Instances like this: 
-#is_/a_/prevention_indication
+#is_a_/prevention_indication
 
 An indication for preventing an underlying condition, symptom, etc.
 

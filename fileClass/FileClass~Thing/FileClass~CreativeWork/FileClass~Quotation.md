@@ -5,7 +5,7 @@ excludes:
 icon: quote
 version: 5
 tagNames: [class/Quotation, class/Thing/CreativeWork/Quotation, is_a_/Quotation, schema-org/Quotation]
-tags: ["class/Quotation", "#is_/a_/Quotation", "class/Thing/CreativeWork/Quotation"]
+tags: ["class/Quotation", "#is_a_/Quotation", "class/Thing/CreativeWork/Quotation"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A quotation. Often but not necessarily from some written work, attributable to a
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Quotation
+#is_a_/Quotation
 #class/Quotation
 #class/Thing/CreativeWork/Quotation
 

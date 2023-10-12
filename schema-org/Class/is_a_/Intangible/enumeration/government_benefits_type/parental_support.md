@@ -36,7 +36,7 @@ aliases:
 Class of all parental_supports.
 
 Tag Instances like this: 
-#is_/a_/parental_support
+#is_a_/parental_support
 
 [ #is_/part_of :: https://pending.schema.org ]
 

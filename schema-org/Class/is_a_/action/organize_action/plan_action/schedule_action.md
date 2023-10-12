@@ -34,7 +34,7 @@ aliases:
 Class of all schedule_actions.
 
 Tag Instances like this: 
-#is_/a_/schedule_action
+#is_a_/schedule_action
 
 Scheduling future actions, events, or tasks.
 

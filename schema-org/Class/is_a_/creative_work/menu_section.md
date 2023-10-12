@@ -34,7 +34,7 @@ aliases:
 Class of all menu_sections.
 
 Tag Instances like this: 
-#is_/a_/menu_section
+#is_a_/menu_section
 
 A sub-grouping of food or drink items in a menu. E.g. courses (such as 'Dinner', 'Breakfast', etc.), specific type of dishes (such as 'Meat', 'Vegan', 'Drinks', etc.), or some other classification made by the menu provider.
 

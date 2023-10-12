@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DrugCost, class/Thing/MedicalEntity/DrugCost, is_a_/DrugCost, schema-org/DrugCost]
-tags: ["class/DrugCost", "#is_/a_/DrugCost", "class/Thing/MedicalEntity/DrugCost"]
+tags: ["class/DrugCost", "#is_a_/DrugCost", "class/Thing/MedicalEntity/DrugCost"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ The cost per unit of a medical drug. Note that this type is not meant to represe
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DrugCost
+#is_a_/DrugCost
 #class/DrugCost
 #class/Thing/MedicalEntity/DrugCost
 

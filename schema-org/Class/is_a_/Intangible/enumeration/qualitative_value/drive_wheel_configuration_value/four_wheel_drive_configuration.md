@@ -36,7 +36,7 @@ aliases:
 Class of all four_wheel_drive_configurations.
 
 Tag Instances like this: 
-#is_/a_/four_wheel_drive_configuration
+#is_a_/four_wheel_drive_configuration
 
 Four-wheel drive is a transmission layout where the engine primarily drives two wheels with a part-time four-wheel drive capability.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all gas_stations.
 
 Tag Instances like this: 
-#is_/a_/gas_station
+#is_a_/gas_station
 
 A gas station.
 

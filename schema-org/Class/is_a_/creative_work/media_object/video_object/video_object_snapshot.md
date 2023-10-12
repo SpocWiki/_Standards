@@ -34,7 +34,7 @@ aliases:
 Class of all video_object_snapshots.
 
 Tag Instances like this: 
-#is_/a_/video_object_snapshot
+#is_a_/video_object_snapshot
 
 [ #is_/part_of :: https://pending.schema.org ]
 

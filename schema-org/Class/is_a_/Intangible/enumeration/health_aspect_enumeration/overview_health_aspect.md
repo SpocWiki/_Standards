@@ -36,7 +36,7 @@ aliases:
 Class of all overview_health_aspects.
 
 Tag Instances like this: 
-#is_/an_/overview_health_aspect
+#is_an_/overview_health_aspect
 
 [ #is_/part_of :: https://pending.schema.org ]
 

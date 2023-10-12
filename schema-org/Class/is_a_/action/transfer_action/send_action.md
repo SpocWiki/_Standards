@@ -34,7 +34,7 @@ aliases:
 Class of all send_actions.
 
 Tag Instances like this: 
-#is_/a_/send_action
+#is_a_/send_action
 
 The act of physically/electronically dispatching an object for transfer from an origin to a destination. Related actions:
 

@@ -34,7 +34,7 @@ aliases:
 Class of all boat_trips.
 
 Tag Instances like this: 
-#is_/a_/boat_trip
+#is_a_/boat_trip
 
 [ #is_/part_of :: https://pending.schema.org ]
 

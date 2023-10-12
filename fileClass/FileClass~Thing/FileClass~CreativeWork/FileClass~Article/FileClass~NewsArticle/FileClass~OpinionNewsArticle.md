@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OpinionNewsArticle, class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle, is_an_/OpinionNewsArticle, schema-org/OpinionNewsArticle]
-tags: ["class/OpinionNewsArticle", "#is_/an_/OpinionNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle"]
+tags: ["class/OpinionNewsArticle", "#is_an_/OpinionNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 ---
 
@@ -17,7 +17,7 @@ An [[OpinionNewsArticle]] is a [[NewsArticle]] that primarily expresses opinions
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/OpinionNewsArticle
+#is_an_/OpinionNewsArticle
 #class/OpinionNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle
 

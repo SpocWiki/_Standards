@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReturnAction, class/Thing/Action/TransferAction/ReturnAction, is_a_/ReturnAction, schema-org/ReturnAction]
-tags: ["class/ReturnAction", "#is_/a_/ReturnAction", "class/Thing/Action/TransferAction/ReturnAction"]
+tags: ["class/ReturnAction", "#is_a_/ReturnAction", "class/Thing/Action/TransferAction/ReturnAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 
@@ -17,7 +17,7 @@ The act of returning to the origin that which was previously received (concrete 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ReturnAction
+#is_a_/ReturnAction
 #class/ReturnAction
 #class/Thing/Action/TransferAction/ReturnAction
 

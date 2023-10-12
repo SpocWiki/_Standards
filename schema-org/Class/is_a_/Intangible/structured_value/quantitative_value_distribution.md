@@ -34,7 +34,7 @@ aliases:
 Class of all quantitative_value_distributions.
 
 Tag Instances like this: 
-#is_/a_/quantitative_value_distribution
+#is_a_/quantitative_value_distribution
 
 A statistical distribution of values.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all floor_plans.
 
 Tag Instances like this: 
-#is_/a_/floor_plan
+#is_a_/floor_plan
 
 [ #is_/part_of :: https://pending.schema.org ]
 

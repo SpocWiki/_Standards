@@ -34,7 +34,7 @@ aliases:
 Class of all review_actions.
 
 Tag Instances like this: 
-#is_/a_/review_action
+#is_a_/review_action
 
 The act of producing a balanced opinion about the object for an audience. An agent reviews an object with participants resulting in a review.
 

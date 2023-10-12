@@ -36,7 +36,7 @@ aliases:
 Class of all broadcast_releases.
 
 Tag Instances like this: 
-#is_/a_/broadcast_release
+#is_a_/broadcast_release
 
 BroadcastRelease.
 

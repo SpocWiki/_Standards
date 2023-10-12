@@ -34,7 +34,7 @@ aliases:
 Class of all follow_actions.
 
 Tag Instances like this: 
-#is_/a_/follow_action
+#is_a_/follow_action
 
 The act of forming a personal connection with someone/something (object) unidirectionally/asymmetrically to get updates polled from.
 

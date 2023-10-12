@@ -36,7 +36,7 @@ aliases:
 Class of all risks_or_complications_health_aspects.
 
 Tag Instances like this: 
-#is_/a_/risks_or_complications_health_aspect
+#is_a_/risks_or_complications_health_aspect
 
 [ #is_/part_of :: https://pending.schema.org ]
 

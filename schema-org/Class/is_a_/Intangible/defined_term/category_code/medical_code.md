@@ -34,7 +34,7 @@ aliases:
 Class of all medical_codes.
 
 Tag Instances like this: 
-#is_/a_/medical_code
+#is_a_/medical_code
 
 
 [ #is_/sub_class_of :: [[../CategoryCode, MedicalIntangible]] ]

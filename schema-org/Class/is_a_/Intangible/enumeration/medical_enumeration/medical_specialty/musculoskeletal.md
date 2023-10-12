@@ -36,7 +36,7 @@ aliases:
 Class of all musculoskeletals.
 
 Tag Instances like this: 
-#is_/a_/musculoskeletal
+#is_a_/musculoskeletal
 
 A specific branch of medical science that pertains to diagnosis and treatment of disorders of muscles, ligaments and skeletal system.
 

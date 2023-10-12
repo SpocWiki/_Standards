@@ -36,7 +36,7 @@ aliases:
 Class of all seating_maps.
 
 Tag Instances like this: 
-#is_/a_/seating_map
+#is_a_/seating_map
 
 A seating map.
 

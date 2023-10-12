@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Article, class/Thing/CreativeWork/Article, is_an_/Article, schema-org/Article]
-tags: ["class/Article", "#is_/an_/Article", "class/Thing/CreativeWork/Article"]
+tags: ["class/Article", "#is_an_/Article", "class/Thing/CreativeWork/Article"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -19,7 +19,7 @@ See also [blog post](http://blog.schema.org/2014/09/schemaorg-support-for-biblio
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/Article
+#is_an_/Article
 #class/Article
 #class/Thing/CreativeWork/Article
 

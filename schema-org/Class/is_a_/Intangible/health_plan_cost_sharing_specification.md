@@ -34,7 +34,7 @@ aliases:
 Class of all health_plan_cost_sharing_specifications.
 
 Tag Instances like this: 
-#is_/a_/health_plan_cost_sharing_specification
+#is_a_/health_plan_cost_sharing_specification
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Chapter, class/Thing/CreativeWork/Chapter, is_a_/Chapter, schema-org/Chapter]
-tags: ["class/Chapter", "#is_/a_/Chapter", "class/Thing/CreativeWork/Chapter"]
+tags: ["class/Chapter", "#is_a_/Chapter", "class/Thing/CreativeWork/Chapter"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ One of the sections into which a book is divided. A chapter usually has a sectio
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Chapter
+#is_a_/Chapter
 #class/Chapter
 #class/Thing/CreativeWork/Chapter
 

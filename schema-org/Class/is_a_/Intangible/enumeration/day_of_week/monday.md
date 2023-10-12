@@ -36,7 +36,7 @@ aliases:
 Class of all mondays.
 
 Tag Instances like this: 
-#is_/a_/monday
+#is_a_/monday
 
 The day of the week between Sunday and Tuesday.
 

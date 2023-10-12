@@ -34,7 +34,7 @@ aliases:
 Class of all statements.
 
 Tag Instances like this: 
-#is_/a_/statement
+#is_a_/statement
 
 [ #is_/part_of :: https://pending.schema.org ]
 

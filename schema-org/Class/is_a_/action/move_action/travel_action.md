@@ -34,7 +34,7 @@ aliases:
 Class of all travel_actions.
 
 Tag Instances like this: 
-#is_/a_/travel_action
+#is_a_/travel_action
 
 The act of traveling from a fromLocation to a destination by a specified mode of transport, optionally with participants.
 

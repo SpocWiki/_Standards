@@ -29,7 +29,7 @@ aliases:
 Class of all places.
 
 Tag Instances like this: 
-#is_/a_/place
+#is_a_/place
 
 Entities that have a somewhat fixed, physical extension.
 

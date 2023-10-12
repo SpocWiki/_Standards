@@ -36,7 +36,7 @@ aliases:
 Class of all reduced_relevance_for_children_considerations.
 
 Tag Instances like this: 
-#is_/a_/reduced_relevance_for_children_consideration
+#is_a_/reduced_relevance_for_children_consideration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all audiobooks.
 
 Tag Instances like this: 
-#is_/an_/audiobook
+#is_an_/audiobook
 
 [ #is_/part_of :: https://bib.schema.org ]
 

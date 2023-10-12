@@ -36,7 +36,7 @@ aliases:
 Class of all nonprofit_sbbis.
 
 Tag Instances like this: 
-#is_/a_/nonprofit_sbbi
+#is_a_/nonprofit_sbbi
 
 [ #is_/part_of :: https://pending.schema.org ]
 

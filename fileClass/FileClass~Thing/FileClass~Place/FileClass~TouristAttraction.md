@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TouristAttraction, class/Thing/Place/TouristAttraction, is_a_/TouristAttraction, schema-org/TouristAttraction]
-tags: ["class/TouristAttraction", "#is_/a_/TouristAttraction", "class/Thing/Place/TouristAttraction"]
+tags: ["class/TouristAttraction", "#is_a_/TouristAttraction", "class/Thing/Place/TouristAttraction"]
 extends: FileClass~Thing/FileClass~Place
 ---
 
@@ -17,7 +17,7 @@ A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], fr
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/TouristAttraction
+#is_a_/TouristAttraction
 #class/TouristAttraction
 #class/Thing/Place/TouristAttraction
 

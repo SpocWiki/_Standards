@@ -34,7 +34,7 @@ aliases:
 Class of all administrative_areas.
 
 Tag Instances like this: 
-#is_/an_/administrative_area
+#is_an_/administrative_area
 
 A geographical region, typically under the jurisdiction of a particular government.
 

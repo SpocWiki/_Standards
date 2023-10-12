@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Substance, class/Thing/MedicalEntity/Substance, is_a_/Substance, schema-org/Substance]
-tags: ["class/Substance", "#is_/a_/Substance", "class/Thing/MedicalEntity/Substance"]
+tags: ["class/Substance", "#is_a_/Substance", "class/Thing/MedicalEntity/Substance"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ Any matter of defined composition that has discrete existence, whose origin may 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Substance
+#is_a_/Substance
 #class/Substance
 #class/Thing/MedicalEntity/Substance
 

@@ -34,7 +34,7 @@ aliases:
 Class of all grocery_stores.
 
 Tag Instances like this: 
-#is_/a_/grocery_store
+#is_a_/grocery_store
 
 A grocery store.
 

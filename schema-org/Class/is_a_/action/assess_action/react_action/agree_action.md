@@ -34,7 +34,7 @@ aliases:
 Class of all agree_actions.
 
 Tag Instances like this: 
-#is_/an_/agree_action
+#is_an_/agree_action
 
 The act of expressing a consistency of opinion with the object. An agent agrees to/about an object (a proposition, topic or theme) with participants.
 

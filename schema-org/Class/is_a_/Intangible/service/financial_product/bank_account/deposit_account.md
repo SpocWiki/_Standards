@@ -34,7 +34,7 @@ aliases:
 Class of all deposit_accounts.
 
 Tag Instances like this: 
-#is_/a_/deposit_account
+#is_a_/deposit_account
 
 A type of Bank Account with a main purpose of depositing funds to gain interest or other benefits.
 

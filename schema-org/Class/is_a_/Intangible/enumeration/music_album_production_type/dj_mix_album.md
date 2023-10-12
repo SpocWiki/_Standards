@@ -36,7 +36,7 @@ aliases:
 Class of all dj_mix_albums.
 
 Tag Instances like this: 
-#is_/a_/dj_mix_album
+#is_a_/dj_mix_album
 
 DJMixAlbum.
 

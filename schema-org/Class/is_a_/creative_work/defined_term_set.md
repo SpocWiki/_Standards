@@ -34,7 +34,7 @@ aliases:
 Class of all defined_term_sets.
 
 Tag Instances like this: 
-#is_/a_/defined_term_set
+#is_a_/defined_term_set
 
 [ #is_/part_of :: https://pending.schema.org ]
 

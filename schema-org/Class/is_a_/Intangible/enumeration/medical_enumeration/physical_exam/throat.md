@@ -36,7 +36,7 @@ aliases:
 Class of all throats.
 
 Tag Instances like this: 
-#is_/a_/throat
+#is_a_/throat
 
 Throat assessment with  clinical examination.
 

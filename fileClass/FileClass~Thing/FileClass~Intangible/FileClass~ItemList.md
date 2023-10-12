@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ItemList, class/Thing/Intangible/ItemList, is_an_/ItemList, schema-org/ItemList]
-tags: ["class/ItemList", "#is_/an_/ItemList", "class/Thing/Intangible/ItemList"]
+tags: ["class/ItemList", "#is_an_/ItemList", "class/Thing/Intangible/ItemList"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A list of items of any sort&#x2014;for example, Top 10 Movies About Weathermen, 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/ItemList
+#is_an_/ItemList
 #class/ItemList
 #class/Thing/Intangible/ItemList
 

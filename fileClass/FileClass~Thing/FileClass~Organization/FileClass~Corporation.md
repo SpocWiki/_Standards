@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Corporation, class/Thing/Organization/Corporation, is_a_/Corporation, schema-org/Corporation]
-tags: ["class/Corporation", "#is_/a_/Corporation", "class/Thing/Organization/Corporation"]
+tags: ["class/Corporation", "#is_a_/Corporation", "class/Thing/Organization/Corporation"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -17,7 +17,7 @@ Organization: A business corporation.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Corporation
+#is_a_/Corporation
 #class/Corporation
 #class/Thing/Organization/Corporation
 

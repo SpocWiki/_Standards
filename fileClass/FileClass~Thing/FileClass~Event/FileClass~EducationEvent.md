@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EducationEvent, class/Thing/Event/EducationEvent, is_an_/EducationEvent, schema-org/EducationEvent]
-tags: ["class/EducationEvent", "#is_/an_/EducationEvent", "class/Thing/Event/EducationEvent"]
+tags: ["class/EducationEvent", "#is_an_/EducationEvent", "class/Thing/Event/EducationEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---
 
@@ -17,7 +17,7 @@ Event type: Education event.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/EducationEvent
+#is_an_/EducationEvent
 #class/EducationEvent
 #class/Thing/Event/EducationEvent
 

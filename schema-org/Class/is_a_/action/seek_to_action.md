@@ -34,7 +34,7 @@ aliases:
 Class of all seek_to_actions.
 
 Tag Instances like this: 
-#is_/a_/seek_to_action
+#is_a_/seek_to_action
 
 [ #is_/part_of :: https://pending.schema.org ]
 

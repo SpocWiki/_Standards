@@ -36,7 +36,7 @@ aliases:
 Class of all emergencys.
 
 Tag Instances like this: 
-#is_/an_/emergency
+#is_an_/emergency
 
 A specific branch of medical science that deals with the evaluation and initial treatment of medical conditions caused by trauma or sudden illness.
 

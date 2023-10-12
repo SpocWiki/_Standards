@@ -36,7 +36,7 @@ aliases:
 Class of all noses.
 
 Tag Instances like this: 
-#is_/a_/nose
+#is_a_/nose
 
 Nose function assessment with clinical examination.
 

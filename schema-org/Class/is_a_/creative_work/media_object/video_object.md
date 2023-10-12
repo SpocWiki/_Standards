@@ -34,7 +34,7 @@ aliases:
 Class of all video_objects.
 
 Tag Instances like this: 
-#is_/a_/video_object
+#is_a_/video_object
 
 A video file.
 

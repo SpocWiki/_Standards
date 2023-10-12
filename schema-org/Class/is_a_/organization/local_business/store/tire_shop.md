@@ -34,7 +34,7 @@ aliases:
 Class of all tire_shops.
 
 Tag Instances like this: 
-#is_/a_/tire_shop
+#is_a_/tire_shop
 
 A tire shop.
 

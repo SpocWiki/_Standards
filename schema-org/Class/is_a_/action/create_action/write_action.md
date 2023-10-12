@@ -34,7 +34,7 @@ aliases:
 Class of all write_actions.
 
 Tag Instances like this: 
-#is_/a_/write_action
+#is_a_/write_action
 
 The act of authoring written creative content.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all vinyl_formats.
 
 Tag Instances like this: 
-#is_/a_/vinyl_format
+#is_a_/vinyl_format
 
 VinylFormat.
 

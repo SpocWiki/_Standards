@@ -34,7 +34,7 @@ aliases:
 Class of all occupational_therapys.
 
 Tag Instances like this: 
-#is_/an_/occupational_therapy
+#is_an_/occupational_therapy
 
 A treatment of people with physical, emotional, or social problems, using purposeful activity to help them overcome or learn to deal with their problems.
 

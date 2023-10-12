@@ -34,7 +34,7 @@ aliases:
 Class of all special_announcements.
 
 Tag Instances like this: 
-#is_/a_/special_announcement
+#is_a_/special_announcement
 
 [ #is_/part_of :: https://pending.schema.org ]
 

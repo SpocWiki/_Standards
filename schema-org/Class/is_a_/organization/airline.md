@@ -34,7 +34,7 @@ aliases:
 Class of all airlines.
 
 Tag Instances like this: 
-#is_/an_/airline
+#is_an_/airline
 
 An organization that provides flights for passengers.
 

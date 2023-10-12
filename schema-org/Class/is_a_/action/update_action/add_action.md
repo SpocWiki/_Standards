@@ -34,7 +34,7 @@ aliases:
 Class of all add_actions.
 
 Tag Instances like this: 
-#is_/an_/add_action
+#is_an_/add_action
 
 The act of editing by adding an object to a collection.
 

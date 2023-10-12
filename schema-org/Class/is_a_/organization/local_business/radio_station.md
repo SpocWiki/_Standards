@@ -34,7 +34,7 @@ aliases:
 Class of all radio_stations.
 
 Tag Instances like this: 
-#is_/a_/radio_station
+#is_a_/radio_station
 
 A radio station.
 

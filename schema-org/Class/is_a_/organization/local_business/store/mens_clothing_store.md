@@ -34,7 +34,7 @@ aliases:
 Class of all mens_clothing_stores.
 
 Tag Instances like this: 
-#is_/a_/mens_clothing_store
+#is_a_/mens_clothing_store
 
 A men's clothing store.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all installments.
 
 Tag Instances like this: 
-#is_/an_/installment
+#is_an_/installment
 
 [ #is_/part_of :: https://pending.schema.org ]
 

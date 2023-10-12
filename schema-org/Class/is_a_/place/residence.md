@@ -34,7 +34,7 @@ aliases:
 Class of all residences.
 
 Tag Instances like this: 
-#is_/a_/residence
+#is_a_/residence
 
 The place where a person lives.
 

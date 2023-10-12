@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BioChemEntity, class/Thing/BioChemEntity, is_a_/BioChemEntity, schema-org/BioChemEntity]
-tags: ["class/BioChemEntity", "#is_/a_/BioChemEntity", "class/Thing/BioChemEntity"]
+tags: ["class/BioChemEntity", "#is_a_/BioChemEntity", "class/Thing/BioChemEntity"]
 extends: FileClass~Thing
 ---
 
@@ -17,7 +17,7 @@ Any biological, chemical, or biochemical thing. For example: a protein; a gene; 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BioChemEntity
+#is_a_/BioChemEntity
 #class/BioChemEntity
 #class/Thing/BioChemEntity
 

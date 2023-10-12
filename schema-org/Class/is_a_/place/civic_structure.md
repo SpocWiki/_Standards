@@ -34,7 +34,7 @@ aliases:
 Class of all civic_structures.
 
 Tag Instances like this: 
-#is_/a_/civic_structure
+#is_a_/civic_structure
 
 A public structure, such as a town hall or concert hall.
 

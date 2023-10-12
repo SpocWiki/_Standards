@@ -36,7 +36,7 @@ aliases:
 Class of all events.
 
 Tag Instances like this: 
-#is_/an_/event
+#is_an_/event
 
 An event happening at a certain time and location, such as a concert, lecture, or festival. Ticketing information may be added via the <a class="localLink" href="/offers">offers</a> property. Repeated events may be structured as separate Event objects.
 

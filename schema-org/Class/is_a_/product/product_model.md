@@ -34,7 +34,7 @@ aliases:
 Class of all product_models.
 
 Tag Instances like this: 
-#is_/a_/product_model
+#is_a_/product_model
 
 A datasheet or vendor specification of a product (in the sense of a prototypical description).
 

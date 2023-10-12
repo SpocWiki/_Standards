@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EducationalOccupationalCredential, class/Thing/CreativeWork/EducationalOccupationalCredential, is_an_/EducationalOccupationalCredential, schema-org/EducationalOccupationalCredential]
-tags: ["class/EducationalOccupationalCredential", "#is_/an_/EducationalOccupationalCredential", "class/Thing/CreativeWork/EducationalOccupationalCredential"]
+tags: ["class/EducationalOccupationalCredential", "#is_an_/EducationalOccupationalCredential", "class/Thing/CreativeWork/EducationalOccupationalCredential"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ An educational or occupational credential. A diploma, academic degree, certifica
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/EducationalOccupationalCredential
+#is_an_/EducationalOccupationalCredential
 #class/EducationalOccupationalCredential
 #class/Thing/CreativeWork/EducationalOccupationalCredential
 

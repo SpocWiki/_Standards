@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ShippingDeliveryTime, class/Thing/Intangible/StructuredValue/ShippingDeliveryTime, is_a_/ShippingDeliveryTime, schema-org/ShippingDeliveryTime]
-tags: ["class/ShippingDeliveryTime", "#is_/a_/ShippingDeliveryTime", "class/Thing/Intangible/StructuredValue/ShippingDeliveryTime"]
+tags: ["class/ShippingDeliveryTime", "#is_a_/ShippingDeliveryTime", "class/Thing/Intangible/StructuredValue/ShippingDeliveryTime"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ ShippingDeliveryTime provides various pieces of information about delivery times
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ShippingDeliveryTime
+#is_a_/ShippingDeliveryTime
 #class/ShippingDeliveryTime
 #class/Thing/Intangible/StructuredValue/ShippingDeliveryTime
 

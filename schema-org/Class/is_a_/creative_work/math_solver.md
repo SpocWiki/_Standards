@@ -34,7 +34,7 @@ aliases:
 Class of all math_solvers.
 
 Tag Instances like this: 
-#is_/a_/math_solver
+#is_a_/math_solver
 
 [ #is_/part_of :: https://pending.schema.org ]
 

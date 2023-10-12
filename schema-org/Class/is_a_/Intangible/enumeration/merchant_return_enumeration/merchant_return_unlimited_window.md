@@ -38,7 +38,7 @@ aliases:
 Class of all merchant_return_unlimited_windows.
 
 Tag Instances like this: 
-#is_/a_/merchant_return_unlimited_window
+#is_a_/merchant_return_unlimited_window
 
 [ #is_/part_of :: https://pending.schema.org ]
 

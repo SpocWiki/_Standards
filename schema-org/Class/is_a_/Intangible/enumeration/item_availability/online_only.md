@@ -36,7 +36,7 @@ aliases:
 Class of all online_onlys.
 
 Tag Instances like this: 
-#is_/an_/online_only
+#is_an_/online_only
 
 Indicates that the item is available only online.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all taxis.
 
 Tag Instances like this: 
-#is_/a_/taxi
+#is_a_/taxi
 
 A taxi.
 

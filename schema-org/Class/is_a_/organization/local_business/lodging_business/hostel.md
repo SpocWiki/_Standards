@@ -34,7 +34,7 @@ aliases:
 Class of all hostels.
 
 Tag Instances like this: 
-#is_/a_/hostel
+#is_a_/hostel
 
 A hostel - cheap accommodation, often in shared dormitories.
 <br /><br />

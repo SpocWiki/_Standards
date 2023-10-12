@@ -34,7 +34,7 @@ aliases:
 Class of all paintings.
 
 Tag Instances like this: 
-#is_/a_/painting
+#is_a_/painting
 
 A painting.
 

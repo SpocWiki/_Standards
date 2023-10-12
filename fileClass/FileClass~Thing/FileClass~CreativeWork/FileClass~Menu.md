@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Menu, class/Thing/CreativeWork/Menu, is_a_/Menu, schema-org/Menu]
-tags: ["class/Menu", "#is_/a_/Menu", "class/Thing/CreativeWork/Menu"]
+tags: ["class/Menu", "#is_a_/Menu", "class/Thing/CreativeWork/Menu"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A structured representation of food or drink items available from a FoodEstablis
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Menu
+#is_a_/Menu
 #class/Menu
 #class/Thing/CreativeWork/Menu
 

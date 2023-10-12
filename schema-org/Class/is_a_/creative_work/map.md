@@ -34,7 +34,7 @@ aliases:
 Class of all maps.
 
 Tag Instances like this: 
-#is_/a_/map
+#is_a_/map
 
 A map.
 

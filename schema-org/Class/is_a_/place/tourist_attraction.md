@@ -34,7 +34,7 @@ aliases:
 Class of all tourist_attractions.
 
 Tag Instances like this: 
-#is_/a_/tourist_attraction
+#is_a_/tourist_attraction
 
 A tourist attraction.  In principle any Thing can be a <a class="localLink" href="/TouristAttraction">TouristAttraction</a>, from a <a class="localLink" href="/Mountain">Mountain</a> and <a class="localLink" href="/LandmarksOrHistoricalBuildings">LandmarksOrHistoricalBuildings</a> to a <a class="localLink" href="/LocalBusiness">LocalBusiness</a>.  This Type can be used on its own to describe a general <a class="localLink" href="/TouristAttraction">TouristAttraction</a>, or be used as an <a class="localLink" href="/additionalType">additionalType</a> to add tourist attraction properties to any other type.  (See examples below)
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DefinedRegion, class/Thing/Intangible/StructuredValue/DefinedRegion, is_a_/DefinedRegion, schema-org/DefinedRegion]
-tags: ["class/DefinedRegion", "#is_/a_/DefinedRegion", "class/Thing/Intangible/StructuredValue/DefinedRegion"]
+tags: ["class/DefinedRegion", "#is_a_/DefinedRegion", "class/Thing/Intangible/StructuredValue/DefinedRegion"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -26,7 +26,7 @@ A DefinedRegion is a geographic area defined by potentially arbitrary (rather th
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DefinedRegion
+#is_a_/DefinedRegion
 #class/DefinedRegion
 #class/Thing/Intangible/StructuredValue/DefinedRegion
 

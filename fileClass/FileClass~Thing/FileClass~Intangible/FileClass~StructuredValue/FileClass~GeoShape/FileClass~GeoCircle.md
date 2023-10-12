@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GeoCircle, class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle, is_a_/GeoCircle, schema-org/GeoCircle]
-tags: ["class/GeoCircle", "#is_/a_/GeoCircle", "class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle"]
+tags: ["class/GeoCircle", "#is_a_/GeoCircle", "class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape
 ---
 
@@ -19,7 +19,7 @@ A GeoCircle is a GeoShape representing a circular geographic area. As it is a Ge
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/GeoCircle
+#is_a_/GeoCircle
 #class/GeoCircle
 #class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle
 

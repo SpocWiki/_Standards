@@ -34,7 +34,7 @@ aliases:
 Class of all alignment_objects.
 
 Tag Instances like this: 
-#is_/an_/alignment_object
+#is_an_/alignment_object
 
 An intangible item that describes an alignment between a learning resource and a node in an educational framework.
 

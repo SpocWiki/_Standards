@@ -34,7 +34,7 @@ aliases:
 Class of all game_servers.
 
 Tag Instances like this: 
-#is_/a_/game_server
+#is_a_/game_server
 
 Server that provides game interaction in a multiplayer game.
 

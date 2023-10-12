@@ -34,7 +34,7 @@ aliases:
 Class of all imaging_tests.
 
 Tag Instances like this: 
-#is_/an_/imaging_test
+#is_an_/imaging_test
 
 Any medical imaging modality typically used for diagnostic purposes.
 

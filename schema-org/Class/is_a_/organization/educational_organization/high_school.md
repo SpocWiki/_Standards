@@ -34,7 +34,7 @@ aliases:
 Class of all high_schools.
 
 Tag Instances like this: 
-#is_/a_/high_school
+#is_a_/high_school
 
 A high school.
 

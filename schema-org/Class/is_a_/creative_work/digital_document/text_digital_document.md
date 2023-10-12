@@ -34,7 +34,7 @@ aliases:
 Class of all text_digital_documents.
 
 Tag Instances like this: 
-#is_/a_/text_digital_document
+#is_a_/text_digital_document
 
 A file composed primarily of text.
 

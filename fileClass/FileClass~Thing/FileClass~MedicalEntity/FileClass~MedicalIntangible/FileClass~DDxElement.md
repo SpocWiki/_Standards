@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DDxElement, class/Thing/MedicalEntity/MedicalIntangible/DDxElement, is_a_/DDxElement, schema-org/DDxElement]
-tags: ["class/DDxElement", "#is_/a_/DDxElement", "class/Thing/MedicalEntity/MedicalIntangible/DDxElement"]
+tags: ["class/DDxElement", "#is_a_/DDxElement", "class/Thing/MedicalEntity/MedicalIntangible/DDxElement"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 ---
 
@@ -17,7 +17,7 @@ An alternative, closely-related condition typically considered later in the diff
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DDxElement
+#is_a_/DDxElement
 #class/DDxElement
 #class/Thing/MedicalEntity/MedicalIntangible/DDxElement
 

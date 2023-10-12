@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InformAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction, is_an_/InformAction, schema-org/InformAction]
-tags: ["class/InformAction", "#is_/an_/InformAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction"]
+tags: ["class/InformAction", "#is_an_/InformAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---
 
@@ -17,7 +17,7 @@ The act of notifying someone of information pertinent to them, with no expectati
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/InformAction
+#is_an_/InformAction
 #class/InformAction
 #class/Thing/Action/InteractAction/CommunicateAction/InformAction
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DefinedTermSet, class/Thing/CreativeWork/DefinedTermSet, is_a_/DefinedTermSet, schema-org/DefinedTermSet]
-tags: ["class/DefinedTermSet", "#is_/a_/DefinedTermSet", "class/Thing/CreativeWork/DefinedTermSet"]
+tags: ["class/DefinedTermSet", "#is_a_/DefinedTermSet", "class/Thing/CreativeWork/DefinedTermSet"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A set of defined terms, for example a set of categories or a classification sche
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DefinedTermSet
+#is_a_/DefinedTermSet
 #class/DefinedTermSet
 #class/Thing/CreativeWork/DefinedTermSet
 

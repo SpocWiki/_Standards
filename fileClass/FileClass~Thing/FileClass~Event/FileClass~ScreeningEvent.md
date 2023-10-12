@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ScreeningEvent, class/Thing/Event/ScreeningEvent, is_a_/ScreeningEvent, schema-org/ScreeningEvent]
-tags: ["class/ScreeningEvent", "#is_/a_/ScreeningEvent", "class/Thing/Event/ScreeningEvent"]
+tags: ["class/ScreeningEvent", "#is_a_/ScreeningEvent", "class/Thing/Event/ScreeningEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---
 
@@ -17,7 +17,7 @@ A screening of a movie or other video.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ScreeningEvent
+#is_a_/ScreeningEvent
 #class/ScreeningEvent
 #class/Thing/Event/ScreeningEvent
 

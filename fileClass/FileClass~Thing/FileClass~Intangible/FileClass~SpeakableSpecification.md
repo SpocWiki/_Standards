@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SpeakableSpecification, class/Thing/Intangible/SpeakableSpecification, is_a_/SpeakableSpecification, schema-org/SpeakableSpecification]
-tags: ["class/SpeakableSpecification", "#is_/a_/SpeakableSpecification", "class/Thing/Intangible/SpeakableSpecification"]
+tags: ["class/SpeakableSpecification", "#is_a_/SpeakableSpecification", "class/Thing/Intangible/SpeakableSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SpeakableSpecification
+#is_a_/SpeakableSpecification
 #class/SpeakableSpecification
 #class/Thing/Intangible/SpeakableSpecification
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Recipe, class/Thing/CreativeWork/HowTo/Recipe, is_a_/Recipe, schema-org/Recipe]
-tags: ["class/Recipe", "#is_/a_/Recipe", "class/Thing/CreativeWork/HowTo/Recipe"]
+tags: ["class/Recipe", "#is_a_/Recipe", "class/Thing/CreativeWork/HowTo/Recipe"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo
 ---
 
@@ -17,7 +17,7 @@ A recipe. For dietary restrictions covered by the recipe, a few common restricti
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Recipe
+#is_a_/Recipe
 #class/Recipe
 #class/Thing/CreativeWork/HowTo/Recipe
 

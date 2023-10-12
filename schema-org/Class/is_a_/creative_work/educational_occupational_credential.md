@@ -34,7 +34,7 @@ aliases:
 Class of all educational_occupational_credentials.
 
 Tag Instances like this: 
-#is_/an_/educational_occupational_credential
+#is_an_/educational_occupational_credential
 
 [ #is_/part_of :: https://pending.schema.org ]
 

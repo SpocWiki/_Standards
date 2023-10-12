@@ -34,7 +34,7 @@ aliases:
 Class of all credit_cards.
 
 Tag Instances like this: 
-#is_/a_/credit_card
+#is_a_/credit_card
 
 A card payment method of a particular brand or name.  Used to mark up a particular payment method and/or the financial product/service that supplies the card account.
 

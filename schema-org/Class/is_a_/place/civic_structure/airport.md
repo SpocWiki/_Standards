@@ -34,7 +34,7 @@ aliases:
 Class of all airports.
 
 Tag Instances like this: 
-#is_/an_/airport
+#is_an_/airport
 
 An airport.
 

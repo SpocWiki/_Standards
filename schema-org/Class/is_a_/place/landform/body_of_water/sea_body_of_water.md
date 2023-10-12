@@ -34,7 +34,7 @@ aliases:
 Class of all sea_body_of_waters.
 
 Tag Instances like this: 
-#is_/a_/sea_body_of_water
+#is_a_/sea_body_of_water
 
 A sea (for example, the Caspian sea).
 

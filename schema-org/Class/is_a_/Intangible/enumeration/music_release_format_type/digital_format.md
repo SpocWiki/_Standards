@@ -36,7 +36,7 @@ aliases:
 Class of all digital_formats.
 
 Tag Instances like this: 
-#is_/a_/digital_format
+#is_a_/digital_format
 
 DigitalFormat.
 

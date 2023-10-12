@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/VideoGallery, class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery, is_a_/VideoGallery, schema-org/VideoGallery]
-tags: ["class/VideoGallery", "#is_/a_/VideoGallery", "class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery"]
+tags: ["class/VideoGallery", "#is_a_/VideoGallery", "class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery
 ---
 
@@ -17,7 +17,7 @@ Web page type: Video gallery page.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/VideoGallery
+#is_a_/VideoGallery
 #class/VideoGallery
 #class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/VideoGallery
 

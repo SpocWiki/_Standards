@@ -34,7 +34,7 @@ aliases:
 Class of all listen_actions.
 
 Tag Instances like this: 
-#is_/a_/listen_action
+#is_a_/listen_action
 
 The act of consuming audio content.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CDCPMDRecord, class/Thing/Intangible/StructuredValue/CDCPMDRecord, is_a_/CDCPMDRecord, schema-org/CDCPMDRecord]
-tags: ["class/CDCPMDRecord", "#is_/a_/CDCPMDRecord", "class/Thing/Intangible/StructuredValue/CDCPMDRecord"]
+tags: ["class/CDCPMDRecord", "#is_a_/CDCPMDRecord", "class/Thing/Intangible/StructuredValue/CDCPMDRecord"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -19,7 +19,7 @@ A CDCPMDRecord is a data structure representing a record in a CDC tabular data f
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CDCPMDRecord
+#is_a_/CDCPMDRecord
 #class/CDCPMDRecord
 #class/Thing/Intangible/StructuredValue/CDCPMDRecord
 

@@ -36,7 +36,7 @@ aliases:
 Class of all user_likess.
 
 Tag Instances like this: 
-#is_/a_/user_likes
+#is_a_/user_likes
 
 UserInteraction and its subtypes is an old way of talking about users interacting with pages. It is generally better to use <a class="localLink" href="/Action">Action</a>-based vocabulary, alongside types such as <a class="localLink" href="/Comment">Comment</a>.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all hotels.
 
 Tag Instances like this: 
-#is_/a_/hotel
+#is_a_/hotel
 
 A hotel is an establishment that provides lodging paid on a short-term basis (source: Wikipedia, the free encyclopedia, see http://en.wikipedia.org/wiki/Hotel).
 <br /><br />

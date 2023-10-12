@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SatiricalArticle, class/Thing/CreativeWork/Article/SatiricalArticle, is_a_/SatiricalArticle, schema-org/SatiricalArticle]
-tags: ["class/SatiricalArticle", "#is_/a_/SatiricalArticle", "class/Thing/CreativeWork/Article/SatiricalArticle"]
+tags: ["class/SatiricalArticle", "#is_a_/SatiricalArticle", "class/Thing/CreativeWork/Article/SatiricalArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 ---
 
@@ -17,7 +17,7 @@ An [[Article]] whose content is primarily [[satirical]](https://en.wikipedia.org
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SatiricalArticle
+#is_a_/SatiricalArticle
 #class/SatiricalArticle
 #class/Thing/CreativeWork/Article/SatiricalArticle
 

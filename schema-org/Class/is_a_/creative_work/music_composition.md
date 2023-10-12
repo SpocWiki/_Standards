@@ -34,7 +34,7 @@ aliases:
 Class of all music_compositions.
 
 Tag Instances like this: 
-#is_/a_/music_composition
+#is_a_/music_composition
 
 A musical composition.
 

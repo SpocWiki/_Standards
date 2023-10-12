@@ -34,7 +34,7 @@ aliases:
 Class of all furniture_stores.
 
 Tag Instances like this: 
-#is_/a_/furniture_store
+#is_a_/furniture_store
 
 A furniture store.
 

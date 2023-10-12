@@ -36,7 +36,7 @@ aliases:
 Class of all transit_maps.
 
 Tag Instances like this: 
-#is_/a_/transit_map
+#is_a_/transit_map
 
 A transit map.
 

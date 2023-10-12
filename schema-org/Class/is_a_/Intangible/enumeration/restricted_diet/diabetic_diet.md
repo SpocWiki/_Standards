@@ -36,7 +36,7 @@ aliases:
 Class of all diabetic_diets.
 
 Tag Instances like this: 
-#is_/a_/diabetic_diet
+#is_a_/diabetic_diet
 
 A diet appropriate for people with diabetes.
 

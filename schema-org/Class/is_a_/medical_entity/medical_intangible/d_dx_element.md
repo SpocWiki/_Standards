@@ -34,7 +34,7 @@ aliases:
 Class of all d_dx_elements.
 
 Tag Instances like this: 
-#is_/a_/d_dx_element
+#is_a_/d_dx_element
 
 An alternative, closely-related condition typically considered later in the differential diagnosis process along with the signs that are used to distinguish it.
 

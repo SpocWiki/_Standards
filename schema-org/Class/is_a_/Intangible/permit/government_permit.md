@@ -34,7 +34,7 @@ aliases:
 Class of all government_permits.
 
 Tag Instances like this: 
-#is_/a_/government_permit
+#is_a_/government_permit
 
 A permit issued by a government agency.
 

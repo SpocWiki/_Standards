@@ -34,7 +34,7 @@ aliases:
 Class of all movie_theaters.
 
 Tag Instances like this: 
-#is_/a_/movie_theater
+#is_a_/movie_theater
 
 A movie theater.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all digital_platform_enumerations.
 
 Tag Instances like this: 
-#is_/a_/digital_platform_enumeration
+#is_a_/digital_platform_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

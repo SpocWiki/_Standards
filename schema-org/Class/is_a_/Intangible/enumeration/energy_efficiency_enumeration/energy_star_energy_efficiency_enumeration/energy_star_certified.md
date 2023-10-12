@@ -36,7 +36,7 @@ aliases:
 Class of all energy_star_certifieds.
 
 Tag Instances like this: 
-#is_/an_/energy_star_certified
+#is_an_/energy_star_certified
 
 [ #is_/part_of :: https://pending.schema.org ]
 

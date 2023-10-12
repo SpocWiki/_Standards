@@ -34,7 +34,7 @@ aliases:
 Class of all clips.
 
 Tag Instances like this: 
-#is_/a_/clip
+#is_a_/clip
 
 A short TV or radio program or a segment/part of a program.
 

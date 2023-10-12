@@ -34,7 +34,7 @@ aliases:
 Class of all hardware_stores.
 
 Tag Instances like this: 
-#is_/a_/hardware_store
+#is_a_/hardware_store
 
 A hardware store.
 

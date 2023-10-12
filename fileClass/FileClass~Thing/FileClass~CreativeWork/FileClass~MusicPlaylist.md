@@ -5,7 +5,7 @@ excludes:
 icon: list-music
 version: 5
 tagNames: [class/MusicPlaylist, class/Thing/CreativeWork/MusicPlaylist, is_a_/MusicPlaylist, schema-org/MusicPlaylist]
-tags: ["class/MusicPlaylist", "#is_/a_/MusicPlaylist", "class/Thing/CreativeWork/MusicPlaylist"]
+tags: ["class/MusicPlaylist", "#is_a_/MusicPlaylist", "class/Thing/CreativeWork/MusicPlaylist"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A collection of music tracks in playlist form.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MusicPlaylist
+#is_a_/MusicPlaylist
 #class/MusicPlaylist
 #class/Thing/CreativeWork/MusicPlaylist
 

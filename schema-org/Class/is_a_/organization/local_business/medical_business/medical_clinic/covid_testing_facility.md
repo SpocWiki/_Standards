@@ -34,7 +34,7 @@ aliases:
 Class of all covid_testing_facilitys.
 
 Tag Instances like this: 
-#is_/a_/covid_testing_facility
+#is_a_/covid_testing_facility
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all price_type_enumerations.
 
 Tag Instances like this: 
-#is_/a_/price_type_enumeration
+#is_a_/price_type_enumeration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

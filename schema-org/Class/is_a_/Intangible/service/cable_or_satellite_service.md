@@ -34,7 +34,7 @@ aliases:
 Class of all cable_or_satellite_services.
 
 Tag Instances like this: 
-#is_/a_/cable_or_satellite_service
+#is_a_/cable_or_satellite_service
 
 A service which provides access to media programming like TV or radio. Access may be via cable or satellite.
 

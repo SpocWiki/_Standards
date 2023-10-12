@@ -34,7 +34,7 @@ aliases:
 Class of all size_specifications.
 
 Tag Instances like this: 
-#is_/a_/size_specification
+#is_a_/size_specification
 
 [ #is_/part_of :: https://pending.schema.org ]
 

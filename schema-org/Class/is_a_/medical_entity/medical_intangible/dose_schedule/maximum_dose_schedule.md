@@ -34,7 +34,7 @@ aliases:
 Class of all maximum_dose_schedules.
 
 Tag Instances like this: 
-#is_/a_/maximum_dose_schedule
+#is_a_/maximum_dose_schedule
 
 The maximum dosing schedule considered safe for a drug or supplement as recommended by an authority or by the drug/supplement's manufacturer. Capture the recommending authority in the recognizingAuthority property of MedicalEntity.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AlignmentObject, class/Thing/Intangible/AlignmentObject, is_an_/AlignmentObject, schema-org/AlignmentObject]
-tags: ["class/AlignmentObject", "#is_/an_/AlignmentObject", "class/Thing/Intangible/AlignmentObject"]
+tags: ["class/AlignmentObject", "#is_an_/AlignmentObject", "class/Thing/Intangible/AlignmentObject"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -18,7 +18,7 @@ An intangible item that describes an alignment between a learning resource and a
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AlignmentObject
+#is_an_/AlignmentObject
 #class/AlignmentObject
 #class/Thing/Intangible/AlignmentObject
 

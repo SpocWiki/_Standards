@@ -36,7 +36,7 @@ aliases:
 Class of all optometrics.
 
 Tag Instances like this: 
-#is_/an_/optometric
+#is_an_/optometric
 
 The science or practice of testing visual acuity and prescribing corrective lenses.
 

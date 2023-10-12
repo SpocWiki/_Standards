@@ -36,7 +36,7 @@ aliases:
 Class of all medical_researchers.
 
 Tag Instances like this: 
-#is_/a_/medical_researcher
+#is_a_/medical_researcher
 
 Medical researchers.
 

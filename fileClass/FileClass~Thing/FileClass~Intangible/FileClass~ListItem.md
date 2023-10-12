@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ListItem, class/Thing/Intangible/ListItem, is_a_/ListItem, schema-org/ListItem]
-tags: ["class/ListItem", "#is_/a_/ListItem", "class/Thing/Intangible/ListItem"]
+tags: ["class/ListItem", "#is_a_/ListItem", "class/Thing/Intangible/ListItem"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ An list item, e.g. a step in a checklist or how-to description.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ListItem
+#is_a_/ListItem
 #class/ListItem
 #class/Thing/Intangible/ListItem
 

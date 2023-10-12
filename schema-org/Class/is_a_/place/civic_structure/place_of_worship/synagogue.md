@@ -34,7 +34,7 @@ aliases:
 Class of all synagogues.
 
 Tag Instances like this: 
-#is_/a_/synagogue
+#is_a_/synagogue
 
 A synagogue.
 

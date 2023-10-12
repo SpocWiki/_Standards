@@ -34,7 +34,7 @@ aliases:
 Class of all health_plan_formularys.
 
 Tag Instances like this: 
-#is_/a_/health_plan_formulary
+#is_a_/health_plan_formulary
 
 [ #is_/part_of :: https://pending.schema.org ]
 

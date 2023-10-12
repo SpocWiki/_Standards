@@ -36,7 +36,7 @@ aliases:
 Class of all pulmonarys.
 
 Tag Instances like this: 
-#is_/a_/pulmonary
+#is_a_/pulmonary
 
 A specific branch of medical science that pertains to the study of the respiratory system and its respective disease states.
 

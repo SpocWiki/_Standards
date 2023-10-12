@@ -71,7 +71,7 @@ aliases:
 Class of all sundays.
 
 Tag Instances like this: 
-#is_/a_/sunday
+#is_a_/sunday
 
 The day of the week between Saturday and Monday.
 
@@ -90,7 +90,7 @@ The day of the week between Saturday and Monday.
 - [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/sunday.secret.md|sunday.secret]] 
 
 Tag Instances like this: 
-#is_/a_/bed_type
+#is_a_/bed_type
 
 
 [ #is_/sub_class_of :: [[../QualitativeValue]] ]

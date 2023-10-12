@@ -34,7 +34,7 @@ aliases:
 Class of all menus.
 
 Tag Instances like this: 
-#is_/a_/menu
+#is_a_/menu
 
 A structured representation of food or drink items available from a FoodEstablishment.
 

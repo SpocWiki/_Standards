@@ -34,7 +34,7 @@ aliases:
 Class of all merchant_return_policy_seasonal_overrides.
 
 Tag Instances like this: 
-#is_/a_/merchant_return_policy_seasonal_override
+#is_a_/merchant_return_policy_seasonal_override
 
 [ #is_/part_of :: https://pending.schema.org ]
 

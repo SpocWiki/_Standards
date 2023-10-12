@@ -36,7 +36,7 @@ aliases:
 Class of all screening_health_aspects.
 
 Tag Instances like this: 
-#is_/a_/screening_health_aspect
+#is_a_/screening_health_aspect
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -36,7 +36,7 @@ aliases:
 Class of all charitable_incorporated_organizations.
 
 Tag Instances like this: 
-#is_/a_/charitable_incorporated_organization
+#is_a_/charitable_incorporated_organization
 
 [ #is_/part_of :: https://pending.schema.org ]
 

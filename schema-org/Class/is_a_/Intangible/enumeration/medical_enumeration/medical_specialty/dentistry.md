@@ -36,7 +36,7 @@ aliases:
 Class of all dentistrys.
 
 Tag Instances like this: 
-#is_/a_/dentistry
+#is_a_/dentistry
 
 A branch of medicine that is involved in the dental care.
 

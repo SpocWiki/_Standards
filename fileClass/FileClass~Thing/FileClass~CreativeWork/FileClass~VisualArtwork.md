@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/VisualArtwork, class/Thing/CreativeWork/VisualArtwork, is_a_/VisualArtwork, schema-org/VisualArtwork]
-tags: ["class/VisualArtwork", "#is_/a_/VisualArtwork", "class/Thing/CreativeWork/VisualArtwork"]
+tags: ["class/VisualArtwork", "#is_a_/VisualArtwork", "class/Thing/CreativeWork/VisualArtwork"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A work of art that is primarily visual in character.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/VisualArtwork
+#is_a_/VisualArtwork
 #class/VisualArtwork
 #class/Thing/CreativeWork/VisualArtwork
 

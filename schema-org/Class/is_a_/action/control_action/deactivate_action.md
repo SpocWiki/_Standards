@@ -34,7 +34,7 @@ aliases:
 Class of all deactivate_actions.
 
 Tag Instances like this: 
-#is_/a_/deactivate_action
+#is_a_/deactivate_action
 
 The act of stopping or deactivating a device or application (e.g. stopping a timer or turning off a flashlight).
 

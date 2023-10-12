@@ -36,7 +36,7 @@ aliases:
 Class of all infectiouss.
 
 Tag Instances like this: 
-#is_/an_/infectious
+#is_an_/infectious
 
 Something in medical science that pertains to infectious diseases, i.e. caused by bacterial, viral, fungal or parasitic infections.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all reservoirs.
 
 Tag Instances like this: 
-#is_/a_/reservoir
+#is_a_/reservoir
 
 A reservoir of water, typically an artificially created lake, like the Lake Kariba reservoir.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all vessels.
 
 Tag Instances like this: 
-#is_/a_/vessel
+#is_a_/vessel
 
 A component of the human body circulatory system comprised of an intricate network of hollow tubes that transport blood throughout the entire body.
 

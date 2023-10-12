@@ -34,7 +34,7 @@ aliases:
 Class of all social_media_postings.
 
 Tag Instances like this: 
-#is_/a_/social_media_posting
+#is_a_/social_media_posting
 
 A post to a social media platform, including blog posts, tweets, Facebook posts, etc.
 

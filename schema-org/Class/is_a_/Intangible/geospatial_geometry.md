@@ -34,7 +34,7 @@ aliases:
 Class of all geospatial_geometrys.
 
 Tag Instances like this: 
-#is_/a_/geospatial_geometry
+#is_a_/geospatial_geometry
 
 [ #is_/part_of :: https://pending.schema.org ]
 

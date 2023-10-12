@@ -34,7 +34,7 @@ aliases:
 Class of all business_audiences.
 
 Tag Instances like this: 
-#is_/a_/business_audience
+#is_a_/business_audience
 
 A set of characteristics belonging to businesses, e.g. who compose an item's target audience.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all order_cancelleds.
 
 Tag Instances like this: 
-#is_/an_/order_cancelled
+#is_an_/order_cancelled
 
 OrderStatus representing cancellation of an order.
 

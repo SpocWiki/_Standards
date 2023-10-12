@@ -34,7 +34,7 @@ aliases:
 Class of all ice_cream_shops.
 
 Tag Instances like this: 
-#is_/an_/ice_cream_shop
+#is_an_/ice_cream_shop
 
 An ice cream shop.
 

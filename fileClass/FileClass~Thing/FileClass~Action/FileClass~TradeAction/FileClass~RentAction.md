@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RentAction, class/Thing/Action/TradeAction/RentAction, is_a_/RentAction, schema-org/RentAction]
-tags: ["class/RentAction", "#is_/a_/RentAction", "class/Thing/Action/TradeAction/RentAction"]
+tags: ["class/RentAction", "#is_a_/RentAction", "class/Thing/Action/TradeAction/RentAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---
 
@@ -17,7 +17,7 @@ The act of giving money in return for temporary use, but not ownership, of an ob
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/RentAction
+#is_a_/RentAction
 #class/RentAction
 #class/Thing/Action/TradeAction/RentAction
 

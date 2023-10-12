@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DataFeed, class/Thing/CreativeWork/Dataset/DataFeed, is_a_/DataFeed, schema-org/DataFeed]
-tags: ["class/DataFeed", "#is_/a_/DataFeed", "class/Thing/CreativeWork/Dataset/DataFeed"]
+tags: ["class/DataFeed", "#is_a_/DataFeed", "class/Thing/CreativeWork/Dataset/DataFeed"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset
 ---
 
@@ -17,7 +17,7 @@ A single feed providing structured information about one or more entities or top
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DataFeed
+#is_a_/DataFeed
 #class/DataFeed
 #class/Thing/CreativeWork/Dataset/DataFeed
 

@@ -34,7 +34,7 @@ aliases:
 Class of all beachs.
 
 Tag Instances like this: 
-#is_/a_/beach
+#is_a_/beach
 
 Beach.
 

@@ -36,7 +36,7 @@ aliases:
 Class of all multi_players.
 
 Tag Instances like this: 
-#is_/a_/multi_player
+#is_a_/multi_player
 
 Play mode: MultiPlayer. Requiring or allowing multiple human players to play simultaneously.
 

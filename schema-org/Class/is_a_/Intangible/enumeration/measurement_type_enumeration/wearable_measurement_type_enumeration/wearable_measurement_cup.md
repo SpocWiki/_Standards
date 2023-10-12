@@ -36,7 +36,7 @@ aliases:
 Class of all wearable_measurement_cups.
 
 Tag Instances like this: 
-#is_/a_/wearable_measurement_cup
+#is_a_/wearable_measurement_cup
 
 [ #is_/part_of :: https://pending.schema.org ]
 

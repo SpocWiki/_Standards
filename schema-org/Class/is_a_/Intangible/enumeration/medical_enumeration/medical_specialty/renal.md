@@ -36,7 +36,7 @@ aliases:
 Class of all renals.
 
 Tag Instances like this: 
-#is_/a_/renal
+#is_a_/renal
 
 A specific branch of medical science that pertains to the study of the kidneys and its respective disease states.
 

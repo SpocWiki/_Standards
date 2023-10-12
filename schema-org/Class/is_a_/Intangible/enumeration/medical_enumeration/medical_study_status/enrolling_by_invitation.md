@@ -36,7 +36,7 @@ aliases:
 Class of all enrolling_by_invitations.
 
 Tag Instances like this: 
-#is_/an_/enrolling_by_invitation
+#is_an_/enrolling_by_invitation
 
 Enrolling participants by invitation only.
 

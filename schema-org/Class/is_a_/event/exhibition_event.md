@@ -34,7 +34,7 @@ aliases:
 Class of all exhibition_events.
 
 Tag Instances like this: 
-#is_/an_/exhibition_event
+#is_an_/exhibition_event
 
 Event type: Exhibition event, e.g. at a museum, library, archive, tradeshow, ...
 

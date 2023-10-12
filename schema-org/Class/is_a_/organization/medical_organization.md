@@ -34,7 +34,7 @@ aliases:
 Class of all medical_organizations.
 
 Tag Instances like this: 
-#is_/a_/medical_organization
+#is_a_/medical_organization
 
 A medical organization (physical or not), such as hospital, institution or clinic.
 

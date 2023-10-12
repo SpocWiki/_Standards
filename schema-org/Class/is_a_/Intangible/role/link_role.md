@@ -34,7 +34,7 @@ aliases:
 Class of all link_roles.
 
 Tag Instances like this: 
-#is_/a_/link_role
+#is_a_/link_role
 
 [ #is_/part_of :: https://pending.schema.org ]
 

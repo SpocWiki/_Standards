@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalRiskEstimator, class/Thing/MedicalEntity/MedicalRiskEstimator, is_a_/MedicalRiskEstimator, schema-org/MedicalRiskEstimator]
-tags: ["class/MedicalRiskEstimator", "#is_/a_/MedicalRiskEstimator", "class/Thing/MedicalEntity/MedicalRiskEstimator"]
+tags: ["class/MedicalRiskEstimator", "#is_a_/MedicalRiskEstimator", "class/Thing/MedicalEntity/MedicalRiskEstimator"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ Any rule set or interactive tool for estimating the risk of developing a complic
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalRiskEstimator
+#is_a_/MedicalRiskEstimator
 #class/MedicalRiskEstimator
 #class/Thing/MedicalEntity/MedicalRiskEstimator
 

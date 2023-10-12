@@ -34,7 +34,7 @@ aliases:
 Class of all casinos.
 
 Tag Instances like this: 
-#is_/a_/casino
+#is_a_/casino
 
 A casino.
 

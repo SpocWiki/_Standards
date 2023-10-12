@@ -34,7 +34,7 @@ aliases:
 Class of all house_painters.
 
 Tag Instances like this: 
-#is_/a_/house_painter
+#is_a_/house_painter
 
 A house painting service.
 

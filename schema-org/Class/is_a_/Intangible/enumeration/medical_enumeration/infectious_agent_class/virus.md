@@ -36,7 +36,7 @@ aliases:
 Class of all viruss.
 
 Tag Instances like this: 
-#is_/a_/virus
+#is_a_/virus
 
 Pathogenic virus that causes viral infection.
 

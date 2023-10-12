@@ -34,7 +34,7 @@ aliases:
 Class of all broadcast_frequency_specifications.
 
 Tag Instances like this: 
-#is_/a_/broadcast_frequency_specification
+#is_a_/broadcast_frequency_specification
 
 The frequency in MHz and the modulation used for a particular BroadcastService.
 

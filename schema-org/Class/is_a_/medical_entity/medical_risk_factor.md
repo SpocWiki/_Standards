@@ -34,7 +34,7 @@ aliases:
 Class of all medical_risk_factors.
 
 Tag Instances like this: 
-#is_/a_/medical_risk_factor
+#is_a_/medical_risk_factor
 
 A risk factor is anything that increases a person's likelihood of developing or contracting a disease, medical condition, or complication.
 

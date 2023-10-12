@@ -36,7 +36,7 @@ aliases:
 Class of all one_time_paymentss.
 
 Tag Instances like this: 
-#is_/an_/one_time_payments
+#is_an_/one_time_payments
 
 [ #is_/part_of :: https://pending.schema.org ]
 

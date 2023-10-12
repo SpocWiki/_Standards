@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ComedyEvent, class/Thing/Event/ComedyEvent, is_a_/ComedyEvent, schema-org/ComedyEvent]
-tags: ["class/ComedyEvent", "#is_/a_/ComedyEvent", "class/Thing/Event/ComedyEvent"]
+tags: ["class/ComedyEvent", "#is_a_/ComedyEvent", "class/Thing/Event/ComedyEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---
 
@@ -17,7 +17,7 @@ Event type: Comedy event.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/ComedyEvent
+#is_a_/ComedyEvent
 #class/ComedyEvent
 #class/Thing/Event/ComedyEvent
 

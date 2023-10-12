@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Grant, class/Thing/Intangible/Grant, is_a_/Grant, schema-org/Grant]
-tags: ["class/Grant", "#is_/a_/Grant", "class/Thing/Intangible/Grant"]
+tags: ["class/Grant", "#is_a_/Grant", "class/Thing/Intangible/Grant"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -20,7 +20,7 @@ A grant, typically financial or otherwise quantifiable, of resources. Typically 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Grant
+#is_a_/Grant
 #class/Grant
 #class/Thing/Intangible/Grant
 

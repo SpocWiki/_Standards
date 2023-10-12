@@ -34,7 +34,7 @@ aliases:
 Class of all boat_terminals.
 
 Tag Instances like this: 
-#is_/a_/boat_terminal
+#is_a_/boat_terminal
 
 [ #is_/part_of :: https://pending.schema.org ]
 

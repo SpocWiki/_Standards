@@ -34,7 +34,7 @@ aliases:
 Class of all on_demand_events.
 
 Tag Instances like this: 
-#is_/an_/on_demand_event
+#is_an_/on_demand_event
 
 A publication event, e.g. catch-up TV or radio podcast, during which a program is available on-demand.
 

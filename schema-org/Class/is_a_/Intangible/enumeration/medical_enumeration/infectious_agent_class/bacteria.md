@@ -36,7 +36,7 @@ aliases:
 Class of all bacterias.
 
 Tag Instances like this: 
-#is_/a_/bacteria
+#is_a_/bacteria
 
 Pathogenic bacteria that cause bacterial infection.
 

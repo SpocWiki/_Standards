@@ -36,7 +36,7 @@ aliases:
 Class of all neurologics.
 
 Tag Instances like this: 
-#is_/a_/neurologic
+#is_a_/neurologic
 
 A specific branch of medical science that studies the nerves and nervous system and its respective disease states.
 

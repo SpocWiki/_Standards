@@ -38,7 +38,7 @@ aliases:
 Class of all merchant_return_not_permitteds.
 
 Tag Instances like this: 
-#is_/a_/merchant_return_not_permitted
+#is_a_/merchant_return_not_permitted
 
 [ #is_/part_of :: https://pending.schema.org ]
 

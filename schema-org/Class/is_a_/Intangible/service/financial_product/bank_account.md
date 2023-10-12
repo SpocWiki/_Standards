@@ -34,7 +34,7 @@ aliases:
 Class of all bank_accounts.
 
 Tag Instances like this: 
-#is_/a_/bank_account
+#is_a_/bank_account
 
 A product or service offered by a bank whereby one may deposit, withdraw or transfer money and in some cases be paid interest.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all bowling_alleys.
 
 Tag Instances like this: 
-#is_/a_/bowling_alley
+#is_a_/bowling_alley
 
 A bowling alley.
 

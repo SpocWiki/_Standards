@@ -34,7 +34,7 @@ aliases:
 Class of all notarys.
 
 Tag Instances like this: 
-#is_/a_/notary
+#is_a_/notary
 
 A notary.
 

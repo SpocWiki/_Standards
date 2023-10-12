@@ -34,7 +34,7 @@ aliases:
 Class of all price_specifications.
 
 Tag Instances like this: 
-#is_/a_/price_specification
+#is_a_/price_specification
 
 A structured value representing a price or price range. Typically, only the subclasses of this type are used for markup. It is recommended to use <a class="localLink" href="/MonetaryAmount">MonetaryAmount</a> to describe independent amounts of money such as a salary, credit card limits, etc.
 

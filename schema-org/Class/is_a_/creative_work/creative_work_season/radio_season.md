@@ -34,7 +34,7 @@ aliases:
 Class of all radio_seasons.
 
 Tag Instances like this: 
-#is_/a_/radio_season
+#is_a_/radio_season
 
 Season dedicated to radio broadcast and associated online delivery.
 

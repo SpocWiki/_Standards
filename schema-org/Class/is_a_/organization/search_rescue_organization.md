@@ -34,7 +34,7 @@ aliases:
 Class of all search_rescue_organizations.
 
 Tag Instances like this: 
-#is_/a_/search_rescue_organization
+#is_a_/search_rescue_organization
 
 [ #is_/part_of :: https://pending.schema.org ]
 

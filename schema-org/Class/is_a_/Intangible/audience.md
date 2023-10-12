@@ -35,7 +35,7 @@ Class of all intended audiences for an item,
 i.e. the groups for whom an item was created.
 
 Tag Instances like this: 
-#is_/an_/audience
+#is_an_/audience
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

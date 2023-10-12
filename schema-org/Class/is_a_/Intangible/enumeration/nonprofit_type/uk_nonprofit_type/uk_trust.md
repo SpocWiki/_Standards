@@ -36,7 +36,7 @@ aliases:
 Class of all uk_trusts.
 
 Tag Instances like this: 
-#is_/a_/uk_trust
+#is_a_/uk_trust
 
 [ #is_/part_of :: https://pending.schema.org ]
 

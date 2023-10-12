@@ -34,7 +34,7 @@ aliases:
 Class of all audio_objects.
 
 Tag Instances like this: 
-#is_/an_/audio_object
+#is_an_/audio_object
 
 An audio file.
 

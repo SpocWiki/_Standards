@@ -34,7 +34,7 @@ aliases:
 Class of all people_audiences.
 
 Tag Instances like this: 
-#is_/a_/people_audience
+#is_a_/people_audience
 
 A set of characteristics belonging to people, e.g. who compose an item's target audience.
 

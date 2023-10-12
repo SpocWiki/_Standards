@@ -34,7 +34,7 @@ aliases:
 Class of all distillerys.
 
 Tag Instances like this: 
-#is_/a_/distillery
+#is_a_/distillery
 
 A distillery.
 

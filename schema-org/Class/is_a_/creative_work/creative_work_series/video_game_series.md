@@ -34,7 +34,7 @@ aliases:
 Class of all video_game_seriess.
 
 Tag Instances like this: 
-#is_/a_/video_game_series
+#is_a_/video_game_series
 
 A video game series.
 

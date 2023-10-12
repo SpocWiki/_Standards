@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AuthorizeAction, class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction, is_an_/AuthorizeAction, schema-org/AuthorizeAction]
-tags: ["class/AuthorizeAction", "#is_/an_/AuthorizeAction", "class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction"]
+tags: ["class/AuthorizeAction", "#is_an_/AuthorizeAction", "class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
 ---
 
@@ -17,7 +17,7 @@ The act of granting permission to an object.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AuthorizeAction
+#is_an_/AuthorizeAction
 #class/AuthorizeAction
 #class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction
 

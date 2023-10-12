@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CheckInAction, class/Thing/Action/InteractAction/CommunicateAction/CheckInAction, is_a_/CheckInAction, schema-org/CheckInAction]
-tags: ["class/CheckInAction", "#is_/a_/CheckInAction", "class/Thing/Action/InteractAction/CommunicateAction/CheckInAction"]
+tags: ["class/CheckInAction", "#is_a_/CheckInAction", "class/Thing/Action/InteractAction/CommunicateAction/CheckInAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---
 
@@ -23,7 +23,7 @@ Related actions:
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CheckInAction
+#is_a_/CheckInAction
 #class/CheckInAction
 #class/Thing/Action/InteractAction/CommunicateAction/CheckInAction
 

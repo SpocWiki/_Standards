@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalCause, class/Thing/MedicalEntity/MedicalCause, is_a_/MedicalCause, schema-org/MedicalCause]
-tags: ["class/MedicalCause", "#is_/a_/MedicalCause", "class/Thing/MedicalEntity/MedicalCause"]
+tags: ["class/MedicalCause", "#is_a_/MedicalCause", "class/Thing/MedicalEntity/MedicalCause"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ The causative agent(s) that are responsible for the pathophysiologic process tha
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalCause
+#is_a_/MedicalCause
 #class/MedicalCause
 #class/Thing/MedicalEntity/MedicalCause
 

@@ -36,7 +36,7 @@ aliases:
 Class of all public_healths.
 
 Tag Instances like this: 
-#is_/a_/public_health
+#is_a_/public_health
 
 Branch of medicine that pertains to the health services to improve and protect community health, especially epidemiology, sanitation, immunization, and preventive medicine.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all real_estate_listings.
 
 Tag Instances like this: 
-#is_/a_/real_estate_listing
+#is_a_/real_estate_listing
 
 [ #is_/part_of :: https://pending.schema.org ]
 

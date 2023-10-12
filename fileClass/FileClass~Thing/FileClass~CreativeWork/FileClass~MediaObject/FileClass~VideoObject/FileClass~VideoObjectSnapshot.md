@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/VideoObjectSnapshot, class/Thing/CreativeWork/MediaObject/VideoObject/VideoObjectSnapshot, is_a_/VideoObjectSnapshot, schema-org/VideoObjectSnapshot]
-tags: ["class/VideoObjectSnapshot", "#is_/a_/VideoObjectSnapshot", "class/Thing/CreativeWork/MediaObject/VideoObject/VideoObjectSnapshot"]
+tags: ["class/VideoObjectSnapshot", "#is_a_/VideoObjectSnapshot", "class/Thing/CreativeWork/MediaObject/VideoObject/VideoObjectSnapshot"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~VideoObject
 ---
 
@@ -17,7 +17,7 @@ A specific and exact (byte-for-byte) version of a [[VideoObject]]. Two byte-for-
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/VideoObjectSnapshot
+#is_a_/VideoObjectSnapshot
 #class/VideoObjectSnapshot
 #class/Thing/CreativeWork/MediaObject/VideoObject/VideoObjectSnapshot
 

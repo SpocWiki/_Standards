@@ -36,7 +36,7 @@ aliases:
 Class of all order_processings.
 
 Tag Instances like this: 
-#is_/an_/order_processing
+#is_an_/order_processing
 
 OrderStatus representing that an order is being processed.
 

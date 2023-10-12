@@ -34,7 +34,7 @@ aliases:
 Class of all molecular_entitys.
 
 Tag Instances like this: 
-#is_/a_/molecular_entity
+#is_a_/molecular_entity
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all TRUEs.
 
 Tag Instances like this: 
-#is_/a_/TRUE
+#is_a_/TRUE
 
 The boolean value true.
 

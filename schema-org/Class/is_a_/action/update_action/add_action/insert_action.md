@@ -34,7 +34,7 @@ aliases:
 Class of all insert_actions.
 
 Tag Instances like this: 
-#is_/an_/insert_action
+#is_an_/insert_action
 
 The act of adding at a specific location in an ordered collection.
 

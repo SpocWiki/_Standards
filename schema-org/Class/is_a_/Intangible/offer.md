@@ -34,7 +34,7 @@ aliases:
 Class of all offers.
 
 Tag Instances like this: 
-#is_/an_/offer
+#is_an_/offer
 
 An offer to transfer some rights to an item or to provide a service â€” for example, an offer to sell tickets to an event, to rent the DVD of a movie, to stream a TV show over the internet, to repair a motorcycle, or to loan a book.
 

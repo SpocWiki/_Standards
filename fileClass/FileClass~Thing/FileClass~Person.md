@@ -5,7 +5,7 @@ excludes:
 icon: person-standing
 version: 5
 tagNames: [class/Person, class/Thing/Person, is_a_/Person, schema-org/Person]
-tags: ["class/Person", "#is_/a_/Person", "class/Thing/Person"]
+tags: ["class/Person", "#is_a_/Person", "class/Thing/Person"]
 extends: FileClass~Thing
 ---
 
@@ -17,7 +17,7 @@ A person (alive, dead, undead, or fictional).
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Person
+#is_a_/Person
 #class/Person
 #class/Thing/Person
 

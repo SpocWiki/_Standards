@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalIndication, class/Thing/MedicalEntity/MedicalIndication, is_a_/MedicalIndication, schema-org/MedicalIndication]
-tags: ["class/MedicalIndication", "#is_/a_/MedicalIndication", "class/Thing/MedicalEntity/MedicalIndication"]
+tags: ["class/MedicalIndication", "#is_a_/MedicalIndication", "class/Thing/MedicalEntity/MedicalIndication"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 
@@ -17,7 +17,7 @@ A condition or factor that indicates use of a medical therapy, including signs, 
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MedicalIndication
+#is_a_/MedicalIndication
 #class/MedicalIndication
 #class/Thing/MedicalEntity/MedicalIndication
 

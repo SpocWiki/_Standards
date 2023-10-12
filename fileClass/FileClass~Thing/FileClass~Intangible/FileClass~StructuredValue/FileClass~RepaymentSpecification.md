@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RepaymentSpecification, class/Thing/Intangible/StructuredValue/RepaymentSpecification, is_a_/RepaymentSpecification, schema-org/RepaymentSpecification]
-tags: ["class/RepaymentSpecification", "#is_/a_/RepaymentSpecification", "class/Thing/Intangible/StructuredValue/RepaymentSpecification"]
+tags: ["class/RepaymentSpecification", "#is_a_/RepaymentSpecification", "class/Thing/Intangible/StructuredValue/RepaymentSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 
@@ -17,7 +17,7 @@ A structured value representing repayment.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/RepaymentSpecification
+#is_a_/RepaymentSpecification
 #class/RepaymentSpecification
 #class/Thing/Intangible/StructuredValue/RepaymentSpecification
 

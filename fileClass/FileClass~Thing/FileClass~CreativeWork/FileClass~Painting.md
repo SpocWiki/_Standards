@@ -5,7 +5,7 @@ excludes:
 icon: brush
 version: 5
 tagNames: [class/Painting, class/Thing/CreativeWork/Painting, is_a_/Painting, schema-org/Painting]
-tags: ["class/Painting", "#is_/a_/Painting", "class/Thing/CreativeWork/Painting"]
+tags: ["class/Painting", "#is_a_/Painting", "class/Thing/CreativeWork/Painting"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A painting.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Painting
+#is_a_/Painting
 #class/Painting
 #class/Thing/CreativeWork/Painting
 

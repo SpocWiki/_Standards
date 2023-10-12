@@ -34,7 +34,7 @@ aliases:
 Class of all list_items.
 
 Tag Instances like this: 
-#is_/a_/list_item
+#is_a_/list_item
 
 An list item, e.g. a step in a checklist or how-to description.
 

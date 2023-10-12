@@ -36,7 +36,7 @@ aliases:
 Class of all order_delivereds.
 
 Tag Instances like this: 
-#is_/an_/order_delivered
+#is_an_/order_delivered
 
 OrderStatus representing successful delivery of an order.
 

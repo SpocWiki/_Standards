@@ -34,7 +34,7 @@ aliases:
 Class of all countrys.
 
 Tag Instances like this: 
-#is_/a_/country
+#is_a_/country
 
 A country.
 

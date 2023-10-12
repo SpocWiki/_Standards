@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DietarySupplement, class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement, is_a_/DietarySupplement, schema-org/DietarySupplement]
-tags: ["class/DietarySupplement", "#is_/a_/DietarySupplement", "class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement"]
+tags: ["class/DietarySupplement", "#is_a_/DietarySupplement", "class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance
 ---
 
@@ -17,7 +17,7 @@ A product taken by mouth that contains a dietary ingredient intended to suppleme
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DietarySupplement
+#is_a_/DietarySupplement
 #class/DietarySupplement
 #class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement
 

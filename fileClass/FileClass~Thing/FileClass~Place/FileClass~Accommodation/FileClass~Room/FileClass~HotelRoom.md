@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HotelRoom, class/Thing/Place/Accommodation/Room/HotelRoom, is_a_/HotelRoom, schema-org/HotelRoom]
-tags: ["class/HotelRoom", "#is_/a_/HotelRoom", "class/Thing/Place/Accommodation/Room/HotelRoom"]
+tags: ["class/HotelRoom", "#is_a_/HotelRoom", "class/Thing/Place/Accommodation/Room/HotelRoom"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room
 ---
 
@@ -19,7 +19,7 @@ A hotel room is a single room in a hotel.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/HotelRoom
+#is_a_/HotelRoom
 #class/HotelRoom
 #class/Thing/Place/Accommodation/Room/HotelRoom
 

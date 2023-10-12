@@ -34,7 +34,7 @@ aliases:
 Class of all pay_actions.
 
 Tag Instances like this: 
-#is_/a_/pay_action
+#is_a_/pay_action
 
 An agent pays a price to a participant.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all offer_shipping_detailss.
 
 Tag Instances like this: 
-#is_/an_/offer_shipping_details
+#is_an_/offer_shipping_details
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -34,7 +34,7 @@ aliases:
 Class of all music_groups.
 
 Tag Instances like this: 
-#is_/a_/music_group
+#is_a_/music_group
 
 A musical group, such as a band, an orchestra, or a choir. Can also be a solo musician.
 

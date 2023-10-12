@@ -34,7 +34,7 @@ aliases:
 Class of all podcast_seriess.
 
 Tag Instances like this: 
-#is_/a_/podcast_series
+#is_a_/podcast_series
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Project, class/Thing/Organization/Project, is_a_/Project, schema-org/Project]
-tags: ["class/Project", "#is_/a_/Project", "class/Thing/Organization/Project"]
+tags: ["class/Project", "#is_a_/Project", "class/Thing/Organization/Project"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 
@@ -18,7 +18,7 @@ An enterprise (potentially individual but typically collaborative), planned to a
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Project
+#is_a_/Project
 #class/Project
 #class/Thing/Organization/Project
 

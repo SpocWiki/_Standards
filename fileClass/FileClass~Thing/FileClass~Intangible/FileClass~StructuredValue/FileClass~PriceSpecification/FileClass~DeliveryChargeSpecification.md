@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DeliveryChargeSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification, is_a_/DeliveryChargeSpecification, schema-org/DeliveryChargeSpecification]
-tags: ["class/DeliveryChargeSpecification", "#is_/a_/DeliveryChargeSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification"]
+tags: ["class/DeliveryChargeSpecification", "#is_a_/DeliveryChargeSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 ---
 
@@ -17,7 +17,7 @@ The price for the delivery of an offer using a particular delivery method.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/DeliveryChargeSpecification
+#is_a_/DeliveryChargeSpecification
 #class/DeliveryChargeSpecification
 #class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification
 

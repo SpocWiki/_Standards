@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MerchantReturnPolicySeasonalOverride, class/Thing/Intangible/MerchantReturnPolicySeasonalOverride, is_a_/MerchantReturnPolicySeasonalOverride, schema-org/MerchantReturnPolicySeasonalOverride]
-tags: ["class/MerchantReturnPolicySeasonalOverride", "#is_/a_/MerchantReturnPolicySeasonalOverride", "class/Thing/Intangible/MerchantReturnPolicySeasonalOverride"]
+tags: ["class/MerchantReturnPolicySeasonalOverride", "#is_a_/MerchantReturnPolicySeasonalOverride", "class/Thing/Intangible/MerchantReturnPolicySeasonalOverride"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 
@@ -17,7 +17,7 @@ A seasonal override of a return policy, for example used for holidays.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/MerchantReturnPolicySeasonalOverride
+#is_a_/MerchantReturnPolicySeasonalOverride
 #class/MerchantReturnPolicySeasonalOverride
 #class/Thing/Intangible/MerchantReturnPolicySeasonalOverride
 

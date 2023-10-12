@@ -34,7 +34,7 @@ aliases:
 Class of all accounting_services.
 
 Tag Instances like this: 
-#is_/an_/accounting_service
+#is_an_/accounting_service
 
 Accountancy business.
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SuspendAction, class/Thing/Action/ControlAction/SuspendAction, is_a_/SuspendAction, schema-org/SuspendAction]
-tags: ["class/SuspendAction", "#is_/a_/SuspendAction", "class/Thing/Action/ControlAction/SuspendAction"]
+tags: ["class/SuspendAction", "#is_a_/SuspendAction", "class/Thing/Action/ControlAction/SuspendAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ControlAction
 ---
 
@@ -17,7 +17,7 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/SuspendAction
+#is_a_/SuspendAction
 #class/SuspendAction
 #class/Thing/Action/ControlAction/SuspendAction
 

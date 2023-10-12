@@ -36,7 +36,7 @@ aliases:
 Class of all rsvp_response_yess.
 
 Tag Instances like this: 
-#is_/a_/rsvp_response_yes
+#is_a_/rsvp_response_yes
 
 The invitee will attend.
 

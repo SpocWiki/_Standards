@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CreativeWorkAndLifestyleModification, class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification, is_a_/CreativeWorkAndLifestyleModification, schema-org/CreativeWorkAndLifestyleModification]
-tags: ["class/CreativeWorkAndLifestyleModification", "#is_/a_/CreativeWorkAndLifestyleModification", "class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification"]
+tags: ["class/CreativeWorkAndLifestyleModification", "#is_a_/CreativeWorkAndLifestyleModification", "class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification
 ---
 
@@ -17,7 +17,7 @@ See CreativeWork, LifestyleModification for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CreativeWorkAndLifestyleModification
+#is_a_/CreativeWorkAndLifestyleModification
 #class/CreativeWorkAndLifestyleModification
 #class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification
 

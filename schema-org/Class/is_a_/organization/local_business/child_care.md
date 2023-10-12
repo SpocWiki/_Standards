@@ -34,7 +34,7 @@ aliases:
 Class of all child_cares.
 
 Tag Instances like this: 
-#is_/a_/child_care
+#is_a_/child_care
 
 A Childcare center.
 

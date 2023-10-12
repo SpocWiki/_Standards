@@ -36,7 +36,7 @@ aliases:
 Class of all low_lactose_diets.
 
 Tag Instances like this: 
-#is_/a_/low_lactose_diet
+#is_a_/low_lactose_diet
 
 A diet appropriate for people with lactose intolerance.
 

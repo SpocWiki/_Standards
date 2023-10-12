@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Syllabus, class/Thing/CreativeWork/LearningResource/Syllabus, is_a_/Syllabus, schema-org/Syllabus]
-tags: ["class/Syllabus", "#is_/a_/Syllabus", "class/Thing/CreativeWork/LearningResource/Syllabus"]
+tags: ["class/Syllabus", "#is_a_/Syllabus", "class/Thing/CreativeWork/LearningResource/Syllabus"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
 ---
 
@@ -17,7 +17,7 @@ A syllabus that describes the material covered in a course, often with several s
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Syllabus
+#is_a_/Syllabus
 #class/Syllabus
 #class/Thing/CreativeWork/LearningResource/Syllabus
 

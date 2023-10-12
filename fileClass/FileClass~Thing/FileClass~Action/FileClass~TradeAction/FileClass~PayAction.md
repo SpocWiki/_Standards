@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PayAction, class/Thing/Action/TradeAction/PayAction, is_a_/PayAction, schema-org/PayAction]
-tags: ["class/PayAction", "#is_/a_/PayAction", "class/Thing/Action/TradeAction/PayAction"]
+tags: ["class/PayAction", "#is_a_/PayAction", "class/Thing/Action/TradeAction/PayAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---
 
@@ -17,7 +17,7 @@ An agent pays a price to a participant.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PayAction
+#is_a_/PayAction
 #class/PayAction
 #class/Thing/Action/TradeAction/PayAction
 

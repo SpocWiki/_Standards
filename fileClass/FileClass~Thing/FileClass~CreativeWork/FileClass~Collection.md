@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Collection, class/Thing/CreativeWork/Collection, is_a_/Collection, schema-org/Collection]
-tags: ["class/Collection", "#is_/a_/Collection", "class/Thing/CreativeWork/Collection"]
+tags: ["class/Collection", "#is_a_/Collection", "class/Thing/CreativeWork/Collection"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -17,7 +17,7 @@ A collection of items, e.g. creative works or products.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Collection
+#is_a_/Collection
 #class/Collection
 #class/Thing/CreativeWork/Collection
 

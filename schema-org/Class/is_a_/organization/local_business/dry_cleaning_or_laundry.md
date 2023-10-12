@@ -34,7 +34,7 @@ aliases:
 Class of all dry_cleaning_or_laundrys.
 
 Tag Instances like this: 
-#is_/a_/dry_cleaning_or_laundry
+#is_a_/dry_cleaning_or_laundry
 
 A dry-cleaning business.
 

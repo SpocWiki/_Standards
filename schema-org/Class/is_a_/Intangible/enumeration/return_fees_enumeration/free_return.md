@@ -36,7 +36,7 @@ aliases:
 Class of all free_returns.
 
 Tag Instances like this: 
-#is_/a_/free_return
+#is_a_/free_return
 
 [ #is_/part_of :: https://pending.schema.org ]
 

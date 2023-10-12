@@ -34,7 +34,7 @@ aliases:
 Class of all activate_actions.
 
 Tag Instances like this: 
-#is_/an_/activate_action
+#is_an_/activate_action
 
 The act of starting or activating a device or application (e.g. starting a timer or turning on a flashlight).
 

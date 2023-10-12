@@ -34,7 +34,7 @@ aliases:
 Class of all auto_body_shops.
 
 Tag Instances like this: 
-#is_/an_/auto_body_shop
+#is_an_/auto_body_shop
 
 Auto body shop.
 

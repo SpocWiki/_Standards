@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BroadcastEvent, class/Thing/Event/PublicationEvent/BroadcastEvent, is_a_/BroadcastEvent, schema-org/BroadcastEvent]
-tags: ["class/BroadcastEvent", "#is_/a_/BroadcastEvent", "class/Thing/Event/PublicationEvent/BroadcastEvent"]
+tags: ["class/BroadcastEvent", "#is_a_/BroadcastEvent", "class/Thing/Event/PublicationEvent/BroadcastEvent"]
 extends: FileClass~Thing/FileClass~Event/FileClass~PublicationEvent
 ---
 
@@ -17,7 +17,7 @@ An over the air or online broadcast event.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/BroadcastEvent
+#is_a_/BroadcastEvent
 #class/BroadcastEvent
 #class/Thing/Event/PublicationEvent/BroadcastEvent
 

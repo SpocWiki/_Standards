@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AnalysisNewsArticle, class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle, is_an_/AnalysisNewsArticle, schema-org/AnalysisNewsArticle]
-tags: ["class/AnalysisNewsArticle", "#is_/an_/AnalysisNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle"]
+tags: ["class/AnalysisNewsArticle", "#is_an_/AnalysisNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 ---
 
@@ -17,7 +17,7 @@ An AnalysisNewsArticle is a [[NewsArticle]] that, while based on factual reporti
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/an_/AnalysisNewsArticle
+#is_an_/AnalysisNewsArticle
 #class/AnalysisNewsArticle
 #class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle
 

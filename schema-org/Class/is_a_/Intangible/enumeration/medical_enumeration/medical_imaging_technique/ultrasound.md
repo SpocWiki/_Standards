@@ -36,7 +36,7 @@ aliases:
 Class of all ultrasounds.
 
 Tag Instances like this: 
-#is_/an_/ultrasound
+#is_an_/ultrasound
 
 Ultrasound imaging.
 

@@ -34,7 +34,7 @@ aliases:
 Class of all allocate_actions.
 
 Tag Instances like this: 
-#is_/an_/allocate_action
+#is_an_/allocate_action
 
 The act of organizing tasks/objects/events by associating resources to it.
 

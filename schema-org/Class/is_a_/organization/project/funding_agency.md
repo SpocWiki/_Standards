@@ -34,7 +34,7 @@ aliases:
 Class of all funding_agencys.
 
 Tag Instances like this: 
-#is_/a_/funding_agency
+#is_a_/funding_agency
 
 [ #is_/part_of :: https://pending.schema.org ]
 

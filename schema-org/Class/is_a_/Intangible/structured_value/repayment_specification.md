@@ -34,7 +34,7 @@ aliases:
 Class of all repayment_specifications.
 
 Tag Instances like this: 
-#is_/a_/repayment_specification
+#is_a_/repayment_specification
 
 [ #is_/part_of :: https://pending.schema.org ]
 

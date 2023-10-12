@@ -36,7 +36,7 @@ aliases:
 Class of all wearable_measurement_outside_legs.
 
 Tag Instances like this: 
-#is_/a_/wearable_measurement_outside_leg
+#is_a_/wearable_measurement_outside_leg
 
 [ #is_/part_of :: https://pending.schema.org ]
 

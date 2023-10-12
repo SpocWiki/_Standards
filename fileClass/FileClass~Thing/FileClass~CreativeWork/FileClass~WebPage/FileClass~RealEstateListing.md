@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RealEstateListing, class/Thing/CreativeWork/WebPage/RealEstateListing, is_a_/RealEstateListing, schema-org/RealEstateListing]
-tags: ["class/RealEstateListing", "#is_/a_/RealEstateListing", "class/Thing/CreativeWork/WebPage/RealEstateListing"]
+tags: ["class/RealEstateListing", "#is_a_/RealEstateListing", "class/Thing/CreativeWork/WebPage/RealEstateListing"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---
 
@@ -18,7 +18,7 @@ A [[RealEstateListing]] is a listing that describes one or more real-estate [[Of
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/RealEstateListing
+#is_a_/RealEstateListing
 #class/RealEstateListing
 #class/Thing/CreativeWork/WebPage/RealEstateListing
 

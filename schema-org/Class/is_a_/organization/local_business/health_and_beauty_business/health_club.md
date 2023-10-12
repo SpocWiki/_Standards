@@ -34,7 +34,7 @@ aliases:
 Class of all health_clubs.
 
 Tag Instances like this: 
-#is_/a_/health_club
+#is_a_/health_club
 
 A health club.
 

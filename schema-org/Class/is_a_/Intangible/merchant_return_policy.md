@@ -36,7 +36,7 @@ aliases:
 Class of all merchant_return_policys.
 
 Tag Instances like this: 
-#is_/a_/merchant_return_policy
+#is_a_/merchant_return_policy
 
 [ #is_/part_of :: https://pending.schema.org ]
 

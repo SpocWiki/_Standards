@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CreativeWorkAndPhysicalActivity, class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity, is_a_/CreativeWorkAndPhysicalActivity, schema-org/CreativeWorkAndPhysicalActivity]
-tags: ["class/CreativeWorkAndPhysicalActivity", "#is_/a_/CreativeWorkAndPhysicalActivity", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity"]
+tags: ["class/CreativeWorkAndPhysicalActivity", "#is_a_/CreativeWorkAndPhysicalActivity", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity
 ---
 
@@ -17,7 +17,7 @@ See CreativeWork, PhysicalActivity for more information.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/CreativeWorkAndPhysicalActivity
+#is_a_/CreativeWorkAndPhysicalActivity
 #class/CreativeWorkAndPhysicalActivity
 #class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity
 

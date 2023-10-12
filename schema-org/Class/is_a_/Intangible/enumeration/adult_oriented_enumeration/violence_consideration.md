@@ -36,7 +36,7 @@ aliases:
 Class of all violence_considerations.
 
 Tag Instances like this: 
-#is_/a_/violence_consideration
+#is_a_/violence_consideration
 
 [ #is_/part_of :: https://pending.schema.org ]
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PublicationVolume, class/Thing/CreativeWork/PublicationVolume, is_a_/PublicationVolume, schema-org/PublicationVolume]
-tags: ["class/PublicationVolume", "#is_/a_/PublicationVolume", "class/Thing/CreativeWork/PublicationVolume"]
+tags: ["class/PublicationVolume", "#is_a_/PublicationVolume", "class/Thing/CreativeWork/PublicationVolume"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
@@ -19,7 +19,7 @@ See also [blog post](http://blog.schema.org/2014/09/schemaorg-support-for-biblio
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/PublicationVolume
+#is_a_/PublicationVolume
 #class/PublicationVolume
 #class/Thing/CreativeWork/PublicationVolume
 

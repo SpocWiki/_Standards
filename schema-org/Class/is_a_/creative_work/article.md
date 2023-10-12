@@ -34,7 +34,7 @@ aliases:
 Class of all articles.
 
 Tag Instances like this: 
-#is_/an_/article
+#is_an_/article
 
 An article, such as a news article or piece of investigative report. Newspapers and magazines have articles of many different types and this is intended to cover them all.
 

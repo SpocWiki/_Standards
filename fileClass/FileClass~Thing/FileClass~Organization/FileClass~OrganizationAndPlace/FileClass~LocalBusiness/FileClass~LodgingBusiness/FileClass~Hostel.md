@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Hostel, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hostel, is_a_/Hostel, schema-org/Hostel]
-tags: ["class/Hostel", "#is_/a_/Hostel", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hostel"]
+tags: ["class/Hostel", "#is_a_/Hostel", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hostel"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LodgingBusiness
 ---
 
@@ -19,7 +19,7 @@ A hostel - cheap accommodation, often in shared dormitories.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Hostel
+#is_a_/Hostel
 #class/Hostel
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Hostel
 

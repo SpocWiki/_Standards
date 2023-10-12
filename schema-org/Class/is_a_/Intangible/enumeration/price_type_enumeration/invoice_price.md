@@ -36,7 +36,7 @@ aliases:
 Class of all invoice_prices.
 
 Tag Instances like this: 
-#is_/an_/invoice_price
+#is_an_/invoice_price
 
 [ #is_/part_of :: https://pending.schema.org ]
 

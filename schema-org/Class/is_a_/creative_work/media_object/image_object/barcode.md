@@ -34,7 +34,7 @@ aliases:
 Class of all barcodes.
 
 Tag Instances like this: 
-#is_/a_/barcode
+#is_a_/barcode
 
 An image of a visual machine-readable code such as a barcode or QR code.
 

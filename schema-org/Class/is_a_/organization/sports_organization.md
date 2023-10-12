@@ -34,7 +34,7 @@ aliases:
 Class of all sports_organizations.
 
 Tag Instances like this: 
-#is_/a_/sports_organization
+#is_a_/sports_organization
 
 Represents the collection of all sports organizations, including sports teams, governing bodies, and sports associations.
 

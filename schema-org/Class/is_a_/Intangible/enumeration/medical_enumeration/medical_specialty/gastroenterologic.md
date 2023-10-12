@@ -36,7 +36,7 @@ aliases:
 Class of all gastroenterologics.
 
 Tag Instances like this: 
-#is_/a_/gastroenterologic
+#is_a_/gastroenterologic
 
 A specific branch of medical science that pertains to diagnosis and treatment of disorders of digestive system.
 

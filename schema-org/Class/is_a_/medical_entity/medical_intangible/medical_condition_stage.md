@@ -34,7 +34,7 @@ aliases:
 Class of all medical_condition_stages.
 
 Tag Instances like this: 
-#is_/a_/medical_condition_stage
+#is_a_/medical_condition_stage
 
 A stage of a medical condition, such as 'Stage IIIa'.
 
