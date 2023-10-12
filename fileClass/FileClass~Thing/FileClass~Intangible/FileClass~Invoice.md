@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Invoice, class/Thing/Intangible/Invoice, schema-org/Invoice]
+tagNames: [class/Invoice, class/Thing/Intangible/Invoice, is_an_/Invoice, schema-org/Invoice]
 tags: ["class/Invoice", "#is_/an_/Invoice", "class/Thing/Intangible/Invoice"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ItemList, class/Thing/Intangible/ItemList, schema-org/ItemList]
+tagNames: [class/ItemList, class/Thing/Intangible/ItemList, is_an_/ItemList, schema-org/ItemList]
 tags: ["class/ItemList", "#is_/an_/ItemList", "class/Thing/Intangible/ItemList"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

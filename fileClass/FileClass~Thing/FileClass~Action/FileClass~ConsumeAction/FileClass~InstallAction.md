@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/InstallAction, class/Thing/Action/ConsumeAction/InstallAction, schema-org/InstallAction]
+tagNames: [class/InstallAction, class/Thing/Action/ConsumeAction/InstallAction, is_an_/InstallAction, schema-org/InstallAction]
 tags: ["class/InstallAction", "#is_/an_/InstallAction", "class/Thing/Action/ConsumeAction/InstallAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 ---

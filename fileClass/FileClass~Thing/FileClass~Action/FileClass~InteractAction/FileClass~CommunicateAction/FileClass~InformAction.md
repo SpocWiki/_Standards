@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/InformAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction, schema-org/InformAction]
+tagNames: [class/InformAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction, is_an_/InformAction, schema-org/InformAction]
 tags: ["class/InformAction", "#is_/an_/InformAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---

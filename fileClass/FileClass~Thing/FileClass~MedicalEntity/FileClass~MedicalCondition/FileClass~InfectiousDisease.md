@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/InfectiousDisease, class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease, schema-org/InfectiousDisease]
+tagNames: [class/InfectiousDisease, class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease, is_an_/InfectiousDisease, schema-org/InfectiousDisease]
 tags: ["class/InfectiousDisease", "#is_/an_/InfectiousDisease", "class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition
 ---
