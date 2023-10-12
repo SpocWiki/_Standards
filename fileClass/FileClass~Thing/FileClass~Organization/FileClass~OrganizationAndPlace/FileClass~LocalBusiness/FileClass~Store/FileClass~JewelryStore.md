@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: gem
 version: 5
-tagNames: [class/JewelryStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore, schema-org/JewelryStore]
+tagNames: [class/JewelryStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore, is_a_/JewelryStore, schema-org/JewelryStore]
 tags: ["class/JewelryStore", "#is_/a_/JewelryStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/JewelryStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MedicalGuideline, class/Thing/MedicalEntity/MedicalGuideline, schema-org/MedicalGuideline]
+tagNames: [class/MedicalGuideline, class/Thing/MedicalEntity/MedicalGuideline, is_a_/MedicalGuideline, schema-org/MedicalGuideline]
 tags: ["class/MedicalGuideline", "#is_/a_/MedicalGuideline", "class/Thing/MedicalEntity/MedicalGuideline"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---

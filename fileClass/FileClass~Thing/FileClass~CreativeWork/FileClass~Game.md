@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Game, class/Thing/CreativeWork/Game, schema-org/Game]
+tagNames: [class/Game, class/Thing/CreativeWork/Game, is_a_/Game, schema-org/Game]
 tags: ["class/Game", "#is_/a_/Game", "class/Thing/CreativeWork/Game"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

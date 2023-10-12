@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ScreeningEvent, class/Thing/Event/ScreeningEvent, schema-org/ScreeningEvent]
+tagNames: [class/ScreeningEvent, class/Thing/Event/ScreeningEvent, is_a_/ScreeningEvent, schema-org/ScreeningEvent]
 tags: ["class/ScreeningEvent", "#is_/a_/ScreeningEvent", "class/Thing/Event/ScreeningEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Muscle, class/Thing/MedicalEntity/AnatomicalStructure/Muscle, schema-org/Muscle]
+tagNames: [class/Muscle, class/Thing/MedicalEntity/AnatomicalStructure/Muscle, is_a_/Muscle, schema-org/Muscle]
 tags: ["class/Muscle", "#is_/a_/Muscle", "class/Thing/MedicalEntity/AnatomicalStructure/Muscle"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MovieRentalStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MovieRentalStore, schema-org/MovieRentalStore]
+tagNames: [class/MovieRentalStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MovieRentalStore, is_a_/MovieRentalStore, schema-org/MovieRentalStore]
 tags: ["class/MovieRentalStore", "#is_/a_/MovieRentalStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MovieRentalStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Recipe, class/Thing/CreativeWork/HowTo/Recipe, schema-org/Recipe]
+tagNames: [class/Recipe, class/Thing/CreativeWork/HowTo/Recipe, is_a_/Recipe, schema-org/Recipe]
 tags: ["class/Recipe", "#is_/a_/Recipe", "class/Thing/CreativeWork/HowTo/Recipe"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/RoofingContractor, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/RoofingContractor, schema-org/RoofingContractor]
+tagNames: [class/RoofingContractor, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/RoofingContractor, is_a_/RoofingContractor, schema-org/RoofingContractor]
 tags: ["class/RoofingContractor", "#is_/a_/RoofingContractor", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/RoofingContractor"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~HomeAndConstructionBusiness
 ---

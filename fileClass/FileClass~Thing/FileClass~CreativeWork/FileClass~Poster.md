@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Poster, class/Thing/CreativeWork/Poster, schema-org/Poster]
+tagNames: [class/Poster, class/Thing/CreativeWork/Poster, is_a_/Poster, schema-org/Poster]
 tags: ["class/Poster", "#is_/a_/Poster", "class/Thing/CreativeWork/Poster"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/VideoGameSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/VideoGameSeries, schema-org/VideoGameSeries]
+tagNames: [class/VideoGameSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/VideoGameSeries, is_a_/VideoGameSeries, schema-org/VideoGameSeries]
 tags: ["class/VideoGameSeries", "#is_/a_/VideoGameSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/VideoGameSeries"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 ---

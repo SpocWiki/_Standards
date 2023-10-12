@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: microscope
 version: 5
-tagNames: [class/ResearchProject, class/Thing/Organization/Project/ResearchProject, schema-org/ResearchProject]
+tagNames: [class/ResearchProject, class/Thing/Organization/Project/ResearchProject, is_a_/ResearchProject, schema-org/ResearchProject]
 tags: ["class/ResearchProject", "#is_/a_/ResearchProject", "class/Thing/Organization/Project/ResearchProject"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~Project
 ---

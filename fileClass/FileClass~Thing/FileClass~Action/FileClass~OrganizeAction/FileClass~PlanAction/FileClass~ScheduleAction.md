@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ScheduleAction, class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction, schema-org/ScheduleAction]
+tagNames: [class/ScheduleAction, class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction, is_a_/ScheduleAction, schema-org/ScheduleAction]
 tags: ["class/ScheduleAction", "#is_/a_/ScheduleAction", "class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction
 ---

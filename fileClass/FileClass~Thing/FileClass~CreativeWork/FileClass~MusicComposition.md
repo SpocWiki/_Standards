@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: music
 version: 5
-tagNames: [class/MusicComposition, class/Thing/CreativeWork/MusicComposition, schema-org/MusicComposition]
+tagNames: [class/MusicComposition, class/Thing/CreativeWork/MusicComposition, is_a_/MusicComposition, schema-org/MusicComposition]
 tags: ["class/MusicComposition", "#is_/a_/MusicComposition", "class/Thing/CreativeWork/MusicComposition"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

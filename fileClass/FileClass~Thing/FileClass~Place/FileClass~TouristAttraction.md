@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/TouristAttraction, class/Thing/Place/TouristAttraction, schema-org/TouristAttraction]
+tagNames: [class/TouristAttraction, class/Thing/Place/TouristAttraction, is_a_/TouristAttraction, schema-org/TouristAttraction]
 tags: ["class/TouristAttraction", "#is_/a_/TouristAttraction", "class/Thing/Place/TouristAttraction"]
 extends: FileClass~Thing/FileClass~Place
 ---

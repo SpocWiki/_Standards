@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DrugCost, class/Thing/MedicalEntity/DrugCost, schema-org/DrugCost]
+tagNames: [class/DrugCost, class/Thing/MedicalEntity/DrugCost, is_a_/DrugCost, schema-org/DrugCost]
 tags: ["class/DrugCost", "#is_/a_/DrugCost", "class/Thing/MedicalEntity/DrugCost"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---

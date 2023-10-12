@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ControlAction, class/Thing/Action/ControlAction, schema-org/ControlAction]
+tagNames: [class/ControlAction, class/Thing/Action/ControlAction, is_a_/ControlAction, schema-org/ControlAction]
 tags: ["class/ControlAction", "#is_/a_/ControlAction", "class/Thing/Action/ControlAction"]
 extends: FileClass~Thing/FileClass~Action
 ---

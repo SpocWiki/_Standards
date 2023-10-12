@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/WebSite, class/Thing/CreativeWork/WebSite, schema-org/WebSite]
+tagNames: [class/WebSite, class/Thing/CreativeWork/WebSite, is_a_/WebSite, schema-org/WebSite]
 tags: ["class/WebSite", "#is_/a_/WebSite", "class/Thing/CreativeWork/WebSite"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

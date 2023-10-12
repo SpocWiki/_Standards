@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/SocialMediaPosting, class/Thing/CreativeWork/Article/SocialMediaPosting, schema-org/SocialMediaPosting]
+tagNames: [class/SocialMediaPosting, class/Thing/CreativeWork/Article/SocialMediaPosting, is_a_/SocialMediaPosting, schema-org/SocialMediaPosting]
 tags: ["class/SocialMediaPosting", "#is_/a_/SocialMediaPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 ---

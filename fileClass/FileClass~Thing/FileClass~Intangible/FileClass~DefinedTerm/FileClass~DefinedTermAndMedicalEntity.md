@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DefinedTermAndMedicalEntity, class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity, schema-org/DefinedTermAndMedicalEntity]
+tagNames: [class/DefinedTermAndMedicalEntity, class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity, is_a_/DefinedTermAndMedicalEntity, schema-org/DefinedTermAndMedicalEntity]
 tags: ["class/DefinedTermAndMedicalEntity", "#is_/a_/DefinedTermAndMedicalEntity", "class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DefinedTerm, class/Thing/Intangible/DefinedTerm, schema-org/DefinedTerm]
+tagNames: [class/DefinedTerm, class/Thing/Intangible/DefinedTerm, is_a_/DefinedTerm, schema-org/DefinedTerm]
 tags: ["class/DefinedTerm", "#is_/a_/DefinedTerm", "class/Thing/Intangible/DefinedTerm"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

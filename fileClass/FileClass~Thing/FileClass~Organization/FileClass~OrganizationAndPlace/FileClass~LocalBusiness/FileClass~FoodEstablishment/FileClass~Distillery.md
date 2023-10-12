@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: martini
 version: 5
-tagNames: [class/Distillery, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery, schema-org/Distillery]
+tagNames: [class/Distillery, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery, is_a_/Distillery, schema-org/Distillery]
 tags: ["class/Distillery", "#is_/a_/Distillery", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Distillery"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FoodEstablishment
 ---

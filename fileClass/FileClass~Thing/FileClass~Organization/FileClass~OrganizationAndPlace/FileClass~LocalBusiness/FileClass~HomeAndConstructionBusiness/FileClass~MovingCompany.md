@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MovingCompany, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/MovingCompany, schema-org/MovingCompany]
+tagNames: [class/MovingCompany, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/MovingCompany, is_a_/MovingCompany, schema-org/MovingCompany]
 tags: ["class/MovingCompany", "#is_/a_/MovingCompany", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/MovingCompany"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~HomeAndConstructionBusiness
 ---

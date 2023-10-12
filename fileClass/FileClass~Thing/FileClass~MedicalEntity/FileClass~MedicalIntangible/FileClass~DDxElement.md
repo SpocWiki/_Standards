@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DDxElement, class/Thing/MedicalEntity/MedicalIntangible/DDxElement, schema-org/DDxElement]
+tagNames: [class/DDxElement, class/Thing/MedicalEntity/MedicalIntangible/DDxElement, is_a_/DDxElement, schema-org/DDxElement]
 tags: ["class/DDxElement", "#is_/a_/DDxElement", "class/Thing/MedicalEntity/MedicalIntangible/DDxElement"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DiagnosticProcedure, class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure, schema-org/DiagnosticProcedure]
+tagNames: [class/DiagnosticProcedure, class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure, is_a_/DiagnosticProcedure, schema-org/DiagnosticProcedure]
 tags: ["class/DiagnosticProcedure", "#is_/a_/DiagnosticProcedure", "class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure
 ---

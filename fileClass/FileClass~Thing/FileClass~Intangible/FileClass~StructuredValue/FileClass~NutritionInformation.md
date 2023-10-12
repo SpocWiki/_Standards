@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/NutritionInformation, class/Thing/Intangible/StructuredValue/NutritionInformation, schema-org/NutritionInformation]
+tagNames: [class/NutritionInformation, class/Thing/Intangible/StructuredValue/NutritionInformation, is_a_/NutritionInformation, schema-org/NutritionInformation]
 tags: ["class/NutritionInformation", "#is_/a_/NutritionInformation", "class/Thing/Intangible/StructuredValue/NutritionInformation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---

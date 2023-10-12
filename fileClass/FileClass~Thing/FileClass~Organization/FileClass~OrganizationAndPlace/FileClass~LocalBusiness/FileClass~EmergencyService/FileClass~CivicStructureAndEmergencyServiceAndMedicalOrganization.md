@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: siren
 version: 5
-tagNames: [class/CivicStructureAndEmergencyServiceAndMedicalOrganization, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization, schema-org/CivicStructureAndEmergencyServiceAndMedicalOrganization]
+tagNames: [class/CivicStructureAndEmergencyServiceAndMedicalOrganization, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization, is_a_/CivicStructureAndEmergencyServiceAndMedicalOrganization, schema-org/CivicStructureAndEmergencyServiceAndMedicalOrganization]
 tags: ["class/CivicStructureAndEmergencyServiceAndMedicalOrganization", "#is_/a_/CivicStructureAndEmergencyServiceAndMedicalOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~EmergencyService
 ---

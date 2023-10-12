@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: fuel
 version: 5
-tagNames: [class/GasStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation, schema-org/GasStation]
+tagNames: [class/GasStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation, is_a_/GasStation, schema-org/GasStation]
 tags: ["class/GasStation", "#is_/a_/GasStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/GasStation"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~AutomotiveBusiness
 ---

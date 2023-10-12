@@ -2,7 +2,7 @@
 limit: 100
 mapWithTag: true
 icon: text-cursor-input
-tagNames: [schema-org/Property]
+tagNames: [is_a_/Property, schema-org/Property]
 excludes: 
 extends: FileClass~Relation
 version: 8

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ProfilePage, class/Thing/CreativeWork/WebPage/ProfilePage, schema-org/ProfilePage]
+tagNames: [class/ProfilePage, class/Thing/CreativeWork/WebPage/ProfilePage, is_a_/ProfilePage, schema-org/ProfilePage]
 tags: ["class/ProfilePage", "#is_/a_/ProfilePage", "class/Thing/CreativeWork/WebPage/ProfilePage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---

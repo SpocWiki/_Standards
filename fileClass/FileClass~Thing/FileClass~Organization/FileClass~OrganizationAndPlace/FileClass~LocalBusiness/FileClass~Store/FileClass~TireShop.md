@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/TireShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop, schema-org/TireShop]
+tagNames: [class/TireShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop, is_a_/TireShop, schema-org/TireShop]
 tags: ["class/TireShop", "#is_/a_/TireShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/TireShop"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---

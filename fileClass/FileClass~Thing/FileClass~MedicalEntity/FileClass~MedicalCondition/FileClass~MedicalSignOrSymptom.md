@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MedicalSignOrSymptom, class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom, schema-org/MedicalSignOrSymptom]
+tagNames: [class/MedicalSignOrSymptom, class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom, is_a_/MedicalSignOrSymptom, schema-org/MedicalSignOrSymptom]
 tags: ["class/MedicalSignOrSymptom", "#is_/a_/MedicalSignOrSymptom", "class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition
 ---

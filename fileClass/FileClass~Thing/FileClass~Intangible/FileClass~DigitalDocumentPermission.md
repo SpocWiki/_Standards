@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DigitalDocumentPermission, class/Thing/Intangible/DigitalDocumentPermission, schema-org/DigitalDocumentPermission]
+tagNames: [class/DigitalDocumentPermission, class/Thing/Intangible/DigitalDocumentPermission, is_a_/DigitalDocumentPermission, schema-org/DigitalDocumentPermission]
 tags: ["class/DigitalDocumentPermission", "#is_/a_/DigitalDocumentPermission", "class/Thing/Intangible/DigitalDocumentPermission"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

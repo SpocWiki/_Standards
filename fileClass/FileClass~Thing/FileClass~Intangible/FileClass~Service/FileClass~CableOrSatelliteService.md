@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CableOrSatelliteService, class/Thing/Intangible/Service/CableOrSatelliteService, schema-org/CableOrSatelliteService]
+tagNames: [class/CableOrSatelliteService, class/Thing/Intangible/Service/CableOrSatelliteService, is_a_/CableOrSatelliteService, schema-org/CableOrSatelliteService]
 tags: ["class/CableOrSatelliteService", "#is_/a_/CableOrSatelliteService", "class/Thing/Intangible/Service/CableOrSatelliteService"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 ---

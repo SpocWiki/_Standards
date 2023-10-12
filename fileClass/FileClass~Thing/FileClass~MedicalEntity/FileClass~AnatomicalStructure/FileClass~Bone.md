@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Bone, class/Thing/MedicalEntity/AnatomicalStructure/Bone, schema-org/Bone]
+tagNames: [class/Bone, class/Thing/MedicalEntity/AnatomicalStructure/Bone, is_a_/Bone, schema-org/Bone]
 tags: ["class/Bone", "#is_/a_/Bone", "class/Thing/MedicalEntity/AnatomicalStructure/Bone"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---

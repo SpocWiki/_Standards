@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: mountain
 version: 5
-tagNames: [class/Volcano, class/Thing/Place/Landform/Volcano, schema-org/Volcano]
+tagNames: [class/Volcano, class/Thing/Place/Landform/Volcano, is_a_/Volcano, schema-org/Volcano]
 tags: ["class/Volcano", "#is_/a_/Volcano", "class/Thing/Place/Landform/Volcano"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform
 ---

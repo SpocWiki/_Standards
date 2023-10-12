@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MedicalBusinessAndMedicalOrganization, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization, schema-org/MedicalBusinessAndMedicalOrganization]
+tagNames: [class/MedicalBusinessAndMedicalOrganization, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization, is_a_/MedicalBusinessAndMedicalOrganization, schema-org/MedicalBusinessAndMedicalOrganization]
 tags: ["class/MedicalBusinessAndMedicalOrganization", "#is_/a_/MedicalBusinessAndMedicalOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~MedicalBusiness
 ---

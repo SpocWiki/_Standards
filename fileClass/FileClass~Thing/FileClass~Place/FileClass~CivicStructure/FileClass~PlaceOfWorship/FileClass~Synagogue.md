@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Synagogue, class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue, schema-org/Synagogue]
+tagNames: [class/Synagogue, class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue, is_a_/Synagogue, schema-org/Synagogue]
 tags: ["class/Synagogue", "#is_/a_/Synagogue", "class/Thing/Place/CivicStructure/PlaceOfWorship/Synagogue"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship
 ---

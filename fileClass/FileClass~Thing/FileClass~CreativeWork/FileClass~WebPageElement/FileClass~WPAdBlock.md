@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/WPAdBlock, class/Thing/CreativeWork/WebPageElement/WPAdBlock, schema-org/WPAdBlock]
+tagNames: [class/WPAdBlock, class/Thing/CreativeWork/WebPageElement/WPAdBlock, is_a_/WPAdBlock, schema-org/WPAdBlock]
 tags: ["class/WPAdBlock", "#is_/a_/WPAdBlock", "class/Thing/CreativeWork/WebPageElement/WPAdBlock"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ProfessionalService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService, schema-org/ProfessionalService]
+tagNames: [class/ProfessionalService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService, is_a_/ProfessionalService, schema-org/ProfessionalService]
 tags: ["class/ProfessionalService", "#is_/a_/ProfessionalService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---

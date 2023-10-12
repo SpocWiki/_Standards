@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Demand, class/Thing/Intangible/Demand, schema-org/Demand]
+tagNames: [class/Demand, class/Thing/Intangible/Demand, is_a_/Demand, schema-org/Demand]
 tags: ["class/Demand", "#is_/a_/Demand", "class/Thing/Intangible/Demand"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

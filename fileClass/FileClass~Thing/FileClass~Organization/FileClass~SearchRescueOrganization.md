@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: siren
 version: 5
-tagNames: [class/SearchRescueOrganization, class/Thing/Organization/SearchRescueOrganization, schema-org/SearchRescueOrganization]
+tagNames: [class/SearchRescueOrganization, class/Thing/Organization/SearchRescueOrganization, is_a_/SearchRescueOrganization, schema-org/SearchRescueOrganization]
 tags: ["class/SearchRescueOrganization", "#is_/a_/SearchRescueOrganization", "class/Thing/Organization/SearchRescueOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---

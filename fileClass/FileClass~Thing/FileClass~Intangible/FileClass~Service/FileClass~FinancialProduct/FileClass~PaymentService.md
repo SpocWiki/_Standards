@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PaymentService, class/Thing/Intangible/Service/FinancialProduct/PaymentService, schema-org/PaymentService]
+tagNames: [class/PaymentService, class/Thing/Intangible/Service/FinancialProduct/PaymentService, is_a_/PaymentService, schema-org/PaymentService]
 tags: ["class/PaymentService", "#is_/a_/PaymentService", "class/Thing/Intangible/Service/FinancialProduct/PaymentService"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 ---

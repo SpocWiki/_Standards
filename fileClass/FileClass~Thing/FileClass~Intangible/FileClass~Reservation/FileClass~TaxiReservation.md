@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/TaxiReservation, class/Thing/Intangible/Reservation/TaxiReservation, schema-org/TaxiReservation]
+tagNames: [class/TaxiReservation, class/Thing/Intangible/Reservation/TaxiReservation, is_a_/TaxiReservation, schema-org/TaxiReservation]
 tags: ["class/TaxiReservation", "#is_/a_/TaxiReservation", "class/Thing/Intangible/Reservation/TaxiReservation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---

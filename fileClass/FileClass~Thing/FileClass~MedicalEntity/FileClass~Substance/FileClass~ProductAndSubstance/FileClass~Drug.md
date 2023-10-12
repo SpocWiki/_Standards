@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Drug, class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug, schema-org/Drug]
+tagNames: [class/Drug, class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug, is_a_/Drug, schema-org/Drug]
 tags: ["class/Drug", "#is_/a_/Drug", "class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance
 ---

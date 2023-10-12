@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/QAPage, class/Thing/CreativeWork/WebPage/QAPage, schema-org/QAPage]
+tagNames: [class/QAPage, class/Thing/CreativeWork/WebPage/QAPage, is_a_/QAPage, schema-org/QAPage]
 tags: ["class/QAPage", "#is_/a_/QAPage", "class/Thing/CreativeWork/WebPage/QAPage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---

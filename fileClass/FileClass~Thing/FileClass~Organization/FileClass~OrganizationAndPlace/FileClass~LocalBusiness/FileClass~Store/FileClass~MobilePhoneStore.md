@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MobilePhoneStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore, schema-org/MobilePhoneStore]
+tagNames: [class/MobilePhoneStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore, is_a_/MobilePhoneStore, schema-org/MobilePhoneStore]
 tags: ["class/MobilePhoneStore", "#is_/a_/MobilePhoneStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---

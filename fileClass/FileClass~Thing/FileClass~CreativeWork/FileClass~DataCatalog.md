@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DataCatalog, class/Thing/CreativeWork/DataCatalog, schema-org/DataCatalog]
+tagNames: [class/DataCatalog, class/Thing/CreativeWork/DataCatalog, is_a_/DataCatalog, schema-org/DataCatalog]
 tags: ["class/DataCatalog", "#is_/a_/DataCatalog", "class/Thing/CreativeWork/DataCatalog"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

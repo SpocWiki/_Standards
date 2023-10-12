@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Grant, class/Thing/Intangible/Grant, schema-org/Grant]
+tagNames: [class/Grant, class/Thing/Intangible/Grant, is_a_/Grant, schema-org/Grant]
 tags: ["class/Grant", "#is_/a_/Grant", "class/Thing/Intangible/Grant"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Menu, class/Thing/CreativeWork/Menu, schema-org/Menu]
+tagNames: [class/Menu, class/Thing/CreativeWork/Menu, is_a_/Menu, schema-org/Menu]
 tags: ["class/Menu", "#is_/a_/Menu", "class/Thing/CreativeWork/Menu"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

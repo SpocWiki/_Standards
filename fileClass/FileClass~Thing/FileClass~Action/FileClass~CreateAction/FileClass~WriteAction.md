@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/WriteAction, class/Thing/Action/CreateAction/WriteAction, schema-org/WriteAction]
+tagNames: [class/WriteAction, class/Thing/Action/CreateAction/WriteAction, is_a_/WriteAction, schema-org/WriteAction]
 tags: ["class/WriteAction", "#is_/a_/WriteAction", "class/Thing/Action/CreateAction/WriteAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 ---

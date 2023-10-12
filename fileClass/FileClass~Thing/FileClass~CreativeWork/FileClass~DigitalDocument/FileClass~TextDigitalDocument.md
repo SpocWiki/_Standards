@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/TextDigitalDocument, class/Thing/CreativeWork/DigitalDocument/TextDigitalDocument, schema-org/TextDigitalDocument]
+tagNames: [class/TextDigitalDocument, class/Thing/CreativeWork/DigitalDocument/TextDigitalDocument, is_a_/TextDigitalDocument, schema-org/TextDigitalDocument]
 tags: ["class/TextDigitalDocument", "#is_/a_/TextDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/TextDigitalDocument"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 ---

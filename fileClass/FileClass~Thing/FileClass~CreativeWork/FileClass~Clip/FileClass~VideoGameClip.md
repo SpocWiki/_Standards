@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/VideoGameClip, class/Thing/CreativeWork/Clip/VideoGameClip, schema-org/VideoGameClip]
+tagNames: [class/VideoGameClip, class/Thing/CreativeWork/Clip/VideoGameClip, is_a_/VideoGameClip, schema-org/VideoGameClip]
 tags: ["class/VideoGameClip", "#is_/a_/VideoGameClip", "class/Thing/CreativeWork/Clip/VideoGameClip"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 ---

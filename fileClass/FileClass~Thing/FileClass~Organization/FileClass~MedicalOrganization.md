@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: cross
 version: 5
-tagNames: [class/MedicalOrganization, class/Thing/Organization/MedicalOrganization, schema-org/MedicalOrganization]
+tagNames: [class/MedicalOrganization, class/Thing/Organization/MedicalOrganization, is_a_/MedicalOrganization, schema-org/MedicalOrganization]
 tags: ["class/MedicalOrganization", "#is_/a_/MedicalOrganization", "class/Thing/Organization/MedicalOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---

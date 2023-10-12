@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/TypeAndQuantityNode, class/Thing/Intangible/StructuredValue/TypeAndQuantityNode, schema-org/TypeAndQuantityNode]
+tagNames: [class/TypeAndQuantityNode, class/Thing/Intangible/StructuredValue/TypeAndQuantityNode, is_a_/TypeAndQuantityNode, schema-org/TypeAndQuantityNode]
 tags: ["class/TypeAndQuantityNode", "#is_/a_/TypeAndQuantityNode", "class/Thing/Intangible/StructuredValue/TypeAndQuantityNode"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---

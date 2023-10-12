@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MathSolver, class/Thing/CreativeWork/MathSolver, schema-org/MathSolver]
+tagNames: [class/MathSolver, class/Thing/CreativeWork/MathSolver, is_a_/MathSolver, schema-org/MathSolver]
 tags: ["class/MathSolver", "#is_/a_/MathSolver", "class/Thing/CreativeWork/MathSolver"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

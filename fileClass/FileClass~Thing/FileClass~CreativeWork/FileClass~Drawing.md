@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: pencil
 version: 5
-tagNames: [class/Drawing, class/Thing/CreativeWork/Drawing, schema-org/Drawing]
+tagNames: [class/Drawing, class/Thing/CreativeWork/Drawing, is_a_/Drawing, schema-org/Drawing]
 tags: ["class/Drawing", "#is_/a_/Drawing", "class/Thing/CreativeWork/Drawing"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

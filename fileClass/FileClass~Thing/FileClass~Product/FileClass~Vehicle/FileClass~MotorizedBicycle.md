@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: bike
 version: 5
-tagNames: [class/MotorizedBicycle, class/Thing/Product/Vehicle/MotorizedBicycle, schema-org/MotorizedBicycle]
+tagNames: [class/MotorizedBicycle, class/Thing/Product/Vehicle/MotorizedBicycle, is_a_/MotorizedBicycle, schema-org/MotorizedBicycle]
 tags: ["class/MotorizedBicycle", "#is_/a_/MotorizedBicycle", "class/Thing/Product/Vehicle/MotorizedBicycle"]
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 ---

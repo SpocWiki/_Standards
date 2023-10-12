@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ShippingRateSettings, class/Thing/Intangible/StructuredValue/ShippingRateSettings, schema-org/ShippingRateSettings]
+tagNames: [class/ShippingRateSettings, class/Thing/Intangible/StructuredValue/ShippingRateSettings, is_a_/ShippingRateSettings, schema-org/ShippingRateSettings]
 tags: ["class/ShippingRateSettings", "#is_/a_/ShippingRateSettings", "class/Thing/Intangible/StructuredValue/ShippingRateSettings"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---

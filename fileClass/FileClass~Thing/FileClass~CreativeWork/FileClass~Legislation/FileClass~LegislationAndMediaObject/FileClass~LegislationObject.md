@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: scale
 version: 5
-tagNames: [class/LegislationObject, class/Thing/CreativeWork/Legislation/LegislationAndMediaObject/LegislationObject, schema-org/LegislationObject]
+tagNames: [class/LegislationObject, class/Thing/CreativeWork/Legislation/LegislationAndMediaObject/LegislationObject, is_a_/LegislationObject, schema-org/LegislationObject]
 tags: ["class/LegislationObject", "#is_/a_/LegislationObject", "class/Thing/CreativeWork/Legislation/LegislationAndMediaObject/LegislationObject"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~LegislationAndMediaObject
 ---

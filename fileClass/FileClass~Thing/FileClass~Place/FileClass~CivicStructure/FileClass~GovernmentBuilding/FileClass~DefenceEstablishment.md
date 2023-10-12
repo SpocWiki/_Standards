@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DefenceEstablishment, class/Thing/Place/CivicStructure/GovernmentBuilding/DefenceEstablishment, schema-org/DefenceEstablishment]
+tagNames: [class/DefenceEstablishment, class/Thing/Place/CivicStructure/GovernmentBuilding/DefenceEstablishment, is_a_/DefenceEstablishment, schema-org/DefenceEstablishment]
 tags: ["class/DefenceEstablishment", "#is_/a_/DefenceEstablishment", "class/Thing/Place/CivicStructure/GovernmentBuilding/DefenceEstablishment"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MedicalAudience, class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience, schema-org/MedicalAudience]
+tagNames: [class/MedicalAudience, class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience, is_a_/MedicalAudience, schema-org/MedicalAudience]
 tags: ["class/MedicalAudience", "#is_/a_/MedicalAudience", "class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience
 ---

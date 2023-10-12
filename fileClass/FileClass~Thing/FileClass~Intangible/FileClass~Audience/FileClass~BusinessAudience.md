@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/BusinessAudience, class/Thing/Intangible/Audience/BusinessAudience, schema-org/BusinessAudience]
+tagNames: [class/BusinessAudience, class/Thing/Intangible/Audience/BusinessAudience, is_a_/BusinessAudience, schema-org/BusinessAudience]
 tags: ["class/BusinessAudience", "#is_/a_/BusinessAudience", "class/Thing/Intangible/Audience/BusinessAudience"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 ---

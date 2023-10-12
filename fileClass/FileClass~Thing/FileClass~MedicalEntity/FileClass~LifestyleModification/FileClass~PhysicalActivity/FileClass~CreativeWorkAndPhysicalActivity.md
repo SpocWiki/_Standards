@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CreativeWorkAndPhysicalActivity, class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity, schema-org/CreativeWorkAndPhysicalActivity]
+tagNames: [class/CreativeWorkAndPhysicalActivity, class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity, is_a_/CreativeWorkAndPhysicalActivity, schema-org/CreativeWorkAndPhysicalActivity]
 tags: ["class/CreativeWorkAndPhysicalActivity", "#is_/a_/CreativeWorkAndPhysicalActivity", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity
 ---

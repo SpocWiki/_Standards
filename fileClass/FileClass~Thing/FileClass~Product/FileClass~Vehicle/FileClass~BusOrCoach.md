@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: bus
 version: 5
-tagNames: [class/BusOrCoach, class/Thing/Product/Vehicle/BusOrCoach, schema-org/BusOrCoach]
+tagNames: [class/BusOrCoach, class/Thing/Product/Vehicle/BusOrCoach, is_a_/BusOrCoach, schema-org/BusOrCoach]
 tags: ["class/BusOrCoach", "#is_/a_/BusOrCoach", "class/Thing/Product/Vehicle/BusOrCoach"]
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 ---

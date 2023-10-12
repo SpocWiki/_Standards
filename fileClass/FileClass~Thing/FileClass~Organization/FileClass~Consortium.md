@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Consortium, class/Thing/Organization/Consortium, schema-org/Consortium]
+tagNames: [class/Consortium, class/Thing/Organization/Consortium, is_a_/Consortium, schema-org/Consortium]
 tags: ["class/Consortium", "#is_/a_/Consortium", "class/Thing/Organization/Consortium"]
 extends: FileClass~Thing/FileClass~Organization
 ---

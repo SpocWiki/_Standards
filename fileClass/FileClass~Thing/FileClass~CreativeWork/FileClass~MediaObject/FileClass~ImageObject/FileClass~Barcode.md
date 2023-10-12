@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Barcode, class/Thing/CreativeWork/MediaObject/ImageObject/Barcode, schema-org/Barcode]
+tagNames: [class/Barcode, class/Thing/CreativeWork/MediaObject/ImageObject/Barcode, is_a_/Barcode, schema-org/Barcode]
 tags: ["class/Barcode", "#is_/a_/Barcode", "class/Thing/CreativeWork/MediaObject/ImageObject/Barcode"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject
 ---

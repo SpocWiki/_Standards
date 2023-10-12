@@ -2,7 +2,7 @@
 limit: 100
 mapWithTag: true
 icon: list
-tagNames: [schema-org/Class, class/Class]
+tagNames: [is_a_/Class, schema-org/Class, class/Class]
 excludes: 
 extends: FileClass~IThing/FileClass~IIntangible
 version: 9

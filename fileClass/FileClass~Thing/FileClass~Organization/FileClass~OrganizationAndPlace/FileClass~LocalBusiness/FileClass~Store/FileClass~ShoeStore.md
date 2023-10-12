@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: footprints
 version: 5
-tagNames: [class/ShoeStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore, schema-org/ShoeStore]
+tagNames: [class/ShoeStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore, is_a_/ShoeStore, schema-org/ShoeStore]
 tags: ["class/ShoeStore", "#is_/a_/ShoeStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---

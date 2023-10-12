@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/GovernmentOrganization, class/Thing/Organization/GovernmentOrganization, schema-org/GovernmentOrganization]
+tagNames: [class/GovernmentOrganization, class/Thing/Organization/GovernmentOrganization, is_a_/GovernmentOrganization, schema-org/GovernmentOrganization]
 tags: ["class/GovernmentOrganization", "#is_/a_/GovernmentOrganization", "class/Thing/Organization/GovernmentOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---

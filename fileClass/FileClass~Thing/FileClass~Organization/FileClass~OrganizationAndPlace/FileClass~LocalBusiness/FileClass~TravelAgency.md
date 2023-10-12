@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: luggage
 version: 5
-tagNames: [class/TravelAgency, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TravelAgency, schema-org/TravelAgency]
+tagNames: [class/TravelAgency, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TravelAgency, is_a_/TravelAgency, schema-org/TravelAgency]
 tags: ["class/TravelAgency", "#is_/a_/TravelAgency", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TravelAgency"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---

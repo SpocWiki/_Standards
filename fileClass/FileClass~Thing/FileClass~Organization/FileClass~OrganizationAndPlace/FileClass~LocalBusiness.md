@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/LocalBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness, schema-org/LocalBusiness]
+tagNames: [class/LocalBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness, is_a_/LocalBusiness, schema-org/LocalBusiness]
 tags: ["class/LocalBusiness", "#is_/a_/LocalBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness"]
 extends: FileClass~Thing/FileClass~Place/FileClass~OrganizationAndPlace
 ---

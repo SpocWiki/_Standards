@@ -5,7 +5,7 @@ icon: cloud-fog
 excludes: 
 extends: 
 version: 5
-tagNames: [class/Thing, schema-org/Thing]
+tagNames: [class/Thing, is_a_/Thing, schema-org/Thing]
 tags: ["class/Thing"]
 ---
 

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MediaReviewItem, class/Thing/CreativeWork/MediaReviewItem, schema-org/MediaReviewItem]
+tagNames: [class/MediaReviewItem, class/Thing/CreativeWork/MediaReviewItem, is_a_/MediaReviewItem, schema-org/MediaReviewItem]
 tags: ["class/MediaReviewItem", "#is_/a_/MediaReviewItem", "class/Thing/CreativeWork/MediaReviewItem"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

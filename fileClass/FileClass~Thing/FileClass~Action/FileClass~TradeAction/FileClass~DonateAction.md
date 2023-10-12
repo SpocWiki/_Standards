@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DonateAction, class/Thing/Action/TradeAction/DonateAction, schema-org/DonateAction]
+tagNames: [class/DonateAction, class/Thing/Action/TradeAction/DonateAction, is_a_/DonateAction, schema-org/DonateAction]
 tags: ["class/DonateAction", "#is_/a_/DonateAction", "class/Thing/Action/TradeAction/DonateAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---

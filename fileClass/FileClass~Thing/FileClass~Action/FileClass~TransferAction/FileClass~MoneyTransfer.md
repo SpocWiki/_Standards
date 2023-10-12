@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MoneyTransfer, class/Thing/Action/TransferAction/MoneyTransfer, schema-org/MoneyTransfer]
+tagNames: [class/MoneyTransfer, class/Thing/Action/TransferAction/MoneyTransfer, is_a_/MoneyTransfer, schema-org/MoneyTransfer]
 tags: ["class/MoneyTransfer", "#is_/a_/MoneyTransfer", "class/Thing/Action/TransferAction/MoneyTransfer"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---

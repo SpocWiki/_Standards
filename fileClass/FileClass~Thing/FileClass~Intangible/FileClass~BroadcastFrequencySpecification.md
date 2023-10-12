@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/BroadcastFrequencySpecification, class/Thing/Intangible/BroadcastFrequencySpecification, schema-org/BroadcastFrequencySpecification]
+tagNames: [class/BroadcastFrequencySpecification, class/Thing/Intangible/BroadcastFrequencySpecification, is_a_/BroadcastFrequencySpecification, schema-org/BroadcastFrequencySpecification]
 tags: ["class/BroadcastFrequencySpecification", "#is_/a_/BroadcastFrequencySpecification", "class/Thing/Intangible/BroadcastFrequencySpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

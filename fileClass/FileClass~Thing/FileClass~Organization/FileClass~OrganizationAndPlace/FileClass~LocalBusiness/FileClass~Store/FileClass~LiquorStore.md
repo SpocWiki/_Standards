@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/LiquorStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore, schema-org/LiquorStore]
+tagNames: [class/LiquorStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore, is_a_/LiquorStore, schema-org/LiquorStore]
 tags: ["class/LiquorStore", "#is_/a_/LiquorStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---

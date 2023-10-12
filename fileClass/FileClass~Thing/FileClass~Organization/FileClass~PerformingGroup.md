@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PerformingGroup, class/Thing/Organization/PerformingGroup, schema-org/PerformingGroup]
+tagNames: [class/PerformingGroup, class/Thing/Organization/PerformingGroup, is_a_/PerformingGroup, schema-org/PerformingGroup]
 tags: ["class/PerformingGroup", "#is_/a_/PerformingGroup", "class/Thing/Organization/PerformingGroup"]
 extends: FileClass~Thing/FileClass~Organization
 ---

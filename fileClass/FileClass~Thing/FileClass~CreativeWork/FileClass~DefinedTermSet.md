@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DefinedTermSet, class/Thing/CreativeWork/DefinedTermSet, schema-org/DefinedTermSet]
+tagNames: [class/DefinedTermSet, class/Thing/CreativeWork/DefinedTermSet, is_a_/DefinedTermSet, schema-org/DefinedTermSet]
 tags: ["class/DefinedTermSet", "#is_/a_/DefinedTermSet", "class/Thing/CreativeWork/DefinedTermSet"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MedicalContraindication, class/Thing/MedicalEntity/MedicalContraindication, schema-org/MedicalContraindication]
+tagNames: [class/MedicalContraindication, class/Thing/MedicalEntity/MedicalContraindication, is_a_/MedicalContraindication, schema-org/MedicalContraindication]
 tags: ["class/MedicalContraindication", "#is_/a_/MedicalContraindication", "class/Thing/MedicalEntity/MedicalContraindication"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---

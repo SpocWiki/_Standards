@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: warehouse
 version: 5
-tagNames: [class/SelfStorage, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage, schema-org/SelfStorage]
+tagNames: [class/SelfStorage, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage, is_a_/SelfStorage, schema-org/SelfStorage]
 tags: ["class/SelfStorage", "#is_/a_/SelfStorage", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SelfStorage"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---

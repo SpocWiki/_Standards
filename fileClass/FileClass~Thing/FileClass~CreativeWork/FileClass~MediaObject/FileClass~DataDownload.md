@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DataDownload, class/Thing/CreativeWork/MediaObject/DataDownload, schema-org/DataDownload]
+tagNames: [class/DataDownload, class/Thing/CreativeWork/MediaObject/DataDownload, is_a_/DataDownload, schema-org/DataDownload]
 tags: ["class/DataDownload", "#is_/a_/DataDownload", "class/Thing/CreativeWork/MediaObject/DataDownload"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 ---

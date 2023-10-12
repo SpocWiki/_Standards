@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: music
 version: 5
-tagNames: [class/MusicGroup, class/Thing/Organization/PerformingGroup/MusicGroup, schema-org/MusicGroup]
+tagNames: [class/MusicGroup, class/Thing/Organization/PerformingGroup/MusicGroup, is_a_/MusicGroup, schema-org/MusicGroup]
 tags: ["class/MusicGroup", "#is_/a_/MusicGroup", "class/Thing/Organization/PerformingGroup/MusicGroup"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Continent, class/Thing/Place/Landform/Continent, schema-org/Continent]
+tagNames: [class/Continent, class/Thing/Place/Landform/Continent, is_a_/Continent, schema-org/Continent]
 tags: ["class/Continent", "#is_/a_/Continent", "class/Thing/Place/Landform/Continent"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform
 ---

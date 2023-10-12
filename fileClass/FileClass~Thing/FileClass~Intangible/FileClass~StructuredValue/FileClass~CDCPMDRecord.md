@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CDCPMDRecord, class/Thing/Intangible/StructuredValue/CDCPMDRecord, schema-org/CDCPMDRecord]
+tagNames: [class/CDCPMDRecord, class/Thing/Intangible/StructuredValue/CDCPMDRecord, is_a_/CDCPMDRecord, schema-org/CDCPMDRecord]
 tags: ["class/CDCPMDRecord", "#is_/a_/CDCPMDRecord", "class/Thing/Intangible/StructuredValue/CDCPMDRecord"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---

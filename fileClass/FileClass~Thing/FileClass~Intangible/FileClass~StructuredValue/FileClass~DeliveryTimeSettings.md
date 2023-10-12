@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DeliveryTimeSettings, class/Thing/Intangible/StructuredValue/DeliveryTimeSettings, schema-org/DeliveryTimeSettings]
+tagNames: [class/DeliveryTimeSettings, class/Thing/Intangible/StructuredValue/DeliveryTimeSettings, is_a_/DeliveryTimeSettings, schema-org/DeliveryTimeSettings]
 tags: ["class/DeliveryTimeSettings", "#is_/a_/DeliveryTimeSettings", "class/Thing/Intangible/StructuredValue/DeliveryTimeSettings"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---

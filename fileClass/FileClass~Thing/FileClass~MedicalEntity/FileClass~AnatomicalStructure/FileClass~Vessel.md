@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Vessel, class/Thing/MedicalEntity/AnatomicalStructure/Vessel, schema-org/Vessel]
+tagNames: [class/Vessel, class/Thing/MedicalEntity/AnatomicalStructure/Vessel, is_a_/Vessel, schema-org/Vessel]
 tags: ["class/Vessel", "#is_/a_/Vessel", "class/Thing/MedicalEntity/AnatomicalStructure/Vessel"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---

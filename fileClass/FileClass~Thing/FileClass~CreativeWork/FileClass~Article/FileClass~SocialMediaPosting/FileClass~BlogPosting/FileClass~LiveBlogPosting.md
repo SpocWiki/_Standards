@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/LiveBlogPosting, class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting, schema-org/LiveBlogPosting]
+tagNames: [class/LiveBlogPosting, class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting, is_a_/LiveBlogPosting, schema-org/LiveBlogPosting]
 tags: ["class/LiveBlogPosting", "#is_/a_/LiveBlogPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting
 ---

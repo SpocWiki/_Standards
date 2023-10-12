@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: home
 version: 5
-tagNames: [class/House, class/Thing/Place/Accommodation/House, schema-org/House]
+tagNames: [class/House, class/Thing/Place/Accommodation/House, is_a_/House, schema-org/House]
 tags: ["class/House", "#is_/a_/House", "class/Thing/Place/Accommodation/House"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 ---

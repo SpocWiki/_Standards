@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CookAction, class/Thing/Action/CreateAction/CookAction, schema-org/CookAction]
+tagNames: [class/CookAction, class/Thing/Action/CreateAction/CookAction, is_a_/CookAction, schema-org/CookAction]
 tags: ["class/CookAction", "#is_/a_/CookAction", "class/Thing/Action/CreateAction/CookAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 ---

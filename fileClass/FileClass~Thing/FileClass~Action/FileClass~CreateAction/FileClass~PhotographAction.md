@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PhotographAction, class/Thing/Action/CreateAction/PhotographAction, schema-org/PhotographAction]
+tagNames: [class/PhotographAction, class/Thing/Action/CreateAction/PhotographAction, is_a_/PhotographAction, schema-org/PhotographAction]
 tags: ["class/PhotographAction", "#is_/a_/PhotographAction", "class/Thing/Action/CreateAction/PhotographAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 ---

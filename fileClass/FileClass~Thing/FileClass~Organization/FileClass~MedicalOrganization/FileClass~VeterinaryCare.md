@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/VeterinaryCare, class/Thing/Organization/MedicalOrganization/VeterinaryCare, schema-org/VeterinaryCare]
+tagNames: [class/VeterinaryCare, class/Thing/Organization/MedicalOrganization/VeterinaryCare, is_a_/VeterinaryCare, schema-org/VeterinaryCare]
 tags: ["class/VeterinaryCare", "#is_/a_/VeterinaryCare", "class/Thing/Organization/MedicalOrganization/VeterinaryCare"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization
 ---

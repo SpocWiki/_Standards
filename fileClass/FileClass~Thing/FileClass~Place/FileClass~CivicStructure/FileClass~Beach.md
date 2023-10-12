@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: palmtree
 version: 5
-tagNames: [class/Beach, class/Thing/Place/CivicStructure/Beach, schema-org/Beach]
+tagNames: [class/Beach, class/Thing/Place/CivicStructure/Beach, is_a_/Beach, schema-org/Beach]
 tags: ["class/Beach", "#is_/a_/Beach", "class/Thing/Place/CivicStructure/Beach"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---

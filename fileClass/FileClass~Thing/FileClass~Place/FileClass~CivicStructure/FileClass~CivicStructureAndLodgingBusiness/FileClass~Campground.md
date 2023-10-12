@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: tent
 version: 5
-tagNames: [class/Campground, class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground, schema-org/Campground]
+tagNames: [class/Campground, class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground, is_a_/Campground, schema-org/Campground]
 tags: ["class/Campground", "#is_/a_/Campground", "class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Periodical, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical, schema-org/Periodical]
+tagNames: [class/Periodical, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical, is_a_/Periodical, schema-org/Periodical]
 tags: ["class/Periodical", "#is_/a_/Periodical", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 ---

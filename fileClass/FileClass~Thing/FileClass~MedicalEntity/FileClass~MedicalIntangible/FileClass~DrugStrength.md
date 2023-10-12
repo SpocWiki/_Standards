@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DrugStrength, class/Thing/MedicalEntity/MedicalIntangible/DrugStrength, schema-org/DrugStrength]
+tagNames: [class/DrugStrength, class/Thing/MedicalEntity/MedicalIntangible/DrugStrength, is_a_/DrugStrength, schema-org/DrugStrength]
 tags: ["class/DrugStrength", "#is_/a_/DrugStrength", "class/Thing/MedicalEntity/MedicalIntangible/DrugStrength"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 ---

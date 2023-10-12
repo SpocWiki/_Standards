@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/TipAction, class/Thing/Action/TradeAction/TipAction, schema-org/TipAction]
+tagNames: [class/TipAction, class/Thing/Action/TradeAction/TipAction, is_a_/TipAction, schema-org/TipAction]
 tags: ["class/TipAction", "#is_/a_/TipAction", "class/Thing/Action/TradeAction/TipAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---

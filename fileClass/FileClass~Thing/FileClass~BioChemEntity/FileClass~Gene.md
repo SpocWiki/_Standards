@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: dna
 version: 5
-tagNames: [class/Gene, class/Thing/BioChemEntity/Gene, schema-org/Gene]
+tagNames: [class/Gene, class/Thing/BioChemEntity/Gene, is_a_/Gene, schema-org/Gene]
 tags: ["class/Gene", "#is_/a_/Gene", "class/Thing/BioChemEntity/Gene"]
 extends: FileClass~Thing/FileClass~BioChemEntity
 ---

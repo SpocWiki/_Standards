@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DeleteAction, class/Thing/Action/UpdateAction/DeleteAction, schema-org/DeleteAction]
+tagNames: [class/DeleteAction, class/Thing/Action/UpdateAction/DeleteAction, is_a_/DeleteAction, schema-org/DeleteAction]
 tags: ["class/DeleteAction", "#is_/a_/DeleteAction", "class/Thing/Action/UpdateAction/DeleteAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MedicalConditionStage, class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage, schema-org/MedicalConditionStage]
+tagNames: [class/MedicalConditionStage, class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage, is_a_/MedicalConditionStage, schema-org/MedicalConditionStage]
 tags: ["class/MedicalConditionStage", "#is_/a_/MedicalConditionStage", "class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 ---

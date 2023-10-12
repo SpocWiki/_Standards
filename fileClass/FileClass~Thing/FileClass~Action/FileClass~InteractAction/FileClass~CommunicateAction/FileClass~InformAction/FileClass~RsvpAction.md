@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/RsvpAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction, schema-org/RsvpAction]
+tagNames: [class/RsvpAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction, is_a_/RsvpAction, schema-org/RsvpAction]
 tags: ["class/RsvpAction", "#is_/a_/RsvpAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction
 ---

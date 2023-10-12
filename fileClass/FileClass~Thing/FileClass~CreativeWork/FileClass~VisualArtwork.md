@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/VisualArtwork, class/Thing/CreativeWork/VisualArtwork, schema-org/VisualArtwork]
+tagNames: [class/VisualArtwork, class/Thing/CreativeWork/VisualArtwork, is_a_/VisualArtwork, schema-org/VisualArtwork]
 tags: ["class/VisualArtwork", "#is_/a_/VisualArtwork", "class/Thing/CreativeWork/VisualArtwork"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

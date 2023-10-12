@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/BorrowAction, class/Thing/Action/TransferAction/BorrowAction, schema-org/BorrowAction]
+tagNames: [class/BorrowAction, class/Thing/Action/TransferAction/BorrowAction, is_a_/BorrowAction, schema-org/BorrowAction]
 tags: ["class/BorrowAction", "#is_/a_/BorrowAction", "class/Thing/Action/TransferAction/BorrowAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---

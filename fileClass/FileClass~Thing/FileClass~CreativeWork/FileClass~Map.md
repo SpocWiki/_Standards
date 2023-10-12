@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: map
 version: 5
-tagNames: [class/Map, class/Thing/CreativeWork/Map, schema-org/Map]
+tagNames: [class/Map, class/Thing/CreativeWork/Map, is_a_/Map, schema-org/Map]
 tags: ["class/Map", "#is_/a_/Map", "class/Thing/CreativeWork/Map"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

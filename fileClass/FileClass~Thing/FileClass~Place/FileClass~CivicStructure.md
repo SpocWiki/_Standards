@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: building
 version: 5
-tagNames: [class/CivicStructure, class/Thing/Place/CivicStructure, schema-org/CivicStructure]
+tagNames: [class/CivicStructure, class/Thing/Place/CivicStructure, is_a_/CivicStructure, schema-org/CivicStructure]
 tags: ["class/CivicStructure", "#is_/a_/CivicStructure", "class/Thing/Place/CivicStructure"]
 extends: FileClass~Thing/FileClass~Place
 ---

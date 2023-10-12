@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/StatisticalVariable, class/Thing/Intangible/ConstraintNode/StatisticalVariable, schema-org/StatisticalVariable]
+tagNames: [class/StatisticalVariable, class/Thing/Intangible/ConstraintNode/StatisticalVariable, is_a_/StatisticalVariable, schema-org/StatisticalVariable]
 tags: ["class/StatisticalVariable", "#is_/a_/StatisticalVariable", "class/Thing/Intangible/ConstraintNode/StatisticalVariable"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode
 ---

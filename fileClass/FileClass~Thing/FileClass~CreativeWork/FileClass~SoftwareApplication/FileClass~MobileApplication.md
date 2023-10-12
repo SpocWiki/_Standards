@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MobileApplication, class/Thing/CreativeWork/SoftwareApplication/MobileApplication, schema-org/MobileApplication]
+tagNames: [class/MobileApplication, class/Thing/CreativeWork/SoftwareApplication/MobileApplication, is_a_/MobileApplication, schema-org/MobileApplication]
 tags: ["class/MobileApplication", "#is_/a_/MobileApplication", "class/Thing/CreativeWork/SoftwareApplication/MobileApplication"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 ---

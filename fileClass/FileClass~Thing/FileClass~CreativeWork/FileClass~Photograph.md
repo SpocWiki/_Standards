@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: camera
 version: 5
-tagNames: [class/Photograph, class/Thing/CreativeWork/Photograph, schema-org/Photograph]
+tagNames: [class/Photograph, class/Thing/CreativeWork/Photograph, is_a_/Photograph, schema-org/Photograph]
 tags: ["class/Photograph", "#is_/a_/Photograph", "class/Thing/CreativeWork/Photograph"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

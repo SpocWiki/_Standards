@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PublicationIssue, class/Thing/CreativeWork/PublicationIssue, schema-org/PublicationIssue]
+tagNames: [class/PublicationIssue, class/Thing/CreativeWork/PublicationIssue, is_a_/PublicationIssue, schema-org/PublicationIssue]
 tags: ["class/PublicationIssue", "#is_/a_/PublicationIssue", "class/Thing/CreativeWork/PublicationIssue"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

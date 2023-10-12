@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CatholicChurch, class/Thing/Place/CivicStructure/PlaceOfWorship/Church/CatholicChurch, schema-org/CatholicChurch]
+tagNames: [class/CatholicChurch, class/Thing/Place/CivicStructure/PlaceOfWorship/Church/CatholicChurch, is_a_/CatholicChurch, schema-org/CatholicChurch]
 tags: ["class/CatholicChurch", "#is_/a_/CatholicChurch", "class/Thing/Place/CivicStructure/PlaceOfWorship/Church/CatholicChurch"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church
 ---

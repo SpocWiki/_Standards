@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PeopleAudience, class/Thing/Intangible/Audience/PeopleAudience, schema-org/PeopleAudience]
+tagNames: [class/PeopleAudience, class/Thing/Intangible/Audience/PeopleAudience, is_a_/PeopleAudience, schema-org/PeopleAudience]
 tags: ["class/PeopleAudience", "#is_/a_/PeopleAudience", "class/Thing/Intangible/Audience/PeopleAudience"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 ---

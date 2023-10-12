@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/GeoCircle, class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle, schema-org/GeoCircle]
+tagNames: [class/GeoCircle, class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle, is_a_/GeoCircle, schema-org/GeoCircle]
 tags: ["class/GeoCircle", "#is_/a_/GeoCircle", "class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape
 ---

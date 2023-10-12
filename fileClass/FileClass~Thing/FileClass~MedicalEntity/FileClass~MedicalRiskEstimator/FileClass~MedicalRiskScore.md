@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MedicalRiskScore, class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore, schema-org/MedicalRiskScore]
+tagNames: [class/MedicalRiskScore, class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore, is_a_/MedicalRiskScore, schema-org/MedicalRiskScore]
 tags: ["class/MedicalRiskScore", "#is_/a_/MedicalRiskScore", "class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator
 ---

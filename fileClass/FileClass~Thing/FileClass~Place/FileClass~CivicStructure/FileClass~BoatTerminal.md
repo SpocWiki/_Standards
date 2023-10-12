@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: anchor
 version: 5
-tagNames: [class/BoatTerminal, class/Thing/Place/CivicStructure/BoatTerminal, schema-org/BoatTerminal]
+tagNames: [class/BoatTerminal, class/Thing/Place/CivicStructure/BoatTerminal, is_a_/BoatTerminal, schema-org/BoatTerminal]
 tags: ["class/BoatTerminal", "#is_/a_/BoatTerminal", "class/Thing/Place/CivicStructure/BoatTerminal"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---

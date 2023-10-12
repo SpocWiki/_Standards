@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/SuperficialAnatomy, class/Thing/MedicalEntity/SuperficialAnatomy, schema-org/SuperficialAnatomy]
+tagNames: [class/SuperficialAnatomy, class/Thing/MedicalEntity/SuperficialAnatomy, is_a_/SuperficialAnatomy, schema-org/SuperficialAnatomy]
 tags: ["class/SuperficialAnatomy", "#is_/a_/SuperficialAnatomy", "class/Thing/MedicalEntity/SuperficialAnatomy"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---

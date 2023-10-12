@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: book
 version: 5
-tagNames: [class/Book, class/Thing/CreativeWork/Book, schema-org/Book]
+tagNames: [class/Book, class/Thing/CreativeWork/Book, is_a_/Book, schema-org/Book]
 tags: ["class/Book", "#is_/a_/Book", "class/Thing/CreativeWork/Book"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

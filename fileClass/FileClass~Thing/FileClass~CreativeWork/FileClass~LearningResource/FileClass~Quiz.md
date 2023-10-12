@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Quiz, class/Thing/CreativeWork/LearningResource/Quiz, schema-org/Quiz]
+tagNames: [class/Quiz, class/Thing/CreativeWork/LearningResource/Quiz, is_a_/Quiz, schema-org/Quiz]
 tags: ["class/Quiz", "#is_/a_/Quiz", "class/Thing/CreativeWork/LearningResource/Quiz"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MonetaryAmount, class/Thing/Intangible/StructuredValue/MonetaryAmount, schema-org/MonetaryAmount]
+tagNames: [class/MonetaryAmount, class/Thing/Intangible/StructuredValue/MonetaryAmount, is_a_/MonetaryAmount, schema-org/MonetaryAmount]
 tags: ["class/MonetaryAmount", "#is_/a_/MonetaryAmount", "class/Thing/Intangible/StructuredValue/MonetaryAmount"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---

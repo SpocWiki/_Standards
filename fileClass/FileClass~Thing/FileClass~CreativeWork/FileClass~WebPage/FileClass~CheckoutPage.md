@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CheckoutPage, class/Thing/CreativeWork/WebPage/CheckoutPage, schema-org/CheckoutPage]
+tagNames: [class/CheckoutPage, class/Thing/CreativeWork/WebPage/CheckoutPage, is_a_/CheckoutPage, schema-org/CheckoutPage]
 tags: ["class/CheckoutPage", "#is_/a_/CheckoutPage", "class/Thing/CreativeWork/WebPage/CheckoutPage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---

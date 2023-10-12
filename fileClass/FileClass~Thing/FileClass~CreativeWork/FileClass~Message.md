@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Message, class/Thing/CreativeWork/Message, schema-org/Message]
+tagNames: [class/Message, class/Thing/CreativeWork/Message, is_a_/Message, schema-org/Message]
 tags: ["class/Message", "#is_/a_/Message", "class/Thing/CreativeWork/Message"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

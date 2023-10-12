@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Collection, class/Thing/CreativeWork/Collection, schema-org/Collection]
+tagNames: [class/Collection, class/Thing/CreativeWork/Collection, is_a_/Collection, schema-org/Collection]
 tags: ["class/Collection", "#is_/a_/Collection", "class/Thing/CreativeWork/Collection"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

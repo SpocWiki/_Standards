@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/RadioEpisode, class/Thing/CreativeWork/Episode/RadioEpisode, schema-org/RadioEpisode]
+tagNames: [class/RadioEpisode, class/Thing/CreativeWork/Episode/RadioEpisode, is_a_/RadioEpisode, schema-org/RadioEpisode]
 tags: ["class/RadioEpisode", "#is_/a_/RadioEpisode", "class/Thing/CreativeWork/Episode/RadioEpisode"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Episode
 ---

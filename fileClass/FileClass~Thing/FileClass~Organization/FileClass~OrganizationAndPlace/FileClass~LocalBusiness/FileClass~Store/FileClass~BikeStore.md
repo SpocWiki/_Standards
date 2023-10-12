@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: bike
 version: 5
-tagNames: [class/BikeStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore, schema-org/BikeStore]
+tagNames: [class/BikeStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore, is_a_/BikeStore, schema-org/BikeStore]
 tags: ["class/BikeStore", "#is_/a_/BikeStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---

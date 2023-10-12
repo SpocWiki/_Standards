@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Brand, class/Thing/Intangible/Brand, schema-org/Brand]
+tagNames: [class/Brand, class/Thing/Intangible/Brand, is_a_/Brand, schema-org/Brand]
 tags: ["class/Brand", "#is_/a_/Brand", "class/Thing/Intangible/Brand"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

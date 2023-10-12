@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Protein, class/Thing/BioChemEntity/Protein, schema-org/Protein]
+tagNames: [class/Protein, class/Thing/BioChemEntity/Protein, is_a_/Protein, schema-org/Protein]
 tags: ["class/Protein", "#is_/a_/Protein", "class/Thing/BioChemEntity/Protein"]
 extends: FileClass~Thing/FileClass~BioChemEntity
 ---

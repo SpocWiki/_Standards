@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CheckInAction, class/Thing/Action/InteractAction/CommunicateAction/CheckInAction, schema-org/CheckInAction]
+tagNames: [class/CheckInAction, class/Thing/Action/InteractAction/CommunicateAction/CheckInAction, is_a_/CheckInAction, schema-org/CheckInAction]
 tags: ["class/CheckInAction", "#is_/a_/CheckInAction", "class/Thing/Action/InteractAction/CommunicateAction/CheckInAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---

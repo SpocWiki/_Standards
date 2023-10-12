@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/WorkersUnion, class/Thing/Organization/WorkersUnion, schema-org/WorkersUnion]
+tagNames: [class/WorkersUnion, class/Thing/Organization/WorkersUnion, is_a_/WorkersUnion, schema-org/WorkersUnion]
 tags: ["class/WorkersUnion", "#is_/a_/WorkersUnion", "class/Thing/Organization/WorkersUnion"]
 extends: FileClass~Thing/FileClass~Organization
 ---

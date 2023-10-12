@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: radio-tower
 version: 5
-tagNames: [class/TelevisionStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation, schema-org/TelevisionStation]
+tagNames: [class/TelevisionStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation, is_a_/TelevisionStation, schema-org/TelevisionStation]
 tags: ["class/TelevisionStation", "#is_/a_/TelevisionStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/SpecialAnnouncement, class/Thing/CreativeWork/SpecialAnnouncement, schema-org/SpecialAnnouncement]
+tagNames: [class/SpecialAnnouncement, class/Thing/CreativeWork/SpecialAnnouncement, is_a_/SpecialAnnouncement, schema-org/SpecialAnnouncement]
 tags: ["class/SpecialAnnouncement", "#is_/a_/SpecialAnnouncement", "class/Thing/CreativeWork/SpecialAnnouncement"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

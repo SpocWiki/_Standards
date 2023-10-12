@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/LoseAction, class/Thing/Action/AchieveAction/LoseAction, schema-org/LoseAction]
+tagNames: [class/LoseAction, class/Thing/Action/AchieveAction/LoseAction, is_a_/LoseAction, schema-org/LoseAction]
 tags: ["class/LoseAction", "#is_/a_/LoseAction", "class/Thing/Action/AchieveAction/LoseAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 ---

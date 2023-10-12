@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ReportageNewsArticle, class/Thing/CreativeWork/Article/NewsArticle/ReportageNewsArticle, schema-org/ReportageNewsArticle]
+tagNames: [class/ReportageNewsArticle, class/Thing/CreativeWork/Article/NewsArticle/ReportageNewsArticle, is_a_/ReportageNewsArticle, schema-org/ReportageNewsArticle]
 tags: ["class/ReportageNewsArticle", "#is_/a_/ReportageNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/ReportageNewsArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/HealthAndBeautyBusinessAndSportsActivityLocation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HealthAndBeautyBusinessAndSportsActivityLocation, schema-org/HealthAndBeautyBusinessAndSportsActivityLocation]
+tagNames: [class/HealthAndBeautyBusinessAndSportsActivityLocation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HealthAndBeautyBusinessAndSportsActivityLocation, is_a_/HealthAndBeautyBusinessAndSportsActivityLocation, schema-org/HealthAndBeautyBusinessAndSportsActivityLocation]
 tags: ["class/HealthAndBeautyBusinessAndSportsActivityLocation", "#is_/a_/HealthAndBeautyBusinessAndSportsActivityLocation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HealthAndBeautyBusinessAndSportsActivityLocation"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~HealthAndBeautyBusiness
 ---

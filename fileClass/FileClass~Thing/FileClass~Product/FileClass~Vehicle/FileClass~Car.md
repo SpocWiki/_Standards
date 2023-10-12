@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: car
 version: 5
-tagNames: [class/Car, class/Thing/Product/Vehicle/Car, schema-org/Car]
+tagNames: [class/Car, class/Thing/Product/Vehicle/Car, is_a_/Car, schema-org/Car]
 tags: ["class/Car", "#is_/a_/Car", "class/Thing/Product/Vehicle/Car"]
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 ---

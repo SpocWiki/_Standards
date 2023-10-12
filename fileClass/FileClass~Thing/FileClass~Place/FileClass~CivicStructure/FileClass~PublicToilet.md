@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PublicToilet, class/Thing/Place/CivicStructure/PublicToilet, schema-org/PublicToilet]
+tagNames: [class/PublicToilet, class/Thing/Place/CivicStructure/PublicToilet, is_a_/PublicToilet, schema-org/PublicToilet]
 tags: ["class/PublicToilet", "#is_/a_/PublicToilet", "class/Thing/Place/CivicStructure/PublicToilet"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---

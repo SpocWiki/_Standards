@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DrinkAction, class/Thing/Action/ConsumeAction/DrinkAction, schema-org/DrinkAction]
+tagNames: [class/DrinkAction, class/Thing/Action/ConsumeAction/DrinkAction, is_a_/DrinkAction, schema-org/DrinkAction]
 tags: ["class/DrinkAction", "#is_/a_/DrinkAction", "class/Thing/Action/ConsumeAction/DrinkAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 ---

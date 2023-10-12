@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ReturnAction, class/Thing/Action/TransferAction/ReturnAction, schema-org/ReturnAction]
+tagNames: [class/ReturnAction, class/Thing/Action/TransferAction/ReturnAction, is_a_/ReturnAction, schema-org/ReturnAction]
 tags: ["class/ReturnAction", "#is_/a_/ReturnAction", "class/Thing/Action/TransferAction/ReturnAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---

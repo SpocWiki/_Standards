@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/HyperToc, class/Thing/CreativeWork/HyperToc, schema-org/HyperToc]
+tagNames: [class/HyperToc, class/Thing/CreativeWork/HyperToc, is_a_/HyperToc, schema-org/HyperToc]
 tags: ["class/HyperToc", "#is_/a_/HyperToc", "class/Thing/CreativeWork/HyperToc"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

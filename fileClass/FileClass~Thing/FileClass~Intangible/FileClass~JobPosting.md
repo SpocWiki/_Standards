@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/JobPosting, class/Thing/Intangible/JobPosting, schema-org/JobPosting]
+tagNames: [class/JobPosting, class/Thing/Intangible/JobPosting, is_a_/JobPosting, schema-org/JobPosting]
 tags: ["class/JobPosting", "#is_/a_/JobPosting", "class/Thing/Intangible/JobPosting"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/TrainReservation, class/Thing/Intangible/Reservation/TrainReservation, schema-org/TrainReservation]
+tagNames: [class/TrainReservation, class/Thing/Intangible/Reservation/TrainReservation, is_a_/TrainReservation, schema-org/TrainReservation]
 tags: ["class/TrainReservation", "#is_/a_/TrainReservation", "class/Thing/Intangible/Reservation/TrainReservation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---

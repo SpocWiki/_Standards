@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/VoteAction, class/Thing/Action/AssessAction/ChooseAction/VoteAction, schema-org/VoteAction]
+tagNames: [class/VoteAction, class/Thing/Action/AssessAction/ChooseAction/VoteAction, is_a_/VoteAction, schema-org/VoteAction]
 tags: ["class/VoteAction", "#is_/a_/VoteAction", "class/Thing/Action/AssessAction/ChooseAction/VoteAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction
 ---

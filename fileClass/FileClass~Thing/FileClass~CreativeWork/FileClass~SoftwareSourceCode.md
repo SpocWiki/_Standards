@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/SoftwareSourceCode, class/Thing/CreativeWork/SoftwareSourceCode, schema-org/SoftwareSourceCode]
+tagNames: [class/SoftwareSourceCode, class/Thing/CreativeWork/SoftwareSourceCode, is_a_/SoftwareSourceCode, schema-org/SoftwareSourceCode]
 tags: ["class/SoftwareSourceCode", "#is_/a_/SoftwareSourceCode", "class/Thing/CreativeWork/SoftwareSourceCode"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Comment, class/Thing/CreativeWork/Comment, schema-org/Comment]
+tagNames: [class/Comment, class/Thing/CreativeWork/Comment, is_a_/Comment, schema-org/Comment]
 tags: ["class/Comment", "#is_/a_/Comment", "class/Thing/CreativeWork/Comment"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

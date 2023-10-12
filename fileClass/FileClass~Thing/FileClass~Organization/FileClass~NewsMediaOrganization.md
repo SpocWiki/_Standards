@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/NewsMediaOrganization, class/Thing/Organization/NewsMediaOrganization, schema-org/NewsMediaOrganization]
+tagNames: [class/NewsMediaOrganization, class/Thing/Organization/NewsMediaOrganization, is_a_/NewsMediaOrganization, schema-org/NewsMediaOrganization]
 tags: ["class/NewsMediaOrganization", "#is_/a_/NewsMediaOrganization", "class/Thing/Organization/NewsMediaOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---

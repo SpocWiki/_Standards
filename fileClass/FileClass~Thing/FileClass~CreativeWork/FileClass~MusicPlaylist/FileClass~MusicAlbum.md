@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: list-music
 version: 5
-tagNames: [class/MusicAlbum, class/Thing/CreativeWork/MusicPlaylist/MusicAlbum, schema-org/MusicAlbum]
+tagNames: [class/MusicAlbum, class/Thing/CreativeWork/MusicPlaylist/MusicAlbum, is_a_/MusicAlbum, schema-org/MusicAlbum]
 tags: ["class/MusicAlbum", "#is_/a_/MusicAlbum", "class/Thing/CreativeWork/MusicPlaylist/MusicAlbum"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist
 ---

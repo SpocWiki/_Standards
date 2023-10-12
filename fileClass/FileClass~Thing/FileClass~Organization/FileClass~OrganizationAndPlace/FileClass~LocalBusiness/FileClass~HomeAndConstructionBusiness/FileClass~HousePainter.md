@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/HousePainter, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HousePainter, schema-org/HousePainter]
+tagNames: [class/HousePainter, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HousePainter, is_a_/HousePainter, schema-org/HousePainter]
 tags: ["class/HousePainter", "#is_/a_/HousePainter", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/HousePainter"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~HomeAndConstructionBusiness
 ---

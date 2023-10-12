@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Role, class/Thing/Intangible/Role, schema-org/Role]
+tagNames: [class/Role, class/Thing/Intangible/Role, is_a_/Role, schema-org/Role]
 tags: ["class/Role", "#is_/a_/Role", "class/Thing/Intangible/Role"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

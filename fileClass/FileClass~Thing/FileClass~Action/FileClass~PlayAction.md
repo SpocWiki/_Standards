@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PlayAction, class/Thing/Action/PlayAction, schema-org/PlayAction]
+tagNames: [class/PlayAction, class/Thing/Action/PlayAction, is_a_/PlayAction, schema-org/PlayAction]
 tags: ["class/PlayAction", "#is_/a_/PlayAction", "class/Thing/Action/PlayAction"]
 extends: FileClass~Thing/FileClass~Action
 ---

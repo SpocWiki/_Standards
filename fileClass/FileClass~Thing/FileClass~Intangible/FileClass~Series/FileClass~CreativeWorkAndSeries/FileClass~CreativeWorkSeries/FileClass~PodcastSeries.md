@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PodcastSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries, schema-org/PodcastSeries]
+tagNames: [class/PodcastSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries, is_a_/PodcastSeries, schema-org/PodcastSeries]
 tags: ["class/PodcastSeries", "#is_/a_/PodcastSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 ---

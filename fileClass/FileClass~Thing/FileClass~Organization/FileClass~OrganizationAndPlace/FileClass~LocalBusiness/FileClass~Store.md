@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: store
 version: 5
-tagNames: [class/Store, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store, schema-org/Store]
+tagNames: [class/Store, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store, is_a_/Store, schema-org/Store]
 tags: ["class/Store", "#is_/a_/Store", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---

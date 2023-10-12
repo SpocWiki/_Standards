@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/LymphaticVessel, class/Thing/MedicalEntity/AnatomicalStructure/Vessel/LymphaticVessel, schema-org/LymphaticVessel]
+tagNames: [class/LymphaticVessel, class/Thing/MedicalEntity/AnatomicalStructure/Vessel/LymphaticVessel, is_a_/LymphaticVessel, schema-org/LymphaticVessel]
 tags: ["class/LymphaticVessel", "#is_/a_/LymphaticVessel", "class/Thing/MedicalEntity/AnatomicalStructure/Vessel/LymphaticVessel"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: hotel
 version: 5
-tagNames: [class/LodgingBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness, schema-org/LodgingBusiness]
+tagNames: [class/LodgingBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness, is_a_/LodgingBusiness, schema-org/LodgingBusiness]
 tags: ["class/LodgingBusiness", "#is_/a_/LodgingBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---

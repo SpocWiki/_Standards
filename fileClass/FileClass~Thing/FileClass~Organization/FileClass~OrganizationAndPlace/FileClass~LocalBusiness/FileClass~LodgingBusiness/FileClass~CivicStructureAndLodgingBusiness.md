@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CivicStructureAndLodgingBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/CivicStructureAndLodgingBusiness, schema-org/CivicStructureAndLodgingBusiness]
+tagNames: [class/CivicStructureAndLodgingBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/CivicStructureAndLodgingBusiness, is_a_/CivicStructureAndLodgingBusiness, schema-org/CivicStructureAndLodgingBusiness]
 tags: ["class/CivicStructureAndLodgingBusiness", "#is_/a_/CivicStructureAndLodgingBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/CivicStructureAndLodgingBusiness"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LodgingBusiness
 ---

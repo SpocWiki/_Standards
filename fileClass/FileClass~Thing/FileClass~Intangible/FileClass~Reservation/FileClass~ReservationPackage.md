@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ReservationPackage, class/Thing/Intangible/Reservation/ReservationPackage, schema-org/ReservationPackage]
+tagNames: [class/ReservationPackage, class/Thing/Intangible/Reservation/ReservationPackage, is_a_/ReservationPackage, schema-org/ReservationPackage]
 tags: ["class/ReservationPackage", "#is_/a_/ReservationPackage", "class/Thing/Intangible/Reservation/ReservationPackage"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---

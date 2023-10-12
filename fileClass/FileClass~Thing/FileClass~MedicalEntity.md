@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: plus-circle
 version: 5
-tagNames: [class/MedicalEntity, class/Thing/MedicalEntity, schema-org/MedicalEntity]
+tagNames: [class/MedicalEntity, class/Thing/MedicalEntity, is_a_/MedicalEntity, schema-org/MedicalEntity]
 tags: ["class/MedicalEntity", "#is_/a_/MedicalEntity", "class/Thing/MedicalEntity"]
 extends: FileClass~Thing
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Hackathon, class/Thing/Event/Hackathon, schema-org/Hackathon]
+tagNames: [class/Hackathon, class/Thing/Event/Hackathon, is_a_/Hackathon, schema-org/Hackathon]
 tags: ["class/Hackathon", "#is_/a_/Hackathon", "class/Thing/Event/Hackathon"]
 extends: FileClass~Thing/FileClass~Event
 ---

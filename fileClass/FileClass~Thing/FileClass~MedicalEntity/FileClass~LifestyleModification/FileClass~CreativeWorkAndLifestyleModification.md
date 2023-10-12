@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CreativeWorkAndLifestyleModification, class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification, schema-org/CreativeWorkAndLifestyleModification]
+tagNames: [class/CreativeWorkAndLifestyleModification, class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification, is_a_/CreativeWorkAndLifestyleModification, schema-org/CreativeWorkAndLifestyleModification]
 tags: ["class/CreativeWorkAndLifestyleModification", "#is_/a_/CreativeWorkAndLifestyleModification", "class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification
 ---

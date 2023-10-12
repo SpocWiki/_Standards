@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/BreadcrumbList, class/Thing/Intangible/ItemList/BreadcrumbList, schema-org/BreadcrumbList]
+tagNames: [class/BreadcrumbList, class/Thing/Intangible/ItemList/BreadcrumbList, is_a_/BreadcrumbList, schema-org/BreadcrumbList]
 tags: ["class/BreadcrumbList", "#is_/a_/BreadcrumbList", "class/Thing/Intangible/ItemList/BreadcrumbList"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ItemList
 ---

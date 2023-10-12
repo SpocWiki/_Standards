@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/TelevisionChannel, class/Thing/Intangible/BroadcastChannel/TelevisionChannel, schema-org/TelevisionChannel]
+tagNames: [class/TelevisionChannel, class/Thing/Intangible/BroadcastChannel/TelevisionChannel, is_a_/TelevisionChannel, schema-org/TelevisionChannel]
 tags: ["class/TelevisionChannel", "#is_/a_/TelevisionChannel", "class/Thing/Intangible/BroadcastChannel/TelevisionChannel"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel
 ---

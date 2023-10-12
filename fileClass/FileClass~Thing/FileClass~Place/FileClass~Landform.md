@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Landform, class/Thing/Place/Landform, schema-org/Landform]
+tagNames: [class/Landform, class/Thing/Place/Landform, is_a_/Landform, schema-org/Landform]
 tags: ["class/Landform", "#is_/a_/Landform", "class/Thing/Place/Landform"]
 extends: FileClass~Thing/FileClass~Place
 ---

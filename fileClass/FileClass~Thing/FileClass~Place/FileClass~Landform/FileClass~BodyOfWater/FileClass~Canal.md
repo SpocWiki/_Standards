@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: waves
 version: 5
-tagNames: [class/Canal, class/Thing/Place/Landform/BodyOfWater/Canal, schema-org/Canal]
+tagNames: [class/Canal, class/Thing/Place/Landform/BodyOfWater/Canal, is_a_/Canal, schema-org/Canal]
 tags: ["class/Canal", "#is_/a_/Canal", "class/Thing/Place/Landform/BodyOfWater/Canal"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
 ---

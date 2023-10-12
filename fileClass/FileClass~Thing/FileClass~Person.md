@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: person-standing
 version: 5
-tagNames: [class/Person, class/Thing/Person, schema-org/Person]
+tagNames: [class/Person, class/Thing/Person, is_a_/Person, schema-org/Person]
 tags: ["class/Person", "#is_/a_/Person", "class/Thing/Person"]
 extends: FileClass~Thing
 ---

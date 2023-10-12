@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/WinAction, class/Thing/Action/AchieveAction/WinAction, schema-org/WinAction]
+tagNames: [class/WinAction, class/Thing/Action/AchieveAction/WinAction, is_a_/WinAction, schema-org/WinAction]
 tags: ["class/WinAction", "#is_/a_/WinAction", "class/Thing/Action/AchieveAction/WinAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 ---

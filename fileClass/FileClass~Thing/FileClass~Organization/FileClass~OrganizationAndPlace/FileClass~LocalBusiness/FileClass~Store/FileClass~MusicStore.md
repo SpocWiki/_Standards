@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: music
 version: 5
-tagNames: [class/MusicStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MusicStore, schema-org/MusicStore]
+tagNames: [class/MusicStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MusicStore, is_a_/MusicStore, schema-org/MusicStore]
 tags: ["class/MusicStore", "#is_/a_/MusicStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MusicStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
 ---

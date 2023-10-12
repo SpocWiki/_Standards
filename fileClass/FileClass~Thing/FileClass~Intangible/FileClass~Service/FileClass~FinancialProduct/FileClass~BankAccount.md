@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/BankAccount, class/Thing/Intangible/Service/FinancialProduct/BankAccount, schema-org/BankAccount]
+tagNames: [class/BankAccount, class/Thing/Intangible/Service/FinancialProduct/BankAccount, is_a_/BankAccount, schema-org/BankAccount]
 tags: ["class/BankAccount", "#is_/a_/BankAccount", "class/Thing/Intangible/Service/FinancialProduct/BankAccount"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 ---

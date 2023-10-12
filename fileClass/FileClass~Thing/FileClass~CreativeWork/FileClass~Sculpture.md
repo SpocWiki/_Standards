@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Sculpture, class/Thing/CreativeWork/Sculpture, schema-org/Sculpture]
+tagNames: [class/Sculpture, class/Thing/CreativeWork/Sculpture, is_a_/Sculpture, schema-org/Sculpture]
 tags: ["class/Sculpture", "#is_/a_/Sculpture", "class/Thing/CreativeWork/Sculpture"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

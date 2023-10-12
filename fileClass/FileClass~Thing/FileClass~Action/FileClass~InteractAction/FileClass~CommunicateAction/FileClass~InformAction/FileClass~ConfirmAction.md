@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ConfirmAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction, schema-org/ConfirmAction]
+tagNames: [class/ConfirmAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction, is_a_/ConfirmAction, schema-org/ConfirmAction]
 tags: ["class/ConfirmAction", "#is_/a_/ConfirmAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction/ConfirmAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction
 ---

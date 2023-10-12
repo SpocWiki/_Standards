@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/HealthTopicContent, class/Thing/CreativeWork/WebContent/HealthTopicContent, schema-org/HealthTopicContent]
+tagNames: [class/HealthTopicContent, class/Thing/CreativeWork/WebContent/HealthTopicContent, is_a_/HealthTopicContent, schema-org/HealthTopicContent]
 tags: ["class/HealthTopicContent", "#is_/a_/HealthTopicContent", "class/Thing/CreativeWork/WebContent/HealthTopicContent"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent
 ---

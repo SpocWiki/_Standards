@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: music
 version: 5
-tagNames: [class/MusicVenue, class/Thing/Place/CivicStructure/MusicVenue, schema-org/MusicVenue]
+tagNames: [class/MusicVenue, class/Thing/Place/CivicStructure/MusicVenue, is_a_/MusicVenue, schema-org/MusicVenue]
 tags: ["class/MusicVenue", "#is_/a_/MusicVenue", "class/Thing/Place/CivicStructure/MusicVenue"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---

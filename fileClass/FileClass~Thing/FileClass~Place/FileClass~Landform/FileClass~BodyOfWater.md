@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: waves
 version: 5
-tagNames: [class/BodyOfWater, class/Thing/Place/Landform/BodyOfWater, schema-org/BodyOfWater]
+tagNames: [class/BodyOfWater, class/Thing/Place/Landform/BodyOfWater, is_a_/BodyOfWater, schema-org/BodyOfWater]
 tags: ["class/BodyOfWater", "#is_/a_/BodyOfWater", "class/Thing/Place/Landform/BodyOfWater"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PublicSwimmingPool, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/PublicSwimmingPool, schema-org/PublicSwimmingPool]
+tagNames: [class/PublicSwimmingPool, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/PublicSwimmingPool, is_a_/PublicSwimmingPool, schema-org/PublicSwimmingPool]
 tags: ["class/PublicSwimmingPool", "#is_/a_/PublicSwimmingPool", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/PublicSwimmingPool"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~SportsActivityLocation
 ---

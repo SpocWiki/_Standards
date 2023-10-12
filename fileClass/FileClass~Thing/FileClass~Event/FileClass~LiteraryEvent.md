@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: book-copy
 version: 5
-tagNames: [class/LiteraryEvent, class/Thing/Event/LiteraryEvent, schema-org/LiteraryEvent]
+tagNames: [class/LiteraryEvent, class/Thing/Event/LiteraryEvent, is_a_/LiteraryEvent, schema-org/LiteraryEvent]
 tags: ["class/LiteraryEvent", "#is_/a_/LiteraryEvent", "class/Thing/Event/LiteraryEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---

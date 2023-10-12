@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MusicRecording, class/Thing/CreativeWork/MusicRecording, schema-org/MusicRecording]
+tagNames: [class/MusicRecording, class/Thing/CreativeWork/MusicRecording, is_a_/MusicRecording, schema-org/MusicRecording]
 tags: ["class/MusicRecording", "#is_/a_/MusicRecording", "class/Thing/CreativeWork/MusicRecording"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

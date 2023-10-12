@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/CancelAction, class/Thing/Action/OrganizeAction/PlanAction/CancelAction, schema-org/CancelAction]
+tagNames: [class/CancelAction, class/Thing/Action/OrganizeAction/PlanAction/CancelAction, is_a_/CancelAction, schema-org/CancelAction]
 tags: ["class/CancelAction", "#is_/a_/CancelAction", "class/Thing/Action/OrganizeAction/PlanAction/CancelAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction
 ---

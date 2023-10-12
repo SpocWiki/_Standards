@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/SportsClub, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/SportsClub, schema-org/SportsClub]
+tagNames: [class/SportsClub, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/SportsClub, is_a_/SportsClub, schema-org/SportsClub]
 tags: ["class/SportsClub", "#is_/a_/SportsClub", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/SportsClub"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~SportsActivityLocation
 ---

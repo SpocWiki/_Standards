@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/BroadcastService, class/Thing/Intangible/Service/BroadcastService, schema-org/BroadcastService]
+tagNames: [class/BroadcastService, class/Thing/Intangible/Service/BroadcastService, is_a_/BroadcastService, schema-org/BroadcastService]
 tags: ["class/BroadcastService", "#is_/a_/BroadcastService", "class/Thing/Intangible/Service/BroadcastService"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 ---

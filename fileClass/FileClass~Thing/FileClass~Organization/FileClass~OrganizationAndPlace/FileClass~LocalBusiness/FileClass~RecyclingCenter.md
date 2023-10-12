@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/RecyclingCenter, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RecyclingCenter, schema-org/RecyclingCenter]
+tagNames: [class/RecyclingCenter, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RecyclingCenter, is_a_/RecyclingCenter, schema-org/RecyclingCenter]
 tags: ["class/RecyclingCenter", "#is_/a_/RecyclingCenter", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RecyclingCenter"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---

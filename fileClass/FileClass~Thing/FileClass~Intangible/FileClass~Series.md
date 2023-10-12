@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Series, class/Thing/Intangible/Series, schema-org/Series]
+tagNames: [class/Series, class/Thing/Intangible/Series, is_a_/Series, schema-org/Series]
 tags: ["class/Series", "#is_/a_/Series", "class/Thing/Intangible/Series"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

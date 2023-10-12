@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: clapperboard
 version: 5
-tagNames: [class/MovieTheater, class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater, schema-org/MovieTheater]
+tagNames: [class/MovieTheater, class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater, is_a_/MovieTheater, schema-org/MovieTheater]
 tags: ["class/MovieTheater", "#is_/a_/MovieTheater", "class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness
 ---

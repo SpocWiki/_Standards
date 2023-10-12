@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/SeekToAction, class/Thing/Action/SeekToAction, schema-org/SeekToAction]
+tagNames: [class/SeekToAction, class/Thing/Action/SeekToAction, is_a_/SeekToAction, schema-org/SeekToAction]
 tags: ["class/SeekToAction", "#is_/a_/SeekToAction", "class/Thing/Action/SeekToAction"]
 extends: FileClass~Thing/FileClass~Action
 ---

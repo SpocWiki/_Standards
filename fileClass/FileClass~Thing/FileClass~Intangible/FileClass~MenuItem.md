@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MenuItem, class/Thing/Intangible/MenuItem, schema-org/MenuItem]
+tagNames: [class/MenuItem, class/Thing/Intangible/MenuItem, is_a_/MenuItem, schema-org/MenuItem]
 tags: ["class/MenuItem", "#is_/a_/MenuItem", "class/Thing/Intangible/MenuItem"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

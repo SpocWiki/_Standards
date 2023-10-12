@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/HealthAndBeautyBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness, schema-org/HealthAndBeautyBusiness]
+tagNames: [class/HealthAndBeautyBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness, is_a_/HealthAndBeautyBusiness, schema-org/HealthAndBeautyBusiness]
 tags: ["class/HealthAndBeautyBusiness", "#is_/a_/HealthAndBeautyBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---

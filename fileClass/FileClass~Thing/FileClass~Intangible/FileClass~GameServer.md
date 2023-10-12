@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/GameServer, class/Thing/Intangible/GameServer, schema-org/GameServer]
+tagNames: [class/GameServer, class/Thing/Intangible/GameServer, is_a_/GameServer, schema-org/GameServer]
 tags: ["class/GameServer", "#is_/a_/GameServer", "class/Thing/Intangible/GameServer"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

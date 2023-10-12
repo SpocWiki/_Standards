@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Dataset, class/Thing/CreativeWork/Dataset, schema-org/Dataset]
+tagNames: [class/Dataset, class/Thing/CreativeWork/Dataset, is_a_/Dataset, schema-org/Dataset]
 tags: ["class/Dataset", "#is_/a_/Dataset", "class/Thing/CreativeWork/Dataset"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

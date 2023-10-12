@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DataFeedItem, class/Thing/Intangible/DataFeedItem, schema-org/DataFeedItem]
+tagNames: [class/DataFeedItem, class/Thing/Intangible/DataFeedItem, is_a_/DataFeedItem, schema-org/DataFeedItem]
 tags: ["class/DataFeedItem", "#is_/a_/DataFeedItem", "class/Thing/Intangible/DataFeedItem"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

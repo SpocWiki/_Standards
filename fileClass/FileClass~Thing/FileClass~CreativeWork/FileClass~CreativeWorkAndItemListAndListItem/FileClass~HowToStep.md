@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/HowToStep, class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToStep, schema-org/HowToStep]
+tagNames: [class/HowToStep, class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToStep, is_a_/HowToStep, schema-org/HowToStep]
 tags: ["class/HowToStep", "#is_/a_/HowToStep", "class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToStep"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem
 ---

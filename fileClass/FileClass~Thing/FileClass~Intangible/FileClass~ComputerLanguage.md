@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ComputerLanguage, class/Thing/Intangible/ComputerLanguage, schema-org/ComputerLanguage]
+tagNames: [class/ComputerLanguage, class/Thing/Intangible/ComputerLanguage, is_a_/ComputerLanguage, schema-org/ComputerLanguage]
 tags: ["class/ComputerLanguage", "#is_/a_/ComputerLanguage", "class/Thing/Intangible/ComputerLanguage"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

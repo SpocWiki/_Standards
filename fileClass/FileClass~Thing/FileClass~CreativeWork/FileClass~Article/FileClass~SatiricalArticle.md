@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/SatiricalArticle, class/Thing/CreativeWork/Article/SatiricalArticle, schema-org/SatiricalArticle]
+tagNames: [class/SatiricalArticle, class/Thing/CreativeWork/Article/SatiricalArticle, is_a_/SatiricalArticle, schema-org/SatiricalArticle]
 tags: ["class/SatiricalArticle", "#is_/a_/SatiricalArticle", "class/Thing/CreativeWork/Article/SatiricalArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 ---

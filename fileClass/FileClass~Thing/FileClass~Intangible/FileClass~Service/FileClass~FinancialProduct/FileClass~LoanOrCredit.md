@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/LoanOrCredit, class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit, schema-org/LoanOrCredit]
+tagNames: [class/LoanOrCredit, class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit, is_a_/LoanOrCredit, schema-org/LoanOrCredit]
 tags: ["class/LoanOrCredit", "#is_/a_/LoanOrCredit", "class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 ---

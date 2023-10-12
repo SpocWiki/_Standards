@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/HealthPlanFormulary, class/Thing/Intangible/HealthPlanFormulary, schema-org/HealthPlanFormulary]
+tagNames: [class/HealthPlanFormulary, class/Thing/Intangible/HealthPlanFormulary, is_a_/HealthPlanFormulary, schema-org/HealthPlanFormulary]
 tags: ["class/HealthPlanFormulary", "#is_/a_/HealthPlanFormulary", "class/Thing/Intangible/HealthPlanFormulary"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

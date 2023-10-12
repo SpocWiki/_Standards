@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/RecommendedDoseSchedule, class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule, schema-org/RecommendedDoseSchedule]
+tagNames: [class/RecommendedDoseSchedule, class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule, is_a_/RecommendedDoseSchedule, schema-org/RecommendedDoseSchedule]
 tags: ["class/RecommendedDoseSchedule", "#is_/a_/RecommendedDoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule
 ---

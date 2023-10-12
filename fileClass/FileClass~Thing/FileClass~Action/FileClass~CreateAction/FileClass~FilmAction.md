@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/FilmAction, class/Thing/Action/CreateAction/FilmAction, schema-org/FilmAction]
+tagNames: [class/FilmAction, class/Thing/Action/CreateAction/FilmAction, is_a_/FilmAction, is_a_/FilmAction, schema-org/FilmAction]
 tags: ["class/FilmAction", "#is_/a_/FilmAction", "class/Thing/Action/CreateAction/FilmAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 ---

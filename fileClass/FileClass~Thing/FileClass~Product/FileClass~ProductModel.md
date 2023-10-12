@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ProductModel, class/Thing/Product/ProductModel, schema-org/ProductModel]
+tagNames: [class/ProductModel, class/Thing/Product/ProductModel, is_a_/ProductModel, schema-org/ProductModel]
 tags: ["class/ProductModel", "#is_/a_/ProductModel", "class/Thing/Product/ProductModel"]
 extends: FileClass~Thing/FileClass~Product
 ---

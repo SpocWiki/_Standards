@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/FloorPlan, class/Thing/Intangible/FloorPlan, schema-org/FloorPlan]
+tagNames: [class/FloorPlan, class/Thing/Intangible/FloorPlan, is_a_/FloorPlan, schema-org/FloorPlan]
 tags: ["class/FloorPlan", "#is_/a_/FloorPlan", "class/Thing/Intangible/FloorPlan"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

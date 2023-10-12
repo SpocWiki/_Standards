@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ContactPage, class/Thing/CreativeWork/WebPage/ContactPage, schema-org/ContactPage]
+tagNames: [class/ContactPage, class/Thing/CreativeWork/WebPage/ContactPage, is_a_/ContactPage, schema-org/ContactPage]
 tags: ["class/ContactPage", "#is_/a_/ContactPage", "class/Thing/CreativeWork/WebPage/ContactPage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---

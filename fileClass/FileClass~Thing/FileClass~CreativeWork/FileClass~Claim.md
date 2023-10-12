@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Claim, class/Thing/CreativeWork/Claim, schema-org/Claim]
+tagNames: [class/Claim, class/Thing/CreativeWork/Claim, is_a_/Claim, schema-org/Claim]
 tags: ["class/Claim", "#is_/a_/Claim", "class/Thing/CreativeWork/Claim"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

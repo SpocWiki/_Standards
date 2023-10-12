@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/LearningResource, class/Thing/CreativeWork/LearningResource, schema-org/LearningResource]
+tagNames: [class/LearningResource, class/Thing/CreativeWork/LearningResource, is_a_/LearningResource, schema-org/LearningResource]
 tags: ["class/LearningResource", "#is_/a_/LearningResource", "class/Thing/CreativeWork/LearningResource"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

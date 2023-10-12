@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PresentationDigitalDocument, class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument, schema-org/PresentationDigitalDocument]
+tagNames: [class/PresentationDigitalDocument, class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument, is_a_/PresentationDigitalDocument, schema-org/PresentationDigitalDocument]
 tags: ["class/PresentationDigitalDocument", "#is_/a_/PresentationDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 ---

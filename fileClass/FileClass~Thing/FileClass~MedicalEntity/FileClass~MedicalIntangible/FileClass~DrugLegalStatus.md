@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DrugLegalStatus, class/Thing/MedicalEntity/MedicalIntangible/DrugLegalStatus, schema-org/DrugLegalStatus]
+tagNames: [class/DrugLegalStatus, class/Thing/MedicalEntity/MedicalIntangible/DrugLegalStatus, is_a_/DrugLegalStatus, schema-org/DrugLegalStatus]
 tags: ["class/DrugLegalStatus", "#is_/a_/DrugLegalStatus", "class/Thing/MedicalEntity/MedicalIntangible/DrugLegalStatus"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 ---

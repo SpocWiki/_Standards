@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/BoatTrip, class/Thing/Intangible/Trip/BoatTrip, schema-org/BoatTrip]
+tagNames: [class/BoatTrip, class/Thing/Intangible/Trip/BoatTrip, is_a_/BoatTrip, schema-org/BoatTrip]
 tags: ["class/BoatTrip", "#is_/a_/BoatTrip", "class/Thing/Intangible/Trip/BoatTrip"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 ---

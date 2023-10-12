@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/GatedResidenceCommunity, class/Thing/Place/Residence/GatedResidenceCommunity, schema-org/GatedResidenceCommunity]
+tagNames: [class/GatedResidenceCommunity, class/Thing/Place/Residence/GatedResidenceCommunity, is_a_/GatedResidenceCommunity, schema-org/GatedResidenceCommunity]
 tags: ["class/GatedResidenceCommunity", "#is_/a_/GatedResidenceCommunity", "class/Thing/Place/Residence/GatedResidenceCommunity"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Residence
 ---

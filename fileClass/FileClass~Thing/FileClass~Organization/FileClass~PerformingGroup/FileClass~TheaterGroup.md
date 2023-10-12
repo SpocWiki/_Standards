@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/TheaterGroup, class/Thing/Organization/PerformingGroup/TheaterGroup, schema-org/TheaterGroup]
+tagNames: [class/TheaterGroup, class/Thing/Organization/PerformingGroup/TheaterGroup, is_a_/TheaterGroup, schema-org/TheaterGroup]
 tags: ["class/TheaterGroup", "#is_/a_/TheaterGroup", "class/Thing/Organization/PerformingGroup/TheaterGroup"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
 ---

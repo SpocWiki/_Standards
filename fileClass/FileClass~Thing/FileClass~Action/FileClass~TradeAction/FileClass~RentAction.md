@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/RentAction, class/Thing/Action/TradeAction/RentAction, schema-org/RentAction]
+tagNames: [class/RentAction, class/Thing/Action/TradeAction/RentAction, is_a_/RentAction, schema-org/RentAction]
 tags: ["class/RentAction", "#is_/a_/RentAction", "class/Thing/Action/TradeAction/RentAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---

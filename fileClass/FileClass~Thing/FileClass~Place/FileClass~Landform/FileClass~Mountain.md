@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: mountain
 version: 5
-tagNames: [class/Mountain, class/Thing/Place/Landform/Mountain, schema-org/Mountain]
+tagNames: [class/Mountain, class/Thing/Place/Landform/Mountain, is_a_/Mountain, schema-org/Mountain]
 tags: ["class/Mountain", "#is_/a_/Mountain", "class/Thing/Place/Landform/Mountain"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/BrainStructure, class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure, schema-org/BrainStructure]
+tagNames: [class/BrainStructure, class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure, is_a_/BrainStructure, schema-org/BrainStructure]
 tags: ["class/BrainStructure", "#is_/a_/BrainStructure", "class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---

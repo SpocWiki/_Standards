@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: skull
 version: 5
-tagNames: [class/Crematorium, class/Thing/Place/CivicStructure/Crematorium, schema-org/Crematorium]
+tagNames: [class/Crematorium, class/Thing/Place/CivicStructure/Crematorium, is_a_/Crematorium, schema-org/Crematorium]
 tags: ["class/Crematorium", "#is_/a_/Crematorium", "class/Thing/Place/CivicStructure/Crematorium"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/SpeakableSpecification, class/Thing/Intangible/SpeakableSpecification, schema-org/SpeakableSpecification]
+tagNames: [class/SpeakableSpecification, class/Thing/Intangible/SpeakableSpecification, is_a_/SpeakableSpecification, schema-org/SpeakableSpecification]
 tags: ["class/SpeakableSpecification", "#is_/a_/SpeakableSpecification", "class/Thing/Intangible/SpeakableSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Seat, class/Thing/Intangible/Seat, schema-org/Seat]
+tagNames: [class/Seat, class/Thing/Intangible/Seat, is_a_/Seat, schema-org/Seat]
 tags: ["class/Seat", "#is_/a_/Seat", "class/Thing/Intangible/Seat"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

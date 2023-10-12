@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/FundingAgency, class/Thing/Organization/Project/FundingAgency, schema-org/FundingAgency]
+tagNames: [class/FundingAgency, class/Thing/Organization/Project/FundingAgency, is_a_/FundingAgency, schema-org/FundingAgency]
 tags: ["class/FundingAgency", "#is_/a_/FundingAgency", "class/Thing/Organization/Project/FundingAgency"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~Project
 ---

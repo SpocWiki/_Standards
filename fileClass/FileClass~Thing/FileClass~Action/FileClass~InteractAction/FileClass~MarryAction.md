@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MarryAction, class/Thing/Action/InteractAction/MarryAction, schema-org/MarryAction]
+tagNames: [class/MarryAction, class/Thing/Action/InteractAction/MarryAction, is_a_/MarryAction, schema-org/MarryAction]
 tags: ["class/MarryAction", "#is_/a_/MarryAction", "class/Thing/Action/InteractAction/MarryAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 ---

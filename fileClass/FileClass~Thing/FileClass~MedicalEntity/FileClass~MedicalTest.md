@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/MedicalTest, class/Thing/MedicalEntity/MedicalTest, schema-org/MedicalTest]
+tagNames: [class/MedicalTest, class/Thing/MedicalEntity/MedicalTest, is_a_/MedicalTest, schema-org/MedicalTest]
 tags: ["class/MedicalTest", "#is_/a_/MedicalTest", "class/Thing/MedicalEntity/MedicalTest"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---

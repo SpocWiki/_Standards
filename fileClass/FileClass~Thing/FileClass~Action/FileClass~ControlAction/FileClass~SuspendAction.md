@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/SuspendAction, class/Thing/Action/ControlAction/SuspendAction, schema-org/SuspendAction]
+tagNames: [class/SuspendAction, class/Thing/Action/ControlAction/SuspendAction, is_a_/SuspendAction, schema-org/SuspendAction]
 tags: ["class/SuspendAction", "#is_/a_/SuspendAction", "class/Thing/Action/ControlAction/SuspendAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ControlAction
 ---

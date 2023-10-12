@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/DisagreeAction, class/Thing/Action/AssessAction/ReactAction/DisagreeAction, schema-org/DisagreeAction]
+tagNames: [class/DisagreeAction, class/Thing/Action/AssessAction/ReactAction/DisagreeAction, is_a_/DisagreeAction, schema-org/DisagreeAction]
 tags: ["class/DisagreeAction", "#is_/a_/DisagreeAction", "class/Thing/Action/AssessAction/ReactAction/DisagreeAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 ---

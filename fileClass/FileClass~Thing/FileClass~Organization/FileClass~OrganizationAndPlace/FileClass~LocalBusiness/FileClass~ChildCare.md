@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ChildCare, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ChildCare, schema-org/ChildCare]
+tagNames: [class/ChildCare, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ChildCare, is_a_/ChildCare, schema-org/ChildCare]
 tags: ["class/ChildCare", "#is_/a_/ChildCare", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ChildCare"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---

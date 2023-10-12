@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: brush
 version: 5
-tagNames: [class/Painting, class/Thing/CreativeWork/Painting, schema-org/Painting]
+tagNames: [class/Painting, class/Thing/CreativeWork/Painting, is_a_/Painting, schema-org/Painting]
 tags: ["class/Painting", "#is_/a_/Painting", "class/Thing/CreativeWork/Painting"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

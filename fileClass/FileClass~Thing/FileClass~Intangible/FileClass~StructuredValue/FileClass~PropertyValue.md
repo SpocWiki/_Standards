@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PropertyValue, class/Thing/Intangible/StructuredValue/PropertyValue, schema-org/PropertyValue]
+tagNames: [class/PropertyValue, class/Thing/Intangible/StructuredValue/PropertyValue, is_a_/PropertyValue, schema-org/PropertyValue]
 tags: ["class/PropertyValue", "#is_/a_/PropertyValue", "class/Thing/Intangible/StructuredValue/PropertyValue"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/PhysicalActivity, class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity, schema-org/PhysicalActivity]
+tagNames: [class/PhysicalActivity, class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity, is_a_/PhysicalActivity, schema-org/PhysicalActivity]
 tags: ["class/PhysicalActivity", "#is_/a_/PhysicalActivity", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification
 ---
