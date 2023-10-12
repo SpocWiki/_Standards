@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,14 +31,13 @@ aliases:
 - is_a_taxon
 ---
 
-Class of all taxons.
+Class of all taxons, i. e. Sets of organisms asserted to represent a natural cohesive biological unit.
+These create a [[Taxonomy]] . 
 
 Tag Instances like this: 
 #is_/a_/taxon
 
 [ #is_/part_of :: https://pending.schema.org ]
-
-A set of organisms asserted to represent a natural cohesive biological unit.
 
 [ #is_/sub_class_of :[[../Thing|Thing]]]] ] 
 
