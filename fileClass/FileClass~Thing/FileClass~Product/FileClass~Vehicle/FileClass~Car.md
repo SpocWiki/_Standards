@@ -11,7 +11,6 @@ extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 
 # Car
 This is a kind of [[FileClass~Vehicle]]
-
 A car is a wheeled, self-powered motor vehicle used for transportation.
 
 
