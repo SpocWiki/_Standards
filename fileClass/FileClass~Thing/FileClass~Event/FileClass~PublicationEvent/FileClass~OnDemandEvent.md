@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/OnDemandEvent, class/Thing/Event/PublicationEvent/OnDemandEvent, schema-org/OnDemandEvent]
+tagNames: [class/OnDemandEvent, class/Thing/Event/PublicationEvent/OnDemandEvent, is_an_/OnDemandEvent, schema-org/OnDemandEvent]
 tags: ["class/OnDemandEvent", "#is_/an_/OnDemandEvent", "class/Thing/Event/PublicationEvent/OnDemandEvent"]
 extends: FileClass~Thing/FileClass~Event/FileClass~PublicationEvent
 ---

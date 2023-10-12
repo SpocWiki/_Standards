@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Observation, class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation, schema-org/Observation]
+tagNames: [class/Observation, class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation, is_an_/Observation, schema-org/Observation]
 tags: ["class/Observation", "#is_/an_/Observation", "class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue
 ---

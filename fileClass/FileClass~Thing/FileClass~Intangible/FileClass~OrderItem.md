@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/OrderItem, class/Thing/Intangible/OrderItem, schema-org/OrderItem]
+tagNames: [class/OrderItem, class/Thing/Intangible/OrderItem, is_an_/OrderItem, schema-org/OrderItem]
 tags: ["class/OrderItem", "#is_/an_/OrderItem", "class/Thing/Intangible/OrderItem"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

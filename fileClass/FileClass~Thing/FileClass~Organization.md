@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Organization, class/Thing/Organization, schema-org/Organization]
+tagNames: [class/Organization, class/Thing/Organization, is_an_/Organization, schema-org/Organization]
 tags: ["class/Organization", "#is_/an_/Organization", "class/Thing/Organization"]
 extends: FileClass~Thing
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/OnlineStore, class/Thing/Organization/OnlineBusiness/OnlineStore, schema-org/OnlineStore]
+tagNames: [class/OnlineStore, class/Thing/Organization/OnlineBusiness/OnlineStore, is_an_/OnlineStore, schema-org/OnlineStore]
 tags: ["class/OnlineStore", "#is_/an_/OnlineStore", "class/Thing/Organization/OnlineBusiness/OnlineStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OnlineBusiness
 ---

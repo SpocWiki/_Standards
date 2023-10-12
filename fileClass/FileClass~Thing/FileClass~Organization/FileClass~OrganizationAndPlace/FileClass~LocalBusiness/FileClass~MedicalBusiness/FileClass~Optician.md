@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: glasses
 version: 5
-tagNames: [class/Optician, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician, schema-org/Optician]
+tagNames: [class/Optician, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician, is_an_/Optician, schema-org/Optician]
 tags: ["class/Optician", "#is_/an_/Optician", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~MedicalBusiness
 ---

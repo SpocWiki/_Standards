@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/OwnershipInfo, class/Thing/Intangible/StructuredValue/OwnershipInfo, schema-org/OwnershipInfo]
+tagNames: [class/OwnershipInfo, class/Thing/Intangible/StructuredValue/OwnershipInfo, is_an_/OwnershipInfo, schema-org/OwnershipInfo]
 tags: ["class/OwnershipInfo", "#is_/an_/OwnershipInfo", "class/Thing/Intangible/StructuredValue/OwnershipInfo"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---

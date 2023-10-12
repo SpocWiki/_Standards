@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/OfferForLease, class/Thing/Intangible/Offer/OfferForLease, schema-org/OfferForLease]
+tagNames: [class/OfferForLease, class/Thing/Intangible/Offer/OfferForLease, is_an_/OfferForLease, schema-org/OfferForLease]
 tags: ["class/OfferForLease", "#is_/an_/OfferForLease", "class/Thing/Intangible/Offer/OfferForLease"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Offer
 ---

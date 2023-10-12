@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/OpinionNewsArticle, class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle, schema-org/OpinionNewsArticle]
+tagNames: [class/OpinionNewsArticle, class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle, is_an_/OpinionNewsArticle, schema-org/OpinionNewsArticle]
 tags: ["class/OpinionNewsArticle", "#is_/an_/OpinionNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/OpinionNewsArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 ---
