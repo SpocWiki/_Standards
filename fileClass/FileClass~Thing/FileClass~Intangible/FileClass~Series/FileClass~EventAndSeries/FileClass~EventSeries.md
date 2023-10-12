@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/EventSeries, class/Thing/Intangible/Series/EventAndSeries/EventSeries, schema-org/EventSeries]
+tagNames: [class/EventSeries, class/Thing/Intangible/Series/EventAndSeries/EventSeries, is_an_/EventSeries, schema-org/EventSeries]
 tags: ["class/EventSeries", "#is_/an_/EventSeries", "class/Thing/Intangible/Series/EventAndSeries/EventSeries"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries
 ---

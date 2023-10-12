@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/EventVenue, class/Thing/Place/CivicStructure/EventVenue, schema-org/EventVenue]
+tagNames: [class/EventVenue, class/Thing/Place/CivicStructure/EventVenue, is_an_/EventVenue, schema-org/EventVenue]
 tags: ["class/EventVenue", "#is_/an_/EventVenue", "class/Thing/Place/CivicStructure/EventVenue"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/EmailMessage, class/Thing/CreativeWork/Message/EmailMessage, schema-org/EmailMessage]
+tagNames: [class/EmailMessage, class/Thing/CreativeWork/Message/EmailMessage, is_an_/EmailMessage, schema-org/EmailMessage]
 tags: ["class/EmailMessage", "#is_/an_/EmailMessage", "class/Thing/CreativeWork/Message/EmailMessage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Message
 ---

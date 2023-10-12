@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/EducationalOccupationalCredential, class/Thing/CreativeWork/EducationalOccupationalCredential, schema-org/EducationalOccupationalCredential]
+tagNames: [class/EducationalOccupationalCredential, class/Thing/CreativeWork/EducationalOccupationalCredential, is_an_/EducationalOccupationalCredential, schema-org/EducationalOccupationalCredential]
 tags: ["class/EducationalOccupationalCredential", "#is_/an_/EducationalOccupationalCredential", "class/Thing/CreativeWork/EducationalOccupationalCredential"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/EngineSpecification, class/Thing/Intangible/StructuredValue/EngineSpecification, schema-org/EngineSpecification]
+tagNames: [class/EngineSpecification, class/Thing/Intangible/StructuredValue/EngineSpecification, is_an_/EngineSpecification, schema-org/EngineSpecification]
 tags: ["class/EngineSpecification", "#is_/an_/EngineSpecification", "class/Thing/Intangible/StructuredValue/EngineSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---

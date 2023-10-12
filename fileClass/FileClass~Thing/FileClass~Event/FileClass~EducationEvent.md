@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/EducationEvent, class/Thing/Event/EducationEvent, schema-org/EducationEvent]
+tagNames: [class/EducationEvent, class/Thing/Event/EducationEvent, is_an_/EducationEvent, schema-org/EducationEvent]
 tags: ["class/EducationEvent", "#is_/an_/EducationEvent", "class/Thing/Event/EducationEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---

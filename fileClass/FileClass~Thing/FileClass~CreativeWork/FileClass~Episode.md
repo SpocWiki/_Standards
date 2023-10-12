@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Episode, class/Thing/CreativeWork/Episode, schema-org/Episode]
+tagNames: [class/Episode, class/Thing/CreativeWork/Episode, is_an_/Episode, schema-org/Episode]
 tags: ["class/Episode", "#is_/an_/Episode", "class/Thing/CreativeWork/Episode"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---

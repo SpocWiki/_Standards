@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/EnergyConsumptionDetails, class/Thing/Intangible/EnergyConsumptionDetails, schema-org/EnergyConsumptionDetails]
+tagNames: [class/EnergyConsumptionDetails, class/Thing/Intangible/EnergyConsumptionDetails, is_an_/EnergyConsumptionDetails, schema-org/EnergyConsumptionDetails]
 tags: ["class/EnergyConsumptionDetails", "#is_/an_/EnergyConsumptionDetails", "class/Thing/Intangible/EnergyConsumptionDetails"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
