@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AskAction, class/Thing/Action/InteractAction/CommunicateAction/AskAction, schema-org/AskAction]
+tagNames: [class/AskAction, class/Thing/Action/InteractAction/CommunicateAction/AskAction, is_an_/AskAction, schema-org/AskAction]
 tags: ["class/AskAction", "#is_/an_/AskAction", "class/Thing/Action/InteractAction/CommunicateAction/AskAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---

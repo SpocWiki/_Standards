@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AutoBodyShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoBodyShop, schema-org/AutoBodyShop]
+tagNames: [class/AutoBodyShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoBodyShop, is_an_/AutoBodyShop, schema-org/AutoBodyShop]
 tags: ["class/AutoBodyShop", "#is_/an_/AutoBodyShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoBodyShop"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~AutomotiveBusiness
 ---

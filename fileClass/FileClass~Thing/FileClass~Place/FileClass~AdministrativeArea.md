@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AdministrativeArea, class/Thing/Place/AdministrativeArea, schema-org/AdministrativeArea]
+tagNames: [class/AdministrativeArea, class/Thing/Place/AdministrativeArea, is_an_/AdministrativeArea, schema-org/AdministrativeArea]
 tags: ["class/AdministrativeArea", "#is_/an_/AdministrativeArea", "class/Thing/Place/AdministrativeArea"]
 extends: FileClass~Thing/FileClass~Place
 ---

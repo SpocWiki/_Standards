@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AuthorizeAction, class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction, schema-org/AuthorizeAction]
+tagNames: [class/AuthorizeAction, class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction, is_an_/AuthorizeAction, schema-org/AuthorizeAction]
 tags: ["class/AuthorizeAction", "#is_/an_/AuthorizeAction", "class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
 ---

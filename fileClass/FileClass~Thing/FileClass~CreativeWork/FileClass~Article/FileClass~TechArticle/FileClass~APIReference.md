@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/APIReference, class/Thing/CreativeWork/Article/TechArticle/APIReference, schema-org/APIReference]
+tagNames: [class/APIReference, class/Thing/CreativeWork/Article/TechArticle/APIReference, is_an_/APIReference, schema-org/APIReference]
 tags: ["class/APIReference", "#is_/an_/APIReference", "class/Thing/CreativeWork/Article/TechArticle/APIReference"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle
 ---

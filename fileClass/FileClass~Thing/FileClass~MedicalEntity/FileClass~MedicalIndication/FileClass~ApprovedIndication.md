@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ApprovedIndication, class/Thing/MedicalEntity/MedicalIndication/ApprovedIndication, schema-org/ApprovedIndication]
+tagNames: [class/ApprovedIndication, class/Thing/MedicalEntity/MedicalIndication/ApprovedIndication, is_an_/ApprovedIndication, schema-org/ApprovedIndication]
 tags: ["class/ApprovedIndication", "#is_/an_/ApprovedIndication", "class/Thing/MedicalEntity/MedicalIndication/ApprovedIndication"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication
 ---

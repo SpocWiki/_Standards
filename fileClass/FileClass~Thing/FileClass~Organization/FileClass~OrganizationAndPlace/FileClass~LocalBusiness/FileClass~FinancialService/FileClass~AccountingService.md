@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AccountingService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AccountingService, schema-org/AccountingService]
+tagNames: [class/AccountingService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AccountingService, is_an_/AccountingService, schema-org/AccountingService]
 tags: ["class/AccountingService", "#is_/an_/AccountingService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AccountingService"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FinancialService
 ---

@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/Airline, class/Thing/Organization/Airline, schema-org/Airline]
+tagNames: [class/Airline, class/Thing/Organization/Airline, is_an_/Airline, schema-org/Airline]
 tags: ["class/Airline", "#is_/an_/Airline", "class/Thing/Organization/Airline"]
 extends: FileClass~Thing/FileClass~Organization
 ---

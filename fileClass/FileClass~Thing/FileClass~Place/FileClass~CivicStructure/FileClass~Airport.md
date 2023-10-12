@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: plane-landing
 version: 5
-tagNames: [class/Airport, class/Thing/Place/CivicStructure/Airport, schema-org/Airport]
+tagNames: [class/Airport, class/Thing/Place/CivicStructure/Airport, is_an_/Airport, schema-org/Airport]
 tags: ["class/Airport", "#is_/an_/Airport", "class/Thing/Place/CivicStructure/Airport"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---

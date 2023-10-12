@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AlignmentObject, class/Thing/Intangible/AlignmentObject, schema-org/AlignmentObject]
+tagNames: [class/AlignmentObject, class/Thing/Intangible/AlignmentObject, is_an_/AlignmentObject, schema-org/AlignmentObject]
 tags: ["class/AlignmentObject", "#is_/an_/AlignmentObject", "class/Thing/Intangible/AlignmentObject"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

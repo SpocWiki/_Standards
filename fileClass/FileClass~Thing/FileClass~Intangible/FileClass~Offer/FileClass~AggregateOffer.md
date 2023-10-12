@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AggregateOffer, class/Thing/Intangible/Offer/AggregateOffer, schema-org/AggregateOffer]
+tagNames: [class/AggregateOffer, class/Thing/Intangible/Offer/AggregateOffer, is_an_/AggregateOffer, schema-org/AggregateOffer]
 tags: ["class/AggregateOffer", "#is_/an_/AggregateOffer", "class/Thing/Intangible/Offer/AggregateOffer"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Offer
 ---

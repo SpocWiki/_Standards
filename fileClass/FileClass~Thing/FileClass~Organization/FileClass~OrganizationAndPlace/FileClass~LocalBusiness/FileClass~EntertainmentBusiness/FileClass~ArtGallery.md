@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ArtGallery, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ArtGallery, schema-org/ArtGallery]
+tagNames: [class/ArtGallery, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ArtGallery, is_an_/ArtGallery, schema-org/ArtGallery]
 tags: ["class/ArtGallery", "#is_/an_/ArtGallery", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/ArtGallery"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~EntertainmentBusiness
 ---

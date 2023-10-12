@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/ActionAccessSpecification, class/Thing/Intangible/ActionAccessSpecification, schema-org/ActionAccessSpecification]
+tagNames: [class/ActionAccessSpecification, class/Thing/Intangible/ActionAccessSpecification, is_an_/ActionAccessSpecification, schema-org/ActionAccessSpecification]
 tags: ["class/ActionAccessSpecification", "#is_/an_/ActionAccessSpecification", "class/Thing/Intangible/ActionAccessSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---

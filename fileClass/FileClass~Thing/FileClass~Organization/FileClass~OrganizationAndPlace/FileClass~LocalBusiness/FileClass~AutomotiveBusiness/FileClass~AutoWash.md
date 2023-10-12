@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AutoWash, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoWash, schema-org/AutoWash]
+tagNames: [class/AutoWash, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoWash, is_an_/AutoWash, schema-org/AutoWash]
 tags: ["class/AutoWash", "#is_/an_/AutoWash", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoWash"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~AutomotiveBusiness
 ---

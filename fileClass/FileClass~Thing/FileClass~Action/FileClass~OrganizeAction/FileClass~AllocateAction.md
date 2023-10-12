@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AllocateAction, class/Thing/Action/OrganizeAction/AllocateAction, schema-org/AllocateAction]
+tagNames: [class/AllocateAction, class/Thing/Action/OrganizeAction/AllocateAction, is_an_/AllocateAction, schema-org/AllocateAction]
 tags: ["class/AllocateAction", "#is_/an_/AllocateAction", "class/Thing/Action/OrganizeAction/AllocateAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
 ---

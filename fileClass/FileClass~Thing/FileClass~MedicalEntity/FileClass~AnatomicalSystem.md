@@ -4,7 +4,7 @@ mapWithTag: true
 excludes:
 icon: link-2
 version: 5
-tagNames: [class/AnatomicalSystem, class/Thing/MedicalEntity/AnatomicalSystem, schema-org/AnatomicalSystem]
+tagNames: [class/AnatomicalSystem, class/Thing/MedicalEntity/AnatomicalSystem, is_an_/AnatomicalSystem, schema-org/AnatomicalSystem]
 tags: ["class/AnatomicalSystem", "#is_/an_/AnatomicalSystem", "class/Thing/MedicalEntity/AnatomicalSystem"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
