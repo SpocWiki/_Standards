@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_legislation_changes :: Legislation ] or 
+- [ #has_/legislation_changes :: Legislation ] or 
 - [ has_legislation_changes :: Legislation ] 
 
 Another legislation that this legislation changes. 

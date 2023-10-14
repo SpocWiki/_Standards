@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_web_feed :: DataFeed, URL ] or 
+- [ #has_/web_feed :: DataFeed, URL ] or 
 - [ has_web_feed :: DataFeed, URL ] 
 
 The URL for a feed, e.g. associated with a podcast series, blog, or series of date-stamped updates. This is usually RSS or Atom.

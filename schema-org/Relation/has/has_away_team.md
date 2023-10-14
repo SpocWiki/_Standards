@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_away_team :: Person, SportsTeam ] or 
+- [ #has_/away_team :: Person, SportsTeam ] or 
 - [ has_away_team :: Person, SportsTeam ] 
 
 The 'away' team in a sports event.

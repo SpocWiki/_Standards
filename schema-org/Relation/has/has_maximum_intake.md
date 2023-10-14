@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_maximum_intake :: MaximumDoseSchedule ] or 
+- [ #has_/maximum_intake :: MaximumDoseSchedule ] or 
 - [ has_maximum_intake :: MaximumDoseSchedule ] 
 
 Recommended intake of this supplement for a given population as defined by a specific recommending authority.

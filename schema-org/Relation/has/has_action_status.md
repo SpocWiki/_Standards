@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_action_status :: ActionStatusType ] or 
+- [ #has_/action_status :: ActionStatusType ] or 
 - [ has_action_status :: ActionStatusType ] 
 
 Indicates the current disposition of the Action.

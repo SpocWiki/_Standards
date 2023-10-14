@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_supporting_data :: DataFeed ] or 
+- [ #has_/supporting_data :: DataFeed ] or 
 - [ has_supporting_data :: DataFeed ] 
 
 Supporting data for a SoftwareApplication.

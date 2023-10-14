@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_financial_aid_eligible :: DefinedTerm, Text ] or 
+- [ #has_/financial_aid_eligible :: DefinedTerm, Text ] or 
 - [ has_financial_aid_eligible :: DefinedTerm, Text ] 
 
 A financial aid type or program which students may use to pay for tuition or fees associated with the program.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_health_condition :: MedicalCondition ] or 
+- [ #has_/health_condition :: MedicalCondition ] or 
 - [ has_health_condition :: MedicalCondition ] 
 
 Specifying the health condition(s) of a patient, medical study, or other target audience.

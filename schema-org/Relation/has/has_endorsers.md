@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_endorsers :: Organization, Person ] or 
+- [ #has_/endorsers :: Organization, Person ] or 
 - [ has_endorsers :: Organization, Person ] 
 
 People or organizations that endorse the plan.

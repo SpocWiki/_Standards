@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_entertainment_business :: EntertainmentBusiness ] or 
+- [ #has_/entertainment_business :: EntertainmentBusiness ] or 
 - [ has_entertainment_business :: EntertainmentBusiness ] 
 
 A sub property of location. The entertainment business where the action occurred.

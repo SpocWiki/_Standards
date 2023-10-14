@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_member :: Organization, Person ] or 
+- [ #has_/member :: Organization, Person ] or 
 - [ has_member :: Organization, Person ] 
 
 A member of an Organization or a ProgramMembership. Organizations can be members of organizations; 

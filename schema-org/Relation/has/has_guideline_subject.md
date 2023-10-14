@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_guideline_subject :: MedicalEntity ] or 
+- [ #has_/guideline_subject :: MedicalEntity ] or 
 - [ has_guideline_subject :: MedicalEntity ] 
 
 The medical conditions, treatments, etc. that are the subject of the guideline.

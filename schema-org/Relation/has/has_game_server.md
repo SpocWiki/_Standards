@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_game_server :: GameServer ] or 
+- [ #has_/game_server :: GameServer ] or 
 - [ has_game_server :: GameServer ] 
 
 The server on which  it is possible to play the game.

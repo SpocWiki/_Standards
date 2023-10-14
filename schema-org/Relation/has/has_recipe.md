@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recipe :: Recipe ] or 
+- [ #has_/recipe :: Recipe ] or 
 - [ has_recipe :: Recipe ] 
 
 A sub property of instrument. The recipe/instructions used to perform the action.

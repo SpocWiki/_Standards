@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_associated_article :: NewsArticle ] or 
+- [ #has_/associated_article :: NewsArticle ] or 
 - [ has_associated_article :: NewsArticle ] 
 
 A NewsArticle associated with the Media Object.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_artist :: [[Person]] ] or 
+- [ #has_/artist :: [[Person]] ] or 
 - [ has_artist :: [[Person]] ] 
 
 The primary artist for a work

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_by_day :: DayOfWeek, Text ] or 
+- [ #has_/by_day :: DayOfWeek, Text ] or 
 - [ is_by_day :: DayOfWeek, Text ] 
 
 Defines the day(s) of the week on which a recurring [[Event]] takes place. May be specified using either [[DayOfWeek]], or alternatively [[Text]] conforming to iCal's syntax for byDay recurrence rules.

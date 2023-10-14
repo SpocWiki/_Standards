@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_review :: Review ] or 
+- [ #has_/review :: Review ] or 
 - [ has_review :: Review ] 
 
 A review of the item.

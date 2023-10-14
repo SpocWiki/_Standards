@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_fuel_type :: QualitativeValue, Text, URL ] or 
+- [ #has_/fuel_type :: QualitativeValue, Text, URL ] or 
 - [ has_fuel_type :: QualitativeValue, Text, URL ] 
 
 The type of fuel suitable for the engine or engines of the vehicle. If the vehicle has only one engine, this property can be attached directly to the vehicle.

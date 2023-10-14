@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_supply :: HowToSupply, Text ] or 
+- [ #has_/supply :: HowToSupply, Text ] or 
 - [ has_supply :: HowToSupply, Text ] 
 
 A sub-property of instrument. A supply consumed when performing instructions or a direction.

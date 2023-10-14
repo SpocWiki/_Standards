@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_accepted_offer :: [[Offer]] ] or 
+- [ #has_/accepted_offer :: [[Offer]] ] or 
 - [ has_accepted_offer :: [[Offer]] ] 
 
 The offer(s) -- e.g., product, quantity and price combinations -- included in the order.

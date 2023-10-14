@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_example_of_work :: CreativeWork ] or 
+- [ #has_/example_of_work :: CreativeWork ] or 
 - [ has_example_of_work :: CreativeWork ] 
 
 A creative work that this work is an example/instance/realization/derivation of.

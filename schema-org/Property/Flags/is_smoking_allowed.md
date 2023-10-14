@@ -32,8 +32,8 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/smoking_allowed 
-#is_/not_/smoking_allowed 
+#is_/smoking_allowed 
+#is_not_/smoking_allowed 
 
 Or write it as a Triple: 
 [ is_smoking_allowed :: Boolean ] 

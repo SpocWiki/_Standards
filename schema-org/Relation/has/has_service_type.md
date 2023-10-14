@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_service_type :: GovernmentBenefitsType, Text ] or 
+- [ #has_/service_type :: GovernmentBenefitsType, Text ] or 
 - [ has_service_type :: GovernmentBenefitsType, Text ] 
 
 The type of service being offered, e.g. veterans' benefits, emergency relief, etc.

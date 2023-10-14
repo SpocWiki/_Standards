@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_prescription_status :: DrugPrescriptionStatus, Text ] or 
+- [ #has_/prescription_status :: DrugPrescriptionStatus, Text ] or 
 - [ has_prescription_status :: DrugPrescriptionStatus, Text ] 
 
 Indicates the status of drug prescription, e.g. local catalogs classifications or whether the drug is available by prescription or over-the-counter, etc.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_observed_node :: StatisticalPopulation ] or 
+- [ #has_/observed_node :: StatisticalPopulation ] or 
 - [ has_observed_node :: StatisticalPopulation ] 
 
 The observedNode of an [[Observation]], often a [[StatisticalPopulation]].

@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_attendee :: Organization, Person ] or 
+- [ #has_/attendee :: Organization, Person ] or 
 - [ has_attendee :: Organization, Person ] 
 
 A person or organization attending the event.

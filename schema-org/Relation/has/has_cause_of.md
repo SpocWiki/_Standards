@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_cause_of :: MedicalEntity ] or 
+- [ #has_/cause_of :: MedicalEntity ] or 
 - [ has_cause_of :: MedicalEntity ] 
 
 The condition, complication, symptom, sign, etc. caused.

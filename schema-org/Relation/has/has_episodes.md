@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: episode ]
 
 Use it like this: 
-- [ #has/_episode :: Episode ] or 
+- [ #has_/episode :: Episode ] or 
 - [ has_episode :: Episode ] 
 
 An episode of a TV/radio series or season.

@@ -34,8 +34,8 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/unlabelled_fallback 
-#is_/not_/unlabelled_fallback 
+#is_/unlabelled_fallback 
+#is_not_/unlabelled_fallback 
 
 Or write it as a Triple: 
 [ is_unlabelled_fallback :: Boolean ] 

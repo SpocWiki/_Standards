@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_event_attendance_mode :: EventAttendanceModeEnumeration ] or 
+- [ #has_/event_attendance_mode :: EventAttendanceModeEnumeration ] or 
 - [ has_event_attendance_mode :: EventAttendanceModeEnumeration ] 
 
 The eventAttendanceMode of an event indicates whether it occurs online, offline, or a mix.

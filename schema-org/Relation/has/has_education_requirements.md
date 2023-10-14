@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_education_requirements :: EducationalOccupationalCredential, Text ] or 
+- [ #has_/education_requirements :: EducationalOccupationalCredential, Text ] or 
 - [ has_education_requirements :: EducationalOccupationalCredential, Text ] 
 
 Educational background needed for the position or Occupation.

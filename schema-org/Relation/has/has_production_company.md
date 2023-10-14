@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_production_company :: Organization ] or 
+- [ #has_/production_company :: Organization ] or 
 - [ has_production_company :: Organization ] 
 
 The production company or studio responsible for the item, e.g. series, video game, episode etc.

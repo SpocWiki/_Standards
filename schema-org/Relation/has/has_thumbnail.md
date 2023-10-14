@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_thumbnail :: ImageObject ] or 
+- [ #has_/thumbnail :: ImageObject ] or 
 - [ has_thumbnail :: ImageObject ] 
 
 Thumbnail image for an image or video.

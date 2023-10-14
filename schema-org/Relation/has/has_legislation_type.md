@@ -33,7 +33,7 @@ aliases:
 [ #has_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_legislation_type :: CategoryCode, Text ] or 
+- [ #has_/legislation_type :: CategoryCode, Text ] or 
 - [ has_legislation_type :: CategoryCode, Text ] 
 
 The type of the legislation. Examples of values are "law", "act", "directive", "decree", "regulation", "statutory instrument", "loi organique", "r�glement grand-ducal", etc., depending on the country.

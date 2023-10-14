@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_itinerary :: ItemList, Place ] or 
+- [ #has_/itinerary :: ItemList, Place ] or 
 - [ has_itinerary :: ItemList, Place ] 
 
 Destination(s) ( [[Place]] ) that make up a trip. For a trip where destination order is important use [[ItemList]] to specify that order (see examples).

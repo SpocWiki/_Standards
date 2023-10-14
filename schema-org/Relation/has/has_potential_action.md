@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_potential_action :: Action ] or 
+- [ #has_/potential_action :: Action ] or 
 - [ has_potential_action :: Action ] 
 
 Indicates a potential Action, which describes an idealized action in which this thing would play an 'object' role.

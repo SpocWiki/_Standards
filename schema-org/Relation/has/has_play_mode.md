@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_play_mode :: GamePlayMode ] or 
+- [ #has_/play_mode :: GamePlayMode ] or 
 - [ has_play_mode :: GamePlayMode ] 
 
 Indicates whether this game is multi-player, co-op or single-player.  The game can be marked as multi-player, co-op and single-player at the same time.

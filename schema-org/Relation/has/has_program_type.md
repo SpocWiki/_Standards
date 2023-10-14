@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_program_type :: DefinedTerm, Text ] or 
+- [ #has_/program_type :: DefinedTerm, Text ] or 
 - [ has_program_type :: DefinedTerm, Text ] 
 
 The type of educational or occupational program. For example, classroom, internship, alternance, etc.

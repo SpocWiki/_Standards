@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_interaction_service :: SoftwareApplication, WebSite ] or 
+- [ #has_/interaction_service :: SoftwareApplication, WebSite ] or 
 - [ has_interaction_service :: SoftwareApplication, WebSite ] 
 
 The WebSite or SoftwareApplication where the interactions took place.

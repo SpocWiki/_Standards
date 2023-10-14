@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_delivery_method :: DeliveryMethod ] or 
+- [ #has_/delivery_method :: DeliveryMethod ] or 
 - [ has_delivery_method :: DeliveryMethod ] 
 
 Method used for delivery or shipping.

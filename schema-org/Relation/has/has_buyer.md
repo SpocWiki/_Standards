@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_buyer :: Organization, Person ] or 
+- [ #has_/buyer :: Organization, Person ] or 
 - [ has_buyer :: Organization, Person ] 
 
 A sub property of participant. The participant/person/organization that bought the object.

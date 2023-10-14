@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_menu_add_on :: MenuItem, MenuSection ] or 
+- [ #has_/menu_add_on :: MenuItem, MenuSection ] or 
 - [ has_menu_add_on :: MenuItem, MenuSection ] 
 
 Additional menu item(s) such as a side dish of salad or side order of fries 

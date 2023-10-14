@@ -34,7 +34,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_service_area :: AdministrativeArea, GeoShape, Place ] or 
+- [ #has_/service_area :: AdministrativeArea, GeoShape, Place ] or 
 - [ has_service_area :: AdministrativeArea, GeoShape, Place ] 
 
 The geographic area where the service is provided.

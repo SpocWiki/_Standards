@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_physical_requirement :: DefinedTerm, Text, URL ] or 
+- [ #has_/physical_requirement :: DefinedTerm, Text, URL ] or 
 - [ has_physical_requirement :: DefinedTerm, Text, URL ] 
 
 A description of the types of physical activity associated with the job. Defined terms such as those in O*net may be used, but note that there is no way to specify the level of ability as well as its nature when using a defined term.

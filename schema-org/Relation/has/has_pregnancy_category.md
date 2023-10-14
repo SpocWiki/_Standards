@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_pregnancy_category :: DrugPregnancyCategory ] or 
+- [ #has_/pregnancy_category :: DrugPregnancyCategory ] or 
 - [ has_pregnancy_category :: DrugPregnancyCategory ] 
 
 Pregnancy category of this drug.

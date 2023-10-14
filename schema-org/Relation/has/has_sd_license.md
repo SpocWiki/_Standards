@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_sd_license :: CreativeWork, URL ] or 
+- [ #has_/sd_license :: CreativeWork, URL ] or 
 - [ has_sd_license :: CreativeWork, URL ] 
 
 A license document that applies to this structured data, typically indicated by URL.

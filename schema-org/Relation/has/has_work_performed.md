@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_work_performed :: CreativeWork ] or 
+- [ #has_/work_performed :: CreativeWork ] or 
 - [ has_work_performed :: CreativeWork ] 
 
 A work performed in some event, for example a play performed in a TheaterEvent.

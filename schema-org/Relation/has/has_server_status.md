@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_server_status :: GameServerStatus ] or 
+- [ #has_/server_status :: GameServerStatus ] or 
 - [ has_server_status :: GameServerStatus ] 
 
 Status of a game server.

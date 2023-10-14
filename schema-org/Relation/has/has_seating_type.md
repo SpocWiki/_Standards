@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_seating_type :: QualitativeValue, Text ] or 
+- [ #has_/seating_type :: QualitativeValue, Text ] or 
 - [ has_seating_type :: QualitativeValue, Text ] 
 
 The type/class of the seat.

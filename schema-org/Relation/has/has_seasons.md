@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_seasons :: CreativeWorkSeason ] or 
+- [ #has_/seasons :: CreativeWorkSeason ] or 
 - [ has_seasons :: CreativeWorkSeason ] 
 
 A season in a media series.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_cc_recipient :: ContactPoint, Organization, Person ] or 
+- [ #has_/cc_recipient :: ContactPoint, Organization, Person ] or 
 - [ has_cc_recipient :: ContactPoint, Organization, Person ] 
 
 A sub property of recipient. The recipient copied on a message.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_associated_media :: MediaObject ] or 
+- [ #has_/associated_media :: MediaObject ] or 
 - [ has_associated_media :: MediaObject ] 
 
 A media object that encodes this CreativeWork. This property is a synonym for encoding.

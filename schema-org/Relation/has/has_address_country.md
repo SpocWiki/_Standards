@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_address_country :: Country, Text ] or 
+- [ #has_/address_country :: Country, Text ] or 
 - [ has_address_country :: Country, Text ] 
 
 The country. For example, USA. You can also provide the two-letter [ISO 3166-1 alpha-2 country code](http://en.wikipedia.org/wiki/ISO_3166-1).

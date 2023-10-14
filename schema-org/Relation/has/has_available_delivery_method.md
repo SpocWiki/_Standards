@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_delivery_method :: DeliveryMethod ] or 
+- [ #has_/available_delivery_method :: DeliveryMethod ] or 
 - [ has_available_delivery_method :: DeliveryMethod ] 
 
 The delivery method(s) available for this offer.

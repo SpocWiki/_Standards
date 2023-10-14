@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_antagonist :: Muscle ] or 
+- [ #has_/antagonist :: Muscle ] or 
 - [ has_antagonist :: Muscle ] 
 
 The muscle whose action counteracts the specified muscle.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_occupation_location :: AdministrativeArea ] or 
+- [ #has_/occupation_location :: AdministrativeArea ] or 
 - [ has_occupation_location :: AdministrativeArea ] 
 
 The region/country for which this occupational description is appropriate. Note that educational requirements and qualifications can vary between jurisdictions.

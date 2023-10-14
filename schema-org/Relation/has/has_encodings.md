@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: has_encoding ]
 
 Use it like this: 
-- [ #has/_encoding :: MediaObject ] or 
+- [ #has_/encoding :: MediaObject ] or 
 - [ has_encoding :: MediaObject ] 
 
 A media object that encodes this CreativeWork.

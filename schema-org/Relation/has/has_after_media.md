@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_after_media :: MediaObject, URL ] or 
+- [ #has_/after_media :: MediaObject, URL ] or 
 - [ has_after_media :: MediaObject, URL ] 
 
 A media object representing the circumstances after performing this direction.

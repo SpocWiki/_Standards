@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_claim_interpreter :: Organization, Person ] or 
+- [ #has_/claim_interpreter :: Organization, Person ] or 
 - [ has_claim_interpreter :: Organization, Person ] 
 
 For a [[Claim]] interpreted from [[MediaObject]] content

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_defined_term :: DefinedTerm ] or 
+- [ #has_/defined_term :: DefinedTerm ] or 
 - [ has_defined_term :: DefinedTerm ] 
 
 A Defined Term contained in this term set.

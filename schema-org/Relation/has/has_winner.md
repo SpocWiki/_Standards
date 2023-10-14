@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_winner :: Person ] or 
+- [ #has_/winner :: Person ] or 
 - [ has_winner :: Person ] 
 
 A sub property of participant. The winner of the action.

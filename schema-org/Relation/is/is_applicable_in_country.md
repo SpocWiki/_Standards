@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_applicable_country :: Country, Text ] or 
+- [ #has_/applicable_country :: Country, Text ] or 
 - [ is_applicable_in_country :: Country, Text ] 
 
 A country where a particular merchant return policy applies to, for example the two-letter ISO 3166-1 alpha-2 country code.

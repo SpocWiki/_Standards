@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_next_item :: ListItem ] or 
+- [ #has_/next_item :: ListItem ] or 
 - [ has_next_item :: ListItem ] 
 
 A link to the ListItem that follows the current one.

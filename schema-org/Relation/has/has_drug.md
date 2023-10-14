@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_drug :: Drug ] or 
+- [ #has_/drug :: Drug ] or 
 - [ has_drug :: Drug ] 
 
 Specifying a drug or medicine used in a medication procedure.

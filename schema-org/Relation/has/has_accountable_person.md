@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_accountable_person :: Person ] or 
+- [ #has_/accountable_person :: Person ] or 
 - [ has_accountable_person :: Person ] 
 
 Specifies the Person that is legally accountable for the CreativeWork.

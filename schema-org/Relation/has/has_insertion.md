@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_insertion :: AnatomicalStructure ] or 
+- [ #has_/insertion :: AnatomicalStructure ] or 
 - [ has_insertion :: AnatomicalStructure ] 
 
 The place of attachment of a muscle, or what the muscle moves.

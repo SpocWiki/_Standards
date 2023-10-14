@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_main_content_of_page :: WebPageElement ] or 
+- [ #has_/main_content_of_page :: WebPageElement ] or 
 - [ has_main_content_of_page :: WebPageElement ] 
 
 Indicates if this web page element is the main subject of the page.

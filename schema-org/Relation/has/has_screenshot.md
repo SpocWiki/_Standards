@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_screenshot :: ImageObject, URL ] or 
+- [ #has_/screenshot :: ImageObject, URL ] or 
 - [ has_screenshot :: ImageObject, URL ] 
 
 A link to a screenshot image of the app.

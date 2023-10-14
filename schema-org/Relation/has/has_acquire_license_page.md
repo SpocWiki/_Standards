@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_acquire_license_page :: CreativeWork, URL ] or 
+- [ #has_/acquire_license_page :: CreativeWork, URL ] or 
 - [ has_acquire_license_page :: CreativeWork, URL ] 
 
 Indicates a page documenting how licenses can be purchased or otherwise acquired, for the current item.

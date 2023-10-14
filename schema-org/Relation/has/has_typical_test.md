@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_typical_test :: MedicalTest ] or 
+- [ #has_/typical_test :: MedicalTest ] or 
 - [ has_typical_test :: MedicalTest ] 
 
 A medical test typically performed given this condition.

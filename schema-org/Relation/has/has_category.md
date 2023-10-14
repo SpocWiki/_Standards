@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL ] or 
+- [ #has_/category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL ] or 
 - [ has_category :: CategoryCode, PhysicalActivityCategory, Text, Thing, URL ] 
 
 A category for the item. Greater signs or slashes can be used to informally indicate a category hierarchy.

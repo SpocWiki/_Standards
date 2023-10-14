@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: blogPost]
 
 Use it like this: 
-- [ #has/_blog_post :: BlogPosting ] or 
+- [ #has_/blog_post :: BlogPosting ] or 
 - [ has_blog_post :: BlogPosting ] 
 
 Indicates a post that is part of a [[Blog]]. Note that historically, what we term a "Blog" was once known as a "weblog", and that what we term a "BlogPosting" is now often colloquially referred to as a "blog".

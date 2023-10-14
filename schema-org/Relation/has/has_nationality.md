@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_nationality :: Country ] or 
+- [ #has_/nationality :: Country ] or 
 - [ has_nationality :: Country ] 
 
 Nationality of the person.

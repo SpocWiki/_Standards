@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_experience_requirements :: OccupationalExperienceRequirements, Text ] or 
+- [ #has_/experience_requirements :: OccupationalExperienceRequirements, Text ] or 
 - [ has_experience_requirements :: OccupationalExperienceRequirements, Text ] 
 
 Description of skills and experience needed for the position or Occupation.

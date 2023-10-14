@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_food_establishment :: FoodEstablishment, Place ] or 
+- [ #has_/food_establishment :: FoodEstablishment, Place ] or 
 - [ has_food_establishment :: FoodEstablishment, Place ] 
 
 A sub property of location. The specific food establishment where the action occurred.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_live_blog_update :: BlogPosting ] or 
+- [ #has_/live_blog_update :: BlogPosting ] or 
 - [ has_live_blog_update :: BlogPosting ] 
 
 An update to the LiveBlog.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_arrival_boat_terminal :: BoatTerminal ] or 
+- [ #has_/arrival_boat_terminal :: BoatTerminal ] or 
 - [ has_arrival_boat_terminal :: BoatTerminal ] 
 
 The terminal or port from which the boat arrives.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_target :: EntryPoint, URL ] or 
+- [ #has_/target :: EntryPoint, URL ] or 
 - [ has_target :: EntryPoint, URL ] 
 
 Indicates a target EntryPoint, or url, for an Action.

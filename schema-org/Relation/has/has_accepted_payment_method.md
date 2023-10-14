@@ -32,7 +32,7 @@ fileClass: [FileClass-Relation]
 ---
 
 Use it like this: 
-- [ #has/_accepted_payment_method :: LoanOrCredit, PaymentMethod ] or 
+- [ #has_/accepted_payment_method :: LoanOrCredit, PaymentMethod ] or 
 - [ has_accepted_payment_method :: LoanOrCredit, PaymentMethod ] 
 
 The payment method(s) accepted by seller for this offer.

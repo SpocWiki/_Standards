@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_employee :: Person ] or 
+- [ #has_/employee :: Person ] or 
 - [ has_employee :: Person ] 
 
 Someone working for this organization.

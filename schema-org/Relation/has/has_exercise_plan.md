@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_exercise_plan :: ExercisePlan ] or 
+- [ #has_/exercise_plan :: ExercisePlan ] or 
 - [ has_exercise_plan :: ExercisePlan ] 
 
 A sub property of instrument. The exercise plan used on this action.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_real_estate_agent :: RealEstateAgent ] or 
+- [ #has_/real_estate_agent :: RealEstateAgent ] or 
 - [ has_real_estate_agent :: RealEstateAgent ] 
 
 A sub property of participant. The real estate agent involved in the action.

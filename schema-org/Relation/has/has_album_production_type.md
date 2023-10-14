@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_album_production_type :: MusicAlbumProductionType ] or 
+- [ #has_/album_production_type :: MusicAlbumProductionType ] or 
 - [ has_album_production_type :: MusicAlbumProductionType ] 
 
 Classification of the album by its type of content: soundtrack, live album, studio album, etc.

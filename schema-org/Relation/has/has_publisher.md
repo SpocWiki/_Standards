@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_publisher :: Organization, Person ] or 
+- [ #has_/publisher :: Organization, Person ] or 
 - [ has_publisher :: Organization, Person ] 
 
 The publisher of the creative work.

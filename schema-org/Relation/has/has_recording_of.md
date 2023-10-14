@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recording_of :: MusicComposition ] or 
+- [ #has_/recording_of :: MusicComposition ] or 
 - [ has_recording_of :: MusicComposition ] 
 
 The composition this track is a recording of.

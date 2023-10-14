@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sub_event :: Event ] or 
+- [ #has_/sub_event :: Event ] or 
 - [ has_sub_event :: Event ] 
 
 An Event that is part of this event. For example, a conference event includes many presentations, each of which is a subEvent of the conference.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_study :: MedicalStudy ] or 
+- [ #has_/study :: MedicalStudy ] or 
 - [ has_study :: MedicalStudy ] 
 
 A medical study or trial related to this entity.

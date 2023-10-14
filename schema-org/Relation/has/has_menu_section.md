@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_menu_section :: MenuSection ] or 
+- [ #has_/menu_section :: MenuSection ] or 
 - [ has_menu_section :: MenuSection ] 
 
 A subgrouping of the menu (by dishes, course, serving time period, etc.).

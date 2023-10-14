@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_organizer :: Organization, Person ] or 
+- [ #has_/organizer :: Organization, Person ] or 
 - [ has_organizer :: Organization, Person ] 
 
 An organizer of an Event.

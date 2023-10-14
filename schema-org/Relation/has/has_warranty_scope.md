@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_warranty_scope :: WarrantyScope ] or 
+- [ #has_/warranty_scope :: WarrantyScope ] or 
 - [ has_warranty_scope :: WarrantyScope ] 
 
 The scope of the warranty promise.

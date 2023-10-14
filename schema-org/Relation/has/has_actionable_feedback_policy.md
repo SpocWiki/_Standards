@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_actionable_feedback_policy :: CreativeWork, URL ] or 
+- [ #has_/actionable_feedback_policy :: CreativeWork, URL ] or 
 - [ has_actionable_feedback_policy :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]] or other news-related [[Organization]];

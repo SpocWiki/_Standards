@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has/_engine_type :: QualitativeValue, Text, URL ] or 
+- [ #has_/engine_type :: QualitativeValue, Text, URL ] or 
 - [ has_engine_type :: QualitativeValue, Text, URL ] 
 
 The type of engine or engines powering the vehicle.

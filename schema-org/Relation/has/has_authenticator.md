@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_authenticator :: Organization ] or 
+- [ #has_/authenticator :: Organization ] or 
 - [ has_authenticator :: Organization ] 
 
 The Organization responsible for authenticating the user's subscription.

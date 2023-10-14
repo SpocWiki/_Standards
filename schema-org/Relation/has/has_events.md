@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: event ]
 
 Use it like this: 
-- [ #has/_event :: Event ] or 
+- [ #has_/event :: Event ] or 
 - [ has_event :: Event ] 
 
 Upcoming or past events associated with this place or organization.

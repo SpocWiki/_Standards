@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_layout_image :: ImageObject, URL ] or 
+- [ #has_/layout_image :: ImageObject, URL ] or 
 - [ has_layout_image :: ImageObject, URL ] 
 
 A schematic image showing the floorplan layout.

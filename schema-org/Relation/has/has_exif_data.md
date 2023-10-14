@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_exif_data :: PropertyValue, Text ] or 
+- [ #has_/exif_data :: PropertyValue, Text ] or 
 - [ has_exif_data :: PropertyValue, Text ] 
 
 exif data for this object.

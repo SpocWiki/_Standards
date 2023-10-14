@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_hiring_organization :: Organization, Person ] or 
+- [ #has_/hiring_organization :: Organization, Person ] or 
 - [ has_hiring_organization :: Organization, Person ] 
 
 Organization or Person offering the job position.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_to :: Person ] or 
+- [ #has_/related_to :: Person ] or 
 - [ has_related_to :: Person ] 
 
 The most generic familial relation.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_variant :: Product ] or 
+- [ #has_/variant :: Product ] or 
 - [ has_variant :: Product ] 
 
 Indicates a [[Product]] that is a member of this [[ProductGroup]] (or [[ProductModel]]).

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item_shipped :: Product ] or 
+- [ #has_/item_shipped :: Product ] or 
 - [ has_item_shipped :: Product ] 
 
 Item(s) being shipped.

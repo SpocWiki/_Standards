@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_population_type :: Class ] or 
+- [ #has_/population_type :: Class ] or 
 - [ has_population_type :: Class ] 
 
 Indicates the populationType common to all members of a [[StatisticalPopulation]].

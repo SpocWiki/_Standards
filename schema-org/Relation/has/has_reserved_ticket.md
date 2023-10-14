@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_reserved_ticket :: Ticket ] or 
+- [ #has_/reserved_ticket :: Ticket ] or 
 - [ has_reserved_ticket :: Ticket ] 
 
 A ticket associated with the reservation.

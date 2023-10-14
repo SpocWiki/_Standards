@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_home_location :: ContactPoint, Place ] or 
+- [ #has_/home_location :: ContactPoint, Place ] or 
 - [ has_home_location :: ContactPoint, Place ] 
 
 A contact location for a person's residence.

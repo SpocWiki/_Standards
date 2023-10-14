@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_mission_coverage_priorities_policy :: CreativeWork, URL ] or 
+- [ #has_/mission_coverage_priorities_policy :: CreativeWork, URL ] or 
 - [ has_mission_coverage_priorities_policy :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]], a statement on coverage priorities, including any public agenda or stance on issues.

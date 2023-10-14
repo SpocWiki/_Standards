@@ -32,8 +32,8 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/true 
-#is_/not_/true 
+#is_/true 
+#is_not_/true 
 
 Or write it as a Triple: 
 [ is_true :: Boolean, Number, StructuredValue, Text ] 

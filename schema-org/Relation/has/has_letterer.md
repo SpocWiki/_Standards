@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_letterer :: Person ] or 
+- [ #has_/letterer :: Person ] or 
 - [ has_letterer :: Person ] 
 
 The individual who adds lettering, including speech balloons and sound effects, to artwork.

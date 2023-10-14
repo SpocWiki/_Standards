@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_return_policy_category :: MerchantReturnEnumeration ] or 
+- [ #has_/return_policy_category :: MerchantReturnEnumeration ] or 
 - [ has_return_policy_category :: MerchantReturnEnumeration ] 
 
 Specifies an applicable return policy (from an enumeration).

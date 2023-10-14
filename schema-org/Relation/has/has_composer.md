@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_composer :: Organization, Person ] or 
+- [ #has_/composer :: Organization, Person ] or 
 - [ has_composer :: Organization, Person ] 
 
 The person or organization who wrote a composition, or who is the composer of a work performed at some event.

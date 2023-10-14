@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recommended_intake :: RecommendedDoseSchedule ] or 
+- [ #has_/recommended_intake :: RecommendedDoseSchedule ] or 
 - [ has_recommended_intake :: RecommendedDoseSchedule ] 
 
 Recommended intake of this supplement for a given population as defined by a specific recommending authority.

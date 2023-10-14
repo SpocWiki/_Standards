@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_nerve_motor :: Muscle ] or 
+- [ #has_/nerve_motor :: Muscle ] or 
 - [ has_nerve_motor :: Muscle ] 
 
 The neurological pathway extension that involves muscle control.

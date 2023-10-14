@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: [[director]] ]
 
 Use it like this: 
-- [ #has/_director :: Person ] or 
+- [ #has_/director :: Person ] or 
 - [ has_director :: Person ] 
 
 A director of e.g. TV, radio, movie, video games etc. content. Directors can be associated with individual items or with a series, episode, clip.

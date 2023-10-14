@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_language :: Language ] or 
+- [ #has_/language :: Language ] or 
 - [ has_language :: Language ] 
 
 A sub property of instrument. The language used on this action.

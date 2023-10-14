@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_work_example :: CreativeWork ] or 
+- [ #has_/work_example :: CreativeWork ] or 
 - [ has_work_example :: CreativeWork ] 
 
 Example/instance/realization/derivation of the concept of this creative work. E.g. the paperback edition, first edition, or e-book.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_vehicle_transmission :: QualitativeValue, Text, URL ] or 
+- [ #has_/vehicle_transmission :: QualitativeValue, Text, URL ] or 
 - [ has_vehicle_transmission :: QualitativeValue, Text, URL ] 
 
 The type of component used for transmitting the power from a rotating power source to the wheels or other relevant component(s) ("gearbox" for cars).

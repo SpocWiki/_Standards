@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_identifying_exam :: PhysicalExam ] or 
+- [ #has_/identifying_exam :: PhysicalExam ] or 
 - [ has_identifying_exam :: PhysicalExam ] 
 
 A physical examination that can identify this sign.

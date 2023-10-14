@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_ticketed_seat :: Seat ] or 
+- [ #has_/ticketed_seat :: Seat ] or 
 - [ has_ticketed_seat :: Seat ] 
 
 The seat associated with the ticket.

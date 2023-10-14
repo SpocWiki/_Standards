@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_software_add_on :: SoftwareApplication ] or 
+- [ #has_/software_add_on :: SoftwareApplication ] or 
 - [ has_software_add_on :: SoftwareApplication ] 
 
 Additional content for a software application.

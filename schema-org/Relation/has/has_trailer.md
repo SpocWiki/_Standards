@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_trailer :: VideoObject ] or 
+- [ #has_/trailer :: VideoObject ] or 
 - [ has_trailer :: VideoObject ] 
 
 The trailer of a movie or TV/radio series, season, episode, etc.

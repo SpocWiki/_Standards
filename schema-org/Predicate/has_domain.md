@@ -29,7 +29,7 @@ aliases:
 [ #is_/part_of :: https://meta.schema.org ]
 
 Use it like this: 
-- [ #has/_domain :: [[../Classes|Class]] ] or 
+- [ #has_/domain :: [[../Classes|Class]] ] or 
 - [ has_domain :: [[../Classes|Class]] ] 
 
 Relates a property to a class that is (one of) the type(s) the property is expected to be used on.

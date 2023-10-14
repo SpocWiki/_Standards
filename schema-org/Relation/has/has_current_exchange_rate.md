@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_current_exchange_rate :: UnitPriceSpecification ] or 
+- [ #has_/current_exchange_rate :: UnitPriceSpecification ] or 
 - [ has_current_exchange_rate :: UnitPriceSpecification ] 
 
 The current price of a currency.

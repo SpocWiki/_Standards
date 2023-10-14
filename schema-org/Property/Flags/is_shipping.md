@@ -34,8 +34,8 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/shipping 
-#is_/not_/shipping 
+#is_/shipping 
+#is_not_/shipping 
 
 Or write it as a Triple: 
 [ is_shipping :: Boolean ] 

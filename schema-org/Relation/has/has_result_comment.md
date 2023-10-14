@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_result_comment :: Comment ] or 
+- [ #has_/result_comment :: Comment ] or 
 - [ has_result_comment :: Comment ] 
 
 A sub property of result. The Comment created or sent as a result of this action.

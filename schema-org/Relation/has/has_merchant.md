@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_merchant :: Organization, Person ] or 
+- [ #has_/merchant :: Organization, Person ] or 
 - [ has_merchant :: Organization, Person ] 
 
 'merchant' is an out-dated term for 'seller'.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_application_contact :: ContactPoint ] or 
+- [ #has_/application_contact :: ContactPoint ] or 
 - [ has_application_contact :: ContactPoint ] 
 
 Contact details for further information relevant to this job posting.

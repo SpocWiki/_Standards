@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_included_composition :: MusicComposition ] or 
+- [ #has_/included_composition :: MusicComposition ] or 
 - [ has_included_composition :: MusicComposition ] 
 
 Smaller compositions included in this work (e.g. a movement in a symphony).

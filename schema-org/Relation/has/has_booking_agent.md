@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_booking_agent :: Organization, Person ] or 
+- [ #has_/booking_agent :: Organization, Person ] or 
 - [ has_booking_agent :: Organization, Person ] 
 
 'bookingAgent' is an out-dated term indicating a 'broker' that serves as a booking agent.

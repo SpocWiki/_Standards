@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_legislation_legal_value :: LegalValueLevel ] or 
+- [ #has_/legislation_legal_value :: LegalValueLevel ] or 
 - [ has_legislation_legal_value :: LegalValueLevel ] 
 
 The legal value of this legislation file.

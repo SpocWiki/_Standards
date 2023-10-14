@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_logo :: ImageObject, URL ] or 
+- [ #has_/logo :: ImageObject, URL ] or 
 - [ has_logo :: ImageObject, URL ] 
 
 An associated logo.

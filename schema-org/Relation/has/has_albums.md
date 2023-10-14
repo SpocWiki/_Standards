@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: [[has_album]] ]
 
 Use it like this: 
-- [ #has/_album :: [[Music_Album]] ] or 
+- [ #has_/album :: [[Music_Album]] ] or 
 - [ has_album :: [[Music_Album]] ] 
 
 A collection of music albums.

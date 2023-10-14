@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_nonprofit_status :: NonprofitType ] or 
+- [ #has_/nonprofit_status :: NonprofitType ] or 
 - [ has_nonprofit_status :: NonprofitType ] 
 
 nonprofitStatus indicates the legal status of a non-profit organization in its primary place of business.

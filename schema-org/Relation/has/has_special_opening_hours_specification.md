@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_special_opening_hours_specification :: OpeningHoursSpecification ] or 
+- [ #has_/special_opening_hours_specification :: OpeningHoursSpecification ] or 
 - [ has_special_opening_hours_specification :: OpeningHoursSpecification ] 
 
 The special opening hours of a certain place.&lt;br/&gt;&lt;br/&gt;

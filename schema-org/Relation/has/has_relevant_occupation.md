@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_relevant_occupation :: Occupation ] or 
+- [ #has_/relevant_occupation :: Occupation ] or 
 - [ has_relevant_occupation :: Occupation ] 
 
 The Occupation for the JobPosting.

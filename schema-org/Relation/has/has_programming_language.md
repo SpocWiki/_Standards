@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_programming_language :: ComputerLanguage, Text ] or 
+- [ #has_/programming_language :: ComputerLanguage, Text ] or 
 - [ has_programming_language :: ComputerLanguage, Text ] 
 
 The computer programming language.

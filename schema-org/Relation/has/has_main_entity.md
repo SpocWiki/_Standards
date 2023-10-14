@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_main_entity :: [Thing](../../../Class/Thing.md) ] or 
+- [ #has_/main_entity :: [Thing](../../../Class/Thing.md) ] or 
 - [ has_main_entity :: [Thing](../../../Class/Thing.md) ] 
 
 Indicates the primary entity described in some page or other CreativeWork.

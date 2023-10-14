@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_menu :: Menu, Text, URL ] or 
+- [ #has_/menu :: Menu, Text, URL ] or 
 - [ has_menu :: Menu, Text, URL ] 
 
 Either the actual menu as a structured representation, as text, or a URL of the menu.

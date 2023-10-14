@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_manufacturer :: Organization ] or 
+- [ #has_/manufacturer :: Organization ] or 
 - [ has_manufacturer :: Organization ] 
 
 The manufacturer of the product.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_customer :: Organization, Person ] or 
+- [ #has_/customer :: Organization, Person ] or 
 - [ has_customer :: Organization, Person ] 
 
 Party placing the order or paying the invoice.

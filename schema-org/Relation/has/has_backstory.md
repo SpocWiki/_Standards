@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_backstory :: CreativeWork, Text ] or 
+- [ #has_/backstory :: CreativeWork, Text ] or 
 - [ has_backstory :: CreativeWork, Text ] 
 
 For an [[Article]], typically a [[NewsArticle]], the backstory property provides a textual summary giving a brief explanation of why and how an article was created. In a journalistic setting this could include information about reporting process, methods, interviews, data sources, etc.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_alumni :: Person ] or 
+- [ #has_/alumni :: Person ] or 
 - [ has_alumni :: Person ] 
 
 Alumni of an organization.

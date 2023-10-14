@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_super_event :: Event ] or 
+- [ #has_/super_event :: Event ] or 
 - [ has_super_event :: Event ] 
 
 An event that this event is a part of. For example, a collection of individual music performances might each have a music festival as their superEvent.

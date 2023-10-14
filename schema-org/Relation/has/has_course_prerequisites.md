@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_course_prerequisites :: AlignmentObject, Course, Text ] or 
+- [ #has_/course_prerequisites :: AlignmentObject, Course, Text ] or 
 - [ has_course_prerequisites :: AlignmentObject, Course, Text ] 
 
 Requirements for taking the Course. May be completion of another [[Course]] or a textual description like "permission of instructor". Requirements may be a pre-requisite competency, referenced using [[AlignmentObject]].

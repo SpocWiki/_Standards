@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_hospital_affiliation :: Hospital ] or 
+- [ #has_/hospital_affiliation :: Hospital ] or 
 - [ has_hospital_affiliation :: Hospital ] 
 
 A hospital with which the physician or office is affiliated.

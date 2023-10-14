@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_region_drained :: AnatomicalStructure, AnatomicalSystem ] or 
+- [ #has_/region_drained :: AnatomicalStructure, AnatomicalSystem ] or 
 - [ has_region_drained :: AnatomicalStructure, AnatomicalSystem ] 
 
 The anatomical or organ system drained by this vessel; generally refers to a specific part of an organ.

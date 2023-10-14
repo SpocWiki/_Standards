@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_game :: VideoGame ] or 
+- [ #has_/game :: VideoGame ] or 
 - [ has_game :: VideoGame ] 
 
 Video game which is played on this server.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_departure_airport :: Airport ] or 
+- [ #has_/departure_airport :: Airport ] or 
 - [ has_departure_airport :: Airport ] 
 
 The airport where the flight originates.

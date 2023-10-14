@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_copyright_holder :: Organization, Person ] or 
+- [ #has_/copyright_holder :: Organization, Person ] or 
 - [ has_copyright_holder :: Organization, Person ] 
 
 The party holding the legal copyright to the CreativeWork.

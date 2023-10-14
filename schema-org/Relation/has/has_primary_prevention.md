@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_primary_prevention :: MedicalTherapy ] or 
+- [ #has_/primary_prevention :: MedicalTherapy ] or 
 - [ has_primary_prevention :: MedicalTherapy ] 
 
 A preventative therapy used to prevent an initial occurrence of the medical condition, such as vaccination.

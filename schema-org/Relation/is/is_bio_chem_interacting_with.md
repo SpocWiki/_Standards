@@ -34,7 +34,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_bio_chem_interaction :: BioChemEntity ] or 
+- [ #has_/bio_chem_interaction :: BioChemEntity ] or 
 - [ has_bio_chem_interaction :: BioChemEntity ] 
 
 A BioChemEntity that is known to interact with this item.

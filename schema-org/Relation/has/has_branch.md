@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: arterialBranch ]
 
 Use it like this: 
-- [ #has/_branch :: AnatomicalStructure ] or 
+- [ #has_/branch :: AnatomicalStructure ] or 
 - [ has_branch :: AnatomicalStructure ] 
 
 The branches that delineate from the nerve bundle.

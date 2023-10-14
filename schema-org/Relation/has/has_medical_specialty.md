@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_medical_specialty :: MedicalSpecialty ] or 
+- [ #has_/medical_specialty :: MedicalSpecialty ] or 
 - [ has_medical_specialty :: MedicalSpecialty ] 
 
 A medical specialty of the provider.

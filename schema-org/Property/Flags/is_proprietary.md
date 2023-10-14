@@ -32,8 +32,8 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/proprietary 
-#is_/not_/proprietary 
+#is_/proprietary 
+#is_not_/proprietary 
 
 Or write it as a Triple: 
 [ is_proprietary :: Boolean ] 

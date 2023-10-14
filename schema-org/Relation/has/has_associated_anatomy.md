@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ] or 
+- [ #has_/associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ] or 
 - [ has_associated_anatomy :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ] 
 
 The anatomy of the underlying organ system or structures associated with this entity.

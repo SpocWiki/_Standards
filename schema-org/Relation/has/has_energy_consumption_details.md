@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_energy_consumption_details :: EnergyConsumptionDetails ] or 
+- [ #has_/energy_consumption_details :: EnergyConsumptionDetails ] or 
 - [ has_energy_consumption_details :: EnergyConsumptionDetails ] 
 
 Defines the energy efficiency Category (also known as "class" or "rating") for a product according to an international energy efficiency standard.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_associated_review :: Review ] or 
+- [ #has_/associated_review :: Review ] or 
 - [ has_associated_review :: Review ] 
 
 An associated [[Review]].

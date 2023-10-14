@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_legislation_legal_force :: LegalForceStatus ] or 
+- [ #has_/legislation_legal_force :: LegalForceStatus ] or 
 - [ has_legislation_legal_force :: LegalForceStatus ] 
 
 Whether the legislation is currently in force, not in force, or partially in force.

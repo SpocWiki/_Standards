@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_applicable_location :: AdministrativeArea ] or 
+- [ #has_/applicable_location :: AdministrativeArea ] or 
 - [ is_applicable_in_location :: AdministrativeArea ] 
 
 The location in which the status applies.

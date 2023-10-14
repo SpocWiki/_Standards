@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sign_detected :: MedicalSign ] or 
+- [ #has_/sign_detected :: MedicalSign ] or 
 - [ has_sign_detected :: MedicalSign ] 
 
 A sign detected by the test.

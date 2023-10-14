@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_blood_supply :: Vessel ] or 
+- [ #has_/blood_supply :: Vessel ] or 
 - [ has_blood_supply :: Vessel ] 
 
 The blood vessel that carries blood from the heart to the muscle.

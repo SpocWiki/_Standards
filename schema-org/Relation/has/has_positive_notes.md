@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_positive_notes :: ItemList, ListItem, Text, WebContent ] or 
+- [ #has_/positive_notes :: ItemList, ListItem, Text, WebContent ] or 
 - [ has_positive_notes :: ItemList, ListItem, Text, WebContent ] 
 
 Provides positive considerations regarding something, for example product highlights or (alongside [[negativeNotes]]) pro/con lists for reviews.&lt;br/&gt;&lt;br/&gt;

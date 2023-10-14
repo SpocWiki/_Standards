@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_order_item_status :: OrderStatus ] or 
+- [ #has_/order_item_status :: OrderStatus ] or 
 - [ has_order_item_status :: OrderStatus ] 
 
 The current status of the order item.

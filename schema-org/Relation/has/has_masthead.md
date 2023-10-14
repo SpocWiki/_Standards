@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_masthead :: CreativeWork, URL ] or 
+- [ #has_/masthead :: CreativeWork, URL ] or 
 - [ has_masthead :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]], a link to the masthead page or a page listing top editorial management.

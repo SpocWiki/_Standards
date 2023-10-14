@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_program_membership_used :: ProgramMembership ] or 
+- [ #has_/program_membership_used :: ProgramMembership ] or 
 - [ has_program_membership_used :: ProgramMembership ] 
 
 Any membership in a frequent flyer, hotel loyalty program, etc. being applied to the reservation.

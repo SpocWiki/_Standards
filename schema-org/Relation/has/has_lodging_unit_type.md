@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lodging_unit_type :: QualitativeValue, Text ] or 
+- [ #has_/lodging_unit_type :: QualitativeValue, Text ] or 
 - [ has_lodging_unit_type :: QualitativeValue, Text ] 
 
 Textual description of the unit type (including suite vs. room, size of bed, etc.).

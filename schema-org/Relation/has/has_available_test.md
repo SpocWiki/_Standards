@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_test :: MedicalTest ] or 
+- [ #has_/available_test :: MedicalTest ] or 
 - [ has_available_test :: MedicalTest ] 
 
 A diagnostic test or procedure offered by this lab.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_math_expression :: SolveMathAction, Text ] or 
+- [ #has_/math_expression :: SolveMathAction, Text ] or 
 - [ has_math_expression :: SolveMathAction, Text ] 
 
 A mathematical expression (e.g. 'x^2-3x=0') that may be solved for a specific variable,

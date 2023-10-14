@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_works_for :: Organization ] or 
+- [ #has_/works_for :: Organization ] or 
 - [ has_works_for :: Organization ] 
 
 Organizations that the person works for.

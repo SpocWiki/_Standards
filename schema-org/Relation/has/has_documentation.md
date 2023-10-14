@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_documentation :: CreativeWork, URL ] or 
+- [ #has_/documentation :: CreativeWork, URL ] or 
 - [ has_documentation :: CreativeWork, URL ] 
 
 Further documentation describing the Web API in more detail.

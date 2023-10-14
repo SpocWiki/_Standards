@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_game_availability_type :: GameAvailabilityEnumeration, Text ] or 
+- [ #has_/game_availability_type :: GameAvailabilityEnumeration, Text ] or 
 - [ has_game_availability_type :: GameAvailabilityEnumeration, Text ] 
 
 Indicates the availability type of the game content associated with this action, such as whether it is a full version or a demo.

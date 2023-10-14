@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_trial_design :: MedicalTrialDesign ] or 
+- [ #has_/trial_design :: MedicalTrialDesign ] or 
 - [ has_trial_design :: MedicalTrialDesign ] 
 
 Specifics about the trial design (enumerated).

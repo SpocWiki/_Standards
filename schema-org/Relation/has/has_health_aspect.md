@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_health_aspect :: HealthAspectEnumeration ] or 
+- [ #has_/health_aspect :: HealthAspectEnumeration ] or 
 - [ has_health_aspect :: HealthAspectEnumeration ] 
 
 Indicates the aspect or aspects specifically addressed in some [[HealthTopicContent]]. For example, that the content is an overview, or that it talks about treatment, self-care, treatments or their side-effects.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_anatomy :: AnatomicalStructure, AnatomicalSystem ] or 
+- [ #has_/related_anatomy :: AnatomicalStructure, AnatomicalSystem ] or 
 - [ has_related_anatomy :: AnatomicalStructure, AnatomicalSystem ] 
 
 Anatomical systems or structures that relate to the superficial anatomy.

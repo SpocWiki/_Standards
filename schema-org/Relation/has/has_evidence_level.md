@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_evidence_level :: MedicalEvidenceLevel ] or 
+- [ #has_/evidence_level :: MedicalEvidenceLevel ] or 
 - [ has_evidence_level :: MedicalEvidenceLevel ] 
 
 Strength of evidence of the data used to formulate the guideline (enumerated).

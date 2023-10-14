@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_normal_range :: MedicalEnumeration, Text ] or 
+- [ #has_/normal_range :: MedicalEnumeration, Text ] or 
 - [ has_normal_range :: MedicalEnumeration, Text ] 
 
 Range of acceptable values for a typical patient, when applicable.

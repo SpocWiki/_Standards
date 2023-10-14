@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_question :: Question ] or 
+- [ #has_/question :: Question ] or 
 - [ has_question :: Question ] 
 
 A sub property of object. A question.

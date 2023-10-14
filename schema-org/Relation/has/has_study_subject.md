@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_study_subject :: MedicalEntity ] or 
+- [ #has_/study_subject :: MedicalEntity ] or 
 - [ has_study_subject :: MedicalEntity ] 
 
 A subject of the study, i.e. one of the medical conditions, therapies, devices, drugs, etc. investigated by the study.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_adult_consideration :: AdultOrientedEnumeration ] or 
+- [ #has_/adult_consideration :: AdultOrientedEnumeration ] or 
 - [ has_adult_consideration :: AdultOrientedEnumeration ] 
 
 Used to tag an item to be intended or suitable for consumption or use by adults only.

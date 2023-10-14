@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_contributor :: Organization, Person ] or 
+- [ #has_/contributor :: Organization, Person ] or 
 - [ has_contributor :: Organization, Person ] 
 
 A secondary contributor to the CreativeWork or Event.

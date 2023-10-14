@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_rsvp_response :: RsvpResponseType ] or 
+- [ #has_/rsvp_response :: RsvpResponseType ] or 
 - [ has_rsvp_response :: RsvpResponseType ] 
 
 The response (yes, no, maybe) to the RSVP.

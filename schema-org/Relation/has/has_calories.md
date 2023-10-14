@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_calories :: Energy ] or 
+- [ #has_/calories :: Energy ] or 
 - [ has_calories :: Energy ] 
 
 The number of calories.

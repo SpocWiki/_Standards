@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_occupation :: Occupation ] or 
+- [ #has_/occupation :: Occupation ] or 
 - [ has_occupation :: Occupation ] 
 
 The Person's occupation. For past professions, use Role for expressing dates.

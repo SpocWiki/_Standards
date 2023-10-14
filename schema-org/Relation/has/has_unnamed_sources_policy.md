@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_unnamed_sources_policy :: CreativeWork, URL ] or 
+- [ #has_/unnamed_sources_policy :: CreativeWork, URL ] or 
 - [ has_unnamed_sources_policy :: CreativeWork, URL ] 
 
 For an [[Organization]] (typically a [[NewsMediaOrganization]]), a statement about policy on use of unnamed sources and the decision process required.

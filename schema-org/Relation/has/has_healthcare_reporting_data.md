@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_healthcare_reporting_data :: CDCPMDRecord, Dataset ] or 
+- [ #has_/healthcare_reporting_data :: CDCPMDRecord, Dataset ] or 
 - [ has_healthcare_reporting_data :: CDCPMDRecord, Dataset ] 
 
 Indicates data describing a hospital, e.g. a CDC [[CDCPMDRecord]] or as some kind of [[Dataset]].

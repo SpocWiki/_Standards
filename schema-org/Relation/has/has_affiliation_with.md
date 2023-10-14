@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_affiliation_with :: Organization ] or 
+- [ #has_/affiliation_with :: Organization ] or 
 - [ has_affiliation_with :: Organization ] 
 
 An organization that this person is affiliated with. 

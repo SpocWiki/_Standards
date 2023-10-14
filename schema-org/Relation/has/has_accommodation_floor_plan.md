@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_accommodation_floor_plan :: FloorPlan ] or 
+- [ #has_/accommodation_floor_plan :: FloorPlan ] or 
 - [ has_accommodation_floor_plan :: FloorPlan ] 
 
 A floorplan of some [[Accommodation]].

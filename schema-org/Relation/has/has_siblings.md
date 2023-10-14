@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_siblings :: Person ] or 
+- [ #has_/siblings :: Person ] or 
 - [ has_siblings :: Person ] 
 
 A sibling of the person.

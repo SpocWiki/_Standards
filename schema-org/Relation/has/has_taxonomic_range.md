@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_taxonomic_range :: DefinedTerm, Taxon, Text, URL ] or 
+- [ #has_/taxonomic_range :: DefinedTerm, Taxon, Text, URL ] or 
 - [ has_taxonomic_range :: DefinedTerm, Taxon, Text, URL ] 
 
 The taxonomic grouping of the organism that expresses, encodes, or in some way related to the BioChemEntity.

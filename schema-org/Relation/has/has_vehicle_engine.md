@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_vehicle_engine :: EngineSpecification ] or 
+- [ #has_/vehicle_engine :: EngineSpecification ] or 
 - [ has_vehicle_engine :: EngineSpecification ] 
 
 Information about the engine or engines of the vehicle.

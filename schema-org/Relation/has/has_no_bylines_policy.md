@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_no_bylines_policy :: CreativeWork, URL ] or 
+- [ #has_/no_bylines_policy :: CreativeWork, URL ] or 
 - [ has_no_bylines_policy :: CreativeWork, URL ] 
 
 For a [[NewsMediaOrganization]] or other news-related [[Organization]], 

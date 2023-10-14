@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: attendee ]
 
 Use it like this: 
-- [ #has/_attendee :: Organization, Person ] or 
+- [ #has_/attendee :: Organization, Person ] or 
 - [ has_attendee :: Organization, Person ] 
 
 A person attending the event.

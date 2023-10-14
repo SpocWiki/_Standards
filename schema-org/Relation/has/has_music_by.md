@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_music_by :: MusicGroup, Person ] or 
+- [ #has_/music_by :: MusicGroup, Person ] or 
 - [ has_music_by :: MusicGroup, Person ] 
 
 The composer of the soundtrack.

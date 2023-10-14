@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_coach :: Person ] or 
+- [ #has_/coach :: Person ] or 
 - [ has_coach :: Person ] 
 
 A person that acts in a coaching role for a sports team.

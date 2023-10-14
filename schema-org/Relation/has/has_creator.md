@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_creator :: Organization, Person ] or 
+- [ #has_/creator :: Organization, Person ] or 
 - [ has_creator :: Organization, Person ] 
 
 The creator/author of this CreativeWork. This is the same as the Author property for CreativeWork.

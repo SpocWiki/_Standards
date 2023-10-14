@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_value_reference :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text ] or 
+- [ #has_/value_reference :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text ] or 
 - [ has_value_reference :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text ] 
 
 A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement.

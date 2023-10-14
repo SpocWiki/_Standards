@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_founder :: Person ] or 
+- [ #has_/founder :: Person ] or 
 - [ has_founder :: Person ] 
 
 A person who founded this organization.

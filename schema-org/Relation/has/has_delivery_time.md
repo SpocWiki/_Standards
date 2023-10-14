@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_delivery_time :: ShippingDeliveryTime ] or 
+- [ #has_/delivery_time :: ShippingDeliveryTime ] or 
 - [ has_delivery_time :: ShippingDeliveryTime ] 
 
 The total delay between the receipt of the order and the goods reaching the final customer.

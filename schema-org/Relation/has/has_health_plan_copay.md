@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_health_plan_copay :: PriceSpecification ] or 
+- [ #has_/health_plan_copay :: PriceSpecification ] or 
 - [ has_health_plan_copay :: PriceSpecification ] 
 
 The copay amount.

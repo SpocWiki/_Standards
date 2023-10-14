@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_first_appearance_in :: CreativeWork ] or 
+- [ #has_/first_appearance_in :: CreativeWork ] or 
 - [ has_first_appearance_in :: CreativeWork ] 
 
 Indicates the first known occurrence of a [[Claim]] in some [[CreativeWork]].

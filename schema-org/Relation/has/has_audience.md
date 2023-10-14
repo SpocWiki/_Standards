@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_audience :: Audience ] or 
+- [ #has_/audience :: Audience ] or 
 - [ has_audience :: Audience ] 
 
 An intended audience, i.e. a group for whom something was created.

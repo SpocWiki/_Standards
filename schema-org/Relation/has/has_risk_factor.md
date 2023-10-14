@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_risk_factor :: MedicalRiskFactor ] or 
+- [ #has_/risk_factor :: MedicalRiskFactor ] or 
 - [ has_risk_factor :: MedicalRiskFactor ] 
 
 A modifiable or non-modifiable factor that increases the risk of a patient contracting this condition, e.g. age,  coexisting condition.

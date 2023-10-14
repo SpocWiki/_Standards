@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_return_method :: ReturnMethodEnumeration ] or 
+- [ #has_/return_method :: ReturnMethodEnumeration ] or 
 - [ has_return_method :: ReturnMethodEnumeration ] 
 
 The type of return method offered, specified from an enumeration.

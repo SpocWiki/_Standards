@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride ] or 
+- [ #has_/return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride ] or 
 - [ has_return_policy_seasonal_override :: MerchantReturnPolicySeasonalOverride ] 
 
 Seasonal override of a return policy.

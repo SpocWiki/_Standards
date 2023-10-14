@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_map :: Map, URL ] or 
+- [ #has_/map :: Map, URL ] or 
 - [ has_map :: Map, URL ] 
 
 A URL to a map of the place.

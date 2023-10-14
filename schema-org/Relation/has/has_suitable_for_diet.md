@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_suitable_for_diet :: RestrictedDiet ] or 
+- [ #has_/suitable_for_diet :: RestrictedDiet ] or 
 - [ has_suitable_for_diet :: RestrictedDiet ] 
 
 Indicates a dietary restriction or guideline for which this recipe or menu item is suitable, e.g. diabetic, halal etc.

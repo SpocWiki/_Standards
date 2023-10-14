@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_translator :: Organization, Person ] or 
+- [ #has_/translator :: Organization, Person ] or 
 - [ has_translator :: Organization, Person ] 
 
 Organization or person who adapts a creative work to different languages, regional differences and technical requirements of a target market, or that translates during some event.

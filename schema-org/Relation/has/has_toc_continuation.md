@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_toc_continuation :: HyperTocEntry ] or 
+- [ #has_/toc_continuation :: HyperTocEntry ] or 
 - [ has_toc_continuation :: HyperTocEntry ] 
 
 A [[HyperTocEntry]] can have a [[tocContinuation]] indicated, which is another [[HyperTocEntry]] that would be the default next item to play or render.

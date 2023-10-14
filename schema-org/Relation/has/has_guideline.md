@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_guideline :: MedicalGuideline ] or 
+- [ #has_/guideline :: MedicalGuideline ] or 
 - [ has_guideline :: MedicalGuideline ] 
 
 A medical guideline related to this entity.

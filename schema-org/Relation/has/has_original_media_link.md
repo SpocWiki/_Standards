@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_original_media_link :: MediaObject, URL, WebPage ] or 
+- [ #has_/original_media_link :: MediaObject, URL, WebPage ] or 
 - [ has_original_media_link :: MediaObject, URL, WebPage ] 
 
 Link to the page containing an original version of the content, or directly to an online copy of the original [[MediaObject]] content, e.g. video file.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_type_of_good :: Product, Service ] or 
+- [ #has_/type_of_good :: Product, Service ] or 
 - [ has_type_of_good :: Product, Service ] 
 
 The product that this structured value is referring to.

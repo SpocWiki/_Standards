@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_cheat_code :: CreativeWork ] or 
+- [ #has_/cheat_code :: CreativeWork ] or 
 - [ has_cheat_code :: CreativeWork ] 
 
 Cheat codes to the game.

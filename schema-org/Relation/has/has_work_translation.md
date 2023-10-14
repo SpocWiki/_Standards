@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_work_translation :: CreativeWork ] or 
+- [ #has_/work_translation :: CreativeWork ] or 
 - [ has_work_translation :: CreativeWork ] 
 
 A work that is a translation of the content of this work. E.g. ??? has an English workTranslation �Journey to the West�, a German workTranslation �Monkeys Pilgerfahrt� and a Vietnamese  translation T�y du k� b�nh kh?o.

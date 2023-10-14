@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_music_release_format :: MusicReleaseFormatType ] or 
+- [ #has_/music_release_format :: MusicReleaseFormatType ] or 
 - [ has_music_release_format :: MusicReleaseFormatType ] 
 
 Format of this release (the type of recording media used, i.e. compact disc, digital media, LP, etc.).

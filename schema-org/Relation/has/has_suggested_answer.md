@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_suggested_answer :: Answer, ItemList ] or 
+- [ #has_/suggested_answer :: Answer, ItemList ] or 
 - [ has_suggested_answer :: Answer, ItemList ] 
 
 An answer (possibly one of several, possibly incorrect) to a Question, e.g. on a Question/Answer site.

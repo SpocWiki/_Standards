@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_jurisdiction :: AdministrativeArea, Text ] or 
+- [ #has_/jurisdiction :: AdministrativeArea, Text ] or 
 - [ has_jurisdiction :: AdministrativeArea, Text ] 
 
 Indicates a legal jurisdiction, e.g. of some legislation, or where some government service is based.

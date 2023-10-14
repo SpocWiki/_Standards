@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_colleague :: Person, URL ] or 
+- [ #has_/colleague :: Person, URL ] or 
 - [ has_colleague :: Person, URL ] 
 
 A colleague of the person.

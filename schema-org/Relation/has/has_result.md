@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_result :: [Thing](../../../Class/Thing.md) ] or 
+- [ #has_/result :: [Thing](../../../Class/Thing.md) ] or 
 - [ has_result :: [Thing](../../../Class/Thing.md) ] 
 
 The result produced in the action. E.g. John wrote &lt;em&gt;a book&lt;/em&gt;.

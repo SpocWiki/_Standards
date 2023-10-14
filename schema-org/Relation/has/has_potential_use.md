@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_potential_use :: DefinedTerm ] or 
+- [ #has_/potential_use :: DefinedTerm ] or 
 - [ has_potential_use :: DefinedTerm ] 
 
 Intended use of the BioChemEntity by humans.

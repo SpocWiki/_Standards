@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_preparation :: MedicalEntity, Text ] or 
+- [ #has_/preparation :: MedicalEntity, Text ] or 
 - [ has_preparation :: MedicalEntity, Text ] 
 
 Typical preparation that a patient must undergo before having the procedure performed.

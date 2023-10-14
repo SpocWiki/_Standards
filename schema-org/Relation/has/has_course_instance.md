@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_course_instance :: CourseInstance ] or 
+- [ #has_/course_instance :: CourseInstance ] or 
 - [ has_course_instance :: CourseInstance ] 
 
 An offering of the course at a specific time and place or through specific media or mode of study or to a specific section of students.

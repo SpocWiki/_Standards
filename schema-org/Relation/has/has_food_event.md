@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_food_event :: FoodEvent ] or 
+- [ #has_/food_event :: FoodEvent ] or 
 - [ has_food_event :: FoodEvent ] 
 
 A sub property of location. The specific food event where the action occurred.

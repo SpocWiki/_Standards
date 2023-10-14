@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_funding :: Grant ] or 
+- [ #has_/funding :: Grant ] or 
 - [ has_funding :: Grant ] 
 
 A [[Grant]] that directly or indirectly provide funding or sponsorship for this item. See also [[ownershipFundingInfo]].

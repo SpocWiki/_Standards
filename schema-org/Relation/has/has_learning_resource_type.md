@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_learning_resource_type :: DefinedTerm, Text ] or 
+- [ #has_/learning_resource_type :: DefinedTerm, Text ] or 
 - [ has_learning_resource_type :: DefinedTerm, Text ] 
 
 The predominant type or kind characterizing the learning resource. For example, 'presentation', 'handout'.

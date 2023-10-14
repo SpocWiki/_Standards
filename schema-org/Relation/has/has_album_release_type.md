@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_album_release_type :: MusicAlbumReleaseType ] or 
+- [ #has_/album_release_type :: MusicAlbumReleaseType ] or 
 - [ has_album_release_type :: MusicAlbumReleaseType ] 
 
 The kind of release which this album is: single, EP or album.

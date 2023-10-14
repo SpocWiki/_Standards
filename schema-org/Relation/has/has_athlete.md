@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_athlete :: Person ] or 
+- [ #has_/athlete :: Person ] or 
 - [ has_athlete :: Person ] 
 
 A person that acts as performing member of a sports team; a player as opposed to a coach.

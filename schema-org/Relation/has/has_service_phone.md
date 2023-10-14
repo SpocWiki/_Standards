@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_service_phone :: ContactPoint ] or 
+- [ #has_/service_phone :: ContactPoint ] or 
 - [ has_service_phone :: ContactPoint ] 
 
 The phone number to use to access the service.

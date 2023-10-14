@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_media_authenticity_category :: MediaManipulationRatingEnumeration ] or 
+- [ #has_/media_authenticity_category :: MediaManipulationRatingEnumeration ] or 
 - [ has_media_authenticity_category :: MediaManipulationRatingEnumeration ] 
 
 Indicates a MediaManipulationRatingEnumeration classification of a media object

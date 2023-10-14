@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_cost_category :: DrugCostCategory ] or 
+- [ #has_/cost_category :: DrugCostCategory ] or 
 - [ has_cost_category :: DrugCostCategory ] 
 
 The category of cost, such as wholesale, retail, reimbursement cap, etc.

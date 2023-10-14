@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_end_offset :: HyperTocEntry, Number ] or 
+- [ #has_/end_offset :: HyperTocEntry, Number ] or 
 - [ has_end_offset :: HyperTocEntry, Number ] 
 
 The end time of the clip expressed as the number of seconds from the beginning of the work.

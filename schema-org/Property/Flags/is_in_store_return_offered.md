@@ -34,8 +34,8 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/in_store_return_offered 
-#is_/not_/in_store_return_offered 
+#is_/in_store_return_offered 
+#is_not_/in_store_return_offered 
 
 Or write it as a Triple: 
 [ is_in_store_return_offered :: Boolean ] 

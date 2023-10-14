@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_event_status :: EventStatusType ] or 
+- [ #has_/event_status :: EventStatusType ] or 
 - [ has_event_status :: EventStatusType ] 
 
 An eventStatus of an event represents its status; particularly useful when an event is cancelled or rescheduled.

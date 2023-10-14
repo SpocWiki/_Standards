@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_home_team :: Person, SportsTeam ] or 
+- [ #has_/home_team :: Person, SportsTeam ] or 
 - [ has_home_team :: Person, SportsTeam ] 
 
 The home team in a sports event.

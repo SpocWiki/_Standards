@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: parent ]
 
 Use it like this: 
-- [ #has/_parent :: Person ] or 
+- [ #has_/parent :: Person ] or 
 - [ has_parent :: Person ] 
 
 A parents of the person.

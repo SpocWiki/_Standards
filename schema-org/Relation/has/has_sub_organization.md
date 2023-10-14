@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sub_organization :: Organization ] or 
+- [ #has_/sub_organization :: Organization ] or 
 - [ has_sub_organization :: Organization ] 
 
 A relationship between two organizations where the first includes the second, e.g., as a subsidiary. See also: the more specific 'department' property.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_supply_to :: AnatomicalStructure ] or 
+- [ #has_/supply_to :: AnatomicalStructure ] or 
 - [ has_supply_to :: AnatomicalStructure ] 
 
 The area to which the artery supplies blood.

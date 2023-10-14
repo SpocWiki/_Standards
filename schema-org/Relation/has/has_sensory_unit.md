@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sensory_unit :: AnatomicalStructure, SuperficialAnatomy ] or 
+- [ #has_/sensory_unit :: AnatomicalStructure, SuperficialAnatomy ] or 
 - [ has_sensory_unit :: AnatomicalStructure, SuperficialAnatomy ] 
 
 The neurological pathway extension that inputs and sends information to the brain or spinal cord.

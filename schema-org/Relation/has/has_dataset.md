@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_dataset :: Dataset ] or 
+- [ #has_/dataset :: Dataset ] or 
 - [ has_dataset :: Dataset ] 
 
 A dataset contained in this catalog.

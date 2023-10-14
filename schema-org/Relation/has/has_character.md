@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_character :: Person ] or 
+- [ #has_/character :: Person ] or 
 - [ has_character :: Person ] 
 
 Fictional person connected with a creative work.

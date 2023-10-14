@@ -32,19 +32,19 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/public_access 
-#is_/not_/public_access 
+#is_/public_access 
+#is_not_/public_access 
 
 Or write it as a Triple: 
 [ is_public_access :: Boolean ] 
 
-A flag to signal that the [[Place]] is open to public visitors.  If this property is omitted there is no assumed default boolean value
+A flag to signal that the [[Place]] Subject is open to public visitors.  
+If this property is omitted there is no assumed default boolean value
 
 Predicate describes that: 
 [ #has_/domain  :: Place ]
 ( #has_/name :: is_public_access )
 ( #has_/range :: Boolean )
-
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_additional_property :: PropertyValue ] or 
+- [ #has_/additional_property :: PropertyValue ] or 
 - [ has_additional_property :: PropertyValue ] 
 
 A property-value pair representing an additional characteristic of the entity, e.g. a product feature or another characteristic for which there is no matching property in schema.org.&lt;br/&gt;&lt;br/&gt;

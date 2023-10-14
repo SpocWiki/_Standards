@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_menu_item :: MenuItem ] or 
+- [ #has_/menu_item :: MenuItem ] or 
 - [ has_menu_item :: MenuItem ] 
 
 A food or drink item contained in a menu or menu section.

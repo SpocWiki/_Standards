@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_relevant_specialty :: MedicalSpecialty ] or 
+- [ #has_/relevant_specialty :: MedicalSpecialty ] or 
 - [ has_relevant_specialty :: MedicalSpecialty ] 
 
 If applicable, a medical specialty in which this entity is relevant.

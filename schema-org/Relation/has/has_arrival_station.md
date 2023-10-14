@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_arrival_station :: TrainStation ] or 
+- [ #has_/arrival_station :: TrainStation ] or 
 - [ has_arrival_station :: TrainStation ] 
 
 The station where the train trip ends.

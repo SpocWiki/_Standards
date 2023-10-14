@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_landlord :: Organization, Person ] or 
+- [ #has_/landlord :: Organization, Person ] or 
 - [ has_landlord :: Organization, Person ] 
 
 A sub property of participant. The owner of the real estate property.

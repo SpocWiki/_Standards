@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_predecessor_of :: ProductModel ] or 
+- [ #has_/predecessor_of :: ProductModel ] or 
 - [ has_predecessor_of :: ProductModel ] 
 
 A pointer from a previous, often discontinued variant of the product to its newer variant.

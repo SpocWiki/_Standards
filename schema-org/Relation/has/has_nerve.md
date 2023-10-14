@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_nerve :: Nerve ] or 
+- [ #has_/nerve :: Nerve ] or 
 - [ has_nerve :: Nerve ] 
 
 The underlying innervation associated with the muscle.

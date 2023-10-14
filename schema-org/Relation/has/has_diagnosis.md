@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_diagnosis :: MedicalCondition ] or 
+- [ #has_/diagnosis :: MedicalCondition ] or 
 - [ has_diagnosis :: MedicalCondition ] 
 
 One or more alternative conditions considered in the differential diagnosis process as output of a diagnosis process.

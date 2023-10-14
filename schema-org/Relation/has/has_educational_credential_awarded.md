@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_educational_credential_awarded :: EducationalOccupationalCredential, Text, URL ] or 
+- [ #has_/educational_credential_awarded :: EducationalOccupationalCredential, Text, URL ] or 
 - [ has_educational_credential_awarded :: EducationalOccupationalCredential, Text, URL ] 
 
 A description of the qualification, award, certificate, diploma or other educational credential awarded as a consequence of successful completion of this course or program.

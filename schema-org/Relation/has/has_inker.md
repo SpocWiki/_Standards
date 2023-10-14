@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_inker :: Person ] or 
+- [ #has_/inker :: Person ] or 
 - [ has_inker :: Person ] 
 
 The individual who traces over the pencil drawings in ink after pencils are complete.

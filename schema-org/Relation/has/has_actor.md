@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_actor :: Person ] or 
+- [ #has_/actor :: Person ] or 
 - [ has_actor :: Person ] 
 
 An actor, e.g. in TV, radio, movie, video games etc., or in an event. Actors can be associated with individual items or with a series, episode, clip.

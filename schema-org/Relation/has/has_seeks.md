@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_seeks :: Demand ] or 
+- [ #has_/seeks :: Demand ] or 
 - [ has_seeks :: Demand ] 
 
 A pointer to products or services sought by the organization or person (demand).

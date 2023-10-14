@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_participant :: Organization, Person ] or 
+- [ #has_/participant :: Organization, Person ] or 
 - [ has_participant :: Organization, Person ] 
 
 Other co-agents that participated in the action indirectly. E.g. John wrote a book with &lt;em&gt;Steve&lt;/em&gt;.

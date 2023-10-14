@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_specialty :: Specialty ] or 
+- [ #has_/specialty :: Specialty ] or 
 - [ has_specialty :: Specialty ] 
 
 One of the domain specialities to which this web page's content applies.

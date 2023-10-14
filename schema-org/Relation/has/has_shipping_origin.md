@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_shipping_origin :: DefinedRegion ] or 
+- [ #has_/shipping_origin :: DefinedRegion ] or 
 - [ has_shipping_origin :: DefinedRegion ] 
 
 Indicates the origin of a shipment, i.e. where it should be coming from.

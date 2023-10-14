@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lender :: Organization, Person ] or 
+- [ #has_/lender :: Organization, Person ] or 
 - [ has_lender :: Organization, Person ] 
 
 A sub property of participant. The person that lends the object being borrowed.

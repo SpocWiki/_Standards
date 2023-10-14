@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_carrier :: Organization ] or 
+- [ #has_/carrier :: Organization ] or 
 - [ has_carrier :: Organization ] 
 
 'carrier' is an out-dated term indicating the 'provider' for parcel delivery and flights.

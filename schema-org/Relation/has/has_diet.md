@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_diet :: Diet ] or 
+- [ #has_/diet :: Diet ] or 
 - [ has_diet :: Diet ] 
 
 A sub property of instrument. The diet used in this action.

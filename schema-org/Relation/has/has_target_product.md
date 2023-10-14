@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_target_product :: SoftwareApplication ] or 
+- [ #has_/target_product :: SoftwareApplication ] or 
 - [ has_target_product :: SoftwareApplication ] 
 
 Target Operating System / Product to which the code applies.  If applies to several versions, just the product name can be used.

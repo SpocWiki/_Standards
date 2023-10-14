@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_boarding_policy :: BoardingPolicyType ] or 
+- [ #has_/boarding_policy :: BoardingPolicyType ] or 
 - [ has_boarding_policy :: BoardingPolicyType ] 
 
 The type of boarding policy used by the airline (e.g. zone-based or group-based).

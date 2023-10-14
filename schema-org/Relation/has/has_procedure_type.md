@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_procedure_type :: MedicalProcedureType ] or 
+- [ #has_/procedure_type :: MedicalProcedureType ] or 
 - [ has_procedure_type :: MedicalProcedureType ] 
 
 The type of procedure, for example Surgical, Noninvasive, or Percutaneous.

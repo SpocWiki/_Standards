@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_image :: ImageObject, URL ] or 
+- [ #has_/image :: ImageObject, URL ] or 
 - [ has_image :: ImageObject, URL ] 
 
 An image of the item. This can be a [[URL]] or a fully described [[ImageObject]].

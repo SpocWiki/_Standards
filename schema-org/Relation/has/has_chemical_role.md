@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_chemical_role :: DefinedTerm ] or 
+- [ #has_/chemical_role :: DefinedTerm ] or 
 - [ has_chemical_role :: DefinedTerm ] 
 
 A role played by the BioChemEntity within a chemical context.

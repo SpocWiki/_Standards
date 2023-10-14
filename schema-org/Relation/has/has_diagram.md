@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_diagram :: ImageObject ] or 
+- [ #has_/diagram :: ImageObject ] or 
 - [ has_diagram :: ImageObject ] 
 
 An image containing a diagram that illustrates the structure and/or its component substructures and/or connections with other structures.

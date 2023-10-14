@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_verification_fact_checking_policy :: CreativeWork, URL ] or 
+- [ #has_/verification_fact_checking_policy :: CreativeWork, URL ] or 
 - [ has_verification_fact_checking_policy :: CreativeWork, URL ] 
 
 Disclosure about verification and fact-checking processes for a [[NewsMediaOrganization]] or other fact-checking [[Organization]].

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_industry :: DefinedTerm, Text ] or 
+- [ #has_/industry :: DefinedTerm, Text ] or 
 - [ has_industry :: DefinedTerm, Text ] 
 
 The industry associated with the job position.

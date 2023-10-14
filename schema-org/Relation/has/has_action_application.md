@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_action_application :: [[Software_Application]] ] or 
+- [ #has_/action_application :: [[Software_Application]] ] or 
 - [ has_action_application :: [[Software_Application]] ] 
 
 An application that can complete the request.

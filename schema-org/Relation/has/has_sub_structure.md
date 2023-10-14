@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sub_structure :: AnatomicalStructure ] or 
+- [ #has_/sub_structure :: AnatomicalStructure ] or 
 - [ has_sub_structure :: AnatomicalStructure ] 
 
 Component (sub-)structure(s) that comprise this anatomical structure.

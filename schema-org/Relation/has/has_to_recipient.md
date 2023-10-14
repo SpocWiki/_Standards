@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_to_recipient :: Audience, ContactPoint, Organization, Person ] or 
+- [ #has_/to_recipient :: Audience, ContactPoint, Organization, Person ] or 
 - [ has_to_recipient :: Audience, ContactPoint, Organization, Person ] 
 
 A sub property of recipient. The recipient who was directly sent the message.

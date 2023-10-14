@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_event_schedule :: Schedule ] or 
+- [ #has_/event_schedule :: Schedule ] or 
 - [ has_event_schedule :: Schedule ] 
 
 Associates an [[Event]] with a [[Schedule]]. There are circumstances where it is preferable to share a schedule for a series of

@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_album :: MusicAlbum ] or 
+- [ #has_/album :: MusicAlbum ] or 
 - [ has_album :: MusicAlbum ] 
 
 A music album.

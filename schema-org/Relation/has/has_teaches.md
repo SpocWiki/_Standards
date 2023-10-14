@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_teaches :: DefinedTerm, Text ] or 
+- [ #has_/teaches :: DefinedTerm, Text ] or 
 - [ has_teaches :: DefinedTerm, Text ] 
 
 The item being described is intended to help a person learn the competency or learning outcome defined by the referenced term.

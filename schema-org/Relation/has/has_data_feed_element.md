@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_data_feed_element :: DataFeedItem, Text, Thing ] or 
+- [ #has_/data_feed_element :: DataFeedItem, Text, Thing ] or 
 - [ has_data_feed_element :: DataFeedItem, Text, Thing ] 
 
 An item within a data feed. Data feeds may have many elements.

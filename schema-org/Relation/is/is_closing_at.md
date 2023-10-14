@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_closes :: Time ] or 
+- [ #has_/closes :: Time ] or 
 - [ is_closing_at :: Time ] 
 
 The closing hour of the place or service on the given day(s) of the week.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_archive_held :: ArchiveComponent ] or 
+- [ #has_/archive_held :: ArchiveComponent ] or 
 - [ has_archive_held :: ArchiveComponent ] 
 
 Collection, [fonds](https://en.wikipedia.org/wiki/Fonds), or item held, kept or maintained by an [[ArchiveOrganization]].

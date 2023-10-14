@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lyrics :: CreativeWork ] or 
+- [ #has_/lyrics :: CreativeWork ] or 
 - [ has_lyrics :: CreativeWork ] 
 
 The words in the song.

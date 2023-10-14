@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_part :: CreativeWork ] or 
+- [ #has_/part :: CreativeWork ] or 
 - [ has_part :: CreativeWork ] 
 
 Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense).

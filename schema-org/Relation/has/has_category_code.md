@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_category_code :: CategoryCode ] or 
+- [ #has_/category_code :: CategoryCode ] or 
 - [ has_category_code :: CategoryCode ] 
 
 A Category code contained in this code set.

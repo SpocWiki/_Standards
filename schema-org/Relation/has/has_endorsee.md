@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_endorsee :: Organization, Person ] or 
+- [ #has_/endorsee :: Organization, Person ] or 
 - [ has_endorsee :: Organization, Person ] 
 
 A sub property of participant. The person/organization being supported.

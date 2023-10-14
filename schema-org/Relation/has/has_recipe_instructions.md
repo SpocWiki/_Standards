@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recipe_instructions :: CreativeWork, ItemList, Text ] or 
+- [ #has_/recipe_instructions :: CreativeWork, ItemList, Text ] or 
 - [ has_recipe_instructions :: CreativeWork, ItemList, Text ] 
 
 A step in making the recipe, in the form of a single item (document, video, etc.) or an ordered list with HowToStep and/or HowToSection items.

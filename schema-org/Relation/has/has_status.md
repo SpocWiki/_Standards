@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_status :: EventStatusType, MedicalStudyStatus, Text ] or 
+- [ #has_/status :: EventStatusType, MedicalStudyStatus, Text ] or 
 - [ has_status :: EventStatusType, MedicalStudyStatus, Text ] 
 
 The status of the study (enumerated).

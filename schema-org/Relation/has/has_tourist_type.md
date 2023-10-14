@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_tourist_type :: Audience, Text ] or 
+- [ #has_/tourist_type :: Audience, Text ] or 
 - [ has_tourist_type :: Audience, Text ] 
 
 Attraction suitable for type(s) of tourist. E.g. children, visitors from a particular country, etc.

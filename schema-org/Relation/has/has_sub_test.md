@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sub_test :: MedicalTest ] or 
+- [ #has_/sub_test :: MedicalTest ] or 
 - [ has_sub_test :: MedicalTest ] 
 
 A component test of the panel.

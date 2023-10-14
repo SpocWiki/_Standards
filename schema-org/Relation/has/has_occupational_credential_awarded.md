@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_occupational_credential_awarded :: EducationalOccupationalCredential, Text, URL ] or 
+- [ #has_/occupational_credential_awarded :: EducationalOccupationalCredential, Text, URL ] or 
 - [ has_occupational_credential_awarded :: EducationalOccupationalCredential, Text, URL ] 
 
 A description of the qualification, award, certificate, diploma or other occupational credential awarded as a consequence of successful completion of this course or program.

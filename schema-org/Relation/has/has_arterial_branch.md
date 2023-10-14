@@ -34,7 +34,7 @@ fileClass: [FileClass-Relation]
 ---
 
 Use it like this: 
-- [ #has/_arterial_branch :: AnatomicalStructure ] or 
+- [ #has_/arterial_branch :: AnatomicalStructure ] or 
 - [ has_arterial_branch :: AnatomicalStructure ] 
 
 The branches that comprise the arterial structure.

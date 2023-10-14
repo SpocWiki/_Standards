@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_comment :: Comment ] or 
+- [ #has_/comment :: Comment ] or 
 - [ has_comment :: Comment ] 
 
 Comments, typically from users.

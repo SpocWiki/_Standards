@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_channel :: ServiceChannel ] or 
+- [ #has_/available_channel :: ServiceChannel ] or 
 - [ has_available_channel :: ServiceChannel ] 
 
 A means of accessing the service (e.g. a phone bank, a web site, a location, etc.).

@@ -32,7 +32,7 @@ fileClass: [FileClass-Relation]
 ---
 
 Use it like this: 
-- [ #has/_accepted_answer :: Answer, ItemList ] or 
+- [ #has_/accepted_answer :: Answer, ItemList ] or 
 - [ has_accepted_answer :: Answer, ItemList ] 
 
 #class/Relation

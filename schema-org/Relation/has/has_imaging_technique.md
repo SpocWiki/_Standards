@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_imaging_technique :: MedicalImagingTechnique ] or 
+- [ #has_/imaging_technique :: MedicalImagingTechnique ] or 
 - [ has_imaging_technique :: MedicalImagingTechnique ] 
 
 Imaging technique used.

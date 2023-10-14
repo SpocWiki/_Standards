@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_contraindication :: MedicalContraindication, Text ] or 
+- [ #has_/contraindication :: MedicalContraindication, Text ] or 
 - [ has_contraindication :: MedicalContraindication, Text ] 
 
 A contraindication for this therapy.

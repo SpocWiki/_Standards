@@ -22,6 +22,9 @@ A [Relation](Relation.md) connects one [[Class/Thing|Thing]] to another.
 A [Quantity](Property.md) connects a Scalar Value to an Entity. 
 [Property](Property.md) unifies both. 
 
+Flags start with #is_/ or #is_not_/ 
+in contrast to Relations which start with #is/_ or #has_/ 
+
 In RDF there is no distinction between these, except for the specified Range. 
 But since ValueTypes are fundamentally different from ReferenceTypes in Software, 
 it makes sense to also differentiate between [Property](Property.md) and [Relation](Relation.md). 

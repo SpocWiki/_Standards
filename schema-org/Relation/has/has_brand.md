@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_brand :: Brand, Organization ] or 
+- [ #has_/brand :: Brand, Organization ] or 
 - [ has_brand :: Brand, Organization ] 
 
 The brand(s) associated with a product or service, or the brand(s) maintained by an organization or business person.

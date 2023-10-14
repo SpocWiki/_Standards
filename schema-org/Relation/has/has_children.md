@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_children :: Person ] or 
+- [ #has_/children :: Person ] or 
 - [ has_children :: Person ] 
 
 A child of the person.

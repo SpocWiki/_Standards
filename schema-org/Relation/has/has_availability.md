@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_availability :: ItemAvailability ] or 
+- [ #has_/availability :: ItemAvailability ] or 
 - [ has_availability :: ItemAvailability ] 
 
 The availability of this item&amp;#x2014;for example In stock, Out of stock, Pre-order, etc.

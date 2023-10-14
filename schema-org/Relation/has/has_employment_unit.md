@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_employment_unit :: Organization ] or 
+- [ #has_/employment_unit :: Organization ] or 
 - [ has_employment_unit :: Organization ] 
 
 Indicates the department, unit and/or facility where the employee reports and/or in which the job is to be performed.

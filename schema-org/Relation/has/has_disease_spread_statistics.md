@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_disease_spread_statistics :: Dataset, Observation, URL, WebContent ] or 
+- [ #has_/disease_spread_statistics :: Dataset, Observation, URL, WebContent ] or 
 - [ has_disease_spread_statistics :: Dataset, Observation, URL, WebContent ] 
 
 Statistical information about the spread of a disease, either as [[WebContent]], or

@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_episode :: Episode ] or 
+- [ #has_/episode :: Episode ] or 
 - [ has_episode :: Episode ] 
 
 An episode of a TV, radio or game media within a series or season.

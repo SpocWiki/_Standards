@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_possible_treatment :: MedicalTherapy ] or 
+- [ #has_/possible_treatment :: MedicalTherapy ] or 
 - [ has_possible_treatment :: MedicalTherapy ] 
 
 A possible treatment to address this condition, sign or symptom.

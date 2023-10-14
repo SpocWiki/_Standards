@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_shipping_details :: OfferShippingDetails ] or 
+- [ #has_/shipping_details :: OfferShippingDetails ] or 
 - [ has_shipping_details :: OfferShippingDetails ] 
 
 Indicates information about the shipping policies and options associated with an [[Offer]].

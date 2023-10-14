@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_passenger_priority_status :: QualitativeValue, Text ] or 
+- [ #has_/passenger_priority_status :: QualitativeValue, Text ] or 
 - [ has_passenger_priority_status :: QualitativeValue, Text ] 
 
 The priority status assigned to a passenger for security or boarding (e.g. FastTrack or Priority).

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_offer_catalog :: OfferCatalog ] or 
+- [ #has_/offer_catalog :: OfferCatalog ] or 
 - [ has_offer_catalog :: OfferCatalog ] 
 
 Indicates an OfferCatalog listing for this Organization, Person, or Service.

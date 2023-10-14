@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_first_performance :: Event ] or 
+- [ #has_/first_performance :: Event ] or 
 - [ has_first_performance :: Event ] 
 
 The date and place the work was first performed.

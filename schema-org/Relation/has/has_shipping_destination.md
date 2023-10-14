@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_shipping_destination :: DefinedRegion ] or 
+- [ #has_/shipping_destination :: DefinedRegion ] or 
 - [ has_shipping_destination :: DefinedRegion ] 
 
 indicates (possibly multiple) shipping destinations. These can be defined in several ways, e.g. postalCode ranges.

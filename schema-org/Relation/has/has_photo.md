@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_photo :: ImageObject, Photograph ] or 
+- [ #has_/photo :: ImageObject, Photograph ] or 
 - [ has_photo :: ImageObject, Photograph ] 
 
 A photograph of this place.

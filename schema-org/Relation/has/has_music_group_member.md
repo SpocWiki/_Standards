@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_music_group_member :: Person ] or 
+- [ #has_/music_group_member :: Person ] or 
 - [ has_music_group_member :: Person ] 
 
 A member of a music group&amp;#x2014;for example, John, Paul, George, or Ringo.

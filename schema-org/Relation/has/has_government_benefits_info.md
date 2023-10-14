@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_government_benefits_info :: GovernmentService ] or 
+- [ #has_/government_benefits_info :: GovernmentService ] or 
 - [ has_government_benefits_info :: GovernmentService ] 
 
 governmentBenefitsInfo provides information about government benefits associated with a SpecialAnnouncement.

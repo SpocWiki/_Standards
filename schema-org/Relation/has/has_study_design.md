@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_study_design :: MedicalObservationalStudyDesign ] or 
+- [ #has_/study_design :: MedicalObservationalStudyDesign ] or 
 - [ has_study_design :: MedicalObservationalStudyDesign ] 
 
 Specifics about the observational study design (enumerated).

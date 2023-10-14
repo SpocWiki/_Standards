@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_arrival_bus_stop :: BusStation, BusStop ] or 
+- [ #has_/arrival_bus_stop :: BusStation, BusStop ] or 
 - [ has_arrival_bus_stop :: BusStation, BusStop ] 
 
 The stop or station from which the bus arrives.

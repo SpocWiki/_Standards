@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_translation_of_work :: CreativeWork ] or 
+- [ #has_/translation_of_work :: CreativeWork ] or 
 - [ has_translation_of_work :: CreativeWork ] 
 
 The work that this work has been translated from. E.g. ???? is a translationOf �On the Origin of Species�.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_bed :: BedDetails, BedType, Text ] or 
+- [ #has_/bed :: BedDetails, BedType, Text ] or 
 - [ has_bed :: BedDetails, BedType, Text ] 
 
 The type of bed or beds included in the accommodation. For the single case of just one bed of a certain type, you use bed directly with a text.

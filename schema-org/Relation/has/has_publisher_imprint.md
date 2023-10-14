@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_publisher_imprint :: Organization ] or 
+- [ #has_/publisher_imprint :: Organization ] or 
 - [ has_publisher_imprint :: Organization ] 
 
 The publishing division which published the comic.

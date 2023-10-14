@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_model :: ProductModel, Text ] or 
+- [ #has_/model :: ProductModel, Text ] or 
 - [ has_model :: ProductModel, Text ] 
 
 The model of the product. 

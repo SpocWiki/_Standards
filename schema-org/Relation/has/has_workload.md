@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_workload :: Energy, QuantitativeValue ] or 
+- [ #has_/workload :: Energy, QuantitativeValue ] or 
 - [ has_workload :: Energy, QuantitativeValue ] 
 
 Quantitative measure of the physiologic output of the exercise; also referred to as energy expenditure.

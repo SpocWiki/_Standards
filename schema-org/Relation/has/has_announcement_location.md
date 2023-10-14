@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_announcement_location :: CivicStructure, LocalBusiness ] or 
+- [ #has_/announcement_location :: CivicStructure, LocalBusiness ] or 
 - [ has_announcement_location :: CivicStructure, LocalBusiness ] 
 
 Indicates a specific [[CivicStructure]] or [[LocalBusiness]] associated with the SpecialAnnouncement. For example, a specific testing facility or business with special opening hours. For a larger geographic region like a quarantine of an entire region, use [[spatialCoverage]].

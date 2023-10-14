@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_pattern :: DefinedTerm, Text ] or 
+- [ #has_/pattern :: DefinedTerm, Text ] or 
 - [ has_pattern :: DefinedTerm, Text ] 
 
 A pattern that something has, for example 'polka dot', 'striped', 'Canadian flag'. 

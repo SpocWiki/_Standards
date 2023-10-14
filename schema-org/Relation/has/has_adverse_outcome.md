@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_adverse_outcome :: MedicalEntity ] or 
+- [ #has_/adverse_outcome :: MedicalEntity ] or 
 - [ has_adverse_outcome :: MedicalEntity ] 
 
 A possible complication and/or side effect of this therapy.

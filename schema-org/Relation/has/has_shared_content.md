@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_shared_content :: CreativeWork ] or 
+- [ #has_/shared_content :: CreativeWork ] or 
 - [ has_shared_content :: CreativeWork ] 
 
 A CreativeWork such as an image, video, or audio clip shared as part of this posting.

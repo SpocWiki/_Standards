@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_structure :: AnatomicalStructure ] or 
+- [ #has_/related_structure :: AnatomicalStructure ] or 
 - [ has_related_structure :: AnatomicalStructure ] 
 
 Related anatomical structure(s) that are not part of the system but relate or connect to it, such as vascular bundles associated with an organ system.

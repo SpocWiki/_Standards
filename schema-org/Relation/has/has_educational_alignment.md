@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_educational_alignment :: AlignmentObject ] or 
+- [ #has_/educational_alignment :: AlignmentObject ] or 
 - [ has_educational_alignment :: AlignmentObject ] 
 
 An alignment to an established educational framework.&lt;br/&gt;&lt;br/&gt;

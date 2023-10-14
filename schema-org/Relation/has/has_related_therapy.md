@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_therapy :: MedicalTherapy ] or 
+- [ #has_/related_therapy :: MedicalTherapy ] or 
 - [ has_related_therapy :: MedicalTherapy ] 
 
 A medical therapy related to this anatomy.

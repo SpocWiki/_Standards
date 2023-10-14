@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_child_taxon :: Taxon, Text, URL ] or 
+- [ #has_/child_taxon :: Taxon, Text, URL ] or 
 - [ has_child_taxon :: Taxon, Text, URL ] 
 
 Closest child taxa of the taxon in question.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lesser :: QualitativeValue ] or 
+- [ #has_/lesser :: QualitativeValue ] or 
 - [ is_lesser_than :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is lesser than the object.

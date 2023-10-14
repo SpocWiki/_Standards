@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_illustrator :: Person ] or 
+- [ #has_/illustrator :: Person ] or 
 - [ has_illustrator :: Person ] 
 
 The illustrator of the book.

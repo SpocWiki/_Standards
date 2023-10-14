@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_lyricist :: Person ] or 
+- [ #has_/lyricist :: Person ] or 
 - [ has_lyricist :: Person ] 
 
 The person who wrote the words.

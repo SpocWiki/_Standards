@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_seller :: Organization, Person ] or 
+- [ #has_/seller :: Organization, Person ] or 
 - [ has_seller :: Organization, Person ] 
 
 An entity which offers (sells / leases / lends / loans) the services / goods.  A seller may also be a provider.

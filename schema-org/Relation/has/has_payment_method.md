@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_payment_method :: PaymentMethod ] or 
+- [ #has_/payment_method :: PaymentMethod ] or 
 - [ has_payment_method :: PaymentMethod ] 
 
 The name of the credit card or other method of payment for the order.

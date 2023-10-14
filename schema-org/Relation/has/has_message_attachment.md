@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_message_attachment :: CreativeWork ] or 
+- [ #has_/message_attachment :: CreativeWork ] or 
 - [ has_message_attachment :: CreativeWork ] 
 
 A CreativeWork attached to the message.

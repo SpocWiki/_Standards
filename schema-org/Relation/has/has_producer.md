@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_producer :: Organization, Person ] or 
+- [ #has_/producer :: Organization, Person ] or 
 - [ has_producer :: Organization, Person ] 
 
 The person or organization who produced the work (e.g. music album, movie, TV/radio series etc.).

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_drug_class :: DrugClass ] or 
+- [ #has_/drug_class :: DrugClass ] or 
 - [ has_drug_class :: DrugClass ] 
 
 The class of drug this belongs to (e.g., statins).

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_primary_image_of_page :: ImageObject ] or 
+- [ #has_/primary_image_of_page :: ImageObject ] or 
 - [ has_primary_image_of_page :: ImageObject ] 
 
 Indicates the main image on the page.

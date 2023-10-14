@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item_list_order :: ItemListOrderType, Text ] or 
+- [ #has_/item_list_order :: ItemListOrderType, Text ] or 
 - [ has_item_list_order :: ItemListOrderType, Text ] 
 
 Type of ordering (e.g. Ascending, Descending, Unordered).

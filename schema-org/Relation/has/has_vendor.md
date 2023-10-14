@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_vendor :: Organization, Person ] or 
+- [ #has_/vendor :: Organization, Person ] or 
 - [ has_vendor :: Organization, Person ] 
 
 'vendor' is an earlier term for 'seller'.

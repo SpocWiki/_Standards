@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_geographic_area :: AdministrativeArea ] or 
+- [ #has_/geographic_area :: AdministrativeArea ] or 
 - [ has_geographic_area :: AdministrativeArea ] 
 
 The geographic area associated with the audience.

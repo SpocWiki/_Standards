@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_stage :: MedicalConditionStage ] or 
+- [ #has_/stage :: MedicalConditionStage ] or 
 - [ has_stage :: MedicalConditionStage ] 
 
 The stage of the condition, if applicable.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_delivery_status :: DeliveryEvent ] or 
+- [ #has_/delivery_status :: DeliveryEvent ] or 
 - [ has_delivery_status :: DeliveryEvent ] 
 
 New entry added as the package passes through each leg of its journey (from shipment to final delivery).

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_opponent :: Person ] or 
+- [ #has_/opponent :: Person ] or 
 - [ has_opponent :: Person ] 
 
 A sub property of participant. The opponent on this action.

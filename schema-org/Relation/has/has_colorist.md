@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_colorist :: Person ] or 
+- [ #has_/colorist :: Person ] or 
 - [ has_colorist :: Person ] 
 
 The individual who adds color to inked drawings.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_broadcast_of_event :: Event ] or 
+- [ #has_/broadcast_of_event :: Event ] or 
 - [ has_broadcast_of_event :: Event ] 
 
 The event being broadcast such as a sporting event or awards ceremony.

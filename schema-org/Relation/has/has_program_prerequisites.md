@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text ] or 
+- [ #has_/program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text ] or 
 - [ has_program_prerequisites :: AlignmentObject, Course, EducationalOccupationalCredential, Text ] 
 
 Prerequisites for enrolling in the program.

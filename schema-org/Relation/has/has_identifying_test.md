@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_identifying_test :: MedicalTest ] or 
+- [ #has_/identifying_test :: MedicalTest ] or 
 - [ has_identifying_test :: MedicalTest ] 
 
 A diagnostic test that can identify this sign.

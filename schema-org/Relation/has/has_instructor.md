@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_instructor :: Person ] or 
+- [ #has_/instructor :: Person ] or 
 - [ has_instructor :: Person ] 
 
 A person assigned to instruct or provide instructional assistance for the [[CourseInstance]].

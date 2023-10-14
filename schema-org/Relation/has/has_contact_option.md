@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_contact_option :: ContactPointOption ] or 
+- [ #has_/contact_option :: ContactPointOption ] or 
 - [ has_contact_option :: ContactPointOption ] 
 
 An option available on this contact point (e.g. a toll-free number or support for hearing-impaired callers).

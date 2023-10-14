@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_interaction_count ::  ] or 
+- [ #has_/interaction_count ::  ] or 
 - [ has_interaction_count ::  ] 
 
 This property is deprecated, alongside the UserInteraction types on which it depended.

@@ -35,7 +35,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_provider :: Organization, Person ] or 
+- [ #has_/provider :: Organization, Person ] or 
 - [ has_provider :: Organization, Person ] 
 
 The service provider, service operator, or service performer; the goods producer. Another party (a seller) may offer those services or goods on behalf of the provider. A provider may also serve as the seller.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_permission_type :: DigitalDocumentPermissionType ] or 
+- [ #has_/permission_type :: DigitalDocumentPermissionType ] or 
 - [ has_permission_type :: DigitalDocumentPermissionType ] 
 
 The type of permission granted the person, organization, or audience.

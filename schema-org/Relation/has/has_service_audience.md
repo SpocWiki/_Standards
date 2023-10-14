@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_service_audience :: Audience ] or 
+- [ #has_/service_audience :: Audience ] or 
 - [ has_service_audience :: Audience ] 
 
 The audience eligible for this service.

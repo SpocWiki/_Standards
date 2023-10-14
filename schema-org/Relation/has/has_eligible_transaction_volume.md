@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_eligible_transaction_volume :: PriceSpecification ] or 
+- [ #has_/eligible_transaction_volume :: PriceSpecification ] or 
 - [ has_eligible_transaction_volume :: PriceSpecification ] 
 
 The transaction volume, in a monetary unit, for which the offer or price specification is valid, e.g. for indicating a minimal purchasing volume, to express free shipping above a certain order volume, or to limit the acceptance of credit cards to purchases to a certain minimal amount.

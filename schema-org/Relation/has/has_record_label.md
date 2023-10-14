@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_record_label :: Organization ] or 
+- [ #has_/record_label :: Organization ] or 
 - [ has_record_label :: Organization ] 
 
 The label that issued the release.

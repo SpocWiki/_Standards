@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_study_location :: AdministrativeArea ] or 
+- [ #has_/study_location :: AdministrativeArea ] or 
 - [ has_study_location :: AdministrativeArea ] 
 
 The location in which the study is taking/took place.

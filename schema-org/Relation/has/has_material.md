@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_material :: Product, Text, URL ] or 
+- [ #has_/material :: Product, Text, URL ] or 
 - [ has_material :: Product, Text, URL ] 
 
 A material that something is made from, e.g. leather, wool, cotton, paper.

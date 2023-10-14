@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_loser :: Person ] or 
+- [ #has_/loser :: Person ] or 
 - [ has_loser :: Person ] 
 
 A sub property of participant. The loser of the action.

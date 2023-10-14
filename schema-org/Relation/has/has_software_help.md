@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_software_help :: CreativeWork ] or 
+- [ #has_/software_help :: CreativeWork ] or 
 - [ has_software_help :: CreativeWork ] 
 
 Software application help.

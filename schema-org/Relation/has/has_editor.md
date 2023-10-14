@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_editor :: Person ] or 
+- [ #has_/editor :: Person ] or 
 - [ has_editor :: Person ] 
 
 Specifies the Person who edited the CreativeWork.

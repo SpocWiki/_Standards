@@ -34,8 +34,8 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/mortgage_domiciled 
-#is_/not_/mortgage_domiciled 
+#is_/mortgage_domiciled 
+#is_not_/mortgage_domiciled 
 
 Or write it as a Triple: 
 [ is_mortgage_domiciled :: Boolean ] 

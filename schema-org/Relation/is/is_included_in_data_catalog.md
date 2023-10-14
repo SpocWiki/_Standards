@@ -34,7 +34,7 @@ aliases:
 [ supersedes :: [[has_catalog]], [[has_included_data_catalog]] ]
 
 Use it like this: 
-- [ #has/_included_in_data_catalog :: DataCatalog ] or 
+- [ #has_/included_in_data_catalog :: DataCatalog ] or 
 - [ has_included_in_data_catalog :: DataCatalog ] 
 
 A data catalog which contains this dataset.

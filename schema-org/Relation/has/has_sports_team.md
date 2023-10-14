@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sports_team :: SportsTeam ] or 
+- [ #has_/sports_team :: SportsTeam ] or 
 - [ has_sports_team :: SportsTeam ] 
 
 A sub property of participant. The sports team that participated on this action.

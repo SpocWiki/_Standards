@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_book_format :: BookFormatType ] or 
+- [ #has_/book_format :: BookFormatType ] or 
 - [ has_book_format :: BookFormatType ] 
 
 The format of the book.

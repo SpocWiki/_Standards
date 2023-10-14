@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_spoken_by_character :: Organization, Person ] or 
+- [ #has_/spoken_by_character :: Organization, Person ] or 
 - [ has_spoken_by_character :: Organization, Person ] 
 
 The (e.g. fictional) character, Person or Organization to whom the quotation is attributed within the containing CreativeWork.

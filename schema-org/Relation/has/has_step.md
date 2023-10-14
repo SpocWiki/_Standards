@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_step :: CreativeWork, HowToSection, HowToStep, Text ] or 
+- [ #has_/step :: CreativeWork, HowToSection, HowToStep, Text ] or 
 - [ has_step :: CreativeWork, HowToSection, HowToStep, Text ] 
 
 A single step item (as HowToStep, text, document, video, etc.) or a HowToSection.

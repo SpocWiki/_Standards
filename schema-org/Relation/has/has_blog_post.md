@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_blog_post :: BlogPosting ] or 
+- [ #has_/blog_post :: BlogPosting ] or 
 - [ has_blog_post :: BlogPosting ] 
 
 A posting that is part of this blog.

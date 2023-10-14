@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_publication :: PublicationEvent ] or 
+- [ #has_/publication :: PublicationEvent ] or 
 - [ has_publication :: PublicationEvent ] 
 
 A publication event associated with the item.

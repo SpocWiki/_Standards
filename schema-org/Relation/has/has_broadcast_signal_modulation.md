@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_broadcast_signal_modulation :: QualitativeValue, Text ] or 
+- [ #has_/broadcast_signal_modulation :: QualitativeValue, Text ] or 
 - [ has_broadcast_signal_modulation :: QualitativeValue, Text ] 
 
 The modulation (e.g. FM, AM, etc) used by a particular broadcast service.

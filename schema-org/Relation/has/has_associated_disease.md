@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_associated_disease :: MedicalCondition, PropertyValue, URL ] or 
+- [ #has_/associated_disease :: MedicalCondition, PropertyValue, URL ] or 
 - [ has_associated_disease :: MedicalCondition, PropertyValue, URL ] 
 
 Disease associated to this BioChemEntity. Such disease can be a MedicalCondition or a URL. If you want to add an evidence supporting the association, please use PropertyValue.

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_measured_value :: DataType ] or 
+- [ #has_/measured_value :: DataType ] or 
 - [ has_measured_value :: DataType ] 
 
 The measuredValue of an [[Observation]].

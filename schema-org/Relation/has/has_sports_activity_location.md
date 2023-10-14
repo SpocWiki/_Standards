@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sports_activity_location :: SportsActivityLocation ] or 
+- [ #has_/sports_activity_location :: SportsActivityLocation ] or 
 - [ has_sports_activity_location :: SportsActivityLocation ] 
 
 A sub property of location. The sports activity location where this action occurred.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_competitor :: Person, SportsTeam ] or 
+- [ #has_/competitor :: Person, SportsTeam ] or 
 - [ has_competitor :: Person, SportsTeam ] 
 
 A competitor in a sports event.

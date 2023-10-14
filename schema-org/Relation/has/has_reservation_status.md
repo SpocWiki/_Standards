@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_reservation_status :: ReservationStatusType ] or 
+- [ #has_/reservation_status :: ReservationStatusType ] or 
 - [ has_reservation_status :: ReservationStatusType ] 
 
 The current status of the reservation.

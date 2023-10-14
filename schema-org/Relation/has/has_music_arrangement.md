@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_music_arrangement :: MusicComposition ] or 
+- [ #has_/music_arrangement :: MusicComposition ] or 
 - [ has_music_arrangement :: MusicComposition ] 
 
 An arrangement derived from the composition.

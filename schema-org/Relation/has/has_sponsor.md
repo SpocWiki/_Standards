@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sponsor :: Organization, Person ] or 
+- [ #has_/sponsor :: Organization, Person ] or 
 - [ has_sponsor :: Organization, Person ] 
 
 A person or organization that supports a thing through a pledge, promise, or financial contribution. E.g. a sponsor of a Medical Study or a corporate sponsor of an event.

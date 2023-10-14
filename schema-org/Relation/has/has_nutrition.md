@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_nutrition :: NutritionInformation ] or 
+- [ #has_/nutrition :: NutritionInformation ] or 
 - [ has_nutrition :: NutritionInformation ] 
 
 Nutrition information about the recipe or menu item.

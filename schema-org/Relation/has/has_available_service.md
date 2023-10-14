@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_service :: MedicalProcedure, MedicalTest, MedicalTherapy ] or 
+- [ #has_/available_service :: MedicalProcedure, MedicalTest, MedicalTherapy ] or 
 - [ has_available_service :: MedicalProcedure, MedicalTest, MedicalTherapy ] 
 
 A medical service available from this provider.

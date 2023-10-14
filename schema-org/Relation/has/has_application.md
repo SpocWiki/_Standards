@@ -33,7 +33,7 @@ aliases:
 [ superseded_by:: [[has_action_Application]] ]
 
 Use it like this: 
-- [ #has/_application :: [[Software_Application]] ] or 
+- [ #has_/application :: [[Software_Application]] ] or 
 - [ has_application :: [[Software_Application]] ] 
 
 An application that can complete the request.

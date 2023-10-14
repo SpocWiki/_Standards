@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_released_event :: PublicationEvent ] or 
+- [ #has_/released_event :: PublicationEvent ] or 
 - [ has_released_event :: PublicationEvent ] 
 
 The place and time the release was issued, expressed as a PublicationEvent.

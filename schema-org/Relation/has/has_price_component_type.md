@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_price_component_type :: PriceComponentTypeEnumeration ] or 
+- [ #has_/price_component_type :: PriceComponentTypeEnumeration ] or 
 - [ has_price_component_type :: PriceComponentTypeEnumeration ] 
 
 Identifies a price component (for example, a line item on an invoice), part of the total price for an offer.

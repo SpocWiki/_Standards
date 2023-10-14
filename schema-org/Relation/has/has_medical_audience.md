@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_medical_audience :: MedicalAudience, MedicalAudienceType ] or 
+- [ #has_/medical_audience :: MedicalAudience, MedicalAudienceType ] or 
 - [ has_medical_audience :: MedicalAudience, MedicalAudienceType ] 
 
 Medical audience for page.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_order_delivery :: ParcelDelivery ] or 
+- [ #has_/order_delivery :: ParcelDelivery ] or 
 - [ has_order_delivery :: ParcelDelivery ] 
 
 The delivery of the parcel related to this order or order item.

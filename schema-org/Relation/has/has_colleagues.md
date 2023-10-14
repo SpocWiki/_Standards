@@ -35,7 +35,7 @@ aliases:
 [ superseded_by: [[colleague]] ]
 
 Use it like this: 
-- [ #has/_colleague :: Person ] or 
+- [ #has_/colleague :: Person ] or 
 - [ has_colleague :: Person ] 
 
 A colleague of the person.

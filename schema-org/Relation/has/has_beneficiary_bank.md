@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_beneficiary_bank :: BankOrCreditUnion, Text ] or 
+- [ #has_/beneficiary_bank :: BankOrCreditUnion, Text ] or 
 - [ has_beneficiary_bank :: BankOrCreditUnion, Text ] 
 
 A bank or bank�s branch, financial institution or international financial institution operating the beneficiary�s bank account or releasing funds for the beneficiary.

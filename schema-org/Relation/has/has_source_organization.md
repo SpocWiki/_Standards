@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_source_organization :: Organization ] or 
+- [ #has_/source_organization :: Organization ] or 
 - [ has_source_organization :: Organization ] 
 
 The Organization on whose behalf the creator was working.

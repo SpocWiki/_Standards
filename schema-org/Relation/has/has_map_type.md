@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_map_type :: MapCategoryType ] or 
+- [ #has_/map_type :: MapCategoryType ] or 
 - [ has_map_type :: MapCategoryType ] 
 
 Indicates the kind of Map, from the MapCategoryType Enumeration.

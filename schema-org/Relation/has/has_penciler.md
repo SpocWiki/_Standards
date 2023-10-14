@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_penciler :: Person ] or 
+- [ #has_/penciler :: Person ] or 
 - [ has_penciler :: Person ] 
 
 The individual who draws the primary narrative artwork.

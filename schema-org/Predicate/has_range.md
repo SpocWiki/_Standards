@@ -30,7 +30,7 @@ aliases:
 [ #is_/part_of :: https://meta.schema.org ]
 
 Use it like this: 
-- [ #has/_range :: [Class](../Classes.md) ] or 
+- [ #has_/range :: [Class](../Classes.md) ] or 
 - [ has_range :: [Class](../Classes.md) ] 
 
 Relates a property to a class that constitutes (one of) the expected type(s) for values of the property.

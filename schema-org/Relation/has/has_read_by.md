@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has/_read_by :: Person ] or 
+- [ #has_/read_by :: Person ] or 
 - [ has_read_by :: Person ] 
 
 A person who reads (performs) the audiobook.

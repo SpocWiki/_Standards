@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_medicine_system :: MedicineSystem ] or 
+- [ #has_/medicine_system :: MedicineSystem ] or 
 - [ has_medicine_system :: MedicineSystem ] 
 
 The system of medicine that includes this MedicalEntity, for example 'evidence-based', 'homeopathic', 'chiropractic', etc.

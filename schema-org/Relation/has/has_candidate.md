@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_candidate :: Person ] or 
+- [ #has_/candidate :: Person ] or 
 - [ has_candidate :: Person ] 
 
 A sub property of object. The candidate subject of this action.

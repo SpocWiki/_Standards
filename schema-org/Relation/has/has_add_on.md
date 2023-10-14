@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_add_on :: Offer ] or 
+- [ #has_/add_on :: Offer ] or 
 - [ has_add_on :: Offer ] 
 
 An additional offer that can only be obtained in combination with the first base offer (e.g. supplements and extensions that are available for a surcharge).

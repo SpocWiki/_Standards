@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_suggested_gender :: GenderType, Text ] or 
+- [ #has_/suggested_gender :: GenderType, Text ] or 
 - [ has_suggested_gender :: GenderType, Text ] 
 
 The suggested gender of the intended person or audience, for example "male", "female", or "unisex".

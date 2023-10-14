@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_item_defect_return_fees :: ReturnFeesEnumeration ] or 
+- [ #has_/item_defect_return_fees :: ReturnFeesEnumeration ] or 
 - [ has_item_defect_return_fees :: ReturnFeesEnumeration ] 
 
 The type of return fees for returns of defect products.

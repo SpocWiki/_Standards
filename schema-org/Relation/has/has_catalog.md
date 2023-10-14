@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_catalog :: DataCatalog ] or 
+- [ #has_/catalog :: DataCatalog ] or 
 - [ has_catalog :: DataCatalog ] 
 
 A data catalog which contains this dataset.

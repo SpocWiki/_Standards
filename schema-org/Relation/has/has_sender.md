@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sender :: Audience, Organization, Person ] or 
+- [ #has_/sender :: Audience, Organization, Person ] or 
 - [ has_sender :: Audience, Organization, Person ] 
 
 A sub property of participant. The participant who is at the sending end of the action.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_payment_status :: PaymentStatusType, Text ] or 
+- [ #has_/payment_status :: PaymentStatusType, Text ] or 
 - [ has_payment_status :: PaymentStatusType, Text ] 
 
 The status of payment; whether the invoice has been paid or not.

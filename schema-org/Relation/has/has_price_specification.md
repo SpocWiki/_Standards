@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_price_specification :: PriceSpecification ] or 
+- [ #has_/price_specification :: PriceSpecification ] or 
 - [ has_price_specification :: PriceSpecification ] 
 
 One or more detailed price specifications, indicating the unit price and delivery or payment charges.

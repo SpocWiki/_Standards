@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_hosting_organization :: Organization ] or 
+- [ #has_/hosting_organization :: Organization ] or 
 - [ has_hosting_organization :: Organization ] 
 
 The organization (airline, travelers' club, etc.) the membership is made with.

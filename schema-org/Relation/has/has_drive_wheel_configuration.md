@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_drive_wheel_configuration :: DriveWheelConfigurationValue, Text ] or 
+- [ #has_/drive_wheel_configuration :: DriveWheelConfigurationValue, Text ] or 
 - [ has_drive_wheel_configuration :: DriveWheelConfigurationValue, Text ] 
 
 The drive wheel configuration, i.e. which roadwheels will receive torque from the vehicle's engine via the drivetrain.

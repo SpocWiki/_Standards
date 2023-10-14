@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_bio_chem_similarity :: BioChemEntity ] or 
+- [ #has_/bio_chem_similarity :: BioChemEntity ] or 
 - [ has_bio_chem_similarity :: BioChemEntity ] 
 
 A similar BioChemEntity, e.g., obtained by fingerprint similarity algorithms.

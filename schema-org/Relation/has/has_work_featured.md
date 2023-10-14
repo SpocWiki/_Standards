@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_work_featured :: CreativeWork ] or 
+- [ #has_/work_featured :: CreativeWork ] or 
 - [ has_work_featured :: CreativeWork ] 
 
 A work featured in some event, e.g. exhibited in an ExhibitionEvent.

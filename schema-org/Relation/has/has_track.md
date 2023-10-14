@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_track :: ItemList, MusicRecording ] or 
+- [ #has_/track :: ItemList, MusicRecording ] or 
 - [ has_track :: ItemList, MusicRecording ] 
 
 A music recording (track)&amp;#x2014;usually a single song. If an ItemList is given, the list should contain items of type MusicRecording.

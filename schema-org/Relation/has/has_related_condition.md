@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_condition :: MedicalCondition ] or 
+- [ #has_/related_condition :: MedicalCondition ] or 
 - [ has_related_condition :: MedicalCondition ] 
 
 A medical condition associated with this anatomy.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_access_mode_sufficient :: ItemList ] or 
+- [ #has_/access_mode_sufficient :: ItemList ] or 
 - [ has_access_mode_sufficient :: ItemList ] 
 
 A list of single or combined [access_modes](../../Texts/has_access_mode.md) 

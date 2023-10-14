@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_duplicate_therapy :: MedicalTherapy ] or 
+- [ #has_/duplicate_therapy :: MedicalTherapy ] or 
 - [ has_duplicate_therapy :: MedicalTherapy ] 
 
 A therapy that duplicates or overlaps this one.

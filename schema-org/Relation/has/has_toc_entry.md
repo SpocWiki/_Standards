@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_toc_entry :: HyperTocEntry ] or 
+- [ #has_/toc_entry :: HyperTocEntry ] or 
 - [ has_toc_entry :: HyperTocEntry ] 
 
 Indicates a [[HyperTocEntry]] in a [[HyperToc]].

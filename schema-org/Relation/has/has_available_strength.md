@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_available_strength :: DrugStrength ] or 
+- [ #has_/available_strength :: DrugStrength ] or 
 - [ has_available_strength :: DrugStrength ] 
 
 An available dosage strength for the drug.

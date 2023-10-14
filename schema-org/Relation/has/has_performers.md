@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: performer ]
 
 Use it like this: 
-- [ #has/_performer :: Organization, Person ] or 
+- [ #has_/performer :: Organization, Person ] or 
 - [ has_performer :: Organization, Person ] 
 
 The main performer or performers of the event&amp;#x2014;for example, a presenter, musician, or actor.

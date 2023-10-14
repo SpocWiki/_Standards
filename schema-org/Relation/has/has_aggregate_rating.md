@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_aggregate_rating :: AggregateRating ] or 
+- [ #has_/aggregate_rating :: AggregateRating ] or 
 - [ has_aggregate_rating :: AggregateRating ] 
 
 The overall rating, based on a collection of reviews or ratings, of the item.

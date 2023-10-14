@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_legislation_responsible :: Organization, Person ] or 
+- [ #has_/legislation_responsible :: Organization, Person ] or 
 - [ has_legislation_responsible :: Organization, Person ] 
 
 An individual or organization that has some kind of responsibility for the legislation.

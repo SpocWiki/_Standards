@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_infectious_agent_class :: InfectiousAgentClass ] or 
+- [ #has_/infectious_agent_class :: InfectiousAgentClass ] or 
 - [ has_infectious_agent_class :: InfectiousAgentClass ] 
 
 The class of infectious agent (bacteria, prion, etc.) that causes the disease.

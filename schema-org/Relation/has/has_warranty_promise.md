@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_warranty_promise :: WarrantyPromise ] or 
+- [ #has_/warranty_promise :: WarrantyPromise ] or 
 - [ has_warranty_promise :: WarrantyPromise ] 
 
 The warranty promise(s) included in the offer.

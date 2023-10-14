@@ -34,8 +34,8 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/loan_renegotiable 
-#is_/not_/loan_renegotiable 
+#is_/loan_renegotiable 
+#is_not_/loan_renegotiable 
 
 Or write it as a Triple: 
 [ is_loan_renegotiable :: Boolean ] 

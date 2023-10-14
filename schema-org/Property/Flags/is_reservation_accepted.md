@@ -32,8 +32,8 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/reservation_accepted 
-#is_/not_/reservation_accepted 
+#is_/reservation_accepted 
+#is_not_/reservation_accepted 
 
 Or write it as a Triple: 
 [ is_reservation_accepted :: Boolean, Text, URL ] 

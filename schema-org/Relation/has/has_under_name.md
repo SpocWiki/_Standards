@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_under_name :: Organization, Person ] or 
+- [ #has_/under_name :: Organization, Person ] or 
 - [ has_under_name :: Organization, Person ] 
 
 The person or organization the reservation or ticket is for.

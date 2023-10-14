@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_code :: MedicalCode ] or 
+- [ #has_/code :: MedicalCode ] or 
 - [ has_code :: MedicalCode ] 
 
 A medical code for the entity, taken from a controlled vocabulary or ontology such as ICD-9, DiseasesDB, MeSH, SNOMED-CT, RxNorm, etc.

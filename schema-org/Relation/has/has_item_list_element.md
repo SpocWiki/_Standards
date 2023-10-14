@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item_list_element :: ListItem, Text, Thing ] or 
+- [ #has_/item_list_element :: ListItem, Text, Thing ] or 
 - [ has_item_list_element :: ListItem, Text, Thing ] 
 
 For itemListElement values, you can use simple strings (e.g. "Peter", "Paul", "Mary"), existing entities, or use ListItem.&lt;br/&gt;&lt;br/&gt;

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_tributary :: AnatomicalStructure ] or 
+- [ #has_/tributary :: AnatomicalStructure ] or 
 - [ has_tributary :: AnatomicalStructure ] 
 
 The anatomical or organ system that the vein flows into; a larger structure that the vein connects to.

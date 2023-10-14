@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_item_reviewed :: [Thing](../../../Class/Thing.md) ] or 
+- [ #has_/item_reviewed :: [Thing](../../../Class/Thing.md) ] or 
 - [ has_item_reviewed :: [Thing](../../../Class/Thing.md) ] 
 
 The item that is being reviewed/rated.

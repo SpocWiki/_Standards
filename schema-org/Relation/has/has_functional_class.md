@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_functional_class :: MedicalEntity, Text ] or 
+- [ #has_/functional_class :: MedicalEntity, Text ] or 
 - [ has_functional_class :: MedicalEntity, Text ] 
 
 The degree of mobility the joint allows.

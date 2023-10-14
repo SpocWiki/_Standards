@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_ethics_policy :: CreativeWork, URL ] or 
+- [ #has_/ethics_policy :: CreativeWork, URL ] or 
 - [ has_ethics_policy :: CreativeWork, URL ] 
 
 Statement about ethics policy, e.g. of a [[NewsMediaOrganization]] regarding journalistic and publishing practices, or of a [[Restaurant]], a page describing food source policies. In the case of a [[NewsMediaOrganization]], an ethicsPolicy is typically a statement describing the personal, organizational, and corporate standards of behavior expected by the organization.

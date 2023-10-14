@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_day_of_week :: DayOfWeek ] or 
+- [ #has_/day_of_week :: DayOfWeek ] or 
 - [ has_day_of_week :: DayOfWeek ] 
 
 The day of the week for which these opening hours are valid.

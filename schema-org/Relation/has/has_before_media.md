@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_before_media :: MediaObject, URL ] or 
+- [ #has_/before_media :: MediaObject, URL ] or 
 - [ has_before_media :: MediaObject, URL ] 
 
 A media object representing the circumstances before performing this direction.

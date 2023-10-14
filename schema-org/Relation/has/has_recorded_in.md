@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_recorded_in :: CreativeWork ] or 
+- [ #has_/recorded_in :: CreativeWork ] or 
 - [ has_recorded_in :: CreativeWork ] 
 
 The CreativeWork that captured all or part of this Event.

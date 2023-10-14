@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_type_of_bed :: BedType, Text ] or 
+- [ #has_/type_of_bed :: BedType, Text ] or 
 - [ has_type_of_bed :: BedType, Text ] 
 
 The type of bed to which the BedDetail refers, i.e. the type of bed available in the quantity indicated by quantity.

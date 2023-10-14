@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has/_body_type :: QualitativeValue, Text, URL ] or 
+- [ #has_/body_type :: QualitativeValue, Text, URL ] or 
 - [ has_body_type :: QualitativeValue, Text, URL ] 
 
 Indicates the design and body style of the vehicle (e.g. station wagon, hatchback, etc.).

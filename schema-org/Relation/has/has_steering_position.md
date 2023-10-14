@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_steering_position :: SteeringPositionValue ] or 
+- [ #has_/steering_position :: SteeringPositionValue ] or 
 - [ has_steering_position :: SteeringPositionValue ] 
 
 The position of the steering wheel or similar device (mostly for cars).

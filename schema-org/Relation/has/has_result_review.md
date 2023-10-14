@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_result_review :: Review ] or 
+- [ #has_/result_review :: Review ] or 
 - [ has_result_review :: Review ] 
 
 A sub property of result. The review that resulted in the performing of the action.

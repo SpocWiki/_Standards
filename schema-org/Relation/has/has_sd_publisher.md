@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_sd_publisher :: Organization, Person ] or 
+- [ #has_/sd_publisher :: Organization, Person ] or 
 - [ has_sd_publisher :: Organization, Person ] 
 
 Indicates the party responsible for generating and publishing the current structured data markup, typically in cases where the structured data is derived automatically from existing published content but published on a different site. For example, student projects and open data initiatives often re-publish existing content with more explicitly structured metadata. The

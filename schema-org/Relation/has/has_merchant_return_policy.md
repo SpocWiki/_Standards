@@ -35,7 +35,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_merchant_return_policy :: MerchantReturnPolicy ] or 
+- [ #has_/merchant_return_policy :: MerchantReturnPolicy ] or 
 - [ has_merchant_return_policy :: MerchantReturnPolicy ] 
 
 Specifies a MerchantReturnPolicy that may be applicable.

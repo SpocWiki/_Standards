@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_related_drug :: Drug ] or 
+- [ #has_/related_drug :: Drug ] or 
 - [ has_related_drug :: Drug ] 
 
 Any other drug related to this one, for example commonly-prescribed alternatives.

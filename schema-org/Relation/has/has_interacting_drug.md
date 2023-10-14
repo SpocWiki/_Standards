@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_interacting_drug :: Drug ] or 
+- [ #has_/interacting_drug :: Drug ] or 
 - [ has_interacting_drug :: Drug ] 
 
 Another drug that is known to interact with this drug in a way that impacts the effect of this drug or causes a risk to the patient. Note: disease interactions are typically captured as contraindications.

@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_parent :: Person ] or 
+- [ #has_/parent :: Person ] or 
 - [ has_parent :: Person ] 
 
 A parent of this person.

@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_event :: Event ] or 
+- [ #has_/event :: Event ] or 
 - [ has_event :: Event ] 
 
 Upcoming or past event associated with this place, organization, or action.

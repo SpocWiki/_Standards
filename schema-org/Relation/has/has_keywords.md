@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_keywords :: DefinedTerm, Text, URL ] or 
+- [ #has_/keywords :: DefinedTerm, Text, URL ] or 
 - [ has_keywords :: DefinedTerm, Text, URL ] 
 
 Keywords or tags used to describe some item. Multiple textual entries in a keywords list are typically delimited by commas, or by repeating the property.

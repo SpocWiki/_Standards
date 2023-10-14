@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_release_of :: MusicAlbum ] or 
+- [ #has_/release_of :: MusicAlbum ] or 
 - [ has_release_of :: MusicAlbum ] 
 
 The album this is a release of.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_eligible_customer_type :: BusinessEntityType ] or 
+- [ #has_/eligible_customer_type :: BusinessEntityType ] or 
 - [ has_eligible_customer_type :: BusinessEntityType ] 
 
 The type(s) of customers for which the given offer is valid.

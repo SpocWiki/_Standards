@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_work_presented :: Movie ] or 
+- [ #has_/work_presented :: Movie ] or 
 - [ has_work_presented :: Movie ] 
 
 The movie presented during this event.

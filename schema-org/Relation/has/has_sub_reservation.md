@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_sub_reservation :: Reservation ] or 
+- [ #has_/sub_reservation :: Reservation ] or 
 - [ has_sub_reservation :: Reservation ] 
 
 The individual reservations included in the package. Typically a repeated property.

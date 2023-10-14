@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_educational_use :: DefinedTerm, Text ] or 
+- [ #has_/educational_use :: DefinedTerm, Text ] or 
 - [ has_educational_use :: DefinedTerm, Text ] 
 
 The purpose of a work in the context of education; for example, 'assignment', 'group work'.

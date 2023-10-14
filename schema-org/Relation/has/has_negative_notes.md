@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_negative_notes :: ItemList, ListItem, Text, WebContent ] or 
+- [ #has_/negative_notes :: ItemList, ListItem, Text, WebContent ] or 
 - [ has_negative_notes :: ItemList, ListItem, Text, WebContent ] 
 
 Provides negative considerations regarding something, most typically in pro/con lists for reviews (alongside [[positiveNotes]]). For symmetry &lt;br/&gt;&lt;br/&gt;

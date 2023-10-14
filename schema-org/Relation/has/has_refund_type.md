@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_refund_type :: RefundTypeEnumeration ] or 
+- [ #has_/refund_type :: RefundTypeEnumeration ] or 
 - [ has_refund_type :: RefundTypeEnumeration ] 
 
 A refund type, from an enumerated list.

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_aircraft :: Text, Vehicle ] or 
+- [ #has_/aircraft :: Text, Vehicle ] or 
 - [ has_aircraft :: Text, Vehicle ] 
 
 The kind of aircraft (e.g., "Boeing 747").

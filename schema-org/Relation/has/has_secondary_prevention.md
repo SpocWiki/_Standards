@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_secondary_prevention :: MedicalTherapy ] or 
+- [ #has_/secondary_prevention :: MedicalTherapy ] or 
 - [ has_secondary_prevention :: MedicalTherapy ] 
 
 A preventative therapy used to prevent reoccurrence of the medical condition after an initial episode of the condition.

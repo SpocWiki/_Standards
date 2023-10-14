@@ -32,8 +32,8 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/_/multiple_value 
-#is_/not_/multiple_value 
+#is_/multiple_value 
+#is_not_/multiple_value 
 
 Or write it as a Triple: 
 [ is_multiple_value :: Boolean ] 

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_distinguishing_sign :: MedicalSignOrSymptom ] or 
+- [ #has_/distinguishing_sign :: MedicalSignOrSymptom ] or 
 - [ has_distinguishing_sign :: MedicalSignOrSymptom ] 
 
 One of a set of signs and symptoms that can be used to distinguish this diagnosis from others in the differential diagnosis.

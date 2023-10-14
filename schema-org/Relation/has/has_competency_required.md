@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_competency_required :: DefinedTerm, Text, URL ] or 
+- [ #has_/competency_required :: DefinedTerm, Text, URL ] or 
 - [ has_competency_required :: DefinedTerm, Text, URL ] 
 
 Knowledge, skill, ability or personal attribute that must be demonstrated by a person or other entity in order to do something such as earn an Educational Occupational Credential or understand a LearningResource.

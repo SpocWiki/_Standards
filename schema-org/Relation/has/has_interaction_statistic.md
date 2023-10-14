@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_interaction_statistic :: InteractionCounter ] or 
+- [ #has_/interaction_statistic :: InteractionCounter ] or 
 - [ has_interaction_statistic :: InteractionCounter ] 
 
 The number of interactions for the CreativeWork using the WebSite or SoftwareApplication. The most specific child type of InteractionCounter should be used.

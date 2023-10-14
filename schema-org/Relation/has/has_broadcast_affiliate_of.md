@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_broadcast_affiliate_of :: Organization ] or 
+- [ #has_/broadcast_affiliate_of :: Organization ] or 
 - [ has_broadcast_affiliate_of :: Organization ] 
 
 The media network(s) whose content is broadcast on this station.

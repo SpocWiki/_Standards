@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has/_audio :: AudioObject, Clip, MusicRecording ] or 
+- [ #has_/audio :: AudioObject, Clip, MusicRecording ] or 
 - [ has_audio :: AudioObject, Clip, MusicRecording ] 
 
 An embedded audio object.

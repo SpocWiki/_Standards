@@ -34,7 +34,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has/_appearance :: CreativeWork ] or 
+- [ #has_/appearance :: CreativeWork ] or 
 - [ has_appearance_in :: CreativeWork ] 
 
 Indicates an occurrence of a [[Claim]] in some [[CreativeWork]].
