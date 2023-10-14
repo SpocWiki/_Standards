@@ -45,9 +45,9 @@ The act of downloading an object.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/transfer_action/download_action.md|download_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/transfer_action/download_action.internal.md|download_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/transfer_action/download_action.protect.md|download_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/transfer_action/download_action.private.md|download_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/transfer_action/download_action.personal.md|download_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/transfer_action/download_action.secret.md|download_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/download_action.md|download_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/transfer_action/download_action.internal.md|download_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/transfer_action/download_action.protect.md|download_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/transfer_action/download_action.private.md|download_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/transfer_action/download_action.personal.md|download_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/transfer_action/download_action.secret.md|download_action.secret]] 

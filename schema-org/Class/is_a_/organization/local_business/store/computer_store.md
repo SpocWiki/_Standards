@@ -45,9 +45,9 @@ A computer store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/computer_store.md|computer_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/computer_store.internal.md|computer_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/computer_store.protect.md|computer_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/computer_store.private.md|computer_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/computer_store.personal.md|computer_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/computer_store.secret.md|computer_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/computer_store.md|computer_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/computer_store.internal.md|computer_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/computer_store.protect.md|computer_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/computer_store.private.md|computer_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/computer_store.personal.md|computer_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/computer_store.secret.md|computer_store.secret]] 

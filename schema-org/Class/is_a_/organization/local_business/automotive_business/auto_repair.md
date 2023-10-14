@@ -45,9 +45,9 @@ Car repair business.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.md|auto_repair]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.internal.md|auto_repair.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.protect.md|auto_repair.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.private.md|auto_repair.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.personal.md|auto_repair.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_repair.secret.md|auto_repair.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_repair.md|auto_repair]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_repair.internal.md|auto_repair.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_repair.protect.md|auto_repair.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_repair.private.md|auto_repair.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_repair.personal.md|auto_repair.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_repair.secret.md|auto_repair.secret]] 

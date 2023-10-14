@@ -47,9 +47,9 @@ The Game type represents things which are games. These are typically rule-govern
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/game.md|game]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/game.internal.md|game.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/game.protect.md|game.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/game.private.md|game.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/game.personal.md|game.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/game.secret.md|game.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/game.md|game]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/game.internal.md|game.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/game.protect.md|game.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/game.private.md|game.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/game.personal.md|game.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/game.secret.md|game.secret]] 

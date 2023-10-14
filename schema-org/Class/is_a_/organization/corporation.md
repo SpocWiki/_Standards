@@ -45,9 +45,9 @@ Organization: A business corporation.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/corporation.md|corporation]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/corporation.internal.md|corporation.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/corporation.protect.md|corporation.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/corporation.private.md|corporation.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/corporation.personal.md|corporation.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/corporation.secret.md|corporation.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/corporation.md|corporation]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/corporation.internal.md|corporation.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/corporation.protect.md|corporation.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/corporation.private.md|corporation.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/corporation.personal.md|corporation.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/corporation.secret.md|corporation.secret]] 

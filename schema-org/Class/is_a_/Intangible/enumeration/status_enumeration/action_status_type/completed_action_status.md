@@ -47,9 +47,9 @@ An action that has already taken place.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.md|completed_action_status]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.internal.md|completed_action_status.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.protect.md|completed_action_status.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.private.md|completed_action_status.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.personal.md|completed_action_status.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.secret.md|completed_action_status.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.md|completed_action_status]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.internal.md|completed_action_status.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.protect.md|completed_action_status.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.private.md|completed_action_status.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.personal.md|completed_action_status.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.secret.md|completed_action_status.secret]] 

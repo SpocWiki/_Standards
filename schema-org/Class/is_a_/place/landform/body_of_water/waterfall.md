@@ -45,9 +45,9 @@ A waterfall, like Niagara.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.md|waterfall]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.internal.md|waterfall.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.protect.md|waterfall.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.private.md|waterfall.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.personal.md|waterfall.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/waterfall.secret.md|waterfall.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/landform/body_of_water/waterfall.md|waterfall]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/landform/body_of_water/waterfall.internal.md|waterfall.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/landform/body_of_water/waterfall.protect.md|waterfall.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/landform/body_of_water/waterfall.private.md|waterfall.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/landform/body_of_water/waterfall.personal.md|waterfall.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/landform/body_of_water/waterfall.secret.md|waterfall.secret]] 

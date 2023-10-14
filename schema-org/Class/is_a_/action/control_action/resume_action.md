@@ -45,9 +45,9 @@ The act of resuming a device or application which was formerly paused (e.g. resu
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/control_action/resume_action.md|resume_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/control_action/resume_action.internal.md|resume_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/control_action/resume_action.protect.md|resume_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/control_action/resume_action.private.md|resume_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/control_action/resume_action.personal.md|resume_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/control_action/resume_action.secret.md|resume_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/control_action/resume_action.md|resume_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/control_action/resume_action.internal.md|resume_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/control_action/resume_action.protect.md|resume_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/control_action/resume_action.private.md|resume_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/control_action/resume_action.personal.md|resume_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/control_action/resume_action.secret.md|resume_action.secret]] 

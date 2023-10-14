@@ -45,9 +45,9 @@ Web page type: About page.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/about_page.md|about_page]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/about_page.internal.md|about_page.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/about_page.protect.md|about_page.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/about_page.private.md|about_page.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/about_page.personal.md|about_page.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/about_page.secret.md|about_page.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page/about_page.md|about_page]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page/about_page.internal.md|about_page.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page/about_page.protect.md|about_page.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page/about_page.private.md|about_page.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page/about_page.personal.md|about_page.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page/about_page.secret.md|about_page.secret]] 

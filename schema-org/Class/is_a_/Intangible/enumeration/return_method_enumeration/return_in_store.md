@@ -49,9 +49,9 @@ Specifies that product returns must be made in a store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.md|return_in_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.internal.md|return_in_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.protect.md|return_in_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.private.md|return_in_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.personal.md|return_in_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.secret.md|return_in_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.md|return_in_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.internal.md|return_in_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.protect.md|return_in_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.private.md|return_in_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.personal.md|return_in_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.secret.md|return_in_store.secret]] 

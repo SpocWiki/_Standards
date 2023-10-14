@@ -35,7 +35,7 @@ Use it like this:
 Relates a property to a class that is (one of) the type(s) the property is expected to be used on.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Type/is_a_thing/intangible/property]] ]
+[ #has_/domain  :: [[../../../Class/is_a_thing/intangible/property]] ]
 ( #has_/name :: has_domain )
 ( #has_/range :: [Class](../Classes.md) )
 

@@ -47,9 +47,9 @@ A video file.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/video_object.md|video_object]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/video_object.internal.md|video_object.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/video_object.protect.md|video_object.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/video_object.private.md|video_object.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/video_object.personal.md|video_object.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/video_object.secret.md|video_object.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/media_object/video_object.md|video_object]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/media_object/video_object.internal.md|video_object.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/media_object/video_object.protect.md|video_object.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/media_object/video_object.private.md|video_object.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/media_object/video_object.personal.md|video_object.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/media_object/video_object.secret.md|video_object.secret]] 

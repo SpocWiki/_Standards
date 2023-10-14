@@ -45,9 +45,9 @@ Event type: Sales event.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/sale_event.md|sale_event]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/sale_event.internal.md|sale_event.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/sale_event.protect.md|sale_event.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/sale_event.private.md|sale_event.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/sale_event.personal.md|sale_event.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/sale_event.secret.md|sale_event.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/sale_event.md|sale_event]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/sale_event.internal.md|sale_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/sale_event.protect.md|sale_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/sale_event.private.md|sale_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/sale_event.personal.md|sale_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/sale_event.secret.md|sale_event.secret]] 

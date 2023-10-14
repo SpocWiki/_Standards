@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #is/_legislation_jurisdiction_of :: AdministrativeArea, Text ] or 
+- [ #is_/legislation_jurisdiction_of :: AdministrativeArea, Text ] or 
 - [ is_legislation_jurisdiction_of :: AdministrativeArea, Text ] 
 
 The jurisdiction from which the legislation originates.

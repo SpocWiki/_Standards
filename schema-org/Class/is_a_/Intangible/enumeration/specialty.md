@@ -45,9 +45,9 @@ Any branch of a field in which people typically develop specific expertise, usua
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/specialty.md|specialty]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/specialty.internal.md|specialty.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/specialty.protect.md|specialty.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/specialty.private.md|specialty.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/specialty.personal.md|specialty.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/specialty.secret.md|specialty.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/specialty.md|specialty]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/specialty.internal.md|specialty.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/specialty.protect.md|specialty.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/specialty.private.md|specialty.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/specialty.personal.md|specialty.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/specialty.secret.md|specialty.secret]] 

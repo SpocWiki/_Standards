@@ -45,9 +45,9 @@ An image of a visual machine-readable code such as a barcode or QR code.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.md|barcode]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.internal.md|barcode.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.protect.md|barcode.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.private.md|barcode.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.personal.md|barcode.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/image_object/barcode.secret.md|barcode.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/media_object/image_object/barcode.md|barcode]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/media_object/image_object/barcode.internal.md|barcode.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/media_object/image_object/barcode.protect.md|barcode.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/media_object/image_object/barcode.private.md|barcode.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/media_object/image_object/barcode.personal.md|barcode.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/media_object/image_object/barcode.secret.md|barcode.secret]] 

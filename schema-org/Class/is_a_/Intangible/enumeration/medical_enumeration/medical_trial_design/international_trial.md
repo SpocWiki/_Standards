@@ -47,9 +47,9 @@ An international trial.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.md|international_trial]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.internal.md|international_trial.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.protect.md|international_trial.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.private.md|international_trial.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.personal.md|international_trial.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.secret.md|international_trial.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.md|international_trial]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.internal.md|international_trial.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.protect.md|international_trial.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.private.md|international_trial.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.personal.md|international_trial.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.secret.md|international_trial.secret]] 

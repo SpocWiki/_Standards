@@ -45,9 +45,9 @@ A WebSite is a set of related web pages and other items typically served from a 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/web_site.md|web_site]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/web_site.internal.md|web_site.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/web_site.protect.md|web_site.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/web_site.private.md|web_site.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/web_site.personal.md|web_site.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/web_site.secret.md|web_site.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/web_site.md|web_site]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/web_site.internal.md|web_site.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/web_site.protect.md|web_site.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/web_site.private.md|web_site.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/web_site.personal.md|web_site.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/web_site.secret.md|web_site.secret]] 

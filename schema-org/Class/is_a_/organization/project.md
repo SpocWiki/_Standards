@@ -50,9 +50,9 @@ Use properties from <a class="localLink" href="/Organization">Organization</a>, 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/project.md|project]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/project.internal.md|project.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/project.protect.md|project.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/project.private.md|project.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/project.personal.md|project.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/project.secret.md|project.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/project.md|project]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/project.internal.md|project.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/project.protect.md|project.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/project.private.md|project.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/project.personal.md|project.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/project.secret.md|project.secret]] 

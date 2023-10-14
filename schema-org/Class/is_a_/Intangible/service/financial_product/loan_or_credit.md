@@ -47,9 +47,9 @@ A financial product for the loaning of an amount of money, or line of credit, un
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.md|loan_or_credit]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.internal.md|loan_or_credit.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.protect.md|loan_or_credit.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.private.md|loan_or_credit.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.personal.md|loan_or_credit.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/loan_or_credit.secret.md|loan_or_credit.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.md|loan_or_credit]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.internal.md|loan_or_credit.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.protect.md|loan_or_credit.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.private.md|loan_or_credit.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.personal.md|loan_or_credit.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.secret.md|loan_or_credit.secret]] 

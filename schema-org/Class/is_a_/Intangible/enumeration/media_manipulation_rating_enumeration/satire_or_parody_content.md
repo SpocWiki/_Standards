@@ -59,9 +59,9 @@ Audio that was created as political or humorous commentary and is presented in t
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.md|satire_or_parody_content]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.internal.md|satire_or_parody_content.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.protect.md|satire_or_parody_content.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.private.md|satire_or_parody_content.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.personal.md|satire_or_parody_content.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.secret.md|satire_or_parody_content.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.md|satire_or_parody_content]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.internal.md|satire_or_parody_content.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.protect.md|satire_or_parody_content.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.private.md|satire_or_parody_content.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.personal.md|satire_or_parody_content.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.secret.md|satire_or_parody_content.secret]] 

@@ -47,9 +47,9 @@ A collection of music tracks in playlist form.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/music_playlist.md|music_playlist]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/music_playlist.internal.md|music_playlist.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/music_playlist.protect.md|music_playlist.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/music_playlist.private.md|music_playlist.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/music_playlist.personal.md|music_playlist.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/music_playlist.secret.md|music_playlist.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/music_playlist.md|music_playlist]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/music_playlist.internal.md|music_playlist.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/music_playlist.protect.md|music_playlist.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/music_playlist.private.md|music_playlist.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/music_playlist.personal.md|music_playlist.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/music_playlist.secret.md|music_playlist.secret]] 

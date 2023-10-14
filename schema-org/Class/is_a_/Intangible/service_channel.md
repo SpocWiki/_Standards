@@ -45,9 +45,9 @@ A means for accessing a service, e.g. a government office location, web site, or
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/service_channel.md|service_channel]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/service_channel.internal.md|service_channel.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/service_channel.protect.md|service_channel.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/service_channel.private.md|service_channel.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/service_channel.personal.md|service_channel.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/service_channel.secret.md|service_channel.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/service_channel.md|service_channel]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/service_channel.internal.md|service_channel.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/service_channel.protect.md|service_channel.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/service_channel.private.md|service_channel.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/service_channel.personal.md|service_channel.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/service_channel.secret.md|service_channel.secret]] 

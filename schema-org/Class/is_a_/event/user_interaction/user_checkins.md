@@ -47,9 +47,9 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_checkins.md|user_checkins]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_checkins.internal.md|user_checkins.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_checkins.protect.md|user_checkins.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_checkins.private.md|user_checkins.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_checkins.personal.md|user_checkins.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_checkins.secret.md|user_checkins.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/event/user_interaction/user_checkins.md|user_checkins]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_checkins.internal.md|user_checkins.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_checkins.protect.md|user_checkins.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_checkins.private.md|user_checkins.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_checkins.personal.md|user_checkins.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_checkins.secret.md|user_checkins.secret]] 

@@ -47,9 +47,9 @@ An audiobook.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.md|audiobook]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.internal.md|audiobook.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.protect.md|audiobook.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.private.md|audiobook.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.personal.md|audiobook.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/audio_object/audiobook.secret.md|audiobook.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/media_object/audio_object/audiobook.md|audiobook]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/media_object/audio_object/audiobook.internal.md|audiobook.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/media_object/audio_object/audiobook.protect.md|audiobook.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/media_object/audio_object/audiobook.private.md|audiobook.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/media_object/audio_object/audiobook.personal.md|audiobook.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/media_object/audio_object/audiobook.secret.md|audiobook.secret]] 

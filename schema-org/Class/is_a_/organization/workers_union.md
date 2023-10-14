@@ -45,9 +45,9 @@ A Workers Union (also known as a Labor Union, Labour Union, or Trade Union) is a
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/workers_union.md|workers_union]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/workers_union.internal.md|workers_union.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/workers_union.protect.md|workers_union.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/workers_union.private.md|workers_union.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/workers_union.personal.md|workers_union.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/workers_union.secret.md|workers_union.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/workers_union.md|workers_union]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/workers_union.internal.md|workers_union.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/workers_union.protect.md|workers_union.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/workers_union.private.md|workers_union.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/workers_union.personal.md|workers_union.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/workers_union.secret.md|workers_union.secret]] 

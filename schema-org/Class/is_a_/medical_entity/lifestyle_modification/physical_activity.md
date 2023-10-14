@@ -47,9 +47,9 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.md|physical_activity]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.internal.md|physical_activity.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.protect.md|physical_activity.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.private.md|physical_activity.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.personal.md|physical_activity.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/lifestyle_modification/physical_activity.secret.md|physical_activity.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.md|physical_activity]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.internal.md|physical_activity.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.protect.md|physical_activity.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.private.md|physical_activity.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.personal.md|physical_activity.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.secret.md|physical_activity.secret]] 

@@ -47,9 +47,9 @@ Indicates that the item is out of stock.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/out_of_stock.md|out_of_stock]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/out_of_stock.internal.md|out_of_stock.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/out_of_stock.protect.md|out_of_stock.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/out_of_stock.private.md|out_of_stock.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/out_of_stock.personal.md|out_of_stock.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/out_of_stock.secret.md|out_of_stock.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/out_of_stock.md|out_of_stock]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/out_of_stock.internal.md|out_of_stock.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/out_of_stock.protect.md|out_of_stock.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/out_of_stock.private.md|out_of_stock.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability/out_of_stock.personal.md|out_of_stock.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability/out_of_stock.secret.md|out_of_stock.secret]] 

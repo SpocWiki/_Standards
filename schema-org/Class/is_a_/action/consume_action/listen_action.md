@@ -45,9 +45,9 @@ The act of consuming audio content.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/consume_action/listen_action.md|listen_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/listen_action.internal.md|listen_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/listen_action.protect.md|listen_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/consume_action/listen_action.private.md|listen_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/listen_action.personal.md|listen_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/listen_action.secret.md|listen_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/listen_action.md|listen_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/listen_action.internal.md|listen_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/listen_action.protect.md|listen_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/listen_action.private.md|listen_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/listen_action.personal.md|listen_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/listen_action.secret.md|listen_action.secret]] 

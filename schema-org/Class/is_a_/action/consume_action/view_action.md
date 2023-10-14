@@ -45,9 +45,9 @@ The act of consuming static visual content.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/consume_action/view_action.md|view_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/view_action.internal.md|view_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/view_action.protect.md|view_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/consume_action/view_action.private.md|view_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/view_action.personal.md|view_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/view_action.secret.md|view_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/view_action.md|view_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/view_action.internal.md|view_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/view_action.protect.md|view_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/view_action.private.md|view_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/view_action.personal.md|view_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/view_action.secret.md|view_action.secret]] 

@@ -43,9 +43,9 @@ The publication format of the book.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/book_format_type.md|book_format_type]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/book_format_type.internal.md|book_format_type.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/book_format_type.protect.md|book_format_type.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/book_format_type.private.md|book_format_type.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/book_format_type.personal.md|book_format_type.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/book_format_type.secret.md|book_format_type.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/book_format_type.md|book_format_type]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type.internal.md|book_format_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type.protect.md|book_format_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type.private.md|book_format_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/book_format_type.personal.md|book_format_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/book_format_type.secret.md|book_format_type.secret]] 

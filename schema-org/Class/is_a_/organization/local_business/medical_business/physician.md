@@ -45,9 +45,9 @@ A doctor's office.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/physician.md|physician]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/physician.internal.md|physician.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/physician.protect.md|physician.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/physician.private.md|physician.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/physician.personal.md|physician.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/physician.secret.md|physician.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/physician.md|physician]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/physician.internal.md|physician.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/physician.protect.md|physician.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/physician.private.md|physician.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/physician.personal.md|physician.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/physician.secret.md|physician.secret]] 

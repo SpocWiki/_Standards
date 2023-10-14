@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_valid_in :: AdministrativeArea] or 
+- [ #is_/valid_in :: AdministrativeArea] or 
 - [ is_valid_in :: AdministrativeArea] 
 
 The geographic area where a permit or similar thing is valid.

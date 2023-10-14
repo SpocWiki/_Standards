@@ -47,9 +47,9 @@ A branch of medicine that is involved in the dental care.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.md|dentistry]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.internal.md|dentistry.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.protect.md|dentistry.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.private.md|dentistry.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.personal.md|dentistry.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.secret.md|dentistry.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.md|dentistry]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.internal.md|dentistry.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.protect.md|dentistry.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.private.md|dentistry.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.personal.md|dentistry.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/dentistry.secret.md|dentistry.secret]] 

@@ -47,9 +47,9 @@ A single message from a sender to one or more organizations or people.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/message.md|message]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/message.internal.md|message.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/message.protect.md|message.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/message.private.md|message.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/message.personal.md|message.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/message.secret.md|message.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/message.md|message]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/message.internal.md|message.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/message.protect.md|message.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/message.private.md|message.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/message.personal.md|message.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/message.secret.md|message.secret]] 

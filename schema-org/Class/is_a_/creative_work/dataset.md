@@ -49,9 +49,9 @@ A body of structured information describing some topic(s) of interest.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/dataset.md|dataset]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/dataset.internal.md|dataset.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/dataset.protect.md|dataset.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/dataset.private.md|dataset.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/dataset.personal.md|dataset.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/dataset.secret.md|dataset.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/dataset.md|dataset]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/dataset.internal.md|dataset.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/dataset.protect.md|dataset.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/dataset.private.md|dataset.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/dataset.personal.md|dataset.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/dataset.secret.md|dataset.secret]] 

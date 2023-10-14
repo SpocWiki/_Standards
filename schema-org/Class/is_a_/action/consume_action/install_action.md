@@ -45,9 +45,9 @@ The act of installing an application.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/consume_action/install_action.md|install_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/install_action.internal.md|install_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/install_action.protect.md|install_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/consume_action/install_action.private.md|install_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/install_action.personal.md|install_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/install_action.secret.md|install_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/install_action.md|install_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/install_action.internal.md|install_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/install_action.protect.md|install_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/install_action.private.md|install_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/install_action.personal.md|install_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/install_action.secret.md|install_action.secret]] 

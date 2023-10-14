@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #is/_meeting_emission_standard :: QualitativeValue, Text, URL ] or 
+- [ #is_/meeting_emission_standard :: QualitativeValue, Text, URL ] or 
 - [ is_meeting_emission_standard :: QualitativeValue, Text, URL ] 
 
 Indicates that the vehicle meets the respective emission standard.

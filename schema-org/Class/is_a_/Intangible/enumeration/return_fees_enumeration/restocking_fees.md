@@ -49,9 +49,9 @@ Specifies that the customer must pay a restocking fee when returning a product.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.md|restocking_fees]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.internal.md|restocking_fees.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.protect.md|restocking_fees.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.private.md|restocking_fees.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.personal.md|restocking_fees.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.secret.md|restocking_fees.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.md|restocking_fees]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.internal.md|restocking_fees.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.protect.md|restocking_fees.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.private.md|restocking_fees.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.personal.md|restocking_fees.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.secret.md|restocking_fees.secret]] 

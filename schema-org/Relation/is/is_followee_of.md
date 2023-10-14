@@ -29,7 +29,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_followee_of :: Organization, Person ] or 
+- [ #is_/followee_of :: Organization, Person ] or 
 - [ is_followee_of :: Organization, Person ] 
 
 A sub property of object. The person or organization being followed.

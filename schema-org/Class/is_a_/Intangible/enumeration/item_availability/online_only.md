@@ -47,9 +47,9 @@ Indicates that the item is available only online.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.md|online_only]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.internal.md|online_only.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.protect.md|online_only.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.private.md|online_only.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.personal.md|online_only.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/online_only.secret.md|online_only.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/online_only.md|online_only]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/online_only.internal.md|online_only.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/online_only.protect.md|online_only.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/online_only.private.md|online_only.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability/online_only.personal.md|online_only.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability/online_only.secret.md|online_only.secret]] 

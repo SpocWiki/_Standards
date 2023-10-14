@@ -45,9 +45,9 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.md|brain_structure]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.internal.md|brain_structure.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.protect.md|brain_structure.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.private.md|brain_structure.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.personal.md|brain_structure.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/brain_structure.secret.md|brain_structure.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.md|brain_structure]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.internal.md|brain_structure.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.protect.md|brain_structure.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.private.md|brain_structure.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.personal.md|brain_structure.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.secret.md|brain_structure.secret]] 

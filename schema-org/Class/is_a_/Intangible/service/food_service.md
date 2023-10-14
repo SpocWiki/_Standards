@@ -45,9 +45,9 @@ A food service, like breakfast, lunch, or dinner.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/service/food_service.md|food_service]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/service/food_service.internal.md|food_service.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/service/food_service.protect.md|food_service.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/service/food_service.private.md|food_service.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/service/food_service.personal.md|food_service.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/service/food_service.secret.md|food_service.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/food_service.md|food_service]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/food_service.internal.md|food_service.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/food_service.protect.md|food_service.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/food_service.private.md|food_service.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/food_service.personal.md|food_service.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/food_service.secret.md|food_service.secret]] 

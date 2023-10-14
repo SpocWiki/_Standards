@@ -49,9 +49,9 @@ An image file.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/image_object.md|image_object]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/image_object.internal.md|image_object.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/image_object.protect.md|image_object.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/image_object.private.md|image_object.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/image_object.personal.md|image_object.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/image_object.secret.md|image_object.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/media_object/image_object.md|image_object]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/media_object/image_object.internal.md|image_object.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/media_object/image_object.protect.md|image_object.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/media_object/image_object.private.md|image_object.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/media_object/image_object.personal.md|image_object.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/media_object/image_object.secret.md|image_object.secret]] 

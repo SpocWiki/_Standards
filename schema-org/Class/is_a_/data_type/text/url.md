@@ -43,9 +43,9 @@ Data type: URL.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/data_type/text/url.md|url]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/data_type/text/url.internal.md|url.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/data_type/text/url.protect.md|url.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/data_type/text/url.private.md|url.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/data_type/text/url.personal.md|url.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/data_type/text/url.secret.md|url.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/data_type/text/url.md|url]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/url.internal.md|url.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/text/url.protect.md|url.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/data_type/text/url.private.md|url.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/text/url.personal.md|url.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/text/url.secret.md|url.secret]] 

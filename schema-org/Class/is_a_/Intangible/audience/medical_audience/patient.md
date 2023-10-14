@@ -47,9 +47,9 @@ A patient is any person recipient of health care services.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.md|patient]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.internal.md|patient.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.protect.md|patient.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.private.md|patient.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.personal.md|patient.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/medical_audience/patient.secret.md|patient.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.md|patient]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.internal.md|patient.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.protect.md|patient.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.private.md|patient.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.personal.md|patient.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.secret.md|patient.secret]] 

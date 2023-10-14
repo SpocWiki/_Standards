@@ -47,9 +47,9 @@ The airline boards by groups based on check-in time, priority, etc.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.md|group_boarding_policy]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.internal.md|group_boarding_policy.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.protect.md|group_boarding_policy.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.private.md|group_boarding_policy.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.personal.md|group_boarding_policy.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.secret.md|group_boarding_policy.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.md|group_boarding_policy]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.internal.md|group_boarding_policy.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.protect.md|group_boarding_policy.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.private.md|group_boarding_policy.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.personal.md|group_boarding_policy.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.secret.md|group_boarding_policy.secret]] 

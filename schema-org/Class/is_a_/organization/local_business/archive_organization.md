@@ -47,9 +47,9 @@ An organization with archival holdings. An organization which keeps and preserve
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/archive_organization.md|archive_organization]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/archive_organization.internal.md|archive_organization.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/archive_organization.protect.md|archive_organization.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/archive_organization.private.md|archive_organization.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/archive_organization.personal.md|archive_organization.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/archive_organization.secret.md|archive_organization.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/archive_organization.md|archive_organization]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/archive_organization.internal.md|archive_organization.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/archive_organization.protect.md|archive_organization.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/archive_organization.private.md|archive_organization.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/archive_organization.personal.md|archive_organization.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/archive_organization.secret.md|archive_organization.secret]] 

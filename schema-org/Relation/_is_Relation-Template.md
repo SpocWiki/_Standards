@@ -36,7 +36,7 @@ aliases:
 [ #is_/part_of :: {{isPartOf}}]
 
 Use it like this: 
-- [ #is/_{{label_snail}} :: {{rangeIncludes}}] or 
+- [ #is_/{{label_snail}} :: {{rangeIncludes}}] or 
 - [ is_{{label_snail}} :: {{rangeIncludes}}] 
 
 {{comment}}

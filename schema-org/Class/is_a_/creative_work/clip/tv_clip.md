@@ -45,9 +45,9 @@ A short TV program or a segment/part of a TV program.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/clip/tv_clip.md|tv_clip]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/clip/tv_clip.internal.md|tv_clip.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/clip/tv_clip.protect.md|tv_clip.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/clip/tv_clip.private.md|tv_clip.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/clip/tv_clip.personal.md|tv_clip.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/clip/tv_clip.secret.md|tv_clip.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/clip/tv_clip.md|tv_clip]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/clip/tv_clip.internal.md|tv_clip.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/clip/tv_clip.protect.md|tv_clip.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/clip/tv_clip.private.md|tv_clip.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/clip/tv_clip.personal.md|tv_clip.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/clip/tv_clip.secret.md|tv_clip.secret]] 

@@ -49,9 +49,9 @@ A schedule defines a repeating time period used to describe a regularly occurrin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/schedule.md|schedule]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/schedule.internal.md|schedule.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/schedule.protect.md|schedule.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/schedule.private.md|schedule.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/schedule.personal.md|schedule.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/schedule.secret.md|schedule.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/schedule.md|schedule]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/schedule.internal.md|schedule.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/schedule.protect.md|schedule.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/schedule.private.md|schedule.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/schedule.personal.md|schedule.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/schedule.secret.md|schedule.secret]] 

@@ -41,9 +41,9 @@ Structured values are used when the value of a property has a more complex struc
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/structured_value.md|structured_value]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value.internal.md|structured_value.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value.protect.md|structured_value.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/structured_value.private.md|structured_value.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value.personal.md|structured_value.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value.secret.md|structured_value.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/structured_value.md|structured_value]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value.internal.md|structured_value.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value.protect.md|structured_value.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/structured_value.private.md|structured_value.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value.personal.md|structured_value.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value.secret.md|structured_value.secret]] 

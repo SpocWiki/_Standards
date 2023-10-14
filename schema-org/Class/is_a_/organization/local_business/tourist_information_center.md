@@ -45,9 +45,9 @@ A tourist information center.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/tourist_information_center.md|tourist_information_center]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/tourist_information_center.internal.md|tourist_information_center.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/tourist_information_center.protect.md|tourist_information_center.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/tourist_information_center.private.md|tourist_information_center.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/tourist_information_center.personal.md|tourist_information_center.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/tourist_information_center.secret.md|tourist_information_center.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/tourist_information_center.md|tourist_information_center]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/tourist_information_center.internal.md|tourist_information_center.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/tourist_information_center.protect.md|tourist_information_center.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/tourist_information_center.private.md|tourist_information_center.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/tourist_information_center.personal.md|tourist_information_center.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/tourist_information_center.secret.md|tourist_information_center.secret]] 

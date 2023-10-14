@@ -34,7 +34,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/experience_in_place_of_education 
+#is/_experience_in_place_of_education 
 #is_not_/experience_in_place_of_education 
 
 Or write it as a Triple: 

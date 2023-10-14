@@ -45,9 +45,9 @@ A supply consumed when performing the instructions for how to achieve a result.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.md|how_to_supply]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.internal.md|how_to_supply.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.protect.md|how_to_supply.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.private.md|how_to_supply.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.personal.md|how_to_supply.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_supply.secret.md|how_to_supply.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_supply.md|how_to_supply]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_supply.internal.md|how_to_supply.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_supply.protect.md|how_to_supply.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_supply.private.md|how_to_supply.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_supply.personal.md|how_to_supply.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_supply.secret.md|how_to_supply.secret]] 

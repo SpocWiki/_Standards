@@ -45,9 +45,9 @@ A musical composition.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/music_composition.md|music_composition]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/music_composition.internal.md|music_composition.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/music_composition.protect.md|music_composition.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/music_composition.private.md|music_composition.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/music_composition.personal.md|music_composition.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/music_composition.secret.md|music_composition.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/music_composition.md|music_composition]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/music_composition.internal.md|music_composition.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/music_composition.protect.md|music_composition.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/music_composition.private.md|music_composition.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/music_composition.personal.md|music_composition.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/music_composition.secret.md|music_composition.secret]] 

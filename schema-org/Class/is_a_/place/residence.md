@@ -47,9 +47,9 @@ The place where a person lives.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/place/residence.md|residence]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/place/residence.internal.md|residence.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/place/residence.protect.md|residence.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/place/residence.private.md|residence.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/place/residence.personal.md|residence.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/place/residence.secret.md|residence.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/place/residence.md|residence]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/place/residence.internal.md|residence.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/place/residence.protect.md|residence.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/place/residence.private.md|residence.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/place/residence.personal.md|residence.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/place/residence.secret.md|residence.secret]] 

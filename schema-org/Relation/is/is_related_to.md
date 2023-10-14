@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_related_to :: Product, Service] or 
+- [ #is_/related_to :: Product, Service] or 
 - [ is_related_to :: Product, Service] 
 
 A pointer to another, somehow related product (or multiple products).

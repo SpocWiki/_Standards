@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_acquired_from :: Organization, Person ] or 
+- [ #is_/acquired_from :: Organization, Person ] or 
 - [ is_acquired_from :: Organization, Person ] 
 
 The organization or person from which the product was acquired.

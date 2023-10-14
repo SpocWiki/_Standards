@@ -45,9 +45,9 @@ The act of taking money from a buyer in exchange for goods or services rendered.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/trade_action/sell_action.md|sell_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/sell_action.internal.md|sell_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/sell_action.protect.md|sell_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/trade_action/sell_action.private.md|sell_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/sell_action.personal.md|sell_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/sell_action.secret.md|sell_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/sell_action.md|sell_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/sell_action.internal.md|sell_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/sell_action.protect.md|sell_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/sell_action.private.md|sell_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/trade_action/sell_action.personal.md|sell_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/trade_action/sell_action.secret.md|sell_action.secret]] 

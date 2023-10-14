@@ -47,9 +47,9 @@ An emergency service, such as a fire station or ER.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/emergency_service.md|emergency_service]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/emergency_service.internal.md|emergency_service.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/emergency_service.protect.md|emergency_service.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/emergency_service.private.md|emergency_service.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/emergency_service.personal.md|emergency_service.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/emergency_service.secret.md|emergency_service.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/emergency_service.md|emergency_service]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/emergency_service.internal.md|emergency_service.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/emergency_service.protect.md|emergency_service.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/emergency_service.private.md|emergency_service.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/emergency_service.personal.md|emergency_service.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/emergency_service.secret.md|emergency_service.secret]] 

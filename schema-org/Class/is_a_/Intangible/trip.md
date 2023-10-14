@@ -47,9 +47,9 @@ A trip or journey. An itinerary of visits to one or more places.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/trip.md|trip]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/trip.internal.md|trip.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/trip.protect.md|trip.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/trip.private.md|trip.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/trip.personal.md|trip.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/trip.secret.md|trip.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/trip.md|trip]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/trip.internal.md|trip.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/trip.protect.md|trip.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/trip.private.md|trip.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/trip.personal.md|trip.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/trip.secret.md|trip.secret]] 

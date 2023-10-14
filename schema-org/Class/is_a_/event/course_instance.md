@@ -45,9 +45,9 @@ An instance of a <a class="localLink" href="/Course">Course</a> which is distinc
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/course_instance.md|course_instance]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/course_instance.internal.md|course_instance.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/course_instance.protect.md|course_instance.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/course_instance.private.md|course_instance.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/course_instance.personal.md|course_instance.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/course_instance.secret.md|course_instance.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/course_instance.md|course_instance]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/course_instance.internal.md|course_instance.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/course_instance.protect.md|course_instance.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/course_instance.private.md|course_instance.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/course_instance.personal.md|course_instance.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/course_instance.secret.md|course_instance.secret]] 

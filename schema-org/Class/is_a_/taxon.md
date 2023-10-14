@@ -46,9 +46,9 @@ Tag Instances like this:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Type/is_a_/taxon.md|taxon]] 
-- [[../../../../_internal/schema.org/Type/is_a_/taxon.internal.md|taxon.internal]] 
-- [[../../../../_protect/schema.org/Type/is_a_/taxon.protect.md|taxon.protect]] 
-- [[../../../../_private/schema.org/Type/is_a_/taxon.private.md|taxon.private]] 
-- [[../../../../_personal/schema.org/Type/is_a_/taxon.personal.md|taxon.personal]] 
-- [[../../../../_secret/schema.org/Type/is_a_/taxon.secret.md|taxon.secret]] 
+- [[../../../../_public/schema.org/Class/is_a_/taxon.md|taxon]] 
+- [[../../../../_internal/schema.org/Class/is_a_/taxon.internal.md|taxon.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/taxon.protect.md|taxon.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/taxon.private.md|taxon.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/taxon.personal.md|taxon.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/taxon.secret.md|taxon.secret]] 

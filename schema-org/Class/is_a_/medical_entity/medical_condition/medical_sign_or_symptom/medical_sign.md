@@ -47,9 +47,9 @@ Any physical manifestation of a person's medical condition discoverable by objec
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.md|medical_sign]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.internal.md|medical_sign.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.protect.md|medical_sign.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.private.md|medical_sign.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.personal.md|medical_sign.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.secret.md|medical_sign.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.md|medical_sign]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.internal.md|medical_sign.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.protect.md|medical_sign.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.private.md|medical_sign.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.personal.md|medical_sign.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign.secret.md|medical_sign.secret]] 

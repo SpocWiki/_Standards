@@ -45,9 +45,9 @@ An agent quotes/estimates/appraises an object/product/service with a price at a 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/trade_action/quote_action.md|quote_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/quote_action.internal.md|quote_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/quote_action.protect.md|quote_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/trade_action/quote_action.private.md|quote_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/quote_action.personal.md|quote_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/quote_action.secret.md|quote_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/quote_action.md|quote_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/quote_action.internal.md|quote_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/quote_action.protect.md|quote_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/quote_action.private.md|quote_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/trade_action/quote_action.personal.md|quote_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/trade_action/quote_action.secret.md|quote_action.secret]] 

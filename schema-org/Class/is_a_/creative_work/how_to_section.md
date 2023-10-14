@@ -45,9 +45,9 @@ A sub-grouping of steps in the instructions for how to achieve a result (e.g. st
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/how_to_section.md|how_to_section]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to_section.internal.md|how_to_section.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to_section.protect.md|how_to_section.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/how_to_section.private.md|how_to_section.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to_section.personal.md|how_to_section.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to_section.secret.md|how_to_section.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/how_to_section.md|how_to_section]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/how_to_section.internal.md|how_to_section.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/how_to_section.protect.md|how_to_section.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/how_to_section.private.md|how_to_section.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/how_to_section.personal.md|how_to_section.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/how_to_section.secret.md|how_to_section.secret]] 

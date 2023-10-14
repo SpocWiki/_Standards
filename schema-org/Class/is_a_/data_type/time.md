@@ -41,9 +41,9 @@ A point in time recurring on multiple days in the form hh:mm:ss[Z|(+|-)hh:mm] (s
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/data_type/time.md|time]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/data_type/time.internal.md|time.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/data_type/time.protect.md|time.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/data_type/time.private.md|time.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/data_type/time.personal.md|time.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/data_type/time.secret.md|time.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/data_type/time.md|time]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/data_type/time.internal.md|time.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/data_type/time.protect.md|time.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/data_type/time.private.md|time.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/data_type/time.personal.md|time.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/data_type/time.secret.md|time.secret]] 

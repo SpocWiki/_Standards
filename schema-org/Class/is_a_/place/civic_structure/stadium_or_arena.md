@@ -45,9 +45,9 @@ A stadium.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.md|stadium_or_arena]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.internal.md|stadium_or_arena.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.protect.md|stadium_or_arena.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.private.md|stadium_or_arena.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.personal.md|stadium_or_arena.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/stadium_or_arena.secret.md|stadium_or_arena.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/stadium_or_arena.md|stadium_or_arena]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/stadium_or_arena.internal.md|stadium_or_arena.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/stadium_or_arena.protect.md|stadium_or_arena.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/stadium_or_arena.private.md|stadium_or_arena.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/stadium_or_arena.personal.md|stadium_or_arena.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/stadium_or_arena.secret.md|stadium_or_arena.secret]] 

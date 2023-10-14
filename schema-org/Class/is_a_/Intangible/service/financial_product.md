@@ -47,9 +47,9 @@ A product provided to consumers and businesses by financial institutions such as
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product.md|financial_product]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product.internal.md|financial_product.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product.protect.md|financial_product.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product.private.md|financial_product.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product.personal.md|financial_product.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product.secret.md|financial_product.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product.md|financial_product]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product.internal.md|financial_product.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product.protect.md|financial_product.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product.private.md|financial_product.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product.personal.md|financial_product.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product.secret.md|financial_product.secret]] 

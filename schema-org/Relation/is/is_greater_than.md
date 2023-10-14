@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_greater_than :: QualitativeValue ] or 
+- [ #is_/greater_than :: QualitativeValue ] or 
 - [ is_greater_than :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is greater than the object.

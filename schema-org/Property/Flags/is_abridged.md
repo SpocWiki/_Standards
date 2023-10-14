@@ -34,7 +34,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/abridged 
+#is/_abridged 
 #is_not_/abridged 
 
 Or write it as a Triple: 

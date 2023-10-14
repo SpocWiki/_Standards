@@ -45,9 +45,9 @@ Enumerates the EU energy efficiency classes A-G as well as A+, A++, and A+++ as 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.md|eu_energy_efficiency_enumeration]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.internal.md|eu_energy_efficiency_enumeration.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.protect.md|eu_energy_efficiency_enumeration.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.private.md|eu_energy_efficiency_enumeration.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.personal.md|eu_energy_efficiency_enumeration.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.secret.md|eu_energy_efficiency_enumeration.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.md|eu_energy_efficiency_enumeration]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.internal.md|eu_energy_efficiency_enumeration.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.protect.md|eu_energy_efficiency_enumeration.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.private.md|eu_energy_efficiency_enumeration.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.personal.md|eu_energy_efficiency_enumeration.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration.secret.md|eu_energy_efficiency_enumeration.secret]] 

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending:]
 
 Use it like this: 
-- [ #is/_holding_archive :: ArchiveOrganization] or 
+- [ #is_/holding_archive :: ArchiveOrganization] or 
 - [ is_holding_archive :: ArchiveOrganization] 
 
 [[ArchiveOrganization]] that holds, keeps or maintains the [[ArchiveComponent]].

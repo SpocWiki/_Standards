@@ -45,9 +45,9 @@ An event venue.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/event_venue.md|event_venue]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/event_venue.internal.md|event_venue.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/event_venue.protect.md|event_venue.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/event_venue.private.md|event_venue.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/event_venue.personal.md|event_venue.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/event_venue.secret.md|event_venue.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/event_venue.md|event_venue]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/event_venue.internal.md|event_venue.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/event_venue.protect.md|event_venue.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/event_venue.private.md|event_venue.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/event_venue.personal.md|event_venue.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/event_venue.secret.md|event_venue.secret]] 

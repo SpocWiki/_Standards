@@ -45,9 +45,9 @@ An historical landmark or building.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/place/landmarks_or_historical_buildings.md|landmarks_or_historical_buildings]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/place/landmarks_or_historical_buildings.internal.md|landmarks_or_historical_buildings.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/place/landmarks_or_historical_buildings.protect.md|landmarks_or_historical_buildings.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/place/landmarks_or_historical_buildings.private.md|landmarks_or_historical_buildings.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/place/landmarks_or_historical_buildings.personal.md|landmarks_or_historical_buildings.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/place/landmarks_or_historical_buildings.secret.md|landmarks_or_historical_buildings.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.md|landmarks_or_historical_buildings]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.internal.md|landmarks_or_historical_buildings.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.protect.md|landmarks_or_historical_buildings.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.private.md|landmarks_or_historical_buildings.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.personal.md|landmarks_or_historical_buildings.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.secret.md|landmarks_or_historical_buildings.secret]] 

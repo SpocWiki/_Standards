@@ -45,9 +45,9 @@ An outlet store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/outlet_store.md|outlet_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/outlet_store.internal.md|outlet_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/outlet_store.protect.md|outlet_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/outlet_store.private.md|outlet_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/outlet_store.personal.md|outlet_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/outlet_store.secret.md|outlet_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/outlet_store.md|outlet_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/outlet_store.internal.md|outlet_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/outlet_store.protect.md|outlet_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/outlet_store.private.md|outlet_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/outlet_store.personal.md|outlet_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/outlet_store.secret.md|outlet_store.secret]] 

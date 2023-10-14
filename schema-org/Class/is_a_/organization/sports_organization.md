@@ -47,9 +47,9 @@ Represents the collection of all sports organizations, including sports teams, g
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/sports_organization.md|sports_organization]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/sports_organization.internal.md|sports_organization.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/sports_organization.protect.md|sports_organization.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/sports_organization.private.md|sports_organization.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/sports_organization.personal.md|sports_organization.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/sports_organization.secret.md|sports_organization.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/sports_organization.md|sports_organization]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/sports_organization.internal.md|sports_organization.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/sports_organization.protect.md|sports_organization.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/sports_organization.private.md|sports_organization.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/sports_organization.personal.md|sports_organization.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/sports_organization.secret.md|sports_organization.secret]] 

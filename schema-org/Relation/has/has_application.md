@@ -41,7 +41,7 @@ An application that can complete the request.
 Relation describes that: 
 [ #has_/domain  :: EntryPoint ]
 ( #has_/name :: has_application )
-( #has_/range :: [[../../../Type/is_a_thing/creative_work/software_application]] )
+( #has_/range :: [[../../../Class/is_a_thing/creative_work/software_application]] )
 
 
 

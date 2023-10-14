@@ -45,9 +45,9 @@ A car rental business.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.md|auto_rental]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.internal.md|auto_rental.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.protect.md|auto_rental.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.private.md|auto_rental.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.personal.md|auto_rental.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_rental.secret.md|auto_rental.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.md|auto_rental]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.internal.md|auto_rental.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.protect.md|auto_rental.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.private.md|auto_rental.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.personal.md|auto_rental.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.secret.md|auto_rental.secret]] 

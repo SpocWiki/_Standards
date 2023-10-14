@@ -45,9 +45,9 @@ A structured value providing information about when a certain organization or pe
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/ownership_info.md|ownership_info]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/ownership_info.internal.md|ownership_info.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/ownership_info.protect.md|ownership_info.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/ownership_info.private.md|ownership_info.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/ownership_info.personal.md|ownership_info.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/ownership_info.secret.md|ownership_info.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/ownership_info.md|ownership_info]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/ownership_info.internal.md|ownership_info.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/ownership_info.protect.md|ownership_info.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/ownership_info.private.md|ownership_info.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/ownership_info.personal.md|ownership_info.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/ownership_info.secret.md|ownership_info.secret]] 

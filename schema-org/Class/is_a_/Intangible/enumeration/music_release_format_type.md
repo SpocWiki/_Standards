@@ -43,9 +43,9 @@ Format of this release (the type of recording media used, i.e. compact disc, dig
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type.md|music_release_format_type]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type.internal.md|music_release_format_type.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type.protect.md|music_release_format_type.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type.private.md|music_release_format_type.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type.personal.md|music_release_format_type.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type.secret.md|music_release_format_type.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.md|music_release_format_type]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.internal.md|music_release_format_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.protect.md|music_release_format_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.private.md|music_release_format_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.personal.md|music_release_format_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.secret.md|music_release_format_type.secret]] 

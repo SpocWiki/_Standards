@@ -45,9 +45,9 @@ USNonprofitType: Non-profit organization type originating from the United States
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.md|us_nonprofit_type]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.internal.md|us_nonprofit_type.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.protect.md|us_nonprofit_type.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.private.md|us_nonprofit_type.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.personal.md|us_nonprofit_type.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.secret.md|us_nonprofit_type.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.md|us_nonprofit_type]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.internal.md|us_nonprofit_type.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.protect.md|us_nonprofit_type.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.private.md|us_nonprofit_type.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.personal.md|us_nonprofit_type.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.secret.md|us_nonprofit_type.secret]] 

@@ -45,9 +45,9 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.md|diagnostic_procedure]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.internal.md|diagnostic_procedure.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.protect.md|diagnostic_procedure.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.private.md|diagnostic_procedure.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.personal.md|diagnostic_procedure.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure/diagnostic_procedure.secret.md|diagnostic_procedure.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.md|diagnostic_procedure]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.internal.md|diagnostic_procedure.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.protect.md|diagnostic_procedure.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.private.md|diagnostic_procedure.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.personal.md|diagnostic_procedure.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_procedure/diagnostic_procedure.secret.md|diagnostic_procedure.secret]] 

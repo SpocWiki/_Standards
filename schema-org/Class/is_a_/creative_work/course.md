@@ -45,9 +45,9 @@ A description of an educational course which may be offered as distinct instance
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/course.md|course]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/course.internal.md|course.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/course.protect.md|course.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/course.private.md|course.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/course.personal.md|course.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/course.secret.md|course.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/course.md|course]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/course.internal.md|course.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/course.protect.md|course.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/course.private.md|course.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/course.personal.md|course.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/course.secret.md|course.secret]] 

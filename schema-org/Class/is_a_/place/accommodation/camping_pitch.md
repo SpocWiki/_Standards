@@ -50,9 +50,9 @@ See also the dedicated <a href="/docs/hotels.html">document on the use of schema
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/accommodation/camping_pitch.md|camping_pitch]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/camping_pitch.internal.md|camping_pitch.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/camping_pitch.protect.md|camping_pitch.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/accommodation/camping_pitch.private.md|camping_pitch.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/camping_pitch.personal.md|camping_pitch.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/camping_pitch.secret.md|camping_pitch.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/accommodation/camping_pitch.md|camping_pitch]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/camping_pitch.internal.md|camping_pitch.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/camping_pitch.protect.md|camping_pitch.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/accommodation/camping_pitch.private.md|camping_pitch.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/camping_pitch.personal.md|camping_pitch.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/camping_pitch.secret.md|camping_pitch.secret]] 

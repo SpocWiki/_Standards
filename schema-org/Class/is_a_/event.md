@@ -49,9 +49,9 @@ An event happening at a certain time and location, such as a concert, lecture, o
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Type/is_a_/event.md|event]] 
-- [[../../../../_internal/schema.org/Type/is_a_/event.internal.md|event.internal]] 
-- [[../../../../_protect/schema.org/Type/is_a_/event.protect.md|event.protect]] 
-- [[../../../../_private/schema.org/Type/is_a_/event.private.md|event.private]] 
-- [[../../../../_personal/schema.org/Type/is_a_/event.personal.md|event.personal]] 
-- [[../../../../_secret/schema.org/Type/is_a_/event.secret.md|event.secret]] 
+- [[../../../../_public/schema.org/Class/is_a_/event.md|event]] 
+- [[../../../../_internal/schema.org/Class/is_a_/event.internal.md|event.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/event.protect.md|event.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/event.private.md|event.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/event.personal.md|event.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/event.secret.md|event.secret]] 

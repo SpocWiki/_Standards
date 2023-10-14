@@ -45,9 +45,9 @@ An email message.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/message/email_message.md|email_message]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/message/email_message.internal.md|email_message.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/message/email_message.protect.md|email_message.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/message/email_message.private.md|email_message.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/message/email_message.personal.md|email_message.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/message/email_message.secret.md|email_message.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/message/email_message.md|email_message]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/message/email_message.internal.md|email_message.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/message/email_message.protect.md|email_message.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/message/email_message.private.md|email_message.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/message/email_message.personal.md|email_message.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/message/email_message.secret.md|email_message.secret]] 

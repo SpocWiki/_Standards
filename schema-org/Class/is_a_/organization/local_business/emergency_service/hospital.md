@@ -45,9 +45,9 @@ A hospital.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.md|hospital]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.internal.md|hospital.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.protect.md|hospital.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.private.md|hospital.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.personal.md|hospital.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/emergency_service/hospital.secret.md|hospital.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/emergency_service/hospital.md|hospital]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/emergency_service/hospital.internal.md|hospital.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/emergency_service/hospital.protect.md|hospital.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/emergency_service/hospital.private.md|hospital.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/emergency_service/hospital.personal.md|hospital.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/emergency_service/hospital.secret.md|hospital.secret]] 

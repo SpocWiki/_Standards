@@ -45,9 +45,9 @@ The act of discovering/finding an object.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/find_action/discover_action.md|discover_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/find_action/discover_action.internal.md|discover_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/find_action/discover_action.protect.md|discover_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/find_action/discover_action.private.md|discover_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/find_action/discover_action.personal.md|discover_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/find_action/discover_action.secret.md|discover_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/find_action/discover_action.md|discover_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/find_action/discover_action.internal.md|discover_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/find_action/discover_action.protect.md|discover_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/find_action/discover_action.private.md|discover_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/find_action/discover_action.personal.md|discover_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/find_action/discover_action.secret.md|discover_action.secret]] 

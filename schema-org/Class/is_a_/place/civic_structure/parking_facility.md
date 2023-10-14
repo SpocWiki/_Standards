@@ -45,9 +45,9 @@ A parking lot or other parking facility.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/parking_facility.md|parking_facility]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/parking_facility.internal.md|parking_facility.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/parking_facility.protect.md|parking_facility.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/parking_facility.private.md|parking_facility.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/parking_facility.personal.md|parking_facility.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/parking_facility.secret.md|parking_facility.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/parking_facility.md|parking_facility]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/parking_facility.internal.md|parking_facility.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/parking_facility.protect.md|parking_facility.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/parking_facility.private.md|parking_facility.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/parking_facility.personal.md|parking_facility.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/parking_facility.secret.md|parking_facility.secret]] 

@@ -45,9 +45,9 @@ A car wash business.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.md|auto_wash]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.internal.md|auto_wash.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.protect.md|auto_wash.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.private.md|auto_wash.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.personal.md|auto_wash.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_wash.secret.md|auto_wash.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.md|auto_wash]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.internal.md|auto_wash.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.protect.md|auto_wash.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.private.md|auto_wash.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.personal.md|auto_wash.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_wash.secret.md|auto_wash.secret]] 

@@ -47,9 +47,9 @@ An <a class="localLink" href="/Article">Article</a> that an external entity has 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.md|advertiser_content_article]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.internal.md|advertiser_content_article.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.protect.md|advertiser_content_article.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.private.md|advertiser_content_article.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.personal.md|advertiser_content_article.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/advertiser_content_article.secret.md|advertiser_content_article.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/article/advertiser_content_article.md|advertiser_content_article]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/article/advertiser_content_article.internal.md|advertiser_content_article.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/article/advertiser_content_article.protect.md|advertiser_content_article.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/article/advertiser_content_article.private.md|advertiser_content_article.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/article/advertiser_content_article.personal.md|advertiser_content_article.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/article/advertiser_content_article.secret.md|advertiser_content_article.secret]] 

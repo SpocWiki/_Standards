@@ -47,9 +47,9 @@ Note: AggregateOffers are normally expected to associate multiple offers that al
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/offer/aggregate_offer.md|aggregate_offer]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/offer/aggregate_offer.internal.md|aggregate_offer.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/offer/aggregate_offer.protect.md|aggregate_offer.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/offer/aggregate_offer.private.md|aggregate_offer.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/offer/aggregate_offer.personal.md|aggregate_offer.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/offer/aggregate_offer.secret.md|aggregate_offer.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/offer/aggregate_offer.md|aggregate_offer]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/offer/aggregate_offer.internal.md|aggregate_offer.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/offer/aggregate_offer.protect.md|aggregate_offer.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/offer/aggregate_offer.private.md|aggregate_offer.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/offer/aggregate_offer.personal.md|aggregate_offer.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/offer/aggregate_offer.secret.md|aggregate_offer.secret]] 

@@ -47,9 +47,9 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/energy_consumption_details.md|energy_consumption_details]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/energy_consumption_details.internal.md|energy_consumption_details.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/energy_consumption_details.protect.md|energy_consumption_details.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/energy_consumption_details.private.md|energy_consumption_details.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/energy_consumption_details.personal.md|energy_consumption_details.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/energy_consumption_details.secret.md|energy_consumption_details.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/energy_consumption_details.md|energy_consumption_details]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/energy_consumption_details.internal.md|energy_consumption_details.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/energy_consumption_details.protect.md|energy_consumption_details.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/energy_consumption_details.private.md|energy_consumption_details.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/energy_consumption_details.personal.md|energy_consumption_details.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/energy_consumption_details.secret.md|energy_consumption_details.secret]] 

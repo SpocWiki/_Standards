@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/reservation_accepted 
+#is/_reservation_accepted 
 #is_not_/reservation_accepted 
 
 Or write it as a Triple: 

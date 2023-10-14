@@ -45,9 +45,9 @@ A crematorium.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/crematorium.md|crematorium]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/crematorium.internal.md|crematorium.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/crematorium.protect.md|crematorium.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/crematorium.private.md|crematorium.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/crematorium.personal.md|crematorium.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/crematorium.secret.md|crematorium.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/crematorium.md|crematorium]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/crematorium.internal.md|crematorium.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/crematorium.protect.md|crematorium.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/crematorium.private.md|crematorium.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/crematorium.personal.md|crematorium.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/crematorium.secret.md|crematorium.secret]] 

@@ -47,9 +47,9 @@ A thesis or dissertation document submitted in support of candidature for an aca
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/thesis.md|thesis]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/thesis.internal.md|thesis.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/thesis.protect.md|thesis.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/thesis.private.md|thesis.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/thesis.personal.md|thesis.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/thesis.secret.md|thesis.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/thesis.md|thesis]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/thesis.internal.md|thesis.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/thesis.protect.md|thesis.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/thesis.private.md|thesis.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/thesis.personal.md|thesis.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/thesis.secret.md|thesis.secret]] 

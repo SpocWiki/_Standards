@@ -49,9 +49,9 @@ See also the <a href="/docs/hotels.html">dedicated document on the use of schema
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/accommodation/room.md|room]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/room.internal.md|room.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/room.protect.md|room.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/accommodation/room.private.md|room.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/room.personal.md|room.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/room.secret.md|room.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/accommodation/room.md|room]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/room.internal.md|room.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/room.protect.md|room.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/accommodation/room.private.md|room.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/room.personal.md|room.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/room.secret.md|room.secret]] 

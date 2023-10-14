@@ -52,9 +52,9 @@ Individual comic issues are serially published as
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.md|comic_issue]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.internal.md|comic_issue.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.protect.md|comic_issue.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.private.md|comic_issue.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.personal.md|comic_issue.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/publication_issue/comic_issue.secret.md|comic_issue.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/publication_issue/comic_issue.md|comic_issue]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/publication_issue/comic_issue.internal.md|comic_issue.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/publication_issue/comic_issue.protect.md|comic_issue.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/publication_issue/comic_issue.private.md|comic_issue.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/publication_issue/comic_issue.personal.md|comic_issue.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/publication_issue/comic_issue.secret.md|comic_issue.secret]] 

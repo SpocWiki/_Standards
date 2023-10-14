@@ -45,9 +45,9 @@ Fitness-related activity designed for a specific health-related purpose, includi
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/exercise_plan.md|exercise_plan]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/exercise_plan.internal.md|exercise_plan.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/exercise_plan.protect.md|exercise_plan.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/exercise_plan.private.md|exercise_plan.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/exercise_plan.personal.md|exercise_plan.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/exercise_plan.secret.md|exercise_plan.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/exercise_plan.md|exercise_plan]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/exercise_plan.internal.md|exercise_plan.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/exercise_plan.protect.md|exercise_plan.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/exercise_plan.private.md|exercise_plan.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/exercise_plan.personal.md|exercise_plan.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/exercise_plan.secret.md|exercise_plan.secret]] 

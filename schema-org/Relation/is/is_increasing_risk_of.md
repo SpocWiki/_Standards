@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_increasing_risk_of :: MedicalEntity] or 
+- [ #is_/increasing_risk_of :: MedicalEntity] or 
 - [ is_increasing_risk_of :: MedicalEntity] 
 
 The condition, complication, etc. influenced by this factor.

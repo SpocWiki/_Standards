@@ -47,9 +47,9 @@ An AnalysisNewsArticle is a <a class="localLink" href="/NewsArticle">NewsArticle
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/creative_work/article/news_article/analysis_news_article.md|analysis_news_article]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/news_article/analysis_news_article.internal.md|analysis_news_article.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/news_article/analysis_news_article.protect.md|analysis_news_article.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/creative_work/article/news_article/analysis_news_article.private.md|analysis_news_article.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/news_article/analysis_news_article.personal.md|analysis_news_article.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/news_article/analysis_news_article.secret.md|analysis_news_article.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/article/news_article/analysis_news_article.md|analysis_news_article]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/article/news_article/analysis_news_article.internal.md|analysis_news_article.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/article/news_article/analysis_news_article.protect.md|analysis_news_article.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/article/news_article/analysis_news_article.private.md|analysis_news_article.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/article/news_article/analysis_news_article.personal.md|analysis_news_article.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/article/news_article/analysis_news_article.secret.md|analysis_news_article.secret]] 

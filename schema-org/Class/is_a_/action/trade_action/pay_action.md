@@ -45,9 +45,9 @@ An agent pays a price to a participant.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/trade_action/pay_action.md|pay_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/pay_action.internal.md|pay_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/pay_action.protect.md|pay_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/trade_action/pay_action.private.md|pay_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/pay_action.personal.md|pay_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/pay_action.secret.md|pay_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/pay_action.md|pay_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/pay_action.internal.md|pay_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/pay_action.protect.md|pay_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/pay_action.private.md|pay_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/trade_action/pay_action.personal.md|pay_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/trade_action/pay_action.secret.md|pay_action.secret]] 

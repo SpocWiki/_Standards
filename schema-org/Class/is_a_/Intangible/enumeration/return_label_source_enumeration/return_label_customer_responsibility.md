@@ -49,9 +49,9 @@ Indicated that creating a return label is the responsibility of the customer.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.md|return_label_customer_responsibility]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.internal.md|return_label_customer_responsibility.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.protect.md|return_label_customer_responsibility.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.private.md|return_label_customer_responsibility.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.personal.md|return_label_customer_responsibility.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.secret.md|return_label_customer_responsibility.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.md|return_label_customer_responsibility]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.internal.md|return_label_customer_responsibility.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.protect.md|return_label_customer_responsibility.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.private.md|return_label_customer_responsibility.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.personal.md|return_label_customer_responsibility.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.secret.md|return_label_customer_responsibility.secret]] 

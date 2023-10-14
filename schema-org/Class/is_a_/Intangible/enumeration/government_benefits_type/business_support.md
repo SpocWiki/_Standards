@@ -49,9 +49,9 @@ BusinessSupport: this is a benefit for supporting businesses.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.md|business_support]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.internal.md|business_support.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.protect.md|business_support.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.private.md|business_support.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.personal.md|business_support.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/business_support.secret.md|business_support.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/business_support.md|business_support]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/business_support.internal.md|business_support.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/business_support.protect.md|business_support.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/business_support.private.md|business_support.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/business_support.personal.md|business_support.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/business_support.secret.md|business_support.secret]] 

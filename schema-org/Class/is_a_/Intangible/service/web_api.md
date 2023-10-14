@@ -47,9 +47,9 @@ An application programming interface accessible over Web/Internet technologies.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/service/web_api.md|web_api]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/service/web_api.internal.md|web_api.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/service/web_api.protect.md|web_api.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/service/web_api.private.md|web_api.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/service/web_api.personal.md|web_api.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/service/web_api.secret.md|web_api.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/web_api.md|web_api]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/web_api.internal.md|web_api.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/web_api.protect.md|web_api.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/web_api.private.md|web_api.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/web_api.personal.md|web_api.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/web_api.secret.md|web_api.secret]] 

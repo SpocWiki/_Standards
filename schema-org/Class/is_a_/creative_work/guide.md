@@ -47,9 +47,9 @@ Tag Instances like this:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/guide.md|guide]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/guide.internal.md|guide.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/guide.protect.md|guide.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/guide.private.md|guide.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/guide.personal.md|guide.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/guide.secret.md|guide.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/guide.md|guide]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/guide.internal.md|guide.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/guide.protect.md|guide.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/guide.private.md|guide.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/guide.personal.md|guide.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/guide.secret.md|guide.secret]] 

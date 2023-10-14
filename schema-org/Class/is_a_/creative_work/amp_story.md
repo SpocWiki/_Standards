@@ -47,9 +47,9 @@ A creative work with a visual storytelling format intended to be viewed online, 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/amp_story.md|amp_story]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/amp_story.internal.md|amp_story.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/amp_story.protect.md|amp_story.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/amp_story.private.md|amp_story.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/amp_story.personal.md|amp_story.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/amp_story.secret.md|amp_story.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/amp_story.md|amp_story]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/amp_story.internal.md|amp_story.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/amp_story.protect.md|amp_story.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/amp_story.private.md|amp_story.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/amp_story.personal.md|amp_story.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/amp_story.secret.md|amp_story.secret]] 

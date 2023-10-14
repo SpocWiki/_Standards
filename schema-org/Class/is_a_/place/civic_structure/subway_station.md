@@ -45,9 +45,9 @@ A subway station.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/subway_station.md|subway_station]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/subway_station.internal.md|subway_station.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/subway_station.protect.md|subway_station.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/subway_station.private.md|subway_station.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/subway_station.personal.md|subway_station.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/subway_station.secret.md|subway_station.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/subway_station.md|subway_station]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/subway_station.internal.md|subway_station.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/subway_station.protect.md|subway_station.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/subway_station.private.md|subway_station.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/subway_station.personal.md|subway_station.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/subway_station.secret.md|subway_station.secret]] 

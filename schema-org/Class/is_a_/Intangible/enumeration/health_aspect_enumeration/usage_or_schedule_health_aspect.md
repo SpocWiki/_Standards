@@ -49,9 +49,9 @@ Content about how, when, frequency and dosage of a topic.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.md|usage_or_schedule_health_aspect]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.internal.md|usage_or_schedule_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.protect.md|usage_or_schedule_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.private.md|usage_or_schedule_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.personal.md|usage_or_schedule_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.secret.md|usage_or_schedule_health_aspect.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.md|usage_or_schedule_health_aspect]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.internal.md|usage_or_schedule_health_aspect.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.protect.md|usage_or_schedule_health_aspect.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.private.md|usage_or_schedule_health_aspect.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.personal.md|usage_or_schedule_health_aspect.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.secret.md|usage_or_schedule_health_aspect.secret]] 

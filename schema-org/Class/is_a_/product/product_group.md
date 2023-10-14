@@ -49,9 +49,9 @@ While a ProductGroup itself is not directly offered for sale, the various varyin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/product/product_group.md|product_group]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/product/product_group.internal.md|product_group.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/product/product_group.protect.md|product_group.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/product/product_group.private.md|product_group.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/product/product_group.personal.md|product_group.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/product/product_group.secret.md|product_group.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/product/product_group.md|product_group]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/product/product_group.internal.md|product_group.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/product/product_group.protect.md|product_group.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/product/product_group.private.md|product_group.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/product/product_group.personal.md|product_group.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/product/product_group.secret.md|product_group.secret]] 

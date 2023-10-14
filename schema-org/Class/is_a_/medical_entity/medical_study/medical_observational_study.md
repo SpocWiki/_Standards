@@ -45,9 +45,9 @@ An observational study is a type of medical study that attempts to infer the pos
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.md|medical_observational_study]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.internal.md|medical_observational_study.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.protect.md|medical_observational_study.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.private.md|medical_observational_study.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.personal.md|medical_observational_study.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_study/medical_observational_study.secret.md|medical_observational_study.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_study/medical_observational_study.md|medical_observational_study]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_study/medical_observational_study.internal.md|medical_observational_study.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_study/medical_observational_study.protect.md|medical_observational_study.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_study/medical_observational_study.private.md|medical_observational_study.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_study/medical_observational_study.personal.md|medical_observational_study.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_study/medical_observational_study.secret.md|medical_observational_study.secret]] 

@@ -47,9 +47,9 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_page_visits.md|user_page_visits]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_page_visits.internal.md|user_page_visits.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_page_visits.protect.md|user_page_visits.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_page_visits.private.md|user_page_visits.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_page_visits.personal.md|user_page_visits.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_page_visits.secret.md|user_page_visits.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/event/user_interaction/user_page_visits.md|user_page_visits]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_page_visits.internal.md|user_page_visits.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_page_visits.protect.md|user_page_visits.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_page_visits.private.md|user_page_visits.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_page_visits.personal.md|user_page_visits.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_page_visits.secret.md|user_page_visits.secret]] 

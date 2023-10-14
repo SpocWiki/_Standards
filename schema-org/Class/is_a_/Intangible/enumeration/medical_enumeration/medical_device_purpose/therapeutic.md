@@ -47,9 +47,9 @@ A medical device used for therapeutic purposes.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.md|therapeutic]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.internal.md|therapeutic.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.protect.md|therapeutic.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.private.md|therapeutic.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.personal.md|therapeutic.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.secret.md|therapeutic.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.md|therapeutic]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.internal.md|therapeutic.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.protect.md|therapeutic.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.private.md|therapeutic.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.personal.md|therapeutic.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/therapeutic.secret.md|therapeutic.secret]] 

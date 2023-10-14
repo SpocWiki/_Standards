@@ -45,9 +45,9 @@ A florist.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/florist.md|florist]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/florist.internal.md|florist.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/florist.protect.md|florist.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/florist.private.md|florist.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/florist.personal.md|florist.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/florist.secret.md|florist.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/florist.md|florist]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/florist.internal.md|florist.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/florist.protect.md|florist.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/florist.private.md|florist.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/florist.personal.md|florist.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/florist.secret.md|florist.secret]] 

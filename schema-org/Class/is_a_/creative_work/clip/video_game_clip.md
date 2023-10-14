@@ -45,9 +45,9 @@ A short segment/part of a video game.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/clip/video_game_clip.md|video_game_clip]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/clip/video_game_clip.internal.md|video_game_clip.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/clip/video_game_clip.protect.md|video_game_clip.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/clip/video_game_clip.private.md|video_game_clip.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/clip/video_game_clip.personal.md|video_game_clip.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/clip/video_game_clip.secret.md|video_game_clip.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/clip/video_game_clip.md|video_game_clip]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/clip/video_game_clip.internal.md|video_game_clip.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/clip/video_game_clip.protect.md|video_game_clip.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/clip/video_game_clip.private.md|video_game_clip.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/clip/video_game_clip.personal.md|video_game_clip.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/clip/video_game_clip.secret.md|video_game_clip.secret]] 

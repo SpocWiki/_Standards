@@ -45,9 +45,9 @@ An agent orders an object/product/service to be delivered/sent.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/trade_action/order_action.md|order_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/trade_action/order_action.internal.md|order_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/trade_action/order_action.protect.md|order_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/trade_action/order_action.private.md|order_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/trade_action/order_action.personal.md|order_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/trade_action/order_action.secret.md|order_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/order_action.md|order_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/order_action.internal.md|order_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/order_action.protect.md|order_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/order_action.private.md|order_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/trade_action/order_action.personal.md|order_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/trade_action/order_action.secret.md|order_action.secret]] 

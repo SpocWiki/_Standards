@@ -45,9 +45,9 @@ A grocery store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/grocery_store.md|grocery_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/grocery_store.internal.md|grocery_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/grocery_store.protect.md|grocery_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/grocery_store.private.md|grocery_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/grocery_store.personal.md|grocery_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/grocery_store.secret.md|grocery_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/grocery_store.md|grocery_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/grocery_store.internal.md|grocery_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/grocery_store.protect.md|grocery_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/grocery_store.private.md|grocery_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/grocery_store.personal.md|grocery_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/grocery_store.secret.md|grocery_store.secret]] 

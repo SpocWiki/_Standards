@@ -47,9 +47,9 @@ Should not be used where the nature of the alignment can be described using a si
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/alignment_object.md|alignment_object]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/alignment_object.internal.md|alignment_object.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/alignment_object.protect.md|alignment_object.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/alignment_object.private.md|alignment_object.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/alignment_object.personal.md|alignment_object.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/alignment_object.secret.md|alignment_object.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/alignment_object.md|alignment_object]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/alignment_object.internal.md|alignment_object.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/alignment_object.protect.md|alignment_object.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/alignment_object.private.md|alignment_object.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/alignment_object.personal.md|alignment_object.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/alignment_object.secret.md|alignment_object.secret]] 

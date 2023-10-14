@@ -47,9 +47,9 @@ A single season of a podcast. Many podcasts do not break down into separate seas
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.md|podcast_season]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.internal.md|podcast_season.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.protect.md|podcast_season.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.private.md|podcast_season.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.personal.md|podcast_season.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_season/podcast_season.secret.md|podcast_season.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/creative_work_season/podcast_season.md|podcast_season]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/creative_work_season/podcast_season.internal.md|podcast_season.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/creative_work_season/podcast_season.protect.md|podcast_season.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/creative_work_season/podcast_season.private.md|podcast_season.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/creative_work_season/podcast_season.personal.md|podcast_season.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/creative_work_season/podcast_season.secret.md|podcast_season.secret]] 

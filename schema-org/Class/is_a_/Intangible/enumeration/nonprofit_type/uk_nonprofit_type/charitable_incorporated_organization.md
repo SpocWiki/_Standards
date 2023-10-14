@@ -49,9 +49,9 @@ CharitableIncorporatedOrganization: Non-profit type referring to a Charitable In
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.md|charitable_incorporated_organization]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.internal.md|charitable_incorporated_organization.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.protect.md|charitable_incorporated_organization.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.private.md|charitable_incorporated_organization.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.personal.md|charitable_incorporated_organization.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.secret.md|charitable_incorporated_organization.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.md|charitable_incorporated_organization]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.internal.md|charitable_incorporated_organization.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.protect.md|charitable_incorporated_organization.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.private.md|charitable_incorporated_organization.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.personal.md|charitable_incorporated_organization.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.secret.md|charitable_incorporated_organization.secret]] 

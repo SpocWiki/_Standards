@@ -45,9 +45,9 @@ An airport.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/airport.md|airport]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/airport.internal.md|airport.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/airport.protect.md|airport.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/airport.private.md|airport.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/airport.personal.md|airport.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/airport.secret.md|airport.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/airport.md|airport]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/airport.internal.md|airport.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/airport.protect.md|airport.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/airport.private.md|airport.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/airport.personal.md|airport.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/airport.secret.md|airport.secret]] 

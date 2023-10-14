@@ -47,9 +47,9 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.md|taxi_reservation]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.internal.md|taxi_reservation.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.protect.md|taxi_reservation.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.private.md|taxi_reservation.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.personal.md|taxi_reservation.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/taxi_reservation.secret.md|taxi_reservation.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.md|taxi_reservation]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.internal.md|taxi_reservation.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.protect.md|taxi_reservation.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.private.md|taxi_reservation.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.personal.md|taxi_reservation.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.secret.md|taxi_reservation.secret]] 

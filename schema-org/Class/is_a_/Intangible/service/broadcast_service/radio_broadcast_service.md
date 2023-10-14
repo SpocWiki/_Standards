@@ -47,9 +47,9 @@ A delivery service through which radio content is provided via broadcast over th
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/service/broadcast_service/radio_broadcast_service.md|radio_broadcast_service]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/broadcast_service/radio_broadcast_service.internal.md|radio_broadcast_service.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/broadcast_service/radio_broadcast_service.protect.md|radio_broadcast_service.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/service/broadcast_service/radio_broadcast_service.private.md|radio_broadcast_service.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/broadcast_service/radio_broadcast_service.personal.md|radio_broadcast_service.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/broadcast_service/radio_broadcast_service.secret.md|radio_broadcast_service.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.md|radio_broadcast_service]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.internal.md|radio_broadcast_service.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.protect.md|radio_broadcast_service.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.private.md|radio_broadcast_service.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.personal.md|radio_broadcast_service.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.secret.md|radio_broadcast_service.secret]] 

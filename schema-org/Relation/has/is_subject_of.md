@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_subject_of :: CreativeWork, Event ] or 
+- [ #is_/subject_of :: CreativeWork, Event ] or 
 - [ is_subject_of :: CreativeWork, Event ] 
 
 A CreativeWork or Event about this Thing.

@@ -49,9 +49,9 @@ A MerchantReturnPolicy provides information about product return policies associ
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/merchant_return_policy.md|merchant_return_policy]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/merchant_return_policy.internal.md|merchant_return_policy.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/merchant_return_policy.protect.md|merchant_return_policy.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/merchant_return_policy.private.md|merchant_return_policy.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/merchant_return_policy.personal.md|merchant_return_policy.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/merchant_return_policy.secret.md|merchant_return_policy.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/merchant_return_policy.md|merchant_return_policy]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/merchant_return_policy.internal.md|merchant_return_policy.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/merchant_return_policy.protect.md|merchant_return_policy.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/merchant_return_policy.private.md|merchant_return_policy.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/merchant_return_policy.personal.md|merchant_return_policy.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/merchant_return_policy.secret.md|merchant_return_policy.secret]] 

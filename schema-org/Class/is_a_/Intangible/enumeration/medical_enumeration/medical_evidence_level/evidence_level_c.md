@@ -47,9 +47,9 @@ Only consensus opinion of experts, case studies, or standard-of-care.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.md|evidence_level_c]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.internal.md|evidence_level_c.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.protect.md|evidence_level_c.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.private.md|evidence_level_c.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.personal.md|evidence_level_c.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.secret.md|evidence_level_c.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.md|evidence_level_c]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.internal.md|evidence_level_c.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.protect.md|evidence_level_c.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.private.md|evidence_level_c.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.personal.md|evidence_level_c.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.secret.md|evidence_level_c.secret]] 

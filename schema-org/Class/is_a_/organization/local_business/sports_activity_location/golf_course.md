@@ -45,9 +45,9 @@ A golf course.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/sports_activity_location/golf_course.md|golf_course]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/golf_course.internal.md|golf_course.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/sports_activity_location/golf_course.protect.md|golf_course.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/sports_activity_location/golf_course.private.md|golf_course.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/golf_course.personal.md|golf_course.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/sports_activity_location/golf_course.secret.md|golf_course.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.md|golf_course]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.internal.md|golf_course.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.protect.md|golf_course.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.private.md|golf_course.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.personal.md|golf_course.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/sports_activity_location/golf_course.secret.md|golf_course.secret]] 

@@ -45,9 +45,9 @@ Aquarium.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/aquarium.md|aquarium]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/aquarium.internal.md|aquarium.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/aquarium.protect.md|aquarium.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/aquarium.private.md|aquarium.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/aquarium.personal.md|aquarium.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/aquarium.secret.md|aquarium.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/aquarium.md|aquarium]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/aquarium.internal.md|aquarium.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/aquarium.protect.md|aquarium.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/aquarium.private.md|aquarium.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/aquarium.personal.md|aquarium.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/aquarium.secret.md|aquarium.secret]] 

@@ -45,9 +45,9 @@ Enumerates types (or dimensions) of a person's body measurements, for example fo
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.md|body_measurement_type_enumeration]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.internal.md|body_measurement_type_enumeration.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.protect.md|body_measurement_type_enumeration.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.private.md|body_measurement_type_enumeration.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.personal.md|body_measurement_type_enumeration.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.secret.md|body_measurement_type_enumeration.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.md|body_measurement_type_enumeration]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.internal.md|body_measurement_type_enumeration.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.protect.md|body_measurement_type_enumeration.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.private.md|body_measurement_type_enumeration.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.personal.md|body_measurement_type_enumeration.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.secret.md|body_measurement_type_enumeration.secret]] 

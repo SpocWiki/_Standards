@@ -41,9 +41,9 @@ A combination of date and time of day in the form [-]CCYY-MM-DDThh:mm:ss[Z|(+|-)
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/data_type/date_time.md|date_time]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/data_type/date_time.internal.md|date_time.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/data_type/date_time.protect.md|date_time.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/data_type/date_time.private.md|date_time.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/data_type/date_time.personal.md|date_time.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/data_type/date_time.secret.md|date_time.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/data_type/date_time.md|date_time]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/data_type/date_time.internal.md|date_time.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/data_type/date_time.protect.md|date_time.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/data_type/date_time.private.md|date_time.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/data_type/date_time.personal.md|date_time.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/data_type/date_time.secret.md|date_time.secret]] 

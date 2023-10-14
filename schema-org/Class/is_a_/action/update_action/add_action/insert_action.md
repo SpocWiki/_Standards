@@ -47,9 +47,9 @@ The act of adding at a specific location in an ordered collection.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/update_action/add_action/insert_action.md|insert_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/update_action/add_action/insert_action.internal.md|insert_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/update_action/add_action/insert_action.protect.md|insert_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/update_action/add_action/insert_action.private.md|insert_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/update_action/add_action/insert_action.personal.md|insert_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/update_action/add_action/insert_action.secret.md|insert_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/update_action/add_action/insert_action.md|insert_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/update_action/add_action/insert_action.internal.md|insert_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/update_action/add_action/insert_action.protect.md|insert_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/update_action/add_action/insert_action.private.md|insert_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/update_action/add_action/insert_action.personal.md|insert_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/update_action/add_action/insert_action.secret.md|insert_action.secret]] 

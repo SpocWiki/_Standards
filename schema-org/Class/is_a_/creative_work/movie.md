@@ -45,9 +45,9 @@ A movie.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/movie.md|movie]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/movie.internal.md|movie.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/movie.protect.md|movie.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/movie.private.md|movie.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/movie.personal.md|movie.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/movie.secret.md|movie.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/movie.md|movie]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/movie.internal.md|movie.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/movie.protect.md|movie.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/movie.private.md|movie.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/movie.personal.md|movie.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/movie.secret.md|movie.secret]] 

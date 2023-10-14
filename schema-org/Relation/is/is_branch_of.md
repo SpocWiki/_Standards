@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_branch_of :: Organization ] or 
+- [ #is_/branch_of :: Organization ] or 
 - [ is_branch_of :: Organization ] 
 
 The larger organization that this local business is a branch of, if any. Not to be confused with (anatomical) [[branch]].

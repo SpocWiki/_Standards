@@ -43,9 +43,9 @@ A diet restricted to certain foods or preparations for cultural, religious, heal
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet.md|restricted_diet]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet.internal.md|restricted_diet.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet.protect.md|restricted_diet.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet.private.md|restricted_diet.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet.personal.md|restricted_diet.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet.secret.md|restricted_diet.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet.md|restricted_diet]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet.internal.md|restricted_diet.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet.protect.md|restricted_diet.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet.private.md|restricted_diet.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet.personal.md|restricted_diet.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet.secret.md|restricted_diet.secret]] 

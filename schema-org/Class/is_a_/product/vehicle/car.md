@@ -45,9 +45,9 @@ A car is a wheeled, self-powered motor vehicle used for transportation.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/product/vehicle/car.md|car]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/product/vehicle/car.internal.md|car.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/product/vehicle/car.protect.md|car.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/product/vehicle/car.private.md|car.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/product/vehicle/car.personal.md|car.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/product/vehicle/car.secret.md|car.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/product/vehicle/car.md|car]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/product/vehicle/car.internal.md|car.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/product/vehicle/car.protect.md|car.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/product/vehicle/car.private.md|car.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/product/vehicle/car.personal.md|car.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/product/vehicle/car.secret.md|car.secret]] 

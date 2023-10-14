@@ -45,9 +45,9 @@ An aggregate rating of an Organization related to its role as an employer.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.md|employer_aggregate_rating]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.internal.md|employer_aggregate_rating.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.protect.md|employer_aggregate_rating.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.private.md|employer_aggregate_rating.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.personal.md|employer_aggregate_rating.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.secret.md|employer_aggregate_rating.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.md|employer_aggregate_rating]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.internal.md|employer_aggregate_rating.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.protect.md|employer_aggregate_rating.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.private.md|employer_aggregate_rating.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.personal.md|employer_aggregate_rating.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.secret.md|employer_aggregate_rating.secret]] 

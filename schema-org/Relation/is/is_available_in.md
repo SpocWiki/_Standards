@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_available_in :: AdministrativeArea] or 
+- [ #is_/available_in :: AdministrativeArea] or 
 - [ is_available_in :: AdministrativeArea] 
 
 The location in which the strength is available.

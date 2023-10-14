@@ -47,9 +47,9 @@ A specific branch of medical science that is concerned with the ear, nose and th
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.md|otolaryngologic]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.internal.md|otolaryngologic.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.protect.md|otolaryngologic.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.private.md|otolaryngologic.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.personal.md|otolaryngologic.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/otolaryngologic.secret.md|otolaryngologic.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.md|otolaryngologic]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.internal.md|otolaryngologic.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.protect.md|otolaryngologic.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.private.md|otolaryngologic.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.personal.md|otolaryngologic.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.secret.md|otolaryngologic.secret]] 

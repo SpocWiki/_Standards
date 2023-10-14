@@ -49,9 +49,9 @@ Represents the activation fee part of the total price for an offered product, fo
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.md|activation_fee]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.internal.md|activation_fee.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.protect.md|activation_fee.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.private.md|activation_fee.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.personal.md|activation_fee.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.secret.md|activation_fee.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.md|activation_fee]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.internal.md|activation_fee.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.protect.md|activation_fee.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.private.md|activation_fee.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.personal.md|activation_fee.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.secret.md|activation_fee.secret]] 

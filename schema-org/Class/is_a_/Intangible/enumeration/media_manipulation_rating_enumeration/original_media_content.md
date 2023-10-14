@@ -59,9 +59,9 @@ No evidence the audio has been misleadingly altered or manipulated, though it ma
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.md|original_media_content]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.internal.md|original_media_content.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.protect.md|original_media_content.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.private.md|original_media_content.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.personal.md|original_media_content.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.secret.md|original_media_content.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.md|original_media_content]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.internal.md|original_media_content.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.protect.md|original_media_content.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.private.md|original_media_content.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.personal.md|original_media_content.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.secret.md|original_media_content.secret]] 

@@ -45,9 +45,9 @@ A trip on a commercial train line.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/trip/train_trip.md|train_trip]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/trip/train_trip.internal.md|train_trip.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/trip/train_trip.protect.md|train_trip.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/trip/train_trip.private.md|train_trip.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/trip/train_trip.personal.md|train_trip.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/trip/train_trip.secret.md|train_trip.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/trip/train_trip.md|train_trip]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/trip/train_trip.internal.md|train_trip.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/trip/train_trip.protect.md|train_trip.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/trip/train_trip.private.md|train_trip.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/trip/train_trip.personal.md|train_trip.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/trip/train_trip.secret.md|train_trip.secret]] 

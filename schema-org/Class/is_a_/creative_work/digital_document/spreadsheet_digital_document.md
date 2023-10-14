@@ -45,9 +45,9 @@ A spreadsheet file.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.md|spreadsheet_digital_document]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.internal.md|spreadsheet_digital_document.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.protect.md|spreadsheet_digital_document.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.private.md|spreadsheet_digital_document.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.personal.md|spreadsheet_digital_document.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/digital_document/spreadsheet_digital_document.secret.md|spreadsheet_digital_document.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/digital_document/spreadsheet_digital_document.md|spreadsheet_digital_document]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/digital_document/spreadsheet_digital_document.internal.md|spreadsheet_digital_document.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/digital_document/spreadsheet_digital_document.protect.md|spreadsheet_digital_document.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/digital_document/spreadsheet_digital_document.private.md|spreadsheet_digital_document.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/digital_document/spreadsheet_digital_document.personal.md|spreadsheet_digital_document.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/digital_document/spreadsheet_digital_document.secret.md|spreadsheet_digital_document.secret]] 

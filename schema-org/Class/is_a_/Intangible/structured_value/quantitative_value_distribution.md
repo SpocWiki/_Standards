@@ -47,9 +47,9 @@ A statistical distribution of values.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution.md|quantitative_value_distribution]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution.internal.md|quantitative_value_distribution.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution.protect.md|quantitative_value_distribution.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution.private.md|quantitative_value_distribution.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution.personal.md|quantitative_value_distribution.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution.secret.md|quantitative_value_distribution.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.md|quantitative_value_distribution]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.internal.md|quantitative_value_distribution.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.protect.md|quantitative_value_distribution.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.private.md|quantitative_value_distribution.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.personal.md|quantitative_value_distribution.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.secret.md|quantitative_value_distribution.secret]] 

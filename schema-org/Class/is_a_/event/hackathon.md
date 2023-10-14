@@ -47,9 +47,9 @@ A <a href="https://en.wikipedia.org/wiki/Hackathon">hackathon</a> event.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/hackathon.md|hackathon]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/hackathon.internal.md|hackathon.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/hackathon.protect.md|hackathon.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/hackathon.private.md|hackathon.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/hackathon.personal.md|hackathon.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/hackathon.secret.md|hackathon.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/hackathon.md|hackathon]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/hackathon.internal.md|hackathon.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/hackathon.protect.md|hackathon.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/hackathon.private.md|hackathon.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/hackathon.personal.md|hackathon.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/hackathon.secret.md|hackathon.secret]] 

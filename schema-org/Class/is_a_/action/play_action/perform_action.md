@@ -45,9 +45,9 @@ The act of participating in performance arts.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/play_action/perform_action.md|perform_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/play_action/perform_action.internal.md|perform_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/play_action/perform_action.protect.md|perform_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/play_action/perform_action.private.md|perform_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/play_action/perform_action.personal.md|perform_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/play_action/perform_action.secret.md|perform_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/play_action/perform_action.md|perform_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/play_action/perform_action.internal.md|perform_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/play_action/perform_action.protect.md|perform_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/play_action/perform_action.private.md|perform_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/play_action/perform_action.personal.md|perform_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/play_action/perform_action.secret.md|perform_action.secret]] 

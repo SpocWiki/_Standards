@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_performer_in :: Event ] or 
+- [ #is_/performer_in :: Event ] or 
 - [ is_performer_in :: Event ] 
 
 Event that this person is a performer or participant in.
@@ -41,7 +41,7 @@ Relation describes that:
 ( #has_/name :: is_performer_in )
 ( #has_/range :: Event )
 
-[ #is/_inverse_of  :: [[has_performer]] ]
+[ #is_/inverse_of  :: [[has_performer]] ]
 
 
 

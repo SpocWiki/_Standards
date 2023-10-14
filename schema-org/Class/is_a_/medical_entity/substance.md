@@ -49,9 +49,9 @@ Any matter of defined composition that has discrete existence, whose origin may 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/substance.md|substance]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/substance.internal.md|substance.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/substance.protect.md|substance.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/substance.private.md|substance.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/substance.personal.md|substance.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/substance.secret.md|substance.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/medical_entity/substance.md|substance]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/substance.internal.md|substance.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/substance.protect.md|substance.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/substance.private.md|substance.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/substance.personal.md|substance.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/substance.secret.md|substance.secret]] 

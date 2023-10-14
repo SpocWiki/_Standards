@@ -49,9 +49,9 @@ Any biological, chemical, or biochemical thing. For example: a protein; a gene; 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Type/is_a_/bio_chem_entity.md|bio_chem_entity]] 
-- [[../../../../_internal/schema.org/Type/is_a_/bio_chem_entity.internal.md|bio_chem_entity.internal]] 
-- [[../../../../_protect/schema.org/Type/is_a_/bio_chem_entity.protect.md|bio_chem_entity.protect]] 
-- [[../../../../_private/schema.org/Type/is_a_/bio_chem_entity.private.md|bio_chem_entity.private]] 
-- [[../../../../_personal/schema.org/Type/is_a_/bio_chem_entity.personal.md|bio_chem_entity.personal]] 
-- [[../../../../_secret/schema.org/Type/is_a_/bio_chem_entity.secret.md|bio_chem_entity.secret]] 
+- [[../../../../_public/schema.org/Class/is_a_/bio_chem_entity.md|bio_chem_entity]] 
+- [[../../../../_internal/schema.org/Class/is_a_/bio_chem_entity.internal.md|bio_chem_entity.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/bio_chem_entity.protect.md|bio_chem_entity.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/bio_chem_entity.private.md|bio_chem_entity.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/bio_chem_entity.personal.md|bio_chem_entity.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/bio_chem_entity.secret.md|bio_chem_entity.secret]] 

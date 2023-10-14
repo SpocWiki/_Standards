@@ -47,9 +47,9 @@ A geographical region, typically under the jurisdiction of a particular governme
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/place/administrative_area.md|administrative_area]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/place/administrative_area.internal.md|administrative_area.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/place/administrative_area.protect.md|administrative_area.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/place/administrative_area.private.md|administrative_area.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/place/administrative_area.personal.md|administrative_area.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/place/administrative_area.secret.md|administrative_area.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/place/administrative_area.md|administrative_area]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/place/administrative_area.internal.md|administrative_area.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/place/administrative_area.protect.md|administrative_area.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/place/administrative_area.private.md|administrative_area.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/place/administrative_area.personal.md|administrative_area.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/place/administrative_area.secret.md|administrative_area.secret]] 

@@ -47,9 +47,9 @@ A statement about something, for example a fun or interesting fact. If known, th
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/statement.md|statement]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/statement.internal.md|statement.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/statement.protect.md|statement.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/statement.private.md|statement.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/statement.personal.md|statement.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/statement.secret.md|statement.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/statement.md|statement]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/statement.internal.md|statement.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/statement.protect.md|statement.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/statement.private.md|statement.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/statement.personal.md|statement.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/statement.secret.md|statement.secret]] 

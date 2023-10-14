@@ -49,9 +49,9 @@ The item is intended to induce bodily harm, for example guns, mace, combat knive
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.md|weapon_consideration]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.internal.md|weapon_consideration.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.protect.md|weapon_consideration.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.private.md|weapon_consideration.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.personal.md|weapon_consideration.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.secret.md|weapon_consideration.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.md|weapon_consideration]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.internal.md|weapon_consideration.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.protect.md|weapon_consideration.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.private.md|weapon_consideration.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.personal.md|weapon_consideration.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/weapon_consideration.secret.md|weapon_consideration.secret]] 

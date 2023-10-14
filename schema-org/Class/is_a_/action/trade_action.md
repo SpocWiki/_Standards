@@ -47,9 +47,9 @@ The act of participating in an exchange of goods and services for monetary compe
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/action/trade_action.md|trade_action]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/action/trade_action.internal.md|trade_action.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/action/trade_action.protect.md|trade_action.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/action/trade_action.private.md|trade_action.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/action/trade_action.personal.md|trade_action.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/action/trade_action.secret.md|trade_action.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/action/trade_action.md|trade_action]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/trade_action.internal.md|trade_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/trade_action.protect.md|trade_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/trade_action.private.md|trade_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/trade_action.personal.md|trade_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/trade_action.secret.md|trade_action.secret]] 

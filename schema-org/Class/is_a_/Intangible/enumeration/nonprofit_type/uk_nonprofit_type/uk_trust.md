@@ -49,9 +49,9 @@ UKTrust: Non-profit type referring to a UK trust.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.md|uk_trust]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.internal.md|uk_trust.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.protect.md|uk_trust.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.private.md|uk_trust.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.personal.md|uk_trust.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.secret.md|uk_trust.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.md|uk_trust]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.internal.md|uk_trust.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.protect.md|uk_trust.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.private.md|uk_trust.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.personal.md|uk_trust.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/uk_trust.secret.md|uk_trust.secret]] 

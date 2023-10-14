@@ -45,9 +45,9 @@ A theater group or company, for example, the Royal Shakespeare Company or Druid 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/performing_group/theater_group.md|theater_group]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/performing_group/theater_group.internal.md|theater_group.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/performing_group/theater_group.protect.md|theater_group.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/performing_group/theater_group.private.md|theater_group.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/performing_group/theater_group.personal.md|theater_group.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/performing_group/theater_group.secret.md|theater_group.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/performing_group/theater_group.md|theater_group]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/performing_group/theater_group.internal.md|theater_group.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/performing_group/theater_group.protect.md|theater_group.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/performing_group/theater_group.private.md|theater_group.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/performing_group/theater_group.personal.md|theater_group.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/performing_group/theater_group.secret.md|theater_group.secret]] 

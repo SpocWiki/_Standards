@@ -47,9 +47,9 @@ A motorcycle or motorbike is a single-track, two-wheeled motor vehicle.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/product/vehicle/motorcycle.md|motorcycle]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/product/vehicle/motorcycle.internal.md|motorcycle.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/product/vehicle/motorcycle.protect.md|motorcycle.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/product/vehicle/motorcycle.private.md|motorcycle.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/product/vehicle/motorcycle.personal.md|motorcycle.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/product/vehicle/motorcycle.secret.md|motorcycle.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/product/vehicle/motorcycle.md|motorcycle]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/product/vehicle/motorcycle.internal.md|motorcycle.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/product/vehicle/motorcycle.protect.md|motorcycle.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/product/vehicle/motorcycle.private.md|motorcycle.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/product/vehicle/motorcycle.personal.md|motorcycle.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/product/vehicle/motorcycle.secret.md|motorcycle.secret]] 

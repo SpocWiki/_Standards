@@ -45,9 +45,9 @@ A bar or pub.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.md|bar_or_pub]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.internal.md|bar_or_pub.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.protect.md|bar_or_pub.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.private.md|bar_or_pub.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.personal.md|bar_or_pub.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/bar_or_pub.secret.md|bar_or_pub.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.md|bar_or_pub]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.internal.md|bar_or_pub.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.protect.md|bar_or_pub.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.private.md|bar_or_pub.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.personal.md|bar_or_pub.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/food_establishment/bar_or_pub.secret.md|bar_or_pub.secret]] 

@@ -47,9 +47,9 @@ See also the <a href="/docs/hotels.html">dedicated document on the use of schema
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/accommodation/room/meeting_room.md|meeting_room]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/room/meeting_room.internal.md|meeting_room.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/room/meeting_room.protect.md|meeting_room.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/accommodation/room/meeting_room.private.md|meeting_room.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/room/meeting_room.personal.md|meeting_room.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/room/meeting_room.secret.md|meeting_room.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/accommodation/room/meeting_room.md|meeting_room]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/room/meeting_room.internal.md|meeting_room.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/room/meeting_room.protect.md|meeting_room.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/accommodation/room/meeting_room.private.md|meeting_room.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/room/meeting_room.personal.md|meeting_room.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/room/meeting_room.secret.md|meeting_room.secret]] 

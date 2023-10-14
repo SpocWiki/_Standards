@@ -45,9 +45,9 @@ A type of blood vessel that specifically carries blood to the heart.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/vein.md|vein]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/vein.internal.md|vein.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/vein.protect.md|vein.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/vein.private.md|vein.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/vein.personal.md|vein.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/vein.secret.md|vein.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.md|vein]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.internal.md|vein.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.protect.md|vein.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.private.md|vein.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.personal.md|vein.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/vein.secret.md|vein.secret]] 

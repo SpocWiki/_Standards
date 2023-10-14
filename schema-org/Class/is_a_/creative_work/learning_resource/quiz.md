@@ -47,9 +47,9 @@ Quiz: A test of knowledge, skills and abilities.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/learning_resource/quiz.md|quiz]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/learning_resource/quiz.internal.md|quiz.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/learning_resource/quiz.protect.md|quiz.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/learning_resource/quiz.private.md|quiz.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/learning_resource/quiz.personal.md|quiz.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/learning_resource/quiz.secret.md|quiz.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/learning_resource/quiz.md|quiz]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/learning_resource/quiz.internal.md|quiz.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/learning_resource/quiz.protect.md|quiz.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/learning_resource/quiz.private.md|quiz.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/learning_resource/quiz.personal.md|quiz.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/learning_resource/quiz.secret.md|quiz.secret]] 

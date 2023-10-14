@@ -45,9 +45,9 @@ Event type: Visual arts event.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/visual_arts_event.md|visual_arts_event]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/visual_arts_event.internal.md|visual_arts_event.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/visual_arts_event.protect.md|visual_arts_event.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/visual_arts_event.private.md|visual_arts_event.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/visual_arts_event.personal.md|visual_arts_event.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/visual_arts_event.secret.md|visual_arts_event.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/visual_arts_event.md|visual_arts_event]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/visual_arts_event.internal.md|visual_arts_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/visual_arts_event.protect.md|visual_arts_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/visual_arts_event.private.md|visual_arts_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/visual_arts_event.personal.md|visual_arts_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/visual_arts_event.secret.md|visual_arts_event.secret]] 

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_following :: Person ] or 
+- [ #is_/following :: Person ] or 
 - [ is_following :: Person ] 
 
 The most generic uni-directional social relation.

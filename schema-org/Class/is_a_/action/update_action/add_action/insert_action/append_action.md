@@ -45,9 +45,9 @@ The act of inserting at the end if an ordered collection.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.md|append_action]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.internal.md|append_action.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.protect.md|append_action.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.private.md|append_action.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.personal.md|append_action.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/action/update_action/add_action/insert_action/append_action.secret.md|append_action.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/action/update_action/add_action/insert_action/append_action.md|append_action]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/action/update_action/add_action/insert_action/append_action.internal.md|append_action.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/action/update_action/add_action/insert_action/append_action.protect.md|append_action.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/action/update_action/add_action/insert_action/append_action.private.md|append_action.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/action/update_action/add_action/insert_action/append_action.personal.md|append_action.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/action/update_action/add_action/insert_action/append_action.secret.md|append_action.secret]] 

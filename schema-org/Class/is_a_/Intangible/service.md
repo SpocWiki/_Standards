@@ -47,9 +47,9 @@ A service provided by an organization, e.g. delivery service, print services, et
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/service.md|service]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/service.internal.md|service.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/service.protect.md|service.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/service.private.md|service.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/service.personal.md|service.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/service.secret.md|service.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/service.md|service]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/service.internal.md|service.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/service.protect.md|service.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/service.private.md|service.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/service.personal.md|service.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/service.secret.md|service.secret]] 

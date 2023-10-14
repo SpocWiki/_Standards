@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_similar_to :: Product, Service] or 
+- [ #is_/similar_to :: Product, Service] or 
 - [ is_similar_to :: Product, Service] 
 
 A pointer to another, functionally similar product (or multiple products).

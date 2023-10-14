@@ -45,9 +45,9 @@ A fact-checking review of claims made (or reported) in some creative work (refer
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/review/claim_review.md|claim_review]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/claim_review.internal.md|claim_review.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/claim_review.protect.md|claim_review.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/review/claim_review.private.md|claim_review.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/claim_review.personal.md|claim_review.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/claim_review.secret.md|claim_review.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/review/claim_review.md|claim_review]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/review/claim_review.internal.md|claim_review.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/review/claim_review.protect.md|claim_review.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/review/claim_review.private.md|claim_review.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/review/claim_review.personal.md|claim_review.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/review/claim_review.secret.md|claim_review.secret]] 

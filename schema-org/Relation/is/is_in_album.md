@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_in_album :: MusicAlbum ] or 
+- [ #is_/in_album :: MusicAlbum ] or 
 - [ is_in_album :: MusicAlbum ] 
 
 The album to which this recording belongs.

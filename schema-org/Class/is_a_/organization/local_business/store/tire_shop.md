@@ -45,9 +45,9 @@ A tire shop.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/tire_shop.md|tire_shop]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/tire_shop.internal.md|tire_shop.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/tire_shop.protect.md|tire_shop.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/tire_shop.private.md|tire_shop.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/tire_shop.personal.md|tire_shop.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/tire_shop.secret.md|tire_shop.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/tire_shop.md|tire_shop]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/tire_shop.internal.md|tire_shop.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/tire_shop.protect.md|tire_shop.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/tire_shop.private.md|tire_shop.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/tire_shop.personal.md|tire_shop.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/tire_shop.secret.md|tire_shop.secret]] 

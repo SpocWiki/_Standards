@@ -47,9 +47,9 @@ A structured value representing repayment.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.md|repayment_specification]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.internal.md|repayment_specification.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.protect.md|repayment_specification.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.private.md|repayment_specification.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.personal.md|repayment_specification.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/repayment_specification.secret.md|repayment_specification.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.md|repayment_specification]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.internal.md|repayment_specification.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.protect.md|repayment_specification.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.private.md|repayment_specification.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.personal.md|repayment_specification.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.secret.md|repayment_specification.secret]] 

@@ -53,9 +53,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/action/move_action.md|move_action]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/action/move_action.internal.md|move_action.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/action/move_action.protect.md|move_action.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/action/move_action.private.md|move_action.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/action/move_action.personal.md|move_action.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/action/move_action.secret.md|move_action.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/action/move_action.md|move_action]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/move_action.internal.md|move_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/move_action.protect.md|move_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/move_action.private.md|move_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/move_action.personal.md|move_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/move_action.secret.md|move_action.secret]] 

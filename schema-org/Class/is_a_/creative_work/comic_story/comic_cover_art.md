@@ -47,9 +47,9 @@ The artwork on the cover of a comic.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.md|comic_cover_art]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.internal.md|comic_cover_art.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.protect.md|comic_cover_art.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.private.md|comic_cover_art.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.personal.md|comic_cover_art.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/comic_story/comic_cover_art.secret.md|comic_cover_art.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/comic_story/comic_cover_art.md|comic_cover_art]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/comic_story/comic_cover_art.internal.md|comic_cover_art.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/comic_story/comic_cover_art.protect.md|comic_cover_art.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/comic_story/comic_cover_art.private.md|comic_cover_art.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/comic_story/comic_cover_art.personal.md|comic_cover_art.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/comic_story/comic_cover_art.secret.md|comic_cover_art.secret]] 

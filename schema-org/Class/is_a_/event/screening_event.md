@@ -45,9 +45,9 @@ A screening of a movie or other video.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/screening_event.md|screening_event]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/screening_event.internal.md|screening_event.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/screening_event.protect.md|screening_event.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/screening_event.private.md|screening_event.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/screening_event.personal.md|screening_event.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/screening_event.secret.md|screening_event.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/screening_event.md|screening_event]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/screening_event.internal.md|screening_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/screening_event.protect.md|screening_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/screening_event.private.md|screening_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/screening_event.personal.md|screening_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/screening_event.secret.md|screening_event.secret]] 

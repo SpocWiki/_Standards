@@ -45,9 +45,9 @@ An Insurance agency.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.md|insurance_agency]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.internal.md|insurance_agency.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.protect.md|insurance_agency.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.private.md|insurance_agency.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.personal.md|insurance_agency.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/financial_service/insurance_agency.secret.md|insurance_agency.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/financial_service/insurance_agency.md|insurance_agency]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/financial_service/insurance_agency.internal.md|insurance_agency.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/financial_service/insurance_agency.protect.md|insurance_agency.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/financial_service/insurance_agency.private.md|insurance_agency.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/financial_service/insurance_agency.personal.md|insurance_agency.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/financial_service/insurance_agency.secret.md|insurance_agency.secret]] 

@@ -45,9 +45,9 @@ Residence type: Gated community.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/residence/gated_residence_community.md|gated_residence_community]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/residence/gated_residence_community.internal.md|gated_residence_community.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/residence/gated_residence_community.protect.md|gated_residence_community.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/residence/gated_residence_community.private.md|gated_residence_community.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/residence/gated_residence_community.personal.md|gated_residence_community.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/residence/gated_residence_community.secret.md|gated_residence_community.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/residence/gated_residence_community.md|gated_residence_community]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/residence/gated_residence_community.internal.md|gated_residence_community.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/residence/gated_residence_community.protect.md|gated_residence_community.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/residence/gated_residence_community.private.md|gated_residence_community.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/residence/gated_residence_community.personal.md|gated_residence_community.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/residence/gated_residence_community.secret.md|gated_residence_community.secret]] 

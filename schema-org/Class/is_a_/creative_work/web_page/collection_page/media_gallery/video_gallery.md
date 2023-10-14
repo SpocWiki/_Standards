@@ -45,9 +45,9 @@ Web page type: Video gallery page.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.md|video_gallery]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.internal.md|video_gallery.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.protect.md|video_gallery.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.private.md|video_gallery.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.personal.md|video_gallery.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.secret.md|video_gallery.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.md|video_gallery]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.internal.md|video_gallery.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.protect.md|video_gallery.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.private.md|video_gallery.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.personal.md|video_gallery.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page/collection_page/media_gallery/video_gallery.secret.md|video_gallery.secret]] 

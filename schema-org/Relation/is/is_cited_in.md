@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_cited_in :: CreativeWork, Text ] or 
+- [ #is_/cited_in :: CreativeWork, Text ] or 
 - [ is_cited_in :: CreativeWork, Text ] 
 
 A citation or reference to another creative work, such as another publication, web page, scholarly article, etc.

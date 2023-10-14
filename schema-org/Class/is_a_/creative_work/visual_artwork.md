@@ -47,9 +47,9 @@ A work of art that is primarily visual in character.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/visual_artwork.md|visual_artwork]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/visual_artwork.internal.md|visual_artwork.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/visual_artwork.protect.md|visual_artwork.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/visual_artwork.private.md|visual_artwork.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/visual_artwork.personal.md|visual_artwork.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/visual_artwork.secret.md|visual_artwork.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/visual_artwork.md|visual_artwork]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/visual_artwork.internal.md|visual_artwork.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/visual_artwork.protect.md|visual_artwork.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/visual_artwork.private.md|visual_artwork.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/visual_artwork.personal.md|visual_artwork.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/visual_artwork.secret.md|visual_artwork.secret]] 

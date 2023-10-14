@@ -45,9 +45,9 @@ A strategy of regulating the intake of food to achieve or maintain a specific he
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/diet.md|diet]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/diet.internal.md|diet.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/diet.protect.md|diet.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/diet.private.md|diet.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/diet.personal.md|diet.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/diet.secret.md|diet.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/diet.md|diet]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/diet.internal.md|diet.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/diet.protect.md|diet.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/diet.private.md|diet.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/diet.personal.md|diet.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/diet.secret.md|diet.secret]] 

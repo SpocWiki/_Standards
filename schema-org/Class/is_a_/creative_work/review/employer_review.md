@@ -47,9 +47,9 @@ An <a class="localLink" href="/EmployerReview">EmployerReview</a> is a review of
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/review/employer_review.md|employer_review]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/employer_review.internal.md|employer_review.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/employer_review.protect.md|employer_review.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/review/employer_review.private.md|employer_review.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/employer_review.personal.md|employer_review.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/employer_review.secret.md|employer_review.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/review/employer_review.md|employer_review]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/review/employer_review.internal.md|employer_review.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/review/employer_review.protect.md|employer_review.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/review/employer_review.private.md|employer_review.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/review/employer_review.personal.md|employer_review.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/review/employer_review.secret.md|employer_review.secret]] 

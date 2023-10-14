@@ -45,9 +45,9 @@ A roofing contractor.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.md|roofing_contractor]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.internal.md|roofing_contractor.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.protect.md|roofing_contractor.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.private.md|roofing_contractor.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.personal.md|roofing_contractor.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.secret.md|roofing_contractor.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.md|roofing_contractor]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.internal.md|roofing_contractor.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.protect.md|roofing_contractor.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.private.md|roofing_contractor.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.personal.md|roofing_contractor.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/roofing_contractor.secret.md|roofing_contractor.secret]] 

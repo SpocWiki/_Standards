@@ -47,9 +47,9 @@ A blog post.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.md|blog_posting]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.internal.md|blog_posting.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.protect.md|blog_posting.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.private.md|blog_posting.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.personal.md|blog_posting.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/social_media_posting/blog_posting.secret.md|blog_posting.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.md|blog_posting]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.internal.md|blog_posting.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.protect.md|blog_posting.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.private.md|blog_posting.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.personal.md|blog_posting.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.secret.md|blog_posting.secret]] 

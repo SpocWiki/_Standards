@@ -45,9 +45,9 @@ The cost per unit of a medical drug. Note that this type is not meant to represe
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/drug_cost.md|drug_cost]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/drug_cost.internal.md|drug_cost.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/drug_cost.protect.md|drug_cost.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/drug_cost.private.md|drug_cost.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/drug_cost.personal.md|drug_cost.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/drug_cost.secret.md|drug_cost.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/medical_entity/drug_cost.md|drug_cost]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/drug_cost.internal.md|drug_cost.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/drug_cost.protect.md|drug_cost.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/drug_cost.private.md|drug_cost.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/drug_cost.personal.md|drug_cost.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/drug_cost.secret.md|drug_cost.secret]] 

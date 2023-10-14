@@ -45,9 +45,9 @@ An car dealership.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.md|auto_dealer]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.internal.md|auto_dealer.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.protect.md|auto_dealer.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.private.md|auto_dealer.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.personal.md|auto_dealer.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_dealer.secret.md|auto_dealer.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.md|auto_dealer]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.internal.md|auto_dealer.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.protect.md|auto_dealer.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.private.md|auto_dealer.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.personal.md|auto_dealer.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_dealer.secret.md|auto_dealer.secret]] 

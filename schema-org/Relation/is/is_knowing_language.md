@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #is/_knowing_language :: Language, Text ] or 
+- [ #is_/knowing_language :: Language, Text ] or 
 - [ is_knowing_language :: Language, Text ] 
 
 Of a [[Person]], and less typically of an [[Organization]], to indicate a known language. We do not distinguish skill levels or reading/writing/speaking/signing here. Use language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47).

@@ -49,9 +49,9 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/role.md|role]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/role.internal.md|role.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/role.protect.md|role.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/role.private.md|role.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/role.personal.md|role.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/role.secret.md|role.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/role.md|role]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/role.internal.md|role.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/role.protect.md|role.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/role.private.md|role.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/role.personal.md|role.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/role.secret.md|role.secret]] 

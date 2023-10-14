@@ -47,9 +47,9 @@ Tag Instances like this:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.md|health_topic_content]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.internal.md|health_topic_content.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.protect.md|health_topic_content.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.private.md|health_topic_content.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.personal.md|health_topic_content.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_content/health_topic_content.secret.md|health_topic_content.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_content/health_topic_content.md|health_topic_content]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_content/health_topic_content.internal.md|health_topic_content.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_content/health_topic_content.protect.md|health_topic_content.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_content/health_topic_content.private.md|health_topic_content.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_content/health_topic_content.personal.md|health_topic_content.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_content/health_topic_content.secret.md|health_topic_content.secret]] 

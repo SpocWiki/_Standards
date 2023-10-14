@@ -45,9 +45,9 @@ ATM/cash machine.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.md|automated_teller]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.internal.md|automated_teller.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.protect.md|automated_teller.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.private.md|automated_teller.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.personal.md|automated_teller.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/financial_service/automated_teller.secret.md|automated_teller.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/financial_service/automated_teller.md|automated_teller]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/financial_service/automated_teller.internal.md|automated_teller.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/financial_service/automated_teller.protect.md|automated_teller.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/financial_service/automated_teller.private.md|automated_teller.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/financial_service/automated_teller.personal.md|automated_teller.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/financial_service/automated_teller.secret.md|automated_teller.secret]] 

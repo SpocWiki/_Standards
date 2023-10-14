@@ -47,9 +47,9 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_downloads.md|user_downloads]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_downloads.internal.md|user_downloads.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_downloads.protect.md|user_downloads.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_downloads.private.md|user_downloads.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_downloads.personal.md|user_downloads.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_downloads.secret.md|user_downloads.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/event/user_interaction/user_downloads.md|user_downloads]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_downloads.internal.md|user_downloads.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_downloads.protect.md|user_downloads.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_downloads.private.md|user_downloads.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_downloads.personal.md|user_downloads.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_downloads.secret.md|user_downloads.secret]] 

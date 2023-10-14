@@ -42,9 +42,9 @@ simplified, or transformed.
 This can take many formats, e.g. LaTeX, Ascii-Math, or math as you would write with a keyboard.
 
 Relation describes that: 
-[ #has_/domain  :: [[../../../Type/is_a_/creative_work/math_solver]] ]
+[ #has_/domain  :: [[../../../Class/is_a_/creative_work/math_solver]] ]
 ( #has_/name :: has_math_expression )
-( #has_/range :: [[../../../Type/is_a_/action/solve_math_action]], Text )
+( #has_/range :: [[../../../Class/is_a_/action/solve_math_action]], Text )
 
 
 

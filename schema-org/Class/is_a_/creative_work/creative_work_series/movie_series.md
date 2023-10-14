@@ -45,9 +45,9 @@ A series of movies. Included movies can be indicated with the hasPart property.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.md|movie_series]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.internal.md|movie_series.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.protect.md|movie_series.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.private.md|movie_series.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.personal.md|movie_series.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/movie_series.secret.md|movie_series.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/creative_work_series/movie_series.md|movie_series]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/creative_work_series/movie_series.internal.md|movie_series.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/creative_work_series/movie_series.protect.md|movie_series.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/creative_work_series/movie_series.private.md|movie_series.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/creative_work_series/movie_series.personal.md|movie_series.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/creative_work_series/movie_series.secret.md|movie_series.secret]] 

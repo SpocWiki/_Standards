@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending:]
 
 Use it like this: 
-- [ #is/_involved_in_biological_process :: DefinedTerm, PropertyValue, URL] or 
+- [ #is_/involved_in_biological_process :: DefinedTerm, PropertyValue, URL] or 
 - [ is_involved_in_biological_process :: DefinedTerm, PropertyValue, URL] 
 
 Biological process this BioChemEntity is involved in; please use PropertyValue if you want to include any evidence.

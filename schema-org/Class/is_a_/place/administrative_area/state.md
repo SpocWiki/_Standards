@@ -45,9 +45,9 @@ A state or province of a country.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/administrative_area/state.md|state]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/administrative_area/state.internal.md|state.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/administrative_area/state.protect.md|state.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/administrative_area/state.private.md|state.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/administrative_area/state.personal.md|state.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/administrative_area/state.secret.md|state.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/administrative_area/state.md|state]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/administrative_area/state.internal.md|state.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/administrative_area/state.protect.md|state.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/administrative_area/state.private.md|state.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/administrative_area/state.personal.md|state.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/administrative_area/state.secret.md|state.secret]] 

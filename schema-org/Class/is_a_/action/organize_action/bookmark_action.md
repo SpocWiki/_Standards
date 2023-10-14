@@ -45,9 +45,9 @@ An agent bookmarks/flags/labels/tags/marks an object.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/organize_action/bookmark_action.md|bookmark_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/bookmark_action.internal.md|bookmark_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/bookmark_action.protect.md|bookmark_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/organize_action/bookmark_action.private.md|bookmark_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/bookmark_action.personal.md|bookmark_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/bookmark_action.secret.md|bookmark_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/organize_action/bookmark_action.md|bookmark_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/bookmark_action.internal.md|bookmark_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/bookmark_action.protect.md|bookmark_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/organize_action/bookmark_action.private.md|bookmark_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/bookmark_action.personal.md|bookmark_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/bookmark_action.secret.md|bookmark_action.secret]] 

@@ -47,9 +47,9 @@ A chemical or biologic substance, used as a medical therapy, that has a physiolo
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/product/drug.md|drug]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/product/drug.internal.md|drug.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/product/drug.protect.md|drug.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/product/drug.private.md|drug.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/product/drug.personal.md|drug.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/product/drug.secret.md|drug.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/product/drug.md|drug]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/product/drug.internal.md|drug.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/product/drug.protect.md|drug.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/product/drug.private.md|drug.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/product/drug.personal.md|drug.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/product/drug.secret.md|drug.secret]] 

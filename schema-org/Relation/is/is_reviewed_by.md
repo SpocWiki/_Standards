@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_reviewed_by :: Organization, Person ] or 
+- [ #is_/reviewed_by :: Organization, Person ] or 
 - [ is_reviewed_by :: Organization, Person ] 
 
 People or organizations that have reviewed the content on this web page for accuracy and/or completeness.

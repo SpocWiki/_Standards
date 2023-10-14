@@ -45,9 +45,9 @@ The act of expressing a difference of opinion with the object. An agent disagree
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.md|disagree_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.internal.md|disagree_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.protect.md|disagree_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.private.md|disagree_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.personal.md|disagree_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/disagree_action.secret.md|disagree_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/assess_action/react_action/disagree_action.md|disagree_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action/disagree_action.internal.md|disagree_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/react_action/disagree_action.protect.md|disagree_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/react_action/disagree_action.private.md|disagree_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/react_action/disagree_action.personal.md|disagree_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/react_action/disagree_action.secret.md|disagree_action.secret]] 

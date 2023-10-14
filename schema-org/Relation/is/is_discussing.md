@@ -29,7 +29,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_discussing :: CreativeWork ] or 
+- [ #is_/discussing :: CreativeWork ] or 
 - [ is_discussing :: CreativeWork ] 
 
 Specifies the CreativeWork associated with the UserComment.

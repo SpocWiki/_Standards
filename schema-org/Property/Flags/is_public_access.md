@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/public_access 
+#is/_public_access 
 #is_not_/public_access 
 
 Or write it as a Triple: 

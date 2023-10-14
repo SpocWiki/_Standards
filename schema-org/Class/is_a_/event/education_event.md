@@ -45,9 +45,9 @@ Event type: Education event.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/education_event.md|education_event]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/education_event.internal.md|education_event.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/education_event.protect.md|education_event.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/education_event.private.md|education_event.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/education_event.personal.md|education_event.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/education_event.secret.md|education_event.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/education_event.md|education_event]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/education_event.internal.md|education_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/education_event.protect.md|education_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/education_event.private.md|education_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/education_event.personal.md|education_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/education_event.secret.md|education_event.secret]] 

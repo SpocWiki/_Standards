@@ -45,9 +45,9 @@ An event involving the delivery of an item.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/delivery_event.md|delivery_event]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/delivery_event.internal.md|delivery_event.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/delivery_event.protect.md|delivery_event.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/delivery_event.private.md|delivery_event.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/delivery_event.personal.md|delivery_event.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/delivery_event.secret.md|delivery_event.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/delivery_event.md|delivery_event]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/delivery_event.internal.md|delivery_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/delivery_event.protect.md|delivery_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/delivery_event.private.md|delivery_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/delivery_event.personal.md|delivery_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/delivery_event.secret.md|delivery_event.secret]] 

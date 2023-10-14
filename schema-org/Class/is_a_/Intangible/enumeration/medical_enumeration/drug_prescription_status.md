@@ -43,9 +43,9 @@ Indicates whether this drug is available by prescription or over-the-counter.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.md|drug_prescription_status]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.internal.md|drug_prescription_status.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.protect.md|drug_prescription_status.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.private.md|drug_prescription_status.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.personal.md|drug_prescription_status.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.secret.md|drug_prescription_status.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.md|drug_prescription_status]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.internal.md|drug_prescription_status.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.protect.md|drug_prescription_status.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.private.md|drug_prescription_status.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.personal.md|drug_prescription_status.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.secret.md|drug_prescription_status.secret]] 

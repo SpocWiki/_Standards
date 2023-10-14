@@ -47,9 +47,9 @@ A DatedMoneySpecification represents monetary values with optional start and end
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/dated_money_specification.md|dated_money_specification]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/dated_money_specification.internal.md|dated_money_specification.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/dated_money_specification.protect.md|dated_money_specification.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/dated_money_specification.private.md|dated_money_specification.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/dated_money_specification.personal.md|dated_money_specification.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/dated_money_specification.secret.md|dated_money_specification.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/dated_money_specification.md|dated_money_specification]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/dated_money_specification.internal.md|dated_money_specification.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/dated_money_specification.protect.md|dated_money_specification.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/dated_money_specification.private.md|dated_money_specification.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/dated_money_specification.personal.md|dated_money_specification.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/dated_money_specification.secret.md|dated_money_specification.secret]] 

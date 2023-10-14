@@ -47,9 +47,9 @@ A <a class="localLink" href="/NewsArticle">NewsArticle</a> providing historical 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/creative_work/article/news_article/background_news_article.md|background_news_article]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/news_article/background_news_article.internal.md|background_news_article.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/news_article/background_news_article.protect.md|background_news_article.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/creative_work/article/news_article/background_news_article.private.md|background_news_article.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/news_article/background_news_article.personal.md|background_news_article.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/news_article/background_news_article.secret.md|background_news_article.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/article/news_article/background_news_article.md|background_news_article]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/article/news_article/background_news_article.internal.md|background_news_article.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/article/news_article/background_news_article.protect.md|background_news_article.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/article/news_article/background_news_article.private.md|background_news_article.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/article/news_article/background_news_article.personal.md|background_news_article.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/article/news_article/background_news_article.secret.md|background_news_article.secret]] 

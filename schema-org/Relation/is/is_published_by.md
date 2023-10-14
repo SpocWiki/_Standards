@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #is/_published_by :: Organization, Person ] or 
+- [ #is_/published_by :: Organization, Person ] or 
 - [ is_published_by :: Organization, Person ] 
 
 An agent associated with the publication event.

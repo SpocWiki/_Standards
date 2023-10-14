@@ -47,9 +47,9 @@ A component of the human body circulatory system comprised of an intricate netwo
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.md|vessel]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.internal.md|vessel.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.protect.md|vessel.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.private.md|vessel.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.personal.md|vessel.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel.secret.md|vessel.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel.md|vessel]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel.internal.md|vessel.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel.protect.md|vessel.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel.private.md|vessel.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel.personal.md|vessel.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel.secret.md|vessel.secret]] 

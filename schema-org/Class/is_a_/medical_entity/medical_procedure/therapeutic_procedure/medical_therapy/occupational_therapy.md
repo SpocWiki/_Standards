@@ -45,9 +45,9 @@ A treatment of people with physical, emotional, or social problems, using purpos
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.md|occupational_therapy]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.internal.md|occupational_therapy.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.protect.md|occupational_therapy.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.private.md|occupational_therapy.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.personal.md|occupational_therapy.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.secret.md|occupational_therapy.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.md|occupational_therapy]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.internal.md|occupational_therapy.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.protect.md|occupational_therapy.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.private.md|occupational_therapy.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.personal.md|occupational_therapy.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.secret.md|occupational_therapy.secret]] 

@@ -49,9 +49,9 @@ A <a class="localLink" href="/CriticReview">CriticReview</a> is a more specializ
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/review/critic_review.md|critic_review]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/critic_review.internal.md|critic_review.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/critic_review.protect.md|critic_review.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/review/critic_review.private.md|critic_review.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/critic_review.personal.md|critic_review.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/critic_review.secret.md|critic_review.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/review/critic_review.md|critic_review]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/review/critic_review.internal.md|critic_review.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/review/critic_review.protect.md|critic_review.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/review/critic_review.private.md|critic_review.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/review/critic_review.personal.md|critic_review.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/review/critic_review.secret.md|critic_review.secret]] 

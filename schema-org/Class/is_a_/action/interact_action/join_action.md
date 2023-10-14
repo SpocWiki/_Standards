@@ -53,9 +53,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/interact_action/join_action.md|join_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/join_action.internal.md|join_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/join_action.protect.md|join_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/interact_action/join_action.private.md|join_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/join_action.personal.md|join_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/join_action.secret.md|join_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/interact_action/join_action.md|join_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/join_action.internal.md|join_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/join_action.protect.md|join_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/join_action.private.md|join_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/join_action.personal.md|join_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/join_action.secret.md|join_action.secret]] 

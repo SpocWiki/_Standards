@@ -49,9 +49,9 @@ If the value for the <a class="localLink" href="/closes">closes</a> property is 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.md|opening_hours_specification]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.internal.md|opening_hours_specification.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.protect.md|opening_hours_specification.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.private.md|opening_hours_specification.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.personal.md|opening_hours_specification.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/opening_hours_specification.secret.md|opening_hours_specification.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.md|opening_hours_specification]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.internal.md|opening_hours_specification.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.protect.md|opening_hours_specification.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.private.md|opening_hours_specification.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.personal.md|opening_hours_specification.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.secret.md|opening_hours_specification.secret]] 

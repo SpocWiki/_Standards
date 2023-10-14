@@ -47,9 +47,9 @@ A system of medicine based on common theoretical concepts that originated in Chi
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.md|traditional_chinese]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.internal.md|traditional_chinese.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.protect.md|traditional_chinese.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.private.md|traditional_chinese.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.personal.md|traditional_chinese.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.secret.md|traditional_chinese.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.md|traditional_chinese]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.internal.md|traditional_chinese.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.protect.md|traditional_chinese.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.private.md|traditional_chinese.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.personal.md|traditional_chinese.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.secret.md|traditional_chinese.secret]] 

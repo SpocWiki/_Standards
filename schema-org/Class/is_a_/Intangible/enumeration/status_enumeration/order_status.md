@@ -43,9 +43,9 @@ Enumerated status values for Order.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.md|order_status]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.internal.md|order_status.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.protect.md|order_status.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.private.md|order_status.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.personal.md|order_status.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/order_status.secret.md|order_status.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status.md|order_status]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status.internal.md|order_status.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status.protect.md|order_status.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status.private.md|order_status.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status.personal.md|order_status.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status.secret.md|order_status.secret]] 

@@ -47,9 +47,9 @@ A field of public health focusing on improving health characteristics of a defin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/community_health.md|community_health]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/community_health.internal.md|community_health.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/community_health.protect.md|community_health.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/community_health.private.md|community_health.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/community_health.personal.md|community_health.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/community_health.secret.md|community_health.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.md|community_health]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.internal.md|community_health.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.protect.md|community_health.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.private.md|community_health.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.personal.md|community_health.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/community_health.secret.md|community_health.secret]] 

@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_part_of_tv_series :: TVSeries ] or 
+- [ #is_/part_of_tv_series :: TVSeries ] or 
 - [ is_part_of_tv_series :: TVSeries ] 
 
 The TV series to which this episode or season belongs.
@@ -41,7 +41,7 @@ The TV series to which this episode or season belongs.
 Relation describes that: 
 [ #has_/domain  :: TVClip, TVEpisode, TVSeason ]
 ( #has_/name :: is_part_of_tv_series )
-( #has_/range :: [[../../../Type/is_a_/creative_work/tv_series|TV-Series]] )
+( #has_/range :: [[../../../Class/is_a_/creative_work/tv_series|TV-Series]] )
 
 [ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
 

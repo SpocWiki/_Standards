@@ -45,9 +45,9 @@ Enumerates common size groups (also known as "size types") for wearable products
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.md|wearable_size_group_enumeration]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.internal.md|wearable_size_group_enumeration.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.protect.md|wearable_size_group_enumeration.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.private.md|wearable_size_group_enumeration.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.personal.md|wearable_size_group_enumeration.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.secret.md|wearable_size_group_enumeration.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.md|wearable_size_group_enumeration]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.internal.md|wearable_size_group_enumeration.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.protect.md|wearable_size_group_enumeration.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.private.md|wearable_size_group_enumeration.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.personal.md|wearable_size_group_enumeration.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.secret.md|wearable_size_group_enumeration.secret]] 

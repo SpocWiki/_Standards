@@ -52,9 +52,9 @@ Commonly used values:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/business_entity_type.md|business_entity_type]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/business_entity_type.internal.md|business_entity_type.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/business_entity_type.protect.md|business_entity_type.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/business_entity_type.private.md|business_entity_type.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/business_entity_type.personal.md|business_entity_type.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/business_entity_type.secret.md|business_entity_type.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.md|business_entity_type]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.internal.md|business_entity_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.protect.md|business_entity_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.private.md|business_entity_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.personal.md|business_entity_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.secret.md|business_entity_type.secret]] 

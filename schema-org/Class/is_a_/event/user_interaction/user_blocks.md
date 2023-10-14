@@ -47,9 +47,9 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_blocks.md|user_blocks]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_blocks.internal.md|user_blocks.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_blocks.protect.md|user_blocks.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_blocks.private.md|user_blocks.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_blocks.personal.md|user_blocks.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_blocks.secret.md|user_blocks.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/event/user_interaction/user_blocks.md|user_blocks]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_blocks.internal.md|user_blocks.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_blocks.protect.md|user_blocks.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_blocks.private.md|user_blocks.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_blocks.personal.md|user_blocks.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_blocks.secret.md|user_blocks.secret]] 

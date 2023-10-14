@@ -49,9 +49,9 @@ An <a class="localLink" href="/OfferForLease">OfferForLease</a> in Schema.org re
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/offer/offer_for_lease.md|offer_for_lease]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/offer/offer_for_lease.internal.md|offer_for_lease.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/offer/offer_for_lease.protect.md|offer_for_lease.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/offer/offer_for_lease.private.md|offer_for_lease.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/offer/offer_for_lease.personal.md|offer_for_lease.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/offer/offer_for_lease.secret.md|offer_for_lease.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/offer/offer_for_lease.md|offer_for_lease]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/offer/offer_for_lease.internal.md|offer_for_lease.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/offer/offer_for_lease.protect.md|offer_for_lease.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/offer/offer_for_lease.private.md|offer_for_lease.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/offer/offer_for_lease.personal.md|offer_for_lease.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/offer/offer_for_lease.secret.md|offer_for_lease.secret]] 

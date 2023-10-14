@@ -49,9 +49,9 @@ See also the dedicated <a href="/docs/hotels.html">document on the use of schema
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/campground.md|campground]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/campground.internal.md|campground.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/campground.protect.md|campground.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/campground.private.md|campground.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/campground.personal.md|campground.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/campground.secret.md|campground.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/campground.md|campground]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/campground.internal.md|campground.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/campground.protect.md|campground.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/campground.private.md|campground.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/campground.personal.md|campground.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/campground.secret.md|campground.secret]] 

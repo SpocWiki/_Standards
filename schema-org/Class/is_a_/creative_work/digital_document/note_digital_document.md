@@ -45,9 +45,9 @@ A file containing a note, primarily for the author.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.md|note_digital_document]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.internal.md|note_digital_document.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.protect.md|note_digital_document.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.private.md|note_digital_document.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.personal.md|note_digital_document.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/digital_document/note_digital_document.secret.md|note_digital_document.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/digital_document/note_digital_document.md|note_digital_document]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/digital_document/note_digital_document.internal.md|note_digital_document.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/digital_document/note_digital_document.protect.md|note_digital_document.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/digital_document/note_digital_document.private.md|note_digital_document.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/digital_document/note_digital_document.personal.md|note_digital_document.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/digital_document/note_digital_document.secret.md|note_digital_document.secret]] 

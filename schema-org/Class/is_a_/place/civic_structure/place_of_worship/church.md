@@ -47,9 +47,9 @@ A church.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.md|church]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.internal.md|church.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.protect.md|church.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.private.md|church.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.personal.md|church.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church.secret.md|church.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church.md|church]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church.internal.md|church.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church.protect.md|church.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church.private.md|church.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church.personal.md|church.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church.secret.md|church.secret]] 

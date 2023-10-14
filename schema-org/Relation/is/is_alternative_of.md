@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #is/_alternative_of :: Gene ] or 
+- [ #is_/alternative_of :: Gene ] or 
 - [ is_alternative_of :: Gene ] 
 
 Another gene which is a variation of this one.

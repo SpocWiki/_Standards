@@ -49,9 +49,9 @@ NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institut
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.md|nonprofit_sbbi]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.internal.md|nonprofit_sbbi.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.protect.md|nonprofit_sbbi.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.private.md|nonprofit_sbbi.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.personal.md|nonprofit_sbbi.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.secret.md|nonprofit_sbbi.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.md|nonprofit_sbbi]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.internal.md|nonprofit_sbbi.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.protect.md|nonprofit_sbbi.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.private.md|nonprofit_sbbi.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.personal.md|nonprofit_sbbi.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.secret.md|nonprofit_sbbi.secret]] 

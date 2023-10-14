@@ -47,9 +47,9 @@ The event has been cancelled. If the event has multiple startDate values, all ar
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.md|event_cancelled]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.internal.md|event_cancelled.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.protect.md|event_cancelled.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.private.md|event_cancelled.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.personal.md|event_cancelled.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret.md|event_cancelled.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.md|event_cancelled]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.internal.md|event_cancelled.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.protect.md|event_cancelled.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.private.md|event_cancelled.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.personal.md|event_cancelled.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret.md|event_cancelled.secret]] 

@@ -45,9 +45,9 @@ A jewelry store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.md|jewelry_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.internal.md|jewelry_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.protect.md|jewelry_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.private.md|jewelry_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.personal.md|jewelry_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/jewelry_store.secret.md|jewelry_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/jewelry_store.md|jewelry_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/jewelry_store.internal.md|jewelry_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/jewelry_store.protect.md|jewelry_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/jewelry_store.private.md|jewelry_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/jewelry_store.personal.md|jewelry_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/jewelry_store.secret.md|jewelry_store.secret]] 

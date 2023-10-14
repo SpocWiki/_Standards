@@ -59,9 +59,9 @@ Region = state, canton, prefecture, autonomous community...
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/defined_region.md|defined_region]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/defined_region.internal.md|defined_region.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/defined_region.protect.md|defined_region.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/defined_region.private.md|defined_region.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/defined_region.personal.md|defined_region.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/defined_region.secret.md|defined_region.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/defined_region.md|defined_region]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/defined_region.internal.md|defined_region.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/defined_region.protect.md|defined_region.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/defined_region.private.md|defined_region.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/defined_region.personal.md|defined_region.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/defined_region.secret.md|defined_region.secret]] 

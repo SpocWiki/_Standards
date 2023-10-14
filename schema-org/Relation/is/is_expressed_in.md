@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #is/_expressed_in :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm ] or 
+- [ #is_/expressed_in :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm ] or 
 - [ is_expressed_in :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm ] 
 
 Tissue, organ, biological sample, etc in which activity of this gene has been observed experimentally.

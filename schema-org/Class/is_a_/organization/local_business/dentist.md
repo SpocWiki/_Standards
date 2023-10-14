@@ -45,9 +45,9 @@ A dentist.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/dentist.md|dentist]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/dentist.internal.md|dentist.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/dentist.protect.md|dentist.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/dentist.private.md|dentist.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/dentist.personal.md|dentist.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/dentist.secret.md|dentist.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/dentist.md|dentist]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/dentist.internal.md|dentist.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/dentist.protect.md|dentist.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/dentist.private.md|dentist.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/dentist.personal.md|dentist.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/dentist.secret.md|dentist.secret]] 

@@ -45,9 +45,9 @@ An electrician.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.md|electrician]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.internal.md|electrician.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.protect.md|electrician.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.private.md|electrician.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.personal.md|electrician.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/electrician.secret.md|electrician.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.md|electrician]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.internal.md|electrician.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.protect.md|electrician.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.private.md|electrician.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.personal.md|electrician.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/electrician.secret.md|electrician.secret]] 

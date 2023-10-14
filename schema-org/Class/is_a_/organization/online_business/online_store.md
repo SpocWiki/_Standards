@@ -47,9 +47,9 @@ An eCommerce site.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/online_business/online_store.md|online_store]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/online_business/online_store.internal.md|online_store.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/online_business/online_store.protect.md|online_store.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/online_business/online_store.private.md|online_store.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/online_business/online_store.personal.md|online_store.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/online_business/online_store.secret.md|online_store.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/online_business/online_store.md|online_store]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/online_business/online_store.internal.md|online_store.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/online_business/online_store.protect.md|online_store.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/online_business/online_store.private.md|online_store.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/online_business/online_store.personal.md|online_store.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/online_business/online_store.secret.md|online_store.secret]] 

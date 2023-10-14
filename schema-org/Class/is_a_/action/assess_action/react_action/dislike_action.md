@@ -45,9 +45,9 @@ The act of expressing a negative sentiment about the object. An agent dislikes a
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.md|dislike_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.internal.md|dislike_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.protect.md|dislike_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.private.md|dislike_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.personal.md|dislike_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/dislike_action.secret.md|dislike_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/assess_action/react_action/dislike_action.md|dislike_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action/dislike_action.internal.md|dislike_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/react_action/dislike_action.protect.md|dislike_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/react_action/dislike_action.private.md|dislike_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/react_action/dislike_action.personal.md|dislike_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/react_action/dislike_action.secret.md|dislike_action.secret]] 

@@ -47,9 +47,9 @@ A payment method using a credit, debit, store or other card to associate the pay
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/payment_card.md|payment_card]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/payment_card.internal.md|payment_card.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/payment_card.protect.md|payment_card.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/payment_card.private.md|payment_card.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/payment_card.personal.md|payment_card.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/payment_card.secret.md|payment_card.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/payment_card.md|payment_card]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/payment_card.internal.md|payment_card.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/payment_card.protect.md|payment_card.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/payment_card.private.md|payment_card.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product/payment_card.personal.md|payment_card.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product/payment_card.secret.md|payment_card.secret]] 

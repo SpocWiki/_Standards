@@ -47,9 +47,9 @@ Indicates that the item has sold out.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.md|sold_out]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.internal.md|sold_out.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.protect.md|sold_out.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.private.md|sold_out.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.personal.md|sold_out.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/sold_out.secret.md|sold_out.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/sold_out.md|sold_out]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/sold_out.internal.md|sold_out.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/sold_out.protect.md|sold_out.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/sold_out.private.md|sold_out.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability/sold_out.personal.md|sold_out.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability/sold_out.secret.md|sold_out.secret]] 

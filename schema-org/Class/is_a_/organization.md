@@ -48,9 +48,9 @@ An organization such as a school, NGO, corporation, club, etc.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Type/is_a_/organization.md|organization]] 
-- [[../../../../_internal/schema.org/Type/is_a_/organization.internal.md|organization.internal]] 
-- [[../../../../_protect/schema.org/Type/is_a_/organization.protect.md|organization.protect]] 
-- [[../../../../_private/schema.org/Type/is_a_/organization.private.md|organization.private]] 
-- [[../../../../_personal/schema.org/Type/is_a_/organization.personal.md|organization.personal]] 
-- [[../../../../_secret/schema.org/Type/is_a_/organization.secret.md|organization.secret]] 
+- [[../../../../_public/schema.org/Class/is_a_/organization.md|organization]] 
+- [[../../../../_internal/schema.org/Class/is_a_/organization.internal.md|organization.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/organization.protect.md|organization.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/organization.private.md|organization.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/organization.personal.md|organization.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/organization.secret.md|organization.secret]] 

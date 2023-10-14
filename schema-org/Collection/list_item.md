@@ -47,9 +47,9 @@ An list item, e.g. a step in a checklist or how-to description.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/list_item.md|list_item]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/list_item.internal.md|list_item.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/list_item.protect.md|list_item.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/list_item.private.md|list_item.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/list_item.personal.md|list_item.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/list_item.secret.md|list_item.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/list_item.md|list_item]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/list_item.internal.md|list_item.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/list_item.protect.md|list_item.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/list_item.private.md|list_item.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/list_item.personal.md|list_item.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/list_item.secret.md|list_item.secret]] 

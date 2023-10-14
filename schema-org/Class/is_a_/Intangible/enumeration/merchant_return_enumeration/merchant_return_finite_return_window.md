@@ -51,9 +51,9 @@ Specifies that there is a finite window for product returns.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.md|merchant_return_finite_return_window]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.internal.md|merchant_return_finite_return_window.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.protect.md|merchant_return_finite_return_window.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.private.md|merchant_return_finite_return_window.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.personal.md|merchant_return_finite_return_window.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.secret.md|merchant_return_finite_return_window.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.md|merchant_return_finite_return_window]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.internal.md|merchant_return_finite_return_window.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.protect.md|merchant_return_finite_return_window.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.private.md|merchant_return_finite_return_window.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.personal.md|merchant_return_finite_return_window.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.secret.md|merchant_return_finite_return_window.secret]] 

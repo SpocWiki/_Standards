@@ -47,9 +47,9 @@ A description of costs to the patient under a given network or formulary.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.md|health_plan_cost_sharing_specification]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.internal.md|health_plan_cost_sharing_specification.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.protect.md|health_plan_cost_sharing_specification.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.private.md|health_plan_cost_sharing_specification.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.personal.md|health_plan_cost_sharing_specification.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/health_plan_cost_sharing_specification.secret.md|health_plan_cost_sharing_specification.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/health_plan_cost_sharing_specification.md|health_plan_cost_sharing_specification]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/health_plan_cost_sharing_specification.internal.md|health_plan_cost_sharing_specification.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/health_plan_cost_sharing_specification.protect.md|health_plan_cost_sharing_specification.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/health_plan_cost_sharing_specification.private.md|health_plan_cost_sharing_specification.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/health_plan_cost_sharing_specification.personal.md|health_plan_cost_sharing_specification.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/health_plan_cost_sharing_specification.secret.md|health_plan_cost_sharing_specification.secret]] 

@@ -47,9 +47,9 @@ A house is a building or structure that has the ability to be occupied for habit
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/accommodation/house.md|house]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/house.internal.md|house.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/house.protect.md|house.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/accommodation/house.private.md|house.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/house.personal.md|house.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/house.secret.md|house.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/accommodation/house.md|house]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/house.internal.md|house.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/house.protect.md|house.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/accommodation/house.private.md|house.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/house.personal.md|house.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/house.secret.md|house.secret]] 

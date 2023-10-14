@@ -45,9 +45,9 @@ A playground.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/playground.md|playground]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/playground.internal.md|playground.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/playground.protect.md|playground.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/playground.private.md|playground.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/playground.personal.md|playground.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/playground.secret.md|playground.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/playground.md|playground]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/playground.internal.md|playground.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/playground.protect.md|playground.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/playground.private.md|playground.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/playground.personal.md|playground.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/playground.secret.md|playground.secret]] 

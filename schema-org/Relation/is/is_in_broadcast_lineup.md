@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_in_broadcast_lineup :: CableOrSatelliteService ] or 
+- [ #is_/in_broadcast_lineup :: CableOrSatelliteService ] or 
 - [ is_in_broadcast_lineup :: CableOrSatelliteService ] 
 
 The CableOrSatelliteService offering the channel.

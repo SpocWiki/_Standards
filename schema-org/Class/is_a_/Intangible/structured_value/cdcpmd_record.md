@@ -49,9 +49,9 @@ A CDCPMDRecord is a data structure representing a record in a CDC tabular data f
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.md|cdcpmd_record]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.internal.md|cdcpmd_record.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.protect.md|cdcpmd_record.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.private.md|cdcpmd_record.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.personal.md|cdcpmd_record.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/cdcpmd_record.secret.md|cdcpmd_record.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/cdcpmd_record.md|cdcpmd_record]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/cdcpmd_record.internal.md|cdcpmd_record.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/cdcpmd_record.protect.md|cdcpmd_record.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/cdcpmd_record.private.md|cdcpmd_record.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/cdcpmd_record.personal.md|cdcpmd_record.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/cdcpmd_record.secret.md|cdcpmd_record.secret]] 

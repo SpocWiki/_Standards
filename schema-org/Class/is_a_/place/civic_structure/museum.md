@@ -45,9 +45,9 @@ A museum.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/museum.md|museum]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/museum.internal.md|museum.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/museum.protect.md|museum.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/museum.private.md|museum.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/museum.personal.md|museum.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/museum.secret.md|museum.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/museum.md|museum]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/museum.internal.md|museum.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/museum.protect.md|museum.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/museum.private.md|museum.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/museum.personal.md|museum.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/museum.secret.md|museum.secret]] 

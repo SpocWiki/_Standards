@@ -45,9 +45,9 @@ Brewery.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.md|brewery]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.internal.md|brewery.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.protect.md|brewery.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.private.md|brewery.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.personal.md|brewery.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/brewery.secret.md|brewery.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/food_establishment/brewery.md|brewery]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/food_establishment/brewery.internal.md|brewery.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/food_establishment/brewery.protect.md|brewery.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/food_establishment/brewery.private.md|brewery.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/food_establishment/brewery.personal.md|brewery.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/food_establishment/brewery.secret.md|brewery.secret]] 

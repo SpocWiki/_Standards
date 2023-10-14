@@ -50,9 +50,9 @@ A <a class="localLink" href="/MediaReview">MediaReview</a> is a more specialized
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/review/media_review.md|media_review]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/media_review.internal.md|media_review.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/media_review.protect.md|media_review.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/review/media_review.private.md|media_review.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/media_review.personal.md|media_review.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/media_review.secret.md|media_review.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/review/media_review.md|media_review]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/review/media_review.internal.md|media_review.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/review/media_review.protect.md|media_review.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/review/media_review.private.md|media_review.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/review/media_review.personal.md|media_review.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/review/media_review.secret.md|media_review.secret]] 

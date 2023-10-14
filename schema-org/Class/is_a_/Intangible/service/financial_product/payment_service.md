@@ -45,9 +45,9 @@ A Service to transfer funds from a person or organization to a beneficiary perso
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.md|payment_service]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.internal.md|payment_service.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.protect.md|payment_service.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.private.md|payment_service.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.personal.md|payment_service.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/payment_service.secret.md|payment_service.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/payment_service.md|payment_service]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/payment_service.internal.md|payment_service.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/payment_service.protect.md|payment_service.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/payment_service.private.md|payment_service.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product/payment_service.personal.md|payment_service.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product/payment_service.secret.md|payment_service.secret]] 

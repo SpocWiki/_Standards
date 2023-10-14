@@ -45,9 +45,9 @@ A Buddhist temple.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.md|buddhist_temple]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.internal.md|buddhist_temple.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.protect.md|buddhist_temple.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.private.md|buddhist_temple.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.personal.md|buddhist_temple.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/buddhist_temple.secret.md|buddhist_temple.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.md|buddhist_temple]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.internal.md|buddhist_temple.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.protect.md|buddhist_temple.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.private.md|buddhist_temple.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.personal.md|buddhist_temple.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/place_of_worship/buddhist_temple.secret.md|buddhist_temple.secret]] 

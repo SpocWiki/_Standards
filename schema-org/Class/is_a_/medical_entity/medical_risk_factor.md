@@ -45,9 +45,9 @@ A risk factor is anything that increases a person's likelihood of developing or 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_risk_factor.md|medical_risk_factor]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_risk_factor.internal.md|medical_risk_factor.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_risk_factor.protect.md|medical_risk_factor.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_risk_factor.private.md|medical_risk_factor.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_risk_factor.personal.md|medical_risk_factor.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_risk_factor.secret.md|medical_risk_factor.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_risk_factor.md|medical_risk_factor]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_risk_factor.internal.md|medical_risk_factor.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_risk_factor.protect.md|medical_risk_factor.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_risk_factor.private.md|medical_risk_factor.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_risk_factor.personal.md|medical_risk_factor.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_risk_factor.secret.md|medical_risk_factor.secret]] 

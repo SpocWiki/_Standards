@@ -51,9 +51,9 @@ For <a href="http://www.gs1.org/barcodes/technical/idkeys/gtin">GTIN</a>-related
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/offer.md|offer]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/offer.internal.md|offer.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/offer.protect.md|offer.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/offer.private.md|offer.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/offer.personal.md|offer.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/offer.secret.md|offer.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/offer.md|offer]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/offer.internal.md|offer.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/offer.protect.md|offer.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/offer.private.md|offer.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/offer.personal.md|offer.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/offer.secret.md|offer.secret]] 

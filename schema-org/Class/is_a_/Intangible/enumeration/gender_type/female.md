@@ -47,9 +47,9 @@ The female gender.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.md|female]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.internal.md|female.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.protect.md|female.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.private.md|female.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.personal.md|female.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/gender_type/female.secret.md|female.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.md|female]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.internal.md|female.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.protect.md|female.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.private.md|female.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.personal.md|female.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.secret.md|female.secret]] 

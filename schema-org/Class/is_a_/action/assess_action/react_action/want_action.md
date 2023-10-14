@@ -45,9 +45,9 @@ The act of expressing a desire about the object. An agent wants an object.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/want_action.md|want_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/want_action.internal.md|want_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/want_action.protect.md|want_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/want_action.private.md|want_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/want_action.personal.md|want_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/want_action.secret.md|want_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/assess_action/react_action/want_action.md|want_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action/want_action.internal.md|want_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/react_action/want_action.protect.md|want_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/react_action/want_action.private.md|want_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/react_action/want_action.personal.md|want_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/react_action/want_action.secret.md|want_action.secret]] 

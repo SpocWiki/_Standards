@@ -41,9 +41,9 @@ A retail good store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store.md|store]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store.internal.md|store.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store.protect.md|store.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store.private.md|store.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store.personal.md|store.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store.secret.md|store.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store.md|store]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store.internal.md|store.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store.protect.md|store.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store.private.md|store.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store.personal.md|store.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store.secret.md|store.secret]] 

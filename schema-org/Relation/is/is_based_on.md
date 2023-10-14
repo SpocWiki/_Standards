@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_based_on :: CreativeWork, Product, URL] or 
+- [ #is_/based_on :: CreativeWork, Product, URL] or 
 - [ is_based_on :: CreativeWork, Product, URL] 
 
 A resource from which this work is derived or from which it is a modification or adaption.

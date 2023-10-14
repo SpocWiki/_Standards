@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending:]
 
 Use it like this: 
-- [ #is/_located_in_subcellular_location :: DefinedTerm, PropertyValue, URL] or 
+- [ #is_/located_in_subcellular_location :: DefinedTerm, PropertyValue, URL] or 
 - [ is_located_in_subcellular_location :: DefinedTerm, PropertyValue, URL] 
 
 Subcellular location where this BioChemEntity is located; please use PropertyValue if you want to include any evidence.

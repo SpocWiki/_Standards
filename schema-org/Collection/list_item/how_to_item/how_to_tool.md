@@ -45,9 +45,9 @@ A tool used (but not consumed) when performing instructions for how to achieve a
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_tool.md|how_to_tool]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_tool.internal.md|how_to_tool.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_tool.protect.md|how_to_tool.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_tool.private.md|how_to_tool.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_tool.personal.md|how_to_tool.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/list_item/how_to_item/how_to_tool.secret.md|how_to_tool.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.md|how_to_tool]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.internal.md|how_to_tool.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.protect.md|how_to_tool.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.private.md|how_to_tool.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.personal.md|how_to_tool.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.secret.md|how_to_tool.secret]] 

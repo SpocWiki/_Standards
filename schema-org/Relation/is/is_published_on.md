@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_published_on :: BroadcastService] or 
+- [ #is_/published_on :: BroadcastService] or 
 - [ is_published_on :: BroadcastService] 
 
 A broadcast service associated with the publication event.

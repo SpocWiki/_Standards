@@ -52,9 +52,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/interact_action/leave_action.md|leave_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/leave_action.internal.md|leave_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/leave_action.protect.md|leave_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/interact_action/leave_action.private.md|leave_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/leave_action.personal.md|leave_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/leave_action.secret.md|leave_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/interact_action/leave_action.md|leave_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/leave_action.internal.md|leave_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/leave_action.protect.md|leave_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/leave_action.private.md|leave_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/leave_action.personal.md|leave_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/leave_action.secret.md|leave_action.secret]] 

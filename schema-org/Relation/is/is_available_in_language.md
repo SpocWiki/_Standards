@@ -39,7 +39,7 @@ A language someone may use with or at the item, service or place. Please use one
 Relation describes that: 
 [ #has_/domain  :: ContactPoint, LodgingBusiness, ServiceChannel, TouristAttraction ]
 ( #has_/name :: is_available_in_language )
-( #has_/range :: [[../../../Type/is_a_thing/intangible/language]], Text )
+( #has_/range :: [[../../../Class/is_a_thing/intangible/language]], Text )
 
 
 

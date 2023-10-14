@@ -45,9 +45,9 @@ An embassy.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.md|embassy]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.internal.md|embassy.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.protect.md|embassy.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.private.md|embassy.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.personal.md|embassy.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/government_building/embassy.secret.md|embassy.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.md|embassy]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.internal.md|embassy.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.protect.md|embassy.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.private.md|embassy.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.personal.md|embassy.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.secret.md|embassy.secret]] 

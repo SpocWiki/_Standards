@@ -45,9 +45,9 @@ A structured representation of food or drink items available from a FoodEstablis
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/menu.md|menu]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/menu.internal.md|menu.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/menu.protect.md|menu.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/menu.private.md|menu.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/menu.personal.md|menu.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/menu.secret.md|menu.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/menu.md|menu]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/menu.internal.md|menu.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/menu.protect.md|menu.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/menu.private.md|menu.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/menu.personal.md|menu.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/menu.secret.md|menu.secret]] 

@@ -45,9 +45,9 @@ A Property value specification.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/property_value_specification.md|property_value_specification]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/property_value_specification.internal.md|property_value_specification.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/property_value_specification.protect.md|property_value_specification.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/property_value_specification.private.md|property_value_specification.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/property_value_specification.personal.md|property_value_specification.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/property_value_specification.secret.md|property_value_specification.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/property_value_specification.md|property_value_specification]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/property_value_specification.internal.md|property_value_specification.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/property_value_specification.protect.md|property_value_specification.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/property_value_specification.private.md|property_value_specification.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/property_value_specification.personal.md|property_value_specification.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/property_value_specification.secret.md|property_value_specification.secret]] 

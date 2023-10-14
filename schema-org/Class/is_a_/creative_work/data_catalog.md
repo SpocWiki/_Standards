@@ -47,9 +47,9 @@ A collection of datasets.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/data_catalog.md|data_catalog]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/data_catalog.internal.md|data_catalog.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/data_catalog.protect.md|data_catalog.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/data_catalog.private.md|data_catalog.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/data_catalog.personal.md|data_catalog.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/data_catalog.secret.md|data_catalog.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/data_catalog.md|data_catalog]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/data_catalog.internal.md|data_catalog.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/data_catalog.protect.md|data_catalog.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/data_catalog.private.md|data_catalog.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/data_catalog.personal.md|data_catalog.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/data_catalog.secret.md|data_catalog.secret]] 

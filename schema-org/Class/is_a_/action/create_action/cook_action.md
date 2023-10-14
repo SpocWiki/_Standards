@@ -45,9 +45,9 @@ The act of producing/preparing food.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/create_action/cook_action.md|cook_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/create_action/cook_action.internal.md|cook_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/create_action/cook_action.protect.md|cook_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/create_action/cook_action.private.md|cook_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/create_action/cook_action.personal.md|cook_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/create_action/cook_action.secret.md|cook_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/create_action/cook_action.md|cook_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/cook_action.internal.md|cook_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/cook_action.protect.md|cook_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/cook_action.private.md|cook_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/create_action/cook_action.personal.md|cook_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/create_action/cook_action.secret.md|cook_action.secret]] 

@@ -54,9 +54,9 @@ The amount of a <a class="localLink" href="/Grant">Grant</a> is represented usin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/grant.md|grant]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/grant.internal.md|grant.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/grant.protect.md|grant.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/grant.private.md|grant.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/grant.personal.md|grant.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/grant.secret.md|grant.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/grant.md|grant]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/grant.internal.md|grant.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/grant.protect.md|grant.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/grant.private.md|grant.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/grant.personal.md|grant.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/grant.secret.md|grant.secret]] 

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_accessory_or_spare_part_for :: Product] or 
+- [ #is_/accessory_or_spare_part_for :: Product] or 
 - [ is_accessory_or_spare_part_for :: Product] 
 
 A pointer to another product (or multiple products) for which this product is an accessory or spare part.

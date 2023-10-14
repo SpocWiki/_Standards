@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_originating_from :: Vessel] or 
+- [ #is_/originating_from :: Vessel] or 
 - [ is_originating_from :: Vessel] 
 
 The vasculature the lymphatic structure originates, or afferents, from.

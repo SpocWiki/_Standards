@@ -29,7 +29,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_owning :: OwnershipInfo, Product ] or 
+- [ #is_/owning :: OwnershipInfo, Product ] or 
 - [ is_owning :: OwnershipInfo, Product ] 
 
 Products owned by the organization or person.

@@ -45,9 +45,9 @@ Vital signs are measures of various physiological functions in order to assess t
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.md|vital_sign]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.internal.md|vital_sign.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.protect.md|vital_sign.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.private.md|vital_sign.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.personal.md|vital_sign.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.secret.md|vital_sign.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.md|vital_sign]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.internal.md|vital_sign.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.protect.md|vital_sign.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.private.md|vital_sign.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.personal.md|vital_sign.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.secret.md|vital_sign.secret]] 

@@ -47,9 +47,9 @@ A quotation. Often but not necessarily from some written work, attributable to a
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/quotation.md|quotation]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/quotation.internal.md|quotation.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/quotation.protect.md|quotation.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/quotation.private.md|quotation.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/quotation.personal.md|quotation.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/quotation.secret.md|quotation.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/quotation.md|quotation]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/quotation.internal.md|quotation.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/quotation.protect.md|quotation.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/quotation.private.md|quotation.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/quotation.personal.md|quotation.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/quotation.secret.md|quotation.secret]] 

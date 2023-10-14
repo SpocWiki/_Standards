@@ -47,9 +47,9 @@ The act of interacting with another person or organization.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/action/interact_action.md|interact_action]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/action/interact_action.internal.md|interact_action.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/action/interact_action.protect.md|interact_action.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/action/interact_action.private.md|interact_action.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/action/interact_action.personal.md|interact_action.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/action/interact_action.secret.md|interact_action.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/action/interact_action.md|interact_action]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/interact_action.internal.md|interact_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/interact_action.protect.md|interact_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/interact_action.private.md|interact_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/interact_action.personal.md|interact_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/interact_action.secret.md|interact_action.secret]] 

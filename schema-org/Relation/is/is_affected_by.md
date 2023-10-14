@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_affected_by :: Drug ] or 
+- [ #is_/affected_by :: Drug ] or 
 - [ is_affected_by :: Drug ] 
 
 Drugs that affect the test's results.

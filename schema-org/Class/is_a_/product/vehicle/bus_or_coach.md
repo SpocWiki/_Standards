@@ -47,9 +47,9 @@ A bus (also omnibus or autobus) is a road vehicle designed to carry passengers. 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/product/vehicle/bus_or_coach.md|bus_or_coach]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/product/vehicle/bus_or_coach.internal.md|bus_or_coach.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/product/vehicle/bus_or_coach.protect.md|bus_or_coach.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/product/vehicle/bus_or_coach.private.md|bus_or_coach.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/product/vehicle/bus_or_coach.personal.md|bus_or_coach.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/product/vehicle/bus_or_coach.secret.md|bus_or_coach.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/product/vehicle/bus_or_coach.md|bus_or_coach]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/product/vehicle/bus_or_coach.internal.md|bus_or_coach.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/product/vehicle/bus_or_coach.protect.md|bus_or_coach.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/product/vehicle/bus_or_coach.private.md|bus_or_coach.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/product/vehicle/bus_or_coach.personal.md|bus_or_coach.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/product/vehicle/bus_or_coach.secret.md|bus_or_coach.secret]] 

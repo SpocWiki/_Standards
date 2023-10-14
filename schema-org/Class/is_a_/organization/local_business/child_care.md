@@ -45,9 +45,9 @@ A Childcare center.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/child_care.md|child_care]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/child_care.internal.md|child_care.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/child_care.protect.md|child_care.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/child_care.private.md|child_care.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/child_care.personal.md|child_care.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/child_care.secret.md|child_care.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/child_care.md|child_care]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/child_care.internal.md|child_care.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/child_care.protect.md|child_care.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/child_care.private.md|child_care.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/child_care.personal.md|child_care.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/child_care.secret.md|child_care.secret]] 

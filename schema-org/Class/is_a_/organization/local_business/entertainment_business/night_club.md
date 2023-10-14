@@ -45,9 +45,9 @@ A nightclub or discotheque.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.md|night_club]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.internal.md|night_club.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.protect.md|night_club.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.private.md|night_club.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.personal.md|night_club.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/night_club.secret.md|night_club.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.md|night_club]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.internal.md|night_club.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.protect.md|night_club.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.private.md|night_club.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.personal.md|night_club.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/entertainment_business/night_club.secret.md|night_club.secret]] 

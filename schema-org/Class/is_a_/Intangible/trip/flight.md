@@ -45,9 +45,9 @@ An airline flight.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/trip/flight.md|flight]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/trip/flight.internal.md|flight.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/trip/flight.protect.md|flight.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/trip/flight.private.md|flight.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/trip/flight.personal.md|flight.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/trip/flight.secret.md|flight.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/trip/flight.md|flight]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/trip/flight.internal.md|flight.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/trip/flight.protect.md|flight.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/trip/flight.private.md|flight.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/trip/flight.personal.md|flight.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/trip/flight.secret.md|flight.secret]] 

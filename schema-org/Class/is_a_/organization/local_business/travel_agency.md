@@ -45,9 +45,9 @@ A travel agency.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/travel_agency.md|travel_agency]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/travel_agency.internal.md|travel_agency.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/travel_agency.protect.md|travel_agency.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/travel_agency.private.md|travel_agency.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/travel_agency.personal.md|travel_agency.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/travel_agency.secret.md|travel_agency.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/travel_agency.md|travel_agency]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/travel_agency.internal.md|travel_agency.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/travel_agency.protect.md|travel_agency.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/travel_agency.private.md|travel_agency.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/travel_agency.personal.md|travel_agency.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/travel_agency.secret.md|travel_agency.secret]] 

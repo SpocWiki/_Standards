@@ -52,9 +52,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/transfer_action/take_action.md|take_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/transfer_action/take_action.internal.md|take_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/transfer_action/take_action.protect.md|take_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/transfer_action/take_action.private.md|take_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/transfer_action/take_action.personal.md|take_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/transfer_action/take_action.secret.md|take_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/take_action.md|take_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/transfer_action/take_action.internal.md|take_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/transfer_action/take_action.protect.md|take_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/transfer_action/take_action.private.md|take_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/transfer_action/take_action.personal.md|take_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/transfer_action/take_action.secret.md|take_action.secret]] 

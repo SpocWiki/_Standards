@@ -45,9 +45,9 @@ A moving company.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/moving_company.md|moving_company]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/moving_company.internal.md|moving_company.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/moving_company.protect.md|moving_company.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/moving_company.private.md|moving_company.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/moving_company.personal.md|moving_company.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/home_and_construction_business/moving_company.secret.md|moving_company.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.md|moving_company]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.internal.md|moving_company.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.protect.md|moving_company.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.private.md|moving_company.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.personal.md|moving_company.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/home_and_construction_business/moving_company.secret.md|moving_company.secret]] 

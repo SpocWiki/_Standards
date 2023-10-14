@@ -47,9 +47,9 @@ As a <a class="localLink" href="/LocalBusiness">LocalBusiness</a> it can be desc
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/financial_service/accounting_service.md|accounting_service]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/financial_service/accounting_service.internal.md|accounting_service.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/financial_service/accounting_service.protect.md|accounting_service.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/financial_service/accounting_service.private.md|accounting_service.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/financial_service/accounting_service.personal.md|accounting_service.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/financial_service/accounting_service.secret.md|accounting_service.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/financial_service/accounting_service.md|accounting_service]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/financial_service/accounting_service.internal.md|accounting_service.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/financial_service/accounting_service.protect.md|accounting_service.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/financial_service/accounting_service.private.md|accounting_service.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/financial_service/accounting_service.personal.md|accounting_service.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/financial_service/accounting_service.secret.md|accounting_service.secret]] 

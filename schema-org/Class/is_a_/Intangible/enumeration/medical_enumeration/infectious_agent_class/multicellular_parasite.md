@@ -47,9 +47,9 @@ Multicellular parasite that causes an infection.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.md|multicellular_parasite]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.internal.md|multicellular_parasite.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.protect.md|multicellular_parasite.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.private.md|multicellular_parasite.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.personal.md|multicellular_parasite.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.secret.md|multicellular_parasite.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.md|multicellular_parasite]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.internal.md|multicellular_parasite.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.protect.md|multicellular_parasite.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.private.md|multicellular_parasite.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.personal.md|multicellular_parasite.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.secret.md|multicellular_parasite.secret]] 

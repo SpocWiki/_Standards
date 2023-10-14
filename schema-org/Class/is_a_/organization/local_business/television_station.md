@@ -45,9 +45,9 @@ A television station.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/television_station.md|television_station]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/television_station.internal.md|television_station.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/television_station.protect.md|television_station.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/television_station.private.md|television_station.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/television_station.personal.md|television_station.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/television_station.secret.md|television_station.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/television_station.md|television_station]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/television_station.internal.md|television_station.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/television_station.protect.md|television_station.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/television_station.private.md|television_station.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/television_station.personal.md|television_station.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/television_station.secret.md|television_station.secret]] 

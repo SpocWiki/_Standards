@@ -45,9 +45,9 @@ Server that provides game interaction in a multiplayer game.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/game_server.md|game_server]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/game_server.internal.md|game_server.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/game_server.protect.md|game_server.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/game_server.private.md|game_server.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/game_server.personal.md|game_server.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/game_server.secret.md|game_server.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/game_server.md|game_server]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/game_server.internal.md|game_server.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/game_server.protect.md|game_server.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/game_server.private.md|game_server.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/game_server.personal.md|game_server.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/game_server.secret.md|game_server.secret]] 

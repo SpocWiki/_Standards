@@ -47,9 +47,9 @@ A particular physical or virtual business of an organization for medical purpose
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business.md|medical_business]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business.internal.md|medical_business.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business.protect.md|medical_business.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business.private.md|medical_business.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business.personal.md|medical_business.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business.secret.md|medical_business.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business.md|medical_business]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business.internal.md|medical_business.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business.protect.md|medical_business.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business.private.md|medical_business.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business.personal.md|medical_business.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business.secret.md|medical_business.secret]] 

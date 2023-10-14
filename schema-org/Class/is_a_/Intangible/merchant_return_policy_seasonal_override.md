@@ -47,9 +47,9 @@ A seasonal override of a return policy, for example used for holidays.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.md|merchant_return_policy_seasonal_override]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.internal.md|merchant_return_policy_seasonal_override.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.protect.md|merchant_return_policy_seasonal_override.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.private.md|merchant_return_policy_seasonal_override.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.personal.md|merchant_return_policy_seasonal_override.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/merchant_return_policy_seasonal_override.secret.md|merchant_return_policy_seasonal_override.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.md|merchant_return_policy_seasonal_override]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.internal.md|merchant_return_policy_seasonal_override.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.protect.md|merchant_return_policy_seasonal_override.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.private.md|merchant_return_policy_seasonal_override.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.personal.md|merchant_return_policy_seasonal_override.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.secret.md|merchant_return_policy_seasonal_override.secret]] 

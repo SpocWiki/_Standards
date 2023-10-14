@@ -45,9 +45,9 @@ A sporting goods store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/sporting_goods_store.md|sporting_goods_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/sporting_goods_store.internal.md|sporting_goods_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/sporting_goods_store.protect.md|sporting_goods_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/sporting_goods_store.private.md|sporting_goods_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/sporting_goods_store.personal.md|sporting_goods_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/sporting_goods_store.secret.md|sporting_goods_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/sporting_goods_store.md|sporting_goods_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/sporting_goods_store.internal.md|sporting_goods_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/sporting_goods_store.protect.md|sporting_goods_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/sporting_goods_store.private.md|sporting_goods_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/sporting_goods_store.personal.md|sporting_goods_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/sporting_goods_store.secret.md|sporting_goods_store.secret]] 

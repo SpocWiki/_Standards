@@ -45,9 +45,9 @@ The costs of settling the payment using a particular payment method.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.md|payment_charge_specification]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.internal.md|payment_charge_specification.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.protect.md|payment_charge_specification.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.private.md|payment_charge_specification.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.personal.md|payment_charge_specification.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/price_specification/payment_charge_specification.secret.md|payment_charge_specification.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/price_specification/payment_charge_specification.md|payment_charge_specification]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/price_specification/payment_charge_specification.internal.md|payment_charge_specification.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/price_specification/payment_charge_specification.protect.md|payment_charge_specification.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/price_specification/payment_charge_specification.private.md|payment_charge_specification.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/price_specification/payment_charge_specification.personal.md|payment_charge_specification.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/price_specification/payment_charge_specification.secret.md|payment_charge_specification.secret]] 

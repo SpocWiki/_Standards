@@ -53,9 +53,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/interact_action/register_action.md|register_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/register_action.internal.md|register_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/register_action.protect.md|register_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/interact_action/register_action.private.md|register_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/register_action.personal.md|register_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/register_action.secret.md|register_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/interact_action/register_action.md|register_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/register_action.internal.md|register_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/register_action.protect.md|register_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/register_action.private.md|register_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/register_action.personal.md|register_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/register_action.secret.md|register_action.secret]] 

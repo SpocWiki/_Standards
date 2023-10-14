@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_making_offer :: Offer] or 
+- [ #is_/making_offer :: Offer] or 
 - [ is_making_offer :: Offer] 
 
 A pointer to products or services offered by the organization or person.

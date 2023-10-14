@@ -49,9 +49,9 @@ A person (alive, dead, undead, or fictional).
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Type/is_a_/person.md|person]] 
-- [[../../../../_internal/schema.org/Type/is_a_/person.internal.md|person.internal]] 
-- [[../../../../_protect/schema.org/Type/is_a_/person.protect.md|person.protect]] 
-- [[../../../../_private/schema.org/Type/is_a_/person.private.md|person.private]] 
-- [[../../../../_personal/schema.org/Type/is_a_/person.personal.md|person.personal]] 
-- [[../../../../_secret/schema.org/Type/is_a_/person.secret.md|person.secret]] 
+- [[../../../../_public/schema.org/Class/is_a_/person.md|person]] 
+- [[../../../../_internal/schema.org/Class/is_a_/person.internal.md|person.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/person.protect.md|person.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/person.private.md|person.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/person.personal.md|person.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/person.secret.md|person.secret]] 

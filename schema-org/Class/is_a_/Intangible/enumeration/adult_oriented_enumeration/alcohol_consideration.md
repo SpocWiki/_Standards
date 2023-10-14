@@ -49,9 +49,9 @@ Item contains alcohol or promotes alcohol consumption.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.md|alcohol_consideration]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.internal.md|alcohol_consideration.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.protect.md|alcohol_consideration.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.private.md|alcohol_consideration.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.personal.md|alcohol_consideration.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.secret.md|alcohol_consideration.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.md|alcohol_consideration]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.internal.md|alcohol_consideration.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.protect.md|alcohol_consideration.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.private.md|alcohol_consideration.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.personal.md|alcohol_consideration.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.secret.md|alcohol_consideration.secret]] 

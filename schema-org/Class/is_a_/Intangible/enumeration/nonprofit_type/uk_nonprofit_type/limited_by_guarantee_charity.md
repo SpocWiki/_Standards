@@ -49,9 +49,9 @@ LimitedByGuaranteeCharity: Non-profit type referring to a charitable company tha
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.md|limited_by_guarantee_charity]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.internal.md|limited_by_guarantee_charity.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.protect.md|limited_by_guarantee_charity.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.private.md|limited_by_guarantee_charity.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.personal.md|limited_by_guarantee_charity.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.secret.md|limited_by_guarantee_charity.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.md|limited_by_guarantee_charity]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.internal.md|limited_by_guarantee_charity.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.protect.md|limited_by_guarantee_charity.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.private.md|limited_by_guarantee_charity.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.personal.md|limited_by_guarantee_charity.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.secret.md|limited_by_guarantee_charity.secret]] 

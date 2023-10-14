@@ -41,9 +41,9 @@ Tag Instances like this:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/consume_action/use_action.md|use_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/use_action.internal.md|use_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/use_action.protect.md|use_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/consume_action/use_action.private.md|use_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/use_action.personal.md|use_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/use_action.secret.md|use_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/use_action.md|use_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/use_action.internal.md|use_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/use_action.protect.md|use_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/use_action.private.md|use_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/use_action.personal.md|use_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/use_action.secret.md|use_action.secret]] 

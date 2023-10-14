@@ -45,9 +45,9 @@ A hardware store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/hardware_store.md|hardware_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/hardware_store.internal.md|hardware_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/hardware_store.protect.md|hardware_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/hardware_store.private.md|hardware_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/hardware_store.personal.md|hardware_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/hardware_store.secret.md|hardware_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/hardware_store.md|hardware_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/hardware_store.internal.md|hardware_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/hardware_store.protect.md|hardware_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/hardware_store.private.md|hardware_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/hardware_store.personal.md|hardware_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/hardware_store.secret.md|hardware_store.secret]] 

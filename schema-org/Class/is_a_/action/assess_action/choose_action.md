@@ -47,9 +47,9 @@ The act of expressing a preference from a set of options or a large or unbounded
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/assess_action/choose_action.md|choose_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/choose_action.internal.md|choose_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/choose_action.protect.md|choose_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/assess_action/choose_action.private.md|choose_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/choose_action.personal.md|choose_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/choose_action.secret.md|choose_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/assess_action/choose_action.md|choose_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/choose_action.internal.md|choose_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/choose_action.protect.md|choose_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/assess_action/choose_action.private.md|choose_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/choose_action.personal.md|choose_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/choose_action.secret.md|choose_action.secret]] 

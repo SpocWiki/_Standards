@@ -45,9 +45,9 @@ CreativeWorkSeries dedicated to TV broadcast and associated online delivery.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/tv_series.md|tv_series]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/tv_series.internal.md|tv_series.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/tv_series.protect.md|tv_series.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/tv_series.private.md|tv_series.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/tv_series.personal.md|tv_series.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/tv_series.secret.md|tv_series.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/tv_series.md|tv_series]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/tv_series.internal.md|tv_series.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/tv_series.protect.md|tv_series.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/tv_series.private.md|tv_series.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/tv_series.personal.md|tv_series.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/tv_series.secret.md|tv_series.secret]] 

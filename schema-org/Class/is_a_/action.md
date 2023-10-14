@@ -54,9 +54,9 @@ while `schema:Activity` is used for broader, ongoing processes or events that ma
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Type/is_a_/action.md|action]] 
-- [[../../../../_internal/schema.org/Type/is_a_/action.internal.md|action.internal]] 
-- [[../../../../_protect/schema.org/Type/is_a_/action.protect.md|action.protect]] 
-- [[../../../../_private/schema.org/Type/is_a_/action.private.md|action.private]] 
-- [[../../../../_personal/schema.org/Type/is_a_/action.personal.md|action.personal]] 
-- [[../../../../_secret/schema.org/Type/is_a_/action.secret.md|action.secret]] 
+- [[../../../../_public/schema.org/Class/is_a_/action.md|action]] 
+- [[../../../../_internal/schema.org/Class/is_a_/action.internal.md|action.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/action.protect.md|action.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/action.private.md|action.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/action.personal.md|action.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/action.secret.md|action.secret]] 

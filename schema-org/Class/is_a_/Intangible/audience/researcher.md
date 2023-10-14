@@ -45,9 +45,9 @@ Researchers.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/audience/researcher.md|researcher]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/researcher.internal.md|researcher.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/researcher.protect.md|researcher.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/audience/researcher.private.md|researcher.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/researcher.personal.md|researcher.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/researcher.secret.md|researcher.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/audience/researcher.md|researcher]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/researcher.internal.md|researcher.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/researcher.protect.md|researcher.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/audience/researcher.private.md|researcher.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/audience/researcher.personal.md|researcher.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/audience/researcher.secret.md|researcher.secret]] 

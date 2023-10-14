@@ -47,9 +47,9 @@ BroadcastRelease.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.md|broadcast_release]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.internal.md|broadcast_release.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.protect.md|broadcast_release.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.private.md|broadcast_release.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.personal.md|broadcast_release.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.secret.md|broadcast_release.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.md|broadcast_release]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.internal.md|broadcast_release.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.protect.md|broadcast_release.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.private.md|broadcast_release.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.personal.md|broadcast_release.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.secret.md|broadcast_release.secret]] 

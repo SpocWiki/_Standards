@@ -49,9 +49,9 @@ OfflineEventAttendanceMode - an event that is primarily conducted offline.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.md|offline_event_attendance_mode]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.internal.md|offline_event_attendance_mode.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.protect.md|offline_event_attendance_mode.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.private.md|offline_event_attendance_mode.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.personal.md|offline_event_attendance_mode.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.secret.md|offline_event_attendance_mode.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.md|offline_event_attendance_mode]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.internal.md|offline_event_attendance_mode.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.protect.md|offline_event_attendance_mode.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.private.md|offline_event_attendance_mode.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.personal.md|offline_event_attendance_mode.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.secret.md|offline_event_attendance_mode.secret]] 

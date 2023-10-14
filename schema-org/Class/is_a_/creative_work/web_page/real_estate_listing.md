@@ -48,9 +48,9 @@ A <a class="localLink" href="/RealEstateListing">RealEstateListing</a> is a list
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.md|real_estate_listing]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.internal.md|real_estate_listing.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.protect.md|real_estate_listing.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.private.md|real_estate_listing.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.personal.md|real_estate_listing.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/real_estate_listing.secret.md|real_estate_listing.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page/real_estate_listing.md|real_estate_listing]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page/real_estate_listing.internal.md|real_estate_listing.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page/real_estate_listing.protect.md|real_estate_listing.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page/real_estate_listing.private.md|real_estate_listing.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page/real_estate_listing.personal.md|real_estate_listing.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page/real_estate_listing.secret.md|real_estate_listing.secret]] 

@@ -43,9 +43,9 @@ The status of a medical study. Enumerated type.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.md|medical_study_status]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.internal.md|medical_study_status.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.protect.md|medical_study_status.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.private.md|medical_study_status.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.personal.md|medical_study_status.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.secret.md|medical_study_status.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.md|medical_study_status]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.internal.md|medical_study_status.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.protect.md|medical_study_status.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.private.md|medical_study_status.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.personal.md|medical_study_status.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status.secret.md|medical_study_status.secret]] 

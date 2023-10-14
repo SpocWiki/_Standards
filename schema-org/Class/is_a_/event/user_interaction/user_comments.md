@@ -47,9 +47,9 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_comments.md|user_comments]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_comments.internal.md|user_comments.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_comments.protect.md|user_comments.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_comments.private.md|user_comments.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_comments.personal.md|user_comments.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_comments.secret.md|user_comments.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/event/user_interaction/user_comments.md|user_comments]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_comments.internal.md|user_comments.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_comments.protect.md|user_comments.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_comments.private.md|user_comments.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_comments.personal.md|user_comments.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_comments.secret.md|user_comments.secret]] 

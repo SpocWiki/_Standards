@@ -48,9 +48,9 @@ Tag Instances like this:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/bed_details.md|bed_details]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/bed_details.internal.md|bed_details.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/bed_details.protect.md|bed_details.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/bed_details.private.md|bed_details.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/bed_details.personal.md|bed_details.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/bed_details.secret.md|bed_details.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/bed_details.md|bed_details]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/bed_details.internal.md|bed_details.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/bed_details.protect.md|bed_details.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/bed_details.private.md|bed_details.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/bed_details.personal.md|bed_details.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/bed_details.secret.md|bed_details.secret]] 

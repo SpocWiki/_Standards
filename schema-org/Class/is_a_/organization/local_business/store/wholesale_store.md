@@ -45,9 +45,9 @@ A wholesale store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/wholesale_store.md|wholesale_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/wholesale_store.internal.md|wholesale_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/wholesale_store.protect.md|wholesale_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/wholesale_store.private.md|wholesale_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/wholesale_store.personal.md|wholesale_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/wholesale_store.secret.md|wholesale_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.md|wholesale_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.internal.md|wholesale_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.protect.md|wholesale_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.private.md|wholesale_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.personal.md|wholesale_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.secret.md|wholesale_store.secret]] 

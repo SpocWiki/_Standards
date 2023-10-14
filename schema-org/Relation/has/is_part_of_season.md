@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_part_of_season :: CreativeWorkSeason ] or 
+- [ #is_/part_of_season :: CreativeWorkSeason ] or 
 - [ is_part_of_season :: CreativeWorkSeason ] 
 
 The season to which this episode belongs.

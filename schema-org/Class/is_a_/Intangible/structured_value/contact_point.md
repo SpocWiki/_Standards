@@ -47,9 +47,9 @@ A contact point&#x2014;for example, a Customer Complaints department.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/contact_point.md|contact_point]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/contact_point.internal.md|contact_point.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/contact_point.protect.md|contact_point.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/contact_point.private.md|contact_point.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/contact_point.personal.md|contact_point.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/contact_point.secret.md|contact_point.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/contact_point.md|contact_point]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/contact_point.internal.md|contact_point.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/contact_point.protect.md|contact_point.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/contact_point.private.md|contact_point.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/contact_point.personal.md|contact_point.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/contact_point.secret.md|contact_point.secret]] 

@@ -45,9 +45,9 @@ A library.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/library.md|library]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/library.internal.md|library.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/library.protect.md|library.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/library.private.md|library.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/library.personal.md|library.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/library.secret.md|library.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/library.md|library]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/library.internal.md|library.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/library.protect.md|library.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/library.private.md|library.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/library.personal.md|library.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/library.secret.md|library.secret]] 

@@ -45,9 +45,9 @@ A <a href="https://en.wikipedia.org/wiki/Blog">blog</a>, sometimes known as a "w
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/blog.md|blog]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/blog.internal.md|blog.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/blog.protect.md|blog.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/blog.private.md|blog.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/blog.personal.md|blog.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/blog.secret.md|blog.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/blog.md|blog]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/blog.internal.md|blog.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/blog.protect.md|blog.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/blog.private.md|blog.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/blog.personal.md|blog.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/blog.secret.md|blog.secret]] 

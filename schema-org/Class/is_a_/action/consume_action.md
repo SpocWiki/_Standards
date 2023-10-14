@@ -47,9 +47,9 @@ The act of ingesting information/resources/food.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/action/consume_action.md|consume_action]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/action/consume_action.internal.md|consume_action.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/action/consume_action.protect.md|consume_action.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/action/consume_action.private.md|consume_action.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/action/consume_action.personal.md|consume_action.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/action/consume_action.secret.md|consume_action.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/action/consume_action.md|consume_action]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/consume_action.internal.md|consume_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/consume_action.protect.md|consume_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/consume_action.private.md|consume_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/consume_action.personal.md|consume_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/consume_action.secret.md|consume_action.secret]] 

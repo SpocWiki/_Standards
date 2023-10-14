@@ -49,9 +49,9 @@ ParentalSupport: this is a benefit for parental support.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/parental_support.md|parental_support]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/parental_support.internal.md|parental_support.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/parental_support.protect.md|parental_support.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/parental_support.private.md|parental_support.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/parental_support.personal.md|parental_support.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/parental_support.secret.md|parental_support.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/parental_support.md|parental_support]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/parental_support.internal.md|parental_support.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/parental_support.protect.md|parental_support.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/parental_support.private.md|parental_support.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/parental_support.personal.md|parental_support.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/parental_support.secret.md|parental_support.secret]] 

@@ -47,9 +47,9 @@ See also the <a href="/docs/hotels.html">dedicated document on the use of schema
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/accommodation/suite.md|suite]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/suite.internal.md|suite.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/suite.protect.md|suite.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/accommodation/suite.private.md|suite.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/suite.personal.md|suite.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/suite.secret.md|suite.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/accommodation/suite.md|suite]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/suite.internal.md|suite.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/suite.protect.md|suite.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/accommodation/suite.private.md|suite.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/suite.personal.md|suite.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/suite.secret.md|suite.secret]] 

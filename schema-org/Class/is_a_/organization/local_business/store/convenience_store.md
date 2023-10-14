@@ -45,9 +45,9 @@ A convenience store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/convenience_store.md|convenience_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/convenience_store.internal.md|convenience_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/convenience_store.protect.md|convenience_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/convenience_store.private.md|convenience_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/convenience_store.personal.md|convenience_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/convenience_store.secret.md|convenience_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/convenience_store.md|convenience_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/convenience_store.internal.md|convenience_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/convenience_store.protect.md|convenience_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/convenience_store.private.md|convenience_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/convenience_store.personal.md|convenience_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/convenience_store.secret.md|convenience_store.secret]] 

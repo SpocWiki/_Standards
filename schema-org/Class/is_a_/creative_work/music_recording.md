@@ -45,9 +45,9 @@ A music recording (track), usually a single song.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/music_recording.md|music_recording]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/music_recording.internal.md|music_recording.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/music_recording.protect.md|music_recording.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/music_recording.private.md|music_recording.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/music_recording.personal.md|music_recording.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/music_recording.secret.md|music_recording.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/music_recording.md|music_recording]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/music_recording.internal.md|music_recording.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/music_recording.protect.md|music_recording.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/music_recording.private.md|music_recording.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/music_recording.personal.md|music_recording.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/music_recording.secret.md|music_recording.secret]] 

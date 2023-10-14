@@ -47,9 +47,9 @@ An audio file.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/media_object/audio_object.md|audio_object]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/media_object/audio_object.internal.md|audio_object.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/media_object/audio_object.protect.md|audio_object.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/media_object/audio_object.private.md|audio_object.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/media_object/audio_object.personal.md|audio_object.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/media_object/audio_object.secret.md|audio_object.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/media_object/audio_object.md|audio_object]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/media_object/audio_object.internal.md|audio_object.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/media_object/audio_object.protect.md|audio_object.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/media_object/audio_object.private.md|audio_object.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/media_object/audio_object.personal.md|audio_object.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/media_object/audio_object.secret.md|audio_object.secret]] 

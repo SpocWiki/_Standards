@@ -47,9 +47,9 @@ A comment on an item - for example, a comment on a blog post. The comment's cont
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/comment.md|comment]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/comment.internal.md|comment.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/comment.protect.md|comment.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/comment.private.md|comment.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/comment.personal.md|comment.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/comment.secret.md|comment.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/comment.md|comment]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/comment.internal.md|comment.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/comment.protect.md|comment.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/comment.private.md|comment.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/comment.personal.md|comment.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/comment.secret.md|comment.secret]] 

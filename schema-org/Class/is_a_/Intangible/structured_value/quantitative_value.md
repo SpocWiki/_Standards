@@ -45,9 +45,9 @@ A point value or interval for product characteristics and other purposes.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/quantitative_value.md|quantitative_value]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/quantitative_value.internal.md|quantitative_value.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/quantitative_value.protect.md|quantitative_value.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/quantitative_value.private.md|quantitative_value.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/quantitative_value.personal.md|quantitative_value.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/quantitative_value.secret.md|quantitative_value.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/quantitative_value.md|quantitative_value]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/quantitative_value.internal.md|quantitative_value.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/quantitative_value.protect.md|quantitative_value.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/quantitative_value.private.md|quantitative_value.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/quantitative_value.personal.md|quantitative_value.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/quantitative_value.secret.md|quantitative_value.secret]] 

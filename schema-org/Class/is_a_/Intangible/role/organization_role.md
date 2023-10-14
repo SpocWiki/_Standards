@@ -47,9 +47,9 @@ A subclass of Role used to describe roles within organizations.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/role/organization_role.md|organization_role]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/role/organization_role.internal.md|organization_role.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/role/organization_role.protect.md|organization_role.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/role/organization_role.private.md|organization_role.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/role/organization_role.personal.md|organization_role.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/role/organization_role.secret.md|organization_role.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/role/organization_role.md|organization_role]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/role/organization_role.internal.md|organization_role.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/role/organization_role.protect.md|organization_role.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/role/organization_role.private.md|organization_role.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/role/organization_role.personal.md|organization_role.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/role/organization_role.secret.md|organization_role.secret]] 

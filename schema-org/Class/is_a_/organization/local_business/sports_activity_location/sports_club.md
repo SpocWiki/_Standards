@@ -45,9 +45,9 @@ A sports club.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.md|sports_club]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.internal.md|sports_club.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.protect.md|sports_club.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.private.md|sports_club.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.personal.md|sports_club.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/sports_activity_location/sports_club.secret.md|sports_club.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.md|sports_club]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.internal.md|sports_club.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.protect.md|sports_club.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.private.md|sports_club.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.personal.md|sports_club.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/sports_activity_location/sports_club.secret.md|sports_club.secret]] 

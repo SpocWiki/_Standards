@@ -47,9 +47,9 @@ The geographic shape of a place. A GeoShape can be described using several prope
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/geo_shape.md|geo_shape]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/geo_shape.internal.md|geo_shape.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/geo_shape.protect.md|geo_shape.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/geo_shape.private.md|geo_shape.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/geo_shape.personal.md|geo_shape.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/geo_shape.secret.md|geo_shape.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/geo_shape.md|geo_shape]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/geo_shape.internal.md|geo_shape.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/geo_shape.protect.md|geo_shape.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/geo_shape.private.md|geo_shape.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/geo_shape.personal.md|geo_shape.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/geo_shape.secret.md|geo_shape.secret]] 

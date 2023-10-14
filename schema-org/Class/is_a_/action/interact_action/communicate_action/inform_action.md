@@ -47,9 +47,9 @@ The act of notifying someone of information pertinent to them, with no expectati
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.md|inform_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.internal.md|inform_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.protect.md|inform_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.private.md|inform_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.personal.md|inform_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/communicate_action/inform_action.secret.md|inform_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action.md|inform_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action.internal.md|inform_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action.protect.md|inform_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action.private.md|inform_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action.personal.md|inform_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action.secret.md|inform_action.secret]] 

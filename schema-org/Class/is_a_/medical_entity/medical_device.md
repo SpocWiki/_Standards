@@ -47,9 +47,9 @@ Any object used in a medical capacity, such as to diagnose or treat a patient.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_device.md|medical_device]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_device.internal.md|medical_device.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_device.protect.md|medical_device.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_device.private.md|medical_device.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_device.personal.md|medical_device.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_device.secret.md|medical_device.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_device.md|medical_device]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_device.internal.md|medical_device.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_device.protect.md|medical_device.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_device.private.md|medical_device.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_device.personal.md|medical_device.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_device.secret.md|medical_device.secret]] 

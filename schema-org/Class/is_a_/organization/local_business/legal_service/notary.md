@@ -45,9 +45,9 @@ A notary.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/legal_service/notary.md|notary]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/legal_service/notary.internal.md|notary.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/legal_service/notary.protect.md|notary.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/legal_service/notary.private.md|notary.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/legal_service/notary.personal.md|notary.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/legal_service/notary.secret.md|notary.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/legal_service/notary.md|notary]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/legal_service/notary.internal.md|notary.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/legal_service/notary.protect.md|notary.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/legal_service/notary.private.md|notary.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/legal_service/notary.personal.md|notary.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/legal_service/notary.secret.md|notary.secret]] 

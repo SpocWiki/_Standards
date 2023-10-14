@@ -51,9 +51,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/organize_action/allocate_action/reject_action.md|reject_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/allocate_action/reject_action.internal.md|reject_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/allocate_action/reject_action.protect.md|reject_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/organize_action/allocate_action/reject_action.private.md|reject_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/allocate_action/reject_action.personal.md|reject_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/allocate_action/reject_action.secret.md|reject_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.md|reject_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.internal.md|reject_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.protect.md|reject_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.private.md|reject_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.personal.md|reject_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.secret.md|reject_action.secret]] 

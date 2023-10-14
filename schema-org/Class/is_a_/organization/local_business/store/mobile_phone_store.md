@@ -45,9 +45,9 @@ A store that sells mobile phones and related accessories.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.md|mobile_phone_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.internal.md|mobile_phone_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.protect.md|mobile_phone_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.private.md|mobile_phone_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.personal.md|mobile_phone_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/mobile_phone_store.secret.md|mobile_phone_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.md|mobile_phone_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.internal.md|mobile_phone_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.protect.md|mobile_phone_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.private.md|mobile_phone_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.personal.md|mobile_phone_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.secret.md|mobile_phone_store.secret]] 

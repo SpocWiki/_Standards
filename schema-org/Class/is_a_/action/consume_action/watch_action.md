@@ -45,9 +45,9 @@ The act of consuming dynamic/moving visual content.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/consume_action/watch_action.md|watch_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/watch_action.internal.md|watch_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/watch_action.protect.md|watch_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/consume_action/watch_action.private.md|watch_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/watch_action.personal.md|watch_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/watch_action.secret.md|watch_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/watch_action.md|watch_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/watch_action.internal.md|watch_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/watch_action.protect.md|watch_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/watch_action.private.md|watch_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/watch_action.personal.md|watch_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/watch_action.secret.md|watch_action.secret]] 

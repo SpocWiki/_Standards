@@ -47,9 +47,9 @@ Not yet recruiting.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.md|not_yet_recruiting]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.internal.md|not_yet_recruiting.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.protect.md|not_yet_recruiting.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.private.md|not_yet_recruiting.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.personal.md|not_yet_recruiting.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.secret.md|not_yet_recruiting.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.md|not_yet_recruiting]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.internal.md|not_yet_recruiting.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.protect.md|not_yet_recruiting.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.private.md|not_yet_recruiting.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.personal.md|not_yet_recruiting.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/not_yet_recruiting.secret.md|not_yet_recruiting.secret]] 

@@ -49,9 +49,9 @@ Represents the suggested retail price ("SRP") of an offered product.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.md|srp]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.internal.md|srp.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.protect.md|srp.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.private.md|srp.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.personal.md|srp.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/srp.secret.md|srp.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/srp.md|srp]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/srp.internal.md|srp.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/srp.protect.md|srp.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/srp.private.md|srp.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/srp.personal.md|srp.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/srp.secret.md|srp.secret]] 

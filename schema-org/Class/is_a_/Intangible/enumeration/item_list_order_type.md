@@ -43,9 +43,9 @@ Enumerated for values for itemListOrder for indicating how an ordered ItemList i
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type.md|item_list_order_type]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type.internal.md|item_list_order_type.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type.protect.md|item_list_order_type.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type.private.md|item_list_order_type.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type.personal.md|item_list_order_type.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_list_order_type.secret.md|item_list_order_type.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.md|item_list_order_type]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.internal.md|item_list_order_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.protect.md|item_list_order_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.private.md|item_list_order_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.personal.md|item_list_order_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.secret.md|item_list_order_type.secret]] 

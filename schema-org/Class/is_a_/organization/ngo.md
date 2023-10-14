@@ -45,9 +45,9 @@ Organization: Non-governmental Organization.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/ngo.md|ngo]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/ngo.internal.md|ngo.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/ngo.protect.md|ngo.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/ngo.private.md|ngo.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/ngo.personal.md|ngo.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/ngo.secret.md|ngo.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/ngo.md|ngo]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/ngo.internal.md|ngo.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/ngo.protect.md|ngo.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/ngo.private.md|ngo.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/ngo.personal.md|ngo.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/ngo.secret.md|ngo.secret]] 

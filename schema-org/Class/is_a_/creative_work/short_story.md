@@ -47,9 +47,9 @@ Short story or tale. A brief work of literature, usually written in narrative pr
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/short_story.md|short_story]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/short_story.internal.md|short_story.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/short_story.protect.md|short_story.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/short_story.private.md|short_story.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/short_story.personal.md|short_story.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/short_story.secret.md|short_story.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/short_story.md|short_story]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/short_story.internal.md|short_story.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/short_story.protect.md|short_story.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/short_story.private.md|short_story.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/short_story.personal.md|short_story.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/short_story.secret.md|short_story.secret]] 

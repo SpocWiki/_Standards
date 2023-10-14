@@ -43,9 +43,9 @@ EventStatusType is an enumeration type whose instances represent several states 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type.md|event_status_type]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type.internal.md|event_status_type.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type.protect.md|event_status_type.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type.private.md|event_status_type.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type.personal.md|event_status_type.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/event_status_type.secret.md|event_status_type.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.md|event_status_type]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.internal.md|event_status_type.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.protect.md|event_status_type.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.private.md|event_status_type.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.personal.md|event_status_type.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.secret.md|event_status_type.secret]] 

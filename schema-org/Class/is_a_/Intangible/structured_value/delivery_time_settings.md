@@ -47,9 +47,9 @@ A DeliveryTimeSettings represents re-usable pieces of shipping information, rela
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/delivery_time_settings.md|delivery_time_settings]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/delivery_time_settings.internal.md|delivery_time_settings.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/delivery_time_settings.protect.md|delivery_time_settings.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/delivery_time_settings.private.md|delivery_time_settings.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/delivery_time_settings.personal.md|delivery_time_settings.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/delivery_time_settings.secret.md|delivery_time_settings.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.md|delivery_time_settings]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.internal.md|delivery_time_settings.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.protect.md|delivery_time_settings.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.private.md|delivery_time_settings.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.personal.md|delivery_time_settings.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.secret.md|delivery_time_settings.secret]] 

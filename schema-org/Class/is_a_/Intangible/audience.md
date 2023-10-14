@@ -46,9 +46,9 @@ Tag Instances like this:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/audience.md|audience]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/audience.internal.md|audience.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/audience.protect.md|audience.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/audience.private.md|audience.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/audience.personal.md|audience.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/audience.secret.md|audience.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/audience.md|audience]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/audience.internal.md|audience.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/audience.protect.md|audience.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/audience.private.md|audience.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/audience.personal.md|audience.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/audience.secret.md|audience.secret]] 

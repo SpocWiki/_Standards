@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_providing_broadcast_service :: BroadcastService] or 
+- [ #is_/providing_broadcast_service :: BroadcastService] or 
 - [ is_providing_broadcast_service :: BroadcastService] 
 
 The BroadcastService offered on this channel.

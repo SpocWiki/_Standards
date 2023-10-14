@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_in_playlist :: MusicPlaylist ] or 
+- [ #is_/in_playlist :: MusicPlaylist ] or 
 - [ is_in_playlist :: MusicPlaylist ] 
 
 The playlist to which this recording belongs.

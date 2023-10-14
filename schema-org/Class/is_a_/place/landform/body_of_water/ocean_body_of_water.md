@@ -45,9 +45,9 @@ An ocean (for example, the Pacific).
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.md|ocean_body_of_water]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.internal.md|ocean_body_of_water.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.protect.md|ocean_body_of_water.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.private.md|ocean_body_of_water.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.personal.md|ocean_body_of_water.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/ocean_body_of_water.secret.md|ocean_body_of_water.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/landform/body_of_water/ocean_body_of_water.md|ocean_body_of_water]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/landform/body_of_water/ocean_body_of_water.internal.md|ocean_body_of_water.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/landform/body_of_water/ocean_body_of_water.protect.md|ocean_body_of_water.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/landform/body_of_water/ocean_body_of_water.private.md|ocean_body_of_water.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/landform/body_of_water/ocean_body_of_water.personal.md|ocean_body_of_water.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/landform/body_of_water/ocean_body_of_water.secret.md|ocean_body_of_water.secret]] 

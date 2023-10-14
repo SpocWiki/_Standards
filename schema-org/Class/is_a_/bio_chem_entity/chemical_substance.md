@@ -47,9 +47,9 @@ A chemical substance is 'a portion of matter of constant composition, composed o
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.md|chemical_substance]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.internal.md|chemical_substance.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.protect.md|chemical_substance.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.private.md|chemical_substance.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.personal.md|chemical_substance.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/bio_chem_entity/chemical_substance.secret.md|chemical_substance.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/bio_chem_entity/chemical_substance.md|chemical_substance]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/chemical_substance.internal.md|chemical_substance.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/bio_chem_entity/chemical_substance.protect.md|chemical_substance.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/bio_chem_entity/chemical_substance.private.md|chemical_substance.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/bio_chem_entity/chemical_substance.personal.md|chemical_substance.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/bio_chem_entity/chemical_substance.secret.md|chemical_substance.secret]] 

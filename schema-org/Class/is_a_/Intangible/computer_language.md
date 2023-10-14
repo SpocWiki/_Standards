@@ -45,9 +45,9 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/computer_language.md|computer_language]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/computer_language.internal.md|computer_language.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/computer_language.protect.md|computer_language.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/computer_language.private.md|computer_language.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/computer_language.personal.md|computer_language.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/computer_language.secret.md|computer_language.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/computer_language.md|computer_language]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/computer_language.internal.md|computer_language.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/computer_language.protect.md|computer_language.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/computer_language.private.md|computer_language.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/computer_language.personal.md|computer_language.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/computer_language.secret.md|computer_language.secret]] 

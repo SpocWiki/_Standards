@@ -47,9 +47,9 @@ A sports location, such as a playing field.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/sports_activity_location.md|sports_activity_location]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/sports_activity_location.internal.md|sports_activity_location.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/sports_activity_location.protect.md|sports_activity_location.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/sports_activity_location.private.md|sports_activity_location.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/sports_activity_location.personal.md|sports_activity_location.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/sports_activity_location.secret.md|sports_activity_location.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/sports_activity_location.md|sports_activity_location]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/sports_activity_location.internal.md|sports_activity_location.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/sports_activity_location.protect.md|sports_activity_location.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/sports_activity_location.private.md|sports_activity_location.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/sports_activity_location.personal.md|sports_activity_location.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/sports_activity_location.secret.md|sports_activity_location.secret]] 

@@ -45,9 +45,9 @@ Event type: Exhibition event, e.g. at a museum, library, archive, tradeshow, ...
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/exhibition_event.md|exhibition_event]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/exhibition_event.internal.md|exhibition_event.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/exhibition_event.protect.md|exhibition_event.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/exhibition_event.private.md|exhibition_event.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/exhibition_event.personal.md|exhibition_event.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/exhibition_event.secret.md|exhibition_event.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/exhibition_event.md|exhibition_event]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/exhibition_event.internal.md|exhibition_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/exhibition_event.protect.md|exhibition_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/exhibition_event.private.md|exhibition_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/exhibition_event.personal.md|exhibition_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/exhibition_event.secret.md|exhibition_event.secret]] 

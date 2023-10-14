@@ -45,9 +45,9 @@ The act of stopping or deactivating a device or application (e.g. stopping a tim
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/control_action/deactivate_action.md|deactivate_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/control_action/deactivate_action.internal.md|deactivate_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/control_action/deactivate_action.protect.md|deactivate_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/control_action/deactivate_action.private.md|deactivate_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/control_action/deactivate_action.personal.md|deactivate_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/control_action/deactivate_action.secret.md|deactivate_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/control_action/deactivate_action.md|deactivate_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/control_action/deactivate_action.internal.md|deactivate_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/control_action/deactivate_action.protect.md|deactivate_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/control_action/deactivate_action.private.md|deactivate_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/control_action/deactivate_action.personal.md|deactivate_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/control_action/deactivate_action.secret.md|deactivate_action.secret]] 

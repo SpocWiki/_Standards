@@ -45,9 +45,9 @@ Residence type: Apartment complex.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/residence/apartment_complex.md|apartment_complex]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/residence/apartment_complex.internal.md|apartment_complex.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/residence/apartment_complex.protect.md|apartment_complex.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/residence/apartment_complex.private.md|apartment_complex.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/residence/apartment_complex.personal.md|apartment_complex.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/residence/apartment_complex.secret.md|apartment_complex.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/residence/apartment_complex.md|apartment_complex]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/residence/apartment_complex.internal.md|apartment_complex.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/residence/apartment_complex.protect.md|apartment_complex.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/residence/apartment_complex.private.md|apartment_complex.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/residence/apartment_complex.personal.md|apartment_complex.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/residence/apartment_complex.secret.md|apartment_complex.secret]] 

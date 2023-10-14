@@ -47,9 +47,9 @@ A public toilet is a room or small building containing one or more toilets (and 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/public_toilet.md|public_toilet]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/public_toilet.internal.md|public_toilet.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/public_toilet.protect.md|public_toilet.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/public_toilet.private.md|public_toilet.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/public_toilet.personal.md|public_toilet.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/public_toilet.secret.md|public_toilet.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/public_toilet.md|public_toilet]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/public_toilet.internal.md|public_toilet.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/public_toilet.protect.md|public_toilet.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/public_toilet.private.md|public_toilet.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/public_toilet.personal.md|public_toilet.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/public_toilet.secret.md|public_toilet.secret]] 

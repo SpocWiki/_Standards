@@ -45,9 +45,9 @@ A software application designed specifically to work well on a mobile device suc
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/software_application/mobile_application.md|mobile_application]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/software_application/mobile_application.internal.md|mobile_application.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/software_application/mobile_application.protect.md|mobile_application.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/software_application/mobile_application.private.md|mobile_application.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/software_application/mobile_application.personal.md|mobile_application.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/software_application/mobile_application.secret.md|mobile_application.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/software_application/mobile_application.md|mobile_application]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/software_application/mobile_application.internal.md|mobile_application.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/software_application/mobile_application.protect.md|mobile_application.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/software_application/mobile_application.private.md|mobile_application.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/software_application/mobile_application.personal.md|mobile_application.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/software_application/mobile_application.secret.md|mobile_application.secret]] 

@@ -33,7 +33,7 @@ aliases:
 [ superseded_by :: [[is_included_in_data_catalog]]] ]
 
 Use it like this: 
-- [ #is/_included_in_data_catalog :: DataCatalog ] or 
+- [ #is_/included_in_data_catalog :: DataCatalog ] or 
 - [ is_included_in_data_catalog :: DataCatalog ] 
 
 A data catalog which contains this dataset (this property was previously 'catalog', preferred name is now 'includedInDataCatalog').

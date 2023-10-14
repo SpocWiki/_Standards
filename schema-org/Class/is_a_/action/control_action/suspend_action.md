@@ -45,9 +45,9 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/control_action/suspend_action.md|suspend_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/control_action/suspend_action.internal.md|suspend_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/control_action/suspend_action.protect.md|suspend_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/control_action/suspend_action.private.md|suspend_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/control_action/suspend_action.personal.md|suspend_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/control_action/suspend_action.secret.md|suspend_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/control_action/suspend_action.md|suspend_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/control_action/suspend_action.internal.md|suspend_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/control_action/suspend_action.protect.md|suspend_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/control_action/suspend_action.private.md|suspend_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/control_action/suspend_action.personal.md|suspend_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/control_action/suspend_action.secret.md|suspend_action.secret]] 

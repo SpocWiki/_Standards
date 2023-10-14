@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_draining_to :: Vessel ] or 
+- [ #is_/draining_to :: Vessel ] or 
 - [ is_draining_to :: Vessel ] 
 
 The vasculature that the vein drains into.

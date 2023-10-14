@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_consumable_for :: Product] or 
+- [ #is_/consumable_for :: Product] or 
 - [ is_consumable_for :: Product] 
 
 A pointer to another product (or multiple products) for which this product is a consumable.

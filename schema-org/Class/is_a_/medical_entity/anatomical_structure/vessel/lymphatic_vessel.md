@@ -45,9 +45,9 @@ A type of blood vessel that specifically carries lymph fluid unidirectionally to
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.md|lymphatic_vessel]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.internal.md|lymphatic_vessel.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.protect.md|lymphatic_vessel.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.private.md|lymphatic_vessel.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.personal.md|lymphatic_vessel.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.secret.md|lymphatic_vessel.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.md|lymphatic_vessel]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.internal.md|lymphatic_vessel.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.protect.md|lymphatic_vessel.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.private.md|lymphatic_vessel.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.personal.md|lymphatic_vessel.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.secret.md|lymphatic_vessel.secret]] 

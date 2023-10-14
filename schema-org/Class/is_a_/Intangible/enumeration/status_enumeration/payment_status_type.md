@@ -43,9 +43,9 @@ A specific payment status. For example, PaymentDue, PaymentComplete, etc.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type.md|payment_status_type]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type.internal.md|payment_status_type.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type.protect.md|payment_status_type.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type.private.md|payment_status_type.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type.personal.md|payment_status_type.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/payment_status_type.secret.md|payment_status_type.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.md|payment_status_type]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.internal.md|payment_status_type.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.protect.md|payment_status_type.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.private.md|payment_status_type.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.personal.md|payment_status_type.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.secret.md|payment_status_type.secret]] 

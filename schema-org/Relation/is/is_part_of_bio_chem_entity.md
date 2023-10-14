@@ -33,8 +33,8 @@ aliases:
 [ #is_/part_of :: pending:]
 
 Use it like this: 
-- [ #is/_part_of_bio_chem_entity :: [[bio_chem_entity]] ] or 
-- [ is_part_of_bio_chem_entity :: [[../../../Type/is_a_thing/bio_chem_entity]]] 
+- [ #is_/part_of_bio_chem_entity :: [[bio_chem_entity]] ] or 
+- [ is_part_of_bio_chem_entity :: [[../../../Class/is_a_thing/bio_chem_entity]]] 
 
 Indicates a BioChemEntity that is (in some sense) a part of this BioChemEntity.
 

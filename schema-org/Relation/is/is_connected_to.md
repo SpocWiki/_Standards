@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_connected_to :: AnatomicalStructure ] or 
+- [ #is_/connected_to :: AnatomicalStructure ] or 
 - [ is_connected_to :: AnatomicalStructure ] 
 
 Other anatomical structures to which this structure is connected.

@@ -47,9 +47,9 @@ A <a class="localLink" href="/LibrarySystem">LibrarySystem</a> is a collaborativ
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/library_system.md|library_system]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/library_system.internal.md|library_system.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/library_system.protect.md|library_system.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/library_system.private.md|library_system.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/library_system.personal.md|library_system.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/library_system.secret.md|library_system.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/library_system.md|library_system]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/library_system.internal.md|library_system.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/library_system.protect.md|library_system.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/library_system.private.md|library_system.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/library_system.personal.md|library_system.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/library_system.secret.md|library_system.secret]] 

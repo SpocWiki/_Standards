@@ -49,9 +49,9 @@ This is the equivalent of Atom's element as defined in Feed Paging and Archiving
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.md|complete_data_feed]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.internal.md|complete_data_feed.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.protect.md|complete_data_feed.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.private.md|complete_data_feed.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.personal.md|complete_data_feed.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/creative_work/dataset/data_feed/complete_data_feed.secret.md|complete_data_feed.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.md|complete_data_feed]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.internal.md|complete_data_feed.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.protect.md|complete_data_feed.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.private.md|complete_data_feed.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.personal.md|complete_data_feed.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/dataset/data_feed/complete_data_feed.secret.md|complete_data_feed.secret]] 

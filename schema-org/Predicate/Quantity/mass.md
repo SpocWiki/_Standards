@@ -45,9 +45,9 @@ Properties that take Mass as values are of the form '&lt;Number&gt; &lt;Mass uni
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/quantity/mass.md|mass]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/quantity/mass.internal.md|mass.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/quantity/mass.protect.md|mass.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/quantity/mass.private.md|mass.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/quantity/mass.personal.md|mass.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/quantity/mass.secret.md|mass.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/quantity/mass.md|mass]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/quantity/mass.internal.md|mass.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/quantity/mass.protect.md|mass.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/quantity/mass.private.md|mass.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/quantity/mass.personal.md|mass.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/quantity/mass.secret.md|mass.secret]] 

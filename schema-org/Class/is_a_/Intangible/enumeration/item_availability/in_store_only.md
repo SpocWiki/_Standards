@@ -47,9 +47,9 @@ Indicates that the item is available only at physical locations.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_store_only.md|in_store_only]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_store_only.internal.md|in_store_only.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_store_only.protect.md|in_store_only.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_store_only.private.md|in_store_only.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_store_only.personal.md|in_store_only.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/in_store_only.secret.md|in_store_only.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.md|in_store_only]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.internal.md|in_store_only.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.protect.md|in_store_only.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.private.md|in_store_only.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.personal.md|in_store_only.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.secret.md|in_store_only.secret]] 

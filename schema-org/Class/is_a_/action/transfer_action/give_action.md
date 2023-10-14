@@ -52,9 +52,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/transfer_action/give_action.md|give_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/transfer_action/give_action.internal.md|give_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/transfer_action/give_action.protect.md|give_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/transfer_action/give_action.private.md|give_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/transfer_action/give_action.personal.md|give_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/transfer_action/give_action.secret.md|give_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/give_action.md|give_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/transfer_action/give_action.internal.md|give_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/transfer_action/give_action.protect.md|give_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/transfer_action/give_action.private.md|give_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/transfer_action/give_action.personal.md|give_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/transfer_action/give_action.secret.md|give_action.secret]] 

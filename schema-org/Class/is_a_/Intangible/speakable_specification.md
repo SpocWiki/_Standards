@@ -45,9 +45,9 @@ A SpeakableSpecification indicates (typically via <a class="localLink" href="/xp
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/speakable_specification.md|speakable_specification]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/speakable_specification.internal.md|speakable_specification.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/speakable_specification.protect.md|speakable_specification.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/speakable_specification.private.md|speakable_specification.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/speakable_specification.personal.md|speakable_specification.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/speakable_specification.secret.md|speakable_specification.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/speakable_specification.md|speakable_specification]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/speakable_specification.internal.md|speakable_specification.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/speakable_specification.protect.md|speakable_specification.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/speakable_specification.private.md|speakable_specification.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/speakable_specification.personal.md|speakable_specification.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/speakable_specification.secret.md|speakable_specification.secret]] 

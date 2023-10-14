@@ -32,8 +32,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_non_equal :: [[../../../Type/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] or 
-- [ is_non_equal :: [[../../../Type/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] 
+- [ #is_/non_equal :: [[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] or 
+- [ is_non_equal :: [[../../../Class/is_a_/intangible/enumeration/qualitative_value|Qualitative Value]] ] 
 
 This ordering relation for qualitative values indicates that the subject is not equal to the object.
 

@@ -45,9 +45,9 @@ A statistical distribution of monetary amounts.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.md|monetary_amount_distribution]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.internal.md|monetary_amount_distribution.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.protect.md|monetary_amount_distribution.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.private.md|monetary_amount_distribution.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.personal.md|monetary_amount_distribution.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.secret.md|monetary_amount_distribution.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.md|monetary_amount_distribution]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.internal.md|monetary_amount_distribution.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.protect.md|monetary_amount_distribution.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.private.md|monetary_amount_distribution.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.personal.md|monetary_amount_distribution.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.secret.md|monetary_amount_distribution.secret]] 

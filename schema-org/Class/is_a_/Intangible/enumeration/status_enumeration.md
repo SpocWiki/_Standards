@@ -45,9 +45,9 @@ Lists or enumerations dealing with status types.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration.md|status_enumeration]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration.internal.md|status_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration.protect.md|status_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration.private.md|status_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration.personal.md|status_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration.secret.md|status_enumeration.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.md|status_enumeration]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.internal.md|status_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.protect.md|status_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.private.md|status_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.personal.md|status_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.secret.md|status_enumeration.secret]] 

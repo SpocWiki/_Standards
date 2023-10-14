@@ -47,9 +47,9 @@ A play is a form of literature, usually consisting of dialogue between character
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/play.md|play]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/play.internal.md|play.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/play.protect.md|play.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/play.private.md|play.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/play.personal.md|play.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/play.secret.md|play.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/play.md|play]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/play.internal.md|play.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/play.protect.md|play.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/play.private.md|play.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/play.personal.md|play.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/play.secret.md|play.secret]] 

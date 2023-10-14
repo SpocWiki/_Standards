@@ -29,7 +29,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_offering :: Demand, Offer ] or 
+- [ #is_/offering :: Demand, Offer ] or 
 - [ is_offering :: Demand, Offer ] 
 
 An offer to provide this item;

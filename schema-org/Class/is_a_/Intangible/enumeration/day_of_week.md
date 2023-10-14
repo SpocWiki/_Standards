@@ -45,9 +45,9 @@ Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week.md|day_of_week]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week.internal.md|day_of_week.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week.protect.md|day_of_week.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week.private.md|day_of_week.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week.personal.md|day_of_week.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week.secret.md|day_of_week.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week.md|day_of_week]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week.internal.md|day_of_week.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week.protect.md|day_of_week.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week.private.md|day_of_week.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week.personal.md|day_of_week.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week.secret.md|day_of_week.secret]] 

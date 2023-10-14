@@ -49,9 +49,9 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/article.md|article]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/article.internal.md|article.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/article.protect.md|article.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/article.private.md|article.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/article.personal.md|article.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/article.secret.md|article.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/article.md|article]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/article.internal.md|article.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/article.protect.md|article.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/article.private.md|article.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/article.personal.md|article.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/article.secret.md|article.secret]] 

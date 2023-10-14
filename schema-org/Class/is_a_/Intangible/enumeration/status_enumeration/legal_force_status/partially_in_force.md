@@ -49,9 +49,9 @@ Indicates that parts of the legislation are in force, and parts are not.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.md|partially_in_force]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.internal.md|partially_in_force.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.protect.md|partially_in_force.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.private.md|partially_in_force.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.personal.md|partially_in_force.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.secret.md|partially_in_force.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.md|partially_in_force]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.internal.md|partially_in_force.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.protect.md|partially_in_force.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.private.md|partially_in_force.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.personal.md|partially_in_force.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/partially_in_force.secret.md|partially_in_force.secret]] 

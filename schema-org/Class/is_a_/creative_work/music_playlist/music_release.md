@@ -45,9 +45,9 @@ A MusicRelease is a specific release of a music album.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/music_playlist/music_release.md|music_release]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/music_playlist/music_release.internal.md|music_release.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/music_playlist/music_release.protect.md|music_release.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/music_playlist/music_release.private.md|music_release.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/music_playlist/music_release.personal.md|music_release.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/music_playlist/music_release.secret.md|music_release.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/music_playlist/music_release.md|music_release]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/music_playlist/music_release.internal.md|music_release.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/music_playlist/music_release.protect.md|music_release.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/music_playlist/music_release.private.md|music_release.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/music_playlist/music_release.personal.md|music_release.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/music_playlist/music_release.secret.md|music_release.secret]] 

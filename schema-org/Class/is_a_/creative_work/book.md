@@ -47,9 +47,9 @@ A book.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/book.md|book]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/book.internal.md|book.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/book.protect.md|book.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/book.private.md|book.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/book.personal.md|book.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/book.secret.md|book.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/book.md|book]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/book.internal.md|book.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/book.protect.md|book.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/book.private.md|book.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/book.personal.md|book.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/book.secret.md|book.secret]] 

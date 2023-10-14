@@ -33,7 +33,7 @@ aliases:
 A condition the test is used to diagnose.
 
 Use it like this: 
-- [ #is/_used_to_diagnose :: MedicalCondition ] or 
+- [ #is_/used_to_diagnose :: MedicalCondition ] or 
 - [ is_used_to_diagnose :: MedicalCondition ] 
 
 Relation describes that: 

@@ -51,9 +51,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/interact_action/befriend_action.md|befriend_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/befriend_action.internal.md|befriend_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/befriend_action.protect.md|befriend_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/interact_action/befriend_action.private.md|befriend_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/befriend_action.personal.md|befriend_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/befriend_action.secret.md|befriend_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/interact_action/befriend_action.md|befriend_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/befriend_action.internal.md|befriend_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/befriend_action.protect.md|befriend_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/befriend_action.private.md|befriend_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/befriend_action.personal.md|befriend_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/befriend_action.secret.md|befriend_action.secret]] 

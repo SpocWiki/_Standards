@@ -45,9 +45,9 @@ A page devoted to a single item, such as a particular product or hotel.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/item_page.md|item_page]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/item_page.internal.md|item_page.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/item_page.protect.md|item_page.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/item_page.private.md|item_page.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/item_page.personal.md|item_page.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/item_page.secret.md|item_page.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page/item_page.md|item_page]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page/item_page.internal.md|item_page.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page/item_page.protect.md|item_page.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page/item_page.private.md|item_page.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page/item_page.personal.md|item_page.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page/item_page.secret.md|item_page.secret]] 

@@ -47,9 +47,9 @@ Indicates that the item is available on back order.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.md|back_order]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.internal.md|back_order.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.protect.md|back_order.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.private.md|back_order.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.personal.md|back_order.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability/back_order.secret.md|back_order.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.md|back_order]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.internal.md|back_order.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.protect.md|back_order.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.private.md|back_order.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.personal.md|back_order.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.secret.md|back_order.secret]] 

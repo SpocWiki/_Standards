@@ -47,9 +47,9 @@ A <a class="localLink" href="/NewsArticle">NewsArticle</a> and <a class="localLi
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.md|review_news_article]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.internal.md|review_news_article.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.protect.md|review_news_article.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.private.md|review_news_article.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.personal.md|review_news_article.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/critic_review/review_news_article.secret.md|review_news_article.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/review/critic_review/review_news_article.md|review_news_article]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/review/critic_review/review_news_article.internal.md|review_news_article.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/review/critic_review/review_news_article.protect.md|review_news_article.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/review/critic_review/review_news_article.private.md|review_news_article.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/review/critic_review/review_news_article.personal.md|review_news_article.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/review/critic_review/review_news_article.secret.md|review_news_article.secret]] 

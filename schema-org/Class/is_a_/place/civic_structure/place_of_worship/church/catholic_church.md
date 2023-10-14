@@ -45,9 +45,9 @@ A Catholic church.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church/catholic_church.md|catholic_church]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church/catholic_church.internal.md|catholic_church.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church/catholic_church.protect.md|catholic_church.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church/catholic_church.private.md|catholic_church.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church/catholic_church.personal.md|catholic_church.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/church/catholic_church.secret.md|catholic_church.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.md|catholic_church]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.internal.md|catholic_church.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.protect.md|catholic_church.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.private.md|catholic_church.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.personal.md|catholic_church.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/place_of_worship/church/catholic_church.secret.md|catholic_church.secret]] 

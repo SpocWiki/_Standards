@@ -45,9 +45,9 @@ A canal, like the Panama Canal.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/canal.md|canal]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/canal.internal.md|canal.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/canal.protect.md|canal.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/canal.private.md|canal.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/canal.personal.md|canal.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/canal.secret.md|canal.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/landform/body_of_water/canal.md|canal]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/landform/body_of_water/canal.internal.md|canal.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/landform/body_of_water/canal.protect.md|canal.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/landform/body_of_water/canal.private.md|canal.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/landform/body_of_water/canal.personal.md|canal.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/landform/body_of_water/canal.secret.md|canal.secret]] 

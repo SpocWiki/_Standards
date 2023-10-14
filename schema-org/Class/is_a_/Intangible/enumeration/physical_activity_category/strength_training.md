@@ -47,9 +47,9 @@ Physical activity that is engaged in to improve muscle and bone strength. Also r
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/strength_training.md|strength_training]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/strength_training.internal.md|strength_training.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/strength_training.protect.md|strength_training.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/strength_training.private.md|strength_training.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/strength_training.personal.md|strength_training.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/physical_activity_category/strength_training.secret.md|strength_training.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/strength_training.md|strength_training]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/strength_training.internal.md|strength_training.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/strength_training.protect.md|strength_training.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/strength_training.private.md|strength_training.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/strength_training.personal.md|strength_training.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/strength_training.secret.md|strength_training.secret]] 

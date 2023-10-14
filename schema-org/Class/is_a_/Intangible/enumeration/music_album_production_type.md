@@ -43,9 +43,9 @@ Classification of the album by its type of content: soundtrack, live album, stud
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type.md|music_album_production_type]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type.internal.md|music_album_production_type.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type.protect.md|music_album_production_type.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type.private.md|music_album_production_type.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type.personal.md|music_album_production_type.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_production_type.secret.md|music_album_production_type.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.md|music_album_production_type]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.internal.md|music_album_production_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.protect.md|music_album_production_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.private.md|music_album_production_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.personal.md|music_album_production_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.secret.md|music_album_production_type.secret]] 

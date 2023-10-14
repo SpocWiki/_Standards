@@ -45,9 +45,9 @@ A store that sells materials useful or necessary for various hobbies.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/hobby_shop.md|hobby_shop]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/hobby_shop.internal.md|hobby_shop.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/hobby_shop.protect.md|hobby_shop.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/hobby_shop.private.md|hobby_shop.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/hobby_shop.personal.md|hobby_shop.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/hobby_shop.secret.md|hobby_shop.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/hobby_shop.md|hobby_shop]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/hobby_shop.internal.md|hobby_shop.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/hobby_shop.protect.md|hobby_shop.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/hobby_shop.private.md|hobby_shop.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/hobby_shop.personal.md|hobby_shop.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/hobby_shop.secret.md|hobby_shop.secret]] 

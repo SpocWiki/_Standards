@@ -45,9 +45,9 @@ A tourist attraction.  In principle any Thing can be a <a class="localLink" href
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/place/tourist_attraction.md|tourist_attraction]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/place/tourist_attraction.internal.md|tourist_attraction.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/place/tourist_attraction.protect.md|tourist_attraction.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/place/tourist_attraction.private.md|tourist_attraction.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/place/tourist_attraction.personal.md|tourist_attraction.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/place/tourist_attraction.secret.md|tourist_attraction.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/place/tourist_attraction.md|tourist_attraction]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/place/tourist_attraction.internal.md|tourist_attraction.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/place/tourist_attraction.protect.md|tourist_attraction.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/place/tourist_attraction.private.md|tourist_attraction.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/place/tourist_attraction.personal.md|tourist_attraction.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/place/tourist_attraction.secret.md|tourist_attraction.secret]] 

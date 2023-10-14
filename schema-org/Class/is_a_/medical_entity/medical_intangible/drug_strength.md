@@ -45,9 +45,9 @@ A specific strength in which a medical drug is available in a specific country.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.md|drug_strength]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.internal.md|drug_strength.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.protect.md|drug_strength.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.private.md|drug_strength.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.personal.md|drug_strength.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_intangible/drug_strength.secret.md|drug_strength.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.md|drug_strength]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.internal.md|drug_strength.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.protect.md|drug_strength.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.private.md|drug_strength.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.personal.md|drug_strength.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_strength.secret.md|drug_strength.secret]] 

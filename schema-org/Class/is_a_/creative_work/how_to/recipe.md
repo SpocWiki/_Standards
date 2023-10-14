@@ -45,9 +45,9 @@ A recipe. For dietary restrictions covered by the recipe, a few common restricti
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/how_to/recipe.md|recipe]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to/recipe.internal.md|recipe.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to/recipe.protect.md|recipe.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/how_to/recipe.private.md|recipe.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to/recipe.personal.md|recipe.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to/recipe.secret.md|recipe.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/how_to/recipe.md|recipe]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/how_to/recipe.internal.md|recipe.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/how_to/recipe.protect.md|recipe.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/how_to/recipe.private.md|recipe.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/how_to/recipe.personal.md|recipe.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/how_to/recipe.secret.md|recipe.secret]] 

@@ -47,9 +47,9 @@ The act of being defeated in a competitive activity.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/achieve_action/lose_action.md|lose_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/achieve_action/lose_action.internal.md|lose_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/achieve_action/lose_action.protect.md|lose_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/achieve_action/lose_action.private.md|lose_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/achieve_action/lose_action.personal.md|lose_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/achieve_action/lose_action.secret.md|lose_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/achieve_action/lose_action.md|lose_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/achieve_action/lose_action.internal.md|lose_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/achieve_action/lose_action.protect.md|lose_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/achieve_action/lose_action.private.md|lose_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/achieve_action/lose_action.personal.md|lose_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/achieve_action/lose_action.secret.md|lose_action.secret]] 

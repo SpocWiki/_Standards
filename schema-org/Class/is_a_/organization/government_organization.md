@@ -45,9 +45,9 @@ A governmental organization or agency.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/government_organization.md|government_organization]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/government_organization.internal.md|government_organization.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/government_organization.protect.md|government_organization.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/government_organization.private.md|government_organization.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/government_organization.personal.md|government_organization.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/government_organization.secret.md|government_organization.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/government_organization.md|government_organization]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/government_organization.internal.md|government_organization.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/government_organization.protect.md|government_organization.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/government_organization.private.md|government_organization.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/government_organization.personal.md|government_organization.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/government_organization.secret.md|government_organization.secret]] 

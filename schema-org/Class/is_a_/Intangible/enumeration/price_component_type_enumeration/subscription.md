@@ -49,9 +49,9 @@ Represents the subscription pricing component of the total price for an offered 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.md|subscription]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.internal.md|subscription.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.protect.md|subscription.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.private.md|subscription.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.personal.md|subscription.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.secret.md|subscription.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.md|subscription]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.internal.md|subscription.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.protect.md|subscription.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.private.md|subscription.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.personal.md|subscription.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.secret.md|subscription.secret]] 

@@ -45,9 +45,9 @@ The mailing address.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.md|postal_address]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.internal.md|postal_address.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.protect.md|postal_address.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.private.md|postal_address.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.personal.md|postal_address.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/contact_point/postal_address.secret.md|postal_address.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.md|postal_address]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.internal.md|postal_address.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.protect.md|postal_address.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.private.md|postal_address.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.personal.md|postal_address.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.secret.md|postal_address.secret]] 

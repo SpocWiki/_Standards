@@ -45,9 +45,9 @@ A medical laboratory that offers on-site or off-site diagnostic services.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.md|diagnostic_lab]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.internal.md|diagnostic_lab.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.protect.md|diagnostic_lab.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.private.md|diagnostic_lab.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.personal.md|diagnostic_lab.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/medical_organization/diagnostic_lab.secret.md|diagnostic_lab.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/medical_organization/diagnostic_lab.md|diagnostic_lab]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/medical_organization/diagnostic_lab.internal.md|diagnostic_lab.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/medical_organization/diagnostic_lab.protect.md|diagnostic_lab.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/medical_organization/diagnostic_lab.private.md|diagnostic_lab.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/medical_organization/diagnostic_lab.personal.md|diagnostic_lab.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/medical_organization/diagnostic_lab.secret.md|diagnostic_lab.secret]] 

@@ -47,9 +47,9 @@ Data type: PronounceableText.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/data_type/text/pronounceable_text.md|pronounceable_text]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/data_type/text/pronounceable_text.internal.md|pronounceable_text.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/data_type/text/pronounceable_text.protect.md|pronounceable_text.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/data_type/text/pronounceable_text.private.md|pronounceable_text.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/data_type/text/pronounceable_text.personal.md|pronounceable_text.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/data_type/text/pronounceable_text.secret.md|pronounceable_text.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/data_type/text/pronounceable_text.md|pronounceable_text]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/pronounceable_text.internal.md|pronounceable_text.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/text/pronounceable_text.protect.md|pronounceable_text.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/data_type/text/pronounceable_text.private.md|pronounceable_text.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/text/pronounceable_text.personal.md|pronounceable_text.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/text/pronounceable_text.secret.md|pronounceable_text.secret]] 

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending:]
 
 Use it like this: 
-- [ #is/_included_in_health_insurance_plan :: HealthInsurancePlan] or 
+- [ #is_/included_in_health_insurance_plan :: HealthInsurancePlan] or 
 - [ is_included_in_health_insurance_plan :: HealthInsurancePlan] 
 
 The insurance plans that cover this drug.

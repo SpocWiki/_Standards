@@ -45,9 +45,9 @@ An auto parts store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.md|auto_parts_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.internal.md|auto_parts_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.protect.md|auto_parts_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.private.md|auto_parts_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.personal.md|auto_parts_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/auto_parts_store.secret.md|auto_parts_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_parts_store.md|auto_parts_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_parts_store.internal.md|auto_parts_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_parts_store.protect.md|auto_parts_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_parts_store.private.md|auto_parts_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_parts_store.personal.md|auto_parts_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_parts_store.secret.md|auto_parts_store.secret]] 

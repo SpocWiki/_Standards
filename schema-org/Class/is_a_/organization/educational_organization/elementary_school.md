@@ -45,9 +45,9 @@ An elementary school.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/educational_organization/elementary_school.md|elementary_school]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/educational_organization/elementary_school.internal.md|elementary_school.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/educational_organization/elementary_school.protect.md|elementary_school.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/educational_organization/elementary_school.private.md|elementary_school.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/educational_organization/elementary_school.personal.md|elementary_school.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/educational_organization/elementary_school.secret.md|elementary_school.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/educational_organization/elementary_school.md|elementary_school]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/educational_organization/elementary_school.internal.md|elementary_school.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/educational_organization/elementary_school.protect.md|elementary_school.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/educational_organization/elementary_school.private.md|elementary_school.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/educational_organization/elementary_school.personal.md|elementary_school.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/educational_organization/elementary_school.secret.md|elementary_school.secret]] 

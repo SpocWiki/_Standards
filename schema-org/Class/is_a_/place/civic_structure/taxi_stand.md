@@ -45,9 +45,9 @@ A taxi stand.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/taxi_stand.md|taxi_stand]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/taxi_stand.internal.md|taxi_stand.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/taxi_stand.protect.md|taxi_stand.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/taxi_stand.private.md|taxi_stand.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/taxi_stand.personal.md|taxi_stand.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/taxi_stand.secret.md|taxi_stand.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/taxi_stand.md|taxi_stand]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/taxi_stand.internal.md|taxi_stand.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/taxi_stand.protect.md|taxi_stand.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/taxi_stand.private.md|taxi_stand.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/taxi_stand.personal.md|taxi_stand.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/taxi_stand.secret.md|taxi_stand.secret]] 

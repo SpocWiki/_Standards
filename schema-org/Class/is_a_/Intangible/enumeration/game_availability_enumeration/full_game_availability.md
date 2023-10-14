@@ -49,9 +49,9 @@ Indicates full game availability.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.md|full_game_availability]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.internal.md|full_game_availability.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.protect.md|full_game_availability.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.private.md|full_game_availability.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.personal.md|full_game_availability.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.secret.md|full_game_availability.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.md|full_game_availability]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.internal.md|full_game_availability.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.protect.md|full_game_availability.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.private.md|full_game_availability.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.personal.md|full_game_availability.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.secret.md|full_game_availability.secret]] 

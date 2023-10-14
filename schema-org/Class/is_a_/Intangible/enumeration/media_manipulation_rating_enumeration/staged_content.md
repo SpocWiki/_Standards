@@ -58,9 +58,9 @@ Audio that has been created using actors or similarly contrived.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.md|staged_content]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.internal.md|staged_content.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.protect.md|staged_content.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.private.md|staged_content.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.personal.md|staged_content.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.secret.md|staged_content.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.md|staged_content]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.internal.md|staged_content.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.protect.md|staged_content.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.private.md|staged_content.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.personal.md|staged_content.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.secret.md|staged_content.secret]] 

@@ -55,9 +55,9 @@ Commonly used values:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.md|parcel_service]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.internal.md|parcel_service.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.protect.md|parcel_service.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.private.md|parcel_service.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.personal.md|parcel_service.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/delivery_method/parcel_service.secret.md|parcel_service.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/delivery_method/parcel_service.md|parcel_service]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/parcel_service.internal.md|parcel_service.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/delivery_method/parcel_service.protect.md|parcel_service.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/delivery_method/parcel_service.private.md|parcel_service.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/parcel_service.personal.md|parcel_service.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/delivery_method/parcel_service.secret.md|parcel_service.secret]] 

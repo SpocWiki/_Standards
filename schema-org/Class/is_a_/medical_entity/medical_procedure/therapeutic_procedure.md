@@ -49,9 +49,9 @@ A medical procedure intended primarily for therapeutic purposes, aimed at improv
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.md|therapeutic_procedure]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.internal.md|therapeutic_procedure.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.protect.md|therapeutic_procedure.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.private.md|therapeutic_procedure.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.personal.md|therapeutic_procedure.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure.secret.md|therapeutic_procedure.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.md|therapeutic_procedure]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.internal.md|therapeutic_procedure.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.protect.md|therapeutic_procedure.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.private.md|therapeutic_procedure.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.personal.md|therapeutic_procedure.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure.secret.md|therapeutic_procedure.secret]] 

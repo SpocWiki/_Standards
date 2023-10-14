@@ -47,9 +47,9 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.md|rental_car_reservation]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.internal.md|rental_car_reservation.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.protect.md|rental_car_reservation.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.private.md|rental_car_reservation.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.personal.md|rental_car_reservation.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/rental_car_reservation.secret.md|rental_car_reservation.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/reservation/rental_car_reservation.md|rental_car_reservation]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/reservation/rental_car_reservation.internal.md|rental_car_reservation.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/reservation/rental_car_reservation.protect.md|rental_car_reservation.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/reservation/rental_car_reservation.private.md|rental_car_reservation.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/reservation/rental_car_reservation.personal.md|rental_car_reservation.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/reservation/rental_car_reservation.secret.md|rental_car_reservation.secret]] 

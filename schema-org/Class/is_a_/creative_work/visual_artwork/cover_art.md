@@ -49,9 +49,9 @@ The artwork on the outer surface of a CreativeWork.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.md|cover_art]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.internal.md|cover_art.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.protect.md|cover_art.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.private.md|cover_art.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.personal.md|cover_art.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/visual_artwork/cover_art.secret.md|cover_art.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/visual_artwork/cover_art.md|cover_art]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/visual_artwork/cover_art.internal.md|cover_art.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/visual_artwork/cover_art.protect.md|cover_art.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/visual_artwork/cover_art.private.md|cover_art.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/visual_artwork/cover_art.personal.md|cover_art.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/visual_artwork/cover_art.secret.md|cover_art.secret]] 

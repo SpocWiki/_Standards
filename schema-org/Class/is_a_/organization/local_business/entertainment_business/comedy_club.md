@@ -45,9 +45,9 @@ A comedy club.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.md|comedy_club]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.internal.md|comedy_club.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.protect.md|comedy_club.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.private.md|comedy_club.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.personal.md|comedy_club.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/comedy_club.secret.md|comedy_club.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.md|comedy_club]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.internal.md|comedy_club.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.protect.md|comedy_club.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.private.md|comedy_club.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.personal.md|comedy_club.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/entertainment_business/comedy_club.secret.md|comedy_club.secret]] 

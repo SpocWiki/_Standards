@@ -47,9 +47,9 @@ Enumerates several kinds of product return policies.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.md|merchant_return_enumeration]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.internal.md|merchant_return_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.protect.md|merchant_return_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.private.md|merchant_return_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.personal.md|merchant_return_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/merchant_return_enumeration.secret.md|merchant_return_enumeration.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.md|merchant_return_enumeration]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.internal.md|merchant_return_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.protect.md|merchant_return_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.private.md|merchant_return_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.personal.md|merchant_return_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.secret.md|merchant_return_enumeration.secret]] 

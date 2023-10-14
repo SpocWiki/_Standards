@@ -47,9 +47,9 @@ EPRelease.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/ep_release.md|ep_release]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/ep_release.internal.md|ep_release.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/ep_release.protect.md|ep_release.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/ep_release.private.md|ep_release.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/ep_release.personal.md|ep_release.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/ep_release.secret.md|ep_release.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/ep_release.md|ep_release]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/ep_release.internal.md|ep_release.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/ep_release.protect.md|ep_release.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/ep_release.private.md|ep_release.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/ep_release.personal.md|ep_release.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/ep_release.secret.md|ep_release.secret]] 

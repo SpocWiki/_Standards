@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_about :: [Thing](../../../Class/Thing.md) ] or 
+- [ #is_/about :: [Thing](../../../Class/Thing.md) ] or 
 - [ is_about :: [Thing](../../../Class/Thing.md) ] 
 
 The subject matter of the content. 

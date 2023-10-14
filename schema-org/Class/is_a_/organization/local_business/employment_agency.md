@@ -45,9 +45,9 @@ An employment agency.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/employment_agency.md|employment_agency]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/employment_agency.internal.md|employment_agency.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/employment_agency.protect.md|employment_agency.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/employment_agency.private.md|employment_agency.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/employment_agency.personal.md|employment_agency.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/employment_agency.secret.md|employment_agency.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/employment_agency.md|employment_agency]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/employment_agency.internal.md|employment_agency.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/employment_agency.protect.md|employment_agency.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/employment_agency.private.md|employment_agency.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/employment_agency.personal.md|employment_agency.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/employment_agency.secret.md|employment_agency.secret]] 

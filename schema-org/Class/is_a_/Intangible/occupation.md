@@ -45,9 +45,9 @@ A profession, may involve prolonged training and/or a formal qualification.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/occupation.md|occupation]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/occupation.internal.md|occupation.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/occupation.protect.md|occupation.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/occupation.private.md|occupation.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/occupation.personal.md|occupation.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/occupation.secret.md|occupation.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/occupation.md|occupation]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/occupation.internal.md|occupation.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/occupation.protect.md|occupation.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/occupation.private.md|occupation.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/occupation.personal.md|occupation.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/occupation.secret.md|occupation.secret]] 

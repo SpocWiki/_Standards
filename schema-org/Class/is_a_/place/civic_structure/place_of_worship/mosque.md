@@ -45,9 +45,9 @@ A mosque.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.md|mosque]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.internal.md|mosque.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.protect.md|mosque.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.private.md|mosque.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.personal.md|mosque.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/mosque.secret.md|mosque.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/place_of_worship/mosque.md|mosque]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/mosque.internal.md|mosque.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/place_of_worship/mosque.protect.md|mosque.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/place_of_worship/mosque.private.md|mosque.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/mosque.personal.md|mosque.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/place_of_worship/mosque.secret.md|mosque.secret]] 

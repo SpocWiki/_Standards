@@ -47,9 +47,9 @@ A lodging business, such as a motel, hotel, or inn.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/lodging_business.md|lodging_business]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/lodging_business.internal.md|lodging_business.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/lodging_business.protect.md|lodging_business.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/lodging_business.private.md|lodging_business.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/lodging_business.personal.md|lodging_business.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/lodging_business.secret.md|lodging_business.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/lodging_business.md|lodging_business]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/lodging_business.internal.md|lodging_business.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/lodging_business.protect.md|lodging_business.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/lodging_business.private.md|lodging_business.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/lodging_business.personal.md|lodging_business.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/lodging_business.secret.md|lodging_business.secret]] 

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_part_of_system :: AnatomicalSystem ] or 
+- [ #is_/part_of_system :: AnatomicalSystem ] or 
 - [ is_part_of_system :: AnatomicalSystem ] 
 
 The anatomical or organ system that this structure is part of.

@@ -47,9 +47,9 @@ Indicates a range of postal codes, usually defined as the set of valid codes bet
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.md|postal_code_range_specification]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.internal.md|postal_code_range_specification.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.protect.md|postal_code_range_specification.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.private.md|postal_code_range_specification.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.personal.md|postal_code_range_specification.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/postal_code_range_specification.secret.md|postal_code_range_specification.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/postal_code_range_specification.md|postal_code_range_specification]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/postal_code_range_specification.internal.md|postal_code_range_specification.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/postal_code_range_specification.protect.md|postal_code_range_specification.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/postal_code_range_specification.private.md|postal_code_range_specification.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/postal_code_range_specification.personal.md|postal_code_range_specification.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/postal_code_range_specification.secret.md|postal_code_range_specification.secret]] 

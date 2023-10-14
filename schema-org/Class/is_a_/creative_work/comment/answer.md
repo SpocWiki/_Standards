@@ -45,9 +45,9 @@ An answer offered to a question; perhaps correct, perhaps opinionated or wrong.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/comment/answer.md|answer]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/comment/answer.internal.md|answer.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/comment/answer.protect.md|answer.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/comment/answer.private.md|answer.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/comment/answer.personal.md|answer.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/comment/answer.secret.md|answer.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/comment/answer.md|answer]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/comment/answer.internal.md|answer.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/comment/answer.protect.md|answer.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/comment/answer.private.md|answer.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/comment/answer.personal.md|answer.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/comment/answer.secret.md|answer.secret]] 

@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending:]
 
 Use it like this: 
-- [ #is/_including_attraction :: TouristAttraction] or 
+- [ #is_/including_attraction :: TouristAttraction] or 
 - [ is_including_attraction :: TouristAttraction] 
 
 Attraction located at destination.

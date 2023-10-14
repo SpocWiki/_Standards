@@ -47,9 +47,9 @@ A single episode of a podcast series.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/episode/podcast_episode.md|podcast_episode]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/episode/podcast_episode.internal.md|podcast_episode.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/episode/podcast_episode.protect.md|podcast_episode.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/episode/podcast_episode.private.md|podcast_episode.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/episode/podcast_episode.personal.md|podcast_episode.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/episode/podcast_episode.secret.md|podcast_episode.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/episode/podcast_episode.md|podcast_episode]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/episode/podcast_episode.internal.md|podcast_episode.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/episode/podcast_episode.protect.md|podcast_episode.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/episode/podcast_episode.private.md|podcast_episode.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/episode/podcast_episode.personal.md|podcast_episode.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/episode/podcast_episode.secret.md|podcast_episode.secret]] 

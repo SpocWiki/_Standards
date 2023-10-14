@@ -45,9 +45,9 @@ A bus stop.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/bus_stop.md|bus_stop]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/bus_stop.internal.md|bus_stop.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/bus_stop.protect.md|bus_stop.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/bus_stop.private.md|bus_stop.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/bus_stop.personal.md|bus_stop.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/bus_stop.secret.md|bus_stop.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/bus_stop.md|bus_stop]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/bus_stop.internal.md|bus_stop.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/bus_stop.protect.md|bus_stop.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/bus_stop.private.md|bus_stop.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/bus_stop.personal.md|bus_stop.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/bus_stop.secret.md|bus_stop.secret]] 

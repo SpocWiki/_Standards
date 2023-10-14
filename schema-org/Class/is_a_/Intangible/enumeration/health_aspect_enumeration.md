@@ -45,9 +45,9 @@ HealthAspectEnumeration enumerates several aspects of health content online, eac
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration.md|health_aspect_enumeration]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration.internal.md|health_aspect_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration.protect.md|health_aspect_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration.private.md|health_aspect_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration.personal.md|health_aspect_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/health_aspect_enumeration.secret.md|health_aspect_enumeration.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.md|health_aspect_enumeration]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.internal.md|health_aspect_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.protect.md|health_aspect_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.private.md|health_aspect_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.personal.md|health_aspect_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.secret.md|health_aspect_enumeration.secret]] 

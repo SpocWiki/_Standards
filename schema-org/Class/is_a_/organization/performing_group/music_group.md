@@ -45,9 +45,9 @@ A musical group, such as a band, an orchestra, or a choir. Can also be a solo mu
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/performing_group/music_group.md|music_group]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/performing_group/music_group.internal.md|music_group.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/performing_group/music_group.protect.md|music_group.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/performing_group/music_group.private.md|music_group.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/performing_group/music_group.personal.md|music_group.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/performing_group/music_group.secret.md|music_group.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/performing_group/music_group.md|music_group]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/performing_group/music_group.internal.md|music_group.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/performing_group/music_group.protect.md|music_group.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/performing_group/music_group.private.md|music_group.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/performing_group/music_group.personal.md|music_group.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/performing_group/music_group.secret.md|music_group.secret]] 

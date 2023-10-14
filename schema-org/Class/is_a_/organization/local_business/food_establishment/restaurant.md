@@ -45,9 +45,9 @@ A restaurant.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.md|restaurant]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.internal.md|restaurant.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.protect.md|restaurant.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.private.md|restaurant.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.personal.md|restaurant.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/restaurant.secret.md|restaurant.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/food_establishment/restaurant.md|restaurant]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/food_establishment/restaurant.internal.md|restaurant.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/food_establishment/restaurant.protect.md|restaurant.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/food_establishment/restaurant.private.md|restaurant.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/food_establishment/restaurant.personal.md|restaurant.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/food_establishment/restaurant.secret.md|restaurant.secret]] 

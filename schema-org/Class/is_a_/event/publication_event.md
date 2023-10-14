@@ -47,9 +47,9 @@ A PublicationEvent corresponds indifferently to the event of publication for a C
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/publication_event.md|publication_event]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/publication_event.internal.md|publication_event.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/publication_event.protect.md|publication_event.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/publication_event.private.md|publication_event.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/publication_event.personal.md|publication_event.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/publication_event.secret.md|publication_event.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/publication_event.md|publication_event]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/publication_event.internal.md|publication_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/publication_event.protect.md|publication_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/publication_event.private.md|publication_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/publication_event.personal.md|publication_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/publication_event.secret.md|publication_event.secret]] 

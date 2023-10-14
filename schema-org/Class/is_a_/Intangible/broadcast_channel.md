@@ -47,9 +47,9 @@ A unique instance of a BroadcastService on a CableOrSatelliteService lineup.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/broadcast_channel.md|broadcast_channel]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/broadcast_channel.internal.md|broadcast_channel.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/broadcast_channel.protect.md|broadcast_channel.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/broadcast_channel.private.md|broadcast_channel.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/broadcast_channel.personal.md|broadcast_channel.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/broadcast_channel.secret.md|broadcast_channel.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/broadcast_channel.md|broadcast_channel]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_channel.internal.md|broadcast_channel.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/broadcast_channel.protect.md|broadcast_channel.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/broadcast_channel.private.md|broadcast_channel.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/broadcast_channel.personal.md|broadcast_channel.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/broadcast_channel.secret.md|broadcast_channel.secret]] 

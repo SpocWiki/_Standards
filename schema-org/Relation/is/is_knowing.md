@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_knowing :: Person ] or 
+- [ #is_/knowing :: Person ] or 
 - [ is_knowing :: Person ] 
 
 The most generic bi-directional social/work relation.

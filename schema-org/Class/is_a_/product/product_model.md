@@ -45,9 +45,9 @@ A datasheet or vendor specification of a product (in the sense of a prototypical
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/product/product_model.md|product_model]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/product/product_model.internal.md|product_model.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/product/product_model.protect.md|product_model.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/product/product_model.private.md|product_model.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/product/product_model.personal.md|product_model.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/product/product_model.secret.md|product_model.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/product/product_model.md|product_model]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/product/product_model.internal.md|product_model.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/product/product_model.protect.md|product_model.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/product/product_model.private.md|product_model.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/product/product_model.personal.md|product_model.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/product/product_model.secret.md|product_model.secret]] 

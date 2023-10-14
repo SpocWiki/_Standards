@@ -45,9 +45,9 @@ A nail salon.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.md|nail_salon]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.internal.md|nail_salon.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.protect.md|nail_salon.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.private.md|nail_salon.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.personal.md|nail_salon.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/nail_salon.secret.md|nail_salon.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.md|nail_salon]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.internal.md|nail_salon.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.protect.md|nail_salon.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.private.md|nail_salon.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.personal.md|nail_salon.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/nail_salon.secret.md|nail_salon.secret]] 

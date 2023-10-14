@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_by_artist :: MusicGroup, Person ] or 
+- [ #is_/by_artist :: MusicGroup, Person ] or 
 - [ is_by_artist :: MusicGroup, Person ] 
 
 The artist that performed this album or recording.

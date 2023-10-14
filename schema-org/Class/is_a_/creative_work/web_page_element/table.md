@@ -45,9 +45,9 @@ A table on a Web page.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/table.md|table]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/table.internal.md|table.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/table.protect.md|table.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/table.private.md|table.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/table.personal.md|table.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/table.secret.md|table.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page_element/table.md|table]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page_element/table.internal.md|table.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page_element/table.protect.md|table.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page_element/table.private.md|table.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page_element/table.personal.md|table.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page_element/table.secret.md|table.secret]] 

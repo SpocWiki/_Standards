@@ -45,9 +45,9 @@ A set of characteristics belonging to businesses, e.g. who compose an item's tar
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/audience/business_audience.md|business_audience]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/business_audience.internal.md|business_audience.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/business_audience.protect.md|business_audience.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/audience/business_audience.private.md|business_audience.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/business_audience.personal.md|business_audience.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/business_audience.secret.md|business_audience.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/audience/business_audience.md|business_audience]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/business_audience.internal.md|business_audience.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/business_audience.protect.md|business_audience.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/audience/business_audience.private.md|business_audience.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/audience/business_audience.personal.md|business_audience.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/audience/business_audience.secret.md|business_audience.secret]] 

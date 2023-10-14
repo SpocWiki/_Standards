@@ -45,9 +45,9 @@ One of the continents (for example, Europe or Africa).
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/landform/continent.md|continent]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/landform/continent.internal.md|continent.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/landform/continent.protect.md|continent.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/landform/continent.private.md|continent.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/landform/continent.personal.md|continent.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/landform/continent.secret.md|continent.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/landform/continent.md|continent]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/landform/continent.internal.md|continent.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/landform/continent.protect.md|continent.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/landform/continent.private.md|continent.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/landform/continent.personal.md|continent.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/landform/continent.secret.md|continent.secret]] 

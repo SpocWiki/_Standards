@@ -47,9 +47,9 @@ A list of items of any sort&#x2014;for example, Top 10 Movies About Weathermen, 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/item_list.md|item_list]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/item_list.internal.md|item_list.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/item_list.protect.md|item_list.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/item_list.private.md|item_list.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/item_list.personal.md|item_list.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/item_list.secret.md|item_list.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/item_list.md|item_list]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/item_list.internal.md|item_list.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/item_list.protect.md|item_list.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/item_list.private.md|item_list.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/item_list.personal.md|item_list.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/item_list.secret.md|item_list.secret]] 

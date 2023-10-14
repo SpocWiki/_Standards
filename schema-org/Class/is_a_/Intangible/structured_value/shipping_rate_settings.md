@@ -47,9 +47,9 @@ A ShippingRateSettings represents re-usable pieces of shipping information. It i
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/shipping_rate_settings.md|shipping_rate_settings]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/shipping_rate_settings.internal.md|shipping_rate_settings.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/shipping_rate_settings.protect.md|shipping_rate_settings.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/shipping_rate_settings.private.md|shipping_rate_settings.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/shipping_rate_settings.personal.md|shipping_rate_settings.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/shipping_rate_settings.secret.md|shipping_rate_settings.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.md|shipping_rate_settings]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.internal.md|shipping_rate_settings.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.protect.md|shipping_rate_settings.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.private.md|shipping_rate_settings.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.personal.md|shipping_rate_settings.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.secret.md|shipping_rate_settings.secret]] 

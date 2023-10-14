@@ -45,9 +45,9 @@ A bus station.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/bus_station.md|bus_station]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/bus_station.internal.md|bus_station.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/bus_station.protect.md|bus_station.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/bus_station.private.md|bus_station.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/bus_station.personal.md|bus_station.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/bus_station.secret.md|bus_station.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/bus_station.md|bus_station]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/bus_station.internal.md|bus_station.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/bus_station.protect.md|bus_station.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/bus_station.private.md|bus_station.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/bus_station.personal.md|bus_station.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/bus_station.secret.md|bus_station.secret]] 

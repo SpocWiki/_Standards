@@ -47,9 +47,9 @@ Medical researchers.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.md|medical_researcher]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.internal.md|medical_researcher.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.protect.md|medical_researcher.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.private.md|medical_researcher.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.personal.md|medical_researcher.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.secret.md|medical_researcher.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.md|medical_researcher]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.internal.md|medical_researcher.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.protect.md|medical_researcher.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.private.md|medical_researcher.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.personal.md|medical_researcher.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.secret.md|medical_researcher.secret]] 

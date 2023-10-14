@@ -53,9 +53,9 @@ They can be imagined, synthetic, hypothetical or naturally occurring.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/bio_chem_entity/protein.md|protein]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/bio_chem_entity/protein.internal.md|protein.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/bio_chem_entity/protein.protect.md|protein.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/bio_chem_entity/protein.private.md|protein.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/bio_chem_entity/protein.personal.md|protein.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/bio_chem_entity/protein.secret.md|protein.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/bio_chem_entity/protein.md|protein]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/protein.internal.md|protein.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/bio_chem_entity/protein.protect.md|protein.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/bio_chem_entity/protein.private.md|protein.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/bio_chem_entity/protein.personal.md|protein.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/bio_chem_entity/protein.secret.md|protein.secret]] 

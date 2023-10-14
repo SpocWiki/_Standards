@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is_/value_required 
+#is/_value_required 
 #is_not_/value_required 
 
 Or write it as a Triple: 

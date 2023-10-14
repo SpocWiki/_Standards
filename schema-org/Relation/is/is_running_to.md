@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_running_to :: Vessel] or 
+- [ #is_/running_to :: Vessel] or 
 - [ is_running_to :: Vessel] 
 
 The vasculature the lymphatic structure runs, or efferents, to.

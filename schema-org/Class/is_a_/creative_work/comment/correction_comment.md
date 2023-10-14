@@ -47,9 +47,9 @@ A <a class="localLink" href="/comment">comment</a> that corrects <a class="local
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/comment/correction_comment.md|correction_comment]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/comment/correction_comment.internal.md|correction_comment.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/comment/correction_comment.protect.md|correction_comment.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/comment/correction_comment.private.md|correction_comment.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/comment/correction_comment.personal.md|correction_comment.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/comment/correction_comment.secret.md|correction_comment.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/comment/correction_comment.md|correction_comment]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/comment/correction_comment.internal.md|correction_comment.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/comment/correction_comment.protect.md|correction_comment.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/comment/correction_comment.private.md|correction_comment.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/comment/correction_comment.personal.md|correction_comment.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/comment/correction_comment.secret.md|correction_comment.secret]] 

@@ -47,9 +47,9 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_plays.md|user_plays]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_plays.internal.md|user_plays.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_plays.protect.md|user_plays.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_plays.private.md|user_plays.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_plays.personal.md|user_plays.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_plays.secret.md|user_plays.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/event/user_interaction/user_plays.md|user_plays]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_plays.internal.md|user_plays.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_plays.protect.md|user_plays.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_plays.private.md|user_plays.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_plays.personal.md|user_plays.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_plays.secret.md|user_plays.secret]] 

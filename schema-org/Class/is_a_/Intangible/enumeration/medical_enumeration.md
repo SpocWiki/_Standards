@@ -45,9 +45,9 @@ Enumerations related to health and the practice of medicine: A concept that is u
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration.md|medical_enumeration]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration.internal.md|medical_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration.protect.md|medical_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration.private.md|medical_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration.personal.md|medical_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration.secret.md|medical_enumeration.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration.md|medical_enumeration]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration.internal.md|medical_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration.protect.md|medical_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration.private.md|medical_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration.personal.md|medical_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration.secret.md|medical_enumeration.secret]] 

@@ -49,9 +49,9 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.md|distance_fee]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.internal.md|distance_fee.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.protect.md|distance_fee.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.private.md|distance_fee.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.personal.md|distance_fee.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.secret.md|distance_fee.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.md|distance_fee]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.internal.md|distance_fee.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.protect.md|distance_fee.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.private.md|distance_fee.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.personal.md|distance_fee.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.secret.md|distance_fee.secret]] 

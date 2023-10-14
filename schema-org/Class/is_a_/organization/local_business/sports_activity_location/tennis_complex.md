@@ -45,9 +45,9 @@ A tennis complex.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.md|tennis_complex]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.internal.md|tennis_complex.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.protect.md|tennis_complex.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.private.md|tennis_complex.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.personal.md|tennis_complex.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/sports_activity_location/tennis_complex.secret.md|tennis_complex.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.md|tennis_complex]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.internal.md|tennis_complex.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.protect.md|tennis_complex.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.private.md|tennis_complex.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.personal.md|tennis_complex.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/sports_activity_location/tennis_complex.secret.md|tennis_complex.secret]] 

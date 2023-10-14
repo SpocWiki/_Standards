@@ -45,9 +45,9 @@ A process of care using radiation aimed at improving a health condition.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.md|radiation_therapy]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.internal.md|radiation_therapy.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.protect.md|radiation_therapy.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.private.md|radiation_therapy.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.personal.md|radiation_therapy.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.secret.md|radiation_therapy.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.md|radiation_therapy]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.internal.md|radiation_therapy.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.protect.md|radiation_therapy.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.private.md|radiation_therapy.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.personal.md|radiation_therapy.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/radiation_therapy.secret.md|radiation_therapy.secret]] 

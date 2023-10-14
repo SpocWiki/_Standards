@@ -47,9 +47,9 @@ A US-style health insurance plan network.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/health_plan_network.md|health_plan_network]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/health_plan_network.internal.md|health_plan_network.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/health_plan_network.protect.md|health_plan_network.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/health_plan_network.private.md|health_plan_network.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/health_plan_network.personal.md|health_plan_network.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/health_plan_network.secret.md|health_plan_network.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/health_plan_network.md|health_plan_network]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/health_plan_network.internal.md|health_plan_network.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/health_plan_network.protect.md|health_plan_network.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/health_plan_network.private.md|health_plan_network.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/health_plan_network.personal.md|health_plan_network.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/health_plan_network.secret.md|health_plan_network.secret]] 

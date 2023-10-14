@@ -45,9 +45,9 @@ A movie theater.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/movie_theater.md|movie_theater]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/movie_theater.internal.md|movie_theater.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/movie_theater.protect.md|movie_theater.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/movie_theater.private.md|movie_theater.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/movie_theater.personal.md|movie_theater.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/movie_theater.secret.md|movie_theater.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/movie_theater.md|movie_theater]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/movie_theater.internal.md|movie_theater.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/movie_theater.protect.md|movie_theater.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/movie_theater.private.md|movie_theater.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/movie_theater.personal.md|movie_theater.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/movie_theater.secret.md|movie_theater.secret]] 

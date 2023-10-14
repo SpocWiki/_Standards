@@ -31,15 +31,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_member_of :: [[../../../Type/is_a_/organization]], [[../../../Type/is_a_/intangible/program_membership]] ] or 
-- [ is_member_of :: [[../../../Type/is_a_/organization]], [[../../../Type/is_a_/intangible/program_membership]] ] 
+- [ #is_/member_of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] ] or 
+- [ is_member_of :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] ] 
 
-An [organization](../../../Type/is_a_/organization) (or [program_membership](../../../Type/is_a_/intangible/program_membership)) to which this Person or Organization belongs.
+An [organization](../../../Class/is_a_/organization) (or [program_membership](../../../Class/is_a_/intangible/program_membership)) to which this Person or Organization belongs.
 
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]
 ( #has_/name :: is_member_of )
-( #has_/range :: [[../../../Type/is_a_/organization]], [[../../../Type/is_a_/intangible/program_membership]] )
+( #has_/range :: [[../../../Class/is_a_/organization]], [[../../../Class/is_a_/intangible/program_membership]] )
 
 [ #is_/inverse_of  :: [[has_member]] ]
 

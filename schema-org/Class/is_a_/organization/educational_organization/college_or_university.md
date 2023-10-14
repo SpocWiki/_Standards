@@ -45,9 +45,9 @@ A college, university, or other third-level educational institution.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/educational_organization/college_or_university.md|college_or_university]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/educational_organization/college_or_university.internal.md|college_or_university.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/educational_organization/college_or_university.protect.md|college_or_university.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/educational_organization/college_or_university.private.md|college_or_university.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/educational_organization/college_or_university.personal.md|college_or_university.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/educational_organization/college_or_university.secret.md|college_or_university.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/educational_organization/college_or_university.md|college_or_university]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/educational_organization/college_or_university.internal.md|college_or_university.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/educational_organization/college_or_university.protect.md|college_or_university.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/educational_organization/college_or_university.private.md|college_or_university.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/educational_organization/college_or_university.personal.md|college_or_university.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/educational_organization/college_or_university.secret.md|college_or_university.secret]] 

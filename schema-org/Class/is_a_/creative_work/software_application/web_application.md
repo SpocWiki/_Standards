@@ -45,9 +45,9 @@ Web applications.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/software_application/web_application.md|web_application]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/software_application/web_application.internal.md|web_application.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/software_application/web_application.protect.md|web_application.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/software_application/web_application.private.md|web_application.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/software_application/web_application.personal.md|web_application.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/software_application/web_application.secret.md|web_application.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/software_application/web_application.md|web_application]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/software_application/web_application.internal.md|web_application.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/software_application/web_application.protect.md|web_application.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/software_application/web_application.private.md|web_application.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/software_application/web_application.personal.md|web_application.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/software_application/web_application.secret.md|web_application.secret]] 

@@ -45,9 +45,9 @@ A bridge.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/bridge.md|bridge]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/bridge.internal.md|bridge.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/bridge.protect.md|bridge.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/bridge.private.md|bridge.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/bridge.personal.md|bridge.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/bridge.secret.md|bridge.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/bridge.md|bridge]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/bridge.internal.md|bridge.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/bridge.protect.md|bridge.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/bridge.private.md|bridge.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/bridge.personal.md|bridge.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/bridge.secret.md|bridge.secret]] 

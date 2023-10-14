@@ -45,9 +45,9 @@ A common pathway for the electrochemical nerve impulses that are transmitted alo
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.md|nerve]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.internal.md|nerve.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.protect.md|nerve.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.private.md|nerve.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.personal.md|nerve.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/nerve.secret.md|nerve.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/nerve.md|nerve]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/nerve.internal.md|nerve.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/nerve.protect.md|nerve.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/nerve.private.md|nerve.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/nerve.personal.md|nerve.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/nerve.secret.md|nerve.secret]] 

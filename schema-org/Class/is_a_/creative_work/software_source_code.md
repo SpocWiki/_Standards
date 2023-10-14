@@ -47,9 +47,9 @@ Computer programming source code. Example: Full (compile ready) solutions, code 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/software_source_code.md|software_source_code]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/software_source_code.internal.md|software_source_code.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/software_source_code.protect.md|software_source_code.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/software_source_code.private.md|software_source_code.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/software_source_code.personal.md|software_source_code.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/software_source_code.secret.md|software_source_code.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/software_source_code.md|software_source_code]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/software_source_code.internal.md|software_source_code.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/software_source_code.protect.md|software_source_code.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/software_source_code.private.md|software_source_code.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/software_source_code.personal.md|software_source_code.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/software_source_code.secret.md|software_source_code.secret]] 

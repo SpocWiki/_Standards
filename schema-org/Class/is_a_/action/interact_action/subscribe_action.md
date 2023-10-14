@@ -53,9 +53,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/interact_action/subscribe_action.md|subscribe_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/subscribe_action.internal.md|subscribe_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/subscribe_action.protect.md|subscribe_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/interact_action/subscribe_action.private.md|subscribe_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/subscribe_action.personal.md|subscribe_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/subscribe_action.secret.md|subscribe_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/interact_action/subscribe_action.md|subscribe_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/subscribe_action.internal.md|subscribe_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/subscribe_action.protect.md|subscribe_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/subscribe_action.private.md|subscribe_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/subscribe_action.personal.md|subscribe_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/subscribe_action.secret.md|subscribe_action.secret]] 

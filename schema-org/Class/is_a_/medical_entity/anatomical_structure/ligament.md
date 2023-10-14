@@ -45,9 +45,9 @@ A short band of tough, flexible, fibrous connective tissue that functions to con
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.md|ligament]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.internal.md|ligament.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.protect.md|ligament.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.private.md|ligament.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.personal.md|ligament.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/ligament.secret.md|ligament.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/ligament.md|ligament]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/ligament.internal.md|ligament.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/ligament.protect.md|ligament.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/ligament.private.md|ligament.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/ligament.personal.md|ligament.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/ligament.secret.md|ligament.secret]] 

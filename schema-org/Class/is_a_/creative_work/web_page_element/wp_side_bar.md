@@ -45,9 +45,9 @@ A sidebar section of the page.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.md|wp_side_bar]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.internal.md|wp_side_bar.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.protect.md|wp_side_bar.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.private.md|wp_side_bar.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.personal.md|wp_side_bar.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/wp_side_bar.secret.md|wp_side_bar.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page_element/wp_side_bar.md|wp_side_bar]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page_element/wp_side_bar.internal.md|wp_side_bar.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page_element/wp_side_bar.protect.md|wp_side_bar.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page_element/wp_side_bar.private.md|wp_side_bar.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page_element/wp_side_bar.personal.md|wp_side_bar.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page_element/wp_side_bar.secret.md|wp_side_bar.secret]] 

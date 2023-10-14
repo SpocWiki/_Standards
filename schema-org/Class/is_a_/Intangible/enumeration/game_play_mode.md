@@ -43,9 +43,9 @@ Indicates whether this game is multi-player, co-op or single-player.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.md|game_play_mode]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.internal.md|game_play_mode.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.protect.md|game_play_mode.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.private.md|game_play_mode.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.personal.md|game_play_mode.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/game_play_mode.secret.md|game_play_mode.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.md|game_play_mode]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.internal.md|game_play_mode.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.protect.md|game_play_mode.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.private.md|game_play_mode.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.personal.md|game_play_mode.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.secret.md|game_play_mode.secret]] 

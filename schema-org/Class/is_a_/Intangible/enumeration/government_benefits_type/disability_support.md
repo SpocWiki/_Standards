@@ -49,9 +49,9 @@ DisabilitySupport: this is a benefit for disability support.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.md|disability_support]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.internal.md|disability_support.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.protect.md|disability_support.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.private.md|disability_support.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.personal.md|disability_support.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/government_benefits_type/disability_support.secret.md|disability_support.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.md|disability_support]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.internal.md|disability_support.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.protect.md|disability_support.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.private.md|disability_support.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.personal.md|disability_support.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.secret.md|disability_support.secret]] 

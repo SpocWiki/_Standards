@@ -47,9 +47,9 @@ An agent controls a device or application.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/action/control_action.md|control_action]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/action/control_action.internal.md|control_action.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/action/control_action.protect.md|control_action.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/action/control_action.private.md|control_action.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/action/control_action.personal.md|control_action.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/action/control_action.secret.md|control_action.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/action/control_action.md|control_action]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/control_action.internal.md|control_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/control_action.protect.md|control_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/control_action.private.md|control_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/control_action.personal.md|control_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/control_action.secret.md|control_action.secret]] 

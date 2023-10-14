@@ -50,9 +50,9 @@ A CovidTestingFacility is a <a class="localLink" href="/MedicalClinic">MedicalCl
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.md|covid_testing_facility]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.internal.md|covid_testing_facility.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.protect.md|covid_testing_facility.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.private.md|covid_testing_facility.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.personal.md|covid_testing_facility.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.secret.md|covid_testing_facility.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.md|covid_testing_facility]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.internal.md|covid_testing_facility.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.protect.md|covid_testing_facility.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.private.md|covid_testing_facility.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.personal.md|covid_testing_facility.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/medical_clinic/covid_testing_facility.secret.md|covid_testing_facility.secret]] 

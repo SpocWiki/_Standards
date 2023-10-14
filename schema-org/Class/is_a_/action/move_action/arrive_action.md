@@ -45,9 +45,9 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/move_action/arrive_action.md|arrive_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/move_action/arrive_action.internal.md|arrive_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/move_action/arrive_action.protect.md|arrive_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/move_action/arrive_action.private.md|arrive_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/move_action/arrive_action.personal.md|arrive_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/move_action/arrive_action.secret.md|arrive_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/move_action/arrive_action.md|arrive_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/move_action/arrive_action.internal.md|arrive_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/move_action/arrive_action.protect.md|arrive_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/move_action/arrive_action.private.md|arrive_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/move_action/arrive_action.personal.md|arrive_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/move_action/arrive_action.secret.md|arrive_action.secret]] 

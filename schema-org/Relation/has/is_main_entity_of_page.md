@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_main_entity_of_page :: CreativeWork, URL ] or 
+- [ #is_/main_entity_of_page :: CreativeWork, URL ] or 
 - [ is_main_entity_of_page :: CreativeWork, URL ] 
 
 Indicates a page (or other CreativeWork) for which this thing is the main entity being described. See [background notes](/docs/datamodel.html#mainEntityBackground) for details.

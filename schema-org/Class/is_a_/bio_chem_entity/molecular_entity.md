@@ -47,9 +47,9 @@ Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, rad
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.md|molecular_entity]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.internal.md|molecular_entity.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.protect.md|molecular_entity.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.private.md|molecular_entity.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.personal.md|molecular_entity.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/bio_chem_entity/molecular_entity.secret.md|molecular_entity.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.md|molecular_entity]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.internal.md|molecular_entity.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.protect.md|molecular_entity.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.private.md|molecular_entity.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.personal.md|molecular_entity.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.secret.md|molecular_entity.secret]] 

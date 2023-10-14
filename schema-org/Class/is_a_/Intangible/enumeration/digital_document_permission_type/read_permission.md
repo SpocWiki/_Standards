@@ -47,9 +47,9 @@ Permission to read or view the document.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.md|read_permission]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.internal.md|read_permission.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.protect.md|read_permission.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.private.md|read_permission.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.personal.md|read_permission.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.secret.md|read_permission.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.md|read_permission]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.internal.md|read_permission.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.protect.md|read_permission.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.private.md|read_permission.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.personal.md|read_permission.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.secret.md|read_permission.secret]] 

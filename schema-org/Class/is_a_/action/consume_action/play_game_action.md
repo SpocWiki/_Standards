@@ -47,9 +47,9 @@ The act of playing a video game.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/consume_action/play_game_action.md|play_game_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/play_game_action.internal.md|play_game_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/play_game_action.protect.md|play_game_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/consume_action/play_game_action.private.md|play_game_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/play_game_action.personal.md|play_game_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/play_game_action.secret.md|play_game_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/play_game_action.md|play_game_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/play_game_action.internal.md|play_game_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/play_game_action.protect.md|play_game_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/play_game_action.private.md|play_game_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/play_game_action.personal.md|play_game_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/play_game_action.secret.md|play_game_action.secret]] 

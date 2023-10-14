@@ -45,9 +45,9 @@ One or more messages between organizations or people on a particular topic. Indi
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/conversation.md|conversation]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/conversation.internal.md|conversation.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/conversation.protect.md|conversation.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/conversation.private.md|conversation.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/conversation.personal.md|conversation.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/conversation.secret.md|conversation.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/conversation.md|conversation]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/conversation.internal.md|conversation.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/conversation.protect.md|conversation.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/conversation.private.md|conversation.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/conversation.personal.md|conversation.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/conversation.secret.md|conversation.secret]] 

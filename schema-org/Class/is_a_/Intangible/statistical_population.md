@@ -49,9 +49,9 @@ population, and does not imply that the population consists of people. For examp
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/statistical_population.md|statistical_population]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/statistical_population.internal.md|statistical_population.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/statistical_population.protect.md|statistical_population.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/statistical_population.private.md|statistical_population.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/statistical_population.personal.md|statistical_population.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/statistical_population.secret.md|statistical_population.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/statistical_population.md|statistical_population]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/statistical_population.internal.md|statistical_population.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/statistical_population.protect.md|statistical_population.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/statistical_population.private.md|statistical_population.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/statistical_population.personal.md|statistical_population.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/statistical_population.secret.md|statistical_population.secret]] 

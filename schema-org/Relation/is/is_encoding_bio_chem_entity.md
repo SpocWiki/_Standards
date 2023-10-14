@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending:]
 
 Use it like this: 
-- [ #is/_encoding_bio_chem_entity :: BioChemEntity] or 
+- [ #is_/encoding_bio_chem_entity :: BioChemEntity] or 
 - [ is_encoding_bio_chem_entity :: BioChemEntity] 
 
 Another BioChemEntity encoded by this one.

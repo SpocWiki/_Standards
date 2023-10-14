@@ -47,9 +47,9 @@ An item used as either a tool or supply when performing the instructions for how
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/list_item/how_to_item.md|how_to_item]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/list_item/how_to_item.internal.md|how_to_item.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/list_item/how_to_item.protect.md|how_to_item.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/list_item/how_to_item.private.md|how_to_item.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/list_item/how_to_item.personal.md|how_to_item.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/list_item/how_to_item.secret.md|how_to_item.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/list_item/how_to_item.md|how_to_item]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/list_item/how_to_item.internal.md|how_to_item.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/list_item/how_to_item.protect.md|how_to_item.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/list_item/how_to_item.private.md|how_to_item.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/list_item/how_to_item.personal.md|how_to_item.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/list_item/how_to_item.secret.md|how_to_item.secret]] 

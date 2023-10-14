@@ -47,9 +47,9 @@ A Role that represents a Web link, e.g. as expressed via the 'url' property. Its
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/role/link_role.md|link_role]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/role/link_role.internal.md|link_role.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/role/link_role.protect.md|link_role.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/role/link_role.private.md|link_role.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/role/link_role.personal.md|link_role.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/role/link_role.secret.md|link_role.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/role/link_role.md|link_role]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/role/link_role.internal.md|link_role.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/role/link_role.protect.md|link_role.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/role/link_role.private.md|link_role.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/role/link_role.personal.md|link_role.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/role/link_role.secret.md|link_role.secret]] 

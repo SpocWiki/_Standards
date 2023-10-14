@@ -45,9 +45,9 @@ Event type: Comedy event.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/comedy_event.md|comedy_event]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/comedy_event.internal.md|comedy_event.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/comedy_event.protect.md|comedy_event.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/comedy_event.private.md|comedy_event.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/comedy_event.personal.md|comedy_event.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/comedy_event.secret.md|comedy_event.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/comedy_event.md|comedy_event]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/comedy_event.internal.md|comedy_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/comedy_event.protect.md|comedy_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/comedy_event.private.md|comedy_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/comedy_event.personal.md|comedy_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/comedy_event.secret.md|comedy_event.secret]] 

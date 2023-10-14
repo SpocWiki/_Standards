@@ -49,9 +49,9 @@ A general code for cases where relevance to children is reduced, e.g. adult educ
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.md|reduced_relevance_for_children_consideration]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.internal.md|reduced_relevance_for_children_consideration.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.protect.md|reduced_relevance_for_children_consideration.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.private.md|reduced_relevance_for_children_consideration.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.personal.md|reduced_relevance_for_children_consideration.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.secret.md|reduced_relevance_for_children_consideration.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.md|reduced_relevance_for_children_consideration]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.internal.md|reduced_relevance_for_children_consideration.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.protect.md|reduced_relevance_for_children_consideration.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.private.md|reduced_relevance_for_children_consideration.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.personal.md|reduced_relevance_for_children_consideration.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.secret.md|reduced_relevance_for_children_consideration.secret]] 

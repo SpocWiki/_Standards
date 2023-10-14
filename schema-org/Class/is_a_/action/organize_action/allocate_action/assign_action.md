@@ -45,9 +45,9 @@ The act of allocating an action/event/task to some destination (someone or somet
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.md|assign_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.internal.md|assign_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.protect.md|assign_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.private.md|assign_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.personal.md|assign_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/allocate_action/assign_action.secret.md|assign_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/organize_action/allocate_action/assign_action.md|assign_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/allocate_action/assign_action.internal.md|assign_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/allocate_action/assign_action.protect.md|assign_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/allocate_action/assign_action.private.md|assign_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/allocate_action/assign_action.personal.md|assign_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/allocate_action/assign_action.secret.md|assign_action.secret]] 

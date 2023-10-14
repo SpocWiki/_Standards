@@ -51,9 +51,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.md|schedule_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.internal.md|schedule_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.protect.md|schedule_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.private.md|schedule_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.personal.md|schedule_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/plan_action/schedule_action.secret.md|schedule_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.md|schedule_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.internal.md|schedule_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.protect.md|schedule_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.private.md|schedule_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.personal.md|schedule_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.secret.md|schedule_action.secret]] 

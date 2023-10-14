@@ -45,9 +45,9 @@ A store that sells reading glasses and similar devices for improving vision.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/optician.md|optician]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/optician.internal.md|optician.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/optician.protect.md|optician.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/optician.private.md|optician.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/optician.personal.md|optician.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/optician.secret.md|optician.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/optician.md|optician]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/optician.internal.md|optician.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/optician.protect.md|optician.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/optician.private.md|optician.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/optician.personal.md|optician.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/optician.secret.md|optician.secret]] 

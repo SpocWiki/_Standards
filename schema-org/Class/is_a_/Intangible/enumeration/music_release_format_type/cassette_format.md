@@ -47,9 +47,9 @@ CassetteFormat.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.md|cassette_format]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.internal.md|cassette_format.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.protect.md|cassette_format.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.private.md|cassette_format.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.personal.md|cassette_format.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_release_format_type/cassette_format.secret.md|cassette_format.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.md|cassette_format]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.internal.md|cassette_format.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.protect.md|cassette_format.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.private.md|cassette_format.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.personal.md|cassette_format.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.secret.md|cassette_format.secret]] 

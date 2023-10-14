@@ -49,9 +49,9 @@ A legal document such as an act, decree, bill, etc. (enforceable or not) or a co
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/legislation.md|legislation]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/legislation.internal.md|legislation.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/legislation.protect.md|legislation.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/legislation.private.md|legislation.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/legislation.personal.md|legislation.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/legislation.secret.md|legislation.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/legislation.md|legislation]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/legislation.internal.md|legislation.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/legislation.protect.md|legislation.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/legislation.private.md|legislation.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/legislation.personal.md|legislation.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/legislation.secret.md|legislation.secret]] 

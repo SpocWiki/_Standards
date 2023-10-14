@@ -45,9 +45,9 @@ Enumeration of considerations that make a product relevant or potentially restri
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.md|adult_oriented_enumeration]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.internal.md|adult_oriented_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.protect.md|adult_oriented_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.private.md|adult_oriented_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.personal.md|adult_oriented_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/adult_oriented_enumeration.secret.md|adult_oriented_enumeration.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.md|adult_oriented_enumeration]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.internal.md|adult_oriented_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.protect.md|adult_oriented_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.private.md|adult_oriented_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.personal.md|adult_oriented_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.secret.md|adult_oriented_enumeration.secret]] 

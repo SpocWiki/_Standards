@@ -45,9 +45,9 @@ The act of intentionally disregarding the object. An agent ignores an object.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/assess_action/ignore_action.md|ignore_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/ignore_action.internal.md|ignore_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/ignore_action.protect.md|ignore_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/assess_action/ignore_action.private.md|ignore_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/ignore_action.personal.md|ignore_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/ignore_action.secret.md|ignore_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/assess_action/ignore_action.md|ignore_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/ignore_action.internal.md|ignore_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/ignore_action.protect.md|ignore_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/assess_action/ignore_action.private.md|ignore_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/ignore_action.personal.md|ignore_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/ignore_action.secret.md|ignore_action.secret]] 

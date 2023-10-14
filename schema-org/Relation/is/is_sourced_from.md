@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_sourced_from :: BrainStructure ] or 
+- [ #is_/sourced_from :: BrainStructure ] or 
 - [ is_sourced_from :: BrainStructure ] 
 
 The neurological pathway that originates the neurons.

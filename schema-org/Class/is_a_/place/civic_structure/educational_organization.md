@@ -47,9 +47,9 @@ An educational organization.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/educational_organization.md|educational_organization]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/educational_organization.internal.md|educational_organization.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/educational_organization.protect.md|educational_organization.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/educational_organization.private.md|educational_organization.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/educational_organization.personal.md|educational_organization.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/educational_organization.secret.md|educational_organization.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/educational_organization.md|educational_organization]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/educational_organization.internal.md|educational_organization.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/educational_organization.protect.md|educational_organization.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/educational_organization.private.md|educational_organization.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/educational_organization.personal.md|educational_organization.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/educational_organization.secret.md|educational_organization.secret]] 

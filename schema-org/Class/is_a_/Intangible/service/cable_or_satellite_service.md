@@ -45,9 +45,9 @@ A service which provides access to media programming like TV or radio. Access ma
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.md|cable_or_satellite_service]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.internal.md|cable_or_satellite_service.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.protect.md|cable_or_satellite_service.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.private.md|cable_or_satellite_service.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.personal.md|cable_or_satellite_service.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/service/cable_or_satellite_service.secret.md|cable_or_satellite_service.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.md|cable_or_satellite_service]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.internal.md|cable_or_satellite_service.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.protect.md|cable_or_satellite_service.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.private.md|cable_or_satellite_service.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.personal.md|cable_or_satellite_service.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.secret.md|cable_or_satellite_service.secret]] 

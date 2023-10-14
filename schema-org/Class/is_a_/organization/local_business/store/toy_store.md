@@ -45,9 +45,9 @@ A toy store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/toy_store.md|toy_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/toy_store.internal.md|toy_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/toy_store.protect.md|toy_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/toy_store.private.md|toy_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/toy_store.personal.md|toy_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/toy_store.secret.md|toy_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/toy_store.md|toy_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/toy_store.internal.md|toy_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/toy_store.protect.md|toy_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/toy_store.private.md|toy_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/toy_store.personal.md|toy_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/toy_store.secret.md|toy_store.secret]] 

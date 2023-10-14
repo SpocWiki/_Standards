@@ -47,9 +47,9 @@ A specific branch of medical science that deals with the evaluation and initial 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.md|emergency]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.internal.md|emergency.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.protect.md|emergency.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.private.md|emergency.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.personal.md|emergency.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/medical_business/emergency.secret.md|emergency.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/emergency.md|emergency]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/emergency.internal.md|emergency.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/emergency.protect.md|emergency.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/emergency.private.md|emergency.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/emergency.personal.md|emergency.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/emergency.secret.md|emergency.secret]] 

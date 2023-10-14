@@ -45,9 +45,9 @@ A pet store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/pet_store.md|pet_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/pet_store.internal.md|pet_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/pet_store.protect.md|pet_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/pet_store.private.md|pet_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/pet_store.personal.md|pet_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/pet_store.secret.md|pet_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/pet_store.md|pet_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/pet_store.internal.md|pet_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/pet_store.protect.md|pet_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/pet_store.private.md|pet_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/pet_store.personal.md|pet_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/pet_store.secret.md|pet_store.secret]] 

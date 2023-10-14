@@ -45,9 +45,9 @@ An indication for treating an underlying condition, symptom, etc.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.md|treatment_indication]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.internal.md|treatment_indication.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.protect.md|treatment_indication.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.private.md|treatment_indication.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.personal.md|treatment_indication.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_indication/treatment_indication.secret.md|treatment_indication.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_indication/treatment_indication.md|treatment_indication]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_indication/treatment_indication.internal.md|treatment_indication.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_indication/treatment_indication.protect.md|treatment_indication.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_indication/treatment_indication.private.md|treatment_indication.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_indication/treatment_indication.personal.md|treatment_indication.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_indication/treatment_indication.secret.md|treatment_indication.secret]] 

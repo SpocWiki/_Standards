@@ -47,9 +47,9 @@ Place of worship, such as a church, synagogue, or mosque.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship.md|place_of_worship]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship.internal.md|place_of_worship.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship.protect.md|place_of_worship.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship.private.md|place_of_worship.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship.personal.md|place_of_worship.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship.secret.md|place_of_worship.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/place_of_worship.md|place_of_worship]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/place_of_worship.internal.md|place_of_worship.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/place_of_worship.protect.md|place_of_worship.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/place_of_worship.private.md|place_of_worship.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/place_of_worship.personal.md|place_of_worship.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/place_of_worship.secret.md|place_of_worship.secret]] 

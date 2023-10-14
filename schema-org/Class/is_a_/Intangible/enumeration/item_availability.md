@@ -54,9 +54,9 @@ A list of possible product availability options:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/item_availability.md|item_availability]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/item_availability.internal.md|item_availability.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/item_availability.protect.md|item_availability.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/item_availability.private.md|item_availability.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/item_availability.personal.md|item_availability.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/item_availability.secret.md|item_availability.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability.md|item_availability]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability.internal.md|item_availability.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability.protect.md|item_availability.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability.private.md|item_availability.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability.personal.md|item_availability.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability.secret.md|item_availability.secret]] 

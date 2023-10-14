@@ -45,9 +45,9 @@ The act of dressing oneself in clothing.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/consume_action/use_action/wear_action.md|wear_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/use_action/wear_action.internal.md|wear_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/use_action/wear_action.protect.md|wear_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/consume_action/use_action/wear_action.private.md|wear_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/use_action/wear_action.personal.md|wear_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/use_action/wear_action.secret.md|wear_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.md|wear_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.internal.md|wear_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.protect.md|wear_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.private.md|wear_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.personal.md|wear_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.secret.md|wear_action.secret]] 

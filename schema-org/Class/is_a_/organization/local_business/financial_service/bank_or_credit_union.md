@@ -45,9 +45,9 @@ Bank or credit union.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.md|bank_or_credit_union]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.internal.md|bank_or_credit_union.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.protect.md|bank_or_credit_union.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.private.md|bank_or_credit_union.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.personal.md|bank_or_credit_union.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/financial_service/bank_or_credit_union.secret.md|bank_or_credit_union.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.md|bank_or_credit_union]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.internal.md|bank_or_credit_union.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.protect.md|bank_or_credit_union.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.private.md|bank_or_credit_union.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.personal.md|bank_or_credit_union.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/financial_service/bank_or_credit_union.secret.md|bank_or_credit_union.secret]] 

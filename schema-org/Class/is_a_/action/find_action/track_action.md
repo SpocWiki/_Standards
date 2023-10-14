@@ -52,9 +52,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/find_action/track_action.md|track_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/find_action/track_action.internal.md|track_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/find_action/track_action.protect.md|track_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/find_action/track_action.private.md|track_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/find_action/track_action.personal.md|track_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/find_action/track_action.secret.md|track_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/find_action/track_action.md|track_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/find_action/track_action.internal.md|track_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/find_action/track_action.protect.md|track_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/find_action/track_action.private.md|track_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/find_action/track_action.personal.md|track_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/find_action/track_action.secret.md|track_action.secret]] 

@@ -45,9 +45,9 @@ A single, identifiable product instance (e.g. a laptop with a particular serial 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/product/individual_product.md|individual_product]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/product/individual_product.internal.md|individual_product.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/product/individual_product.protect.md|individual_product.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/product/individual_product.private.md|individual_product.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/product/individual_product.personal.md|individual_product.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/product/individual_product.secret.md|individual_product.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/product/individual_product.md|individual_product]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/product/individual_product.internal.md|individual_product.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/product/individual_product.protect.md|individual_product.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/product/individual_product.private.md|individual_product.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/product/individual_product.personal.md|individual_product.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/product/individual_product.secret.md|individual_product.secret]] 

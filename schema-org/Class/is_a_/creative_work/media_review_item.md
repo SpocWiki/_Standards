@@ -47,9 +47,9 @@ Represents an item or group of closely related items treated as a unit for the s
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/media_review_item.md|media_review_item]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/media_review_item.internal.md|media_review_item.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/media_review_item.protect.md|media_review_item.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/media_review_item.private.md|media_review_item.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/media_review_item.personal.md|media_review_item.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/media_review_item.secret.md|media_review_item.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/media_review_item.md|media_review_item]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/media_review_item.internal.md|media_review_item.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/media_review_item.protect.md|media_review_item.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/media_review_item.private.md|media_review_item.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/media_review_item.personal.md|media_review_item.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/media_review_item.secret.md|media_review_item.secret]] 

@@ -47,9 +47,9 @@ A landform or physical feature.  Landform elements include mountains, plains, la
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/place/landform.md|landform]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/place/landform.internal.md|landform.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/place/landform.protect.md|landform.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/place/landform.private.md|landform.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/place/landform.personal.md|landform.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/place/landform.secret.md|landform.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/place/landform.md|landform]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/place/landform.internal.md|landform.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/place/landform.protect.md|landform.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/place/landform.private.md|landform.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/place/landform.personal.md|landform.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/place/landform.secret.md|landform.secret]] 

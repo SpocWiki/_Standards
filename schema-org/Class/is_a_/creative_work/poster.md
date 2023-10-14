@@ -47,9 +47,9 @@ A large, usually printed placard, bill, or announcement, often illustrated, that
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/poster.md|poster]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/poster.internal.md|poster.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/poster.protect.md|poster.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/poster.private.md|poster.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/poster.personal.md|poster.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/poster.secret.md|poster.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/poster.md|poster]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/poster.internal.md|poster.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/poster.protect.md|poster.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/poster.private.md|poster.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/poster.personal.md|poster.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/poster.secret.md|poster.secret]] 

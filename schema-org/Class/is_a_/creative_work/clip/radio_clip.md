@@ -45,9 +45,9 @@ A short radio program or a segment/part of a radio program.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/clip/radio_clip.md|radio_clip]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/clip/radio_clip.internal.md|radio_clip.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/clip/radio_clip.protect.md|radio_clip.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/clip/radio_clip.private.md|radio_clip.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/clip/radio_clip.personal.md|radio_clip.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/clip/radio_clip.secret.md|radio_clip.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/clip/radio_clip.md|radio_clip]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/clip/radio_clip.internal.md|radio_clip.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/clip/radio_clip.protect.md|radio_clip.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/clip/radio_clip.private.md|radio_clip.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/clip/radio_clip.personal.md|radio_clip.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/clip/radio_clip.secret.md|radio_clip.secret]] 

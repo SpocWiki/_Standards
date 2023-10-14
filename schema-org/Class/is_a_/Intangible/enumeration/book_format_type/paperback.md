@@ -47,9 +47,9 @@ Book format: Paperback.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.md|paperback]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.internal.md|paperback.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.protect.md|paperback.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.private.md|paperback.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.personal.md|paperback.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/book_format_type/paperback.secret.md|paperback.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.md|paperback]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.internal.md|paperback.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.protect.md|paperback.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.private.md|paperback.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.personal.md|paperback.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.secret.md|paperback.secret]] 

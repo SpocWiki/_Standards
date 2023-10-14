@@ -47,9 +47,9 @@ A Research Organization (e.g. scientific institute, research company).
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/research_organization.md|research_organization]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/research_organization.internal.md|research_organization.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/research_organization.protect.md|research_organization.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/research_organization.private.md|research_organization.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/research_organization.personal.md|research_organization.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/research_organization.secret.md|research_organization.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/research_organization.md|research_organization]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/research_organization.internal.md|research_organization.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/research_organization.protect.md|research_organization.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/research_organization.private.md|research_organization.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/research_organization.personal.md|research_organization.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/research_organization.secret.md|research_organization.secret]] 

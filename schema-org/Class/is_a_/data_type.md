@@ -45,9 +45,9 @@ Tag Instances like this:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Type/is_a_/data_type.md|data_type]] 
-- [[../../../../_internal/schema.org/Type/is_a_/data_type.internal.md|data_type.internal]] 
-- [[../../../../_protect/schema.org/Type/is_a_/data_type.protect.md|data_type.protect]] 
-- [[../../../../_private/schema.org/Type/is_a_/data_type.private.md|data_type.private]] 
-- [[../../../../_personal/schema.org/Type/is_a_/data_type.personal.md|data_type.personal]] 
-- [[../../../../_secret/schema.org/Type/is_a_/data_type.secret.md|data_type.secret]] 
+- [[../../../../_public/schema.org/Class/is_a_/data_type.md|data_type]] 
+- [[../../../../_internal/schema.org/Class/is_a_/data_type.internal.md|data_type.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/data_type.protect.md|data_type.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/data_type.private.md|data_type.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/data_type.personal.md|data_type.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/data_type.secret.md|data_type.secret]] 

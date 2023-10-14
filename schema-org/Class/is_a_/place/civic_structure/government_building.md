@@ -47,9 +47,9 @@ A government building.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/government_building.md|government_building]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/government_building.internal.md|government_building.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/government_building.protect.md|government_building.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/government_building.private.md|government_building.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/government_building.personal.md|government_building.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/government_building.secret.md|government_building.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/government_building.md|government_building]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building.internal.md|government_building.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building.protect.md|government_building.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building.private.md|government_building.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building.personal.md|government_building.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building.secret.md|government_building.secret]] 

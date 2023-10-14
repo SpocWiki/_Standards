@@ -41,7 +41,7 @@ S-P-O Claims form a semantic Graph, unlike the simple Links, which don't have a 
 
 Semantic Graphs are much richer and allow for automated inference of Information: 
 * Relations: reference another Document/Object. 
-	* Tags and Names of Relations start with either #is/_ or #has_/ (Names drop the # and /). Schema.org defines ca. 700 Relations which are imported here
+	* Tags and Names of Relations start with either #is_/ or #has_/ (Names drop the # and /). Schema.org defines ca. 700 Relations which are imported here
 	* TODO: ==Quantities with Enumerations as Values need to be decided on!== Enum Values are Singleton/Flyweight Instances
 * Properties: specify a Value. This can be a string, but also JSON Types like double, int, DateTime etc. and even Lists of Values are allowed. 
   Depending on the Value Type we distinguish: 

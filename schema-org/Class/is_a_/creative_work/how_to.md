@@ -47,9 +47,9 @@ Instructions that explain how to achieve a result by performing a sequence of st
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/how_to.md|how_to]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to.internal.md|how_to.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to.protect.md|how_to.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/how_to.private.md|how_to.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to.personal.md|how_to.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to.secret.md|how_to.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/how_to.md|how_to]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/how_to.internal.md|how_to.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/how_to.protect.md|how_to.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/how_to.private.md|how_to.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/how_to.personal.md|how_to.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/how_to.secret.md|how_to.secret]] 

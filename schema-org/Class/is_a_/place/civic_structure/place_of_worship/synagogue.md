@@ -45,9 +45,9 @@ A synagogue.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.md|synagogue]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.internal.md|synagogue.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.protect.md|synagogue.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.private.md|synagogue.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.personal.md|synagogue.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/place_of_worship/synagogue.secret.md|synagogue.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.md|synagogue]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.internal.md|synagogue.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.protect.md|synagogue.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.private.md|synagogue.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.personal.md|synagogue.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.secret.md|synagogue.secret]] 

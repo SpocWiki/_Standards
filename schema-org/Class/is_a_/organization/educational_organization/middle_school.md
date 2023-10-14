@@ -45,9 +45,9 @@ A middle school (typically for children aged around 11-14, although this varies 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/educational_organization/middle_school.md|middle_school]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/educational_organization/middle_school.internal.md|middle_school.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/educational_organization/middle_school.protect.md|middle_school.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/educational_organization/middle_school.private.md|middle_school.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/educational_organization/middle_school.personal.md|middle_school.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/educational_organization/middle_school.secret.md|middle_school.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/educational_organization/middle_school.md|middle_school]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/educational_organization/middle_school.internal.md|middle_school.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/educational_organization/middle_school.protect.md|middle_school.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/educational_organization/middle_school.private.md|middle_school.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/educational_organization/middle_school.personal.md|middle_school.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/educational_organization/middle_school.secret.md|middle_school.secret]] 

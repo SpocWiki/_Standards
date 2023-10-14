@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending:]
 
 Use it like this: 
-- [ #is/_including_health_plan_network :: HealthPlanNetwork] or 
+- [ #is_/including_health_plan_network :: HealthPlanNetwork] or 
 - [ is_including_health_plan_network :: HealthPlanNetwork] 
 
 Networks covered by this plan.

@@ -47,9 +47,9 @@ An <a class="localLink" href="/Article">Article</a> whose content is primarily <
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/article/satirical_article.md|satirical_article]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/satirical_article.internal.md|satirical_article.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/satirical_article.protect.md|satirical_article.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/article/satirical_article.private.md|satirical_article.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/satirical_article.personal.md|satirical_article.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/satirical_article.secret.md|satirical_article.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/article/satirical_article.md|satirical_article]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/article/satirical_article.internal.md|satirical_article.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/article/satirical_article.protect.md|satirical_article.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/article/satirical_article.private.md|satirical_article.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/article/satirical_article.personal.md|satirical_article.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/article/satirical_article.secret.md|satirical_article.secret]] 

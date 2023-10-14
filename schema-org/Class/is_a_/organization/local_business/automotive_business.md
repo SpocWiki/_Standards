@@ -47,9 +47,9 @@ Car repair, sales, or parts.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business.md|automotive_business]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business.internal.md|automotive_business.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business.protect.md|automotive_business.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business.private.md|automotive_business.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business.personal.md|automotive_business.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business.secret.md|automotive_business.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/automotive_business.md|automotive_business]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business.internal.md|automotive_business.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business.protect.md|automotive_business.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business.private.md|automotive_business.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business.personal.md|automotive_business.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business.secret.md|automotive_business.secret]] 

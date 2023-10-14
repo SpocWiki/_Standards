@@ -45,9 +45,9 @@ An ice cream shop.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.md|ice_cream_shop]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.internal.md|ice_cream_shop.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.protect.md|ice_cream_shop.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.private.md|ice_cream_shop.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.personal.md|ice_cream_shop.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/ice_cream_shop.secret.md|ice_cream_shop.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.md|ice_cream_shop]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.internal.md|ice_cream_shop.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.protect.md|ice_cream_shop.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.private.md|ice_cream_shop.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.personal.md|ice_cream_shop.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/food_establishment/ice_cream_shop.secret.md|ice_cream_shop.secret]] 

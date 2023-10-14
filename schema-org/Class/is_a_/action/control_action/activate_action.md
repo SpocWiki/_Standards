@@ -45,9 +45,9 @@ The act of starting or activating a device or application (e.g. starting a timer
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/control_action/activate_action.md|activate_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/control_action/activate_action.internal.md|activate_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/control_action/activate_action.protect.md|activate_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/control_action/activate_action.private.md|activate_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/control_action/activate_action.personal.md|activate_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/control_action/activate_action.secret.md|activate_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/control_action/activate_action.md|activate_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/control_action/activate_action.internal.md|activate_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/control_action/activate_action.protect.md|activate_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/control_action/activate_action.private.md|activate_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/control_action/activate_action.personal.md|activate_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/control_action/activate_action.secret.md|activate_action.secret]] 

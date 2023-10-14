@@ -51,9 +51,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/action/search_action.md|search_action]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/action/search_action.internal.md|search_action.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/action/search_action.protect.md|search_action.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/action/search_action.private.md|search_action.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/action/search_action.personal.md|search_action.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/action/search_action.secret.md|search_action.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/action/search_action.md|search_action]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/search_action.internal.md|search_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/search_action.protect.md|search_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/search_action.private.md|search_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/search_action.personal.md|search_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/search_action.secret.md|search_action.secret]] 

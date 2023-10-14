@@ -45,9 +45,9 @@ A piece of sculpture.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/sculpture.md|sculpture]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/sculpture.internal.md|sculpture.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/sculpture.protect.md|sculpture.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/sculpture.private.md|sculpture.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/sculpture.personal.md|sculpture.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/sculpture.secret.md|sculpture.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/sculpture.md|sculpture]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/sculpture.internal.md|sculpture.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/sculpture.protect.md|sculpture.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/sculpture.private.md|sculpture.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/sculpture.personal.md|sculpture.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/sculpture.secret.md|sculpture.secret]] 

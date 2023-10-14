@@ -47,9 +47,9 @@ A HyperToc represents a hypertext table of contents for complex media objects, s
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/hyper_toc.md|hyper_toc]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/hyper_toc.internal.md|hyper_toc.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/hyper_toc.protect.md|hyper_toc.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/hyper_toc.private.md|hyper_toc.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/hyper_toc.personal.md|hyper_toc.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/hyper_toc.secret.md|hyper_toc.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/hyper_toc.md|hyper_toc]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/hyper_toc.internal.md|hyper_toc.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/hyper_toc.protect.md|hyper_toc.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/hyper_toc.private.md|hyper_toc.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/hyper_toc.personal.md|hyper_toc.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/hyper_toc.secret.md|hyper_toc.secret]] 

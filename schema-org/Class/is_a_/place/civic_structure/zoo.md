@@ -45,9 +45,9 @@ A zoo.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/zoo.md|zoo]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/zoo.internal.md|zoo.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/zoo.protect.md|zoo.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/zoo.private.md|zoo.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/zoo.personal.md|zoo.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/zoo.secret.md|zoo.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/zoo.md|zoo]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/zoo.internal.md|zoo.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/zoo.protect.md|zoo.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/zoo.private.md|zoo.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/zoo.personal.md|zoo.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/zoo.secret.md|zoo.secret]] 

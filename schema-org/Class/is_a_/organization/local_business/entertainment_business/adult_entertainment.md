@@ -45,9 +45,9 @@ An adult entertainment establishment.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.md|adult_entertainment]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.internal.md|adult_entertainment.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.protect.md|adult_entertainment.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.private.md|adult_entertainment.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.personal.md|adult_entertainment.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/adult_entertainment.secret.md|adult_entertainment.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.md|adult_entertainment]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.internal.md|adult_entertainment.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.protect.md|adult_entertainment.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.private.md|adult_entertainment.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.personal.md|adult_entertainment.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/entertainment_business/adult_entertainment.secret.md|adult_entertainment.secret]] 

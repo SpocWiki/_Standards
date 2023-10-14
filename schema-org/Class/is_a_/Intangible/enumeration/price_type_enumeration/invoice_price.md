@@ -49,9 +49,9 @@ Represents the invoice price of an offered product.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.md|invoice_price]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.internal.md|invoice_price.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.protect.md|invoice_price.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.private.md|invoice_price.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.personal.md|invoice_price.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.secret.md|invoice_price.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.md|invoice_price]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.internal.md|invoice_price.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.protect.md|invoice_price.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.private.md|invoice_price.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.personal.md|invoice_price.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.secret.md|invoice_price.secret]] 

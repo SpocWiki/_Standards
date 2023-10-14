@@ -45,9 +45,9 @@ A tattoo parlor.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.md|tattoo_parlor]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.internal.md|tattoo_parlor.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.protect.md|tattoo_parlor.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.private.md|tattoo_parlor.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.personal.md|tattoo_parlor.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.secret.md|tattoo_parlor.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.md|tattoo_parlor]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.internal.md|tattoo_parlor.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.protect.md|tattoo_parlor.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.private.md|tattoo_parlor.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.personal.md|tattoo_parlor.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/tattoo_parlor.secret.md|tattoo_parlor.secret]] 

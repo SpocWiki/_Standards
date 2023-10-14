@@ -45,9 +45,9 @@ A train station.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/train_station.md|train_station]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/train_station.internal.md|train_station.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/train_station.protect.md|train_station.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/train_station.private.md|train_station.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/train_station.personal.md|train_station.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/train_station.secret.md|train_station.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/train_station.md|train_station]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/train_station.internal.md|train_station.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/train_station.protect.md|train_station.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/train_station.private.md|train_station.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/train_station.personal.md|train_station.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/train_station.secret.md|train_station.secret]] 

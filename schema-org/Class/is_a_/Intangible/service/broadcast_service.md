@@ -47,9 +47,9 @@ A delivery service through which content is provided via broadcast over the air 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/service/broadcast_service.md|broadcast_service]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/service/broadcast_service.internal.md|broadcast_service.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/service/broadcast_service.protect.md|broadcast_service.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/service/broadcast_service.private.md|broadcast_service.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/service/broadcast_service.personal.md|broadcast_service.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/service/broadcast_service.secret.md|broadcast_service.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/broadcast_service.md|broadcast_service]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/broadcast_service.internal.md|broadcast_service.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/broadcast_service.protect.md|broadcast_service.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/broadcast_service.private.md|broadcast_service.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/broadcast_service.personal.md|broadcast_service.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/broadcast_service.secret.md|broadcast_service.secret]] 

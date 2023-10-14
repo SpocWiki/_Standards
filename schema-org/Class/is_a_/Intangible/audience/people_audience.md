@@ -47,9 +47,9 @@ A set of characteristics belonging to people, e.g. who compose an item's target 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/audience/people_audience.md|people_audience]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/audience/people_audience.internal.md|people_audience.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/audience/people_audience.protect.md|people_audience.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/audience/people_audience.private.md|people_audience.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/audience/people_audience.personal.md|people_audience.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/audience/people_audience.secret.md|people_audience.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/audience/people_audience.md|people_audience]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/people_audience.internal.md|people_audience.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/people_audience.protect.md|people_audience.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/audience/people_audience.private.md|people_audience.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/audience/people_audience.personal.md|people_audience.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/audience/people_audience.secret.md|people_audience.secret]] 

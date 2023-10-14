@@ -45,9 +45,9 @@ A structured value indicating the quantity, unit of measurement, and business fu
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.md|type_and_quantity_node]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.internal.md|type_and_quantity_node.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.protect.md|type_and_quantity_node.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.private.md|type_and_quantity_node.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.personal.md|type_and_quantity_node.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/type_and_quantity_node.secret.md|type_and_quantity_node.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.md|type_and_quantity_node]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.internal.md|type_and_quantity_node.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.protect.md|type_and_quantity_node.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.private.md|type_and_quantity_node.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.personal.md|type_and_quantity_node.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.secret.md|type_and_quantity_node.secret]] 

@@ -49,9 +49,9 @@ Specifies that the customer must pay the original shipping costs when returning 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.md|original_shipping_fees]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.internal.md|original_shipping_fees.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.protect.md|original_shipping_fees.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.private.md|original_shipping_fees.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.personal.md|original_shipping_fees.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.secret.md|original_shipping_fees.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.md|original_shipping_fees]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.internal.md|original_shipping_fees.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.protect.md|original_shipping_fees.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.private.md|original_shipping_fees.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.personal.md|original_shipping_fees.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.secret.md|original_shipping_fees.secret]] 

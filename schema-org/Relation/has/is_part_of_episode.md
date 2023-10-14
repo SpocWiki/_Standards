@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_part_of_episode :: Episode ] or 
+- [ #is_/part_of_episode :: Episode ] or 
 - [ is_part_of_episode :: Episode ] 
 
 The episode to which this clip belongs.

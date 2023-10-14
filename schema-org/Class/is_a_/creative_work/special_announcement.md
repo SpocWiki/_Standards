@@ -80,9 +80,9 @@ media type information, e.g. "application/rss+xml" or "application/atom+xml".
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/special_announcement.md|special_announcement]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/special_announcement.internal.md|special_announcement.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/special_announcement.protect.md|special_announcement.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/special_announcement.private.md|special_announcement.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/special_announcement.personal.md|special_announcement.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/special_announcement.secret.md|special_announcement.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/special_announcement.md|special_announcement]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/special_announcement.internal.md|special_announcement.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/special_announcement.protect.md|special_announcement.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/special_announcement.private.md|special_announcement.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/special_announcement.personal.md|special_announcement.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/special_announcement.secret.md|special_announcement.secret]] 

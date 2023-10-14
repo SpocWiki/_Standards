@@ -45,9 +45,9 @@ A fast-food restaurant.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.md|fast_food_restaurant]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.internal.md|fast_food_restaurant.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.protect.md|fast_food_restaurant.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.private.md|fast_food_restaurant.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.personal.md|fast_food_restaurant.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/food_establishment/fast_food_restaurant.secret.md|fast_food_restaurant.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/food_establishment/fast_food_restaurant.md|fast_food_restaurant]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/food_establishment/fast_food_restaurant.internal.md|fast_food_restaurant.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/food_establishment/fast_food_restaurant.protect.md|fast_food_restaurant.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/food_establishment/fast_food_restaurant.private.md|fast_food_restaurant.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/food_establishment/fast_food_restaurant.personal.md|fast_food_restaurant.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/food_establishment/fast_food_restaurant.secret.md|fast_food_restaurant.secret]] 

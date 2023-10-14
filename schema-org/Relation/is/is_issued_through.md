@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_issued_through :: Service ] or 
+- [ #is_/issued_through :: Service ] or 
 - [ is_issued_through :: Service ] 
 
 The service through which the permit was granted.

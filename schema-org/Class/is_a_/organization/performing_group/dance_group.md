@@ -45,9 +45,9 @@ A dance group&#x2014;for example, the Alvin Ailey Dance Theater or Riverdance.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/performing_group/dance_group.md|dance_group]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/performing_group/dance_group.internal.md|dance_group.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/performing_group/dance_group.protect.md|dance_group.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/performing_group/dance_group.private.md|dance_group.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/performing_group/dance_group.personal.md|dance_group.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/performing_group/dance_group.secret.md|dance_group.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/performing_group/dance_group.md|dance_group]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/performing_group/dance_group.internal.md|dance_group.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/performing_group/dance_group.protect.md|dance_group.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/performing_group/dance_group.private.md|dance_group.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/performing_group/dance_group.personal.md|dance_group.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/performing_group/dance_group.secret.md|dance_group.secret]] 

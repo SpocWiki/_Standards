@@ -47,9 +47,9 @@ A specific object or file containing a Legislation. Note that the same Legislati
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/legislation/legislation_object.md|legislation_object]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/legislation/legislation_object.internal.md|legislation_object.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/legislation/legislation_object.protect.md|legislation_object.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/legislation/legislation_object.private.md|legislation_object.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/legislation/legislation_object.personal.md|legislation_object.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/legislation/legislation_object.secret.md|legislation_object.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/legislation/legislation_object.md|legislation_object]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/legislation/legislation_object.internal.md|legislation_object.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/legislation/legislation_object.protect.md|legislation_object.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/legislation/legislation_object.private.md|legislation_object.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/legislation/legislation_object.personal.md|legislation_object.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/legislation/legislation_object.secret.md|legislation_object.secret]] 

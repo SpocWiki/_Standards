@@ -47,9 +47,9 @@ A publication containing information about varied topics that are pertinent to g
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.md|newspaper]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.internal.md|newspaper.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.protect.md|newspaper.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.private.md|newspaper.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.personal.md|newspaper.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/periodical/newspaper.secret.md|newspaper.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.md|newspaper]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.internal.md|newspaper.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.protect.md|newspaper.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.private.md|newspaper.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.personal.md|newspaper.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/creative_work_series/periodical/newspaper.secret.md|newspaper.secret]] 

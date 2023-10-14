@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_applying_to_payment_method :: PaymentMethod] or 
+- [ #is_/applying_to_payment_method :: PaymentMethod] or 
 - [ is_applying_to_payment_method :: PaymentMethod] 
 
 The payment method(s) to which the payment charge specification applies.

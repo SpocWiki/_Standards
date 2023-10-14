@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_encoding_creative_work :: CreativeWork] or 
+- [ #is_/encoding_creative_work :: CreativeWork] or 
 - [ is_encoding_creative_work :: CreativeWork] 
 
 The CreativeWork encoded by this media object.

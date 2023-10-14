@@ -47,9 +47,9 @@ A picture or diagram made with a pencil, pen, or crayon rather than paint.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/drawing.md|drawing]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/drawing.internal.md|drawing.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/drawing.protect.md|drawing.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/drawing.private.md|drawing.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/drawing.personal.md|drawing.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/drawing.secret.md|drawing.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/drawing.md|drawing]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/drawing.internal.md|drawing.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/drawing.protect.md|drawing.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/drawing.private.md|drawing.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/drawing.personal.md|drawing.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/drawing.secret.md|drawing.secret]] 

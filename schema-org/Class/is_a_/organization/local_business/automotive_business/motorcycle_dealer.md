@@ -45,9 +45,9 @@ A motorcycle dealer.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_dealer.md|motorcycle_dealer]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_dealer.internal.md|motorcycle_dealer.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_dealer.protect.md|motorcycle_dealer.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_dealer.private.md|motorcycle_dealer.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_dealer.personal.md|motorcycle_dealer.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_dealer.secret.md|motorcycle_dealer.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.md|motorcycle_dealer]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.internal.md|motorcycle_dealer.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.protect.md|motorcycle_dealer.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.private.md|motorcycle_dealer.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.personal.md|motorcycle_dealer.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_dealer.secret.md|motorcycle_dealer.secret]] 

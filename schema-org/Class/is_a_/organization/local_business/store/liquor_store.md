@@ -45,9 +45,9 @@ A shop that sells alcoholic drinks such as wine, beer, whisky and other spirits.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/liquor_store.md|liquor_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/liquor_store.internal.md|liquor_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/liquor_store.protect.md|liquor_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/liquor_store.private.md|liquor_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/liquor_store.personal.md|liquor_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/liquor_store.secret.md|liquor_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/liquor_store.md|liquor_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/liquor_store.internal.md|liquor_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/liquor_store.protect.md|liquor_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/liquor_store.private.md|liquor_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/liquor_store.personal.md|liquor_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/liquor_store.secret.md|liquor_store.secret]] 

@@ -45,9 +45,9 @@ The geographic coordinates of a place or event.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.md|geo_coordinates]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.internal.md|geo_coordinates.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.protect.md|geo_coordinates.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.private.md|geo_coordinates.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.personal.md|geo_coordinates.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/geo_coordinates.secret.md|geo_coordinates.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/geo_coordinates.md|geo_coordinates]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/geo_coordinates.internal.md|geo_coordinates.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/geo_coordinates.protect.md|geo_coordinates.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/geo_coordinates.private.md|geo_coordinates.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/geo_coordinates.personal.md|geo_coordinates.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/geo_coordinates.secret.md|geo_coordinates.secret]] 

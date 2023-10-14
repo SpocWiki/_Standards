@@ -45,9 +45,9 @@ NLNonprofitType: Non-profit organization type originating from the Netherlands.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.md|nl_nonprofit_type]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.internal.md|nl_nonprofit_type.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.protect.md|nl_nonprofit_type.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.private.md|nl_nonprofit_type.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.personal.md|nl_nonprofit_type.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.secret.md|nl_nonprofit_type.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.md|nl_nonprofit_type]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.internal.md|nl_nonprofit_type.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.protect.md|nl_nonprofit_type.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.private.md|nl_nonprofit_type.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.personal.md|nl_nonprofit_type.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type.secret.md|nl_nonprofit_type.secret]] 

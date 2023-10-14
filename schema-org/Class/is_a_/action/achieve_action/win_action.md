@@ -45,9 +45,9 @@ The act of achieving victory in a competitive activity.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/achieve_action/win_action.md|win_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/achieve_action/win_action.internal.md|win_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/achieve_action/win_action.protect.md|win_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/achieve_action/win_action.private.md|win_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/achieve_action/win_action.personal.md|win_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/achieve_action/win_action.secret.md|win_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/achieve_action/win_action.md|win_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/achieve_action/win_action.internal.md|win_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/achieve_action/win_action.protect.md|win_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/achieve_action/win_action.private.md|win_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/achieve_action/win_action.personal.md|win_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/achieve_action/win_action.secret.md|win_action.secret]] 

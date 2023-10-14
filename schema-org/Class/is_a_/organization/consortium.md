@@ -47,9 +47,9 @@ A Consortium is a membership <a class="localLink" href="/Organization">Organizat
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/consortium.md|consortium]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/consortium.internal.md|consortium.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/consortium.protect.md|consortium.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/consortium.private.md|consortium.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/consortium.personal.md|consortium.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/consortium.secret.md|consortium.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/consortium.md|consortium]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/consortium.internal.md|consortium.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/consortium.protect.md|consortium.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/consortium.private.md|consortium.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/consortium.personal.md|consortium.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/consortium.secret.md|consortium.secret]] 

@@ -45,9 +45,9 @@ An art gallery.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.md|art_gallery]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.internal.md|art_gallery.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.protect.md|art_gallery.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.private.md|art_gallery.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.personal.md|art_gallery.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/entertainment_business/art_gallery.secret.md|art_gallery.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.md|art_gallery]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.internal.md|art_gallery.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.protect.md|art_gallery.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.private.md|art_gallery.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.personal.md|art_gallery.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/entertainment_business/art_gallery.secret.md|art_gallery.secret]] 

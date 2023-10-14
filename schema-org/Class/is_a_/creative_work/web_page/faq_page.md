@@ -45,9 +45,9 @@ A <a class="localLink" href="/FAQPage">FAQPage</a> is a <a class="localLink" hre
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/faq_page.md|faq_page]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/faq_page.internal.md|faq_page.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/faq_page.protect.md|faq_page.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/faq_page.private.md|faq_page.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/faq_page.personal.md|faq_page.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/faq_page.secret.md|faq_page.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page/faq_page.md|faq_page]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page/faq_page.internal.md|faq_page.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page/faq_page.protect.md|faq_page.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page/faq_page.private.md|faq_page.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page/faq_page.personal.md|faq_page.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page/faq_page.secret.md|faq_page.secret]] 

@@ -45,9 +45,9 @@ A music venue.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/music_venue.md|music_venue]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/music_venue.internal.md|music_venue.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/music_venue.protect.md|music_venue.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/music_venue.private.md|music_venue.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/music_venue.personal.md|music_venue.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/music_venue.secret.md|music_venue.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/music_venue.md|music_venue]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/music_venue.internal.md|music_venue.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/music_venue.protect.md|music_venue.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/music_venue.private.md|music_venue.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/music_venue.personal.md|music_venue.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/music_venue.secret.md|music_venue.secret]] 

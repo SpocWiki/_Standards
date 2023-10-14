@@ -45,9 +45,9 @@ The act of expressing a consistency of opinion with the object. An agent agrees 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/assess_action/react_action/agree_action.md|agree_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/assess_action/react_action/agree_action.internal.md|agree_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/assess_action/react_action/agree_action.protect.md|agree_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/assess_action/react_action/agree_action.private.md|agree_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/assess_action/react_action/agree_action.personal.md|agree_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/assess_action/react_action/agree_action.secret.md|agree_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.md|agree_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.internal.md|agree_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.protect.md|agree_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.private.md|agree_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.personal.md|agree_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/react_action/agree_action.secret.md|agree_action.secret]] 

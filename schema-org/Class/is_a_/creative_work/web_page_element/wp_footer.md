@@ -45,9 +45,9 @@ The footer section of the page.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.md|wp_footer]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.internal.md|wp_footer.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.protect.md|wp_footer.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.private.md|wp_footer.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.personal.md|wp_footer.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/wp_footer.secret.md|wp_footer.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page_element/wp_footer.md|wp_footer]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page_element/wp_footer.internal.md|wp_footer.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page_element/wp_footer.protect.md|wp_footer.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page_element/wp_footer.private.md|wp_footer.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page_element/wp_footer.personal.md|wp_footer.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page_element/wp_footer.secret.md|wp_footer.secret]] 

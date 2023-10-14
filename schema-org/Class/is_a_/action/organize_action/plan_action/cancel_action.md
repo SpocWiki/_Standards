@@ -51,9 +51,9 @@ Related actions:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/organize_action/plan_action/cancel_action.md|cancel_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/organize_action/plan_action/cancel_action.internal.md|cancel_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/organize_action/plan_action/cancel_action.protect.md|cancel_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/organize_action/plan_action/cancel_action.private.md|cancel_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/organize_action/plan_action/cancel_action.personal.md|cancel_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/organize_action/plan_action/cancel_action.secret.md|cancel_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/organize_action/plan_action/cancel_action.md|cancel_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/plan_action/cancel_action.internal.md|cancel_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/plan_action/cancel_action.protect.md|cancel_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/plan_action/cancel_action.private.md|cancel_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/plan_action/cancel_action.personal.md|cancel_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/plan_action/cancel_action.secret.md|cancel_action.secret]] 

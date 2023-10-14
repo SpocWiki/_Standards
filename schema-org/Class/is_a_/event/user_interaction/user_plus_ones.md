@@ -47,9 +47,9 @@ UserInteraction and its subtypes is an old way of talking about users interactin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/event/user_interaction/user_plus_ones.md|user_plus_ones]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/event/user_interaction/user_plus_ones.internal.md|user_plus_ones.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/event/user_interaction/user_plus_ones.protect.md|user_plus_ones.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/event/user_interaction/user_plus_ones.private.md|user_plus_ones.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/event/user_interaction/user_plus_ones.personal.md|user_plus_ones.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/event/user_interaction/user_plus_ones.secret.md|user_plus_ones.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.md|user_plus_ones]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.internal.md|user_plus_ones.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.protect.md|user_plus_ones.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.private.md|user_plus_ones.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.personal.md|user_plus_ones.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.secret.md|user_plus_ones.secret]] 

@@ -29,10 +29,10 @@ aliases:
 - usesDevice
 - is_using_device
 ---
-[MedicalDevice](../../../Type/is_a_/medical_entity/medical_device.md) used to perform the test.
+[MedicalDevice](../../../Class/is_a_/medical_entity/medical_device.md) used to perform the test.
 
 Use it like this: 
-- [ #is/_using_device :: MedicalDevice] or 
+- [ #is_/using_device :: MedicalDevice] or 
 - [ is_using_device :: MedicalDevice] 
 
 Relation describes that: 
@@ -41,7 +41,7 @@ Relation describes that:
 ( #has_/range :: MedicalDevice)
 
 #is_a_/use_action 
-( [[is_sub_Relation_of]] :: [use_action](../../../Type/is_a_/action/consume_action/use_action.md) )
+( [[is_sub_Relation_of]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action.md) )
 
 
 ## Confidential Links & Embeds: 

@@ -47,9 +47,9 @@ The act of accomplishing something via previous efforts. It is an instantaneous 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/action/achieve_action.md|achieve_action]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/action/achieve_action.internal.md|achieve_action.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/action/achieve_action.protect.md|achieve_action.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/action/achieve_action.private.md|achieve_action.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/action/achieve_action.personal.md|achieve_action.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/action/achieve_action.secret.md|achieve_action.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/action/achieve_action.md|achieve_action]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/achieve_action.internal.md|achieve_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/achieve_action.protect.md|achieve_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/achieve_action.private.md|achieve_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/achieve_action.personal.md|achieve_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/achieve_action.secret.md|achieve_action.secret]] 

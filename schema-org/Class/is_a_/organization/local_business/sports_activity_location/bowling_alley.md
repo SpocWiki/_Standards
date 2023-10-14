@@ -45,9 +45,9 @@ A bowling alley.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/sports_activity_location/bowling_alley.md|bowling_alley]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/bowling_alley.internal.md|bowling_alley.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/sports_activity_location/bowling_alley.protect.md|bowling_alley.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/sports_activity_location/bowling_alley.private.md|bowling_alley.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/sports_activity_location/bowling_alley.personal.md|bowling_alley.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/sports_activity_location/bowling_alley.secret.md|bowling_alley.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.md|bowling_alley]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.internal.md|bowling_alley.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.protect.md|bowling_alley.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.private.md|bowling_alley.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.personal.md|bowling_alley.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/sports_activity_location/bowling_alley.secret.md|bowling_alley.secret]] 

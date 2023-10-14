@@ -47,9 +47,9 @@ An intangible type to be applied to any archive content, carrying with it a set 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/archive_component.md|archive_component]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/archive_component.internal.md|archive_component.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/archive_component.protect.md|archive_component.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/archive_component.private.md|archive_component.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/archive_component.personal.md|archive_component.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/archive_component.secret.md|archive_component.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/archive_component.md|archive_component]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/archive_component.internal.md|archive_component.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/archive_component.protect.md|archive_component.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/archive_component.private.md|archive_component.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/archive_component.personal.md|archive_component.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/archive_component.secret.md|archive_component.secret]] 

@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_alumni_of :: EducationalOrganization, Organization ] or 
+- [ #is_/alumni_of :: EducationalOrganization, Organization ] or 
 - [ is_alumni_of :: EducationalOrganization, Organization ] 
 
 An organization that the person is an alumni of.

@@ -45,9 +45,9 @@ A dry-cleaning business.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.md|dry_cleaning_or_laundry]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.internal.md|dry_cleaning_or_laundry.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.protect.md|dry_cleaning_or_laundry.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.private.md|dry_cleaning_or_laundry.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.personal.md|dry_cleaning_or_laundry.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/dry_cleaning_or_laundry.secret.md|dry_cleaning_or_laundry.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/dry_cleaning_or_laundry.md|dry_cleaning_or_laundry]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/dry_cleaning_or_laundry.internal.md|dry_cleaning_or_laundry.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/dry_cleaning_or_laundry.protect.md|dry_cleaning_or_laundry.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/dry_cleaning_or_laundry.private.md|dry_cleaning_or_laundry.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/dry_cleaning_or_laundry.personal.md|dry_cleaning_or_laundry.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/dry_cleaning_or_laundry.secret.md|dry_cleaning_or_laundry.secret]] 

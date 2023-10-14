@@ -45,9 +45,9 @@ An advertising section of the page.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.md|wp_ad_block]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.internal.md|wp_ad_block.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.protect.md|wp_ad_block.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.private.md|wp_ad_block.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.personal.md|wp_ad_block.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/wp_ad_block.secret.md|wp_ad_block.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page_element/wp_ad_block.md|wp_ad_block]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page_element/wp_ad_block.internal.md|wp_ad_block.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page_element/wp_ad_block.protect.md|wp_ad_block.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page_element/wp_ad_block.private.md|wp_ad_block.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page_element/wp_ad_block.personal.md|wp_ad_block.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page_element/wp_ad_block.secret.md|wp_ad_block.secret]] 

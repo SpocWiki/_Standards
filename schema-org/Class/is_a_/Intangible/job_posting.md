@@ -45,9 +45,9 @@ A listing that describes a job opening in a certain organization.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/job_posting.md|job_posting]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/job_posting.internal.md|job_posting.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/job_posting.protect.md|job_posting.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/job_posting.private.md|job_posting.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/job_posting.personal.md|job_posting.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/job_posting.secret.md|job_posting.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/job_posting.md|job_posting]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/job_posting.internal.md|job_posting.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/job_posting.protect.md|job_posting.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/job_posting.private.md|job_posting.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/job_posting.personal.md|job_posting.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/job_posting.secret.md|job_posting.secret]] 

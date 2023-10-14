@@ -47,9 +47,9 @@ A single feed providing structured information about one or more entities or top
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/dataset/data_feed.md|data_feed]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/dataset/data_feed.internal.md|data_feed.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/dataset/data_feed.protect.md|data_feed.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/dataset/data_feed.private.md|data_feed.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/dataset/data_feed.personal.md|data_feed.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/dataset/data_feed.secret.md|data_feed.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/dataset/data_feed.md|data_feed]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/dataset/data_feed.internal.md|data_feed.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/dataset/data_feed.protect.md|data_feed.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/dataset/data_feed.private.md|data_feed.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/dataset/data_feed.personal.md|data_feed.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/dataset/data_feed.secret.md|data_feed.secret]] 

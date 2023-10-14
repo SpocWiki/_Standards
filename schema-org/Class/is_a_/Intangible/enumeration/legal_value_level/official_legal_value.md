@@ -49,9 +49,9 @@ All the documents published by an official publisher should have at least the le
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.md|official_legal_value]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.internal.md|official_legal_value.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.protect.md|official_legal_value.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.private.md|official_legal_value.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.personal.md|official_legal_value.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/legal_value_level/official_legal_value.secret.md|official_legal_value.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.md|official_legal_value]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.internal.md|official_legal_value.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.protect.md|official_legal_value.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.private.md|official_legal_value.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.personal.md|official_legal_value.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.secret.md|official_legal_value.secret]] 

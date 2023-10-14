@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_comprised_of :: AnatomicalStructure, AnatomicalSystem ] or 
+- [ #is_/comprised_of :: AnatomicalStructure, AnatomicalSystem ] or 
 - [ is_comprised_of :: AnatomicalStructure, AnatomicalSystem ] 
 
 Specifying something physically contained by something else. Typically used here for the underlying anatomical structures, such as organs, that comprise the anatomical system.

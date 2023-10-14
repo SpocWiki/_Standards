@@ -47,9 +47,9 @@ Size related properties of a product, typically a size code (<a class="localLink
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/size_specification.md|size_specification]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/size_specification.internal.md|size_specification.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/size_specification.protect.md|size_specification.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/size_specification.private.md|size_specification.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/size_specification.personal.md|size_specification.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/qualitative_value/size_specification.secret.md|size_specification.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.md|size_specification]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.internal.md|size_specification.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.protect.md|size_specification.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.private.md|size_specification.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.personal.md|size_specification.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.secret.md|size_specification.secret]] 

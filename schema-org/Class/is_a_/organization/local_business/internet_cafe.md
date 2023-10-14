@@ -45,9 +45,9 @@ An internet cafe.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/internet_cafe.md|internet_cafe]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/internet_cafe.internal.md|internet_cafe.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/internet_cafe.protect.md|internet_cafe.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/internet_cafe.private.md|internet_cafe.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/internet_cafe.personal.md|internet_cafe.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/internet_cafe.secret.md|internet_cafe.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/internet_cafe.md|internet_cafe]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/internet_cafe.internal.md|internet_cafe.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/internet_cafe.protect.md|internet_cafe.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/internet_cafe.private.md|internet_cafe.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/internet_cafe.personal.md|internet_cafe.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/internet_cafe.secret.md|internet_cafe.secret]] 

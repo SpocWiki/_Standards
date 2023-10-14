@@ -47,9 +47,9 @@ A DeliveryMethod in which an item is collected on site, e.g. in a store or at a 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/delivery_method/on_site_pickup.md|on_site_pickup]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/delivery_method/on_site_pickup.internal.md|on_site_pickup.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/delivery_method/on_site_pickup.protect.md|on_site_pickup.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/delivery_method/on_site_pickup.private.md|on_site_pickup.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/delivery_method/on_site_pickup.personal.md|on_site_pickup.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/delivery_method/on_site_pickup.secret.md|on_site_pickup.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.md|on_site_pickup]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.internal.md|on_site_pickup.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.protect.md|on_site_pickup.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.private.md|on_site_pickup.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.personal.md|on_site_pickup.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.secret.md|on_site_pickup.secret]] 

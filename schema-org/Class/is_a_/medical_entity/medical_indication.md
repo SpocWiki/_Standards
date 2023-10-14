@@ -47,9 +47,9 @@ A condition or factor that indicates use of a medical therapy, including signs, 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_indication.md|medical_indication]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_indication.internal.md|medical_indication.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_indication.protect.md|medical_indication.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_indication.private.md|medical_indication.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_indication.personal.md|medical_indication.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_indication.secret.md|medical_indication.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_indication.md|medical_indication]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_indication.internal.md|medical_indication.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_indication.protect.md|medical_indication.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_indication.private.md|medical_indication.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_indication.personal.md|medical_indication.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_indication.secret.md|medical_indication.secret]] 

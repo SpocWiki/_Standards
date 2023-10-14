@@ -48,9 +48,9 @@ See also <a class="localLink" href="/StatisticalPopulation">StatisticalPopulatio
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/observation.md|observation]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/observation.internal.md|observation.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/observation.protect.md|observation.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/observation.private.md|observation.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/observation.personal.md|observation.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/observation.secret.md|observation.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/observation.md|observation]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/observation.internal.md|observation.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/observation.protect.md|observation.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/observation.private.md|observation.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/observation.personal.md|observation.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/observation.secret.md|observation.secret]] 

@@ -47,9 +47,9 @@ A post to a social media platform, including blog posts, tweets, Facebook posts,
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/article/social_media_posting.md|social_media_posting]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/social_media_posting.internal.md|social_media_posting.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/social_media_posting.protect.md|social_media_posting.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/article/social_media_posting.private.md|social_media_posting.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/social_media_posting.personal.md|social_media_posting.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/social_media_posting.secret.md|social_media_posting.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/article/social_media_posting.md|social_media_posting]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/article/social_media_posting.internal.md|social_media_posting.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/article/social_media_posting.protect.md|social_media_posting.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/article/social_media_posting.private.md|social_media_posting.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/article/social_media_posting.personal.md|social_media_posting.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/article/social_media_posting.secret.md|social_media_posting.secret]] 

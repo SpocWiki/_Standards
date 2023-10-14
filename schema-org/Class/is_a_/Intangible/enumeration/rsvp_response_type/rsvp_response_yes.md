@@ -47,9 +47,9 @@ The invitee will attend.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.md|rsvp_response_yes]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.internal.md|rsvp_response_yes.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.protect.md|rsvp_response_yes.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.private.md|rsvp_response_yes.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.personal.md|rsvp_response_yes.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.secret.md|rsvp_response_yes.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.md|rsvp_response_yes]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.internal.md|rsvp_response_yes.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.protect.md|rsvp_response_yes.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.private.md|rsvp_response_yes.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.personal.md|rsvp_response_yes.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.secret.md|rsvp_response_yes.secret]] 

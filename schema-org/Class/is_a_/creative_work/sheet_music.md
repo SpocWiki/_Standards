@@ -47,9 +47,9 @@ Printed music, as opposed to performed or recorded music.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/sheet_music.md|sheet_music]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/sheet_music.internal.md|sheet_music.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/sheet_music.protect.md|sheet_music.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/sheet_music.private.md|sheet_music.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/sheet_music.personal.md|sheet_music.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/sheet_music.secret.md|sheet_music.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/sheet_music.md|sheet_music]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/sheet_music.internal.md|sheet_music.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/sheet_music.protect.md|sheet_music.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/sheet_music.private.md|sheet_music.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/sheet_music.personal.md|sheet_music.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/sheet_music.secret.md|sheet_music.secret]] 

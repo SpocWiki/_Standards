@@ -45,9 +45,9 @@ A motorcycle repair shop.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_repair.md|motorcycle_repair]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_repair.internal.md|motorcycle_repair.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_repair.protect.md|motorcycle_repair.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_repair.private.md|motorcycle_repair.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_repair.personal.md|motorcycle_repair.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/automotive_business/motorcycle_repair.secret.md|motorcycle_repair.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.md|motorcycle_repair]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.internal.md|motorcycle_repair.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.protect.md|motorcycle_repair.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.private.md|motorcycle_repair.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.personal.md|motorcycle_repair.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business/motorcycle_repair.secret.md|motorcycle_repair.secret]] 

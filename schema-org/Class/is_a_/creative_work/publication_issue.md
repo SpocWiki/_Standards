@@ -51,9 +51,9 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/publication_issue.md|publication_issue]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/publication_issue.internal.md|publication_issue.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/publication_issue.protect.md|publication_issue.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/publication_issue.private.md|publication_issue.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/publication_issue.personal.md|publication_issue.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/publication_issue.secret.md|publication_issue.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/publication_issue.md|publication_issue]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/publication_issue.internal.md|publication_issue.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/publication_issue.protect.md|publication_issue.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/publication_issue.private.md|publication_issue.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/publication_issue.personal.md|publication_issue.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/publication_issue.secret.md|publication_issue.secret]] 

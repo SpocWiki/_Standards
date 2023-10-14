@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_in_language :: Language, Text] or 
+- [ #is_/in_language :: Language, Text] or 
 - [ is_in_language :: Language, Text] 
 
 The language of the content or performance or used in an action. Please use one of the language codes from the [IETF BCP 47 standard](http://tools.ietf.org/html/bcp47). See also [[availableLanguage]].

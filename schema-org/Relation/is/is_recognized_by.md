@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #is/_recognized_by :: Organization ] or 
+- [ #is_/recognized_by :: Organization ] or 
 - [ is_recognized_by :: Organization ] 
 
 An organization that acknowledges the validity, value or utility of a credential. Note: recognition may include a process of quality assurance or accreditation.

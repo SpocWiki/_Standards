@@ -45,9 +45,9 @@ A scholarly article in the medical domain.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.md|medical_scholarly_article]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.internal.md|medical_scholarly_article.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.protect.md|medical_scholarly_article.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.private.md|medical_scholarly_article.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.personal.md|medical_scholarly_article.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.secret.md|medical_scholarly_article.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.md|medical_scholarly_article]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.internal.md|medical_scholarly_article.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.protect.md|medical_scholarly_article.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.private.md|medical_scholarly_article.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.personal.md|medical_scholarly_article.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/article/scholarly_article/medical_scholarly_article.secret.md|medical_scholarly_article.secret]] 

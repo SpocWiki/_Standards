@@ -47,9 +47,9 @@ This is the <a class="localLink" href="/Action">Action</a> of navigating to a sp
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/action/seek_to_action.md|seek_to_action]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/action/seek_to_action.internal.md|seek_to_action.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/action/seek_to_action.protect.md|seek_to_action.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/action/seek_to_action.private.md|seek_to_action.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/action/seek_to_action.personal.md|seek_to_action.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/action/seek_to_action.secret.md|seek_to_action.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/action/seek_to_action.md|seek_to_action]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/seek_to_action.internal.md|seek_to_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/seek_to_action.protect.md|seek_to_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/seek_to_action.private.md|seek_to_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/seek_to_action.personal.md|seek_to_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/seek_to_action.secret.md|seek_to_action.secret]] 

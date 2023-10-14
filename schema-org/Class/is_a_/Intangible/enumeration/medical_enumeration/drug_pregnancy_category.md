@@ -43,9 +43,9 @@ Categories that represent an assessment of the risk of fetal injury due to a dru
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.md|drug_pregnancy_category]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.internal.md|drug_pregnancy_category.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.protect.md|drug_pregnancy_category.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.private.md|drug_pregnancy_category.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.personal.md|drug_pregnancy_category.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.secret.md|drug_pregnancy_category.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.md|drug_pregnancy_category]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.internal.md|drug_pregnancy_category.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.protect.md|drug_pregnancy_category.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.private.md|drug_pregnancy_category.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.personal.md|drug_pregnancy_category.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.secret.md|drug_pregnancy_category.secret]] 

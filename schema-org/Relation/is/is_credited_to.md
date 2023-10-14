@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_credited_to :: Organization, Person ] or 
+- [ #is_/credited_to :: Organization, Person ] or 
 - [ is_credited_to :: Organization, Person ] 
 
 The group the release is credited to if different than the byArtist. For example, Red and Blue is credited to "Stefani Germanotta Band", but by Lady Gaga.

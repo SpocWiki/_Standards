@@ -47,9 +47,9 @@ The status for a previously confirmed reservation that is now cancelled.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.md|reservation_cancelled]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.internal.md|reservation_cancelled.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.protect.md|reservation_cancelled.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.private.md|reservation_cancelled.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.personal.md|reservation_cancelled.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.secret.md|reservation_cancelled.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.md|reservation_cancelled]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.internal.md|reservation_cancelled.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.protect.md|reservation_cancelled.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.private.md|reservation_cancelled.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.personal.md|reservation_cancelled.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.secret.md|reservation_cancelled.secret]] 

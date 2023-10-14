@@ -49,9 +49,9 @@ A media season, e.g. TV, radio, video game etc.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_season.md|creative_work_season]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_season.internal.md|creative_work_season.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_season.protect.md|creative_work_season.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_season.private.md|creative_work_season.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_season.personal.md|creative_work_season.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_season.secret.md|creative_work_season.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/creative_work_season.md|creative_work_season]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/creative_work_season.internal.md|creative_work_season.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/creative_work_season.protect.md|creative_work_season.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/creative_work_season.private.md|creative_work_season.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/creative_work_season.personal.md|creative_work_season.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/creative_work_season.secret.md|creative_work_season.secret]] 

@@ -45,9 +45,9 @@ A painting.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/painting.md|painting]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/painting.internal.md|painting.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/painting.protect.md|painting.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/painting.private.md|painting.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/painting.personal.md|painting.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/painting.secret.md|painting.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/painting.md|painting]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/painting.internal.md|painting.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/painting.protect.md|painting.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/painting.private.md|painting.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/painting.personal.md|painting.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/painting.secret.md|painting.secret]] 

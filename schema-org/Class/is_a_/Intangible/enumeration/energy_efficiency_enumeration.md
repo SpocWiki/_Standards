@@ -47,9 +47,9 @@ Enumerates energy efficiency levels (also known as "classes" or "ratings") and c
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration.md|energy_efficiency_enumeration]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration.internal.md|energy_efficiency_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration.protect.md|energy_efficiency_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration.private.md|energy_efficiency_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration.personal.md|energy_efficiency_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/energy_efficiency_enumeration.secret.md|energy_efficiency_enumeration.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.md|energy_efficiency_enumeration]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.internal.md|energy_efficiency_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.protect.md|energy_efficiency_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.private.md|energy_efficiency_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.personal.md|energy_efficiency_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.secret.md|energy_efficiency_enumeration.secret]] 

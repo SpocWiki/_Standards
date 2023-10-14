@@ -49,9 +49,9 @@ Indicates the usage of the vehicle as a rental car.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.md|rental_vehicle_usage]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.internal.md|rental_vehicle_usage.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.protect.md|rental_vehicle_usage.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.private.md|rental_vehicle_usage.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.personal.md|rental_vehicle_usage.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.secret.md|rental_vehicle_usage.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.md|rental_vehicle_usage]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.internal.md|rental_vehicle_usage.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.protect.md|rental_vehicle_usage.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.private.md|rental_vehicle_usage.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.personal.md|rental_vehicle_usage.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.secret.md|rental_vehicle_usage.secret]] 

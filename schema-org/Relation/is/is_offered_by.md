@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_offered_by :: Organization, Person ] or 
+- [ #is_/offered_by :: Organization, Person ] or 
 - [ is_offered_by :: Organization, Person ] 
 
 A pointer to the organization or person making the offer.

@@ -47,9 +47,9 @@ A News/Media organization such as a newspaper or TV station.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/news_media_organization.md|news_media_organization]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/news_media_organization.internal.md|news_media_organization.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/news_media_organization.protect.md|news_media_organization.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/news_media_organization.private.md|news_media_organization.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/news_media_organization.personal.md|news_media_organization.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/news_media_organization.secret.md|news_media_organization.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/news_media_organization.md|news_media_organization]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/news_media_organization.internal.md|news_media_organization.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/news_media_organization.protect.md|news_media_organization.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/news_media_organization.private.md|news_media_organization.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/news_media_organization.personal.md|news_media_organization.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/news_media_organization.secret.md|news_media_organization.secret]] 

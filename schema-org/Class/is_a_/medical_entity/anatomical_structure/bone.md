@@ -45,9 +45,9 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.md|bone]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.internal.md|bone.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.protect.md|bone.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.private.md|bone.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.personal.md|bone.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/anatomical_structure/bone.secret.md|bone.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.md|bone]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.internal.md|bone.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.protect.md|bone.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.private.md|bone.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.personal.md|bone.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.secret.md|bone.secret]] 

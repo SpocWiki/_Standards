@@ -45,9 +45,9 @@ A preschool.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/educational_organization/preschool.md|preschool]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/educational_organization/preschool.internal.md|preschool.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/educational_organization/preschool.protect.md|preschool.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/educational_organization/preschool.private.md|preschool.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/educational_organization/preschool.personal.md|preschool.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/educational_organization/preschool.secret.md|preschool.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/educational_organization/preschool.md|preschool]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/educational_organization/preschool.internal.md|preschool.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/educational_organization/preschool.protect.md|preschool.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/educational_organization/preschool.private.md|preschool.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/educational_organization/preschool.personal.md|preschool.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/educational_organization/preschool.secret.md|preschool.secret]] 

@@ -47,9 +47,9 @@ The day of the week between Wednesday and Friday.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.md|thursday]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.internal.md|thursday.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.protect.md|thursday.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.private.md|thursday.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.personal.md|thursday.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/day_of_week/thursday.secret.md|thursday.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.md|thursday]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.internal.md|thursday.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.protect.md|thursday.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.private.md|thursday.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.personal.md|thursday.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.secret.md|thursday.secret]] 

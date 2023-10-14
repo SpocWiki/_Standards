@@ -45,9 +45,9 @@ A park.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/park.md|park]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/park.internal.md|park.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/park.protect.md|park.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/park.private.md|park.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/park.personal.md|park.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/park.secret.md|park.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/park.md|park]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/park.internal.md|park.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/park.protect.md|park.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/park.private.md|park.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/park.personal.md|park.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/park.secret.md|park.secret]] 

@@ -45,9 +45,9 @@ A hair salon.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.md|hair_salon]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.internal.md|hair_salon.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.protect.md|hair_salon.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.private.md|hair_salon.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.personal.md|hair_salon.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business/hair_salon.secret.md|hair_salon.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.md|hair_salon]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.internal.md|hair_salon.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.protect.md|hair_salon.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.private.md|hair_salon.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.personal.md|hair_salon.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business/hair_salon.secret.md|hair_salon.secret]] 

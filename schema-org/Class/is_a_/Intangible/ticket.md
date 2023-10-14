@@ -45,9 +45,9 @@ Used to describe a ticket to an event, a flight, a bus ride, etc.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/ticket.md|ticket]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/ticket.internal.md|ticket.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/ticket.protect.md|ticket.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/ticket.private.md|ticket.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/ticket.personal.md|ticket.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/ticket.secret.md|ticket.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/ticket.md|ticket]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/ticket.internal.md|ticket.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/ticket.protect.md|ticket.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/ticket.private.md|ticket.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/ticket.personal.md|ticket.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/ticket.secret.md|ticket.secret]] 

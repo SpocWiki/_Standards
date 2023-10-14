@@ -33,7 +33,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_part_of_series :: CreativeWorkSeries ] or 
+- [ #is_/part_of_series :: CreativeWorkSeries ] or 
 - [ is_part_of_series :: CreativeWorkSeries ] 
 
 The series to which this episode or season belongs.

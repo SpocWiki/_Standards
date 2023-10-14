@@ -61,9 +61,9 @@ or editing out large portions from the recording.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.md|edited_or_cropped_content]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.internal.md|edited_or_cropped_content.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.protect.md|edited_or_cropped_content.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.private.md|edited_or_cropped_content.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.personal.md|edited_or_cropped_content.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.secret.md|edited_or_cropped_content.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.md|edited_or_cropped_content]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.internal.md|edited_or_cropped_content.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.protect.md|edited_or_cropped_content.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.private.md|edited_or_cropped_content.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.personal.md|edited_or_cropped_content.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.secret.md|edited_or_cropped_content.secret]] 

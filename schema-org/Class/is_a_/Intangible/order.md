@@ -46,9 +46,9 @@ An order is a confirmation of a transaction (a receipt), which can contain multi
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/order.md|order]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/order.internal.md|order.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/order.protect.md|order.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/order.private.md|order.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/order.personal.md|order.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/order.secret.md|order.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/order.md|order]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/order.internal.md|order.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/order.protect.md|order.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/order.private.md|order.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/order.personal.md|order.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/order.secret.md|order.secret]] 

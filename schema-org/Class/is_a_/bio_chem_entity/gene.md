@@ -47,9 +47,9 @@ A discrete unit of inheritance which affects one or more biological traits (Sour
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/bio_chem_entity/gene.md|gene]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/bio_chem_entity/gene.internal.md|gene.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/bio_chem_entity/gene.protect.md|gene.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/bio_chem_entity/gene.private.md|gene.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/bio_chem_entity/gene.personal.md|gene.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/bio_chem_entity/gene.secret.md|gene.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/bio_chem_entity/gene.md|gene]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/gene.internal.md|gene.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/bio_chem_entity/gene.protect.md|gene.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/bio_chem_entity/gene.private.md|gene.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/bio_chem_entity/gene.personal.md|gene.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/bio_chem_entity/gene.secret.md|gene.secret]] 

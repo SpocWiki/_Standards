@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_including_object :: TypeAndQuantityNode] or 
+- [ #is_/including_object :: TypeAndQuantityNode] or 
 - [ is_including_object :: TypeAndQuantityNode] 
 
 This links to a node or nodes indicating the exact quantity of the products included in  an [[Offer]] or [[ProductCollection]].

@@ -47,9 +47,9 @@ Book format: Audiobook. This is an enumerated value for use with the bookFormat 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/book_format_type/audiobook_format.md|audiobook_format]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/audiobook_format.internal.md|audiobook_format.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/book_format_type/audiobook_format.protect.md|audiobook_format.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/book_format_type/audiobook_format.private.md|audiobook_format.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/book_format_type/audiobook_format.personal.md|audiobook_format.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/book_format_type/audiobook_format.secret.md|audiobook_format.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.md|audiobook_format]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.internal.md|audiobook_format.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.protect.md|audiobook_format.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.private.md|audiobook_format.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.personal.md|audiobook_format.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.secret.md|audiobook_format.secret]] 

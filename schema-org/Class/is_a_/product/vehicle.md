@@ -47,9 +47,9 @@ A vehicle is a device that is designed or used to transport people or cargo over
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/product/vehicle.md|vehicle]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/product/vehicle.internal.md|vehicle.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/product/vehicle.protect.md|vehicle.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/product/vehicle.private.md|vehicle.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/product/vehicle.personal.md|vehicle.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/product/vehicle.secret.md|vehicle.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/product/vehicle.md|vehicle]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/product/vehicle.internal.md|vehicle.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/product/vehicle.protect.md|vehicle.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/product/vehicle.private.md|vehicle.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/product/vehicle.personal.md|vehicle.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/product/vehicle.secret.md|vehicle.secret]] 

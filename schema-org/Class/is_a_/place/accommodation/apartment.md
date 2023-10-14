@@ -45,9 +45,9 @@ An apartment (in American English) or flat (in British English) is a self-contai
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/place/accommodation/apartment.md|apartment]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/apartment.internal.md|apartment.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/apartment.protect.md|apartment.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/place/accommodation/apartment.private.md|apartment.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/apartment.personal.md|apartment.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/apartment.secret.md|apartment.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/place/accommodation/apartment.md|apartment]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/apartment.internal.md|apartment.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/apartment.protect.md|apartment.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/accommodation/apartment.private.md|apartment.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/apartment.personal.md|apartment.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/apartment.secret.md|apartment.secret]] 

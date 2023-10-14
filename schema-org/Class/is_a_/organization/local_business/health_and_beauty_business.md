@@ -47,9 +47,9 @@ Health and beauty.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.md|health_and_beauty_business]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.internal.md|health_and_beauty_business.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.protect.md|health_and_beauty_business.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.private.md|health_and_beauty_business.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.personal.md|health_and_beauty_business.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/health_and_beauty_business.secret.md|health_and_beauty_business.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business.md|health_and_beauty_business]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business.internal.md|health_and_beauty_business.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business.protect.md|health_and_beauty_business.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business.private.md|health_and_beauty_business.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business.personal.md|health_and_beauty_business.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/health_and_beauty_business.secret.md|health_and_beauty_business.secret]] 

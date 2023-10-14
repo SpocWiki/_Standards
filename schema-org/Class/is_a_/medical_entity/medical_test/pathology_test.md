@@ -45,9 +45,9 @@ A medical test performed by a laboratory that typically involves examination of 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.md|pathology_test]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.internal.md|pathology_test.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.protect.md|pathology_test.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.private.md|pathology_test.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.personal.md|pathology_test.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_test/pathology_test.secret.md|pathology_test.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.md|pathology_test]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.internal.md|pathology_test.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.protect.md|pathology_test.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.private.md|pathology_test.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.personal.md|pathology_test.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.secret.md|pathology_test.secret]] 

@@ -45,9 +45,9 @@ A placeholder for multiple similar products of the same kind.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/product/some_products.md|some_products]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/product/some_products.internal.md|some_products.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/product/some_products.protect.md|some_products.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/product/some_products.private.md|some_products.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/product/some_products.personal.md|some_products.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/product/some_products.secret.md|some_products.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/product/some_products.md|some_products]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/product/some_products.internal.md|some_products.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/product/some_products.protect.md|some_products.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/product/some_products.private.md|some_products.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/product/some_products.personal.md|some_products.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/product/some_products.secret.md|some_products.secret]] 

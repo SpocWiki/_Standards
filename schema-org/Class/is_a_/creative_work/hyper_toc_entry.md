@@ -47,9 +47,9 @@ A HyperToEntry is an item within a <a class="localLink" href="/HyperToc">HyperTo
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/hyper_toc_entry.md|hyper_toc_entry]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/hyper_toc_entry.internal.md|hyper_toc_entry.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/hyper_toc_entry.protect.md|hyper_toc_entry.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/hyper_toc_entry.private.md|hyper_toc_entry.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/hyper_toc_entry.personal.md|hyper_toc_entry.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/hyper_toc_entry.secret.md|hyper_toc_entry.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/hyper_toc_entry.md|hyper_toc_entry]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/hyper_toc_entry.internal.md|hyper_toc_entry.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/hyper_toc_entry.protect.md|hyper_toc_entry.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/hyper_toc_entry.private.md|hyper_toc_entry.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/hyper_toc_entry.personal.md|hyper_toc_entry.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/hyper_toc_entry.secret.md|hyper_toc_entry.secret]] 

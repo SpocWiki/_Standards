@@ -45,9 +45,9 @@ A pond.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/pond.md|pond]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/pond.internal.md|pond.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/pond.protect.md|pond.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/pond.private.md|pond.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/pond.personal.md|pond.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/pond.secret.md|pond.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/landform/body_of_water/pond.md|pond]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/landform/body_of_water/pond.internal.md|pond.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/landform/body_of_water/pond.protect.md|pond.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/landform/body_of_water/pond.private.md|pond.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/landform/body_of_water/pond.personal.md|pond.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/landform/body_of_water/pond.secret.md|pond.secret]] 

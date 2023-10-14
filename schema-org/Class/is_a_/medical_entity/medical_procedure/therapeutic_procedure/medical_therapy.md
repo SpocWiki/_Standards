@@ -47,9 +47,9 @@ Any medical intervention designed to prevent, treat, and cure human diseases and
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.md|medical_therapy]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.internal.md|medical_therapy.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.protect.md|medical_therapy.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.private.md|medical_therapy.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.personal.md|medical_therapy.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.secret.md|medical_therapy.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.md|medical_therapy]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.internal.md|medical_therapy.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.protect.md|medical_therapy.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.private.md|medical_therapy.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.personal.md|medical_therapy.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy.secret.md|medical_therapy.secret]] 

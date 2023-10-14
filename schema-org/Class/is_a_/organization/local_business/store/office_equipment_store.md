@@ -45,9 +45,9 @@ An office equipment store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/office_equipment_store.md|office_equipment_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/office_equipment_store.internal.md|office_equipment_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/office_equipment_store.protect.md|office_equipment_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/office_equipment_store.private.md|office_equipment_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/office_equipment_store.personal.md|office_equipment_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/office_equipment_store.secret.md|office_equipment_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/office_equipment_store.md|office_equipment_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/office_equipment_store.internal.md|office_equipment_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/office_equipment_store.protect.md|office_equipment_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/office_equipment_store.private.md|office_equipment_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/office_equipment_store.personal.md|office_equipment_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/office_equipment_store.secret.md|office_equipment_store.secret]] 

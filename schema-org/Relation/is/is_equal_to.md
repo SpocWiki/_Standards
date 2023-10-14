@@ -29,7 +29,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_equal_to :: QualitativeValue ] or 
+- [ #is_/equal_to :: QualitativeValue ] or 
 - [ is_equal_to :: QualitativeValue ] 
 
 This ordering relation for qualitative values indicates that the subject is equal to the object.

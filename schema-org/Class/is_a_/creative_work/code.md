@@ -46,9 +46,9 @@ Computer programming source code. Example: Full (compile ready) solutions, code 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/code.md|code]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/code.internal.md|code.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/code.protect.md|code.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/code.private.md|code.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/code.personal.md|code.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/code.secret.md|code.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/code.md|code]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/code.internal.md|code.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/code.protect.md|code.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/code.private.md|code.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/code.personal.md|code.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/code.secret.md|code.secret]] 

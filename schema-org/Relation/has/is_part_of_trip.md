@@ -33,7 +33,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #is/_part_of_trip :: Trip ] or 
+- [ #is_/part_of_trip :: Trip ] or 
 - [ is_part_of_trip :: Trip ] 
 
 Identifies that this [[Trip]] is a subTrip of another Trip.  For example Day 1, Day 2, etc. of a multi-day trip.

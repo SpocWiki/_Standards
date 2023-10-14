@@ -45,9 +45,9 @@ Any collection of tests commonly ordered together.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_test/medical_test_panel.md|medical_test_panel]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_test/medical_test_panel.internal.md|medical_test_panel.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_test/medical_test_panel.protect.md|medical_test_panel.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_test/medical_test_panel.private.md|medical_test_panel.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_test/medical_test_panel.personal.md|medical_test_panel.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_test/medical_test_panel.secret.md|medical_test_panel.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.md|medical_test_panel]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.internal.md|medical_test_panel.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.protect.md|medical_test_panel.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.private.md|medical_test_panel.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.personal.md|medical_test_panel.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.secret.md|medical_test_panel.secret]] 

@@ -45,9 +45,9 @@ Event type: Festival.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/event/festival.md|festival]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/event/festival.internal.md|festival.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/event/festival.protect.md|festival.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/event/festival.private.md|festival.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/event/festival.personal.md|festival.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/event/festival.secret.md|festival.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/event/festival.md|festival]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/festival.internal.md|festival.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/festival.protect.md|festival.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/festival.private.md|festival.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/festival.personal.md|festival.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/festival.secret.md|festival.secret]] 

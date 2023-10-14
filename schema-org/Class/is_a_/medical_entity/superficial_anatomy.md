@@ -45,9 +45,9 @@ Anatomical features that can be observed by sight (without dissection), includin
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/superficial_anatomy.md|superficial_anatomy]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/superficial_anatomy.internal.md|superficial_anatomy.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/superficial_anatomy.protect.md|superficial_anatomy.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/superficial_anatomy.private.md|superficial_anatomy.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/superficial_anatomy.personal.md|superficial_anatomy.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/superficial_anatomy.secret.md|superficial_anatomy.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/medical_entity/superficial_anatomy.md|superficial_anatomy]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/superficial_anatomy.internal.md|superficial_anatomy.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/superficial_anatomy.protect.md|superficial_anatomy.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/superficial_anatomy.private.md|superficial_anatomy.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/superficial_anatomy.personal.md|superficial_anatomy.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/superficial_anatomy.secret.md|superficial_anatomy.secret]] 

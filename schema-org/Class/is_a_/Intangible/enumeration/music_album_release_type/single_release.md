@@ -47,9 +47,9 @@ SingleRelease.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.md|single_release]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.internal.md|single_release.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.protect.md|single_release.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.private.md|single_release.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.personal.md|single_release.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/music_album_release_type/single_release.secret.md|single_release.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/single_release.md|single_release]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/single_release.internal.md|single_release.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/single_release.protect.md|single_release.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/single_release.private.md|single_release.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/single_release.personal.md|single_release.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/single_release.secret.md|single_release.secret]] 

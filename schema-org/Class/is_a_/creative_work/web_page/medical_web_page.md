@@ -45,9 +45,9 @@ A web page that provides medical information.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.md|medical_web_page]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.internal.md|medical_web_page.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.protect.md|medical_web_page.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.private.md|medical_web_page.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.personal.md|medical_web_page.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/medical_web_page.secret.md|medical_web_page.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page/medical_web_page.md|medical_web_page]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page/medical_web_page.internal.md|medical_web_page.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page/medical_web_page.protect.md|medical_web_page.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page/medical_web_page.private.md|medical_web_page.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page/medical_web_page.personal.md|medical_web_page.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page/medical_web_page.secret.md|medical_web_page.secret]] 

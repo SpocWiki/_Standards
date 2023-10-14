@@ -49,9 +49,9 @@ A more detailed overview of <a href="/docs/news.html">schema.org News markup</a>
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/article/news_article.md|news_article]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/article/news_article.internal.md|news_article.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/article/news_article.protect.md|news_article.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/article/news_article.private.md|news_article.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/article/news_article.personal.md|news_article.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/article/news_article.secret.md|news_article.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/article/news_article.md|news_article]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/article/news_article.internal.md|news_article.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/article/news_article.protect.md|news_article.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/article/news_article.private.md|news_article.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/article/news_article.personal.md|news_article.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/article/news_article.secret.md|news_article.secret]] 

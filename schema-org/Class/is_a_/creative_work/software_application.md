@@ -47,9 +47,9 @@ A software application.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/software_application.md|software_application]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/software_application.internal.md|software_application.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/software_application.protect.md|software_application.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/software_application.private.md|software_application.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/software_application.personal.md|software_application.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/software_application.secret.md|software_application.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/software_application.md|software_application]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/software_application.internal.md|software_application.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/software_application.protect.md|software_application.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/software_application.private.md|software_application.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/software_application.personal.md|software_application.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/software_application.secret.md|software_application.secret]] 

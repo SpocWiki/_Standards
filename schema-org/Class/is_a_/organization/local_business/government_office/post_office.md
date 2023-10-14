@@ -45,9 +45,9 @@ A post office.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/government_office/post_office.md|post_office]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/government_office/post_office.internal.md|post_office.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/government_office/post_office.protect.md|post_office.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/government_office/post_office.private.md|post_office.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/government_office/post_office.personal.md|post_office.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/government_office/post_office.secret.md|post_office.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/government_office/post_office.md|post_office]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/government_office/post_office.internal.md|post_office.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/government_office/post_office.protect.md|post_office.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/government_office/post_office.private.md|post_office.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/government_office/post_office.personal.md|post_office.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/government_office/post_office.secret.md|post_office.secret]] 

@@ -47,9 +47,9 @@ A diet exclusive of all animal products.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegan_diet.md|vegan_diet]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegan_diet.internal.md|vegan_diet.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegan_diet.protect.md|vegan_diet.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegan_diet.private.md|vegan_diet.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegan_diet.personal.md|vegan_diet.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/restricted_diet/vegan_diet.secret.md|vegan_diet.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegan_diet.md|vegan_diet]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegan_diet.internal.md|vegan_diet.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegan_diet.protect.md|vegan_diet.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegan_diet.private.md|vegan_diet.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegan_diet.personal.md|vegan_diet.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegan_diet.secret.md|vegan_diet.secret]] 

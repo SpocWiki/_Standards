@@ -45,9 +45,9 @@ A ski resort.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.md|ski_resort]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.internal.md|ski_resort.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.protect.md|ski_resort.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.private.md|ski_resort.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.personal.md|ski_resort.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/lodging_business/resort/ski_resort.secret.md|ski_resort.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.md|ski_resort]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.internal.md|ski_resort.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.protect.md|ski_resort.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.private.md|ski_resort.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.personal.md|ski_resort.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/lodging_business/resort/ski_resort.secret.md|ski_resort.secret]] 

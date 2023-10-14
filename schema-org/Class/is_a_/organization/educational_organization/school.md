@@ -45,9 +45,9 @@ A school.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/educational_organization/school.md|school]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/educational_organization/school.internal.md|school.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/educational_organization/school.protect.md|school.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/educational_organization/school.private.md|school.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/educational_organization/school.personal.md|school.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/educational_organization/school.secret.md|school.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/educational_organization/school.md|school]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/educational_organization/school.internal.md|school.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/educational_organization/school.protect.md|school.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/educational_organization/school.private.md|school.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/educational_organization/school.personal.md|school.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/educational_organization/school.secret.md|school.secret]] 

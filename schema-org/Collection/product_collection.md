@@ -47,9 +47,9 @@ A set of products (either <a class="localLink" href="/ProductGroup">ProductGroup
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/collection/product_collection.md|product_collection]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/collection/product_collection.internal.md|product_collection.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/collection/product_collection.protect.md|product_collection.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/collection/product_collection.private.md|product_collection.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/collection/product_collection.personal.md|product_collection.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/collection/product_collection.secret.md|product_collection.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/collection/product_collection.md|product_collection]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/collection/product_collection.internal.md|product_collection.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/collection/product_collection.protect.md|product_collection.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/collection/product_collection.private.md|product_collection.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/collection/product_collection.personal.md|product_collection.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/collection/product_collection.secret.md|product_collection.secret]] 

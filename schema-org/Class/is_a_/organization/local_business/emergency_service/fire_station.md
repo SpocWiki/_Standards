@@ -45,9 +45,9 @@ A fire station. With firemen.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/emergency_service/fire_station.md|fire_station]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/emergency_service/fire_station.internal.md|fire_station.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/emergency_service/fire_station.protect.md|fire_station.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/emergency_service/fire_station.private.md|fire_station.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/emergency_service/fire_station.personal.md|fire_station.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/emergency_service/fire_station.secret.md|fire_station.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/emergency_service/fire_station.md|fire_station]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/emergency_service/fire_station.internal.md|fire_station.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/emergency_service/fire_station.protect.md|fire_station.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/emergency_service/fire_station.private.md|fire_station.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/emergency_service/fire_station.personal.md|fire_station.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/emergency_service/fire_station.secret.md|fire_station.secret]] 

@@ -45,9 +45,9 @@ An entry point, within some Web-based protocol.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/entry_point.md|entry_point]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/entry_point.internal.md|entry_point.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/entry_point.protect.md|entry_point.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/entry_point.private.md|entry_point.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/entry_point.personal.md|entry_point.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/entry_point.secret.md|entry_point.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/entry_point.md|entry_point]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/entry_point.internal.md|entry_point.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/entry_point.protect.md|entry_point.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/entry_point.private.md|entry_point.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/entry_point.personal.md|entry_point.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/entry_point.secret.md|entry_point.secret]] 

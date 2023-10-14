@@ -45,9 +45,9 @@ A courthouse.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.md|courthouse]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.internal.md|courthouse.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.protect.md|courthouse.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.private.md|courthouse.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.personal.md|courthouse.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/government_building/courthouse.secret.md|courthouse.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/government_building/courthouse.md|courthouse]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building/courthouse.internal.md|courthouse.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building/courthouse.protect.md|courthouse.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building/courthouse.private.md|courthouse.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building/courthouse.personal.md|courthouse.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building/courthouse.secret.md|courthouse.secret]] 

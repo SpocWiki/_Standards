@@ -45,9 +45,9 @@ The act of distributing content to people for their amusement or edification.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/action/interact_action/communicate_action/share_action.md|share_action]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/action/interact_action/communicate_action/share_action.internal.md|share_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/action/interact_action/communicate_action/share_action.protect.md|share_action.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/action/interact_action/communicate_action/share_action.private.md|share_action.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/action/interact_action/communicate_action/share_action.personal.md|share_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/action/interact_action/communicate_action/share_action.secret.md|share_action.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/action/interact_action/communicate_action/share_action.md|share_action]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/communicate_action/share_action.internal.md|share_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/communicate_action/share_action.protect.md|share_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/interact_action/communicate_action/share_action.private.md|share_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/communicate_action/share_action.personal.md|share_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/communicate_action/share_action.secret.md|share_action.secret]] 

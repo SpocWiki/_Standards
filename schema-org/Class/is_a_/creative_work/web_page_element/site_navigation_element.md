@@ -45,9 +45,9 @@ A navigation element of the page.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.md|site_navigation_element]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.internal.md|site_navigation_element.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.protect.md|site_navigation_element.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.private.md|site_navigation_element.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.personal.md|site_navigation_element.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page_element/site_navigation_element.secret.md|site_navigation_element.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page_element/site_navigation_element.md|site_navigation_element]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page_element/site_navigation_element.internal.md|site_navigation_element.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page_element/site_navigation_element.protect.md|site_navigation_element.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page_element/site_navigation_element.private.md|site_navigation_element.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page_element/site_navigation_element.personal.md|site_navigation_element.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page_element/site_navigation_element.secret.md|site_navigation_element.secret]] 

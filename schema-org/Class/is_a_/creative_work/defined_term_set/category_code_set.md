@@ -47,9 +47,9 @@ A set of Category Code values.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/defined_term_set/category_code_set.md|category_code_set]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/defined_term_set/category_code_set.internal.md|category_code_set.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/defined_term_set/category_code_set.protect.md|category_code_set.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/defined_term_set/category_code_set.private.md|category_code_set.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/defined_term_set/category_code_set.personal.md|category_code_set.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/defined_term_set/category_code_set.secret.md|category_code_set.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/defined_term_set/category_code_set.md|category_code_set]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/defined_term_set/category_code_set.internal.md|category_code_set.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/defined_term_set/category_code_set.protect.md|category_code_set.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/defined_term_set/category_code_set.private.md|category_code_set.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/defined_term_set/category_code_set.personal.md|category_code_set.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/defined_term_set/category_code_set.secret.md|category_code_set.secret]] 

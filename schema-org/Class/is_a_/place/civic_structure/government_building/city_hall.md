@@ -45,9 +45,9 @@ A city hall.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.md|city_hall]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.internal.md|city_hall.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.protect.md|city_hall.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.private.md|city_hall.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.personal.md|city_hall.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/civic_structure/government_building/city_hall.secret.md|city_hall.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.md|city_hall]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.internal.md|city_hall.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.protect.md|city_hall.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.private.md|city_hall.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.personal.md|city_hall.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.secret.md|city_hall.secret]] 

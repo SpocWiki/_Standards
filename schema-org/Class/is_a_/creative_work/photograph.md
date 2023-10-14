@@ -45,9 +45,9 @@ A photograph.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/photograph.md|photograph]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/photograph.internal.md|photograph.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/photograph.protect.md|photograph.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/photograph.private.md|photograph.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/photograph.personal.md|photograph.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/photograph.secret.md|photograph.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/photograph.md|photograph]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/photograph.internal.md|photograph.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/photograph.protect.md|photograph.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/photograph.private.md|photograph.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/photograph.personal.md|photograph.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/photograph.secret.md|photograph.secret]] 

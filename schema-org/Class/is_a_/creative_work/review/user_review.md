@@ -47,9 +47,9 @@ A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in co
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/review/user_review.md|user_review]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/review/user_review.internal.md|user_review.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/review/user_review.protect.md|user_review.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/review/user_review.private.md|user_review.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/review/user_review.personal.md|user_review.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/review/user_review.secret.md|user_review.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/review/user_review.md|user_review]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/review/user_review.internal.md|user_review.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/review/user_review.protect.md|user_review.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/review/user_review.private.md|user_review.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/review/user_review.personal.md|user_review.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/review/user_review.secret.md|user_review.secret]] 

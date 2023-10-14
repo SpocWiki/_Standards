@@ -47,9 +47,9 @@ A medical organization (physical or not), such as hospital, institution or clini
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/medical_organization.md|medical_organization]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/medical_organization.internal.md|medical_organization.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/medical_organization.protect.md|medical_organization.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/medical_organization.private.md|medical_organization.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/medical_organization.personal.md|medical_organization.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/medical_organization.secret.md|medical_organization.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/medical_organization.md|medical_organization]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/medical_organization.internal.md|medical_organization.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/medical_organization.protect.md|medical_organization.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/medical_organization.private.md|medical_organization.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/medical_organization.personal.md|medical_organization.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/medical_organization.secret.md|medical_organization.secret]] 

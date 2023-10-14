@@ -45,9 +45,9 @@ The act of participating in exertive activity for the purposes of improving heal
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/play_action/exercise_action.md|exercise_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/play_action/exercise_action.internal.md|exercise_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/play_action/exercise_action.protect.md|exercise_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/play_action/exercise_action.private.md|exercise_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/play_action/exercise_action.personal.md|exercise_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/play_action/exercise_action.secret.md|exercise_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/play_action/exercise_action.md|exercise_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/play_action/exercise_action.internal.md|exercise_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/play_action/exercise_action.protect.md|exercise_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/play_action/exercise_action.private.md|exercise_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/play_action/exercise_action.personal.md|exercise_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/play_action/exercise_action.secret.md|exercise_action.secret]] 

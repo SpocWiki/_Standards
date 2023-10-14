@@ -47,9 +47,9 @@ The <a class="localLink" href="/position">position</a> property is used to recon
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.md|breadcrumb_list]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.internal.md|breadcrumb_list.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.protect.md|breadcrumb_list.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.private.md|breadcrumb_list.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.personal.md|breadcrumb_list.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/item_list/breadcrumb_list.secret.md|breadcrumb_list.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/item_list/breadcrumb_list.md|breadcrumb_list]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/item_list/breadcrumb_list.internal.md|breadcrumb_list.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/item_list/breadcrumb_list.protect.md|breadcrumb_list.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/item_list/breadcrumb_list.private.md|breadcrumb_list.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/item_list/breadcrumb_list.personal.md|breadcrumb_list.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/item_list/breadcrumb_list.secret.md|breadcrumb_list.secret]] 

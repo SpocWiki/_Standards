@@ -47,9 +47,9 @@ A media episode (e.g. TV, radio, video game) which can be part of a series or se
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/episode.md|episode]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/episode.internal.md|episode.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/episode.protect.md|episode.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/episode.private.md|episode.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/episode.personal.md|episode.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/episode.secret.md|episode.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/episode.md|episode]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/episode.internal.md|episode.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/episode.protect.md|episode.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/episode.private.md|episode.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/episode.personal.md|episode.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/episode.secret.md|episode.secret]] 

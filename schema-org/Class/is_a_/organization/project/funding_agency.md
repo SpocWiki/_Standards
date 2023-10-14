@@ -51,9 +51,9 @@ Examples of funding agencies include ERC, REA, NIH, Bill and Melinda Gates Found
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/project/funding_agency.md|funding_agency]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/project/funding_agency.internal.md|funding_agency.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/project/funding_agency.protect.md|funding_agency.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/project/funding_agency.private.md|funding_agency.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/project/funding_agency.personal.md|funding_agency.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/project/funding_agency.secret.md|funding_agency.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/project/funding_agency.md|funding_agency]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/project/funding_agency.internal.md|funding_agency.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/project/funding_agency.protect.md|funding_agency.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/project/funding_agency.private.md|funding_agency.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/project/funding_agency.personal.md|funding_agency.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/project/funding_agency.secret.md|funding_agency.secret]] 

@@ -45,9 +45,9 @@ Residence type: Single-family home.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.md|single_family_residence]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.internal.md|single_family_residence.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.protect.md|single_family_residence.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.private.md|single_family_residence.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.personal.md|single_family_residence.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/accommodation/house/single_family_residence.secret.md|single_family_residence.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/accommodation/house/single_family_residence.md|single_family_residence]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/house/single_family_residence.internal.md|single_family_residence.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/house/single_family_residence.protect.md|single_family_residence.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/accommodation/house/single_family_residence.private.md|single_family_residence.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/house/single_family_residence.personal.md|single_family_residence.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/house/single_family_residence.secret.md|single_family_residence.secret]] 

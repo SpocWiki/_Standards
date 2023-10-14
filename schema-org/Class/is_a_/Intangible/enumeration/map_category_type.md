@@ -43,9 +43,9 @@ An enumeration of several kinds of Map.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/map_category_type.md|map_category_type]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/map_category_type.internal.md|map_category_type.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/map_category_type.protect.md|map_category_type.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/map_category_type.private.md|map_category_type.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/map_category_type.personal.md|map_category_type.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/map_category_type.secret.md|map_category_type.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/map_category_type.md|map_category_type]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/map_category_type.internal.md|map_category_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/map_category_type.protect.md|map_category_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/map_category_type.private.md|map_category_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/map_category_type.personal.md|map_category_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/map_category_type.secret.md|map_category_type.secret]] 

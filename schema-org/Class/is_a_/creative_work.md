@@ -47,9 +47,9 @@ before [ has_/sub_classes:: [[AmpStory]], [[ArchiveComponent]], Article, Atlas, 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Type/is_a_/creative_work.md|creative_work]] 
-- [[../../../../_internal/schema.org/Type/is_a_/creative_work.internal.md|creative_work.internal]] 
-- [[../../../../_protect/schema.org/Type/is_a_/creative_work.protect.md|creative_work.protect]] 
-- [[../../../../_private/schema.org/Type/is_a_/creative_work.private.md|creative_work.private]] 
-- [[../../../../_personal/schema.org/Type/is_a_/creative_work.personal.md|creative_work.personal]] 
-- [[../../../../_secret/schema.org/Type/is_a_/creative_work.secret.md|creative_work.secret]] 
+- [[../../../../_public/schema.org/Class/is_a_/creative_work.md|creative_work]] 
+- [[../../../../_internal/schema.org/Class/is_a_/creative_work.internal.md|creative_work.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/creative_work.protect.md|creative_work.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/creative_work.private.md|creative_work.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/creative_work.personal.md|creative_work.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/creative_work.secret.md|creative_work.secret]] 

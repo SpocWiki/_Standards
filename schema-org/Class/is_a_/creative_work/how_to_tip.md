@@ -45,9 +45,9 @@ An explanation in the instructions for how to achieve a result. It provides supp
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/how_to_tip.md|how_to_tip]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/how_to_tip.internal.md|how_to_tip.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/how_to_tip.protect.md|how_to_tip.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/how_to_tip.private.md|how_to_tip.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/how_to_tip.personal.md|how_to_tip.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/how_to_tip.secret.md|how_to_tip.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/how_to_tip.md|how_to_tip]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/how_to_tip.internal.md|how_to_tip.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/how_to_tip.protect.md|how_to_tip.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/how_to_tip.private.md|how_to_tip.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/how_to_tip.personal.md|how_to_tip.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/how_to_tip.secret.md|how_to_tip.secret]] 

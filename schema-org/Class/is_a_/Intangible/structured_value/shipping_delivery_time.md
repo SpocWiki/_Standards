@@ -47,9 +47,9 @@ ShippingDeliveryTime provides various pieces of information about delivery times
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.md|shipping_delivery_time]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.internal.md|shipping_delivery_time.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.protect.md|shipping_delivery_time.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.private.md|shipping_delivery_time.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.personal.md|shipping_delivery_time.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/structured_value/shipping_delivery_time.secret.md|shipping_delivery_time.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.md|shipping_delivery_time]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.internal.md|shipping_delivery_time.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.protect.md|shipping_delivery_time.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.private.md|shipping_delivery_time.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.personal.md|shipping_delivery_time.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.secret.md|shipping_delivery_time.secret]] 

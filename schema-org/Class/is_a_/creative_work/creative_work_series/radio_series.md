@@ -45,9 +45,9 @@ CreativeWorkSeries dedicated to radio broadcast and associated online delivery.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/radio_series.md|radio_series]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/radio_series.internal.md|radio_series.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/radio_series.protect.md|radio_series.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/radio_series.private.md|radio_series.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/radio_series.personal.md|radio_series.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/radio_series.secret.md|radio_series.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/creative_work_series/radio_series.md|radio_series]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/creative_work_series/radio_series.internal.md|radio_series.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/creative_work_series/radio_series.protect.md|radio_series.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/creative_work_series/radio_series.private.md|radio_series.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/creative_work_series/radio_series.personal.md|radio_series.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/creative_work_series/radio_series.secret.md|radio_series.secret]] 

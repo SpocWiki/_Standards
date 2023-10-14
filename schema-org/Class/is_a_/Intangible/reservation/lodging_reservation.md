@@ -47,9 +47,9 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.md|lodging_reservation]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.internal.md|lodging_reservation.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.protect.md|lodging_reservation.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.private.md|lodging_reservation.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.personal.md|lodging_reservation.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/reservation/lodging_reservation.secret.md|lodging_reservation.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/reservation/lodging_reservation.md|lodging_reservation]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/reservation/lodging_reservation.internal.md|lodging_reservation.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/reservation/lodging_reservation.protect.md|lodging_reservation.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/reservation/lodging_reservation.private.md|lodging_reservation.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/reservation/lodging_reservation.personal.md|lodging_reservation.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/reservation/lodging_reservation.secret.md|lodging_reservation.secret]] 

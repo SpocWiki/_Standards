@@ -45,9 +45,9 @@ The act of consuming written content.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/action/consume_action/read_action.md|read_action]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/action/consume_action/read_action.internal.md|read_action.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/action/consume_action/read_action.protect.md|read_action.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/action/consume_action/read_action.private.md|read_action.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/action/consume_action/read_action.personal.md|read_action.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/action/consume_action/read_action.secret.md|read_action.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/read_action.md|read_action]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/read_action.internal.md|read_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/read_action.protect.md|read_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/read_action.private.md|read_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/read_action.personal.md|read_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/read_action.secret.md|read_action.secret]] 

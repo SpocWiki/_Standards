@@ -47,9 +47,9 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/service/taxi_service.md|taxi_service]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/service/taxi_service.internal.md|taxi_service.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/service/taxi_service.protect.md|taxi_service.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/service/taxi_service.private.md|taxi_service.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/service/taxi_service.personal.md|taxi_service.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/service/taxi_service.secret.md|taxi_service.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/taxi_service.md|taxi_service]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/taxi_service.internal.md|taxi_service.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/taxi_service.protect.md|taxi_service.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/taxi_service.private.md|taxi_service.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/taxi_service.personal.md|taxi_service.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/taxi_service.secret.md|taxi_service.secret]] 

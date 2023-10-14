@@ -43,9 +43,9 @@ Data type: Integer.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/data_type/number/integer.md|integer]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/data_type/number/integer.internal.md|integer.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/data_type/number/integer.protect.md|integer.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/data_type/number/integer.private.md|integer.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/data_type/number/integer.personal.md|integer.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/data_type/number/integer.secret.md|integer.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/data_type/number/integer.md|integer]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/number/integer.internal.md|integer.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/number/integer.protect.md|integer.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/data_type/number/integer.private.md|integer.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/number/integer.personal.md|integer.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/number/integer.secret.md|integer.secret]] 

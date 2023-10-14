@@ -45,9 +45,9 @@ A simple system that adds up the number of risk factors to yield a score that is
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.md|medical_risk_score]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.internal.md|medical_risk_score.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.protect.md|medical_risk_score.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.private.md|medical_risk_score.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.personal.md|medical_risk_score.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.secret.md|medical_risk_score.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.md|medical_risk_score]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.internal.md|medical_risk_score.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.protect.md|medical_risk_score.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.private.md|medical_risk_score.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.personal.md|medical_risk_score.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_score.secret.md|medical_risk_score.secret]] 

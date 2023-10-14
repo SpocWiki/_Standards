@@ -47,9 +47,9 @@ See also the <a href="/docs/hotels.html">dedicated document on the use of schema
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/lodging_business/bed_and_breakfast.md|bed_and_breakfast]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/lodging_business/bed_and_breakfast.internal.md|bed_and_breakfast.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/lodging_business/bed_and_breakfast.protect.md|bed_and_breakfast.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/lodging_business/bed_and_breakfast.private.md|bed_and_breakfast.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/lodging_business/bed_and_breakfast.personal.md|bed_and_breakfast.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/lodging_business/bed_and_breakfast.secret.md|bed_and_breakfast.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.md|bed_and_breakfast]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.internal.md|bed_and_breakfast.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.protect.md|bed_and_breakfast.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.private.md|bed_and_breakfast.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.personal.md|bed_and_breakfast.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.secret.md|bed_and_breakfast.secret]] 

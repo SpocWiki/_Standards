@@ -47,9 +47,9 @@ Indicates that the item is used.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.md|used_condition]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.internal.md|used_condition.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.protect.md|used_condition.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.private.md|used_condition.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.personal.md|used_condition.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/offer_item_condition/used_condition.secret.md|used_condition.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.md|used_condition]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.internal.md|used_condition.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.protect.md|used_condition.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.private.md|used_condition.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.personal.md|used_condition.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.secret.md|used_condition.secret]] 

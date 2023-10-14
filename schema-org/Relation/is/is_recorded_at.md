@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_recorded_at :: Event ] or 
+- [ #is_/recorded_at :: Event ] or 
 - [ is_recorded_at :: Event ] 
 
 The Event where the CreativeWork was recorded. The CreativeWork may capture all or part of the event.
@@ -39,7 +39,7 @@ The Event where the CreativeWork was recorded. The CreativeWork may capture all 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
 ( #has_/name :: is_recorded_at )
-( #has_/range :: [[../../../Type/is_a_thing/event]] )
+( #has_/range :: [[../../../Class/is_a_thing/event]] )
 
 [ #is_/inverse_of  :: recordedIn ]
 

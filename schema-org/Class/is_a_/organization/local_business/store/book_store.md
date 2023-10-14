@@ -45,9 +45,9 @@ A bookstore.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/book_store.md|book_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/book_store.internal.md|book_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/book_store.protect.md|book_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/book_store.private.md|book_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/book_store.personal.md|book_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/book_store.secret.md|book_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/book_store.md|book_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/book_store.internal.md|book_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/book_store.protect.md|book_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/book_store.private.md|book_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/book_store.personal.md|book_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/book_store.secret.md|book_store.secret]] 

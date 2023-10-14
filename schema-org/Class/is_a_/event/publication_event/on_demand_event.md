@@ -45,9 +45,9 @@ A publication event, e.g. catch-up TV or radio podcast, during which a program i
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/event/publication_event/on_demand_event.md|on_demand_event]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/event/publication_event/on_demand_event.internal.md|on_demand_event.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/event/publication_event/on_demand_event.protect.md|on_demand_event.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/event/publication_event/on_demand_event.private.md|on_demand_event.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/event/publication_event/on_demand_event.personal.md|on_demand_event.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/event/publication_event/on_demand_event.secret.md|on_demand_event.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/event/publication_event/on_demand_event.md|on_demand_event]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/publication_event/on_demand_event.internal.md|on_demand_event.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/publication_event/on_demand_event.protect.md|on_demand_event.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/publication_event/on_demand_event.private.md|on_demand_event.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/publication_event/on_demand_event.personal.md|on_demand_event.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/publication_event/on_demand_event.secret.md|on_demand_event.secret]] 

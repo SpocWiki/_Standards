@@ -45,9 +45,9 @@ A reservoir of water, typically an artificially created lake, like the Lake Kari
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/place/landform/body_of_water/reservoir.md|reservoir]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/place/landform/body_of_water/reservoir.internal.md|reservoir.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/place/landform/body_of_water/reservoir.protect.md|reservoir.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/place/landform/body_of_water/reservoir.private.md|reservoir.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/place/landform/body_of_water/reservoir.personal.md|reservoir.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/place/landform/body_of_water/reservoir.secret.md|reservoir.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/place/landform/body_of_water/reservoir.md|reservoir]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/landform/body_of_water/reservoir.internal.md|reservoir.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/landform/body_of_water/reservoir.protect.md|reservoir.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/landform/body_of_water/reservoir.private.md|reservoir.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/landform/body_of_water/reservoir.personal.md|reservoir.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/landform/body_of_water/reservoir.secret.md|reservoir.secret]] 

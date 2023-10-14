@@ -47,9 +47,9 @@ See also the <a href="/docs/hotels.html">dedicated document on the use of schema
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/lodging_business/hotel.md|hotel]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/lodging_business/hotel.internal.md|hotel.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/lodging_business/hotel.protect.md|hotel.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/lodging_business/hotel.private.md|hotel.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/lodging_business/hotel.personal.md|hotel.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/lodging_business/hotel.secret.md|hotel.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/lodging_business/hotel.md|hotel]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/lodging_business/hotel.internal.md|hotel.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/lodging_business/hotel.protect.md|hotel.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/lodging_business/hotel.private.md|hotel.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/lodging_business/hotel.personal.md|hotel.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/lodging_business/hotel.secret.md|hotel.secret]] 

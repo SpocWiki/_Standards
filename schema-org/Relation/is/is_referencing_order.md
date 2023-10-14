@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_referencing_order :: Order] or 
+- [ #is_/referencing_order :: Order] or 
 - [ is_referencing_order :: Order] 
 
 The Order(s) related to this Invoice. One or more Orders may be combined into a single Invoice.

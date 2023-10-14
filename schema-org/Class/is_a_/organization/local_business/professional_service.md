@@ -49,9 +49,9 @@ The general <a class="localLink" href="/ProfessionalService">ProfessionalService
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/organization/local_business/professional_service.md|professional_service]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/professional_service.internal.md|professional_service.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/professional_service.protect.md|professional_service.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/organization/local_business/professional_service.private.md|professional_service.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/professional_service.personal.md|professional_service.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/professional_service.secret.md|professional_service.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/organization/local_business/professional_service.md|professional_service]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/professional_service.internal.md|professional_service.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/professional_service.protect.md|professional_service.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/professional_service.private.md|professional_service.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/professional_service.personal.md|professional_service.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/professional_service.secret.md|professional_service.secret]] 

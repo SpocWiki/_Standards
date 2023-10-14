@@ -45,9 +45,9 @@ A specific question - e.g. from a user seeking answers online, or collected in a
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/comment/question.md|question]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/comment/question.internal.md|question.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/comment/question.protect.md|question.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/comment/question.private.md|question.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/comment/question.personal.md|question.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/comment/question.secret.md|question.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/comment/question.md|question]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/comment/question.internal.md|question.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/comment/question.protect.md|question.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/comment/question.private.md|question.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/comment/question.personal.md|question.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/comment/question.secret.md|question.secret]] 

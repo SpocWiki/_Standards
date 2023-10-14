@@ -45,9 +45,9 @@ The causative agent(s) that are responsible for the pathophysiologic process tha
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_cause.md|medical_cause]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_cause.internal.md|medical_cause.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_cause.protect.md|medical_cause.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_cause.private.md|medical_cause.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_cause.personal.md|medical_cause.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_cause.secret.md|medical_cause.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_cause.md|medical_cause]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_cause.internal.md|medical_cause.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_cause.protect.md|medical_cause.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_cause.private.md|medical_cause.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_cause.personal.md|medical_cause.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_cause.secret.md|medical_cause.secret]] 

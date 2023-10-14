@@ -47,9 +47,9 @@ A monetary grant.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/grant/monetary_grant.md|monetary_grant]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/grant/monetary_grant.internal.md|monetary_grant.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/grant/monetary_grant.protect.md|monetary_grant.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/grant/monetary_grant.private.md|monetary_grant.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/grant/monetary_grant.personal.md|monetary_grant.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/grant/monetary_grant.secret.md|monetary_grant.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/grant/monetary_grant.md|monetary_grant]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/grant/monetary_grant.internal.md|monetary_grant.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/grant/monetary_grant.protect.md|monetary_grant.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/grant/monetary_grant.private.md|monetary_grant.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/grant/monetary_grant.personal.md|monetary_grant.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/grant/monetary_grant.secret.md|monetary_grant.secret]] 

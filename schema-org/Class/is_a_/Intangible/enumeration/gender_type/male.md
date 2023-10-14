@@ -47,9 +47,9 @@ The male gender.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/gender_type/male.md|male]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/gender_type/male.internal.md|male.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/gender_type/male.protect.md|male.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/gender_type/male.private.md|male.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/gender_type/male.personal.md|male.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/gender_type/male.secret.md|male.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.md|male]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.internal.md|male.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.protect.md|male.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.private.md|male.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.personal.md|male.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.secret.md|male.secret]] 

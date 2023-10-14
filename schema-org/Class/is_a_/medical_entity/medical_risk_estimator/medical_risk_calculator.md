@@ -45,9 +45,9 @@ A complex mathematical calculation requiring an online calculator, used to asses
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.md|medical_risk_calculator]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.internal.md|medical_risk_calculator.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.protect.md|medical_risk_calculator.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.private.md|medical_risk_calculator.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.personal.md|medical_risk_calculator.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.secret.md|medical_risk_calculator.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.md|medical_risk_calculator]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.internal.md|medical_risk_calculator.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.protect.md|medical_risk_calculator.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.private.md|medical_risk_calculator.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.personal.md|medical_risk_calculator.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_risk_estimator/medical_risk_calculator.secret.md|medical_risk_calculator.secret]] 

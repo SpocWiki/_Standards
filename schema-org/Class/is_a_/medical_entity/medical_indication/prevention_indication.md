@@ -45,9 +45,9 @@ An indication for preventing an underlying condition, symptom, etc.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.md|prevention_indication]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.internal.md|prevention_indication.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.protect.md|prevention_indication.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.private.md|prevention_indication.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.personal.md|prevention_indication.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_indication/prevention_indication.secret.md|prevention_indication.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_indication/prevention_indication.md|prevention_indication]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_indication/prevention_indication.internal.md|prevention_indication.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_indication/prevention_indication.protect.md|prevention_indication.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_indication/prevention_indication.private.md|prevention_indication.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_indication/prevention_indication.personal.md|prevention_indication.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_indication/prevention_indication.secret.md|prevention_indication.secret]] 

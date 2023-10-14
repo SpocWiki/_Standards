@@ -49,9 +49,9 @@ Specifies that the customer receives a store credit as refund when returning a p
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.md|store_credit_refund]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.internal.md|store_credit_refund.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.protect.md|store_credit_refund.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.private.md|store_credit_refund.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.personal.md|store_credit_refund.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.secret.md|store_credit_refund.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.md|store_credit_refund]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.internal.md|store_credit_refund.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.protect.md|store_credit_refund.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.private.md|store_credit_refund.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.personal.md|store_credit_refund.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.secret.md|store_credit_refund.secret]] 

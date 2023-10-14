@@ -45,9 +45,9 @@ A product taken by mouth that contains a dietary ingredient intended to suppleme
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/product/dietary_supplement.md|dietary_supplement]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/product/dietary_supplement.internal.md|dietary_supplement.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/product/dietary_supplement.protect.md|dietary_supplement.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/product/dietary_supplement.private.md|dietary_supplement.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/product/dietary_supplement.personal.md|dietary_supplement.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/product/dietary_supplement.secret.md|dietary_supplement.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/product/dietary_supplement.md|dietary_supplement]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/product/dietary_supplement.internal.md|dietary_supplement.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/product/dietary_supplement.protect.md|dietary_supplement.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/product/dietary_supplement.private.md|dietary_supplement.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/product/dietary_supplement.personal.md|dietary_supplement.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/product/dietary_supplement.secret.md|dietary_supplement.secret]] 

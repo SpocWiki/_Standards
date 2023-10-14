@@ -45,9 +45,9 @@ A statement of the money due for goods or services; a bill.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/invoice.md|invoice]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/invoice.internal.md|invoice.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/invoice.protect.md|invoice.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/invoice.private.md|invoice.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/invoice.personal.md|invoice.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/invoice.secret.md|invoice.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/invoice.md|invoice]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/invoice.internal.md|invoice.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/invoice.protect.md|invoice.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/invoice.private.md|invoice.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/invoice.personal.md|invoice.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/invoice.secret.md|invoice.secret]] 

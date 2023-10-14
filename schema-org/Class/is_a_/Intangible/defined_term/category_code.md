@@ -47,9 +47,9 @@ Tag Instances like this:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/defined_term/category_code.md|category_code]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/defined_term/category_code.internal.md|category_code.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/defined_term/category_code.protect.md|category_code.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/defined_term/category_code.private.md|category_code.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/defined_term/category_code.personal.md|category_code.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/defined_term/category_code.secret.md|category_code.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/defined_term/category_code.md|category_code]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/defined_term/category_code.internal.md|category_code.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/defined_term/category_code.protect.md|category_code.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/defined_term/category_code.private.md|category_code.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/defined_term/category_code.personal.md|category_code.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/defined_term/category_code.secret.md|category_code.secret]] 

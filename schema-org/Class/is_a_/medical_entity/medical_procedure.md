@@ -49,9 +49,9 @@ A process of care used in either a diagnostic, therapeutic, preventive or pallia
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/medical_entity/medical_procedure.md|medical_procedure]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/medical_entity/medical_procedure.internal.md|medical_procedure.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/medical_entity/medical_procedure.protect.md|medical_procedure.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/medical_entity/medical_procedure.private.md|medical_procedure.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/medical_entity/medical_procedure.personal.md|medical_procedure.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/medical_entity/medical_procedure.secret.md|medical_procedure.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_procedure.md|medical_procedure]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_procedure.internal.md|medical_procedure.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_procedure.protect.md|medical_procedure.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_procedure.private.md|medical_procedure.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_procedure.personal.md|medical_procedure.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_procedure.secret.md|medical_procedure.secret]] 

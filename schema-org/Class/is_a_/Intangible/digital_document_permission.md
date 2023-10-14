@@ -45,9 +45,9 @@ A permission for a particular person or group to access a particular file.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/digital_document_permission.md|digital_document_permission]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/digital_document_permission.internal.md|digital_document_permission.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/digital_document_permission.protect.md|digital_document_permission.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/digital_document_permission.private.md|digital_document_permission.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/digital_document_permission.personal.md|digital_document_permission.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/digital_document_permission.secret.md|digital_document_permission.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/digital_document_permission.md|digital_document_permission]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/digital_document_permission.internal.md|digital_document_permission.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/digital_document_permission.protect.md|digital_document_permission.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/digital_document_permission.private.md|digital_document_permission.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/digital_document_permission.personal.md|digital_document_permission.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/digital_document_permission.secret.md|digital_document_permission.secret]] 

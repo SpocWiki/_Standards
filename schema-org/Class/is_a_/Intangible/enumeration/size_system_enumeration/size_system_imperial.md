@@ -49,9 +49,9 @@ Imperial size system.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.md|size_system_imperial]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.internal.md|size_system_imperial.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.protect.md|size_system_imperial.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.private.md|size_system_imperial.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.personal.md|size_system_imperial.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.secret.md|size_system_imperial.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.md|size_system_imperial]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.internal.md|size_system_imperial.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.protect.md|size_system_imperial.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.private.md|size_system_imperial.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.personal.md|size_system_imperial.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.secret.md|size_system_imperial.secret]] 

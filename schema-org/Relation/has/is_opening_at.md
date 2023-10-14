@@ -31,7 +31,7 @@ aliases:
 ---
 
 Use it like this: 
-- [ #is/_opening_at :: Time ] or 
+- [ #is_/opening_at :: Time ] or 
 - [ is_opening_at :: Time ] 
 
 The opening hour of the place or service on the given day(s) of the week.

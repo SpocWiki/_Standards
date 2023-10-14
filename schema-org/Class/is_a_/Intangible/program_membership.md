@@ -45,9 +45,9 @@ Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/intangible/program_membership.md|program_membership]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/intangible/program_membership.internal.md|program_membership.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/intangible/program_membership.protect.md|program_membership.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/intangible/program_membership.private.md|program_membership.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/intangible/program_membership.personal.md|program_membership.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/intangible/program_membership.secret.md|program_membership.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/intangible/program_membership.md|program_membership]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/program_membership.internal.md|program_membership.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/program_membership.protect.md|program_membership.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/program_membership.private.md|program_membership.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/program_membership.personal.md|program_membership.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/program_membership.secret.md|program_membership.secret]] 

@@ -45,9 +45,9 @@ Web page type: Search results page.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/web_page/search_results_page.md|search_results_page]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/web_page/search_results_page.internal.md|search_results_page.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/web_page/search_results_page.protect.md|search_results_page.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/web_page/search_results_page.private.md|search_results_page.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/web_page/search_results_page.personal.md|search_results_page.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/web_page/search_results_page.secret.md|search_results_page.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page/search_results_page.md|search_results_page]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page/search_results_page.internal.md|search_results_page.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page/search_results_page.protect.md|search_results_page.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/web_page/search_results_page.private.md|search_results_page.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page/search_results_page.personal.md|search_results_page.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page/search_results_page.secret.md|search_results_page.secret]] 

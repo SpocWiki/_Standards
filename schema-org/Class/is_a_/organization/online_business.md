@@ -49,9 +49,9 @@ A particular online business, either standalone or the online part of a broader 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/organization/online_business.md|online_business]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/organization/online_business.internal.md|online_business.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/organization/online_business.protect.md|online_business.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/organization/online_business.private.md|online_business.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/organization/online_business.personal.md|online_business.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/organization/online_business.secret.md|online_business.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/organization/online_business.md|online_business]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/online_business.internal.md|online_business.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/online_business.protect.md|online_business.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/online_business.private.md|online_business.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/online_business.personal.md|online_business.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/online_business.secret.md|online_business.secret]] 

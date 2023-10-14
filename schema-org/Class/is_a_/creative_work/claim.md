@@ -51,9 +51,9 @@ At this time, Schema.org does not define any types of relationship between claim
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Type/is_a_/creative_work/claim.md|claim]] 
-- [[../../../../../_internal/schema.org/Type/is_a_/creative_work/claim.internal.md|claim.internal]] 
-- [[../../../../../_protect/schema.org/Type/is_a_/creative_work/claim.protect.md|claim.protect]] 
-- [[../../../../../_private/schema.org/Type/is_a_/creative_work/claim.private.md|claim.private]] 
-- [[../../../../../_personal/schema.org/Type/is_a_/creative_work/claim.personal.md|claim.personal]] 
-- [[../../../../../_secret/schema.org/Type/is_a_/creative_work/claim.secret.md|claim.secret]] 
+- [[../../../../../_public/schema.org/Class/is_a_/creative_work/claim.md|claim]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/claim.internal.md|claim.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/claim.protect.md|claim.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/claim.private.md|claim.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/claim.personal.md|claim.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/claim.secret.md|claim.secret]] 

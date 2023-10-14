@@ -45,9 +45,9 @@ A video game series.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.md|video_game_series]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.internal.md|video_game_series.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.protect.md|video_game_series.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.private.md|video_game_series.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.personal.md|video_game_series.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/creative_work/creative_work_series/video_game_series.secret.md|video_game_series.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/creative_work/creative_work_series/video_game_series.md|video_game_series]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/creative_work/creative_work_series/video_game_series.internal.md|video_game_series.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/creative_work/creative_work_series/video_game_series.protect.md|video_game_series.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/creative_work/creative_work_series/video_game_series.private.md|video_game_series.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/creative_work/creative_work_series/video_game_series.personal.md|video_game_series.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/creative_work/creative_work_series/video_game_series.secret.md|video_game_series.secret]] 

@@ -47,9 +47,9 @@ Enrolling participants by invitation only.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.md|enrolling_by_invitation]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.internal.md|enrolling_by_invitation.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.protect.md|enrolling_by_invitation.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.private.md|enrolling_by_invitation.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.personal.md|enrolling_by_invitation.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.secret.md|enrolling_by_invitation.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.md|enrolling_by_invitation]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.internal.md|enrolling_by_invitation.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.protect.md|enrolling_by_invitation.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.private.md|enrolling_by_invitation.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.personal.md|enrolling_by_invitation.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.secret.md|enrolling_by_invitation.secret]] 

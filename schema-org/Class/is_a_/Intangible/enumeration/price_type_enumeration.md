@@ -45,9 +45,9 @@ Enumerates different price types, for example list price, invoice price, and sal
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration.md|price_type_enumeration]] 
-- [[../../../../../../_internal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration.internal.md|price_type_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration.protect.md|price_type_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration.private.md|price_type_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration.personal.md|price_type_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Type/is_a_/intangible/enumeration/price_type_enumeration.secret.md|price_type_enumeration.secret]] 
+- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.md|price_type_enumeration]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.internal.md|price_type_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.protect.md|price_type_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.private.md|price_type_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.personal.md|price_type_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.secret.md|price_type_enumeration.secret]] 

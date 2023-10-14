@@ -45,9 +45,9 @@ A bike store.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Type/is_a_/organization/local_business/store/bike_store.md|bike_store]] 
-- [[../../../../../../../_internal/schema.org/Type/is_a_/organization/local_business/store/bike_store.internal.md|bike_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Type/is_a_/organization/local_business/store/bike_store.protect.md|bike_store.protect]] 
-- [[../../../../../../../_private/schema.org/Type/is_a_/organization/local_business/store/bike_store.private.md|bike_store.private]] 
-- [[../../../../../../../_personal/schema.org/Type/is_a_/organization/local_business/store/bike_store.personal.md|bike_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Type/is_a_/organization/local_business/store/bike_store.secret.md|bike_store.secret]] 
+- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/store/bike_store.md|bike_store]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/bike_store.internal.md|bike_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/bike_store.protect.md|bike_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/bike_store.private.md|bike_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/bike_store.personal.md|bike_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/bike_store.secret.md|bike_store.secret]] 

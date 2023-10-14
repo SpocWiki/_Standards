@@ -45,9 +45,9 @@ A type of Bank Account with a main purpose of depositing funds to gain interest 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Type/is_a_/intangible/service/financial_product/bank_account/deposit_account.md|deposit_account]] 
-- [[../../../../../../../../_internal/schema.org/Type/is_a_/intangible/service/financial_product/bank_account/deposit_account.internal.md|deposit_account.internal]] 
-- [[../../../../../../../../_protect/schema.org/Type/is_a_/intangible/service/financial_product/bank_account/deposit_account.protect.md|deposit_account.protect]] 
-- [[../../../../../../../../_private/schema.org/Type/is_a_/intangible/service/financial_product/bank_account/deposit_account.private.md|deposit_account.private]] 
-- [[../../../../../../../../_personal/schema.org/Type/is_a_/intangible/service/financial_product/bank_account/deposit_account.personal.md|deposit_account.personal]] 
-- [[../../../../../../../../_secret/schema.org/Type/is_a_/intangible/service/financial_product/bank_account/deposit_account.secret.md|deposit_account.secret]] 
+- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/bank_account/deposit_account.md|deposit_account]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/bank_account/deposit_account.internal.md|deposit_account.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/bank_account/deposit_account.protect.md|deposit_account.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/bank_account/deposit_account.private.md|deposit_account.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product/bank_account/deposit_account.personal.md|deposit_account.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product/bank_account/deposit_account.secret.md|deposit_account.secret]] 

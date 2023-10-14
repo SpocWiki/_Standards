@@ -47,9 +47,9 @@ Any offered product or service. For example: a pair of shoes; a concert ticket; 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Type/is_a_/product.md|product]] 
-- [[../../../../_internal/schema.org/Type/is_a_/product.internal.md|product.internal]] 
-- [[../../../../_protect/schema.org/Type/is_a_/product.protect.md|product.protect]] 
-- [[../../../../_private/schema.org/Type/is_a_/product.private.md|product.private]] 
-- [[../../../../_personal/schema.org/Type/is_a_/product.personal.md|product.personal]] 
-- [[../../../../_secret/schema.org/Type/is_a_/product.secret.md|product.secret]] 
+- [[../../../../_public/schema.org/Class/is_a_/product.md|product]] 
+- [[../../../../_internal/schema.org/Class/is_a_/product.internal.md|product.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/product.protect.md|product.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/product.private.md|product.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/product.personal.md|product.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/product.secret.md|product.secret]] 
