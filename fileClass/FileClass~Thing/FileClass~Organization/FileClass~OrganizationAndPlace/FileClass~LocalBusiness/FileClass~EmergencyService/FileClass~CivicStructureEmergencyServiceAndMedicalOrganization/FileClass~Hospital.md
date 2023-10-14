@@ -10,7 +10,7 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 ---
 
 # Hospital
-This is a kind of [[FileClass~CivicStructureAndEmergencyServiceAndMedicalOrganization]]
+This is a kind of [[../FileClass~CivicStructureEmergencyServiceAndMedicalOrganization]]
 
 A hospital.
 
