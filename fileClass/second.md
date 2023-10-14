@@ -1,2 +1,0 @@
-
-secondX:: {"type":"Input","options":{}}
