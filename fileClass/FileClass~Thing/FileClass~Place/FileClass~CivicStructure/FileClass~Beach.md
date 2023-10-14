@@ -1,6 +1,6 @@
 ---
 limit: 9
-mapWithTag: true
+mapWithTag: false
 excludes:
 icon: palmtree
 version: 5

@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/InsuranceAgency, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/InsuranceAgency, is_an_/InsuranceAgency, schema-org/InsuranceAgency]
 tags: ["class/InsuranceAgency", "#is_an_/InsuranceAgency", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/InsuranceAgency"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FinancialService
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService
 ---
 
 # InsuranceAgency

@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/AutomatedTeller, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AutomatedTeller, is_an_/AutomatedTeller, schema-org/AutomatedTeller]
 tags: ["class/AutomatedTeller", "#is_an_/AutomatedTeller", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/AutomatedTeller"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FinancialService
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService
 ---
 
 # AutomatedTeller

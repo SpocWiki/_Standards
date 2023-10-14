@@ -6,7 +6,7 @@ icon: book
 version: 5
 tagNames: [class/BookStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BookStore, is_a_/BookStore, schema-org/BookStore]
 tags: ["class/BookStore", "#is_a_/BookStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BookStore"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 
 # BookStore

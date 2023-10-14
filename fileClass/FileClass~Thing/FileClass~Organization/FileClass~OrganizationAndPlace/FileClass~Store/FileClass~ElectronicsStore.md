@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/ElectronicsStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ElectronicsStore, is_an_/ElectronicsStore, schema-org/ElectronicsStore]
 tags: ["class/ElectronicsStore", "#is_an_/ElectronicsStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ElectronicsStore"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 
 # ElectronicsStore

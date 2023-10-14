@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/BowlingAlley, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/BowlingAlley, is_a_/BowlingAlley, schema-org/BowlingAlley]
 tags: ["class/BowlingAlley", "#is_a_/BowlingAlley", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/BowlingAlley"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~SportsActivityLocation
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation
 ---
 
 # BowlingAlley

@@ -6,7 +6,7 @@ icon: flower
 version: 5
 tagNames: [class/Florist, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/Florist, is_a_/Florist, schema-org/Florist]
 tags: ["class/Florist", "#is_a_/Florist", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/Florist"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 
 # Florist

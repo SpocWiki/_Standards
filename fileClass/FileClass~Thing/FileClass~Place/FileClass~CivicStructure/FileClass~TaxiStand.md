@@ -1,6 +1,6 @@
 ---
 limit: 9
-mapWithTag: true
+mapWithTag: false
 excludes:
 icon: car
 version: 5

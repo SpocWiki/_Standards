@@ -6,7 +6,7 @@ icon: dumbbell
 version: 5
 tagNames: [class/ExerciseGym, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/ExerciseGym, is_an_/ExerciseGym, schema-org/ExerciseGym]
 tags: ["class/ExerciseGym", "#is_an_/ExerciseGym", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/ExerciseGym"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~SportsActivityLocation
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation
 ---
 
 # ExerciseGym

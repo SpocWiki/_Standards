@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/BedAndBreakfast, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/BedAndBreakfast, is_a_/BedAndBreakfast, schema-org/BedAndBreakfast]
 tags: ["class/BedAndBreakfast", "#is_a_/BedAndBreakfast", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/BedAndBreakfast"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LodgingBusiness
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness
 ---
 
 # BedAndBreakfast

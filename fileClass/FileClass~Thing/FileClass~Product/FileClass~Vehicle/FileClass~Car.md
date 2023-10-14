@@ -1,12 +1,12 @@
 ---
 limit: 9
-mapWithTag: true
-excludes:
+mapWithTag: false
 icon: car
-version: 5
 tagNames: [class/Car, class/Thing/Product/Vehicle/Car, is_a_/Car, schema-org/Car]
 tags: ["class/Car", "#is_a_/Car", "class/Thing/Product/Vehicle/Car"]
+excludes: 
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
+version: 3
 ---
 
 # Car

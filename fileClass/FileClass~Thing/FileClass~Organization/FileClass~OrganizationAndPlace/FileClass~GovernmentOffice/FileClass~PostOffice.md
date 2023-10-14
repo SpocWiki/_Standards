@@ -6,7 +6,7 @@ icon: mail
 version: 5
 tagNames: [class/PostOffice, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice/PostOffice, is_a_/PostOffice, schema-org/PostOffice]
 tags: ["class/PostOffice", "#is_a_/PostOffice", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/GovernmentOffice/PostOffice"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~GovernmentOffice
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~GovernmentOffice
 ---
 
 # PostOffice

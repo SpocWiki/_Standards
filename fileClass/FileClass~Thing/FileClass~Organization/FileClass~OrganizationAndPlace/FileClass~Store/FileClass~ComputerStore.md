@@ -6,7 +6,7 @@ icon: laptop
 version: 5
 tagNames: [class/ComputerStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ComputerStore, is_a_/ComputerStore, schema-org/ComputerStore]
 tags: ["class/ComputerStore", "#is_a_/ComputerStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ComputerStore"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 
 # ComputerStore

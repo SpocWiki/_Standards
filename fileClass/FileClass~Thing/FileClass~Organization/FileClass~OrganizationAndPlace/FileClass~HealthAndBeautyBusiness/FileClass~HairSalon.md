@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/HairSalon, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HairSalon, is_a_/HairSalon, schema-org/HairSalon]
 tags: ["class/HairSalon", "#is_a_/HairSalon", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/HairSalon"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~HealthAndBeautyBusiness
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness
 ---
 
 # HairSalon

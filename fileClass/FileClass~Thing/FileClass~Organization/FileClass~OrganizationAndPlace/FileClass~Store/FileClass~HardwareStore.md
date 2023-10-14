@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/HardwareStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HardwareStore, is_a_/HardwareStore, schema-org/HardwareStore]
 tags: ["class/HardwareStore", "#is_a_/HardwareStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HardwareStore"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 
 # HardwareStore

@@ -6,7 +6,7 @@ icon: glasses
 version: 5
 tagNames: [class/Optician, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician, is_an_/Optician, schema-org/Optician]
 tags: ["class/Optician", "#is_an_/Optician", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~MedicalBusiness
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness
 ---
 
 # Optician

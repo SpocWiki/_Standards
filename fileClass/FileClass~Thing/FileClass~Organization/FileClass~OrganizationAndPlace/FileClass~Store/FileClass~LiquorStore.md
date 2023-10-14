@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/LiquorStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore, is_a_/LiquorStore, schema-org/LiquorStore]
 tags: ["class/LiquorStore", "#is_a_/LiquorStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/LiquorStore"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 
 # LiquorStore

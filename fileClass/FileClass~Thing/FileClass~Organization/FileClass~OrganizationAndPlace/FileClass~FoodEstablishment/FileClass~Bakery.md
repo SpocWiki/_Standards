@@ -6,7 +6,7 @@ icon: croissant
 version: 5
 tagNames: [class/Bakery, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Bakery, is_a_/Bakery, schema-org/Bakery]
 tags: ["class/Bakery", "#is_a_/Bakery", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Bakery"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FoodEstablishment
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
 ---
 
 # Bakery

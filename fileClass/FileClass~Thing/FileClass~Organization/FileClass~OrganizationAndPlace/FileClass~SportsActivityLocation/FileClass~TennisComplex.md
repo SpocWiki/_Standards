@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/TennisComplex, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/TennisComplex, is_a_/TennisComplex, schema-org/TennisComplex]
 tags: ["class/TennisComplex", "#is_a_/TennisComplex", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/TennisComplex"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~SportsActivityLocation
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation
 ---
 
 # TennisComplex

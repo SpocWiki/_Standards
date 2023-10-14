@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/BankOrCreditUnion, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion, is_a_/BankOrCreditUnion, schema-org/BankOrCreditUnion]
 tags: ["class/BankOrCreditUnion", "#is_a_/BankOrCreditUnion", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~FinancialService
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService
 ---
 
 # BankOrCreditUnion

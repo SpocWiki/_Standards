@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/DepartmentStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/DepartmentStore, is_a_/DepartmentStore, schema-org/DepartmentStore]
 tags: ["class/DepartmentStore", "#is_a_/DepartmentStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/DepartmentStore"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~Store
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 
 # DepartmentStore

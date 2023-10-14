@@ -6,7 +6,7 @@ icon: scale
 version: 5
 tagNames: [class/Notary, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Notary, is_a_/Notary, schema-org/Notary]
 tags: ["class/Notary", "#is_a_/Notary", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Notary"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~LegalService
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService
 ---
 
 # Notary

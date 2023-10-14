@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/AutoRepair, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRepair, is_an_/AutoRepair, schema-org/AutoRepair]
 tags: ["class/AutoRepair", "#is_an_/AutoRepair", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/AutoRepair"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~AutomotiveBusiness
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness
 ---
 
 # AutoRepair

@@ -6,7 +6,7 @@ icon: cable
 version: 5
 tagNames: [class/Electrician, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Electrician, is_an_/Electrician, schema-org/Electrician]
 tags: ["class/Electrician", "#is_an_/Electrician", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Electrician"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~HomeAndConstructionBusiness
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness
 ---
 
 # Electrician

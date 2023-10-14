@@ -6,7 +6,7 @@ icon: link-2
 version: 5
 tagNames: [class/StadiumOrArena, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation/StadiumOrArena, is_a_/StadiumOrArena, schema-org/StadiumOrArena]
 tags: ["class/StadiumOrArena", "#is_a_/StadiumOrArena", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation/StadiumOrArena"]
-extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation
+extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation
 ---
 
 # StadiumOrArena
