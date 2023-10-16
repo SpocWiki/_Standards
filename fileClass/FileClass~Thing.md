@@ -68,12 +68,13 @@ Indicates a potential Action, which describes an idealized action in which this 
 PotentialAction:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Action')"}}
 
 ### SameAs
-URL of a reference Web page that unambiguously indicates the item's identity. E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.
+URLs of one or more reference Web pages that unambiguously indicate the item's identity. 
+E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.
 
 SameAs:: {"type":"Input","options":{}}
 
 ### SubjectOf
-A CreativeWork or Event about this Thing.
+CreativeWorks or Events about this Thing.
 
 SubjectOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
