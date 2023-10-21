@@ -47,7 +47,7 @@ Basic Levels of Factuality are
 
 > A claim is a statement that one subject, such as a person or organization, makes about a subject. A claim is a debatable statement that an author manifests in a text or theoretical construction, so that the reader accepts it, something that not everyone will accept. 
 >
-> An objective claim is a statement about a factual matter-one that can be proved true or false.  A subjective claim is not a factual matter; it is an expression of belief, opinion, or personal preference, and cannot be proved right or wrong by any generally accepted criteria.
+> An objective claim is a statement about a factual matter-one that can be proved true or false.  A subjective claim is not a factual matter; it is an expression of belief, opinion, or personal preference, and can not be proved right or wrong by any generally accepted criteria.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Claim%20(philosophy))
 

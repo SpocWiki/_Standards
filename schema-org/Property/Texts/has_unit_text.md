@@ -37,7 +37,7 @@ Use it like this:
 - [ #has_/text_about/_unit_text :: Text ] or 
 - [ has_text_about_unit_text :: Text ] 
 
-A string or text indicating the unit of measurement. Useful if you cannot provide a standard unit code for
+A string or text indicating the unit of measurement. Useful if you can not provide a standard unit code for
 [unitCode](unitCode).
 
 Predicated describes that: 

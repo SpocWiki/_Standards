@@ -54,7 +54,7 @@ Subject to the terms and conditions of this License, Licensor hereby grants You 
 
 - **e.** For the avoidance of doubt:
 
- - **i.** **Non-waivable Compulsory License Schemes.** In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme cannot be waived, the Licensor reserves the exclusive right to collect such royalties for any exercise by You of the rights granted under this License;
+ - **i.** **Non-waivable Compulsory License Schemes.** In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme can not be waived, the Licensor reserves the exclusive right to collect such royalties for any exercise by You of the rights granted under this License;
 
  - **ii.** **Waivable Compulsory License Schemes.** In those jurisdictions in which the right to collect royalties through any statutory or compulsory licensing scheme can be waived, the Licensor waives the exclusive right to collect such royalties for any exercise by You of the rights granted under this License; and,
 

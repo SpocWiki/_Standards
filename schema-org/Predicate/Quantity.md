@@ -33,16 +33,42 @@ aliases:
 
 Class of all Quantities, i.e. measurable Values.
 
-Tag Instances like this: 
-#is_a_/quantity
-
-Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 kg' or '4 milligrams'.
+Quantities such as distance, time, mass, weight, etc. Particular instances of say Mass are entities like '3 kg' or '4 milligrams'. 
+Quantities must have a Unit (and often a Reference-Point), to be able to compare and operate on them. 
 
 [ #is_/sub_class_of :: [[../Class/is_a_/Intangible]] ]
 
 [ #has_/sub_classes :: [ Distance, Duration, Energy, Mass ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
+
+
+XML, Turtle and Json have dedicated Syntax to indicate the Language, but this can be extended to denote the Unit and Reference: 
+This has the Benefit that Translation becomes Conversion. 
+## Xml uses the xml:lang Attribute
+```xml
+    <rdf:value xml:lang="en">This is an English text.</rdf:value>
+```
+
+## Turtle has @lang Suffix 
+```turtle
+:example rdf:value "This is an English text."@en .
+```
+
+## JSON uses the reserved @language and @value Keys to encode an rdf:value 
+```json
+{
+  "@id": "#example",
+  "rdf:value": {
+    "@value": "This is an English text.",
+    "@language": "en"
+  }
+}
+```
+
+
+Tag Instances like this: 
+#is_a_/quantity
 
 
 

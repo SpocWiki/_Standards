@@ -62,7 +62,7 @@ The unit of measurement given using the UN/CEFACT Common Code (3 characters) or 
 UnitCode:: {"type":"Input","options":{}}
 
 ### UnitText
-A string or text indicating the unit of measurement. Useful if you cannot provide a standard unit code for  
+A string or text indicating the unit of measurement. Useful if you can not provide a standard unit code for  
  &lt;a href='unitCode'&gt;unitCode&lt;/a&gt;.
 
 UnitText:: {"type":"Input","options":{}}
