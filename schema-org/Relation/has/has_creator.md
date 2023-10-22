@@ -41,8 +41,7 @@ Relation describes that:
 ( #has_/name :: has_creator )
 ( #has_/range :: Organization, Person )
 
-[ #has_/sub_properties :: [ legislationPassedBy ] ]
-
+[ #has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ] ]
 
 
 ## Confidential Links & Embeds: 

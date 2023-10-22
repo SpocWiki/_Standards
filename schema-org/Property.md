@@ -32,8 +32,8 @@ aliases:
   - itemprop
   -
 ---
-# Property 
-
+# [[Property]] 
+#is_a_/class  . 
 This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range]]. 
 
 #class/Property 

@@ -21,6 +21,7 @@ aliases:
   - is_a_thing
   - rdfs:Resource
   - things
+  - sumo~Entity
 cssclasses:
   - Type
 title: is_a_thing Class
@@ -63,7 +64,11 @@ as the [[is_sub-class_of|subclass-of]] Relation allows to infer many other Class
 
 
 Tagging Instances like this is futile, because it is implied: 
-#is_a_/thing
+#is_a_/thing 
+
+#is_a_/class  
+
+
 
 Don't used this Class in a Relation, because it is too vague. Rather use 
 - [[is_instance_of]] for Objects or 
@@ -71,8 +76,7 @@ Don't used this Class in a Relation, because it is too vague. Rather use
 
 But this [#is_/instance_of :: [[../Class|Class]] ] 
 
-
-[ #is_/sub_class_of :: [[./Thing|Thing]] ] 
+There is no larger Class:  [ #is_/sub_class_of :: [[./Thing|Thing]] ]  
 
 #has_/sub_classes :: [[Class/is_a_/creative_work.md| "[[Action]], [[Class/is_a_/place.md|[Event]], [[Product]], [[stupid_Type]], [[Taxon]] ] 
 
@@ -102,3 +106,15 @@ either in the Frontmatter or anywhere in the Text.
 - [[../../_private/schema.org/Thing.private.md|Entity.private]] 
 - [[../../_personal/schema.org/Thing.personal.md|Entity.personal]] 
 - [[../../_secret/schema.org/Thing.secret.md|Entity.secret]] 
+
+
+```davaviewjs
+dv.pages('#class/Class')
+```
+
+
+```dataview
+LIST FROM #class/Class 
+SORT file.name  
+```
+

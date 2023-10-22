@@ -31,11 +31,12 @@ aliases:
 - is_a_data_type
 ---
 
-Class of all (basic) data types such as Integers, Strings, etc.
+Class of all (basic) data types used in [[../../../../_public/schema.org/Predicate/Quantities]] such as Integers, Strings, etc.
 #class/data_type
 
 
 Tag Instances like this: 
+
 #is_a_/data_type
 
 [ #is_/sub_class_of :: [[../../Class|Class]] ]

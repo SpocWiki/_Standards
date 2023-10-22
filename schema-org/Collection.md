@@ -23,7 +23,8 @@ aliases:
   - is_a_collection
   - container
 ---
-
+# [[Collection]]
+#is_a_/class  . 
 #class/Collection is the Base-Class of all (mutable, finite, at most countable) collections with untyped [Items](../../../Collection/Item.md).
 It is the Object of the [[Collection/is_item_in|is_item_in]] Relation from the [[Collection/Item|Item]] to the  [[Collection]]
 
@@ -38,7 +39,7 @@ They can be at most countable, but to allow for Mathematical Induction,
 they also need to be finitely typed (to allow a finite switch-Statement). 
 
 Tag Instances like this: 
-#is_a_/collection
+#is_a_/collection 
 
 [ #is_/part_of :: https://bib.schema.org ]
 

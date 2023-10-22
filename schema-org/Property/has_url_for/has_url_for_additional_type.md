@@ -24,19 +24,21 @@ aliases:
   - additionalType
   - has_url_for_additional_type
   - rdf:type
+  - rdf~Type
 ---
 
-Predicate to specify the Url of Thing.
+Predicate to specify the Type/Class-Url of a Thing, equivalent to rdf:type.
+An additional type for the item, 
+typically used for adding more specific types from external vocabularies in microdata syntax. 
+
+This is a relationship between the Subject and a class that the thing is in. 
+In RDFa syntax, it is better to use the native RDFa syntax - the 'typeof' attribute - for multiple types. 
+Schema.org tools may have only weaker understanding of extra types, in particular those defined externally.
+
 
 Use it like this: 
 - [ #has_/url_for_/additional_type :: URL ] or 
 - [ has_url_for_additional_type :: URL ] 
-
-An additional type for the item, 
-typically used for adding more specific types from external vocabularies in microdata syntax. 
-This is a relationship between the Subject and a class that the thing is in. 
-In RDFa syntax, it is better to use the native RDFa syntax - the 'typeof' attribute - for multiple types. 
-Schema.org tools may have only weaker understanding of extra types, in particular those defined externally.
 
 Predicate describes that: 
 [ #has_/domain  :: [[../../Class/Thing]] ]

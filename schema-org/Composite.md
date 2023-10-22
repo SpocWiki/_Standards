@@ -23,8 +23,9 @@ aliases:
   - Aggregate
 ---
 
-
-The Composite is assembled from [[Composite/Part|Part]]s. 
+# [[Composite]]
+#is_a_/class  
+The Composite is assembled from [[Composite/Part|Part]]s AKA Components. 
 It is the Object of the [is_part_of](Composite/is_part_of.md) Relation from the [[Composite/Part|Part]]s. 
 
 #class/Composite 

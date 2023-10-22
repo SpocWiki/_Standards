@@ -24,7 +24,9 @@ tags:
 
 ---
 
-# Predicate Overview
+# [[Predicate]] 
+
+#is_a_/class  
 
 Class of Predicates; adds [[Property|Properties]] or [[Relation|Relations]] to Notes in the Form of Key: Value Pairs, 
 - either in the Front-Matter [[Property|property]]
@@ -32,6 +34,7 @@ Class of Predicates; adds [[Property|Properties]] or [[Relation|Relations]] to N
 These Pairs form Connections/Sentences between the current Note (as the Subject), the Key (as the Verb/Predicate) and the Object (or Value).
 
 #class/Predicate 
+has_range:: [[Class/is_a_/data_type]] 
 
 These S-P-O (Subject-Predicate-Object) Triples are also known as Claims. 
 The current Document/Note is always the (implied) Subject of a Relation or Property/Quantity. 

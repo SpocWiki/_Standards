@@ -16,10 +16,11 @@ aliases:
 
 ---
 
-# Relation
+# [[Relation]] 
+#is_a_/class  . 
 
 A [Relation](Relation.md) connects one [[Class/Thing|Thing]] to another. 
-A [Quantity](Property.md) connects a Scalar Value to an Entity. 
+A [Quantity](Property.md) connects a Scalar [[data_valu]] to an Entity. 
 [Property](Property.md) unifies both. 
 
 Flags start with #is_/ or #is_not_/ 

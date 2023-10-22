@@ -40,7 +40,7 @@ aliases:
 # Class / Type 
 
 The single Meta-Class of all [Classes](../../../Classes.md).
-The Type 'class', also often called a 'Type'; equivalent to rdfs:Class.
+The Type 'class', AKA 'Type'; equivalent to [[Property/has_url_for/has_url_for_additional_type|rdf~type]]  
 
 Types are classes of  Entities/Objects with Identity and defined Properties. 
 Types can be used to represent Sets of similar/substitutable Entities. 

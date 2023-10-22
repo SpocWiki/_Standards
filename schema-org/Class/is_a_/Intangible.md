@@ -31,12 +31,16 @@ aliases:
 - is_an_intangible
 ---
 
-Class of all intangibles.
+A utility class that serves as the umbrella for a number of 'intangible'  AKA 'abstract' things such as [Quantities](../../Predicate/Quantity.md), [Structured Values](Intangible/structured_value.md), etc.
+
+This is also a common category in most other Upper-Level Ontologies like [[cyc~Intangible]] and [[sumo~Abstract]] from [[../../../../Knowledge/Ontology/SUMO(Suggested_Upper_Merged_Ontology)]] 
+
+Intangibles have no Time and Space Properties, because they could exist universally, in any computational Structure or symbolic Storage. 
+Ideas are concrete Instances of Intangibles and these have definite Origins in Time (when the first Person thought of it) and Space (the Head of the Person). 
+These Properties are added only by the Sibling Concepts of [[place]] and [[event]] . 
 
 Tag Instances like this: 
 #is_an_/intangible
-
-A utility class that serves as the umbrella for a number of 'intangible' things such as [Quantities](../../Predicate/Quantity.md), [Structured Values](Intangible/structured_value.md), etc.
 
 [ #is_/sub_class_of :: [[../Thing|Thing]] ] 
 

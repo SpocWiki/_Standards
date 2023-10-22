@@ -37,8 +37,9 @@ Use it like this:
 - [ has_founder :: Person ] 
 
 A person who founded this organization.
+#is_/sub_relation_of :: [[has_creator]]
 
-Relation describes that: 
+Relation describes that:  
 [ #has_/domain  :: Organization ]
 ( #has_/name :: has_founder )
 ( #has_/range :: Person )
