@@ -1,36 +1,32 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_date Class
 linkTitle: is_a_date Class
-
-keywords: [date]
+keywords:
+  - date
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 aliases:
-- date
-- date
-- Date
-- is_a_date
+  - date
+  - date
+  - Date
+  - is_a_date
 ---
 
+# [[date]] 
 Class of all dates.
 
 Tag Instances like this: 

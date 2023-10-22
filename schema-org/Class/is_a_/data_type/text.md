@@ -1,35 +1,31 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_text Class
 linkTitle: is_a_text Class
-
-keywords: [text]
+keywords:
+  - text
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 aliases:
-- text
-- text
-- Text
-- is_a_text
+  - text
+  - text
+  - Text
+  - is_a_text
 ---
+# [[text]] 
 
 Class of all texts.
 

@@ -13,7 +13,8 @@ extends: FileClass~Thing
 This is a kind of [[FileClass~Thing]]
 
 A utility class that serves as the umbrella for a number of 'intangible' things such as quantities, structured values, etc.
-
+This is the Schema to the [[../../schema-org/Class/is_a_/Intangible|Intangible]] Class. 
+![[../../schema-org/Class/is_a_/Intangible|Intangible]] 
 
 ## Use one of these Tags for Objects of this Type:
 

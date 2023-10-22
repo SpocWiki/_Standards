@@ -1,36 +1,31 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_number Class
 linkTitle: is_a_number Class
-
-keywords: [number]
+keywords:
+  - number
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 aliases:
-- number
-- number
-- Number
-- is_a_number
+  - number
+  - number
+  - Number
+  - is_a_number
 ---
-
+# [[number]] 
 Class of all numbers.
 
 Tag Instances like this: 

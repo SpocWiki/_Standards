@@ -16,6 +16,7 @@ publishDate:
 expiryDate: 
 tags:
   - schema-org/Composite
+  - class/Class
 aliases:
   - Composite
   - Assembly

@@ -1,36 +1,32 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_url Class
 linkTitle: is_a_url Class
-
-keywords: [url]
+keywords:
+  - url
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 aliases:
-- url
-- url
-- URL
-- is_a_url
+  - url
+  - url
+  - URL
+  - is_a_url
 ---
 
+# [[url]] 
 Class of all urls.
 
 Tag Instances like this: 

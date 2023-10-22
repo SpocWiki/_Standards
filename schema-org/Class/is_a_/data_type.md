@@ -34,7 +34,6 @@ aliases:
 Class of all (basic) data types used in [[../../../../_public/schema.org/Predicate/Quantities]] such as Integers, Strings, etc.
 #class/data_type
 
-
 Tag Instances like this: 
 
 #is_a_/data_type

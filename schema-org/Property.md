@@ -33,7 +33,11 @@ aliases:
   -
 ---
 # [[Property]] 
-#is_a_/class  . 
+#is_a_/class  
+has_range:: [[Class/is_a_/data_type]]
+has_domain:: [[Class/Thing]]
+
+
 This is the Type of all Properties that map a [[rdfs:Domain]] to an [[rdfs:Range]]. 
 
 #class/Property 

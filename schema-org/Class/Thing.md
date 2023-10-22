@@ -6,8 +6,8 @@ confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - class/Thing
   - schema-org/Class
+  - class/Class
 aliases:
   - Object
   - Thing

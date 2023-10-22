@@ -1,35 +1,32 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_pronounceable_text Class
 linkTitle: is_a_pronounceable_text Class
-
-keywords: [pronounceable_text]
+keywords:
+  - pronounceable_text
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 aliases:
-- pronounceable-text
-- pronounceable_text
-- PronounceableText
-- is_a_pronounceable_text
+  - pronounceable-text
+  - pronounceable_text
+  - PronounceableText
+  - is_a_pronounceable_text
 ---
+
+# [[pronounceable_text]] 
 
 Class of all pronounceable_texts.
 

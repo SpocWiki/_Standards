@@ -1,35 +1,32 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_x_path_type Class
 linkTitle: is_a_x_path_type Class
-
-keywords: [x_path_type]
+keywords:
+  - x_path_type
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 aliases:
-- x-path-type
-- x_path_type
-- XPathType
-- is_a_x_path_type
+  - x-path-type
+  - x_path_type
+  - XPathType
+  - is_a_x_path_type
 ---
+
+# [[x_path_type]] 
 
 Class of all x_path_types.
 

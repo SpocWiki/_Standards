@@ -1,35 +1,32 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_time Class
 linkTitle: is_a_time Class
-
-keywords: [time]
+keywords:
+  - time
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 aliases:
-- time
-- time
-- Time
-- is_a_time
+  - time
+  - time
+  - Time
+  - is_a_time
 ---
+
+# [[time]] 
 
 Class of all times.
 

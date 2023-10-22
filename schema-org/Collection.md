@@ -17,6 +17,7 @@ publishDate:
 expiryDate: 
 tags:
   - schema-org/Class
+  - class/Class
 aliases:
   - collection
   - Collection

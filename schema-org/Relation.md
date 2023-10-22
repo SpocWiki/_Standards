@@ -18,6 +18,8 @@ aliases:
 
 # [[Relation]] 
 #is_a_/class  . 
+has_range:: [[Class/Thing]]
+has_domain:: [[Class/Thing]]
 
 A [Relation](Relation.md) connects one [[Class/Thing|Thing]] to another. 
 A [Quantity](Property.md) connects a Scalar [[data_valu]] to an Entity. 

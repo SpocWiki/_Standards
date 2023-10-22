@@ -1,35 +1,31 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_css_selector_type Class
 linkTitle: is_a_css_selector_type Class
-
-keywords: [css_selector_type]
+keywords:
+  - css_selector_type
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 aliases:
-- css-selector-type
-- css_selector_type
-- CssSelectorType
-- is_a_css_selector_type
+  - css-selector-type
+  - css_selector_type
+  - CssSelectorType
+  - is_a_css_selector_type
 ---
+# [[css_selector_type]] 
 
 Class of all css_selector_types.
 

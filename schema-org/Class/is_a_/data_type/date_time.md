@@ -1,35 +1,32 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_date_time Class
 linkTitle: is_a_date_time Class
-
-keywords: [date_time]
+keywords:
+  - date_time
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/data_type
 aliases:
-- date-time
-- date_time
-- DateTime
-- is_a_date_time
+  - date-time
+  - date_time
+  - DateTime
+  - is_a_date_time
 ---
+﻿
+# [[date_time]] 
 
 Class of all date_times.
 
