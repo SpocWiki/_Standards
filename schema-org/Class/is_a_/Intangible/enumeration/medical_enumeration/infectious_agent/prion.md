@@ -1,42 +1,39 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_prion Class
 linkTitle: is_a_prion Class
-
-keywords: [prion]
+keywords:
+  - prion
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 enumerationtype: InfectiousAgentClass
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
 aliases:
-- prion
-- prion
-- Prion
-- is_a_prion
+  - prion
+  - prion
+  - Prion
+  - is_a_prion
 ---
 
+# [[prion]] 
 Class of all prions.
 
 Tag Instances like this: 
 #is_a_/prion
+#is_an_/infectious_agent
+
 
 A prion is an infectious agent composed of protein in a misfolded form.
 

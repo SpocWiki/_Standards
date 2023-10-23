@@ -3,32 +3,27 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_an_intangible Class
 linkTitle: is_an_intangible Class
-
-keywords: [intangible]
+keywords:
+  - intangible
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
 aliases:
-- intangible
-- intangible
-- Intangible
-- is_an_intangible
+  - intangible
+  - intangible
+  - Intangible
+  - is_an_intangible
+  - Abstraction
 ---
 
 A utility class that serves as the umbrella for a number of 'intangible'  AKA 'abstract' things such as [Quantities](../../Predicate/Quantity.md), [Structured Values](Intangible/structured_value.md), etc.
@@ -36,7 +31,7 @@ A utility class that serves as the umbrella for a number of 'intangible'  AKA 'a
 This is also a common category in most other Upper-Level Ontologies like [[cyc~Intangible]] and [[sumo~Abstract]] from [[../../../../Knowledge/Ontology/SUMO(Suggested_Upper_Merged_Ontology)]] 
 
 Intangibles have no Time and Space Properties, because they could exist universally, in any computational Structure or symbolic Storage. 
-Ideas are concrete Instances of Intangibles and these have definite Origins in Time (when the first Person thought of it) and Space (the Head of the Person). 
+Ideas are concrete Instances of Intangibles and these have definite Origins in Time (when the first Person thought of it), Space (the Head of the Person) and Creators but rarely Destructors. 
 These Properties are added only by the Sibling Concepts of [[place]] and [[event]] . 
 
 Tag Instances like this: 

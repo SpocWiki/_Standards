@@ -36,7 +36,7 @@ Predicate to describe the date of CreativeWork, DataFeedItem.
 
 Use it like this: 
 - [has_date_created::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_created::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/created::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date on which the CreativeWork was created or the item was added to a DataFeed.
 

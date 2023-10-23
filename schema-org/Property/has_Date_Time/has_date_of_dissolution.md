@@ -36,7 +36,7 @@ Predicate to describe the date of Organization.
 
 Use it like this: 
 - [has_date_of_dissolution::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_of_dissolution::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/of_dissolution::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date that this organization was dissolved.
 

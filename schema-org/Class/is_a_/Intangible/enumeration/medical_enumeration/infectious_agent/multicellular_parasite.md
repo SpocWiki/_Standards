@@ -1,42 +1,37 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_multicellular_parasite Class
 linkTitle: is_a_multicellular_parasite Class
-
-keywords: [multicellular_parasite]
+keywords:
+  - multicellular_parasite
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 enumerationtype: InfectiousAgentClass
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
 aliases:
-- multicellular-parasite
-- multicellular_parasite
-- MulticellularParasite
-- is_a_multicellular_parasite
+  - multicellular-parasite
+  - multicellular_parasite
+  - MulticellularParasite
+  - is_a_multicellular_parasite
 ---
-
+# [[multicellular_parasite]] 
 Class of all multicellular_parasites.
 
 Tag Instances like this: 
 #is_a_/multicellular_parasite
+#is_an_/infectious_agent
 
 Multicellular parasite that causes an infection.
 

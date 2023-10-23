@@ -36,7 +36,7 @@ Predicate to describe the date of Vehicle.
 
 Use it like this: 
 - [has_date_vehicle_first_registered::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_vehicle_first_registered::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/vehicle_first_registered::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date of the first registration of the vehicle with the respective public authorities.
 

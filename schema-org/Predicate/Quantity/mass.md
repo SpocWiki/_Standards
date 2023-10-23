@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,12 +31,13 @@ aliases:
 - is_a_mass
 ---
 
-Class of all masss.
+# [[mass]] 
+Class of all mass-values.
 
 Tag Instances like this: 
 #is_a_/mass
 
-Properties that take Mass as values are of the form '&lt;Number&gt; &lt;Mass unit of measure&gt;'. E.g., '7 kg'.
+Properties that take Mass as values are of the form '[[../../Class/is_a_/data_type/number|number]] &lt;Mass unit of measure&gt;'. E.g., '7 kg'.
 
 [ #is_/sub_class_of :[[../Quantity]]]] ]
 

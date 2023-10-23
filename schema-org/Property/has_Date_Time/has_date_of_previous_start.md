@@ -36,7 +36,7 @@ Predicate to describe the date of Event.
 
 Use it like this: 
 - [has_date_of_previous_start::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_of_previous_start::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/of_previous_start::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Used in conjunction with eventStatus for rescheduled or cancelled events. This property contains the previously scheduled start date. For rescheduled events, the startDate property should be used for the newly scheduled start date. In the (rare) case of an event that has been postponed and rescheduled multiple times, this field may be repeated.
 

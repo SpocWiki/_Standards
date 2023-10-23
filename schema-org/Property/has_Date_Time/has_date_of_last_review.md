@@ -36,7 +36,7 @@ Predicate to describe the date of WebPage.
 
 Use it like this: 
 - [has_date_of_last_review::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_of_last_review::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/of_last_review::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Date on which the content on this web page was last reviewed for accuracy and/or completeness.
 

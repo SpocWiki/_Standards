@@ -33,9 +33,7 @@ Class of all date_times.
 Tag Instances like this: 
 #is_a_/date_time
 
-A combination of date and time of day in the form [-]CCYY-MM-DDThh:mm:ss[Z|(+|-)hh:mm] (see Chapter 5.4 of ISO 8601).
-
-
+A combination of date and time of day in the form (-)?CCYY-MM-DDThh:mm:ss(Z|(+|-)hh:mm) (see Chapter 5.4 of ISO 8601).
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/data_type/date_time.md|date_time]] 

@@ -1,42 +1,39 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_fungus Class
 linkTitle: is_a_fungus Class
-
-keywords: [fungus]
+keywords:
+  - fungus
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 enumerationtype: InfectiousAgentClass
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
 aliases:
-- fungus
-- fungus
-- Fungus
-- is_a_fungus
+  - fungus
+  - fungus
+  - Fungus
+  - is_a_fungus
 ---
+﻿
 
-Class of all funguss.
+# [[fungus]] 
+Class of all fungi.
 
 Tag Instances like this: 
 #is_a_/fungus
+#is_an_/infectious_agent
 
 Pathogenic fungus.
 

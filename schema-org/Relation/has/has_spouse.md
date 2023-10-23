@@ -38,7 +38,7 @@ The person's spouse.
 
 Relation describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: is_spouse )
+( #has_/name :: has_spouse )
 ( #has_/range :: Person )
 
 

@@ -1,42 +1,37 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_protozoa Class
 linkTitle: is_a_protozoa Class
-
-keywords: [protozoa]
+keywords:
+  - protozoa
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 enumerationtype: InfectiousAgentClass
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
 aliases:
-- protozoa
-- protozoa
-- Protozoa
-- is_a_protozoa
+  - protozoa
+  - protozoa
+  - Protozoa
+  - is_a_protozoa
 ---
-
+# [[protozoa]] 
 Class of all protozoas.
 
 Tag Instances like this: 
 #is_a_/protozoa
+#is_an_/infectious_agent
 
 Single-celled organism that causes an infection.
 

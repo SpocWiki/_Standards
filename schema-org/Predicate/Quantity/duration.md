@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -30,6 +30,8 @@ aliases:
 - Duration
 - is_a_duration
 ---
+
+# [[duration]] 
 
 Class of all durations.
 

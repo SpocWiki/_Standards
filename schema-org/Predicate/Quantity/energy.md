@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,7 +31,9 @@ aliases:
 - is_an_energy
 ---
 
-Class of all energys.
+# [[energy]] 
+
+Class of all energy-values.
 
 Tag Instances like this: 
 #is_an_/energy

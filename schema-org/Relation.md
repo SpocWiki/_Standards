@@ -5,25 +5,22 @@ publish: true
 confidential: public
 isDeleted: false
 isReadOnly: false
-
 tags:
-- class/Relation
-- schema-org/Relation
-
-aliases:
-- Quantity
-- 
-
+  - class/Relation
+  - schema-org/Relation
+aliases: []
 ---
 
 # [[Relation]] 
+
 #is_a_/class  . 
 has_range:: [[Class/Thing]]
 has_domain:: [[Class/Thing]]
 
 A [Relation](Relation.md) connects one [[Class/Thing|Thing]] to another. 
-A [Quantity](Property.md) connects a Scalar [[data_valu]] to an Entity. 
-[Property](Property.md) unifies both. 
+A [Quantity](Quantity.md) connects a Scalar [[data_val]] to an Entity.  
+[[Predicate]] unifies both. 
+[Property](Property.md) 
 
 Flags start with #is_/ or #is_not_/ 
 in contrast to Relations which start with #is_/ or #has_/ 

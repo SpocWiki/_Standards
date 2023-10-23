@@ -36,7 +36,7 @@ Predicate to describe the date of CDCPMDRecord.
 
 Use it like this: 
 - [has_date_of_cvd_collection::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_of_cvd_collection::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/of_cvd_collection::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 collectiondate - Date for which patient counts are reported.
 

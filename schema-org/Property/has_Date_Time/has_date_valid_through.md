@@ -36,7 +36,7 @@ Predicate to describe the date of Demand, JobPosting, LocationFeatureSpecificati
 
 Use it like this: 
 - [has_date_valid_through::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_valid_through::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/valid_through::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date after when the item is not valid. For example the end of an offer, salary period, or a period of opening hours.
 

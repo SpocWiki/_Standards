@@ -36,7 +36,7 @@ Predicate to describe the date of ParcelDelivery.
 
 Use it like this: 
 - [has_date_of_expected_arrival_until::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_of_expected_arrival_until::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/of_expected_arrival_until::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The latest date the package may arrive.
 

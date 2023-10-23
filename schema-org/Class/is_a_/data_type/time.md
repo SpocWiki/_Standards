@@ -28,12 +28,12 @@ aliases:
 
 # [[time]] 
 
-Class of all times.
+Class of all time-durations.
 
 Tag Instances like this: 
 #is_a_/time
 
-A point in time recurring on multiple days in the form hh:mm:ss[Z|(+|-)hh:mm] (see <a href="http://www.w3.org/TR/xmlschema-2/#time">XML schema for details</a>).
+A point in time recurring on multiple days in the form hh:mm:ss(Z|(+|-)hh:mm) (see <a href="http://www.w3.org/TR/xmlschema-2/#time">XML schema for details</a>).
 
 
 

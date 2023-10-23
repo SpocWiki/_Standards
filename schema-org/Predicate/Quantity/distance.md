@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,6 +31,7 @@ aliases:
 - is_a_distance
 ---
 
+# [[distance]] 
 Class of all distances.
 
 Tag Instances like this: 

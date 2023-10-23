@@ -36,7 +36,7 @@ Predicate to describe the date of Message.
 
 Use it like this: 
 - [has_date_sent::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_sent::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/sent::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date/time at which the message was sent.
 

@@ -52,7 +52,7 @@ Semantic Graphs are much richer and allow for automated inference of Information
 	* Counts: integer Cardinals and Ordinals start with #has_/number_of/_  
 	* Quantities: continuous float-point Values (often 1-dimensional Scalars) start with #has_/value_for/_ 
 	* geographic Objects: start with #has_/geo/_ but also 2D and 3D Vectors for Locations 
-	* Date and Time: are written in ISO Format with Tags like #has_/date/_ .  Missing Time indicates Noon; missing Date indicates a periodic Event
+	* Date and Time: are written in ISO Format with Tags like #has_/date_/ .  Missing Time indicates Noon; missing Date indicates a periodic Event
 	* Durations: start with #has_/duration/_ and are specified using the ISO-Notation P#Y#M#DT#H#M#S.### 
 	* Urls: usually specify Web-Addresses using #has_/url_for_/, but may also be URIs which are only (unique) Identifiers 
 	* Flags: Tags are Boolean Properties/Attribute and can be applied using #is_/ or #is_not_/  

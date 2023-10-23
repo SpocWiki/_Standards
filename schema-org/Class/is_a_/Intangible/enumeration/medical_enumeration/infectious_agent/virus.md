@@ -1,42 +1,37 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_virus Class
 linkTitle: is_a_virus Class
-
-keywords: [virus]
+keywords:
+  - virus
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 enumerationtype: InfectiousAgentClass
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
 aliases:
-- virus
-- virus
-- Virus
-- is_a_virus
+  - virus
+  - virus
+  - Virus
+  - is_a_virus
 ---
-
+# [[virus]] 
 Class of all viruss.
 
 Tag Instances like this: 
 #is_a_/virus
+#is_an_/infectious_agent
 
 Pathogenic virus that causes viral infection.
 

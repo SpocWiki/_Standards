@@ -36,7 +36,7 @@ Predicate to describe the date of Product.
 
 Use it like this: 
 - [has_date_of_release::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_of_release::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/of_release::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The release date of a product or product model. This can be used to distinguish the exact variant of a product.
 

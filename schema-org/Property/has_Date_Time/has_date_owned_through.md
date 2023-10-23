@@ -36,7 +36,7 @@ Predicate to describe the date of OwnershipInfo.
 
 Use it like this: 
 - [has_date_owned_through::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date/_owned_through::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/date_/owned_through::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date and time of giving up ownership on the product.
 

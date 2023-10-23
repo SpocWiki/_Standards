@@ -1,42 +1,39 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_bacteria Class
 linkTitle: is_a_bacteria Class
-
-keywords: [bacteria]
+keywords:
+  - bacteria
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 enumerationtype: InfectiousAgentClass
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
 aliases:
-- bacteria
-- bacteria
-- Bacteria
-- is_a_bacteria
+  - bacteria
+  - bacteria
+  - Bacteria
+  - is_a_bacteria
 ---
 
-Class of all bacterias.
+# [[bacteria]] 
+
+Class of all bacteria.
 
 Tag Instances like this: 
 #is_a_/bacteria
+#is_an_/infectious_agent
 
 Pathogenic bacteria that cause bacterial infection.
 

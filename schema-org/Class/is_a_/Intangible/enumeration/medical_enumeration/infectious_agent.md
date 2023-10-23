@@ -1,40 +1,38 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_an_infectious_agent_class Class
 linkTitle: is_an_infectious_agent_class Class
-
-keywords: [infectious_agent_class]
+keywords:
+  - infectious_agent_class
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
+  - class/infectious_agent
 aliases:
-- infectious-agent-class
-- infectious_agent_class
-- InfectiousAgentClass
-- is_an_infectious_agent_class
+  - infectious-agent-class
+  - infectious_agent_class
+  - InfectiousAgentClass
+  - is_an_infectious_agent_class
 ---
 
-Class of all infectious_agent_classs.
+# [[infectious_agent]] 
+
+Class of all [[infectious_agent]]s.
 
 Tag Instances like this: 
-#is_an_/infectious_agent_class
+#is_an_/infectious_agent
+#class/infectious_agent 
 
 Classes of agents or pathogens that transmit infectious diseases. Enumerated type.
 
