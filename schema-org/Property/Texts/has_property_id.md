@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of PropertyValue.
 
 Use it like this: 
-- [ #has_/text_about/_property_id :: Text, URL ] or 
+- [ #has_/text_about_/property_id :: Text, URL ] or 
 - [ has_text_about_property_id :: Text, URL ] 
 
 A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be

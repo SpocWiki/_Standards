@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of DrugStrength.
 
 Use it like this: 
-- [ #has_/value_for/_strength_value :: Number ] or 
+- [ #has_/value_for_/strength_value :: Number ] or 
 - [ has_value_for_strength_value :: Number ] 
 
 The value of an active ingredient's strength, e.g. 325.

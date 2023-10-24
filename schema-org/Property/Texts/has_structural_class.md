@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Joint.
 
 Use it like this: 
-- [ #has_/text_about/_structural_class :: Text ] or 
+- [ #has_/text_about_/structural_class :: Text ] or 
 - [ has_text_about_structural_class :: Text ] 
 
 The name given to how bone physically connects to each other.

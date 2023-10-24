@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of PeopleAudience.
 
 Use it like this: 
-- [ #has_/text_about/_required_gender :: Text ] or 
+- [ #has_/text_about_/required_gender :: Text ] or 
 - [ has_text_about_required_gender :: Text ] 
 
 Audiences defined by a person"s gender.

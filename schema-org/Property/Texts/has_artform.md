@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- [ #has_/text_about/_artform :: Text, URL ] or 
+- [ #has_/text_about_/artform :: Text, URL ] or 
 - [ has_text_about_artform :: Text, URL ] 
 
 e.g. Painting, Drawing, Sculpture, Print, Photograph, Assemblage, Collage, etc.

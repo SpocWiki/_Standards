@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of HowTo.
 
 Use it like this: 
-- [ #has_/value_for/_yield :: QuantitativeValue, Text ] or 
+- [ #has_/value_for_/yield :: QuantitativeValue, Text ] or 
 - [ has_value_for_yield :: QuantitativeValue, Text ] 
 
 The quantity that results by performing instructions. For example, a paper airplane, 10 personalized candles.

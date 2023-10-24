@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of FoodEstablishment, LodgingBusiness.
 
 Use it like this: 
-- [ #has_/value_for/_star_rating_stars :: Rating ] or 
+- [ #has_/value_for_/star_rating_stars :: Rating ] or 
 - [ has_value_for_star_rating_stars :: Rating ] 
 
 An official rating for a lodging business or food establishment, e.g. from national associations or standards bodies. Use the author property to indicate the rating organization, e.g. as an Organization with name such as (e.g. HOTREC, DEHOGA, WHR, or Hotelstars).

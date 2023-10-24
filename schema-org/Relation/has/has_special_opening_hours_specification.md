@@ -34,7 +34,7 @@ Use it like this:
 - [ #has_/special_opening_hours_specification :: OpeningHoursSpecification ] or 
 - [ has_special_opening_hours_specification :: OpeningHoursSpecification ] 
 
-The special opening hours of a certain place.&lt;br/&gt;&lt;br/&gt;
+The special opening hours of a certain place.\n\n\n\n
 
 Use this to explicitly override general opening hours brought in scope by [[openingHoursSpecification]] or [[openingHours]].
 

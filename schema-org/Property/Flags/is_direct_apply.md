@@ -34,7 +34,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is/_direct_apply 
+#is_/direct_apply 
 #is_not_/direct_apply 
 
 Or write it as a Triple: 

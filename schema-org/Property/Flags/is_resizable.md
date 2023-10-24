@@ -34,7 +34,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is/_resizable 
+#is_/resizable 
 #is_not_/resizable 
 
 Or write it as a Triple: 

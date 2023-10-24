@@ -36,7 +36,7 @@ Predicate to describe the Duration of HowTo, HowToDirection.
 
 Use it like this: 
 - [has_duration_total::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/duration/_total::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/duration_/total::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The total time required to perform instructions or a direction (including time to prepare the supplies), in [ISO 8601 duration format](http://en.wikipedia.org/wiki/ISO_8601).
 

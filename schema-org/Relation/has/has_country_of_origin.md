@@ -34,9 +34,9 @@ Use it like this:
 - [ #has_/country_of_origin :: Country ] or 
 - [ has_country_of_origin :: Country ] 
 
-The country of origin of something, including products as well as creative  works such as movie and TV content.&lt;br/&gt;&lt;br/&gt;
+The country of origin of something, including products as well as creative  works such as movie and TV content.\n\n\n\n
 
-In the case of TV and movie, this would be the country of the principle offices of the production company or individual responsible for the movie. For other kinds of [[CreativeWork]] it is difficult to provide fully general guidance, and properties such as [[contentLocation]] and [[locationCreated]] may be more applicable.&lt;br/&gt;&lt;br/&gt;
+In the case of TV and movie, this would be the country of the principle offices of the production company or individual responsible for the movie. For other kinds of [[CreativeWork]] it is difficult to provide fully general guidance, and properties such as [[contentLocation]] and [[locationCreated]] may be more applicable.\n\n\n\n
 
 In the case of products, the country of origin of the product. The exact interpretation of this may vary by context and product type, and can not be fully enumerated here.
 

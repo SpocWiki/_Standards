@@ -34,7 +34,7 @@ Use it like this:
 - [ #has_/educational_alignment :: AlignmentObject ] or 
 - [ has_educational_alignment :: AlignmentObject ] 
 
-An alignment to an established educational framework.&lt;br/&gt;&lt;br/&gt;
+An alignment to an established educational framework.\n\n\n\n
 
 This property should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource [[teaches]] or [[assesses]] a competency.
 

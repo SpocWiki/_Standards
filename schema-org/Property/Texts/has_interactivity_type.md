@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_about/_interactivity_type :: Text ] or 
+- [ #has_/text_about_/interactivity_type :: Text ] or 
 - [ has_text_about_interactivity_type :: Text ] 
 
 The predominant mode of learning supported by the learning resource. Acceptable values are "active", "expositive", or "mixed".

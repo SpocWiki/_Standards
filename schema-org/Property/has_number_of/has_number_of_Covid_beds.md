@@ -36,7 +36,7 @@ Predicate to describe the Number of CDCPMDRecord.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number_of/_Covid_beds :: Number ] or 
+- [ #has_/number_of_/Covid_beds :: Number ] or 
 - [ has_number_of_Covid_beds :: Number ] 
 
 numbeds - HOSPITAL INPATIENT BEDS: Inpatient beds, including all staffed, licensed, and overflow (surge) beds used for inpatients.

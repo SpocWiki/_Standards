@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of Game, VideoGameSeries.
 
 Use it like this: 
-- [ #has_/geo/_game_location :: Place, PostalAddress, URL ] or 
+- [ #has_/geo_/game_location :: Place, PostalAddress, URL ] or 
 - [ has_geo_game_location :: Place, PostalAddress, URL ] 
 
 Real or fictional location of the game (or part of game).

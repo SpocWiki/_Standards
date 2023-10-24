@@ -36,12 +36,12 @@ Predicate to describe the Text of Movie, TVEpisode.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_title_eidr :: Text, URL ] or 
+- [ #has_/text_about_/title_eidr :: Text, URL ] or 
 - [ has_text_about_title_eidr :: Text, URL ] 
 
-An [EIDR](https://eidr.org/) (Entertainment Identifier Registry) [[identifier]] representing at the most general/abstract level, a work of film or television.&lt;br/&gt;&lt;br/&gt;
+An [EIDR](https://eidr.org/) (Entertainment Identifier Registry) [[identifier]] representing at the most general/abstract level, a work of film or television.\n\n\n\n
 
-For example, the motion picture known as "Ghostbusters" has a titleEIDR of  "10.5240/7EC7-228A-510A-053E-CBB8-J". This title (or work) may have several variants, which EIDR calls "edits". See [[editEIDR]].&lt;br/&gt;&lt;br/&gt;
+For example, the motion picture known as "Ghostbusters" has a titleEIDR of  "10.5240/7EC7-228A-510A-053E-CBB8-J". This title (or work) may have several variants, which EIDR calls "edits". See [[editEIDR]].\n\n\n\n
 
 Since schema.org types like [[Movie]] and [[TVEpisode]] can be used for both works and their multiple expressions, it is possible to use [[titleEIDR]] alone (for a general description), or alongside [[editEIDR]] for a more edit-specific description.
 

@@ -36,11 +36,11 @@ Predicate to describe the Quantity of Vehicle.
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has_/value_for/_acceleration_time :: QuantitativeValue ] or 
+- [ #has_/value_for_/acceleration_time :: QuantitativeValue ] or 
 - [ has_value_for_acceleration_time :: QuantitativeValue ] 
 
-The time needed to accelerate the vehicle from a given start velocity to a given target velocity.&lt;br/&gt;&lt;br/&gt;
-Typical unit code(s): SEC for seconds&lt;br/&gt;&lt;br/&gt;
+The time needed to accelerate the vehicle from a given start velocity to a given target velocity.\n\n\n\n
+Typical unit code(s): SEC for seconds\n\n\n\n
 &lt;ul&gt;
 &lt;li&gt;Note: There are unfortunately no standard unit codes for seconds/0..100 km/h or seconds/0..60 mph. Simply use &quot;SEC&quot; for seconds and indicate the velocities in the [[name]] of the [[QuantitativeValue]], or use [[valueReference]] with a [[QuantitativeValue]] of 0..60 mph or 0..100 km/h to specify the reference speeds.&lt;/li&gt;
 &lt;/ul&gt;

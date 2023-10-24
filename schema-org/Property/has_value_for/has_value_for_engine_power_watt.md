@@ -36,11 +36,11 @@ Predicate to describe the Quantity of EngineSpecification.
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has_/value_for/_engine_power_watt :: QuantitativeValue ] or 
+- [ #has_/value_for_/engine_power_watt :: QuantitativeValue ] or 
 - [ has_value_for_engine_power_watt :: QuantitativeValue ] 
 
 The power of the vehicle's engine.
-    Typical unit code(s): KWT for kilowatt, BHP for brake horsepower, N12 for metric horsepower (PS, with 1 PS &#x3D; 735,49875 W)&lt;br/&gt;&lt;br/&gt;
+    Typical unit code(s): KWT for kilowatt, BHP for brake horsepower, N12 for metric horsepower (PS, with 1 PS &#x3D; 735,49875 W)\n\n\n\n
 
 &lt;ul&gt;
 &lt;li&gt;Note 1: There are many different ways of measuring an engine's power. For an overview, see  &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes&quot;&gt;http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes]].&lt;/li&gt;

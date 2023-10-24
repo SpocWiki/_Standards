@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- [ #has_/text_about/_musical_key :: Text ] or 
+- [ #has_/text_about_/musical_key :: Text ] or 
 - [ has_text_about_musical_key :: Text ] 
 
 The key, mode, or scale this composition uses.

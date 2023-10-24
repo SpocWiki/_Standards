@@ -34,10 +34,10 @@ aliases:
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [ #has_/value_for/_fuel_efficiency :: QuantitativeValue ] or 
+- [ #has_/value_for_/fuel_efficiency :: QuantitativeValue ] or 
 - [ has_value_for_fuel_efficiency :: QuantitativeValue ] 
 
-The distance traveled per unit of fuel used; most commonly miles per gallon (mpg) or kilometers per liter (km/L).&lt;br/&gt;&lt;br/&gt;
+The distance traveled per unit of fuel used; most commonly miles per gallon (mpg) or kilometers per liter (km/L).\n\n\n\n
 
 &lt;ul&gt;
 &lt;li&gt;Note 1: There are unfortunately no standard unit codes for miles per gallon or kilometers per liter. Use [[unitText]] to indicate the unit of measurement, e.g. mpg or km/L.&lt;/li&gt;

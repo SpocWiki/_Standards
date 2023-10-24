@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is/_live 
+#is_/live 
 #is_not_/live 
 
 Or write it as a Triple: 

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- [ #has_/geo/_content_location :: Place ] or 
+- [ #has_/geo_/content_location :: Place ] or 
 - [ has_geo_content_location :: Place ] 
 
 The location depicted or described in the content. For example, the location in a photograph or painting.

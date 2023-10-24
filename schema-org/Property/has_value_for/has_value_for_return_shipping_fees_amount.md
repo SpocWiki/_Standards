@@ -36,7 +36,7 @@ Predicate to describe the Quantity of MerchantReturnPolicy.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value_for/_return_shipping_fees_amount :: MonetaryAmount ] or 
+- [ #has_/value_for_/return_shipping_fees_amount :: MonetaryAmount ] or 
 - [ has_value_for_return_shipping_fees_amount :: MonetaryAmount ] 
 
 Amount of shipping costs for product returns (for any reason). Applicable when property [[returnFees]] equals [[ReturnShippingFees]].

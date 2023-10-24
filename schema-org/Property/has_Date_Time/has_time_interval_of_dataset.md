@@ -29,7 +29,7 @@ aliases:
 - dataset-time-interval
 - dataset_time_interval
 - datasetTimeInterval
-- has_date_interval_of_dataset
+- has_time_interval_of_dataset
 ---
 
 Predicate to describe the date of Dataset.
@@ -38,13 +38,13 @@ Predicate to describe the date of Dataset.
 
 Use it like this: 
 - [has_time_interval_of_dataset::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time/_interval_of_dataset::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/time_/interval_of_dataset::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The range of temporal applicability of a dataset, e.g. for a 2011 census dataset, the year 2011 (in ISO 8601 time interval format).
 
 Formal Predicate: 
 [domain::Dataset]
-(name::has_date_interval_of_dataset)
+(name::has_time_interval_of_dataset)
 (range::DateTime)
 
 

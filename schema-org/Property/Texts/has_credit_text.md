@@ -36,7 +36,7 @@ Predicate to describe the Text of CreativeWork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_credit_text :: Text ] or 
+- [ #has_/text_about_/credit_text :: Text ] or 
 - [ has_text_about_credit_text :: Text ] 
 
 Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work.

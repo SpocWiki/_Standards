@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of TypeAndQuantityNode.
 
 Use it like this: 
-- [ #has_/value_for/_amount_of_this_good :: Number ] or 
+- [ #has_/value_for_/amount_of_this_good :: Number ] or 
 - [ has_value_for_amount_of_this_good :: Number ] 
 
 The quantity of the goods included in the offer.

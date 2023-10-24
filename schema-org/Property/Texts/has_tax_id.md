@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [ #has_/text_about/_tax_id :: Text ] or 
+- [ #has_/text_about_/tax_id :: Text ] or 
 - [ has_text_about_tax_id :: Text ] 
 
 The Tax / Fiscal ID of the organization or person, e.g. the TIN in the US or the CIF/NIF in Spain.

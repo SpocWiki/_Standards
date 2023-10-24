@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the geo of BroadcastService.
 
 Use it like this: 
-- [ #has_/geo/_area :: Place ] or 
+- [ #has_/geo_/area :: Place ] or 
 - [ has_geo_area :: Place ] 
 
 The area within which users can expect to reach the broadcast service.

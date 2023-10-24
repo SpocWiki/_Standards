@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about/_permissions :: Text ] or 
+- [ #has_/text_about_/permissions :: Text ] or 
 - [ has_text_about_permissions :: Text ] 
 
 Permission(s) required to run the app (for example, a mobile app may require full internet access or may run only on wifi).

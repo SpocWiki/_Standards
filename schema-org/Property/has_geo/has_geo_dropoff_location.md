@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of RentalCarReservation.
 
 Use it like this: 
-- [ #has_/geo/_dropoff_location :: Place ] or 
+- [ #has_/geo_/dropoff_location :: Place ] or 
 - [ has_geo_dropoff_location :: Place ] 
 
 Where a rental car can be dropped off.

@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is/_subscription_required 
+#is_/subscription_required 
 #is_not_/subscription_required 
 
 Or write it as a Triple: 

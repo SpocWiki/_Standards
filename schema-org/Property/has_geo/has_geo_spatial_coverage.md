@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- [ #has_/geo/_spatial_coverage :: Place ] or 
+- [ #has_/geo_/spatial_coverage :: Place ] or 
 - [ has_geo_spatial_coverage :: Place ] 
 
 The spatialCoverage of a CreativeWork indicates the place(s) which are the focus of the content. It is a subproperty of

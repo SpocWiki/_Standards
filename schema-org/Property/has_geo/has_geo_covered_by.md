@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
-- [ #has_/geo/_covered_by :: GeospatialGeometry, Place ] or 
+- [ #has_/geo_/covered_by :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_covered_by :: GeospatialGeometry, Place ] 
 
 Represents a relationship between two geometries (or the places they represent), relating a geometry to another that covers it. As defined in &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;&gt;DE-9IM]].

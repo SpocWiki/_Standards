@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of ExerciseAction, MoveAction, TransferAction.
 
 Use it like this: 
-- [ #has_/geo/_from_location :: Place ] or 
+- [ #has_/geo_/from_location :: Place ] or 
 - [ has_geo_from_location :: Place ] 
 
 A sub property of location. The original location of the object or the agent before the action.

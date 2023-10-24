@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [ #has_/text_about/_programming_model :: Text ] or 
+- [ #has_/text_about_/programming_model :: Text ] or 
 - [ has_text_about_programming_model :: Text ] 
 
 Indicates whether API is managed or unmanaged.

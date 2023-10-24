@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about/_software_requirements :: Text, URL ] or 
+- [ #has_/text_about_/software_requirements :: Text, URL ] or 
 - [ has_text_about_software_requirements :: Text, URL ] 
 
 Component dependency requirements for application. This includes runtime environments and shared libraries that are not included in the application distribution package, but required to run the application (examples: DirectX, Java or .NET runtime).

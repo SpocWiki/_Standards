@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is/_family_friendly 
+#is_/family_friendly 
 #is_not_/family_friendly 
 
 Or write it as a Triple: 

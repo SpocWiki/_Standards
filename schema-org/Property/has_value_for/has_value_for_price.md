@@ -34,12 +34,12 @@ aliases:
 Predicate to describe the Quantity of Offer, PriceSpecification, TradeAction.
 
 Use it like this: 
-- [ #has_/value_for/_price :: Number, Text ] or 
+- [ #has_/value_for_/price :: Number, Text ] or 
 - [ has_value_for_price :: Number, Text ] 
 
-The offer price of a product, or of a price component when attached to PriceSpecification and its subtypes.&lt;br/&gt;&lt;br/&gt;
+The offer price of a product, or of a price component when attached to PriceSpecification and its subtypes.\n\n\n\n
 
-Usage guidelines:&lt;br/&gt;&lt;br/&gt;
+Usage guidelines:\n\n\n\n
 
 &lt;ul&gt;
 &lt;li&gt;Use the [[priceCurrency]] property (with standard formats: &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/ISO_4217&quot;&gt;ISO 4217 currency format]], e.g. &quot;USD&quot;; &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/List_of_cryptocurrencies&quot;&gt;Ticker symbol]] for cryptocurrencies, e.g. &quot;BTC&quot;; well known names for &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/Local_exchange_trading_system&quot;&gt;Local Exchange Trading Systems]] (LETS) and other currency types, e.g. &quot;Ithaca HOUR&quot;) instead of including &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/Dollar_sign#Currencies_that_use_the_dollar_or_peso_sign&quot;&gt;ambiguous symbols]] such as '$' in the value.&lt;/li&gt;

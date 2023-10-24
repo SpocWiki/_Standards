@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_about/_incentive_compensation :: Text ] or 
+- [ #has_/text_about_/incentive_compensation :: Text ] or 
 - [ has_text_about_incentive_compensation :: Text ] 
 
 Description of bonus and commission compensation aspects of the job.

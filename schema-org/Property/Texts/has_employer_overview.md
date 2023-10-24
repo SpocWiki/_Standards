@@ -36,7 +36,7 @@ Predicate to describe the Text of JobPosting.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_employer_overview :: Text ] or 
+- [ #has_/text_about_/employer_overview :: Text ] or 
 - [ has_text_about_employer_overview :: Text ] 
 
 A description of the employer, career opportunities and work environment for this position.

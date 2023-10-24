@@ -36,7 +36,7 @@ Predicate to describe the Text of MolecularEntity.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_in_ch_i_key :: Text ] or 
+- [ #has_/text_about_/in_ch_i_key :: Text ] or 
 - [ has_text_about_in_ch_i_key :: Text ] 
 
 InChIKey is a hashed version of the full InChI (using the SHA-256 algorithm).

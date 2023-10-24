@@ -36,7 +36,7 @@ Predicate to describe the Duration of LoanOrCredit.
 
 Use it like this: 
 - [has_duration_of_grace_period::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/duration/_of_grace_period::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/duration_/of_grace_period::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The period of time after any due date that the borrower has to fulfil its obligations before a default (failure to pay) is deemed to have occurred.
 

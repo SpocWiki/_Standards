@@ -36,7 +36,7 @@ Predicate to describe the Text of CDCPMDRecord.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_cvd_facility_county :: Text ] or 
+- [ #has_/text_about_/cvd_facility_county :: Text ] or 
 - [ has_text_about_cvd_facility_county :: Text ] 
 
 Name of the County of the NHSN facility that this data record applies to. Use [[cvdFacilityId]] to identify the facility. To provide other details, [[healthcareReportingData]] can be used on a [[Hospital]] entry.

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of InfectiousDisease.
 
 Use it like this: 
-- [ #has_/text_about/_transmission_method :: Text ] or 
+- [ #has_/text_about_/transmission_method :: Text ] or 
 - [ has_text_about_transmission_method :: Text ] 
 
 How the disease spreads, either as a route or vector, for example "direct contact", "Aedes aegypti", etc.

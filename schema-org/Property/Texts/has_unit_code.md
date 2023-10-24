@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification.
 
 Use it like this: 
-- [ #has_/text_about/_unit_code :: Text, URL ] or 
+- [ #has_/text_about_/unit_code :: Text, URL ] or 
 - [ has_text_about_unit_code :: Text, URL ] 
 
 The unit of measurement given using the UN/CEFACT Common Code (3 characters) or a URL. Other codes than the UN/CEFACT Common Code may be used with a prefix followed by a colon.

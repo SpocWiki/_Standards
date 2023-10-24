@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of Organization.
 
 Use it like this: 
-- [ #has_/geo/_founding_location :: Place ] or 
+- [ #has_/geo_/founding_location :: Place ] or 
 - [ has_geo_founding_location :: Place ] 
 
 The place where the Organization was founded.

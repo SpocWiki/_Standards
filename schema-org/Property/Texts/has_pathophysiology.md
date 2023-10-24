@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MedicalCondition, PhysicalActivity.
 
 Use it like this: 
-- [ #has_/text_about/_pathophysiology :: Text ] or 
+- [ #has_/text_about_/pathophysiology :: Text ] or 
 - [ has_text_about_pathophysiology :: Text ] 
 
 Changes in the normal mechanical, physical, and biochemical functions that are associated with this activity or condition.

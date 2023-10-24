@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is/_representative_of_page 
+#is_/representative_of_page 
 #is_not_/representative_of_page 
 
 Or write it as a Triple: 

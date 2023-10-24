@@ -36,7 +36,7 @@ Predicate to describe the Text of HealthPlanNetwork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_health_plan_network_tier :: Text ] or 
+- [ #has_/text_about_/health_plan_network_tier :: Text ] or 
 - [ has_text_about_health_plan_network_tier :: Text ] 
 
 The tier(s) for this network.

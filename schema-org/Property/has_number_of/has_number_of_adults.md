@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of LodgingReservation.
 
 Use it like this: 
-- [ #has_/number_of/_adults :: Integer, QuantitativeValue ] or 
+- [ #has_/number_of_/adults :: Integer, QuantitativeValue ] or 
 - [ has_number_of_adults :: Integer, QuantitativeValue ] 
 
 The number of adults staying in the unit.

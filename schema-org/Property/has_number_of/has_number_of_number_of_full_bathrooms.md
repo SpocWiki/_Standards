@@ -36,7 +36,7 @@ Predicate to describe the Number of Accommodation, FloorPlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number_of/_number_of_full_bathrooms :: Number ] or 
+- [ #has_/number_of_/number_of_full_bathrooms :: Number ] or 
 - [ has_number_of_number_of_full_bathrooms :: Number ] 
 
 Number of full bathrooms - The total number of full and � bathrooms in an <a class="localLink" href="/Accommodation">Accommodation</a>. This corresponds to the <a href="https://ddwiki.reso.org/display/DDW17/BathroomsFull+Field">BathroomsFull field in RESO</a>.

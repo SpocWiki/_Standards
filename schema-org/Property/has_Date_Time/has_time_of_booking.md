@@ -36,7 +36,7 @@ Predicate to describe the time of Reservation.
 
 Use it like this: 
 - [has_time_of_booking_time::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time/_of_booking_time::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/time_/of_booking_time::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The date and time the reservation was booked.
 

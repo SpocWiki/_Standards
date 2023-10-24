@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Predi_Date_Time
 
-title: has_date_of_{{label_snail}}
-linkTitle: has_date_of_{{label_snail}}
+title: has_time_of_{{label_snail}}
+linkTitle: has_time_of_{{label_snail}}
 
 keywords: [{{label_snail}}]
 layout: 
@@ -31,7 +31,7 @@ aliases:
 - {{label-dash}}
 - {{label_snail}}
 - {{label}}
-- has_date_of_{{label_snail}}
+- has_time_of_{{label_snail}}
 ---
 
 Predicate to describe the date of {{domainIncludes}}.
@@ -39,8 +39,8 @@ Predicate to describe the date of {{domainIncludes}}.
 [ #is_/part_of :: {{isPartOf}} ]
 
 Use it like this: 
-- [ #has_/date_/of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] or 
-- [has_date_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] 
+- [ #has_/time_/of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] or 
+- [has_time_of_{{label_snail}}::P#Y#M#W#DT#H#M#s.fff] 
 with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 {{comment}}

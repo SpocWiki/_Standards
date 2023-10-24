@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- [ #has_/text_about/_proprietary_name :: Text ] or 
+- [ #has_/text_about_/proprietary_name :: Text ] or 
 - [ has_text_about_proprietary_name :: Text ] 
 
 Proprietary name given to the diet plan, typically by its originator or creator.

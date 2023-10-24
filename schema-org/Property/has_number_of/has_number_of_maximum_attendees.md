@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of Event, Place.
 
 Use it like this: 
-- [ #has_/number_of/_maximum_attendees :: Integer ] or 
+- [ #has_/number_of_/maximum_attendees :: Integer ] or 
 - [ has_number_of_maximum_attendees :: Integer ] 
 
 The total number of individuals that may attend an event or venue.

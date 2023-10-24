@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of EmployeeRole, JobPosting.
 
 Use it like this: 
-- [ #has_/value_for/_base_salary :: MonetaryAmount, Number, PriceSpecification ] or 
+- [ #has_/value_for_/base_salary :: MonetaryAmount, Number, PriceSpecification ] or 
 - [ has_value_for_base_salary :: MonetaryAmount, Number, PriceSpecification ] 
 
 The base salary of the job or of an employee in an EmployeeRole.

@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is/_for_a_gift 
+#is_/for_a_gift 
 #is_not_/for_a_gift 
 
 Or write it as a Triple: 

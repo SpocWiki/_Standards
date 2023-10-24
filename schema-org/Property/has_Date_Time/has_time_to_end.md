@@ -30,25 +30,37 @@ aliases:
 - has_time_to_end
 ---
 
-Predicate to describe the time of Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule.
-
+Predicate to describe the time of Action, FoodEstablishmentReservation, 
+InteractionCounter, MediaObject, Schedule, 
+CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, 
+EducationalOccupationalProgram, Event, 
+MerchantReturnPolicySeasonalOverride, Role, Schedule.
 
 
 Use it like this: 
 - [has_time_to_end::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time/_to_end::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/time_/to_end::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-The endTime of something. For a reserved event or service (e.g. FoodEstablishmentReservation), the time that it is expected to end. For actions that span a period of time, when the action was performed. E.g. John wrote a book from January to &lt;em&gt;December&lt;/em&gt;. For media, including audio and video, it's the time offset of the end of a clip within a larger file.&lt;br/&gt;&lt;br/&gt;
+The end date and time of the item (in [ISO 8601 date format](http://en.wikipedia.org/wiki/ISO_8601)).
+
+For a reserved event or service (e.g. FoodEstablishmentReservation), 
+the time that it is expected to end. 
+
+For actions that span a period of time, 
+when the action was performed. 
+
+E.g. John wrote a book from January to &lt;em&gt;December&lt;/em&gt;. 
+
+For media, including audio and video, 
+it's the time offset of the end of a clip within a larger file.
+\n\n\n\n
 
 Note that Event uses startDate/endDate instead of startTime/endTime, even when describing dates with times. This situation may be clarified in future revisions.
 
 Formal Predicate: 
-[domain::Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule]
+[domain::Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule, CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule]
 (name::has_time_to_end)
-(range::DateTime, Time)
-
-
-
+(range::Date, DateTime, Time)
 
 
 

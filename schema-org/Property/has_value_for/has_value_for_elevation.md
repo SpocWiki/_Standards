@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of GeoCoordinates, GeoShape.
 
 Use it like this: 
-- [ #has_/value_for/_elevation :: Number, Text ] or 
+- [ #has_/value_for_/elevation :: Number, Text ] or 
 - [ has_value_for_elevation :: Number, Text ] 
 
 The elevation of a location (&lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/World_Geodetic_System&quot;&gt;WGS 84]]). Values may be of the form 'NUMBER UNIT_OF_MEASUREMENT' (e.g., '1,000 m', '3,200 ft') while numbers alone should be assumed to be a value in meters.

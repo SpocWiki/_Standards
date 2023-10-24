@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Service.
 
 Use it like this: 
-- [ #has_/text_about/_provider_mobility :: Text ] or 
+- [ #has_/text_about_/provider_mobility :: Text ] or 
 - [ has_text_about_provider_mobility :: Text ] 
 
 Indicates the mobility of a provided service (e.g. "static", "dynamic").

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
-- [ #has_/text_about/_post_office_box_number :: Text ] or 
+- [ #has_/text_about_/post_office_box_number :: Text ] or 
 - [ has_text_about_post_office_box_number :: Text ] 
 
 The post office box number for PO box addresses.

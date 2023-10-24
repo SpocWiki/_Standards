@@ -36,7 +36,7 @@ Predicate to describe the Text of DefinedRegion.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_postal_code_prefix :: Text ] or 
+- [ #has_/text_about_/postal_code_prefix :: Text ] or 
 - [ has_text_about_postal_code_prefix :: Text ] 
 
 A defined range of postal codes indicated by a common textual prefix. Used for non-numeric systems such as UK.

@@ -36,7 +36,7 @@ Predicate to describe the Number of Accommodation, FloorPlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number_of/_bathrooms_total :: Integer ] or 
+- [ #has_/number_of_/bathrooms_total :: Integer ] or 
 - [ has_number_of_bathrooms_total :: Integer ] 
 
 The total integer number of bathrooms in some <a class="localLink" href="/Accommodation">Accommodation</a>, following real estate conventions as <a href="https://ddwiki.reso.org/display/DDW17/BathroomsTotalInteger+Field">documented in RESO</a>: "The simple sum of the number of bathrooms. For example for a property with two Full Bathrooms and one Half Bathroom, the Bathrooms Total Integer will be 3.". See also <a class="localLink" href="/numberOfRooms">numberOfRooms</a>.

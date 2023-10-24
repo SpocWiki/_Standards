@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of ServiceChannel.
 
 Use it like this: 
-- [ #has_/geo/_service_postal_address :: PostalAddress ] or 
+- [ #has_/geo_/service_postal_address :: PostalAddress ] or 
 - [ has_geo_service_postal_address :: PostalAddress ] 
 
 The address for accessing the service by mail.

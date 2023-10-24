@@ -36,7 +36,7 @@ Predicate to describe the time of LiveBlogPosting.
 
 Use it like this: 
 - [has_time_of_coverage_end::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time/_of_coverage_end::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/time_/of_coverage_end::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The time when the live blog will stop covering the Event. Note that coverage may continue after the Event concludes.
 

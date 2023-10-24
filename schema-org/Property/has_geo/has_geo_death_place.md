@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of Person.
 
 Use it like this: 
-- [ #has_/geo/_death_place :: Place ] or 
+- [ #has_/geo_/death_place :: Place ] or 
 - [ has_geo_death_place :: Place ] 
 
 The place where the person died.

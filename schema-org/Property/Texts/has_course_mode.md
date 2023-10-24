@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of CourseInstance.
 
 Use it like this: 
-- [ #has_/text_about/_course_mode :: Text, URL ] or 
+- [ #has_/text_about_/course_mode :: Text, URL ] or 
 - [ has_text_about_course_mode :: Text, URL ] 
 
 The medium or means of delivery of the course instance or the mode of study, either as a text label (e.g. "online", "onsite" or "blended"; "synchronous" or "asynchronous"; "full-time" or "part-time") or as a URL reference to a term from a controlled vocabulary (e.g. https://ceds.ed.gov/element/001311#Asynchronous).

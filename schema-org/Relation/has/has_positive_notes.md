@@ -36,9 +36,9 @@ Use it like this:
 - [ #has_/positive_notes :: ItemList, ListItem, Text, WebContent ] or 
 - [ has_positive_notes :: ItemList, ListItem, Text, WebContent ] 
 
-Provides positive considerations regarding something, for example product highlights or (alongside [[negativeNotes]]) pro/con lists for reviews.&lt;br/&gt;&lt;br/&gt;
+Provides positive considerations regarding something, for example product highlights or (alongside [[negativeNotes]]) pro/con lists for reviews.\n\n\n\n
 
-In the case of a [[Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described.&lt;br/&gt;&lt;br/&gt;
+In the case of a [[Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described.\n\n\n\n
 
 The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most positive is at the beginning of the list).
 

@@ -36,7 +36,7 @@ Predicate to describe the Quantity of EducationalOccupationalProgram, WorkBasedP
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value_for/_training_salary :: MonetaryAmountDistribution ] or 
+- [ #has_/value_for_/training_salary :: MonetaryAmountDistribution ] or 
 - [ has_value_for_training_salary :: MonetaryAmountDistribution ] 
 
 The estimated salary earned while in the program.

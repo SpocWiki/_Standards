@@ -36,7 +36,7 @@ Predicate to describe the Text of LinkRole.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_link_relationship :: Text ] or 
+- [ #has_/text_about_/link_relationship :: Text ] or 
 - [ has_text_about_link_relationship :: Text ] 
 
 Indicates the relationship type of a Web link.

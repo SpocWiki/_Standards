@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of CreativeWorkSeason.
 
 Use it like this: 
-- [ #has_/number_of/_season :: Integer, Text ] or 
+- [ #has_/number_of_/season :: Integer, Text ] or 
 - [ has_number_of_season :: Integer, Text ] 
 
 Position of the season within an ordered group of seasons.

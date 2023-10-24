@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of ParcelDelivery.
 
 Use it like this: 
-- [ #has_/geo/_delivery_address :: PostalAddress ] or 
+- [ #has_/geo_/delivery_address :: PostalAddress ] or 
 - [ has_geo_delivery_address :: PostalAddress ] 
 
 Destination address.

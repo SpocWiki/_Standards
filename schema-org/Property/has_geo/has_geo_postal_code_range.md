@@ -36,7 +36,7 @@ Predicate to describe the geo of DefinedRegion.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/geo/_postal_code_range :: PostalCodeRangeSpecification ] or 
+- [ #has_/geo_/postal_code_range :: PostalCodeRangeSpecification ] or 
 - [ has_geo_postal_code_range :: PostalCodeRangeSpecification ] 
 
 A defined range of postal codes.

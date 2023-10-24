@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of VideoObject.
 
 Use it like this: 
-- [ #has_/text_about/_video_quality :: Text ] or 
+- [ #has_/text_about_/video_quality :: Text ] or 
 - [ has_text_about_video_quality :: Text ] 
 
 The quality of the video.

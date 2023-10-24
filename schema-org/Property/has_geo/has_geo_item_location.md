@@ -36,7 +36,7 @@ Predicate to describe the geo of ArchiveComponent.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/geo/_item_location :: Place, PostalAddress, Text ] or 
+- [ #has_/geo_/item_location :: Place, PostalAddress, Text ] or 
 - [ has_geo_item_location :: Place, PostalAddress, Text ] 
 
 Current location of the item.

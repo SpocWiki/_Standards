@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of BusinessAudience.
 
 Use it like this: 
-- [ #has_/value_for/_years_in_operation :: QuantitativeValue ] or 
+- [ #has_/value_for_/years_in_operation :: QuantitativeValue ] or 
 - [ has_value_for_years_in_operation :: QuantitativeValue ] 
 
 The age of the business.

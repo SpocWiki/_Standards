@@ -25,8 +25,6 @@ tags:
 
 aliases:
 - spouse
-- spouse
-- spouse
 - has_spouse
 ---
 

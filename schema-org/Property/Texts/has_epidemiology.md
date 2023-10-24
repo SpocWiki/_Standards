@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MedicalCondition, PhysicalActivity.
 
 Use it like this: 
-- [ #has_/text_about/_epidemiology :: Text ] or 
+- [ #has_/text_about_/epidemiology :: Text ] or 
 - [ has_text_about_epidemiology :: Text ] 
 
 The characteristics of associated patients, such as age, gender, race etc.

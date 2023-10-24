@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of ServiceChannel.
 
 Use it like this: 
-- [ #has_/geo/_service_location :: Place ] or 
+- [ #has_/geo_/service_location :: Place ] or 
 - [ has_geo_service_location :: Place ] 
 
 The location (e.g. civic structure, local business, etc.) where a person can go to access the service.

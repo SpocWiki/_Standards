@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the Text of Role.
 
 Use it like this: 
-- [ #has_/text_about/_named_position :: Text, URL ] or 
+- [ #has_/text_about_/named_position :: Text, URL ] or 
 - [ has_text_about_named_position :: Text, URL ] 
 
 A position played, performed or filled by a person or organization, as part of an organization. For example, an athlete in a SportsTeam might play in the position named "Quarterback".

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of GameServer.
 
 Use it like this: 
-- [ #has_/number_of/_players_online :: Integer ] or 
+- [ #has_/number_of_/players_online :: Integer ] or 
 - [ has_number_of_players_online :: Integer ] 
 
 Number of players on the server.

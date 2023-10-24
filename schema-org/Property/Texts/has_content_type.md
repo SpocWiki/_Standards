@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of EntryPoint.
 
 Use it like this: 
-- [ #has_/text_about/_content_type :: Text ] or 
+- [ #has_/text_about_/content_type :: Text ] or 
 - [ has_text_about_content_type :: Text ] 
 
 The supported content type(s) for an EntryPoint response.

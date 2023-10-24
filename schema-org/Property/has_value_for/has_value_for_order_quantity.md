@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of OrderItem.
 
 Use it like this: 
-- [ #has_/value_for/_order_quantity :: Number ] or 
+- [ #has_/value_for_/order_quantity :: Number ] or 
 - [ has_value_for_order_quantity :: Number ] 
 
 The number of the item ordered. If the property is not set, assume the quantity is one.

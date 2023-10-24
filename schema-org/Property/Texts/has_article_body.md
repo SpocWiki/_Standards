@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Article.
 
 Use it like this: 
-- [ #has_/text_about/_article_body :: Text ] or 
+- [ #has_/text_about_/article_body :: Text ] or 
 - [ has_text_about_article_body :: Text ] 
 
 The actual body of the article.

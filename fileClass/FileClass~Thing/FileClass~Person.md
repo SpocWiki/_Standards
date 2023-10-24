@@ -282,7 +282,7 @@ Sponsor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 ### Spouse
 The person's spouse.
 
-Spouse:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
+has_Spouse :: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
 
 ### TaxID
 The Tax / Fiscal ID of the organization or person, e.g. the TIN in the US or the CIF/NIF in Spain.

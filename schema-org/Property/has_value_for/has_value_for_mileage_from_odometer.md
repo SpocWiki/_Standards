@@ -34,10 +34,10 @@ aliases:
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [ #has_/value_for/_mileage_from_odometer :: QuantitativeValue ] or 
+- [ #has_/value_for_/mileage_from_odometer :: QuantitativeValue ] or 
 - [ has_value_for_mileage_from_odometer :: QuantitativeValue ] 
 
-The total distance travelled by the particular vehicle since its initial production, as read from its odometer.&lt;br/&gt;&lt;br/&gt;
+The total distance travelled by the particular vehicle since its initial production, as read from its odometer.\n\n\n\n
 
 Typical unit code(s): KMT for kilometers, SMI for statute miles
 

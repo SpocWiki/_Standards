@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [ #has_/text_about/_vehicle_interior_type :: Text ] or 
+- [ #has_/text_about_/vehicle_interior_type :: Text ] or 
 - [ has_text_about_vehicle_interior_type :: Text ] 
 
 The type or material of the interior of the vehicle (e.g. synthetic fabric, leather, wood, etc.). While most interior types are characterized by the material used, an interior type can also be based on vehicle usage or target audience.

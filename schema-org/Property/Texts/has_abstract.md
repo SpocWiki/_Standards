@@ -36,7 +36,7 @@ Predicate to describe the Text of CreativeWork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_abstract :: Text ] or 
+- [ #has_/text_about_/abstract :: Text ] or 
 - [ has_text_about_abstract :: Text ] 
 
 An abstract is a short description that summarizes a [[CreativeWork]].

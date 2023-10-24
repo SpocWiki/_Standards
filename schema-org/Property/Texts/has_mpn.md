@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Demand, Offer, Product.
 
 Use it like this: 
-- [ #has_/text_about/_mpn :: Text ] or 
+- [ #has_/text_about_/mpn :: Text ] or 
 - [ has_text_about_mpn :: Text ] 
 
 The Manufacturer Part Number (MPN) of the product, or the product to which the offer refers.

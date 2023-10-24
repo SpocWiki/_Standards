@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of EducationalAudience.
 
 Use it like this: 
-- [ #has_/text_about/_educational_role :: Text ] or 
+- [ #has_/text_about_/educational_role :: Text ] or 
 - [ has_text_about_educational_role :: Text ] 
 
 An educationalRole of an EducationalAudience.

@@ -27,7 +27,7 @@ aliases:
 Predicate to describe the geo of [[geo_coordinates]], [[Geo_Shape]], [[Organization]], [[Person]], [[Place]].
 
 Use it like this: 
-- [ #has_/geo/_address :: PostalAddress, Text ] or 
+- [ #has_/geo_/address :: PostalAddress, Text ] or 
 - [ has_geo_address :: PostalAddress, Text ] 
 
 Physical address of the item.

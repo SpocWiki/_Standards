@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MedicalConditionStage.
 
 Use it like this: 
-- [ #has_/text_about/_sub_stage_suffix :: Text ] or 
+- [ #has_/text_about_/sub_stage_suffix :: Text ] or 
 - [ has_text_about_sub_stage_suffix :: Text ] 
 
 The substage, e.g. "a" for Stage IIIa.

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Invoice, Order.
 
 Use it like this: 
-- [ #has_/text_about/_payment_method_id :: Text ] or 
+- [ #has_/text_about_/payment_method_id :: Text ] or 
 - [ has_text_about_payment_method_id :: Text ] 
 
 An identifier for the method of payment used (e.g. the last 4 digits of the credit card).

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of PropertyValueSpecification.
 
 Use it like this: 
-- [ #has_/text_about/_default_value :: Text, Thing ] or 
+- [ #has_/text_about_/default_value :: Text, Thing ] or 
 - [ has_text_about_default_value :: Text, Thing ] 
 
 The default value of the input.  For properties that expect a literal, the default is a literal value, for properties that expect an object, it"s an ID reference to one of the current values.

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text_about/_honorific_suffix :: Text ] or 
+- [ #has_/text_about_/honorific_suffix :: Text ] or 
 - [ has_text_about_honorific_suffix :: Text ] 
 
 An honorific suffix following a Person"s name such as M.D./PhD/MSCSW.

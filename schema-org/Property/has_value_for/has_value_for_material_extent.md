@@ -36,7 +36,7 @@ Predicate to describe the Quantity of CreativeWork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value_for/_material_extent :: QuantitativeValue, Text ] or 
+- [ #has_/value_for_/material_extent :: QuantitativeValue, Text ] or 
 - [ has_value_for_material_extent :: QuantitativeValue, Text ] 
 
 The quantity of the materials being described or an expression of the physical space they occupy.

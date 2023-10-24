@@ -10,7 +10,7 @@ publish: true
 
 # Hugo Tags
 type: Predi_Date_Time
-title: has_date_modified
+title: has_time_modified
 
 linkTitle: 
 keywords: 
@@ -27,22 +27,24 @@ aliases:
 - date-modified
 - date_modified
 - dateModified
-- has_date_modified
+- has_time_modified
 ---
 
-Predicate to describe the date of CreativeWork, DataFeedItem.
+Predicate to describe the date of CreativeWork, DataFeedItem, Reservation.
 
 
 
 Use it like this: 
-- [has_date_modified::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date_/modified::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_modified::P#Y#M#W#DT#H#M#s.fff] or 
+- [ #has_/time_/modified::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
-The date on which the CreativeWork was most recently modified or when the item's entry was modified within a DataFeed.
+The date (and time) the reservation  or CreativeWork 
+was most recently modified 
+or when the item's entry was modified within a DataFeed.
 
 Formal Predicate: 
-[domain::CreativeWork, DataFeedItem]
-(name::has_date_modified)
+[domain::CreativeWork, DataFeedItem, Reservation]
+(name::has_time_modified)
 (range::Date, DateTime)
 
 
@@ -51,9 +53,9 @@ Formal Predicate:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_date_modified.md|has_date_modified]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_date_modified.internal.md|has_date_modified.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_date_modified.protect.md|has_date_modified.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_date_modified.private.md|has_date_modified.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_date_modified.personal.md|has_date_modified.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_date_modified.secret.md|has_date_modified.secret]] 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_modified.md|has_time_modified]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_modified.internal.md|has_time_modified.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_modified.protect.md|has_time_modified.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_modified.private.md|has_time_modified.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_modified.personal.md|has_time_modified.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_modified.secret.md|has_time_modified.secret]] 

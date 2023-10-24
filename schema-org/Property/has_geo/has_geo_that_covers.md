@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
-- [ #has_/geo/_that_covers :: GeospatialGeometry, Place ] or 
+- [ #has_/geo_/that_covers :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_covers :: GeospatialGeometry, Place ] 
 
 Represents a relationship between two geometries (or the places they represent), relating a covering geometry to a covered geometry. &quot;Every point of b is a point of (the interior or boundary of) a&quot;. As defined in &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;&gt;DE-9IM]].

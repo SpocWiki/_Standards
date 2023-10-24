@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- [ #has_/text_about/_bitrate :: Text ] or 
+- [ #has_/text_about_/bitrate :: Text ] or 
 - [ has_text_about_bitrate :: Text ] 
 
 The bitrate of the media object.

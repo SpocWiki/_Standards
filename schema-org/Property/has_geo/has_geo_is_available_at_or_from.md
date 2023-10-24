@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of Demand, Offer.
 
 Use it like this: 
-- [ #has_/geo/_is_available_at_or_from :: Place ] or 
+- [ #has_/geo_/is_available_at_or_from :: Place ] or 
 - [ has_geo_available_at_or_from :: Place ] 
 
 The place(s) from which the offer can be obtained (e.g. store locations).

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of MediaObject.
 
 Use it like this: 
-- [ #has_/geo/_regions_allowed :: Place ] or 
+- [ #has_/geo_/regions_allowed :: Place ] or 
 - [ has_geo_regions_allowed :: Place ] 
 
 The regions where the media is allowed. If not specified, then it's assumed to be allowed everywhere. Specify the countries in &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/ISO_3166&quot;&gt;ISO 3166 format]].

@@ -34,7 +34,7 @@ aliases:
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
-#is/_drive_through_service 
+#is_/drive_through_service 
 #is_not_/drive_through_service 
 
 Or write it as a Triple: 

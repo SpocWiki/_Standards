@@ -34,10 +34,10 @@ aliases:
 Predicate to describe the geo of ActionAccessSpecification, DeliveryChargeSpecification, Demand, Offer.
 
 Use it like this: 
-- [ #has_/geo/_eligible_region :: GeoShape, Place, Text ] or 
+- [ #has_/geo_/eligible_region :: GeoShape, Place, Text ] or 
 - [ has_geo_eligible_region :: GeoShape, Place, Text ] 
 
-The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoShape for the geo-political region(s) for which the offer or delivery charge specification is valid.&lt;br/&gt;&lt;br/&gt;
+The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoShape for the geo-political region(s) for which the offer or delivery charge specification is valid.\n\n\n\n
 
 See also [[ineligibleRegion]].
 

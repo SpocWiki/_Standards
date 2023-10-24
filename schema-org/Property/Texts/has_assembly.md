@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [ #has_/text_about/_assembly :: Text ] or 
+- [ #has_/text_about_/assembly :: Text ] or 
 - [ has_text_about_assembly :: Text ] 
 
 Library file name, e.g., mscorlib.dll, system.web.dll.

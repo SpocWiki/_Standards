@@ -36,7 +36,7 @@ Predicate to describe the Number of CDCPMDRecord.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number_of/_Covid_c19died :: Number ] or 
+- [ #has_/number_of_/Covid_c19died :: Number ] or 
 - [ has_number_of_Covid_c19died :: Number ] 
 
 numc19died - DEATHS: Patients with suspected or confirmed COVID-19 who died in the hospital, ED, or any overflow location.

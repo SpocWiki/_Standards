@@ -10,7 +10,7 @@ publish: true
 
 # Hugo Tags
 type: Predi_Date_Time
-title: has_date_to_start
+title: has_time_to_start
 
 linkTitle: 
 keywords: 
@@ -27,23 +27,26 @@ aliases:
 - start-date
 - start_date
 - startDate
-- has_date_to_start
+- has_time_to_start
 ---
 
+Predicate to describe the time of Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule, 
 Predicate to describe the date of CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule.
 
 
-
 Use it like this: 
-- [has_date_to_start::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/date_/to_start::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_to_start::P#Y#M#W#DT#H#M#s.fff] or 
+- [ #has_/time_/to_start::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The start date and time of the item (in [ISO 8601 date format](http://en.wikipedia.org/wiki/ISO_8601)).
+For a reserved event or service (e.g. FoodEstablishmentReservation), the time that it is expected to start. For actions that span a period of time, when the action was performed. E.g. John wrote a book from &lt;em&gt;January&lt;/em&gt; to December. For media, including audio and video, it's the time offset of the start of a clip within a larger file.\n\n\n\n
+
+Note that Event uses startDate/endDate instead of startTime/endTime, even when describing dates with times. This situation may be clarified in future revisions.
 
 Formal Predicate: 
-[domain::CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule]
-(name::has_date_to_start)
-(range::Date, DateTime)
+[domain::Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule, CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule]
+(name::has_time_to_start)
+(range::Date, DateTime, Time)
 
 
 
@@ -51,9 +54,9 @@ Formal Predicate:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_date_to_start.md|has_date_to_start]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_date_to_start.internal.md|has_date_to_start.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_date_to_start.protect.md|has_date_to_start.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_date_to_start.private.md|has_date_to_start.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_date_to_start.personal.md|has_date_to_start.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_date_to_start.secret.md|has_date_to_start.secret]] 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_to_start.md|has_time_to_start]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_start.internal.md|has_time_to_start.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_start.protect.md|has_time_to_start.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_start.private.md|has_time_to_start.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_start.personal.md|has_time_to_start.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_start.secret.md|has_time_to_start.secret]] 

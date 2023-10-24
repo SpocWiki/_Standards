@@ -36,10 +36,10 @@ Predicate to describe the Quantity of Vehicle.
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has_/value_for/_wheelbase :: QuantitativeValue ] or 
+- [ #has_/value_for_/wheelbase :: QuantitativeValue ] or 
 - [ has_value_for_wheelbase :: QuantitativeValue ] 
 
-The distance between the centers of the front and rear wheels.&lt;br/&gt;&lt;br/&gt;
+The distance between the centers of the front and rear wheels.\n\n\n\n
 
 Typical unit code(s): CMT for centimeters, MTR for meters, INH for inches, FOT for foot/feet
 

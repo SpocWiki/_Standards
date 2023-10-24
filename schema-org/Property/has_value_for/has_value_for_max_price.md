@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of PriceSpecification.
 
 Use it like this: 
-- [ #has_/value_for/_max_price :: Number ] or 
+- [ #has_/value_for_/max_price :: Number ] or 
 - [ has_value_for_max_price :: Number ] 
 
 The highest price if the price is a range.

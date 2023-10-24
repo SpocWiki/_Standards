@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [ #has_/text_about/_recipe_cuisine :: Text ] or 
+- [ #has_/text_about_/recipe_cuisine :: Text ] or 
 - [ has_text_about_recipe_cuisine :: Text ] 
 
 The cuisine of the recipe (for example, French or Ethiopian).

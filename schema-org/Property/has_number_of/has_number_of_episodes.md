@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of CreativeWorkSeason, RadioSeries, TVSeries, VideoGameSeries.
 
 Use it like this: 
-- [ #has_/number_of/_episodes :: Integer ] or 
+- [ #has_/number_of_/episodes :: Integer ] or 
 - [ has_number_of_episodes :: Integer ] 
 
 The number of episodes in this season or series.

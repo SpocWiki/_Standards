@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of Organization, Person.
 
 Use it like this: 
-- [ #has_/geo/_POS :: Place ] or 
+- [ #has_/geo_/POS :: Place ] or 
 - [ has_geo_has_POS :: Place ] 
 
 Points-of-Sales operated by the organization or person.

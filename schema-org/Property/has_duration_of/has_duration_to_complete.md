@@ -36,7 +36,7 @@ Predicate to describe the Duration of EducationalOccupationalProgram.
 
 Use it like this: 
 - [has_duration_to_complete::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/duration/_to_complete::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/duration_/to_complete::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The expected length of time to complete the program if attending full-time.
 

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
-- [ #has_/geo/_that_touches :: GeospatialGeometry, Place ] or 
+- [ #has_/geo_/that_touches :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_touches :: GeospatialGeometry, Place ] 
 
 Represents spatial relations in which two geometries (or the places they represent) touch: &quot;they have at least one boundary point in common, but no interior points.&quot; (A symmetric relationship, as defined in &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;&gt;DE-9IM]].)

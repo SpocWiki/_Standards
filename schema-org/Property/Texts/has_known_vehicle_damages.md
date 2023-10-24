@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [ #has_/text_about/_known_vehicle_damages :: Text ] or 
+- [ #has_/text_about_/known_vehicle_damages :: Text ] or 
 - [ has_text_about_known_vehicle_damages :: Text ] 
 
 A textual description of known damages, both repaired and unrepaired.

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of Comment.
 
 Use it like this: 
-- [ #has_/number_of/_upvotes :: Integer ] or 
+- [ #has_/number_of_/upvotes :: Integer ] or 
 - [ has_number_of_upvotes :: Integer ] 
 
 The number of upvotes this question, answer or comment has received from the community.

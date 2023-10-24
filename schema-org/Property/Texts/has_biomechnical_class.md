@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Joint.
 
 Use it like this: 
-- [ #has_/text_about/_biomechnical_class :: Text ] or 
+- [ #has_/text_about_/biomechnical_class :: Text ] or 
 - [ has_text_about_biomechnical_class :: Text ] 
 
 The biomechanical properties of the bone.

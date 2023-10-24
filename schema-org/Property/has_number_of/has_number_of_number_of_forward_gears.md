@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of Vehicle.
 
 Use it like this: 
-- [ #has_/number_of/_number_of_forward_gears :: Number, QuantitativeValue ] or 
+- [ #has_/number_of_/number_of_forward_gears :: Number, QuantitativeValue ] or 
 - [ has_number_of_number_of_forward_gears :: Number, QuantitativeValue ] 
 
 The total number of forward gears available for the transmission system of the vehicle.

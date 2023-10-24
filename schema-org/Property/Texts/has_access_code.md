@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of DeliveryEvent.
 
 Use it like this: 
-- [ #has_/text_about/_access_code :: Text ] or 
+- [ #has_/text_about_/access_code :: Text ] or 
 - [ has_text_about_access_code :: Text ] 
 
 Password, PIN, or access code needed for delivery (e.g. from a locker).

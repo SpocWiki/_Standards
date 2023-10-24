@@ -36,12 +36,12 @@ aliases:
 Predicate to describe the Text of CreativeWork, MediaObject.
 
 Use it like this: 
-- [ #has_/text_about/_encoding_format :: Text, URL ] or 
+- [ #has_/text_about_/encoding_format :: Text, URL ] or 
 - [ has_text_about_encoding_format :: Text, URL ] 
 
-Media type typically expressed using a MIME format (see [IANA site](http://www.iana.org/assignments/media-types/media-types.xhtml) and [MDN reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)), e.g. application/zip for a SoftwareApplication binary, audio/mpeg for .mp3 etc.&lt;br/&gt;&lt;br/&gt;
+Media type typically expressed using a MIME format (see [IANA site](http://www.iana.org/assignments/media-types/media-types.xhtml) and [MDN reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)), e.g. application/zip for a SoftwareApplication binary, audio/mpeg for .mp3 etc.\n\n\n\n
 
-In cases where a [[CreativeWork]] has several media type representations, [[encoding]] can be used to indicate each [[MediaObject]] alongside particular [[encodingFormat]] information.&lt;br/&gt;&lt;br/&gt;
+In cases where a [[CreativeWork]] has several media type representations, [[encoding]] can be used to indicate each [[MediaObject]] alongside particular [[encodingFormat]] information.\n\n\n\n
 
 Unregistered or niche encoding and file formats can be indicated instead via the most appropriate URL, e.g. defining Web page or a Wikipedia/Wikidata entry.
 

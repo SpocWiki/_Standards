@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of ContactPoint, Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/text_about/_fax_number :: Text ] or 
+- [ #has_/text_about_/fax_number :: Text ] or 
 - [ has_text_about_fax_number :: Text ] 
 
 The fax number.

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
-- [ #has_/geo/_crossing :: GeospatialGeometry, Place ] or 
+- [ #has_/geo_/crossing :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_crosses :: GeospatialGeometry, Place ] 
 
 Represents a relationship between two geometries (or the places they represent), relating a geometry to another that crosses it: &quot;a crosses b: they have some but not all interior points in common, and the dimension of the intersection is less than that of at least one of them&quot;. As defined in &lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;&gt;DE-9IM]].

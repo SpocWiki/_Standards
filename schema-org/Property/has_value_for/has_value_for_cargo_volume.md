@@ -34,12 +34,12 @@ aliases:
 Predicate to describe the Quantity of Vehicle.
 
 Use it like this: 
-- [ #has_/value_for/_cargo_volume :: QuantitativeValue ] or 
+- [ #has_/value_for_/cargo_volume :: QuantitativeValue ] or 
 - [ has_value_for_cargo_volume :: QuantitativeValue ] 
 
-The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.&lt;br/&gt;&lt;br/&gt;
+The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.\n\n\n\n
 
-Typical unit code(s): LTR for liters, FTQ for cubic foot/feet&lt;br/&gt;&lt;br/&gt;
+Typical unit code(s): LTR for liters, FTQ for cubic foot/feet\n\n\n\n
 
 Note: You can use [[minValue]] and [[maxValue]] to indicate ranges.
 

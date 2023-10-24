@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of ExercisePlan.
 
 Use it like this: 
-- [ #has_/value_for/_intensity :: QuantitativeValue, Text ] or 
+- [ #has_/value_for_/intensity :: QuantitativeValue, Text ] or 
 - [ has_value_for_intensity :: QuantitativeValue, Text ] 
 
 Quantitative measure gauging the degree of force involved in the exercise, for example, heartbeats per minute. May include the velocity of the movement.

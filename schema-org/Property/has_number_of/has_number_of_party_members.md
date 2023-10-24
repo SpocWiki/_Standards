@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of FoodEstablishmentReservation, TaxiReservation.
 
 Use it like this: 
-- [ #has_/number_of/_party_members :: Integer, QuantitativeValue ] or 
+- [ #has_/number_of_/party_members :: Integer, QuantitativeValue ] or 
 - [ has_number_of_party_members :: Integer, QuantitativeValue ] 
 
 Number of people the reservation should accommodate.

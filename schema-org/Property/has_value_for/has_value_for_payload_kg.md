@@ -36,12 +36,12 @@ Predicate to describe the Quantity of Vehicle.
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has_/value_for/_payload_kg :: QuantitativeValue ] or 
+- [ #has_/value_for_/payload_kg :: QuantitativeValue ] or 
 - [ has_value_for_payload_kg :: QuantitativeValue ] 
 
-The permitted weight of passengers and cargo, EXCLUDING the weight of the empty vehicle.&lt;br/&gt;&lt;br/&gt;
+The permitted weight of passengers and cargo, EXCLUDING the weight of the empty vehicle.\n\n\n\n
 
-Typical unit code(s): KGM for kilogram, LBR for pound&lt;br/&gt;&lt;br/&gt;
+Typical unit code(s): KGM for kilogram, LBR for pound\n\n\n\n
 
 &lt;ul&gt;
 &lt;li&gt;Note 1: Many databases specify the permitted TOTAL weight instead, which is the sum of [[weight]] and [[payload]]&lt;/li&gt;

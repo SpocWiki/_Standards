@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of ExercisePlan.
 
 Use it like this: 
-- [ #has_/value_for/_activity_frequency :: QuantitativeValue, Text ] or 
+- [ #has_/value_for_/activity_frequency :: QuantitativeValue, Text ] or 
 - [ has_value_for_activity_frequency :: QuantitativeValue, Text ] 
 
 How often one should engage in the activity.

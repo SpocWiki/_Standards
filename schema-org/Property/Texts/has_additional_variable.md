@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of ExercisePlan.
 
 Use it like this: 
-- [ #has_/text_about/_additional_variable :: Text ] or 
+- [ #has_/text_about_/additional_variable :: Text ] or 
 - [ has_text_about_additional_variable :: Text ] 
 
 Any additional component of the exercise prescription that may need to be articulated to the patient. This may include the order of exercises, the number of repetitions of movement, quantitative distance, progressions over time, etc.

@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the Text of SoftwareSourceCode.
 
 Use it like this: 
-- [ #has_/text_about/_runtime :: Text ] or 
+- [ #has_/text_about_/runtime :: Text ] or 
 - [ has_text_about_runtime :: Text ] 
 
 Runtime platform or script interpreter dependencies (example: Java v1, Python 2.3, .NET Framework 3.0).

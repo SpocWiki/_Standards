@@ -36,10 +36,10 @@ Predicate to describe the geo of ActionAccessSpecification, DeliveryChargeSpecif
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/geo/_ineligible_region :: GeoShape, Place, Text ] or 
+- [ #has_/geo_/ineligible_region :: GeoShape, Place, Text ] or 
 - [ has_geo_ineligible_region :: GeoShape, Place, Text ] 
 
-The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoShape for the geo-political region(s) for which the offer or delivery charge specification is not valid, e.g. a region where the transaction is not allowed.&lt;br/&gt;&lt;br/&gt;
+The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoShape for the geo-political region(s) for which the offer or delivery charge specification is not valid, e.g. a region where the transaction is not allowed.\n\n\n\n
 
 See also [[eligibleRegion]].
 

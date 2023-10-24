@@ -36,10 +36,10 @@ Predicate to describe the Text of Demand, Offer, Product.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_asin :: Text, URL ] or 
+- [ #has_/text_about_/asin :: Text, URL ] or 
 - [ has_text_about_asin :: Text, URL ] 
 
-An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization (summary from [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number)"s article).&lt;br/&gt;&lt;br/&gt;
+An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization (summary from [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number)"s article).\n\n\n\n
 
 Note also that this is a definition for how to include ASINs in Schema.org data, and not a definition of ASINs in general - see documentation from Amazon for authoritative details.
 ASINs are most commonly encoded as text strings, but the [asin] property supports URL/URI as potential values too.

@@ -34,12 +34,12 @@ aliases:
 Predicate to describe the Quantity of AggregateOffer.
 
 Use it like this: 
-- [ #has_/value_for/_low_price :: Number, Text ] or 
+- [ #has_/value_for_/low_price :: Number, Text ] or 
 - [ has_value_for_low_price :: Number, Text ] 
 
-The lowest price of all offers available.&lt;br/&gt;&lt;br/&gt;
+The lowest price of all offers available.\n\n\n\n
 
-Usage guidelines:&lt;br/&gt;&lt;br/&gt;
+Usage guidelines:\n\n\n\n
 
 &lt;ul&gt;
 &lt;li&gt;Use values from 0123456789 (Unicode 'DIGIT ZERO' (U+0030) to 'DIGIT NINE' (U+0039)) rather than superficially similar Unicode symbols.&lt;/li&gt;

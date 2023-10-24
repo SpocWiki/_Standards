@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of GeoCircle.
 
 Use it like this: 
-- [ #has_/geo/_midpoint :: GeoCoordinates ] or 
+- [ #has_/geo_/midpoint :: GeoCoordinates ] or 
 - [ has_geo_geo_midpoint :: GeoCoordinates ] 
 
 Indicates the GeoCoordinates at the centre of a GeoShape, e.g. GeoCircle.

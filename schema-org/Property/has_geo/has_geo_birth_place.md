@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of Person.
 
 Use it like this: 
-- [ #has_/geo/_birth_place :: Place ] or 
+- [ #has_/geo_/birth_place :: Place ] or 
 - [ has_geo_birth_place :: Place ] 
 
 The place where the person was born.

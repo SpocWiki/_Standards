@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- [ #has_/text_about/_surface :: Text, URL ] or 
+- [ #has_/text_about_/surface :: Text, URL ] or 
 - [ has_text_about_surface :: Text, URL ] 
 
 A material used as a surface in some artwork, e.g. Canvas, Paper, Wood, Board, etc.

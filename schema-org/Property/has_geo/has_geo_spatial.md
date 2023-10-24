@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- [ #has_/geo/_spatial :: Place ] or 
+- [ #has_/geo_/spatial :: Place ] or 
 - [ has_geo_spatial :: Place ] 
 
 The &quot;spatial&quot; property can be used in cases when more specific properties

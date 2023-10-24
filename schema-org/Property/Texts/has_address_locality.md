@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
-- [ #has_/text_about/_address_locality :: Text ] or 
+- [ #has_/text_about_/address_locality :: Text ] or 
 - [ has_text_about_address_locality :: Text ] 
 
 The locality in which the street address is, and which is in the region. For example, Mountain View.

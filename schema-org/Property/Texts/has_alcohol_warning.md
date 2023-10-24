@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_about/_alcohol_warning :: Text ] or 
+- [ #has_/text_about_/alcohol_warning :: Text ] or 
 - [ has_text_about_alcohol_warning :: Text ] 
 
 Any precaution, guidance, contraindication, etc. related to consumption of alcohol while taking this drug.

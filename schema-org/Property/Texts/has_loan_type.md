@@ -36,7 +36,7 @@ Predicate to describe the Text of LoanOrCredit.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_loan_type :: Text, URL ] or 
+- [ #has_/text_about_/loan_type :: Text, URL ] or 
 - [ has_text_about_loan_type :: Text, URL ] 
 
 The type of a loan or credit.

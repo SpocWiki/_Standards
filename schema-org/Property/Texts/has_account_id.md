@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Invoice.
 
 Use it like this: 
-- [ #has_/text_about/_account_id :: Text ] or 
+- [ #has_/text_about_/account_id :: Text ] or 
 - [ has_text_about_account_id :: Text ] 
 
 The identifier for the account the payment will be applied to.

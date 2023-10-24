@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of CreativeWork.
 
 Use it like this: 
-- [ #has_/value_for/_content_rating_stars :: Rating, Text ] or 
+- [ #has_/value_for_/content_rating_stars :: Rating, Text ] or 
 - [ has_value_for_content_rating_stars :: Rating, Text ] 
 
 Official rating of a piece of content&amp;#x2014;for example, 'MPAA PG-13'.

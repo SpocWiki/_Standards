@@ -40,7 +40,7 @@ Type can be either a Duration or a Number
 
 Use it like this: 
 - [has_duration_of_billing::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/duration/_of_billing::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/duration_/of_billing::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 
 Formal Predicate: 

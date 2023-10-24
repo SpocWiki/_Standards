@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of RentalCarReservation, TaxiReservation.
 
 Use it like this: 
-- [ #has_/geo/_pickup_location :: Place ] or 
+- [ #has_/geo_/pickup_location :: Place ] or 
 - [ has_geo_pickup_location :: Place ] 
 
 Where a taxi will pick up a passenger or a rental car can be picked up.

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of RadioSeries, TVSeries, VideoGameSeries.
 
 Use it like this: 
-- [ #has_/number_of/_seasons :: Integer ] or 
+- [ #has_/number_of_/seasons :: Integer ] or 
 - [ has_number_of_seasons :: Integer ] 
 
 The number of seasons in this series.

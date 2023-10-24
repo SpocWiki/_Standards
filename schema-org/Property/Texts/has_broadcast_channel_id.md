@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of BroadcastChannel.
 
 Use it like this: 
-- [ #has_/text_about/_broadcast_channel_id :: Text ] or 
+- [ #has_/text_about_/broadcast_channel_id :: Text ] or 
 - [ has_text_about_broadcast_channel_id :: Text ] 
 
 The unique address by which the BroadcastService can be identified in a provider lineup. In US, this is typically a number.

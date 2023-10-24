@@ -36,7 +36,7 @@ Predicate to describe the Number of StatisticalPopulation.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/number_of/_constraining_properties :: Integer ] or 
+- [ #has_/number_of_/constraining_properties :: Integer ] or 
 - [ has_number_of_constraining_properties :: Integer ] 
 
 Indicates a property used as a constraint to define a <a class="localLink" href="/StatisticalPopulation">StatisticalPopulation</a> with respect to the set of entities

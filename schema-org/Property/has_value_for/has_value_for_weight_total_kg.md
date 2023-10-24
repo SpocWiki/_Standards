@@ -36,12 +36,12 @@ Predicate to describe the Quantity of Vehicle.
 [ #is_/part_of :: https://auto.schema.org ]
 
 Use it like this: 
-- [ #has_/value_for/_weight_total_kg :: QuantitativeValue ] or 
+- [ #has_/value_for_/weight_total_kg :: QuantitativeValue ] or 
 - [ has_value_for_weight_total_kg :: QuantitativeValue ] 
 
-The permitted total weight of the loaded vehicle, including passengers and cargo and the weight of the empty vehicle.&lt;br/&gt;&lt;br/&gt;
+The permitted total weight of the loaded vehicle, including passengers and cargo and the weight of the empty vehicle.\n\n\n\n
 
-Typical unit code(s): KGM for kilogram, LBR for pound&lt;br/&gt;&lt;br/&gt;
+Typical unit code(s): KGM for kilogram, LBR for pound\n\n\n\n
 
 &lt;ul&gt;
 &lt;li&gt;Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.&lt;/li&gt;

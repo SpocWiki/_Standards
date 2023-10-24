@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of MediaObject, OfferShippingDetails, Product, VisualArtwork.
 
 Use it like this: 
-- [ #has_/value_for/_width_in_meters :: Distance, QuantitativeValue ] or 
+- [ #has_/value_for_/width_in_meters :: Distance, QuantitativeValue ] or 
 - [ has_value_for_width_in_meters :: Distance, QuantitativeValue ] 
 
 The width of the item.

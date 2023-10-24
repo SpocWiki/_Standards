@@ -36,7 +36,7 @@ Predicate to describe the time of Trip.
 
 Use it like this: 
 - [has_time_to_depart::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time/_to_depart::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/time_/to_depart::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The expected departure time.
 

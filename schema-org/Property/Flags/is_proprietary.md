@@ -32,7 +32,7 @@ aliases:
 ---
 
 Use these simple Tags to mark Instances as True or False: 
-#is/_proprietary 
+#is_/proprietary 
 #is_not_/proprietary 
 
 Or write it as a Triple: 

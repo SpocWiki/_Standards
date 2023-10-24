@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of AudioObject, VideoObject.
 
 Use it like this: 
-- [ #has_/text_about/_transcript :: Text ] or 
+- [ #has_/text_about_/transcript :: Text ] or 
 - [ has_text_about_transcript :: Text ] 
 
 If this MediaObject is an AudioObject or VideoObject, the transcript of that object.

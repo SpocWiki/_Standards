@@ -36,7 +36,7 @@ Predicate to describe the Text of HealthPlanCostSharingSpecification.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_health_plan_coinsurance_option :: Text ] or 
+- [ #has_/text_about_/health_plan_coinsurance_option :: Text ] or 
 - [ has_text_about_health_plan_coinsurance_option :: Text ] 
 
 Whether the coinsurance applies before or after deductible, etc. TODO: Is this a closed set?

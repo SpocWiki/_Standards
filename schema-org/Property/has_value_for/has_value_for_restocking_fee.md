@@ -36,7 +36,7 @@ Predicate to describe the Quantity of MerchantReturnPolicy.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value_for/_restocking_fee :: MonetaryAmount, Number ] or 
+- [ #has_/value_for_/restocking_fee :: MonetaryAmount, Number ] or 
 - [ has_value_for_restocking_fee :: MonetaryAmount, Number ] 
 
 Use [[MonetaryAmount]] to specify a fixed restocking fee for product returns, or use [[Number]] to specify a percentage of the product price paid by the customer.

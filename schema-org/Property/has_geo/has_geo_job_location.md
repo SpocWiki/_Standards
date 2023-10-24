@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of JobPosting.
 
 Use it like this: 
-- [ #has_/geo/_job_location :: Place ] or 
+- [ #has_/geo_/job_location :: Place ] or 
 - [ has_geo_job_location :: Place ] 
 
 A (typically single) geographic location associated with the job position.

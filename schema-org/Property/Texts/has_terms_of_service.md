@@ -36,7 +36,7 @@ Predicate to describe the Text of Service.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_terms_of_service :: Text, URL ] or 
+- [ #has_/text_about_/terms_of_service :: Text, URL ] or 
 - [ has_text_about_terms_of_service :: Text, URL ] 
 
 Human-readable terms of service documentation.

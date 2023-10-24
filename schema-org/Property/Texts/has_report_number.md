@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Report.
 
 Use it like this: 
-- [ #has_/text_about/_report_number :: Text ] or 
+- [ #has_/text_about_/report_number :: Text ] or 
 - [ has_text_about_report_number :: Text ] 
 
 The number or other unique designator assigned to a Report by the publishing organization.

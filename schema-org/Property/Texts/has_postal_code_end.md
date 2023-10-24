@@ -36,7 +36,7 @@ Predicate to describe the Text of PostalCodeRangeSpecification.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about/_postal_code_end :: Text ] or 
+- [ #has_/text_about_/postal_code_end :: Text ] or 
 - [ has_text_about_postal_code_end :: Text ] 
 
 Last postal code in the range (included). Needs to be after [[postalCodeBegin]].

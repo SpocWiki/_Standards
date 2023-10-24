@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Quantity of DrugCost.
 
 Use it like this: 
-- [ #has_/value_for/_cost_per_unit :: Number, QualitativeValue, Text ] or 
+- [ #has_/value_for_/cost_per_unit :: Number, QualitativeValue, Text ] or 
 - [ has_value_for_cost_per_unit :: Number, QualitativeValue, Text ] 
 
 The cost per unit of the drug.

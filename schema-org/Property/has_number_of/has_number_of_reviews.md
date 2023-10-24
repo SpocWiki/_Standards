@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Number of AggregateRating.
 
 Use it like this: 
-- [ #has_/number_of/_reviews :: Integer ] or 
+- [ #has_/number_of_/reviews :: Integer ] or 
 - [ has_number_of_reviews :: Integer ] 
 
 The count of total number of reviews.

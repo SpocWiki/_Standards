@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the geo of ExerciseAction.
 
 Use it like this: 
-- [ #has_/geo/_exercise_course :: Place ] or 
+- [ #has_/geo_/exercise_course :: Place ] or 
 - [ has_geo_exercise_course :: Place ] 
 
 A sub property of location. The course where this action was taken.

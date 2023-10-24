@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the geo of Place.
 
 Use it like this: 
-- [ #has_/geo/_contained_in :: Place ] or 
+- [ #has_/geo_/contained_in :: Place ] or 
 - [ has_geo_contained_in :: Place ] 
 
 The basic containment relation between a place and one that contains it.

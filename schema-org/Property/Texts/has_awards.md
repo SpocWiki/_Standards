@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the Text of CreativeWork, Organization, Person, Product.
 
 Use it like this: 
-- [ #has_/text_about/_awards :: Text ] or 
+- [ #has_/text_about_/awards :: Text ] or 
 - [ has_text_about_awards :: Text ] 
 
 Awards won by or for this item.

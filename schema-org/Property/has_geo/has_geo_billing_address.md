@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of Order.
 
 Use it like this: 
-- [ #has_/geo/_billing_address :: PostalAddress ] or 
+- [ #has_/geo_/billing_address :: PostalAddress ] or 
 - [ has_geo_billing_address :: PostalAddress ] 
 
 The billing address for the order.

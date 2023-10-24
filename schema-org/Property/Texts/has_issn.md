@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Blog, CreativeWorkSeries, Dataset, WebSite.
 
 Use it like this: 
-- [ #has_/text_about/_issn :: Text ] or 
+- [ #has_/text_about_/issn :: Text ] or 
 - [ has_text_about_issn :: Text ] 
 
 The International Standard Serial Number (ISSN) that identifies this serial publication. You can repeat this property to identify different formats of, or the linking ISSN (ISSN-L) for, this serial publication.

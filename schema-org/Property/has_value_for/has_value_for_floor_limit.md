@@ -36,7 +36,7 @@ Predicate to describe the Quantity of PaymentCard.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/value_for/_floor_limit :: MonetaryAmount ] or 
+- [ #has_/value_for_/floor_limit :: MonetaryAmount ] or 
 - [ has_value_for_floor_limit :: MonetaryAmount ] 
 
 A floor limit is the amount of money above which credit card transactions must be authorized.

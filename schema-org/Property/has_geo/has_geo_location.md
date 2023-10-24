@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of Action, Event, InteractionCounter, Organization.
 
 Use it like this: 
-- [ #has_/geo/_location :: Place, PostalAddress, Text, VirtualLocation ] or 
+- [ #has_/geo_place_/ :: Place, PostalAddress, Text, VirtualLocation ] or 
 - [ has_geo_location :: Place, PostalAddress, Text, VirtualLocation ] 
 
 The location of, for example, where an event is happening, where an organization is located, or where an action takes place.

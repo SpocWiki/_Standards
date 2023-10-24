@@ -36,7 +36,7 @@ Predicate to describe the Duration of EducationalOccupationalProgram.
 
 Use it like this: 
 - [has_duration_of_term::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/duration/_of_term::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/duration_/of_term::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
 The amount of time in a term as defined by the institution. A term is a length of time where students take one or more classes. Semesters and quarters are common units for term.
 
