@@ -83,13 +83,14 @@ URL of the item.
 
 Url:: {"type":"Input","options":{}}
 
-### Class 
+### Class and fileClass
 Using the [[../../Knowledge/Ontology/Turtle(Terse_RDF_Triple_Language)|Turtle(Terse_RDF_Triple_Language)]]/[[../../Knowledge/Ontology/N3(Notation3)|N3(Notation3)]] Syntax, 
 because it is common, better readable and less abstract. 
 Alternatively could also be described with a Relation `has_class` ,
 but this would confound it with regular Relations.
 
 is_a::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
+fileClass::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
 
 has_time_created:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 has_time_destroyed:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
