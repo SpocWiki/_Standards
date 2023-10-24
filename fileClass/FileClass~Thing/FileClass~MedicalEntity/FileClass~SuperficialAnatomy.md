@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SuperficialAnatomy, class/Thing/MedicalEntity/SuperficialAnatomy, is_a_/SuperficialAnatomy, schema-org/SuperficialAnatomy]
-tags: ["class/SuperficialAnatomy", "#is_a_/SuperficialAnatomy", "class/Thing/MedicalEntity/SuperficialAnatomy"]
+tags: ["class/FileClass", "class/SuperficialAnatomy", "is_a_/SuperficialAnatomy", "class/Thing/MedicalEntity/SuperficialAnatomy"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 

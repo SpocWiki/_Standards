@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/VacationRental, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/VacationRental, is_a_/VacationRental, schema-org/VacationRental]
-tags: ["class/VacationRental", "#is_a_/VacationRental", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/VacationRental"]
+tags: ["class/FileClass", "class/VacationRental", "is_a_/VacationRental", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/VacationRental"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness
 ---
 

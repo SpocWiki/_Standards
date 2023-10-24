@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalGuideline, class/Thing/MedicalEntity/MedicalGuideline, is_a_/MedicalGuideline, schema-org/MedicalGuideline]
-tags: ["class/MedicalGuideline", "#is_a_/MedicalGuideline", "class/Thing/MedicalEntity/MedicalGuideline"]
+tags: ["class/FileClass", "class/MedicalGuideline", "is_a_/MedicalGuideline", "class/Thing/MedicalEntity/MedicalGuideline"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SportsActivityLocation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation, is_a_/SportsActivityLocation, schema-org/SportsActivityLocation]
-tags: ["class/SportsActivityLocation", "#is_a_/SportsActivityLocation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation"]
+tags: ["class/FileClass", "class/SportsActivityLocation", "is_a_/SportsActivityLocation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 

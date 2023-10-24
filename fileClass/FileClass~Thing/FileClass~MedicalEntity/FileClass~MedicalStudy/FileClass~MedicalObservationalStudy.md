@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalObservationalStudy, class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy, is_a_/MedicalObservationalStudy, schema-org/MedicalObservationalStudy]
-tags: ["class/MedicalObservationalStudy", "#is_a_/MedicalObservationalStudy", "class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy"]
+tags: ["class/FileClass", "class/MedicalObservationalStudy", "is_a_/MedicalObservationalStudy", "class/Thing/MedicalEntity/MedicalStudy/MedicalObservationalStudy"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy
 ---
 

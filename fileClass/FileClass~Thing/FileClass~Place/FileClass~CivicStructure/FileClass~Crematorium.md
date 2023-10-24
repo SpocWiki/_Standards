@@ -5,7 +5,7 @@ excludes:
 icon: skull
 version: 5
 tagNames: [class/Crematorium, class/Thing/Place/CivicStructure/Crematorium, is_a_/Crematorium, schema-org/Crematorium]
-tags: ["class/Crematorium", "#is_a_/Crematorium", "class/Thing/Place/CivicStructure/Crematorium"]
+tags: ["class/FileClass", "class/Crematorium", "is_a_/Crematorium", "class/Thing/Place/CivicStructure/Crematorium"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 

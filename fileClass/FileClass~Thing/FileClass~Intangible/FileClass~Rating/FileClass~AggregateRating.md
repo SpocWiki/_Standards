@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AggregateRating, class/Thing/Intangible/Rating/AggregateRating, is_an_/AggregateRating, schema-org/AggregateRating]
-tags: ["class/AggregateRating", "#is_an_/AggregateRating", "class/Thing/Intangible/Rating/AggregateRating"]
+tags: ["class/FileClass", "class/AggregateRating", "#is_an_/AggregateRating", "class/Thing/Intangible/Rating/AggregateRating"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating
 ---
 

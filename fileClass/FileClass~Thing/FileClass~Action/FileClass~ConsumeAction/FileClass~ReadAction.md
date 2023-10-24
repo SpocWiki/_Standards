@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReadAction, class/Thing/Action/ConsumeAction/ReadAction, is_a_/ReadAction, schema-org/ReadAction]
-tags: ["class/ReadAction", "#is_a_/ReadAction", "class/Thing/Action/ConsumeAction/ReadAction"]
+tags: ["class/FileClass", "class/ReadAction", "is_a_/ReadAction", "class/Thing/Action/ConsumeAction/ReadAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 ---
 

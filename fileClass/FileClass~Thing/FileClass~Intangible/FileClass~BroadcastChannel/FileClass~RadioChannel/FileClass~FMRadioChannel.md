@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FMRadioChannel, class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel, is_a_/FMRadioChannel, schema-org/FMRadioChannel]
-tags: ["class/FMRadioChannel", "#is_a_/FMRadioChannel", "class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel"]
+tags: ["class/FileClass", "class/FMRadioChannel", "is_a_/FMRadioChannel", "class/Thing/Intangible/BroadcastChannel/RadioChannel/FMRadioChannel"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel
 ---
 

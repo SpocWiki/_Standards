@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AchieveAction, class/Thing/Action/AchieveAction, is_an_/AchieveAction, schema-org/AchieveAction]
-tags: ["class/AchieveAction", "#is_an_/AchieveAction", "class/Thing/Action/AchieveAction"]
+tags: ["class/FileClass", "class/AchieveAction", "#is_an_/AchieveAction", "class/Thing/Action/AchieveAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 

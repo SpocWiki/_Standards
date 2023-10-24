@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WarrantyPromise, class/Thing/Intangible/StructuredValue/WarrantyPromise, is_a_/WarrantyPromise, schema-org/WarrantyPromise]
-tags: ["class/WarrantyPromise", "#is_a_/WarrantyPromise", "class/Thing/Intangible/StructuredValue/WarrantyPromise"]
+tags: ["class/FileClass", "class/WarrantyPromise", "is_a_/WarrantyPromise", "class/Thing/Intangible/StructuredValue/WarrantyPromise"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

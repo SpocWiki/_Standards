@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RegisterAction, class/Thing/Action/InteractAction/RegisterAction, is_a_/RegisterAction, schema-org/RegisterAction]
-tags: ["class/RegisterAction", "#is_a_/RegisterAction", "class/Thing/Action/InteractAction/RegisterAction"]
+tags: ["class/FileClass", "class/RegisterAction", "is_a_/RegisterAction", "class/Thing/Action/InteractAction/RegisterAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 ---
 

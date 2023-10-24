@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/StructuredValue, class/Thing/Intangible/StructuredValue, is_a_/StructuredValue, schema-org/StructuredValue]
-tags: ["class/StructuredValue", "#is_a_/StructuredValue", "class/Thing/Intangible/StructuredValue"]
+tags: ["class/FileClass", "class/StructuredValue", "is_a_/StructuredValue", "class/Thing/Intangible/StructuredValue"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

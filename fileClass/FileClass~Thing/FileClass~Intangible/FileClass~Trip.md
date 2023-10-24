@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Trip, class/Thing/Intangible/Trip, is_a_/Trip, schema-org/Trip]
-tags: ["class/Trip", "#is_a_/Trip", "class/Thing/Intangible/Trip"]
+tags: ["class/FileClass", "class/Trip", "is_a_/Trip", "class/Thing/Intangible/Trip"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

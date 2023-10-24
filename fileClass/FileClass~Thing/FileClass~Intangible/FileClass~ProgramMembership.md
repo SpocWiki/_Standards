@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ProgramMembership, class/Thing/Intangible/ProgramMembership, is_a_/ProgramMembership, schema-org/ProgramMembership]
-tags: ["class/ProgramMembership", "#is_a_/ProgramMembership", "class/Thing/Intangible/ProgramMembership"]
+tags: ["class/FileClass", "class/ProgramMembership", "is_a_/ProgramMembership", "class/Thing/Intangible/ProgramMembership"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

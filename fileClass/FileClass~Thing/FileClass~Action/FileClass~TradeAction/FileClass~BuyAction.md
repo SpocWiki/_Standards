@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BuyAction, class/Thing/Action/TradeAction/BuyAction, is_a_/BuyAction, schema-org/BuyAction]
-tags: ["class/BuyAction", "#is_a_/BuyAction", "class/Thing/Action/TradeAction/BuyAction"]
+tags: ["class/FileClass", "class/BuyAction", "is_a_/BuyAction", "class/Thing/Action/TradeAction/BuyAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---
 

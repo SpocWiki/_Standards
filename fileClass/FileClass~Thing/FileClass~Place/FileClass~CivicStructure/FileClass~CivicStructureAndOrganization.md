@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CivicStructureAndOrganization, class/Thing/Place/CivicStructure/CivicStructureAndOrganization, is_a_/CivicStructureAndOrganization, schema-org/CivicStructureAndOrganization]
-tags: ["class/CivicStructureAndOrganization", "#is_a_/CivicStructureAndOrganization", "class/Thing/Place/CivicStructure/CivicStructureAndOrganization"]
+tags: ["class/FileClass", "class/CivicStructureAndOrganization", "is_a_/CivicStructureAndOrganization", "class/Thing/Place/CivicStructure/CivicStructureAndOrganization"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 

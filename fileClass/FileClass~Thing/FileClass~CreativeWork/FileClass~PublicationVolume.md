@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PublicationVolume, class/Thing/CreativeWork/PublicationVolume, is_a_/PublicationVolume, schema-org/PublicationVolume]
-tags: ["class/PublicationVolume", "#is_a_/PublicationVolume", "class/Thing/CreativeWork/PublicationVolume"]
+tags: ["class/FileClass", "class/PublicationVolume", "is_a_/PublicationVolume", "class/Thing/CreativeWork/PublicationVolume"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

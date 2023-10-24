@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TipAction, class/Thing/Action/TradeAction/TipAction, is_a_/TipAction, schema-org/TipAction]
-tags: ["class/TipAction", "#is_a_/TipAction", "class/Thing/Action/TradeAction/TipAction"]
+tags: ["class/FileClass", "class/TipAction", "is_a_/TipAction", "class/Thing/Action/TradeAction/TipAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---
 

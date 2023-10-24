@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InviteAction, class/Thing/Action/InteractAction/CommunicateAction/InviteAction, is_an_/InviteAction, schema-org/InviteAction]
-tags: ["class/InviteAction", "#is_an_/InviteAction", "class/Thing/Action/InteractAction/CommunicateAction/InviteAction"]
+tags: ["class/FileClass", "class/InviteAction", "#is_an_/InviteAction", "class/Thing/Action/InteractAction/CommunicateAction/InviteAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---
 

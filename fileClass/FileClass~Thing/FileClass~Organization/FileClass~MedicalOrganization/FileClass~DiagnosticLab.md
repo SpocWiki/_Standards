@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DiagnosticLab, class/Thing/Organization/MedicalOrganization/DiagnosticLab, is_a_/DiagnosticLab, schema-org/DiagnosticLab]
-tags: ["class/DiagnosticLab", "#is_a_/DiagnosticLab", "class/Thing/Organization/MedicalOrganization/DiagnosticLab"]
+tags: ["class/FileClass", "class/DiagnosticLab", "is_a_/DiagnosticLab", "class/Thing/Organization/MedicalOrganization/DiagnosticLab"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization
 ---
 

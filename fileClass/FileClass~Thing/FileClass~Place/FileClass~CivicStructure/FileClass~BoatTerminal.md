@@ -5,7 +5,7 @@ excludes:
 icon: anchor
 version: 5
 tagNames: [class/BoatTerminal, class/Thing/Place/CivicStructure/BoatTerminal, is_a_/BoatTerminal, schema-org/BoatTerminal]
-tags: ["class/BoatTerminal", "#is_a_/BoatTerminal", "class/Thing/Place/CivicStructure/BoatTerminal"]
+tags: ["class/FileClass", "class/BoatTerminal", "is_a_/BoatTerminal", "class/Thing/Place/CivicStructure/BoatTerminal"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 

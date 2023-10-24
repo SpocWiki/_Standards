@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Poster, class/Thing/CreativeWork/Poster, is_a_/Poster, schema-org/Poster]
-tags: ["class/Poster", "#is_a_/Poster", "class/Thing/CreativeWork/Poster"]
+tags: ["class/FileClass", "class/Poster", "is_a_/Poster", "class/Thing/CreativeWork/Poster"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

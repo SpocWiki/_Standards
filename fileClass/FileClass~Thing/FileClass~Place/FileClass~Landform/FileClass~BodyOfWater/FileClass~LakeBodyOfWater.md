@@ -5,7 +5,7 @@ excludes:
 icon: waves
 version: 5
 tagNames: [class/LakeBodyOfWater, class/Thing/Place/Landform/BodyOfWater/LakeBodyOfWater, is_a_/LakeBodyOfWater, schema-org/LakeBodyOfWater]
-tags: ["class/LakeBodyOfWater", "#is_a_/LakeBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/LakeBodyOfWater"]
+tags: ["class/FileClass", "class/LakeBodyOfWater", "is_a_/LakeBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/LakeBodyOfWater"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
 ---
 

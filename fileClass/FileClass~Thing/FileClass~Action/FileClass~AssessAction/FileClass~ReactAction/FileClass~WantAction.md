@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WantAction, class/Thing/Action/AssessAction/ReactAction/WantAction, is_a_/WantAction, schema-org/WantAction]
-tags: ["class/WantAction", "#is_a_/WantAction", "class/Thing/Action/AssessAction/ReactAction/WantAction"]
+tags: ["class/FileClass", "class/WantAction", "is_a_/WantAction", "class/Thing/Action/AssessAction/ReactAction/WantAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 ---
 

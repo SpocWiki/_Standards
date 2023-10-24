@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CreativeWorkSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries, is_a_/CreativeWorkSeries, schema-org/CreativeWorkSeries]
-tags: ["class/CreativeWorkSeries", "#is_a_/CreativeWorkSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries"]
+tags: ["class/FileClass", "class/CreativeWorkSeries", "is_a_/CreativeWorkSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries
 ---
 

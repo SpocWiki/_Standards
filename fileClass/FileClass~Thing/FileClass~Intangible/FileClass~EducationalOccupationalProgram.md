@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EducationalOccupationalProgram, class/Thing/Intangible/EducationalOccupationalProgram, is_an_/EducationalOccupationalProgram, schema-org/EducationalOccupationalProgram]
-tags: ["class/EducationalOccupationalProgram", "#is_an_/EducationalOccupationalProgram", "class/Thing/Intangible/EducationalOccupationalProgram"]
+tags: ["class/FileClass", "class/EducationalOccupationalProgram", "#is_an_/EducationalOccupationalProgram", "class/Thing/Intangible/EducationalOccupationalProgram"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MerchantReturnPolicy, class/Thing/Intangible/MerchantReturnPolicy, is_a_/MerchantReturnPolicy, schema-org/MerchantReturnPolicy]
-tags: ["class/MerchantReturnPolicy", "#is_a_/MerchantReturnPolicy", "class/Thing/Intangible/MerchantReturnPolicy"]
+tags: ["class/FileClass", "class/MerchantReturnPolicy", "is_a_/MerchantReturnPolicy", "class/Thing/Intangible/MerchantReturnPolicy"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

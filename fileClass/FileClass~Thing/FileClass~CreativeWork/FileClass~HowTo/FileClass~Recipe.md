@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Recipe, class/Thing/CreativeWork/HowTo/Recipe, is_a_/Recipe, schema-org/Recipe]
-tags: ["class/Recipe", "#is_a_/Recipe", "class/Thing/CreativeWork/HowTo/Recipe"]
+tags: ["class/FileClass", "class/Recipe", "is_a_/Recipe", "class/Thing/CreativeWork/HowTo/Recipe"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo
 ---
 

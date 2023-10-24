@@ -5,7 +5,7 @@ excludes:
 icon: plus-circle
 version: 5
 tagNames: [class/MedicalEntity, class/Thing/MedicalEntity, is_a_/MedicalEntity, schema-org/MedicalEntity]
-tags: ["class/MedicalEntity", "#is_a_/MedicalEntity", "class/Thing/MedicalEntity"]
+tags: ["class/FileClass", "class/MedicalEntity", "is_a_/MedicalEntity", "class/Thing/MedicalEntity"]
 extends: FileClass~Thing
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MortgageLoan, class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan, is_a_/MortgageLoan, schema-org/MortgageLoan]
-tags: ["class/MortgageLoan", "#is_a_/MortgageLoan", "class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan"]
+tags: ["class/FileClass", "class/MortgageLoan", "is_a_/MortgageLoan", "class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit
 ---
 

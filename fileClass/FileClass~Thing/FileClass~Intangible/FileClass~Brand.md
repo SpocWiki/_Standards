@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Brand, class/Thing/Intangible/Brand, is_a_/Brand, schema-org/Brand]
-tags: ["class/Brand", "#is_a_/Brand", "class/Thing/Intangible/Brand"]
+tags: ["class/FileClass", "class/Brand", "is_a_/Brand", "class/Thing/Intangible/Brand"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

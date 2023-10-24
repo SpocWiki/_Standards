@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Museum, class/Thing/Place/CivicStructure/Museum, is_a_/Museum, schema-org/Museum]
-tags: ["class/Museum", "#is_a_/Museum", "class/Thing/Place/CivicStructure/Museum"]
+tags: ["class/FileClass", "class/Museum", "is_a_/Museum", "class/Thing/Place/CivicStructure/Museum"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 

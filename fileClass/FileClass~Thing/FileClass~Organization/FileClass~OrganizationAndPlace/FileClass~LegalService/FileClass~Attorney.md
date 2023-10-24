@@ -5,7 +5,7 @@ excludes:
 icon: scale
 version: 5
 tagNames: [class/Attorney, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney, is_an_/Attorney, schema-org/Attorney]
-tags: ["class/Attorney", "#is_an_/Attorney", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney"]
+tags: ["class/FileClass", "class/Attorney", "#is_an_/Attorney", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LegalService/Attorney"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService
 ---
 

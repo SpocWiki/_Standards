@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HobbyShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HobbyShop, is_a_/HobbyShop, schema-org/HobbyShop]
-tags: ["class/HobbyShop", "#is_a_/HobbyShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HobbyShop"]
+tags: ["class/FileClass", "class/HobbyShop", "is_a_/HobbyShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HobbyShop"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 

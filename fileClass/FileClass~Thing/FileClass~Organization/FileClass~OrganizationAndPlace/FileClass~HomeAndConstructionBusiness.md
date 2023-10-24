@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HomeAndConstructionBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness, is_a_/HomeAndConstructionBusiness, schema-org/HomeAndConstructionBusiness]
-tags: ["class/HomeAndConstructionBusiness", "#is_a_/HomeAndConstructionBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness"]
+tags: ["class/FileClass", "class/HomeAndConstructionBusiness", "is_a_/HomeAndConstructionBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 

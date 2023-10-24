@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PropertyValueSpecification, class/Thing/Intangible/PropertyValueSpecification, is_a_/PropertyValueSpecification, schema-org/PropertyValueSpecification]
-tags: ["class/PropertyValueSpecification", "#is_a_/PropertyValueSpecification", "class/Thing/Intangible/PropertyValueSpecification"]
+tags: ["class/FileClass", "class/PropertyValueSpecification", "is_a_/PropertyValueSpecification", "class/Thing/Intangible/PropertyValueSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

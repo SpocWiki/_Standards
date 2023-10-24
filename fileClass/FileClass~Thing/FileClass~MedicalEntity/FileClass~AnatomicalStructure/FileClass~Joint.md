@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Joint, class/Thing/MedicalEntity/AnatomicalStructure/Joint, is_a_/Joint, schema-org/Joint]
-tags: ["class/Joint", "#is_a_/Joint", "class/Thing/MedicalEntity/AnatomicalStructure/Joint"]
+tags: ["class/FileClass", "class/Joint", "is_a_/Joint", "class/Thing/MedicalEntity/AnatomicalStructure/Joint"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---
 

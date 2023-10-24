@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SendAction, class/Thing/Action/TransferAction/SendAction, is_a_/SendAction, schema-org/SendAction]
-tags: ["class/SendAction", "#is_a_/SendAction", "class/Thing/Action/TransferAction/SendAction"]
+tags: ["class/FileClass", "class/SendAction", "is_a_/SendAction", "class/Thing/Action/TransferAction/SendAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 

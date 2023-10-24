@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FAQPage, class/Thing/CreativeWork/WebPage/FAQPage, is_a_/FAQPage, schema-org/FAQPage]
-tags: ["class/FAQPage", "#is_a_/FAQPage", "class/Thing/CreativeWork/WebPage/FAQPage"]
+tags: ["class/FileClass", "class/FAQPage", "is_a_/FAQPage", "class/Thing/CreativeWork/WebPage/FAQPage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---
 

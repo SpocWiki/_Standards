@@ -5,7 +5,7 @@ excludes:
 icon: bike
 version: 5
 tagNames: [class/BikeStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore, is_a_/BikeStore, schema-org/BikeStore]
-tags: ["class/BikeStore", "#is_a_/BikeStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore"]
+tags: ["class/FileClass", "class/BikeStore", "is_a_/BikeStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 

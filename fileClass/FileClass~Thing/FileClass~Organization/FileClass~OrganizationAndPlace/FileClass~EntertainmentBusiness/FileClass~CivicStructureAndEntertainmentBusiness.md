@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CivicStructureAndEntertainmentBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/CivicStructureAndEntertainmentBusiness, is_a_/CivicStructureAndEntertainmentBusiness, schema-org/CivicStructureAndEntertainmentBusiness]
-tags: ["class/CivicStructureAndEntertainmentBusiness", "#is_a_/CivicStructureAndEntertainmentBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/CivicStructureAndEntertainmentBusiness"]
+tags: ["class/FileClass", "class/CivicStructureAndEntertainmentBusiness", "is_a_/CivicStructureAndEntertainmentBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/CivicStructureAndEntertainmentBusiness"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness
 ---
 

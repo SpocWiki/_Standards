@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LeaveAction, class/Thing/Action/InteractAction/LeaveAction, is_a_/LeaveAction, schema-org/LeaveAction]
-tags: ["class/LeaveAction", "#is_a_/LeaveAction", "class/Thing/Action/InteractAction/LeaveAction"]
+tags: ["class/FileClass", "class/LeaveAction", "is_a_/LeaveAction", "class/Thing/Action/InteractAction/LeaveAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 ---
 

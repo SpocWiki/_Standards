@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Play, class/Thing/CreativeWork/Play, is_a_/Play, schema-org/Play]
-tags: ["class/Play", "#is_a_/Play", "class/Thing/CreativeWork/Play"]
+tags: ["class/FileClass", "class/Play", "is_a_/Play", "class/Thing/CreativeWork/Play"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

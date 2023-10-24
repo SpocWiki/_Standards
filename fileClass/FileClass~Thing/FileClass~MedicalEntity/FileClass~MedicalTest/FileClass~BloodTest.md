@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BloodTest, class/Thing/MedicalEntity/MedicalTest/BloodTest, is_a_/BloodTest, schema-org/BloodTest]
-tags: ["class/BloodTest", "#is_a_/BloodTest", "class/Thing/MedicalEntity/MedicalTest/BloodTest"]
+tags: ["class/FileClass", "class/BloodTest", "is_a_/BloodTest", "class/Thing/MedicalEntity/MedicalTest/BloodTest"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 ---
 

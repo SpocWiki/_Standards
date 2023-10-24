@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HowToDirection, class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection, is_a_/HowToDirection, schema-org/HowToDirection]
-tags: ["class/HowToDirection", "#is_a_/HowToDirection", "class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection"]
+tags: ["class/FileClass", "class/HowToDirection", "is_a_/HowToDirection", "class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem
 ---
 

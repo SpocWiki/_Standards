@@ -5,7 +5,7 @@ excludes:
 icon: person-standing
 version: 5
 tagNames: [class/Person, class/Thing/Person, is_a_/Person, schema-org/Person]
-tags: ["class/Person", "#is_a_/Person", "class/Thing/Person"]
+tags: ["class/FileClass", "class/Person", "is_a_/Person", "class/Thing/Person"]
 extends: FileClass~Thing
 ---
 

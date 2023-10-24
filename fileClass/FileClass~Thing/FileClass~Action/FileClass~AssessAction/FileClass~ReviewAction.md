@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReviewAction, class/Thing/Action/AssessAction/ReviewAction, is_a_/ReviewAction, schema-org/ReviewAction]
-tags: ["class/ReviewAction", "#is_a_/ReviewAction", "class/Thing/Action/AssessAction/ReviewAction"]
+tags: ["class/FileClass", "class/ReviewAction", "is_a_/ReviewAction", "class/Thing/Action/AssessAction/ReviewAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 ---
 

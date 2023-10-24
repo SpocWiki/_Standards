@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OrderItem, class/Thing/Intangible/OrderItem, is_an_/OrderItem, schema-org/OrderItem]
-tags: ["class/OrderItem", "#is_an_/OrderItem", "class/Thing/Intangible/OrderItem"]
+tags: ["class/FileClass", "class/OrderItem", "#is_an_/OrderItem", "class/Thing/Intangible/OrderItem"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

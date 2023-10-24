@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Barcode, class/Thing/CreativeWork/MediaObject/ImageObject/Barcode, is_a_/Barcode, schema-org/Barcode]
-tags: ["class/Barcode", "#is_a_/Barcode", "class/Thing/CreativeWork/MediaObject/ImageObject/Barcode"]
+tags: ["class/FileClass", "class/Barcode", "is_a_/Barcode", "class/Thing/CreativeWork/MediaObject/ImageObject/Barcode"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MenuItem, class/Thing/Intangible/MenuItem, is_a_/MenuItem, schema-org/MenuItem]
-tags: ["class/MenuItem", "#is_a_/MenuItem", "class/Thing/Intangible/MenuItem"]
+tags: ["class/FileClass", "class/MenuItem", "is_a_/MenuItem", "class/Thing/Intangible/MenuItem"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

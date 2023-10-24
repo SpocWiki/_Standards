@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PostalAddress, class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress, is_a_/PostalAddress, schema-org/PostalAddress]
-tags: ["class/PostalAddress", "#is_a_/PostalAddress", "class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress"]
+tags: ["class/FileClass", "class/PostalAddress", "is_a_/PostalAddress", "class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint
 ---
 

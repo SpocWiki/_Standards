@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SkiResort, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation/SkiResort, is_a_/SkiResort, schema-org/SkiResort]
-tags: ["class/SkiResort", "#is_a_/SkiResort", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation/SkiResort"]
+tags: ["class/FileClass", "class/SkiResort", "is_a_/SkiResort", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation/SkiResort"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort/FileClass~ResortAndSportsActivityLocation
 ---
 

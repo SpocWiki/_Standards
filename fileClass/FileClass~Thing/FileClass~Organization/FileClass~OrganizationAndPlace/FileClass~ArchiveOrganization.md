@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ArchiveOrganization, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization, is_an_/ArchiveOrganization, schema-org/ArchiveOrganization]
-tags: ["class/ArchiveOrganization", "#is_an_/ArchiveOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization"]
+tags: ["class/FileClass", "class/ArchiveOrganization", "#is_an_/ArchiveOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 

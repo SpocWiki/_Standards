@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MediaGallery, class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery, is_a_/MediaGallery, schema-org/MediaGallery]
-tags: ["class/MediaGallery", "#is_a_/MediaGallery", "class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery"]
+tags: ["class/FileClass", "class/MediaGallery", "is_a_/MediaGallery", "class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage
 ---
 

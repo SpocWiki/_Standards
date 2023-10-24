@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Permit, class/Thing/Intangible/Permit, is_a_/Permit, schema-org/Permit]
-tags: ["class/Permit", "#is_a_/Permit", "class/Thing/Intangible/Permit"]
+tags: ["class/FileClass", "class/Permit", "is_a_/Permit", "class/Thing/Intangible/Permit"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

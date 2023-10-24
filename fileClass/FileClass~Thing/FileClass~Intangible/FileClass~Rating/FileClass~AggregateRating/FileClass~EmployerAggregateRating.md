@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EmployerAggregateRating, class/Thing/Intangible/Rating/AggregateRating/EmployerAggregateRating, is_an_/EmployerAggregateRating, schema-org/EmployerAggregateRating]
-tags: ["class/EmployerAggregateRating", "#is_an_/EmployerAggregateRating", "class/Thing/Intangible/Rating/AggregateRating/EmployerAggregateRating"]
+tags: ["class/FileClass", "class/EmployerAggregateRating", "#is_an_/EmployerAggregateRating", "class/Thing/Intangible/Rating/AggregateRating/EmployerAggregateRating"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating
 ---
 

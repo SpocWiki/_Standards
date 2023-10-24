@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Landform, class/Thing/Place/Landform, is_a_/Landform, schema-org/Landform]
-tags: ["class/Landform", "#is_a_/Landform", "class/Thing/Place/Landform"]
+tags: ["class/FileClass", "class/Landform", "is_a_/Landform", "class/Thing/Place/Landform"]
 extends: FileClass~Thing/FileClass~Place
 ---
 

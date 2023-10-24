@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReactAction, class/Thing/Action/AssessAction/ReactAction, is_a_/ReactAction, schema-org/ReactAction]
-tags: ["class/ReactAction", "#is_a_/ReactAction", "class/Thing/Action/AssessAction/ReactAction"]
+tags: ["class/FileClass", "class/ReactAction", "is_a_/ReactAction", "class/Thing/Action/AssessAction/ReactAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 ---
 

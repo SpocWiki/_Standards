@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WPAdBlock, class/Thing/CreativeWork/WebPageElement/WPAdBlock, is_a_/WPAdBlock, schema-org/WPAdBlock]
-tags: ["class/WPAdBlock", "#is_a_/WPAdBlock", "class/Thing/CreativeWork/WebPageElement/WPAdBlock"]
+tags: ["class/FileClass", "class/WPAdBlock", "is_a_/WPAdBlock", "class/Thing/CreativeWork/WebPageElement/WPAdBlock"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReturnAction, class/Thing/Action/TransferAction/ReturnAction, is_a_/ReturnAction, schema-org/ReturnAction]
-tags: ["class/ReturnAction", "#is_a_/ReturnAction", "class/Thing/Action/TransferAction/ReturnAction"]
+tags: ["class/FileClass", "class/ReturnAction", "is_a_/ReturnAction", "class/Thing/Action/TransferAction/ReturnAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 

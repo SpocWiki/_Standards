@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Playground, class/Thing/Place/CivicStructure/Playground, is_a_/Playground, schema-org/Playground]
-tags: ["class/Playground", "#is_a_/Playground", "class/Thing/Place/CivicStructure/Playground"]
+tags: ["class/FileClass", "class/Playground", "is_a_/Playground", "class/Thing/Place/CivicStructure/Playground"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 

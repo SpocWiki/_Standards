@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/StatisticalPopulation, class/Thing/Intangible/StatisticalPopulation, is_a_/StatisticalPopulation, schema-org/StatisticalPopulation]
-tags: ["class/StatisticalPopulation", "#is_a_/StatisticalPopulation", "class/Thing/Intangible/StatisticalPopulation"]
+tags: ["class/FileClass", "class/StatisticalPopulation", "is_a_/StatisticalPopulation", "class/Thing/Intangible/StatisticalPopulation"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: bike
 version: 5
 tagNames: [class/Motorcycle, class/Thing/Product/Vehicle/Motorcycle, is_a_/Motorcycle, schema-org/Motorcycle]
-tags: ["class/Motorcycle", "#is_a_/Motorcycle", "class/Thing/Product/Vehicle/Motorcycle"]
+tags: ["class/FileClass", "class/Motorcycle", "is_a_/Motorcycle", "class/Thing/Product/Vehicle/Motorcycle"]
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 ---
 

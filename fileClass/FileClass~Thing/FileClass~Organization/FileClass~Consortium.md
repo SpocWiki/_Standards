@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Consortium, class/Thing/Organization/Consortium, is_a_/Consortium, schema-org/Consortium]
-tags: ["class/Consortium", "#is_a_/Consortium", "class/Thing/Organization/Consortium"]
+tags: ["class/FileClass", "class/Consortium", "is_a_/Consortium", "class/Thing/Organization/Consortium"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 

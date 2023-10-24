@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Seat, class/Thing/Intangible/Seat, is_a_/Seat, schema-org/Seat]
-tags: ["class/Seat", "#is_a_/Seat", "class/Thing/Intangible/Seat"]
+tags: ["class/FileClass", "class/Seat", "is_a_/Seat", "class/Thing/Intangible/Seat"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BroadcastFrequencySpecification, class/Thing/Intangible/BroadcastFrequencySpecification, is_a_/BroadcastFrequencySpecification, schema-org/BroadcastFrequencySpecification]
-tags: ["class/BroadcastFrequencySpecification", "#is_a_/BroadcastFrequencySpecification", "class/Thing/Intangible/BroadcastFrequencySpecification"]
+tags: ["class/FileClass", "class/BroadcastFrequencySpecification", "is_a_/BroadcastFrequencySpecification", "class/Thing/Intangible/BroadcastFrequencySpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

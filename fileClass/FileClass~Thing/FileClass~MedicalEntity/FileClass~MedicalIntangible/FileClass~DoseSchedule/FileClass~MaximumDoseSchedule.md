@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MaximumDoseSchedule, class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule, is_a_/MaximumDoseSchedule, schema-org/MaximumDoseSchedule]
-tags: ["class/MaximumDoseSchedule", "#is_a_/MaximumDoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule"]
+tags: ["class/FileClass", "class/MaximumDoseSchedule", "is_a_/MaximumDoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule
 ---
 

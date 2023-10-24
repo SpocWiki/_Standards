@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Thing, class/Thing, schema-org/Thing]
-tags: ["class/Thing", "#is_/a_/Thing", "class/Thing"]
+tags: ["class/FileClass", "class/Thing", "#is_/a_/Thing", "class/Thing"]
 ---
 
 # Thing
@@ -90,7 +90,7 @@ Alternatively could also be described with a Relation `has_class` ,
 but this would confound it with regular Relations.
 
 is_a::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
-fileClass::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
+fileClass::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/FileClass')"}}
 
 has_time_created:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 has_time_destroyed:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

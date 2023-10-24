@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CurrencyConversionService, class/Thing/Intangible/Service/FinancialProduct/CurrencyConversionService, is_a_/CurrencyConversionService, schema-org/CurrencyConversionService]
-tags: ["class/CurrencyConversionService", "#is_a_/CurrencyConversionService", "class/Thing/Intangible/Service/FinancialProduct/CurrencyConversionService"]
+tags: ["class/FileClass", "class/CurrencyConversionService", "is_a_/CurrencyConversionService", "class/Thing/Intangible/Service/FinancialProduct/CurrencyConversionService"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 ---
 

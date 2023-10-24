@@ -5,7 +5,7 @@ excludes:
 icon: tent
 version: 5
 tagNames: [class/Campground, class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground, is_a_/Campground, schema-org/Campground]
-tags: ["class/Campground", "#is_a_/Campground", "class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground"]
+tags: ["class/FileClass", "class/Campground", "is_a_/Campground", "class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness
 ---
 

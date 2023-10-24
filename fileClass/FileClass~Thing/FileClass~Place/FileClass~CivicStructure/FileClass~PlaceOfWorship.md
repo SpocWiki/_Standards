@@ -5,7 +5,7 @@ excludes:
 icon: church
 version: 5
 tagNames: [class/PlaceOfWorship, class/Thing/Place/CivicStructure/PlaceOfWorship, is_a_/PlaceOfWorship, schema-org/PlaceOfWorship]
-tags: ["class/PlaceOfWorship", "#is_a_/PlaceOfWorship", "class/Thing/Place/CivicStructure/PlaceOfWorship"]
+tags: ["class/FileClass", "class/PlaceOfWorship", "is_a_/PlaceOfWorship", "class/Thing/Place/CivicStructure/PlaceOfWorship"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 

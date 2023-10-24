@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InvestmentOrDeposit, class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit, is_an_/InvestmentOrDeposit, schema-org/InvestmentOrDeposit]
-tags: ["class/InvestmentOrDeposit", "#is_an_/InvestmentOrDeposit", "class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit"]
+tags: ["class/FileClass", "class/InvestmentOrDeposit", "#is_an_/InvestmentOrDeposit", "class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 ---
 

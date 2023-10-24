@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ConstraintNode, class/Thing/Intangible/ConstraintNode, is_a_/ConstraintNode, schema-org/ConstraintNode]
-tags: ["class/ConstraintNode", "#is_a_/ConstraintNode", "class/Thing/Intangible/ConstraintNode"]
+tags: ["class/FileClass", "class/ConstraintNode", "is_a_/ConstraintNode", "class/Thing/Intangible/ConstraintNode"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

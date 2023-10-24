@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Locksmith, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Locksmith, is_a_/Locksmith, schema-org/Locksmith]
-tags: ["class/Locksmith", "#is_a_/Locksmith", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Locksmith"]
+tags: ["class/FileClass", "class/Locksmith", "is_a_/Locksmith", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Locksmith"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness
 ---
 

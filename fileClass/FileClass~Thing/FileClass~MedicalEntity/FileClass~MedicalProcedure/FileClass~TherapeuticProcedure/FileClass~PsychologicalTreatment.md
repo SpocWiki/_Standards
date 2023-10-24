@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PsychologicalTreatment, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/PsychologicalTreatment, is_a_/PsychologicalTreatment, schema-org/PsychologicalTreatment]
-tags: ["class/PsychologicalTreatment", "#is_a_/PsychologicalTreatment", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/PsychologicalTreatment"]
+tags: ["class/FileClass", "class/PsychologicalTreatment", "is_a_/PsychologicalTreatment", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/PsychologicalTreatment"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalRiskEstimator, class/Thing/MedicalEntity/MedicalRiskEstimator, is_a_/MedicalRiskEstimator, schema-org/MedicalRiskEstimator]
-tags: ["class/MedicalRiskEstimator", "#is_a_/MedicalRiskEstimator", "class/Thing/MedicalEntity/MedicalRiskEstimator"]
+tags: ["class/FileClass", "class/MedicalRiskEstimator", "is_a_/MedicalRiskEstimator", "class/Thing/MedicalEntity/MedicalRiskEstimator"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 

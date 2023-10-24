@@ -5,7 +5,7 @@ excludes:
 icon: pencil
 version: 5
 tagNames: [class/Drawing, class/Thing/CreativeWork/Drawing, is_a_/Drawing, schema-org/Drawing]
-tags: ["class/Drawing", "#is_a_/Drawing", "class/Thing/CreativeWork/Drawing"]
+tags: ["class/FileClass", "class/Drawing", "is_a_/Drawing", "class/Thing/CreativeWork/Drawing"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

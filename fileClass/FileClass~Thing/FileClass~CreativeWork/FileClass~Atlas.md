@@ -5,7 +5,7 @@ excludes:
 icon: map
 version: 5
 tagNames: [class/Atlas, class/Thing/CreativeWork/Atlas, is_an_/Atlas, schema-org/Atlas]
-tags: ["class/Atlas", "#is_an_/Atlas", "class/Thing/CreativeWork/Atlas"]
+tags: ["class/FileClass", "class/Atlas", "#is_an_/Atlas", "class/Thing/CreativeWork/Atlas"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

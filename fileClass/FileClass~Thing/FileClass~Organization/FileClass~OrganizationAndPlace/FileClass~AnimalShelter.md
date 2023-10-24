@@ -5,7 +5,7 @@ excludes:
 icon: dog
 version: 5
 tagNames: [class/AnimalShelter, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter, is_an_/AnimalShelter, schema-org/AnimalShelter]
-tags: ["class/AnimalShelter", "#is_an_/AnimalShelter", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter"]
+tags: ["class/FileClass", "class/AnimalShelter", "#is_an_/AnimalShelter", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 

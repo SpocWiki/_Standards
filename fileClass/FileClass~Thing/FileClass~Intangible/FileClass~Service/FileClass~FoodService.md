@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FoodService, class/Thing/Intangible/Service/FoodService, is_a_/FoodService, schema-org/FoodService]
-tags: ["class/FoodService", "#is_a_/FoodService", "class/Thing/Intangible/Service/FoodService"]
+tags: ["class/FileClass", "class/FoodService", "is_a_/FoodService", "class/Thing/Intangible/Service/FoodService"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 ---
 

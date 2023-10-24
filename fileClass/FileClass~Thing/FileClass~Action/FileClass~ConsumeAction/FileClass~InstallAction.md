@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InstallAction, class/Thing/Action/ConsumeAction/InstallAction, is_an_/InstallAction, schema-org/InstallAction]
-tags: ["class/InstallAction", "#is_an_/InstallAction", "class/Thing/Action/ConsumeAction/InstallAction"]
+tags: ["class/FileClass", "class/InstallAction", "#is_an_/InstallAction", "class/Thing/Action/ConsumeAction/InstallAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
 ---
 

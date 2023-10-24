@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TVEpisode, class/Thing/CreativeWork/Episode/TVEpisode, is_a_/TVEpisode, schema-org/TVEpisode]
-tags: ["class/TVEpisode", "#is_a_/TVEpisode", "class/Thing/CreativeWork/Episode/TVEpisode"]
+tags: ["class/FileClass", "class/TVEpisode", "is_a_/TVEpisode", "class/Thing/CreativeWork/Episode/TVEpisode"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Episode
 ---
 

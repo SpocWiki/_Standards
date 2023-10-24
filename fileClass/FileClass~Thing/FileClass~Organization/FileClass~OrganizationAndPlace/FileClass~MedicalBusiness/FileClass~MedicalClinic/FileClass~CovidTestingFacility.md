@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CovidTestingFacility, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/MedicalClinic/CovidTestingFacility, is_a_/CovidTestingFacility, schema-org/CovidTestingFacility]
-tags: ["class/CovidTestingFacility", "#is_a_/CovidTestingFacility", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/MedicalClinic/CovidTestingFacility"]
+tags: ["class/FileClass", "class/CovidTestingFacility", "is_a_/CovidTestingFacility", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/MedicalClinic/CovidTestingFacility"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization/FileClass~MedicalClinic
 ---
 

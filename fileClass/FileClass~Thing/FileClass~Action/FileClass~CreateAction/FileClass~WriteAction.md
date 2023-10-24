@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WriteAction, class/Thing/Action/CreateAction/WriteAction, is_a_/WriteAction, schema-org/WriteAction]
-tags: ["class/WriteAction", "#is_a_/WriteAction", "class/Thing/Action/CreateAction/WriteAction"]
+tags: ["class/FileClass", "class/WriteAction", "is_a_/WriteAction", "class/Thing/Action/CreateAction/WriteAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 ---
 

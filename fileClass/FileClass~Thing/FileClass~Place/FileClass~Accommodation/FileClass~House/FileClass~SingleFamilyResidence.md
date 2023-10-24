@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SingleFamilyResidence, class/Thing/Place/Accommodation/House/SingleFamilyResidence, is_a_/SingleFamilyResidence, schema-org/SingleFamilyResidence]
-tags: ["class/SingleFamilyResidence", "#is_a_/SingleFamilyResidence", "class/Thing/Place/Accommodation/House/SingleFamilyResidence"]
+tags: ["class/FileClass", "class/SingleFamilyResidence", "is_a_/SingleFamilyResidence", "class/Thing/Place/Accommodation/House/SingleFamilyResidence"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House
 ---
 

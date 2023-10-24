@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/APIReference, class/Thing/CreativeWork/Article/TechArticle/APIReference, is_an_/APIReference, schema-org/APIReference]
-tags: ["class/APIReference", "#is_an_/APIReference", "class/Thing/CreativeWork/Article/TechArticle/APIReference"]
+tags: ["class/FileClass", "class/APIReference", "#is_an_/APIReference", "class/Thing/CreativeWork/Article/TechArticle/APIReference"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle
 ---
 

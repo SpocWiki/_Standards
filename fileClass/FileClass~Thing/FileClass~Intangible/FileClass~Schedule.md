@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Schedule, class/Thing/Intangible/Schedule, is_a_/Schedule, schema-org/Schedule]
-tags: ["class/Schedule", "#is_a_/Schedule", "class/Thing/Intangible/Schedule"]
+tags: ["class/FileClass", "class/Schedule", "is_a_/Schedule", "class/Thing/Intangible/Schedule"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

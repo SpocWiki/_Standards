@@ -5,7 +5,7 @@ excludes:
 icon: home
 version: 5
 tagNames: [class/House, class/Thing/Place/Accommodation/House, is_a_/House, schema-org/House]
-tags: ["class/House", "#is_a_/House", "class/Thing/Place/Accommodation/House"]
+tags: ["class/FileClass", "class/House", "is_a_/House", "class/Thing/Place/Accommodation/House"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 ---
 

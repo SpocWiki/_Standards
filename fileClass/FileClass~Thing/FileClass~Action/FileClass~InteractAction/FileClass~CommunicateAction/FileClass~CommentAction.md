@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CommentAction, class/Thing/Action/InteractAction/CommunicateAction/CommentAction, is_a_/CommentAction, schema-org/CommentAction]
-tags: ["class/CommentAction", "#is_a_/CommentAction", "class/Thing/Action/InteractAction/CommunicateAction/CommentAction"]
+tags: ["class/FileClass", "class/CommentAction", "is_a_/CommentAction", "class/Thing/Action/InteractAction/CommunicateAction/CommentAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---
 

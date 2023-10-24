@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FundingScheme, class/Thing/Organization/FundingScheme, is_a_/FundingScheme, schema-org/FundingScheme]
-tags: ["class/FundingScheme", "#is_a_/FundingScheme", "class/Thing/Organization/FundingScheme"]
+tags: ["class/FileClass", "class/FundingScheme", "is_a_/FundingScheme", "class/Thing/Organization/FundingScheme"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 

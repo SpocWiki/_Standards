@@ -5,7 +5,7 @@ excludes:
 icon: quote
 version: 5
 tagNames: [class/Quotation, class/Thing/CreativeWork/Quotation, is_a_/Quotation, schema-org/Quotation]
-tags: ["class/Quotation", "#is_a_/Quotation", "class/Thing/CreativeWork/Quotation"]
+tags: ["class/FileClass", "class/Quotation", "is_a_/Quotation", "class/Thing/CreativeWork/Quotation"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

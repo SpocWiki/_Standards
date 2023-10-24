@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalTrial, class/Thing/MedicalEntity/MedicalStudy/MedicalTrial, is_a_/MedicalTrial, schema-org/MedicalTrial]
-tags: ["class/MedicalTrial", "#is_a_/MedicalTrial", "class/Thing/MedicalEntity/MedicalStudy/MedicalTrial"]
+tags: ["class/FileClass", "class/MedicalTrial", "is_a_/MedicalTrial", "class/Thing/MedicalEntity/MedicalStudy/MedicalTrial"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy
 ---
 

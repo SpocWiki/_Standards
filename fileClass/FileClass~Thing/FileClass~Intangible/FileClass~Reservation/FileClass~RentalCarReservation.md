@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RentalCarReservation, class/Thing/Intangible/Reservation/RentalCarReservation, is_a_/RentalCarReservation, schema-org/RentalCarReservation]
-tags: ["class/RentalCarReservation", "#is_a_/RentalCarReservation", "class/Thing/Intangible/Reservation/RentalCarReservation"]
+tags: ["class/FileClass", "class/RentalCarReservation", "is_a_/RentalCarReservation", "class/Thing/Intangible/Reservation/RentalCarReservation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---
 

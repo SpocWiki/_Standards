@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BefriendAction, class/Thing/Action/InteractAction/BefriendAction, is_a_/BefriendAction, schema-org/BefriendAction]
-tags: ["class/BefriendAction", "#is_a_/BefriendAction", "class/Thing/Action/InteractAction/BefriendAction"]
+tags: ["class/FileClass", "class/BefriendAction", "is_a_/BefriendAction", "class/Thing/Action/InteractAction/BefriendAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 ---
 

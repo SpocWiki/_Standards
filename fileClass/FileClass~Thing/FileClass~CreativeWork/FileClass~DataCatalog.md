@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DataCatalog, class/Thing/CreativeWork/DataCatalog, is_a_/DataCatalog, schema-org/DataCatalog]
-tags: ["class/DataCatalog", "#is_a_/DataCatalog", "class/Thing/CreativeWork/DataCatalog"]
+tags: ["class/FileClass", "class/DataCatalog", "is_a_/DataCatalog", "class/Thing/CreativeWork/DataCatalog"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Audience, class/Thing/Intangible/Audience, is_an_/Audience, schema-org/Audience]
-tags: ["class/Audience", "#is_an_/Audience", "class/Thing/Intangible/Audience"]
+tags: ["class/FileClass", "class/Audience", "#is_an_/Audience", "class/Thing/Intangible/Audience"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

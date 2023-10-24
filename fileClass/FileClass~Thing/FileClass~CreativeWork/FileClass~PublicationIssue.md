@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PublicationIssue, class/Thing/CreativeWork/PublicationIssue, is_a_/PublicationIssue, schema-org/PublicationIssue]
-tags: ["class/PublicationIssue", "#is_a_/PublicationIssue", "class/Thing/CreativeWork/PublicationIssue"]
+tags: ["class/FileClass", "class/PublicationIssue", "is_a_/PublicationIssue", "class/Thing/CreativeWork/PublicationIssue"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

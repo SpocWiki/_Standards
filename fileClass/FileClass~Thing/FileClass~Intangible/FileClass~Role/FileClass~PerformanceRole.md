@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PerformanceRole, class/Thing/Intangible/Role/PerformanceRole, is_a_/PerformanceRole, schema-org/PerformanceRole]
-tags: ["class/PerformanceRole", "#is_a_/PerformanceRole", "class/Thing/Intangible/Role/PerformanceRole"]
+tags: ["class/FileClass", "class/PerformanceRole", "is_a_/PerformanceRole", "class/Thing/Intangible/Role/PerformanceRole"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 ---
 

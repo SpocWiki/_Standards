@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PreventionIndication, class/Thing/MedicalEntity/MedicalIndication/PreventionIndication, is_a_/PreventionIndication, schema-org/PreventionIndication]
-tags: ["class/PreventionIndication", "#is_a_/PreventionIndication", "class/Thing/MedicalEntity/MedicalIndication/PreventionIndication"]
+tags: ["class/FileClass", "class/PreventionIndication", "is_a_/PreventionIndication", "class/Thing/MedicalEntity/MedicalIndication/PreventionIndication"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication
 ---
 

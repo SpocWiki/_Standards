@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EmailMessage, class/Thing/CreativeWork/Message/EmailMessage, is_an_/EmailMessage, schema-org/EmailMessage]
-tags: ["class/EmailMessage", "#is_an_/EmailMessage", "class/Thing/CreativeWork/Message/EmailMessage"]
+tags: ["class/FileClass", "class/EmailMessage", "#is_an_/EmailMessage", "class/Thing/CreativeWork/Message/EmailMessage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Message
 ---
 

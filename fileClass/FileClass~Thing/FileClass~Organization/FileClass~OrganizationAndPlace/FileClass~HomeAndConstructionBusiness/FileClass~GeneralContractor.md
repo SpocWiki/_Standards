@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GeneralContractor, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/GeneralContractor, is_a_/GeneralContractor, schema-org/GeneralContractor]
-tags: ["class/GeneralContractor", "#is_a_/GeneralContractor", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/GeneralContractor"]
+tags: ["class/FileClass", "class/GeneralContractor", "is_a_/GeneralContractor", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/GeneralContractor"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness
 ---
 

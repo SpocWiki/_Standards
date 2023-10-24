@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ItemPage, class/Thing/CreativeWork/WebPage/ItemPage, is_an_/ItemPage, schema-org/ItemPage]
-tags: ["class/ItemPage", "#is_an_/ItemPage", "class/Thing/CreativeWork/WebPage/ItemPage"]
+tags: ["class/FileClass", "class/ItemPage", "#is_an_/ItemPage", "class/Thing/CreativeWork/WebPage/ItemPage"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---
 

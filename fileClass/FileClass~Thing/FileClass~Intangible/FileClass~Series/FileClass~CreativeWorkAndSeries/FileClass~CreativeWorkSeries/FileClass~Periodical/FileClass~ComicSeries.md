@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ComicSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/ComicSeries, is_a_/ComicSeries, schema-org/ComicSeries]
-tags: ["class/ComicSeries", "#is_a_/ComicSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/ComicSeries"]
+tags: ["class/FileClass", "class/ComicSeries", "is_a_/ComicSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/ComicSeries"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/UnRegisterAction, class/Thing/Action/InteractAction/UnRegisterAction, is_an_/UnRegisterAction, schema-org/UnRegisterAction]
-tags: ["class/UnRegisterAction", "#is_an_/UnRegisterAction", "class/Thing/Action/InteractAction/UnRegisterAction"]
+tags: ["class/FileClass", "class/UnRegisterAction", "#is_an_/UnRegisterAction", "class/Thing/Action/InteractAction/UnRegisterAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 ---
 

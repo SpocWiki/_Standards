@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LandmarksOrHistoricalBuildings, class/Thing/Place/LandmarksOrHistoricalBuildings, is_a_/LandmarksOrHistoricalBuildings, schema-org/LandmarksOrHistoricalBuildings]
-tags: ["class/LandmarksOrHistoricalBuildings", "#is_a_/LandmarksOrHistoricalBuildings", "class/Thing/Place/LandmarksOrHistoricalBuildings"]
+tags: ["class/FileClass", "class/LandmarksOrHistoricalBuildings", "is_a_/LandmarksOrHistoricalBuildings", "class/Thing/Place/LandmarksOrHistoricalBuildings"]
 extends: FileClass~Thing/FileClass~Place
 ---
 

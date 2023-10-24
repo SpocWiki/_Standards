@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MotorcycleDealer, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleDealer, is_a_/MotorcycleDealer, schema-org/MotorcycleDealer]
-tags: ["class/MotorcycleDealer", "#is_a_/MotorcycleDealer", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleDealer"]
+tags: ["class/FileClass", "class/MotorcycleDealer", "is_a_/MotorcycleDealer", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AutomotiveBusiness/MotorcycleDealer"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: utensils-crossed
 version: 5
 tagNames: [class/Restaurant, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant, is_a_/Restaurant, schema-org/Restaurant]
-tags: ["class/Restaurant", "#is_a_/Restaurant", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant"]
+tags: ["class/FileClass", "class/Restaurant", "is_a_/Restaurant", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/Restaurant"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
 ---
 

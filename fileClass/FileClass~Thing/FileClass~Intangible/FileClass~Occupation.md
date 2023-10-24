@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Occupation, class/Thing/Intangible/Occupation, is_an_/Occupation, schema-org/Occupation]
-tags: ["class/Occupation", "#is_an_/Occupation", "class/Thing/Intangible/Occupation"]
+tags: ["class/FileClass", "class/Occupation", "#is_an_/Occupation", "class/Thing/Intangible/Occupation"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

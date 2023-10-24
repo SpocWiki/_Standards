@@ -5,7 +5,7 @@ excludes:
 icon: coffee
 version: 5
 tagNames: [class/CafeOrCoffeeShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop, is_a_/CafeOrCoffeeShop, schema-org/CafeOrCoffeeShop]
-tags: ["class/CafeOrCoffeeShop", "#is_a_/CafeOrCoffeeShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop"]
+tags: ["class/FileClass", "class/CafeOrCoffeeShop", "is_a_/CafeOrCoffeeShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/CafeOrCoffeeShop"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
 ---
 

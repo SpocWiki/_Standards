@@ -5,7 +5,7 @@ excludes:
 icon: scale
 version: 5
 tagNames: [class/Legislation, class/Thing/CreativeWork/Legislation, is_a_/Legislation, schema-org/Legislation]
-tags: ["class/Legislation", "#is_a_/Legislation", "class/Thing/CreativeWork/Legislation"]
+tags: ["class/FileClass", "class/Legislation", "is_a_/Legislation", "class/Thing/CreativeWork/Legislation"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

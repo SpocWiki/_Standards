@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CompoundPriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification, is_a_/CompoundPriceSpecification, schema-org/CompoundPriceSpecification]
-tags: ["class/CompoundPriceSpecification", "#is_a_/CompoundPriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification"]
+tags: ["class/FileClass", "class/CompoundPriceSpecification", "is_a_/CompoundPriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 ---
 

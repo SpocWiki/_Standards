@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DietarySupplement, class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement, is_a_/DietarySupplement, schema-org/DietarySupplement]
-tags: ["class/DietarySupplement", "#is_a_/DietarySupplement", "class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement"]
+tags: ["class/FileClass", "class/DietarySupplement", "is_a_/DietarySupplement", "class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance
 ---
 

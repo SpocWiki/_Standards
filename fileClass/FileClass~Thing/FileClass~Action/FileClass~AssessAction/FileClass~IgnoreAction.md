@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/IgnoreAction, class/Thing/Action/AssessAction/IgnoreAction, is_an_/IgnoreAction, schema-org/IgnoreAction]
-tags: ["class/IgnoreAction", "#is_an_/IgnoreAction", "class/Thing/Action/AssessAction/IgnoreAction"]
+tags: ["class/FileClass", "class/IgnoreAction", "#is_an_/IgnoreAction", "class/Thing/Action/AssessAction/IgnoreAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 ---
 

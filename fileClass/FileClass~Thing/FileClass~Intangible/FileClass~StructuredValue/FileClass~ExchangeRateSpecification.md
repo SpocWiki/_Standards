@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ExchangeRateSpecification, class/Thing/Intangible/StructuredValue/ExchangeRateSpecification, is_an_/ExchangeRateSpecification, schema-org/ExchangeRateSpecification]
-tags: ["class/ExchangeRateSpecification", "#is_an_/ExchangeRateSpecification", "class/Thing/Intangible/StructuredValue/ExchangeRateSpecification"]
+tags: ["class/FileClass", "class/ExchangeRateSpecification", "#is_an_/ExchangeRateSpecification", "class/Thing/Intangible/StructuredValue/ExchangeRateSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

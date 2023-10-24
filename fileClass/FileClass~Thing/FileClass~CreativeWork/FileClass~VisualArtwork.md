@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/VisualArtwork, class/Thing/CreativeWork/VisualArtwork, is_a_/VisualArtwork, schema-org/VisualArtwork]
-tags: ["class/VisualArtwork", "#is_a_/VisualArtwork", "class/Thing/CreativeWork/VisualArtwork"]
+tags: ["class/FileClass", "class/VisualArtwork", "is_a_/VisualArtwork", "class/Thing/CreativeWork/VisualArtwork"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

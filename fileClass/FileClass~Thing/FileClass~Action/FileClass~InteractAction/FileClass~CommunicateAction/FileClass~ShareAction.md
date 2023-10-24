@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ShareAction, class/Thing/Action/InteractAction/CommunicateAction/ShareAction, is_a_/ShareAction, schema-org/ShareAction]
-tags: ["class/ShareAction", "#is_a_/ShareAction", "class/Thing/Action/InteractAction/CommunicateAction/ShareAction"]
+tags: ["class/FileClass", "class/ShareAction", "is_a_/ShareAction", "class/Thing/Action/InteractAction/CommunicateAction/ShareAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 ---
 

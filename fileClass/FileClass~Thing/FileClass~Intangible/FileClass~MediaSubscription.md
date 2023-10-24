@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MediaSubscription, class/Thing/Intangible/MediaSubscription, is_a_/MediaSubscription, schema-org/MediaSubscription]
-tags: ["class/MediaSubscription", "#is_a_/MediaSubscription", "class/Thing/Intangible/MediaSubscription"]
+tags: ["class/FileClass", "class/MediaSubscription", "is_a_/MediaSubscription", "class/Thing/Intangible/MediaSubscription"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

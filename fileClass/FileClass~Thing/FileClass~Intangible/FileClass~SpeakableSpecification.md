@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SpeakableSpecification, class/Thing/Intangible/SpeakableSpecification, is_a_/SpeakableSpecification, schema-org/SpeakableSpecification]
-tags: ["class/SpeakableSpecification", "#is_a_/SpeakableSpecification", "class/Thing/Intangible/SpeakableSpecification"]
+tags: ["class/FileClass", "class/SpeakableSpecification", "is_a_/SpeakableSpecification", "class/Thing/Intangible/SpeakableSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

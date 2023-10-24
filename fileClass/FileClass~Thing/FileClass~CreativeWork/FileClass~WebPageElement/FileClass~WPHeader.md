@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WPHeader, class/Thing/CreativeWork/WebPageElement/WPHeader, is_a_/WPHeader, schema-org/WPHeader]
-tags: ["class/WPHeader", "#is_a_/WPHeader", "class/Thing/CreativeWork/WebPageElement/WPHeader"]
+tags: ["class/FileClass", "class/WPHeader", "is_a_/WPHeader", "class/Thing/CreativeWork/WebPageElement/WPHeader"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 ---
 

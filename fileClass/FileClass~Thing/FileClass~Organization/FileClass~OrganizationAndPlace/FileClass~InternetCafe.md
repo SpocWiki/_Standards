@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InternetCafe, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/InternetCafe, is_an_/InternetCafe, schema-org/InternetCafe]
-tags: ["class/InternetCafe", "#is_an_/InternetCafe", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/InternetCafe"]
+tags: ["class/FileClass", "class/InternetCafe", "#is_an_/InternetCafe", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/InternetCafe"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 

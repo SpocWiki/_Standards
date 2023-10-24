@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LegislationAndMediaObject, class/Thing/CreativeWork/MediaObject/LegislationAndMediaObject, is_a_/LegislationAndMediaObject, schema-org/LegislationAndMediaObject]
-tags: ["class/LegislationAndMediaObject", "#is_a_/LegislationAndMediaObject", "class/Thing/CreativeWork/MediaObject/LegislationAndMediaObject"]
+tags: ["class/FileClass", "class/LegislationAndMediaObject", "is_a_/LegislationAndMediaObject", "class/Thing/CreativeWork/MediaObject/LegislationAndMediaObject"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 ---
 

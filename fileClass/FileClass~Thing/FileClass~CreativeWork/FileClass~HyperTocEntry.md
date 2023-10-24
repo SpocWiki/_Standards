@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HyperTocEntry, class/Thing/CreativeWork/HyperTocEntry, is_a_/HyperTocEntry, schema-org/HyperTocEntry]
-tags: ["class/HyperTocEntry", "#is_a_/HyperTocEntry", "class/Thing/CreativeWork/HyperTocEntry"]
+tags: ["class/FileClass", "class/HyperTocEntry", "is_a_/HyperTocEntry", "class/Thing/CreativeWork/HyperTocEntry"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

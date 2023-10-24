@@ -5,7 +5,7 @@ excludes:
 icon: microscope
 version: 5
 tagNames: [class/ResearchOrganization, class/Thing/Organization/ResearchOrganization, is_a_/ResearchOrganization, schema-org/ResearchOrganization]
-tags: ["class/ResearchOrganization", "#is_a_/ResearchOrganization", "class/Thing/Organization/ResearchOrganization"]
+tags: ["class/FileClass", "class/ResearchOrganization", "is_a_/ResearchOrganization", "class/Thing/Organization/ResearchOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 

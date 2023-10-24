@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GeoCoordinates, class/Thing/Intangible/StructuredValue/GeoCoordinates, is_a_/GeoCoordinates, schema-org/GeoCoordinates]
-tags: ["class/GeoCoordinates", "#is_a_/GeoCoordinates", "class/Thing/Intangible/StructuredValue/GeoCoordinates"]
+tags: ["class/FileClass", "class/GeoCoordinates", "is_a_/GeoCoordinates", "class/Thing/Intangible/StructuredValue/GeoCoordinates"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

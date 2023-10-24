@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DefinedTerm, class/Thing/Intangible/DefinedTerm, is_a_/DefinedTerm, schema-org/DefinedTerm]
-tags: ["class/DefinedTerm", "#is_a_/DefinedTerm", "class/Thing/Intangible/DefinedTerm"]
+tags: ["class/FileClass", "class/DefinedTerm", "is_a_/DefinedTerm", "class/Thing/Intangible/DefinedTerm"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

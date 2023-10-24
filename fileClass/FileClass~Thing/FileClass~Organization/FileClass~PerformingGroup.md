@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PerformingGroup, class/Thing/Organization/PerformingGroup, is_a_/PerformingGroup, schema-org/PerformingGroup]
-tags: ["class/PerformingGroup", "#is_a_/PerformingGroup", "class/Thing/Organization/PerformingGroup"]
+tags: ["class/FileClass", "class/PerformingGroup", "is_a_/PerformingGroup", "class/Thing/Organization/PerformingGroup"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 

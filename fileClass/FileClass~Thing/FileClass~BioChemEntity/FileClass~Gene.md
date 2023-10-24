@@ -5,7 +5,7 @@ excludes:
 icon: dna
 version: 5
 tagNames: [class/Gene, class/Thing/BioChemEntity/Gene, is_a_/Gene, schema-org/Gene]
-tags: ["class/Gene", "#is_a_/Gene", "class/Thing/BioChemEntity/Gene"]
+tags: ["class/FileClass", "class/Gene", "is_a_/Gene", "class/Thing/BioChemEntity/Gene"]
 extends: FileClass~Thing/FileClass~BioChemEntity
 ---
 

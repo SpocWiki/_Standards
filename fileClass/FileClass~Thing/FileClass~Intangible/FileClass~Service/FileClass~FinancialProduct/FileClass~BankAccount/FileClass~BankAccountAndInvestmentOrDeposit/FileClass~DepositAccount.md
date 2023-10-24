@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DepositAccount, class/Thing/Intangible/Service/FinancialProduct/BankAccount/BankAccountAndInvestmentOrDeposit/DepositAccount, is_a_/DepositAccount, schema-org/DepositAccount]
-tags: ["class/DepositAccount", "#is_a_/DepositAccount", "class/Thing/Intangible/Service/FinancialProduct/BankAccount/BankAccountAndInvestmentOrDeposit/DepositAccount"]
+tags: ["class/FileClass", "class/DepositAccount", "is_a_/DepositAccount", "class/Thing/Intangible/Service/FinancialProduct/BankAccount/BankAccountAndInvestmentOrDeposit/DepositAccount"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit
 ---
 

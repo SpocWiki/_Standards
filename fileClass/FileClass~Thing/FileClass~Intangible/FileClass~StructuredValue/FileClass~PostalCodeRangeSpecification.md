@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PostalCodeRangeSpecification, class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification, is_a_/PostalCodeRangeSpecification, schema-org/PostalCodeRangeSpecification]
-tags: ["class/PostalCodeRangeSpecification", "#is_a_/PostalCodeRangeSpecification", "class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification"]
+tags: ["class/FileClass", "class/PostalCodeRangeSpecification", "is_a_/PostalCodeRangeSpecification", "class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

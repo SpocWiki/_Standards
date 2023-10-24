@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CategoryCodeSet, class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet, is_a_/CategoryCodeSet, schema-org/CategoryCodeSet]
-tags: ["class/CategoryCodeSet", "#is_a_/CategoryCodeSet", "class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet"]
+tags: ["class/FileClass", "class/CategoryCodeSet", "is_a_/CategoryCodeSet", "class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet
 ---
 

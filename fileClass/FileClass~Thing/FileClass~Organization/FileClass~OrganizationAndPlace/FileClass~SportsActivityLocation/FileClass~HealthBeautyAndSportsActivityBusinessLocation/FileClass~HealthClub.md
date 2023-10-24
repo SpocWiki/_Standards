@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HealthClub, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/HealthAndBeautyBusinessAndSportsActivityLocation/HealthClub, is_a_/HealthClub, schema-org/HealthClub]
-tags: ["class/HealthClub", "#is_a_/HealthClub", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/HealthAndBeautyBusinessAndSportsActivityLocation/HealthClub"]
+tags: ["class/FileClass", "class/HealthClub", "is_a_/HealthClub", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/HealthAndBeautyBusinessAndSportsActivityLocation/HealthClub"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation
 ---
 

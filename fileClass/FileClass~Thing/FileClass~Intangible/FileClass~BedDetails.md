@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BedDetails, class/Thing/Intangible/BedDetails, is_a_/BedDetails, schema-org/BedDetails]
-tags: ["class/BedDetails", "#is_a_/BedDetails", "class/Thing/Intangible/BedDetails"]
+tags: ["class/FileClass", "class/BedDetails", "is_a_/BedDetails", "class/Thing/Intangible/BedDetails"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

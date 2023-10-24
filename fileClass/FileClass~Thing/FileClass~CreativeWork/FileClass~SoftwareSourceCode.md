@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SoftwareSourceCode, class/Thing/CreativeWork/SoftwareSourceCode, is_a_/SoftwareSourceCode, schema-org/SoftwareSourceCode]
-tags: ["class/SoftwareSourceCode", "#is_a_/SoftwareSourceCode", "class/Thing/CreativeWork/SoftwareSourceCode"]
+tags: ["class/FileClass", "class/SoftwareSourceCode", "is_a_/SoftwareSourceCode", "class/Thing/CreativeWork/SoftwareSourceCode"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

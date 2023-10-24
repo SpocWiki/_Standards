@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PaymentService, class/Thing/Intangible/Service/FinancialProduct/PaymentService, is_a_/PaymentService, schema-org/PaymentService]
-tags: ["class/PaymentService", "#is_a_/PaymentService", "class/Thing/Intangible/Service/FinancialProduct/PaymentService"]
+tags: ["class/FileClass", "class/PaymentService", "is_a_/PaymentService", "class/Thing/Intangible/Service/FinancialProduct/PaymentService"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 ---
 

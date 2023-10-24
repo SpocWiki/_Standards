@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ComicIssue, class/Thing/CreativeWork/PublicationIssue/ComicIssue, is_a_/ComicIssue, schema-org/ComicIssue]
-tags: ["class/ComicIssue", "#is_a_/ComicIssue", "class/Thing/CreativeWork/PublicationIssue/ComicIssue"]
+tags: ["class/FileClass", "class/ComicIssue", "is_a_/ComicIssue", "class/Thing/CreativeWork/PublicationIssue/ComicIssue"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue
 ---
 

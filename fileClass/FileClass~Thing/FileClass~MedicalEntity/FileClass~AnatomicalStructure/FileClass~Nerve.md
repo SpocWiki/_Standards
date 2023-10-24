@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Nerve, class/Thing/MedicalEntity/AnatomicalStructure/Nerve, is_a_/Nerve, schema-org/Nerve]
-tags: ["class/Nerve", "#is_a_/Nerve", "class/Thing/MedicalEntity/AnatomicalStructure/Nerve"]
+tags: ["class/FileClass", "class/Nerve", "is_a_/Nerve", "class/Thing/MedicalEntity/AnatomicalStructure/Nerve"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---
 

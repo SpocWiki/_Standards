@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Project, class/Thing/Organization/Project, is_a_/Project, schema-org/Project]
-tags: ["class/Project", "#is_a_/Project", "class/Thing/Organization/Project"]
+tags: ["class/FileClass", "class/Project", "is_a_/Project", "class/Thing/Organization/Project"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 

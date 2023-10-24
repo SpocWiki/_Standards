@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/InteractionCounter, class/Thing/Intangible/StructuredValue/InteractionCounter, is_an_/InteractionCounter, schema-org/InteractionCounter]
-tags: ["class/InteractionCounter", "#is_an_/InteractionCounter", "class/Thing/Intangible/StructuredValue/InteractionCounter"]
+tags: ["class/FileClass", "class/InteractionCounter", "#is_an_/InteractionCounter", "class/Thing/Intangible/StructuredValue/InteractionCounter"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: siren
 version: 5
 tagNames: [class/FireStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation, is_a_/FireStation, schema-org/FireStation]
-tags: ["class/FireStation", "#is_a_/FireStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation"]
+tags: ["class/FileClass", "class/FireStation", "is_a_/FireStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService/FireStation"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService
 ---
 

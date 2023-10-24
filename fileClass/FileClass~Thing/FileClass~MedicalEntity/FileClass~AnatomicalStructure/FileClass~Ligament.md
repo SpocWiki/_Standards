@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Ligament, class/Thing/MedicalEntity/AnatomicalStructure/Ligament, is_a_/Ligament, schema-org/Ligament]
-tags: ["class/Ligament", "#is_a_/Ligament", "class/Thing/MedicalEntity/AnatomicalStructure/Ligament"]
+tags: ["class/FileClass", "class/Ligament", "is_a_/Ligament", "class/Thing/MedicalEntity/AnatomicalStructure/Ligament"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 ---
 

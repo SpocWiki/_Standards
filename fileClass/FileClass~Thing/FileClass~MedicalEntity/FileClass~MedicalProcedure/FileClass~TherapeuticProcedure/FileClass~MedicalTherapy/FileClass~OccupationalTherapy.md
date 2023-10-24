@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OccupationalTherapy, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy, is_an_/OccupationalTherapy, schema-org/OccupationalTherapy]
-tags: ["class/OccupationalTherapy", "#is_an_/OccupationalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy"]
+tags: ["class/FileClass", "class/OccupationalTherapy", "#is_an_/OccupationalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: cross
 version: 5
 tagNames: [class/MedicalOrganization, class/Thing/Organization/MedicalOrganization, is_a_/MedicalOrganization, schema-org/MedicalOrganization]
-tags: ["class/MedicalOrganization", "#is_a_/MedicalOrganization", "class/Thing/Organization/MedicalOrganization"]
+tags: ["class/FileClass", "class/MedicalOrganization", "is_a_/MedicalOrganization", "class/Thing/Organization/MedicalOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 

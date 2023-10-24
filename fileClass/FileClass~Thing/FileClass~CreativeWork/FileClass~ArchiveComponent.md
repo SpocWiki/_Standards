@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ArchiveComponent, class/Thing/CreativeWork/ArchiveComponent, is_an_/ArchiveComponent, schema-org/ArchiveComponent]
-tags: ["class/ArchiveComponent", "#is_an_/ArchiveComponent", "class/Thing/CreativeWork/ArchiveComponent"]
+tags: ["class/FileClass", "class/ArchiveComponent", "#is_an_/ArchiveComponent", "class/Thing/CreativeWork/ArchiveComponent"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

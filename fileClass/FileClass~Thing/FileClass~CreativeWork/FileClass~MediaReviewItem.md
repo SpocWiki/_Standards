@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MediaReviewItem, class/Thing/CreativeWork/MediaReviewItem, is_a_/MediaReviewItem, schema-org/MediaReviewItem]
-tags: ["class/MediaReviewItem", "#is_a_/MediaReviewItem", "class/Thing/CreativeWork/MediaReviewItem"]
+tags: ["class/FileClass", "class/MediaReviewItem", "is_a_/MediaReviewItem", "class/Thing/CreativeWork/MediaReviewItem"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

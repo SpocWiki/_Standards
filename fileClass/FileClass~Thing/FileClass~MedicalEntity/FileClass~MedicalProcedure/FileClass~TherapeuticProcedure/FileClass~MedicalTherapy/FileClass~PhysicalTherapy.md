@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PhysicalTherapy, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PhysicalTherapy, is_a_/PhysicalTherapy, schema-org/PhysicalTherapy]
-tags: ["class/PhysicalTherapy", "#is_a_/PhysicalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PhysicalTherapy"]
+tags: ["class/FileClass", "class/PhysicalTherapy", "is_a_/PhysicalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PhysicalTherapy"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy
 ---
 

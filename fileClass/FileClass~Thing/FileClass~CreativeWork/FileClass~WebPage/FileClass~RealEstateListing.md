@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RealEstateListing, class/Thing/CreativeWork/WebPage/RealEstateListing, is_a_/RealEstateListing, schema-org/RealEstateListing]
-tags: ["class/RealEstateListing", "#is_a_/RealEstateListing", "class/Thing/CreativeWork/WebPage/RealEstateListing"]
+tags: ["class/FileClass", "class/RealEstateListing", "is_a_/RealEstateListing", "class/Thing/CreativeWork/WebPage/RealEstateListing"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 ---
 

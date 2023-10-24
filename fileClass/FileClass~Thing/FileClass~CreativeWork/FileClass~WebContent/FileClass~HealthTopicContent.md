@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HealthTopicContent, class/Thing/CreativeWork/WebContent/HealthTopicContent, is_a_/HealthTopicContent, schema-org/HealthTopicContent]
-tags: ["class/HealthTopicContent", "#is_a_/HealthTopicContent", "class/Thing/CreativeWork/WebContent/HealthTopicContent"]
+tags: ["class/FileClass", "class/HealthTopicContent", "is_a_/HealthTopicContent", "class/Thing/CreativeWork/WebContent/HealthTopicContent"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent
 ---
 

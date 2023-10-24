@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DrugCost, class/Thing/MedicalEntity/DrugCost, is_a_/DrugCost, schema-org/DrugCost]
-tags: ["class/DrugCost", "#is_a_/DrugCost", "class/Thing/MedicalEntity/DrugCost"]
+tags: ["class/FileClass", "class/DrugCost", "is_a_/DrugCost", "class/Thing/MedicalEntity/DrugCost"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 

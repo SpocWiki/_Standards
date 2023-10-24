@@ -5,7 +5,7 @@ excludes:
 icon: bus
 version: 5
 tagNames: [class/Vehicle, class/Thing/Product/Vehicle, is_a_/Vehicle, schema-org/Vehicle]
-tags: ["class/Vehicle", "#is_a_/Vehicle", "class/Thing/Product/Vehicle"]
+tags: ["class/FileClass", "class/Vehicle", "is_a_/Vehicle", "class/Thing/Product/Vehicle"]
 extends: FileClass~Thing/FileClass~Product
 ---
 

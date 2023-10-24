@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CreativeWorkSeason, class/Thing/CreativeWork/CreativeWorkSeason, is_a_/CreativeWorkSeason, schema-org/CreativeWorkSeason]
-tags: ["class/CreativeWorkSeason", "#is_a_/CreativeWorkSeason", "class/Thing/CreativeWork/CreativeWorkSeason"]
+tags: ["class/FileClass", "class/CreativeWorkSeason", "is_a_/CreativeWorkSeason", "class/Thing/CreativeWork/CreativeWorkSeason"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

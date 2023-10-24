@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Conversation, class/Thing/CreativeWork/Conversation, is_a_/Conversation, schema-org/Conversation]
-tags: ["class/Conversation", "#is_a_/Conversation", "class/Thing/CreativeWork/Conversation"]
+tags: ["class/FileClass", "class/Conversation", "is_a_/Conversation", "class/Thing/CreativeWork/Conversation"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

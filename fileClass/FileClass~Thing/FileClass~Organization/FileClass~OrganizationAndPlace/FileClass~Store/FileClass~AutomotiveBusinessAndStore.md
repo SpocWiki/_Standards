@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AutomotiveBusinessAndStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/AutomotiveBusinessAndStore, is_an_/AutomotiveBusinessAndStore, schema-org/AutomotiveBusinessAndStore]
-tags: ["class/AutomotiveBusinessAndStore", "#is_an_/AutomotiveBusinessAndStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/AutomotiveBusinessAndStore"]
+tags: ["class/FileClass", "class/AutomotiveBusinessAndStore", "#is_an_/AutomotiveBusinessAndStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/AutomotiveBusinessAndStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 

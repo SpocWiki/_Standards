@@ -5,7 +5,7 @@ excludes:
 icon: fish
 version: 5
 tagNames: [class/Aquarium, class/Thing/Place/CivicStructure/Aquarium, is_an_/Aquarium, schema-org/Aquarium]
-tags: ["class/Aquarium", "#is_an_/Aquarium", "class/Thing/Place/CivicStructure/Aquarium"]
+tags: ["class/FileClass", "class/Aquarium", "#is_an_/Aquarium", "class/Thing/Place/CivicStructure/Aquarium"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 

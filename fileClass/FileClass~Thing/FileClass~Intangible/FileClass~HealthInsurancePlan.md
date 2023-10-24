@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HealthInsurancePlan, class/Thing/Intangible/HealthInsurancePlan, is_a_/HealthInsurancePlan, schema-org/HealthInsurancePlan]
-tags: ["class/HealthInsurancePlan", "#is_a_/HealthInsurancePlan", "class/Thing/Intangible/HealthInsurancePlan"]
+tags: ["class/FileClass", "class/HealthInsurancePlan", "is_a_/HealthInsurancePlan", "class/Thing/Intangible/HealthInsurancePlan"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

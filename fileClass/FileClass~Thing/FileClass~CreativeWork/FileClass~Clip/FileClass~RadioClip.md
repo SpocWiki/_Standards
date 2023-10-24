@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/RadioClip, class/Thing/CreativeWork/Clip/RadioClip, is_a_/RadioClip, schema-org/RadioClip]
-tags: ["class/RadioClip", "#is_a_/RadioClip", "class/Thing/CreativeWork/Clip/RadioClip"]
+tags: ["class/FileClass", "class/RadioClip", "is_a_/RadioClip", "class/Thing/CreativeWork/Clip/RadioClip"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
 ---
 

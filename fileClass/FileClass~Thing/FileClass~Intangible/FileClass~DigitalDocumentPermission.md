@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DigitalDocumentPermission, class/Thing/Intangible/DigitalDocumentPermission, is_a_/DigitalDocumentPermission, schema-org/DigitalDocumentPermission]
-tags: ["class/DigitalDocumentPermission", "#is_a_/DigitalDocumentPermission", "class/Thing/Intangible/DigitalDocumentPermission"]
+tags: ["class/FileClass", "class/DigitalDocumentPermission", "is_a_/DigitalDocumentPermission", "class/Thing/Intangible/DigitalDocumentPermission"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

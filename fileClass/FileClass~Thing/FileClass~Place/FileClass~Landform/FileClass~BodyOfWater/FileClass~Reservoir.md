@@ -5,7 +5,7 @@ excludes:
 icon: waves
 version: 5
 tagNames: [class/Reservoir, class/Thing/Place/Landform/BodyOfWater/Reservoir, is_a_/Reservoir, schema-org/Reservoir]
-tags: ["class/Reservoir", "#is_a_/Reservoir", "class/Thing/Place/Landform/BodyOfWater/Reservoir"]
+tags: ["class/FileClass", "class/Reservoir", "is_a_/Reservoir", "class/Thing/Place/Landform/BodyOfWater/Reservoir"]
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
 ---
 

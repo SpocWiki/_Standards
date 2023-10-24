@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EmployeeRole, class/Thing/Intangible/Role/OrganizationRole/EmployeeRole, is_an_/EmployeeRole, schema-org/EmployeeRole]
-tags: ["class/EmployeeRole", "#is_an_/EmployeeRole", "class/Thing/Intangible/Role/OrganizationRole/EmployeeRole"]
+tags: ["class/FileClass", "class/EmployeeRole", "#is_an_/EmployeeRole", "class/Thing/Intangible/Role/OrganizationRole/EmployeeRole"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole
 ---
 

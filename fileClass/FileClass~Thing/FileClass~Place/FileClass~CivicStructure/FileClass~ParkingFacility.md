@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ParkingFacility, class/Thing/Place/CivicStructure/ParkingFacility, is_a_/ParkingFacility, schema-org/ParkingFacility]
-tags: ["class/ParkingFacility", "#is_a_/ParkingFacility", "class/Thing/Place/CivicStructure/ParkingFacility"]
+tags: ["class/FileClass", "class/ParkingFacility", "is_a_/ParkingFacility", "class/Thing/Place/CivicStructure/ParkingFacility"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 

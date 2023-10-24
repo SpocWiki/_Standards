@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Airline, class/Thing/Organization/Airline, is_an_/Airline, schema-org/Airline]
-tags: ["class/Airline", "#is_an_/Airline", "class/Thing/Organization/Airline"]
+tags: ["class/FileClass", "class/Airline", "#is_an_/Airline", "class/Thing/Organization/Airline"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 

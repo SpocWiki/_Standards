@@ -5,7 +5,7 @@ excludes:
 icon: graduation-cap
 version: 5
 tagNames: [class/Thesis, class/Thing/CreativeWork/Thesis, is_a_/Thesis, schema-org/Thesis]
-tags: ["class/Thesis", "#is_a_/Thesis", "class/Thing/CreativeWork/Thesis"]
+tags: ["class/FileClass", "class/Thesis", "is_a_/Thesis", "class/Thing/CreativeWork/Thesis"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: paperclip
 version: 5
 tagNames: [class/Clip, class/Thing/CreativeWork/Clip, is_a_/Clip, schema-org/Clip]
-tags: ["class/Clip", "#is_a_/Clip", "class/Thing/CreativeWork/Clip"]
+tags: ["class/FileClass", "class/Clip", "is_a_/Clip", "class/Thing/CreativeWork/Clip"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

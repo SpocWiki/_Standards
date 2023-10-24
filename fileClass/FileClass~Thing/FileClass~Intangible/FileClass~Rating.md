@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Rating, class/Thing/Intangible/Rating, is_a_/Rating, schema-org/Rating]
-tags: ["class/Rating", "#is_a_/Rating", "class/Thing/Intangible/Rating"]
+tags: ["class/FileClass", "class/Rating", "is_a_/Rating", "class/Thing/Intangible/Rating"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

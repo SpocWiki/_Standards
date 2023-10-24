@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/QuantitativeValueDistribution, class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution, is_a_/QuantitativeValueDistribution, schema-org/QuantitativeValueDistribution]
-tags: ["class/QuantitativeValueDistribution", "#is_a_/QuantitativeValueDistribution", "class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution"]
+tags: ["class/FileClass", "class/QuantitativeValueDistribution", "is_a_/QuantitativeValueDistribution", "class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

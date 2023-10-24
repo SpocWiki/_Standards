@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/NoteDigitalDocument, class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument, is_a_/NoteDigitalDocument, schema-org/NoteDigitalDocument]
-tags: ["class/NoteDigitalDocument", "#is_a_/NoteDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument"]
+tags: ["class/FileClass", "class/NoteDigitalDocument", "is_a_/NoteDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 ---
 

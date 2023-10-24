@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Casino, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/Casino, is_a_/Casino, schema-org/Casino]
-tags: ["class/Casino", "#is_a_/Casino", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/Casino"]
+tags: ["class/FileClass", "class/Casino", "is_a_/Casino", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/Casino"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness
 ---
 

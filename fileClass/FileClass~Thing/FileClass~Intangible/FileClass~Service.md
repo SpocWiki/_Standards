@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Service, class/Thing/Intangible/Service, is_a_/Service, schema-org/Service]
-tags: ["class/Service", "#is_a_/Service", "class/Thing/Intangible/Service"]
+tags: ["class/FileClass", "class/Service", "is_a_/Service", "class/Thing/Intangible/Service"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

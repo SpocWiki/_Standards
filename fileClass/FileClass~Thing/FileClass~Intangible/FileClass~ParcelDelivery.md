@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ParcelDelivery, class/Thing/Intangible/ParcelDelivery, is_a_/ParcelDelivery, schema-org/ParcelDelivery]
-tags: ["class/ParcelDelivery", "#is_a_/ParcelDelivery", "class/Thing/Intangible/ParcelDelivery"]
+tags: ["class/FileClass", "class/ParcelDelivery", "is_a_/ParcelDelivery", "class/Thing/Intangible/ParcelDelivery"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

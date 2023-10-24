@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DiscoverAction, class/Thing/Action/FindAction/DiscoverAction, is_a_/DiscoverAction, schema-org/DiscoverAction]
-tags: ["class/DiscoverAction", "#is_a_/DiscoverAction", "class/Thing/Action/FindAction/DiscoverAction"]
+tags: ["class/FileClass", "class/DiscoverAction", "is_a_/DiscoverAction", "class/Thing/Action/FindAction/DiscoverAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~FindAction
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MonetaryGrant, class/Thing/Intangible/Grant/MonetaryGrant, is_a_/MonetaryGrant, schema-org/MonetaryGrant]
-tags: ["class/MonetaryGrant", "#is_a_/MonetaryGrant", "class/Thing/Intangible/Grant/MonetaryGrant"]
+tags: ["class/FileClass", "class/MonetaryGrant", "is_a_/MonetaryGrant", "class/Thing/Intangible/Grant/MonetaryGrant"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Grant
 ---
 

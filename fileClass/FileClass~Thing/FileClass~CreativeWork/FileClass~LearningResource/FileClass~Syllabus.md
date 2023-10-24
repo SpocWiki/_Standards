@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Syllabus, class/Thing/CreativeWork/LearningResource/Syllabus, is_a_/Syllabus, schema-org/Syllabus]
-tags: ["class/Syllabus", "#is_a_/Syllabus", "class/Thing/CreativeWork/LearningResource/Syllabus"]
+tags: ["class/FileClass", "class/Syllabus", "is_a_/Syllabus", "class/Thing/CreativeWork/LearningResource/Syllabus"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
 ---
 

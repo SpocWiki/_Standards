@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OutletStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OutletStore, is_an_/OutletStore, schema-org/OutletStore]
-tags: ["class/OutletStore", "#is_an_/OutletStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OutletStore"]
+tags: ["class/FileClass", "class/OutletStore", "#is_an_/OutletStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/OutletStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DeliveryChargeSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification, is_a_/DeliveryChargeSpecification, schema-org/DeliveryChargeSpecification]
-tags: ["class/DeliveryChargeSpecification", "#is_a_/DeliveryChargeSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification"]
+tags: ["class/FileClass", "class/DeliveryChargeSpecification", "is_a_/DeliveryChargeSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 ---
 

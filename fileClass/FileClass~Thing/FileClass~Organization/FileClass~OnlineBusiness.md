@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OnlineBusiness, class/Thing/Organization/OnlineBusiness, is_an_/OnlineBusiness, schema-org/OnlineBusiness]
-tags: ["class/OnlineBusiness", "#is_an_/OnlineBusiness", "class/Thing/Organization/OnlineBusiness"]
+tags: ["class/FileClass", "class/OnlineBusiness", "#is_an_/OnlineBusiness", "class/Thing/Organization/OnlineBusiness"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EmploymentAgency, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmploymentAgency, is_an_/EmploymentAgency, schema-org/EmploymentAgency]
-tags: ["class/EmploymentAgency", "#is_an_/EmploymentAgency", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmploymentAgency"]
+tags: ["class/FileClass", "class/EmploymentAgency", "#is_an_/EmploymentAgency", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmploymentAgency"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 

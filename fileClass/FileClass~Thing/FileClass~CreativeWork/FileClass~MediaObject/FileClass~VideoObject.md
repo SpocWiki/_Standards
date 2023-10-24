@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/VideoObject, class/Thing/CreativeWork/MediaObject/VideoObject, is_a_/VideoObject, schema-org/VideoObject]
-tags: ["class/VideoObject", "#is_a_/VideoObject", "class/Thing/CreativeWork/MediaObject/VideoObject"]
+tags: ["class/FileClass", "class/VideoObject", "is_a_/VideoObject", "class/Thing/CreativeWork/MediaObject/VideoObject"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 ---
 

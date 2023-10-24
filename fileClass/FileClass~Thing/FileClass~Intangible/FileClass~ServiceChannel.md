@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ServiceChannel, class/Thing/Intangible/ServiceChannel, is_a_/ServiceChannel, schema-org/ServiceChannel]
-tags: ["class/ServiceChannel", "#is_a_/ServiceChannel", "class/Thing/Intangible/ServiceChannel"]
+tags: ["class/FileClass", "class/ServiceChannel", "is_a_/ServiceChannel", "class/Thing/Intangible/ServiceChannel"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

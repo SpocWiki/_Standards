@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LocationFeatureSpecification, class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification, is_a_/LocationFeatureSpecification, schema-org/LocationFeatureSpecification]
-tags: ["class/LocationFeatureSpecification", "#is_a_/LocationFeatureSpecification", "class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification"]
+tags: ["class/FileClass", "class/LocationFeatureSpecification", "is_a_/LocationFeatureSpecification", "class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WorkBasedProgram, class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram, is_a_/WorkBasedProgram, schema-org/WorkBasedProgram]
-tags: ["class/WorkBasedProgram", "#is_a_/WorkBasedProgram", "class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram"]
+tags: ["class/FileClass", "class/WorkBasedProgram", "is_a_/WorkBasedProgram", "class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DrugStrength, class/Thing/MedicalEntity/MedicalIntangible/DrugStrength, is_a_/DrugStrength, schema-org/DrugStrength]
-tags: ["class/DrugStrength", "#is_a_/DrugStrength", "class/Thing/MedicalEntity/MedicalIntangible/DrugStrength"]
+tags: ["class/FileClass", "class/DrugStrength", "is_a_/DrugStrength", "class/Thing/MedicalEntity/MedicalIntangible/DrugStrength"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 ---
 

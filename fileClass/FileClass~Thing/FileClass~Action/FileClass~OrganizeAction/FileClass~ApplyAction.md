@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ApplyAction, class/Thing/Action/OrganizeAction/ApplyAction, is_an_/ApplyAction, schema-org/ApplyAction]
-tags: ["class/ApplyAction", "#is_an_/ApplyAction", "class/Thing/Action/OrganizeAction/ApplyAction"]
+tags: ["class/FileClass", "class/ApplyAction", "#is_an_/ApplyAction", "class/Thing/Action/OrganizeAction/ApplyAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
 ---
 

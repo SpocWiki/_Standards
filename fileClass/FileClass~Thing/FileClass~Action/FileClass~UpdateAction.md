@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/UpdateAction, class/Thing/Action/UpdateAction, is_an_/UpdateAction, schema-org/UpdateAction]
-tags: ["class/UpdateAction", "#is_an_/UpdateAction", "class/Thing/Action/UpdateAction"]
+tags: ["class/FileClass", "class/UpdateAction", "#is_an_/UpdateAction", "class/Thing/Action/UpdateAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GeospatialGeometry, class/Thing/Intangible/GeospatialGeometry, is_a_/GeospatialGeometry, schema-org/GeospatialGeometry]
-tags: ["class/GeospatialGeometry", "#is_a_/GeospatialGeometry", "class/Thing/Intangible/GeospatialGeometry"]
+tags: ["class/FileClass", "class/GeospatialGeometry", "is_a_/GeospatialGeometry", "class/Thing/Intangible/GeospatialGeometry"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

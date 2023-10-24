@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/State, class/Thing/Place/AdministrativeArea/State, is_a_/State, schema-org/State]
-tags: ["class/State", "#is_a_/State", "class/Thing/Place/AdministrativeArea/State"]
+tags: ["class/FileClass", "class/State", "is_a_/State", "class/Thing/Place/AdministrativeArea/State"]
 extends: FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea
 ---
 

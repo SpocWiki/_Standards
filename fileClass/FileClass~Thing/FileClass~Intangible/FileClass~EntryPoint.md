@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/EntryPoint, class/Thing/Intangible/EntryPoint, is_an_/EntryPoint, schema-org/EntryPoint]
-tags: ["class/EntryPoint", "#is_an_/EntryPoint", "class/Thing/Intangible/EntryPoint"]
+tags: ["class/FileClass", "class/EntryPoint", "#is_an_/EntryPoint", "class/Thing/Intangible/EntryPoint"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

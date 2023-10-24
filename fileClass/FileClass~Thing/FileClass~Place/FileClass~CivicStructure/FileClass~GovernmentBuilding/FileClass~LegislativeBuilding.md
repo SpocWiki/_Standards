@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LegislativeBuilding, class/Thing/Place/CivicStructure/GovernmentBuilding/LegislativeBuilding, is_a_/LegislativeBuilding, schema-org/LegislativeBuilding]
-tags: ["class/LegislativeBuilding", "#is_a_/LegislativeBuilding", "class/Thing/Place/CivicStructure/GovernmentBuilding/LegislativeBuilding"]
+tags: ["class/FileClass", "class/LegislativeBuilding", "is_a_/LegislativeBuilding", "class/Thing/Place/CivicStructure/GovernmentBuilding/LegislativeBuilding"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding
 ---
 

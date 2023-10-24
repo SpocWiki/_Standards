@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SolveMathAction, class/Thing/Action/SolveMathAction, is_a_/SolveMathAction, schema-org/SolveMathAction]
-tags: ["class/SolveMathAction", "#is_a_/SolveMathAction", "class/Thing/Action/SolveMathAction"]
+tags: ["class/FileClass", "class/SolveMathAction", "is_a_/SolveMathAction", "class/Thing/Action/SolveMathAction"]
 extends: FileClass~Thing/FileClass~Action
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BioChemEntity, class/Thing/BioChemEntity, is_a_/BioChemEntity, schema-org/BioChemEntity]
-tags: ["class/BioChemEntity", "#is_a_/BioChemEntity", "class/Thing/BioChemEntity"]
+tags: ["class/FileClass", "class/BioChemEntity", "is_a_/BioChemEntity", "class/Thing/BioChemEntity"]
 extends: FileClass~Thing
 ---
 

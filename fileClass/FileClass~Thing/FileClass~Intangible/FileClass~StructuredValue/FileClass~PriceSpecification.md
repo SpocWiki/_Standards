@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification, is_a_/PriceSpecification, schema-org/PriceSpecification]
-tags: ["class/PriceSpecification", "#is_a_/PriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification"]
+tags: ["class/FileClass", "class/PriceSpecification", "is_a_/PriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

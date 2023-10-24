@@ -5,7 +5,7 @@ excludes:
 icon: music
 version: 5
 tagNames: [class/MusicVenue, class/Thing/Place/CivicStructure/MusicVenue, is_a_/MusicVenue, schema-org/MusicVenue]
-tags: ["class/MusicVenue", "#is_a_/MusicVenue", "class/Thing/Place/CivicStructure/MusicVenue"]
+tags: ["class/FileClass", "class/MusicVenue", "is_a_/MusicVenue", "class/Thing/Place/CivicStructure/MusicVenue"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 ---
 

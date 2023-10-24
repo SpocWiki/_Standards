@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Artery, class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Artery, is_an_/Artery, schema-org/Artery]
-tags: ["class/Artery", "#is_an_/Artery", "class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Artery"]
+tags: ["class/FileClass", "class/Artery", "#is_an_/Artery", "class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Artery"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel
 ---
 

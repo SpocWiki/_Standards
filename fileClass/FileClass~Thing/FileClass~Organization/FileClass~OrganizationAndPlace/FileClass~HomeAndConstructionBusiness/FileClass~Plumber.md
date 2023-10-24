@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Plumber, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Plumber, is_a_/Plumber, schema-org/Plumber]
-tags: ["class/Plumber", "#is_a_/Plumber", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Plumber"]
+tags: ["class/FileClass", "class/Plumber", "is_a_/Plumber", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/Plumber"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness
 ---
 

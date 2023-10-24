@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalCondition, class/Thing/MedicalEntity/MedicalCondition, is_a_/MedicalCondition, schema-org/MedicalCondition]
-tags: ["class/MedicalCondition", "#is_a_/MedicalCondition", "class/Thing/MedicalEntity/MedicalCondition"]
+tags: ["class/FileClass", "class/MedicalCondition", "is_a_/MedicalCondition", "class/Thing/MedicalEntity/MedicalCondition"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 

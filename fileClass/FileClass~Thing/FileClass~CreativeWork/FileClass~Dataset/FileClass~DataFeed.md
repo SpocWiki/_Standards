@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DataFeed, class/Thing/CreativeWork/Dataset/DataFeed, is_a_/DataFeed, schema-org/DataFeed]
-tags: ["class/DataFeed", "#is_a_/DataFeed", "class/Thing/CreativeWork/Dataset/DataFeed"]
+tags: ["class/FileClass", "class/DataFeed", "is_a_/DataFeed", "class/Thing/CreativeWork/Dataset/DataFeed"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset
 ---
 

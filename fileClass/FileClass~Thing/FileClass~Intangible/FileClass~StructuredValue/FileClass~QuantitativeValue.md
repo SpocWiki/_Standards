@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/QuantitativeValue, class/Thing/Intangible/StructuredValue/QuantitativeValue, is_a_/QuantitativeValue, schema-org/QuantitativeValue]
-tags: ["class/QuantitativeValue", "#is_a_/QuantitativeValue", "class/Thing/Intangible/StructuredValue/QuantitativeValue"]
+tags: ["class/FileClass", "class/QuantitativeValue", "is_a_/QuantitativeValue", "class/Thing/Intangible/StructuredValue/QuantitativeValue"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

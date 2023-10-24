@@ -5,7 +5,7 @@ excludes:
 icon: school
 version: 5
 tagNames: [class/EducationalOrganization, class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization, is_an_/EducationalOrganization, schema-org/EducationalOrganization]
-tags: ["class/EducationalOrganization", "#is_an_/EducationalOrganization", "class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization"]
+tags: ["class/FileClass", "class/EducationalOrganization", "#is_an_/EducationalOrganization", "class/Thing/Place/CivicStructure/CivicStructureAndOrganization/EducationalOrganization"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndOrganization
 ---
 

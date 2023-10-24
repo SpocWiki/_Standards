@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/LodgingReservation, class/Thing/Intangible/Reservation/LodgingReservation, is_a_/LodgingReservation, schema-org/LodgingReservation]
-tags: ["class/LodgingReservation", "#is_a_/LodgingReservation", "class/Thing/Intangible/Reservation/LodgingReservation"]
+tags: ["class/FileClass", "class/LodgingReservation", "is_a_/LodgingReservation", "class/Thing/Intangible/Reservation/LodgingReservation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---
 

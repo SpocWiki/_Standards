@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MobilePhoneStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore, is_a_/MobilePhoneStore, schema-org/MobilePhoneStore]
-tags: ["class/MobilePhoneStore", "#is_a_/MobilePhoneStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore"]
+tags: ["class/FileClass", "class/MobilePhoneStore", "is_a_/MobilePhoneStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/MobilePhoneStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 

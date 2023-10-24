@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SchoolDistrict, class/Thing/Place/AdministrativeArea/SchoolDistrict, is_a_/SchoolDistrict, schema-org/SchoolDistrict]
-tags: ["class/SchoolDistrict", "#is_a_/SchoolDistrict", "class/Thing/Place/AdministrativeArea/SchoolDistrict"]
+tags: ["class/FileClass", "class/SchoolDistrict", "is_a_/SchoolDistrict", "class/Thing/Place/AdministrativeArea/SchoolDistrict"]
 extends: FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/TieAction, class/Thing/Action/AchieveAction/TieAction, is_a_/TieAction, schema-org/TieAction]
-tags: ["class/TieAction", "#is_a_/TieAction", "class/Thing/Action/AchieveAction/TieAction"]
+tags: ["class/FileClass", "class/TieAction", "is_a_/TieAction", "class/Thing/Action/AchieveAction/TieAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 ---
 

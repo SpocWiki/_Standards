@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ReceiveAction, class/Thing/Action/TransferAction/ReceiveAction, is_a_/ReceiveAction, schema-org/ReceiveAction]
-tags: ["class/ReceiveAction", "#is_a_/ReceiveAction", "class/Thing/Action/TransferAction/ReceiveAction"]
+tags: ["class/FileClass", "class/ReceiveAction", "is_a_/ReceiveAction", "class/Thing/Action/TransferAction/ReceiveAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 ---
 

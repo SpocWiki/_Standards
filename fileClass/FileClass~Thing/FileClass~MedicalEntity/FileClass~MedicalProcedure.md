@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalProcedure, class/Thing/MedicalEntity/MedicalProcedure, is_a_/MedicalProcedure, schema-org/MedicalProcedure]
-tags: ["class/MedicalProcedure", "#is_a_/MedicalProcedure", "class/Thing/MedicalEntity/MedicalProcedure"]
+tags: ["class/FileClass", "class/MedicalProcedure", "is_a_/MedicalProcedure", "class/Thing/MedicalEntity/MedicalProcedure"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 

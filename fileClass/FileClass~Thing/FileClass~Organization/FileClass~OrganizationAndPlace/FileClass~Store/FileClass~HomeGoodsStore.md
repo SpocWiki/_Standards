@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HomeGoodsStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HomeGoodsStore, is_a_/HomeGoodsStore, schema-org/HomeGoodsStore]
-tags: ["class/HomeGoodsStore", "#is_a_/HomeGoodsStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HomeGoodsStore"]
+tags: ["class/FileClass", "class/HomeGoodsStore", "is_a_/HomeGoodsStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/HomeGoodsStore"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 

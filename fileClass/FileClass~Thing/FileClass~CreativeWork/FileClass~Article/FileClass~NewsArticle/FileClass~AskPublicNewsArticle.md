@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/AskPublicNewsArticle, class/Thing/CreativeWork/Article/NewsArticle/AskPublicNewsArticle, is_an_/AskPublicNewsArticle, schema-org/AskPublicNewsArticle]
-tags: ["class/AskPublicNewsArticle", "#is_an_/AskPublicNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/AskPublicNewsArticle"]
+tags: ["class/FileClass", "class/AskPublicNewsArticle", "#is_an_/AskPublicNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/AskPublicNewsArticle"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 ---
 

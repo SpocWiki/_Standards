@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CityHall, class/Thing/Place/CivicStructure/GovernmentBuilding/CityHall, is_a_/CityHall, schema-org/CityHall]
-tags: ["class/CityHall", "#is_a_/CityHall", "class/Thing/Place/CivicStructure/GovernmentBuilding/CityHall"]
+tags: ["class/FileClass", "class/CityHall", "is_a_/CityHall", "class/Thing/Place/CivicStructure/GovernmentBuilding/CityHall"]
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding
 ---
 

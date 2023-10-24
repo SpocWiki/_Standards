@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ProfessionalService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService, is_a_/ProfessionalService, schema-org/ProfessionalService]
-tags: ["class/ProfessionalService", "#is_a_/ProfessionalService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService"]
+tags: ["class/FileClass", "class/ProfessionalService", "is_a_/ProfessionalService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ProfessionalService"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 

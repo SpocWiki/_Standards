@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PrependAction, class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction, is_a_/PrependAction, schema-org/PrependAction]
-tags: ["class/PrependAction", "#is_a_/PrependAction", "class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction"]
+tags: ["class/FileClass", "class/PrependAction", "is_a_/PrependAction", "class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: gamepad-2
 version: 5
 tagNames: [class/VideoGame, class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame, is_a_/VideoGame, schema-org/VideoGame]
-tags: ["class/VideoGame", "#is_a_/VideoGame", "class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame"]
+tags: ["class/FileClass", "class/VideoGame", "is_a_/VideoGame", "class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication
 ---
 

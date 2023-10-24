@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SellAction, class/Thing/Action/TradeAction/SellAction, is_a_/SellAction, schema-org/SellAction]
-tags: ["class/SellAction", "#is_a_/SellAction", "class/Thing/Action/TradeAction/SellAction"]
+tags: ["class/FileClass", "class/SellAction", "is_a_/SellAction", "class/Thing/Action/TradeAction/SellAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 ---
 

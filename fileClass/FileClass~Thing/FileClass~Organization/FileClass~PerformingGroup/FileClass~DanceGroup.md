@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DanceGroup, class/Thing/Organization/PerformingGroup/DanceGroup, is_a_/DanceGroup, schema-org/DanceGroup]
-tags: ["class/DanceGroup", "#is_a_/DanceGroup", "class/Thing/Organization/PerformingGroup/DanceGroup"]
+tags: ["class/FileClass", "class/DanceGroup", "is_a_/DanceGroup", "class/Thing/Organization/PerformingGroup/DanceGroup"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
 ---
 

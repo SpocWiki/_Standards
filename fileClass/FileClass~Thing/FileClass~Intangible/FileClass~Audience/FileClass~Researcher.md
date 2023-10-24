@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Researcher, class/Thing/Intangible/Audience/Researcher, is_a_/Researcher, schema-org/Researcher]
-tags: ["class/Researcher", "#is_a_/Researcher", "class/Thing/Intangible/Audience/Researcher"]
+tags: ["class/FileClass", "class/Researcher", "is_a_/Researcher", "class/Thing/Intangible/Audience/Researcher"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 ---
 

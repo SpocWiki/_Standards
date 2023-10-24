@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/MedicalDevice, class/Thing/MedicalEntity/MedicalDevice, is_a_/MedicalDevice, schema-org/MedicalDevice]
-tags: ["class/MedicalDevice", "#is_a_/MedicalDevice", "class/Thing/MedicalEntity/MedicalDevice"]
+tags: ["class/FileClass", "class/MedicalDevice", "is_a_/MedicalDevice", "class/Thing/MedicalEntity/MedicalDevice"]
 extends: FileClass~Thing/FileClass~MedicalEntity
 ---
 

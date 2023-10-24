@@ -5,7 +5,7 @@ excludes:
 icon: banknote
 version: 5
 tagNames: [class/FinancialService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService, is_a_/FinancialService, schema-org/FinancialService]
-tags: ["class/FinancialService", "#is_a_/FinancialService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService"]
+tags: ["class/FileClass", "class/FinancialService", "is_a_/FinancialService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 ---
 

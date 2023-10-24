@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ActionAccessSpecification, class/Thing/Intangible/ActionAccessSpecification, is_an_/ActionAccessSpecification, schema-org/ActionAccessSpecification]
-tags: ["class/ActionAccessSpecification", "#is_an_/ActionAccessSpecification", "class/Thing/Intangible/ActionAccessSpecification"]
+tags: ["class/FileClass", "class/ActionAccessSpecification", "#is_an_/ActionAccessSpecification", "class/Thing/Intangible/ActionAccessSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

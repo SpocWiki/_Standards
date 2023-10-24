@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BusReservation, class/Thing/Intangible/Reservation/BusReservation, is_a_/BusReservation, schema-org/BusReservation]
-tags: ["class/BusReservation", "#is_a_/BusReservation", "class/Thing/Intangible/Reservation/BusReservation"]
+tags: ["class/FileClass", "class/BusReservation", "is_a_/BusReservation", "class/Thing/Intangible/Reservation/BusReservation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---
 

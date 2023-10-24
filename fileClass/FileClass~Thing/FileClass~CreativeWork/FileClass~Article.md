@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Article, class/Thing/CreativeWork/Article, is_an_/Article, schema-org/Article]
-tags: ["class/Article", "#is_an_/Article", "class/Thing/CreativeWork/Article"]
+tags: ["class/FileClass", "class/Article", "#is_an_/Article", "class/Thing/CreativeWork/Article"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

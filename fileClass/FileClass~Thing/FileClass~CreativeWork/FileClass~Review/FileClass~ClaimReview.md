@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ClaimReview, class/Thing/CreativeWork/Review/ClaimReview, is_a_/ClaimReview, schema-org/ClaimReview]
-tags: ["class/ClaimReview", "#is_a_/ClaimReview", "class/Thing/CreativeWork/Review/ClaimReview"]
+tags: ["class/FileClass", "class/ClaimReview", "is_a_/ClaimReview", "class/Thing/CreativeWork/Review/ClaimReview"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 ---
 

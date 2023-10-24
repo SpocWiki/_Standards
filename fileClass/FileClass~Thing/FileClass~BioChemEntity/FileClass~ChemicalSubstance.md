@@ -5,7 +5,7 @@ excludes:
 icon: flask-conical
 version: 5
 tagNames: [class/ChemicalSubstance, class/Thing/BioChemEntity/ChemicalSubstance, is_a_/ChemicalSubstance, schema-org/ChemicalSubstance]
-tags: ["class/ChemicalSubstance", "#is_a_/ChemicalSubstance", "class/Thing/BioChemEntity/ChemicalSubstance"]
+tags: ["class/FileClass", "class/ChemicalSubstance", "is_a_/ChemicalSubstance", "class/Thing/BioChemEntity/ChemicalSubstance"]
 extends: FileClass~Thing/FileClass~BioChemEntity
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Taxon, class/Thing/Taxon, is_a_/Taxon, schema-org/Taxon]
-tags: ["class/Taxon", "#is_a_/Taxon", "class/Thing/Taxon"]
+tags: ["class/FileClass", "class/Taxon", "is_a_/Taxon", "class/Thing/Taxon"]
 extends: FileClass~Thing
 ---
 

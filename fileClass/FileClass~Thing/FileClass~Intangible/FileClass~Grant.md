@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Grant, class/Thing/Intangible/Grant, is_a_/Grant, schema-org/Grant]
-tags: ["class/Grant", "#is_a_/Grant", "class/Thing/Intangible/Grant"]
+tags: ["class/FileClass", "class/Grant", "is_a_/Grant", "class/Thing/Intangible/Grant"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

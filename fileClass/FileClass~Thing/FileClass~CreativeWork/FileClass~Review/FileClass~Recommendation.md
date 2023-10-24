@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Recommendation, class/Thing/CreativeWork/Review/Recommendation, is_a_/Recommendation, schema-org/Recommendation]
-tags: ["class/Recommendation", "#is_a_/Recommendation", "class/Thing/CreativeWork/Review/Recommendation"]
+tags: ["class/FileClass", "class/Recommendation", "is_a_/Recommendation", "class/Thing/CreativeWork/Review/Recommendation"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DeliveryEvent, class/Thing/Event/DeliveryEvent, is_a_/DeliveryEvent, schema-org/DeliveryEvent]
-tags: ["class/DeliveryEvent", "#is_a_/DeliveryEvent", "class/Thing/Event/DeliveryEvent"]
+tags: ["class/FileClass", "class/DeliveryEvent", "is_a_/DeliveryEvent", "class/Thing/Event/DeliveryEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---
 

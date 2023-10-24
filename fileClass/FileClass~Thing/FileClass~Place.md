@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Place, class/Thing/Place, is_a_/Place, schema-org/Place]
-tags: ["class/Place", "#is_a_/Place", "class/Thing/Place"]
+tags: ["class/FileClass", "class/Place", "is_a_/Place", "class/Thing/Place"]
 extends: FileClass~Thing
 ---
 

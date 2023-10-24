@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Language, class/Thing/Intangible/Language, is_a_/Language, schema-org/Language]
-tags: ["class/Language", "#is_a_/Language", "class/Thing/Intangible/Language"]
+tags: ["class/FileClass", "class/Language", "is_a_/Language", "class/Thing/Intangible/Language"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

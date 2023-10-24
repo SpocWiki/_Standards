@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Comment, class/Thing/CreativeWork/Comment, is_a_/Comment, schema-org/Comment]
-tags: ["class/Comment", "#is_a_/Comment", "class/Thing/CreativeWork/Comment"]
+tags: ["class/FileClass", "class/Comment", "is_a_/Comment", "class/Thing/CreativeWork/Comment"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/FoodEstablishmentReservation, class/Thing/Intangible/Reservation/FoodEstablishmentReservation, is_a_/FoodEstablishmentReservation, schema-org/FoodEstablishmentReservation]
-tags: ["class/FoodEstablishmentReservation", "#is_a_/FoodEstablishmentReservation", "class/Thing/Intangible/Reservation/FoodEstablishmentReservation"]
+tags: ["class/FileClass", "class/FoodEstablishmentReservation", "is_a_/FoodEstablishmentReservation", "class/Thing/Intangible/Reservation/FoodEstablishmentReservation"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 ---
 

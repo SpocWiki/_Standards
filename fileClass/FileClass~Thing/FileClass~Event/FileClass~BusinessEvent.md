@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/BusinessEvent, class/Thing/Event/BusinessEvent, is_a_/BusinessEvent, schema-org/BusinessEvent]
-tags: ["class/BusinessEvent", "#is_a_/BusinessEvent", "class/Thing/Event/BusinessEvent"]
+tags: ["class/FileClass", "class/BusinessEvent", "is_a_/BusinessEvent", "class/Thing/Event/BusinessEvent"]
 extends: FileClass~Thing/FileClass~Event
 ---
 

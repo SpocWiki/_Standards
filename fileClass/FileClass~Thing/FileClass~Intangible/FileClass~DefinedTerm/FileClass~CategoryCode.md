@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CategoryCode, class/Thing/Intangible/DefinedTerm/CategoryCode, is_a_/CategoryCode, schema-org/CategoryCode]
-tags: ["class/CategoryCode", "#is_a_/CategoryCode", "class/Thing/Intangible/DefinedTerm/CategoryCode"]
+tags: ["class/FileClass", "class/CategoryCode", "is_a_/CategoryCode", "class/Thing/Intangible/DefinedTerm/CategoryCode"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm
 ---
 

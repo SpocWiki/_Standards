@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/WPSideBar, class/Thing/CreativeWork/WebPageElement/WPSideBar, is_a_/WPSideBar, schema-org/WPSideBar]
-tags: ["class/WPSideBar", "#is_a_/WPSideBar", "class/Thing/CreativeWork/WebPageElement/WPSideBar"]
+tags: ["class/FileClass", "class/WPSideBar", "is_a_/WPSideBar", "class/Thing/CreativeWork/WebPageElement/WPSideBar"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement
 ---
 

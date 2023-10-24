@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DefinedRegion, class/Thing/Intangible/StructuredValue/DefinedRegion, is_a_/DefinedRegion, schema-org/DefinedRegion]
-tags: ["class/DefinedRegion", "#is_a_/DefinedRegion", "class/Thing/Intangible/StructuredValue/DefinedRegion"]
+tags: ["class/FileClass", "class/DefinedRegion", "is_a_/DefinedRegion", "class/Thing/Intangible/StructuredValue/DefinedRegion"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

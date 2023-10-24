@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Course, class/Thing/CreativeWork/LearningResource/Course, is_a_/Course, schema-org/Course]
-tags: ["class/Course", "#is_a_/Course", "class/Thing/CreativeWork/LearningResource/Course"]
+tags: ["class/FileClass", "class/Course", "is_a_/Course", "class/Thing/CreativeWork/LearningResource/Course"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/DoseSchedule, class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule, is_a_/DoseSchedule, schema-org/DoseSchedule]
-tags: ["class/DoseSchedule", "#is_a_/DoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule"]
+tags: ["class/FileClass", "class/DoseSchedule", "is_a_/DoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule"]
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 ---
 

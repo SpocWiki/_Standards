@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/GovernmentOrganization, class/Thing/Organization/GovernmentOrganization, is_a_/GovernmentOrganization, schema-org/GovernmentOrganization]
-tags: ["class/GovernmentOrganization", "#is_a_/GovernmentOrganization", "class/Thing/Organization/GovernmentOrganization"]
+tags: ["class/FileClass", "class/GovernmentOrganization", "is_a_/GovernmentOrganization", "class/Thing/Organization/GovernmentOrganization"]
 extends: FileClass~Thing/FileClass~Organization
 ---
 

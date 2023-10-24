@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CollectionAndProduct, class/Thing/CreativeWork/Collection/CollectionAndProduct, is_a_/CollectionAndProduct, schema-org/CollectionAndProduct]
-tags: ["class/CollectionAndProduct", "#is_a_/CollectionAndProduct", "class/Thing/CreativeWork/Collection/CollectionAndProduct"]
+tags: ["class/FileClass", "class/CollectionAndProduct", "is_a_/CollectionAndProduct", "class/Thing/CreativeWork/Collection/CollectionAndProduct"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Collection
 ---
 

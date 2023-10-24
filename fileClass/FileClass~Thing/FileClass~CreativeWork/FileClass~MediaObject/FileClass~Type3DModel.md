@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Type3DModel, class/Thing/CreativeWork/MediaObject/Type3DModel, is_a_/Type3DModel, schema-org/Type3DModel]
-tags: ["class/Type3DModel", "#is_a_/Type3DModel", "class/Thing/CreativeWork/MediaObject/Type3DModel"]
+tags: ["class/FileClass", "class/Type3DModel", "is_a_/Type3DModel", "class/Thing/CreativeWork/MediaObject/Type3DModel"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 ---
 

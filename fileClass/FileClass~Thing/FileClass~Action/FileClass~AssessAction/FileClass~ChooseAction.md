@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ChooseAction, class/Thing/Action/AssessAction/ChooseAction, is_a_/ChooseAction, schema-org/ChooseAction]
-tags: ["class/ChooseAction", "#is_a_/ChooseAction", "class/Thing/Action/AssessAction/ChooseAction"]
+tags: ["class/FileClass", "class/ChooseAction", "is_a_/ChooseAction", "class/Thing/Action/AssessAction/ChooseAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 ---
 

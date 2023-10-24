@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/HealthPlanCostSharingSpecification, class/Thing/Intangible/HealthPlanCostSharingSpecification, is_a_/HealthPlanCostSharingSpecification, schema-org/HealthPlanCostSharingSpecification]
-tags: ["class/HealthPlanCostSharingSpecification", "#is_a_/HealthPlanCostSharingSpecification", "class/Thing/Intangible/HealthPlanCostSharingSpecification"]
+tags: ["class/FileClass", "class/HealthPlanCostSharingSpecification", "is_a_/HealthPlanCostSharingSpecification", "class/Thing/Intangible/HealthPlanCostSharingSpecification"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

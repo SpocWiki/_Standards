@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CategoryCodeAndMedicalIntangible, class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible, is_a_/CategoryCodeAndMedicalIntangible, schema-org/CategoryCodeAndMedicalIntangible]
-tags: ["class/CategoryCodeAndMedicalIntangible", "#is_a_/CategoryCodeAndMedicalIntangible", "class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible"]
+tags: ["class/FileClass", "class/CategoryCodeAndMedicalIntangible", "is_a_/CategoryCodeAndMedicalIntangible", "class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode
 ---
 

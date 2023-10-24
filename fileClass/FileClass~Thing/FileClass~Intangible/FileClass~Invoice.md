@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Invoice, class/Thing/Intangible/Invoice, is_an_/Invoice, schema-org/Invoice]
-tags: ["class/Invoice", "#is_an_/Invoice", "class/Thing/Intangible/Invoice"]
+tags: ["class/FileClass", "class/Invoice", "#is_an_/Invoice", "class/Thing/Intangible/Invoice"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

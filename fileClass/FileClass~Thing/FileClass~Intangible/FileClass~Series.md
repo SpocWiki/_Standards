@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Series, class/Thing/Intangible/Series, is_a_/Series, schema-org/Series]
-tags: ["class/Series", "#is_a_/Series", "class/Thing/Intangible/Series"]
+tags: ["class/FileClass", "class/Series", "is_a_/Series", "class/Thing/Intangible/Series"]
 extends: FileClass~Thing/FileClass~Intangible
 ---
 

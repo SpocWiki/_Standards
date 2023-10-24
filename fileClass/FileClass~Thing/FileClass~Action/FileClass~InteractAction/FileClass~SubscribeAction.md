@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SubscribeAction, class/Thing/Action/InteractAction/SubscribeAction, is_a_/SubscribeAction, schema-org/SubscribeAction]
-tags: ["class/SubscribeAction", "#is_a_/SubscribeAction", "class/Thing/Action/InteractAction/SubscribeAction"]
+tags: ["class/FileClass", "class/SubscribeAction", "is_a_/SubscribeAction", "class/Thing/Action/InteractAction/SubscribeAction"]
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 ---
 

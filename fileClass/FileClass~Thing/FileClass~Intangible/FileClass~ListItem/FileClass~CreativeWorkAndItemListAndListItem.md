@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/CreativeWorkAndItemListAndListItem, class/Thing/Intangible/ListItem/CreativeWorkAndItemListAndListItem, is_a_/CreativeWorkAndItemListAndListItem, schema-org/CreativeWorkAndItemListAndListItem]
-tags: ["class/CreativeWorkAndItemListAndListItem", "#is_a_/CreativeWorkAndItemListAndListItem", "class/Thing/Intangible/ListItem/CreativeWorkAndItemListAndListItem"]
+tags: ["class/FileClass", "class/CreativeWorkAndItemListAndListItem", "is_a_/CreativeWorkAndItemListAndListItem", "class/Thing/Intangible/ListItem/CreativeWorkAndItemListAndListItem"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem
 ---
 

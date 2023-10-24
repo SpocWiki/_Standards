@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Product, class/Thing/Product, is_a_/Product, schema-org/Product]
-tags: ["class/Product", "#is_a_/Product", "class/Thing/Product"]
+tags: ["class/FileClass", "class/Product", "is_a_/Product", "class/Thing/Product"]
 extends: FileClass~Thing
 ---
 

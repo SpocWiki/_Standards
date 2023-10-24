@@ -5,7 +5,7 @@ excludes:
 icon: clapperboard
 version: 5
 tagNames: [class/Movie, class/Thing/CreativeWork/Movie, is_a_/Movie, schema-org/Movie]
-tags: ["class/Movie", "#is_a_/Movie", "class/Thing/CreativeWork/Movie"]
+tags: ["class/FileClass", "class/Movie", "is_a_/Movie", "class/Thing/CreativeWork/Movie"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 

@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/SpreadsheetDigitalDocument, class/Thing/CreativeWork/DigitalDocument/SpreadsheetDigitalDocument, is_a_/SpreadsheetDigitalDocument, schema-org/SpreadsheetDigitalDocument]
-tags: ["class/SpreadsheetDigitalDocument", "#is_a_/SpreadsheetDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/SpreadsheetDigitalDocument"]
+tags: ["class/FileClass", "class/SpreadsheetDigitalDocument", "is_a_/SpreadsheetDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/SpreadsheetDigitalDocument"]
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
 ---
 

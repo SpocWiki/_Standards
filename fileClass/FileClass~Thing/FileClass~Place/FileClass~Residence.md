@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Residence, class/Thing/Place/Residence, is_a_/Residence, schema-org/Residence]
-tags: ["class/Residence", "#is_a_/Residence", "class/Thing/Place/Residence"]
+tags: ["class/FileClass", "class/Residence", "is_a_/Residence", "class/Thing/Place/Residence"]
 extends: FileClass~Thing/FileClass~Place
 ---
 

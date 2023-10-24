@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/Resort, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort, is_a_/Resort, schema-org/Resort]
-tags: ["class/Resort", "#is_a_/Resort", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort"]
+tags: ["class/FileClass", "class/Resort", "is_a_/Resort", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness
 ---
 

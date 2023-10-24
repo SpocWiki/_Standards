@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/PawnShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PawnShop, is_a_/PawnShop, schema-org/PawnShop]
-tags: ["class/PawnShop", "#is_a_/PawnShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PawnShop"]
+tags: ["class/FileClass", "class/PawnShop", "is_a_/PawnShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/PawnShop"]
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
 ---
 

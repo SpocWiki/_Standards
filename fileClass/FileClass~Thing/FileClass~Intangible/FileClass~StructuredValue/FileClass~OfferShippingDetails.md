@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/OfferShippingDetails, class/Thing/Intangible/StructuredValue/OfferShippingDetails, is_an_/OfferShippingDetails, schema-org/OfferShippingDetails]
-tags: ["class/OfferShippingDetails", "#is_an_/OfferShippingDetails", "class/Thing/Intangible/StructuredValue/OfferShippingDetails"]
+tags: ["class/FileClass", "class/OfferShippingDetails", "#is_an_/OfferShippingDetails", "class/Thing/Intangible/StructuredValue/OfferShippingDetails"]
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 ---
 

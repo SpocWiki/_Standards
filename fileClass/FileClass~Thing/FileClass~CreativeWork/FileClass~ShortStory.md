@@ -5,7 +5,7 @@ excludes:
 icon: link-2
 version: 5
 tagNames: [class/ShortStory, class/Thing/CreativeWork/ShortStory, is_a_/ShortStory, schema-org/ShortStory]
-tags: ["class/ShortStory", "#is_a_/ShortStory", "class/Thing/CreativeWork/ShortStory"]
+tags: ["class/FileClass", "class/ShortStory", "is_a_/ShortStory", "class/Thing/CreativeWork/ShortStory"]
 extends: FileClass~Thing/FileClass~CreativeWork
 ---
 
