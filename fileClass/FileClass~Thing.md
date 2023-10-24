@@ -74,7 +74,7 @@ E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.
 SameAs:: {"type":"Input","options":{}}
 
 ### SubjectOf
-CreativeWorks or Events about this Thing.
+CreativeWorks or Events about this Thing. Inverse Relation of [[../schema-org/Relation/has/is_subject_of|is_subject_of]] 
 
 SubjectOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
@@ -83,7 +83,13 @@ URL of the item.
 
 Url:: {"type":"Input","options":{}}
 
+### Class 
+Using the [[../../Knowledge/Ontology/Turtle(Terse_RDF_Triple_Language)|Turtle(Terse_RDF_Triple_Language)]]/[[../../Knowledge/Ontology/N3(Notation3)|N3(Notation3)]] Syntax, 
+because it is common, better readable and less abstract. 
+Alternatively could also be described with a Relation `has_class` ,
+but this would confound it with regular Relations.
 
+is_a::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
 
 has_time_created:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 has_time_destroyed:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}

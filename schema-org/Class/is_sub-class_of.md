@@ -27,13 +27,14 @@ aliases:
   - rdfs~subClassOf
   - 
 ---
+Relates a subclass to its super-class. 
+Alternative, better readable Name: is_a_kind_of similar to #is_a_ 
+Could be implemented with dedicated #Tags, but that would create a proliferation. 
+
 
 Use it like this: 
 - [ #is_/sub_class_of :: Class] or 
 - [ is_sub_class_of :: Class] 
-
-Relates a subclass to its super-class. 
-Can be implemented with dedicated #Tags
 
 Relation describes that: 
 [ #has_/domain  :: [Class](../../Classes.md)]
