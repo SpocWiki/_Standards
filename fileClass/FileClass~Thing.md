@@ -84,3 +84,10 @@ URL of the item.
 Url:: {"type":"Input","options":{}}
 
 
+
+has_time_created:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+has_time_destroyed:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
+has_creator:: {"type":"Input","options":{}}
+has_destroyer:: {"type":"Input","options":{}}
+has_place_created:: {"type":"Input","options":{}}
+has_place_destroyed:: {"type":"Input","options":{}}
