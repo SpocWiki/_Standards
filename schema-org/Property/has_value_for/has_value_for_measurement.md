@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Predi_Quantity
 
-title: has_has-measurement
-linkTitle: has_has-measurement
+title: has_measurement
+linkTitle: has_measurement
 
 keywords: [has-measurement]
 layout: 
