@@ -27,7 +27,7 @@ See Organization, Place for more information.
 
 ## Properties of [[FileClass~Organization]]
 ### ActionableFeedbackPolicy
-For a [[NewsMediaOrganization]] or other news-related [[Organization]], a statement about public engagement activities (for news media, the newsroom’s), including involving the public - digitally or otherwise -- in coverage decisions, reporting and activities after publication.
+For a [[NewsMediaOrganization]] or other news-related [[Organization]], a statement about public engagement activities (for news media, the newsroomï¿½s), including involving the public - digitally or otherwise -- in coverage decisions, reporting and activities after publication.
 
 ActionableFeedbackPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
@@ -67,7 +67,7 @@ A contact point for a person or organization.
 ContactPoint:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')"}}
 
 ### CorrectionsPolicy
-For an [[Organization]] (e.g. [[NewsMediaOrganization]]), a statement describing (in news media, the newsroom’s) disclosure and correction policy for errors.
+For an [[Organization]] (e.g. [[NewsMediaOrganization]]), a statement describing (in news media, the newsroomï¿½s) disclosure and correction policy for errors.
 
 CorrectionsPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
@@ -82,7 +82,7 @@ The date that this organization was dissolved.
 DissolutionDate:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 ### DiversityPolicy
-Statement on diversity policy by an [[Organization]] e.g. a [[NewsMediaOrganization]]. For a [[NewsMediaOrganization]], a statement describing the newsroom’s diversity policy on both staffing and sources, typically providing staffing data.
+Statement on diversity policy by an [[Organization]] e.g. a [[NewsMediaOrganization]]. For a [[NewsMediaOrganization]], a statement describing the newsroomï¿½s diversity policy on both staffing and sources, typically providing staffing data.
 
 DiversityPolicy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
