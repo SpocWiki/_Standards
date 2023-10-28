@@ -36,7 +36,7 @@ Class of all price_specifications.
 Tag Instances like this: 
 #is_a_/price_specification
 
-A structured value representing a price or price range. Typically, only the subclasses of this type are used for markup. It is recommended to use <a class="localLink" href="/MonetaryAmount">MonetaryAmount</a> to describe independent amounts of money such as a salary, credit card limits, etc.
+A structured value representing a price or price range. Typically, only the subclasses of this type are used for markup. It is recommended to use [[MonetaryAmount]] to describe independent amounts of money such as a salary, credit card limits, etc.
 
 [ #is_/sub_class_of :: [[../StructuredValue]] ]
 

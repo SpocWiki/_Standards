@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-<a class="localLink" href="/HealthTopicContent">HealthTopicContent</a> is <a class="localLink" href="/WebContent">WebContent</a> that is about some aspect of a health topic, e.g. a condition, its symptoms or treatments. Such content may be comprised of several parts or sections and use different types of media. Multiple instances of <a class="localLink" href="/WebContent">WebContent</a> (and hence <a class="localLink" href="/HealthTopicContent">HealthTopicContent</a>) can be related using <a class="localLink" href="/hasPart">hasPart</a> / <a class="localLink" href="/isPartOf">isPartOf</a> where there is some kind of content hierarchy, and their content described with <a class="localLink" href="/about">about</a> and <a class="localLink" href="/mentions">mentions</a> e.g. building upon the existing <a class="localLink" href="/MedicalCondition">MedicalCondition</a> vocabulary.
+[[HealthTopicContent]] is [[WebContent]] that is about some aspect of a health topic, e.g. a condition, its symptoms or treatments. Such content may be comprised of several parts or sections and use different types of media. Multiple instances of [[WebContent]] (and hence [[HealthTopicContent]]) can be related using [[hasPart]] / [[isPartOf]] where there is some kind of content hierarchy, and their content described with [[about]] and [[mentions]] e.g. building upon the existing [[MedicalCondition]] vocabulary.
 
 [ #is_/sub_class_of :: [[../WebContent]] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-<a class="localLink" href="/Recommendation">Recommendation</a> is a type of <a class="localLink" href="/Review">Review</a> that suggests or proposes something as the best option or best course of action. Recommendations may be for products or services, or other concrete things, as in the case of a ranked list or product guide. A <a class="localLink" href="/Guide">Guide</a> may list multiple recommendations for different categories. For example, in a <a class="localLink" href="/Guide">Guide</a> about which TVs to buy, the author may have several <a class="localLink" href="/Recommendation">Recommendation</a>s.
+[[Recommendation]] is a type of [[Review]] that suggests or proposes something as the best option or best course of action. Recommendations may be for products or services, or other concrete things, as in the case of a ranked list or product guide. A [[Guide]] may list multiple recommendations for different categories. For example, in a [[Guide]] about which TVs to buy, the author may have several [[Recommendation]]s.
 
 [ #is_/sub_class_of :: [[../Review]] ]
 

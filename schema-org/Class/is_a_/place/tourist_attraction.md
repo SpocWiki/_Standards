@@ -36,7 +36,7 @@ Class of all tourist_attractions.
 Tag Instances like this: 
 #is_a_/tourist_attraction
 
-A tourist attraction.  In principle any Thing can be a <a class="localLink" href="/TouristAttraction">TouristAttraction</a>, from a <a class="localLink" href="/Mountain">Mountain</a> and <a class="localLink" href="/LandmarksOrHistoricalBuildings">LandmarksOrHistoricalBuildings</a> to a <a class="localLink" href="/LocalBusiness">LocalBusiness</a>.  This Type can be used on its own to describe a general <a class="localLink" href="/TouristAttraction">TouristAttraction</a>, or be used as an <a class="localLink" href="/additionalType">additionalType</a> to add tourist attraction properties to any other type.  (See examples below)
+A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], from a [[Mountain]] and [[LandmarksOrHistoricalBuildings]] to a [[LocalBusiness]].  This Type can be used on its own to describe a general [[TouristAttraction]], or be used as an [[additionalType]] to add tourist attraction properties to any other type.  (See examples below)
 
 [ #is_/sub_class_of :: [[../Place]] ]
 

@@ -41,7 +41,7 @@ The act of asserting that a future event/action is no longer going to happen.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/ConfirmAction">ConfirmAction</a>: The antonym of CancelAction.</li>
+<li>[[ConfirmAction]]: The antonym of CancelAction.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../PlanAction]] ]

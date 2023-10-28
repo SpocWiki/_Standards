@@ -41,9 +41,9 @@ The act of an agent communicating (service provider, social media, etc) their ar
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/CheckOutAction">CheckOutAction</a>: The antonym of CheckInAction.</li>
-<li><a class="localLink" href="/ArriveAction">ArriveAction</a>: Unlike ArriveAction, CheckInAction implies that the agent is informing/confirming the start of a previously reserved service.</li>
-<li><a class="localLink" href="/ConfirmAction">ConfirmAction</a>: Unlike ConfirmAction, CheckInAction implies that the agent is informing/confirming the <em>start</em> of a previously reserved service rather than its validity/existence.</li>
+<li>[[CheckOutAction]]: The antonym of CheckInAction.</li>
+<li>[[ArriveAction]]: Unlike ArriveAction, CheckInAction implies that the agent is informing/confirming the start of a previously reserved service.</li>
+<li>[[ConfirmAction]]: Unlike ConfirmAction, CheckInAction implies that the agent is informing/confirming the <em>start</em> of a previously reserved service rather than its validity/existence.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../CommunicateAction]] ]

@@ -41,7 +41,7 @@ The act of registering to an organization/service without the guarantee to recei
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/RegisterAction">RegisterAction</a>: Unlike RegisterAction, ApplyAction has no guarantees that the application will be accepted.</li>
+<li>[[RegisterAction]]: Unlike RegisterAction, ApplyAction has no guarantees that the application will be accepted.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../OrganizeAction]] ]

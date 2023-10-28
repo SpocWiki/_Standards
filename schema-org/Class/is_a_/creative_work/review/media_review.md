@@ -38,10 +38,10 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A <a class="localLink" href="/MediaReview">MediaReview</a> is a more specialized form of Review dedicated to the evaluation of media content online, typically in the context of fact-checking and misinformation.
-    For more general reviews of media in the broader sense, use <a class="localLink" href="/UserReview">UserReview</a>, <a class="localLink" href="/CriticReview">CriticReview</a> or other <a class="localLink" href="/Review">Review</a> types. This definition is
-    a work in progress. While the <a class="localLink" href="/MediaManipulationRatingEnumeration">MediaManipulationRatingEnumeration</a> list reflects significant community review amongst fact-checkers and others working
-    to combat misinformation, the specific structures for representing media objects, their versions and publication context, are still evolving. Similarly, best practices for the relationship between <a class="localLink" href="/MediaReview">MediaReview</a> and <a class="localLink" href="/ClaimReview">ClaimReview</a> markup have not yet been finalized.
+A [[MediaReview]] is a more specialized form of Review dedicated to the evaluation of media content online, typically in the context of fact-checking and misinformation.
+    For more general reviews of media in the broader sense, use [[UserReview]], [[CriticReview]] or other [[Review]] types. This definition is
+    a work in progress. While the [[MediaManipulationRatingEnumeration]] list reflects significant community review amongst fact-checkers and others working
+    to combat misinformation, the specific structures for representing media objects, their versions and publication context, are still evolving. Similarly, best practices for the relationship between [[MediaReview]] and [[ClaimReview]] markup have not yet been finalized.
 
 [ #is_/sub_class_of :: [[../Review]] ]
 

@@ -40,7 +40,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A MerchantReturnPolicy provides information about product return policies associated with an <a class="localLink" href="/Organization">Organization</a>, <a class="localLink" href="/Product">Product</a>, or <a class="localLink" href="/Offer">Offer</a>.
+A MerchantReturnPolicy provides information about product return policies associated with an [[Organization]], [[Product]], or [[Offer]].
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

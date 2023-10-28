@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-An AnalysisNewsArticle is a <a class="localLink" href="/NewsArticle">NewsArticle</a> that, while based on factual reporting, incorporates the expertise of the author/producer, offering interpretations and conclusions.
+An AnalysisNewsArticle is a [[NewsArticle]] that, while based on factual reporting, incorporates the expertise of the author/producer, offering interpretations and conclusions.
 
 [ #is_/sub_class_of :: [[../NewsArticle]] ]
 

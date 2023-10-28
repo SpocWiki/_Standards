@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A <a class="localLink" href="/comment">comment</a> that corrects <a class="localLink" href="/CreativeWork">CreativeWork</a>.
+A [[comment]] that corrects [[CreativeWork]].
 
 [ #is_/sub_class_of :: [[../Comment]] ]
 

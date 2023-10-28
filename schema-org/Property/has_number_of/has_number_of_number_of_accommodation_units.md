@@ -39,7 +39,7 @@ Use it like this:
 - [ #has_/number_of_/number_of_accommodation_units :: QuantitativeValue ] or 
 - [ has_number_of_number_of_accommodation_units :: QuantitativeValue ] 
 
-Indicates the total (available plus unavailable) number of accommodation units in an <a class="localLink" href="/ApartmentComplex">ApartmentComplex</a>, or the number of accommodation units for a specific <a class="localLink" href="/FloorPlan">FloorPlan</a> (within its specific <a class="localLink" href="/ApartmentComplex">ApartmentComplex</a>). See also <a class="localLink" href="/numberOfAvailableAccommodationUnits">numberOfAvailableAccommodationUnits</a>.
+Indicates the total (available plus unavailable) number of accommodation units in an [[ApartmentComplex]], or the number of accommodation units for a specific [[FloorPlan]] (within its specific [[ApartmentComplex]]). See also [[numberOfAvailableAccommodationUnits]].
 
 Predicate describes that: 
 [ #has_/domain  :: ApartmentComplex, FloorPlan ]

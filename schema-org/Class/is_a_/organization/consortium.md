@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A Consortium is a membership <a class="localLink" href="/Organization">Organization</a> whose members are typically Organizations.
+A Consortium is a membership [[Organization]] whose members are typically Organizations.
 
 [ #is_/sub_class_of :: [[../Organization]] ]
 

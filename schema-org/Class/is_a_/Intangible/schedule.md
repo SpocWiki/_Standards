@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -30,17 +30,19 @@ aliases:
 - Schedule
 - is_a_schedule
 ---
+# [[schedule]] 
 
 Class of all schedules.
 
-Tag Instances like this: 
-#is_a_/schedule
+Tag Instances like this: #is_a_/schedule 
+Attach to Events using: #has_/event_schedule this 
 
-[ #is_/part_of :: https://pending.schema.org ]
-
-A schedule defines a repeating time period used to describe a regularly occurring <a class="localLink" href="/Event">Event</a>. At a minimum a schedule will specify <a class="localLink" href="/repeatFrequency">repeatFrequency</a> which describes the interval between occurrences of the event. Additional information can be provided to specify the schedule more precisely.
+A schedule defines a repeating time period used to describe a regularly occurring [[../../../Relation/has/has_event|event]] [[Event]]. At a minimum a schedule will specify [[repeatFrequency]] which describes the interval between occurrences of the event. Additional information can be provided to specify the schedule more precisely.
       This includes identifying the day(s) of the week or month when the recurring event will take place, in addition to its start and end time. Schedules may also
       have start and end dates to indicate when they are active, e.g. to define a limited calendar of events.
+
+
+[ #is_/part_of :: https://pending.schema.org ]
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

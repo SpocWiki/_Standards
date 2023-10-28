@@ -36,12 +36,12 @@ Class of all reply_actions.
 Tag Instances like this: 
 #is_a_/reply_action
 
-The act of responding to a question/message asked/sent by the object. Related to <a class="localLink" href="/AskAction">AskAction</a>.
+The act of responding to a question/message asked/sent by the object. Related to [[AskAction]].
 
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/AskAction">AskAction</a>: Appears generally as an origin of a ReplyAction.</li>
+<li>[[AskAction]]: Appears generally as an origin of a ReplyAction.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../CommunicateAction]] ]

@@ -40,7 +40,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Content coded 'transformed content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, considered in the context of how it was published or shared.
+Content coded 'transformed content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
 # For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
 Some or all of the video has been manipulated to transform the footage itself. 

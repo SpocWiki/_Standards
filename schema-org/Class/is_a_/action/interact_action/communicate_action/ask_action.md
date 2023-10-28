@@ -41,7 +41,7 @@ The act of posing a question / favor to someone.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/ReplyAction">ReplyAction</a>: Appears generally as a response to AskAction.</li>
+<li>[[ReplyAction]]: Appears generally as a response to AskAction.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../CommunicateAction]] ]

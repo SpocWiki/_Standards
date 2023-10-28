@@ -36,7 +36,7 @@ Class of all campgrounds.
 Tag Instances like this: 
 #is_a_/campground
 
-A camping site, campsite, or <a class="localLink" href="/Campground">Campground</a> is a place used for overnight stay in the outdoors, typically containing individual <a class="localLink" href="/CampingPitch">CampingPitch</a> locations. 
+A camping site, campsite, or [[Campground]] is a place used for overnight stay in the outdoors, typically containing individual [[CampingPitch]] locations. 
 
 In British English a campsite is an area, usually divided into a number of pitches, where people can camp overnight using tents or camper vans or caravans; this British English use of the word is synonymous with the American English expression campground. In American English the term campsite generally means an area where an individual, family, group, or military unit can pitch a tent or park a camper; a campground may contain many campsites (source: Wikipedia, see <a href="https://en.wikipedia.org/wiki/Campsite">https://en.wikipedia.org/wiki/Campsite</a>).
 

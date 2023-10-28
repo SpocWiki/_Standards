@@ -36,7 +36,7 @@ Class of all computer_languages.
 Tag Instances like this: 
 #is_a_/computer_language
 
-This type covers computer programming languages such as Scheme and Lisp, as well as other language-like computer representations. Natural languages are best represented with the <a class="localLink" href="/Language">Language</a> type.
+This type covers computer programming languages such as Scheme and Lisp, as well as other language-like computer representations. Natural languages are best represented with the [[Language]] type.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A HyperToc represents a hypertext table of contents for complex media objects, such as <a class="localLink" href="/VideoObject">VideoObject</a>, <a class="localLink" href="/AudioObject">AudioObject</a>. Items in the table of contents are indicated using the <a class="localLink" href="/tocEntry">tocEntry</a> property, and typed <a class="localLink" href="/HyperTocEntry">HyperTocEntry</a>. For cases where the same larger work is split into multiple files, <a class="localLink" href="/associatedMedia">associatedMedia</a> can be used on individual <a class="localLink" href="/HyperTocEntry">HyperTocEntry</a> items.
+A HyperToc represents a hypertext table of contents for complex media objects, such as [[VideoObject]], [[AudioObject]]. Items in the table of contents are indicated using the [[tocEntry]] property, and typed [[HyperTocEntry]]. For cases where the same larger work is split into multiple files, [[associatedMedia]] can be used on individual [[HyperTocEntry]] items.
 
 [ #is_/sub_class_of :: [[../CreativeWork]] ]
 

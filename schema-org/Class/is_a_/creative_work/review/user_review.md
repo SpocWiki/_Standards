@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in contrast with <a class="localLink" href="/CriticReview">CriticReview</a>.
+A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in contrast with [[CriticReview]].
 
 [ #is_/sub_class_of :: [[../Review]] ]
 

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A play is a form of literature, usually consisting of dialogue between characters, intended for theatrical performance rather than just reading. Note: A performance of a Play would be a <a class="localLink" href="/TheaterEvent">TheaterEvent</a> or <a class="localLink" href="/BroadcastEvent">BroadcastEvent</a> - the <em>Play</em> being the <a class="localLink" href="/workPerformed">workPerformed</a>.
+A play is a form of literature, usually consisting of dialogue between characters, intended for theatrical performance rather than just reading. Note: A performance of a Play would be a [[TheaterEvent]] or [[BroadcastEvent]] - the <em>Play</em> being the [[workPerformed]].
 
 [ #is_/sub_class_of :: [[../CreativeWork]] ]
 

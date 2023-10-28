@@ -38,8 +38,8 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A CovidTestingFacility is a <a class="localLink" href="/MedicalClinic">MedicalClinic</a> where testing for the COVID-19 Coronavirus
-      disease is available. If the facility is being made available from an established <a class="localLink" href="/Pharmacy">Pharmacy</a>, <a class="localLink" href="/Hotel">Hotel</a>, or other
+A CovidTestingFacility is a [[MedicalClinic]] where testing for the COVID-19 Coronavirus
+      disease is available. If the facility is being made available from an established [[Pharmacy]], [[Hotel]], or other
       non-medical organization, multiple types can be listed. This makes it easier to re-use existing schema.org information
       about that place, e.g. contact info, address, opening hours. Note that in an emergency, such information may not always be reliable.
 

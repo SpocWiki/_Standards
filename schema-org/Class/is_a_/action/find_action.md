@@ -41,7 +41,7 @@ The act of finding an object.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/SearchAction">SearchAction</a>: FindAction is generally lead by a SearchAction, but not necessarily.</li>
+<li>[[SearchAction]]: FindAction is generally lead by a SearchAction, but not necessarily.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../Action]] ]

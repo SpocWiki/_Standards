@@ -40,7 +40,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Content coded 'as original media content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, considered in the context of how it was published or shared.
+Content coded 'as original media content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
 # For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
 No evidence the footage has been misleadingly altered or manipulated,

@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A <a class="localLink" href="/NewsArticle">NewsArticle</a> and <a class="localLink" href="/CriticReview">CriticReview</a> providing a professional critic's assessment of a service, product, performance, or artistic or literary work.
+A [[NewsArticle]] and [[CriticReview]] providing a professional critic's assessment of a service, product, performance, or artistic or literary work.
 
 [ #is_/sub_class_of :: [[../CriticReview, NewsArticle]] ]
 

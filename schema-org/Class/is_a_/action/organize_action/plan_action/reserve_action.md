@@ -41,7 +41,7 @@ Reserving a concrete object.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/ScheduleAction">ScheduleAction</a>: Unlike ScheduleAction, ReserveAction reserves concrete objects (e.g. a table, a hotel) towards a time slot / spatial allocation.</li>
+<li>[[ScheduleAction]]: Unlike ScheduleAction, ReserveAction reserves concrete objects (e.g. a table, a hotel) towards a time slot / spatial allocation.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../PlanAction]] ]

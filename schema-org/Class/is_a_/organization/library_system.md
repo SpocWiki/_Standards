@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A <a class="localLink" href="/LibrarySystem">LibrarySystem</a> is a collaborative system amongst several libraries.
+A [[LibrarySystem]] is a collaborative system amongst several libraries.
 
 [ #is_/sub_class_of :: [[../Organization]] ]
 

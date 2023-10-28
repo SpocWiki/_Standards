@@ -41,8 +41,8 @@ An agent leaves an event / group with participants/friends at a location.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/JoinAction">JoinAction</a>: The antonym of LeaveAction.</li>
-<li><a class="localLink" href="/UnRegisterAction">UnRegisterAction</a>: Unlike UnRegisterAction, LeaveAction implies leaving a group/team of people rather than a service.</li>
+<li>[[JoinAction]]: The antonym of LeaveAction.</li>
+<li>[[UnRegisterAction]]: Unlike UnRegisterAction, LeaveAction implies leaving a group/team of people rather than a service.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../InteractAction]] ]

@@ -36,9 +36,9 @@ Class of all creative_work_seriess.
 Tag Instances like this: 
 #is_a_/creative_work_series
 
-A CreativeWorkSeries in schema.org is a group of related items, typically but not necessarily of the same kind. CreativeWorkSeries are usually organized into some order, often chronological. Unlike <a class="localLink" href="/ItemList">ItemList</a> which is a general purpose data structure for lists of things, the emphasis with CreativeWorkSeries is on published materials (written e.g. books and periodicals, or media such as TV, radio and games).
+A CreativeWorkSeries in schema.org is a group of related items, typically but not necessarily of the same kind. CreativeWorkSeries are usually organized into some order, often chronological. Unlike [[ItemList]] which is a general purpose data structure for lists of things, the emphasis with CreativeWorkSeries is on published materials (written e.g. books and periodicals, or media such as TV, radio and games).
 
-Specific subtypes are available for describing <a class="localLink" href="/TVSeries">TVSeries</a>, <a class="localLink" href="/RadioSeries">RadioSeries</a>, <a class="localLink" href="/MovieSeries">MovieSeries</a>, <a class="localLink" href="/BookSeries">BookSeries</a>, <a class="localLink" href="/Periodical">Periodical</a> and <a class="localLink" href="/VideoGameSeries">VideoGameSeries</a>. In each case, the <a class="localLink" href="/hasPart">hasPart</a> / <a class="localLink" href="/isPartOf">isPartOf</a> properties can be used to relate the CreativeWorkSeries to its parts. The general CreativeWorkSeries type serves largely just to organize these more specific and practical subtypes.
+Specific subtypes are available for describing [[TVSeries]], [[RadioSeries]], [[MovieSeries]], [[BookSeries]], [[Periodical]] and [[VideoGameSeries]]. In each case, the [[hasPart]] / [[isPartOf]] properties can be used to relate the CreativeWorkSeries to its parts. The general CreativeWorkSeries type serves largely just to organize these more specific and practical subtypes.
 
 It is common for properties applicable to an item from the series to be usefully applied to the containing group. Schema.org attempts to anticipate some of these cases, but publishers should be free to apply properties of the series parts to the series as a whole wherever they seem appropriate.
 

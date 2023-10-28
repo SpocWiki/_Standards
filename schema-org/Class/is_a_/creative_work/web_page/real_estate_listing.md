@@ -38,8 +38,8 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A <a class="localLink" href="/RealEstateListing">RealEstateListing</a> is a listing that describes one or more real-estate <a class="localLink" href="/Offer">Offer</a>s (whose <a class="localLink" href="/businessFunction">businessFunction</a> is typically to lease out, or to sell).
-  The <a class="localLink" href="/RealEstateListing">RealEstateListing</a> type itself represents the overall listing, as manifested in some <a class="localLink" href="/WebPage">WebPage</a>.
+A [[RealEstateListing]] is a listing that describes one or more real-estate [[Offer]]s (whose [[businessFunction]] is typically to lease out, or to sell).
+  The [[RealEstateListing]] type itself represents the overall listing, as manifested in some [[WebPage]].
 
 [ #is_/sub_class_of :: [[../WebPage]] ]
 

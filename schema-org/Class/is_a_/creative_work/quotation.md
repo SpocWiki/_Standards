@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A quotation. Often but not necessarily from some written work, attributable to a real world author and - if associated with a fictional character - to any fictional Person. Use <a class="localLink" href="/isBasedOn">isBasedOn</a> to link to source/origin. The <a class="localLink" href="/recordedIn">recordedIn</a> property can be used to reference a Quotation from an <a class="localLink" href="/Event">Event</a>.
+A quotation. Often but not necessarily from some written work, attributable to a real world author and - if associated with a fictional character - to any fictional Person. Use [[isBasedOn]] to link to source/origin. The [[recordedIn]] property can be used to reference a Quotation from an [[Event]].
 
 [ #is_/sub_class_of :: [[../CreativeWork]] ]
 

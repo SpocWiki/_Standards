@@ -39,7 +39,7 @@ Tag Instances like this:
 [ #is_/part_of :: https://pending.schema.org ]
 
 An enterprise (potentially individual but typically collaborative), planned to achieve a particular aim.
-Use properties from <a class="localLink" href="/Organization">Organization</a>, <a class="localLink" href="/subOrganization">subOrganization</a>/<a class="localLink" href="/parentOrganization">parentOrganization</a> to indicate project sub-structures.
+Use properties from [[Organization]], [[subOrganization]]/[[parentOrganization]] to indicate project sub-structures.
 
 [ #is_/sub_class_of :: [[../Organization]] ]
 

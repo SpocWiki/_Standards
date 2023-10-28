@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A <a class="localLink" href="/NewsArticle">NewsArticle</a> providing historical context, definition and detail on a specific topic (aka "explainer" or "backgrounder"). For example, an in-depth article or frequently-asked-questions (<a href="https://en.wikipedia.org/wiki/FAQ">FAQ</a>) document on topics such as Climate Change or the European Union. Other kinds of background material from a non-news setting are often described using <a class="localLink" href="/Book">Book</a> or <a class="localLink" href="/Article">Article</a>, in particular <a class="localLink" href="/ScholarlyArticle">ScholarlyArticle</a>. See also <a class="localLink" href="/NewsArticle">NewsArticle</a> for related vocabulary from a learning/education perspective.
+A [[NewsArticle]] providing historical context, definition and detail on a specific topic (aka "explainer" or "backgrounder"). For example, an in-depth article or frequently-asked-questions (<a href="https://en.wikipedia.org/wiki/FAQ">FAQ</a>) document on topics such as Climate Change or the European Union. Other kinds of background material from a non-news setting are often described using [[Book]] or [[Article]], in particular [[ScholarlyArticle]]. See also [[NewsArticle]] for related vocabulary from a learning/education perspective.
 
 [ #is_/sub_class_of :: [[../NewsArticle]] ]
 

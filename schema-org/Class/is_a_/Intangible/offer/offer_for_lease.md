@@ -38,8 +38,8 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-An <a class="localLink" href="/OfferForLease">OfferForLease</a> in Schema.org represents an <a class="localLink" href="/Offer">Offer</a> to lease out something, i.e. an <a class="localLink" href="/Offer">Offer</a> whose
-  <a class="localLink" href="/businessFunction">businessFunction</a> is <a href="http://purl.org/goodrelations/v1#LeaseOut.">lease out</a>. See <a href="https://en.wikipedia.org/wiki/GoodRelations">Good Relations</a> for
+An [[OfferForLease]] in Schema.org represents an [[Offer]] to lease out something, i.e. an [[Offer]] whose
+  [[businessFunction]] is <a href="http://purl.org/goodrelations/v1#LeaseOut.">lease out</a>. See <a href="https://en.wikipedia.org/wiki/GoodRelations">Good Relations</a> for
   background on the underlying concepts.
 
 [ #is_/sub_class_of :: [[../Offer]] ]

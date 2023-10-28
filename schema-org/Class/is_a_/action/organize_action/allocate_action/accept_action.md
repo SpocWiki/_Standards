@@ -41,7 +41,7 @@ The act of committing to/adopting an object.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/RejectAction">RejectAction</a>: The antonym of AcceptAction.</li>
+<li>[[RejectAction]]: The antonym of AcceptAction.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../AllocateAction]] ]

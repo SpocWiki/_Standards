@@ -41,7 +41,7 @@ Tag Instances like this:
 [ #is_/part_of :: https://pending.schema.org ]
 
 Indicates a document for which the text is conclusively what the law says and is legally binding. (E.g. the digitally signed version of an Official Journal.)
-  Something "Definitive" is considered to be also <a class="localLink" href="/AuthoritativeLegalValue">AuthoritativeLegalValue</a>.
+  Something "Definitive" is considered to be also [[AuthoritativeLegalValue]].
 
 [ #is_/sub_class_of :: [[../LegalValueLevel]] ]
 

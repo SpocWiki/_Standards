@@ -41,7 +41,7 @@ The act of obtaining an object under an agreement to return it at a later date. 
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/LendAction">LendAction</a>: Reciprocal of BorrowAction.</li>
+<li>[[LendAction]]: Reciprocal of BorrowAction.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../TransferAction]] ]

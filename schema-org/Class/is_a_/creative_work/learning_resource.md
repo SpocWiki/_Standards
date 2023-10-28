@@ -38,11 +38,11 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-The LearningResource type can be used to indicate <a class="localLink" href="/CreativeWork">CreativeWork</a>s (whether physical or digital) that have a particular and explicit orientation towards learning, education, skill acquisition, and other educational purposes.
+The LearningResource type can be used to indicate [[CreativeWork]]s (whether physical or digital) that have a particular and explicit orientation towards learning, education, skill acquisition, and other educational purposes.
 
-<a class="localLink" href="/LearningResource">LearningResource</a> is expected to be used as an addition to a primary type such as <a class="localLink" href="/Book">Book</a>, <a class="localLink" href="/VideoObject">VideoObject</a>, <a class="localLink" href="/Product">Product</a> etc.
+[[LearningResource]] is expected to be used as an addition to a primary type such as [[Book]], [[VideoObject]], [[Product]] etc.
 
-<a class="localLink" href="/EducationEvent">EducationEvent</a> serves a similar purpose for event-like things (e.g. a <a class="localLink" href="/Trip">Trip</a>). A <a class="localLink" href="/LearningResource">LearningResource</a> may be created as a result of an <a class="localLink" href="/EducationEvent">EducationEvent</a>, for example by recording one.
+[[EducationEvent]] serves a similar purpose for event-like things (e.g. a [[Trip]]). A [[LearningResource]] may be created as a result of an [[EducationEvent]], for example by recording one.
 
 [ #is_/sub_class_of :: [[../CreativeWork]] ]
 

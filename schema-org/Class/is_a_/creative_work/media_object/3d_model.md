@@ -38,8 +38,8 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A 3D model represents some kind of 3D content, which may have <a class="localLink" href="/encoding">encoding</a>s in one or more <a class="localLink" href="/MediaObject">MediaObject</a>s. Many 3D formats are available (e.g. see <a href="https://en.wikipedia.org/wiki/Category:3D_graphics_file_formats">Wikipedia</a>); specific encoding formats can be represented using the <a class="localLink" href="/encodingFormat">encodingFormat</a> property applied to the relevant <a class="localLink" href="/MediaObject">MediaObject</a>. For the
-case of a single file published after Zip compression, the convention of appending '+zip' to the <a class="localLink" href="/encodingFormat">encodingFormat</a> can be used. Geospatial, AR/VR, artistic/animation, gaming, engineering and scientific content can all be represented using <a class="localLink" href="/3DModel">3DModel</a>.
+A 3D model represents some kind of 3D content, which may have [[encoding]]s in one or more [[MediaObject]]s. Many 3D formats are available (e.g. see <a href="https://en.wikipedia.org/wiki/Category:3D_graphics_file_formats">Wikipedia</a>); specific encoding formats can be represented using the [[encodingFormat]] property applied to the relevant [[MediaObject]]. For the
+case of a single file published after Zip compression, the convention of appending '+zip' to the [[encodingFormat]] can be used. Geospatial, AR/VR, artistic/animation, gaming, engineering and scientific content can all be represented using [[3DModel]].
 
 [ #is_/sub_class_of :: [[../MediaObject]] ]
 

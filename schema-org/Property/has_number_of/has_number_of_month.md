@@ -39,7 +39,7 @@ Use it like this:
 - [ #has_/number_of_/month :: Integer ] or 
 - [ has_number_of_month :: Integer ] 
 
-Defines the month(s) of the year on which a recurring <a class="localLink" href="/Event">Event</a> takes place. Specified as an <a class="localLink" href="/Integer">Integer</a> between 1-12. January is 1.
+Defines the month(s) of the year on which a recurring [[Event]] takes place. Specified as an [[Integer]] between 1-12. January is 1.
 
 Predicate describes that: 
 [ #has_/domain  :: Schedule ]

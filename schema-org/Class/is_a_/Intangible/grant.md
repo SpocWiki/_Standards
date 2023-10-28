@@ -38,12 +38,12 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A grant, typically financial or otherwise quantifiable, of resources. Typically a <a class="localLink" href="/funder">funder</a> sponsors some <a class="localLink" href="/MonetaryAmount">MonetaryAmount</a> to an <a class="localLink" href="/Organization">Organization</a> or <a class="localLink" href="/Person">Person</a>,
-    sometimes not necessarily via a dedicated or long-lived <a class="localLink" href="/Project">Project</a>, resulting in one or more outputs, or <a class="localLink" href="/fundedItem">fundedItem</a>s. For financial sponsorship, indicate the <a class="localLink" href="/funder">funder</a> of a <a class="localLink" href="/MonetaryGrant">MonetaryGrant</a>. For non-financial support, indicate <a class="localLink" href="/sponsor">sponsor</a> of <a class="localLink" href="/Grant">Grant</a>s of resources (e.g. office space).
+A grant, typically financial or otherwise quantifiable, of resources. Typically a [[funder]] sponsors some [[MonetaryAmount]] to an [[Organization]] or [[Person]],
+    sometimes not necessarily via a dedicated or long-lived [[Project]], resulting in one or more outputs, or [[fundedItem]]s. For financial sponsorship, indicate the [[funder]] of a [[MonetaryGrant]]. For non-financial support, indicate [[sponsor]] of [[Grant]]s of resources (e.g. office space).
 
-Grants support  activities directed towards some agreed collective goals, often but not always organized as <a class="localLink" href="/Project">Project</a>s. Long-lived projects are sometimes sponsored by a variety of grants over time, but it is also common for a project to be associated with a single grant.
+Grants support  activities directed towards some agreed collective goals, often but not always organized as [[Project]]s. Long-lived projects are sometimes sponsored by a variety of grants over time, but it is also common for a project to be associated with a single grant.
 
-The amount of a <a class="localLink" href="/Grant">Grant</a> is represented using <a class="localLink" href="/amount">amount</a> as a <a class="localLink" href="/MonetaryAmount">MonetaryAmount</a>.
+The amount of a [[Grant]] is represented using [[amount]] as a [[MonetaryAmount]].
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

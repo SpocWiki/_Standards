@@ -38,7 +38,7 @@ Tag Instances like this:
 
 Professional service: Attorney. 
 
-This type is deprecated - <a class="localLink" href="/LegalService">LegalService</a> is more inclusive and less ambiguous.
+This type is deprecated - [[LegalService]] is more inclusive and less ambiguous.
 
 [ #is_/sub_class_of :: [[../LegalService]] ]
 

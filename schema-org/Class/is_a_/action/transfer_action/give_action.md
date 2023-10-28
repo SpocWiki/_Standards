@@ -41,8 +41,8 @@ The act of transferring ownership of an object to a destination. Reciprocal of T
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/TakeAction">TakeAction</a>: Reciprocal of GiveAction.</li>
-<li><a class="localLink" href="/SendAction">SendAction</a>: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).</li>
+<li>[[TakeAction]]: Reciprocal of GiveAction.</li>
+<li>[[SendAction]]: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../TransferAction]] ]

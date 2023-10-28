@@ -38,7 +38,7 @@ Class of all user_interactions.
 Tag Instances like this: 
 #is_a_/user_interaction
 
-UserInteraction and its subtypes is an old way of talking about users interacting with pages. It is generally better to use <a class="localLink" href="/Action">Action</a>-based vocabulary, alongside types such as <a class="localLink" href="/Comment">Comment</a>.
+UserInteraction and its subtypes is an old way of talking about users interacting with pages. It is generally better to use [[Action]]-based vocabulary, alongside types such as [[Comment]].
 
 [ #is_/sub_class_of :: [[../Event]] ]
 

@@ -39,7 +39,7 @@ Use it like this:
 - [ #has_/number_of_/items_in_collection :: Integer ] or 
 - [ has_number_of_items_in_collection :: Integer ] 
 
-The number of items in the <a class="localLink" href="/Collection">Collection</a>.
+The number of items in the [[Collection]].
 
 Predicate describes that: 
 [ #has_/domain  :: Collection ]

@@ -36,7 +36,7 @@ Class of all recipes.
 Tag Instances like this: 
 #is_a_/recipe
 
-A recipe. For dietary restrictions covered by the recipe, a few common restrictions are enumerated via <a class="localLink" href="/suitableForDiet">suitableForDiet</a>. The <a class="localLink" href="/keywords">keywords</a> property can also be used to add more detail.
+A recipe. For dietary restrictions covered by the recipe, a few common restrictions are enumerated via [[suitableForDiet]]. The [[keywords]] property can also be used to add more detail.
 
 [ #is_/sub_class_of :: [[../HowTo]] ]
 

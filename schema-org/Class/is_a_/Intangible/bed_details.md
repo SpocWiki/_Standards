@@ -34,7 +34,7 @@ fileClass: [FileClass~Class]
 
 Class of all bed_details, i.e. entities holding detailed information about the available bed types, 
 e.g. the quantity of twin beds for a hotel room. 
-For the single case of just one bed of a certain type, you can use bed directly with a text. See also <a class="localLink" href="/BedType">BedType</a> (under development).
+For the single case of just one bed of a certain type, you can use bed directly with a text. See also [[BedType]] (under development).
 
 Tag Instances like this: 
 #is_a_/bed_details

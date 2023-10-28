@@ -41,7 +41,7 @@ The act of forming a personal connection with someone (object) mutually/bidirect
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/FollowAction">FollowAction</a>: Unlike FollowAction, BefriendAction implies that the connection is reciprocal.</li>
+<li>[[FollowAction]]: Unlike FollowAction, BefriendAction implies that the connection is reciprocal.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../InteractAction]] ]

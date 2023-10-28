@@ -41,7 +41,7 @@ The act of an agent relocating to a place.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/TransferAction">TransferAction</a>: Unlike TransferAction, the subject of the move is a living Person or Organization rather than an inanimate object.</li>
+<li>[[TransferAction]]: Unlike TransferAction, the subject of the move is a living Person or Organization rather than an inanimate object.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../Action]] ]

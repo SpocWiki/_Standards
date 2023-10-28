@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-This is the <a class="localLink" href="/Action">Action</a> of navigating to a specific <a class="localLink" href="/startOffset">startOffset</a> timestamp within a <a class="localLink" href="/VideoObject">VideoObject</a>, typically represented with a URL template structure.
+This is the [[Action]] of navigating to a specific [[startOffset]] timestamp within a [[VideoObject]], typically represented with a URL template structure.
 
 [ #is_/sub_class_of :: [[../Action]] ]
 

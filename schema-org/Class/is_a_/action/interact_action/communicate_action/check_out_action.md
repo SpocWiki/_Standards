@@ -41,9 +41,9 @@ The act of an agent communicating (service provider, social media, etc) their de
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/CheckInAction">CheckInAction</a>: The antonym of CheckOutAction.</li>
-<li><a class="localLink" href="/DepartAction">DepartAction</a>: Unlike DepartAction, CheckOutAction implies that the agent is informing/confirming the end of a previously reserved service.</li>
-<li><a class="localLink" href="/CancelAction">CancelAction</a>: Unlike CancelAction, CheckOutAction implies that the agent is informing/confirming the end of a previously reserved service.</li>
+<li>[[CheckInAction]]: The antonym of CheckOutAction.</li>
+<li>[[DepartAction]]: Unlike DepartAction, CheckOutAction implies that the agent is informing/confirming the end of a previously reserved service.</li>
+<li>[[CancelAction]]: Unlike CancelAction, CheckOutAction implies that the agent is informing/confirming the end of a previously reserved service.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../CommunicateAction]] ]

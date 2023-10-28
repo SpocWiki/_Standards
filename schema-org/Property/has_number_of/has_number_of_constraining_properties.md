@@ -39,8 +39,8 @@ Use it like this:
 - [ #has_/number_of_/constraining_properties :: Integer ] or 
 - [ has_number_of_constraining_properties :: Integer ] 
 
-Indicates a property used as a constraint to define a <a class="localLink" href="/StatisticalPopulation">StatisticalPopulation</a> with respect to the set of entities
-  corresponding to an indicated type (via <a class="localLink" href="/populationType">populationType</a>).
+Indicates a property used as a constraint to define a [[StatisticalPopulation]] with respect to the set of entities
+  corresponding to an indicated type (via [[populationType]]).
 
 Predicate describes that: 
 [ #has_/domain  :: StatisticalPopulation ]

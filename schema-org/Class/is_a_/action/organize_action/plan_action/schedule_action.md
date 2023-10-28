@@ -41,7 +41,7 @@ Scheduling future actions, events, or tasks.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/ReserveAction">ReserveAction</a>: Unlike ReserveAction, ScheduleAction allocates future actions (e.g. an event, a task, etc) towards a time slot / spatial allocation.</li>
+<li>[[ReserveAction]]: Unlike ReserveAction, ScheduleAction allocates future actions (e.g. an event, a task, etc) towards a time slot / spatial allocation.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../PlanAction]] ]

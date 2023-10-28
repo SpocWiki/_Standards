@@ -41,7 +41,7 @@ The act of notifying someone that a future event/action is going to happen as ex
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/CancelAction">CancelAction</a>: The antonym of ConfirmAction.</li>
+<li>[[CancelAction]]: The antonym of ConfirmAction.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../InformAction]] ]

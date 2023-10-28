@@ -36,7 +36,7 @@ Class of all blogs.
 Tag Instances like this: 
 #is_a_/blog
 
-A <a href="https://en.wikipedia.org/wiki/Blog">blog</a>, sometimes known as a "weblog". Note that the individual posts (<a class="localLink" href="/BlogPosting">BlogPosting</a>s) in a <a class="localLink" href="/Blog">Blog</a> are often colloquially referred to by the same term.
+A <a href="https://en.wikipedia.org/wiki/Blog">blog</a>, sometimes known as a "weblog". Note that the individual posts ([[BlogPosting]]s) in a [[Blog]] are often colloquially referred to by the same term.
 
 [ #is_/sub_class_of :: [[../CreativeWork]] ]
 

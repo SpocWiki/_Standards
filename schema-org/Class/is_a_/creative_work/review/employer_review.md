@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-An <a class="localLink" href="/EmployerReview">EmployerReview</a> is a review of an <a class="localLink" href="/Organization">Organization</a> regarding its role as an employer, written by a current or former employee of that organization.
+An [[EmployerReview]] is a review of an [[Organization]] regarding its role as an employer, written by a current or former employee of that organization.
 
 [ #is_/sub_class_of :: [[../Review]] ]
 

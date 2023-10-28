@@ -38,7 +38,7 @@ Class of all events.
 Tag Instances like this: 
 #is_an_/event
 
-An event happening at a certain time and location, such as a concert, lecture, or festival. Ticketing information may be added via the <a class="localLink" href="/offers">offers</a> property. Repeated events may be structured as separate Event objects.
+An event happening at a certain time and location, such as a concert, lecture, or festival. Ticketing information may be added via the [[offers]] property. Repeated events may be structured as separate Event objects.
 
 [ #is_/sub_class_of :[[../Thing|Thing]]]] ] 
 

@@ -40,7 +40,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Content coded 'staged content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, considered in the context of how it was published or shared.
+Content coded 'staged content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
 # For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
 A video that has been created using actors or similarly contrived.

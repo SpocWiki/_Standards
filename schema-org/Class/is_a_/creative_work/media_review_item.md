@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Represents an item or group of closely related items treated as a unit for the sake of evaluation in a <a class="localLink" href="/MediaReview">MediaReview</a>. Authorship etc. apply to the items rather than to the curation/grouping or reviewing party.
+Represents an item or group of closely related items treated as a unit for the sake of evaluation in a [[MediaReview]]. Authorship etc. apply to the items rather than to the curation/grouping or reviewing party.
 
 [ #is_/sub_class_of :: [[../CreativeWork]] ]
 
