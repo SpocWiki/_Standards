@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_released_event )
 ( #has_/range :: PublicationEvent )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_released_event.md|has_released_event]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_released_event.internal.md|has_released_event.internal]] 

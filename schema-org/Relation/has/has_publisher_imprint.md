@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_publisher_imprint )
 ( #has_/range :: Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_publisher_imprint.md|has_publisher_imprint]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publisher_imprint.internal.md|has_publisher_imprint.internal]] 

@@ -44,8 +44,6 @@ Neck assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neck.md|neck]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/neck.internal.md|neck.internal]] 

@@ -14,7 +14,6 @@ This is a kind of [[FileClass~CivicStructureAndEntertainmentBusiness]]
 
 A movie theater.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/MovieTheater
@@ -27,5 +26,4 @@ A movie theater.
 The number of screens in the movie theater.
 
 ScreenCount:: {"type":"Number","options":{}}
-
 

@@ -42,8 +42,6 @@ A trip on a commercial train line.
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/trip/train_trip.md|train_trip]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/trip/train_trip.internal.md|train_trip.internal]] 

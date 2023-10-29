@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_alignment_type )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_alignment_type.md|has_alignment_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_alignment_type.internal.md|has_alignment_type.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_return_fees )
 ( #has_/range :: ReturnFeesEnumeration )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_return_fees.md|has_return_fees]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_fees.internal.md|has_return_fees.internal]] 

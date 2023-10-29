@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_following )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_following.md|is_following]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_following.internal.md|is_following.internal]] 

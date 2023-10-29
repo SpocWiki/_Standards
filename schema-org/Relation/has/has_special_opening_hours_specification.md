@@ -34,7 +34,9 @@ Use it like this:
 - [ #has_/special_opening_hours_specification :: OpeningHoursSpecification ] or 
 - [ has_special_opening_hours_specification :: OpeningHoursSpecification ] 
 
-The special opening hours of a certain place.\n\n\n\n
+The special opening hours of a certain place.
+
+
 
 Use this to explicitly override general opening hours brought in scope by [[openingHoursSpecification]] or [[openingHours]].
 
@@ -42,8 +44,6 @@ Relation describes that:
 [ #has_/domain  :: Place ]
 ( #has_/name :: is_special_opening_hours_specification )
 ( #has_/range :: OpeningHoursSpecification )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_special_opening_hours_specification.md|has_special_opening_hours_specification]] 

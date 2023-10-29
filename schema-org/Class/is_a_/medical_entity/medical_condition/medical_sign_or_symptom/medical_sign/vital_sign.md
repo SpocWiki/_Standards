@@ -42,8 +42,6 @@ Vital signs are measures of various physiological functions in order to assess t
 
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, identifyingExam, identifyingTest, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.md|vital_sign]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_sign/vital_sign.internal.md|vital_sign.internal]] 

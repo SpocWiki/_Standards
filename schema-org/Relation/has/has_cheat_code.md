@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_cheat_code )
 ( #has_/range :: CreativeWork )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_cheat_code.md|has_cheat_code]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cheat_code.internal.md|has_cheat_code.internal]] 

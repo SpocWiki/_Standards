@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_payment_method )
 ( #has_/range :: PaymentMethod )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_payment_method.md|has_payment_method]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_payment_method.internal.md|has_payment_method.internal]] 

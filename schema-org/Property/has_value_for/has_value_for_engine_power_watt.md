@@ -40,20 +40,20 @@ Use it like this:
 - [ has_value_for_engine_power_watt :: QuantitativeValue ] 
 
 The power of the vehicle's engine.
-    Typical unit code(s): KWT for kilowatt, BHP for brake horsepower, N12 for metric horsepower (PS, with 1 PS &#x3D; 735,49875 W)\n\n\n\n
+    Typical unit code(s): KWT for kilowatt, BHP for brake horsepower, N12 for metric horsepower (PS, with 1 PS &#x3D; 735,49875 W)
 
-&lt;ul&gt;
-&lt;li&gt;Note 1: There are many different ways of measuring an engine's power. For an overview, see  &lt;a href&#x3D;&quot;http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes&quot;&gt;http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes]].&lt;/li&gt;
-&lt;li&gt;Note 2: You can link to information about how the given value has been determined using the [[valueReference]] property.&lt;/li&gt;
-&lt;li&gt;Note 3: You can use [[minValue]] and [[maxValue]] to indicate ranges.&lt;/li&gt;
-&lt;/ul&gt;
+
+
+<ul>
+<li>Note 1: There are many different ways of measuring an engine's power. For an overview, see  <a href&#x3D;&quot;http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes&quot;>http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes]].</li>
+<li>Note 2: You can link to information about how the given value has been determined using the [[valueReference]] property.</li>
+<li>Note 3: You can use [[minValue]] and [[maxValue]] to indicate ranges.</li>
+</ul>
 
 Predicate describes that: 
 [ #has_/domain  :: EngineSpecification ]
 ( #has_/name :: has_value_for_engine_power_watt )
 ( #has_/range :: QuantitativeValue )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.md|has_value_for_engine_power_watt]] 

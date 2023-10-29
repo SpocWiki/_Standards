@@ -39,13 +39,9 @@ For the single case of just one bed of a certain type, you can use bed directly 
 Tag Instances like this: 
 #is_a_/bed_details
 
-
-
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numberOfBeds, potentialAction, sameAs, subjectOf, typeOfBed, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/bed_details.md|bed_details]] 

@@ -44,8 +44,6 @@ Indicates that the item is available only online.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/online_only.md|online_only]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/online_only.internal.md|online_only.internal]] 

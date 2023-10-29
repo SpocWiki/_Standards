@@ -44,8 +44,6 @@ OrderStatus representing that an order is in transit.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.md|order_in_transit]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.internal.md|order_in_transit.internal]] 

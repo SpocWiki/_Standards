@@ -46,8 +46,6 @@ Represents the distance fee (e.g., price per km or mile) part of the total price
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.md|distance_fee]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/distance_fee.internal.md|distance_fee.internal]] 

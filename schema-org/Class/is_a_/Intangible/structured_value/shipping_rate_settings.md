@@ -44,8 +44,6 @@ A ShippingRateSettings represents re-usable pieces of shipping information. It i
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, doesNotShip, freeShippingThreshold, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingRate, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.md|shipping_rate_settings]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/shipping_rate_settings.internal.md|shipping_rate_settings.internal]] 

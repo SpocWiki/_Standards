@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_membership_points_earned )
 ( #has_/range :: Number, QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.md|has_value_for_membership_points_earned]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.internal.md|has_value_for_membership_points_earned.internal]] 

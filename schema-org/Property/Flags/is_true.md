@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_true )
 ( #has_/range :: Boolean, Number, StructuredValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_true.md|is_true]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_true.internal.md|is_true.internal]] 

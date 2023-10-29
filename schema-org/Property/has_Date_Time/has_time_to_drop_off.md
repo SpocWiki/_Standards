@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the time of RentalCarReservation.
 
-
-
 Use it like this: 
 - [has_time_to_drop_off::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/to_drop_off::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::RentalCarReservation]
 (name::has_time_to_drop_off)
 (range::DateTime)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_to_drop_off.md|has_time_to_drop_off]] 

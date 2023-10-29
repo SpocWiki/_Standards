@@ -42,8 +42,6 @@ Specifies a location feature by providing a structured value representing a feat
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, hoursAvailable, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, validFrom, validThrough, value, valueReference ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/property_value/location_feature_specification.md|location_feature_specification]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/property_value/location_feature_specification.internal.md|location_feature_specification.internal]] 

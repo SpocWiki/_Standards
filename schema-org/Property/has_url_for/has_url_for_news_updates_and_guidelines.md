@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_url_for_news_updates_and_guidelines )
 ( #has_/range :: URL, WebContent )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Urls/has_url_for_news_updates_and_guidelines.md|has_url_for_news_updates_and_guidelines]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_news_updates_and_guidelines.internal.md|has_url_for_news_updates_and_guidelines.internal]] 

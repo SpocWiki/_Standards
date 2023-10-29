@@ -46,8 +46,6 @@ Mexican size system for wearables.
 
 [ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_mx.md|wearable_size_system_mx]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_mx.internal.md|wearable_size_system_mx.internal]] 

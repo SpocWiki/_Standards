@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the Duration of HowTo, HowToDirection.
 
-
-
 Use it like this: 
 - [has_duration_to_perform::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration_/to_perform::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
@@ -45,10 +43,7 @@ Formal Predicate:
 (name::has_duration_to_perform)
 (range::Duration)
 
-
-
 Has [sub_properties::cookTime]
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Durations/has_duration_to_perform.md|has_duration_to_perform]] 

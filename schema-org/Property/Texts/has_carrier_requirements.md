@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_carrier_requirements )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_carrier_requirements.md|has_carrier_requirements]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_carrier_requirements.internal.md|has_carrier_requirements.internal]] 

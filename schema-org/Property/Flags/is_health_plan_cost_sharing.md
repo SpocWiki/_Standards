@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_health_plan_cost_sharing )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_health_plan_cost_sharing.md|is_health_plan_cost_sharing]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_health_plan_cost_sharing.internal.md|is_health_plan_cost_sharing.internal]] 

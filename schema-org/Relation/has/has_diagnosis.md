@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_diagnosis )
 ( #has_/range :: MedicalCondition )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_diagnosis.md|has_diagnosis]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_diagnosis.internal.md|has_diagnosis.internal]] 

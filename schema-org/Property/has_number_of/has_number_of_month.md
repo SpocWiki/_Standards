@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_month )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_month.md|has_number_of_month]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_month.internal.md|has_number_of_month.internal]] 

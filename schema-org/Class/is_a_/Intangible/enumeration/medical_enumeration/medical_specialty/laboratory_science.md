@@ -44,8 +44,6 @@ A medical science pertaining to chemical, hematological, immunologic, microscopi
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.md|laboratory_science]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/laboratory_science.internal.md|laboratory_science.internal]] 

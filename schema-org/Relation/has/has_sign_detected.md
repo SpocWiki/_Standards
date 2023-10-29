@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_sign_detected )
 ( #has_/range :: MedicalSign )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sign_detected.md|has_sign_detected]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sign_detected.internal.md|has_sign_detected.internal]] 

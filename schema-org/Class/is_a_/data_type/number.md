@@ -42,8 +42,6 @@ Usage guidelines:
 
 [ #has_/sub_classes :: [ Float, Integer ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/data_type/number.md|number]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/data_type/number.internal.md|number.internal]] 

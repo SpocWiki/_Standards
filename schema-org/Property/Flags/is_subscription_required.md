@@ -38,14 +38,12 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_subscription_required :: Boolean, MediaSubscription ] 
 
-Indicates if use of the media require a subscription  (either paid or free). Allowed values are &lt;code&gt;true&lt;/code&gt; or &lt;code&gt;false&lt;/code&gt; (note that an earlier version had 'yes', 'no').
+Indicates if use of the media require a subscription  (either paid or free). Allowed values are <code>true</code> or <code>false</code> (note that an earlier version had 'yes', 'no').
 
 Predicate describes that: 
 [ #has_/domain  :: ActionAccessSpecification, MediaObject ]
 ( #has_/name :: is_subscription_required )
 ( #has_/range :: Boolean, MediaSubscription )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_subscription_required.md|is_subscription_required]] 

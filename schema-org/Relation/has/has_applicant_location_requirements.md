@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_applicant_location_requirements )
 ( #has_/range :: AdministrativeArea )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_applicant_location_requirements.md|has_applicant_location_requirements]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_applicant_location_requirements.internal.md|has_applicant_location_requirements.internal]] 

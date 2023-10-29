@@ -44,8 +44,6 @@ A diet exclusive of gluten.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.md|gluten_free_diet]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.internal.md|gluten_free_diet.internal]] 

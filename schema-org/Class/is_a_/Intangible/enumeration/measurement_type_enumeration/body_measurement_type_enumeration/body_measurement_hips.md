@@ -46,8 +46,6 @@ Girth of hips (measured around the buttocks). Used, for example, to fit skirts.
 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hips.md|body_measurement_hips]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hips.internal.md|body_measurement_hips.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_colleague )
 ( #has_/range :: Person, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_colleague.md|has_colleague]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_colleague.internal.md|has_colleague.internal]] 

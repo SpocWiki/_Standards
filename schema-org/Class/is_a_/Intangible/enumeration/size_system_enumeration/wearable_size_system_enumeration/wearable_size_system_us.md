@@ -46,8 +46,6 @@ United States size system for wearables.
 
 [ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_us.md|wearable_size_system_us]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_us.internal.md|wearable_size_system_us.internal]] 

@@ -46,8 +46,6 @@ Information about the risk factors and possible complications that may follow a 
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/risks_or_complications_health_aspect.md|risks_or_complications_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/risks_or_complications_health_aspect.internal.md|risks_or_complications_health_aspect.internal]] 

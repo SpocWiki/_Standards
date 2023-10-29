@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_server_status )
 ( #has_/range :: GameServerStatus )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_server_status.md|has_server_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_server_status.internal.md|has_server_status.internal]] 

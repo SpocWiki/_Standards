@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_trans_fat_in_gram )
 ( #has_/range :: Mass )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_trans_fat_in_gram.md|has_value_for_trans_fat_in_gram]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_trans_fat_in_gram.internal.md|has_value_for_trans_fat_in_gram.internal]] 

@@ -46,8 +46,6 @@ Indicates the usage of the vehicle for driving school.
 
 [ #is_/enum_of :: [[../CarUsageType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/driving_school_vehicle_usage.md|driving_school_vehicle_usage]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/driving_school_vehicle_usage.internal.md|driving_school_vehicle_usage.internal]] 

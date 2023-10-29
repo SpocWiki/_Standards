@@ -44,8 +44,6 @@ The drug's cost represents the retail cost of the drug.
 
 [ #is_/enum_of :: [[../DrugCostCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/retail.md|retail]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/retail.internal.md|retail.internal]] 

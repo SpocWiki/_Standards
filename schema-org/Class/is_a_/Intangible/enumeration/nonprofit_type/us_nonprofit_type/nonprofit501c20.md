@@ -46,8 +46,6 @@ Nonprofit501c20: Non-profit type referring to Group Legal Services Plan Organiza
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.md|nonprofit501c20]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c20.internal.md|nonprofit501c20.internal]] 

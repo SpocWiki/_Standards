@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_cutoff_time )
 ( #has_/range :: Time )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_cutoff_time.md|has_cutoff_time]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cutoff_time.internal.md|has_cutoff_time.internal]] 

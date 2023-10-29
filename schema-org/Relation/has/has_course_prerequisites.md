@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_course_prerequisites )
 ( #has_/range :: AlignmentObject, Course, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_course_prerequisites.md|has_course_prerequisites]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course_prerequisites.internal.md|has_course_prerequisites.internal]] 

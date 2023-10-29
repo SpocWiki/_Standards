@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_tourist_type )
 ( #has_/range :: Audience, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_tourist_type.md|has_tourist_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tourist_type.internal.md|has_tourist_type.internal]] 

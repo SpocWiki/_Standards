@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_algorithm )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_algorithm.md|has_algorithm]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_algorithm.internal.md|has_algorithm.internal]] 

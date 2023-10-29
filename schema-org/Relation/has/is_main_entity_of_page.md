@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[has_main_entity]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_main_entity_of_page.md|is_main_entity_of_page]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_main_entity_of_page.internal.md|is_main_entity_of_page.internal]] 

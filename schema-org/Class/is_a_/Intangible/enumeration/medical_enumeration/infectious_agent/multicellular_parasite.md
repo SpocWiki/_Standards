@@ -39,8 +39,6 @@ Multicellular parasite that causes an infection.
 
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.md|multicellular_parasite]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/multicellular_parasite.internal.md|multicellular_parasite.internal]] 

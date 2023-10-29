@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_players_online )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_players_online.md|has_number_of_players_online]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_players_online.internal.md|has_number_of_players_online.internal]] 

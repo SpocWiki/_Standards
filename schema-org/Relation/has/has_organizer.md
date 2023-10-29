@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_organizer )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_organizer.md|has_organizer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_organizer.internal.md|has_organizer.internal]] 

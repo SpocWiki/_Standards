@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_expert_considerations )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_expert_considerations.md|has_expert_considerations]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_expert_considerations.internal.md|has_expert_considerations.internal]] 

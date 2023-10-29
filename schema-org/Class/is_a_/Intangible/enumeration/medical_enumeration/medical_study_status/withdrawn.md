@@ -44,8 +44,6 @@ Withdrawn.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.md|withdrawn]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.internal.md|withdrawn.internal]] 

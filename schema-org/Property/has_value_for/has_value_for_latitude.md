@@ -37,14 +37,12 @@ Use it like this:
 - [ #has_/value_for_/latitude :: Number, Text ] or 
 - [ has_value_for_latitude :: Number, Text ] 
 
-The latitude of a location. For example &lt;code&gt;37.42242&lt;/code&gt; (&lt;a href&#x3D;&quot;https://en.wikipedia.org/wiki/World_Geodetic_System&quot;&gt;WGS 84]]).
+The latitude of a location. For example <code>37.42242</code> (<a href&#x3D;&quot;https://en.wikipedia.org/wiki/World_Geodetic_System&quot;>WGS 84]]).
 
 Predicate describes that: 
 [ #has_/domain  :: GeoCoordinates, Place ]
 ( #has_/name :: has_value_for_latitude )
 ( #has_/range :: Number, Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_latitude.md|has_value_for_latitude]] 

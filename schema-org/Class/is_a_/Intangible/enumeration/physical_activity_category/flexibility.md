@@ -44,8 +44,6 @@ Physical activity that is engaged in to improve joint and muscle flexibility.
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/flexibility.md|flexibility]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/flexibility.internal.md|flexibility.internal]] 

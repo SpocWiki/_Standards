@@ -31,7 +31,6 @@ It is the Object of the [is_part_of](Composite/is_part_of.md) Relation from the 
 
 #class/Composite 
 
-
 It can model both abstract Assemblies of Part-Types and concrete Assemblies of [[Class/Thing|Things]]. 
 Composites are typically finite and physical. 
 

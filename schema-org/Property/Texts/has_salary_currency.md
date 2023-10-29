@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_salary_currency )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_salary_currency.md|has_salary_currency]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_salary_currency.internal.md|has_salary_currency.internal]] 

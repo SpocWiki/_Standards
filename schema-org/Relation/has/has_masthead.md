@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_masthead.md|has_masthead]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_masthead.internal.md|has_masthead.internal]] 

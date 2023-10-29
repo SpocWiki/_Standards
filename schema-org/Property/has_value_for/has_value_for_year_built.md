@@ -39,14 +39,12 @@ Use it like this:
 - [ #has_/value_for_/year_built :: Number ] or 
 - [ has_value_for_year_built :: Number ] 
 
-The year an [[Accommodation]] was constructed. This corresponds to the &lt;a href&#x3D;&quot;https://ddwiki.reso.org/display/DDW17/YearBuilt+Field&quot;&gt;YearBuilt field in RESO]].
+The year an [[Accommodation]] was constructed. This corresponds to the <a href&#x3D;&quot;https://ddwiki.reso.org/display/DDW17/YearBuilt+Field&quot;>YearBuilt field in RESO]].
 
 Predicate describes that: 
 [ #has_/domain  :: Accommodation ]
 ( #has_/name :: has_value_for_year_built )
 ( #has_/range :: Number )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_year_built.md|has_value_for_year_built]] 

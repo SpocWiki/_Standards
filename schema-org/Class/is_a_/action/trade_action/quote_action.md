@@ -42,8 +42,6 @@ An agent quotes/estimates/appraises an object/product/service with a price at a 
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/quote_action.md|quote_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/quote_action.internal.md|quote_action.internal]] 

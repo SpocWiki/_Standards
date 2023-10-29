@@ -46,8 +46,6 @@ Girth of body just below the bust. Used, for example, to fit women's swimwear.
 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_underbust.md|body_measurement_underbust]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_underbust.internal.md|body_measurement_underbust.internal]] 

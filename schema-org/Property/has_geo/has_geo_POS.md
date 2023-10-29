@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_has_POS )
 ( #has_/range :: Place )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_POS.md|has_geo_POS]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_POS.internal.md|has_geo_POS.internal]] 

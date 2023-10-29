@@ -30,7 +30,6 @@ aliases:
 - is_part_of
 ---
 
-
 # [Composite](../Composite.md)-[Part](Part.md) Relationship, 
 which differentiates between a Product and its Parts, or Sub-Assemblies
 ---such as the relationship of a molecule to its atoms. 
@@ -79,8 +78,6 @@ with Parts like
 #### Back-right_Wheel
 #### Back-left_Wheel
 etc. 
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/is_part_of.md|is_part_of]] 

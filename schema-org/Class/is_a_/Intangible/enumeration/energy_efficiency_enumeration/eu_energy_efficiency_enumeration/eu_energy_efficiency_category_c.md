@@ -46,8 +46,6 @@ Represents EU Energy Efficiency Class C as defined in EU energy labeling regulat
 
 [ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_c.md|eu_energy_efficiency_category_c]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_c.internal.md|eu_energy_efficiency_category_c.internal]] 

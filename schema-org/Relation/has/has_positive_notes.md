@@ -36,9 +36,13 @@ Use it like this:
 - [ #has_/positive_notes :: ItemList, ListItem, Text, WebContent ] or 
 - [ has_positive_notes :: ItemList, ListItem, Text, WebContent ] 
 
-Provides positive considerations regarding something, for example product highlights or (alongside [[negativeNotes]]) pro/con lists for reviews.\n\n\n\n
+Provides positive considerations regarding something, for example product highlights or (alongside [[negativeNotes]]) pro/con lists for reviews.
 
-In the case of a [[Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described.\n\n\n\n
+
+
+In the case of a [[Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described.
+
+
 
 The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most positive is at the beginning of the list).
 
@@ -46,8 +50,6 @@ Relation describes that:
 [ #has_/domain  :: Product, Review ]
 ( #has_/name :: is_positive_notes )
 ( #has_/range :: ItemList, ListItem, Text, WebContent )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_positive_notes.md|has_positive_notes]] 

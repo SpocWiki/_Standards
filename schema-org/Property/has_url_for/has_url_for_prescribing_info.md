@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_url_for_prescribing_info )
 ( #has_/range :: URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Urls/has_url_for_prescribing_info.md|has_url_for_prescribing_info]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_prescribing_info.internal.md|has_url_for_prescribing_info.internal]] 

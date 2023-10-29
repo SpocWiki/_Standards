@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_Covid_icu_beds_occ )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_Covid_icu_beds_occ.md|has_number_of_Covid_icu_beds_occ]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_icu_beds_occ.internal.md|has_number_of_Covid_icu_beds_occ.internal]] 

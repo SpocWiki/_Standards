@@ -64,7 +64,6 @@ Instead use one of these Alternatives / Substitutes:
 | \\ /  |         | %5C   %2F | backslash                          |
 |      |         |           |                                    |
 
-
 ### Reserved Tags and Attributes 
 To allow for Reasoning over the Data, it is necessary to agree on the Semantics of a Set of Tags and Attributes. 
 This Library tends to generalizing Attributes, rather than specializing them. 
@@ -77,7 +76,6 @@ aliases: List of Alias Names, also supported by Obsidian
 ### Common #Tags:
 isDeleted
 isReadOnly
-
 
 ### Common Attributes: 
 created: Date (and Time) of Creation/Birth 

@@ -42,8 +42,6 @@ An OfferCatalog is an ItemList that contains related Offers and/or further Offer
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/item_list/offer_catalog.md|offer_catalog]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/item_list/offer_catalog.internal.md|offer_catalog.internal]] 

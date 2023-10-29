@@ -46,7 +46,6 @@ Predicate describes that:
 ( #has_/name :: is_public_access )
 ( #has_/range :: Boolean )
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_public_access.md|is_public_access]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_public_access.internal.md|is_public_access.internal]] 

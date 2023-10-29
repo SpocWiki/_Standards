@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_reference_quantity )
 ( #has_/range :: QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_reference_quantity.md|has_value_for_reference_quantity]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_reference_quantity.internal.md|has_value_for_reference_quantity.internal]] 

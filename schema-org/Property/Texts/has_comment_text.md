@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_comment_text )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_comment_text.md|has_comment_text]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_comment_text.internal.md|has_comment_text.internal]] 

@@ -44,8 +44,6 @@ A trip on a commercial ferry line.
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalBoatTerminal, arrivalTime, departureBoatTerminal, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/trip/boat_trip.md|boat_trip]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/trip/boat_trip.internal.md|boat_trip.internal]] 

@@ -43,7 +43,6 @@ Relation describes that:
 ( #has_/name :: is_alternative_to )
 ( #has_/range :: Gene )
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_alternative_to.md|is_alternative_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_alternative_to.internal.md|is_alternative_to.internal]] 

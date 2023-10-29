@@ -41,14 +41,11 @@ A schedule defines a repeating time period used to describe a regularly occurrin
       This includes identifying the day(s) of the week or month when the recurring event will take place, in addition to its start and end time. Schedules may also
       have start and end dates to indicate when they are active, e.g. to define a limited calendar of events.
 
-
 [ #is_/part_of :: https://pending.schema.org ]
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/schedule.md|schedule]] 

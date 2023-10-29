@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_value_required )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_value_required.md|is_value_required]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_value_required.internal.md|is_value_required.internal]] 

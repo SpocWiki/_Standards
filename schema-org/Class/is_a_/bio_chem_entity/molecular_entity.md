@@ -44,8 +44,6 @@ Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, rad
 
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.md|molecular_entity]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.internal.md|molecular_entity.internal]] 

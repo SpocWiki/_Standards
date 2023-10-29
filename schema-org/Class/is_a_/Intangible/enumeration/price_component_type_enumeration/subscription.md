@@ -46,8 +46,6 @@ Represents the subscription pricing component of the total price for an offered 
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.md|subscription]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.internal.md|subscription.internal]] 

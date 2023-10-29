@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_educational_level )
 ( #has_/range :: DefinedTerm, Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_educational_level.md|has_educational_level]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_educational_level.internal.md|has_educational_level.internal]] 

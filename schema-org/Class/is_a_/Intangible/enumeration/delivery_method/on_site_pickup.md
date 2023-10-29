@@ -44,8 +44,6 @@ A DeliveryMethod in which an item is collected on site, e.g. in a store or at a 
 
 [ #is_/enum_of :: [[../DeliveryMethod]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.md|on_site_pickup]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.internal.md|on_site_pickup.internal]] 

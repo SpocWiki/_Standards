@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_financial_aid_eligible )
 ( #has_/range :: DefinedTerm, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_financial_aid_eligible.md|has_financial_aid_eligible]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_financial_aid_eligible.internal.md|has_financial_aid_eligible.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_event_attendance_mode )
 ( #has_/range :: EventAttendanceModeEnumeration )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_event_attendance_mode.md|has_event_attendance_mode]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_event_attendance_mode.internal.md|has_event_attendance_mode.internal]] 

@@ -42,8 +42,6 @@ The act of authoring written creative content.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/create_action/write_action.md|write_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/write_action.internal.md|write_action.internal]] 

@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_pages )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_pages.md|has_number_of_pages]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_pages.internal.md|has_number_of_pages.internal]] 

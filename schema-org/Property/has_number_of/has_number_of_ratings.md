@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_ratings )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_ratings.md|has_number_of_ratings]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_ratings.internal.md|has_number_of_ratings.internal]] 

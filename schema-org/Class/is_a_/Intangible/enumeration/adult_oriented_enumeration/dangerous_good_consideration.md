@@ -46,8 +46,6 @@ The item is dangerous and requires careful handling and/or special training of t
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.md|dangerous_good_consideration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/dangerous_good_consideration.internal.md|dangerous_good_consideration.internal]] 

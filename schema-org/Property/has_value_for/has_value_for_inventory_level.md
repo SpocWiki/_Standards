@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_inventory_level )
 ( #has_/range :: QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_inventory_level.md|has_value_for_inventory_level]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_inventory_level.internal.md|has_value_for_inventory_level.internal]] 

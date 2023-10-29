@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_study )
 ( #has_/range :: MedicalStudy )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_study.md|has_study]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study.internal.md|has_study.internal]] 

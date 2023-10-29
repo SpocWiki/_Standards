@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_service_type )
 ( #has_/range :: GovernmentBenefitsType, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_service_type.md|has_service_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_service_type.internal.md|has_service_type.internal]] 

@@ -110,7 +110,6 @@ Except for the limited purpose of indicating to the public that the Work is lice
 
 Creative Commons may be contacted at <http://creativecommons.org/>.
 
-
 ## Confidential Links & Embeds: 
 - [[../_public/License.md|License]] 
 - [[../_internal/License.internal.md|License.internal]] 

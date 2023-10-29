@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_preparation )
 ( #has_/range :: MedicalEntity, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_preparation.md|has_preparation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_preparation.internal.md|has_preparation.internal]] 

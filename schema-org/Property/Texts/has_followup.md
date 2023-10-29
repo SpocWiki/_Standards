@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_followup )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_followup.md|has_followup]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_followup.internal.md|has_followup.internal]] 

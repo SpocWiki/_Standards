@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_total_payment_due )
 ( #has_/range :: MonetaryAmount, PriceSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_total_payment_due.md|has_value_for_total_payment_due]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_total_payment_due.internal.md|has_value_for_total_payment_due.internal]] 

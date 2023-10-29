@@ -55,8 +55,6 @@ Audio that has been created using actors or similarly contrived.
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.md|staged_content]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.internal.md|staged_content.internal]] 

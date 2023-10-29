@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_part_of_invoice )
 ( #has_/range :: Invoice )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_invoice.md|is_part_of_invoice]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_invoice.internal.md|is_part_of_invoice.internal]] 

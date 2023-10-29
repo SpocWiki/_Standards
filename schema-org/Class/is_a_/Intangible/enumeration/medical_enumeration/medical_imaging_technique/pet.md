@@ -44,8 +44,6 @@ Positron emission tomography imaging.
 
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.md|pet]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/pet.internal.md|pet.internal]] 

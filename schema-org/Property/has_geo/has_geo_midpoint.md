@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo_midpoint )
 ( #has_/range :: GeoCoordinates )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_midpoint.md|has_geo_midpoint]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_midpoint.internal.md|has_geo_midpoint.internal]] 

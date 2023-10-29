@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_bus_name )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_bus_name.md|has_bus_name]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_bus_name.internal.md|has_bus_name.internal]] 

@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_full_bathrooms )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.md|has_number_of_number_of_full_bathrooms]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.internal.md|has_number_of_number_of_full_bathrooms.internal]] 

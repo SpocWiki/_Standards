@@ -13,7 +13,6 @@ version: 4
 This is a kind of [[FileClass~Vehicle]]
 A car is a wheeled, self-powered motor vehicle used for transportation.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/Car
@@ -37,5 +36,4 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 \* Note 3: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.
 
 RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
-
 

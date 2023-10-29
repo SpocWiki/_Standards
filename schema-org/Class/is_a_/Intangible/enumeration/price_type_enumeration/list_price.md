@@ -46,8 +46,6 @@ Represents the list price (the price a product is actually advertised for) of an
 
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/list_price.md|list_price]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/list_price.internal.md|list_price.internal]] 

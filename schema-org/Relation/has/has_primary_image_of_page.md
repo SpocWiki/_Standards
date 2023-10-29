@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_primary_image_of_page )
 ( #has_/range :: ImageObject )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_primary_image_of_page.md|has_primary_image_of_page]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_primary_image_of_page.internal.md|has_primary_image_of_page.internal]] 

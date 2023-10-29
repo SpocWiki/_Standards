@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_main_content_of_page )
 ( #has_/range :: WebPageElement )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_main_content_of_page.md|has_main_content_of_page]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_main_content_of_page.internal.md|has_main_content_of_page.internal]] 

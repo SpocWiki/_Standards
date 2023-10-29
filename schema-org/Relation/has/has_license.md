@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_license )
 ( #has_/range :: CreativeWork, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_license.md|has_license]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_license.internal.md|has_license.internal]] 

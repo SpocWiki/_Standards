@@ -46,8 +46,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_no_bylines_policy.md|has_no_bylines_policy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_no_bylines_policy.internal.md|has_no_bylines_policy.internal]] 

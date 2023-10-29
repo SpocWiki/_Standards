@@ -46,8 +46,6 @@ Specifies that a refund can be done in the full amount the customer paid for the
 
 [ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/full_refund.md|full_refund]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/full_refund.internal.md|full_refund.internal]] 

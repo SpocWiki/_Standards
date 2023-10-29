@@ -46,8 +46,6 @@ Measurement of the inseam, for example of pants
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.md|wearable_measurement_inseam]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_inseam.internal.md|wearable_measurement_inseam.internal]] 

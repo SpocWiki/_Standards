@@ -42,7 +42,6 @@ Abdomen clinical examination.
 
 [ #is_/enum_of :: [[../Physical_Exam]] ]
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.md|abdomen]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.internal.md|abdomen.internal]] 

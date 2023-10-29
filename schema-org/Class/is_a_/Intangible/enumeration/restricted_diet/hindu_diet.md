@@ -44,8 +44,6 @@ A diet conforming to Hindu dietary practices, in particular, beef-free.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/hindu_diet.md|hindu_diet]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/hindu_diet.internal.md|hindu_diet.internal]] 

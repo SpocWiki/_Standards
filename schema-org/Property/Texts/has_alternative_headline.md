@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_alternative_headline )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_alternative_headline.md|has_alternative_headline]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_alternative_headline.internal.md|has_alternative_headline.internal]] 

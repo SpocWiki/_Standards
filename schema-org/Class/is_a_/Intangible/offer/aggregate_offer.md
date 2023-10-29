@@ -44,8 +44,6 @@ Note: AggregateOffers are normally expected to associate multiple offers that al
 
 [ #has_/properties :: [ acceptedPaymentMethod, addOn, additionalType, advanceBookingRequirement, aggregateRating, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, category, checkoutPageURLTemplate, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasMeasurement, hasMerchantReturnPolicy, highPrice, identifier, image, includesObject, ineligibleRegion, inventoryLevel, isFamilyFriendly, itemCondition, itemOffered, leaseLength, lowPrice, mainEntityOfPage, mobileUrl, mpn, name, offerCount, offeredBy, offers, potentialAction, price, priceCurrency, priceSpecification, priceValidUntil, review, reviews, sameAs, seller, serialNumber, shippingDetails, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/offer/aggregate_offer.md|aggregate_offer]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/offer/aggregate_offer.internal.md|aggregate_offer.internal]] 

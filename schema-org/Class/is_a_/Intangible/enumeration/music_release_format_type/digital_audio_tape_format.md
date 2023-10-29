@@ -44,8 +44,6 @@ DigitalAudioTapeFormat.
 
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_audio_tape_format.md|digital_audio_tape_format]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_audio_tape_format.internal.md|digital_audio_tape_format.internal]] 

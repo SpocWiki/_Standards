@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_providing_service)
 ( #has_/range :: Service)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_providing_service.md|is_providing_service]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_providing_service.internal.md|is_providing_service.internal]] 

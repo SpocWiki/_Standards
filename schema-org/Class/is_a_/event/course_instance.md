@@ -42,8 +42,6 @@ An instance of a [[Course]] which is distinct from other instances because it is
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, courseMode, courseWorkload, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, instructor, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/event/course_instance.md|course_instance]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/event/course_instance.internal.md|course_instance.internal]] 

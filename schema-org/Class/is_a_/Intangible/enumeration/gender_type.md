@@ -40,8 +40,6 @@ An enumeration of genders.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/gender_type.md|gender_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type.internal.md|gender_type.internal]] 

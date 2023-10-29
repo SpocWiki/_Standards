@@ -46,8 +46,6 @@ Specifies that product returns are free of charge for the customer.
 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/free_return.md|free_return]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/free_return.internal.md|free_return.internal]] 

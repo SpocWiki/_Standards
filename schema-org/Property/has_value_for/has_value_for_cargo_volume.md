@@ -37,9 +37,13 @@ Use it like this:
 - [ #has_/value_for_/cargo_volume :: QuantitativeValue ] or 
 - [ has_value_for_cargo_volume :: QuantitativeValue ] 
 
-The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.\n\n\n\n
+The available volume for cargo or luggage. For automobiles, this is usually the trunk volume.
 
-Typical unit code(s): LTR for liters, FTQ for cubic foot/feet\n\n\n\n
+
+
+Typical unit code(s): LTR for liters, FTQ for cubic foot/feet
+
+
 
 Note: You can use [[minValue]] and [[maxValue]] to indicate ranges.
 
@@ -47,8 +51,6 @@ Predicate describes that:
 [ #has_/domain  :: Vehicle ]
 ( #has_/name :: has_value_for_cargo_volume )
 ( #has_/range :: QuantitativeValue )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_cargo_volume.md|has_value_for_cargo_volume]] 

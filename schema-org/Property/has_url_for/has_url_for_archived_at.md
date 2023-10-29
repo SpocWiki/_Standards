@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_url_for_archived_at )
 ( #has_/range :: URL, WebPage )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Urls/has_url_for_archived_at.md|has_url_for_archived_at]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_archived_at.internal.md|has_url_for_archived_at.internal]] 

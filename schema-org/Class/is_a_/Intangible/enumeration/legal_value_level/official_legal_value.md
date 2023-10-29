@@ -46,8 +46,6 @@ All the documents published by an official publisher should have at least the le
 
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.md|official_legal_value]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/official_legal_value.internal.md|official_legal_value.internal]] 

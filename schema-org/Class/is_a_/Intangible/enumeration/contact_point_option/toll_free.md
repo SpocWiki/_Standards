@@ -44,8 +44,6 @@ The associated telephone number is toll free.
 
 [ #is_/enum_of :: [[../ContactPointOption]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.md|toll_free]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.internal.md|toll_free.internal]] 

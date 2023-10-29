@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #has_/sub_property_of  :: genre ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_legislation_type.md|has_legislation_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legislation_type.internal.md|has_legislation_type.internal]] 

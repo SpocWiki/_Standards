@@ -39,7 +39,9 @@ Use it like this:
 - [ #has_/value_for_/engine_displacement :: QuantitativeValue ] or 
 - [ has_value_for_engine_displacement :: QuantitativeValue ] 
 
-The volume swept by all of the pistons inside the cylinders of an internal combustion engine in a single movement. \n\n\n\n
+The volume swept by all of the pistons inside the cylinders of an internal combustion engine in a single movement. 
+
+
 
 Typical unit code(s): CMQ for cubic centimeter, LTR for liters, INQ for cubic inches
 * Note 1: You can link to information about how the given value has been determined using the [[valueReference]] property.
@@ -49,8 +51,6 @@ Predicate describes that:
 [ #has_/domain  :: EngineSpecification ]
 ( #has_/name :: has_value_for_engine_displacement )
 ( #has_/range :: QuantitativeValue )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_engine_displacement.md|has_value_for_engine_displacement]] 

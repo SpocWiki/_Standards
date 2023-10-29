@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: participant ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_borrower.md|has_borrower]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_borrower.internal.md|has_borrower.internal]] 

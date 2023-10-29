@@ -45,7 +45,6 @@ Quantities must have a [[../../Unit|Unit]] (and often also an Origin/Reference-P
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
 XML, Turtle and Json have dedicated Syntax to indicate the Language, but this can be extended to denote the Unit and Reference: 
 This has the Benefit that Translation becomes Conversion. 
 ## Xml uses the xml:lang Attribute
@@ -69,11 +68,8 @@ This has the Benefit that Translation becomes Conversion.
 }
 ```
 
-
 Tag Instances like this: 
 #is_a_/quantity
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/quantity.md|quantity]] 

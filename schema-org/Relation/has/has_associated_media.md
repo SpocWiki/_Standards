@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_associated_media )
 ( #has_/range :: MediaObject )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_associated_media.md|has_associated_media]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_media.internal.md|has_associated_media.internal]] 

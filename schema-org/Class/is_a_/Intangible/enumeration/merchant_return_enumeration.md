@@ -44,8 +44,6 @@ Enumerates several kinds of product return policies.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.md|merchant_return_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.internal.md|merchant_return_enumeration.internal]] 

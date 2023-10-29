@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_backstory )
 ( #has_/range :: CreativeWork, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_backstory.md|has_backstory]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_backstory.internal.md|has_backstory.internal]] 

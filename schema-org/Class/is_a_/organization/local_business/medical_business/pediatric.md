@@ -44,8 +44,6 @@ A specific branch of medical science that specializes in the care of infants, ch
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/pediatric.md|pediatric]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/pediatric.internal.md|pediatric.internal]] 

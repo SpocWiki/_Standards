@@ -44,8 +44,6 @@ A specific branch of medical science that deals with benign and malignant tumors
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.md|oncologic]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.internal.md|oncologic.internal]] 

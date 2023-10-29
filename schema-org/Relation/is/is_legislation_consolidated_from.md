@@ -48,8 +48,6 @@ Relation describes that:
 ( #has_/name :: is_legislation_consolidated_from )
 ( #has_/range :: Legislation )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.md|is_legislation_consolidated_from]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.internal.md|is_legislation_consolidated_from.internal]] 

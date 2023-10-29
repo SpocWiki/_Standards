@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_located_in_subcellular_location)
 ( #has_/range :: DefinedTerm, PropertyValue, URL)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_located_in_subcellular_location.md|is_located_in_subcellular_location]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_located_in_subcellular_location.internal.md|is_located_in_subcellular_location.internal]] 

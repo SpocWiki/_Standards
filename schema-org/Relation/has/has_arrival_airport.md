@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_arrival_airport )
 ( #has_/range :: Airport )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_airport.md|has_arrival_airport]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_airport.internal.md|has_arrival_airport.internal]] 

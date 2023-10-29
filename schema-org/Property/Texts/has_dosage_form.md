@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_dosage_form )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_dosage_form.md|has_dosage_form]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_dosage_form.internal.md|has_dosage_form.internal]] 

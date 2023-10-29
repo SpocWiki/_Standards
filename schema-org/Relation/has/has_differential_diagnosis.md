@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_differential_diagnosis )
 ( #has_/range :: DDxElement )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_differential_diagnosis.md|has_differential_diagnosis]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_differential_diagnosis.internal.md|has_differential_diagnosis.internal]] 

@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_readonly )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_readonly.md|is_readonly]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_readonly.internal.md|is_readonly.internal]] 

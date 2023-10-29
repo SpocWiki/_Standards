@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_geo )
 ( #has_/range :: GeoCoordinates, GeoShape )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_place.md|has_geo_place]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_place.internal.md|has_geo_place.internal]] 

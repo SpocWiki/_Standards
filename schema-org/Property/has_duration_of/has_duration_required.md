@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the Duration of CreativeWork.
 
-
-
 Use it like this: 
 - [has_duration_required::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration_/required::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::CreativeWork]
 (name::has_duration_required)
 (range::Duration)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Durations/has_duration_required.md|has_duration_required]] 

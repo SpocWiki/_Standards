@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_loan_payments )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.md|has_number_of_number_of_loan_payments]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.internal.md|has_number_of_number_of_loan_payments.internal]] 

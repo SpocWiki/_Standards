@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.md|has_unnamed_sources_policy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.internal.md|has_unnamed_sources_policy.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_status )
 ( #has_/range :: EventStatusType, MedicalStudyStatus, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_status.md|has_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_status.internal.md|has_status.internal]] 

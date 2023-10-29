@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -36,15 +36,16 @@ Class of all comments.
 Tag Instances like this: 
 #is_a_/comment
 
-A comment on an item - for example, a comment on a blog post. The comment's content is expressed via the [[text]] property, and its topic via [[about]], properties shared with all CreativeWorks.
+A comment on an item - for example, a comment on a blog post. 
 
-[ #is_/sub_class_of :: [[../CreativeWork]] ]
+The comment's content is expressed via the [[text]] property, 
+and its topic via [[../../../Relation/is/is_about|is_about]] properties shared with all [[Creative_Work]].
 
-[ #has_/sub_classes :: [ Answer, CorrectionComment, Question ] ]
+[ #is_/sub_class_of :: [[../Creative_Work]] ]
+
+[ #has_/sub_classes :: [ [[comment/answer|answer]], [[comment/correction_comment|Correction_Comment]], [[Question]] ] ]
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, downvoteCount, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, parentItem, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, upvoteCount, url, usageInfo, version, video, workExample, workTranslation ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/creative_work/comment.md|comment]] 

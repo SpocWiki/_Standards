@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_normal_range )
 ( #has_/range :: MedicalEnumeration, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_normal_range.md|has_normal_range]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_normal_range.internal.md|has_normal_range.internal]] 

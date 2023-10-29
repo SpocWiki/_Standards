@@ -44,8 +44,6 @@ The [[position]] property is used to reconstruct the order of the items in a Bre
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/item_list/breadcrumb_list.md|breadcrumb_list]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/item_list/breadcrumb_list.internal.md|breadcrumb_list.internal]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_recommendation_strength )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_recommendation_strength.md|has_recommendation_strength]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_recommendation_strength.internal.md|has_recommendation_strength.internal]] 

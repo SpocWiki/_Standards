@@ -33,20 +33,19 @@ aliases:
 - has_text_about_available_on_device
 ---
 
-Predicate to describe the Text of SoftwareApplication.
+Device required to run the application. 
+Used in cases where a specific make/model is required to run the application.
+
+Predicate to describe a [[../../Class/is_a_/creative_work/software_application|SoftwareApplication]].
 
 Use it like this: 
 - [ #has_/text_about_/available_on_device :: Text ] or 
 - [ has_text_about_available_on_device :: Text ] 
 
-Device required to run the application. Used in cases where a specific make/model is required to run the application.
-
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_about_available_on_device )
+( #has_/name :: [[is_available_on_device]] )
 ( #has_/range :: Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_available_on_device.md|has_available_on_device]] 

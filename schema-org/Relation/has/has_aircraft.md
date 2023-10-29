@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_aircraft )
 ( #has_/range :: Text, Vehicle )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_aircraft.md|has_aircraft]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_aircraft.internal.md|has_aircraft.internal]] 

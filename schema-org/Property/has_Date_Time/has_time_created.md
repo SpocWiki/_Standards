@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of CreativeWork, DataFeedItem.
 
-
-
 Use it like this: 
 - [has_time_created::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/created::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -45,10 +43,7 @@ Formal Predicate:
 (name::has_time_created)
 (range::Date, DateTime)
 
-
-
 Has [sub_properties::legislationDate]
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_created.md|has_time_created]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_accessory_or_spare_part_for)
 ( #has_/range :: Product)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_accessory_or_spare_part_for.md|is_accessory_or_spare_part_for]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_accessory_or_spare_part_for.internal.md|is_accessory_or_spare_part_for.internal]] 

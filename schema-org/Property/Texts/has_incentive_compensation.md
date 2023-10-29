@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_incentive_compensation )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_incentive_compensation.md|has_incentive_compensation]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_incentive_compensation.internal.md|has_incentive_compensation.internal]] 

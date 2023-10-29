@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[../has/is_offered_by]]]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_making_offer.md|is_making_offer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_making_offer.internal.md|is_making_offer.internal]] 

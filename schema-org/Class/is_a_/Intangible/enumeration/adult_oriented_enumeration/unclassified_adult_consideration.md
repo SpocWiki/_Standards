@@ -46,8 +46,6 @@ The item is suitable only for adults, without indicating why. Due to widespread 
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.md|unclassified_adult_consideration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/unclassified_adult_consideration.internal.md|unclassified_adult_consideration.internal]] 

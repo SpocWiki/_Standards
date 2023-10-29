@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_proficiency_level )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_proficiency_level.md|has_proficiency_level]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_proficiency_level.internal.md|has_proficiency_level.internal]] 

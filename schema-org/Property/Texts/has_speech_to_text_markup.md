@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_speech_to_text_markup )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_speech_to_text_markup.md|has_speech_to_text_markup]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_speech_to_text_markup.internal.md|has_speech_to_text_markup.internal]] 

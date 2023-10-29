@@ -42,8 +42,6 @@ A trip on a commercial bus line.
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalBusStop, arrivalTime, busName, busNumber, departureBusStop, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/trip/bus_trip.md|bus_trip]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/trip/bus_trip.internal.md|bus_trip.internal]] 

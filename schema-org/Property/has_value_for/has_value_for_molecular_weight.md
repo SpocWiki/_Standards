@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_molecular_weight )
 ( #has_/range :: QuantitativeValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_molecular_weight.md|has_value_for_molecular_weight]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_molecular_weight.internal.md|has_value_for_molecular_weight.internal]] 

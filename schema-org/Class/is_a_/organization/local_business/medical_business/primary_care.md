@@ -44,8 +44,6 @@ The medical care by a physician, or other health-care professional, who is the p
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.md|primary_care]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.internal.md|primary_care.internal]] 

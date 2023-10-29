@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_learning_resource_type )
 ( #has_/range :: DefinedTerm, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_learning_resource_type.md|has_learning_resource_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_learning_resource_type.internal.md|has_learning_resource_type.internal]] 

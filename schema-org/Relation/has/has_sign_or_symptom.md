@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_sign_or_symptom )
 ( #has_/range :: MedicalSignOrSymptom )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sign_or_symptom.md|has_sign_or_symptom]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sign_or_symptom.internal.md|has_sign_or_symptom.internal]] 

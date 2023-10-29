@@ -44,8 +44,6 @@ The steering position is on the left side of the vehicle (viewed from the main d
 
 [ #is_/enum_of :: [[../SteeringPositionValue]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.md|left_hand_driving]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.internal.md|left_hand_driving.internal]] 

@@ -40,8 +40,6 @@ Data type: Integer.
 
 [ #is_/sub_class_of :: [[../Number]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/data_type/number/integer.md|integer]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/number/integer.internal.md|integer.internal]] 

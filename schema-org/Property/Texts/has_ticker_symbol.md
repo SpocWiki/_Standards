@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_ticker_symbol )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_ticker_symbol.md|has_ticker_symbol]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_ticker_symbol.internal.md|has_ticker_symbol.internal]] 

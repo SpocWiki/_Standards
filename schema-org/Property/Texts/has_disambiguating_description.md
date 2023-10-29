@@ -46,8 +46,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: description ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_disambiguating_description.md|has_disambiguating_description]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_disambiguating_description.internal.md|has_disambiguating_description.internal]] 

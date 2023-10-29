@@ -46,8 +46,6 @@ Predicate describes that:
 
 [ #is_/inverse_of  :: containedInPlace ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_containing_place.md|has_geo_containing_place]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_containing_place.internal.md|has_geo_containing_place.internal]] 

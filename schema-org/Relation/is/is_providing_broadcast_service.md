@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: hasBroadcastChannel]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_providing_broadcast_service.md|is_providing_broadcast_service]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_providing_broadcast_service.internal.md|is_providing_broadcast_service.internal]] 

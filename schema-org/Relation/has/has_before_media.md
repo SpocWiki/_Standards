@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_before_media )
 ( #has_/range :: MediaObject, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_before_media.md|has_before_media]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_before_media.internal.md|has_before_media.internal]] 

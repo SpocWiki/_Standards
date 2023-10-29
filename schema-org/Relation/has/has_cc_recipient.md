@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: recipient ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_cc_recipient.md|has_cc_recipient]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cc_recipient.internal.md|has_cc_recipient.internal]] 

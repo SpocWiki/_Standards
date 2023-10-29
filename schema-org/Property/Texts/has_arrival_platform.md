@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_arrival_platform )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_arrival_platform.md|has_arrival_platform]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_arrival_platform.internal.md|has_arrival_platform.internal]] 

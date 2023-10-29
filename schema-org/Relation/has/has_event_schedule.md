@@ -58,7 +58,6 @@ Relation describes that:
 ( #has_/name :: has_event_schedule )
 ( #has_/range :: Schedule )
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_event_schedule.md|has_event_schedule]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_event_schedule.internal.md|has_event_schedule.internal]] 

@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_call_sign.md|has_call_sign]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_call_sign.internal.md|has_call_sign.internal]] 

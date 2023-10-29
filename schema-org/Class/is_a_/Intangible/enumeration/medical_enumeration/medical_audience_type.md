@@ -40,8 +40,6 @@ Target audiences types for medical web pages. Enumerated type.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type.md|medical_audience_type]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type.internal.md|medical_audience_type.internal]] 

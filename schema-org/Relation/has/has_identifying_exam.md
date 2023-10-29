@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_identifying_exam )
 ( #has_/range :: PhysicalExam )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_identifying_exam.md|has_identifying_exam]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_identifying_exam.internal.md|has_identifying_exam.internal]] 

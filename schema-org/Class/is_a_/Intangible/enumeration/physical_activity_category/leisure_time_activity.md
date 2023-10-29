@@ -44,8 +44,6 @@ Any physical activity engaged in for recreational purposes. Examples may include
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/leisure_time_activity.md|leisure_time_activity]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/leisure_time_activity.internal.md|leisure_time_activity.internal]] 

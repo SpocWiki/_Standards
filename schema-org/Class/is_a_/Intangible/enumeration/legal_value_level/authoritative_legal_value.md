@@ -46,8 +46,6 @@ Indicates that the publisher gives some special status to the publication of the
 
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/authoritative_legal_value.md|authoritative_legal_value]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/authoritative_legal_value.internal.md|authoritative_legal_value.internal]] 

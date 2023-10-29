@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_monthly_minimum_repayment_amount )
 ( #has_/range :: MonetaryAmount, Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.md|has_value_for_monthly_minimum_repayment_amount]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_monthly_minimum_repayment_amount.internal.md|has_value_for_monthly_minimum_repayment_amount.internal]] 

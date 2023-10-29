@@ -43,7 +43,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ] ]
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_creator.md|has_creator]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_creator.internal.md|has_creator.internal]] 

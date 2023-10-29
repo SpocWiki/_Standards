@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_delivery_time )
 ( #has_/range :: ShippingDeliveryTime )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_delivery_time.md|has_delivery_time]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_delivery_time.internal.md|has_delivery_time.internal]] 

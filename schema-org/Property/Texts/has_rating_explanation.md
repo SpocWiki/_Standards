@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_rating_explanation )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_rating_explanation.md|has_rating_explanation]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_rating_explanation.internal.md|has_rating_explanation.internal]] 

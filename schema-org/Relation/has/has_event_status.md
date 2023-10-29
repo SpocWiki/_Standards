@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_event_status )
 ( #has_/range :: EventStatusType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_event_status.md|has_event_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_event_status.internal.md|has_event_status.internal]] 

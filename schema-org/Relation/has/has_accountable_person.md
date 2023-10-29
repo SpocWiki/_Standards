@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_accountable_person )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_accountable_person.md|has_accountable_person]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accountable_person.internal.md|has_accountable_person.internal]] 

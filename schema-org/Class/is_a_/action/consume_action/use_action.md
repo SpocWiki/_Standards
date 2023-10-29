@@ -38,8 +38,6 @@ Tag Instances like this:
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/use_action.md|use_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/use_action.internal.md|use_action.internal]] 

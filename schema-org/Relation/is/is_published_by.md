@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_published_by )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_published_by.md|is_published_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_published_by.internal.md|is_published_by.internal]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_warning )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_warning.md|has_warning]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_warning.internal.md|has_warning.internal]] 

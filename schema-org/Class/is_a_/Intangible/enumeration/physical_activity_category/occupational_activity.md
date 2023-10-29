@@ -44,8 +44,6 @@ Any physical activity engaged in for job-related purposes. Examples may include 
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.md|occupational_activity]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.internal.md|occupational_activity.internal]] 

@@ -46,8 +46,6 @@ Measurement of the outside leg, for example of pants
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.md|wearable_measurement_outside_leg]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_outside_leg.internal.md|wearable_measurement_outside_leg.internal]] 

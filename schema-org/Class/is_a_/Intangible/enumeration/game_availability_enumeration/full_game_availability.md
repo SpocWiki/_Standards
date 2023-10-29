@@ -46,8 +46,6 @@ Indicates full game availability.
 
 [ #is_/enum_of :: [[../GameAvailabilityEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.md|full_game_availability]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.internal.md|full_game_availability.internal]] 

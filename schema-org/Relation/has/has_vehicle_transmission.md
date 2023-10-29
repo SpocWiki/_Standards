@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_vehicle_transmission )
 ( #has_/range :: QualitativeValue, Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_vehicle_transmission.md|has_vehicle_transmission]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_vehicle_transmission.internal.md|has_vehicle_transmission.internal]] 

@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_diversity_staffing_report.md|has_diversity_staffing_report]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_diversity_staffing_report.internal.md|has_diversity_staffing_report.internal]] 

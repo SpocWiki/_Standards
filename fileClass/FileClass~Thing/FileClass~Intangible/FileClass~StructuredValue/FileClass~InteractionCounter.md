@@ -12,8 +12,15 @@ extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 # InteractionCounter
 This is a kind of [[FileClass~StructuredValue]]
 
-A summary of how users have interacted with this CreativeWork. In most cases, authors will use a subtype to specify the specific type of interaction.
+A summary of how users have interacted with this CreativeWork. 
 
+An Interaction-Counter counts how often users have interacted with this CreativeWork in a specific Way. 
+Use the extensible [[#InteractionType]]-Relation to specify the specific type of interaction
+and the [[#UserInteractionCount]]-Property to store the actual Count.
+
+These Counters are typically collected in an [[../../../../Relation/has/has_interaction_statistic|interactionStatistic]] List. 
+
+The [[#InteractionType]]-Relation allows to dynamically extend the Kinds of Interaction, unlike the simpler, but fixed [[../../../../schema-org/Class/is_a_/event/user_interaction|user_interaction]] Values. 
 
 ## Use one of these Tags for Objects of this Type:
 
@@ -56,5 +63,4 @@ StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 The number of interactions for the CreativeWork using the WebSite or SoftwareApplication.
 
 UserInteractionCount:: {"type":"Number","options":{}}
-
 

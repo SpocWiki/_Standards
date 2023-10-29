@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_applicable_in_country )
 ( #has_/range :: Country, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_applicable_in_country.md|is_applicable_in_country]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_applicable_in_country.internal.md|is_applicable_in_country.internal]] 

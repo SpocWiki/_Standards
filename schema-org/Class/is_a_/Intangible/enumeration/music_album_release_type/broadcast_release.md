@@ -44,8 +44,6 @@ BroadcastRelease.
 
 [ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.md|broadcast_release]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.internal.md|broadcast_release.internal]] 

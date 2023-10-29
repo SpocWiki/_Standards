@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_membership_number )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_membership_number.md|has_membership_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_membership_number.internal.md|has_membership_number.internal]] 

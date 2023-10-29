@@ -44,8 +44,6 @@ Head assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/head.md|head]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/head.internal.md|head.internal]] 

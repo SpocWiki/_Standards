@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of Ticket.
 
-
-
 Use it like this: 
 - [has_time_issued::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/issued::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::Ticket]
 (name::has_time_issued)
 (range::Date, DateTime)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_issued.md|has_time_issued]] 

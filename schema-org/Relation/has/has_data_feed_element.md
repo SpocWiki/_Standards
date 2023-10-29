@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_data_feed_element )
 ( #has_/range :: DataFeedItem, Text, Thing )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_data_feed_element.md|has_data_feed_element]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_data_feed_element.internal.md|has_data_feed_element.internal]] 

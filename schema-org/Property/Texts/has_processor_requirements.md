@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_processor_requirements )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_processor_requirements.md|has_processor_requirements]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_processor_requirements.internal.md|has_processor_requirements.internal]] 

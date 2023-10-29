@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_typical_test )
 ( #has_/range :: MedicalTest )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_typical_test.md|has_typical_test]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_typical_test.internal.md|has_typical_test.internal]] 

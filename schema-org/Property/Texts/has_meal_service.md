@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_meal_service )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_meal_service.md|has_meal_service]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_meal_service.internal.md|has_meal_service.internal]] 

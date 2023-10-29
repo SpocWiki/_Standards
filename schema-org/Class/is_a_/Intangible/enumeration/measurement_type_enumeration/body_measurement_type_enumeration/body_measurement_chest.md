@@ -46,8 +46,6 @@ Maximum girth of chest. Used, for example, to fit men's suits.
 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.md|body_measurement_chest]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_chest.internal.md|body_measurement_chest.internal]] 

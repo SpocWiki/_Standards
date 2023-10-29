@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_security_clearance_requirement )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_security_clearance_requirement.md|has_security_clearance_requirement]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_security_clearance_requirement.internal.md|has_security_clearance_requirement.internal]] 

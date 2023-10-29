@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_nerve_motor )
 ( #has_/range :: Muscle )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_nerve_motor.md|has_nerve_motor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nerve_motor.internal.md|has_nerve_motor.internal]] 

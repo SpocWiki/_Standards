@@ -50,8 +50,6 @@ Relation describes that:
 ( #has_/name :: is_complement_of)
 ( #has_/range :: Property)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/is_complement_of.md|is_complement_of]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/is_complement_of.internal.md|is_complement_of.internal]] 

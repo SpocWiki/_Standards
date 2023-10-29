@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_words )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_words.md|has_number_of_words]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_words.internal.md|has_number_of_words.internal]] 

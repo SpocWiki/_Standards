@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_music_composition_form )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_music_composition_form.md|has_music_composition_form]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_music_composition_form.internal.md|has_music_composition_form.internal]] 

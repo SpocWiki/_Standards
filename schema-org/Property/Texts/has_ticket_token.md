@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_ticket_token )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_ticket_token.md|has_ticket_token]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_ticket_token.internal.md|has_ticket_token.internal]] 

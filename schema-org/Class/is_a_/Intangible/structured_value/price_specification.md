@@ -44,8 +44,6 @@ A structured value representing a price or price range. Typically, only the subc
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/price_specification.md|price_specification]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/price_specification.internal.md|price_specification.internal]] 

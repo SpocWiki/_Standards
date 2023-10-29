@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: description ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_sha256.md|has_sha256]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_sha256.internal.md|has_sha256.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: object ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_followee_of.md|is_followee_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_followee_of.internal.md|is_followee_of.internal]] 

@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_discount )
 ( #has_/range :: Number, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_discount.md|has_value_for_discount]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_discount.internal.md|has_value_for_discount.internal]] 

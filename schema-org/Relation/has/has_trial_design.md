@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_trial_design )
 ( #has_/range :: MedicalTrialDesign )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_trial_design.md|has_trial_design]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_trial_design.internal.md|has_trial_design.internal]] 

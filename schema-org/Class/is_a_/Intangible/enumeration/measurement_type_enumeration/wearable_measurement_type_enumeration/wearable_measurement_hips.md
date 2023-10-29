@@ -46,8 +46,6 @@ Measurement of the hip section, for example of a skirt
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.md|wearable_measurement_hips]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_hips.internal.md|wearable_measurement_hips.internal]] 

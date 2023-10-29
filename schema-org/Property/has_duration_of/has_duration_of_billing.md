@@ -42,16 +42,10 @@ Use it like this:
 - [has_duration_of_billing::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration_/of_billing::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
 
-
 Formal Predicate: 
 [domain::UnitPriceSpecification]
 (name::has_duration_of_billing)
 (range::Duration, Number, QuantitativeValue)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_billing.md|has_duration_of_billing]] 

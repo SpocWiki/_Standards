@@ -42,8 +42,6 @@ USNonprofitType: Non-profit organization type originating from the United States
 
 [ #is_/sub_class_of :: [[../NonprofitType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.md|us_nonprofit_type]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type.internal.md|us_nonprofit_type.internal]] 

@@ -44,8 +44,6 @@ A type of medical procedure that involves noninvasive techniques.
 
 [ #is_/enum_of :: [[../MedicalProcedureType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.md|noninvasive_procedure]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.internal.md|noninvasive_procedure.internal]] 

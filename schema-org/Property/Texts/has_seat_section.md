@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_seat_section )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_seat_section.md|has_seat_section]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_seat_section.internal.md|has_seat_section.internal]] 

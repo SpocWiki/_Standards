@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_version )
 ( #has_/range :: Number, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_version.md|has_value_for_version]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_version.internal.md|has_value_for_version.internal]] 

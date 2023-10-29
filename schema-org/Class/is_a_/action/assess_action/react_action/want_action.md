@@ -42,8 +42,6 @@ The act of expressing a desire about the object. An agent wants an object.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/action/assess_action/react_action/want_action.md|want_action]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action/want_action.internal.md|want_action.internal]] 

@@ -40,8 +40,6 @@ The publication format of the book.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/book_format_type.md|book_format_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type.internal.md|book_format_type.internal]] 

@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_estimated_cost )
 ( #has_/range :: MonetaryAmount, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_estimated_cost.md|has_value_for_estimated_cost]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_estimated_cost.internal.md|has_value_for_estimated_cost.internal]] 

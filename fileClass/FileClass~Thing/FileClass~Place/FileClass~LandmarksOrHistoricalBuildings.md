@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Place]]
 
 An historical landmark or building.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/LandmarksOrHistoricalBuildings
@@ -22,5 +21,4 @@ An historical landmark or building.
 #class/Thing/Place/LandmarksOrHistoricalBuildings
 
 ## Properties:
-
 

@@ -45,8 +45,6 @@ A tourist trip. A created itinerary of visits to one or more places of interest 
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, touristType, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/trip/tourist_trip.md|tourist_trip]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/trip/tourist_trip.internal.md|tourist_trip.internal]] 

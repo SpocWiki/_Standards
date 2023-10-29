@@ -44,8 +44,6 @@ The day of the week between Monday and Wednesday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.md|tuesday]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.internal.md|tuesday.internal]] 

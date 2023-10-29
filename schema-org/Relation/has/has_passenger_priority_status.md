@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_passenger_priority_status )
 ( #has_/range :: QualitativeValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_passenger_priority_status.md|has_passenger_priority_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_passenger_priority_status.internal.md|has_passenger_priority_status.internal]] 

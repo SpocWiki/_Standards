@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_time_of_legislation_version)
 (range::Date)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_legislation_version.md|has_time_of_legislation_version]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_legislation_version.internal.md|has_time_of_legislation_version.internal]] 

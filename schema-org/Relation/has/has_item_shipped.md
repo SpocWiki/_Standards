@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_item_shipped )
 ( #has_/range :: Product )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_item_shipped.md|has_item_shipped]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_shipped.internal.md|has_item_shipped.internal]] 

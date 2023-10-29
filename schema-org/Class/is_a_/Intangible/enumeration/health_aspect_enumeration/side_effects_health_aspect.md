@@ -46,8 +46,6 @@ Side effects that can be observed from the usage of the topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.md|side_effects_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/side_effects_health_aspect.internal.md|side_effects_health_aspect.internal]] 

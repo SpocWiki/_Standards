@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_css_selector )
 ( #has_/range :: CssSelectorType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_css_selector.md|has_css_selector]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_css_selector.internal.md|has_css_selector.internal]] 

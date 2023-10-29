@@ -37,14 +37,12 @@ Use it like this:
 - [ #has_/text_about_/price_range :: Text ] or 
 - [ has_text_about_price_range :: Text ] 
 
-The price range of the business, for example &lt;code&gt;$$$&lt;/code&gt;.
+The price range of the business, for example <code>$$$</code>.
 
 Predicated describes that: 
 [ #has_/domain  :: LocalBusiness ]
 ( #has_/name :: has_text_about_price_range )
 ( #has_/range :: Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_price_range.md|has_price_range]] 

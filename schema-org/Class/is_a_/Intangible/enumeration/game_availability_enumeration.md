@@ -42,8 +42,6 @@ For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of t
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration.md|game_availability_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration.internal.md|game_availability_enumeration.internal]] 

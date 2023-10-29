@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_salary_upon_completion )
 ( #has_/range :: MonetaryAmountDistribution )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.md|has_value_for_salary_upon_completion]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.internal.md|has_value_for_salary_upon_completion.internal]] 

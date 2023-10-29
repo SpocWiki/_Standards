@@ -52,7 +52,6 @@ Is [sub_property_of::{{subPropertyOf}}]
 
 Has [sub_properties::{{subproperties}}]
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Durations/_Duration_Template.md|_Duration_Template]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/_Duration_Template.internal.md|_Duration_Template.internal]] 

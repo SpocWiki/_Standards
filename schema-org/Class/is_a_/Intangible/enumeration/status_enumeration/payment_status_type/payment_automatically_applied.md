@@ -44,8 +44,6 @@ An automatic payment system is in place and will be used.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.md|payment_automatically_applied]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.internal.md|payment_automatically_applied.internal]] 

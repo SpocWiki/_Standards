@@ -42,8 +42,6 @@ The act of expressing a negative sentiment about the object. An agent dislikes a
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/action/assess_action/react_action/dislike_action.md|dislike_action]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action/dislike_action.internal.md|dislike_action.internal]] 

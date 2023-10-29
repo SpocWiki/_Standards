@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_knowing )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_knowing.md|is_knowing]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_knowing.internal.md|is_knowing.internal]] 

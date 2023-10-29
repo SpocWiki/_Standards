@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Place]]
 
 The place where a person lives.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/Residence
@@ -27,5 +26,4 @@ The place where a person lives.
 A floorplan of some [[Accommodation]].
 
 AccommodationFloorPlan:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/FloorPlan')"}}
-
 

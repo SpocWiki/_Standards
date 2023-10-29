@@ -44,8 +44,6 @@ A designation by the US FDA signifying that animal reproduction studies have fai
 
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.md|fd_acategory_b]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_b.internal.md|fd_acategory_b.internal]] 

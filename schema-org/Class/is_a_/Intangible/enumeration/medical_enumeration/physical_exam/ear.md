@@ -44,8 +44,6 @@ Ear function assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/ear.md|ear]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/ear.internal.md|ear.internal]] 

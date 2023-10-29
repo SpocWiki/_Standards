@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_brand )
 ( #has_/range :: Brand, Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_brand.md|has_brand]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_brand.internal.md|has_brand.internal]] 

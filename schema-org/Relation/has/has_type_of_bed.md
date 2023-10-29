@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_type_of_bed )
 ( #has_/range :: BedType, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_type_of_bed.md|has_type_of_bed]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_type_of_bed.internal.md|has_type_of_bed.internal]] 

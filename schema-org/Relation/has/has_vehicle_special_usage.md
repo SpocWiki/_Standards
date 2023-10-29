@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_vehicle_special_usage )
 ( #has_/range :: CarUsageType, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_vehicle_special_usage.md|has_vehicle_special_usage]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_vehicle_special_usage.internal.md|has_vehicle_special_usage.internal]] 

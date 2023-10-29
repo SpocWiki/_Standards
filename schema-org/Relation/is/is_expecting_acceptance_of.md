@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_expects_acceptance_of )
 ( #has_/range :: Offer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.md|is_expecting_acceptance_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.internal.md|is_expecting_acceptance_of.internal]] 

@@ -46,8 +46,6 @@ Italian size system for wearables.
 
 [ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_it.md|wearable_size_system_it]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_it.internal.md|wearable_size_system_it.internal]] 

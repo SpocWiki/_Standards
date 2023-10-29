@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_target_population )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_target_population.md|has_target_population]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_target_population.internal.md|has_target_population.internal]] 

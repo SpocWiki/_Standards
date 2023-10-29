@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_during-media )
 ( #has_/range :: MediaObject, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_during-media.md|has_during-media]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_during-media.internal.md|has_during-media.internal]] 

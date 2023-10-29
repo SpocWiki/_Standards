@@ -46,8 +46,6 @@ Specifies that the customer must pay a restocking fee when returning a product.
 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.md|restocking_fees]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.internal.md|restocking_fees.internal]] 

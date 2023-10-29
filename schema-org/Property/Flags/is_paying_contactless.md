@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_paying_contactless )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_paying_contactless.md|is_paying_contactless]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_paying_contactless.internal.md|is_paying_contactless.internal]] 

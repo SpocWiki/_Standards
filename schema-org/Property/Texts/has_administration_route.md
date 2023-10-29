@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_administration_route )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_administration_route.md|has_administration_route]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_administration_route.internal.md|has_administration_route.internal]] 

@@ -44,8 +44,6 @@ The therapy that is concerned with the maintenance or improvement of respiratory
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.md|respiratory_therapy]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/respiratory_therapy.internal.md|respiratory_therapy.internal]] 

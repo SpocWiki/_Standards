@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_first_performance )
 ( #has_/range :: Event )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_first_performance.md|has_first_performance]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_first_performance.internal.md|has_first_performance.internal]] 

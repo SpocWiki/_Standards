@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_sport )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_sport.md|has_sport]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_sport.internal.md|has_sport.internal]] 

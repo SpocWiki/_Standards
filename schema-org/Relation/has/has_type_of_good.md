@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_type_of_good )
 ( #has_/range :: Product, Service )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_type_of_good.md|has_type_of_good]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_type_of_good.internal.md|has_type_of_good.internal]] 

@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: category ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_accommodation_category.md|has_accommodation_category]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_accommodation_category.internal.md|has_accommodation_category.internal]] 

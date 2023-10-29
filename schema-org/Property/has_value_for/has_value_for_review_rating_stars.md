@@ -37,14 +37,12 @@ Use it like this:
 - [ #has_/value_for_/review_rating_stars :: Rating ] or 
 - [ has_value_for_review_rating_stars :: Rating ] 
 
-The rating given in this review. Note that reviews can themselves be rated. The &lt;code&gt;reviewRating&lt;/code&gt; applies to rating given by the review. The [[aggregateRating]] property applies to the review itself, as a creative work.
+The rating given in this review. Note that reviews can themselves be rated. The <code>reviewRating</code> applies to rating given by the review. The [[aggregateRating]] property applies to the review itself, as a creative work.
 
 Predicate describes that: 
 [ #has_/domain  :: Review ]
 ( #has_/name :: has_value_for_review_rating_stars )
 ( #has_/range :: Rating )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.md|has_value_for_review_rating_stars]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_payment_accepted )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_payment_accepted.md|has_payment_accepted]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_payment_accepted.internal.md|has_payment_accepted.internal]] 

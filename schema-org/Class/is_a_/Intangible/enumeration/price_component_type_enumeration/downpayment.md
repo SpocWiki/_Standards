@@ -46,8 +46,6 @@ Represents the downpayment (up-front payment) price component of the total price
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.md|downpayment]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.internal.md|downpayment.internal]] 

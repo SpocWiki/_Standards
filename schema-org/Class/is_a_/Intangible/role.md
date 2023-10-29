@@ -46,8 +46,6 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/role.md|role]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/role.internal.md|role.internal]] 

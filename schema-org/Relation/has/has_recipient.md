@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ bccRecipient, ccRecipient, toRecipient ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_recipient.md|has_recipient]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recipient.internal.md|has_recipient.internal]] 

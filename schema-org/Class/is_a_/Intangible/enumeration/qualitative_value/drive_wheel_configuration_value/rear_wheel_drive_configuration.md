@@ -44,8 +44,6 @@ Real-wheel drive is a transmission layout where the engine drives the rear wheel
 
 [ #is_/enum_of :: [[../DriveWheelConfigurationValue]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/rear_wheel_drive_configuration.md|rear_wheel_drive_configuration]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/rear_wheel_drive_configuration.internal.md|rear_wheel_drive_configuration.internal]] 

@@ -35,15 +35,12 @@ aliases:
 
 Class of all sundays, the day of the week between Saturday and Monday.
 
-
 Tag Instances like this: 
 #is_a_/sunday
 
 [ #is_/sub_class_of :: [[../DayOfWeek]] ]
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.md|sunday]] 

@@ -42,8 +42,6 @@ Relation describes that:
 ( #has_/name :: is_non_equal )
 ( #has_/range :: QualitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_non_equal.md|is_non_equal]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_non_equal.internal.md|is_non_equal.internal]] 

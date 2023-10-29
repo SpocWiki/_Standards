@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_page_end )
 ( #has_/range :: Integer, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_page_end.md|has_number_of_page_end]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_page_end.internal.md|has_number_of_page_end.internal]] 

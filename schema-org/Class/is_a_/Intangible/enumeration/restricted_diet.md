@@ -40,8 +40,6 @@ A diet restricted to certain foods or preparations for cultural, religious, heal
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet.md|restricted_diet]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet.internal.md|restricted_diet.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: workFeatured ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_work_performed.md|has_work_performed]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_performed.internal.md|has_work_performed.internal]] 

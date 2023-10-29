@@ -44,8 +44,6 @@ A trial design in which neither the researcher nor the patient knows the details
 
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.md|double_blinded_trial]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/double_blinded_trial.internal.md|double_blinded_trial.internal]] 

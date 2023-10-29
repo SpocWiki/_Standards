@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_repeats )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_repeats.md|has_number_of_repeats]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_repeats.internal.md|has_number_of_repeats.internal]] 

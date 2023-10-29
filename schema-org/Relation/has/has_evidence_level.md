@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_evidence_level )
 ( #has_/range :: MedicalEvidenceLevel )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_evidence_level.md|has_evidence_level]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_evidence_level.internal.md|has_evidence_level.internal]] 

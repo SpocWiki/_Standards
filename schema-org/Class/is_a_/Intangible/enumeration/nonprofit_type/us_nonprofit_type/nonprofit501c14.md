@@ -46,8 +46,6 @@ Nonprofit501c14: Non-profit type referring to State~Chartered Credit Unions, Mut
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.md|nonprofit501c14]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c14.internal.md|nonprofit501c14.internal]] 

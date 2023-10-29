@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_artwork_surface )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_artwork_surface.md|has_artwork_surface]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_artwork_surface.internal.md|has_artwork_surface.internal]] 

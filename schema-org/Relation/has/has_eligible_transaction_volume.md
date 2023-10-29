@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_eligible_transaction_volume )
 ( #has_/range :: PriceSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.md|has_eligible_transaction_volume]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.internal.md|has_eligible_transaction_volume.internal]] 

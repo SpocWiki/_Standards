@@ -42,8 +42,6 @@ The act of achieving victory in a competitive activity.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, loser, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/achieve_action/win_action.md|win_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/achieve_action/win_action.internal.md|win_action.internal]] 

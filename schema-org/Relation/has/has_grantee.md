@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_grantee )
 ( #has_/range :: Audience, ContactPoint, Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_grantee.md|has_grantee]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_grantee.internal.md|has_grantee.internal]] 

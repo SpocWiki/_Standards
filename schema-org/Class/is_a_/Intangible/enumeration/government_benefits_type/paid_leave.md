@@ -46,8 +46,6 @@ PaidLeave: this is a benefit for paid leave.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/paid_leave.md|paid_leave]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/paid_leave.internal.md|paid_leave.internal]] 

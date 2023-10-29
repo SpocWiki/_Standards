@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_naics )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_naics.md|has_naics]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_naics.internal.md|has_naics.internal]] 

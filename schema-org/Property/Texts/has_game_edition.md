@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_game_edition )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_game_edition.md|has_game_edition]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_game_edition.internal.md|has_game_edition.internal]] 

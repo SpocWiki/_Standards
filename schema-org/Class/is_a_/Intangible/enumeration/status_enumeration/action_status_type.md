@@ -40,8 +40,6 @@ The status of an Action.
 
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type.md|action_status_type]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type.internal.md|action_status_type.internal]] 

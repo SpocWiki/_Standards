@@ -42,8 +42,6 @@ An order item is a line of an order. It includes the quantity and shipping detai
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, orderDelivery, orderItemNumber, orderItemStatus, orderQuantity, orderedItem, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/order_item.md|order_item]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/order_item.internal.md|order_item.internal]] 

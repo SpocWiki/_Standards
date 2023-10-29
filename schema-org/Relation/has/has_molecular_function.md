@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_molecular_function )
 ( #has_/range :: DefinedTerm, PropertyValue, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_molecular_function.md|has_molecular_function]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_molecular_function.internal.md|has_molecular_function.internal]] 

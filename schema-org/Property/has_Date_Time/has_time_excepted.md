@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_time_excepted)
 (range::Date, DateTime)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_excepted.md|has_time_excepted]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_excepted.internal.md|has_time_excepted.internal]] 

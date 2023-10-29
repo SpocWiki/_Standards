@@ -40,8 +40,6 @@ Classification of the album by its type of content: soundtrack, live album, stud
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.md|music_album_production_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.internal.md|music_album_production_type.internal]] 

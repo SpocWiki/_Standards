@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_seeks )
 ( #has_/range :: Demand )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_seeks.md|has_seeks]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_seeks.internal.md|has_seeks.internal]] 

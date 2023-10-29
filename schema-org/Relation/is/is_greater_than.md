@@ -45,7 +45,6 @@ Relation describes that:
 
 [ #is_/inverse_of :: [[is_lesser_than]]] 
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_greater_than.md|is_greater_than]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_greater_than.internal.md|is_greater_than.internal]] 

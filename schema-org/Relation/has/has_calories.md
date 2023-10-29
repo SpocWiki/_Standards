@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_calories )
 ( #has_/range :: Energy )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_calories.md|has_calories]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_calories.internal.md|has_calories.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_distribution )
 ( #has_/range :: DataDownload )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_distribution.md|has_distribution]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_distribution.internal.md|has_distribution.internal]] 

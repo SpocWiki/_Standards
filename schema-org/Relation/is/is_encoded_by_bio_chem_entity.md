@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: encodesBioChemEntity]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_encoded_by_bio_chem_entity.md|is_encoded_by_bio_chem_entity]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_encoded_by_bio_chem_entity.internal.md|is_encoded_by_bio_chem_entity.internal]] 

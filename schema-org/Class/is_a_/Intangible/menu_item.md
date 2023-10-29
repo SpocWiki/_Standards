@@ -42,8 +42,6 @@ A food or drink item listed in a menu or menu section.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/menu_item.md|menu_item]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/menu_item.internal.md|menu_item.internal]] 

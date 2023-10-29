@@ -3,33 +3,27 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_menu
-
 linkTitle: has_menu
-keywords: [menu]
+keywords:
+  - menu
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
-superseded_by: hasMenu
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- menu
-- menu
-- menu
-- has_menu
+  - menu
+  - menu
+  - menu
+  - has_menu
 ---
 
 Use it like this: 
@@ -42,8 +36,6 @@ Relation describes that:
 [ #has_/domain  :: FoodEstablishment ]
 ( #has_/name :: has_menu )
 ( #has_/range :: Menu, Text, URL )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_menu.md|has_menu]] 

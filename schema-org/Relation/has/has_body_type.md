@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_body_type )
 ( #has_/range :: QualitativeValue, Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_body_type.md|has_body_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_body_type.internal.md|has_body_type.internal]] 

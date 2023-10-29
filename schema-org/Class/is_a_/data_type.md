@@ -42,8 +42,6 @@ Tag Instances like this:
 
 [ #has_/sub_classes :: [ Boolean, Time, DateTime, Date, Text, Number ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Class/is_a_/data_type.md|data_type]] 
 - [[../../../../_internal/schema.org/Class/is_a_/data_type.internal.md|data_type.internal]] 

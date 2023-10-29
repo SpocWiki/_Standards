@@ -51,8 +51,6 @@ A list of possible product availability options:
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability.md|item_availability]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability.internal.md|item_availability.internal]] 

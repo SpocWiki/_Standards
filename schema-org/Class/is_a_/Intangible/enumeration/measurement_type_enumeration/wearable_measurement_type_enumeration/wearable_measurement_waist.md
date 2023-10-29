@@ -46,8 +46,6 @@ Measurement of the waist section, for example of pants
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_waist.md|wearable_measurement_waist]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_waist.internal.md|wearable_measurement_waist.internal]] 

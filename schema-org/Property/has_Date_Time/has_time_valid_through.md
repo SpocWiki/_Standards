@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of Demand, JobPosting, LocationFeatureSpecification, MonetaryAmount, Offer, OpeningHoursSpecification, PriceSpecification.
 
-
-
 Use it like this: 
 - [has_time_valid_through::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/valid_through::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::Demand, JobPosting, LocationFeatureSpecification, MonetaryAmount, Offer, OpeningHoursSpecification, PriceSpecification]
 (name::has_time_valid_through)
 (range::Date, DateTime)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_valid_through.md|has_time_valid_through]] 

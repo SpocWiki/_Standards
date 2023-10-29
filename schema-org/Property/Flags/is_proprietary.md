@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_proprietary )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_proprietary.md|is_proprietary]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_proprietary.internal.md|is_proprietary.internal]] 

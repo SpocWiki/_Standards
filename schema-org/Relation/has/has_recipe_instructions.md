@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: step ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_recipe_instructions.md|has_recipe_instructions]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recipe_instructions.internal.md|has_recipe_instructions.internal]] 

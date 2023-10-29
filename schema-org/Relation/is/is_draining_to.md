@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_draining_to )
 ( #has_/range :: Vessel )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_draining_to.md|is_draining_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_draining_to.internal.md|is_draining_to.internal]] 

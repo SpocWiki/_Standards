@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_reservation_for )
 ( #has_/range :: Thing )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_reservation_for.md|has_reservation_for]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_reservation_for.internal.md|has_reservation_for.internal]] 

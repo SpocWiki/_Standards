@@ -44,8 +44,6 @@ A type of financial product that typically requires the client to transfer funds
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit.md|investment_or_deposit]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit.internal.md|investment_or_deposit.internal]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_lodging_unit_description )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_lodging_unit_description.md|has_lodging_unit_description]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_lodging_unit_description.internal.md|has_lodging_unit_description.internal]] 

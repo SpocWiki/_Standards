@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_shared_content )
 ( #has_/range :: CreativeWork )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_shared_content.md|has_shared_content]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_shared_content.internal.md|has_shared_content.internal]] 

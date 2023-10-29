@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_recognizing_authority )
 ( #has_/range :: Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_recognizing_authority.md|has_recognizing_authority]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recognizing_authority.internal.md|has_recognizing_authority.internal]] 

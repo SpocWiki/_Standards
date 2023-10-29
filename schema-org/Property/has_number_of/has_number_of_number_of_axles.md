@@ -48,8 +48,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_axles )
 ( #has_/range :: Number, QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_axles.md|has_number_of_number_of_axles]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_axles.internal.md|has_number_of_number_of_axles.internal]] 

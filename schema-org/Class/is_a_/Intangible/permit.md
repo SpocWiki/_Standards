@@ -44,8 +44,6 @@ A permit issued by an organization, e.g. a parking pass.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/permit.md|permit]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/permit.internal.md|permit.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_potential_use )
 ( #has_/range :: DefinedTerm )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_potential_use.md|has_potential_use]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_potential_use.internal.md|has_potential_use.internal]] 

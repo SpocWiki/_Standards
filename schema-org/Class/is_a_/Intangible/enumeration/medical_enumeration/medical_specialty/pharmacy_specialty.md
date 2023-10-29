@@ -44,8 +44,6 @@ The practice or art and science of preparing and dispensing drugs and medicines.
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.md|pharmacy_specialty]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pharmacy_specialty.internal.md|pharmacy_specialty.internal]] 

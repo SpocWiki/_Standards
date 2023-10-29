@@ -24,9 +24,6 @@ Points in Time can be specified as alphanumeric Strings using this Format:
 `YYYY-MM-ddTHH:mm:ss.fff+hh:mm` 
 Separating date and time parts with other characters such as space is not allowed in ISO 8601, but allowed in its profile RFC 3339.
 
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../_public/ISO/ISO_8601-Date_Time.md|ISO_8601-Date_Time]] 
 - [[../../_internal/ISO/ISO_8601-Date_Time.internal.md|ISO_8601-Date_Time.internal]] 

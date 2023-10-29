@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_parent_item )
 ( #has_/range :: Comment )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_parent_item.md|has_parent_item]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parent_item.internal.md|has_parent_item.internal]] 

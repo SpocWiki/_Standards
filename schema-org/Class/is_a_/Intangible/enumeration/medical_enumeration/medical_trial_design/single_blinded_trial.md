@@ -44,8 +44,6 @@ A trial design in which the researcher knows which treatment the patient was ran
 
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/single_blinded_trial.md|single_blinded_trial]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/single_blinded_trial.internal.md|single_blinded_trial.internal]] 

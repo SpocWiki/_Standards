@@ -44,8 +44,6 @@ Also known as a panel study. A cohort study is a form of longitudinal study used
 
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.md|cohort_study]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cohort_study.internal.md|cohort_study.internal]] 

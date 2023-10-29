@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_including_object)
 ( #has_/range :: TypeAndQuantityNode)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_including_object.md|is_including_object]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_object.internal.md|is_including_object.internal]] 

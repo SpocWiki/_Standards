@@ -45,8 +45,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_unit_text )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_unit_text.md|has_unit_text]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_unit_text.internal.md|has_unit_text.internal]] 

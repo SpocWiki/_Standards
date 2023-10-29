@@ -3,34 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: true
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: false
-
-# Hugo Tags
 type: Predi_Relation
 title: has_included_data_catalog
-
 linkTitle: has_included_data_catalog
-keywords: [included, data, catalog]
+keywords:
+  - included
+  - data
+  - catalog
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- included-data-catalog
-- included_data_catalog
-- includedDataCatalog
-- has_included_data_catalog
+  - included-data-catalog
+  - included_data_catalog
+  - includedDataCatalog
 ---
-
-[ superseded_by :: [[is_included_in_data_catalog]]] ]
 
 Use it like this: 
 - [ #is_/included_in_data_catalog :: DataCatalog ] or 
@@ -40,10 +35,8 @@ A data catalog which contains this dataset (this property was previously 'catalo
 
 Relation describes that: 
 [ #has_/domain  :: Dataset ]
-( #has_/name :: has_included_data_catalog )
+( #has_/name :: [[is_included_in_data_catalog]] )
 ( #has_/range :: DataCatalog )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_included_data_catalog.md|has_included_data_catalog]] 

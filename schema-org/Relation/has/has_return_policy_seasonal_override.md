@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_return_policy_seasonal_override )
 ( #has_/range :: MerchantReturnPolicySeasonalOverride )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.md|has_return_policy_seasonal_override]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.internal.md|has_return_policy_seasonal_override.internal]] 

@@ -34,14 +34,11 @@ Tag Instances like this:
 #is_a_/prion
 #is_an_/infectious_agent
 
-
 A prion is an infectious agent composed of protein in a misfolded form.
 
 [ #is_/sub_class_of :: [[../InfectiousAgentClass]] ]
 
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/prion.md|prion]] 

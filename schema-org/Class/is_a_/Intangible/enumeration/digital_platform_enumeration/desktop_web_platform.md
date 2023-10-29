@@ -46,8 +46,6 @@ Represents the broad notion of 'desktop' browsers as a Web Platform.
 
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/desktop_web_platform.md|desktop_web_platform]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/desktop_web_platform.internal.md|desktop_web_platform.internal]] 

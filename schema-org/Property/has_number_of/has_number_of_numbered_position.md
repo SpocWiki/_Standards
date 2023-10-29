@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_numbered_position )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_numbered_position.md|has_number_of_numbered_position]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_numbered_position.internal.md|has_number_of_numbered_position.internal]] 

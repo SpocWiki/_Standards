@@ -46,8 +46,6 @@ BusinessSupport: this is a benefit for supporting businesses.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/business_support.md|business_support]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/business_support.internal.md|business_support.internal]] 

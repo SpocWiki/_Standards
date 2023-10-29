@@ -46,8 +46,6 @@ Measurement of the cup, for example of a bra
 
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.md|wearable_measurement_cup]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_cup.internal.md|wearable_measurement_cup.internal]] 

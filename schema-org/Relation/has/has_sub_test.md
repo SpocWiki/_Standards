@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_sub_test )
 ( #has_/range :: MedicalTest )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sub_test.md|has_sub_test]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_test.internal.md|has_sub_test.internal]] 

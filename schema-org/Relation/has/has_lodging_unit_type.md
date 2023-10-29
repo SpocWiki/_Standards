@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_lodging_unit_type )
 ( #has_/range :: QualitativeValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_lodging_unit_type.md|has_lodging_unit_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_lodging_unit_type.internal.md|has_lodging_unit_type.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_music_by )
 ( #has_/range :: MusicGroup, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_music_by.md|has_music_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_music_by.internal.md|has_music_by.internal]] 

@@ -44,8 +44,6 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_intangible.md|medical_intangible]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_intangible.internal.md|medical_intangible.internal]] 

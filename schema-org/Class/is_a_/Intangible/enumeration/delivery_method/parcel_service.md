@@ -52,8 +52,6 @@ Commonly used values:
 
 [ #is_/enum_of :: [[../DeliveryMethod]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/delivery_method/parcel_service.md|parcel_service]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/parcel_service.internal.md|parcel_service.internal]] 

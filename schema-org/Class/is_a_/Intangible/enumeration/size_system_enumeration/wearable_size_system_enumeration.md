@@ -42,8 +42,6 @@ Enumerates common size systems specific for wearable products
 
 [ #is_/sub_class_of :: [[../SizeSystemEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration.md|wearable_size_system_enumeration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration.internal.md|wearable_size_system_enumeration.internal]] 

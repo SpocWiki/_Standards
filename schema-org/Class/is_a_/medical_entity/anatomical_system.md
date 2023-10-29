@@ -42,8 +42,6 @@ An anatomical system is a group of anatomical structures that work together to p
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, code, comprisedOf, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relatedCondition, relatedStructure, relatedTherapy, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_system.md|anatomical_system]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_system.internal.md|anatomical_system.internal]] 

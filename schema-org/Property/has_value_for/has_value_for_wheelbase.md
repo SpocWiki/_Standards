@@ -39,7 +39,9 @@ Use it like this:
 - [ #has_/value_for_/wheelbase :: QuantitativeValue ] or 
 - [ has_value_for_wheelbase :: QuantitativeValue ] 
 
-The distance between the centers of the front and rear wheels.\n\n\n\n
+The distance between the centers of the front and rear wheels.
+
+
 
 Typical unit code(s): CMT for centimeters, MTR for meters, INH for inches, FOT for foot/feet
 
@@ -47,8 +49,6 @@ Predicate describes that:
 [ #has_/domain  :: Vehicle ]
 ( #has_/name :: has_value_for_wheelbase )
 ( #has_/range :: QuantitativeValue )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_wheelbase.md|has_value_for_wheelbase]] 

@@ -38,13 +38,11 @@ Class of all energy-values.
 Tag Instances like this: 
 #is_an_/energy
 
-Properties that take Energy as values are of the form '&lt;Number&gt; &lt;Energy unit of measure&gt;'.
+Properties that take Energy as values are of the form '<Number> <Energy unit of measure>'.
 
 [ #is_/sub_class_of :[[../Quantity]]]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/quantity/energy.md|energy]] 

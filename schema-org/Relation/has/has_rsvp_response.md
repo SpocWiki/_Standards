@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_rsvp_response )
 ( #has_/range :: RsvpResponseType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_rsvp_response.md|has_rsvp_response]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_rsvp_response.internal.md|has_rsvp_response.internal]] 

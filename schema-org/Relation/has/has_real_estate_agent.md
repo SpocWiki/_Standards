@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: participant ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_real_estate_agent.md|has_real_estate_agent]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_real_estate_agent.internal.md|has_real_estate_agent.internal]] 

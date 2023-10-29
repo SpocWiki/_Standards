@@ -63,7 +63,6 @@ The Class/Type of all [Properties](../[Properties](Property.md) like this:
 
 #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Property/has_url_for/has_url_for_same_as|sameAs]], subjectOf, supersededBy, url ] ]
 
-
 ## Property-Syntax: 
 RDFa Lite:
 ```html
@@ -82,7 +81,6 @@ MicroData
 	<span itemprop="ratingValue">87</span>
 </div>
 ```
-
 
 ## Confidential Links & Embeds: 
 - [[../../../_public/schema.org/Predicate/Property.md|Property]] 

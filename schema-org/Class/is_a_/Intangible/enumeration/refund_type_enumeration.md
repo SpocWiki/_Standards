@@ -42,8 +42,6 @@ Enumerates several kinds of product return refund types.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration.md|refund_type_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration.internal.md|refund_type_enumeration.internal]] 

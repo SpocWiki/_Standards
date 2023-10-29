@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_emissions_co2_in_Gram_per_km )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_emissions_co2_in_Gram_per_km.md|has_value_for_emissions_co2_in_Gram_per_km]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_emissions_co2_in_Gram_per_km.internal.md|has_value_for_emissions_co2_in_Gram_per_km.internal]] 

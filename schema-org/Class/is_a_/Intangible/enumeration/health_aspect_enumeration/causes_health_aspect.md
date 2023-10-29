@@ -46,8 +46,6 @@ Information about the causes and main actions that gave rise to the topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/causes_health_aspect.md|causes_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/causes_health_aspect.internal.md|causes_health_aspect.internal]] 

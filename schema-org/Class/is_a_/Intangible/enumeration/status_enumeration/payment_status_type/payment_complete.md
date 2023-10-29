@@ -44,8 +44,6 @@ The payment has been received and processed.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.md|payment_complete]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_complete.internal.md|payment_complete.internal]] 

@@ -37,21 +37,23 @@ Use it like this:
 - [ #has_/value_for_/low_price :: Number, Text ] or 
 - [ has_value_for_low_price :: Number, Text ] 
 
-The lowest price of all offers available.\n\n\n\n
+The lowest price of all offers available.
 
-Usage guidelines:\n\n\n\n
 
-&lt;ul&gt;
-&lt;li&gt;Use values from 0123456789 (Unicode 'DIGIT ZERO' (U+0030) to 'DIGIT NINE' (U+0039)) rather than superficially similar Unicode symbols.&lt;/li&gt;
-&lt;li&gt;Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.&lt;/li&gt;
-&lt;/ul&gt;
+
+Usage guidelines:
+
+
+
+<ul>
+<li>Use values from 0123456789 (Unicode 'DIGIT ZERO' (U+0030) to 'DIGIT NINE' (U+0039)) rather than superficially similar Unicode symbols.</li>
+<li>Use '.' (Unicode 'FULL STOP' (U+002E)) rather than ',' to indicate a decimal point. Avoid using these symbols as a readability separator.</li>
+</ul>
 
 Predicate describes that: 
 [ #has_/domain  :: AggregateOffer ]
 ( #has_/name :: has_value_for_low_price )
 ( #has_/range :: Number, Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_low_price.md|has_value_for_low_price]] 

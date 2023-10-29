@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ containsSeason, episode, season, tocEntry ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_part.md|has_part]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_part.internal.md|has_part.internal]] 

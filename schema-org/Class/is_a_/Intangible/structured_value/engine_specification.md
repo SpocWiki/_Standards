@@ -42,8 +42,6 @@ Information about the engine of the vehicle. A vehicle can have multiple engines
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, engineDisplacement, enginePower, engineType, fuelType, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, torque, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/engine_specification.md|engine_specification]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/engine_specification.internal.md|engine_specification.internal]] 

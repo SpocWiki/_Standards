@@ -38,14 +38,18 @@ Use it like this:
 - [ #has_/provider :: Organization, Person ] or 
 - [ has_provider :: Organization, Person ] 
 
-The service provider, service operator, or service performer; the goods producer. Another party (a seller) may offer those services or goods on behalf of the provider. A provider may also serve as the seller.
+The service provider, service operator, or service performer; the goods producer. 
+
+Another party (a seller) may offer those services or goods on behalf of the provider. 
+
+A provider may also serve as the seller.
+
+`Supersedes` the `Carrier` Property. 
 
 Relation describes that: 
 [ #has_/domain  :: Action, CreativeWork, EducationalOccupationalProgram, Invoice, ParcelDelivery, Reservation, Service, Trip ]
 ( #has_/name :: is_provider )
 ( #has_/range :: Organization, Person )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_provider.md|has_provider]] 

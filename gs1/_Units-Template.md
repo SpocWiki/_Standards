@@ -28,12 +28,9 @@ aliases:
 - 
 ---
 
-
 {{Unit of Measure}} 
 
 {{Definition}}.
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../_public/gs1/_Units-Template.md|_Units-Template]] 

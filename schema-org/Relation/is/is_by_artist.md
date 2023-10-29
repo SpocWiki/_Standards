@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_by_artist )
 ( #has_/range :: MusicGroup, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_by_artist.md|is_by_artist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_by_artist.internal.md|is_by_artist.internal]] 

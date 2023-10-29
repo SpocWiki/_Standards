@@ -46,8 +46,6 @@ Specifies that the customer must pay the original shipping costs when returning 
 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.md|original_shipping_fees]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.internal.md|original_shipping_fees.internal]] 

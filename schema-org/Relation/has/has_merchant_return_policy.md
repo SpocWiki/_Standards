@@ -45,8 +45,6 @@ Relation describes that:
 ( #has_/name :: has_merchant_return_policy )
 ( #has_/range :: MerchantReturnPolicy )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_merchant_return_policy.md|has_merchant_return_policy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_merchant_return_policy.internal.md|has_merchant_return_policy.internal]] 

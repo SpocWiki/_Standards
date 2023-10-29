@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_contact_type )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_contact_type.md|has_contact_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_contact_type.internal.md|has_contact_type.internal]] 

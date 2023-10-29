@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_reserved_ticket )
 ( #has_/range :: Ticket )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_reserved_ticket.md|has_reserved_ticket]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_reserved_ticket.internal.md|has_reserved_ticket.internal]] 

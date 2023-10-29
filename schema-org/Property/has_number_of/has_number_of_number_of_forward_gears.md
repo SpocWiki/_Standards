@@ -48,8 +48,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_forward_gears )
 ( #has_/range :: Number, QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.md|has_number_of_number_of_forward_gears]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.internal.md|has_number_of_number_of_forward_gears.internal]] 

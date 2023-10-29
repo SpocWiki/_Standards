@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_work_hours )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_work_hours.md|has_work_hours]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_work_hours.internal.md|has_work_hours.internal]] 

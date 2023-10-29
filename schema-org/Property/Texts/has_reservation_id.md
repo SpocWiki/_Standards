@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_reservation_id )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_reservation_id.md|has_reservation_id]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_reservation_id.internal.md|has_reservation_id.internal]] 

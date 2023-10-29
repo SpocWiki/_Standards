@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_permissions )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_permissions.md|has_permissions]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_permissions.internal.md|has_permissions.internal]] 

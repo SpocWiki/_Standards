@@ -46,8 +46,6 @@ Indicates that a legislation is in force.
 
 [ #is_/enum_of :: [[../LegalForceStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/in_force.md|in_force]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/in_force.internal.md|in_force.internal]] 

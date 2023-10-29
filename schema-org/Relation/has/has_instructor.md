@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_instructor )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_instructor.md|has_instructor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_instructor.internal.md|has_instructor.internal]] 

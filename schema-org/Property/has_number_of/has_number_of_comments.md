@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_comments )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_comments.md|has_number_of_comments]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_comments.internal.md|has_number_of_comments.internal]] 

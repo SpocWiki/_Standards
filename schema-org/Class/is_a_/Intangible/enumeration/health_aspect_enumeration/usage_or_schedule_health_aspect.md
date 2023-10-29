@@ -46,8 +46,6 @@ Content about how, when, frequency and dosage of a topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.md|usage_or_schedule_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/usage_or_schedule_health_aspect.internal.md|usage_or_schedule_health_aspect.internal]] 

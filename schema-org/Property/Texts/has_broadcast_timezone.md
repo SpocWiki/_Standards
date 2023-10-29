@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_broadcast_timezone )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_broadcast_timezone.md|has_broadcast_timezone]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_broadcast_timezone.internal.md|has_broadcast_timezone.internal]] 

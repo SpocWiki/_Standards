@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_menu_section )
 ( #has_/range :: MenuSection )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_menu_section.md|has_menu_section]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_menu_section.internal.md|has_menu_section.internal]] 

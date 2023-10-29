@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_study_subject )
 ( #has_/range :: MedicalEntity )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_study_subject.md|has_study_subject]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study_subject.internal.md|has_study_subject.internal]] 

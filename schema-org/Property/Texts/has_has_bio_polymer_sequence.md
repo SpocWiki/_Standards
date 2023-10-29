@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: hasRepresentation ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_has_bio_polymer_sequence.md|has_has_bio_polymer_sequence]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_has_bio_polymer_sequence.internal.md|has_has_bio_polymer_sequence.internal]] 

@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: jurisdiction, spatialCoverage ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_legislation_jurisdiction_of.md|is_legislation_jurisdiction_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_jurisdiction_of.internal.md|is_legislation_jurisdiction_of.internal]] 

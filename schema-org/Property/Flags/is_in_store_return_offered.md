@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_in_store_return_offered )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_in_store_return_offered.md|is_in_store_return_offered]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_in_store_return_offered.internal.md|is_in_store_return_offered.internal]] 

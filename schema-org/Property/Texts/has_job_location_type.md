@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_job_location_type )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_job_location_type.md|has_job_location_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_job_location_type.internal.md|has_job_location_type.internal]] 

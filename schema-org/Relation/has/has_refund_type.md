@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_refund_type )
 ( #has_/range :: RefundTypeEnumeration )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_refund_type.md|has_refund_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_refund_type.internal.md|has_refund_type.internal]] 

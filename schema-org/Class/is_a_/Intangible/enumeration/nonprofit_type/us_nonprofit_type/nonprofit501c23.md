@@ -46,8 +46,6 @@ Nonprofit501c23: Non-profit type referring to Veterans Organizations.
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c23.md|nonprofit501c23]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c23.internal.md|nonprofit501c23.internal]] 

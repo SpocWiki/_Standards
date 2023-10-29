@@ -17,7 +17,6 @@ This is a kind of [[FileClass~CivicStructure]]
 
 An airport.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_an_/Airport
@@ -35,5 +34,4 @@ IataCode:: {"type":"Input","options":{}}
 ICAO identifier for an airport.
 
 IcaoCode:: {"type":"Input","options":{}}
-
 

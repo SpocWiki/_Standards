@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_player_type )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_player_type.md|has_player_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_player_type.internal.md|has_player_type.internal]] 

@@ -46,8 +46,6 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: duration ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_loan_term.md|has_value_for_loan_term]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_loan_term.internal.md|has_value_for_loan_term.internal]] 

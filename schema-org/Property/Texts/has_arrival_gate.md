@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_arrival_gate )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_arrival_gate.md|has_arrival_gate]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_arrival_gate.internal.md|has_arrival_gate.internal]] 

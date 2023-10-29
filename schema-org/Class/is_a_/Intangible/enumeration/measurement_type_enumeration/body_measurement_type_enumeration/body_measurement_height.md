@@ -46,8 +46,6 @@ Body height (measured between crown of head and soles of feet). Used, for exampl
 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.md|body_measurement_height]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_height.internal.md|body_measurement_height.internal]] 

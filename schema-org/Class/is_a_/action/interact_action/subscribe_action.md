@@ -50,8 +50,6 @@ Related actions:
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/interact_action/subscribe_action.md|subscribe_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/subscribe_action.internal.md|subscribe_action.internal]] 

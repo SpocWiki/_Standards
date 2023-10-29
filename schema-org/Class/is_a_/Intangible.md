@@ -43,8 +43,6 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Class/is_a_/intangible.md|intangible]] 
 - [[../../../../_internal/schema.org/Class/is_a_/intangible.internal.md|intangible.internal]] 

@@ -42,8 +42,6 @@ A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], fr
 
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, availableLanguage, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, touristType, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/place/tourist_attraction.md|tourist_attraction]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/place/tourist_attraction.internal.md|tourist_attraction.internal]] 

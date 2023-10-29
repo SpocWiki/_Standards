@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_train_number )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_train_number.md|has_train_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_train_number.internal.md|has_train_number.internal]] 

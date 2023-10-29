@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_value_max_length )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_value_max_length.md|has_value_for_value_max_length]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_value_max_length.internal.md|has_value_for_value_max_length.internal]] 

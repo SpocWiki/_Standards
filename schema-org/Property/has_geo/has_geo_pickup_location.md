@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_pickup_location )
 ( #has_/range :: Place )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_pickup_location.md|has_geo_pickup_location]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_pickup_location.internal.md|has_geo_pickup_location.internal]] 

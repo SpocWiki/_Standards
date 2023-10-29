@@ -44,8 +44,6 @@ Indicates that the item has been discontinued.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/discontinued.md|discontinued]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/discontinued.internal.md|discontinued.internal]] 

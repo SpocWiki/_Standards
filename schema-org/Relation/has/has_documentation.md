@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_documentation )
 ( #has_/range :: CreativeWork, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_documentation.md|has_documentation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_documentation.internal.md|has_documentation.internal]] 

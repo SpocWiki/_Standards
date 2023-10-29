@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_broadcast_of_event )
 ( #has_/range :: Event )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_broadcast_of_event.md|has_broadcast_of_event]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_of_event.internal.md|has_broadcast_of_event.internal]] 

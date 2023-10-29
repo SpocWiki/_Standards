@@ -42,8 +42,6 @@ Anatomical features that can be observed by sight (without dissection), includin
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relatedAnatomy, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, significance, study, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/medical_entity/superficial_anatomy.md|superficial_anatomy]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/superficial_anatomy.internal.md|superficial_anatomy.internal]] 

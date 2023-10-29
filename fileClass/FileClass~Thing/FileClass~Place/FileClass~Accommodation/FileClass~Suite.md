@@ -12,9 +12,9 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 # Suite
 This is a kind of [[FileClass~Accommodation]]
 
-A suite in a hotel or other public accommodation, denotes a class of luxury accommodations, the key feature of which is multiple rooms (source: Wikipedia, the free encyclopedia, see &lt;a href="http://en.wikipedia.org/wiki/Suite\_(hotel)"&gt;http://en.wikipedia.org/wiki/Suite\_(hotel)&lt;/a&gt;).  
- &lt;br /&gt;&lt;br /&gt;  
- See also the &lt;a href="/docs/hotels.html"&gt;dedicated document on the use of schema.org for marking up hotels and other forms of accommodations&lt;/a&gt;.
+A suite in a hotel or other public accommodation, denotes a class of luxury accommodations, the key feature of which is multiple rooms (source: Wikipedia, the free encyclopedia, see <a href="http://en.wikipedia.org/wiki/Suite\_(hotel)">http://en.wikipedia.org/wiki/Suite\_(hotel)</a>).  
+ <br /><br />  
+ See also the <a href="/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
 
 ## Use one of these Tags for Objects of this Type:

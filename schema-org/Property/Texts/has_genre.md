@@ -46,8 +46,6 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ legislationType ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_genre.md|has_genre]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_genre.internal.md|has_genre.internal]] 

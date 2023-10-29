@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_procedure_type )
 ( #has_/range :: MedicalProcedureType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_procedure_type.md|has_procedure_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_procedure_type.internal.md|has_procedure_type.internal]] 

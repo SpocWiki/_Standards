@@ -49,8 +49,6 @@ Related actions:
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, sender, startTime, subjectOf, target, toLocation, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/receive_action.md|receive_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/transfer_action/receive_action.internal.md|receive_action.internal]] 

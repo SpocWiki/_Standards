@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_health_aspect )
 ( #has_/range :: HealthAspectEnumeration )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_health_aspect.md|has_health_aspect]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_health_aspect.internal.md|has_health_aspect.internal]] 

@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: archiveHeld]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_holding_archive.md|is_holding_archive]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_holding_archive.internal.md|is_holding_archive.internal]] 

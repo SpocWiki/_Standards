@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_running_to)
 ( #has_/range :: Vessel)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_running_to.md|is_running_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_running_to.internal.md|is_running_to.internal]] 

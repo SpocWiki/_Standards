@@ -56,8 +56,6 @@ Commonly used values:
 
 [ #has_/sub_classes :: [ PaymentCard ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/payment_method.md|payment_method]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/payment_method.internal.md|payment_method.internal]] 

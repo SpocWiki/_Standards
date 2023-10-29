@@ -44,8 +44,6 @@ A designation by the US FDA signifying that studies in animals or humans have de
 
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_x.md|fd_acategory_x]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_x.internal.md|fd_acategory_x.internal]] 

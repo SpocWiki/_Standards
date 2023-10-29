@@ -42,8 +42,6 @@ A point value or interval for product characteristics and other purposes.
 
 [ #has_/properties :: [ additionalProperty, additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/quantitative_value.md|quantitative_value]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/quantitative_value.internal.md|quantitative_value.internal]] 

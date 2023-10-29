@@ -44,8 +44,6 @@ A specific branch of medical science that is concerned with the diagnosis and tr
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.md|geriatric]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.internal.md|geriatric.internal]] 

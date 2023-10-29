@@ -46,8 +46,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: alternateName ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_additional_name.md|has_additional_name]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_additional_name.internal.md|has_additional_name.internal]] 

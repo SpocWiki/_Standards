@@ -42,8 +42,6 @@ Originally, URLs from <a href="http://purl.org/goodrelations/v1">GoodRelations</
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week.md|day_of_week]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week.internal.md|day_of_week.internal]] 

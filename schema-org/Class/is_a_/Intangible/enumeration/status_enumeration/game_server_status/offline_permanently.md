@@ -44,8 +44,6 @@ Game server status: OfflinePermanently. Server is offline and not available.
 
 [ #is_/enum_of :: [[../GameServerStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_permanently.md|offline_permanently]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_permanently.internal.md|offline_permanently.internal]] 

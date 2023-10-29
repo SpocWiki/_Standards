@@ -46,8 +46,6 @@ Represents the activation fee part of the total price for an offered product, fo
 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.md|activation_fee]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/activation_fee.internal.md|activation_fee.internal]] 

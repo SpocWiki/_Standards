@@ -44,8 +44,6 @@ A contact point&#x2014;for example, a Customer Complaints department.
 
 [ #has_/properties :: [ additionalType, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, potentialAction, productSupported, sameAs, serviceArea, subjectOf, telephone, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/contact_point.md|contact_point]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/contact_point.internal.md|contact_point.internal]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_associated_pathophysiology )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_associated_pathophysiology.md|has_associated_pathophysiology]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_associated_pathophysiology.internal.md|has_associated_pathophysiology.internal]] 

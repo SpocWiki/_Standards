@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_ordered_item )
 ( #has_/range :: OrderItem, Product, Service )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_ordered_item.md|has_ordered_item]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ordered_item.internal.md|has_ordered_item.internal]] 

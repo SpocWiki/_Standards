@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_downvotes )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_downvotes.md|has_number_of_downvotes]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_downvotes.internal.md|has_number_of_downvotes.internal]] 

@@ -16,7 +16,6 @@ Relation describes that:
 ( #has_/name :: is_sub_property_of)
 ( #has_/range :: [Quantity](../Property.md))
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/is_sub_class_of.md|is_sub_class_of]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/is_sub_class_of.internal.md|is_sub_class_of.internal]] 

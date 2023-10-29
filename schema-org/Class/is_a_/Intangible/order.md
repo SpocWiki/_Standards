@@ -43,8 +43,6 @@ An order is a confirmation of a transaction (a receipt), which can contain multi
 
 [ #has_/properties :: [ acceptedOffer, additionalType, alternateName, billingAddress, broker, confirmationNumber, customer, description, disambiguatingDescription, discount, discountCode, discountCurrency, identifier, image, isGift, mainEntityOfPage, merchant, name, orderDate, orderDelivery, orderNumber, orderStatus, orderedItem, partOfInvoice, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentUrl, potentialAction, sameAs, seller, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/order.md|order]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/order.internal.md|order.internal]] 

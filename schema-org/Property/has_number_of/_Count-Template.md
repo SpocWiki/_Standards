@@ -55,8 +55,6 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/_Count-Template.md|_Count-Template]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/_Count-Template.internal.md|_Count-Template.internal]] 

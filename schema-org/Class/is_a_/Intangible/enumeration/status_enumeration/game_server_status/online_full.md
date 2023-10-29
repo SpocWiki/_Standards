@@ -44,8 +44,6 @@ Game server status: OnlineFull. Server is online but unavailable. The maximum nu
 
 [ #is_/enum_of :: [[../GameServerStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/online_full.md|online_full]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/online_full.internal.md|online_full.internal]] 

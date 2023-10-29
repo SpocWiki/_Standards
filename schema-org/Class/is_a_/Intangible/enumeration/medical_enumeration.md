@@ -42,8 +42,6 @@ Enumerations related to health and the practice of medicine: A concept that is u
 
 [ #has_/sub_classes :: [ DrugCostCategory, DrugPregnancyCategory, DrugPrescriptionStatus, InfectiousAgentClass, MedicalAudienceType, MedicalDevicePurpose, MedicalEvidenceLevel, MedicalImagingTechnique, MedicalObservationalStudyDesign, MedicalProcedureType, MedicalSpecialty, MedicalStudyStatus, MedicalTrialDesign, MedicineSystem, PhysicalExam ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration.md|medical_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration.internal.md|medical_enumeration.internal]] 

@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_drive_through_service )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_drive_through_service.md|is_drive_through_service]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_drive_through_service.internal.md|is_drive_through_service.internal]] 

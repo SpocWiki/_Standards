@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of Order.
 
-
-
 Use it like this: 
 - [has_time_of_order::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/of_order::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::Order]
 (name::has_time_of_order)
 (range::Date, DateTime)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_order.md|has_time_of_order]] 

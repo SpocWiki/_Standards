@@ -44,8 +44,6 @@ A US-style health insurance plan, including PPOs, EPOs, and HMOs.
 
 [ #has_/properties :: [ additionalType, alternateName, benefitsSummaryUrl, contactPoint, description, disambiguatingDescription, healthPlanDrugOption, healthPlanDrugTier, healthPlanId, healthPlanMarketingUrl, identifier, image, includesHealthPlanFormulary, includesHealthPlanNetwork, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, usesHealthPlanIdStandard ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/health_insurance_plan.md|health_insurance_plan]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/health_insurance_plan.internal.md|health_insurance_plan.internal]] 

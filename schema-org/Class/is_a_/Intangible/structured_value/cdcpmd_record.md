@@ -46,8 +46,6 @@ A CDCPMDRecord is a data structure representing a record in a CDC tabular data f
 
 [ #has_/properties :: [ additionalType, alternateName, cvdCollectionDate, cvdFacilityCounty, cvdFacilityId, cvdNumBeds, cvdNumBedsOcc, cvdNumC19Died, cvdNumC19HOPats, cvdNumC19HospPats, cvdNumC19MechVentPats, cvdNumC19OFMechVentPats, cvdNumC19OverflowPats, cvdNumICUBeds, cvdNumICUBedsOcc, cvdNumTotBeds, cvdNumVent, cvdNumVentUse, datePosted, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/cdcpmd_record.md|cdcpmd_record]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/cdcpmd_record.internal.md|cdcpmd_record.internal]] 

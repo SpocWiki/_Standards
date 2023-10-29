@@ -39,8 +39,6 @@ Pathogenic virus that causes viral infection.
 
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.md|virus]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.internal.md|virus.internal]] 

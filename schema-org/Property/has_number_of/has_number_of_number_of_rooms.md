@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_number_of_rooms )
 ( #has_/range :: Number, QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_rooms.md|has_number_of_number_of_rooms]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_rooms.internal.md|has_number_of_number_of_rooms.internal]] 

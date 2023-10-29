@@ -42,8 +42,6 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/move_action/arrive_action.md|arrive_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/move_action/arrive_action.internal.md|arrive_action.internal]] 

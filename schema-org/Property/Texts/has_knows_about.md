@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_knows_about )
 ( #has_/range :: Text, Thing, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_knows_about.md|has_knows_about]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_knows_about.internal.md|has_knows_about.internal]] 

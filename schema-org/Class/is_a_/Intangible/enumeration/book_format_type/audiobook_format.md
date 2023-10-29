@@ -44,8 +44,6 @@ Book format: Audiobook. This is an enumerated value for use with the bookFormat 
 
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.md|audiobook_format]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.internal.md|audiobook_format.internal]] 

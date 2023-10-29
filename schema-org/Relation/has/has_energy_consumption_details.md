@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_energy_consumption_details )
 ( #has_/range :: EnergyConsumptionDetails )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_energy_consumption_details.md|has_energy_consumption_details]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_energy_consumption_details.internal.md|has_energy_consumption_details.internal]] 

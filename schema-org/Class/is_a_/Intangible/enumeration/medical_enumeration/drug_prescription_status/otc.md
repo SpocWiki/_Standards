@@ -44,8 +44,6 @@ The character of a medical substance, typically a medicine, of being available o
 
 [ #is_/enum_of :: [[../DrugPrescriptionStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/otc.md|otc]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status/otc.internal.md|otc.internal]] 

@@ -46,8 +46,6 @@ Represents a sale price (usually active for a limited period) of an offered prod
 
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.md|sale_price]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.internal.md|sale_price.internal]] 

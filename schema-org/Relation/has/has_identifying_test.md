@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_identifying_test )
 ( #has_/range :: MedicalTest )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_identifying_test.md|has_identifying_test]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_identifying_test.internal.md|has_identifying_test.internal]] 

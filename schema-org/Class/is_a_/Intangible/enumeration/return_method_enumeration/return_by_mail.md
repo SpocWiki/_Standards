@@ -46,8 +46,6 @@ Specifies that product returns must be done by mail.
 
 [ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.md|return_by_mail]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.internal.md|return_by_mail.internal]] 

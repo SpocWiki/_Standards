@@ -44,8 +44,6 @@ Medical researchers.
 
 [ #is_/enum_of :: [[../MedicalAudienceType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.md|medical_researcher]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/medical_researcher.internal.md|medical_researcher.internal]] 

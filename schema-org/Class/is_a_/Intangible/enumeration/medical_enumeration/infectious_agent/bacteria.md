@@ -41,8 +41,6 @@ Pathogenic bacteria that cause bacterial infection.
 
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/bacteria.md|bacteria]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/bacteria.internal.md|bacteria.internal]] 

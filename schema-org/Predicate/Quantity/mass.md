@@ -37,13 +37,11 @@ Class of all mass-values.
 Tag Instances like this: 
 #is_a_/mass
 
-Properties that take Mass as values are of the form '[[../../Class/is_a_/data_type/number|number]] &lt;Mass unit of measure&gt;'. E.g., '7 kg'.
+Properties that take Mass as values are of the form '[[../../Class/is_a_/data_type/number|number]] <Mass unit of measure>'. E.g., '7 kg'.
 
 [ #is_/sub_class_of :[[../Quantity]]]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/quantity/mass.md|mass]] 

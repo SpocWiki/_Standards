@@ -44,8 +44,6 @@ Relation describes that:
 ( #has_/name :: is_sd_publisher )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sd_publisher.md|has_sd_publisher]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sd_publisher.internal.md|has_sd_publisher.internal]] 

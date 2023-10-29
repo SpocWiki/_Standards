@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of CreativeWork.
 
-
-
 Use it like this: 
 - [has_time_of_temporal::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/of_temporal::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -45,11 +43,6 @@ Formal Predicate:
 [domain::CreativeWork]
 (name::has_time_of_temporal)
 (range::DateTime, Text)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_temporal.md|has_time_of_temporal]] 

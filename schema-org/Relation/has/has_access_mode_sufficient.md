@@ -44,8 +44,6 @@ Relation describes that:
 ( #has_/name :: has_access_mode_sufficient )
 ( #has_/range :: [[../../Collection/item_list|Item_List]] )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_access_mode_sufficient.md|has_access_mode_sufficient]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_access_mode_sufficient.internal.md|has_access_mode_sufficient.internal]] 

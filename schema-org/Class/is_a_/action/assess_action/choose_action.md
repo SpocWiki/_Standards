@@ -44,8 +44,6 @@ The act of expressing a preference from a set of options or a large or unbounded
 
 [ #has_/properties :: [ actionOption, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/assess_action/choose_action.md|choose_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/choose_action.internal.md|choose_action.internal]] 

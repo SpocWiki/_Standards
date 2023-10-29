@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_time_of_application_start)
 (range::Date)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_application_start.md|has_time_of_application_start]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_application_start.internal.md|has_time_of_application_start.internal]] 

@@ -44,8 +44,6 @@ A Series in schema.org is a group of related items, typically but not necessaril
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/series.md|series]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/series.internal.md|series.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_eligible_customer_type )
 ( #has_/range :: BusinessEntityType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_eligible_customer_type.md|has_eligible_customer_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_eligible_customer_type.internal.md|has_eligible_customer_type.internal]] 

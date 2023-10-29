@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_acquired_from )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_acquired_from.md|is_acquired_from]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_acquired_from.internal.md|is_acquired_from.internal]] 

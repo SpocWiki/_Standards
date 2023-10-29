@@ -40,8 +40,6 @@ Level of evidence for a medical guideline. Enumerated type.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.md|medical_evidence_level]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level.internal.md|medical_evidence_level.internal]] 

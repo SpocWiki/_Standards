@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_broadcast_frequency_value )
 ( #has_/range :: Number, QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency_value.md|has_value_for_broadcast_frequency_value]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency_value.internal.md|has_value_for_broadcast_frequency_value.internal]] 

@@ -60,7 +60,7 @@ UnitCode:: {"type":"Input","options":{}}
 
 ### UnitText
 A string or text indicating the unit of measurement. Useful if you can not provide a standard unit code for  
- &lt;a href='unitCode'&gt;unitCode&lt;/a&gt;.
+ <a href='unitCode'>unitCode</a>.
 
 UnitText:: {"type":"Input","options":{}}
 

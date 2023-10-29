@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_arrival_boat_terminal )
 ( #has_/range :: BoatTerminal )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_boat_terminal.md|has_arrival_boat_terminal]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_boat_terminal.internal.md|has_arrival_boat_terminal.internal]] 

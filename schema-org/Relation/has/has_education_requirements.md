@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_education_requirements )
 ( #has_/range :: EducationalOccupationalCredential, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_education_requirements.md|has_education_requirements]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_education_requirements.internal.md|has_education_requirements.internal]] 

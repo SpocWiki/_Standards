@@ -44,8 +44,6 @@ Relation describes that:
 ( #has_/name :: has_adverse_outcome )
 ( #has_/range :: [[Medical_Entity]] )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_adverse_outcome.md|has_adverse_outcome]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_adverse_outcome.internal.md|has_adverse_outcome.internal]] 

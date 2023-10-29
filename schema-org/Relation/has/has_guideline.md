@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_guideline )
 ( #has_/range :: MedicalGuideline )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_guideline.md|has_guideline]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_guideline.internal.md|has_guideline.internal]] 

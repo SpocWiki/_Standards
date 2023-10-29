@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_advance_booking_requirement )
 ( #has_/range :: QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_advance_booking_requirement.md|has_value_for_advance_booking_requirement]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_advance_booking_requirement.internal.md|has_value_for_advance_booking_requirement.internal]] 

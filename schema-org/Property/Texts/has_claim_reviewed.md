@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_claim_reviewed )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_claim_reviewed.md|has_claim_reviewed]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_claim_reviewed.internal.md|has_claim_reviewed.internal]] 

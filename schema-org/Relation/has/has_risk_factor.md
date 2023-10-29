@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_risk_factor )
 ( #has_/range :: MedicalRiskFactor )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_risk_factor.md|has_risk_factor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_risk_factor.internal.md|has_risk_factor.internal]] 

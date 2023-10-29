@@ -47,7 +47,6 @@ JSON-Linked Data
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/JSON-LD)
 
-
 JSON-LD defines a @context: Property to map Json Properties to a specified @id, @type or a language. A context can be embedded directly in a JSON-LD document or put into a separate file and referenced
 
 ## Json-LD-Syntax
@@ -89,5 +88,4 @@ to further reduce the Size and make it compatible with naive Json-Serialization:
 ```
 
 This is actually longer, but with Lists of repeating Objects the savings are significant. 
-
 

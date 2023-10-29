@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_dependencies )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_dependencies.md|has_dependencies]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_dependencies.internal.md|has_dependencies.internal]] 

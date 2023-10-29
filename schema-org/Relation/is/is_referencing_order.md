@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_referencing_order)
 ( #has_/range :: Order)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_referencing_order.md|is_referencing_order]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_referencing_order.internal.md|is_referencing_order.internal]] 

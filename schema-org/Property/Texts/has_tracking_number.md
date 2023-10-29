@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_tracking_number )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_tracking_number.md|has_tracking_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_tracking_number.internal.md|has_tracking_number.internal]] 

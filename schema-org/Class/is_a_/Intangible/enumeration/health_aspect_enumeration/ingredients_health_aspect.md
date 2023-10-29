@@ -46,8 +46,6 @@ Content discussing ingredients-related aspects of a health topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.md|ingredients_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/ingredients_health_aspect.internal.md|ingredients_health_aspect.internal]] 

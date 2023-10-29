@@ -42,8 +42,6 @@ The act of consuming written content.
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/read_action.md|read_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/read_action.internal.md|read_action.internal]] 

@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_checkout_page_url_template )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_checkout_page_url_template.md|has_checkout_page_url_template]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_checkout_page_url_template.internal.md|has_checkout_page_url_template.internal]] 

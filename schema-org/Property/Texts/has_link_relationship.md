@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_link_relationship )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_link_relationship.md|has_link_relationship]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_link_relationship.internal.md|has_link_relationship.internal]] 

@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_transit_time_label )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_transit_time_label.md|has_transit_time_label]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_transit_time_label.internal.md|has_transit_time_label.internal]] 

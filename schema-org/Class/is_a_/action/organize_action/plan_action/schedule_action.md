@@ -48,8 +48,6 @@ Related actions:
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.md|schedule_action]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.internal.md|schedule_action.internal]] 

@@ -39,7 +39,9 @@ Use it like this:
 - [ #has_/value_for_/trailer_weight_kg :: QuantitativeValue ] or 
 - [ has_value_for_trailer_weight_kg :: QuantitativeValue ] 
 
-The permitted weight of a trailer attached to the vehicle.\n\n\n\n
+The permitted weight of a trailer attached to the vehicle.
+
+
 
 Typical unit code(s): KGM for kilogram, LBR for pound
 * Note 1: You can indicate additional information in the [[name]] of the [[QuantitativeValue]] node.
@@ -50,8 +52,6 @@ Predicate describes that:
 [ #has_/domain  :: Vehicle ]
 ( #has_/name :: has_value_for_trailer_weight_kg )
 ( #has_/range :: QuantitativeValue )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_trailer_weight_kg.md|has_value_for_trailer_weight_kg]] 

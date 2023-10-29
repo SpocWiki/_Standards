@@ -45,8 +45,6 @@ See also [[StatisticalPopulation]], and the <a href="/docs/data-and-datasets.htm
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, marginOfError, measuredProperty, measuredValue, name, observationDate, observedNode, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/observation.md|observation]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/observation.internal.md|observation.internal]] 

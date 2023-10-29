@@ -5,7 +5,6 @@
 | AM                          |                    | M       |
 |                             |                    |         |
 
-
 ## Klasse AM
 
 ![Fahrerlaubnisklasse AM](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-am.jpg?__blob=normal "Fahrerlaubnisklasse AM")
@@ -44,14 +43,12 @@
 
 auch mit Beiwagen.
 
-
 ### B: Dreirädrige Kraftfahrzeuge mit
 
 - symmetrisch angeordneten Rädern und
 - Hubraum von mehr als 50 cm³ bei Verbrennungsmotoren oder
 - bauartbedingter Höchstgeschwindigkeit von mehr als 45 km/h und
 - Leistung von bis zu 15 kW
-
 
 ## Klasse A2
 
@@ -62,7 +59,6 @@ auch mit Beiwagen.
 - Motorleistung von nicht mehr als 35 kW, die nicht von einem Kraftrad mit einer Leistung von über 70 kW abgeleitet ist und
 - Verhältnis der Leistung zum Gewicht max. 0,2 kW/kg,
 auch mit Beiwagen.
-
 
 ![Fahrerlaubnisklasse A](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-a.jpg?__blob=normal "Fahrerlaubnisklasse A")
 
@@ -159,7 +155,6 @@ auch mit Anhänger mit einer zulässigen Gesamtmasse von nicht mehr als 750 kg.
 ## Klasse CE Fußnote 1
 
 ![Fahrerlaubnisklasse CE](https://bmdv.bund.de/SharedDocs/DE/Bilder/StV/Strassenverkehr/fahrerlaubnisklasse-ce.jpg?__blob=normal "Fahrerlaubnisklasse CE")
-
 
 ### CE: Zugfahrzeug der **Klasse C** in **Kombination** mit Anhänger oder Sattelanhänger mit zulässiger Gesamtmasse von mehr als 750 kg.
 

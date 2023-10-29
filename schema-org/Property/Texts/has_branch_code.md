@@ -37,7 +37,9 @@ Use it like this:
 - [ #has_/text_about_/branch_code :: Text ] or 
 - [ has_text_about_branch_code :: Text ] 
 
-A short textual code (also called "store code") that uniquely identifies a place of business. The code is typically assigned by the parentOrganization and used in structured URLs.\n\n\n\n
+A short textual code (also called "store code") that uniquely identifies a place of business. The code is typically assigned by the parentOrganization and used in structured URLs.
+
+
 
 For example, in the URL http://www.starbucks.co.uk/store-locator/etc/detail/3047 the code "3047" is a branchCode for a particular branch.
 
@@ -45,8 +47,6 @@ Predicated describes that:
 [ #has_/domain  :: Place ]
 ( #has_/name :: has_text_about_branch_code )
 ( #has_/range :: Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_branch_code.md|has_branch_code]] 

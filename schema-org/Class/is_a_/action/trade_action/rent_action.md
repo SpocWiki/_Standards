@@ -42,8 +42,6 @@ The act of giving money in return for temporary use, but not ownership, of an ob
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, landlord, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, realEstateAgent, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/rent_action.md|rent_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/rent_action.internal.md|rent_action.internal]] 

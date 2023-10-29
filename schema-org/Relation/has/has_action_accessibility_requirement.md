@@ -42,8 +42,6 @@ Relation describes that:
 ( #has_/name :: has_action_accessibility_requirement )
 ( #has_/range :: ActionAccessSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.md|has_action_accessibility_requirement]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.internal.md|has_action_accessibility_requirement.internal]] 

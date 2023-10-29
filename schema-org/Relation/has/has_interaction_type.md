@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_interaction_type )
 ( #has_/range :: Action )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_interaction_type.md|has_interaction_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_interaction_type.internal.md|has_interaction_type.internal]] 

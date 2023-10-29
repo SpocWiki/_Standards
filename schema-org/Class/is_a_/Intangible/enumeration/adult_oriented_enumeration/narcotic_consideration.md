@@ -46,8 +46,6 @@ Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narco
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.md|narcotic_consideration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.internal.md|narcotic_consideration.internal]] 

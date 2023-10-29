@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_map_type )
 ( #has_/range :: MapCategoryType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_map_type.md|has_map_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_map_type.internal.md|has_map_type.internal]] 

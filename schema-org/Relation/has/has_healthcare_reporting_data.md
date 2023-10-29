@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_healthcare_reporting_data )
 ( #has_/range :: CDCPMDRecord, Dataset )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_healthcare_reporting_data.md|has_healthcare_reporting_data]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_healthcare_reporting_data.internal.md|has_healthcare_reporting_data.internal]] 

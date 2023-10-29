@@ -42,8 +42,6 @@ A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) 
 
 [ #has_/properties :: [ additionalType, alternateName, cssSelector, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, xpath ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/speakable_specification.md|speakable_specification]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/speakable_specification.internal.md|speakable_specification.internal]] 

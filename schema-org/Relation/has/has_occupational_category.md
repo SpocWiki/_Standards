@@ -36,7 +36,9 @@ Use it like this:
 - [ #has_/occupational_category :: CategoryCode, Text ] or 
 - [ has_occupational_category :: CategoryCode, Text ] 
 
-A category describing the job, preferably using a term from a taxonomy such as [BLS O*NET-SOC](http://www.onetcenter.org/taxonomy.html), [ISCO-08](https://www.ilo.org/public/english/bureau/stat/isco/isco08/) or similar, with the property repeated for each applicable value. Ideally the taxonomy should be identified, and both the textual label and formal code for the category should be provided.\n\n\n\n
+A category describing the job, preferably using a term from a taxonomy such as [BLS O*NET-SOC](http://www.onetcenter.org/taxonomy.html), [ISCO-08](https://www.ilo.org/public/english/bureau/stat/isco/isco08/) or similar, with the property repeated for each applicable value. Ideally the taxonomy should be identified, and both the textual label and formal code for the category should be provided.
+
+
 
 Note: for historical reasons, any textual label and formal code provided as a literal may be assumed to be from O*NET-SOC.
 
@@ -44,8 +46,6 @@ Relation describes that:
 [ #has_/domain  :: EducationalOccupationalProgram, JobPosting, Occupation, WorkBasedProgram ]
 ( #has_/name :: has_occupational_category )
 ( #has_/range :: CategoryCode, Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_occupational_category.md|has_occupational_category]] 

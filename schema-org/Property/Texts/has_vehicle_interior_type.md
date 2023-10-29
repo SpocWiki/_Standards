@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_vehicle_interior_type )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_vehicle_interior_type.md|has_vehicle_interior_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_vehicle_interior_type.internal.md|has_vehicle_interior_type.internal]] 

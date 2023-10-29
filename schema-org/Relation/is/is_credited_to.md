@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_credited_to )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_credited_to.md|is_credited_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_credited_to.internal.md|is_credited_to.internal]] 

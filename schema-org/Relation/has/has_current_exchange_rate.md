@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_current_exchange_rate )
 ( #has_/range :: UnitPriceSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_current_exchange_rate.md|has_current_exchange_rate]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_current_exchange_rate.internal.md|has_current_exchange_rate.internal]] 

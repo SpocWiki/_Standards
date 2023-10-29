@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_closing_at )
 ( #has_/range :: Time )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_closing_at.md|is_closing_at]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_closing_at.internal.md|is_closing_at.internal]] 

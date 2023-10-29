@@ -42,8 +42,6 @@ A subscription which allows a user to access media including audio, video, books
 
 [ #has_/properties :: [ additionalType, alternateName, authenticator, description, disambiguatingDescription, expectsAcceptanceOf, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/media_subscription.md|media_subscription]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/media_subscription.internal.md|media_subscription.internal]] 

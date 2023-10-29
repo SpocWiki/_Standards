@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_step_value )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_step_value.md|has_value_for_step_value]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_step_value.internal.md|has_value_for_step_value.internal]] 

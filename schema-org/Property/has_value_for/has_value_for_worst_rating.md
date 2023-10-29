@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_worst_rating )
 ( #has_/range :: Number, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_worst_rating.md|has_value_for_worst_rating]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_worst_rating.internal.md|has_value_for_worst_rating.internal]] 

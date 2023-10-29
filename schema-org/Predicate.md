@@ -75,7 +75,6 @@ you can promote consistent Naming.
 
 Derived from [Schema.org](https://schema.org/docs/developers.html) 
 
-
 ## Confidential Links & Embeds: 
 - [[../../_public/schema.org/Predicate.md|Predicate]] 
 - [[../../_internal/schema.org/Predicate.internal.md|Predicate.internal]] 

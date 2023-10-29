@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_inker )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_inker.md|has_inker]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_inker.internal.md|has_inker.internal]] 

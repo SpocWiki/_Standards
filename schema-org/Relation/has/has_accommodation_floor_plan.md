@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_accommodation_floor_plan )
 ( #has_/range :: FloorPlan )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.md|has_accommodation_floor_plan]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.internal.md|has_accommodation_floor_plan.internal]] 

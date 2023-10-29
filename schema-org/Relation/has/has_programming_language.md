@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_programming_language )
 ( #has_/range :: ComputerLanguage, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_programming_language.md|has_programming_language]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_programming_language.internal.md|has_programming_language.internal]] 

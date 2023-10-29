@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_floor_size_m2 )
 ( #has_/range :: QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.md|has_value_for_floor_size_m2]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_floor_size_m2.internal.md|has_value_for_floor_size_m2.internal]] 

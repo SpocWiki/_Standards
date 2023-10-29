@@ -69,8 +69,6 @@ Alternatively use the RDFa-Lite:
 
 ```
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/language.md|language]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/language.internal.md|language.internal]] 

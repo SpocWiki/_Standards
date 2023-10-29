@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_item_condition )
 ( #has_/range :: OfferItemCondition )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_item_condition.md|has_item_condition]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_condition.internal.md|has_item_condition.internal]] 

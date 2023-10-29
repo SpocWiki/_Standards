@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_url_for_related_link )
 ( #has_/range :: URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Urls/has_url_for_related_link.md|has_url_for_related_link]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_related_link.internal.md|has_url_for_related_link.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: competitor ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_away_team.md|has_away_team]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_away_team.internal.md|has_away_team.internal]] 

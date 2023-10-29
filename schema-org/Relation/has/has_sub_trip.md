@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: partOfTrip ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sub_trip.md|has_sub_trip]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_trip.internal.md|has_sub_trip.internal]] 

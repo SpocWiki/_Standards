@@ -44,8 +44,6 @@ Enumerates energy efficiency levels (also known as "classes" or "ratings") and c
 
 [ #has_/sub_classes :: [ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.md|energy_efficiency_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.internal.md|energy_efficiency_enumeration.internal]] 

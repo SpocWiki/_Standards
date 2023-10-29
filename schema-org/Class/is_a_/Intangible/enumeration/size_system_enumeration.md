@@ -44,8 +44,6 @@ Enumerates common size systems for different categories of products, for example
 
 [ #has_/sub_classes :: [ WearableSizeSystemEnumeration ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration.md|size_system_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration.internal.md|size_system_enumeration.internal]] 

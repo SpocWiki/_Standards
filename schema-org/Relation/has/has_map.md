@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_map )
 ( #has_/range :: Map, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_map.md|has_map]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_map.internal.md|has_map.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_including_attraction)
 ( #has_/range :: TouristAttraction)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_including_attraction.md|is_including_attraction]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_attraction.internal.md|is_including_attraction.internal]] 

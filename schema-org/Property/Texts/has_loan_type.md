@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_loan_type )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_loan_type.md|has_loan_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_loan_type.internal.md|has_loan_type.internal]] 

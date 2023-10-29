@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_opening_at )
 ( #has_/range :: Time )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_opening_at.md|is_opening_at]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_opening_at.internal.md|is_opening_at.internal]] 

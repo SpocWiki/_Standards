@@ -44,8 +44,6 @@ A description of costs to the patient under a given network or formulary.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCoinsuranceOption, healthPlanCoinsuranceRate, healthPlanCopay, healthPlanCopayOption, healthPlanPharmacyCategory, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/health_plan_cost_sharing_specification.md|health_plan_cost_sharing_specification]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/health_plan_cost_sharing_specification.internal.md|health_plan_cost_sharing_specification.internal]] 

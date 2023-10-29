@@ -56,8 +56,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/_Date_Time-Template.md|_Date_Time-Template]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/_Date_Time-Template.internal.md|_Date_Time-Template.internal]] 

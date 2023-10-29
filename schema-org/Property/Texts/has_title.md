@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_title )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_title.md|has_title]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_title.internal.md|has_title.internal]] 

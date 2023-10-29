@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_departure_bus_stop )
 ( #has_/range :: BusStation, BusStop )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_departure_bus_stop.md|has_departure_bus_stop]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_bus_stop.internal.md|has_departure_bus_stop.internal]] 

@@ -40,8 +40,6 @@ Categories of physical activity, organized by physiologic classification.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category.md|physical_activity_category]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category.internal.md|physical_activity_category.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_media_item_appearance )
 ( #has_/range :: MediaObject )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_media_item_appearance.md|has_media_item_appearance]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_media_item_appearance.internal.md|has_media_item_appearance.internal]] 

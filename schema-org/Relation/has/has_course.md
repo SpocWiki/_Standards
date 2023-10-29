@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_course )
 ( #has_/range :: Course )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_course.md|has_course]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course.internal.md|has_course.internal]] 

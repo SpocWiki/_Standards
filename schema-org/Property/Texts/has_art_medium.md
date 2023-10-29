@@ -46,8 +46,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: material ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_art_medium.md|has_art_medium]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_art_medium.internal.md|has_art_medium.internal]] 

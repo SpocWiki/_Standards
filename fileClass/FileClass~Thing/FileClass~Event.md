@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Thing]]
 
 An event happening at a certain time and location, such as a concert, lecture, or festival. Ticketing information may be added via the [[offers]] property. Repeated events may be structured as separate Event objects.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_an_/Event
@@ -218,5 +217,4 @@ WorkFeatured:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 A work performed in some event, for example a play performed in a TheaterEvent.
 
 WorkPerformed:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
-
 

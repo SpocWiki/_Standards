@@ -42,8 +42,6 @@ A set of characteristics describing parents, who can be interested in viewing so
 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, childMaxAge, childMinAge, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/audience/people_audience/parent_audience.md|parent_audience]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/people_audience/parent_audience.internal.md|parent_audience.internal]] 

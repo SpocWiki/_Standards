@@ -42,8 +42,6 @@ This type covers computer programming languages such as Scheme and Lisp, as well
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/computer_language.md|computer_language]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/computer_language.internal.md|computer_language.internal]] 

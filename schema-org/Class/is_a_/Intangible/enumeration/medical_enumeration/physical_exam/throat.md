@@ -44,8 +44,6 @@ Throat assessment with  clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/throat.md|throat]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/throat.internal.md|throat.internal]] 

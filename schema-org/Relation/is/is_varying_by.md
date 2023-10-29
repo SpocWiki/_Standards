@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_varying_by)
 ( #has_/range :: DefinedTerm, Text)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_varying_by.md|is_varying_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_varying_by.internal.md|is_varying_by.internal]] 

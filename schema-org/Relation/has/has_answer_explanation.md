@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_answer_explanation )
 ( #has_/range :: Comment, WebContent )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_answer_explanation.md|has_answer_explanation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_answer_explanation.internal.md|has_answer_explanation.internal]] 

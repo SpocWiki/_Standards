@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_measured_property )
 ( #has_/range :: Property )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_measured_property.md|has_measured_property]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_measured_property.internal.md|has_measured_property.internal]] 

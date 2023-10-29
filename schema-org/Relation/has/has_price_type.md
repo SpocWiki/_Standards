@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_price_type )
 ( #has_/range :: PriceTypeEnumeration, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_price_type.md|has_price_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_price_type.internal.md|has_price_type.internal]] 

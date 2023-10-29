@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_time_of_day )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_time_of_day.md|has_time_of_day]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_time_of_day.internal.md|has_time_of_day.internal]] 

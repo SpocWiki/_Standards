@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_in_language)
 ( #has_/range :: Language, Text)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_in_language.md|is_in_language]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_language.internal.md|is_in_language.internal]] 

@@ -44,8 +44,6 @@ A payment method using a credit, debit, store or other card to associate the pay
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, cashBack, category, contactlessPayment, description, disambiguatingDescription, feesAndCommissionsSpecification, floorLimit, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, monthlyMinimumRepaymentAmount, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/payment_card.md|payment_card]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/payment_card.internal.md|payment_card.internal]] 

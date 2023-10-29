@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of DataFeedItem.
 
-
-
 Use it like this: 
 - [has_time_deleted::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/deleted::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::DataFeedItem]
 (name::has_time_deleted)
 (range::Date, DateTime)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_deleted.md|has_time_deleted]] 

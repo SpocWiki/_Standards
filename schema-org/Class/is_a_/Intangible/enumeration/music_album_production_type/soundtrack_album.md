@@ -44,8 +44,6 @@ SoundtrackAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/soundtrack_album.md|soundtrack_album]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/soundtrack_album.internal.md|soundtrack_album.internal]] 

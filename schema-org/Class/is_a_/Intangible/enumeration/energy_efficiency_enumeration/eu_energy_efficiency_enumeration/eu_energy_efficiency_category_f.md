@@ -46,8 +46,6 @@ Represents EU Energy Efficiency Class F as defined in EU energy labeling regulat
 
 [ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_f.md|eu_energy_efficiency_category_f]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_f.internal.md|eu_energy_efficiency_category_f.internal]] 

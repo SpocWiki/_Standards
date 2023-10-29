@@ -42,8 +42,6 @@ A type of blood vessel that specifically carries lymph fluid unidirectionally to
 
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, originatesFrom, partOfSystem, potentialAction, recognizingAuthority, regionDrained, relatedCondition, relatedTherapy, relevantSpecialty, runsTo, sameAs, study, subStructure, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.md|lymphatic_vessel]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.internal.md|lymphatic_vessel.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: location ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_work_location.md|has_work_location]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_location.internal.md|has_work_location.internal]] 

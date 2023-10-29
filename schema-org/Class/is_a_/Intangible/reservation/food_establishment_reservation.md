@@ -44,8 +44,6 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, endTime, identifier, image, mainEntityOfPage, modifiedTime, name, partySize, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, startTime, subjectOf, totalPrice, underName, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/reservation/food_establishment_reservation.md|food_establishment_reservation]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/reservation/food_establishment_reservation.internal.md|food_establishment_reservation.internal]] 

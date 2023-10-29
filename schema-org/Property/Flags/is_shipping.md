@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_shipping )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_shipping.md|is_shipping]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_shipping.internal.md|is_shipping.internal]] 

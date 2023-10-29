@@ -46,8 +46,6 @@ Nonprofit501n: Non-profit type referring to Charitable Risk Pools.
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.md|nonprofit501n]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501n.internal.md|nonprofit501n.internal]] 

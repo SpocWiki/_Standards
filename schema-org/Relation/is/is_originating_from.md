@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_originating_from)
 ( #has_/range :: Vessel)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_originating_from.md|is_originating_from]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_originating_from.internal.md|is_originating_from.internal]] 

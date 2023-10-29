@@ -39,8 +39,6 @@ Relation describes that:
 ( #has_/name :: has_spouse )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_spouse.md|has_spouse]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_spouse.internal.md|has_spouse.internal]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_additional_variable )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_additional_variable.md|has_additional_variable]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_additional_variable.internal.md|has_additional_variable.internal]] 

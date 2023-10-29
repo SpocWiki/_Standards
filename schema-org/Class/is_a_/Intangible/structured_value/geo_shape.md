@@ -44,8 +44,6 @@ The geographic shape of a place. A GeoShape can be described using several prope
 
 [ #has_/properties :: [ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/geo_shape.md|geo_shape]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/geo_shape.internal.md|geo_shape.internal]] 

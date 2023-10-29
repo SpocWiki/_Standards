@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_suggested_gender )
 ( #has_/range :: GenderType, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_suggested_gender.md|has_suggested_gender]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_suggested_gender.internal.md|has_suggested_gender.internal]] 

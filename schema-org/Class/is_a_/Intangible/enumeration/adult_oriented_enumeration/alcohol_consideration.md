@@ -46,8 +46,6 @@ Item contains alcohol or promotes alcohol consumption.
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.md|alcohol_consideration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/alcohol_consideration.internal.md|alcohol_consideration.internal]] 

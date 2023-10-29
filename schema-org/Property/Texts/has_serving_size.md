@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_serving_size )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_serving_size.md|has_serving_size]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_serving_size.internal.md|has_serving_size.internal]] 

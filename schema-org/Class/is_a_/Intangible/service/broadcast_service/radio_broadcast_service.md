@@ -44,8 +44,6 @@ A delivery service through which radio content is provided via broadcast over th
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.md|radio_broadcast_service]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.internal.md|radio_broadcast_service.internal]] 

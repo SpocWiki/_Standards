@@ -33,20 +33,17 @@ aliases:
 - has_text_about_executable_library_name
 ---
 
-Predicate to describe the Text of APIReference.
+Library file name, e.g., mscorlib.dll, system.web.dll. 
+Predicate to describe the Text of [[../../Class/is_a_/creative_work/article/tech_article/api_reference|APIReference]].
 
 Use it like this: 
 - [ #has_/text_about_/executable_library_name :: Text ] or 
 - [ has_text_about_executable_library_name :: Text ] 
 
-Library file name, e.g., mscorlib.dll, system.web.dll.
-
 Predicated describes that: 
 [ #has_/domain  :: APIReference ]
 ( #has_/name :: has_text_about_executable_library_name )
 ( #has_/range :: Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_executable_library_name.md|has_executable_library_name]] 

@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_educational_program_mode )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_educational_program_mode.md|has_educational_program_mode]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_educational_program_mode.internal.md|has_educational_program_mode.internal]] 

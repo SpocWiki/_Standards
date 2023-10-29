@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of WebPage.
 
-
-
 Use it like this: 
 - [has_time_of_last_review::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/of_last_review::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::WebPage]
 (name::has_time_of_last_review)
 (range::Date)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_last_review.md|has_time_of_last_review]] 

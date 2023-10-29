@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_government_benefits_info )
 ( #has_/range :: GovernmentService )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_government_benefits_info.md|has_government_benefits_info]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_government_benefits_info.internal.md|has_government_benefits_info.internal]] 

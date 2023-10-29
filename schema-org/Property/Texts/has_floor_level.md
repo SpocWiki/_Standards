@@ -47,8 +47,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_floor_level )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_floor_level.md|has_floor_level]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_floor_level.internal.md|has_floor_level.internal]] 

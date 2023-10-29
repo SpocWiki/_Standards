@@ -46,8 +46,6 @@ Nonprofit501d: Non-profit type referring to Religious and Apostolic Associations
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.md|nonprofit501d]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501d.internal.md|nonprofit501d.internal]] 

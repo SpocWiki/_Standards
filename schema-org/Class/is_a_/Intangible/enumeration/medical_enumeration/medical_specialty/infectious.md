@@ -44,8 +44,6 @@ Something in medical science that pertains to infectious diseases, i.e. caused b
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/infectious.md|infectious]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/infectious.internal.md|infectious.internal]] 

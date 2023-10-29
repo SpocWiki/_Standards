@@ -56,8 +56,6 @@ No evidence the audio has been misleadingly altered or manipulated, though it ma
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.md|original_media_content]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/original_media_content.internal.md|original_media_content.internal]] 

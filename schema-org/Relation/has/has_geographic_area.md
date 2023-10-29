@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_geographic_area )
 ( #has_/range :: AdministrativeArea )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_geographic_area.md|has_geographic_area]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_geographic_area.internal.md|has_geographic_area.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_insertion )
 ( #has_/range :: AnatomicalStructure )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_insertion.md|has_insertion]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_insertion.internal.md|has_insertion.internal]] 

@@ -44,8 +44,6 @@ A condition or factor that indicates use of a medical therapy, including signs, 
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_indication.md|medical_indication]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_indication.internal.md|medical_indication.internal]] 

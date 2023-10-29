@@ -46,8 +46,6 @@ Size group "Petite" for wearables.
 
 [ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_petite.md|wearable_size_group_petite]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_petite.internal.md|wearable_size_group_petite.internal]] 

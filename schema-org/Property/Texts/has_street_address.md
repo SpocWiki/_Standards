@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_street_address )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_street_address.md|has_street_address]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_street_address.internal.md|has_street_address.internal]] 

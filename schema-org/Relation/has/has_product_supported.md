@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_product_supported )
 ( #has_/range :: Product, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_product_supported.md|has_product_supported]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_product_supported.internal.md|has_product_supported.internal]] 

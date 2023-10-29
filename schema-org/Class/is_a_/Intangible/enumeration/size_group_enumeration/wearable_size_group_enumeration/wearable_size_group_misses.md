@@ -46,8 +46,6 @@ Size group "Misses" (also known as "Missy") for wearables.
 
 [ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.md|wearable_size_group_misses]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.internal.md|wearable_size_group_misses.internal]] 

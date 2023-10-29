@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_publication_type )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_publication_type.md|has_publication_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_publication_type.internal.md|has_publication_type.internal]] 

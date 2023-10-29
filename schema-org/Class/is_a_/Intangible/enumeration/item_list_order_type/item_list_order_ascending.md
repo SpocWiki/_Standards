@@ -44,8 +44,6 @@ An ItemList ordered with lower values listed first.
 
 [ #is_/enum_of :: [[../ItemListOrderType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.md|item_list_order_ascending]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_ascending.internal.md|item_list_order_ascending.internal]] 

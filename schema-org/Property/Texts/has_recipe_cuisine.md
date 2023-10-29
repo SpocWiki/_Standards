@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_recipe_cuisine )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_recipe_cuisine.md|has_recipe_cuisine]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_recipe_cuisine.internal.md|has_recipe_cuisine.internal]] 

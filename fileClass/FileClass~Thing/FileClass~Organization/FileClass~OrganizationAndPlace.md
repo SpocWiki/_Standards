@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Place]]
 
 See Organization, Place for more information.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_an_/OrganizationAndPlace
@@ -22,8 +21,6 @@ See Organization, Place for more information.
 #class/Thing/Organization/OrganizationAndPlace
 
 ## Properties:
-
-
 
 ## Properties of [[FileClass~Organization]]
 ### ActionableFeedbackPolicy

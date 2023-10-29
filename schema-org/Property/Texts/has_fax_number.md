@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_fax_number )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_fax_number.md|has_fax_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_fax_number.internal.md|has_fax_number.internal]] 

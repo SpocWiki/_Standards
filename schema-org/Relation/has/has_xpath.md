@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_xpath )
 ( #has_/range :: XPathType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_xpath.md|has_xpath]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_xpath.internal.md|has_xpath.internal]] 

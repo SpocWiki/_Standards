@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_programming_model )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_programming_model.md|has_programming_model]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_programming_model.internal.md|has_programming_model.internal]] 

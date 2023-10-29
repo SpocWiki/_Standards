@@ -44,8 +44,6 @@ The airline boards by groups based on check-in time, priority, etc.
 
 [ #is_/enum_of :: [[../BoardingPolicyType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.md|group_boarding_policy]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.internal.md|group_boarding_policy.internal]] 

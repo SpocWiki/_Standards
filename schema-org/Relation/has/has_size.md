@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_size )
 ( #has_/range :: DefinedTerm, QuantitativeValue, SizeSpecification, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_size.md|has_size]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_size.internal.md|has_size.internal]] 

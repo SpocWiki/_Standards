@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_job_immediate_start )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_job_immediate_start.md|is_job_immediate_start]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_job_immediate_start.internal.md|is_job_immediate_start.internal]] 

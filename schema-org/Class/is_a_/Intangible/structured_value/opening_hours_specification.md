@@ -46,8 +46,6 @@ If the value for the [[closes]] property is less than the value for the [[opens]
 
 [ #has_/properties :: [ additionalType, alternateName, closes, dayOfWeek, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, opens, potentialAction, sameAs, subjectOf, url, validFrom, validThrough ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.md|opening_hours_specification]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/opening_hours_specification.internal.md|opening_hours_specification.internal]] 

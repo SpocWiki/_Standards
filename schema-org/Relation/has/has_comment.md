@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_comment )
 ( #has_/range :: Comment )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_comment.md|has_comment]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_comment.internal.md|has_comment.internal]] 

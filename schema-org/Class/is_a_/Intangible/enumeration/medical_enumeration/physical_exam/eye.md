@@ -44,8 +44,6 @@ Eye or ophthalmological function assessment with clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/eye.md|eye]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/eye.internal.md|eye.internal]] 

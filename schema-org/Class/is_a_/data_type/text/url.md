@@ -36,8 +36,6 @@ Data type: URL.
 
 [ #is_/sub_class_of :: [[../Text]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/data_type/text/url.md|url]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/url.internal.md|url.internal]] 

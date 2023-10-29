@@ -42,8 +42,6 @@ Relation describes that:
 ( #has_/name :: is_cited_in )
 ( #has_/range :: CreativeWork, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_cited_in.md|is_cited_in]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_cited_in.internal.md|is_cited_in.internal]] 

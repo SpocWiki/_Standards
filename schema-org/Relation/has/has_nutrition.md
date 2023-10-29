@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_nutrition )
 ( #has_/range :: NutritionInformation )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_nutrition.md|has_nutrition]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nutrition.internal.md|has_nutrition.internal]] 

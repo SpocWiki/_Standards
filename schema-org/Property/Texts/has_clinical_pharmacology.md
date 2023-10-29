@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_clinical_pharmacology )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_clinical_pharmacology.md|has_clinical_pharmacology]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_clinical_pharmacology.internal.md|has_clinical_pharmacology.internal]] 

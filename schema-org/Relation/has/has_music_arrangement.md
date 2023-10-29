@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_music_arrangement )
 ( #has_/range :: MusicComposition )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_music_arrangement.md|has_music_arrangement]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_music_arrangement.internal.md|has_music_arrangement.internal]] 

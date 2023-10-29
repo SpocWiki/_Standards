@@ -44,8 +44,6 @@ The act of participating in an exchange of goods and services for monetary compe
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/action/trade_action.md|trade_action]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/action/trade_action.internal.md|trade_action.internal]] 

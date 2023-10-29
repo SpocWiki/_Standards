@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_gender )
 ( #has_/range :: GenderType, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_gender.md|has_gender]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_gender.internal.md|has_gender.internal]] 

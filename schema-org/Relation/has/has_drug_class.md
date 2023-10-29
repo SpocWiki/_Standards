@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_drug_class )
 ( #has_/range :: DrugClass )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_drug_class.md|has_drug_class]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_drug_class.internal.md|has_drug_class.internal]] 

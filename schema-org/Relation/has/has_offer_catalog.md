@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_offer_catalog )
 ( #has_/range :: OfferCatalog )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_offer_catalog.md|has_offer_catalog]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_offer_catalog.internal.md|has_offer_catalog.internal]] 

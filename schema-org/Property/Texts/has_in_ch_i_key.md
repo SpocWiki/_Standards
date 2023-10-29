@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: hasRepresentation ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_in_ch_i_key.md|has_in_ch_i_key]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_in_ch_i_key.internal.md|has_in_ch_i_key.internal]] 
