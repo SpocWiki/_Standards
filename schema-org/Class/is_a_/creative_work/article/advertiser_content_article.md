@@ -38,7 +38,8 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-An [[Article]] that an external entity has paid to place or to produce to its specifications. Includes <a href="https://en.wikipedia.org/wiki/Advertorial">advertorials</a>, sponsored content, native advertising and other paid content.
+An [[Article]] that an external entity has paid to place or to produce to its specifications. 
+Includes <a href="https://en.wikipedia.org/wiki/Advertorial">advertorials</a>, sponsored content, native advertising and other paid content.
 
 [ #is_/sub_class_of :: [[../Article]] ]
 

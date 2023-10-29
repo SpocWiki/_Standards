@@ -28,15 +28,17 @@ aliases:
 - is_owning
 ---
 
-Use it like this: 
-- [ #is_/owning :: OwnershipInfo, Product ] or 
-- [ is_owning :: OwnershipInfo, Product ] 
+# [[has_own]] 
 
 Products owned by the organization or person.
 
+Use it like this: 
+- [ #has_/own :: OwnershipInfo, Product ] or 
+- [ has_own :: OwnershipInfo, Product ] 
+
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_owning )
+( #has_/name :: [[has_own]] )
 ( #has_/range :: OwnershipInfo, Product )
 
 ## Confidential Links & Embeds: 

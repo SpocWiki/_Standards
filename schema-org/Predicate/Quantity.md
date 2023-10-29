@@ -37,7 +37,9 @@ Class of all Quantities, i.e. measurable Values.
 
 Quantities such as distance, time, mass, weight, etc. 
 Particular instances of say Mass are entities like '3 kg' or '4 milligrams'. 
-Quantities must have a [[../../Unit|Unit]] (and often also an Origin/Reference-Point), to be able to compare and operate on them. 
+Quantities must have a [[../../Unit|Unit]] 
+(and often also an Origin/Reference-Point), 
+to be able to compare and operate on them. 
 
 [ #is_/sub_class_of :: [[../Class/is_a_/Intangible]] ]
 

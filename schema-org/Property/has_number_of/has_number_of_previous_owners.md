@@ -31,17 +31,16 @@ aliases:
 - has_number_of_number_of_previous_owners
 ---
 
-Predicate to describe the Number of Vehicle.
+# [[has_number_of_previous_owners]] 
+Predicate to describe the Number of owners of the vehicle, 
+including the current one.
 
 Use it like this: 
 - [ #has_/number_of_/number_of_previous_owners :: Number, QuantitativeValue ] or 
 - [ has_number_of_number_of_previous_owners :: Number, QuantitativeValue ] 
 
-The number of owners of the vehicle, including the current one.
 
-
-
-Typical unit code(s): C62
+Typical unit code(s): #gs1_/C62  
 
 Predicate describes that: 
 [ #has_/domain  :: Vehicle ]

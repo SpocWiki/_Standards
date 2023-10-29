@@ -3,42 +3,41 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_seeks
-
 linkTitle: has_seeks
-keywords: [seeks]
+keywords:
+  - seeks
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- seeks
-- seeks
-- seeks
-- has_seeks
+  - seeks
+  - seeks
+  - seeks
+  - has_seeks
+  - has_demand_for
 ---
 
-Use it like this: 
-- [ #has_/seeks :: Demand ] or 
-- [ has_seeks :: Demand ] 
+# [[has_demand_for]]
 
 A pointer to products or services sought by the organization or person (demand).
 
+Use it like this: 
+- [ #has_/demand_for :: Demand ] or 
+- [ has_demand_for :: Demand ] 
+
 Relation describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: is_seeks )
+( #has_/name :: [[has_demand_for]] )
 ( #has_/range :: Demand )
 
 ## Confidential Links & Embeds: 

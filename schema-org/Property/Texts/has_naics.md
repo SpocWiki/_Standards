@@ -31,13 +31,11 @@ aliases:
 - has_text_about_naics
 ---
 
-Predicate to describe the Text of Organization, Person.
+Predicate with the North American Industry Classification System (NAICS) code for a particular organization or business person.
 
 Use it like this: 
 - [ #has_/text_about_/naics :: Text ] or 
 - [ has_text_about_naics :: Text ] 
-
-The North American Industry Classification System (NAICS) code for a particular organization or business person.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]

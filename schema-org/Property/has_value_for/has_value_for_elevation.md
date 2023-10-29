@@ -31,13 +31,16 @@ aliases:
 - has_value_for_elevation
 ---
 
-Predicate to describe the Quantity of GeoCoordinates, GeoShape.
+Elevation in [[Unit~meters]] of GeoCoordinate or GeoShape.
 
 Use it like this: 
 - [ #has_/value_for_/elevation :: Number, Text ] or 
 - [ has_value_for_elevation :: Number, Text ] 
 
-The elevation of a location (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84]]). Values may be of the form 'NUMBER UNIT_OF_MEASUREMENT' (e.g., '1,000 m', '3,200 ft') while numbers alone should be assumed to be a value in meters.
+The elevation of a location (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>). 
+
+Values may be of the form 'NUMBER UNIT_OF_MEASUREMENT' (e.g., '1,000 m', '3,200 ft') 
+while numbers alone should be assumed to be a value in meters.
 
 Predicate describes that: 
 [ #has_/domain  :: GeoCoordinates, GeoShape ]

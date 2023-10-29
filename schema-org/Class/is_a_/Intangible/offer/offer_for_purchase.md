@@ -38,9 +38,11 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-An [[OfferForPurchase]] in Schema.org represents an [[Offer]] to sell something, i.e. an [[Offer]] whose
-  [[businessFunction]] is <a href="http://purl.org/goodrelations/v1#Sell.">sell</a>. See <a href="https://en.wikipedia.org/wiki/GoodRelations">Good Relations</a> for
-  background on the underlying concepts.
+An [[OfferForPurchase]] in Schema.org represents an [[Offer]] to sell something, 
+i.e. an [[Offer]] whose [[businessFunction]] is <a href="http://purl.org/goodrelations/v1#Sell.">sell</a>. 
+
+See the <a href="https://en.wikipedia.org/wiki/GoodRelations">Good Relations Ontology</a> 
+for background on the underlying concepts.
 
 [ #is_/sub_class_of :: [[../Offer]] ]
 

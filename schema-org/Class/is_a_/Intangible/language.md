@@ -32,7 +32,9 @@ aliases:
 ---
 
 Class of all **natural** languages such as Spanish, Tamil, Hindi, English, etc. 
-Formal language code tags expressed in <a href="https://en.wikipedia.org/wiki/IETF_language_tag">BCP 47</a> can be used via the [[alternateName]] property. 
+
+Formal language code tags expressed in <a href="https://en.wikipedia.org/wiki/IETF_language_tag">BCP 47</a> 
+can be used via the [[alternateName]] property. 
 
 Tag Instances like this: 
 #is_a_/language

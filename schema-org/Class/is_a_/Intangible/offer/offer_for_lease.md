@@ -38,9 +38,11 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-An [[OfferForLease]] in Schema.org represents an [[Offer]] to lease out something, i.e. an [[Offer]] whose
-  [[businessFunction]] is <a href="http://purl.org/goodrelations/v1#LeaseOut.">lease out</a>. See <a href="https://en.wikipedia.org/wiki/GoodRelations">Good Relations</a> for
-  background on the underlying concepts.
+An [[OfferForLease]] in Schema.org represents an [[Offer]] to lease out something, 
+i.e. an [[Offer]] whose [[businessFunction]] is <a href="http://purl.org/goodrelations/v1#LeaseOut.">lease out</a>. 
+
+See the <a href="https://en.wikipedia.org/wiki/GoodRelations">Good Relations Ontology</a> 
+for background on the underlying concepts.
 
 [ #is_/sub_class_of :: [[../Offer]] ]
 

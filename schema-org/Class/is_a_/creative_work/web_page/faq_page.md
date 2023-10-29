@@ -36,7 +36,8 @@ Class of all faq_pages.
 Tag Instances like this: 
 #is_a_/faq_page
 
-A [[FAQPage]] is a [[WebPage]] presenting one or more "<a href="https://en.wikipedia.org/wiki/FAQ">Frequently asked questions</a>" (see also [[QAPage]]).
+A [[FAQPage]] is a [[WebPage]] presenting one or more "<a href="https://en.wikipedia.org/wiki/FAQ">Frequently asked questions</a>" 
+(see also [[QAPage]]).
 
 [ #is_/sub_class_of :: [[../WebPage]] ]
 

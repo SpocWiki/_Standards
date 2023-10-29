@@ -39,7 +39,8 @@ Use it like this:
 - [ #has_/number_of_/number_of_partial_bathrooms :: Number ] or 
 - [ has_number_of_number_of_partial_bathrooms :: Number ] 
 
-Number of partial bathrooms - The total number of half and � bathrooms in an [[Accommodation]]. This corresponds to the <a href="https://ddwiki.reso.org/display/DDW17/BathroomsPartial+Field">BathroomsPartial field in RESO</a>.
+Number of partial bathrooms - The total number of half and quarter bathrooms in an [[Accommodation]]. 
+This corresponds to the <a href="https://ddwiki.reso.org/display/DDW17/BathroomsPartial+Field">BathroomsPartial field in RESO</a>.
 
 Predicate describes that: 
 [ #has_/domain  :: Accommodation, FloorPlan ]
