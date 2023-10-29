@@ -31,6 +31,14 @@ aliases:
 - is_drive_through_service
 ---
 
+Indicates whether some facility (e.g. [[Food_Establishment]], [[Covid_Testing_Facility]]) 
+offers a service that can be used by driving through in a car. 
+
+In the case of [[Covid_Testing_Facility]] 
+such facilities could potentially help with social distancing from other potentially-infected users.
+
+Renamed from `hasDriveThroughService`, because it is a boolean Type. 
+
 [ #is_/part_of :: pending: ]
 
 Use these simple Tags to mark Instances as True or False: 
@@ -39,8 +47,6 @@ Use these simple Tags to mark Instances as True or False:
 
 Or write it as a Triple: 
 [ is_drive_through_service :: Boolean ] 
-
-Indicates whether some facility (e.g. [[Food_Establishment]], [[Covid_Testing_Facility]]) offers a service that can be used by driving through in a car. In the case of [[Covid_Testing_Facility]] such facilities could potentially help with social distancing from other potentially-infected users.
 
 Predicate describes that: 
 [ #has_/domain  :: [[Place]] ]

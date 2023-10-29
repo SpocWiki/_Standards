@@ -37,7 +37,7 @@ Use it like this:
 - [ #has_/geo_/that_contains :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_contains :: GeospatialGeometry, Place ] 
 
-Represents a relationship between two geometries (or the places they represent), relating a containing geometry to a contained geometry. &quot;a contains b iff no points of b lie in the exterior of a, and at least one point of the interior of b lies in the interior of a&quot;. As defined in <a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;>DE-9IM]].
+Represents a relationship between two geometries (or the places they represent), relating a containing geometry to a contained geometry. "a contains b iff no points of b lie in the exterior of a, and at least one point of the interior of b lies in the interior of a". As defined in <a href="https://en.wikipedia.org/wiki/DE-9IM">DE-9IM]].
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]

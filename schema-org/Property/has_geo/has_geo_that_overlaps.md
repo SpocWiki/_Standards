@@ -37,7 +37,7 @@ Use it like this:
 - [ #has_/geo_/that_overlaps :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_overlaps :: GeospatialGeometry, Place ] 
 
-Represents a relationship between two geometries (or the places they represent), relating a geometry to another that geospatially overlaps it, i.e. they have some but not all points in common. As defined in <a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;>DE-9IM]].
+Represents a relationship between two geometries (or the places they represent), relating a geometry to another that geospatially overlaps it, i.e. they have some but not all points in common. As defined in <a href="https://en.wikipedia.org/wiki/DE-9IM">DE-9IM]].
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]

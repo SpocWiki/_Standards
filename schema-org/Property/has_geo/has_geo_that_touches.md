@@ -37,7 +37,7 @@ Use it like this:
 - [ #has_/geo_/that_touches :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_touches :: GeospatialGeometry, Place ] 
 
-Represents spatial relations in which two geometries (or the places they represent) touch: &quot;they have at least one boundary point in common, but no interior points.&quot; (A symmetric relationship, as defined in <a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;>DE-9IM]].)
+Represents spatial relations in which two geometries (or the places they represent) touch: "they have at least one boundary point in common, but no interior points." (A symmetric relationship, as defined in <a href="https://en.wikipedia.org/wiki/DE-9IM">DE-9IM]].)
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]

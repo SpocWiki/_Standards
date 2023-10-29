@@ -39,7 +39,7 @@ Use it like this:
 - [ #has_/geo_/contained_in_place :: Place ] or 
 - [ has_geo_contained_in_place :: Place ] 
 
-The basic containment relation between a place and one that contains it.
+The basic containment relation between this place and one that contains it.
 
 Predicate describes that: 
 [ #has_/domain  :: Place ]
@@ -47,6 +47,12 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 [ #is_/inverse_of  :: containsPlace ]
+
+[[../../../schema-org|schema-org]] also defines the inverse Relation [containsPlace](https://schema.org/containsPlace), but that would create unnecessary Redundancy. 
+
+We are using this Relation exclusively, because there is typically only one (smallest) Geometry covering another, especially politically. 
+The Reverse Relation typically has multiple Values.
+
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_contained_in_place.md|has_geo_contained_in_place]] 

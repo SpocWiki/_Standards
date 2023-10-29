@@ -37,7 +37,7 @@ Use it like this:
 - [ #has_/geo_/crossing :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_crosses :: GeospatialGeometry, Place ] 
 
-Represents a relationship between two geometries (or the places they represent), relating a geometry to another that crosses it: &quot;a crosses b: they have some but not all interior points in common, and the dimension of the intersection is less than that of at least one of them&quot;. As defined in <a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;>DE-9IM]].
+Represents a relationship between two geometries (or the places they represent), relating a geometry to another that crosses it: "a crosses b: they have some but not all interior points in common, and the dimension of the intersection is less than that of at least one of them". As defined in <a href="https://en.wikipedia.org/wiki/DE-9IM">DE-9IM]].
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]

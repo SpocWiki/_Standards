@@ -34,7 +34,9 @@ Use it like this:
 - [ #has_/interaction_type :: Action ] or 
 - [ has_interaction_type :: Action ] 
 
-The Action representing the type of interaction. For up votes, +1s, etc. use [[LikeAction]]. For down votes use [[DislikeAction]]. Otherwise, use the most specific Action.
+The Action representing the type of interaction. 
+For up-votes, +1s, etc. use [[LikeAction]]. 
+For down-votes use [[DislikeAction]]. Otherwise, use the most specific Action.
 
 Relation describes that: 
 [ #has_/domain  :: InteractionCounter ]

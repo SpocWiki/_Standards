@@ -37,7 +37,7 @@ Use it like this:
 - [ #has_/geo_/disjoint_with :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_disjoint :: GeospatialGeometry, Place ] 
 
-Represents spatial relations in which two geometries (or the places they represent) are topologically disjoint: &quot;they have no point in common. They form a set of disconnected geometries.&quot; (A symmetric relationship, as defined in <a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;>DE-9IM]].)
+Represents spatial relations in which two geometries (or the places they represent) are topologically disjoint: "they have no point in common. They form a set of disconnected geometries." (A symmetric relationship, as defined in <a href="https://en.wikipedia.org/wiki/DE-9IM">DE-9IM]].)
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]

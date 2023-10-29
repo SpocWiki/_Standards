@@ -37,7 +37,7 @@ Use it like this:
 - [ #has_/geo_/equal_to :: GeospatialGeometry, Place ] or 
 - [ has_geo_geo_equals :: GeospatialGeometry, Place ] 
 
-Represents spatial relations in which two geometries (or the places they represent) are topologically equal, as defined in <a href&#x3D;&quot;https://en.wikipedia.org/wiki/DE-9IM&quot;>DE-9IM]]. &quot;Two geometries are topologically equal if their interiors intersect and no part of the interior or boundary of one geometry intersects the exterior of the other&quot; (a symmetric relationship).
+Represents spatial relations in which two geometries (or the places they represent) are topologically equal, as defined in <a href="https://en.wikipedia.org/wiki/DE-9IM">DE-9IM]]. "Two geometries are topologically equal if their interiors intersect and no part of the interior or boundary of one geometry intersects the exterior of the other" (a symmetric relationship).
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]
