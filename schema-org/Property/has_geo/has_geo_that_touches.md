@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_geo
 
-title: has_geo_location_geo_touches
-linkTitle: has_geo_location_geo_touches
+title: has_geo_location_touches
+linkTitle: has_geo_location_touches
 
 keywords: [geo_touches]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - geo-touches
 - geo_touches
 - geoTouches
-- has_geo_location_geo_touches
+- has_geo_location_touches
 ---
 
 Symmetric relation between 2 neighboring, non-overlapping GeospatialGeometry or Place.
@@ -44,7 +44,7 @@ Represents spatial relations in which two geometries (or the places they represe
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]
-( #has_/name :: has_geo_location_geo_touches )
+( #has_/name :: has_geo_location_touches )
 ( #has_/range :: GeospatialGeometry, Place )
 
 ## Confidential Links & Embeds: 

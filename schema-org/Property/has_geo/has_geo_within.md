@@ -8,8 +8,8 @@ cssclasses:
   - geo
 publish: true
 type: Pred_geo
-title: has_geo_location_geo_within
-linkTitle: has_geo_location_geo_within
+title: has_geo_location_within
+linkTitle: has_geo_location_within
 keywords:
   - geo_within
 layout: 
@@ -23,7 +23,7 @@ aliases:
   - geo-within
   - geo_within
   - geoWithin
-  - has_geo_location_geo_within
+  - has_geo_location_within
   - has_geo_contained_in_place
   - has_geo_covered_by
   - ContainedInPlace
@@ -59,7 +59,7 @@ Predicate describes that:
 - the largely equivalent Relations
 	- [containedInPlace](https://schema.org/containedInPlace "containedInPlace") 
 	-  [[has_geo_contained_in_place]] and 
-	-  [[has_geo_covered_by|has_geo_location_geo_covered_by]]   
+	-  [[has_geo_covered_by|has_geo_location_covered_by]]   
 	- [[has_geo_covered_by]] 
 	- GeoCoveredBy
 but all these are too granular and create unnecessary Redundancy. 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_geo
 
-title: has_geo_location_geo_equals
-linkTitle: has_geo_location_geo_equals
+title: has_geo_location_equals
+linkTitle: has_geo_location_equals
 
 keywords: [geo_equals]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - geo-equals
 - geo_equals
 - geoEquals
-- has_geo_location_geo_equals
+- has_geo_location_equals
 ---
 
 Predicate to describe the geo of GeospatialGeometry, Place.
@@ -46,7 +46,7 @@ and no part of the interior or boundary of one geometry intersects the exterior 
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]
-( #has_/name :: has_geo_location_geo_equals )
+( #has_/name :: has_geo_location_equals )
 ( #has_/range :: GeospatialGeometry, Place )
 
 ## Confidential Links & Embeds: 

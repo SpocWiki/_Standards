@@ -3,32 +3,27 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate geo
+cssclasses:
+  - Predicate
+  - geo
 publish: true
-
-# Hugo Tags
 type: Pred_geo
-
-title: has_geo_location_geo
-linkTitle: has_geo_location_geo
-
-keywords: [geo]
+title: has_geo_location
+linkTitle: has_geo_location
+keywords:
+  - geo
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/geo
-
+  - class/Property
+  - schema-org/Property/geo
 aliases:
-- geo
-- geo
-- geo
-- has_geo_location_geo
+  - geo
+  - geo
+  - geo
+  - has_geo_location
 ---
 
 Predicate to describe the geo of Place.
@@ -41,7 +36,7 @@ The geo coordinates of the place.
 
 Predicate describes that: 
 [ #has_/domain  :: Place ]
-( #has_/name :: has_geo_location_geo )
+( #has_/name :: has_geo_location )
 ( #has_/range :: GeoCoordinates, GeoShape )
 
 ## Confidential Links & Embeds: 

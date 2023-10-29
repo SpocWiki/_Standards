@@ -1,6 +1,6 @@
 # [[CEFACT]] 
 
-The CEFACT Standard is documented in the UN-Recommendation [[rec20_Rev7e_2010.xls]] . 
+The CEFACT Standard is documented in the UN-Recommendation [[UN~Recommendations/rec20_Rev7e_2010.xls]] . 
 It is maintained by the [[../gs1|gs1]] Consortium and the codes coincide. 
 
 "CEFACT" originally stood for "Centre d'Études pour la Facilitation des Activités Commerciales et des Transports" in English: "Centre for Trade Facilitation and Electronic Business." 

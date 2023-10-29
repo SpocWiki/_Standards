@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_geo
 
-title: has_geo_location_geo_disjoint
-linkTitle: has_geo_location_geo_disjoint
+title: has_geo_location_disjoint
+linkTitle: has_geo_location_disjoint
 
 keywords: [geo_disjoint]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - geo-disjoint
 - geo_disjoint
 - geoDisjoint
-- has_geo_location_geo_disjoint
+- has_geo_location_disjoint
 ---
 
 Predicate to describe the geo of GeospatialGeometry, Place.
@@ -44,7 +44,7 @@ Represents spatial relations in which two geometries (or the places they represe
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]
-( #has_/name :: has_geo_location_geo_disjoint )
+( #has_/name :: has_geo_location_disjoint )
 ( #has_/range :: GeospatialGeometry, Place )
 
 ## Confidential Links & Embeds: 

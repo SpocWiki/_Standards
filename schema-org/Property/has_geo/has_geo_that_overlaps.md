@@ -8,8 +8,8 @@ cssclasses:
   - geo
 publish: true
 type: Pred_geo
-title: has_geo_location_geo_overlaps
-linkTitle: has_geo_location_geo_overlaps
+title: has_geo_location_overlaps
+linkTitle: has_geo_location_overlaps
 keywords:
   - geo_overlaps
 layout: 
@@ -23,7 +23,7 @@ aliases:
   - geo-overlaps
   - geo_overlaps
   - geoOverlaps
-  - has_geo_location_geo_overlaps
+  - has_geo_location_overlaps
   - GeoCrosses
   - GeoIntersects
 ---
@@ -38,7 +38,7 @@ Represents a relationship between two geometries (or the places they represent),
 
 Predicate describes that: 
 [ #has_/domain  :: GeospatialGeometry, Place ]
-( #has_/name :: has_geo_location_geo_overlaps )
+( #has_/name :: has_geo_location_overlaps )
 ( #has_/range :: GeospatialGeometry, Place )
 
 
