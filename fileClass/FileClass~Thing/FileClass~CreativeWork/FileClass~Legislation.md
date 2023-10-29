@@ -29,7 +29,13 @@ Indicates a legal jurisdiction, e.g. of some legislation, or where some governme
 Jurisdiction:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}
 
 ### LegislationApplies
-Indicates that this legislation (or part of a legislation) somehow transfers another legislation in a different legislative context. This is an informative link, and it has no legal value. For legally-binding links of transposition, use the <a href="/legislationTransposes">legislationTransposes</a> property. For example an informative consolidated law of a European Union's member state "applies" the consolidated version of the European Directive implemented in it.
+Indicates that this legislation (or part of a legislation) somehow transfers another legislation in a different legislative context. 
+This is an informative link, and it has no legal value. 
+
+For legally-binding links of transposition, use the <a href="/legislationTransposes">legislationTransposes</a> property. 
+
+For example an informative consolidated law of a European Union's member state 
+"applies" the consolidated version of the European Directive implemented in it.
 
 LegislationApplies:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Legislation')"}}
 

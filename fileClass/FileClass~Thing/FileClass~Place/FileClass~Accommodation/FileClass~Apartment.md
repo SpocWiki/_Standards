@@ -12,7 +12,10 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 # Apartment
 This is a kind of [[FileClass~Accommodation]]
 
-An apartment (in American English) or flat (in British English) is a self-contained housing unit (a type of residential real estate) that occupies only part of a building (source: Wikipedia, the free encyclopedia, see <a href="http://en.wikipedia.org/wiki/Apartment">http://en.wikipedia.org/wiki/Apartment</a>).
+An apartment (in American English) or flat (in British English) 
+is a self-contained housing unit (a type of residential real estate) 
+that occupies only part of a building 
+(source: Wikipedia, http://en.wikipedia.org/wiki/Apartment).
 
 ## Use one of these Tags for Objects of this Type:
 

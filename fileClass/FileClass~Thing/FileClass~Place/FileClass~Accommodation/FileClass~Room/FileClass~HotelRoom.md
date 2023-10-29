@@ -13,8 +13,8 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room
 This is a kind of [[FileClass~Room]]
 
 A hotel room is a single room in a hotel.  
- <br /><br />  
- See also the <a href="/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
+
+See also the <a href="https://schema.org/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
 
 ## Use one of these Tags for Objects of this Type:

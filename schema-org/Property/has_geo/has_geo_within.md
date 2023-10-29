@@ -26,6 +26,13 @@ aliases:
   - has_geo_location_geo_within
   - has_geo_contained_in_place
   - has_geo_covered_by
+  - ContainedInPlace
+  - ContainsPlace
+  - GeoContains
+  - GeoCoveredBy
+  - GeoCovers
+  - geo-contains
+  - geo_contains
 ---
 
 Relation to the geo of a larger GeospatialGeometry or Place that completely covers this Entity.
@@ -44,17 +51,17 @@ Predicate describes that:
 ( #has_/name :: [[has_geo_within]] )
 ( #has_/range :: GeospatialGeometry, Place )
 
-
 [[../../../schema-org|schema-org]] also defines 
 - the inverse Relations
 	-  [geoContains](https://schema.org/geoContains "geoContains") 
 	-  [containsPlace](https://schema.org/containsPlace) and
 	-  [geoCovers](https://schema.org/geoCovers) 
-- the equivalent Relations
+- the largely equivalent Relations
 	- [containedInPlace](https://schema.org/containedInPlace "containedInPlace") 
-	-  [[has_geo_within|has_geo_contained_in_place]] and 
+	-  [[has_geo_contained_in_place]] and 
 	-  [[has_geo_covered_by|has_geo_location_geo_covered_by]]   
 	- [[has_geo_covered_by]] 
+	- GeoCoveredBy
 but all these are too granular and create unnecessary Redundancy. 
 
 We are using this Relation exclusively, because there is typically only one (smallest) Geometry covering/containing another, so that it lies within it, especially politically. 
