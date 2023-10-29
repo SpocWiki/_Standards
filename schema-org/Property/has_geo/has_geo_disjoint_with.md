@@ -35,7 +35,7 @@ Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
 - [ #has_/geo_/disjoint_with :: GeospatialGeometry, Place ] or 
-- [ has_geo_geo_disjoint :: GeospatialGeometry, Place ] 
+- [ has_geo_disjoint_with :: GeospatialGeometry, Place ] 
 
 Represents spatial relations in which two geometries (or the places they represent) are topologically disjoint: 
 

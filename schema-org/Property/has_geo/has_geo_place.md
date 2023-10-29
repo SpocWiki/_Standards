@@ -30,7 +30,7 @@ Predicate to describe the geo of Place.
 
 Use it like this: 
 - [ #has_/geo_/place :: GeoCoordinates, GeoShape ] or 
-- [ has_geo_geo :: GeoCoordinates, GeoShape ] 
+- [ has_geo_place :: GeoCoordinates, GeoShape ] 
 
 The geo coordinates of the place.
 

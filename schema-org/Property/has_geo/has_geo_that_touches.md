@@ -35,7 +35,7 @@ Symmetric relation between 2 neighboring, non-overlapping GeospatialGeometry or 
 
 Use it like this: 
 - [ #has_/geo_/that_touches :: GeospatialGeometry, Place ] or 
-- [ has_geo_geo_touches :: GeospatialGeometry, Place ] 
+- [ has_geo_that_touches :: GeospatialGeometry, Place ] 
 
 Represents spatial relations in which two geometries (or the places they represent) touch: 
 "they have at least one boundary point in common, more commonly a boundary line, but no interior points." 
