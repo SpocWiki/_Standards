@@ -24,4 +24,3 @@ This is the Schema to the [[../../schema-org/Class/is_a_/Intangible|Intangible]]
 
 ## Properties:
 
-

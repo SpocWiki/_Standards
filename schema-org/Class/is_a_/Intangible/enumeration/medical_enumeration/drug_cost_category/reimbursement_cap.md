@@ -44,8 +44,6 @@ The drug's cost represents the maximum reimbursement paid by an insurer for the 
 
 [ #is_/enum_of :: [[../DrugCostCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/reimbursement_cap.md|reimbursement_cap]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/reimbursement_cap.internal.md|reimbursement_cap.internal]] 

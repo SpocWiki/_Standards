@@ -46,8 +46,6 @@ Nonprofit501a: Non-profit type referring to Farmersâ€™ Cooperative Associat
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.md|nonprofit501a]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501a.internal.md|nonprofit501a.internal]] 

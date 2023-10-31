@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_employment_unit )
 ( #has_/range :: Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_employment_unit.md|has_employment_unit]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_employment_unit.internal.md|has_employment_unit.internal]] 

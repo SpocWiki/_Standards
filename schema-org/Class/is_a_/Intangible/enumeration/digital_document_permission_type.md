@@ -40,8 +40,6 @@ A type of permission which can be granted for accessing a digital document.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type.md|digital_document_permission_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type.internal.md|digital_document_permission_type.internal]] 

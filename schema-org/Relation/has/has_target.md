@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_target )
 ( #has_/range :: EntryPoint, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_target.md|has_target]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_target.internal.md|has_target.internal]] 

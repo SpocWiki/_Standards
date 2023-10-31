@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_pet_allowed )
 ( #has_/range :: Boolean, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_pet_allowed.md|is_pet_allowed]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_pet_allowed.internal.md|is_pet_allowed.internal]] 

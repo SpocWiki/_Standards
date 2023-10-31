@@ -39,14 +39,12 @@ Use it like this:
 - [ #has_/number_of_/items_in_collection :: Integer ] or 
 - [ has_number_of_items_in_collection :: Integer ] 
 
-The number of items in the <a class="localLink" href="/Collection">Collection</a>.
+The number of items in the [[Collection]].
 
 Predicate describes that: 
 [ #has_/domain  :: Collection ]
 ( #has_/name :: has_number_of_items_in_collection )
 ( #has_/range :: Integer )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_items_in_collection.md|has_number_of_items_in_collection]] 

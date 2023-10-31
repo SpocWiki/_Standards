@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_permission_type )
 ( #has_/range :: DigitalDocumentPermissionType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_permission_type.md|has_permission_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_permission_type.internal.md|has_permission_type.internal]] 

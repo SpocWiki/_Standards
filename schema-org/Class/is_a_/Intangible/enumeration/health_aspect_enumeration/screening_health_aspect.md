@@ -46,8 +46,6 @@ Content about how to screen or further filter a topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/screening_health_aspect.md|screening_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/screening_health_aspect.internal.md|screening_health_aspect.internal]] 

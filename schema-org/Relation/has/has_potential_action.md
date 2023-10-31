@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_potential_action )
 ( #has_/range :: Action )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_potential_action.md|has_potential_action]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_potential_action.internal.md|has_potential_action.internal]] 

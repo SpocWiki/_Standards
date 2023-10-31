@@ -1,6 +1,5 @@
 # [[Unit~Second]] 
 
-
 > The **second** (symbol: s) is the unit of time in the International System of Units (SI), historically defined as 1⁄86400 of a day – this factor derived from the division of the day first into 24 hours, then to 60 minutes and finally to 60 seconds each (24 × 60 × 60 = 86400).
 >
 > The current and formal definition in the International System of Units (SI) is more precise: The second is defined by taking the fixed numerical value of the **caesium frequency**, ΔνCs, the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, to be 9192631770 when expressed in the unit Hz, which is equal to s−1.

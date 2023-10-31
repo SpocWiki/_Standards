@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_area )
 ( #has_/range :: Place )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_area.md|has_geo_area]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_area.internal.md|has_geo_area.internal]] 

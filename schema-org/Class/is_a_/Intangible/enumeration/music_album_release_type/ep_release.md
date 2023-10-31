@@ -44,8 +44,6 @@ EPRelease.
 
 [ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/ep_release.md|ep_release]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/ep_release.internal.md|ep_release.internal]] 

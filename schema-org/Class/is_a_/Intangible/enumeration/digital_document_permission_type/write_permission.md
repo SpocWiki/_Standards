@@ -44,8 +44,6 @@ Permission to write or edit the document.
 
 [ #is_/enum_of :: [[../DigitalDocumentPermissionType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/write_permission.md|write_permission]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/write_permission.internal.md|write_permission.internal]] 

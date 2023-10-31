@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_overdosage )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_overdosage.md|has_overdosage]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_overdosage.internal.md|has_overdosage.internal]] 

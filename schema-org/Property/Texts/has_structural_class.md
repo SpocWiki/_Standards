@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_structural_class )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_structural_class.md|has_structural_class]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_structural_class.internal.md|has_structural_class.internal]] 

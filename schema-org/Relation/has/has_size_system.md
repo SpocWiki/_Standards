@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_size_system )
 ( #has_/range :: SizeSystemEnumeration, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_size_system.md|has_size_system]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_size_system.internal.md|has_size_system.internal]] 

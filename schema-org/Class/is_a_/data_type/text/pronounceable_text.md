@@ -41,8 +41,6 @@ Data type: PronounceableText.
 
 [ #has_/properties :: [ inLanguage, phoneticText, speechToTextMarkup, textValue ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/data_type/text/pronounceable_text.md|pronounceable_text]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/pronounceable_text.internal.md|pronounceable_text.internal]] 

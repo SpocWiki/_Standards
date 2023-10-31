@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Place]]
 
 A tourist attraction.  In principle any Thing can be a [[TouristAttraction]], from a [[Mountain]] and [[LandmarksOrHistoricalBuildings]] to a [[LocalBusiness]].  This Type can be used on its own to describe a general [[TouristAttraction]], or be used as an [[additionalType]] to add tourist attraction properties to any other type.  (See examples below)
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/TouristAttraction
@@ -32,5 +31,4 @@ AvailableLanguage:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#c
 Attraction suitable for type(s) of tourist. E.g. children, visitors from a particular country, etc.
 
 TouristType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
-
 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_application_suite )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_application_suite.md|has_application_suite]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_application_suite.internal.md|has_application_suite.internal]] 

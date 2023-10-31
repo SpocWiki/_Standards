@@ -44,7 +44,7 @@ The edition of a video game.
 GameEdition:: {"type":"Input","options":{}}
 
 ### GamePlatform
-The electronic systems used to play &lt;a href="http://en.wikipedia.org/wiki/Category:Video\_game\_platforms"&gt;video games&lt;/a&gt;.
+The electronic systems used to play <a href="http://en.wikipedia.org/wiki/Category:Video\_game\_platforms">video games</a>.
 
 GamePlatform:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 

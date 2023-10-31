@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_estimating_risk_of)
 ( #has_/range :: MedicalEntity)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_estimating_risk_of.md|is_estimating_risk_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_estimating_risk_of.internal.md|is_estimating_risk_of.internal]] 

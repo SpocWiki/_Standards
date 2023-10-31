@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_abstract )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_abstract.md|has_abstract]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_abstract.internal.md|has_abstract.internal]] 

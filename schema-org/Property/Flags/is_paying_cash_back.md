@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_paying_cash_back )
 ( #has_/range :: Boolean, Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_paying_cash_back.md|is_paying_cash_back]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_paying_cash_back.internal.md|is_paying_cash_back.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_related_to)
 ( #has_/range :: Product, Service)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_related_to.md|is_related_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_related_to.internal.md|is_related_to.internal]] 

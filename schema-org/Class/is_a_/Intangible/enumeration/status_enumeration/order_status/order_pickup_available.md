@@ -44,8 +44,6 @@ OrderStatus representing availability of an order for pickup.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.md|order_pickup_available]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_pickup_available.internal.md|order_pickup_available.internal]] 

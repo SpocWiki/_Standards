@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_broadcast_service_tier )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_broadcast_service_tier.md|has_broadcast_service_tier]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_broadcast_service_tier.internal.md|has_broadcast_service_tier.internal]] 

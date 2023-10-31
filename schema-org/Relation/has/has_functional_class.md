@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_functional_class )
 ( #has_/range :: MedicalEntity, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_functional_class.md|has_functional_class]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_functional_class.internal.md|has_functional_class.internal]] 

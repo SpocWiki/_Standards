@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_applying_to_delivery_method)
 ( #has_/range :: DeliveryMethod)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.md|is_applying_to_delivery_method]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.internal.md|is_applying_to_delivery_method.internal]] 

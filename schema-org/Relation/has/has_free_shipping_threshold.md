@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_free_shipping_threshold )
 ( #has_/range :: DeliveryChargeSpecification, MonetaryAmount )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_free_shipping_threshold.md|has_free_shipping_threshold]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_free_shipping_threshold.internal.md|has_free_shipping_threshold.internal]] 

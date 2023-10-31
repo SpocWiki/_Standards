@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_customer_remorse_return_label_source )
 ( #has_/range :: ReturnLabelSourceEnumeration )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_customer_remorse_return_label_source.md|has_customer_remorse_return_label_source]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_customer_remorse_return_label_source.internal.md|has_customer_remorse_return_label_source.internal]] 

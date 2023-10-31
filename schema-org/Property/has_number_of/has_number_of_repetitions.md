@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_repetitions )
 ( #has_/range :: Number, QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_repetitions.md|has_number_of_repetitions]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_repetitions.internal.md|has_number_of_repetitions.internal]] 

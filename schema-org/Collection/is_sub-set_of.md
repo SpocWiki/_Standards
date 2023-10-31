@@ -39,7 +39,6 @@ Relation describes that:
 ( #has_/name :: [is_subset_of](is_subset_of.md))
 ( #has_/range :: [Collection](../Collection.md))
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/is_subset_of.md|is_subset_of]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/is_subset_of.internal.md|is_subset_of.internal]] 

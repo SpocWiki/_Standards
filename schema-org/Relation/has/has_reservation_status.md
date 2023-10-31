@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_reservation_status )
 ( #has_/range :: ReservationStatusType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_reservation_status.md|has_reservation_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_reservation_status.internal.md|has_reservation_status.internal]] 

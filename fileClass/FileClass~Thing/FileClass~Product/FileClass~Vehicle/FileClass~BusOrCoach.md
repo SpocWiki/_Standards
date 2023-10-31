@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Vehicle]]
 
 A bus (also omnibus or autobus) is a road vehicle designed to carry passengers. Coaches are luxury busses, usually in service for long distance travel.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/BusOrCoach
@@ -38,5 +37,4 @@ Typical unit code(s): KGM for kilogram, LBR for pound
 \* Note 3: Note that you can use [[minValue]] and [[maxValue]] to indicate ranges.
 
 RoofLoad:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
-
 

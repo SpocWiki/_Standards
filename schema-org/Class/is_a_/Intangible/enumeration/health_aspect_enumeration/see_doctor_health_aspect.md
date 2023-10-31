@@ -46,8 +46,6 @@ Information about questions that may be asked, when to see a professional, measu
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/see_doctor_health_aspect.md|see_doctor_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/see_doctor_health_aspect.internal.md|see_doctor_health_aspect.internal]] 

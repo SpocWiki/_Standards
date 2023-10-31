@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_size_group )
 ( #has_/range :: SizeGroupEnumeration, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_size_group.md|has_size_group]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_size_group.internal.md|has_size_group.internal]] 

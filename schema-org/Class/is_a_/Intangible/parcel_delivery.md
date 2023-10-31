@@ -42,8 +42,6 @@ The delivery of a parcel either via the postal service or a commercial service.
 
 [ #has_/properties :: [ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/parcel_delivery.md|parcel_delivery]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/parcel_delivery.internal.md|parcel_delivery.internal]] 

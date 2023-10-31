@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_keywords )
 ( #has_/range :: DefinedTerm, Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_keywords.md|has_keywords]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_keywords.internal.md|has_keywords.internal]] 

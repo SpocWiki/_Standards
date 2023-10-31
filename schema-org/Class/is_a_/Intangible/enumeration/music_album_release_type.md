@@ -40,8 +40,6 @@ The kind of release which this album is: single, EP or album.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type.md|music_album_release_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type.internal.md|music_album_release_type.internal]] 

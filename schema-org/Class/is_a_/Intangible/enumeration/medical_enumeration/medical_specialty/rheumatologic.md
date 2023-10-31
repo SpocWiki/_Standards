@@ -44,8 +44,6 @@ A specific branch of medical science that deals with the study and treatment of 
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.md|rheumatologic]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/rheumatologic.internal.md|rheumatologic.internal]] 

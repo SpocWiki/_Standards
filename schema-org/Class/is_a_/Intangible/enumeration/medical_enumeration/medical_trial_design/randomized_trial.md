@@ -44,8 +44,6 @@ A randomized trial design.
 
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.md|randomized_trial]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.internal.md|randomized_trial.internal]] 

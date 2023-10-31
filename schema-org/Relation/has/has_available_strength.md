@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_available_strength )
 ( #has_/range :: DrugStrength )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_available_strength.md|has_available_strength]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_strength.internal.md|has_available_strength.internal]] 

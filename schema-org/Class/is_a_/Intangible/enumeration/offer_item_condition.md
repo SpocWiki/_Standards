@@ -40,8 +40,6 @@ A list of possible conditions for the item.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition.md|offer_item_condition]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition.internal.md|offer_item_condition.internal]] 

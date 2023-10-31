@@ -14,7 +14,6 @@ This is a kind of [[FileClass~AdministrativeArea]]
 
 A city or town.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/City
@@ -22,5 +21,4 @@ A city or town.
 #class/Thing/Place/AdministrativeArea/City
 
 ## Properties:
-
 

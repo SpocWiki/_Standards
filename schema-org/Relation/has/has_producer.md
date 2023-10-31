@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_producer )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_producer.md|has_producer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_producer.internal.md|has_producer.internal]] 

@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_credit_text )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_credit_text.md|has_credit_text]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_credit_text.internal.md|has_credit_text.internal]] 

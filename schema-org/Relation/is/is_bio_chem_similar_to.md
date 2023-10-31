@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_bio_chem_similar_to )
 ( #has_/range :: BioChemEntity )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_bio_chem_similar_to.md|is_bio_chem_similar_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_bio_chem_similar_to.internal.md|is_bio_chem_similar_to.internal]] 

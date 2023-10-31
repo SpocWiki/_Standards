@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_memory_requirements )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_memory_requirements.md|has_memory_requirements]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_memory_requirements.internal.md|has_memory_requirements.internal]] 

@@ -36,14 +36,18 @@ Use it like this:
 - [ #has_/broker :: Organization, Person ] or 
 - [ has_broker :: Organization, Person ] 
 
-An entity that arranges for an exchange between a buyer and a seller.  In most cases a broker never acquires or releases ownership of a product or service involved in an exchange.  If it is not clear whether an entity is a broker, seller, or buyer, the latter two terms are preferred.
+An entity that arranges for an exchange between a buyer and a seller.  
+
+In most cases a broker never acquires or releases ownership of a product or service involved in an exchange. 
+
+If it is not clear whether an entity is a broker, seller, or buyer, the latter two terms are preferred.
+
+This `supersedes` the Term `bookingAgent`. 
 
 Relation describes that: 
 [ #has_/domain  :: Invoice, Order, Reservation, Service ]
 ( #has_/name :: has_broker )
 ( #has_/range :: Organization, Person )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_broker.md|has_broker]] 

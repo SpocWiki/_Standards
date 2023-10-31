@@ -39,14 +39,12 @@ Use it like this:
 - [ #has_/number_of_/constraints :: Integer ] or 
 - [ has_number_of_constraints :: Integer ] 
 
-Indicates the number of constraints (not counting <a class="localLink" href="/populationType">populationType</a>) defined for a particular <a class="localLink" href="/StatisticalPopulation">StatisticalPopulation</a>. This helps applications understand if they have access to a sufficiently complete description of a <a class="localLink" href="/StatisticalPopulation">StatisticalPopulation</a>.
+Indicates the number of constraints (not counting [[populationType]]) defined for a particular [[StatisticalPopulation]]. This helps applications understand if they have access to a sufficiently complete description of a [[StatisticalPopulation]].
 
 Predicate describes that: 
 [ #has_/domain  :: StatisticalPopulation ]
 ( #has_/name :: has_number_of_constraints )
 ( #has_/range :: Integer )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_constraints.md|has_number_of_constraints]] 

@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_eligible_quantity )
 ( #has_/range :: QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_eligible_quantity.md|has_value_for_eligible_quantity]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_eligible_quantity.internal.md|has_value_for_eligible_quantity.internal]] 

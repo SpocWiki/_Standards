@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the Duration of Invoice.
 
-
-
 Use it like this: 
 - [has_duration_of_billing_period::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration_/of_billing_period::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::Invoice]
 (name::has_duration_of_billing_period)
 (range::Duration)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_billing_period.md|has_duration_of_billing_period]] 

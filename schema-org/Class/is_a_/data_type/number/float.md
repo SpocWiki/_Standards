@@ -40,8 +40,6 @@ Data type: Floating number.
 
 [ #is_/sub_class_of :: [[../Number]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/data_type/number/float.md|float]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/number/float.internal.md|float.internal]] 

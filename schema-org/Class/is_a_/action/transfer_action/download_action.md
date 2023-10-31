@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,18 +31,17 @@ aliases:
 - is_a_download_action
 ---
 
-Class of all download_actions.
+Class of all download_actions, 
+i.e. acts of downloading a Resource from the Web or FTP-Site.
+
+Usually the Object of the [[../../../../Relation/has/has_interaction_type|interactionType]] -Relation in an Instance of the [[../../Intangible/structured_value/interaction_counter|InteractionCounter]] Class.
 
 Tag Instances like this: 
 #is_a_/download_action
 
-The act of downloading an object.
-
 [ #is_/sub_class_of :: [[../TransferAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/download_action.md|download_action]] 

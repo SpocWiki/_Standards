@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_stage )
 ( #has_/range :: MedicalConditionStage )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_stage.md|has_stage]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_stage.internal.md|has_stage.internal]] 

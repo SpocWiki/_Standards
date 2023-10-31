@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_merchant )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_merchant.md|has_merchant]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_merchant.internal.md|has_merchant.internal]] 

@@ -42,8 +42,6 @@ The act of installing an application.
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/install_action.md|install_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/install_action.internal.md|install_action.internal]] 

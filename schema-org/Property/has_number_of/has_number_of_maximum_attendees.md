@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_maximum_attendees )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_maximum_attendees.md|has_number_of_maximum_attendees]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_attendees.internal.md|has_number_of_maximum_attendees.internal]] 

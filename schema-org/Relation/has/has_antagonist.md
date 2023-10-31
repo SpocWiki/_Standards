@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_antagonist )
 ( #has_/range :: Muscle )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_antagonist.md|has_antagonist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_antagonist.internal.md|has_antagonist.internal]] 

@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_stage_as_number )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_stage_as_number.md|has_number_of_stage_as_number]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_stage_as_number.internal.md|has_number_of_stage_as_number.internal]] 

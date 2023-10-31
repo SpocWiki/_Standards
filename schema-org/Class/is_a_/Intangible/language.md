@@ -32,14 +32,16 @@ aliases:
 ---
 
 Class of all **natural** languages such as Spanish, Tamil, Hindi, English, etc. 
-Formal language code tags expressed in <a href="https://en.wikipedia.org/wiki/IETF_language_tag">BCP 47</a> can be used via the <a class="localLink" href="/alternateName">alternateName</a> property. 
+
+Formal language code tags expressed in <a href="https://en.wikipedia.org/wiki/IETF_language_tag">BCP 47</a> 
+can be used via the [[alternateName]] property. 
 
 Tag Instances like this: 
 #is_a_/language
 
 The Language type **previously** also covered programming languages 
 such as Scheme and Lisp, 
-which are now best represented using <a class="localLink" href="/ComputerLanguage">ComputerLanguage</a>.
+which are now best represented using [[ComputerLanguage]].
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
@@ -68,8 +70,6 @@ Alternatively use the RDFa-Lite:
 ```html
 
 ```
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/language.md|language]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_primary_prevention )
 ( #has_/range :: MedicalTherapy )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_primary_prevention.md|has_primary_prevention]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_primary_prevention.internal.md|has_primary_prevention.internal]] 

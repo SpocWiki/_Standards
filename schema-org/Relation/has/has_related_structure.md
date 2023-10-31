@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_related_structure )
 ( #has_/range :: AnatomicalStructure )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_related_structure.md|has_related_structure]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_related_structure.internal.md|has_related_structure.internal]] 

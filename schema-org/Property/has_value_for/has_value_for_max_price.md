@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_max_price )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_max_price.md|has_value_for_max_price]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_max_price.internal.md|has_value_for_max_price.internal]] 

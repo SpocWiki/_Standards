@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_order_status )
 ( #has_/range :: OrderStatus )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_order_status.md|has_order_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_order_status.internal.md|has_order_status.internal]] 

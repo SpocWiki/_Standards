@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,7 +31,7 @@ aliases:
 - is_a_like_action
 ---
 
-Class of all like_actions.
+Class of all [[like_action]]s. This is used also to type the [[../../../../../Relation/has/has_interaction_type|interaction-type]] of the [[../../../Intangible/structured_value/interaction_counter|interaction-counter]]. 
 
 Tag Instances like this: 
 #is_a_/like_action
@@ -41,8 +41,6 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 [ #is_/sub_class_of :: [[../ReactAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/action/assess_action/react_action/like_action.md|like_action]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_print_column )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_print_column.md|has_print_column]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_print_column.internal.md|has_print_column.internal]] 

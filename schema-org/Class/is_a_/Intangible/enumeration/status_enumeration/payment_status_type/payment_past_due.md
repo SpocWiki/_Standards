@@ -44,8 +44,6 @@ The payment is due and considered late.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.md|payment_past_due]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.internal.md|payment_past_due.internal]] 

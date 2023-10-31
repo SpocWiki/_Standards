@@ -44,8 +44,6 @@ The scientific study and treatment of defects, disorders, and malfunctions of sp
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.md|speech_pathology]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/speech_pathology.internal.md|speech_pathology.internal]] 

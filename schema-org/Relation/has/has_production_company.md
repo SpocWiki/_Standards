@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_production_company )
 ( #has_/range :: Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_production_company.md|has_production_company]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_production_company.internal.md|has_production_company.internal]] 

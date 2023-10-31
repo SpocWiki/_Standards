@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_including_health_plan_network)
 ( #has_/range :: HealthPlanNetwork)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_including_health_plan_network.md|is_including_health_plan_network]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_health_plan_network.internal.md|is_including_health_plan_network.internal]] 

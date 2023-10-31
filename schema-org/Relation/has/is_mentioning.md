@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_mentioning )
 ( #has_/range :: [[../../../Class/Thing|thing]] )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_mentioning.md|is_mentioning]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_mentioning.internal.md|is_mentioning.internal]] 

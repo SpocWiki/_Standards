@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_address_country )
 ( #has_/range :: Country, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_address_country.md|has_address_country]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_address_country.internal.md|has_address_country.internal]] 

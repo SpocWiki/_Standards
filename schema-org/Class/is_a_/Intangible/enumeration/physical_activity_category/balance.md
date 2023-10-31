@@ -44,8 +44,6 @@ Physical activity that is engaged to help maintain posture and balance.
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/balance.md|balance]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/balance.internal.md|balance.internal]] 

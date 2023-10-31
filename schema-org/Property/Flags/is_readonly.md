@@ -38,14 +38,12 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_readonly :: Boolean ] 
 
-Whether or not a property is mutable.  Default is false. Specifying this for a property that also has a value makes it act similar to a &quot;hidden&quot; input in an HTML form.
+Whether or not a property is mutable.  Default is false. Specifying this for a property that also has a value makes it act similar to a "hidden" input in an HTML form.
 
 Predicate describes that: 
 [ #has_/domain  :: PropertyValueSpecification ]
 ( #has_/name :: is_readonly )
 ( #has_/range :: Boolean )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_readonly.md|is_readonly]] 

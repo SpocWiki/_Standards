@@ -38,8 +38,6 @@ Tag Instances like this:
 
 The boolean value true.
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/data_type/boolean/TRUE.md|TRUE]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/boolean/TRUE.internal.md|TRUE.internal]] 

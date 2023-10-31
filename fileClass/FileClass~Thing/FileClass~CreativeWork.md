@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Thing]]
 
 The most generic kind of creative work, including books, movies, photographs, software programs, etc.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/CreativeWork
@@ -582,5 +581,4 @@ WorkExample:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 A work that is a translation of the content of this work. E.g. 西遊記 has an English workTranslation “Journey to the West”, a German workTranslation “Monkeys Pilgerfahrt” and a Vietnamese  translation Tây du ký bình khảo.
 
 WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
-
 

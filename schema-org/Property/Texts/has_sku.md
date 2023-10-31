@@ -46,8 +46,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_sku.md|has_sku]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_sku.internal.md|has_sku.internal]] 

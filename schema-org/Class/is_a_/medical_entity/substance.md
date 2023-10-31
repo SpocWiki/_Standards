@@ -46,8 +46,6 @@ Any matter of defined composition that has discrete existence, whose origin may 
 
 [ #has_/properties :: [ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/medical_entity/substance.md|substance]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/substance.internal.md|substance.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_live_blog_update )
 ( #has_/range :: BlogPosting )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_live_blog_update.md|has_live_blog_update]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_live_blog_update.internal.md|has_live_blog_update.internal]] 

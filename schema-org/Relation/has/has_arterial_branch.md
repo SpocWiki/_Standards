@@ -44,8 +44,6 @@ Relation describes that:
 ( #has_/name :: has_arterial_branch )
 ( #has_/range :: AnatomicalStructure )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_arterial_branch.md|has_arterial_branch]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_arterial_branch.internal.md|has_arterial_branch.internal]] 

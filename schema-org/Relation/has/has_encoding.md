@@ -46,8 +46,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[../is/is_encoding_creative_work]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_encoding.md|has_encoding]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_encoding.internal.md|has_encoding.internal]] 

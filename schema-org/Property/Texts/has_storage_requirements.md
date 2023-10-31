@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_storage_requirements )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_storage_requirements.md|has_storage_requirements]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_storage_requirements.internal.md|has_storage_requirements.internal]] 

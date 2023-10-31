@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -35,16 +35,15 @@ aliases:
 
 Class of all user_commentss.
 
+[[User_Interaction]] and its subtypes are an old way of counting users interacting with pages. 
+It is generally better to use [[../Intangible/structured_value/interaction_counter|InteractionCounter]]s with an [[../../../Relation/has/has_interaction_type|interaction-type]]- Relation to the extensible [[Action]] vocabulary, in this case [[../../action/interact_action/communicate_action/comment_action|comment-action]], alongside types such as [[Comment]].
+
 Tag Instances like this: 
 #is_a_/user_comments
-
-UserInteraction and its subtypes is an old way of talking about users interacting with pages. It is generally better to use <a class="localLink" href="/Action">Action</a>-based vocabulary, alongside types such as <a class="localLink" href="/Comment">Comment</a>.
 
 [ #is_/sub_class_of :: [[../UserInteraction]] ]
 
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, commentText, commentTime, composer, contributor, creator, description, director, disambiguatingDescription, discusses, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, replyToUrl, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/event/user_interaction/user_comments.md|user_comments]] 

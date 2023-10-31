@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_order_item_number )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_order_item_number.md|has_order_item_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_order_item_number.internal.md|has_order_item_number.internal]] 

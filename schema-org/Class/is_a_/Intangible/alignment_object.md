@@ -38,13 +38,11 @@ Tag Instances like this:
 
 An intangible item that describes an alignment between a learning resource and a node in an educational framework.
 
-Should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource <a class="localLink" href="/teaches">teaches</a> or <a class="localLink" href="/assesses">assesses</a> a competency.
+Should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource [[teaches]] or [[assesses]] a competency.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alignmentType, alternateName, description, disambiguatingDescription, educationalFramework, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, targetDescription, targetName, targetUrl, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/alignment_object.md|alignment_object]] 

@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_chemical_composition )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_chemical_composition.md|has_chemical_composition]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_chemical_composition.internal.md|has_chemical_composition.internal]] 

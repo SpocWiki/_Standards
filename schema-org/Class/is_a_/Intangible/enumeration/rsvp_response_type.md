@@ -40,8 +40,6 @@ RsvpResponseType is an enumeration type whose instances represent responding to 
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type.md|rsvp_response_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type.internal.md|rsvp_response_type.internal]] 

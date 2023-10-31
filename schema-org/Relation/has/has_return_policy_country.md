@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_return_policy_country )
 ( #has_/range :: Country, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_return_policy_country.md|has_return_policy_country]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_policy_country.internal.md|has_return_policy_country.internal]] 

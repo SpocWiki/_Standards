@@ -34,9 +34,13 @@ Use it like this:
 - [ #has_/item_list_element :: ListItem, Text, Thing ] or 
 - [ has_item_list_element :: ListItem, Text, Thing ] 
 
-For itemListElement values, you can use simple strings (e.g. "Peter", "Paul", "Mary"), existing entities, or use ListItem.\n\n\n\n
+For itemListElement values, you can use simple strings (e.g. "Peter", "Paul", "Mary"), existing entities, or use ListItem.
 
-Text values are best if the elements in the list are plain strings. Existing entities are best for a simple, unordered list of existing things in your data. ListItem is used with ordered lists when you want to provide additional context about the element in that list or when the same item might be in different places in different lists.\n\n\n\n
+
+
+Text values are best if the elements in the list are plain strings. Existing entities are best for a simple, unordered list of existing things in your data. ListItem is used with ordered lists when you want to provide additional context about the element in that list or when the same item might be in different places in different lists.
+
+
 
 Note: The order of elements in your mark-up is not sufficient for indicating the order or elements.  Use ListItem with a 'position' property in such cases.
 
@@ -44,8 +48,6 @@ Relation describes that:
 [ #has_/domain  :: ItemList ]
 ( #has_/name :: has_item_list_element )
 ( #has_/range :: ListItem, Text, Thing )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_item_list_element.md|has_item_list_element]] 

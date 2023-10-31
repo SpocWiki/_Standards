@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_business_days )
 ( #has_/range :: OpeningHoursSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_business_days.md|has_business_days]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_business_days.internal.md|has_business_days.internal]] 

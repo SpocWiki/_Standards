@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_album_release_type )
 ( #has_/range :: MusicAlbumReleaseType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_album_release_type.md|has_album_release_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_album_release_type.internal.md|has_album_release_type.internal]] 

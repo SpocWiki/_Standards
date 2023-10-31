@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_blood_supply )
 ( #has_/range :: Vessel )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_blood_supply.md|has_blood_supply]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_blood_supply.internal.md|has_blood_supply.internal]] 

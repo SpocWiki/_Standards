@@ -47,11 +47,6 @@ Formal Predicate:
 (name::has_time_of_merchant_return_days)
 (range::Date, DateTime, Integer)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.md|has_time_of_merchant_return_days]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.internal.md|has_time_of_merchant_return_days.internal]] 

@@ -42,8 +42,6 @@ A value indicating a steering position.
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value.md|steering_position_value]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value.internal.md|steering_position_value.internal]] 

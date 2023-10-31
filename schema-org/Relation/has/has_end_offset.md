@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_end_offset )
 ( #has_/range :: HyperTocEntry, Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_end_offset.md|has_end_offset]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_end_offset.internal.md|has_end_offset.internal]] 

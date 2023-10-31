@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_contributor )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_contributor.md|has_contributor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contributor.internal.md|has_contributor.internal]] 

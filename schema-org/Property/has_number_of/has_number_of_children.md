@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_children )
 ( #has_/range :: Integer, QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_children.md|has_number_of_children]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_children.internal.md|has_number_of_children.internal]] 

@@ -42,8 +42,6 @@ Any branch of a field in which people typically develop specific expertise, usua
 
 [ #has_/sub_classes :: [ MedicalSpecialty ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/specialty.md|specialty]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/specialty.internal.md|specialty.internal]] 

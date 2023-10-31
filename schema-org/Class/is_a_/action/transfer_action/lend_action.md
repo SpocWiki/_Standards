@@ -41,14 +41,12 @@ The act of providing an object under an agreement that it will be returned at a 
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/BorrowAction">BorrowAction</a>: Reciprocal of LendAction.</li>
+<li>[[BorrowAction]]: Reciprocal of LendAction.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../TransferAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, borrower, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/lend_action.md|lend_action]] 

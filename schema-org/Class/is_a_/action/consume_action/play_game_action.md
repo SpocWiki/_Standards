@@ -44,8 +44,6 @@ The act of playing a video game.
 
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, gameAvailabilityType, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/play_game_action.md|play_game_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/play_game_action.internal.md|play_game_action.internal]] 

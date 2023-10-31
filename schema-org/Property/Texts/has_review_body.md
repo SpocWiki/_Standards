@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_review_body )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_review_body.md|has_review_body]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_review_body.internal.md|has_review_body.internal]] 

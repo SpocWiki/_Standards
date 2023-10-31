@@ -46,8 +46,6 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ repeatFrequency ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_frequency.md|has_frequency]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_frequency.internal.md|has_frequency.internal]] 

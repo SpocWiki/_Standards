@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_price_specification )
 ( #has_/range :: PriceSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_price_specification.md|has_price_specification]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_price_specification.internal.md|has_price_specification.internal]] 

@@ -40,13 +40,11 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Represents the generic notion of the Web Platform. More specific codes include <a class="localLink" href="/MobileWebPlatform">MobileWebPlatform</a> and <a class="localLink" href="/DesktopWebPlatform">DesktopWebPlatform</a>, as an incomplete list.
+Represents the generic notion of the Web Platform. More specific codes include [[MobileWebPlatform]] and [[DesktopWebPlatform]], as an incomplete list.
 
 [ #is_/sub_class_of :: [[../DigitalPlatformEnumeration]] ]
 
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/generic_web_platform.md|generic_web_platform]] 

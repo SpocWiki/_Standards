@@ -44,8 +44,6 @@ Physical activity of relatively low intensity that depends primarily on the aero
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.md|aerobic_activity]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.internal.md|aerobic_activity.internal]] 

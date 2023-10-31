@@ -44,8 +44,6 @@ OrderStatus representing that an order has been returned.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_returned.md|order_returned]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_returned.internal.md|order_returned.internal]] 

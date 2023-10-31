@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ funder ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sponsor.md|has_sponsor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sponsor.internal.md|has_sponsor.internal]] 

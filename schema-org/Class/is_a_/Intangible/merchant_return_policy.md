@@ -40,13 +40,11 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A MerchantReturnPolicy provides information about product return policies associated with an <a class="localLink" href="/Organization">Organization</a>, <a class="localLink" href="/Product">Product</a>, or <a class="localLink" href="/Offer">Offer</a>.
+A MerchantReturnPolicy provides information about product return policies associated with an [[Organization]], [[Product]], or [[Offer]].
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalProperty, additionalType, alternateName, applicableCountry, customerRemorseReturnFees, customerRemorseReturnLabelSource, customerRemorseReturnShippingFeesAmount, description, disambiguatingDescription, identifier, image, inStoreReturnsOffered, itemCondition, itemDefectReturnFees, itemDefectReturnLabelSource, itemDefectReturnShippingFeesAmount, mainEntityOfPage, merchantReturnDays, merchantReturnLink, name, potentialAction, refundType, restockingFee, returnFees, returnLabelSource, returnMethod, returnPolicyCategory, returnPolicyCountry, returnPolicySeasonalOverride, returnShippingFeesAmount, sameAs, subjectOf, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/merchant_return_policy.md|merchant_return_policy]] 

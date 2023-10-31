@@ -48,8 +48,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_variant_cover )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_variant_cover.md|has_variant_cover]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_variant_cover.internal.md|has_variant_cover.internal]] 

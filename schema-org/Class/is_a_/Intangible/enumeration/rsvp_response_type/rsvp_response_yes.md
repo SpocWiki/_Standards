@@ -44,8 +44,6 @@ The invitee will attend.
 
 [ #is_/enum_of :: [[../RsvpResponseType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.md|rsvp_response_yes]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.internal.md|rsvp_response_yes.internal]] 

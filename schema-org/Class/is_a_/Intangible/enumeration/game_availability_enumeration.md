@@ -38,11 +38,9 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-For a <a class="localLink" href="/VideoGame">VideoGame</a>, such as used with a <a class="localLink" href="/PlayGameAction">PlayGameAction</a>, an enumeration of the kind of game availability offered.
+For a [[VideoGame]], such as used with a [[PlayGameAction]], an enumeration of the kind of game availability offered.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration.md|game_availability_enumeration]] 

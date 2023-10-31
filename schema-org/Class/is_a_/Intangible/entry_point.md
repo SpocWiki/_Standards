@@ -42,8 +42,6 @@ An entry point, within some Web-based protocol.
 
 [ #has_/properties :: [ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/entry_point.md|entry_point]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/entry_point.internal.md|entry_point.internal]] 

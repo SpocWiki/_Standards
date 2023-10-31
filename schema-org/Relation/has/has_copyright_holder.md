@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_copyright_holder )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_copyright_holder.md|has_copyright_holder]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_copyright_holder.internal.md|has_copyright_holder.internal]] 

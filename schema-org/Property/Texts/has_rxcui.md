@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_rxcui )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_rxcui.md|has_rxcui]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_rxcui.internal.md|has_rxcui.internal]] 

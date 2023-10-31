@@ -12,7 +12,9 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 # House
 This is a kind of [[FileClass~Accommodation]]
 
-A house is a building or structure that has the ability to be occupied for habitation by humans or other creatures (source: Wikipedia, the free encyclopedia, see &lt;a href="http://en.wikipedia.org/wiki/House"&gt;http://en.wikipedia.org/wiki/House&lt;/a&gt;).
+A house is a building or structure that has the ability 
+to be occupied for habitation by humans or other creatures 
+(source: Wikipedia, http://en.wikipedia.org/wiki/House).
 
 
 ## Use one of these Tags for Objects of this Type:

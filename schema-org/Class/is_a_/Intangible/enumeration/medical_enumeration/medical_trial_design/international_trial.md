@@ -44,8 +44,6 @@ An international trial.
 
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.md|international_trial]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/international_trial.internal.md|international_trial.internal]] 

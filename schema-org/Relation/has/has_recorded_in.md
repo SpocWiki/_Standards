@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: recordedAt ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_recorded_in.md|has_recorded_in]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recorded_in.internal.md|has_recorded_in.internal]] 

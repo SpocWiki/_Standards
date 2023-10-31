@@ -13,8 +13,10 @@ extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/F
 This is a kind of [[FileClass~LodgingBusiness]]
 
 A hostel - cheap accommodation, often in shared dormitories.  
- &lt;br /&gt;&lt;br /&gt;  
- See also the &lt;a href="/docs/hotels.html"&gt;dedicated document on the use of schema.org for marking up hotels and other forms of accommodations&lt;/a&gt;.
+ 
+
+  
+ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
 
 ## Use one of these Tags for Objects of this Type:

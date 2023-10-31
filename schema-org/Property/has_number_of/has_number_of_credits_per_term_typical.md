@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_credits_per_term_typical )
 ( #has_/range :: Integer, StructuredValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.md|has_number_of_credits_per_term_typical]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_credits_per_term_typical.internal.md|has_number_of_credits_per_term_typical.internal]] 

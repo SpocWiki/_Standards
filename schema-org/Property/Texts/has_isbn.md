@@ -46,8 +46,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_isbn.md|has_isbn]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_isbn.internal.md|has_isbn.internal]] 

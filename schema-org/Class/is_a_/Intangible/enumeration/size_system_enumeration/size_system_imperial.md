@@ -46,8 +46,6 @@ Imperial size system.
 
 [ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.md|size_system_imperial]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.internal.md|size_system_imperial.internal]] 

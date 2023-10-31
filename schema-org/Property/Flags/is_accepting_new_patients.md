@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_accepting_new_patients )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_accepting_new_patients.md|is_accepting_new_patients]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_accepting_new_patients.internal.md|is_accepting_new_patients.internal]] 

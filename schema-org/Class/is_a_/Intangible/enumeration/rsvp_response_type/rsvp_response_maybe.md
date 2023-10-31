@@ -44,8 +44,6 @@ The invitee may or may not attend.
 
 [ #is_/enum_of :: [[../RsvpResponseType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.md|rsvp_response_maybe]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.internal.md|rsvp_response_maybe.internal]] 

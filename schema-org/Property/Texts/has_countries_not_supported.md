@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_countries_not_supported )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_countries_not_supported.md|has_countries_not_supported]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_countries_not_supported.internal.md|has_countries_not_supported.internal]] 

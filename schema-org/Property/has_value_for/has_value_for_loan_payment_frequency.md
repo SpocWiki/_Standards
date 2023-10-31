@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_loan_payment_frequency )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.md|has_value_for_loan_payment_frequency]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_loan_payment_frequency.internal.md|has_value_for_loan_payment_frequency.internal]] 

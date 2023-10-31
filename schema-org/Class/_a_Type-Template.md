@@ -54,8 +54,6 @@ Tag Instances like this:
 
 [ #has_/properties :: [ {{properties}} ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../_public/schema.org/Type/_a_Type-Template.md|_a_Type-Template]] 
 - [[../../../_internal/schema.org/Type/_a_Type-Template.internal.md|_a_Type-Template.internal]] 

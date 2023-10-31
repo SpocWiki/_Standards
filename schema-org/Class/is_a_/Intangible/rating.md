@@ -44,8 +44,6 @@ A rating is an evaluation on a numeric scale, such as 1 to 5 stars.
 
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/rating.md|rating]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/rating.internal.md|rating.internal]] 

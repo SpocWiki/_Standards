@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_prescribing_by_mail )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_prescribing_by_mail.md|is_prescribing_by_mail]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_prescribing_by_mail.internal.md|is_prescribing_by_mail.internal]] 

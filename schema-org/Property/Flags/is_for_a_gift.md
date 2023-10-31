@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_for_a_gift )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_for_a_gift.md|is_for_a_gift]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_for_a_gift.internal.md|is_for_a_gift.internal]] 

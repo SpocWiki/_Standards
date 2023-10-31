@@ -44,8 +44,6 @@ A seasonal override of a return policy, for example used for holidays.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, merchantReturnDays, name, potentialAction, returnPolicyCategory, sameAs, startDate, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.md|merchant_return_policy_seasonal_override]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.internal.md|merchant_return_policy_seasonal_override.internal]] 

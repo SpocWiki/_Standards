@@ -44,8 +44,6 @@ Indicates that the item is refurbished.
 
 [ #is_/enum_of :: [[../OfferItemCondition]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.md|refurbished_condition]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/refurbished_condition.internal.md|refurbished_condition.internal]] 

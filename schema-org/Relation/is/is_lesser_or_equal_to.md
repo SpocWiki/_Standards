@@ -47,7 +47,6 @@ Relation describes that:
 
 [ #is_/complement_of  :: [[is_greater_than]]] 
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_lesser_or_equal_to.md|is_lesser_or_equal_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_lesser_or_equal_to.internal.md|is_lesser_or_equal_to.internal]] 

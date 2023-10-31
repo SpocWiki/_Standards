@@ -42,8 +42,6 @@ A list of possible levels for the legal validity of a legislation.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/legal_value_level.md|legal_value_level]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level.internal.md|legal_value_level.internal]] 

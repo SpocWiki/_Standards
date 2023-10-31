@@ -44,8 +44,6 @@ The status for a previously confirmed reservation that is now cancelled.
 
 [ #is_/enum_of :: [[../ReservationStatusType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.md|reservation_cancelled]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_cancelled.internal.md|reservation_cancelled.internal]] 

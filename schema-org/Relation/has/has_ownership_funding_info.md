@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_ownership_funding_info.md|has_ownership_funding_info]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ownership_funding_info.internal.md|has_ownership_funding_info.internal]] 

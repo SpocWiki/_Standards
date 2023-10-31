@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_consumable_for)
 ( #has_/range :: Product)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_consumable_for.md|is_consumable_for]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_consumable_for.internal.md|is_consumable_for.internal]] 

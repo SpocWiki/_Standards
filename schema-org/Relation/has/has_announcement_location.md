@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: spatialCoverage ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_announcement_location.md|has_announcement_location]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_announcement_location.internal.md|has_announcement_location.internal]] 

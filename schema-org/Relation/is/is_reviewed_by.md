@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_reviewed_by )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_reviewed_by.md|is_reviewed_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_reviewed_by.internal.md|is_reviewed_by.internal]] 

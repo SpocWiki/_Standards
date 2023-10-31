@@ -40,8 +40,6 @@ A type of boarding policy used by an airline.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type.md|boarding_policy_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type.internal.md|boarding_policy_type.internal]] 

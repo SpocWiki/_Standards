@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of CreativeWork, DataFeedItem, Reservation.
 
-
-
 Use it like this: 
 - [has_time_modified::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/modified::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -46,11 +44,6 @@ Formal Predicate:
 [domain::CreativeWork, DataFeedItem, Reservation]
 (name::has_time_modified)
 (range::Date, DateTime)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_modified.md|has_time_modified]] 

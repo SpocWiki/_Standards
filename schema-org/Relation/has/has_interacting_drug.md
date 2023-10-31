@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_interacting_drug )
 ( #has_/range :: Drug )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_interacting_drug.md|has_interacting_drug]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_interacting_drug.internal.md|has_interacting_drug.internal]] 

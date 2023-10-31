@@ -42,8 +42,6 @@ Lists or enumerations dealing with status types.
 
 [ #has_/sub_classes :: [ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.md|status_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.internal.md|status_enumeration.internal]] 

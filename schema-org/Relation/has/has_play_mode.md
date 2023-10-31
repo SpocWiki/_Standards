@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_play_mode )
 ( #has_/range :: GamePlayMode )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_play_mode.md|has_play_mode]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_play_mode.internal.md|has_play_mode.internal]] 

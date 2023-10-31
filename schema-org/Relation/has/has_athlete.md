@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_athlete )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_athlete.md|has_athlete]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_athlete.internal.md|has_athlete.internal]] 

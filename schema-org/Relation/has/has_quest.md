@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_quest )
 ( #has_/range :: Thing )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_quest.md|has_quest]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_quest.internal.md|has_quest.internal]] 

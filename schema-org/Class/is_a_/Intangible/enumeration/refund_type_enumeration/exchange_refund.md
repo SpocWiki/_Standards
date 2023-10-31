@@ -46,8 +46,6 @@ Specifies that a refund can be done as an exchange for the same product.
 
 [ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.md|exchange_refund]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.internal.md|exchange_refund.internal]] 

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -33,18 +33,22 @@ aliases:
 - is_a_monetary_amount
 ---
 
-Class of all monetary_amounts.
+Class of all [[monetary_amount]]-Values.
 
 Tag Instances like this: 
 #is_a_/monetary_amount
 
-A monetary value or range. This type can be used to describe an amount of money such as $50 USD, or a range as in describing a bank account being suitable for a balance between Â£1,000 and Â£1,000,000 GBP, or the value of a salary, etc. It is recommended to use <a class="localLink" href="/PriceSpecification">PriceSpecification</a> Types to describe the price of an Offer, Invoice, etc.
+A monetary value or range. 
+This type can be used to describe an amount of money such as $50 USD, 
+or a range as in describing a bank account 
+being suitable for a balance between £1,000 and £1,000,000 GBP, 
+or the value of a salary, etc. 
+It is recommended to use [[../../../../Relation/has/has_price_specification|price-specification]] Types 
+to describe the price of an Offer, Invoice, etc.
 
 [ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.md|monetary_amount]] 

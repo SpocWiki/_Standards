@@ -38,15 +38,15 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-An <a class="localLink" href="/OfferForPurchase">OfferForPurchase</a> in Schema.org represents an <a class="localLink" href="/Offer">Offer</a> to sell something, i.e. an <a class="localLink" href="/Offer">Offer</a> whose
-  <a class="localLink" href="/businessFunction">businessFunction</a> is <a href="http://purl.org/goodrelations/v1#Sell.">sell</a>. See <a href="https://en.wikipedia.org/wiki/GoodRelations">Good Relations</a> for
-  background on the underlying concepts.
+An [[OfferForPurchase]] in Schema.org represents an [[Offer]] to sell something, 
+i.e. an [[Offer]] whose [[businessFunction]] is <a href="http://purl.org/goodrelations/v1#Sell.">sell</a>. 
+
+See the <a href="https://en.wikipedia.org/wiki/GoodRelations">Good Relations Ontology</a> 
+for background on the underlying concepts.
 
 [ #is_/sub_class_of :: [[../Offer]] ]
 
 [ #has_/properties :: [ acceptedPaymentMethod, addOn, additionalType, advanceBookingRequirement, aggregateRating, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, category, checkoutPageURLTemplate, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasMeasurement, hasMerchantReturnPolicy, identifier, image, includesObject, ineligibleRegion, inventoryLevel, isFamilyFriendly, itemCondition, itemOffered, leaseLength, mainEntityOfPage, mobileUrl, mpn, name, offeredBy, potentialAction, price, priceCurrency, priceSpecification, priceValidUntil, review, reviews, sameAs, seller, serialNumber, shippingDetails, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/offer/offer_for_purchase.md|offer_for_purchase]] 

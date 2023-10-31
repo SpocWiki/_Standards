@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_child_min_age )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_child_min_age.md|has_value_for_child_min_age]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_child_min_age.internal.md|has_value_for_child_min_age.internal]] 

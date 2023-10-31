@@ -44,8 +44,6 @@ OrderStatus representing cancellation of an order.
 
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_cancelled.md|order_cancelled]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_cancelled.internal.md|order_cancelled.internal]] 

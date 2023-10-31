@@ -48,8 +48,6 @@ Predicated describes that:
 
 #has_/sub_properties :: [ [[has_code_value]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_term_code.md|has_term_code]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_term_code.internal.md|has_term_code.internal]] 

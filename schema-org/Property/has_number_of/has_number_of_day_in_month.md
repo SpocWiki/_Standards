@@ -39,14 +39,12 @@ Use it like this:
 - [ #has_/number_of_/day_in_month :: Integer ] or 
 - [ has_number_of_day_in_month :: Integer ] 
 
-Defines the day(s) of the month on which a recurring <a class="localLink" href="/Event">Event</a> takes place. Specified as an <a class="localLink" href="/Integer">Integer</a> between 1-31.
+Defines the day(s) of the month on which a recurring [[Event]] takes place. Specified as an [[Integer]] between 1-31.
 
 Predicate describes that: 
 [ #has_/domain  :: Schedule ]
 ( #has_/name :: has_number_of_day_in_month )
 ( #has_/range :: Integer )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_day_in_month.md|has_number_of_day_in_month]] 

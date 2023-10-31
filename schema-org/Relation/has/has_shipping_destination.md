@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_shipping_destination )
 ( #has_/range :: DefinedRegion )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_shipping_destination.md|has_shipping_destination]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_shipping_destination.internal.md|has_shipping_destination.internal]] 

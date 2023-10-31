@@ -44,8 +44,6 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, category, code, description, disambiguatingDescription, epidemiology, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, pathophysiology, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.md|physical_activity]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.internal.md|physical_activity.internal]] 

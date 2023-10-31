@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_tissue_sample )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_tissue_sample.md|has_tissue_sample]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_tissue_sample.internal.md|has_tissue_sample.internal]] 

@@ -15,7 +15,6 @@ This is a kind of [[FileClass~CreativeWork]]
 A collection of items, e.g. creative works or products.
 Renamed to distinguish it from the general [[../../FileClass~Collection|FileClass~Collection]] 
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/Collection
@@ -28,5 +27,4 @@ Renamed to distinguish it from the general [[../../FileClass~Collection|FileClas
 The number of items in the [[Collection]].
 
 CollectionSize:: {"type":"Number","options":{}}
-
 

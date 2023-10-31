@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_geo
 
-title: has_geo_location_geo_midpoint
-linkTitle: has_geo_location_geo_midpoint
+title: has_geo_location_midpoint
+linkTitle: has_geo_location_midpoint
 
 keywords: [geo_midpoint]
 layout: 
@@ -28,23 +28,21 @@ aliases:
 - geo-midpoint
 - geo_midpoint
 - geoMidpoint
-- has_geo_location_geo_midpoint
+- has_geo_location_midpoint
 ---
 
 Predicate to describe the geo of GeoCircle.
 
 Use it like this: 
 - [ #has_/geo_/midpoint :: GeoCoordinates ] or 
-- [ has_geo_geo_midpoint :: GeoCoordinates ] 
+- [ has_geo_midpoint :: GeoCoordinates ] 
 
 Indicates the GeoCoordinates at the centre of a GeoShape, e.g. GeoCircle.
 
 Predicate describes that: 
 [ #has_/domain  :: GeoCircle ]
-( #has_/name :: has_geo_location_geo_midpoint )
+( #has_/name :: has_geo_location_midpoint )
 ( #has_/range :: GeoCoordinates )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_midpoint.md|has_geo_midpoint]] 

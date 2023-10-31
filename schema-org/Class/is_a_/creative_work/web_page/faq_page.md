@@ -36,13 +36,12 @@ Class of all faq_pages.
 Tag Instances like this: 
 #is_a_/faq_page
 
-A <a class="localLink" href="/FAQPage">FAQPage</a> is a <a class="localLink" href="/WebPage">WebPage</a> presenting one or more "<a href="https://en.wikipedia.org/wiki/FAQ">Frequently asked questions</a>" (see also <a class="localLink" href="/QAPage">QAPage</a>).
+A [[FAQPage]] is a [[WebPage]] presenting one or more "<a href="https://en.wikipedia.org/wiki/FAQ">Frequently asked questions</a>" 
+(see also [[QAPage]]).
 
 [ #is_/sub_class_of :: [[../WebPage]] ]
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, breadcrumb, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, lastReviewed, learningResourceType, license, locationCreated, mainContentOfPage, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, primaryImageOfPage, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, relatedLink, releasedEvent, review, reviewedBy, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, significantLink, significantLinks, size, sourceOrganization, spatial, spatialCoverage, speakable, specialty, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/creative_work/web_page/faq_page.md|faq_page]] 

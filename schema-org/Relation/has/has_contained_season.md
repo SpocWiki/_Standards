@@ -3,33 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_contained_season
-
 linkTitle: has_contained_season
-keywords: [contains, season]
+keywords:
+  - contains
+  - season
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: season
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- contains-season
-- contains_season
-- containsSeason
-- has_contained_season
+  - contains-season
+  - contains_season
+  - containsSeason
+  - has_contained_season
+  - has_season
 ---
 
 Use it like this: 
@@ -44,8 +41,6 @@ Relation describes that:
 ( #has_/range :: CreativeWorkSeason )
 
 [ #is_/sub_property_of  :: hasPart ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_contained_season.md|has_contained_season]] 

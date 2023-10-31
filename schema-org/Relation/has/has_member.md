@@ -3,33 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_member
-
 linkTitle: has_member
-keywords: [member]
+keywords:
+  - member
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: members, musicGroupMember
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- member
-- member
-- member
-- has_member
+  - member
+  - member
+  - member
+  - has_member
+  - has_music_group_member
 ---
 
 Use it like this: 
@@ -45,8 +41,6 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 [ #is_/inverse_of  :: [[is_member_of]] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_member.md|has_member]] 

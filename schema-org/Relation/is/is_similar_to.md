@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_similar_to)
 ( #has_/range :: Product, Service)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_similar_to.md|is_similar_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_similar_to.internal.md|is_similar_to.internal]] 

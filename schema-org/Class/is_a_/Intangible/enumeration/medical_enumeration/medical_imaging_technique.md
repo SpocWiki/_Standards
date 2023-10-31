@@ -40,8 +40,6 @@ Any medical imaging modality typically used for diagnostic purposes. Enumerated 
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.md|medical_imaging_technique]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.internal.md|medical_imaging_technique.internal]] 

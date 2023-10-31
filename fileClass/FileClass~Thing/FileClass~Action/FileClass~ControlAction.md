@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Action]]
 
 An agent controls a device or application.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/ControlAction
@@ -22,5 +21,4 @@ An agent controls a device or application.
 #class/Thing/Action/ControlAction
 
 ## Properties:
-
 

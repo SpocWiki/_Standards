@@ -46,8 +46,6 @@ Content about the benefits and advantages of usage or utilization of topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.md|benefits_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.internal.md|benefits_health_aspect.internal]] 

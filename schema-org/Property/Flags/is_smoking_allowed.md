@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_smoking_allowed )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_smoking_allowed.md|is_smoking_allowed]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_smoking_allowed.internal.md|is_smoking_allowed.internal]] 

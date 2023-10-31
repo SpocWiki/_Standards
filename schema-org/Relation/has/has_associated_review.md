@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ associatedClaimReview, associatedMediaReview ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_associated_review.md|has_associated_review]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_review.internal.md|has_associated_review.internal]] 

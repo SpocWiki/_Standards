@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_food_warning )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_food_warning.md|has_food_warning]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_food_warning.internal.md|has_food_warning.internal]] 

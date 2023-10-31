@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_text_value )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_text_value.md|has_text_value]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_text_value.internal.md|has_text_value.internal]] 

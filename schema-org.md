@@ -4,7 +4,19 @@ WS-Trust and WS-Federation are used to authorize SOAP Web-Service Calls and shar
 http://schemas.xmlsoap.org/ws/2005/05/identity/claims/ 
 
 Schema.org is a network of Interfaces, but is sampled with a [Hierarchy described here](https://schema.org/docs/full.html): 
-It does NOT have MetaData like [[rdf:]]
+It does NOT have MetaData like [[rdf:]] 
+
+Schema.org uses a Java-like [Naming-Convention](https://schema.org/docs/styleguide.html), which looks very technical with its [[Camel-Case]] Syntax. 
+
+Therefore its Names have been transformed into `_` (Unterscored) to improve readability. 
+Aliases with Dashes `-` have been created too, because combined Terms are often written that way. 
+
+It is developed by marking outdated Properties, Relations and Classes as [[schema-org/Relation/is/is_superseded_by|supersededBy]] 
+or its Reverse Relation `supersedes`. 
+Examples are: 
+- unifying Plural and Singular Predicates with Singular allowing List Values 
+- correcting Typos 
+- making initial names from a narrow context more specific 
 
 | Here          | Outlook      | Schema.org          | OpenID-Claims      | WS-Federation   | LDAP            | FOAF                                                             |
 | ------------- | ------------ | ------------------- | ------------------ | --------------- | --------------- | ---------------------------------------------------------------- |
@@ -54,5 +66,4 @@ It does NOT have MetaData like [[rdf:]]
 |               |              |                     |                    |                 | employeeNumber  |                                                                  |
 |               |              |                     |                    |                 | carLicense      |                                                                  |
 |               |              |                     |                    |                 |                 |                                                                  |
-
 

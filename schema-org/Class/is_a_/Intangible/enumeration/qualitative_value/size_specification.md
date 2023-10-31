@@ -38,13 +38,11 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Size related properties of a product, typically a size code (<a class="localLink" href="/name">name</a>) and optionally a <a class="localLink" href="/sizeSystem">sizeSystem</a>, <a class="localLink" href="/sizeGroup">sizeGroup</a>, and product measurements (<a class="localLink" href="/hasMeasurement">hasMeasurement</a>). In addition, the intended audience can be defined through <a class="localLink" href="/suggestedAge">suggestedAge</a>, <a class="localLink" href="/suggestedGender">suggestedGender</a>, and suggested body measurements (<a class="localLink" href="/suggestedMeasurement">suggestedMeasurement</a>).
+Size related properties of a product, typically a size code ([[name]]) and optionally a [[sizeSystem]], [[sizeGroup]], and product measurements ([[hasMeasurement]]). In addition, the intended audience can be defined through [[suggestedAge]], [[suggestedGender]], and suggested body measurements ([[suggestedMeasurement]]).
 
 [ #is_/sub_class_of :: [[../QualitativeValue]] ]
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.md|size_specification]] 

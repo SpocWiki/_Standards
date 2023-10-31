@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_time_of_cvd_collection)
 (range::DateTime, Text)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.md|has_time_of_cvd_collection]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.internal.md|has_time_of_cvd_collection.internal]] 

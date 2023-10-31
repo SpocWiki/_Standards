@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_penciler )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_penciler.md|has_penciler]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_penciler.internal.md|has_penciler.internal]] 

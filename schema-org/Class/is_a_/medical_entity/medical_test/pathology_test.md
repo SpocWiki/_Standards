@@ -42,8 +42,6 @@ A medical test performed by a laboratory that typically involves examination of 
 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, tissueSample, url, usedToDiagnose, usesDevice ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.md|pathology_test]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.internal.md|pathology_test.internal]] 

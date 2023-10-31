@@ -46,8 +46,6 @@ Represents the broad notion of 'mobile' browsers as a Web Platform.
 
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/mobile_web_platform.md|mobile_web_platform]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/mobile_web_platform.internal.md|mobile_web_platform.internal]] 

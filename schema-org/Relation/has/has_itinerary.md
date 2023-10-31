@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_itinerary )
 ( #has_/range :: ItemList, Place )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_itinerary.md|has_itinerary]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_itinerary.internal.md|has_itinerary.internal]] 

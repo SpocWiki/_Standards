@@ -44,8 +44,6 @@ CDFormat.
 
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.md|cd_format]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.internal.md|cd_format.internal]] 

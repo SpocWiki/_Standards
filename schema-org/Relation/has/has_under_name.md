@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_under_name )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_under_name.md|has_under_name]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_under_name.internal.md|has_under_name.internal]] 

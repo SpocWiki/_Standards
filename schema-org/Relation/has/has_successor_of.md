@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_successor_of )
 ( #has_/range :: ProductModel )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_successor_of.md|has_successor_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_successor_of.internal.md|has_successor_of.internal]] 

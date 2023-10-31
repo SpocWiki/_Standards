@@ -40,11 +40,17 @@ Use it like this:
 - [ has_text_about_measurement_technique :: Text, URL ] 
 
 A technique or technology used in a [[Dataset]] (or [[DataDownload]], [[DataCatalog]]),
-corresponding to the method used for measuring the corresponding variable(s) (described using [[variableMeasured]]). This is oriented towards scientific and scholarly dataset publication but may have broader applicability; it is not intended as a full representation of measurement, but rather as a high level summary for dataset discovery.\n\n\n\n
+corresponding to the method used for measuring the corresponding variable(s) (described using [[variableMeasured]]). This is oriented towards scientific and scholarly dataset publication but may have broader applicability; it is not intended as a full representation of measurement, but rather as a high level summary for dataset discovery.
 
-For example, if [[variableMeasured]] is: molecule concentration, [[measurementTechnique]] could be: "mass spectrometry" or "nmr spectroscopy" or "colorimetry" or "immunofluorescence".\n\n\n\n
 
-If the [[variableMeasured]] is "depression rating", the [[measurementTechnique]] could be "Zung Scale" or "HAM-D" or "Beck Depression Inventory".\n\n\n\n
+
+For example, if [[variableMeasured]] is: molecule concentration, [[measurementTechnique]] could be: "mass spectrometry" or "nmr spectroscopy" or "colorimetry" or "immunofluorescence".
+
+
+
+If the [[variableMeasured]] is "depression rating", the [[measurementTechnique]] could be "Zung Scale" or "HAM-D" or "Beck Depression Inventory".
+
+
 
 If there are several [[variableMeasured]] properties recorded for some given data object, use a [[PropertyValue]] for each [[variableMeasured]] and attach the corresponding [[measurementTechnique]].
 
@@ -52,8 +58,6 @@ Predicated describes that:
 [ #has_/domain  :: DataCatalog, DataDownload, Dataset, PropertyValue ]
 ( #has_/name :: has_text_about_measurement_technique )
 ( #has_/range :: Text, URL )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_measurement_technique.md|has_measurement_technique]] 

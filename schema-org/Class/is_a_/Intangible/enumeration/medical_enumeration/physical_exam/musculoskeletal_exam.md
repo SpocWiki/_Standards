@@ -44,8 +44,6 @@ Musculoskeletal system clinical examination.
 
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.md|musculoskeletal_exam]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.internal.md|musculoskeletal_exam.internal]] 

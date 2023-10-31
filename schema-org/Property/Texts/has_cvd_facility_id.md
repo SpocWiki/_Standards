@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_cvd_facility_id )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_cvd_facility_id.md|has_cvd_facility_id]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_cvd_facility_id.internal.md|has_cvd_facility_id.internal]] 

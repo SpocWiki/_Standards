@@ -44,8 +44,6 @@ RemixAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/remix_album.md|remix_album]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/remix_album.internal.md|remix_album.internal]] 

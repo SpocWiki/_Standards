@@ -39,7 +39,7 @@ Use it like this:
 - [ #has_/text_about_/mobile_url :: Text ] or 
 - [ has_text_about_mobile_url :: Text ] 
 
-The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated "mobile site".\n\n\n\n
+The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated "mobile site".
 
 To discourage over-use, and reflecting intial usecases, the property is expected only on [Product](../../Class/is_a_/product.md) and [Offer](../../Class/is_a_/intangible/offer.md), rather than [Thing](../../Class/Thing.md). The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive_web_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[url]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[url]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
 
@@ -47,8 +47,6 @@ Predicated describes that:
 [ #has_/domain  :: [[Offer](../../Class/is_a_/intangible/offer.md), [Product](../../Class/is_a_/product.md)] ]
 ( #has_/name :: has_text_about_mobile_url )
 ( #has_/range :: Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_mobile_url.md|has_mobile_url]] 

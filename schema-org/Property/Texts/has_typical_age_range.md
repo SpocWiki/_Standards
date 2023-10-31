@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_typical_age_range )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_typical_age_range.md|has_typical_age_range]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_typical_age_range.internal.md|has_typical_age_range.internal]] 

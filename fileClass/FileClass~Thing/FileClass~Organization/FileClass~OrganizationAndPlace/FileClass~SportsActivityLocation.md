@@ -14,7 +14,6 @@ This is a kind of [[FileClass~LocalBusiness]]
 
 A sports location, such as a playing field.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/SportsActivityLocation
@@ -22,5 +21,4 @@ A sports location, such as a playing field.
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation
 
 ## Properties:
-
 

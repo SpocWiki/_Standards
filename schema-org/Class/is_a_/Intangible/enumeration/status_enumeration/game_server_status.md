@@ -40,8 +40,6 @@ Status of a game server.
 
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status.md|game_server_status]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status.internal.md|game_server_status.internal]] 

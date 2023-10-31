@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_issued_through )
 ( #has_/range :: Service )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_issued_through.md|is_issued_through]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_issued_through.internal.md|is_issued_through.internal]] 

@@ -44,8 +44,6 @@ Indicates that the item has sold out.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/sold_out.md|sold_out]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/sold_out.internal.md|sold_out.internal]] 

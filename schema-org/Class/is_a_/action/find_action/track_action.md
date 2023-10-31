@@ -41,15 +41,13 @@ An agent tracks an object for updates.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/FollowAction">FollowAction</a>: Unlike FollowAction, TrackAction refers to the interest on the location of innanimates objects.</li>
-<li><a class="localLink" href="/SubscribeAction">SubscribeAction</a>: Unlike SubscribeAction, TrackAction refers to  the interest on the location of innanimate objects.</li>
+<li>[[FollowAction]]: Unlike FollowAction, TrackAction refers to the interest on the location of innanimates objects.</li>
+<li>[[SubscribeAction]]: Unlike SubscribeAction, TrackAction refers to  the interest on the location of innanimate objects.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../FindAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/find_action/track_action.md|track_action]] 

@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_cost_per_unit )
 ( #has_/range :: Number, QualitativeValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_cost_per_unit.md|has_value_for_cost_per_unit]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_cost_per_unit.internal.md|has_value_for_cost_per_unit.internal]] 

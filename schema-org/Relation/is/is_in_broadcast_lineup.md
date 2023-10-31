@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_in_broadcast_lineup )
 ( #has_/range :: CableOrSatelliteService )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.md|is_in_broadcast_lineup]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.internal.md|is_in_broadcast_lineup.internal]] 

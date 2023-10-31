@@ -36,12 +36,9 @@ Class of all medical_codes.
 Tag Instances like this: 
 #is_a_/medical_code
 
-
 [ #is_/sub_class_of :: [[../CategoryCode, MedicalIntangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.md|medical_code]] 

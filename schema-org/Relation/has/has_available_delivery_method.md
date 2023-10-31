@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_available_delivery_method )
 ( #has_/range :: DeliveryMethod )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_available_delivery_method.md|has_available_delivery_method]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_delivery_method.internal.md|has_available_delivery_method.internal]] 

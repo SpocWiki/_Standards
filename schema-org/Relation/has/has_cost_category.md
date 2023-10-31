@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_cost_category )
 ( #has_/range :: DrugCostCategory )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_cost_category.md|has_cost_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cost_category.internal.md|has_cost_category.internal]] 

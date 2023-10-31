@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: image ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_photo.md|has_photo]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_photo.internal.md|has_photo.internal]] 

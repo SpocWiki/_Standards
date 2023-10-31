@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: hasVariant]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_variant_of.md|is_variant_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_variant_of.internal.md|is_variant_of.internal]] 

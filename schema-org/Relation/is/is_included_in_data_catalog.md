@@ -31,7 +31,7 @@ aliases:
 - is_included_in_data_catalog
 ---
 
-[ supersedes :: [[has_catalog]], [[../has/is_included_data_catalog]] ]
+[ supersedes :: [[has_catalog]], [[../has/is_included_in_data_catalog]] ]
 
 Use it like this: 
 - [ #has_/included_in_data_catalog :: DataCatalog ] or 
@@ -45,8 +45,6 @@ Relation describes that:
 ( #has_/range :: DataCatalog )
 
 [ #is_/inverse_of  :: dataset ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_included_in_data_catalog.md|is_included_in_data_catalog]] 

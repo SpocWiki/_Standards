@@ -44,8 +44,6 @@ Permission to read or view the document.
 
 [ #is_/enum_of :: [[../DigitalDocumentPermissionType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.md|read_permission]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_document_permission_type/read_permission.internal.md|read_permission.internal]] 

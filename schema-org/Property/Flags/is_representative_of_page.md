@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_representative_of_page )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_representative_of_page.md|is_representative_of_page]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_representative_of_page.internal.md|is_representative_of_page.internal]] 

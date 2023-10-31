@@ -44,8 +44,6 @@ An application programming interface accessible over Web/Internet technologies.
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, documentation, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/web_api.md|web_api]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/web_api.internal.md|web_api.internal]] 

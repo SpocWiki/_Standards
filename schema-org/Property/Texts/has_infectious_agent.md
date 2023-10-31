@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_infectious_agent )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_infectious_agent.md|has_infectious_agent]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_infectious_agent.internal.md|has_infectious_agent.internal]] 

@@ -42,8 +42,6 @@ A profession, may involve prolonged training and/or a formal qualification.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/occupation.md|occupation]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/occupation.internal.md|occupation.internal]] 

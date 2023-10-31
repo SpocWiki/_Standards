@@ -34,14 +34,14 @@ Use it like this:
 - [ #has_/interaction_type :: Action ] or 
 - [ has_interaction_type :: Action ] 
 
-The Action representing the type of interaction. For up votes, +1s, etc. use [[LikeAction]]. For down votes use [[DislikeAction]]. Otherwise, use the most specific Action.
+The Action representing the type of interaction. 
+For up-votes, +1s, etc. use [[LikeAction]]. 
+For down-votes use [[DislikeAction]]. Otherwise, use the most specific Action.
 
 Relation describes that: 
 [ #has_/domain  :: InteractionCounter ]
 ( #has_/name :: has_interaction_type )
 ( #has_/range :: Action )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_interaction_type.md|has_interaction_type]] 

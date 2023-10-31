@@ -44,8 +44,6 @@ Results are not available.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/results_not_available.md|results_not_available]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/results_not_available.internal.md|results_not_available.internal]] 

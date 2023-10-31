@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[../is/is_part_of_bio_chem_entity]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_bio_chem_entity_part.md|has_bio_chem_entity_part]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_bio_chem_entity_part.internal.md|has_bio_chem_entity_part.internal]] 

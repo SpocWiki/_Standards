@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_exif_data )
 ( #has_/range :: PropertyValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_exif_data.md|has_exif_data]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_exif_data.internal.md|has_exif_data.internal]] 

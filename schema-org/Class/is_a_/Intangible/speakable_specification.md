@@ -36,13 +36,11 @@ Class of all speakable_specifications.
 Tag Instances like this: 
 #is_a_/speakable_specification
 
-A SpeakableSpecification indicates (typically via <a class="localLink" href="/xpath">xpath</a> or <a class="localLink" href="/cssSelector">cssSelector</a>) sections of a document that are highlighted as particularly <a class="localLink" href="/speakable">speakable</a>. Instances of this type are expected to be used primarily as values of the <a class="localLink" href="/speakable">speakable</a> property.
+A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) sections of a document that are highlighted as particularly [[speakable]]. Instances of this type are expected to be used primarily as values of the [[speakable]] property.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, cssSelector, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, xpath ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/speakable_specification.md|speakable_specification]] 

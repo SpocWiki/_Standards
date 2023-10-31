@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_Covid_vent )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_Covid_vent.md|has_number_of_Covid_vent]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_vent.internal.md|has_number_of_Covid_vent.internal]] 

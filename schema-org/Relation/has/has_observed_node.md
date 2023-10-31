@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_observed_node )
 ( #has_/range :: StatisticalPopulation )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_observed_node.md|has_observed_node]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_observed_node.internal.md|has_observed_node.internal]] 

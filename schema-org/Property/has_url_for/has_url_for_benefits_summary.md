@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_url_for_benefits_summary_url )
 ( #has_/range :: URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Urls/has_url_for_benefits_summary_url.md|has_url_for_benefits_summary_url]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_benefits_summary_url.internal.md|has_url_for_benefits_summary_url.internal]] 

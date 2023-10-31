@@ -44,8 +44,6 @@ Relation describes that:
 ( #has_/name :: has_media_authenticity_category )
 ( #has_/range :: [[../../../Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration]] )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_media_authenticity_category.md|has_media_authenticity_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_media_authenticity_category.internal.md|has_media_authenticity_category.internal]] 

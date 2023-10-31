@@ -46,8 +46,6 @@ Indicates the usage of the vehicle as a rental car.
 
 [ #is_/enum_of :: [[../CarUsageType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.md|rental_vehicle_usage]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.internal.md|rental_vehicle_usage.internal]] 

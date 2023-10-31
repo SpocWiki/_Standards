@@ -39,15 +39,13 @@ Tag Instances like this:
 The act of physically/electronically dispatching an object for transfer from an origin to a destination. Related actions:
 
 <ul>
-<li><a class="localLink" href="/ReceiveAction">ReceiveAction</a>: The reciprocal of SendAction.</li>
-<li><a class="localLink" href="/GiveAction">GiveAction</a>: Unlike GiveAction, SendAction does not imply the transfer of ownership (e.g. I can send you my laptop, but I'm not necessarily giving it to you).</li>
+<li>[[ReceiveAction]]: The reciprocal of SendAction.</li>
+<li>[[GiveAction]]: Unlike GiveAction, SendAction does not imply the transfer of ownership (e.g. I can send you my laptop, but I'm not necessarily giving it to you).</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../TransferAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/send_action.md|send_action]] 

@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_postal_code_end )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_postal_code_end.md|has_postal_code_end]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_postal_code_end.internal.md|has_postal_code_end.internal]] 

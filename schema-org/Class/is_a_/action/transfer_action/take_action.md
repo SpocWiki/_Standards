@@ -41,15 +41,13 @@ The act of gaining ownership of an object from an origin. Reciprocal of GiveActi
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/GiveAction">GiveAction</a>: The reciprocal of TakeAction.</li>
-<li><a class="localLink" href="/ReceiveAction">ReceiveAction</a>: Unlike ReceiveAction, TakeAction implies that ownership has been transferred.</li>
+<li>[[GiveAction]]: The reciprocal of TakeAction.</li>
+<li>[[ReceiveAction]]: Unlike ReceiveAction, TakeAction implies that ownership has been transferred.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../TransferAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/take_action.md|take_action]] 

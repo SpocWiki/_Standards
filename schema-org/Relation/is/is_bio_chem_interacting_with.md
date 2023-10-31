@@ -44,8 +44,6 @@ Relation describes that:
 ( #has_/name :: is_bio_chem_interacting_with )
 ( #has_/range :: BioChemEntity )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_bio_chem_interacting_with.md|is_bio_chem_interacting_with]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_bio_chem_interacting_with.internal.md|is_bio_chem_interacting_with.internal]] 

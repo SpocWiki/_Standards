@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: participant ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sender.md|has_sender]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sender.internal.md|has_sender.internal]] 

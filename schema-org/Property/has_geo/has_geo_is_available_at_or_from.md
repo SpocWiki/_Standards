@@ -46,8 +46,6 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: areaServed ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_is_available_at_or_from.md|has_geo_is_available_at_or_from]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_is_available_at_or_from.internal.md|has_geo_is_available_at_or_from.internal]] 

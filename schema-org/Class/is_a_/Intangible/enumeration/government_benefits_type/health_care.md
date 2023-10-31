@@ -46,8 +46,6 @@ HealthCare: this is a benefit for health care.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/health_care.md|health_care]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/health_care.internal.md|health_care.internal]] 

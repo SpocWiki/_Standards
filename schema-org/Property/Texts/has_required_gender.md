@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_required_gender )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_required_gender.md|has_required_gender]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_required_gender.internal.md|has_required_gender.internal]] 

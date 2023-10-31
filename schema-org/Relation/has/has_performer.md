@@ -47,7 +47,6 @@ Relation describes that:
 
 [[../is_inverse_of]]
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_performer.md|has_performer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_performer.internal.md|has_performer.internal]] 

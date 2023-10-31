@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_musical_key )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_musical_key.md|has_musical_key]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_musical_key.internal.md|has_musical_key.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_broadcast_affiliate_of )
 ( #has_/range :: Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_broadcast_affiliate_of.md|has_broadcast_affiliate_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_affiliate_of.internal.md|has_broadcast_affiliate_of.internal]] 

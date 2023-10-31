@@ -42,8 +42,6 @@ An agent inspects, determines, investigates, inquires, or examines an object's a
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/find_action/check_action.md|check_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/find_action/check_action.internal.md|check_action.internal]] 

@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of Vehicle.
 
-
-
 Use it like this: 
 - [has_time_vehicle_first_registered::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/vehicle_first_registered::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::Vehicle]
 (name::has_time_vehicle_first_registered)
 (range::Date)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_vehicle_first_registered.md|has_time_vehicle_first_registered]] 

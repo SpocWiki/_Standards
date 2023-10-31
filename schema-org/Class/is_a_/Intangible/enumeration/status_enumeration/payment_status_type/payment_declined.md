@@ -44,8 +44,6 @@ The payee received the payment, but it was declined for some reason.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.md|payment_declined]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.internal.md|payment_declined.internal]] 

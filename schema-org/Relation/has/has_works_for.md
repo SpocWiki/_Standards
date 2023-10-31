@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_works_for )
 ( #has_/range :: Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_works_for.md|has_works_for]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_works_for.internal.md|has_works_for.internal]] 

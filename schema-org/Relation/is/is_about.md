@@ -47,8 +47,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ [has_main_entity](../has/has_main_entity.md) ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_about.md|is_about]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_about.internal.md|is_about.internal]] 

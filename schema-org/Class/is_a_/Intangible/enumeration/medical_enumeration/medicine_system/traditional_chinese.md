@@ -44,8 +44,6 @@ A system of medicine based on common theoretical concepts that originated in Chi
 
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.md|traditional_chinese]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/traditional_chinese.internal.md|traditional_chinese.internal]] 

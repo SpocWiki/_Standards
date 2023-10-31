@@ -44,8 +44,6 @@ A chemical substance is 'a portion of matter of constant composition, composed o
 
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalComposition, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, potentialUse, sameAs, subjectOf, taxonomicRange, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/bio_chem_entity/chemical_substance.md|chemical_substance]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/chemical_substance.internal.md|chemical_substance.internal]] 

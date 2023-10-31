@@ -44,8 +44,6 @@ A medical device used for diagnostic purposes.
 
 [ #is_/enum_of :: [[../MedicalDevicePurpose]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.md|diagnostic]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose/diagnostic.internal.md|diagnostic.internal]] 

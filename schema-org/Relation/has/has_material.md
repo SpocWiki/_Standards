@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ artMedium, surface ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_material.md|has_material]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_material.internal.md|has_material.internal]] 

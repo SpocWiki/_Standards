@@ -44,8 +44,6 @@ A specific branch of medical science that pertains to the health care of women, 
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.md|gynecologic]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.internal.md|gynecologic.internal]] 

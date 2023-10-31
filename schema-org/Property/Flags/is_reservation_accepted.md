@@ -38,14 +38,12 @@ Use these simple Tags to mark Instances as True or False:
 Or write it as a Triple: 
 [ is_reservation_accepted :: Boolean, Text, URL ] 
 
-Indicates whether a FoodEstablishment accepts reservations. Values can be Boolean, an URL at which reservations can be made or (for backwards compatibility) the strings &lt;code&gt;Yes&lt;/code&gt; or &lt;code&gt;No&lt;/code&gt;.
+Indicates whether a FoodEstablishment accepts reservations. Values can be Boolean, an URL at which reservations can be made or (for backwards compatibility) the strings <code>Yes</code> or <code>No</code>.
 
 Predicate describes that: 
 [ #has_/domain  :: FoodEstablishment ]
 ( #has_/name :: is_reservation_accepted )
 ( #has_/range :: Boolean, Text, URL )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_reservation_accepted.md|is_reservation_accepted]] 

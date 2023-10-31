@@ -42,8 +42,6 @@ Enumerates several kinds of policies for product return fees.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration.md|return_fees_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration.internal.md|return_fees_enumeration.internal]] 

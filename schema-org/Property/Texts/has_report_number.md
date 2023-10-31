@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_report_number )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_report_number.md|has_report_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_report_number.internal.md|has_report_number.internal]] 

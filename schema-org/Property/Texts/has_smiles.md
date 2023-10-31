@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: hasRepresentation ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_smiles.md|has_smiles]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_smiles.internal.md|has_smiles.internal]] 

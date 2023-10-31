@@ -62,13 +62,10 @@ Instances can be Members of [[../Classes.md|Classes]]. Typically the narrowest S
 as the [[is_sub-class_of|subclass-of]] Relation allows to infer many other Classes 
 (but not all! A Thing may be an instance of multiple disjoint Class Hierarchies). 
 
-
 Tagging Instances like this is futile, because it is implied: 
 #is_a_/thing 
 
 #is_a_/class  
-
-
 
 Don't used this Class in a Relation, because it is too vague. Rather use 
 - [[is_instance_of]] for Objects or 
@@ -107,11 +104,9 @@ either in the Frontmatter or anywhere in the Text.
 - [[../../_personal/schema.org/Thing.personal.md|Entity.personal]] 
 - [[../../_secret/schema.org/Thing.secret.md|Entity.secret]] 
 
-
 ```davaviewjs
 dv.pages('#class/Class')
 ```
-
 
 ```dataview
 LIST FROM #class/Class 

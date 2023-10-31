@@ -44,8 +44,6 @@ Dietetics and nutrition as a medical specialty.
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.md|diet_nutrition]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.internal.md|diet_nutrition.internal]] 

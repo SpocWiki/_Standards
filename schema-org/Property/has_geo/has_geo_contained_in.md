@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_contained_in )
 ( #has_/range :: Place )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_contained_in.md|has_geo_contained_in]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_contained_in.internal.md|has_geo_contained_in.internal]] 

@@ -44,8 +44,6 @@ A trial design in which the researcher knows the full details of the treatment, 
 
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.md|open_trial]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/open_trial.internal.md|open_trial.internal]] 

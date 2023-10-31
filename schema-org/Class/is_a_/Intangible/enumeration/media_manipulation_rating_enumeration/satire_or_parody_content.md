@@ -40,7 +40,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Content coded 'satire or parody content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, considered in the context of how it was published or shared.
+Content coded 'satire or parody content' in a [[MediaReview]], considered in the context of how it was published or shared.
 
 # For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
 A video that was created as political or humorous commentary and is presented in that context. (Reshares of satire/parody content that do not include relevant context are more likely to fall under the â€œmissing contextâ€ rating.)
@@ -55,8 +55,6 @@ Audio that was created as political or humorous commentary and is presented in t
 [ #is_/sub_class_of :: [[../media_manipulation_rating_enumeration]] ]
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.md|satire_or_parody_content]] 

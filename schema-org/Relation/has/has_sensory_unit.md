@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_sensory_unit )
 ( #has_/range :: AnatomicalStructure, SuperficialAnatomy )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sensory_unit.md|has_sensory_unit]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sensory_unit.internal.md|has_sensory_unit.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_study_location )
 ( #has_/range :: AdministrativeArea )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_study_location.md|has_study_location]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study_location.internal.md|has_study_location.internal]] 

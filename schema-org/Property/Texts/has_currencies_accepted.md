@@ -37,7 +37,9 @@ Use it like this:
 - [ #has_/text_about_/currencies_accepted :: Text ] or 
 - [ has_text_about_currencies_accepted :: Text ] 
 
-The currency accepted.\n\n\n\n
+The currency accepted.
+
+
 
 Use standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/ISO_4217), e.g. "USD"; [Ticker symbol](https://en.wikipedia.org/wiki/List_of_cryptocurrencies) for cryptocurrencies, e.g. "BTC"; well known names for [Local Exchange Trading Systems](https://en.wikipedia.org/wiki/Local_exchange_trading_system) (LETS) and other currency types, e.g. "Ithaca HOUR".
 
@@ -45,8 +47,6 @@ Predicated describes that:
 [ #has_/domain  :: LocalBusiness ]
 ( #has_/name :: has_text_about_currencies_accepted )
 ( #has_/range :: Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_currencies_accepted.md|has_currencies_accepted]] 

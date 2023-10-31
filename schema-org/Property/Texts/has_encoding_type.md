@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_encoding_type )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_encoding_type.md|has_encoding_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_encoding_type.internal.md|has_encoding_type.internal]] 

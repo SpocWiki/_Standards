@@ -44,8 +44,6 @@ Completed.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/completed.md|completed]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/completed.internal.md|completed.internal]] 

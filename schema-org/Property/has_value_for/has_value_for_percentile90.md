@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_percentile90 )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_percentile90.md|has_value_for_percentile90]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_percentile90.internal.md|has_value_for_percentile90.internal]] 

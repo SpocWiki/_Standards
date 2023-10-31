@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_health_plan_network_id )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_health_plan_network_id.md|has_health_plan_network_id]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_health_plan_network_id.internal.md|has_health_plan_network_id.internal]] 

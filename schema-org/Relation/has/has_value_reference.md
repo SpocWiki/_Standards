@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_value_reference )
 ( #has_/range :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_value_reference.md|has_value_reference]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_value_reference.internal.md|has_value_reference.internal]] 

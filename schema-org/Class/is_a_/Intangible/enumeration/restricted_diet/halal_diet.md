@@ -44,8 +44,6 @@ A diet conforming to Islamic dietary practices.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.md|halal_diet]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.internal.md|halal_diet.internal]] 

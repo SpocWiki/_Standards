@@ -52,8 +52,6 @@ Relation describes that:
 ( #has_/name :: has_legislation_changes_to )
 ( #has_/range :: Legislation )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_legislation_changes_to.md|has_legislation_changes_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legislation_changes_to.internal.md|has_legislation_changes_to.internal]] 

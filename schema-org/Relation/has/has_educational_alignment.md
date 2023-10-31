@@ -34,7 +34,9 @@ Use it like this:
 - [ #has_/educational_alignment :: AlignmentObject ] or 
 - [ has_educational_alignment :: AlignmentObject ] 
 
-An alignment to an established educational framework.\n\n\n\n
+An alignment to an established educational framework.
+
+
 
 This property should not be used where the nature of the alignment can be described using a simple property, for example to express that a resource [[teaches]] or [[assesses]] a competency.
 
@@ -42,8 +44,6 @@ Relation describes that:
 [ #has_/domain  :: CreativeWork, LearningResource ]
 ( #has_/name :: has_educational_alignment )
 ( #has_/range :: AlignmentObject )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_educational_alignment.md|has_educational_alignment]] 

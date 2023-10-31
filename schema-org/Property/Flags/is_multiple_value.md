@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_multiple_value )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_multiple_value.md|is_multiple_value]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_multiple_value.internal.md|is_multiple_value.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_occupation )
 ( #has_/range :: Occupation )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_occupation.md|has_occupation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_occupation.internal.md|has_occupation.internal]] 

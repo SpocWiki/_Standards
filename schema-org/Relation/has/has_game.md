@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: gameServer ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_game.md|has_game]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game.internal.md|has_game.internal]] 

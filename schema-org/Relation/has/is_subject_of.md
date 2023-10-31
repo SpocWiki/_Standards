@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [is_about](../is/is_about.md) ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_subject_of.md|is_subject_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_subject_of.internal.md|is_subject_of.internal]] 

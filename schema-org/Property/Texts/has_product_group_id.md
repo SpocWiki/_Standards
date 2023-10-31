@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_product_group_id )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_product_group_id.md|has_product_group_id]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_product_group_id.internal.md|has_product_group_id.internal]] 

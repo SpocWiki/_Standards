@@ -40,8 +40,6 @@ An enumeration that describes different types of medical procedures.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type.md|medical_procedure_type]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type.internal.md|medical_procedure_type.internal]] 

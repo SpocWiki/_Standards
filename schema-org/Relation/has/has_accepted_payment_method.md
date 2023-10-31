@@ -42,8 +42,6 @@ Relation describes that:
 ( #has_/name :: has_accepted_payment_method )
 ( #has_/range :: LoanOrCredit, PaymentMethod )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_accepted_payment_method.md|has_accepted_payment_method]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accepted_payment_method.internal.md|has_accepted_payment_method.internal]] 

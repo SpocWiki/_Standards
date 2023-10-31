@@ -48,7 +48,6 @@ aliases:
 
 [is_part_of::{{isPartOf}}]
 
-
 ## Confidential Links & Embeds: 
 - [[../../../_public/schema.org/Predicate/_Predicate-Template.md|_Predicate-Template]] 
 - [[../../../_internal/schema.org/Predicate/_Predicate-Template.internal.md|_Predicate-Template.internal]] 

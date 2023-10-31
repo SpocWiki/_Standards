@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_program_name )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_program_name.md|has_program_name]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_program_name.internal.md|has_program_name.internal]] 

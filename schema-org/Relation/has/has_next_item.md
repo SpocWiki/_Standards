@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_next_item )
 ( #has_/range :: ListItem )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_next_item.md|has_next_item]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_next_item.internal.md|has_next_item.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_sd_license )
 ( #has_/range :: CreativeWork, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sd_license.md|has_sd_license]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sd_license.internal.md|has_sd_license.internal]] 

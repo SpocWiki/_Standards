@@ -42,8 +42,6 @@ A service provided by a government organization, e.g. food stamps, veterans bene
 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, jurisdiction, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOperator, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/government_service.md|government_service]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/government_service.internal.md|government_service.internal]] 

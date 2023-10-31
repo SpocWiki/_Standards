@@ -44,8 +44,6 @@ A structured value representing repayment.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, downPayment, earlyPrepaymentPenalty, identifier, image, loanPaymentAmount, loanPaymentFrequency, mainEntityOfPage, name, numberOfLoanPayments, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.md|repayment_specification]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.internal.md|repayment_specification.internal]] 

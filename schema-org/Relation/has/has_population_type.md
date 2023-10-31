@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_population_type )
 ( #has_/range :: Class )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_population_type.md|has_population_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_population_type.internal.md|has_population_type.internal]] 

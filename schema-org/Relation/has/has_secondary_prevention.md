@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_secondary_prevention )
 ( #has_/range :: MedicalTherapy )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_secondary_prevention.md|has_secondary_prevention]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_secondary_prevention.internal.md|has_secondary_prevention.internal]] 

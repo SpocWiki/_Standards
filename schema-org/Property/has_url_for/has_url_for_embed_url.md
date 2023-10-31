@@ -37,14 +37,12 @@ Use it like this:
 - [ #has_/url_for_/embed :: URL ] or 
 - [ has_url_for_embed :: URL ] 
 
-A URL pointing to a player for a specific video. In general, this is the information in the &lt;code&gt;src&lt;/code&gt; element of an &lt;code&gt;embed&lt;/code&gt; tag and should not be the same as the content of the &lt;code&gt;loc&lt;/code&gt; tag.
+A URL pointing to a player for a specific video. In general, this is the information in the <code>src</code> element of an <code>embed</code> tag and should not be the same as the content of the <code>loc</code> tag.
 
 Predicate describes that: 
 [ #has_/domain  :: MediaObject ]
 ( #has_/name :: has_url_for_embed_url )
 ( #has_/range :: URL )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Urls/has_url_for_embed_url.md|has_url_for_embed_url]] 

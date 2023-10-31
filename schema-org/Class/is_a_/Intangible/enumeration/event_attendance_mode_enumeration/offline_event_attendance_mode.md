@@ -46,8 +46,6 @@ OfflineEventAttendanceMode - an event that is primarily conducted offline.
 
 [ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.md|offline_event_attendance_mode]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.internal.md|offline_event_attendance_mode.internal]] 

@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of ParcelDelivery.
 
-
-
 Use it like this: 
 - [has_time_of_expected_arrival_until::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/of_expected_arrival_until::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::ParcelDelivery]
 (name::has_time_of_expected_arrival_until)
 (range::Date, DateTime)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.md|has_time_of_expected_arrival_until]] 

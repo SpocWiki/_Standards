@@ -48,8 +48,6 @@ Specifies that product returns are not permitted.
 
 [ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.md|merchant_return_not_permitted]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.internal.md|merchant_return_not_permitted.internal]] 

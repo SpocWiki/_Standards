@@ -44,8 +44,6 @@ SingleRelease.
 
 [ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/single_release.md|single_release]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/single_release.internal.md|single_release.internal]] 

@@ -44,8 +44,6 @@ All-wheel Drive is a transmission layout where the engine drives all four wheels
 
 [ #is_/enum_of :: [[../DriveWheelConfigurationValue]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/all_wheel_drive_configuration.md|all_wheel_drive_configuration]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/all_wheel_drive_configuration.internal.md|all_wheel_drive_configuration.internal]] 

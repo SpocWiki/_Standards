@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_add_on )
 ( #has_/range :: Offer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_add_on.md|has_add_on]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_add_on.internal.md|has_add_on.internal]] 

@@ -41,9 +41,7 @@ Relation describes that:
 ( #has_/name :: has_dataset )
 ( #has_/range :: Dataset )
 
-[ #is_/inverse_of  :: [[is_included_in_data_catalog]] ]
-
-
+[ #is_/inverse_of  :: [[../is/is_included_in_data_catalog]] ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_dataset.md|has_dataset]] 

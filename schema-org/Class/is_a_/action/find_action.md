@@ -41,7 +41,7 @@ The act of finding an object.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/SearchAction">SearchAction</a>: FindAction is generally lead by a SearchAction, but not necessarily.</li>
+<li>[[SearchAction]]: FindAction is generally lead by a SearchAction, but not necessarily.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../Action]] ]
@@ -49,8 +49,6 @@ Related actions:
 [ #has_/sub_classes :: [ CheckAction, DiscoverAction, TrackAction ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/action/find_action.md|find_action]] 

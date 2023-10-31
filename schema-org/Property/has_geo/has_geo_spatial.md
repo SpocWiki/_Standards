@@ -37,15 +37,13 @@ Use it like this:
 - [ #has_/geo_/spatial :: Place ] or 
 - [ has_geo_spatial :: Place ] 
 
-The &quot;spatial&quot; property can be used in cases when more specific properties
+The "spatial" property can be used in cases when more specific properties
 (e.g. [[locationCreated]], [[spatialCoverage]], [[contentLocation]]) are not known to be appropriate.
 
 Predicate describes that: 
 [ #has_/domain  :: CreativeWork ]
 ( #has_/name :: has_geo_location_spatial )
 ( #has_/range :: Place )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_spatial.md|has_geo_spatial]] 

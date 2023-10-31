@@ -44,8 +44,6 @@ The average rating based on multiple ratings or reviews.
 
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/rating/aggregate_rating.md|aggregate_rating]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/rating/aggregate_rating.internal.md|aggregate_rating.internal]] 

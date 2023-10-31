@@ -46,8 +46,6 @@ Content discussing pregnancy-related aspects of a health topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/pregnancy_health_aspect.md|pregnancy_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/pregnancy_health_aspect.internal.md|pregnancy_health_aspect.internal]] 

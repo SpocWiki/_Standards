@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: childTaxon ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_parent_taxon.md|has_parent_taxon]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parent_taxon.internal.md|has_parent_taxon.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_comprised_of )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_comprised_of.md|is_comprised_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_comprised_of.internal.md|is_comprised_of.internal]] 

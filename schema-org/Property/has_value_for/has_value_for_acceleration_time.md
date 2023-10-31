@@ -39,18 +39,20 @@ Use it like this:
 - [ #has_/value_for_/acceleration_time :: QuantitativeValue ] or 
 - [ has_value_for_acceleration_time :: QuantitativeValue ] 
 
-The time needed to accelerate the vehicle from a given start velocity to a given target velocity.\n\n\n\n
-Typical unit code(s): SEC for seconds\n\n\n\n
-&lt;ul&gt;
-&lt;li&gt;Note: There are unfortunately no standard unit codes for seconds/0..100 km/h or seconds/0..60 mph. Simply use &quot;SEC&quot; for seconds and indicate the velocities in the [[name]] of the [[QuantitativeValue]], or use [[valueReference]] with a [[QuantitativeValue]] of 0..60 mph or 0..100 km/h to specify the reference speeds.&lt;/li&gt;
-&lt;/ul&gt;
+The time needed to accelerate the vehicle from a given start velocity to a given target velocity.
+
+
+Typical unit code(s): SEC for seconds
+
+
+<ul>
+<li>Note: There are unfortunately no standard unit codes for seconds/0..100 km/h or seconds/0..60 mph. Simply use "SEC" for seconds and indicate the velocities in the [[name]] of the [[QuantitativeValue]], or use [[valueReference]] with a [[QuantitativeValue]] of 0..60 mph or 0..100 km/h to specify the reference speeds.</li>
+</ul>
 
 Predicate describes that: 
 [ #has_/domain  :: Vehicle ]
 ( #has_/name :: has_value_for_acceleration_time )
 ( #has_/range :: QuantitativeValue )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_acceleration_time.md|has_value_for_acceleration_time]] 

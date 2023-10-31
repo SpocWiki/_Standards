@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the Duration of Audiobook, Episode, Event, MediaObject, Movie, MusicRecording, MusicRelease, QuantitativeValueDistribution, Schedule.
 
-
-
 Use it like this: 
 - [has_duration::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/duration/::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-Duration Format](../../../ISO/ISO_8601-Date_Time) .
@@ -45,10 +43,7 @@ Formal Predicate:
 (name::has_duration)
 (range::Duration)
 
-
-
 Has [sub_properties::loanTerm]
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Durations/has_duration.md|has_duration]] 

@@ -44,8 +44,6 @@ Relation describes that:
 ( #has_/name :: has_code )
 ( #has_/range :: [[medical_code]] )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_code.md|has_code]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_code.internal.md|has_code.internal]] 

@@ -44,8 +44,6 @@ The day of the week between Thursday and Saturday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week/friday.md|friday]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/friday.internal.md|friday.internal]] 

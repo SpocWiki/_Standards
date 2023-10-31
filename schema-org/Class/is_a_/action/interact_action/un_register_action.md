@@ -41,15 +41,13 @@ The act of un-registering from a service.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/RegisterAction">RegisterAction</a>: antonym of UnRegisterAction.</li>
-<li><a class="localLink" href="/LeaveAction">LeaveAction</a>: Unlike LeaveAction, UnRegisterAction implies that you are unregistering from a service you were previously registered, rather than leaving a team/group of people.</li>
+<li>[[RegisterAction]]: antonym of UnRegisterAction.</li>
+<li>[[LeaveAction]]: Unlike LeaveAction, UnRegisterAction implies that you are unregistering from a service you were previously registered, rather than leaving a team/group of people.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../InteractAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/interact_action/un_register_action.md|un_register_action]] 

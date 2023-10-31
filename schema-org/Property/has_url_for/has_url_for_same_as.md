@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_url_for_same_as )
 ( #has_/range :: [[URL]] )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Urls/has_url_for_same_as.md|has_url_for_same_as]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_same_as.internal.md|has_url_for_same_as.internal]] 

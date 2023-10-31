@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_nerve )
 ( #has_/range :: Nerve )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_nerve.md|has_nerve]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nerve.internal.md|has_nerve.internal]] 

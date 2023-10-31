@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_physical_requirement )
 ( #has_/range :: DefinedTerm, Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_physical_requirement.md|has_physical_requirement]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_physical_requirement.internal.md|has_physical_requirement.internal]] 

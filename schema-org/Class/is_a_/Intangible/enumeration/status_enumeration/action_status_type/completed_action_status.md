@@ -44,8 +44,6 @@ An action that has already taken place.
 
 [ #is_/enum_of :: [[../ActionStatusType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.md|completed_action_status]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/completed_action_status.internal.md|completed_action_status.internal]] 

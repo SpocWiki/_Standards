@@ -46,8 +46,6 @@ Content that discusses practical and policy aspects for getting access to specif
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.md|getting_access_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.internal.md|getting_access_health_aspect.internal]] 

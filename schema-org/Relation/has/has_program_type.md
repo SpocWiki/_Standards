@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_program_type )
 ( #has_/range :: DefinedTerm, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_program_type.md|has_program_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_program_type.internal.md|has_program_type.internal]] 

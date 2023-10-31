@@ -44,8 +44,6 @@ Recruiting participants.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/recruiting.md|recruiting]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/recruiting.internal.md|recruiting.internal]] 

@@ -44,8 +44,6 @@ A diet exclusive of all animal products.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegan_diet.md|vegan_diet]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegan_diet.internal.md|vegan_diet.internal]] 

@@ -44,8 +44,6 @@ Physical activity that is of high-intensity which utilizes the anaerobic metabol
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.md|anaerobic_activity]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/anaerobic_activity.internal.md|anaerobic_activity.internal]] 

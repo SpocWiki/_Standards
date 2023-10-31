@@ -42,8 +42,6 @@ The act of generating a comment about a subject.
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, resultComment, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/action/interact_action/communicate_action/comment_action.md|comment_action]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/communicate_action/comment_action.internal.md|comment_action.internal]] 

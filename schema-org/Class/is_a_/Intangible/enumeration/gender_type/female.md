@@ -44,8 +44,6 @@ The female gender.
 
 [ #is_/enum_of :: [[../GenderType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.md|female]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.internal.md|female.internal]] 

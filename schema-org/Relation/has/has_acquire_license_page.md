@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: usageInfo ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_acquire_license_page.md|has_acquire_license_page]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_acquire_license_page.internal.md|has_acquire_license_page.internal]] 

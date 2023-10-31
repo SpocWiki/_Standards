@@ -41,14 +41,12 @@ The act of notifying someone that a future event/action is going to happen as ex
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/CancelAction">CancelAction</a>: The antonym of ConfirmAction.</li>
+<li>[[CancelAction]]: The antonym of ConfirmAction.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../InformAction]] ]
 
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.md|confirm_action]] 

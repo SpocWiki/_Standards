@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_pregnancy_category )
 ( #has_/range :: DrugPregnancyCategory )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_pregnancy_category.md|has_pregnancy_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_pregnancy_category.internal.md|has_pregnancy_category.internal]] 

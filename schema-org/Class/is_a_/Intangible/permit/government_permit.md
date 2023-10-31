@@ -42,8 +42,6 @@ A permit issued by a government agency.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/permit/government_permit.md|government_permit]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/permit/government_permit.internal.md|government_permit.internal]] 

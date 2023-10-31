@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_warranty_scope )
 ( #has_/range :: WarrantyScope )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_warranty_scope.md|has_warranty_scope]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_warranty_scope.internal.md|has_warranty_scope.internal]] 

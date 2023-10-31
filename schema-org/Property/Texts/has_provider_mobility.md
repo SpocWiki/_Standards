@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_provider_mobility )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_provider_mobility.md|has_provider_mobility]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_provider_mobility.internal.md|has_provider_mobility.internal]] 

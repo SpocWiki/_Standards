@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_lyricist )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_lyricist.md|has_lyricist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_lyricist.internal.md|has_lyricist.internal]] 

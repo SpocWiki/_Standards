@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_pre_op )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_pre_op.md|has_pre_op]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_pre_op.internal.md|has_pre_op.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_experience_requirements )
 ( #has_/range :: OccupationalExperienceRequirements, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_experience_requirements.md|has_experience_requirements]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_experience_requirements.internal.md|has_experience_requirements.internal]] 

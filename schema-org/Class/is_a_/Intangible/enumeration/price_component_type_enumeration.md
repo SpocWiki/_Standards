@@ -42,8 +42,6 @@ Enumerates different price components that together make up the total price for 
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration.md|price_component_type_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration.internal.md|price_component_type_enumeration.internal]] 

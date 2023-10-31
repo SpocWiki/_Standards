@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_coding_system )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_coding_system.md|has_coding_system]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_coding_system.internal.md|has_coding_system.internal]] 

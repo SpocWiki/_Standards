@@ -16,7 +16,6 @@ An action performed by a direct agent and indirect participants upon a direct ob
 
 See also [blog post](http://blog.schema.org/2014/04/announcing-schemaorg-actions.html) and [Actions overview document](https://schema.org/docs/actions.html).
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_an_/Action
@@ -93,5 +92,4 @@ StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAs
 Indicates a target EntryPoint, or url, for an Action.
 
 Target:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/EntryPoint')"}}
-
 

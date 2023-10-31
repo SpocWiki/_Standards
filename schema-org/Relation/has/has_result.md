@@ -34,7 +34,7 @@ Use it like this:
 - [ #has_/result :: [Thing](../../../Class/Thing.md) ] or 
 - [ has_result :: [Thing](../../../Class/Thing.md) ] 
 
-The result produced in the action. E.g. John wrote &lt;em&gt;a book&lt;/em&gt;.
+The result produced in the action. E.g. John wrote <em>a book</em>.
 
 Relation describes that: 
 [ #has_/domain  :: Action ]
@@ -42,8 +42,6 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 [ #has_/sub_properties :: [ resultComment, resultReview ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_result.md|has_result]] 

@@ -46,8 +46,6 @@ Always use specific schema.org properties when a) they exist and b) you can popu
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, measurementTechnique, minValue, name, potentialAction, propertyID, sameAs, subjectOf, unitCode, unitText, url, value, valueReference ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/property_value.md|property_value]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/property_value.internal.md|property_value.internal]] 

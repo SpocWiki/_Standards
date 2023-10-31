@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_mission_coverage_priorities_policy.md|has_mission_coverage_priorities_policy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_mission_coverage_priorities_policy.internal.md|has_mission_coverage_priorities_policy.internal]] 

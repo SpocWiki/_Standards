@@ -44,8 +44,6 @@ The action that takes in a math expression and directs users to a page potential
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, eduQuestionType, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/action/solve_math_action.md|solve_math_action]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/action/solve_math_action.internal.md|solve_math_action.internal]] 

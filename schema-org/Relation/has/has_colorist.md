@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_colorist )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_colorist.md|has_colorist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_colorist.internal.md|has_colorist.internal]] 

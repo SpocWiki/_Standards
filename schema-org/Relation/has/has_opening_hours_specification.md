@@ -60,8 +60,6 @@ Relation describes that:
 ( #has_/name :: has_opening_hours_specification )
 ( #has_/range :: OpeningHoursSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_opening_hours_specification.md|has_opening_hours_specification]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_opening_hours_specification.internal.md|has_opening_hours_specification.internal]] 

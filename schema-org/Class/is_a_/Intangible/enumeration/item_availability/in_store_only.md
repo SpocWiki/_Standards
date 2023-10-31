@@ -44,8 +44,6 @@ Indicates that the item is available only at physical locations.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.md|in_store_only]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.internal.md|in_store_only.internal]] 

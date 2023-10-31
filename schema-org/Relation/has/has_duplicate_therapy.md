@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_duplicate_therapy )
 ( #has_/range :: MedicalTherapy )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_duplicate_therapy.md|has_duplicate_therapy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_duplicate_therapy.internal.md|has_duplicate_therapy.internal]] 

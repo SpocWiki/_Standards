@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_illustrator )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_illustrator.md|has_illustrator]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_illustrator.internal.md|has_illustrator.internal]] 

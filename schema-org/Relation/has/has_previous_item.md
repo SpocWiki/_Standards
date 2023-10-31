@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_previous_item )
 ( #has_/range :: ListItem )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_previous_item.md|has_previous_item]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_previous_item.internal.md|has_previous_item.internal]] 

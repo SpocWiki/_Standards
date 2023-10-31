@@ -53,12 +53,10 @@ Use it like this:
 Relates an Element to its Set. 
 Can be implemented with dedicated boolean #Tags for each Set 
 
-
 Relation describes that: 
 [ #has_/domain  :: Thing]
 ( #has_/name :: is_element_of)
 ( #has_/range :: Collection)
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/is_element_of.md|is_element_of]] 

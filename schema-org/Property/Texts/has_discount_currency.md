@@ -37,7 +37,9 @@ Use it like this:
 - [ #has_/text_about_/discount_currency :: Text ] or 
 - [ has_text_about_discount_currency :: Text ] 
 
-The currency of the discount.\n\n\n\n
+The currency of the discount.
+
+
 
 Use standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/ISO_4217), e.g. "USD"; [Ticker symbol](https://en.wikipedia.org/wiki/List_of_cryptocurrencies) for cryptocurrencies, e.g. "BTC"; well known names for [Local Exchange Trading Systems](https://en.wikipedia.org/wiki/Local_exchange_trading_system) (LETS) and other currency types, e.g. "Ithaca HOUR".
 
@@ -45,8 +47,6 @@ Predicated describes that:
 [ #has_/domain  :: Order ]
 ( #has_/name :: has_text_about_discount_currency )
 ( #has_/range :: Text )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_discount_currency.md|has_discount_currency]] 

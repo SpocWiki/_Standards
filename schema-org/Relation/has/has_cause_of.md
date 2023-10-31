@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_cause_of )
 ( #has_/range :: MedicalEntity )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_cause_of.md|has_cause_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cause_of.internal.md|has_cause_of.internal]] 

@@ -44,8 +44,6 @@ Active, but not recruiting new participants.
 
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.md|active_not_recruiting]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/active_not_recruiting.internal.md|active_not_recruiting.internal]] 

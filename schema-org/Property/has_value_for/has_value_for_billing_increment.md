@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_billing_increment )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_billing_increment.md|has_value_for_billing_increment]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_billing_increment.internal.md|has_value_for_billing_increment.internal]] 

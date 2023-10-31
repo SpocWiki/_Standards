@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Action]]
 
 The act of accomplishing something via previous efforts. It is an instantaneous action rather than an ongoing process.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_an_/AchieveAction
@@ -22,5 +21,4 @@ The act of accomplishing something via previous efforts. It is an instantaneous 
 #class/Thing/Action/AchieveAction
 
 ## Properties:
-
 

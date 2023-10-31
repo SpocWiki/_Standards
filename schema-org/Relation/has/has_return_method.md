@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_return_method )
 ( #has_/range :: ReturnMethodEnumeration )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_return_method.md|has_return_method]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_method.internal.md|has_return_method.internal]] 

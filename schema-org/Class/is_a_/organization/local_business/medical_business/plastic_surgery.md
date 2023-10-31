@@ -44,8 +44,6 @@ A specific branch of medical science that pertains to therapeutic or cosmetic re
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.md|plastic_surgery]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/plastic_surgery.internal.md|plastic_surgery.internal]] 

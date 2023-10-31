@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_biomechnical_class )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_biomechnical_class.md|has_biomechnical_class]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_biomechnical_class.internal.md|has_biomechnical_class.internal]] 

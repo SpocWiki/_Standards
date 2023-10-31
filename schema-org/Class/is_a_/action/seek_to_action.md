@@ -38,13 +38,11 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-This is the <a class="localLink" href="/Action">Action</a> of navigating to a specific <a class="localLink" href="/startOffset">startOffset</a> timestamp within a <a class="localLink" href="/VideoObject">VideoObject</a>, typically represented with a URL template structure.
+This is the [[Action]] of navigating to a specific [[startOffset]] timestamp within a [[VideoObject]], typically represented with a URL template structure.
 
 [ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startOffset, startTime, subjectOf, target, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/action/seek_to_action.md|seek_to_action]] 

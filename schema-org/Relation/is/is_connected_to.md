@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_connected_to )
 ( #has_/range :: AnatomicalStructure )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_connected_to.md|is_connected_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_connected_to.internal.md|is_connected_to.internal]] 

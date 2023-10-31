@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_departure_station )
 ( #has_/range :: TrainStation )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_departure_station.md|has_departure_station]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_station.internal.md|has_departure_station.internal]] 

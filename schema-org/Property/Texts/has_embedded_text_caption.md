@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: caption ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_embedded_text_caption.md|has_embedded_text_caption]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_embedded_text_caption.internal.md|has_embedded_text_caption.internal]] 

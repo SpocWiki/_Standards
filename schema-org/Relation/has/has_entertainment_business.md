@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: location ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_entertainment_business.md|has_entertainment_business]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_entertainment_business.internal.md|has_entertainment_business.internal]] 

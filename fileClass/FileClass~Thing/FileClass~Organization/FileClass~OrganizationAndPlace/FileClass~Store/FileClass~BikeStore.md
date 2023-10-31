@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Store]]
 
 A bike store.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/BikeStore
@@ -22,5 +21,4 @@ A bike store.
 #class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/BikeStore
 
 ## Properties:
-
 

@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_rest_periods )
 ( #has_/range :: QuantitativeValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_rest_periods.md|has_value_for_rest_periods]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_rest_periods.internal.md|has_value_for_rest_periods.internal]] 

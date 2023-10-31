@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_item_reviewed )
 ( #has_/range :: Thing )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_item_reviewed.md|has_item_reviewed]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_reviewed.internal.md|has_item_reviewed.internal]] 

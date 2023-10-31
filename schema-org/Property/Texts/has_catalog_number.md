@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_catalog_number )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_catalog_number.md|has_catalog_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_catalog_number.internal.md|has_catalog_number.internal]] 

@@ -44,8 +44,6 @@ The drug's cost represents the wholesale acquisition cost of the drug.
 
 [ #is_/enum_of :: [[../DrugCostCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.md|wholesale]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.internal.md|wholesale.internal]] 

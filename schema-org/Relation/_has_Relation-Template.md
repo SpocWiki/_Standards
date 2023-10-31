@@ -53,8 +53,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/_has_Relation-Template.md|_has_Relation-Template]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/_has_Relation-Template.internal.md|_has_Relation-Template.internal]] 

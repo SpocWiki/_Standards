@@ -42,8 +42,6 @@ A unique instance of a television BroadcastService on a CableOrSatelliteService 
 
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/broadcast_channel/television_channel.md|television_channel]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_channel/television_channel.internal.md|television_channel.internal]] 

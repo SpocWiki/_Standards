@@ -42,8 +42,6 @@ Enumerates types (or dimensions) of a person's body measurements, for example fo
 
 [ #is_/sub_class_of :: [[../MeasurementTypeEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.md|body_measurement_type_enumeration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration.internal.md|body_measurement_type_enumeration.internal]] 

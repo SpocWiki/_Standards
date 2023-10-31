@@ -55,8 +55,6 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/_geo-Template.md|_geo-Template]] 
 - [[../../../../_internal/schema.org/Predicate/geos/_geo-Template.internal.md|_geo-Template.internal]] 

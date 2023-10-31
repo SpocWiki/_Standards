@@ -37,7 +37,9 @@ Use it like this:
 - [ #has_/geo_/eligible_region :: GeoShape, Place, Text ] or 
 - [ has_geo_eligible_region :: GeoShape, Place, Text ] 
 
-The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoShape for the geo-political region(s) for which the offer or delivery charge specification is valid.\n\n\n\n
+The ISO 3166-1 (ISO 3166-1 alpha-2) or ISO 3166-2 code, the place, or the GeoShape for the geo-political region(s) for which the offer or delivery charge specification is valid.
+
+
 
 See also [[ineligibleRegion]].
 
@@ -47,8 +49,6 @@ Predicate describes that:
 ( #has_/range :: GeoShape, Place, Text )
 
 [ #is_/sub_property_of  :: areaServed ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_eligible_region.md|has_geo_eligible_region]] 

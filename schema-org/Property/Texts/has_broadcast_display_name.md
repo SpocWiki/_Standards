@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_broadcast_display_name )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_broadcast_display_name.md|has_broadcast_display_name]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_broadcast_display_name.internal.md|has_broadcast_display_name.internal]] 

@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_required_max_age )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_required_max_age.md|has_value_for_required_max_age]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_required_max_age.internal.md|has_value_for_required_max_age.internal]] 

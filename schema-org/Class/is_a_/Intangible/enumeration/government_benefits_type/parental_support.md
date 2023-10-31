@@ -46,8 +46,6 @@ ParentalSupport: this is a benefit for parental support.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/parental_support.md|parental_support]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/parental_support.internal.md|parental_support.internal]] 

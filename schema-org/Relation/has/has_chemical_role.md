@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_chemical_role )
 ( #has_/range :: DefinedTerm )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_chemical_role.md|has_chemical_role]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_chemical_role.internal.md|has_chemical_role.internal]] 

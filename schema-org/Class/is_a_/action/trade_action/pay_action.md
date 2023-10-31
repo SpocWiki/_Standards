@@ -42,8 +42,6 @@ An agent pays a price to a participant.
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/pay_action.md|pay_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/pay_action.internal.md|pay_action.internal]] 

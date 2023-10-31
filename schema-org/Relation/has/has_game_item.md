@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_game_item )
 ( #has_/range :: Thing )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_game_item.md|has_game_item]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game_item.internal.md|has_game_item.internal]] 

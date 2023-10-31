@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_in_album )
 ( #has_/range :: MusicAlbum )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_in_album.md|is_in_album]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_album.internal.md|is_in_album.internal]] 

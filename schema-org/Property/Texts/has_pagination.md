@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_pagination )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_pagination.md|has_pagination]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_pagination.internal.md|has_pagination.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_loan_repayment_form )
 ( #has_/range :: RepaymentSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_loan_repayment_form.md|has_loan_repayment_form]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_loan_repayment_form.internal.md|has_loan_repayment_form.internal]] 

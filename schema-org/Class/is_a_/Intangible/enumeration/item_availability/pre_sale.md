@@ -44,8 +44,6 @@ Indicates that the item is available for ordering and delivery before general av
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_sale.md|pre_sale]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_sale.internal.md|pre_sale.internal]] 

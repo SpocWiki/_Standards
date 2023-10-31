@@ -50,8 +50,6 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ announcementLocation, legislationJurisdiction ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_spatial_coverage.md|has_geo_spatial_coverage]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_spatial_coverage.internal.md|has_geo_spatial_coverage.internal]] 

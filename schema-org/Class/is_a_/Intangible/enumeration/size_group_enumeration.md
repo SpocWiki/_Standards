@@ -44,8 +44,6 @@ Enumerates common size groups for various product categories.
 
 [ #has_/sub_classes :: [ WearableSizeGroupEnumeration ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration.md|size_group_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration.internal.md|size_group_enumeration.internal]] 

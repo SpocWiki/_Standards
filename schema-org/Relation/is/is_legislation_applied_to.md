@@ -52,8 +52,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [ legislationTransposes ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_legislation_applied_to.md|is_legislation_applied_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_applied_to.internal.md|is_legislation_applied_to.internal]] 

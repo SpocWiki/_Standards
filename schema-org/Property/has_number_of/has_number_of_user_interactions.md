@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_user_interactions )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_user_interactions.md|has_number_of_user_interactions]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_user_interactions.internal.md|has_number_of_user_interactions.internal]] 

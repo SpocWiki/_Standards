@@ -42,8 +42,6 @@ A value indicating a special usage of a car, e.g. commercial rental, driving sch
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/car_usage_type.md|car_usage_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type.internal.md|car_usage_type.internal]] 

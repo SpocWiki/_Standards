@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_party_members )
 ( #has_/range :: Integer, QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_party_members.md|has_number_of_party_members]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_party_members.internal.md|has_number_of_party_members.internal]] 

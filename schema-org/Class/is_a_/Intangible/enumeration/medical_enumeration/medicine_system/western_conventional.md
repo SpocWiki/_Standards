@@ -44,8 +44,6 @@ The conventional Western system of medicine, that aims to apply the best availab
 
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/western_conventional.md|western_conventional]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/western_conventional.internal.md|western_conventional.internal]] 

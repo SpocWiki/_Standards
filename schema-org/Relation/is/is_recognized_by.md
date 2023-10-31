@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_recognized_by )
 ( #has_/range :: Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_recognized_by.md|is_recognized_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_recognized_by.internal.md|is_recognized_by.internal]] 

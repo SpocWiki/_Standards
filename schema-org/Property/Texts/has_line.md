@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_line )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_line.md|has_line]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_line.internal.md|has_line.internal]] 

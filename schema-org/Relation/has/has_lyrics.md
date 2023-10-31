@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_lyrics )
 ( #has_/range :: CreativeWork )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_lyrics.md|has_lyrics]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_lyrics.internal.md|has_lyrics.internal]] 

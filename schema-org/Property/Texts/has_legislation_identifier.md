@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_legislation_identifier.md|has_legislation_identifier]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_legislation_identifier.internal.md|has_legislation_identifier.internal]] 

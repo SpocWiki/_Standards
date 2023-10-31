@@ -46,8 +46,6 @@ Nonprofit501c1: Non-profit type referring to Corporations Organized Under Act of
 
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.md|nonprofit501c1]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c1.internal.md|nonprofit501c1.internal]] 

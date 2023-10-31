@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_drive_wheel_configuration )
 ( #has_/range :: DriveWheelConfigurationValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.md|has_drive_wheel_configuration]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.internal.md|has_drive_wheel_configuration.internal]] 

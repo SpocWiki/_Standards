@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: workExample ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_example_of_work.md|has_example_of_work]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_example_of_work.internal.md|has_example_of_work.internal]] 

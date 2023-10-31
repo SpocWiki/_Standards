@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_safety_consideration )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_safety_consideration.md|has_safety_consideration]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_safety_consideration.internal.md|has_safety_consideration.internal]] 

@@ -44,8 +44,6 @@ The payment is due, but still within an acceptable time to be received.
 
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_due.md|payment_due]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_due.internal.md|payment_due.internal]] 

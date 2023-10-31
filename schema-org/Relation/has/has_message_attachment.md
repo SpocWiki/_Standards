@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_message_attachment )
 ( #has_/range :: CreativeWork )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_message_attachment.md|has_message_attachment]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_message_attachment.internal.md|has_message_attachment.internal]] 

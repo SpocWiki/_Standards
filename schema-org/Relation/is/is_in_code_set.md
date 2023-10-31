@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: inDefinedTermSet ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_in_code_set.md|is_in_code_set]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_code_set.internal.md|is_in_code_set.internal]] 

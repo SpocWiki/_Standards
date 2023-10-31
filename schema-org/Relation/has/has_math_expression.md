@@ -46,8 +46,6 @@ Relation describes that:
 ( #has_/name :: has_math_expression )
 ( #has_/range :: [[../../../Class/is_a_/action/solve_math_action]], Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_math_expression.md|has_math_expression]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_math_expression.internal.md|has_math_expression.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_children )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_children.md|has_children]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_children.internal.md|has_children.internal]] 

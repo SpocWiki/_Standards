@@ -38,13 +38,11 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Indicates employment-related experience requirements, e.g. <a class="localLink" href="/monthsOfExperience">monthsOfExperience</a>.
+Indicates employment-related experience requirements, e.g. [[monthsOfExperience]].
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, monthsOfExperience, name, potentialAction, sameAs, subjectOf, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/occupational_experience_requirements.md|occupational_experience_requirements]] 

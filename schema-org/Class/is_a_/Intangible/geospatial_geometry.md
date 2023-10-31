@@ -44,8 +44,6 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/geospatial_geometry.md|geospatial_geometry]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/geospatial_geometry.internal.md|geospatial_geometry.internal]] 

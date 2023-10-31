@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_abridged )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_abridged.md|is_abridged]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_abridged.internal.md|is_abridged.internal]] 

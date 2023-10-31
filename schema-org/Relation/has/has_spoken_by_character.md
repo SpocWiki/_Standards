@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_spoken_by_character )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_spoken_by_character.md|has_spoken_by_character]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_spoken_by_character.internal.md|has_spoken_by_character.internal]] 

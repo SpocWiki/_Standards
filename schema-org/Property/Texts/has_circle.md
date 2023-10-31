@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_circle )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_circle.md|has_circle]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_circle.internal.md|has_circle.internal]] 

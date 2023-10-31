@@ -42,8 +42,6 @@ Used to describe a ticket to an event, a flight, a bus ride, etc.
 
 [ #has_/properties :: [ additionalType, alternateName, dateIssued, description, disambiguatingDescription, identifier, image, issuedBy, mainEntityOfPage, name, potentialAction, priceCurrency, sameAs, subjectOf, ticketNumber, ticketToken, ticketedSeat, totalPrice, underName, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/ticket.md|ticket]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/ticket.internal.md|ticket.internal]] 

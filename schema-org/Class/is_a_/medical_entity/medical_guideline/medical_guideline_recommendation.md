@@ -42,8 +42,6 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, recommendationStrength, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.md|medical_guideline_recommendation]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_guideline/medical_guideline_recommendation.internal.md|medical_guideline_recommendation.internal]] 

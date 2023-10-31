@@ -44,8 +44,6 @@ A diet focused on reduced sodium intake.
 
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_salt_diet.md|low_salt_diet]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_salt_diet.internal.md|low_salt_diet.internal]] 

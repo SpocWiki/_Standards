@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_shipping_details )
 ( #has_/range :: OfferShippingDetails )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_shipping_details.md|has_shipping_details]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_shipping_details.internal.md|has_shipping_details.internal]] 

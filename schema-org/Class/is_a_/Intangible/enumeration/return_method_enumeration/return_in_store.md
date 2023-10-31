@@ -46,8 +46,6 @@ Specifies that product returns must be made in a store.
 
 [ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.md|return_in_store]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.internal.md|return_in_store.internal]] 

@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ vehicleIdentificationNumber ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_serial_number.md|has_serial_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_serial_number.internal.md|has_serial_number.internal]] 

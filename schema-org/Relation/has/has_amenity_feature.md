@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_amenity_feature )
 ( #has_/range :: LocationFeatureSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_amenity_feature.md|has_amenity_feature]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_amenity_feature.internal.md|has_amenity_feature.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_related_therapy )
 ( #has_/range :: MedicalTherapy )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_related_therapy.md|has_related_therapy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_related_therapy.internal.md|has_related_therapy.internal]] 

@@ -44,8 +44,6 @@ The steering position is on the right side of the vehicle (viewed from the main 
 
 [ #is_/enum_of :: [[../SteeringPositionValue]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.md|right_hand_driving]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.internal.md|right_hand_driving.internal]] 

@@ -52,8 +52,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: itemOffered ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_offering.md|is_offering]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_offering.internal.md|is_offering.internal]] 

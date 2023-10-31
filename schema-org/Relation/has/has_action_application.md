@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_action_application )
 ( #has_/range :: [[Software_Application]] )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_action_application.md|has_action_application]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_application.internal.md|has_action_application.internal]] 

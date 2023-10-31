@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_course_instance )
 ( #has_/range :: CourseInstance )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_course_instance.md|has_course_instance]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course_instance.internal.md|has_course_instance.internal]] 

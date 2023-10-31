@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_prescription_status )
 ( #has_/range :: DrugPrescriptionStatus, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_prescription_status.md|has_prescription_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_prescription_status.internal.md|has_prescription_status.internal]] 

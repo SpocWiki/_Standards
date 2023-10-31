@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_epidemiology )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_epidemiology.md|has_epidemiology]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_epidemiology.internal.md|has_epidemiology.internal]] 

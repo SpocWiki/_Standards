@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_health_plan_copay_option )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_health_plan_copay_option.md|has_health_plan_copay_option]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_health_plan_copay_option.internal.md|has_health_plan_copay_option.internal]] 

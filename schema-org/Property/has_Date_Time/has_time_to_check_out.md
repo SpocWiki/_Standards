@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the time of LodgingBusiness, LodgingReservation.
 
-
-
 Use it like this: 
 - [has_time_to_check_out::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/to_check_out::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::LodgingBusiness, LodgingReservation]
 (name::has_time_to_check_out)
 (range::DateTime, Time)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_to_check_out.md|has_time_to_check_out]] 

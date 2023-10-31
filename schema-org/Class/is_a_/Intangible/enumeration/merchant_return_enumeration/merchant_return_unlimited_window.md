@@ -48,8 +48,6 @@ Specifies that there is an unlimited window for product returns.
 
 [ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.md|merchant_return_unlimited_window]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unlimited_window.internal.md|merchant_return_unlimited_window.internal]] 

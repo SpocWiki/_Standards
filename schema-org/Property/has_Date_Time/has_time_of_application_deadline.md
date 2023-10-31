@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_time_of_application_deadline)
 (range::Date)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_application_deadline.md|has_time_of_application_deadline]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_application_deadline.internal.md|has_time_of_application_deadline.internal]] 

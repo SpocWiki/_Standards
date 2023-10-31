@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_post_op )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_post_op.md|has_post_op]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_post_op.internal.md|has_post_op.internal]] 

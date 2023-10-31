@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_game_availability_type )
 ( #has_/range :: GameAvailabilityEnumeration, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_game_availability_type.md|has_game_availability_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game_availability_type.internal.md|has_game_availability_type.internal]] 

@@ -79,8 +79,6 @@ The day of the week between Saturday and Monday.
 
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.md|sunday]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.internal.md|sunday.internal]] 
@@ -92,12 +90,9 @@ The day of the week between Saturday and Monday.
 Tag Instances like this: 
 #is_a_/bed_type
 
-
 [ #is_/sub_class_of :: [[../QualitativeValue]] ]
 
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.md|bed_type]] 

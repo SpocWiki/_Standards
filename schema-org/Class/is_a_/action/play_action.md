@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,7 +31,7 @@ aliases:
 - is_a_play_action
 ---
 
-Class of all play_actions.
+Class of all [[play_action]]s.
 
 Tag Instances like this: 
 #is_a_/play_action
@@ -39,19 +39,14 @@ Tag Instances like this:
 The act of playing/exercising/training/performing for enjoyment, leisure, recreation, competition or exercise.
 
 Related actions:
-
-<ul>
-<li><a class="localLink" href="/ListenAction">ListenAction</a>: Unlike ListenAction (which is under ConsumeAction), PlayAction refers to performing for an audience or at an event, rather than consuming music.</li>
-<li><a class="localLink" href="/WatchAction">WatchAction</a>: Unlike WatchAction (which is under ConsumeAction), PlayAction refers to showing/displaying for an audience or at an event, rather than consuming visual content.</li>
-</ul>
+- [[ListenAction]]: Unlike ListenAction (which is under ConsumeAction), PlayAction refers to performing for an audience or at an event, rather than only consuming music.
+- [[WatchAction]]: Unlike WatchAction (which is under ConsumeAction), PlayAction refers to showing/displaying for an audience or at an event, rather than only consuming visual content. 
 
 [ #is_/sub_class_of :: [[../Action]] ]
 
 [ #has_/sub_classes :: [ ExerciseAction, PerformAction ] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/action/play_action.md|play_action]] 

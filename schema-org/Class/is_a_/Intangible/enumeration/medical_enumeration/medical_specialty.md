@@ -40,8 +40,6 @@ Any specific branch of medical science or practice. Medical specialities include
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration, Specialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.md|medical_specialty]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.internal.md|medical_specialty.internal]] 

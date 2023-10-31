@@ -42,8 +42,6 @@ A statistical distribution of monetary amounts.
 
 [ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.md|monetary_amount_distribution]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution/monetary_amount_distribution.internal.md|monetary_amount_distribution.internal]] 

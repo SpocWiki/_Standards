@@ -44,8 +44,6 @@ Relation describes that:
 ( #has_/name :: has_claim_interpreter )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_claim_interpreter.md|has_claim_interpreter]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_claim_interpreter.internal.md|has_claim_interpreter.internal]] 

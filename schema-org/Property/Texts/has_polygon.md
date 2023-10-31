@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_polygon )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_polygon.md|has_polygon]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_polygon.internal.md|has_polygon.internal]] 

@@ -42,8 +42,6 @@ An infectious disease is a clinically evident human disease resulting from the p
 
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, infectiousAgent, infectiousAgentClass, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, transmissionMethod, typicalTest, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.md|infectious_disease]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.internal.md|infectious_disease.internal]] 

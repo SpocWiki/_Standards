@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_record_label )
 ( #has_/range :: Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_record_label.md|has_record_label]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_record_label.internal.md|has_record_label.internal]] 

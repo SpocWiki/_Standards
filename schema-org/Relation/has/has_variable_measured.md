@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_variable_measured )
 ( #has_/range :: PropertyValue, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_variable_measured.md|has_variable_measured]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_variable_measured.internal.md|has_variable_measured.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: offers ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_item_offered.md|has_item_offered]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_offered.internal.md|has_item_offered.internal]] 

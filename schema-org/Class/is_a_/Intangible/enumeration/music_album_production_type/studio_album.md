@@ -44,8 +44,6 @@ StudioAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/studio_album.md|studio_album]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/studio_album.internal.md|studio_album.internal]] 

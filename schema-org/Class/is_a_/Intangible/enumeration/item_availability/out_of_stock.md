@@ -44,8 +44,6 @@ Indicates that the item is out of stock.
 
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/out_of_stock.md|out_of_stock]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/out_of_stock.internal.md|out_of_stock.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_biological_role )
 ( #has_/range :: DefinedTerm )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_biological_role.md|has_biological_role]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_biological_role.internal.md|has_biological_role.internal]] 

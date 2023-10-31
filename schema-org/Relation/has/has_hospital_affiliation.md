@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_hospital_affiliation )
 ( #has_/range :: Hospital )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_hospital_affiliation.md|has_hospital_affiliation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hospital_affiliation.internal.md|has_hospital_affiliation.internal]] 

@@ -39,8 +39,6 @@ Relation describes that:
 ( #has_/name :: has_domain )
 ( #has_/range :: [Class](../Classes.md) )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_domain.md|has_domain]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_domain.internal.md|has_domain.internal]] 

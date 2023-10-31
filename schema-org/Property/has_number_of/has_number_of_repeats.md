@@ -39,14 +39,12 @@ Use it like this:
 - [ #has_/number_of_/repeats :: Integer ] or 
 - [ has_number_of_repeats :: Integer ] 
 
-Defines the number of times a recurring <a class="localLink" href="/Event">Event</a> will take place.
+Defines the number of times a recurring [[Event]] will take place.
 
 Predicate describes that: 
 [ #has_/domain  :: Schedule ]
 ( #has_/name :: has_number_of_repeats )
 ( #has_/range :: Integer )
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_repeats.md|has_number_of_repeats]] 

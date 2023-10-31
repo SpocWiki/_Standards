@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_geo_radius_in_meters )
 ( #has_/range :: Distance, Number, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_geo_radius_in_meters.md|has_value_for_geo_radius_in_meters]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_geo_radius_in_meters.internal.md|has_value_for_geo_radius_in_meters.internal]] 

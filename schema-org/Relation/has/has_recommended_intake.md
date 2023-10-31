@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_recommended_intake )
 ( #has_/range :: RecommendedDoseSchedule )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_recommended_intake.md|has_recommended_intake]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recommended_intake.internal.md|has_recommended_intake.internal]] 

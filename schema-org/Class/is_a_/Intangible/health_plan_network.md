@@ -44,8 +44,6 @@ A US-style health insurance plan network.
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCostSharing, healthPlanNetworkId, healthPlanNetworkTier, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/health_plan_network.md|health_plan_network]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/health_plan_network.internal.md|health_plan_network.internal]] 

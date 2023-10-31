@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_return_policy_category )
 ( #has_/range :: MerchantReturnEnumeration )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_return_policy_category.md|has_return_policy_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_policy_category.internal.md|has_return_policy_category.internal]] 

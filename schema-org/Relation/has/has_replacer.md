@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: object ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_replacer.md|has_replacer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_replacer.internal.md|has_replacer.internal]] 

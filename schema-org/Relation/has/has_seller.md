@@ -3,33 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_seller
-
 linkTitle: has_seller
-keywords: [seller]
+keywords:
+  - seller
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: merchant, vendor
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- seller
-- seller
-- seller
-- has_seller
+  - seller
+  - seller
+  - seller
+  - has_seller
+  - has_merchant
+  - has_vendor
 ---
 
 Use it like this: 
@@ -44,8 +41,6 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 [ #is_/sub_property_of  :: participant ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_seller.md|has_seller]] 

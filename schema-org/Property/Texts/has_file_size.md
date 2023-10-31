@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_file_size )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_file_size.md|has_file_size]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_file_size.internal.md|has_file_size.internal]] 

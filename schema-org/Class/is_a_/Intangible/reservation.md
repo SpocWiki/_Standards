@@ -38,15 +38,13 @@ Tag Instances like this:
 
 Describes a reservation for travel, dining or an event. Some reservations require tickets. 
 
-Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, restaurant reservations, flights, or rental cars, use <a class="localLink" href="/Offer">Offer</a>.
+Note: This type is for information about actual reservations, e.g. in confirmation emails or HTML pages with individual confirmations of reservations. For offers of tickets, restaurant reservations, flights, or rental cars, use [[Offer]].
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
 [ #has_/sub_classes :: [ BoatReservation, BusReservation, EventReservation, FlightReservation, FoodEstablishmentReservation, LodgingReservation, RentalCarReservation, ReservationPackage, TaxiReservation, TrainReservation ] ]
 
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/reservation.md|reservation]] 

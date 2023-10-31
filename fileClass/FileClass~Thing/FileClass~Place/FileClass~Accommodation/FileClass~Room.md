@@ -12,10 +12,13 @@ extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
 # Room
 This is a kind of [[FileClass~Accommodation]]
 
-A room is a distinguishable space within a structure, usually separated from other spaces by interior walls (source: Wikipedia, the free encyclopedia, see &lt;a href="http://en.wikipedia.org/wiki/Room"&gt;http://en.wikipedia.org/wiki/Room&lt;/a&gt;).  
- &lt;br /&gt;&lt;br /&gt;  
- See also the &lt;a href="/docs/hotels.html"&gt;dedicated document on the use of schema.org for marking up hotels and other forms of accommodations&lt;/a&gt;.
+A room is a distinguishable space within a structure, 
+usually separated from other spaces by interior walls 
+(source: Wikipedia, http://en.wikipedia.org/wiki/Room).  
+ 
 
+  
+ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
 ## Use one of these Tags for Objects of this Type:
 
@@ -24,5 +27,4 @@ A room is a distinguishable space within a structure, usually separated from oth
 #class/Thing/Place/Accommodation/Room
 
 ## Properties:
-
 

@@ -48,8 +48,6 @@ Relation describes that:
 ( #has_/name :: has_model )
 ( #has_/range :: ProductModel, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_model.md|has_model]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_model.internal.md|has_model.internal]] 

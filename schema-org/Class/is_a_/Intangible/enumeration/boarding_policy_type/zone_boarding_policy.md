@@ -44,8 +44,6 @@ The airline boards by zones of the plane.
 
 [ #is_/enum_of :: [[../BoardingPolicyType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/zone_boarding_policy.md|zone_boarding_policy]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/zone_boarding_policy.internal.md|zone_boarding_policy.internal]] 

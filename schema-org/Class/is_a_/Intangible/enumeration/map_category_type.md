@@ -40,8 +40,6 @@ An enumeration of several kinds of Map.
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/map_category_type.md|map_category_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/map_category_type.internal.md|map_category_type.internal]] 

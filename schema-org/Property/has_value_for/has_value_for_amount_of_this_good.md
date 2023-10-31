@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_amount_of_this_good )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.md|has_value_for_amount_of_this_good]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.internal.md|has_value_for_amount_of_this_good.internal]] 

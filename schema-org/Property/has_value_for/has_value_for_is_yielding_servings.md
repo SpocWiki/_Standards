@@ -46,8 +46,6 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: yield ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.md|has_value_for_is_yielding_servings]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.internal.md|has_value_for_is_yielding_servings.internal]] 

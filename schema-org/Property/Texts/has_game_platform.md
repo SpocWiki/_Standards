@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_game_platform )
 ( #has_/range :: Text, Thing, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_game_platform.md|has_game_platform]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_game_platform.internal.md|has_game_platform.internal]] 

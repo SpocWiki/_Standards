@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_family_friendly )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_family_friendly.md|is_family_friendly]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_family_friendly.internal.md|is_family_friendly.internal]] 

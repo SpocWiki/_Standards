@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_ticketed_seat )
 ( #has_/range :: Seat )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_ticketed_seat.md|has_ticketed_seat]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ticketed_seat.internal.md|has_ticketed_seat.internal]] 

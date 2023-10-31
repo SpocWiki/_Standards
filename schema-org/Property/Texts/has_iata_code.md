@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_iata_code )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_iata_code.md|has_iata_code]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_iata_code.internal.md|has_iata_code.internal]] 

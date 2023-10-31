@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: [[has_affiliation_with]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_member_of.md|is_member_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_member_of.internal.md|is_member_of.internal]] 

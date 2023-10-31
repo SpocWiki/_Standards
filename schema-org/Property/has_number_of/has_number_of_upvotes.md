@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_upvotes )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_upvotes.md|has_number_of_upvotes]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_upvotes.internal.md|has_number_of_upvotes.internal]] 

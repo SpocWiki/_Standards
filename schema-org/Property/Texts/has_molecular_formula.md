@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_molecular_formula )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_molecular_formula.md|has_molecular_formula]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_molecular_formula.internal.md|has_molecular_formula.internal]] 

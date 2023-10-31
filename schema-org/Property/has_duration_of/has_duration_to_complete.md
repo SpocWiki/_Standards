@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_duration_to_complete)
 (range::Duration)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Durations/has_duration_to_complete.md|has_duration_to_complete]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_to_complete.internal.md|has_duration_to_complete.internal]] 

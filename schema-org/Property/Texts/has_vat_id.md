@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_vat_id )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_vat_id.md|has_vat_id]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_vat_id.internal.md|has_vat_id.internal]] 

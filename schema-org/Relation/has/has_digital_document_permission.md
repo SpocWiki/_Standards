@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_digital_document_permission )
 ( #has_/range :: DigitalDocumentPermission )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_digital_document_permission.md|has_digital_document_permission]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_digital_document_permission.internal.md|has_digital_document_permission.internal]] 

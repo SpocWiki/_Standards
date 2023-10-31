@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_dose_schedule )
 ( #has_/range :: DoseSchedule )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_dose_schedule.md|has_value_for_dose_schedule]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_dose_schedule.internal.md|has_value_for_dose_schedule.internal]] 

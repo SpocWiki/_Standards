@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_start_offset )
 ( #has_/range :: HyperTocEntry, Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_start_offset.md|has_start_offset]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_start_offset.internal.md|has_start_offset.internal]] 

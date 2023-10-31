@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_award )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_award.md|has_award]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_award.internal.md|has_award.internal]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_box )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_box.md|has_box]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_box.internal.md|has_box.internal]] 

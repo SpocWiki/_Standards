@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/sub_property_of  :: instrument ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_recipe.md|has_recipe]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recipe.internal.md|has_recipe.internal]] 

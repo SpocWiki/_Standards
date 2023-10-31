@@ -42,8 +42,6 @@ The act of giving money voluntarily to a beneficiary in recognition of services 
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/tip_action.md|tip_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/tip_action.internal.md|tip_action.internal]] 

@@ -14,9 +14,10 @@ This is a kind of [[FileClass~Place]]
 
 An accommodation is a place that can accommodate human beings, e.g. a hotel room, a camping pitch, or a meeting room. Many accommodations are for overnight stays, but this is not a mandatory requirement.  
  For more specific types of accommodations not defined in schema.org, one can use [[additionalType]] with external vocabularies.  
- &lt;br /&gt;&lt;br /&gt;  
- See also the &lt;a href="/docs/hotels.html"&gt;dedicated document on the use of schema.org for marking up hotels and other forms of accommodations&lt;/a&gt;.
+ 
 
+  
+ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on the use of schema.org for marking up hotels and other forms of accommodations</a>.
 
 ## Use one of these Tags for Objects of this Type:
 
@@ -105,5 +106,4 @@ PetsAllowed:: {"type":"Boolean","options":{}}
 The year an [[Accommodation]] was constructed. This corresponds to the [YearBuilt field in RESO](https://ddwiki.reso.org/display/DDW17/YearBuilt+Field).
 
 YearBuilt:: {"type":"Number","options":{}}
-
 

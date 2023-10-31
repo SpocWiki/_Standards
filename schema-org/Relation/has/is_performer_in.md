@@ -43,8 +43,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: [[has_performer]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_performer_in.md|is_performer_in]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_performer_in.internal.md|is_performer_in.internal]] 

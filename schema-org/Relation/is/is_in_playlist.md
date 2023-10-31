@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_in_playlist )
 ( #has_/range :: MusicPlaylist )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_in_playlist.md|is_in_playlist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_playlist.internal.md|is_in_playlist.internal]] 

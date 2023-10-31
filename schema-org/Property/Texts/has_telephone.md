@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_telephone )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_telephone.md|has_telephone]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_telephone.internal.md|has_telephone.internal]] 

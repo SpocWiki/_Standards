@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_industry )
 ( #has_/range :: DefinedTerm, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_industry.md|has_industry]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_industry.internal.md|has_industry.internal]] 

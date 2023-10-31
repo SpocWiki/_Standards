@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_blog_post )
 ( #has_/range :: BlogPosting )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_blog_post.md|has_blog_post]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_blog_post.internal.md|has_blog_post.internal]] 

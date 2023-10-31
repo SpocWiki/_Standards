@@ -44,8 +44,6 @@ Magnetic resonance imaging.
 
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.md|mri]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/mri.internal.md|mri.internal]] 

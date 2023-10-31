@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_time_of_sd_published)
 (range::Date)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_sd_published.md|has_time_of_sd_published]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_sd_published.internal.md|has_time_of_sd_published.internal]] 

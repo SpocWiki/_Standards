@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_postal_code_range )
 ( #has_/range :: PostalCodeRangeSpecification )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_postal_code_range.md|has_geo_postal_code_range]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_postal_code_range.internal.md|has_geo_postal_code_range.internal]] 

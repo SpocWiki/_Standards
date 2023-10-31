@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_tributary )
 ( #has_/range :: AnatomicalStructure )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_tributary.md|has_tributary]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tributary.internal.md|has_tributary.internal]] 

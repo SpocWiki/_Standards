@@ -40,8 +40,6 @@ Categories that represent an assessment of the risk of fetal injury due to a dru
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.md|drug_pregnancy_category]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category.internal.md|drug_pregnancy_category.internal]] 

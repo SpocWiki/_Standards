@@ -41,14 +41,12 @@ The act of rejecting to/adopting an object.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/AcceptAction">AcceptAction</a>: The antonym of RejectAction.</li>
+<li>[[AcceptAction]]: The antonym of RejectAction.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../AllocateAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/action/organize_action/allocate_action/reject_action.md|reject_action]] 

@@ -36,7 +36,6 @@ CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification,
 EducationalOccupationalProgram, Event, 
 MerchantReturnPolicySeasonalOverride, Role, Schedule.
 
-
 Use it like this: 
 - [has_time_to_end::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/to_end::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -49,11 +48,10 @@ the time that it is expected to end.
 For actions that span a period of time, 
 when the action was performed. 
 
-E.g. John wrote a book from January to &lt;em&gt;December&lt;/em&gt;. 
+E.g. John wrote a book from January to <em>December</em>. 
 
 For media, including audio and video, 
 it's the time offset of the end of a clip within a larger file.
-\n\n\n\n
 
 Note that Event uses startDate/endDate instead of startTime/endTime, even when describing dates with times. This situation may be clarified in future revisions.
 
@@ -61,8 +59,6 @@ Formal Predicate:
 [domain::Action, FoodEstablishmentReservation, InteractionCounter, MediaObject, Schedule, CreativeWorkSeason, CreativeWorkSeries, DatedMoneySpecification, EducationalOccupationalProgram, Event, MerchantReturnPolicySeasonalOverride, Role, Schedule]
 (name::has_time_to_end)
 (range::Date, DateTime, Time)
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_to_end.md|has_time_to_end]] 

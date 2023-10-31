@@ -37,13 +37,11 @@ Class of all distances.
 Tag Instances like this: 
 #is_a_/distance
 
-Properties that take Distances as values are of the form '&lt;Number&gt; &lt;Length unit of measure&gt;'. E.g., '7 ft'.
+Properties that take Distances as values are of the form '<Number> <Length unit of measure>'. E.g., '7 ft'.
 
 [ #is_/sub_class_of :[[../Quantity]]]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/quantity/distance.md|distance]] 

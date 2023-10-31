@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_service_operator )
 ( #has_/range :: Organization )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_service_operator.md|has_service_operator]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_service_operator.internal.md|has_service_operator.internal]] 

@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_shipping_label )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_shipping_label.md|has_shipping_label]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_shipping_label.internal.md|has_shipping_label.internal]] 

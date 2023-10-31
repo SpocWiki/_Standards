@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_video_quality )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_video_quality.md|has_video_quality]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_video_quality.internal.md|has_video_quality.internal]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_article_body )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_article_body.md|has_article_body]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_article_body.internal.md|has_article_body.internal]] 

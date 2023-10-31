@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_software_help )
 ( #has_/range :: CreativeWork )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_software_help.md|has_software_help]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_software_help.internal.md|has_software_help.internal]] 

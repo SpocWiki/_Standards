@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_video )
 ( #has_/range :: Clip, VideoObject )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_video.md|has_video]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_video.internal.md|has_video.internal]] 

@@ -56,8 +56,6 @@ Region = state, canton, prefecture, autonomous community...
 
 [ #has_/properties :: [ additionalType, addressCountry, addressRegion, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCode, postalCodePrefix, postalCodeRange, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/defined_region.md|defined_region]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/defined_region.internal.md|defined_region.internal]] 

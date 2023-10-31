@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Place]]
 
 A geographical region, typically under the jurisdiction of a particular government.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_an_/AdministrativeArea
@@ -22,5 +21,4 @@ A geographical region, typically under the jurisdiction of a particular governme
 #class/Thing/Place/AdministrativeArea
 
 ## Properties:
-
 

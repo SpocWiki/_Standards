@@ -46,8 +46,6 @@ Item shows or promotes violence.
 
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/violence_consideration.md|violence_consideration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/violence_consideration.internal.md|violence_consideration.internal]] 

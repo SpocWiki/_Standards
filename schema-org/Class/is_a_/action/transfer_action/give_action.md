@@ -41,15 +41,13 @@ The act of transferring ownership of an object to a destination. Reciprocal of T
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/TakeAction">TakeAction</a>: Reciprocal of GiveAction.</li>
-<li><a class="localLink" href="/SendAction">SendAction</a>: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).</li>
+<li>[[TakeAction]]: Reciprocal of GiveAction.</li>
+<li>[[SendAction]]: Unlike SendAction, GiveAction implies that ownership is being transferred (e.g. I may send my laptop to you, but that doesn't mean I'm giving it to you).</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../TransferAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/give_action.md|give_action]] 

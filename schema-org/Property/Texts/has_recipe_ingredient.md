@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: supply ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_recipe_ingredient.md|has_recipe_ingredient]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_recipe_ingredient.internal.md|has_recipe_ingredient.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_availability )
 ( #has_/range :: ItemAvailability )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_availability.md|has_availability]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_availability.internal.md|has_availability.internal]] 

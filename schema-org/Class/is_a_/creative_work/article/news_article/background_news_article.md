@@ -38,13 +38,18 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-A <a class="localLink" href="/NewsArticle">NewsArticle</a> providing historical context, definition and detail on a specific topic (aka "explainer" or "backgrounder"). For example, an in-depth article or frequently-asked-questions (<a href="https://en.wikipedia.org/wiki/FAQ">FAQ</a>) document on topics such as Climate Change or the European Union. Other kinds of background material from a non-news setting are often described using <a class="localLink" href="/Book">Book</a> or <a class="localLink" href="/Article">Article</a>, in particular <a class="localLink" href="/ScholarlyArticle">ScholarlyArticle</a>. See also <a class="localLink" href="/NewsArticle">NewsArticle</a> for related vocabulary from a learning/education perspective.
+A [[NewsArticle]] providing historical context, definition and detail on a specific topic (aka "explainer" or "backgrounder"). 
+For example, an in-depth article or frequently-asked-questions (https://en.wikipedia.org/wiki/FAQ) document 
+on topics such as Climate Change or the European Union. 
+
+Other kinds of background material from a non-news setting are 
+often described using [[Book]] or [[Article]], in particular [[ScholarlyArticle]]. 
+
+See also [[NewsArticle]] for related vocabulary from a learning/education perspective.
 
 [ #is_/sub_class_of :: [[../NewsArticle]] ]
 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, articleBody, articleSection, assesses, associatedMedia, audience, audio, author, award, awards, backstory, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, dateline, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pageEnd, pageStart, pagination, pattern, position, potentialAction, printColumn, printEdition, printPage, printSection, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, speakable, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, wordCount, workExample, workTranslation ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/creative_work/article/news_article/background_news_article.md|background_news_article]] 

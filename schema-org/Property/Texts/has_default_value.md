@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_default_value )
 ( #has_/range :: Text, Thing )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_default_value.md|has_default_value]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_default_value.internal.md|has_default_value.internal]] 

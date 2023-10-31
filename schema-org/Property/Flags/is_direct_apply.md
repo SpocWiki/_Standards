@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_direct_apply )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_direct_apply.md|is_direct_apply]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_direct_apply.internal.md|is_direct_apply.internal]] 

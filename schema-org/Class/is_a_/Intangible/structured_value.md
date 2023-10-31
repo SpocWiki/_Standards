@@ -38,8 +38,6 @@ Structured values are used when the value of a property has a more complex struc
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/structured_value.md|structured_value]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value.internal.md|structured_value.internal]] 

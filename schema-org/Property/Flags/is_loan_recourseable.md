@@ -47,8 +47,6 @@ Predicate describes that:
 ( #has_/name :: is_loan_recourseable )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_loan_recourseable.md|is_loan_recourseable]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_loan_recourseable.internal.md|is_loan_recourseable.internal]] 

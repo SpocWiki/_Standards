@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_value_min_length )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_value_min_length.md|has_value_for_value_min_length]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_value_min_length.internal.md|has_value_for_value_min_length.internal]] 

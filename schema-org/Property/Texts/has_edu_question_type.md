@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_edu_question_type )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_edu_question_type.md|has_edu_question_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_edu_question_type.internal.md|has_edu_question_type.internal]] 

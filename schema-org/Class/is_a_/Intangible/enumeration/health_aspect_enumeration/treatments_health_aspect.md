@@ -46,8 +46,6 @@ Treatments or related therapies for a Topic.
 
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.md|treatments_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/treatments_health_aspect.internal.md|treatments_health_aspect.internal]] 

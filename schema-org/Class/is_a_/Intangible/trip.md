@@ -44,8 +44,6 @@ A trip or journey. An itinerary of visits to one or more places.
 
 [ #has_/properties :: [ additionalType, alternateName, arrivalTime, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/trip.md|trip]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/trip.internal.md|trip.internal]] 

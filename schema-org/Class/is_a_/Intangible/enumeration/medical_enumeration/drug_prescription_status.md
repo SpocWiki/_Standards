@@ -40,8 +40,6 @@ Indicates whether this drug is available by prescription or over-the-counter.
 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.md|drug_prescription_status]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.internal.md|drug_prescription_status.internal]] 

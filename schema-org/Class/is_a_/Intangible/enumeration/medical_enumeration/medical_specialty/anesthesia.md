@@ -44,8 +44,6 @@ A specific branch of medical science that pertains to study of anesthetics and t
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.md|anesthesia]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/anesthesia.internal.md|anesthesia.internal]] 

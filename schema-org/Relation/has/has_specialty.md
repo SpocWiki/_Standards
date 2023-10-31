@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_specialty )
 ( #has_/range :: Specialty )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_specialty.md|has_specialty]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_specialty.internal.md|has_specialty.internal]] 

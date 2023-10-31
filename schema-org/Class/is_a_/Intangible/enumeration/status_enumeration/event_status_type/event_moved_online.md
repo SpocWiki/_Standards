@@ -38,13 +38,11 @@ Class of all event_moved_onlines.
 Tag Instances like this: 
 #is_an_/event_moved_online
 
-Indicates that the event was changed to allow online participation. See <a class="localLink" href="/eventAttendanceMode">eventAttendanceMode</a> for specifics of whether it is now fully or partially online.
+Indicates that the event was changed to allow online participation. See [[eventAttendanceMode]] for specifics of whether it is now fully or partially online.
 
 [ #is_/sub_class_of :: [[../EventStatusType]] ]
 
 [ #is_/enum_of :: [[../EventStatusType]] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.md|event_moved_online]] 

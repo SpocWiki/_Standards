@@ -44,8 +44,6 @@ Physical activity that is engaged in to improve muscle and bone strength. Also r
 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/strength_training.md|strength_training]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/strength_training.internal.md|strength_training.internal]] 

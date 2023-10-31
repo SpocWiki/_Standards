@@ -46,8 +46,6 @@ Predicate describes that:
 
 [ #has_/sub_properties :: [ spatialCoverage ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_content_location.md|has_geo_content_location]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_content_location.internal.md|has_geo_content_location.internal]] 

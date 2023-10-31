@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_thumbnail )
 ( #has_/range :: ImageObject )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_thumbnail.md|has_thumbnail]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_thumbnail.internal.md|has_thumbnail.internal]] 

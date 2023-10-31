@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_departure_terminal )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_departure_terminal.md|has_departure_terminal]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_departure_terminal.internal.md|has_departure_terminal.internal]] 

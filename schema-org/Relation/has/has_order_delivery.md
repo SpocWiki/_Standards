@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_order_delivery )
 ( #has_/range :: ParcelDelivery )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_order_delivery.md|has_order_delivery]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_order_delivery.internal.md|has_order_delivery.internal]] 

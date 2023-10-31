@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_url_for_travel_bans )
 ( #has_/range :: URL, WebContent )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Urls/has_url_for_travel_bans.md|has_url_for_travel_bans]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_travel_bans.internal.md|has_url_for_travel_bans.internal]] 

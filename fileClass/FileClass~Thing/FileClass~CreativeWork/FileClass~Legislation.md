@@ -29,12 +29,18 @@ Indicates a legal jurisdiction, e.g. of some legislation, or where some governme
 Jurisdiction:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}
 
 ### LegislationApplies
-Indicates that this legislation (or part of a legislation) somehow transfers another legislation in a different legislative context. This is an informative link, and it has no legal value. For legally-binding links of transposition, use the &lt;a href="/legislationTransposes"&gt;legislationTransposes&lt;/a&gt; property. For example an informative consolidated law of a European Union's member state "applies" the consolidated version of the European Directive implemented in it.
+Indicates that this legislation (or part of a legislation) somehow transfers another legislation in a different legislative context. 
+This is an informative link, and it has no legal value. 
+
+For legally-binding links of transposition, use the <a href="/legislationTransposes">legislationTransposes</a> property. 
+
+For example an informative consolidated law of a European Union's member state 
+"applies" the consolidated version of the European Directive implemented in it.
 
 LegislationApplies:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Legislation')"}}
 
 ### LegislationChanges
-Another legislation that this legislation changes. This encompasses the notions of amendment, replacement, correction, repeal, or other types of change. This may be a direct change (textual or non-textual amendment) or a consequential or indirect change. The property is to be used to express the existence of a change relationship between two acts rather than the existence of a consolidated version of the text that shows the result of the change. For consolidation relationships, use the &lt;a href="/legislationConsolidates"&gt;legislationConsolidates&lt;/a&gt; property.
+Another legislation that this legislation changes. This encompasses the notions of amendment, replacement, correction, repeal, or other types of change. This may be a direct change (textual or non-textual amendment) or a consequential or indirect change. The property is to be used to express the existence of a change relationship between two acts rather than the existence of a consolidated version of the text that shows the result of the change. For consolidation relationships, use the <a href="/legislationConsolidates">legislationConsolidates</a> property.
 
 LegislationChanges:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Legislation')"}}
 

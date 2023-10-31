@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_supporting_data )
 ( #has_/range :: DataFeed )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_supporting_data.md|has_supporting_data]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_supporting_data.internal.md|has_supporting_data.internal]] 

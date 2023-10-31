@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of Message.
 
-
-
 Use it like this: 
 - [has_time_read::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/read::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::Message]
 (name::has_time_read)
 (range::Date, DateTime)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_read.md|has_time_read]] 

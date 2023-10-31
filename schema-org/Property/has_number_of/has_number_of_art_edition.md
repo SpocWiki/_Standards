@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_art_edition )
 ( #has_/range :: Integer, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_art_edition.md|has_number_of_art_edition]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_art_edition.internal.md|has_number_of_art_edition.internal]] 

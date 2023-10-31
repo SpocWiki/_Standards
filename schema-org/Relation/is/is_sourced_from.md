@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_sourced_from )
 ( #has_/range :: BrainStructure )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_sourced_from.md|is_sourced_from]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_sourced_from.internal.md|is_sourced_from.internal]] 

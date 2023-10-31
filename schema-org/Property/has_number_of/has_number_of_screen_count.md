@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_screen_count )
 ( #has_/range :: Number )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_screen_count.md|has_number_of_screen_count]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_screen_count.internal.md|has_number_of_screen_count.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_music_release_format )
 ( #has_/range :: MusicReleaseFormatType )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_music_release_format.md|has_music_release_format]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_music_release_format.internal.md|has_music_release_format.internal]] 

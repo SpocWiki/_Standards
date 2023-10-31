@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_part_of_order )
 ( #has_/range :: Order )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_order.md|is_part_of_order]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_order.internal.md|is_part_of_order.internal]] 

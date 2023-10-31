@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_associated_anatomy )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_associated_anatomy.md|has_associated_anatomy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_anatomy.internal.md|has_associated_anatomy.internal]] 

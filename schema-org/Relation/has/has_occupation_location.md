@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_occupation_location )
 ( #has_/range :: AdministrativeArea )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_occupation_location.md|has_occupation_location]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_occupation_location.internal.md|has_occupation_location.internal]] 

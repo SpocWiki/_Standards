@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_floor_limit )
 ( #has_/range :: MonetaryAmount )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_floor_limit.md|has_value_for_floor_limit]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_floor_limit.internal.md|has_value_for_floor_limit.internal]] 

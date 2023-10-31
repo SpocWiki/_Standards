@@ -46,8 +46,6 @@ Predicate describes that:
 ( #has_/name :: has_value_for_suggested_measurement )
 ( #has_/range :: QuantitativeValue )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_suggested_measurement.md|has_value_for_suggested_measurement]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_suggested_measurement.internal.md|has_value_for_suggested_measurement.internal]] 

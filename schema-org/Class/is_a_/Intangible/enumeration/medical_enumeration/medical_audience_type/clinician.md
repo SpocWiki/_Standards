@@ -44,8 +44,6 @@ Medical clinicians, including practicing physicians and other medical profession
 
 [ #is_/enum_of :: [[../MedicalAudienceType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/clinician.md|clinician]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_audience_type/clinician.internal.md|clinician.internal]] 

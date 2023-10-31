@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_educational_credential_awarded )
 ( #has_/range :: EducationalOccupationalCredential, Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_educational_credential_awarded.md|has_educational_credential_awarded]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_educational_credential_awarded.internal.md|has_educational_credential_awarded.internal]] 

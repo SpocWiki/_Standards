@@ -46,8 +46,6 @@ UnemploymentSupport: this is a benefit for unemployment support.
 
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.md|unemployment_support]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.internal.md|unemployment_support.internal]] 

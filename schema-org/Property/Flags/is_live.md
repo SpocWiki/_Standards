@@ -45,8 +45,6 @@ Predicate describes that:
 ( #has_/name :: is_live )
 ( #has_/range :: Boolean )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Flags/is_live.md|is_live]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_live.internal.md|is_live.internal]] 

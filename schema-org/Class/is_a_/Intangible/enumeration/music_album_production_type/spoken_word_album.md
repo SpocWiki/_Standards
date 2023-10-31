@@ -44,8 +44,6 @@ SpokenWordAlbum.
 
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.md|spoken_word_album]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.internal.md|spoken_word_album.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_service_phone )
 ( #has_/range :: ContactPoint )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_service_phone.md|has_service_phone]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_service_phone.internal.md|has_service_phone.internal]] 

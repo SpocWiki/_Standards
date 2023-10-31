@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_suitable_for_diet )
 ( #has_/range :: RestrictedDiet )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_suitable_for_diet.md|has_suitable_for_diet]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_suitable_for_diet.internal.md|has_suitable_for_diet.internal]] 

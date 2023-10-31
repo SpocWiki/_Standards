@@ -46,8 +46,6 @@ Predicate describes that:
 
 [ #is_/sub_property_of  :: location ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_to_location.md|has_geo_to_location]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_to_location.internal.md|has_geo_to_location.internal]] 

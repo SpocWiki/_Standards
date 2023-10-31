@@ -44,8 +44,6 @@ A transit map.
 
 [ #is_/enum_of :: [[../MapCategoryType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/map_category_type/transit_map.md|transit_map]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/map_category_type/transit_map.internal.md|transit_map.internal]] 

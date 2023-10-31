@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: has_job_title )
 ( #has_/range :: DefinedTerm, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_job_title.md|has_job_title]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_job_title.internal.md|has_job_title.internal]] 

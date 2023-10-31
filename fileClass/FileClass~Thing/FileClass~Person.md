@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Thing]]
 
 A person (alive, dead, undead, or fictional).
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/Person
@@ -313,5 +312,4 @@ WorkLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 Organizations that the person works for.
 
 WorksFor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
-
 

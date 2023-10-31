@@ -39,7 +39,6 @@ Relation describes that:
 ( #has_/name :: [is_module_of](is_module_of.md))
 ( #has_/range :: [Composite](../Composite.md))
 
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/is_module_of.md|is_module_of]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/is_module_of.internal.md|is_module_of.internal]] 

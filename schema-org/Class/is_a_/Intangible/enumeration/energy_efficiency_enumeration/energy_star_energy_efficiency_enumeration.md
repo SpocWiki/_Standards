@@ -42,8 +42,6 @@ Used to indicate whether a product is EnergyStar certified.
 
 [ #is_/sub_class_of :: [[../EnergyEfficiencyEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.md|energy_star_energy_efficiency_enumeration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration.internal.md|energy_star_energy_efficiency_enumeration.internal]] 

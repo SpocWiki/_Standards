@@ -40,8 +40,6 @@ Enumerated status values for Order.
 
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status.md|order_status]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status.internal.md|order_status.internal]] 

@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_program_prerequisites )
 ( #has_/range :: AlignmentObject, Course, EducationalOccupationalCredential, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_program_prerequisites.md|has_program_prerequisites]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_program_prerequisites.internal.md|has_program_prerequisites.internal]] 

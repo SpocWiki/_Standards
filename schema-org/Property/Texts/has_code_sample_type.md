@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_code_sample_type )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_code_sample_type.md|has_code_sample_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_code_sample_type.internal.md|has_code_sample_type.internal]] 

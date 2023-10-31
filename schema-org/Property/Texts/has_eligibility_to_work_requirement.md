@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_eligibility_to_work_requirement )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.md|has_eligibility_to_work_requirement]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.internal.md|has_eligibility_to_work_requirement.internal]] 

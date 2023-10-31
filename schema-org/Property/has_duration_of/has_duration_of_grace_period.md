@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_duration_of_grace_period)
 (range::Duration)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_grace_period.md|has_duration_of_grace_period]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_grace_period.internal.md|has_duration_of_grace_period.internal]] 

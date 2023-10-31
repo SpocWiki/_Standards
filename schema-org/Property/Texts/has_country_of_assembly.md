@@ -46,8 +46,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_country_of_assembly )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_country_of_assembly.md|has_country_of_assembly]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_country_of_assembly.internal.md|has_country_of_assembly.internal]] 

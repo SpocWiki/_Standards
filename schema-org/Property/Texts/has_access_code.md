@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_access_code )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_access_code.md|has_access_code]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_access_code.internal.md|has_access_code.internal]] 

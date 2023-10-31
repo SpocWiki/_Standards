@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_geo_location_service_postal_address )
 ( #has_/range :: PostalAddress )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/geos/has_geo_service_postal_address.md|has_geo_service_postal_address]] 
 - [[../../../../_internal/schema.org/Predicate/geos/has_geo_service_postal_address.internal.md|has_geo_service_postal_address.internal]] 

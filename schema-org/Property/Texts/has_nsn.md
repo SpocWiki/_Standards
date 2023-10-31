@@ -48,8 +48,6 @@ Predicated describes that:
 
 [ #is_/sub_property_of  :: identifier ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_nsn.md|has_nsn]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_nsn.internal.md|has_nsn.internal]] 

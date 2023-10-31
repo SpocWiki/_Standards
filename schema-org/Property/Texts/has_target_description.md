@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_target_description )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_target_description.md|has_target_description]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_target_description.internal.md|has_target_description.internal]] 

@@ -44,8 +44,6 @@ A specific branch of medical science that specializes in the care of women durin
 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/obstetric.md|obstetric]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/obstetric.internal.md|obstetric.internal]] 

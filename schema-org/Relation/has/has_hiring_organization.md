@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_hiring_organization )
 ( #has_/range :: Organization, Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_hiring_organization.md|has_hiring_organization]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hiring_organization.internal.md|has_hiring_organization.internal]] 

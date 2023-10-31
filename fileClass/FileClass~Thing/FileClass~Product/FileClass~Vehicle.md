@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Product]]
 
 A vehicle is a device that is designed or used to transport people or cargo over land, water, air, or through space.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/Vehicle
@@ -270,5 +269,4 @@ The distance between the centers of the front and rear wheels.
 Typical unit code(s): CMT for centimeters, MTR for meters, INH for inches, FOT for foot/feet
 
 Wheelbase:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
-
 

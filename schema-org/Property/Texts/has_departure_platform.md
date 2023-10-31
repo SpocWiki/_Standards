@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_departure_platform )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_departure_platform.md|has_departure_platform]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_departure_platform.internal.md|has_departure_platform.internal]] 

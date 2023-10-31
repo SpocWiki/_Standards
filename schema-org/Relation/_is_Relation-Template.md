@@ -52,8 +52,6 @@ Relation describes that:
 
 [ #has_/sub_properties :: {{subproperties}}]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/_is_Relation-Template.md|_is_Relation-Template]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/_is_Relation-Template.internal.md|_is_Relation-Template.internal]] 

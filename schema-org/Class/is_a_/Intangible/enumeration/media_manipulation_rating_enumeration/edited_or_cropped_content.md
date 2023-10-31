@@ -40,7 +40,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Content coded 'edited or cropped content' in a <a class="localLink" href="/MediaReview">MediaReview</a>, 
+Content coded 'edited or cropped content' in a [[MediaReview]], 
 considered in the context of how it was published or shared.
 
 # For a [[../../../creative_work/media_object/video_object|VideoObject]]: 
@@ -57,8 +57,6 @@ or editing out large portions from the recording.
 [ #is_/sub_class_of :: [[../media_manipulation_rating_enumeration]] ]
 
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.md|edited_or_cropped_content]] 

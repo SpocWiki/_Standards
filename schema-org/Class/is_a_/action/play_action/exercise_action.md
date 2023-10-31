@@ -42,8 +42,6 @@ The act of participating in exertive activity for the purposes of improving heal
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, course, description, diet, disambiguatingDescription, distance, endTime, error, event, exerciseCourse, exercisePlan, exerciseRelatedDiet, exerciseType, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, opponent, participant, potentialAction, provider, result, sameAs, sportsActivityLocation, sportsEvent, sportsTeam, startTime, subjectOf, target, toLocation, url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/play_action/exercise_action.md|exercise_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/play_action/exercise_action.internal.md|exercise_action.internal]] 

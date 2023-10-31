@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_breadcrumb )
 ( #has_/range :: BreadcrumbList, Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_breadcrumb.md|has_breadcrumb]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_breadcrumb.internal.md|has_breadcrumb.internal]] 

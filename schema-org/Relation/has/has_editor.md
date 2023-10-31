@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_editor )
 ( #has_/range :: Person )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_editor.md|has_editor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_editor.internal.md|has_editor.internal]] 

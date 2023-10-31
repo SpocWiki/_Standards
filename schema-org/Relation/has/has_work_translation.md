@@ -45,8 +45,6 @@ Relation describes that:
 
 [ #is_/inverse_of  :: translationOfWork ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_work_translation.md|has_work_translation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_translation.internal.md|has_work_translation.internal]] 

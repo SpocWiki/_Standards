@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_time_of_observation)
 (range::DateTime)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_observation.md|has_time_of_observation]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_observation.internal.md|has_time_of_observation.internal]] 

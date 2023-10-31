@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_supply_to )
 ( #has_/range :: AnatomicalStructure )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_supply_to.md|has_supply_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_supply_to.internal.md|has_supply_to.internal]] 

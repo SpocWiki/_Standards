@@ -44,8 +44,6 @@ A system of medicine focused on promoting the body's innate ability to heal itse
 
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/osteopathic.md|osteopathic]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/osteopathic.internal.md|osteopathic.internal]] 

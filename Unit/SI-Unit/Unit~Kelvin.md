@@ -1,7 +1,6 @@
 
 # [[Unit~Kelvin]] 
 
-
 > The **Kelvin**, symbol K, is a unit of measurement for temperature. The Kelvin scale is an absolute scale, which is defined such that 0 K is absolute zero and a change of thermodynamic temperature T by 1 kelvin corresponds to a change of thermal energy kT by 1.380649×10−23 J. 
 > The **Boltzmann constant k = 1.380649×10−23 J⋅K−1 was exactly defined in the 2019** redefinition of the SI base units such that the triple point of water is 273.16±0.0001 K. The kelvin is the base unit of temperature in the International System of Units (SI), used alongside its prefixed forms. It is named after the Belfast-born and University of Glasgow-based engineer and physicist William Thomson, 1st Baron Kelvin (1824–1907). 
 >

@@ -32,8 +32,6 @@ aliases:
 
 Predicate to describe the date of ActionAccessSpecification, Demand, Offer.
 
-
-
 Use it like this: 
 - [has_time_when_availability_starts::P#Y#M#W#DT#H#M#s.fff] or 
 - [ #has_/time_/when_availability_starts::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
@@ -44,11 +42,6 @@ Formal Predicate:
 [domain::ActionAccessSpecification, Demand, Offer]
 (name::has_time_when_availability_starts)
 (range::Date, DateTime, Time)
-
-
-
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Date_Times/has_time_when_availability_starts.md|has_time_when_availability_starts]] 

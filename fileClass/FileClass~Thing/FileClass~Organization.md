@@ -14,7 +14,6 @@ This is a kind of [[FileClass~Thing]]
 
 An organization such as a school, NGO, corporation, club, etc.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_an_/Organization
@@ -313,5 +312,4 @@ VatID:: {"type":"Input","options":{}}
 Upcoming or past event associated with this place, organization, or action.
 
 Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Event')"}}
-
 

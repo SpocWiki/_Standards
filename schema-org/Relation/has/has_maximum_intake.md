@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_maximum_intake )
 ( #has_/range :: MaximumDoseSchedule )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_maximum_intake.md|has_maximum_intake]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_maximum_intake.internal.md|has_maximum_intake.internal]] 

@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_passenger_sequence_number )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_passenger_sequence_number.md|has_passenger_sequence_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_passenger_sequence_number.internal.md|has_passenger_sequence_number.internal]] 

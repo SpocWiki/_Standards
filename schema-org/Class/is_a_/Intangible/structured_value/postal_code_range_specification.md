@@ -38,13 +38,11 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Indicates a range of postal codes, usually defined as the set of valid codes between <a class="localLink" href="/postalCodeBegin">postalCodeBegin</a> and <a class="localLink" href="/postalCodeEnd">postalCodeEnd</a>, inclusively.
+Indicates a range of postal codes, usually defined as the set of valid codes between [[postalCodeBegin]] and [[postalCodeEnd]], inclusively.
 
 [ #is_/sub_class_of :: [[../StructuredValue]] ]
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, postalCodeBegin, postalCodeEnd, potentialAction, sameAs, subjectOf, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/postal_code_range_specification.md|postal_code_range_specification]] 

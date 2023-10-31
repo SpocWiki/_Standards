@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_web_feed )
 ( #has_/range :: DataFeed, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_web_feed.md|has_web_feed]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_web_feed.internal.md|has_web_feed.internal]] 

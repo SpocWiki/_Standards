@@ -3,33 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclass: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_parent_organization
-
 linkTitle: has_parent_organization
-keywords: [parent, organization]
+keywords:
+  - parent
+  - organization
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: branchOf
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- parent-organization
-- parent_organization
-- parentOrganization
-- has_parent_organization
+  - parent-organization
+  - parent_organization
+  - parentOrganization
+  - has_parent_organization
+  - is_branch_of
 ---
 
 Use it like this: 
@@ -44,8 +41,6 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 [ #is_/inverse_of  :: subOrganization ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_parent_organization.md|has_parent_organization]] 

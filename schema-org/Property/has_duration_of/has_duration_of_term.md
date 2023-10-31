@@ -45,11 +45,6 @@ Formal Predicate:
 (name::has_duration_of_term)
 (range::Duration)
 
-
-
-
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_term.md|has_duration_of_term]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_term.internal.md|has_duration_of_term.internal]] 

@@ -71,8 +71,6 @@ Tag Term-Classes like this:
 
 #has_/properties :: [ [[../../../Property/has_url_for/has_url_for_additional_type|additionalType]], alternateName, description, disambiguatingDescription, identifier, image, inDefinedTermSet, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, [[../../../Property/Texts/has_term-code|termCode]], url ] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/defined_term.md|defined_term]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/defined_term.internal.md|defined_term.internal]] 

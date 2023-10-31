@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_dose_unit )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_dose_unit.md|has_dose_unit]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_dose_unit.internal.md|has_dose_unit.internal]] 

@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_sub_reservation )
 ( #has_/range :: Reservation )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_sub_reservation.md|has_sub_reservation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_reservation.internal.md|has_sub_reservation.internal]] 

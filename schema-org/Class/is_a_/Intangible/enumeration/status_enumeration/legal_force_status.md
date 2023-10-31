@@ -42,8 +42,6 @@ A list of possible statuses for the legal force of a legislation.
 
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status.md|legal_force_status]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status.internal.md|legal_force_status.internal]] 

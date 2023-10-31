@@ -41,16 +41,14 @@ An agent joins an event/group with participants/friends at a location.
 Related actions:
 
 <ul>
-<li><a class="localLink" href="/RegisterAction">RegisterAction</a>: Unlike RegisterAction, JoinAction refers to joining a group/team of people.</li>
-<li><a class="localLink" href="/SubscribeAction">SubscribeAction</a>: Unlike SubscribeAction, JoinAction does not imply that you'll be receiving updates.</li>
-<li><a class="localLink" href="/FollowAction">FollowAction</a>: Unlike FollowAction, JoinAction does not imply that you'll be polling for updates.</li>
+<li>[[RegisterAction]]: Unlike RegisterAction, JoinAction refers to joining a group/team of people.</li>
+<li>[[SubscribeAction]]: Unlike SubscribeAction, JoinAction does not imply that you'll be receiving updates.</li>
+<li>[[FollowAction]]: Unlike FollowAction, JoinAction does not imply that you'll be polling for updates.</li>
 </ul>
 
 [ #is_/sub_class_of :: [[../InteractAction]] ]
 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_public/schema.org/Class/is_a_/action/interact_action/join_action.md|join_action]] 

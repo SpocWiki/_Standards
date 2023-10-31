@@ -46,8 +46,6 @@ Indicates demo game availability, i.e. a somehow limited demonstration of the fu
 
 [ #is_/enum_of :: [[../GameAvailabilityEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/demo_game_availability.md|demo_game_availability]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/demo_game_availability.internal.md|demo_game_availability.internal]] 

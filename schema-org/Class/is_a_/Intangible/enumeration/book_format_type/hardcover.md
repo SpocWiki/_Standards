@@ -44,8 +44,6 @@ Book format: Hardcover.
 
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/book_format_type/hardcover.md|hardcover]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/hardcover.internal.md|hardcover.internal]] 

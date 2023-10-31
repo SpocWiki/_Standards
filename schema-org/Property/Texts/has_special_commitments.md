@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_special_commitments )
 ( #has_/range :: Text )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_special_commitments.md|has_special_commitments]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_special_commitments.internal.md|has_special_commitments.internal]] 

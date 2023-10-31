@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: is_applying_to_payment_method)
 ( #has_/range :: PaymentMethod)
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_applying_to_payment_method.md|is_applying_to_payment_method]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_applying_to_payment_method.internal.md|is_applying_to_payment_method.internal]] 

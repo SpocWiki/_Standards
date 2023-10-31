@@ -44,8 +44,6 @@ Predicate describes that:
 ( #has_/name :: has_number_of_tracks )
 ( #has_/range :: Integer )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Counts/has_number_of_tracks.md|has_number_of_tracks]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_tracks.internal.md|has_number_of_tracks.internal]] 

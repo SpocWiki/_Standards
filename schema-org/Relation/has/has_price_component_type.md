@@ -43,8 +43,6 @@ Relation describes that:
 ( #has_/name :: is_price_component_type )
 ( #has_/range :: PriceComponentTypeEnumeration )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_price_component_type.md|has_price_component_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_price_component_type.internal.md|has_price_component_type.internal]] 

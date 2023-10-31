@@ -41,8 +41,6 @@ Relation describes that:
 ( #has_/name :: has_fuel_type )
 ( #has_/range :: QualitativeValue, Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_fuel_type.md|has_fuel_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_fuel_type.internal.md|has_fuel_type.internal]] 

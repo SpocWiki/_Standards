@@ -43,8 +43,6 @@ Reision describes that:
 ( #has_/name :: is_superseded_by )
 ( #has_/range :: Class, Enumeration, Property )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_superseded_by.md|is_superseded_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_superseded_by.internal.md|is_superseded_by.internal]] 

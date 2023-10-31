@@ -46,8 +46,6 @@ Specifies that a return label will be provided by the seller in the shipping box
 
 [ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_in_box.md|return_label_in_box]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_in_box.internal.md|return_label_in_box.internal]] 

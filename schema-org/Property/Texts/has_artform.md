@@ -44,8 +44,6 @@ Predicated describes that:
 ( #has_/name :: has_text_about_artform )
 ( #has_/range :: Text, URL )
 
-
-
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_artform.md|has_artform]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_artform.internal.md|has_artform.internal]] 
