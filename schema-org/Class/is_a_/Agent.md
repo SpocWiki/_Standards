@@ -3,8 +3,9 @@ aliases:
   - prov:agent
 ---
 
+# [[Agent]] 
 
-Agent is an active Party performing [Activities](Activity.md). 
+An Agent is an active Party performing [Activities](Activity.md). 
 
 Notable subclasses are 
 - [person](person.md) 
