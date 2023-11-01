@@ -1,9 +1,9 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
-icon: link-2
-version: 5
+excludes: 
+icon: users
+version: 6
 tagNames: [class/Organization, class/Thing/Organization, is_an_/Organization, schema-org/Organization]
 tags: ["class/FileClass", "class/Organization", "#is_an_/Organization", "class/Thing/Organization"]
 extends: FileClass~Thing
