@@ -5,7 +5,7 @@ isDeleted: false
 isReadOnly: false
 
 #Obsidian well-known Keys
-cssclass: Type
+cssclasses: Type
 publish: true
 
 # Hugo Tags
@@ -40,7 +40,7 @@ isDeleted: false
 isReadOnly: false
 
 #Obsidian well-known Keys
-cssclass: Type
+cssclasses: Type
 publish: true
 
 # Hugo Tags

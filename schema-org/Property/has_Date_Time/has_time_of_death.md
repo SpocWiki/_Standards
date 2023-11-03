@@ -5,7 +5,7 @@ isDeleted: false
 isReadOnly: false
 
 #Obsidian well-known Keys
-cssclass: Predicate Date_Time
+cssclasses: Predicate Date_Time
 publish: true
 
 # Hugo Tags

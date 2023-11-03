@@ -3,7 +3,7 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-cssclass: Predicate Relation
+cssclasses: Predicate Relation
 publish: true
 type: Predi_Relation
 title: is_inverse_of

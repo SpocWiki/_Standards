@@ -5,7 +5,7 @@ isDeleted: false
 isReadOnly: false
 
 # Obsidian well-known Keys
-cssclass: private note
+cssclasses: private note
 publish: false
 
 # Hugo Tags

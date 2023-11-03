@@ -5,7 +5,7 @@ isDeleted: false
 isReadOnly: false
 
 #Obsidian well-known Keys
-cssclass: Unit
+cssclasses: Unit
 publish: true
 
 # Hugo Tags

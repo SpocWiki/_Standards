@@ -5,7 +5,7 @@ isDeleted: false
 isReadOnly: false
 
 #Obsidian well-known Keys
-cssclass: Predicate Relation
+cssclasses: Predicate Relation
 publish: true
 
 # Hugo Tags
@@ -37,7 +37,7 @@ isDeleted: false
 isReadOnly: false
 
 #Obsidian well-known Keys
-cssclass: Predicate Text
+cssclasses: Predicate Text
 publish: true
 
 # Hugo Tags
