@@ -37,7 +37,7 @@ Use it like this:
 - [ #has_/value_for_/latitude :: Number, Text ] or 
 - [ has_value_for_latitude :: Number, Text ] 
 
-The latitude of a location. For example <code>37.42242</code> (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84]]).
+The latitude of a location. For example <code>37.42242</code> (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>).
 
 Predicate describes that: 
 [ #has_/domain  :: GeoCoordinates, Place ]

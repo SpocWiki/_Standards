@@ -45,7 +45,8 @@ The power of the vehicle's engine.
 
 
 <ul>
-<li>Note 1: There are many different ways of measuring an engine's power. For an overview, see  <a href="http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes">http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes]].</li>
+<li>Note 1: There are many different ways of measuring an engine's power. 
+For an overview, see  <a href="http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes">http://en.wikipedia.org/wiki/Horsepower#Engine_power_test_codes]].</li>
 <li>Note 2: You can link to information about how the given value has been determined using the [[valueReference]] property.</li>
 <li>Note 3: You can use [[minValue]] and [[maxValue]] to indicate ranges.</li>
 </ul>
