@@ -35,7 +35,7 @@ Predicate to describe the geo of GeospatialGeometry, Place.
 
 Use it like this: 
 - [ #has_/geo_/equal_to :: GeospatialGeometry, Place ] or 
-- [ has_geo_geo_equals :: GeospatialGeometry, Place ] 
+- [ has_geo_equal_to :: GeospatialGeometry, Place ] 
 
 Represents spatial relations in which two geometries (or the places they represent) are topologically equal, 
 as defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM). 

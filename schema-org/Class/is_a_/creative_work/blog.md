@@ -36,7 +36,7 @@ Class of all blogs.
 Tag Instances like this: 
 #is_a_/blog
 
-A [[https://en.wikipedia.org/wiki/Blog|blog]], sometimes known as a "weblog". 
+A <a href="https://en.wikipedia.org/wiki/Blog">blog</a>, sometimes known as a "weblog". 
 
 Note that the individual posts ([[BlogPosting]]s) in a [[Blog]] are often colloquially referred to by the same term.
 

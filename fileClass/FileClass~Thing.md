@@ -12,6 +12,7 @@ tags: ["class/FileClass", "class/Thing", "#is_/a_/Thing", "class/Thing"]
 
 AKA Some Thing, Any Thing. 
 The most generic class/type of items in this schema. 
+The word is derived from 'Think', so anything you can think of is a Thing. 
 
 ## Use one of these Tags for Objects of this Type:
 
@@ -35,9 +36,13 @@ Description:: {"type":"Input","options":{}}
 An additional type for the item, typically used 
 for adding more specific types from external vocabularies in microdata syntax. 
 
-This is a relationship between something and a class that the thing is in. 
-Typically the value is a URI-identified RDF class, and in this case corresponds to the  
- use of rdf:type in RDF. Text values can be used sparingly, for cases where useful information can be added without their being an appropriate schema to reference. In the case of text values, the class label should follow the schema.org <a href="https://schema.org/docs/styleguide.html">style guide</a>
+This is a relationship between something (any thing) and a class that the thing is in. 
+
+Typically the value is a URI-identified RDF class, 
+and in this case corresponds to the use of rdf:type in RDF. 
+
+Text values can be used sparingly, for cases where useful information can be added without their being an appropriate schema to reference. 
+In the case of text values, the class label should follow the schema.org <a href="https://schema.org/docs/styleguide.html">style guide</a>
 
 AdditionalType:: {"type":"Input","options":{}}
 
