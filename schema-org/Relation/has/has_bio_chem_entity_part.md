@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/name :: has_bio_chem_entity_part )
 ( #has_/range :: BioChemEntity )
 
-[ #is_/inverse_of  :: [[../is/is_part_of_bio_chem_entity]] ]
+[ #is_/inverse_of  :: [[../is/part_of/is_part_of_bio_chem_entity]] ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_bio_chem_entity_part.md|has_bio_chem_entity_part]] 

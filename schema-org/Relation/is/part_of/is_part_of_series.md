@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/name :: is_part_of_series )
 ( #has_/range :: CreativeWorkSeries )
 
-[ #is_/sub_property_of  :: isPartOf ]
+[ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_series.md|is_part_of_series]] 

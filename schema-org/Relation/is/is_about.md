@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/name :: is_about )
 ( #has_/range :: Thing )
 
-[ #is_/inverse_of  :: [[../has/is_subject_of]] ]
+[ #is_/inverse_of  :: [[is_subject_of]] ]
 
 [ #has_/sub_properties :: [ [has_main_entity](../has/has_main_entity.md) ] ]
 

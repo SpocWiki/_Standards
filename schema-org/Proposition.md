@@ -27,7 +27,7 @@ They are the Building-Blocks of the Semantic Web.
 Claims can be 'reified' to make Propositions about Propositions.
 
 Propositions consist of 3 Parts forming a so-called Triple: 
-- [[Relation/has/is_subject_of|subjectOf]]
+- [[Relation/is/is_subject_of|subjectOf]]
 - Predicate
 - [[Relation/has/has_object|object]] or Value 
 

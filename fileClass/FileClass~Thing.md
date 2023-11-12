@@ -83,7 +83,7 @@ E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.
 SameAs:: {"type":"Input","options":{}}
 
 ### SubjectOf
-CreativeWorks or Events about this Thing. Inverse Relation of [[../schema-org/Relation/has/is_subject_of|is_subject_of]] 
+CreativeWorks or Events about this Thing. Inverse Relation of [[../schema-org/Relation/is/is_subject_of|is_subject_of]] 
 
 SubjectOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 

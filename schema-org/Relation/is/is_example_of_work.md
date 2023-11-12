@@ -30,15 +30,18 @@ aliases:
 - has_example_of_work
 ---
 
-Use it like this: 
-- [ #has_/example_of_work :: CreativeWork ] or 
-- [ has_example_of_work :: CreativeWork ] 
+A [[../../Class/is_a_/creative_work|creative_work]] that this work is an example/instance/realization/derivation of.
 
-A creative work that this work is an example/instance/realization/derivation of.
+Inverse Relation of [[has_work_example]] and . 
+
+
+Use it like this: 
+- [ #is_/example_of_work :: CreativeWork ] or 
+- [ is_example_of_work :: CreativeWork ] 
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: has_example_of_work )
+( #has_/name :: is_example_of_work )
 ( #has_/range :: CreativeWork )
 
 [ #is_/inverse_of  :: workExample ]

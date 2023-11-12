@@ -30,7 +30,10 @@ aliases:
 - has_duration
 ---
 
-Predicate to describe the Duration of Audiobook, Episode, Event, MediaObject, Movie, MusicRecording, MusicRelease, QuantitativeValueDistribution, Schedule.
+Predicate to describe the Duration of Audiobook, Episode, Event, MediaObject, 
+Movie, MusicRecording, MusicRelease, QuantitativeValueDistribution, Schedule.
+
+#has_/icon :: ⏱️ 
 
 Use it like this: 
 - [has_duration::P#Y#M#W#DT#H#M#s.fff] or 

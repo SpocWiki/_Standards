@@ -35,7 +35,7 @@ A data catalog which contains this dataset (this property was previously 'catalo
 
 Relation describes that: 
 [ #has_/domain  :: Dataset ]
-( #has_/name :: [[is_included_in_data_catalog]] )
+( #has_/name :: [[is_included_in_data_catalog 1]] )
 ( #has_/range :: DataCatalog )
 
 ## Confidential Links & Embeds: 

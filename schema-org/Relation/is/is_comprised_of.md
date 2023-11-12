@@ -30,16 +30,22 @@ aliases:
 - is_comprised_of
 ---
 
+Specifying something physically contained by something else. 
+Typically used here for the underlying anatomical structures, 
+such as organs, that comprise the anatomical system.
+
+Inverse to [[../../Composite/is_part_of|is_part_of]] 
+
 Use it like this: 
 - [ #is_/comprised_of :: AnatomicalStructure, AnatomicalSystem ] or 
 - [ is_comprised_of :: AnatomicalStructure, AnatomicalSystem ] 
-
-Specifying something physically contained by something else. Typically used here for the underlying anatomical structures, such as organs, that comprise the anatomical system.
 
 Relation describes that: 
 [ #has_/domain  :: AnatomicalSystem ]
 ( #has_/name :: is_comprised_of )
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
+
+[ #is_/inverse_of  :: [[../../Composite/is_part_of]] ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/is/is_comprised_of.md|is_comprised_of]] 
