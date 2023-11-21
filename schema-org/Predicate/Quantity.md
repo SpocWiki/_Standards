@@ -51,7 +51,7 @@ XML, Turtle and Json have dedicated Syntax to indicate the Language, but this ca
 This has the Benefit that Translation becomes Conversion. 
 ## Xml uses the xml:lang Attribute
 ```xml
-    <rdf:value xml:lang="en">This is an English text.</rdf:value>
+	<rdf:value xml:lang="en">This is an English text.</rdf:value>
 ```
 
 ## Turtle has @lang Suffix 
@@ -64,8 +64,8 @@ This has the Benefit that Translation becomes Conversion.
 {
   "@id": "#example",
   "rdf:value": {
-    "@value": "This is an English text.",
-    "@language": "en"
+	"@value": "This is an English text.",
+	"@language": "en"
   }
 }
 ```

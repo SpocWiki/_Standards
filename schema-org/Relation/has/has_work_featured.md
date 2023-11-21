@@ -35,7 +35,7 @@ Use it like this:
 - [ has_work_featured :: CreativeWork ] 
 
 A work featured in some event, e.g. exhibited in an ExhibitionEvent.
-       Specific subproperties are available for workPerformed (e.g. a play), or a workPresented (a Movie at a ScreeningEvent).
+	   Specific subproperties are available for workPerformed (e.g. a play), or a workPresented (a Movie at a ScreeningEvent).
 
 Relation describes that: 
 [ #has_/domain  :: Event ]

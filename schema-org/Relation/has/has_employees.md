@@ -33,15 +33,18 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has_/employee :: Person ] or 
-- [ has_employee :: Person ] 
+- [ #has_/employees :: [[Person]] ] or 
+- [ has_employees :: [[Person]] ] 
 
-Someone working for this organization.
+People working for this organization.
+Rather use [[has_employer]]! 
 
 Relation describes that: 
-[ #has_/domain  :: Organization ]
-( #has_/name :: has_employee )
-( #has_/range :: Person )
+[ #has_/domain  :: [[Organization]] ]
+( #has_/name :: has_employees )
+( #has_/range :: [[Person]] )
+
+#is_/inverse_of :: [[has_employer]] 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_employee.md|has_employee]] 

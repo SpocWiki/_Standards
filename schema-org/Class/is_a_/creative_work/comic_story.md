@@ -39,8 +39,8 @@ Tag Instances like this:
 [ #is_/part_of :: https://bib.schema.org ]
 
 The term "story" is any indivisible, re-printable
-        unit of a comic, including the interior stories, covers, and backmatter. Most
-        comics have at least two stories: a cover (ComicCoverArt) and an interior story.
+		unit of a comic, including the interior stories, covers, and backmatter. Most
+		comics have at least two stories: a cover (ComicCoverArt) and an interior story.
 
 [ #is_/sub_class_of :: [[../CreativeWork]] ]
 

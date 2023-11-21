@@ -40,7 +40,7 @@ Use it like this:
 - [ has_value_for_engine_power_watt :: QuantitativeValue ] 
 
 The power of the vehicle's engine.
-    Typical unit code(s): KWT for kilowatt, BHP for brake horsepower, N12 for metric horsepower (PS, with 1 PS = 735,49875 W)
+	Typical unit code(s): KWT for kilowatt, BHP for brake horsepower, N12 for metric horsepower (PS, with 1 PS = 735,49875 W)
 
 
 

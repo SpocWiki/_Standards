@@ -59,7 +59,7 @@ to disambiguate both Keys and Values.
 ```json
 {
   "@context": {
-    "schema": "http://schema.org/"
+	"schema": "http://schema.org/"
   },
   "@type": "schema:Person",
   "schema:name": "John Doe",
@@ -73,9 +73,9 @@ to further reduce the Size and make it compatible with naive Json-Serialization:
 ```json
 {
   "@context": {
-    "schema": "http://schema.org/",
-    "name": "schema:name",
-    "birthDate": "schema:birthDate"
+	"schema": "http://schema.org/",
+	"name": "schema:name",
+	"birthDate": "schema:birthDate"
   },
   [
 	  {

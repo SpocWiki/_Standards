@@ -37,8 +37,8 @@ Use it like this:
 - [ has_artist :: [[Person]] ] 
 
 The primary artist for a work
-        in a medium other than pencils or digital line art--for example, if the
-        primary artwork is done in watercolors or digital paints.
+		in a medium other than pencils or digital line art--for example, if the
+		primary artwork is done in watercolors or digital paints.
 
 Relation describes that: 
 [ #has_/domain  :: ComicIssue, ComicStory, VisualArtwork ]

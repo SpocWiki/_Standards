@@ -37,7 +37,7 @@ Use it like this:
 - [ has_claim_interpreter :: Organization, Person ] 
 
 For a [[Claim]] interpreted from [[MediaObject]] content
-    sed to indicate a claim contained, implied or refined from the content of a [[MediaObject]].
+	sed to indicate a claim contained, implied or refined from the content of a [[MediaObject]].
 
 Relation describes that: 
 [ #has_/domain  :: Claim ]

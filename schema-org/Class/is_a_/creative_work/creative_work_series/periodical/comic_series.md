@@ -39,8 +39,8 @@ Tag Instances like this:
 [ #is_/part_of :: https://bib.schema.org ]
 
 A sequential publication of comic stories under a
-        unifying title, for example "The Amazing Spider-Man" or "Groo the
-        Wanderer".
+		unifying title, for example "The Amazing Spider-Man" or "Groo the
+		Wanderer".
 
 [ #is_/sub_class_of :: [[../Periodical]] ]
 

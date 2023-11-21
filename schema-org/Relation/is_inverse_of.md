@@ -32,18 +32,18 @@ aliases:
 Relates a property to a property that is its inverse.
 
 Inverse Relations relate the same pairs of items to each other, but in reversed direction.
-For example, the 'alumni' and 'alumniOf' properties are inverseOf each other. 
+For example, the 'alumni' and 'alumniOf' properties are [[inverseOf]] each other. 
 
 [ #is_/part_of :: https://meta.schema.org]
 
 Use it like this: 
-- [ #is_/inverse_of :: Property] or 
-- [ is_inverse_of :: Property] 
+- [ #is_/inverse_of :: [[Property]]] or 
+- [ is_inverse_of :: [[Property]]] 
 
 Relation describes that: 
-[ #has_/domain  :: Property]
+[ #has_/domain  :: [[Property]]]
 ( #has_/name :: is_inverse_of)
-( #has_/range :: Property)
+( #has_/range :: [[Property]])
 
 ## Converse 
 The mathematical Term is [converse Relation](https://en.wikipedia.org/wiki/Converse_relation)

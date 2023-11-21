@@ -73,7 +73,7 @@ auch mit Beiwagen.
 ### B: Dreirädrige Kraftfahrzeuge mit
 
 - Leistung von mehr als 15 kW
-    oder
+	oder
 - mit symmetrisch angeordneten Rädern und
 - Hubraum von mehr als 50 cm³ (bei Verbrennungsmotoren) oder
 - bauartbedingter Höchstgeschwindigkeit von mehr als 45 km/h und

@@ -39,9 +39,9 @@ Tag Instances like this:
 [ #is_/part_of :: https://pending.schema.org ]
 
 A SpecialAnnouncement combines a simple date-stamped textual information update
-      with contextualized Web links and other structured data.  It represents an information update made by a
-      locally-oriented organization, for example schools, pharmacies, healthcare providers,  community groups, police,
-      local government.
+	  with contextualized Web links and other structured data.  It represents an information update made by a
+	  locally-oriented organization, for example schools, pharmacies, healthcare providers,  community groups, police,
+	  local government.
 
 For work in progress guidelines on Coronavirus-related markup see <a href="https://docs.google.com/document/d/14ikaGCKxo50rRM7nvKSlbUpjyIk2WMQd3IkB1lItlrM/edit#">this doc</a>.
 
