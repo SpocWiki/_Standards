@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_duns
-linkTitle: has_text_about_duns
+title: has_text_on_duns
+linkTitle: has_text_on_duns
 
 keywords: [duns]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - duns
 - duns
 - duns
-- has_text_about_duns
+- has_text_on_duns
 ---
 
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [ #has_/text_about_/duns :: Text ] or 
-- [ has_text_about_duns :: Text ] 
+- [ #has_/text_/on_/duns :: Text ] or 
+- [ has_text_on_duns :: Text ] 
 
 The Dun &amp;amp; Bradstreet DUNS number for identifying an organization or business person.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: has_text_about_duns )
+( #has_/name :: has_text_on_duns )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_code_sample_type
-linkTitle: has_text_about_code_sample_type
+title: has_text_on_code_sample_type
+linkTitle: has_text_on_code_sample_type
 
 keywords: [code, sample, type]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - code-sample-type
 - code_sample_type
 - codeSampleType
-- has_text_about_code_sample_type
+- has_text_on_code_sample_type
 ---
 
 Predicate to describe the Text of SoftwareSourceCode.
 
 Use it like this: 
-- [ #has_/text_about_/code_sample_type :: Text ] or 
-- [ has_text_about_code_sample_type :: Text ] 
+- [ #has_/text_/on_/code_sample_type :: Text ] or 
+- [ has_text_on_code_sample_type :: Text ] 
 
 What type of code sample: full (compile ready) solution, code snippet, inline code, scripts, template.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareSourceCode ]
-( #has_/name :: has_text_about_code_sample_type )
+( #has_/name :: has_text_on_code_sample_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_payment_accepted
-linkTitle: has_text_about_payment_accepted
+title: has_text_on_payment_accepted
+linkTitle: has_text_on_payment_accepted
 
 keywords: [payment, accepted]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - payment-accepted
 - payment_accepted
 - paymentAccepted
-- has_text_about_payment_accepted
+- has_text_on_payment_accepted
 ---
 
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- [ #has_/text_about_/payment_accepted :: Text ] or 
-- [ has_text_about_payment_accepted :: Text ] 
+- [ #has_/text_/on_/payment_accepted :: Text ] or 
+- [ has_text_on_payment_accepted :: Text ] 
 
 Cash, Credit Card, Cryptocurrency, Local Exchange Tradings System, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: LocalBusiness ]
-( #has_/name :: has_text_about_payment_accepted )
+( #has_/name :: has_text_on_payment_accepted )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

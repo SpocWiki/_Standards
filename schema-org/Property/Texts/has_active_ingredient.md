@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_active_ingredient
-linkTitle: has_text_about_active_ingredient
+title: has_text_on_active_ingredient
+linkTitle: has_text_on_active_ingredient
 
 keywords: [active, ingredient]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - active-ingredient
 - active_ingredient
 - activeIngredient
-- has_text_about_active_ingredient
+- has_text_on_active_ingredient
 ---
 
 Predicate to describe the Text of DietarySupplement, Drug, DrugStrength, Substance.
 
 Use it like this: 
-- [ #has_/text_about_/active_ingredient :: Text ] or 
-- [ has_text_about_active_ingredient :: Text ] 
+- [ #has_/text_/on_/active_ingredient :: Text ] or 
+- [ has_text_on_active_ingredient :: Text ] 
 
 An active ingredient, typically chemical compounds and/or biologic substances.
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement, Drug, DrugStrength, Substance ]
-( #has_/name :: has_text_about_active_ingredient )
+( #has_/name :: has_text_on_active_ingredient )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

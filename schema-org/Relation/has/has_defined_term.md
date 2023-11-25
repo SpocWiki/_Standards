@@ -30,13 +30,13 @@ aliases:
 - has_defined_term
 ---
 
+A [[../../Class/is_a_/Intangible/defined_term|defined_term]] contained in this term set.
+
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
 - [ #has_/defined_term :: DefinedTerm ] or 
 - [ has_defined_term :: DefinedTerm ] 
-
-A Defined Term contained in this term set.
 
 Relation describes that: 
 [ #has_/domain  :: DefinedTermSet, Taxon ]

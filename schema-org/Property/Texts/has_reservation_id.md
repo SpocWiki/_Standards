@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_reservation_id
-linkTitle: has_text_about_reservation_id
+title: has_text_on_reservation_id
+linkTitle: has_text_on_reservation_id
 
 keywords: [reservation, id]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - reservation-id
 - reservation_id
 - reservationId
-- has_text_about_reservation_id
+- has_text_on_reservation_id
 ---
 
 Predicate to describe the Text of Reservation.
 
 Use it like this: 
-- [ #has_/text_about_/reservation_id :: Text ] or 
-- [ has_text_about_reservation_id :: Text ] 
+- [ #has_/text_/on_/reservation_id :: Text ] or 
+- [ has_text_on_reservation_id :: Text ] 
 
 A unique identifier for the reservation.
 
 Predicated describes that: 
 [ #has_/domain  :: Reservation ]
-( #has_/name :: has_text_about_reservation_id )
+( #has_/name :: has_text_on_reservation_id )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

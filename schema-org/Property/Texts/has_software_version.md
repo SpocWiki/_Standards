@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_software_version
-linkTitle: has_text_about_software_version
+title: has_text_on_software_version
+linkTitle: has_text_on_software_version
 
 keywords: [software, version]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - software-version
 - software_version
 - softwareVersion
-- has_text_about_software_version
+- has_text_on_software_version
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/software_version :: Text ] or 
-- [ has_text_about_software_version :: Text ] 
+- [ #has_/text_/on_/software_version :: Text ] or 
+- [ has_text_on_software_version :: Text ] 
 
 Version of the software instance.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_about_software_version )
+( #has_/name :: has_text_on_software_version )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

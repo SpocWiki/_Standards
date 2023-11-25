@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_post_op
-linkTitle: has_text_about_post_op
+title: has_text_on_post_op
+linkTitle: has_text_on_post_op
 
 keywords: [post, op]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - post-op
 - post_op
 - postOp
-- has_text_about_post_op
+- has_text_on_post_op
 ---
 
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- [ #has_/text_about_/post_op :: Text ] or 
-- [ has_text_about_post_op :: Text ] 
+- [ #has_/text_/on_/post_op :: Text ] or 
+- [ has_text_on_post_op :: Text ] 
 
 A description of the postoperative procedures, care, and/or followups for this device.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalDevice ]
-( #has_/name :: has_text_about_post_op )
+( #has_/name :: has_text_on_post_op )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

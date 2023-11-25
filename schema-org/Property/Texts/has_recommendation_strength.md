@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_recommendation_strength
-linkTitle: has_text_about_recommendation_strength
+title: has_text_on_recommendation_strength
+linkTitle: has_text_on_recommendation_strength
 
 keywords: [recommendation, strength]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - recommendation-strength
 - recommendation_strength
 - recommendationStrength
-- has_text_about_recommendation_strength
+- has_text_on_recommendation_strength
 ---
 
 Predicate to describe the Text of MedicalGuidelineRecommendation.
 
 Use it like this: 
-- [ #has_/text_about_/recommendation_strength :: Text ] or 
-- [ has_text_about_recommendation_strength :: Text ] 
+- [ #has_/text_/on_/recommendation_strength :: Text ] or 
+- [ has_text_on_recommendation_strength :: Text ] 
 
 Strength of the guideline"s recommendation (e.g. "class I").
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalGuidelineRecommendation ]
-( #has_/name :: has_text_about_recommendation_strength )
+( #has_/name :: has_text_on_recommendation_strength )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

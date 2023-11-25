@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_seat_row
-linkTitle: has_text_about_seat_row
+title: has_text_on_seat_row
+linkTitle: has_text_on_seat_row
 
 keywords: [seat, row]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - seat-row
 - seat_row
 - seatRow
-- has_text_about_seat_row
+- has_text_on_seat_row
 ---
 
 Predicate to describe the Text of Seat.
 
 Use it like this: 
-- [ #has_/text_about_/seat_row :: Text ] or 
-- [ has_text_about_seat_row :: Text ] 
+- [ #has_/text_/on_/seat_row :: Text ] or 
+- [ has_text_on_seat_row :: Text ] 
 
 The row location of the reserved seat (e.g., B).
 
 Predicated describes that: 
 [ #has_/domain  :: Seat ]
-( #has_/name :: has_text_about_seat_row )
+( #has_/name :: has_text_on_seat_row )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

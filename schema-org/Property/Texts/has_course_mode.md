@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_course_mode
-linkTitle: has_text_about_course_mode
+title: has_text_on_course_mode
+linkTitle: has_text_on_course_mode
 
 keywords: [course, mode]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - course-mode
 - course_mode
 - courseMode
-- has_text_about_course_mode
+- has_text_on_course_mode
 ---
 
 Predicate to describe the Text of CourseInstance.
 
 Use it like this: 
-- [ #has_/text_about_/course_mode :: Text, URL ] or 
-- [ has_text_about_course_mode :: Text, URL ] 
+- [ #has_/text_/on_/course_mode :: Text, URL ] or 
+- [ has_text_on_course_mode :: Text, URL ] 
 
 The medium or means of delivery of the course instance or the mode of study, either as a text label (e.g. "online", "onsite" or "blended"; "synchronous" or "asynchronous"; "full-time" or "part-time") or as a URL reference to a term from a controlled vocabulary (e.g. https://ceds.ed.gov/element/001311#Asynchronous).
 
 Predicated describes that: 
 [ #has_/domain  :: CourseInstance ]
-( #has_/name :: has_text_about_course_mode )
+( #has_/name :: has_text_on_course_mode )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

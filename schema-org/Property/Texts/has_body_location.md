@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_body_location
-linkTitle: has_text_about_body_location
+title: has_text_on_body_location
+linkTitle: has_text_on_body_location
 
 keywords: [body, location]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - body-location
 - body_location
 - bodyLocation
-- has_text_about_body_location
+- has_text_on_body_location
 ---
 
 Predicate to describe the Text of AnatomicalStructure, MedicalProcedure.
 
 Use it like this: 
-- [ #has_/text_about_/body_location :: Text ] or 
-- [ has_text_about_body_location :: Text ] 
+- [ #has_/text_/on_/body_location :: Text ] or 
+- [ has_text_on_body_location :: Text ] 
 
 Location in the body of the anatomical structure.
 
 Predicated describes that: 
 [ #has_/domain  :: AnatomicalStructure, MedicalProcedure ]
-( #has_/name :: has_text_about_body_location )
+( #has_/name :: has_text_on_body_location )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

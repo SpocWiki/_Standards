@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_dateline
-linkTitle: has_text_about_dateline
+title: has_text_on_dateline
+linkTitle: has_text_on_dateline
 
 keywords: [dateline]
 layout: 
@@ -28,14 +28,14 @@ aliases:
 - dateline
 - dateline
 - dateline
-- has_text_about_dateline
+- has_text_on_dateline
 ---
 
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [ #has_/text_about_/dateline :: Text ] or 
-- [ has_text_about_dateline :: Text ] 
+- [ #has_/text_/on_/dateline :: Text ] or 
+- [ has_text_on_dateline :: Text ] 
 
 A [dateline](https://en.wikipedia.org/wiki/Dateline) is a brief piece of text included in news articles that describes where and when the story was written or filed though the date is often omitted. Sometimes only a placename is provided.
 
@@ -49,7 +49,7 @@ Dateline summaries are oriented more towards human readers than towards automate
 
 Predicated describes that: 
 [ #has_/domain  :: NewsArticle ]
-( #has_/name :: has_text_about_dateline )
+( #has_/name :: has_text_on_dateline )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_variant_cover
-linkTitle: has_text_about_variant_cover
+title: has_text_on_variant_cover
+linkTitle: has_text_on_variant_cover
 
 keywords: [variant, cover]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - variant-cover
 - variant_cover
 - variantCover
-- has_text_about_variant_cover
+- has_text_on_variant_cover
 ---
 
 Predicate to describe the Text of ComicIssue.
@@ -36,8 +36,8 @@ Predicate to describe the Text of ComicIssue.
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has_/text_about_/variant_cover :: Text ] or 
-- [ has_text_about_variant_cover :: Text ] 
+- [ #has_/text_/on_/variant_cover :: Text ] or 
+- [ has_text_on_variant_cover :: Text ] 
 
 A description of the variant cover
 		for the issue, if the issue is a variant printing. For example, "Bryan Hitch
@@ -45,7 +45,7 @@ A description of the variant cover
 
 Predicated describes that: 
 [ #has_/domain  :: ComicIssue ]
-( #has_/name :: has_text_about_variant_cover )
+( #has_/name :: has_text_on_variant_cover )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

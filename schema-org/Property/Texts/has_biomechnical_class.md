@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_biomechnical_class
-linkTitle: has_text_about_biomechnical_class
+title: has_text_on_biomechnical_class
+linkTitle: has_text_on_biomechnical_class
 
 keywords: [biomechnical, class]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - biomechnical-class
 - biomechnical_class
 - biomechnicalClass
-- has_text_about_biomechnical_class
+- has_text_on_biomechnical_class
 ---
 
 Predicate to describe the Text of Joint.
 
 Use it like this: 
-- [ #has_/text_about_/biomechnical_class :: Text ] or 
-- [ has_text_about_biomechnical_class :: Text ] 
+- [ #has_/text_/on_/biomechnical_class :: Text ] or 
+- [ has_text_on_biomechnical_class :: Text ] 
 
 The biomechanical properties of the bone.
 
 Predicated describes that: 
 [ #has_/domain  :: Joint ]
-( #has_/name :: has_text_about_biomechnical_class )
+( #has_/name :: has_text_on_biomechnical_class )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

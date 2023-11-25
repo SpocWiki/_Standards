@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_required_gender
-linkTitle: has_text_about_required_gender
+title: has_text_on_required_gender
+linkTitle: has_text_on_required_gender
 
 keywords: [required, gender]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - required-gender
 - required_gender
 - requiredGender
-- has_text_about_required_gender
+- has_text_on_required_gender
 ---
 
 Predicate to describe the Text of PeopleAudience.
 
 Use it like this: 
-- [ #has_/text_about_/required_gender :: Text ] or 
-- [ has_text_about_required_gender :: Text ] 
+- [ #has_/text_/on_/required_gender :: Text ] or 
+- [ has_text_on_required_gender :: Text ] 
 
 Audiences defined by a person"s gender.
 
 Predicated describes that: 
 [ #has_/domain  :: PeopleAudience ]
-( #has_/name :: has_text_about_required_gender )
+( #has_/name :: has_text_on_required_gender )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

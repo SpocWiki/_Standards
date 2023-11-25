@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_musical_key
-linkTitle: has_text_about_musical_key
+title: has_text_on_musical_key
+linkTitle: has_text_on_musical_key
 
 keywords: [musical, key]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - musical-key
 - musical_key
 - musicalKey
-- has_text_about_musical_key
+- has_text_on_musical_key
 ---
 
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- [ #has_/text_about_/musical_key :: Text ] or 
-- [ has_text_about_musical_key :: Text ] 
+- [ #has_/text_/on_/musical_key :: Text ] or 
+- [ has_text_on_musical_key :: Text ] 
 
 The key, mode, or scale this composition uses.
 
 Predicated describes that: 
 [ #has_/domain  :: MusicComposition ]
-( #has_/name :: has_text_about_musical_key )
+( #has_/name :: has_text_on_musical_key )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

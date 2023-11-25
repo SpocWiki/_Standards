@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_runtime_platform
-linkTitle: has_text_about_runtime_platform
+title: has_text_on_runtime_platform
+linkTitle: has_text_on_runtime_platform
 
 keywords: [runtime, platform]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - runtime-platform
 - runtime_platform
 - runtimePlatform
-- has_text_about_runtime_platform
+- has_text_on_runtime_platform
 ---
 
 Predicate to describe the Text of SoftwareSourceCode.
 
 Use it like this: 
-- [ #has_/text_about_/runtime_platform :: Text ] or 
-- [ has_text_about_runtime_platform :: Text ] 
+- [ #has_/text_/on_/runtime_platform :: Text ] or 
+- [ has_text_on_runtime_platform :: Text ] 
 
 Runtime platform or script interpreter dependencies (example: Java v1, Python 2.3, .NET Framework 3.0).
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareSourceCode ]
-( #has_/name :: has_text_about_runtime_platform )
+( #has_/name :: has_text_on_runtime_platform )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

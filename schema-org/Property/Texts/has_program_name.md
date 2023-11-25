@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_program_name
-linkTitle: has_text_about_program_name
+title: has_text_on_program_name
+linkTitle: has_text_on_program_name
 
 keywords: [program, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - program-name
 - program_name
 - programName
-- has_text_about_program_name
+- has_text_on_program_name
 ---
 
 Predicate to describe the Text of ProgramMembership.
 
 Use it like this: 
-- [ #has_/text_about_/program_name :: Text ] or 
-- [ has_text_about_program_name :: Text ] 
+- [ #has_/text_/on_/program_name :: Text ] or 
+- [ has_text_on_program_name :: Text ] 
 
 The program providing the membership.
 
 Predicated describes that: 
 [ #has_/domain  :: ProgramMembership ]
-( #has_/name :: has_text_about_program_name )
+( #has_/name :: has_text_on_program_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_employer_overview
-linkTitle: has_text_about_employer_overview
+title: has_text_on_employer_overview
+linkTitle: has_text_on_employer_overview
 
 keywords: [employer, overview]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - employer-overview
 - employer_overview
 - employerOverview
-- has_text_about_employer_overview
+- has_text_on_employer_overview
 ---
 
 Predicate to describe the Text of JobPosting.
@@ -36,14 +36,14 @@ Predicate to describe the Text of JobPosting.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/employer_overview :: Text ] or 
-- [ has_text_about_employer_overview :: Text ] 
+- [ #has_/text_/on_/employer_overview :: Text ] or 
+- [ has_text_on_employer_overview :: Text ] 
 
 A description of the employer, career opportunities and work environment for this position.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: has_text_about_employer_overview )
+( #has_/name :: has_text_on_employer_overview )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

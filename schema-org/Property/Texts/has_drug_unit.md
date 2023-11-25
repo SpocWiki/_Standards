@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_drug_unit
-linkTitle: has_text_about_drug_unit
+title: has_text_on_drug_unit
+linkTitle: has_text_on_drug_unit
 
 keywords: [drug, unit]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - drug-unit
 - drug_unit
 - drugUnit
-- has_text_about_drug_unit
+- has_text_on_drug_unit
 ---
 
 Predicate to describe the Text of Drug, DrugCost.
 
 Use it like this: 
-- [ #has_/text_about_/drug_unit :: Text ] or 
-- [ has_text_about_drug_unit :: Text ] 
+- [ #has_/text_/on_/drug_unit :: Text ] or 
+- [ has_text_on_drug_unit :: Text ] 
 
 The unit in which the drug is measured, e.g. "5 mg tablet".
 
 Predicated describes that: 
 [ #has_/domain  :: Drug, DrugCost ]
-( #has_/name :: has_text_about_drug_unit )
+( #has_/name :: has_text_on_drug_unit )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

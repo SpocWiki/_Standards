@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_isrc_code
-linkTitle: has_text_about_isrc_code
+title: has_text_on_isrc_code
+linkTitle: has_text_on_isrc_code
 
 keywords: [isrc, code]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - isrc-code
 - isrc_code
 - isrcCode
-- has_text_about_isrc_code
+- has_text_on_isrc_code
 ---
 
 Predicate to describe the Text of MusicRecording.
 
 Use it like this: 
-- [ #has_/text_about_/isrc_code :: Text ] or 
-- [ has_text_about_isrc_code :: Text ] 
+- [ #has_/text_/on_/isrc_code :: Text ] or 
+- [ has_text_on_isrc_code :: Text ] 
 
 The International Standard Recording Code for the recording.
 
 Predicated describes that: 
 [ #has_/domain  :: MusicRecording ]
-( #has_/name :: has_text_about_isrc_code )
+( #has_/name :: has_text_on_isrc_code )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

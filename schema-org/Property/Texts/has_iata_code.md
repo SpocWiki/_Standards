@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_iata_code
-linkTitle: has_text_about_iata_code
+title: has_text_on_iata_code
+linkTitle: has_text_on_iata_code
 
 keywords: [iata, code]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - iata-code
 - iata_code
 - iataCode
-- has_text_about_iata_code
+- has_text_on_iata_code
 ---
 
 Predicate to describe the Text of Airline, Airport.
 
 Use it like this: 
-- [ #has_/text_about_/iata_code :: Text ] or 
-- [ has_text_about_iata_code :: Text ] 
+- [ #has_/text_/on_/iata_code :: Text ] or 
+- [ has_text_on_iata_code :: Text ] 
 
 IATA identifier for an airline or airport.
 
 Predicated describes that: 
 [ #has_/domain  :: Airline, Airport ]
-( #has_/name :: has_text_about_iata_code )
+( #has_/name :: has_text_on_iata_code )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

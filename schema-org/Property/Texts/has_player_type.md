@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_player_type
-linkTitle: has_text_about_player_type
+title: has_text_on_player_type
+linkTitle: has_text_on_player_type
 
 keywords: [player, type]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - player-type
 - player_type
 - playerType
-- has_text_about_player_type
+- has_text_on_player_type
 ---
 
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- [ #has_/text_about_/player_type :: Text ] or 
-- [ has_text_about_player_type :: Text ] 
+- [ #has_/text_/on_/player_type :: Text ] or 
+- [ has_text_on_player_type :: Text ] 
 
 Player type required&amp;#x2014;for example, Flash or Silverlight.
 
 Predicated describes that: 
 [ #has_/domain  :: MediaObject ]
-( #has_/name :: has_text_about_player_type )
+( #has_/name :: has_text_on_player_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

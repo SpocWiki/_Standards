@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_vat_id
-linkTitle: has_text_about_vat_id
+title: has_text_on_vat_id
+linkTitle: has_text_on_vat_id
 
 keywords: [vat, id]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - vat-id
 - vat_id
 - vatID
-- has_text_about_vat_id
+- has_text_on_vat_id
 ---
 
 Predicate to describe the Text of Organization, Person.
 
 Use it like this: 
-- [ #has_/text_about_/vat_id :: Text ] or 
-- [ has_text_about_vat_id :: Text ] 
+- [ #has_/text_/on_/vat_id :: Text ] or 
+- [ has_text_on_vat_id :: Text ] 
 
 The Value-added Tax ID of the organization or person.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: has_text_about_vat_id )
+( #has_/name :: has_text_on_vat_id )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

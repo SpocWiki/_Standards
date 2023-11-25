@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_educational_role
-linkTitle: has_text_about_educational_role
+title: has_text_on_educational_role
+linkTitle: has_text_on_educational_role
 
 keywords: [educational, role]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - educational-role
 - educational_role
 - educationalRole
-- has_text_about_educational_role
+- has_text_on_educational_role
 ---
 
 Predicate to describe the Text of EducationalAudience.
 
 Use it like this: 
-- [ #has_/text_about_/educational_role :: Text ] or 
-- [ has_text_about_educational_role :: Text ] 
+- [ #has_/text_/on_/educational_role :: Text ] or 
+- [ has_text_on_educational_role :: Text ] 
 
 An educationalRole of an EducationalAudience.
 
 Predicated describes that: 
 [ #has_/domain  :: EducationalAudience ]
-( #has_/name :: has_text_about_educational_role )
+( #has_/name :: has_text_on_educational_role )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

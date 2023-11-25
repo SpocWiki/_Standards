@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_uses_health_plan_id_standard
-linkTitle: has_text_about_uses_health_plan_id_standard
+title: has_text_on_uses_health_plan_id_standard
+linkTitle: has_text_on_uses_health_plan_id_standard
 
 keywords: [uses, health, plan, id, standard]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - uses-health-plan-id-standard
 - uses_health_plan_id_standard
 - usesHealthPlanIdStandard
-- has_text_about_uses_health_plan_id_standard
+- has_text_on_uses_health_plan_id_standard
 ---
 
 Predicate to describe the Text of HealthInsurancePlan.
@@ -36,14 +36,14 @@ Predicate to describe the Text of HealthInsurancePlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/uses_health_plan_id_standard :: Text, URL ] or 
-- [ has_text_about_uses_health_plan_id_standard :: Text, URL ] 
+- [ #has_/text_/on_/uses_health_plan_id_standard :: Text, URL ] or 
+- [ has_text_on_uses_health_plan_id_standard :: Text, URL ] 
 
 The standard for interpreting the Plan ID. The preferred is "HIOS". See the Centers for Medicare &amp;amp; Medicaid Services for more details.
 
 Predicated describes that: 
 [ #has_/domain  :: HealthInsurancePlan ]
-( #has_/name :: has_text_about_uses_health_plan_id_standard )
+( #has_/name :: has_text_on_uses_health_plan_id_standard )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

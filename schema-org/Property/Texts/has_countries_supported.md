@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_countries_supported
-linkTitle: has_text_about_countries_supported
+title: has_text_on_countries_supported
+linkTitle: has_text_on_countries_supported
 
 keywords: [countries, supported]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - countries-supported
 - countries_supported
 - countriesSupported
-- has_text_about_countries_supported
+- has_text_on_countries_supported
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/countries_supported :: Text ] or 
-- [ has_text_about_countries_supported :: Text ] 
+- [ #has_/text_/on_/countries_supported :: Text ] or 
+- [ has_text_on_countries_supported :: Text ] 
 
 Countries for which the application is supported. You can also provide the two-letter ISO 3166-1 alpha-2 country code.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_about_countries_supported )
+( #has_/name :: has_text_on_countries_supported )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

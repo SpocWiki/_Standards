@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_description
-linkTitle: has_text_about_description
+title: has_text_on_description
+linkTitle: has_text_on_description
 
 keywords: [description]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - description
 - description
 - description
-- has_text_about_description
+- has_text_on_description
 ---
 
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [ #has_/text_about_/description :: Text ] or 
-- [ has_text_about_description :: Text ] 
+- [ #has_/text_/on_/description :: Text ] or 
+- [ has_text_on_description :: Text ] 
 
 A description of the item.
 
 Predicated describes that: 
 [ #has_/domain  :: [Thing](../../Class/Thing.md) ]
-( #has_/name :: has_text_about_description )
+( #has_/name :: has_text_on_description )
 ( #has_/range :: Text )
 
 [ #has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ] ]

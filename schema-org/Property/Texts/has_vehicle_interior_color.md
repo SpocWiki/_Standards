@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_vehicle_interior_color
-linkTitle: has_text_about_vehicle_interior_color
+title: has_text_on_vehicle_interior_color
+linkTitle: has_text_on_vehicle_interior_color
 
 keywords: [vehicle, interior, color]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - vehicle-interior-color
 - vehicle_interior_color
 - vehicleInteriorColor
-- has_text_about_vehicle_interior_color
+- has_text_on_vehicle_interior_color
 ---
 
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [ #has_/text_about_/vehicle_interior_color :: Text ] or 
-- [ has_text_about_vehicle_interior_color :: Text ] 
+- [ #has_/text_/on_/vehicle_interior_color :: Text ] or 
+- [ has_text_on_vehicle_interior_color :: Text ] 
 
 The color or color combination of the interior of the vehicle.
 
 Predicated describes that: 
 [ #has_/domain  :: Vehicle ]
-( #has_/name :: has_text_about_vehicle_interior_color )
+( #has_/name :: has_text_on_vehicle_interior_color )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

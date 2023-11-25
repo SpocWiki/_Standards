@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_product_id
-linkTitle: has_text_about_product_id
+title: has_text_on_product_id
+linkTitle: has_text_on_product_id
 
 keywords: [product, id]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - product-id
 - product_id
 - productID
-- has_text_about_product_id
+- has_text_on_product_id
 ---
 
 Predicate to describe the Text of Product.
 
 Use it like this: 
-- [ #has_/text_about_/product_id :: Text ] or 
-- [ has_text_about_product_id :: Text ] 
+- [ #has_/text_/on_/product_id :: Text ] or 
+- [ has_text_on_product_id :: Text ] 
 
 The product identifier, such as ISBN. For example: <code>meta itemprop="productID" content="isbn:123-456-789"</code>.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: has_text_about_product_id )
+( #has_/name :: has_text_on_product_id )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

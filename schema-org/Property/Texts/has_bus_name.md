@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_bus_name
-linkTitle: has_text_about_bus_name
+title: has_text_on_bus_name
+linkTitle: has_text_on_bus_name
 
 keywords: [bus, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - bus-name
 - bus_name
 - busName
-- has_text_about_bus_name
+- has_text_on_bus_name
 ---
 
 Predicate to describe the Text of BusTrip.
 
 Use it like this: 
-- [ #has_/text_about_/bus_name :: Text ] or 
-- [ has_text_about_bus_name :: Text ] 
+- [ #has_/text_/on_/bus_name :: Text ] or 
+- [ has_text_on_bus_name :: Text ] 
 
 The name of the bus (e.g. Bolt Express).
 
 Predicated describes that: 
 [ #has_/domain  :: BusTrip ]
-( #has_/name :: has_text_about_bus_name )
+( #has_/name :: has_text_on_bus_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

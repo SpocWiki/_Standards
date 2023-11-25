@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_product_group_id
-linkTitle: has_text_about_product_group_id
+title: has_text_on_product_group_id
+linkTitle: has_text_on_product_group_id
 
 keywords: [product, group, id]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - product-group-id
 - product_group_id
 - productGroupID
-- has_text_about_product_group_id
+- has_text_on_product_group_id
 ---
 
 Predicate to describe the Text of ProductGroup.
@@ -36,14 +36,14 @@ Predicate to describe the Text of ProductGroup.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/product_group_id :: Text ] or 
-- [ has_text_about_product_group_id :: Text ] 
+- [ #has_/text_/on_/product_group_id :: Text ] or 
+- [ has_text_on_product_group_id :: Text ] 
 
 Indicates a textual identifier for a ProductGroup.
 
 Predicated describes that: 
 [ #has_/domain  :: ProductGroup ]
-( #has_/name :: has_text_about_product_group_id )
+( #has_/name :: has_text_on_product_group_id )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

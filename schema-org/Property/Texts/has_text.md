@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_text
-linkTitle: has_text_about_text
+title: has_text_on_text
+linkTitle: has_text_on_text
 
 keywords: [text]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - text
 - text
 - text
-- has_text_about_text
+- has_text_on_text
 ---
 
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_about_/text :: Text ] or 
-- [ has_text_about_text :: Text ] 
+- [ #has_/text_/on_/text :: Text ] or 
+- [ has_text_on_text :: Text ] 
 
 The textual content of this CreativeWork.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: has_text_about_text )
+( #has_/name :: has_text_on_text )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

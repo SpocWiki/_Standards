@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_catalog_number
-linkTitle: has_text_about_catalog_number
+title: has_text_on_catalog_number
+linkTitle: has_text_on_catalog_number
 
 keywords: [catalog, number]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - catalog-number
 - catalog_number
 - catalogNumber
-- has_text_about_catalog_number
+- has_text_on_catalog_number
 ---
 
 Predicate to describe the Text of MusicRelease.
 
 Use it like this: 
-- [ #has_/text_about_/catalog_number :: Text ] or 
-- [ has_text_about_catalog_number :: Text ] 
+- [ #has_/text_/on_/catalog_number :: Text ] or 
+- [ has_text_on_catalog_number :: Text ] 
 
 The catalog number for the release.
 
 Predicated describes that: 
 [ #has_/domain  :: MusicRelease ]
-( #has_/name :: has_text_about_catalog_number )
+( #has_/name :: has_text_on_catalog_number )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

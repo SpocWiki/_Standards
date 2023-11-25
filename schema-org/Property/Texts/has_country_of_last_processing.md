@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_country_of_last_processing
-linkTitle: has_text_about_country_of_last_processing
+title: has_text_on_country_of_last_processing
+linkTitle: has_text_on_country_of_last_processing
 
 keywords: [country, of, last, processing]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - country-of-last-processing
 - country_of_last_processing
 - countryOfLastProcessing
-- has_text_about_country_of_last_processing
+- has_text_on_country_of_last_processing
 ---
 
 Predicate to describe the Text of Product.
@@ -36,14 +36,14 @@ Predicate to describe the Text of Product.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/country_of_last_processing :: Text ] or 
-- [ has_text_about_country_of_last_processing :: Text ] 
+- [ #has_/text_/on_/country_of_last_processing :: Text ] or 
+- [ has_text_on_country_of_last_processing :: Text ] 
 
 The place where the item (typically [[Product]]) was last processed and tested before importation.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: has_text_about_country_of_last_processing )
+( #has_/name :: has_text_on_country_of_last_processing )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

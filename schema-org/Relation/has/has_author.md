@@ -37,9 +37,11 @@ Use it like this:
 The author of this content or rating. Please note that author is special in that HTML 5 provides a special mechanism for indicating authorship via the rel tag. That is equivalent to this and may be used interchangeably.
 
 Relation describes that: 
-[ #has_/domain  :: CreativeWork, Rating ]
+[ #has_/domain  :: CreativeWork, Rating, UserComments  ]
 ( #has_/name :: has_author )
 ( #has_/range :: Organization, Person )
+
+#is_/sub_relation_of :: [[has_creator]] 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_author.md|has_author]] 

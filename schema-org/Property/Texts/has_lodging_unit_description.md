@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_lodging_unit_description
-linkTitle: has_text_about_lodging_unit_description
+title: has_text_on_lodging_unit_description
+linkTitle: has_text_on_lodging_unit_description
 
 keywords: [lodging, unit, description]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - lodging-unit-description
 - lodging_unit_description
 - lodgingUnitDescription
-- has_text_about_lodging_unit_description
+- has_text_on_lodging_unit_description
 ---
 
 Predicate to describe the Text of LodgingReservation.
 
 Use it like this: 
-- [ #has_/text_about_/lodging_unit_description :: Text ] or 
-- [ has_text_about_lodging_unit_description :: Text ] 
+- [ #has_/text_/on_/lodging_unit_description :: Text ] or 
+- [ has_text_on_lodging_unit_description :: Text ] 
 
 A full description of the lodging unit.
 
 Predicated describes that: 
 [ #has_/domain  :: LodgingReservation ]
-( #has_/name :: has_text_about_lodging_unit_description )
+( #has_/name :: has_text_on_lodging_unit_description )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

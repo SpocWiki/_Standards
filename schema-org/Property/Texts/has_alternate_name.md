@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_alternate_name
-linkTitle: has_text_about_alternate_name
+title: has_text_on_alternate_name
+linkTitle: has_text_on_alternate_name
 
 keywords: [alternate, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - alternate-name
 - alternate_name
 - alternateName
-- has_text_about_alternate_name
+- has_text_on_alternate_name
 ---
 
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [ #has_/text_about_/alternate_name :: Text ] or 
-- [ has_text_about_alternate_name :: Text ] 
+- [ #has_/text_/on_/alternate_name :: Text ] or 
+- [ has_text_on_alternate_name :: Text ] 
 
 An alias for the item.
 
 Predicated describes that: 
 [ #has_/domain  :: [Thing](../../Class/Thing.md) ]
-( #has_/name :: has_text_about_alternate_name )
+( #has_/name :: has_text_on_alternate_name )
 ( #has_/range :: Text )
 
 [ #has_/sub_properties :: [ additionalName ] ]

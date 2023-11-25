@@ -3,42 +3,41 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_defined_term Class
 linkTitle: is_a_defined_term Class
-
-keywords: [defined_term]
+keywords:
+  - defined_term
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
 aliases:
-- defined-term
-- defined_term
-- DefinedTerm
-- is_a_defined_term
+  - defined-term
+  - defined_term
+  - DefinedTerm
+  - is_a_defined_term
+  - defined term
 ---
 
-Class of all defined terms, i.e. words, names, acronyms, phrases, etc. 
+# defined term
+
+Class of all defined terms, 
+i.e. words, names, acronyms, phrases, etc. 
 with a formal definition. 
+
 Often used in the context of category or subject classification, 
 glossaries or dictionaries, product or creative work types, etc. 
 
 Use the `name` property for the term being defined, 
 use `termCode` if the term has an alpha-numeric code allocated, 
-use `description` to provide the definition of the term.
+use `description` to provide a definition of the term.
 
 ```html
 <div  vocab="https://schema.org/">

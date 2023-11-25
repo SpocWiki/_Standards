@@ -32,11 +32,12 @@ aliases:
 - has_founder
 ---
 
+A person who founded this organization.
+
 Use it like this: 
 - [ #has_/founder :: Person ] or 
 - [ has_founder :: Person ] 
 
-A person who founded this organization.
 #is_/sub_relation_of :: [[has_creator]]
 
 Relation describes that:  

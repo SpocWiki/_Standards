@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_email
-linkTitle: has_text_about_email
+title: has_text_on_email
+linkTitle: has_text_on_email
 
 keywords: [email]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - email
 - email
 - email
-- has_text_about_email
+- has_text_on_email
 ---
 
 Predicate to describe the Text of ContactPoint, Organization, Person.
 
 Use it like this: 
-- [ #has_/text_about_/email :: Text ] or 
-- [ has_text_about_email :: Text ] 
+- [ #has_/text_/on_/email :: Text ] or 
+- [ has_text_on_email :: Text ] 
 
 Email address.
 
 Predicated describes that: 
 [ #has_/domain  :: ContactPoint, Organization, Person ]
-( #has_/name :: has_text_about_email )
+( #has_/name :: has_text_on_email )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

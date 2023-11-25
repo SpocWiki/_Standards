@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_abstract
-linkTitle: has_text_about_abstract
+title: has_text_on_abstract
+linkTitle: has_text_on_abstract
 
 keywords: [abstract]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - abstract
 - abstract
 - abstract
-- has_text_about_abstract
+- has_text_on_abstract
 ---
 
 Predicate to describe the Text of CreativeWork.
@@ -36,14 +36,14 @@ Predicate to describe the Text of CreativeWork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/abstract :: Text ] or 
-- [ has_text_about_abstract :: Text ] 
+- [ #has_/text_/on_/abstract :: Text ] or 
+- [ has_text_on_abstract :: Text ] 
 
 An abstract is a short description that summarizes a [[CreativeWork]].
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: has_text_about_abstract )
+( #has_/name :: has_text_on_abstract )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

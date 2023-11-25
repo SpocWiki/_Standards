@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_access_mode
-linkTitle: has_text_about_access_mode
+title: has_text_on_access_mode
+linkTitle: has_text_on_access_mode
 
 keywords: [access, mode]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - access-mode
 - access_mode
 - accessMode
-- has_text_about_access_mode
+- has_text_on_access_mode
 ---
 
 [[Predicate]] to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_about_/access_mode :: Text ] or 
-- [ has_text_about_access_mode :: Text ] 
+- [ #has_/text_/on_/access_mode :: Text ] or 
+- [ has_text_on_access_mode :: Text ] 
 
 The human sensory perceptual system or cognitive faculty through which a person may process or perceive information. Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessMode-vocabulary).
 
 Predicated describes that: 
 [ #has_/domain  :: [[Creative_Work]] ]
-( #has_/name :: has_text_about_access_mode )
+( #has_/name :: has_text_on_access_mode )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

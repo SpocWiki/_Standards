@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_broadcast_channel_id
-linkTitle: has_text_about_broadcast_channel_id
+title: has_text_on_broadcast_channel_id
+linkTitle: has_text_on_broadcast_channel_id
 
 keywords: [broadcast, channel, id]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - broadcast-channel-id
 - broadcast_channel_id
 - broadcastChannelId
-- has_text_about_broadcast_channel_id
+- has_text_on_broadcast_channel_id
 ---
 
 Predicate to describe the Text of BroadcastChannel.
 
 Use it like this: 
-- [ #has_/text_about_/broadcast_channel_id :: Text ] or 
-- [ has_text_about_broadcast_channel_id :: Text ] 
+- [ #has_/text_/on_/broadcast_channel_id :: Text ] or 
+- [ has_text_on_broadcast_channel_id :: Text ] 
 
 The unique address by which the BroadcastService can be identified in a provider lineup. In US, this is typically a number.
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastChannel ]
-( #has_/name :: has_text_about_broadcast_channel_id )
+( #has_/name :: has_text_on_broadcast_channel_id )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

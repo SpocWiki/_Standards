@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_line
-linkTitle: has_text_about_line
+title: has_text_on_line
+linkTitle: has_text_on_line
 
 keywords: [line]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - line
 - line
 - line
-- has_text_about_line
+- has_text_on_line
 ---
 
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [ #has_/text_about_/line :: Text ] or 
-- [ has_text_about_line :: Text ] 
+- [ #has_/text_/on_/line :: Text ] or 
+- [ has_text_on_line :: Text ] 
 
 A line is a point-to-point path consisting of two or more points. A line is expressed as a series of two or more point objects separated by space.
 
 Predicated describes that: 
 [ #has_/domain  :: GeoShape ]
-( #has_/name :: has_text_about_line )
+( #has_/name :: has_text_on_line )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_dose_unit
-linkTitle: has_text_about_dose_unit
+title: has_text_on_dose_unit
+linkTitle: has_text_on_dose_unit
 
 keywords: [dose, unit]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - dose-unit
 - dose_unit
 - doseUnit
-- has_text_about_dose_unit
+- has_text_on_dose_unit
 ---
 
 Predicate to describe the Text of DoseSchedule.
 
 Use it like this: 
-- [ #has_/text_about_/dose_unit :: Text ] or 
-- [ has_text_about_dose_unit :: Text ] 
+- [ #has_/text_/on_/dose_unit :: Text ] or 
+- [ has_text_on_dose_unit :: Text ] 
 
 The unit of the dose, e.g. "mg".
 
 Predicated describes that: 
 [ #has_/domain  :: DoseSchedule ]
-( #has_/name :: has_text_about_dose_unit )
+( #has_/name :: has_text_on_dose_unit )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

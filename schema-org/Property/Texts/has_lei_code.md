@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_lei_code
-linkTitle: has_text_about_lei_code
+title: has_text_on_lei_code
+linkTitle: has_text_on_lei_code
 
 keywords: [lei, code]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - lei-code
 - lei_code
 - leiCode
-- has_text_about_lei_code
+- has_text_on_lei_code
 ---
 
 Predicate to describe the Text of Organization.
 
 Use it like this: 
-- [ #has_/text_about_/lei_code :: Text ] or 
-- [ has_text_about_lei_code :: Text ] 
+- [ #has_/text_/on_/lei_code :: Text ] or 
+- [ has_text_on_lei_code :: Text ] 
 
 An organization identifier that uniquely identifies a legal entity as defined in ISO 17442.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: has_text_about_lei_code )
+( #has_/name :: has_text_on_lei_code )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

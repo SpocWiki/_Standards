@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_health_plan_network_tier
-linkTitle: has_text_about_health_plan_network_tier
+title: has_text_on_health_plan_network_tier
+linkTitle: has_text_on_health_plan_network_tier
 
 keywords: [health, plan, network, tier]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - health-plan-network-tier
 - health_plan_network_tier
 - healthPlanNetworkTier
-- has_text_about_health_plan_network_tier
+- has_text_on_health_plan_network_tier
 ---
 
 Predicate to describe the Text of HealthPlanNetwork.
@@ -36,14 +36,14 @@ Predicate to describe the Text of HealthPlanNetwork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/health_plan_network_tier :: Text ] or 
-- [ has_text_about_health_plan_network_tier :: Text ] 
+- [ #has_/text_/on_/health_plan_network_tier :: Text ] or 
+- [ has_text_on_health_plan_network_tier :: Text ] 
 
 The tier(s) for this network.
 
 Predicated describes that: 
 [ #has_/domain  :: HealthPlanNetwork ]
-( #has_/name :: has_text_about_health_plan_network_tier )
+( #has_/name :: has_text_on_health_plan_network_tier )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

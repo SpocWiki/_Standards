@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_natural_progression
-linkTitle: has_text_about_natural_progression
+title: has_text_on_natural_progression
+linkTitle: has_text_on_natural_progression
 
 keywords: [natural, progression]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - natural-progression
 - natural_progression
 - naturalProgression
-- has_text_about_natural_progression
+- has_text_on_natural_progression
 ---
 
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- [ #has_/text_about_/natural_progression :: Text ] or 
-- [ has_text_about_natural_progression :: Text ] 
+- [ #has_/text_/on_/natural_progression :: Text ] or 
+- [ has_text_on_natural_progression :: Text ] 
 
 The expected progression of the condition if it is not treated and allowed to progress naturally.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition ]
-( #has_/name :: has_text_about_natural_progression )
+( #has_/name :: has_text_on_natural_progression )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

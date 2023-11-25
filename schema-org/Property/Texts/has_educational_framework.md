@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_educational_framework
-linkTitle: has_text_about_educational_framework
+title: has_text_on_educational_framework
+linkTitle: has_text_on_educational_framework
 
 keywords: [educational, framework]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - educational-framework
 - educational_framework
 - educationalFramework
-- has_text_about_educational_framework
+- has_text_on_educational_framework
 ---
 
 Predicate to describe the Text of AlignmentObject.
 
 Use it like this: 
-- [ #has_/text_about_/educational_framework :: Text ] or 
-- [ has_text_about_educational_framework :: Text ] 
+- [ #has_/text_/on_/educational_framework :: Text ] or 
+- [ has_text_on_educational_framework :: Text ] 
 
 The framework to which the resource being described is aligned.
 
 Predicated describes that: 
 [ #has_/domain  :: AlignmentObject ]
-( #has_/name :: has_text_about_educational_framework )
+( #has_/name :: has_text_on_educational_framework )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

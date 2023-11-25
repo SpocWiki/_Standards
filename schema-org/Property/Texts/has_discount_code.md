@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_discount_code
-linkTitle: has_text_about_discount_code
+title: has_text_on_discount_code
+linkTitle: has_text_on_discount_code
 
 keywords: [discount, code]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - discount-code
 - discount_code
 - discountCode
-- has_text_about_discount_code
+- has_text_on_discount_code
 ---
 
 Predicate to describe the Text of Order.
 
 Use it like this: 
-- [ #has_/text_about_/discount_code :: Text ] or 
-- [ has_text_about_discount_code :: Text ] 
+- [ #has_/text_/on_/discount_code :: Text ] or 
+- [ has_text_on_discount_code :: Text ] 
 
 Code used to redeem a discount.
 
 Predicated describes that: 
 [ #has_/domain  :: Order ]
-( #has_/name :: has_text_about_discount_code )
+( #has_/name :: has_text_on_discount_code )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

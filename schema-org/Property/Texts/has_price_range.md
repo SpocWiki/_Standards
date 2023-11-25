@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_price_range
-linkTitle: has_text_about_price_range
+title: has_text_on_price_range
+linkTitle: has_text_on_price_range
 
 keywords: [price, range]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - price-range
 - price_range
 - priceRange
-- has_text_about_price_range
+- has_text_on_price_range
 ---
 
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- [ #has_/text_about_/price_range :: Text ] or 
-- [ has_text_about_price_range :: Text ] 
+- [ #has_/text_/on_/price_range :: Text ] or 
+- [ has_text_on_price_range :: Text ] 
 
 The price range of the business, for example <code>$$$</code>.
 
 Predicated describes that: 
 [ #has_/domain  :: LocalBusiness ]
-( #has_/name :: has_text_about_price_range )
+( #has_/name :: has_text_on_price_range )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

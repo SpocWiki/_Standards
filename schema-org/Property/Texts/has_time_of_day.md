@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_time_of_day
-linkTitle: has_text_about_time_of_day
+title: has_text_on_time_of_day
+linkTitle: has_text_on_time_of_day
 
 keywords: [time, of, day]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - time-of-day
 - time_of_day
 - timeOfDay
-- has_text_about_time_of_day
+- has_text_on_time_of_day
 ---
 
 Predicate to describe the Text of EducationalOccupationalProgram.
@@ -36,14 +36,14 @@ Predicate to describe the Text of EducationalOccupationalProgram.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/time_of_day :: Text ] or 
-- [ has_text_about_time_of_day :: Text ] 
+- [ #has_/text_/on_/time_of_day :: Text ] or 
+- [ has_text_on_time_of_day :: Text ] 
 
 The time of day the program normally runs. For example, "evenings".
 
 Predicated describes that: 
 [ #has_/domain  :: EducationalOccupationalProgram ]
-( #has_/name :: has_text_about_time_of_day )
+( #has_/name :: has_text_on_time_of_day )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_gtin
-linkTitle: has_text_about_gtin
+title: has_text_on_gtin
+linkTitle: has_text_on_gtin
 
 keywords: [gtin]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - gtin
 - gtin
 - gtin
-- has_text_about_gtin
+- has_text_on_gtin
 ---
 
 Predicate to describe the Text of Demand, Offer, Product.
@@ -36,8 +36,8 @@ Predicate to describe the Text of Demand, Offer, Product.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/gtin :: Text, URL ] or 
-- [ has_text_about_gtin :: Text, URL ] 
+- [ #has_/text_/on_/gtin :: Text, URL ] or 
+- [ has_text_on_gtin :: Text, URL ] 
 
 A Global Trade Item Number ([GTIN](https://www.gs1.org/standards/id-keys/gtin)). GTINs identify trade items, including products and services, using numeric identification codes.
 
@@ -51,7 +51,7 @@ Note also that this is a definition for how to include GTINs in Schema.org data,
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]
-( #has_/name :: has_text_about_gtin )
+( #has_/name :: has_text_on_gtin )
 ( #has_/range :: Text, URL )
 
 [ #is_/sub_property_of  :: identifier ]

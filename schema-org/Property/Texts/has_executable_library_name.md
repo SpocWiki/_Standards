@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_executable_library_name
-linkTitle: has_text_about_executable_library_name
+title: has_text_on_executable_library_name
+linkTitle: has_text_on_executable_library_name
 
 keywords: [executable, library, name]
 layout: 
@@ -30,19 +30,19 @@ aliases:
 - executable-library-name
 - executable_library_name
 - executableLibraryName
-- has_text_about_executable_library_name
+- has_text_on_executable_library_name
 ---
 
 Library file name, e.g., mscorlib.dll, system.web.dll. 
 Predicate to describe the Text of [[../../Class/is_a_/creative_work/article/tech_article/api_reference|APIReference]].
 
 Use it like this: 
-- [ #has_/text_about_/executable_library_name :: Text ] or 
-- [ has_text_about_executable_library_name :: Text ] 
+- [ #has_/text_/on_/executable_library_name :: Text ] or 
+- [ has_text_on_executable_library_name :: Text ] 
 
 Predicated describes that: 
 [ #has_/domain  :: APIReference ]
-( #has_/name :: has_text_about_executable_library_name )
+( #has_/name :: has_text_on_executable_library_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

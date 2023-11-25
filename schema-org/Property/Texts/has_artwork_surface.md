@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_artwork_surface
-linkTitle: has_text_about_artwork_surface
+title: has_text_on_artwork_surface
+linkTitle: has_text_on_artwork_surface
 
 keywords: [artwork, surface]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - artwork-surface
 - artwork_surface
 - artworkSurface
-- has_text_about_artwork_surface
+- has_text_on_artwork_surface
 ---
 
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- [ #has_/text_about_/artwork_surface :: Text, URL ] or 
-- [ has_text_about_artwork_surface :: Text, URL ] 
+- [ #has_/text_/on_/artwork_surface :: Text, URL ] or 
+- [ has_text_on_artwork_surface :: Text, URL ] 
 
 The supporting materials for the artwork, e.g. Canvas, Paper, Wood, Board, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: VisualArtwork ]
-( #has_/name :: has_text_about_artwork_surface )
+( #has_/name :: has_text_on_artwork_surface )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

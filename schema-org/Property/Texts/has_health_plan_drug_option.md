@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_health_plan_drug_option
-linkTitle: has_text_about_health_plan_drug_option
+title: has_text_on_health_plan_drug_option
+linkTitle: has_text_on_health_plan_drug_option
 
 keywords: [health, plan, drug, option]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - health-plan-drug-option
 - health_plan_drug_option
 - healthPlanDrugOption
-- has_text_about_health_plan_drug_option
+- has_text_on_health_plan_drug_option
 ---
 
 Predicate to describe the Text of HealthInsurancePlan.
@@ -36,14 +36,14 @@ Predicate to describe the Text of HealthInsurancePlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/health_plan_drug_option :: Text ] or 
-- [ has_text_about_health_plan_drug_option :: Text ] 
+- [ #has_/text_/on_/health_plan_drug_option :: Text ] or 
+- [ has_text_on_health_plan_drug_option :: Text ] 
 
 TODO.
 
 Predicated describes that: 
 [ #has_/domain  :: HealthInsurancePlan ]
-( #has_/name :: has_text_about_health_plan_drug_option )
+( #has_/name :: has_text_on_health_plan_drug_option )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

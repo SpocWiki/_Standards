@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_pathophysiology
-linkTitle: has_text_about_pathophysiology
+title: has_text_on_pathophysiology
+linkTitle: has_text_on_pathophysiology
 
 keywords: [pathophysiology]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - pathophysiology
 - pathophysiology
 - pathophysiology
-- has_text_about_pathophysiology
+- has_text_on_pathophysiology
 ---
 
 Predicate to describe the Text of MedicalCondition, PhysicalActivity.
 
 Use it like this: 
-- [ #has_/text_about_/pathophysiology :: Text ] or 
-- [ has_text_about_pathophysiology :: Text ] 
+- [ #has_/text_/on_/pathophysiology :: Text ] or 
+- [ has_text_on_pathophysiology :: Text ] 
 
 Changes in the normal mechanical, physical, and biochemical functions that are associated with this activity or condition.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition, PhysicalActivity ]
-( #has_/name :: has_text_about_pathophysiology )
+( #has_/name :: has_text_on_pathophysiology )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_seat_section
-linkTitle: has_text_about_seat_section
+title: has_text_on_seat_section
+linkTitle: has_text_on_seat_section
 
 keywords: [seat, section]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - seat-section
 - seat_section
 - seatSection
-- has_text_about_seat_section
+- has_text_on_seat_section
 ---
 
 Predicate to describe the Text of Seat.
 
 Use it like this: 
-- [ #has_/text_about_/seat_section :: Text ] or 
-- [ has_text_about_seat_section :: Text ] 
+- [ #has_/text_/on_/seat_section :: Text ] or 
+- [ has_text_on_seat_section :: Text ] 
 
 The section location of the reserved seat (e.g. Orchestra).
 
 Predicated describes that: 
 [ #has_/domain  :: Seat ]
-( #has_/name :: has_text_about_seat_section )
+( #has_/name :: has_text_on_seat_section )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

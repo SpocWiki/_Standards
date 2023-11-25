@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_software_requirements
-linkTitle: has_text_about_software_requirements
+title: has_text_on_software_requirements
+linkTitle: has_text_on_software_requirements
 
 keywords: [software, requirements]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - software-requirements
 - software_requirements
 - softwareRequirements
-- has_text_about_software_requirements
+- has_text_on_software_requirements
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/software_requirements :: Text, URL ] or 
-- [ has_text_about_software_requirements :: Text, URL ] 
+- [ #has_/text_/on_/software_requirements :: Text, URL ] or 
+- [ has_text_on_software_requirements :: Text, URL ] 
 
 Component dependency requirements for application. This includes runtime environments and shared libraries that are not included in the application distribution package, but required to run the application (examples: DirectX, Java or .NET runtime).
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_about_software_requirements )
+( #has_/name :: has_text_on_software_requirements )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_article_section
-linkTitle: has_text_about_article_section
+title: has_text_on_article_section
+linkTitle: has_text_on_article_section
 
 keywords: [article, section]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - article-section
 - article_section
 - articleSection
-- has_text_about_article_section
+- has_text_on_article_section
 ---
 
 Predicate to describe the Text of Article.
 
 Use it like this: 
-- [ #has_/text_about_/article_section :: Text ] or 
-- [ has_text_about_article_section :: Text ] 
+- [ #has_/text_/on_/article_section :: Text ] or 
+- [ has_text_on_article_section :: Text ] 
 
 Articles may belong to one or more "sections" in a magazine or newspaper, such as Sports, Lifestyle, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: Article ]
-( #has_/name :: has_text_about_article_section )
+( #has_/name :: has_text_on_article_section )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

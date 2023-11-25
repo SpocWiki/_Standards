@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_risks
-linkTitle: has_text_about_risks
+title: has_text_on_risks
+linkTitle: has_text_on_risks
 
 keywords: [risks]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - risks
 - risks
 - risks
-- has_text_about_risks
+- has_text_on_risks
 ---
 
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_about_/risks :: Text ] or 
-- [ has_text_about_risks :: Text ] 
+- [ #has_/text_/on_/risks :: Text ] or 
+- [ has_text_on_risks :: Text ] 
 
 Specific physiologic risks associated to the diet plan.
 
 Predicated describes that: 
 [ #has_/domain  :: Diet ]
-( #has_/name :: has_text_about_risks )
+( #has_/name :: has_text_on_risks )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_frequency
-linkTitle: has_text_about_frequency
+title: has_text_on_frequency
+linkTitle: has_text_on_frequency
 
 keywords: [frequency]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - frequency
 - frequency
 - frequency
-- has_text_about_frequency
+- has_text_on_frequency
 ---
 
 Predicate to describe the Text of DoseSchedule.
 
 Use it like this: 
-- [ #has_/text_about_/frequency :: Text ] or 
-- [ has_text_about_frequency :: Text ] 
+- [ #has_/text_/on_/frequency :: Text ] or 
+- [ has_text_on_frequency :: Text ] 
 
 How often the dose is taken, e.g. "daily".
 
 Predicated describes that: 
 [ #has_/domain  :: DoseSchedule ]
-( #has_/name :: has_text_about_frequency )
+( #has_/name :: has_text_on_frequency )
 ( #has_/range :: Text )
 
 [ #has_/sub_properties :: [ repeatFrequency ] ]

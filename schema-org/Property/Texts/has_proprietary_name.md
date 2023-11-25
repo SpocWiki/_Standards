@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_proprietary_name
-linkTitle: has_text_about_proprietary_name
+title: has_text_on_proprietary_name
+linkTitle: has_text_on_proprietary_name
 
 keywords: [proprietary, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - proprietary-name
 - proprietary_name
 - proprietaryName
-- has_text_about_proprietary_name
+- has_text_on_proprietary_name
 ---
 
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- [ #has_/text_about_/proprietary_name :: Text ] or 
-- [ has_text_about_proprietary_name :: Text ] 
+- [ #has_/text_/on_/proprietary_name :: Text ] or 
+- [ has_text_on_proprietary_name :: Text ] 
 
 Proprietary name given to the diet plan, typically by its originator or creator.
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement, Drug ]
-( #has_/name :: has_text_about_proprietary_name )
+( #has_/name :: has_text_on_proprietary_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

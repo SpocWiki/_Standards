@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_health_plan_network_id
-linkTitle: has_text_about_health_plan_network_id
+title: has_text_on_health_plan_network_id
+linkTitle: has_text_on_health_plan_network_id
 
 keywords: [health, plan, network, id]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - health-plan-network-id
 - health_plan_network_id
 - healthPlanNetworkId
-- has_text_about_health_plan_network_id
+- has_text_on_health_plan_network_id
 ---
 
 Predicate to describe the Text of HealthPlanNetwork, MedicalOrganization.
@@ -36,14 +36,14 @@ Predicate to describe the Text of HealthPlanNetwork, MedicalOrganization.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/health_plan_network_id :: Text ] or 
-- [ has_text_about_health_plan_network_id :: Text ] 
+- [ #has_/text_/on_/health_plan_network_id :: Text ] or 
+- [ has_text_on_health_plan_network_id :: Text ] 
 
 Name or unique ID of network. (Networks are often reused across different insurance plans.)
 
 Predicated describes that: 
 [ #has_/domain  :: HealthPlanNetwork, MedicalOrganization ]
-( #has_/name :: has_text_about_health_plan_network_id )
+( #has_/name :: has_text_on_health_plan_network_id )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_comment_text
-linkTitle: has_text_about_comment_text
+title: has_text_on_comment_text
+linkTitle: has_text_on_comment_text
 
 keywords: [comment, text]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - comment-text
 - comment_text
 - commentText
-- has_text_about_comment_text
+- has_text_on_comment_text
 ---
 
 Predicate to describe the Text of UserComments.
 
 Use it like this: 
-- [ #has_/text_about_/comment_text :: Text ] or 
-- [ has_text_about_comment_text :: Text ] 
+- [ #has_/text_/on_/comment_text :: Text ] or 
+- [ has_text_on_comment_text :: Text ] 
 
 The text of the UserComment.
 
 Predicated describes that: 
 [ #has_/domain  :: UserComments ]
-( #has_/name :: has_text_about_comment_text )
+( #has_/name :: has_text_on_comment_text )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

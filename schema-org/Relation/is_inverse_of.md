@@ -3,7 +3,9 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
 type: Predi_Relation
 title: is_inverse_of
@@ -25,6 +27,7 @@ aliases:
   - inverseOf
   - is_inverse_of
   - is_converse_of
+  - has inverse
 ---
 
 # is_inverse_of 
@@ -45,6 +48,9 @@ Relation describes that:
 ( #has_/name :: is_inverse_of)
 ( #has_/range :: [[Property]])
 
+Alternatively often the `has_inverse` Syntax comes to mind, 
+but that would be redundant (since the Relation is symmetric), 
+and it does not emphasize the categorical nature of the Statement. 
 ## Converse 
 The mathematical Term is [converse Relation](https://en.wikipedia.org/wiki/Converse_relation)
 The notation is analogous with that for an [inverse function](https://en.wikipedia.org/wiki/Inverse_function "Inverse function"). 

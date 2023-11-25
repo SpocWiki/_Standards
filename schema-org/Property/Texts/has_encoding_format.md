@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_encoding_format
-linkTitle: has_text_about_encoding_format
+title: has_text_on_encoding_format
+linkTitle: has_text_on_encoding_format
 
 keywords: [encoding, format]
 layout: 
@@ -30,14 +30,14 @@ aliases:
 - encoding-format
 - encoding_format
 - encodingFormat
-- has_text_about_encoding_format
+- has_text_on_encoding_format
 ---
 
 Predicate to describe the Text of CreativeWork, MediaObject.
 
 Use it like this: 
-- [ #has_/text_about_/encoding_format :: Text, URL ] or 
-- [ has_text_about_encoding_format :: Text, URL ] 
+- [ #has_/text_/on_/encoding_format :: Text, URL ] or 
+- [ has_text_on_encoding_format :: Text, URL ] 
 
 Media type typically expressed using a MIME format (see [IANA site](http://www.iana.org/assignments/media-types/media-types.xhtml) and [MDN reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types)), e.g. application/zip for a SoftwareApplication binary, audio/mpeg for .mp3 etc.
 
@@ -51,7 +51,7 @@ Unregistered or niche encoding and file formats can be indicated instead via the
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork, MediaObject ]
-( #has_/name :: has_text_about_encoding_format )
+( #has_/name :: has_text_on_encoding_format )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

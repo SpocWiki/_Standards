@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_broadcast_sub_channel
-linkTitle: has_text_about_broadcast_sub_channel
+title: has_text_on_broadcast_sub_channel
+linkTitle: has_text_on_broadcast_sub_channel
 
 keywords: [broadcast, sub, channel]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - broadcast-sub-channel
 - broadcast_sub_channel
 - broadcastSubChannel
-- has_text_about_broadcast_sub_channel
+- has_text_on_broadcast_sub_channel
 ---
 
 Predicate to describe the Text of BroadcastFrequencySpecification.
@@ -36,14 +36,14 @@ Predicate to describe the Text of BroadcastFrequencySpecification.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/broadcast_sub_channel :: Text ] or 
-- [ has_text_about_broadcast_sub_channel :: Text ] 
+- [ #has_/text_/on_/broadcast_sub_channel :: Text ] or 
+- [ has_text_on_broadcast_sub_channel :: Text ] 
 
 The subchannel used for the broadcast.
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastFrequencySpecification ]
-( #has_/name :: has_text_about_broadcast_sub_channel )
+( #has_/name :: has_text_on_broadcast_sub_channel )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

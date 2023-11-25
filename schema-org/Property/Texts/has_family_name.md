@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_family_name
-linkTitle: has_text_about_family_name
+title: has_text_on_family_name
+linkTitle: has_text_on_family_name
 
 keywords: [family, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - family-name
 - family_name
 - familyName
-- has_text_about_family_name
+- has_text_on_family_name
 ---
 
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text_about_/family_name :: Text ] or 
-- [ has_text_about_family_name :: Text ] 
+- [ #has_/text_/on_/family_name :: Text ] or 
+- [ has_text_on_family_name :: Text ] 
 
 Family name. In the U.S., the last name of a Person.
 
 Predicated describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: has_text_about_family_name )
+( #has_/name :: has_text_on_family_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

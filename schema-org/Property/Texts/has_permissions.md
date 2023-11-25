@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_permissions
-linkTitle: has_text_about_permissions
+title: has_text_on_permissions
+linkTitle: has_text_on_permissions
 
 keywords: [permissions]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - permissions
 - permissions
 - permissions
-- has_text_about_permissions
+- has_text_on_permissions
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/permissions :: Text ] or 
-- [ has_text_about_permissions :: Text ] 
+- [ #has_/text_/on_/permissions :: Text ] or 
+- [ has_text_on_permissions :: Text ] 
 
 Permission(s) required to run the app (for example, a mobile app may require full internet access or may run only on wifi).
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_about_permissions )
+( #has_/name :: has_text_on_permissions )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

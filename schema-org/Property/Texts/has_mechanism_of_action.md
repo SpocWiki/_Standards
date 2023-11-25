@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_mechanism_of_action
-linkTitle: has_text_about_mechanism_of_action
+title: has_text_on_mechanism_of_action
+linkTitle: has_text_on_mechanism_of_action
 
 keywords: [mechanism, of, action]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - mechanism-of-action
 - mechanism_of_action
 - mechanismOfAction
-- has_text_about_mechanism_of_action
+- has_text_on_mechanism_of_action
 ---
 
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- [ #has_/text_about_/mechanism_of_action :: Text ] or 
-- [ has_text_about_mechanism_of_action :: Text ] 
+- [ #has_/text_/on_/mechanism_of_action :: Text ] or 
+- [ has_text_on_mechanism_of_action :: Text ] 
 
 The specific biochemical interaction through which this drug or supplement produces its pharmacological effect.
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement, Drug ]
-( #has_/name :: has_text_about_mechanism_of_action )
+( #has_/name :: has_text_on_mechanism_of_action )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

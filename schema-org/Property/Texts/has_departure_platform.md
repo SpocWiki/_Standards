@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_departure_platform
-linkTitle: has_text_about_departure_platform
+title: has_text_on_departure_platform
+linkTitle: has_text_on_departure_platform
 
 keywords: [departure, platform]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - departure-platform
 - departure_platform
 - departurePlatform
-- has_text_about_departure_platform
+- has_text_on_departure_platform
 ---
 
 Predicate to describe the Text of TrainTrip.
 
 Use it like this: 
-- [ #has_/text_about_/departure_platform :: Text ] or 
-- [ has_text_about_departure_platform :: Text ] 
+- [ #has_/text_/on_/departure_platform :: Text ] or 
+- [ has_text_on_departure_platform :: Text ] 
 
 The platform from which the train departs.
 
 Predicated describes that: 
 [ #has_/domain  :: TrainTrip ]
-( #has_/name :: has_text_about_departure_platform )
+( #has_/name :: has_text_on_departure_platform )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_possible_complication
-linkTitle: has_text_about_possible_complication
+title: has_text_on_possible_complication
+linkTitle: has_text_on_possible_complication
 
 keywords: [possible, complication]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - possible-complication
 - possible_complication
 - possibleComplication
-- has_text_about_possible_complication
+- has_text_on_possible_complication
 ---
 
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- [ #has_/text_about_/possible_complication :: Text ] or 
-- [ has_text_about_possible_complication :: Text ] 
+- [ #has_/text_/on_/possible_complication :: Text ] or 
+- [ has_text_on_possible_complication :: Text ] 
 
 A possible unexpected and unfavorable evolution of a medical condition. Complications may include worsening of the signs or symptoms of the disease, extension of the condition to other organ systems, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition ]
-( #has_/name :: has_text_about_possible_complication )
+( #has_/name :: has_text_on_possible_complication )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

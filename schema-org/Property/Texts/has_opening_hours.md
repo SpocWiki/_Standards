@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_opening_hours
-linkTitle: has_text_about_opening_hours
+title: has_text_on_opening_hours
+linkTitle: has_text_on_opening_hours
 
 keywords: [opening, hours]
 layout: 
@@ -28,14 +28,14 @@ aliases:
 - opening-hours
 - opening_hours
 - openingHours
-- has_text_about_opening_hours
+- has_text_on_opening_hours
 ---
 
 Predicate to describe the Text of CivicStructure, LocalBusiness.
 
 Use it like this: 
-- [ #has_/text_about_/opening_hours :: Text ] or 
-- [ has_text_about_opening_hours :: Text ] 
+- [ #has_/text_/on_/opening_hours :: Text ] or 
+- [ has_text_on_opening_hours :: Text ] 
 
 The general opening hours for a business. Opening hours can be specified as a weekly time range, starting with days, then times per day. Multiple days can be listed with commas "," separating each day. Day or time ranges are specified using a hyphen "-".
 
@@ -50,7 +50,7 @@ The general opening hours for a business. Opening hours can be specified as a we
 
 Predicated describes that: 
 [ #has_/domain  :: CivicStructure, LocalBusiness ]
-( #has_/name :: has_text_about_opening_hours )
+( #has_/name :: has_text_on_opening_hours )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

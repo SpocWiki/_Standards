@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_available_on_device
-linkTitle: has_text_about_available_on_device
+title: has_text_on_available_on_device
+linkTitle: has_text_on_available_on_device
 
 keywords: [available, on, device]
 layout: 
@@ -30,7 +30,7 @@ aliases:
 - available-on-device
 - available_on_device
 - availableOnDevice
-- has_text_about_available_on_device
+- has_text_on_available_on_device
 ---
 
 Device required to run the application. 
@@ -39,8 +39,8 @@ Used in cases where a specific make/model is required to run the application.
 Predicate to describe a [[../../Class/is_a_/creative_work/software_application|SoftwareApplication]].
 
 Use it like this: 
-- [ #has_/text_about_/available_on_device :: Text ] or 
-- [ has_text_about_available_on_device :: Text ] 
+- [ #has_/text_/on_/available_on_device :: Text ] or 
+- [ has_text_on_available_on_device :: Text ] 
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_video_quality
-linkTitle: has_text_about_video_quality
+title: has_text_on_video_quality
+linkTitle: has_text_on_video_quality
 
 keywords: [video, quality]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - video-quality
 - video_quality
 - videoQuality
-- has_text_about_video_quality
+- has_text_on_video_quality
 ---
 
 Predicate to describe the Text of VideoObject.
 
 Use it like this: 
-- [ #has_/text_about_/video_quality :: Text ] or 
-- [ has_text_about_video_quality :: Text ] 
+- [ #has_/text_/on_/video_quality :: Text ] or 
+- [ has_text_on_video_quality :: Text ] 
 
 The quality of the video.
 
 Predicated describes that: 
 [ #has_/domain  :: VideoObject ]
-( #has_/name :: has_text_about_video_quality )
+( #has_/name :: has_text_on_video_quality )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

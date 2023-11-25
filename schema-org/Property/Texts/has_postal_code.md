@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_postal_code
-linkTitle: has_text_about_postal_code
+title: has_text_on_postal_code
+linkTitle: has_text_on_postal_code
 
 keywords: [postal, code]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - postal-code
 - postal_code
 - postalCode
-- has_text_about_postal_code
+- has_text_on_postal_code
 ---
 
 Predicate to describe the Text of DefinedRegion, GeoCoordinates, GeoShape, PostalAddress.
 
 Use it like this: 
-- [ #has_/text_about_/postal_code :: Text ] or 
-- [ has_text_about_postal_code :: Text ] 
+- [ #has_/text_/on_/postal_code :: Text ] or 
+- [ has_text_on_postal_code :: Text ] 
 
 The postal code. For example, 94043.
 
 Predicated describes that: 
 [ #has_/domain  :: DefinedRegion, GeoCoordinates, GeoShape, PostalAddress ]
-( #has_/name :: has_text_about_postal_code )
+( #has_/name :: has_text_on_postal_code )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

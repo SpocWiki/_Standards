@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_game_platform
-linkTitle: has_text_about_game_platform
+title: has_text_on_game_platform
+linkTitle: has_text_on_game_platform
 
 keywords: [game, platform]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - game-platform
 - game_platform
 - gamePlatform
-- has_text_about_game_platform
+- has_text_on_game_platform
 ---
 
 Predicate to describe the Text of VideoGame, VideoGameSeries.
 
 Use it like this: 
-- [ #has_/text_about_/game_platform :: Text, Thing, URL ] or 
-- [ has_text_about_game_platform :: Text, Thing, URL ] 
+- [ #has_/text_/on_/game_platform :: Text, Thing, URL ] or 
+- [ has_text_on_game_platform :: Text, Thing, URL ] 
 
 The electronic systems used to play [video games](http://en.wikipedia.org/wiki/Category:Video_game_platforms).
 
 Predicated describes that: 
 [ #has_/domain  :: VideoGame, VideoGameSeries ]
-( #has_/name :: has_text_about_game_platform )
+( #has_/name :: has_text_on_game_platform )
 ( #has_/range :: Text, Thing, URL )
 
 ## Confidential Links & Embeds: 

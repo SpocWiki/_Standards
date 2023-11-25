@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_measurement_technique
-linkTitle: has_text_about_measurement_technique
+title: has_text_on_measurement_technique
+linkTitle: has_text_on_measurement_technique
 
 keywords: [measurement, technique]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - measurement-technique
 - measurement_technique
 - measurementTechnique
-- has_text_about_measurement_technique
+- has_text_on_measurement_technique
 ---
 
 Predicate to describe the Text of DataCatalog, DataDownload, Dataset, PropertyValue.
@@ -36,8 +36,8 @@ Predicate to describe the Text of DataCatalog, DataDownload, Dataset, PropertyVa
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/measurement_technique :: Text, URL ] or 
-- [ has_text_about_measurement_technique :: Text, URL ] 
+- [ #has_/text_/on_/measurement_technique :: Text, URL ] or 
+- [ has_text_on_measurement_technique :: Text, URL ] 
 
 A technique or technology used in a [[Dataset]] (or [[DataDownload]], [[DataCatalog]]),
 corresponding to the method used for measuring the corresponding variable(s) (described using [[variableMeasured]]). This is oriented towards scientific and scholarly dataset publication but may have broader applicability; it is not intended as a full representation of measurement, but rather as a high level summary for dataset discovery.
@@ -56,7 +56,7 @@ If there are several [[variableMeasured]] properties recorded for some given dat
 
 Predicated describes that: 
 [ #has_/domain  :: DataCatalog, DataDownload, Dataset, PropertyValue ]
-( #has_/name :: has_text_about_measurement_technique )
+( #has_/name :: has_text_on_measurement_technique )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

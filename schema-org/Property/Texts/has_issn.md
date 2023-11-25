@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_issn
-linkTitle: has_text_about_issn
+title: has_text_on_issn
+linkTitle: has_text_on_issn
 
 keywords: [issn]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - issn
 - issn
 - issn
-- has_text_about_issn
+- has_text_on_issn
 ---
 
 Predicate to describe the Text of Blog, CreativeWorkSeries, Dataset, WebSite.
 
 Use it like this: 
-- [ #has_/text_about_/issn :: Text ] or 
-- [ has_text_about_issn :: Text ] 
+- [ #has_/text_/on_/issn :: Text ] or 
+- [ has_text_on_issn :: Text ] 
 
 The International Standard Serial Number (ISSN) that identifies this serial publication. You can repeat this property to identify different formats of, or the linking ISSN (ISSN-L) for, this serial publication.
 
 Predicated describes that: 
 [ #has_/domain  :: Blog, CreativeWorkSeries, Dataset, WebSite ]
-( #has_/name :: has_text_about_issn )
+( #has_/name :: has_text_on_issn )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

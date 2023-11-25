@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_incentive_compensation
-linkTitle: has_text_about_incentive_compensation
+title: has_text_on_incentive_compensation
+linkTitle: has_text_on_incentive_compensation
 
 keywords: [incentive, compensation]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - incentive-compensation
 - incentive_compensation
 - incentiveCompensation
-- has_text_about_incentive_compensation
+- has_text_on_incentive_compensation
 ---
 
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_about_/incentive_compensation :: Text ] or 
-- [ has_text_about_incentive_compensation :: Text ] 
+- [ #has_/text_/on_/incentive_compensation :: Text ] or 
+- [ has_text_on_incentive_compensation :: Text ] 
 
 Description of bonus and commission compensation aspects of the job.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: has_text_about_incentive_compensation )
+( #has_/name :: has_text_on_incentive_compensation )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

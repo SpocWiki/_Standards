@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_circle
-linkTitle: has_text_about_circle
+title: has_text_on_circle
+linkTitle: has_text_on_circle
 
 keywords: [circle]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - circle
 - circle
 - circle
-- has_text_about_circle
+- has_text_on_circle
 ---
 
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [ #has_/text_about_/circle :: Text ] or 
-- [ has_text_about_circle :: Text ] 
+- [ #has_/text_/on_/circle :: Text ] or 
+- [ has_text_on_circle :: Text ] 
 
 A circle is the circular region of a specified radius centered at a specified latitude and longitude. A circle is expressed as a pair followed by a radius in meters.
 
 Predicated describes that: 
 [ #has_/domain  :: GeoShape ]
-( #has_/name :: has_text_about_circle )
+( #has_/name :: has_text_on_circle )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

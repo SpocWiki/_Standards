@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_price_currency
-linkTitle: has_text_about_price_currency
+title: has_text_on_price_currency
+linkTitle: has_text_on_price_currency
 
 keywords: [price, currency]
 layout: 
@@ -28,14 +28,14 @@ aliases:
 - price-currency
 - price_currency
 - priceCurrency
-- has_text_about_price_currency
+- has_text_on_price_currency
 ---
 
 Predicate to describe the Text of Offer, PriceSpecification, Reservation, Ticket, TradeAction.
 
 Use it like this: 
-- [ #has_/text_about_/price_currency :: Text ] or 
-- [ has_text_about_price_currency :: Text ] 
+- [ #has_/text_/on_/price_currency :: Text ] or 
+- [ has_text_on_price_currency :: Text ] 
 
 The currency of the price, or a price component when attached to [[PriceSpecification]] and its subtypes.
 
@@ -45,7 +45,7 @@ Use standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/IS
 
 Predicated describes that: 
 [ #has_/domain  :: Offer, PriceSpecification, Reservation, Ticket, TradeAction ]
-( #has_/name :: has_text_about_price_currency )
+( #has_/name :: has_text_on_price_currency )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

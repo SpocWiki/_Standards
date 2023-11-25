@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_pagination
-linkTitle: has_text_about_pagination
+title: has_text_on_pagination
+linkTitle: has_text_on_pagination
 
 keywords: [pagination]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - pagination
 - pagination
 - pagination
-- has_text_about_pagination
+- has_text_on_pagination
 ---
 
 Predicate to describe the Text of Article, Chapter, PublicationIssue, PublicationVolume.
 
 Use it like this: 
-- [ #has_/text_about_/pagination :: Text ] or 
-- [ has_text_about_pagination :: Text ] 
+- [ #has_/text_/on_/pagination :: Text ] or 
+- [ has_text_on_pagination :: Text ] 
 
 Any description of pages that is not separated into pageStart and pageEnd; for example, "1-6, 9, 55" or "10-12, 46-49".
 
 Predicated describes that: 
 [ #has_/domain  :: Article, Chapter, PublicationIssue, PublicationVolume ]
-( #has_/name :: has_text_about_pagination )
+( #has_/name :: has_text_on_pagination )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

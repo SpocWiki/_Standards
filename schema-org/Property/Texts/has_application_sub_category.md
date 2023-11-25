@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_application_sub_category
-linkTitle: has_text_about_application_sub_category
+title: has_text_on_application_sub_category
+linkTitle: has_text_on_application_sub_category
 
 keywords: [application, sub, category]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - application-sub-category
 - application_sub_category
 - applicationSubCategory
-- has_text_about_application_sub_category
+- has_text_on_application_sub_category
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/application_sub_category :: Text, URL ] or 
-- [ has_text_about_application_sub_category :: Text, URL ] 
+- [ #has_/text_/on_/application_sub_category :: Text, URL ] or 
+- [ has_text_on_application_sub_category :: Text, URL ] 
 
 Subcategory of the application, e.g. "Arcade Game".
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_about_application_sub_category )
+( #has_/name :: has_text_on_application_sub_category )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

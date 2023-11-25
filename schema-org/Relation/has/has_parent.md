@@ -42,6 +42,8 @@ Relation describes that:
 ( #has_/name :: has_parent )
 ( #has_/range :: Person )
 
+#is_/sub_relation_of :: [[has_creator]]
+
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_parent.md|has_parent]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parent.internal.md|has_parent.internal]] 

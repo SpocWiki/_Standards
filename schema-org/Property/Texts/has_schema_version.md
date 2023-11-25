@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_schema_version
-linkTitle: has_text_about_schema_version
+title: has_text_on_schema_version
+linkTitle: has_text_on_schema_version
 
 keywords: [schema, version]
 layout: 
@@ -28,21 +28,21 @@ aliases:
 - schema-version
 - schema_version
 - schemaVersion
-- has_text_about_schema_version
+- has_text_on_schema_version
 ---
 
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_about_/schema_version :: Text, URL ] or 
-- [ has_text_about_schema_version :: Text, URL ] 
+- [ #has_/text_/on_/schema_version :: Text, URL ] or 
+- [ has_text_on_schema_version :: Text, URL ] 
 
 Indicates (by URL or string) a particular version of a schema used in some CreativeWork. This property was created primarily to
 	indicate the use of a specific schema.org release, e.g. <code>10.0</code> as a simple string, or more explicitly via URL, <code>docs/releases.html#v10.0</code>. There may be situations in which other schemas might usefully be referenced this way, e.g. <code>http://dublincore.org/specifications/dublin-core/dces/1999-07-02/</code> but this has not been carefully explored in the community.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: has_text_about_schema_version )
+( #has_/name :: has_text_on_schema_version )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

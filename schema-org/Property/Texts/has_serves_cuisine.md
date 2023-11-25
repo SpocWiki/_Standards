@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_serves_cuisine
-linkTitle: has_text_about_serves_cuisine
+title: has_text_on_serves_cuisine
+linkTitle: has_text_on_serves_cuisine
 
 keywords: [serves, cuisine]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - serves-cuisine
 - serves_cuisine
 - servesCuisine
-- has_text_about_serves_cuisine
+- has_text_on_serves_cuisine
 ---
 
 Predicate to describe the Text of FoodEstablishment.
 
 Use it like this: 
-- [ #has_/text_about_/serves_cuisine :: Text ] or 
-- [ has_text_about_serves_cuisine :: Text ] 
+- [ #has_/text_/on_/serves_cuisine :: Text ] or 
+- [ has_text_on_serves_cuisine :: Text ] 
 
 The cuisine of the restaurant.
 
 Predicated describes that: 
 [ #has_/domain  :: FoodEstablishment ]
-( #has_/name :: has_text_about_serves_cuisine )
+( #has_/name :: has_text_on_serves_cuisine )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

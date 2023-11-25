@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_how_performed
-linkTitle: has_text_about_how_performed
+title: has_text_on_how_performed
+linkTitle: has_text_on_how_performed
 
 keywords: [how, performed]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - how-performed
 - how_performed
 - howPerformed
-- has_text_about_how_performed
+- has_text_on_how_performed
 ---
 
 Predicate to describe the Text of MedicalProcedure.
 
 Use it like this: 
-- [ #has_/text_about_/how_performed :: Text ] or 
-- [ has_text_about_how_performed :: Text ] 
+- [ #has_/text_/on_/how_performed :: Text ] or 
+- [ has_text_on_how_performed :: Text ] 
 
 How the procedure is performed.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalProcedure ]
-( #has_/name :: has_text_about_how_performed )
+( #has_/name :: has_text_on_how_performed )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

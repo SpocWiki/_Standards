@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_physiological_benefits
-linkTitle: has_text_about_physiological_benefits
+title: has_text_on_physiological_benefits
+linkTitle: has_text_on_physiological_benefits
 
 keywords: [physiological, benefits]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - physiological-benefits
 - physiological_benefits
 - physiologicalBenefits
-- has_text_about_physiological_benefits
+- has_text_on_physiological_benefits
 ---
 
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_about_/physiological_benefits :: Text ] or 
-- [ has_text_about_physiological_benefits :: Text ] 
+- [ #has_/text_/on_/physiological_benefits :: Text ] or 
+- [ has_text_on_physiological_benefits :: Text ] 
 
 Specific physiologic benefits associated to the plan.
 
 Predicated describes that: 
 [ #has_/domain  :: Diet ]
-( #has_/name :: has_text_about_physiological_benefits )
+( #has_/name :: has_text_on_physiological_benefits )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

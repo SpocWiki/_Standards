@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_embedded_text_caption
-linkTitle: has_text_about_embedded_text_caption
+title: has_text_on_embedded_text_caption
+linkTitle: has_text_on_embedded_text_caption
 
 keywords: [embedded, text, caption]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - embedded-text-caption
 - embedded_text_caption
 - embeddedTextCaption
-- has_text_about_embedded_text_caption
+- has_text_on_embedded_text_caption
 ---
 
 Predicate to describe the Text of AudioObject, ImageObject, VideoObject.
@@ -36,14 +36,14 @@ Predicate to describe the Text of AudioObject, ImageObject, VideoObject.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/embedded_text_caption :: Text ] or 
-- [ has_text_about_embedded_text_caption :: Text ] 
+- [ #has_/text_/on_/embedded_text_caption :: Text ] or 
+- [ has_text_on_embedded_text_caption :: Text ] 
 
 Represents textual captioning from a [[MediaObject]], e.g. text of a "meme".
 
 Predicated describes that: 
 [ #has_/domain  :: AudioObject, ImageObject, VideoObject ]
-( #has_/name :: has_text_about_embedded_text_caption )
+( #has_/name :: has_text_on_embedded_text_caption )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: caption ]

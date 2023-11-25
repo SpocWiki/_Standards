@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_title_eidr
-linkTitle: has_text_about_title_eidr
+title: has_text_on_title_eidr
+linkTitle: has_text_on_title_eidr
 
 keywords: [title, eidr]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - title-eidr
 - title_eidr
 - titleEIDR
-- has_text_about_title_eidr
+- has_text_on_title_eidr
 ---
 
 Predicate to describe the Text of Movie, TVEpisode.
@@ -36,8 +36,8 @@ Predicate to describe the Text of Movie, TVEpisode.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/title_eidr :: Text, URL ] or 
-- [ has_text_about_title_eidr :: Text, URL ] 
+- [ #has_/text_/on_/title_eidr :: Text, URL ] or 
+- [ has_text_on_title_eidr :: Text, URL ] 
 
 An [EIDR](https://eidr.org/) (Entertainment Identifier Registry) [[identifier]] representing at the most general/abstract level, a work of film or television.
 
@@ -51,7 +51,7 @@ Since schema.org types like [[Movie]] and [[TVEpisode]] can be used for both wor
 
 Predicated describes that: 
 [ #has_/domain  :: Movie, TVEpisode ]
-( #has_/name :: has_text_about_title_eidr )
+( #has_/name :: has_text_on_title_eidr )
 ( #has_/range :: Text, URL )
 
 [ #is_/sub_property_of  :: identifier ]

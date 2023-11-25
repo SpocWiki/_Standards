@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_currencies_accepted
-linkTitle: has_text_about_currencies_accepted
+title: has_text_on_currencies_accepted
+linkTitle: has_text_on_currencies_accepted
 
 keywords: [currencies, accepted]
 layout: 
@@ -28,14 +28,14 @@ aliases:
 - currencies-accepted
 - currencies_accepted
 - currenciesAccepted
-- has_text_about_currencies_accepted
+- has_text_on_currencies_accepted
 ---
 
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- [ #has_/text_about_/currencies_accepted :: Text ] or 
-- [ has_text_about_currencies_accepted :: Text ] 
+- [ #has_/text_/on_/currencies_accepted :: Text ] or 
+- [ has_text_on_currencies_accepted :: Text ] 
 
 The currency accepted.
 
@@ -45,7 +45,7 @@ Use standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/IS
 
 Predicated describes that: 
 [ #has_/domain  :: LocalBusiness ]
-( #has_/name :: has_text_about_currencies_accepted )
+( #has_/name :: has_text_on_currencies_accepted )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

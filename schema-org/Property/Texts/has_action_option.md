@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_action_option
-linkTitle: has_text_about_action_option
+title: has_text_on_action_option
+linkTitle: has_text_on_action_option
 
 keywords: [action, option]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - action-option
 - action_option
 - actionOption
-- has_text_about_action_option
+- has_text_on_action_option
 ---
 
 Predicate to describe the Text of ChooseAction.
 
 Use it like this: 
-- [ #has_/text_about_/action_option :: Text, Thing ] or 
-- [ has_text_about_action_option :: Text, Thing ] 
+- [ #has_/text_/on_/action_option :: Text, Thing ] or 
+- [ has_text_on_action_option :: Text, Thing ] 
 
 A sub property of object. The options subject to this action.
 
 Predicated describes that: 
 [ #has_/domain  :: ChooseAction ]
-( #has_/name :: has_text_about_action_option )
+( #has_/name :: has_text_on_action_option )
 ( #has_/range :: Text, Thing )
 
 [ #is_/sub_property_of  :: object ]

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_expert_considerations
-linkTitle: has_text_about_expert_considerations
+title: has_text_on_expert_considerations
+linkTitle: has_text_on_expert_considerations
 
 keywords: [expert, considerations]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - expert-considerations
 - expert_considerations
 - expertConsiderations
-- has_text_about_expert_considerations
+- has_text_on_expert_considerations
 ---
 
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_about_/expert_considerations :: Text ] or 
-- [ has_text_about_expert_considerations :: Text ] 
+- [ #has_/text_/on_/expert_considerations :: Text ] or 
+- [ has_text_on_expert_considerations :: Text ] 
 
 Medical expert advice related to the plan.
 
 Predicated describes that: 
 [ #has_/domain  :: Diet ]
-( #has_/name :: has_text_about_expert_considerations )
+( #has_/name :: has_text_on_expert_considerations )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

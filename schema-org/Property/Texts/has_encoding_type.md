@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_encoding_type
-linkTitle: has_text_about_encoding_type
+title: has_text_on_encoding_type
+linkTitle: has_text_on_encoding_type
 
 keywords: [encoding, type]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - encoding-type
 - encoding_type
 - encodingType
-- has_text_about_encoding_type
+- has_text_on_encoding_type
 ---
 
 Predicate to describe the Text of EntryPoint.
 
 Use it like this: 
-- [ #has_/text_about_/encoding_type :: Text ] or 
-- [ has_text_about_encoding_type :: Text ] 
+- [ #has_/text_/on_/encoding_type :: Text ] or 
+- [ has_text_on_encoding_type :: Text ] 
 
 The supported encoding type(s) for an EntryPoint request.
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
-( #has_/name :: has_text_about_encoding_type )
+( #has_/name :: has_text_on_encoding_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

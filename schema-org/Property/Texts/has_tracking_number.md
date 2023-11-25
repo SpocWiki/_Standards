@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_tracking_number
-linkTitle: has_text_about_tracking_number
+title: has_text_on_tracking_number
+linkTitle: has_text_on_tracking_number
 
 keywords: [tracking, number]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - tracking-number
 - tracking_number
 - trackingNumber
-- has_text_about_tracking_number
+- has_text_on_tracking_number
 ---
 
 Predicate to describe the Text of ParcelDelivery.
 
 Use it like this: 
-- [ #has_/text_about_/tracking_number :: Text ] or 
-- [ has_text_about_tracking_number :: Text ] 
+- [ #has_/text_/on_/tracking_number :: Text ] or 
+- [ has_text_on_tracking_number :: Text ] 
 
 Shipper tracking number.
 
 Predicated describes that: 
 [ #has_/domain  :: ParcelDelivery ]
-( #has_/name :: has_text_about_tracking_number )
+( #has_/name :: has_text_on_tracking_number )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

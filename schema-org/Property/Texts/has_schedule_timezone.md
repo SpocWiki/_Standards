@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_schedule_timezone
-linkTitle: has_text_about_schedule_timezone
+title: has_text_on_schedule_timezone
+linkTitle: has_text_on_schedule_timezone
 
 keywords: [schedule, timezone]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - schedule-timezone
 - schedule_timezone
 - scheduleTimezone
-- has_text_about_schedule_timezone
+- has_text_on_schedule_timezone
 ---
 
 Predicate to describe the Text of Schedule.
@@ -36,14 +36,14 @@ Predicate to describe the Text of Schedule.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/schedule_timezone :: Text ] or 
-- [ has_text_about_schedule_timezone :: Text ] 
+- [ #has_/text_/on_/schedule_timezone :: Text ] or 
+- [ has_text_on_schedule_timezone :: Text ] 
 
 Indicates the timezone for which the time(s) indicated in the [[Schedule]] are given. The value provided should be among those listed in the IANA Time Zone Database.
 
 Predicated describes that: 
 [ #has_/domain  :: Schedule ]
-( #has_/name :: has_text_about_schedule_timezone )
+( #has_/name :: has_text_on_schedule_timezone )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

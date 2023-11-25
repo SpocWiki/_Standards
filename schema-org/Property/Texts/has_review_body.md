@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_review_body
-linkTitle: has_text_about_review_body
+title: has_text_on_review_body
+linkTitle: has_text_on_review_body
 
 keywords: [review, body]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - review-body
 - review_body
 - reviewBody
-- has_text_about_review_body
+- has_text_on_review_body
 ---
 
 Predicate to describe the Text of Review.
 
 Use it like this: 
-- [ #has_/text_about_/review_body :: Text ] or 
-- [ has_text_about_review_body :: Text ] 
+- [ #has_/text_/on_/review_body :: Text ] or 
+- [ has_text_on_review_body :: Text ] 
 
 The actual body of the review.
 
 Predicated describes that: 
 [ #has_/domain  :: Review ]
-( #has_/name :: has_text_about_review_body )
+( #has_/name :: has_text_on_review_body )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

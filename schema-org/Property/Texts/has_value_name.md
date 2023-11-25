@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_value_name
-linkTitle: has_text_about_value_name
+title: has_text_on_value_name
+linkTitle: has_text_on_value_name
 
 keywords: [value, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - value-name
 - value_name
 - valueName
-- has_text_about_value_name
+- has_text_on_value_name
 ---
 
 Predicate to describe the Text of PropertyValueSpecification.
 
 Use it like this: 
-- [ #has_/text_about_/value_name :: Text ] or 
-- [ has_text_about_value_name :: Text ] 
+- [ #has_/text_/on_/value_name :: Text ] or 
+- [ has_text_on_value_name :: Text ] 
 
 Indicates the name of the PropertyValueSpecification to be used in URL templates and form encoding in a manner analogous to HTML"s input@name.
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValueSpecification ]
-( #has_/name :: has_text_about_value_name )
+( #has_/name :: has_text_on_value_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

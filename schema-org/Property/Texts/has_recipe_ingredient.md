@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_recipe_ingredient
-linkTitle: has_text_about_recipe_ingredient
+title: has_text_on_recipe_ingredient
+linkTitle: has_text_on_recipe_ingredient
 
 keywords: [recipe, ingredient]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - recipe-ingredient
 - recipe_ingredient
 - recipeIngredient
-- has_text_about_recipe_ingredient
+- has_text_on_recipe_ingredient
 ---
 
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [ #has_/text_about_/recipe_ingredient :: Text ] or 
-- [ has_text_about_recipe_ingredient :: Text ] 
+- [ #has_/text_/on_/recipe_ingredient :: Text ] or 
+- [ has_text_on_recipe_ingredient :: Text ] 
 
 A single ingredient used in the recipe, e.g. sugar, flour or garlic.
 
 Predicated describes that: 
 [ #has_/domain  :: Recipe ]
-( #has_/name :: has_text_about_recipe_ingredient )
+( #has_/name :: has_text_on_recipe_ingredient )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: supply ]

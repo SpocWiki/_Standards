@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_molecular_formula
-linkTitle: has_text_about_molecular_formula
+title: has_text_on_molecular_formula
+linkTitle: has_text_on_molecular_formula
 
 keywords: [molecular, formula]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - molecular-formula
 - molecular_formula
 - molecularFormula
-- has_text_about_molecular_formula
+- has_text_on_molecular_formula
 ---
 
 Predicate to describe the Text of MolecularEntity.
@@ -36,14 +36,14 @@ Predicate to describe the Text of MolecularEntity.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/molecular_formula :: Text ] or 
-- [ has_text_about_molecular_formula :: Text ] 
+- [ #has_/text_/on_/molecular_formula :: Text ] or 
+- [ has_text_on_molecular_formula :: Text ] 
 
 The empirical formula is the simplest whole number ratio of all the atoms in a molecule.
 
 Predicated describes that: 
 [ #has_/domain  :: MolecularEntity ]
-( #has_/name :: has_text_about_molecular_formula )
+( #has_/name :: has_text_on_molecular_formula )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

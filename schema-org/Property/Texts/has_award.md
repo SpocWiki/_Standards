@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_award
-linkTitle: has_text_about_award
+title: has_text_on_award
+linkTitle: has_text_on_award
 
 keywords: [award]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - award
 - award
 - award
-- has_text_about_award
+- has_text_on_award
 ---
 
 Predicate to describe the Text of CreativeWork, Organization, Person, Product, Service.
 
 Use it like this: 
-- [ #has_/text_about_/award :: Text ] or 
-- [ has_text_about_award :: Text ] 
+- [ #has_/text_/on_/award :: Text ] or 
+- [ has_text_on_award :: Text ] 
 
 An award won by or for this item.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork, Organization, Person, Product, Service ]
-( #has_/name :: has_text_about_award )
+( #has_/name :: has_text_on_award )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

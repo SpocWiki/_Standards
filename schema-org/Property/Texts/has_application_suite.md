@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_application_suite
-linkTitle: has_text_about_application_suite
+title: has_text_on_application_suite
+linkTitle: has_text_on_application_suite
 
 keywords: [application, suite]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - application-suite
 - application_suite
 - applicationSuite
-- has_text_about_application_suite
+- has_text_on_application_suite
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_about_/application_suite :: Text ] or 
-- [ has_text_about_application_suite :: Text ] 
+- [ #has_/text_/on_/application_suite :: Text ] or 
+- [ has_text_on_application_suite :: Text ] 
 
 The name of the application suite to which the application belongs (e.g. Excel belongs to Office).
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_about_application_suite )
+( #has_/name :: has_text_on_application_suite )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

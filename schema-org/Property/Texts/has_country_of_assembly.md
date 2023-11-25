@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_country_of_assembly
-linkTitle: has_text_about_country_of_assembly
+title: has_text_on_country_of_assembly
+linkTitle: has_text_on_country_of_assembly
 
 keywords: [country, of, assembly]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - country-of-assembly
 - country_of_assembly
 - countryOfAssembly
-- has_text_about_country_of_assembly
+- has_text_on_country_of_assembly
 ---
 
 Predicate to describe the Text of Product.
@@ -36,14 +36,14 @@ Predicate to describe the Text of Product.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/country_of_assembly :: Text ] or 
-- [ has_text_about_country_of_assembly :: Text ] 
+- [ #has_/text_/on_/country_of_assembly :: Text ] or 
+- [ has_text_on_country_of_assembly :: Text ] 
 
 The place where the product was assembled.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: has_text_about_country_of_assembly )
+( #has_/name :: has_text_on_country_of_assembly )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

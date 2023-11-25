@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_dependencies
-linkTitle: has_text_about_dependencies
+title: has_text_on_dependencies
+linkTitle: has_text_on_dependencies
 
 keywords: [dependencies]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - dependencies
 - dependencies
 - dependencies
-- has_text_about_dependencies
+- has_text_on_dependencies
 ---
 
 Predicate to describe the Text of TechArticle.
 
 Use it like this: 
-- [ #has_/text_about_/dependencies :: Text ] or 
-- [ has_text_about_dependencies :: Text ] 
+- [ #has_/text_/on_/dependencies :: Text ] or 
+- [ has_text_on_dependencies :: Text ] 
 
 Prerequisites needed to fulfill steps in article.
 
 Predicated describes that: 
 [ #has_/domain  :: TechArticle ]
-( #has_/name :: has_text_about_dependencies )
+( #has_/name :: has_text_on_dependencies )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

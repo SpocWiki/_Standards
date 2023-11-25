@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_diet_features
-linkTitle: has_text_about_diet_features
+title: has_text_on_diet_features
+linkTitle: has_text_on_diet_features
 
 keywords: [diet, features]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - diet-features
 - diet_features
 - dietFeatures
-- has_text_about_diet_features
+- has_text_on_diet_features
 ---
 
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_about_/diet_features :: Text ] or 
-- [ has_text_about_diet_features :: Text ] 
+- [ #has_/text_/on_/diet_features :: Text ] or 
+- [ has_text_on_diet_features :: Text ] 
 
 Nutritional information specific to the dietary plan. May include dietary recommendations on what foods to avoid, what foods to consume, and specific alterations/deviations from the USDA or other regulatory body"s approved dietary guidelines.
 
 Predicated describes that: 
 [ #has_/domain  :: Diet ]
-( #has_/name :: has_text_about_diet_features )
+( #has_/name :: has_text_on_diet_features )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

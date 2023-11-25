@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_original_media_context_description
-linkTitle: has_text_about_original_media_context_description
+title: has_text_on_original_media_context_description
+linkTitle: has_text_on_original_media_context_description
 
 keywords: [original, media, context, description]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - original-media-context-description
 - original_media_context_description
 - originalMediaContextDescription
-- has_text_about_original_media_context_description
+- has_text_on_original_media_context_description
 ---
 
 Predicate to describe the Text of MediaReview.
@@ -36,14 +36,14 @@ Predicate to describe the Text of MediaReview.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_about_/original_media_context_description :: Text ] or 
-- [ has_text_about_original_media_context_description :: Text ] 
+- [ #has_/text_/on_/original_media_context_description :: Text ] or 
+- [ has_text_on_original_media_context_description :: Text ] 
 
 Describes, in a [[MediaReview]] when dealing with [[DecontextualizedContent]], background information that can contribute to better interpretation of the [[MediaObject]].
 
 Predicated describes that: 
 [ #has_/domain  :: MediaReview ]
-( #has_/name :: has_text_about_original_media_context_description )
+( #has_/name :: has_text_on_original_media_context_description )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: description ]

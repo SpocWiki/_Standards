@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_exercise_type
-linkTitle: has_text_about_exercise_type
+title: has_text_on_exercise_type
+linkTitle: has_text_on_exercise_type
 
 keywords: [exercise, type]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - exercise-type
 - exercise_type
 - exerciseType
-- has_text_about_exercise_type
+- has_text_on_exercise_type
 ---
 
 Predicate to describe the Text of ExerciseAction, ExercisePlan.
 
 Use it like this: 
-- [ #has_/text_about_/exercise_type :: Text ] or 
-- [ has_text_about_exercise_type :: Text ] 
+- [ #has_/text_/on_/exercise_type :: Text ] or 
+- [ has_text_on_exercise_type :: Text ] 
 
 Type(s) of exercise or activity, such as strength training, flexibility training, aerobics, cardiac rehabilitation, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: ExerciseAction, ExercisePlan ]
-( #has_/name :: has_text_about_exercise_type )
+( #has_/name :: has_text_on_exercise_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

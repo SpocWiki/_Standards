@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_polygon
-linkTitle: has_text_about_polygon
+title: has_text_on_polygon
+linkTitle: has_text_on_polygon
 
 keywords: [polygon]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - polygon
 - polygon
 - polygon
-- has_text_about_polygon
+- has_text_on_polygon
 ---
 
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [ #has_/text_about_/polygon :: Text ] or 
-- [ has_text_about_polygon :: Text ] 
+- [ #has_/text_/on_/polygon :: Text ] or 
+- [ has_text_on_polygon :: Text ] 
 
 A polygon is the area enclosed by a point-to-point path for which the starting and ending points are the same. A polygon is expressed as a series of four or more space delimited points where the first and final points are identical.
 
 Predicated describes that: 
 [ #has_/domain  :: GeoShape ]
-( #has_/name :: has_text_about_polygon )
+( #has_/name :: has_text_on_polygon )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

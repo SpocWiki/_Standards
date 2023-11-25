@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_responsibilities
-linkTitle: has_text_about_responsibilities
+title: has_text_on_responsibilities
+linkTitle: has_text_on_responsibilities
 
 keywords: [responsibilities]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - responsibilities
 - responsibilities
 - responsibilities
-- has_text_about_responsibilities
+- has_text_on_responsibilities
 ---
 
 Predicate to describe the Text of JobPosting, Occupation.
 
 Use it like this: 
-- [ #has_/text_about_/responsibilities :: Text ] or 
-- [ has_text_about_responsibilities :: Text ] 
+- [ #has_/text_/on_/responsibilities :: Text ] or 
+- [ has_text_on_responsibilities :: Text ] 
 
 Responsibilities associated with this role or Occupation.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting, Occupation ]
-( #has_/name :: has_text_about_responsibilities )
+( #has_/name :: has_text_on_responsibilities )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

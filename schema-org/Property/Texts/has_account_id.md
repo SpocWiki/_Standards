@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_account_id
-linkTitle: has_text_about_account_id
+title: has_text_on_account_id
+linkTitle: has_text_on_account_id
 
 keywords: [account, id]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - account-id
 - account_id
 - accountId
-- has_text_about_account_id
+- has_text_on_account_id
 ---
 
 Predicate to describe the Text of Invoice.
 
 Use it like this: 
-- [ #has_/text_about_/account_id :: Text ] or 
-- [ has_text_about_account_id :: Text ] 
+- [ #has_/text_/on_/account_id :: Text ] or 
+- [ has_text_on_account_id :: Text ] 
 
 The identifier for the account the payment will be applied to.
 
 Predicated describes that: 
 [ #has_/domain  :: Invoice ]
-( #has_/name :: has_text_about_account_id )
+( #has_/name :: has_text_on_account_id )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

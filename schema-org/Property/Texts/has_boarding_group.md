@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_boarding_group
-linkTitle: has_text_about_boarding_group
+title: has_text_on_boarding_group
+linkTitle: has_text_on_boarding_group
 
 keywords: [boarding, group]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - boarding-group
 - boarding_group
 - boardingGroup
-- has_text_about_boarding_group
+- has_text_on_boarding_group
 ---
 
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- [ #has_/text_about_/boarding_group :: Text ] or 
-- [ has_text_about_boarding_group :: Text ] 
+- [ #has_/text_/on_/boarding_group :: Text ] or 
+- [ has_text_on_boarding_group :: Text ] 
 
 The airline-specific indicator of boarding order / preference.
 
 Predicated describes that: 
 [ #has_/domain  :: FlightReservation ]
-( #has_/name :: has_text_about_boarding_group )
+( #has_/name :: has_text_on_boarding_group )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

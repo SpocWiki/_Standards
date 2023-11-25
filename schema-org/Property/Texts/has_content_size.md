@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_content_size
-linkTitle: has_text_about_content_size
+title: has_text_on_content_size
+linkTitle: has_text_on_content_size
 
 keywords: [content, size]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - content-size
 - content_size
 - contentSize
-- has_text_about_content_size
+- has_text_on_content_size
 ---
 
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- [ #has_/text_about_/content_size :: Text ] or 
-- [ has_text_about_content_size :: Text ] 
+- [ #has_/text_/on_/content_size :: Text ] or 
+- [ has_text_on_content_size :: Text ] 
 
 File size in (mega/kilo)bytes.
 
 Predicated describes that: 
 [ #has_/domain  :: MediaObject ]
-( #has_/name :: has_text_about_content_size )
+( #has_/name :: has_text_on_content_size )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

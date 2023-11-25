@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_about_broadcast_timezone
-linkTitle: has_text_about_broadcast_timezone
+title: has_text_on_broadcast_timezone
+linkTitle: has_text_on_broadcast_timezone
 
 keywords: [broadcast, timezone]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - broadcast-timezone
 - broadcast_timezone
 - broadcastTimezone
-- has_text_about_broadcast_timezone
+- has_text_on_broadcast_timezone
 ---
 
 Predicate to describe the Text of BroadcastService.
 
 Use it like this: 
-- [ #has_/text_about_/broadcast_timezone :: Text ] or 
-- [ has_text_about_broadcast_timezone :: Text ] 
+- [ #has_/text_/on_/broadcast_timezone :: Text ] or 
+- [ has_text_on_broadcast_timezone :: Text ] 
 
 The timezone in [ISO 8601 format](http://en.wikipedia.org/wiki/ISO_8601) for which the service bases its broadcasts.
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastService ]
-( #has_/name :: has_text_about_broadcast_timezone )
+( #has_/name :: has_text_on_broadcast_timezone )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
