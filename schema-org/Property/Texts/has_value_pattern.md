@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_value_pattern
-linkTitle: has_text_on_value_pattern
+title: has_text_of_value_pattern
+linkTitle: has_text_of_value_pattern
 
 keywords: [value, pattern]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - value-pattern
 - value_pattern
 - valuePattern
-- has_text_on_value_pattern
+- has_text_of_value_pattern
 ---
 
 Predicate to describe the Text of PropertyValueSpecification.
 
 Use it like this: 
-- [ #has_/text_/on_/value_pattern :: Text ] or 
-- [ has_text_on_value_pattern :: Text ] 
+- [ #has_/text_/of_/value_pattern :: Text ] or 
+- [ has_text_of_value_pattern :: Text ] 
 
 Specifies a regular expression for testing literal values according to the HTML spec.
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValueSpecification ]
-( #has_/name :: has_text_on_value_pattern )
+( #has_/name :: has_text_of_value_pattern )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

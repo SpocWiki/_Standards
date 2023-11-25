@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_iupac_name
-linkTitle: has_text_on_iupac_name
+title: has_text_of_iupac_name
+linkTitle: has_text_of_iupac_name
 
 keywords: [iupac, name]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - iupac-name
 - iupac_name
 - iupacName
-- has_text_on_iupac_name
+- has_text_of_iupac_name
 ---
 
 Predicate to describe the Text of MolecularEntity.
@@ -36,14 +36,14 @@ Predicate to describe the Text of MolecularEntity.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/iupac_name :: Text ] or 
-- [ has_text_on_iupac_name :: Text ] 
+- [ #has_/text_/of_/iupac_name :: Text ] or 
+- [ has_text_of_iupac_name :: Text ] 
 
 Systematic method of naming chemical compounds as recommended by the International Union of Pure and Applied Chemistry (IUPAC).
 
 Predicated describes that: 
 [ #has_/domain  :: MolecularEntity ]
-( #has_/name :: has_text_on_iupac_name )
+( #has_/name :: has_text_of_iupac_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

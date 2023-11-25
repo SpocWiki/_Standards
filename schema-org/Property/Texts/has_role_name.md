@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_role_name
-linkTitle: has_text_on_role_name
+title: has_text_of_role_name
+linkTitle: has_text_of_role_name
 
 keywords: [role, name]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - role-name
 - role_name
 - roleName
-- has_text_on_role_name
+- has_text_of_role_name
 ---
 
 Predicate to describe the Text of Role.
 
 Use it like this: 
-- [ #has_/text_/on_/role_name :: Text, URL ] or 
-- [ has_text_on_role_name :: Text, URL ] 
+- [ #has_/text_/of_/role_name :: Text, URL ] or 
+- [ has_text_of_role_name :: Text, URL ] 
 
 A role played, performed or filled by a person or organization. For example, the team of creators for a comic book might fill the roles named "inker", "penciller", and "letterer"; or an athlete in a SportsTeam might play in the position named "Quarterback".
 
 Predicated describes that: 
 [ #has_/domain  :: Role ]
-( #has_/name :: has_text_on_role_name )
+( #has_/name :: has_text_of_role_name )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

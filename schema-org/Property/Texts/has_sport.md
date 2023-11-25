@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_sport
-linkTitle: has_text_on_sport
+title: has_text_of_sport
+linkTitle: has_text_of_sport
 
 keywords: [sport]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - sport
 - sport
 - sport
-- has_text_on_sport
+- has_text_of_sport
 ---
 
 Predicate to describe the Text of SportsEvent, SportsOrganization.
@@ -36,14 +36,14 @@ Predicate to describe the Text of SportsEvent, SportsOrganization.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/sport :: Text, URL ] or 
-- [ has_text_on_sport :: Text, URL ] 
+- [ #has_/text_/of_/sport :: Text, URL ] or 
+- [ has_text_of_sport :: Text, URL ] 
 
 A type of sport (e.g. Baseball).
 
 Predicated describes that: 
 [ #has_/domain  :: SportsEvent, SportsOrganization ]
-( #has_/name :: has_text_on_sport )
+( #has_/name :: has_text_of_sport )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

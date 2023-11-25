@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_significance
-linkTitle: has_text_on_significance
+title: has_text_of_significance
+linkTitle: has_text_of_significance
 
 keywords: [significance]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - significance
 - significance
 - significance
-- has_text_on_significance
+- has_text_of_significance
 ---
 
 Predicate to describe the Text of SuperficialAnatomy.
 
 Use it like this: 
-- [ #has_/text_/on_/significance :: Text ] or 
-- [ has_text_on_significance :: Text ] 
+- [ #has_/text_/of_/significance :: Text ] or 
+- [ has_text_of_significance :: Text ] 
 
 The significance associated with the superficial anatomy; as an example, how characteristics of the superficial anatomy can suggest underlying medical conditions or courses of treatment.
 
 Predicated describes that: 
 [ #has_/domain  :: SuperficialAnatomy ]
-( #has_/name :: has_text_on_significance )
+( #has_/name :: has_text_of_significance )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

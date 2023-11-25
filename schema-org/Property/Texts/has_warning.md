@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_warning
-linkTitle: has_text_on_warning
+title: has_text_of_warning
+linkTitle: has_text_of_warning
 
 keywords: [warning]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - warning
 - warning
 - warning
-- has_text_on_warning
+- has_text_of_warning
 ---
 
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_/on_/warning :: Text, URL ] or 
-- [ has_text_on_warning :: Text, URL ] 
+- [ #has_/text_/of_/warning :: Text, URL ] or 
+- [ has_text_of_warning :: Text, URL ] 
 
 Any FDA or other warnings about the drug (text or URL).
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: has_text_on_warning )
+( #has_/name :: has_text_of_warning )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

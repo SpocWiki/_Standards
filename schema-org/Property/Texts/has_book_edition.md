@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_book_edition
-linkTitle: has_text_on_book_edition
+title: has_text_of_book_edition
+linkTitle: has_text_of_book_edition
 
 keywords: [book, edition]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - book-edition
 - book_edition
 - bookEdition
-- has_text_on_book_edition
+- has_text_of_book_edition
 ---
 
 Predicate to describe the Text of Book.
 
 Use it like this: 
-- [ #has_/text_/on_/book_edition :: Text ] or 
-- [ has_text_on_book_edition :: Text ] 
+- [ #has_/text_/of_/book_edition :: Text ] or 
+- [ has_text_of_book_edition :: Text ] 
 
 The edition of the book.
 
 Predicated describes that: 
 [ #has_/domain  :: Book ]
-( #has_/name :: has_text_on_book_edition )
+( #has_/name :: has_text_of_book_edition )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

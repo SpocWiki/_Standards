@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_isic_v4
-linkTitle: has_text_on_isic_v4
+title: has_text_of_isic_v4
+linkTitle: has_text_of_isic_v4
 
 keywords: [isic, v4]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - isic-v4
 - isic_v4
 - isicV4
-- has_text_on_isic_v4
+- has_text_of_isic_v4
 ---
 
 Predicate to describe the Text of Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/text_/on_/isic_v4 :: Text ] or 
-- [ has_text_on_isic_v4 :: Text ] 
+- [ #has_/text_/of_/isic_v4 :: Text ] or 
+- [ has_text_of_isic_v4 :: Text ] 
 
 ISIC(International Standard of Industrial Classification of All Economic Activities) Revision 4 code for a particular organization, business person, or place.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person, Place ]
-( #has_/name :: has_text_on_isic_v4 )
+( #has_/name :: has_text_of_isic_v4 )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

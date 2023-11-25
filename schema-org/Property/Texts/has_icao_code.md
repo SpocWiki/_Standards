@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_icao_code
-linkTitle: has_text_on_icao_code
+title: has_text_of_icao_code
+linkTitle: has_text_of_icao_code
 
 keywords: [icao, code]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - icao-code
 - icao_code
 - icaoCode
-- has_text_on_icao_code
+- has_text_of_icao_code
 ---
 
 Predicate to describe the Text of Airport.
 
 Use it like this: 
-- [ #has_/text_/on_/icao_code :: Text ] or 
-- [ has_text_on_icao_code :: Text ] 
+- [ #has_/text_/of_/icao_code :: Text ] or 
+- [ has_text_of_icao_code :: Text ] 
 
 ICAO identifier for an airport.
 
 Predicated describes that: 
 [ #has_/domain  :: Airport ]
-( #has_/name :: has_text_on_icao_code )
+( #has_/name :: has_text_of_icao_code )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

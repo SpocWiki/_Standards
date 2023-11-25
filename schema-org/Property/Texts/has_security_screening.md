@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_security_screening
-linkTitle: has_text_on_security_screening
+title: has_text_of_security_screening
+linkTitle: has_text_of_security_screening
 
 keywords: [security, screening]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - security-screening
 - security_screening
 - securityScreening
-- has_text_on_security_screening
+- has_text_of_security_screening
 ---
 
 Predicate to describe the Text of FlightReservation.
 
 Use it like this: 
-- [ #has_/text_/on_/security_screening :: Text ] or 
-- [ has_text_on_security_screening :: Text ] 
+- [ #has_/text_/of_/security_screening :: Text ] or 
+- [ has_text_of_security_screening :: Text ] 
 
 The type of security screening the passenger is subject to.
 
 Predicated describes that: 
 [ #has_/domain  :: FlightReservation ]
-( #has_/name :: has_text_on_security_screening )
+( #has_/name :: has_text_of_security_screening )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_print_column
-linkTitle: has_text_on_print_column
+title: has_text_of_print_column
+linkTitle: has_text_of_print_column
 
 keywords: [print, column]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - print-column
 - print_column
 - printColumn
-- has_text_on_print_column
+- has_text_of_print_column
 ---
 
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [ #has_/text_/on_/print_column :: Text ] or 
-- [ has_text_on_print_column :: Text ] 
+- [ #has_/text_/of_/print_column :: Text ] or 
+- [ has_text_of_print_column :: Text ] 
 
 The number of the column in which the NewsArticle appears in the print edition.
 
 Predicated describes that: 
 [ #has_/domain  :: NewsArticle ]
-( #has_/name :: has_text_on_print_column )
+( #has_/name :: has_text_of_print_column )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

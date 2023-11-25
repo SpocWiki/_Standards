@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_broadcast_service_tier
-linkTitle: has_text_on_broadcast_service_tier
+title: has_text_of_broadcast_service_tier
+linkTitle: has_text_of_broadcast_service_tier
 
 keywords: [broadcast, service, tier]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - broadcast-service-tier
 - broadcast_service_tier
 - broadcastServiceTier
-- has_text_on_broadcast_service_tier
+- has_text_of_broadcast_service_tier
 ---
 
 Predicate to describe the Text of BroadcastChannel.
 
 Use it like this: 
-- [ #has_/text_/on_/broadcast_service_tier :: Text ] or 
-- [ has_text_on_broadcast_service_tier :: Text ] 
+- [ #has_/text_/of_/broadcast_service_tier :: Text ] or 
+- [ has_text_of_broadcast_service_tier :: Text ] 
 
 The type of service required to have access to the channel (e.g. Standard or Premium).
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastChannel ]
-( #has_/name :: has_text_on_broadcast_service_tier )
+( #has_/name :: has_text_of_broadcast_service_tier )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

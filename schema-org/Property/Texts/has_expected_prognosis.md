@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_expected_prognosis
-linkTitle: has_text_on_expected_prognosis
+title: has_text_of_expected_prognosis
+linkTitle: has_text_of_expected_prognosis
 
 keywords: [expected, prognosis]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - expected-prognosis
 - expected_prognosis
 - expectedPrognosis
-- has_text_on_expected_prognosis
+- has_text_of_expected_prognosis
 ---
 
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- [ #has_/text_/on_/expected_prognosis :: Text ] or 
-- [ has_text_on_expected_prognosis :: Text ] 
+- [ #has_/text_/of_/expected_prognosis :: Text ] or 
+- [ has_text_of_expected_prognosis :: Text ] 
 
 The likely outcome in either the short term or long term of the medical condition.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition ]
-( #has_/name :: has_text_on_expected_prognosis )
+( #has_/name :: has_text_of_expected_prognosis )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

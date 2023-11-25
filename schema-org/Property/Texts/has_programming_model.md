@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_programming_model
-linkTitle: has_text_on_programming_model
+title: has_text_of_programming_model
+linkTitle: has_text_of_programming_model
 
 keywords: [programming, model]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - programming-model
 - programming_model
 - programmingModel
-- has_text_on_programming_model
+- has_text_of_programming_model
 ---
 
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [ #has_/text_/on_/programming_model :: Text ] or 
-- [ has_text_on_programming_model :: Text ] 
+- [ #has_/text_/of_/programming_model :: Text ] or 
+- [ has_text_of_programming_model :: Text ] 
 
 Indicates whether API is managed or unmanaged.
 
 Predicated describes that: 
 [ #has_/domain  :: APIReference ]
-( #has_/name :: has_text_on_programming_model )
+( #has_/name :: has_text_of_programming_model )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

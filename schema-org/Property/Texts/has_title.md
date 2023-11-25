@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_title
-linkTitle: has_text_on_title
+title: has_text_of_title
+linkTitle: has_text_of_title
 
 keywords: [title]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - title
 - title
 - title
-- has_text_on_title
+- has_text_of_title
 ---
 
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_/on_/title :: Text ] or 
-- [ has_text_on_title :: Text ] 
+- [ #has_/text_/of_/title :: Text ] or 
+- [ has_text_of_title :: Text ] 
 
 The title of the job.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: has_text_on_title )
+( #has_/name :: has_text_of_title )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

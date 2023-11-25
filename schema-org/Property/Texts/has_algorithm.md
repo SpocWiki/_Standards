@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_algorithm
-linkTitle: has_text_on_algorithm
+title: has_text_of_algorithm
+linkTitle: has_text_of_algorithm
 
 keywords: [algorithm]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - algorithm
 - algorithm
 - algorithm
-- has_text_on_algorithm
+- has_text_of_algorithm
 ---
 
 Predicate to describe the Text of MedicalRiskScore.
 
 Use it like this: 
-- [ #has_/text_/on_/algorithm :: Text ] or 
-- [ has_text_on_algorithm :: Text ] 
+- [ #has_/text_/of_/algorithm :: Text ] or 
+- [ has_text_of_algorithm :: Text ] 
 
 The algorithm or rules to follow to compute the score.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalRiskScore ]
-( #has_/name :: has_text_on_algorithm )
+( #has_/name :: has_text_of_algorithm )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

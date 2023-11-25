@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_job_benefits
-linkTitle: has_text_on_job_benefits
+title: has_text_of_job_benefits
+linkTitle: has_text_of_job_benefits
 
 keywords: [job, benefits]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - job-benefits
 - job_benefits
 - jobBenefits
-- has_text_on_job_benefits
+- has_text_of_job_benefits
 ---
 
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_/on_/job_benefits :: Text ] or 
-- [ has_text_on_job_benefits :: Text ] 
+- [ #has_/text_/of_/job_benefits :: Text ] or 
+- [ has_text_of_job_benefits :: Text ] 
 
 Description of benefits associated with the job.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: has_text_on_job_benefits )
+( #has_/name :: has_text_of_job_benefits )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

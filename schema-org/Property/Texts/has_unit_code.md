@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_unit_code
-linkTitle: has_text_on_unit_code
+title: has_text_of_unit_code
+linkTitle: has_text_of_unit_code
 
 keywords: [unit, code]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - unit-code
 - unit_code
 - unitCode
-- has_text_on_unit_code
+- has_text_of_unit_code
 ---
 
 Predicate to describe the Text of PropertyValue, QuantitativeValue, TypeAndQuantityNode, UnitPriceSpecification.
 
 Use it like this: 
-- [ #has_/text_/on_/unit_code :: Text, URL ] or 
-- [ has_text_on_unit_code :: Text, URL ] 
+- [ #has_/text_/of_/unit_code :: Text, URL ] or 
+- [ has_text_of_unit_code :: Text, URL ] 
 
 The unit of measurement given using the UN/CEFACT Common Code (3 characters) or a URL. Other codes than the UN/CEFACT Common Code may be used with a prefix followed by a colon.
 
 Predicated describes that: 
 [ #has_/domain  :: [[../../Class/is_a_/Intangible/structured_value/property_value|property_value]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|quantitative_value]], [[../../Class/is_a_/Intangible/structured_value/type_and_quantity_node|type_and_quantity_node]], [[../../Class/is_a_/Intangible/structured_value/price_specification/unit_price_specification|unit_price_specification]] ]
-( #has_/name :: has_text_on_unit_code )
+( #has_/name :: has_text_of_unit_code )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

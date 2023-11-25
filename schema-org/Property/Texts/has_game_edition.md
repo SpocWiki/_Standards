@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_game_edition
-linkTitle: has_text_on_game_edition
+title: has_text_of_game_edition
+linkTitle: has_text_of_game_edition
 
 keywords: [game, edition]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - game-edition
 - game_edition
 - gameEdition
-- has_text_on_game_edition
+- has_text_of_game_edition
 ---
 
 Predicate to describe the Text of VideoGame.
 
 Use it like this: 
-- [ #has_/text_/on_/game_edition :: Text ] or 
-- [ has_text_on_game_edition :: Text ] 
+- [ #has_/text_/of_/game_edition :: Text ] or 
+- [ has_text_of_game_edition :: Text ] 
 
 The edition of a video game.
 
 Predicated describes that: 
 [ #has_/domain  :: VideoGame ]
-( #has_/name :: has_text_on_game_edition )
+( #has_/name :: has_text_of_game_edition )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

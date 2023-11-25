@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_safety_consideration
-linkTitle: has_text_on_safety_consideration
+title: has_text_of_safety_consideration
+linkTitle: has_text_of_safety_consideration
 
 keywords: [safety, consideration]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - safety-consideration
 - safety_consideration
 - safetyConsideration
-- has_text_on_safety_consideration
+- has_text_of_safety_consideration
 ---
 
 Predicate to describe the Text of DietarySupplement.
 
 Use it like this: 
-- [ #has_/text_/on_/safety_consideration :: Text ] or 
-- [ has_text_on_safety_consideration :: Text ] 
+- [ #has_/text_/of_/safety_consideration :: Text ] or 
+- [ has_text_of_safety_consideration :: Text ] 
 
 Any potential safety concern associated with the supplement. May include interactions with other drugs and foods, pregnancy, breastfeeding, known adverse reactions, and documented efficacy of the supplement.
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement ]
-( #has_/name :: has_text_on_safety_consideration )
+( #has_/name :: has_text_of_safety_consideration )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

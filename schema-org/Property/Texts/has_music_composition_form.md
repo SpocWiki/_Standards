@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_music_composition_form
-linkTitle: has_text_on_music_composition_form
+title: has_text_of_music_composition_form
+linkTitle: has_text_of_music_composition_form
 
 keywords: [music, composition, form]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - music-composition-form
 - music_composition_form
 - musicCompositionForm
-- has_text_on_music_composition_form
+- has_text_of_music_composition_form
 ---
 
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- [ #has_/text_/on_/music_composition_form :: Text ] or 
-- [ has_text_on_music_composition_form :: Text ] 
+- [ #has_/text_/of_/music_composition_form :: Text ] or 
+- [ has_text_of_music_composition_form :: Text ] 
 
 The type of composition (e.g. overture, sonata, symphony, etc.).
 
 Predicated describes that: 
 [ #has_/domain  :: MusicComposition ]
-( #has_/name :: has_text_on_music_composition_form )
+( #has_/name :: has_text_of_music_composition_form )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

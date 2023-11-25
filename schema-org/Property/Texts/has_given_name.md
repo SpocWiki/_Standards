@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_given_name
-linkTitle: has_text_on_given_name
+title: has_text_of_given_name
+linkTitle: has_text_of_given_name
 
 keywords: [given, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - given-name
 - given_name
 - givenName
-- has_text_on_given_name
+- has_text_of_given_name
 ---
 
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text_/on_/given_name :: Text ] or 
-- [ has_text_on_given_name :: Text ] 
+- [ #has_/text_/of_/given_name :: Text ] or 
+- [ has_text_of_given_name :: Text ] 
 
 Given name. In the U.S., the first name of a Person.
 
 Predicated describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: has_text_on_given_name )
+( #has_/name :: has_text_of_given_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

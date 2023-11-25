@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_terms_of_service
-linkTitle: has_text_on_terms_of_service
+title: has_text_of_terms_of_service
+linkTitle: has_text_of_terms_of_service
 
 keywords: [terms, of, service]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - terms-of-service
 - terms_of_service
 - termsOfService
-- has_text_on_terms_of_service
+- has_text_of_terms_of_service
 ---
 
 Predicate to describe the Text of Service.
@@ -36,14 +36,14 @@ Predicate to describe the Text of Service.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/terms_of_service :: Text, URL ] or 
-- [ has_text_on_terms_of_service :: Text, URL ] 
+- [ #has_/text_/of_/terms_of_service :: Text, URL ] or 
+- [ has_text_of_terms_of_service :: Text, URL ] 
 
 Human-readable terms of service documentation.
 
 Predicated describes that: 
 [ #has_/domain  :: Service ]
-( #has_/name :: has_text_on_terms_of_service )
+( #has_/name :: has_text_of_terms_of_service )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

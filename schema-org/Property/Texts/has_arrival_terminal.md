@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_arrival_terminal
-linkTitle: has_text_on_arrival_terminal
+title: has_text_of_arrival_terminal
+linkTitle: has_text_of_arrival_terminal
 
 keywords: [arrival, terminal]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - arrival-terminal
 - arrival_terminal
 - arrivalTerminal
-- has_text_on_arrival_terminal
+- has_text_of_arrival_terminal
 ---
 
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- [ #has_/text_/on_/arrival_terminal :: Text ] or 
-- [ has_text_on_arrival_terminal :: Text ] 
+- [ #has_/text_/of_/arrival_terminal :: Text ] or 
+- [ has_text_of_arrival_terminal :: Text ] 
 
 Identifier of the flight"s arrival terminal.
 
 Predicated describes that: 
 [ #has_/domain  :: Flight ]
-( #has_/name :: has_text_on_arrival_terminal )
+( #has_/name :: has_text_of_arrival_terminal )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

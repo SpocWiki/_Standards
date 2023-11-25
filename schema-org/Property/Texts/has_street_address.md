@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_street_address
-linkTitle: has_text_on_street_address
+title: has_text_of_street_address
+linkTitle: has_text_of_street_address
 
 keywords: [street, address]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - street-address
 - street_address
 - streetAddress
-- has_text_on_street_address
+- has_text_of_street_address
 ---
 
 Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
-- [ #has_/text_/on_/street_address :: Text ] or 
-- [ has_text_on_street_address :: Text ] 
+- [ #has_/text_/of_/street_address :: Text ] or 
+- [ has_text_of_street_address :: Text ] 
 
 The street address. For example, 1600 Amphitheatre Pkwy.
 
 Predicated describes that: 
 [ #has_/domain  :: PostalAddress ]
-( #has_/name :: has_text_on_street_address )
+( #has_/name :: has_text_of_street_address )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

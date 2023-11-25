@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_http_method
-linkTitle: has_text_on_http_method
+title: has_text_of_http_method
+linkTitle: has_text_of_http_method
 
 keywords: [http, method]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - http-method
 - http_method
 - httpMethod
-- has_text_on_http_method
+- has_text_of_http_method
 ---
 
 Predicate to describe the Text of EntryPoint.
 
 Use it like this: 
-- [ #has_/text_/on_/http_method :: Text ] or 
-- [ has_text_on_http_method :: Text ] 
+- [ #has_/text_/of_/http_method :: Text ] or 
+- [ has_text_of_http_method :: Text ] 
 
 An HTTP method that specifies the appropriate HTTP method for a request to an HTTP EntryPoint. Values are capitalized strings as used in HTTP.
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
-( #has_/name :: has_text_on_http_method )
+( #has_/name :: has_text_of_http_method )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

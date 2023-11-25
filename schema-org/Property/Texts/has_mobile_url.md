@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_mobile_url
-linkTitle: has_text_on_mobile_url
+title: has_text_of_mobile_url
+linkTitle: has_text_of_mobile_url
 
 keywords: [mobile, url]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - mobile-url
 - mobile_url
 - mobileUrl
-- has_text_on_mobile_url
+- has_text_of_mobile_url
 ---
 
 Predicate to describe the Text of Offer, Product.
@@ -36,8 +36,8 @@ Predicate to describe the Text of Offer, Product.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/mobile_url :: Text ] or 
-- [ has_text_on_mobile_url :: Text ] 
+- [ #has_/text_/of_/mobile_url :: Text ] or 
+- [ has_text_of_mobile_url :: Text ] 
 
 The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated "mobile site".
 
@@ -45,7 +45,7 @@ To discourage over-use, and reflecting intial usecases, the property is expected
 
 Predicated describes that: 
 [ #has_/domain  :: [[Offer](../../Class/is_a_/intangible/offer.md), [Product](../../Class/is_a_/product.md)] ]
-( #has_/name :: has_text_on_mobile_url )
+( #has_/name :: has_text_of_mobile_url )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_address_region
-linkTitle: has_text_on_address_region
+title: has_text_of_address_region
+linkTitle: has_text_of_address_region
 
 keywords: [address, region]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - address-region
 - address_region
 - addressRegion
-- has_text_on_address_region
+- has_text_of_address_region
 ---
 
 Predicate to describe the Text of DefinedRegion, PostalAddress.
 
 Use it like this: 
-- [ #has_/text_/on_/address_region :: Text ] or 
-- [ has_text_on_address_region :: Text ] 
+- [ #has_/text_/of_/address_region :: Text ] or 
+- [ has_text_of_address_region :: Text ] 
 
 The region in which the locality is, and which is in the country. For example, California or another appropriate first-level [Administrative division](https://en.wikipedia.org/wiki/List_of_administrative_divisions_by_country).
 
 Predicated describes that: 
 [ #has_/domain  :: DefinedRegion, PostalAddress ]
-( #has_/name :: has_text_on_address_region )
+( #has_/name :: has_text_of_address_region )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_rxcui
-linkTitle: has_text_on_rxcui
+title: has_text_of_rxcui
+linkTitle: has_text_of_rxcui
 
 keywords: [rxcui]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - rxcui
 - rxcui
 - rxcui
-- has_text_on_rxcui
+- has_text_of_rxcui
 ---
 
 Predicate to describe the Text of Drug.
@@ -36,14 +36,14 @@ Predicate to describe the Text of Drug.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/rxcui :: Text ] or 
-- [ has_text_on_rxcui :: Text ] 
+- [ #has_/text_/of_/rxcui :: Text ] or 
+- [ has_text_of_rxcui :: Text ] 
 
 The RxCUI drug identifier from RXNORM.
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: has_text_on_rxcui )
+( #has_/name :: has_text_of_rxcui )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

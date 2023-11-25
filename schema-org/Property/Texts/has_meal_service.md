@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_meal_service
-linkTitle: has_text_on_meal_service
+title: has_text_of_meal_service
+linkTitle: has_text_of_meal_service
 
 keywords: [meal, service]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - meal-service
 - meal_service
 - mealService
-- has_text_on_meal_service
+- has_text_of_meal_service
 ---
 
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- [ #has_/text_/on_/meal_service :: Text ] or 
-- [ has_text_on_meal_service :: Text ] 
+- [ #has_/text_/of_/meal_service :: Text ] or 
+- [ has_text_of_meal_service :: Text ] 
 
 Description of the meals that will be provided or available for purchase.
 
 Predicated describes that: 
 [ #has_/domain  :: Flight ]
-( #has_/name :: has_text_on_meal_service )
+( #has_/name :: has_text_of_meal_service )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

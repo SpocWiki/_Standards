@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_feature_list
-linkTitle: has_text_on_feature_list
+title: has_text_of_feature_list
+linkTitle: has_text_of_feature_list
 
 keywords: [feature, list]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - feature-list
 - feature_list
 - featureList
-- has_text_on_feature_list
+- has_text_of_feature_list
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/on_/feature_list :: Text, URL ] or 
-- [ has_text_on_feature_list :: Text, URL ] 
+- [ #has_/text_/of_/feature_list :: Text, URL ] or 
+- [ has_text_of_feature_list :: Text, URL ] 
 
 Features or modules provided by this application (and possibly required by other applications).
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_on_feature_list )
+( #has_/name :: has_text_of_feature_list )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

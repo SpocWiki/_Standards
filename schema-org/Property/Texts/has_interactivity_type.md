@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_interactivity_type
-linkTitle: has_text_on_interactivity_type
+title: has_text_of_interactivity_type
+linkTitle: has_text_of_interactivity_type
 
 keywords: [interactivity, type]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - interactivity-type
 - interactivity_type
 - interactivityType
-- has_text_on_interactivity_type
+- has_text_of_interactivity_type
 ---
 
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_/on_/interactivity_type :: Text ] or 
-- [ has_text_on_interactivity_type :: Text ] 
+- [ #has_/text_/of_/interactivity_type :: Text ] or 
+- [ has_text_of_interactivity_type :: Text ] 
 
 The predominant mode of learning supported by the learning resource. Acceptable values are "active", "expositive", or "mixed".
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: has_text_on_interactivity_type )
+( #has_/name :: has_text_of_interactivity_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

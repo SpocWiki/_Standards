@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_isbn
-linkTitle: has_text_on_isbn
+title: has_text_of_isbn
+linkTitle: has_text_of_isbn
 
 keywords: [isbn]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - isbn
 - isbn
 - isbn
-- has_text_on_isbn
+- has_text_of_isbn
 ---
 
 Predicate to describe the Text of Book.
 
 Use it like this: 
-- [ #has_/text_/on_/isbn :: Text ] or 
-- [ has_text_on_isbn :: Text ] 
+- [ #has_/text_/of_/isbn :: Text ] or 
+- [ has_text_of_isbn :: Text ] 
 
 The ISBN of the book.
 
 Predicated describes that: 
 [ #has_/domain  :: Book ]
-( #has_/name :: has_text_on_isbn )
+( #has_/name :: has_text_of_isbn )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

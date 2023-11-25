@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_target_name
-linkTitle: has_text_on_target_name
+title: has_text_of_target_name
+linkTitle: has_text_of_target_name
 
 keywords: [target, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - target-name
 - target_name
 - targetName
-- has_text_on_target_name
+- has_text_of_target_name
 ---
 
 Predicate to describe the Text of AlignmentObject.
 
 Use it like this: 
-- [ #has_/text_/on_/target_name :: Text ] or 
-- [ has_text_on_target_name :: Text ] 
+- [ #has_/text_/of_/target_name :: Text ] or 
+- [ has_text_of_target_name :: Text ] 
 
 The name of a node in an established educational framework.
 
 Predicated describes that: 
 [ #has_/domain  :: AlignmentObject ]
-( #has_/name :: has_text_on_target_name )
+( #has_/name :: has_text_of_target_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

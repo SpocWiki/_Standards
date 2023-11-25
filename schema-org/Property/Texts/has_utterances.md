@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_utterances
-linkTitle: has_text_on_utterances
+title: has_text_of_utterances
+linkTitle: has_text_of_utterances
 
 keywords: [utterances]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - utterances
 - utterances
 - utterances
-- has_text_on_utterances
+- has_text_of_utterances
 ---
 
 Predicate to describe the Text of HyperTocEntry.
@@ -36,14 +36,14 @@ Predicate to describe the Text of HyperTocEntry.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/utterances :: Text ] or 
-- [ has_text_on_utterances :: Text ] 
+- [ #has_/text_/of_/utterances :: Text ] or 
+- [ has_text_of_utterances :: Text ] 
 
 Text of an utterances (spoken words, lyrics etc.) that occurs at a certain section of a media object, represented as a [[HyperTocEntry]].
 
 Predicated describes that: 
 [ #has_/domain  :: HyperTocEntry ]
-( #has_/name :: has_text_on_utterances )
+( #has_/name :: has_text_of_utterances )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

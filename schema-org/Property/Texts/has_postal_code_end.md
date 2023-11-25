@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_postal_code_end
-linkTitle: has_text_on_postal_code_end
+title: has_text_of_postal_code_end
+linkTitle: has_text_of_postal_code_end
 
 keywords: [postal, code, end]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - postal-code-end
 - postal_code_end
 - postalCodeEnd
-- has_text_on_postal_code_end
+- has_text_of_postal_code_end
 ---
 
 Predicate to describe the Text of PostalCodeRangeSpecification.
@@ -36,14 +36,14 @@ Predicate to describe the Text of PostalCodeRangeSpecification.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/postal_code_end :: Text ] or 
-- [ has_text_on_postal_code_end :: Text ] 
+- [ #has_/text_/of_/postal_code_end :: Text ] or 
+- [ has_text_of_postal_code_end :: Text ] 
 
 Last postal code in the range (included). Needs to be after [[postalCodeBegin]].
 
 Predicated describes that: 
 [ #has_/domain  :: PostalCodeRangeSpecification ]
-( #has_/name :: has_text_on_postal_code_end )
+( #has_/name :: has_text_of_postal_code_end )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

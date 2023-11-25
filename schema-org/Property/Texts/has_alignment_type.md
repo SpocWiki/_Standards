@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_alignment_type
-linkTitle: has_text_on_alignment_type
+title: has_text_of_alignment_type
+linkTitle: has_text_of_alignment_type
 
 keywords: [alignment, type]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - alignment-type
 - alignment_type
 - alignmentType
-- has_text_on_alignment_type
+- has_text_of_alignment_type
 ---
 
 Predicate to describe the Text of AlignmentObject.
 
 Use it like this: 
-- [ #has_/text_/on_/alignment_type :: Text ] or 
-- [ has_text_on_alignment_type :: Text ] 
+- [ #has_/text_/of_/alignment_type :: Text ] or 
+- [ has_text_of_alignment_type :: Text ] 
 
 A category of alignment between the learning resource and the framework node. Recommended values include: "requires", "textComplexity", "readingLevel", and "educationalSubject".
 
 Predicated describes that: 
 [ #has_/domain  :: AlignmentObject ]
-( #has_/name :: has_text_on_alignment_type )
+( #has_/name :: has_text_of_alignment_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

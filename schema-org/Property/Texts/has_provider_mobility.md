@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_provider_mobility
-linkTitle: has_text_on_provider_mobility
+title: has_text_of_provider_mobility
+linkTitle: has_text_of_provider_mobility
 
 keywords: [provider, mobility]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - provider-mobility
 - provider_mobility
 - providerMobility
-- has_text_on_provider_mobility
+- has_text_of_provider_mobility
 ---
 
 Predicate to describe the Text of Service.
 
 Use it like this: 
-- [ #has_/text_/on_/provider_mobility :: Text ] or 
-- [ has_text_on_provider_mobility :: Text ] 
+- [ #has_/text_/of_/provider_mobility :: Text ] or 
+- [ has_text_of_provider_mobility :: Text ] 
 
 Indicates the mobility of a provided service (e.g. "static", "dynamic").
 
 Predicated describes that: 
 [ #has_/domain  :: Service ]
-( #has_/name :: has_text_on_provider_mobility )
+( #has_/name :: has_text_of_provider_mobility )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

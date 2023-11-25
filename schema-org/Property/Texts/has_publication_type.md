@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_publication_type
-linkTitle: has_text_on_publication_type
+title: has_text_of_publication_type
+linkTitle: has_text_of_publication_type
 
 keywords: [publication, type]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - publication-type
 - publication_type
 - publicationType
-- has_text_on_publication_type
+- has_text_of_publication_type
 ---
 
 Predicate to describe the Text of MedicalScholarlyArticle.
 
 Use it like this: 
-- [ #has_/text_/on_/publication_type :: Text ] or 
-- [ has_text_on_publication_type :: Text ] 
+- [ #has_/text_/of_/publication_type :: Text ] or 
+- [ has_text_of_publication_type :: Text ] 
 
 The type of the medical article, taken from the US NLM MeSH publication type catalog. See also [MeSH documentation](http://www.nlm.nih.gov/mesh/pubtypes.html).
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalScholarlyArticle ]
-( #has_/name :: has_text_on_publication_type )
+( #has_/name :: has_text_of_publication_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

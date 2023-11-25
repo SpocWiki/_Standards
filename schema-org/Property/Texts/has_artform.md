@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_artform
-linkTitle: has_text_on_artform
+title: has_text_of_artform
+linkTitle: has_text_of_artform
 
 keywords: [artform]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - artform
 - artform
 - artform
-- has_text_on_artform
+- has_text_of_artform
 ---
 
 Predicate to describe the Text of VisualArtwork.
 
 Use it like this: 
-- [ #has_/text_/on_/artform :: Text, URL ] or 
-- [ has_text_on_artform :: Text, URL ] 
+- [ #has_/text_/of_/artform :: Text, URL ] or 
+- [ has_text_of_artform :: Text, URL ] 
 
 e.g. Painting, Drawing, Sculpture, Print, Photograph, Assemblage, Collage, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: VisualArtwork ]
-( #has_/name :: has_text_on_artform )
+( #has_/name :: has_text_of_artform )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

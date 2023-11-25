@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_alcohol_warning
-linkTitle: has_text_on_alcohol_warning
+title: has_text_of_alcohol_warning
+linkTitle: has_text_of_alcohol_warning
 
 keywords: [alcohol, warning]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - alcohol-warning
 - alcohol_warning
 - alcoholWarning
-- has_text_on_alcohol_warning
+- has_text_of_alcohol_warning
 ---
 
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_/on_/alcohol_warning :: Text ] or 
-- [ has_text_on_alcohol_warning :: Text ] 
+- [ #has_/text_/of_/alcohol_warning :: Text ] or 
+- [ has_text_of_alcohol_warning :: Text ] 
 
 Any precaution, guidance, contraindication, etc. related to consumption of alcohol while taking this drug.
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: has_text_on_alcohol_warning )
+( #has_/name :: has_text_of_alcohol_warning )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

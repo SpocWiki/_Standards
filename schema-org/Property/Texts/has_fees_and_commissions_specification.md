@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_fees_and_commissions_specification
-linkTitle: has_text_on_fees_and_commissions_specification
+title: has_text_of_fees_and_commissions_specification
+linkTitle: has_text_of_fees_and_commissions_specification
 
 keywords: [fees, and, commissions, specification]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - fees-and-commissions-specification
 - fees_and_commissions_specification
 - feesAndCommissionsSpecification
-- has_text_on_fees_and_commissions_specification
+- has_text_of_fees_and_commissions_specification
 ---
 
 Predicate to describe the Text of FinancialProduct, FinancialService.
 
 Use it like this: 
-- [ #has_/text_/on_/fees_and_commissions_specification :: Text, URL ] or 
-- [ has_text_on_fees_and_commissions_specification :: Text, URL ] 
+- [ #has_/text_/of_/fees_and_commissions_specification :: Text, URL ] or 
+- [ has_text_of_fees_and_commissions_specification :: Text, URL ] 
 
 Description of fees, commissions, and other terms applied either to a class of financial product, or by a financial service organization.
 
 Predicated describes that: 
 [ #has_/domain  :: FinancialProduct, FinancialService ]
-( #has_/name :: has_text_on_fees_and_commissions_specification )
+( #has_/name :: has_text_of_fees_and_commissions_specification )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

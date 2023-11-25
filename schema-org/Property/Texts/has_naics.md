@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_naics
-linkTitle: has_text_on_naics
+title: has_text_of_naics
+linkTitle: has_text_of_naics
 
 keywords: [naics]
 layout: 
@@ -28,18 +28,18 @@ aliases:
 - naics
 - naics
 - naics
-- has_text_on_naics
+- has_text_of_naics
 ---
 
 Predicate with the North American Industry Classification System (NAICS) code for a particular organization or business person.
 
 Use it like this: 
-- [ #has_/text_/on_/naics :: Text ] or 
-- [ has_text_on_naics :: Text ] 
+- [ #has_/text_/of_/naics :: Text ] or 
+- [ has_text_of_naics :: Text ] 
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person ]
-( #has_/name :: has_text_on_naics )
+( #has_/name :: has_text_of_naics )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_procedure
-linkTitle: has_text_on_procedure
+title: has_text_of_procedure
+linkTitle: has_text_of_procedure
 
 keywords: [procedure]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - procedure
 - procedure
 - procedure
-- has_text_on_procedure
+- has_text_of_procedure
 ---
 
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- [ #has_/text_/on_/procedure :: Text ] or 
-- [ has_text_on_procedure :: Text ] 
+- [ #has_/text_/of_/procedure :: Text ] or 
+- [ has_text_of_procedure :: Text ] 
 
 A description of the procedure involved in setting up, using, and/or installing the device.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalDevice ]
-( #has_/name :: has_text_on_procedure )
+( #has_/name :: has_text_of_procedure )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

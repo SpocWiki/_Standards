@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_payment_method_id
-linkTitle: has_text_on_payment_method_id
+title: has_text_of_payment_method_id
+linkTitle: has_text_of_payment_method_id
 
 keywords: [payment, method, id]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - payment-method-id
 - payment_method_id
 - paymentMethodId
-- has_text_on_payment_method_id
+- has_text_of_payment_method_id
 ---
 
 Predicate to describe the Text of Invoice, Order.
 
 Use it like this: 
-- [ #has_/text_/on_/payment_method_id :: Text ] or 
-- [ has_text_on_payment_method_id :: Text ] 
+- [ #has_/text_/of_/payment_method_id :: Text ] or 
+- [ has_text_of_payment_method_id :: Text ] 
 
 An identifier for the method of payment used (e.g. the last 4 digits of the credit card).
 
 Predicated describes that: 
 [ #has_/domain  :: Invoice, Order ]
-( #has_/name :: has_text_on_payment_method_id )
+( #has_/name :: has_text_of_payment_method_id )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

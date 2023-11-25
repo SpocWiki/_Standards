@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_branch_code
-linkTitle: has_text_on_branch_code
+title: has_text_of_branch_code
+linkTitle: has_text_of_branch_code
 
 keywords: [branch, code]
 layout: 
@@ -28,14 +28,14 @@ aliases:
 - branch-code
 - branch_code
 - branchCode
-- has_text_on_branch_code
+- has_text_of_branch_code
 ---
 
 Predicate to describe the Text of Place.
 
 Use it like this: 
-- [ #has_/text_/on_/branch_code :: Text ] or 
-- [ has_text_on_branch_code :: Text ] 
+- [ #has_/text_/of_/branch_code :: Text ] or 
+- [ has_text_of_branch_code :: Text ] 
 
 A short textual code (also called "store code") that uniquely identifies a place of business. The code is typically assigned by the parentOrganization and used in structured URLs.
 
@@ -45,7 +45,7 @@ For example, in the URL http://www.starbucks.co.uk/store-locator/etc/detail/3047
 
 Predicated describes that: 
 [ #has_/domain  :: Place ]
-( #has_/name :: has_text_on_branch_code )
+( #has_/name :: has_text_of_branch_code )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

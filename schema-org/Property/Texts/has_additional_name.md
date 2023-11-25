@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_additional_name
-linkTitle: has_text_on_additional_name
+title: has_text_of_additional_name
+linkTitle: has_text_of_additional_name
 
 keywords: [additional, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - additional-name
 - additional_name
 - additionalName
-- has_text_on_additional_name
+- has_text_of_additional_name
 ---
 
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text_/on_/additional_name :: Text ] or 
-- [ has_text_on_additional_name :: Text ] 
+- [ #has_/text_/of_/additional_name :: Text ] or 
+- [ has_text_of_additional_name :: Text ] 
 
 An additional name for a Person, can be used for a middle name.
 
 Predicated describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: has_text_on_additional_name )
+( #has_/name :: has_text_of_additional_name )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: alternateName ]

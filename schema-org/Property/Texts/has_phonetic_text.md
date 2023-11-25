@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_phonetic_text
-linkTitle: has_text_on_phonetic_text
+title: has_text_of_phonetic_text
+linkTitle: has_text_of_phonetic_text
 
 keywords: [phonetic, text]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - phonetic-text
 - phonetic_text
 - phoneticText
-- has_text_on_phonetic_text
+- has_text_of_phonetic_text
 ---
 
 Predicate to describe the Text of PronounceableText.
@@ -36,14 +36,14 @@ Predicate to describe the Text of PronounceableText.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/phonetic_text :: Text ] or 
-- [ has_text_on_phonetic_text :: Text ] 
+- [ #has_/text_/of_/phonetic_text :: Text ] or 
+- [ has_text_of_phonetic_text :: Text ] 
 
 Representation of a text [[textValue]] using the specified [[speechToTextMarkup]]. For example the city name of Houston in IPA: /?hju?st?n/.
 
 Predicated describes that: 
 [ #has_/domain  :: PronounceableText ]
-( #has_/name :: has_text_on_phonetic_text )
+( #has_/name :: has_text_of_phonetic_text )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

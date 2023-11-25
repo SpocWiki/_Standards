@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_epidemiology
-linkTitle: has_text_on_epidemiology
+title: has_text_of_epidemiology
+linkTitle: has_text_of_epidemiology
 
 keywords: [epidemiology]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - epidemiology
 - epidemiology
 - epidemiology
-- has_text_on_epidemiology
+- has_text_of_epidemiology
 ---
 
 Predicate to describe the Text of MedicalCondition, PhysicalActivity.
 
 Use it like this: 
-- [ #has_/text_/on_/epidemiology :: Text ] or 
-- [ has_text_on_epidemiology :: Text ] 
+- [ #has_/text_/of_/epidemiology :: Text ] or 
+- [ has_text_of_epidemiology :: Text ] 
 
 The characteristics of associated patients, such as age, gender, race etc.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCondition, PhysicalActivity ]
-( #has_/name :: has_text_on_epidemiology )
+( #has_/name :: has_text_of_epidemiology )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

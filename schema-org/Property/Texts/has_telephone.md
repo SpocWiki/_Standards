@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_telephone
-linkTitle: has_text_on_telephone
+title: has_text_of_telephone
+linkTitle: has_text_of_telephone
 
 keywords: [telephone]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - telephone 
 - telephone/Mobile 
 - telephone
-- has_text_on_telephone
+- has_text_of_telephone
 ---
 
 Predicate to describe the Text of ContactPoint, Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/text_/on_/telephone :: Text ] or 
-- [ has_text_on_telephone :: Text ] 
+- [ #has_/text_/of_/telephone :: Text ] or 
+- [ has_text_of_telephone :: Text ] 
 
 The telephone number.
 
 Predicated describes that: 
 [ #has_/domain  :: ContactPoint, Organization, Person, Place ]
-( #has_/name :: has_text_on_telephone )
+( #has_/name :: has_text_of_telephone )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

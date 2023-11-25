@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_target_population
-linkTitle: has_text_on_target_population
+title: has_text_of_target_population
+linkTitle: has_text_of_target_population
 
 keywords: [target, population]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - target-population
 - target_population
 - targetPopulation
-- has_text_on_target_population
+- has_text_of_target_population
 ---
 
 Predicate to describe the Text of DietarySupplement, DoseSchedule.
 
 Use it like this: 
-- [ #has_/text_/on_/target_population :: Text ] or 
-- [ has_text_on_target_population :: Text ] 
+- [ #has_/text_/of_/target_population :: Text ] or 
+- [ has_text_of_target_population :: Text ] 
 
 Characteristics of the population for which this is intended, or which typically uses it, e.g. "adults".
 
 Predicated describes that: 
 [ #has_/domain  :: DietarySupplement, DoseSchedule ]
-( #has_/name :: has_text_on_target_population )
+( #has_/name :: has_text_of_target_population )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

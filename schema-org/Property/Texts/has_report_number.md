@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_report_number
-linkTitle: has_text_on_report_number
+title: has_text_of_report_number
+linkTitle: has_text_of_report_number
 
 keywords: [report, number]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - report-number
 - report_number
 - reportNumber
-- has_text_on_report_number
+- has_text_of_report_number
 ---
 
 Predicate to describe the Text of Report.
 
 Use it like this: 
-- [ #has_/text_/on_/report_number :: Text ] or 
-- [ has_text_on_report_number :: Text ] 
+- [ #has_/text_/of_/report_number :: Text ] or 
+- [ has_text_of_report_number :: Text ] 
 
 The number or other unique designator assigned to a Report by the publishing organization.
 
 Predicated describes that: 
 [ #has_/domain  :: Report ]
-( #has_/name :: has_text_on_report_number )
+( #has_/name :: has_text_of_report_number )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

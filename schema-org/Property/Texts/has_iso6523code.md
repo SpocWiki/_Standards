@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_iso6523code
-linkTitle: has_text_on_iso6523code
+title: has_text_of_iso6523code
+linkTitle: has_text_of_iso6523code
 
 keywords: [iso6523code]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - iso6523code
 - iso6523code
 - iso6523Code
-- has_text_on_iso6523code
+- has_text_of_iso6523code
 ---
 
 Predicate to describe the Text of Organization.
@@ -36,14 +36,14 @@ Predicate to describe the Text of Organization.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/iso6523code :: Text ] or 
-- [ has_text_on_iso6523code :: Text ] 
+- [ #has_/text_/of_/iso6523code :: Text ] or 
+- [ has_text_of_iso6523code :: Text ] 
 
 An organization identifier as defined in ISO 6523(-1). Note that many existing organization identifiers such as [leiCode](leiCode), [duns](duns) and [vatID](vatID) can be expressed as an ISO 6523 identifier by setting the ICD part of the ISO 6523 identifier accordingly.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: has_text_on_iso6523code )
+( #has_/name :: has_text_of_iso6523code )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

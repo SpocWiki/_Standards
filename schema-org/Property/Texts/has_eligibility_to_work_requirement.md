@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_eligibility_to_work_requirement
-linkTitle: has_text_on_eligibility_to_work_requirement
+title: has_text_of_eligibility_to_work_requirement
+linkTitle: has_text_of_eligibility_to_work_requirement
 
 keywords: [eligibility, to, work, requirement]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - eligibility-to-work-requirement
 - eligibility_to_work_requirement
 - eligibilityToWorkRequirement
-- has_text_on_eligibility_to_work_requirement
+- has_text_of_eligibility_to_work_requirement
 ---
 
 Predicate to describe the Text of JobPosting.
@@ -36,14 +36,14 @@ Predicate to describe the Text of JobPosting.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/eligibility_to_work_requirement :: Text ] or 
-- [ has_text_on_eligibility_to_work_requirement :: Text ] 
+- [ #has_/text_/of_/eligibility_to_work_requirement :: Text ] or 
+- [ has_text_of_eligibility_to_work_requirement :: Text ] 
 
 The legal requirements such as citizenship, visa and other documentation required for an applicant to this job.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: has_text_on_eligibility_to_work_requirement )
+( #has_/name :: has_text_of_eligibility_to_work_requirement )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

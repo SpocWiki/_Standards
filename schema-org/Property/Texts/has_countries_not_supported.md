@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_countries_not_supported
-linkTitle: has_text_on_countries_not_supported
+title: has_text_of_countries_not_supported
+linkTitle: has_text_of_countries_not_supported
 
 keywords: [countries, not, supported]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - countries-not-supported
 - countries_not_supported
 - countriesNotSupported
-- has_text_on_countries_not_supported
+- has_text_of_countries_not_supported
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/on_/countries_not_supported :: Text ] or 
-- [ has_text_on_countries_not_supported :: Text ] 
+- [ #has_/text_/of_/countries_not_supported :: Text ] or 
+- [ has_text_of_countries_not_supported :: Text ] 
 
 Countries for which the application is not supported. You can also provide the two-letter ISO 3166-1 alpha-2 country code.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_on_countries_not_supported )
+( #has_/name :: has_text_of_countries_not_supported )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

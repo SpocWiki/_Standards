@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_bank_account_type
-linkTitle: has_text_on_bank_account_type
+title: has_text_of_bank_account_type
+linkTitle: has_text_of_bank_account_type
 
 keywords: [bank, account, type]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - bank-account-type
 - bank_account_type
 - bankAccountType
-- has_text_on_bank_account_type
+- has_text_of_bank_account_type
 ---
 
 Predicate to describe the Text of BankAccount.
@@ -36,14 +36,14 @@ Predicate to describe the Text of BankAccount.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/bank_account_type :: Text, URL ] or 
-- [ has_text_on_bank_account_type :: Text, URL ] 
+- [ #has_/text_/of_/bank_account_type :: Text, URL ] or 
+- [ has_text_of_bank_account_type :: Text, URL ] 
 
 The type of a bank account.
 
 Predicated describes that: 
 [ #has_/domain  :: BankAccount ]
-( #has_/name :: has_text_on_bank_account_type )
+( #has_/name :: has_text_of_bank_account_type )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

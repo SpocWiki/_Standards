@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_in_ch_i
-linkTitle: has_text_on_in_ch_i
+title: has_text_of_in_ch_i
+linkTitle: has_text_of_in_ch_i
 
 keywords: [in, ch, i]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - in-ch-i
 - in_ch_i
 - inChI
-- has_text_on_in_ch_i
+- has_text_of_in_ch_i
 ---
 
 Predicate to describe the Text of MolecularEntity.
@@ -36,14 +36,14 @@ Predicate to describe the Text of MolecularEntity.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/in_ch_i :: Text ] or 
-- [ has_text_on_in_ch_i :: Text ] 
+- [ #has_/text_/of_/in_ch_i :: Text ] or 
+- [ has_text_of_in_ch_i :: Text ] 
 
 Non-proprietary identifier for molecular entity that can be used in printed and electronic data sources thus enabling easier linking of diverse data compilations.
 
 Predicated describes that: 
 [ #has_/domain  :: MolecularEntity ]
-( #has_/name :: has_text_on_in_ch_i )
+( #has_/name :: has_text_of_in_ch_i )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: hasRepresentation ]

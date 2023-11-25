@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_currency
-linkTitle: has_text_on_currency
+title: has_text_of_currency
+linkTitle: has_text_of_currency
 
 keywords: [currency]
 layout: 
@@ -28,14 +28,14 @@ aliases:
 - currency
 - currency
 - currency
-- has_text_on_currency
+- has_text_of_currency
 ---
 
 Predicate to describe the Text of DatedMoneySpecification, ExchangeRateSpecification, LoanOrCredit, MonetaryAmount, MonetaryAmountDistribution.
 
 Use it like this: 
-- [ #has_/text_/on_/currency :: Text ] or 
-- [ has_text_on_currency :: Text ] 
+- [ #has_/text_/of_/currency :: Text ] or 
+- [ has_text_of_currency :: Text ] 
 
 The currency in which the monetary amount is expressed.
 
@@ -45,7 +45,7 @@ Use standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/IS
 
 Predicated describes that: 
 [ #has_/domain  :: DatedMoneySpecification, ExchangeRateSpecification, LoanOrCredit, MonetaryAmount, MonetaryAmountDistribution ]
-( #has_/name :: has_text_on_currency )
+( #has_/name :: has_text_of_currency )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

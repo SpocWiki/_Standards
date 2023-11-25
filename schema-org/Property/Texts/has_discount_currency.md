@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_discount_currency
-linkTitle: has_text_on_discount_currency
+title: has_text_of_discount_currency
+linkTitle: has_text_of_discount_currency
 
 keywords: [discount, currency]
 layout: 
@@ -28,14 +28,14 @@ aliases:
 - discount-currency
 - discount_currency
 - discountCurrency
-- has_text_on_discount_currency
+- has_text_of_discount_currency
 ---
 
 Predicate to describe the Text of Order.
 
 Use it like this: 
-- [ #has_/text_/on_/discount_currency :: Text ] or 
-- [ has_text_on_discount_currency :: Text ] 
+- [ #has_/text_/of_/discount_currency :: Text ] or 
+- [ has_text_of_discount_currency :: Text ] 
 
 The currency of the discount.
 
@@ -45,7 +45,7 @@ Use standard formats: [ISO 4217 currency format](http://en.wikipedia.org/wiki/IS
 
 Predicated describes that: 
 [ #has_/domain  :: Order ]
-( #has_/name :: has_text_on_discount_currency )
+( #has_/name :: has_text_of_discount_currency )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

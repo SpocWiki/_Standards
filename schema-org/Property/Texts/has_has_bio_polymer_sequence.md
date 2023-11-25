@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_has_bio_polymer_sequence
-linkTitle: has_text_on_has_bio_polymer_sequence
+title: has_text_of_has_bio_polymer_sequence
+linkTitle: has_text_of_has_bio_polymer_sequence
 
 keywords: [has, bio, polymer, sequence]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - has-bio-polymer-sequence
 - has_bio_polymer_sequence
 - hasBioPolymerSequence
-- has_text_on_has_bio_polymer_sequence
+- has_text_of_has_bio_polymer_sequence
 ---
 
 Predicate to describe the Text of Gene, Protein.
@@ -36,14 +36,14 @@ Predicate to describe the Text of Gene, Protein.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/has_bio_polymer_sequence :: Text ] or 
-- [ has_text_on_has_bio_polymer_sequence :: Text ] 
+- [ #has_/text_/of_/has_bio_polymer_sequence :: Text ] or 
+- [ has_text_of_has_bio_polymer_sequence :: Text ] 
 
 A symbolic representation of a BioChemEntity. For example, a nucleotide sequence of a Gene or an amino acid sequence of a Protein.
 
 Predicated describes that: 
 [ #has_/domain  :: Gene, Protein ]
-( #has_/name :: has_text_on_has_bio_polymer_sequence )
+( #has_/name :: has_text_of_has_bio_polymer_sequence )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: hasRepresentation ]

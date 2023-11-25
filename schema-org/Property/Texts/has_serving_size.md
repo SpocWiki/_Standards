@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_serving_size
-linkTitle: has_text_on_serving_size
+title: has_text_of_serving_size
+linkTitle: has_text_of_serving_size
 
 keywords: [serving, size]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - serving-size
 - serving_size
 - servingSize
-- has_text_on_serving_size
+- has_text_of_serving_size
 ---
 
 Predicate to describe the Text of NutritionInformation.
 
 Use it like this: 
-- [ #has_/text_/on_/serving_size :: Text ] or 
-- [ has_text_on_serving_size :: Text ] 
+- [ #has_/text_/of_/serving_size :: Text ] or 
+- [ has_text_of_serving_size :: Text ] 
 
 The serving size, in terms of the number of volume or mass.
 
 Predicated describes that: 
 [ #has_/domain  :: NutritionInformation ]
-( #has_/name :: has_text_on_serving_size )
+( #has_/name :: has_text_of_serving_size )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

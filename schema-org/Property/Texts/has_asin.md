@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_asin
-linkTitle: has_text_on_asin
+title: has_text_of_asin
+linkTitle: has_text_of_asin
 
 keywords: [asin]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - asin
 - asin
 - asin
-- has_text_on_asin
+- has_text_of_asin
 ---
 
 Predicate to describe the Text of Demand, Offer, Product.
@@ -36,8 +36,8 @@ Predicate to describe the Text of Demand, Offer, Product.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/asin :: Text, URL ] or 
-- [ has_text_on_asin :: Text, URL ] 
+- [ #has_/text_/of_/asin :: Text, URL ] or 
+- [ has_text_of_asin :: Text, URL ] 
 
 An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric unique identifier assigned by Amazon.com and its partners for product identification within the Amazon organization (summary from [Wikipedia](https://en.wikipedia.org/wiki/Amazon_Standard_Identification_Number)"s article).
 
@@ -48,7 +48,7 @@ ASINs are most commonly encoded as text strings, but the [asin] property support
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]
-( #has_/name :: has_text_on_asin )
+( #has_/name :: has_text_of_asin )
 ( #has_/range :: Text, URL )
 
 [ #is_/sub_property_of  :: identifier ]

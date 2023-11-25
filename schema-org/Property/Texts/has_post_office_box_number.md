@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_post_office_box_number
-linkTitle: has_text_on_post_office_box_number
+title: has_text_of_post_office_box_number
+linkTitle: has_text_of_post_office_box_number
 
 keywords: [post, office, box, number]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - post-office-box-number
 - post_office_box_number
 - postOfficeBoxNumber
-- has_text_on_post_office_box_number
+- has_text_of_post_office_box_number
 ---
 
 Predicate to describe the Text of PostalAddress.
 
 Use it like this: 
-- [ #has_/text_/on_/post_office_box_number :: Text ] or 
-- [ has_text_on_post_office_box_number :: Text ] 
+- [ #has_/text_/of_/post_office_box_number :: Text ] or 
+- [ has_text_of_post_office_box_number :: Text ] 
 
 The post office box number for PO box addresses.
 
 Predicated describes that: 
 [ #has_/domain  :: PostalAddress ]
-( #has_/name :: has_text_on_post_office_box_number )
+( #has_/name :: has_text_of_post_office_box_number )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

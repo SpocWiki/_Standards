@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_train_name
-linkTitle: has_text_on_train_name
+title: has_text_of_train_name
+linkTitle: has_text_of_train_name
 
 keywords: [train, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - train-name
 - train_name
 - trainName
-- has_text_on_train_name
+- has_text_of_train_name
 ---
 
 Predicate to describe the Text of TrainTrip.
 
 Use it like this: 
-- [ #has_/text_/on_/train_name :: Text ] or 
-- [ has_text_on_train_name :: Text ] 
+- [ #has_/text_/of_/train_name :: Text ] or 
+- [ has_text_of_train_name :: Text ] 
 
 The name of the train (e.g. The Orient Express).
 
 Predicated describes that: 
 [ #has_/domain  :: TrainTrip ]
-( #has_/name :: has_text_on_train_name )
+( #has_/name :: has_text_of_train_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

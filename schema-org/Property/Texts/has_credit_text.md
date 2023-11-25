@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_credit_text
-linkTitle: has_text_on_credit_text
+title: has_text_of_credit_text
+linkTitle: has_text_of_credit_text
 
 keywords: [credit, text]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - credit-text
 - credit_text
 - creditText
-- has_text_on_credit_text
+- has_text_of_credit_text
 ---
 
 Predicate to describe the Text of CreativeWork.
@@ -36,14 +36,14 @@ Predicate to describe the Text of CreativeWork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/credit_text :: Text ] or 
-- [ has_text_on_credit_text :: Text ] 
+- [ #has_/text_/of_/credit_text :: Text ] or 
+- [ has_text_of_credit_text :: Text ] 
 
 Text that can be used to credit person(s) and/or organization(s) associated with a published Creative Work.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: has_text_on_credit_text )
+( #has_/name :: has_text_of_credit_text )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

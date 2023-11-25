@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_health_plan_coinsurance_option
-linkTitle: has_text_on_health_plan_coinsurance_option
+title: has_text_of_health_plan_coinsurance_option
+linkTitle: has_text_of_health_plan_coinsurance_option
 
 keywords: [health, plan, coinsurance, option]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - health-plan-coinsurance-option
 - health_plan_coinsurance_option
 - healthPlanCoinsuranceOption
-- has_text_on_health_plan_coinsurance_option
+- has_text_of_health_plan_coinsurance_option
 ---
 
 Predicate to describe the Text of HealthPlanCostSharingSpecification.
@@ -36,14 +36,14 @@ Predicate to describe the Text of HealthPlanCostSharingSpecification.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/health_plan_coinsurance_option :: Text ] or 
-- [ has_text_on_health_plan_coinsurance_option :: Text ] 
+- [ #has_/text_/of_/health_plan_coinsurance_option :: Text ] or 
+- [ has_text_of_health_plan_coinsurance_option :: Text ] 
 
 Whether the coinsurance applies before or after deductible, etc. TODO: Is this a closed set?
 
 Predicated describes that: 
 [ #has_/domain  :: HealthPlanCostSharingSpecification ]
-( #has_/name :: has_text_on_health_plan_coinsurance_option )
+( #has_/name :: has_text_of_health_plan_coinsurance_option )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

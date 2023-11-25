@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_term_code
-linkTitle: has_text_on_term_code
+title: has_text_of_term_code
+linkTitle: has_text_of_term_code
 
 keywords: [term, code]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - term-code
 - term_code
 - termCode
-- has_text_on_term_code
+- has_text_of_term_code
 ---
 
 Predicate to describe the Text of [[../../Class/is_a_/Intangible/defined_term|defined_Term]]. 
@@ -36,14 +36,14 @@ Predicate to describe the Text of [[../../Class/is_a_/Intangible/defined_term|de
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/term_code :: Text ] or 
-- [ has_text_on_term_code :: Text ] 
+- [ #has_/text_/of_/term_code :: Text ] or 
+- [ has_text_of_term_code :: Text ] 
 
 A code that identifies this [[DefinedTerm]] within a [[DefinedTermSet]]
 
 Predicated describes that: 
 [ #has_/domain  :: [[../../Relation/has/has_defined_term|defined_term]] ]
-( #has_/name :: has_text_on_term_code )
+( #has_/name :: has_text_of_term_code )
 ( #has_/range :: text )
 
 #has_/sub_properties :: [ [[has_code_value]] ]

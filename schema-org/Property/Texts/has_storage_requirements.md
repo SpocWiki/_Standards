@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_storage_requirements
-linkTitle: has_text_on_storage_requirements
+title: has_text_of_storage_requirements
+linkTitle: has_text_of_storage_requirements
 
 keywords: [storage, requirements]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - storage-requirements
 - storage_requirements
 - storageRequirements
-- has_text_on_storage_requirements
+- has_text_of_storage_requirements
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/on_/storage_requirements :: Text, URL ] or 
-- [ has_text_on_storage_requirements :: Text, URL ] 
+- [ #has_/text_/of_/storage_requirements :: Text, URL ] or 
+- [ has_text_of_storage_requirements :: Text, URL ] 
 
 Storage requirements (free space required).
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_on_storage_requirements )
+( #has_/name :: has_text_of_storage_requirements )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

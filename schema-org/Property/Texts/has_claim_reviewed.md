@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_claim_reviewed
-linkTitle: has_text_on_claim_reviewed
+title: has_text_of_claim_reviewed
+linkTitle: has_text_of_claim_reviewed
 
 keywords: [claim, reviewed]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - claim-reviewed
 - claim_reviewed
 - claimReviewed
-- has_text_on_claim_reviewed
+- has_text_of_claim_reviewed
 ---
 
 Predicate to describe the Text of ClaimReview.
 
 Use it like this: 
-- [ #has_/text_/on_/claim_reviewed :: Text ] or 
-- [ has_text_on_claim_reviewed :: Text ] 
+- [ #has_/text_/of_/claim_reviewed :: Text ] or 
+- [ has_text_of_claim_reviewed :: Text ] 
 
 A short summary of the specific claims reviewed in a ClaimReview.
 
 Predicated describes that: 
 [ #has_/domain  :: ClaimReview ]
-( #has_/name :: has_text_on_claim_reviewed )
+( #has_/name :: has_text_of_claim_reviewed )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

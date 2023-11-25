@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_in_support_of
-linkTitle: has_text_on_in_support_of
+title: has_text_of_in_support_of
+linkTitle: has_text_of_in_support_of
 
 keywords: [in, support, of]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - in-support-of
 - in_support_of
 - inSupportOf
-- has_text_on_in_support_of
+- has_text_of_in_support_of
 ---
 
 Predicate to describe the Text of Thesis.
@@ -36,14 +36,14 @@ Predicate to describe the Text of Thesis.
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has_/text_/on_/in_support_of :: Text ] or 
-- [ has_text_on_in_support_of :: Text ] 
+- [ #has_/text_/of_/in_support_of :: Text ] or 
+- [ has_text_of_in_support_of :: Text ] 
 
 Qualification, candidature, degree, application that Thesis supports.
 
 Predicated describes that: 
 [ #has_/domain  :: Thesis ]
-( #has_/name :: has_text_on_in_support_of )
+( #has_/name :: has_text_of_in_support_of )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

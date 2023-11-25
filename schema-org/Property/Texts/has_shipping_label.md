@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_shipping_label
-linkTitle: has_text_on_shipping_label
+title: has_text_of_shipping_label
+linkTitle: has_text_of_shipping_label
 
 keywords: [shipping, label]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - shipping-label
 - shipping_label
 - shippingLabel
-- has_text_on_shipping_label
+- has_text_of_shipping_label
 ---
 
 Predicate to describe the Text of OfferShippingDetails, ShippingRateSettings.
@@ -36,14 +36,14 @@ Predicate to describe the Text of OfferShippingDetails, ShippingRateSettings.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/shipping_label :: Text ] or 
-- [ has_text_on_shipping_label :: Text ] 
+- [ #has_/text_/of_/shipping_label :: Text ] or 
+- [ has_text_of_shipping_label :: Text ] 
 
 Label to match an [[OfferShippingDetails]] with a [[ShippingRateSettings]] (within the context of a [[shippingSettingsLink]] cross-reference).
 
 Predicated describes that: 
 [ #has_/domain  :: OfferShippingDetails, ShippingRateSettings ]
-( #has_/name :: has_text_on_shipping_label )
+( #has_/name :: has_text_of_shipping_label )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_accessibility_summary
-linkTitle: has_text_on_accessibility_summary
+title: has_text_of_accessibility_summary
+linkTitle: has_text_of_accessibility_summary
 
 keywords: [accessibility, summary]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - accessibility-summary
 - accessibility_summary
 - accessibilitySummary
-- has_text_on_accessibility_summary
+- has_text_of_accessibility_summary
 ---
 
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_/on_/accessibility_summary :: Text ] or 
-- [ has_text_on_accessibility_summary :: Text ] 
+- [ #has_/text_/of_/accessibility_summary :: Text ] or 
+- [ has_text_of_accessibility_summary :: Text ] 
 
 A human-readable summary of specific accessibility features or deficiencies, consistent with the other accessibility metadata but expressing subtleties such as "short descriptions are present but long descriptions will be needed for non-visual users" or "short descriptions are present and no long descriptions are needed."
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: has_text_on_accessibility_summary )
+( #has_/name :: has_text_of_accessibility_summary )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

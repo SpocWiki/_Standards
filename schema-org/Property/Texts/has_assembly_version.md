@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_assembly_version
-linkTitle: has_text_on_assembly_version
+title: has_text_of_assembly_version
+linkTitle: has_text_of_assembly_version
 
 keywords: [assembly, version]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - assembly-version
 - assembly_version
 - assemblyVersion
-- has_text_on_assembly_version
+- has_text_of_assembly_version
 ---
 
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [ #has_/text_/on_/assembly_version :: Text ] or 
-- [ has_text_on_assembly_version :: Text ] 
+- [ #has_/text_/of_/assembly_version :: Text ] or 
+- [ has_text_of_assembly_version :: Text ] 
 
 Associated product/technology version. E.g., .NET Framework 4.5.
 
 Predicated describes that: 
 [ #has_/domain  :: APIReference ]
-( #has_/name :: has_text_on_assembly_version )
+( #has_/name :: has_text_of_assembly_version )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

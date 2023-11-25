@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_mpn
-linkTitle: has_text_on_mpn
+title: has_text_of_mpn
+linkTitle: has_text_of_mpn
 
 keywords: [mpn]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - mpn
 - mpn
 - mpn
-- has_text_on_mpn
+- has_text_of_mpn
 ---
 
 Predicate to describe the Text of Demand, Offer, Product.
 
 Use it like this: 
-- [ #has_/text_/on_/mpn :: Text ] or 
-- [ has_text_on_mpn :: Text ] 
+- [ #has_/text_/of_/mpn :: Text ] or 
+- [ has_text_of_mpn :: Text ] 
 
 The Manufacturer Part Number (MPN) of the product, or the product to which the offer refers.
 
 Predicated describes that: 
 [ #has_/domain  :: Demand, Offer, Product ]
-( #has_/name :: has_text_on_mpn )
+( #has_/name :: has_text_of_mpn )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

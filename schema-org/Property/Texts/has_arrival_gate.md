@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_arrival_gate
-linkTitle: has_text_on_arrival_gate
+title: has_text_of_arrival_gate
+linkTitle: has_text_of_arrival_gate
 
 keywords: [arrival, gate]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - arrival-gate
 - arrival_gate
 - arrivalGate
-- has_text_on_arrival_gate
+- has_text_of_arrival_gate
 ---
 
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- [ #has_/text_/on_/arrival_gate :: Text ] or 
-- [ has_text_on_arrival_gate :: Text ] 
+- [ #has_/text_/of_/arrival_gate :: Text ] or 
+- [ has_text_of_arrival_gate :: Text ] 
 
 Identifier of the flight"s arrival gate.
 
 Predicated describes that: 
 [ #has_/domain  :: Flight ]
-( #has_/name :: has_text_on_arrival_gate )
+( #has_/name :: has_text_of_arrival_gate )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

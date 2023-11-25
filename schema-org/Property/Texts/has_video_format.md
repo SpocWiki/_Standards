@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_video_format
-linkTitle: has_text_on_video_format
+title: has_text_of_video_format
+linkTitle: has_text_of_video_format
 
 keywords: [video, format]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - video-format
 - video_format
 - videoFormat
-- has_text_on_video_format
+- has_text_of_video_format
 ---
 
 Predicate to describe the Text of BroadcastEvent, BroadcastService, ScreeningEvent.
 
 Use it like this: 
-- [ #has_/text_/on_/video_format :: Text ] or 
-- [ has_text_on_video_format :: Text ] 
+- [ #has_/text_/of_/video_format :: Text ] or 
+- [ has_text_of_video_format :: Text ] 
 
 The type of screening or video broadcast used (e.g. IMAX, 3D, SD, HD, etc.).
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastEvent, BroadcastService, ScreeningEvent ]
-( #has_/name :: has_text_on_video_format )
+( #has_/name :: has_text_of_video_format )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

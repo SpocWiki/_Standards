@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_access_code
-linkTitle: has_text_on_access_code
+title: has_text_of_access_code
+linkTitle: has_text_of_access_code
 
 keywords: [access, code]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - access-code
 - access_code
 - accessCode
-- has_text_on_access_code
+- has_text_of_access_code
 ---
 
 Predicate to describe the Text of DeliveryEvent.
 
 Use it like this: 
-- [ #has_/text_/on_/access_code :: Text ] or 
-- [ has_text_on_access_code :: Text ] 
+- [ #has_/text_/of_/access_code :: Text ] or 
+- [ has_text_of_access_code :: Text ] 
 
 Password, PIN, or access code needed for delivery (e.g. from a locker).
 
 Predicated describes that: 
 [ #has_/domain  :: DeliveryEvent ]
-( #has_/name :: has_text_on_access_code )
+( #has_/name :: has_text_of_access_code )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_color
-linkTitle: has_text_on_color
+title: has_text_of_color
+linkTitle: has_text_of_color
 
 keywords: [color]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - color
 - color
 - color
-- has_text_on_color
+- has_text_of_color
 ---
 
 Predicate to describe the Text of Product.
 
 Use it like this: 
-- [ #has_/text_/on_/color :: Text ] or 
-- [ has_text_on_color :: Text ] 
+- [ #has_/text_/of_/color :: Text ] or 
+- [ has_text_of_color :: Text ] 
 
 The color of the product.
 
 Predicated describes that: 
 [ #has_/domain  :: Product ]
-( #has_/name :: has_text_on_color )
+( #has_/name :: has_text_of_color )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

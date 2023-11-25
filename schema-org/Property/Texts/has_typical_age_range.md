@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_typical_age_range
-linkTitle: has_text_on_typical_age_range
+title: has_text_of_typical_age_range
+linkTitle: has_text_of_typical_age_range
 
 keywords: [typical, age, range]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - typical-age-range
 - typical_age_range
 - typicalAgeRange
-- has_text_on_typical_age_range
+- has_text_of_typical_age_range
 ---
 
 Predicate to describe the Text of CreativeWork, Event.
 
 Use it like this: 
-- [ #has_/text_/on_/typical_age_range :: Text ] or 
-- [ has_text_on_typical_age_range :: Text ] 
+- [ #has_/text_/of_/typical_age_range :: Text ] or 
+- [ has_text_of_typical_age_range :: Text ] 
 
 The typical expected age range, e.g. "7-9", "11-".
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork, Event ]
-( #has_/name :: has_text_on_typical_age_range )
+( #has_/name :: has_text_of_typical_age_range )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

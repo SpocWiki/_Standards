@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_edit_eidr
-linkTitle: has_text_on_edit_eidr
+title: has_text_of_edit_eidr
+linkTitle: has_text_of_edit_eidr
 
 keywords: [edit, eidr]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - edit-eidr
 - edit_eidr
 - editEIDR
-- has_text_on_edit_eidr
+- has_text_of_edit_eidr
 ---
 
 Predicate to describe the Text of CreativeWork.
@@ -36,8 +36,8 @@ Predicate to describe the Text of CreativeWork.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/edit_eidr :: Text, URL ] or 
-- [ has_text_on_edit_eidr :: Text, URL ] 
+- [ #has_/text_/of_/edit_eidr :: Text, URL ] or 
+- [ has_text_of_edit_eidr :: Text, URL ] 
 
 An [EIDR](https://eidr.org/) (Entertainment Identifier Registry) [[identifier]] representing a specific edit / edition for a work of film or television.
 
@@ -51,7 +51,7 @@ Since schema.org types like [[Movie]] and [[TVEpisode]] can be used for both wor
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: has_text_on_edit_eidr )
+( #has_/name :: has_text_of_edit_eidr )
 ( #has_/range :: Text, URL )
 
 [ #is_/sub_property_of  :: identifier ]

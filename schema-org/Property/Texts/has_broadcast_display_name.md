@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_broadcast_display_name
-linkTitle: has_text_on_broadcast_display_name
+title: has_text_of_broadcast_display_name
+linkTitle: has_text_of_broadcast_display_name
 
 keywords: [broadcast, display, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - broadcast-display-name
 - broadcast_display_name
 - broadcastDisplayName
-- has_text_on_broadcast_display_name
+- has_text_of_broadcast_display_name
 ---
 
 Predicate to describe the Text of BroadcastService.
 
 Use it like this: 
-- [ #has_/text_/on_/broadcast_display_name :: Text ] or 
-- [ has_text_on_broadcast_display_name :: Text ] 
+- [ #has_/text_/of_/broadcast_display_name :: Text ] or 
+- [ has_text_of_broadcast_display_name :: Text ] 
 
 The name displayed in the channel guide. For many US affiliates, it is the network name.
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastService ]
-( #has_/name :: has_text_on_broadcast_display_name )
+( #has_/name :: has_text_of_broadcast_display_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_health_plan_id
-linkTitle: has_text_on_health_plan_id
+title: has_text_of_health_plan_id
+linkTitle: has_text_of_health_plan_id
 
 keywords: [health, plan, id]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - health-plan-id
 - health_plan_id
 - healthPlanId
-- has_text_on_health_plan_id
+- has_text_of_health_plan_id
 ---
 
 Predicate to describe the Text of HealthInsurancePlan.
@@ -36,14 +36,14 @@ Predicate to describe the Text of HealthInsurancePlan.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/health_plan_id :: Text ] or 
-- [ has_text_on_health_plan_id :: Text ] 
+- [ #has_/text_/of_/health_plan_id :: Text ] or 
+- [ has_text_of_health_plan_id :: Text ] 
 
 The 14-character, HIOS-generated Plan ID number. (Plan IDs must be unique, even across different markets.)
 
 Predicated describes that: 
 [ #has_/domain  :: HealthInsurancePlan ]
-( #has_/name :: has_text_on_health_plan_id )
+( #has_/name :: has_text_of_health_plan_id )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

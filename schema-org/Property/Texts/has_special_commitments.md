@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_special_commitments
-linkTitle: has_text_on_special_commitments
+title: has_text_of_special_commitments
+linkTitle: has_text_of_special_commitments
 
 keywords: [special, commitments]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - special-commitments
 - special_commitments
 - specialCommitments
-- has_text_on_special_commitments
+- has_text_of_special_commitments
 ---
 
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_/on_/special_commitments :: Text ] or 
-- [ has_text_on_special_commitments :: Text ] 
+- [ #has_/text_/of_/special_commitments :: Text ] or 
+- [ has_text_of_special_commitments :: Text ] 
 
 Any special commitments associated with this job posting. Valid entries include VeteranCommit, MilitarySpouseCommit, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: has_text_on_special_commitments )
+( #has_/name :: has_text_of_special_commitments )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

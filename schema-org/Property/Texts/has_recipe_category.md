@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_recipe_category
-linkTitle: has_text_on_recipe_category
+title: has_text_of_recipe_category
+linkTitle: has_text_of_recipe_category
 
 keywords: [recipe, category]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - recipe-category
 - recipe_category
 - recipeCategory
-- has_text_on_recipe_category
+- has_text_of_recipe_category
 ---
 
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [ #has_/text_/on_/recipe_category :: Text ] or 
-- [ has_text_on_recipe_category :: Text ] 
+- [ #has_/text_/of_/recipe_category :: Text ] or 
+- [ has_text_of_recipe_category :: Text ] 
 
 The category of the recipeï¿½for example, appetizer, entree, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: Recipe ]
-( #has_/name :: has_text_on_recipe_category )
+( #has_/name :: has_text_of_recipe_category )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

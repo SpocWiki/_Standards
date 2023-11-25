@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_cooking_method
-linkTitle: has_text_on_cooking_method
+title: has_text_of_cooking_method
+linkTitle: has_text_of_cooking_method
 
 keywords: [cooking, method]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - cooking-method
 - cooking_method
 - cookingMethod
-- has_text_on_cooking_method
+- has_text_of_cooking_method
 ---
 
 Predicate to describe the Text of Recipe.
 
 Use it like this: 
-- [ #has_/text_/on_/cooking_method :: Text ] or 
-- [ has_text_on_cooking_method :: Text ] 
+- [ #has_/text_/of_/cooking_method :: Text ] or 
+- [ has_text_of_cooking_method :: Text ] 
 
 The method of cooking, such as Frying, Steaming, ...
 
 Predicated describes that: 
 [ #has_/domain  :: Recipe ]
-( #has_/name :: has_text_on_cooking_method )
+( #has_/name :: has_text_of_cooking_method )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

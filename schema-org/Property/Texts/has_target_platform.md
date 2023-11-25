@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_target_platform
-linkTitle: has_text_on_target_platform
+title: has_text_of_target_platform
+linkTitle: has_text_of_target_platform
 
 keywords: [target, platform]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - target-platform
 - target_platform
 - targetPlatform
-- has_text_on_target_platform
+- has_text_of_target_platform
 ---
 
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [ #has_/text_/on_/target_platform :: Text ] or 
-- [ has_text_on_target_platform :: Text ] 
+- [ #has_/text_/of_/target_platform :: Text ] or 
+- [ has_text_of_target_platform :: Text ] 
 
 Type of app development: phone, Metro style, desktop, XBox, etc.
 
 Predicated describes that: 
 [ #has_/domain  :: APIReference ]
-( #has_/name :: has_text_on_target_platform )
+( #has_/name :: has_text_of_target_platform )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

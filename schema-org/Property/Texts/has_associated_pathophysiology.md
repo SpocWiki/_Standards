@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_associated_pathophysiology
-linkTitle: has_text_on_associated_pathophysiology
+title: has_text_of_associated_pathophysiology
+linkTitle: has_text_of_associated_pathophysiology
 
 keywords: [associated, pathophysiology]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - associated-pathophysiology
 - associated_pathophysiology
 - associatedPathophysiology
-- has_text_on_associated_pathophysiology
+- has_text_of_associated_pathophysiology
 ---
 
 Predicate to describe the Text of AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy.
 
 Use it like this: 
-- [ #has_/text_/on_/associated_pathophysiology :: Text ] or 
-- [ has_text_on_associated_pathophysiology :: Text ] 
+- [ #has_/text_/of_/associated_pathophysiology :: Text ] or 
+- [ has_text_of_associated_pathophysiology :: Text ] 
 
 If applicable, a description of the pathophysiology associated with the anatomical system, including potential abnormal changes in the mechanical, physical, and biochemical functions of the system.
 
 Predicated describes that: 
 [ #has_/domain  :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy ]
-( #has_/name :: has_text_on_associated_pathophysiology )
+( #has_/name :: has_text_of_associated_pathophysiology )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

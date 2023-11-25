@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_genre
-linkTitle: has_text_on_genre
+title: has_text_of_genre
+linkTitle: has_text_of_genre
 
 keywords: [genre]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - genre
 - genre
 - genre
-- has_text_on_genre
+- has_text_of_genre
 ---
 
 Predicate to describe the Text of BroadcastChannel, CreativeWork, MusicGroup.
 
 Use it like this: 
-- [ #has_/text_/on_/genre :: Text, URL ] or 
-- [ has_text_on_genre :: Text, URL ] 
+- [ #has_/text_/of_/genre :: Text, URL ] or 
+- [ has_text_of_genre :: Text, URL ] 
 
 Genre of the creative work, broadcast channel or group.
 
 Predicated describes that: 
 [ #has_/domain  :: BroadcastChannel, CreativeWork, MusicGroup ]
-( #has_/name :: has_text_on_genre )
+( #has_/name :: has_text_of_genre )
 ( #has_/range :: Text, URL )
 
 [ #has_/sub_properties :: [ legislationType ] ]

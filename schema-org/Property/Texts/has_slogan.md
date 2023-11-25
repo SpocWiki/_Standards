@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_slogan
-linkTitle: has_text_on_slogan
+title: has_text_of_slogan
+linkTitle: has_text_of_slogan
 
 keywords: [slogan]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - slogan
 - slogan
 - slogan
-- has_text_on_slogan
+- has_text_of_slogan
 ---
 
 Predicate to describe the Text of Brand, Organization, Place, Product, Service.
 
 Use it like this: 
-- [ #has_/text_/on_/slogan :: Text ] or 
-- [ has_text_on_slogan :: Text ] 
+- [ #has_/text_/of_/slogan :: Text ] or 
+- [ has_text_of_slogan :: Text ] 
 
 A slogan or motto associated with the item.
 
 Predicated describes that: 
 [ #has_/domain  :: Brand, Organization, Place, Product, Service ]
-( #has_/name :: has_text_on_slogan )
+( #has_/name :: has_text_of_slogan )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

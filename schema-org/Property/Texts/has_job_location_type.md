@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_job_location_type
-linkTitle: has_text_on_job_location_type
+title: has_text_of_job_location_type
+linkTitle: has_text_of_job_location_type
 
 keywords: [job, location, type]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - job-location-type
 - job_location_type
 - jobLocationType
-- has_text_on_job_location_type
+- has_text_of_job_location_type
 ---
 
 Predicate to describe the Text of JobPosting.
@@ -36,14 +36,14 @@ Predicate to describe the Text of JobPosting.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/job_location_type :: Text ] or 
-- [ has_text_on_job_location_type :: Text ] 
+- [ #has_/text_/of_/job_location_type :: Text ] or 
+- [ has_text_of_job_location_type :: Text ] 
 
 A description of the job location (e.g. TELECOMMUTE for telecommute jobs).
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: has_text_on_job_location_type )
+( #has_/name :: has_text_of_job_location_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

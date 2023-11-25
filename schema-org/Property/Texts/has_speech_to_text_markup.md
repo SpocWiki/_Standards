@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_speech_to_text_markup
-linkTitle: has_text_on_speech_to_text_markup
+title: has_text_of_speech_to_text_markup
+linkTitle: has_text_of_speech_to_text_markup
 
 keywords: [speech, to, text, markup]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - speech-to-text-markup
 - speech_to_text_markup
 - speechToTextMarkup
-- has_text_on_speech_to_text_markup
+- has_text_of_speech_to_text_markup
 ---
 
 Predicate to describe the Text of PronounceableText.
@@ -36,14 +36,14 @@ Predicate to describe the Text of PronounceableText.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/speech_to_text_markup :: Text ] or 
-- [ has_text_on_speech_to_text_markup :: Text ] 
+- [ #has_/text_/of_/speech_to_text_markup :: Text ] or 
+- [ has_text_of_speech_to_text_markup :: Text ] 
 
 Form of markup used. eg. [SSML](https://www.w3.org/TR/speech-synthesis11) or [IPA](https://www.wikidata.org/wiki/Property:P898).
 
 Predicated describes that: 
 [ #has_/domain  :: PronounceableText ]
-( #has_/name :: has_text_on_speech_to_text_markup )
+( #has_/name :: has_text_of_speech_to_text_markup )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

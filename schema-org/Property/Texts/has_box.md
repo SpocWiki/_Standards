@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_box
-linkTitle: has_text_on_box
+title: has_text_of_box
+linkTitle: has_text_of_box
 
 keywords: [box]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - box
 - box
 - box
-- has_text_on_box
+- has_text_of_box
 ---
 
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [ #has_/text_/on_/box :: Text ] or 
-- [ has_text_on_box :: Text ] 
+- [ #has_/text_/of_/box :: Text ] or 
+- [ has_text_of_box :: Text ] 
 
 A box is the area enclosed by the rectangle formed by two points. The first point is the lower corner, the second point is the upper corner. A box is expressed as two points separated by a space character.
 
 Predicated describes that: 
 [ #has_/domain  :: GeoShape ]
-( #has_/name :: has_text_on_box )
+( #has_/name :: has_text_of_box )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

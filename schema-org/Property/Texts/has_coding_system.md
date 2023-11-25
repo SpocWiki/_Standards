@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_coding_system
-linkTitle: has_text_on_coding_system
+title: has_text_of_coding_system
+linkTitle: has_text_of_coding_system
 
 keywords: [coding, system]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - coding-system
 - coding_system
 - codingSystem
-- has_text_on_coding_system
+- has_text_of_coding_system
 ---
 
 Predicate to describe the Text of MedicalCode.
 
 Use it like this: 
-- [ #has_/text_/on_/coding_system :: Text ] or 
-- [ has_text_on_coding_system :: Text ] 
+- [ #has_/text_/of_/coding_system :: Text ] or 
+- [ has_text_of_coding_system :: Text ] 
 
 The coding system, e.g. "ICD-10".
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalCode ]
-( #has_/name :: has_text_on_coding_system )
+( #has_/name :: has_text_of_coding_system )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

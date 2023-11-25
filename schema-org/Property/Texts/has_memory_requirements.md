@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_memory_requirements
-linkTitle: has_text_on_memory_requirements
+title: has_text_of_memory_requirements
+linkTitle: has_text_of_memory_requirements
 
 keywords: [memory, requirements]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - memory-requirements
 - memory_requirements
 - memoryRequirements
-- has_text_on_memory_requirements
+- has_text_of_memory_requirements
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/on_/memory_requirements :: Text, URL ] or 
-- [ has_text_on_memory_requirements :: Text, URL ] 
+- [ #has_/text_/of_/memory_requirements :: Text, URL ] or 
+- [ has_text_of_memory_requirements :: Text, URL ] 
 
 Minimum memory requirements.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_on_memory_requirements )
+( #has_/name :: has_text_of_memory_requirements )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

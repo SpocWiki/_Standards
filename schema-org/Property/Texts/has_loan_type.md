@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_loan_type
-linkTitle: has_text_on_loan_type
+title: has_text_of_loan_type
+linkTitle: has_text_of_loan_type
 
 keywords: [loan, type]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - loan-type
 - loan_type
 - loanType
-- has_text_on_loan_type
+- has_text_of_loan_type
 ---
 
 Predicate to describe the Text of LoanOrCredit.
@@ -36,14 +36,14 @@ Predicate to describe the Text of LoanOrCredit.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/loan_type :: Text, URL ] or 
-- [ has_text_on_loan_type :: Text, URL ] 
+- [ #has_/text_/of_/loan_type :: Text, URL ] or 
+- [ has_text_of_loan_type :: Text, URL ] 
 
 The type of a loan or credit.
 
 Predicated describes that: 
 [ #has_/domain  :: LoanOrCredit ]
-( #has_/name :: has_text_on_loan_type )
+( #has_/name :: has_text_of_loan_type )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

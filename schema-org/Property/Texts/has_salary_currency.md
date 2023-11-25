@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_salary_currency
-linkTitle: has_text_on_salary_currency
+title: has_text_of_salary_currency
+linkTitle: has_text_of_salary_currency
 
 keywords: [salary, currency]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - salary-currency
 - salary_currency
 - salaryCurrency
-- has_text_on_salary_currency
+- has_text_of_salary_currency
 ---
 
 Predicate to describe the Text of EmployeeRole, JobPosting.
 
 Use it like this: 
-- [ #has_/text_/on_/salary_currency :: Text ] or 
-- [ has_text_on_salary_currency :: Text ] 
+- [ #has_/text_/of_/salary_currency :: Text ] or 
+- [ has_text_of_salary_currency :: Text ] 
 
 The currency (coded using [ISO 4217](http://en.wikipedia.org/wiki/ISO_4217)) used for the main salary information in this job posting or for this employee.
 
 Predicated describes that: 
 [ #has_/domain  :: EmployeeRole, JobPosting ]
-( #has_/name :: has_text_on_salary_currency )
+( #has_/name :: has_text_of_salary_currency )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

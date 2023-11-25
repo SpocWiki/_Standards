@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_overdosage
-linkTitle: has_text_on_overdosage
+title: has_text_of_overdosage
+linkTitle: has_text_of_overdosage
 
 keywords: [overdosage]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - overdosage
 - overdosage
 - overdosage
-- has_text_on_overdosage
+- has_text_of_overdosage
 ---
 
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_/on_/overdosage :: Text ] or 
-- [ has_text_on_overdosage :: Text ] 
+- [ #has_/text_/of_/overdosage :: Text ] or 
+- [ has_text_of_overdosage :: Text ] 
 
 Any information related to overdose on a drug, including signs or symptoms, treatments, contact information for emergency response.
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: has_text_on_overdosage )
+( #has_/name :: has_text_of_overdosage )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

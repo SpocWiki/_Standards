@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_vehicle_interior_type
-linkTitle: has_text_on_vehicle_interior_type
+title: has_text_of_vehicle_interior_type
+linkTitle: has_text_of_vehicle_interior_type
 
 keywords: [vehicle, interior, type]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - vehicle-interior-type
 - vehicle_interior_type
 - vehicleInteriorType
-- has_text_on_vehicle_interior_type
+- has_text_of_vehicle_interior_type
 ---
 
 Predicate to describe the Text of Vehicle.
 
 Use it like this: 
-- [ #has_/text_/on_/vehicle_interior_type :: Text ] or 
-- [ has_text_on_vehicle_interior_type :: Text ] 
+- [ #has_/text_/of_/vehicle_interior_type :: Text ] or 
+- [ has_text_of_vehicle_interior_type :: Text ] 
 
 The type or material of the interior of the vehicle (e.g. synthetic fabric, leather, wood, etc.). While most interior types are characterized by the material used, an interior type can also be based on vehicle usage or target audience.
 
 Predicated describes that: 
 [ #has_/domain  :: Vehicle ]
-( #has_/name :: has_text_on_vehicle_interior_type )
+( #has_/name :: has_text_of_vehicle_interior_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

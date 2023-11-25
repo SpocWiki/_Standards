@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_educational_program_mode
-linkTitle: has_text_on_educational_program_mode
+title: has_text_of_educational_program_mode
+linkTitle: has_text_of_educational_program_mode
 
 keywords: [educational, program, mode]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - educational-program-mode
 - educational_program_mode
 - educationalProgramMode
-- has_text_on_educational_program_mode
+- has_text_of_educational_program_mode
 ---
 
 Predicate to describe the Text of EducationalOccupationalProgram.
@@ -36,14 +36,14 @@ Predicate to describe the Text of EducationalOccupationalProgram.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/educational_program_mode :: Text, URL ] or 
-- [ has_text_on_educational_program_mode :: Text, URL ] 
+- [ #has_/text_/of_/educational_program_mode :: Text, URL ] or 
+- [ has_text_of_educational_program_mode :: Text, URL ] 
 
 Similar to courseMode, the medium or means of delivery of the program as a whole. The value may either be a text label (e.g. "online", "onsite" or "blended"; "synchronous" or "asynchronous"; "full-time" or "part-time") or a URL reference to a term from a controlled vocabulary (e.g. https://ceds.ed.gov/element/001311#Asynchronous ).
 
 Predicated describes that: 
 [ #has_/domain  :: EducationalOccupationalProgram ]
-( #has_/name :: has_text_on_educational_program_mode )
+( #has_/name :: has_text_of_educational_program_mode )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

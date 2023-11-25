@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_administration_route
-linkTitle: has_text_on_administration_route
+title: has_text_of_administration_route
+linkTitle: has_text_of_administration_route
 
 keywords: [administration, route]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - administration-route
 - administration_route
 - administrationRoute
-- has_text_on_administration_route
+- has_text_of_administration_route
 ---
 
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_/on_/administration_route :: Text ] or 
-- [ has_text_on_administration_route :: Text ] 
+- [ #has_/text_/of_/administration_route :: Text ] or 
+- [ has_text_of_administration_route :: Text ] 
 
 A route by which this drug may be administered, e.g. "oral".
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: has_text_on_administration_route )
+( #has_/name :: has_text_of_administration_route )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

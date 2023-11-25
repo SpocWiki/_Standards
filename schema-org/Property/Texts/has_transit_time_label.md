@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_transit_time_label
-linkTitle: has_text_on_transit_time_label
+title: has_text_of_transit_time_label
+linkTitle: has_text_of_transit_time_label
 
 keywords: [transit, time, label]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - transit-time-label
 - transit_time_label
 - transitTimeLabel
-- has_text_on_transit_time_label
+- has_text_of_transit_time_label
 ---
 
 Predicate to describe the Text of DeliveryTimeSettings, OfferShippingDetails.
@@ -36,14 +36,14 @@ Predicate to describe the Text of DeliveryTimeSettings, OfferShippingDetails.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/transit_time_label :: Text ] or 
-- [ has_text_on_transit_time_label :: Text ] 
+- [ #has_/text_/of_/transit_time_label :: Text ] or 
+- [ has_text_of_transit_time_label :: Text ] 
 
 Label to match an [[OfferShippingDetails]] with a [[DeliveryTimeSettings]] (within the context of a [[shippingSettingsLink]] cross-reference).
 
 Predicated describes that: 
 [ #has_/domain  :: DeliveryTimeSettings, OfferShippingDetails ]
-( #has_/name :: has_text_on_transit_time_label )
+( #has_/name :: has_text_of_transit_time_label )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

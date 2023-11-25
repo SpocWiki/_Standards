@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_print_section
-linkTitle: has_text_on_print_section
+title: has_text_of_print_section
+linkTitle: has_text_of_print_section
 
 keywords: [print, section]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - print-section
 - print_section
 - printSection
-- has_text_on_print_section
+- has_text_of_print_section
 ---
 
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [ #has_/text_/on_/print_section :: Text ] or 
-- [ has_text_on_print_section :: Text ] 
+- [ #has_/text_/of_/print_section :: Text ] or 
+- [ has_text_of_print_section :: Text ] 
 
 If this NewsArticle appears in print, this field indicates the print section in which the article appeared.
 
 Predicated describes that: 
 [ #has_/domain  :: NewsArticle ]
-( #has_/name :: has_text_on_print_section )
+( #has_/name :: has_text_of_print_section )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

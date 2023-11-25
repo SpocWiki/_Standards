@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_clinical_pharmacology
-linkTitle: has_text_on_clinical_pharmacology
+title: has_text_of_clinical_pharmacology
+linkTitle: has_text_of_clinical_pharmacology
 
 keywords: [clinical, pharmacology]
 layout: 
@@ -30,20 +30,20 @@ aliases:
 - clinical-pharmacology
 - clinical_pharmacology
 - clinicalPharmacology
-- has_text_on_clinical_pharmacology
+- has_text_of_clinical_pharmacology
 ---
 
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_/on_/clinical_pharmacology :: Text ] or 
-- [ has_text_on_clinical_pharmacology :: Text ] 
+- [ #has_/text_/of_/clinical_pharmacology :: Text ] or 
+- [ has_text_of_clinical_pharmacology :: Text ] 
 
 Description of the absorption and elimination of drugs, including their concentration (pharmacokinetics, pK) and biological effects (pharmacodynamics, pD).
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: has_text_on_clinical_pharmacology )
+( #has_/name :: has_text_of_clinical_pharmacology )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

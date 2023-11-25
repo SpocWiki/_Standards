@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_ticket_number
-linkTitle: has_text_on_ticket_number
+title: has_text_of_ticket_number
+linkTitle: has_text_of_ticket_number
 
 keywords: [ticket, number]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - ticket-number
 - ticket_number
 - ticketNumber
-- has_text_on_ticket_number
+- has_text_of_ticket_number
 ---
 
 Predicate to describe the Text of Ticket.
 
 Use it like this: 
-- [ #has_/text_/on_/ticket_number :: Text ] or 
-- [ has_text_on_ticket_number :: Text ] 
+- [ #has_/text_/of_/ticket_number :: Text ] or 
+- [ has_text_of_ticket_number :: Text ] 
 
 The unique identifier for the ticket.
 
 Predicated describes that: 
 [ #has_/domain  :: Ticket ]
-( #has_/name :: has_text_on_ticket_number )
+( #has_/name :: has_text_of_ticket_number )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

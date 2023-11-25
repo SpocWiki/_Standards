@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_legal_name
-linkTitle: has_text_on_legal_name
+title: has_text_of_legal_name
+linkTitle: has_text_of_legal_name
 
 keywords: [legal, name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - legal-name
 - legal_name
 - legalName
-- has_text_on_legal_name
+- has_text_of_legal_name
 ---
 
 Predicate to describe the Text of Organization.
 
 Use it like this: 
-- [ #has_/text_/on_/legal_name :: Text ] or 
-- [ has_text_on_legal_name :: Text ] 
+- [ #has_/text_/of_/legal_name :: Text ] or 
+- [ has_text_of_legal_name :: Text ] 
 
 The official name of the organization, e.g. the registered company name.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization ]
-( #has_/name :: has_text_on_legal_name )
+( #has_/name :: has_text_of_legal_name )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

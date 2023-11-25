@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_release_notes
-linkTitle: has_text_on_release_notes
+title: has_text_of_release_notes
+linkTitle: has_text_of_release_notes
 
 keywords: [release, notes]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - release-notes
 - release_notes
 - releaseNotes
-- has_text_on_release_notes
+- has_text_of_release_notes
 ---
 
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/on_/release_notes :: Text, URL ] or 
-- [ has_text_on_release_notes :: Text, URL ] 
+- [ #has_/text_/of_/release_notes :: Text, URL ] or 
+- [ has_text_of_release_notes :: Text, URL ] 
 
 Description of what changed in this version.
 
 Predicated describes that: 
 [ #has_/domain  :: SoftwareApplication ]
-( #has_/name :: has_text_on_release_notes )
+( #has_/name :: has_text_of_release_notes )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

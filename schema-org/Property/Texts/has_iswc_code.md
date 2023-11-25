@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_iswc_code
-linkTitle: has_text_on_iswc_code
+title: has_text_of_iswc_code
+linkTitle: has_text_of_iswc_code
 
 keywords: [iswc, code]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - iswc-code
 - iswc_code
 - iswcCode
-- has_text_on_iswc_code
+- has_text_of_iswc_code
 ---
 
 Predicate to describe the Text of MusicComposition.
 
 Use it like this: 
-- [ #has_/text_/on_/iswc_code :: Text ] or 
-- [ has_text_on_iswc_code :: Text ] 
+- [ #has_/text_/of_/iswc_code :: Text ] or 
+- [ has_text_of_iswc_code :: Text ] 
 
 The International Standard Musical Work Code for the composition.
 
 Predicated describes that: 
 [ #has_/domain  :: MusicComposition ]
-( #has_/name :: has_text_on_iswc_code )
+( #has_/name :: has_text_of_iswc_code )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

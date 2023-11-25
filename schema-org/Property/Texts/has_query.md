@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_query
-linkTitle: has_text_on_query
+title: has_text_of_query
+linkTitle: has_text_of_query
 
 keywords: [query]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - query
 - query
 - query
-- has_text_on_query
+- has_text_of_query
 ---
 
 Predicate to describe the Text of SearchAction.
 
 Use it like this: 
-- [ #has_/text_/on_/query :: Text ] or 
-- [ has_text_on_query :: Text ] 
+- [ #has_/text_/of_/query :: Text ] or 
+- [ has_text_of_query :: Text ] 
 
 A sub property of instrument. The query used on this action.
 
 Predicated describes that: 
 [ #has_/domain  :: SearchAction ]
-( #has_/name :: has_text_on_query )
+( #has_/name :: has_text_of_query )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: instrument ]

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_code_value
-linkTitle: has_text_on_code_value
+title: has_text_of_code_value
+linkTitle: has_text_of_code_value
 
 keywords: [code, value]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - code-value
 - code_value
 - codeValue
-- has_text_on_code_value
+- has_text_of_code_value
 ---
 
 Predicate to describe the short textual code, 
@@ -37,12 +37,12 @@ that uniquely identifies the value of CategoryCode, MedicalCode.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/code_value :: Text ] or 
-- [ has_text_on_code_value :: Text ] 
+- [ #has_/text_/of_/code_value :: Text ] or 
+- [ has_text_of_code_value :: Text ] 
 
 Predicated describes that: 
 [ #has_/domain  :: [[../../Class/is_a_/Intangible/defined_term/category_code|CategoryCode]], [[../../Class/is_a_/Intangible/defined_term/category_code/medical_code|MedicalCode]] ]
-( #has_/name :: has_text_on_code_value )
+( #has_/name :: has_text_of_code_value )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: termCode ]

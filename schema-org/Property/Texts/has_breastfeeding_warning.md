@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_breastfeeding_warning
-linkTitle: has_text_on_breastfeeding_warning
+title: has_text_of_breastfeeding_warning
+linkTitle: has_text_of_breastfeeding_warning
 
 keywords: [breastfeeding, warning]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - breastfeeding-warning
 - breastfeeding_warning
 - breastfeedingWarning
-- has_text_on_breastfeeding_warning
+- has_text_of_breastfeeding_warning
 ---
 
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_/on_/breastfeeding_warning :: Text ] or 
-- [ has_text_on_breastfeeding_warning :: Text ] 
+- [ #has_/text_/of_/breastfeeding_warning :: Text ] or 
+- [ has_text_of_breastfeeding_warning :: Text ] 
 
 Any precaution, guidance, contraindication, etc. related to this drug"s use by breastfeeding mothers.
 
 Predicated describes that: 
 [ #has_/domain  :: Drug ]
-( #has_/name :: has_text_on_breastfeeding_warning )
+( #has_/name :: has_text_of_breastfeeding_warning )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

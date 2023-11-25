@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_property_id
-linkTitle: has_text_on_property_id
+title: has_text_of_property_id
+linkTitle: has_text_of_property_id
 
 keywords: [property, id]
 layout: 
@@ -28,14 +28,14 @@ aliases:
 - property-id
 - property_id
 - propertyID
-- has_text_on_property_id
+- has_text_of_property_id
 ---
 
 Predicate to describe the Text of PropertyValue.
 
 Use it like this: 
-- [ #has_/text_/on_/property_id :: Text, URL ] or 
-- [ has_text_on_property_id :: Text, URL ] 
+- [ #has_/text_/of_/property_id :: Text, URL ] or 
+- [ has_text_of_property_id :: Text, URL ] 
 
 A commonly used identifier for the characteristic represented by the property, e.g. a manufacturer or a standard code for a property. propertyID can be
 (1) a prefixed string, mainly meant to be used with standards for product properties; (2) a site-specific, non-prefixed string (e.g. the primary key of the property or the vendor-specific ID of the property), or (3)
@@ -44,7 +44,7 @@ Standards bodies should promote a standard prefix for the identifiers of propert
 
 Predicated describes that: 
 [ #has_/domain  :: PropertyValue ]
-( #has_/name :: has_text_on_property_id )
+( #has_/name :: has_text_of_property_id )
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 

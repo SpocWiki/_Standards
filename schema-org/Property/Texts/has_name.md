@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_name
-linkTitle: has_text_on_name
+title: has_text_of_name
+linkTitle: has_text_of_name
 
 keywords: [name]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - name
 - name
 - name
-- has_text_on_name
+- has_text_of_name
 ---
 
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [ #has_/text_/on_/name :: Text ] or 
-- [ has_text_on_name :: Text ] 
+- [ #has_/text_/of_/name :: Text ] or 
+- [ has_text_of_name :: Text ] 
 
 The name of the item.
 
 Predicated describes that: 
 [ #has_/domain  :: [Thing](../../Class/Thing.md) ]
-( #has_/name :: has_text_on_name )
+( #has_/name :: has_text_of_name )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: http://www.w3.org/2000/01/rdf-schema#label ]

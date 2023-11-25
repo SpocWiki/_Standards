@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_chemical_composition
-linkTitle: has_text_on_chemical_composition
+title: has_text_of_chemical_composition
+linkTitle: has_text_of_chemical_composition
 
 keywords: [chemical, composition]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - chemical-composition
 - chemical_composition
 - chemicalComposition
-- has_text_on_chemical_composition
+- has_text_of_chemical_composition
 ---
 
 Predicate to describe the Text of ChemicalSubstance.
@@ -36,14 +36,14 @@ Predicate to describe the Text of ChemicalSubstance.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/chemical_composition :: Text ] or 
-- [ has_text_on_chemical_composition :: Text ] 
+- [ #has_/text_/of_/chemical_composition :: Text ] or 
+- [ has_text_of_chemical_composition :: Text ] 
 
 The chemical composition describes the identity and relative ratio of the chemical elements that make up the substance.
 
 Predicated describes that: 
 [ #has_/domain  :: ChemicalSubstance ]
-( #has_/name :: has_text_on_chemical_composition )
+( #has_/name :: has_text_of_chemical_composition )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

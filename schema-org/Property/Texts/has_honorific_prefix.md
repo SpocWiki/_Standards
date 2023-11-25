@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_honorific_prefix
-linkTitle: has_text_on_honorific_prefix
+title: has_text_of_honorific_prefix
+linkTitle: has_text_of_honorific_prefix
 
 keywords: [honorific, prefix]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - honorific-prefix
 - honorific_prefix
 - honorificPrefix
-- has_text_on_honorific_prefix
+- has_text_of_honorific_prefix
 ---
 
 Predicate to describe the Text of Person.
 
 Use it like this: 
-- [ #has_/text_/on_/honorific_prefix :: Text ] or 
-- [ has_text_on_honorific_prefix :: Text ] 
+- [ #has_/text_/of_/honorific_prefix :: Text ] or 
+- [ has_text_of_honorific_prefix :: Text ] 
 
 An honorific prefix preceding a Person"s name such as Dr/Mrs/Mr.
 
 Predicated describes that: 
 [ #has_/domain  :: Person ]
-( #has_/name :: has_text_on_honorific_prefix )
+( #has_/name :: has_text_of_honorific_prefix )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

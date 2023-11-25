@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Predi_Text
 
-title: has_text_on_{{label_snail}}
-linkTitle: has_text_on_{{label_snail}}
+title: has_text_of_{{label_snail}}
+linkTitle: has_text_of_{{label_snail}}
 
 keywords: [{{label_snail}}]
 layout: 
@@ -31,7 +31,7 @@ aliases:
 - {{label-dash}}
 - {{label_snail}}
 - {{label}}
-- has_text_on_{{label_snail}}
+- has_text_of_{{label_snail}}
 ---
 
 Predicate to describe the Text of {{domainIncludes}}.
@@ -39,14 +39,14 @@ Predicate to describe the Text of {{domainIncludes}}.
 [ #is_/part_of :: {{isPartOf}} ]
 
 Use it like this: 
-- [ #has_/text_/on_/{{label_snail}} :: {{rangeIncludes}} ] or 
-- [ has_text_on_{{label_snail}} :: {{rangeIncludes}} ] 
+- [ #has_/text_/of_/{{label_snail}} :: {{rangeIncludes}} ] or 
+- [ has_text_of_{{label_snail}} :: {{rangeIncludes}} ] 
 
 {{comment}}
 
 Predicate describes that: 
 [ #has_/domain  :: {{domainIncludes}} ]
-( #has_/name :: has_text_on_{{label_snail}} )
+( #has_/name :: has_text_of_{{label_snail}} )
 ( #has_/range :: {{rangeIncludes}} )
 
 [ #is_/inverse_of  :: {{inverseOf}} ]

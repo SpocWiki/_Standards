@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_order_number
-linkTitle: has_text_on_order_number
+title: has_text_of_order_number
+linkTitle: has_text_of_order_number
 
 keywords: [order, number]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - order-number
 - order_number
 - orderNumber
-- has_text_on_order_number
+- has_text_of_order_number
 ---
 
 Predicate to describe the Text of Order.
 
 Use it like this: 
-- [ #has_/text_/on_/order_number :: Text ] or 
-- [ has_text_on_order_number :: Text ] 
+- [ #has_/text_/of_/order_number :: Text ] or 
+- [ has_text_of_order_number :: Text ] 
 
 The identifier of the transaction.
 
 Predicated describes that: 
 [ #has_/domain  :: Order ]
-( #has_/name :: has_text_on_order_number )
+( #has_/name :: has_text_of_order_number )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

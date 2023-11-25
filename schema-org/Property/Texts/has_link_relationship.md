@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_link_relationship
-linkTitle: has_text_on_link_relationship
+title: has_text_of_link_relationship
+linkTitle: has_text_of_link_relationship
 
 keywords: [link, relationship]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - link-relationship
 - link_relationship
 - linkRelationship
-- has_text_on_link_relationship
+- has_text_of_link_relationship
 ---
 
 Predicate to describe the Text of LinkRole.
@@ -36,14 +36,14 @@ Predicate to describe the Text of LinkRole.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/link_relationship :: Text ] or 
-- [ has_text_on_link_relationship :: Text ] 
+- [ #has_/text_/of_/link_relationship :: Text ] or 
+- [ has_text_of_link_relationship :: Text ] 
 
 Indicates the relationship type of a Web link.
 
 Predicated describes that: 
 [ #has_/domain  :: LinkRole ]
-( #has_/name :: has_text_on_link_relationship )
+( #has_/name :: has_text_of_link_relationship )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

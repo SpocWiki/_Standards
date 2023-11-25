@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_headline
-linkTitle: has_text_on_headline
+title: has_text_of_headline
+linkTitle: has_text_of_headline
 
 keywords: [headline]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - headline
 - headline
 - headline
-- has_text_on_headline
+- has_text_of_headline
 ---
 
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_/on_/headline :: Text ] or 
-- [ has_text_on_headline :: Text ] 
+- [ #has_/text_/of_/headline :: Text ] or 
+- [ has_text_of_headline :: Text ] 
 
 Headline of the article.
 
 Predicated describes that: 
 [ #has_/domain  :: CreativeWork ]
-( #has_/name :: has_text_on_headline )
+( #has_/name :: has_text_of_headline )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

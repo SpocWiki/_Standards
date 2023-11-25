@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_pre_op
-linkTitle: has_text_on_pre_op
+title: has_text_of_pre_op
+linkTitle: has_text_of_pre_op
 
 keywords: [pre, op]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - pre-op
 - pre_op
 - preOp
-- has_text_on_pre_op
+- has_text_of_pre_op
 ---
 
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- [ #has_/text_/on_/pre_op :: Text ] or 
-- [ has_text_on_pre_op :: Text ] 
+- [ #has_/text_/of_/pre_op :: Text ] or 
+- [ has_text_of_pre_op :: Text ] 
 
 A description of the workup, testing, and other preparations required before implanting this device.
 
 Predicated describes that: 
 [ #has_/domain  :: MedicalDevice ]
-( #has_/name :: has_text_on_pre_op )
+( #has_/name :: has_text_of_pre_op )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

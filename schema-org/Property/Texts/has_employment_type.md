@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_employment_type
-linkTitle: has_text_on_employment_type
+title: has_text_of_employment_type
+linkTitle: has_text_of_employment_type
 
 keywords: [employment, type]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - employment-type
 - employment_type
 - employmentType
-- has_text_on_employment_type
+- has_text_of_employment_type
 ---
 
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_/on_/employment_type :: Text ] or 
-- [ has_text_on_employment_type :: Text ] 
+- [ #has_/text_/of_/employment_type :: Text ] or 
+- [ has_text_of_employment_type :: Text ] 
 
 Type of employment (e.g. full-time, part-time, contract, temporary, seasonal, internship).
 
 Predicated describes that: 
 [ #has_/domain  :: JobPosting ]
-( #has_/name :: has_text_on_employment_type )
+( #has_/name :: has_text_of_employment_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

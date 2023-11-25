@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_muscle_action
-linkTitle: has_text_on_muscle_action
+title: has_text_of_muscle_action
+linkTitle: has_text_of_muscle_action
 
 keywords: [muscle, action]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - muscle-action
 - muscle_action
 - muscleAction
-- has_text_on_muscle_action
+- has_text_of_muscle_action
 ---
 
 Predicate to describe the Text of Muscle.
 
 Use it like this: 
-- [ #has_/text_/on_/muscle_action :: Text ] or 
-- [ has_text_on_muscle_action :: Text ] 
+- [ #has_/text_/of_/muscle_action :: Text ] or 
+- [ has_text_of_muscle_action :: Text ] 
 
 The movement the muscle generates.
 
 Predicated describes that: 
 [ #has_/domain  :: Muscle ]
-( #has_/name :: has_text_on_muscle_action )
+( #has_/name :: has_text_of_muscle_action )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_video_frame_size
-linkTitle: has_text_on_video_frame_size
+title: has_text_of_video_frame_size
+linkTitle: has_text_of_video_frame_size
 
 keywords: [video, frame, size]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - video-frame-size
 - video_frame_size
 - videoFrameSize
-- has_text_on_video_frame_size
+- has_text_of_video_frame_size
 ---
 
 Predicate to describe the Text of VideoObject.
 
 Use it like this: 
-- [ #has_/text_/on_/video_frame_size :: Text ] or 
-- [ has_text_on_video_frame_size :: Text ] 
+- [ #has_/text_/of_/video_frame_size :: Text ] or 
+- [ has_text_of_video_frame_size :: Text ] 
 
 The frame size of the video.
 
 Predicated describes that: 
 [ #has_/domain  :: VideoObject ]
-( #has_/name :: has_text_on_video_frame_size )
+( #has_/name :: has_text_of_video_frame_size )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

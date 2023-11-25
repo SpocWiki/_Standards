@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_tissue_sample
-linkTitle: has_text_on_tissue_sample
+title: has_text_of_tissue_sample
+linkTitle: has_text_of_tissue_sample
 
 keywords: [tissue, sample]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - tissue-sample
 - tissue_sample
 - tissueSample
-- has_text_on_tissue_sample
+- has_text_of_tissue_sample
 ---
 
 Predicate to describe the Text of PathologyTest.
 
 Use it like this: 
-- [ #has_/text_/on_/tissue_sample :: Text ] or 
-- [ has_text_on_tissue_sample :: Text ] 
+- [ #has_/text_/of_/tissue_sample :: Text ] or 
+- [ has_text_of_tissue_sample :: Text ] 
 
 The type of tissue sample required for the test.
 
 Predicated describes that: 
 [ #has_/domain  :: PathologyTest ]
-( #has_/name :: has_text_on_tissue_sample )
+( #has_/name :: has_text_of_tissue_sample )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

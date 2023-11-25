@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_floor_level
-linkTitle: has_text_on_floor_level
+title: has_text_of_floor_level
+linkTitle: has_text_of_floor_level
 
 keywords: [floor, level]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - floor-level
 - floor_level
 - floorLevel
-- has_text_on_floor_level
+- has_text_of_floor_level
 ---
 
 Predicate to describe the Text of Accommodation.
@@ -36,15 +36,15 @@ Predicate to describe the Text of Accommodation.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/floor_level :: Text ] or 
-- [ has_text_on_floor_level :: Text ] 
+- [ #has_/text_/of_/floor_level :: Text ] or 
+- [ has_text_of_floor_level :: Text ] 
 
 The floor level for an [[Accommodation]] in a multi-storey building. Since counting
   systems [vary internationally](https://en.wikipedia.org/wiki/Storey#Consecutive_number_floor_designations), the local system should be used where possible.
 
 Predicated describes that: 
 [ #has_/domain  :: Accommodation ]
-( #has_/name :: has_text_on_floor_level )
+( #has_/name :: has_text_of_floor_level )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

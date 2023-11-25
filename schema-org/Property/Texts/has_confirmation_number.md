@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_confirmation_number
-linkTitle: has_text_on_confirmation_number
+title: has_text_of_confirmation_number
+linkTitle: has_text_of_confirmation_number
 
 keywords: [confirmation, number]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - confirmation-number
 - confirmation_number
 - confirmationNumber
-- has_text_on_confirmation_number
+- has_text_of_confirmation_number
 ---
 
 Predicate to describe the Text of Invoice, Order.
 
 Use it like this: 
-- [ #has_/text_/on_/confirmation_number :: Text ] or 
-- [ has_text_on_confirmation_number :: Text ] 
+- [ #has_/text_/of_/confirmation_number :: Text ] or 
+- [ has_text_of_confirmation_number :: Text ] 
 
 A number that confirms the given order or payment has been received.
 
 Predicated describes that: 
 [ #has_/domain  :: Invoice, Order ]
-( #has_/name :: has_text_on_confirmation_number )
+( #has_/name :: has_text_of_confirmation_number )
 ( #has_/range :: Text )
 
 [ #is_/sub_property_of  :: identifier ]

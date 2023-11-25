@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_text_value
-linkTitle: has_text_on_text_value
+title: has_text_of_text_value
+linkTitle: has_text_of_text_value
 
 keywords: [text, value]
 layout: 
@@ -28,7 +28,7 @@ aliases:
 - text-value
 - text_value
 - textValue
-- has_text_on_text_value
+- has_text_of_text_value
 ---
 
 Predicate to describe the Text of PronounceableText.
@@ -36,14 +36,14 @@ Predicate to describe the Text of PronounceableText.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/on_/text_value :: Text ] or 
-- [ has_text_on_text_value :: Text ] 
+- [ #has_/text_/of_/text_value :: Text ] or 
+- [ has_text_of_text_value :: Text ] 
 
 Text value being annotated.
 
 Predicated describes that: 
 [ #has_/domain  :: PronounceableText ]
-( #has_/name :: has_text_on_text_value )
+( #has_/name :: has_text_of_text_value )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

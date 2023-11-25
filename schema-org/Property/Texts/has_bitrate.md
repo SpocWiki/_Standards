@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_bitrate
-linkTitle: has_text_on_bitrate
+title: has_text_of_bitrate
+linkTitle: has_text_of_bitrate
 
 keywords: [bitrate]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - bitrate
 - bitrate
 - bitrate
-- has_text_on_bitrate
+- has_text_of_bitrate
 ---
 
 Predicate to describe the Text of MediaObject.
 
 Use it like this: 
-- [ #has_/text_/on_/bitrate :: Text ] or 
-- [ has_text_on_bitrate :: Text ] 
+- [ #has_/text_/of_/bitrate :: Text ] or 
+- [ has_text_of_bitrate :: Text ] 
 
 The bitrate of the media object.
 
 Predicated describes that: 
 [ #has_/domain  :: MediaObject ]
-( #has_/name :: has_text_on_bitrate )
+( #has_/name :: has_text_of_bitrate )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

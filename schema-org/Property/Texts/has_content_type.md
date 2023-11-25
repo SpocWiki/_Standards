@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_content_type
-linkTitle: has_text_on_content_type
+title: has_text_of_content_type
+linkTitle: has_text_of_content_type
 
 keywords: [content, type]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - content-type
 - content_type
 - contentType
-- has_text_on_content_type
+- has_text_of_content_type
 ---
 
 Predicate to describe the Text of EntryPoint.
 
 Use it like this: 
-- [ #has_/text_/on_/content_type :: Text ] or 
-- [ has_text_on_content_type :: Text ] 
+- [ #has_/text_/of_/content_type :: Text ] or 
+- [ has_text_of_content_type :: Text ] 
 
 The supported content type(s) for an EntryPoint response.
 
 Predicated describes that: 
 [ #has_/domain  :: EntryPoint ]
-( #has_/name :: has_text_on_content_type )
+( #has_/name :: has_text_of_content_type )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
