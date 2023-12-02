@@ -181,7 +181,7 @@ The identifier property represents any kind of identifier for any kind of [[Thin
 Identifier:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
 
 ### Image
-An image of the item. This can be a [[../schema-org/Class/is_a_/data_type/text/URLs]] or a fully described [[ImageObject]].
+An image of the item. This can be a [[../schema-org/Class/is_a_/data_type/text/URL]] or a fully described [[ImageObject]].
 
 Image:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
 

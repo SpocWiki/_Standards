@@ -52,7 +52,7 @@ The Assembly has new (emergent) Qualities, expressed by new Methods,
 but there may also be Methods that just propagate and aggregate Element Methods. 
 
 Use it like this: 
-- [ #is_/part_of :: [ [[../Class/is_a_/creative_work|CreativeWork]], [[../Class/is_a_/data_type/text/URLs|URL]] ] ] or 
+- [ #is_/part_of :: [ [[../Class/is_a_/creative_work|CreativeWork]], [[../Class/is_a_/data_type/text/URL|URL]] ] ] or 
 - [ is_part_of :: [ [[../Class/is_a_/creative_work|CreativeWork]], [[../Class/is_a_/data_type/text/url|URL]] ] ]  
 
 Indicates an item or CreativeWork that this item, or CreativeWork (in some sense), is part of.

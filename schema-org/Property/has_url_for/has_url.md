@@ -33,7 +33,7 @@ aliases:
 
 # [[has_url]] 
 
-[[../../Predicate|Predicate]] to specify the official [[../../Class/is_a_/data_type/text/URLs|Url]] of this [[../../Class/Thing|Thing]], e.g. the Internet Domain registered to themselves.
+[[../../Predicate|Predicate]] to specify the official [[../../Class/is_a_/data_type/text/URL|Url]] of this [[../../Class/Thing|Thing]], e.g. the Internet Domain registered to themselves.
 
 In contrast [[has_url_for_same_as|sameAs]] specifies external URLs that represent the same item. 
 It is used when the item is described on multiple websites, and you want to explicitly state that these different URLs refer to **the same thing**.
