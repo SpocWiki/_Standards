@@ -1,12 +1,47 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AudioObjectAndBook, class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook, is_an_/AudioObjectAndBook, schema-org/AudioObjectAndBook]
-tags: ["class/FileClass", "class/AudioObjectAndBook", "#is_an_/AudioObjectAndBook", "class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook"]
+version: "2.0"
+tagNames:
+  - class/AudioObjectAndBook
+  - class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
+  - is_an_/AudioObjectAndBook
+  - schema-org/AudioObjectAndBook
+tags:
+  - class/FileClass
+  - class/AudioObjectAndBook
+  - "#is_an_/AudioObjectAndBook"
+  - class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject
+fields:
+  - id: 0k0OwE
+    name: Abridged
+    options: {}
+    type: Boolean
+    path: ""
+  - id: 3qKuqW
+    name: BookEdition
+    options: {}
+    type: Input
+    path: ""
+  - id: eIm7Gy
+    name: Illustrator
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: fgcmaI
+    name: Isbn
+    options: {}
+    type: Input
+    path: ""
+  - id: d1BYc9
+    name: NumberOfPages
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # AudioObjectAndBook

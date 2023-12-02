@@ -1,12 +1,43 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CourseInstance, class/Thing/Event/CourseInstance, is_a_/CourseInstance, schema-org/CourseInstance]
-tags: ["class/FileClass", "class/CourseInstance", "is_a_/CourseInstance", "class/Thing/Event/CourseInstance"]
+version: "2.0"
+tagNames:
+  - class/CourseInstance
+  - class/Thing/Event/CourseInstance
+  - is_a_/CourseInstance
+  - schema-org/CourseInstance
+tags:
+  - class/FileClass
+  - class/CourseInstance
+  - is_a_/CourseInstance
+  - class/Thing/Event/CourseInstance
 extends: FileClass~Thing/FileClass~Event
+fields:
+  - id: GNNJ0D
+    name: CourseLength
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Schedule')
+    type: MultiFile
+    path: ""
+  - id: vrIM03
+    name: CourseMode
+    options: {}
+    type: Input
+    path: ""
+  - id: 2rnNSj
+    name: CourseWorkload
+    options: {}
+    type: Input
+    path: ""
+  - id: SI3v6M
+    name: Instructor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
 ---
 
 # CourseInstance

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MovieClip, class/Thing/CreativeWork/Clip/MovieClip, is_a_/MovieClip, schema-org/MovieClip]
-tags: ["class/FileClass", "class/MovieClip", "is_a_/MovieClip", "class/Thing/CreativeWork/Clip/MovieClip"]
+version: "2.0"
+tagNames:
+  - class/MovieClip
+  - class/Thing/CreativeWork/Clip/MovieClip
+  - is_a_/MovieClip
+  - schema-org/MovieClip
+tags:
+  - class/FileClass
+  - class/MovieClip
+  - is_a_/MovieClip
+  - class/Thing/CreativeWork/Clip/MovieClip
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Clip
+fields: []
 ---
 
 # MovieClip

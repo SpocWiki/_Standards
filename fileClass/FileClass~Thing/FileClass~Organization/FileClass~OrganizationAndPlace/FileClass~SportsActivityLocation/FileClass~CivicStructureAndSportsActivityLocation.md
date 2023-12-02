@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CivicStructureAndSportsActivityLocation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation, is_a_/CivicStructureAndSportsActivityLocation, schema-org/CivicStructureAndSportsActivityLocation]
-tags: ["class/FileClass", "class/CivicStructureAndSportsActivityLocation", "is_a_/CivicStructureAndSportsActivityLocation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation"]
+version: "2.0"
+tagNames:
+  - class/CivicStructureAndSportsActivityLocation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation
+  - is_a_/CivicStructureAndSportsActivityLocation
+  - schema-org/CivicStructureAndSportsActivityLocation
+tags:
+  - class/FileClass
+  - class/CivicStructureAndSportsActivityLocation
+  - is_a_/CivicStructureAndSportsActivityLocation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation
+fields:
+  - id: KCmH8v
+    name: OpeningHours
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # CivicStructureAndSportsActivityLocation

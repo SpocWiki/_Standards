@@ -1,12 +1,51 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MusicRelease, class/Thing/CreativeWork/MusicPlaylist/MusicRelease, is_a_/MusicRelease, schema-org/MusicRelease]
-tags: ["class/FileClass", "class/MusicRelease", "is_a_/MusicRelease", "class/Thing/CreativeWork/MusicPlaylist/MusicRelease"]
+version: "2.0"
+tagNames:
+  - class/MusicRelease
+  - class/Thing/CreativeWork/MusicPlaylist/MusicRelease
+  - is_a_/MusicRelease
+  - schema-org/MusicRelease
+tags:
+  - class/FileClass
+  - class/MusicRelease
+  - is_a_/MusicRelease
+  - class/Thing/CreativeWork/MusicPlaylist/MusicRelease
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist
+fields:
+  - id: PSUGvY
+    name: CatalogNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: aKy9sR
+    name: CreditedTo
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: FFDhYH
+    name: Duration
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: 9ikCwD
+    name: RecordLabel
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: KgX4XZ
+    name: ReleaseOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')
+    type: MultiFile
+    path: ""
 ---
 
 # MusicRelease

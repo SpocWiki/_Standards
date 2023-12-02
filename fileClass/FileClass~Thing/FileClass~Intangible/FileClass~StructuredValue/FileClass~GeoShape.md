@@ -1,12 +1,63 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/GeoShape, class/Thing/Intangible/StructuredValue/GeoShape, is_a_/GeoShape, schema-org/GeoShape]
-tags: ["class/FileClass", "class/GeoShape", "is_a_/GeoShape", "class/Thing/Intangible/StructuredValue/GeoShape"]
+version: "2.0"
+tagNames:
+  - class/GeoShape
+  - class/Thing/Intangible/StructuredValue/GeoShape
+  - is_a_/GeoShape
+  - schema-org/GeoShape
+tags:
+  - class/FileClass
+  - class/GeoShape
+  - is_a_/GeoShape
+  - class/Thing/Intangible/StructuredValue/GeoShape
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: qnKTMZ
+    name: Address
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ""
+  - id: yQYx9y
+    name: AddressCountry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ""
+  - id: Htjd5e
+    name: Box
+    options: {}
+    type: Input
+    path: ""
+  - id: bzKkQx
+    name: Circle
+    options: {}
+    type: Input
+    path: ""
+  - id: nSeghS
+    name: Elevation
+    options: {}
+    type: Number
+    path: ""
+  - id: cjatH3
+    name: Line
+    options: {}
+    type: Input
+    path: ""
+  - id: Oq3FKc
+    name: Polygon
+    options: {}
+    type: Input
+    path: ""
+  - id: HnKFbW
+    name: PostalCode
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # GeoShape

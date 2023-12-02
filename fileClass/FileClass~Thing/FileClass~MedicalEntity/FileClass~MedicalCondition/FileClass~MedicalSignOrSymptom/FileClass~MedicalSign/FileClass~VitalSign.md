@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/VitalSign, class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign, is_a_/VitalSign, schema-org/VitalSign]
-tags: ["class/FileClass", "class/VitalSign", "is_a_/VitalSign", "class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign"]
+version: "2.0"
+tagNames:
+  - class/VitalSign
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign
+  - is_a_/VitalSign
+  - schema-org/VitalSign
+tags:
+  - class/FileClass
+  - class/VitalSign
+  - is_a_/VitalSign
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign/VitalSign
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom/FileClass~MedicalSign
+fields: []
 ---
 
 # VitalSign

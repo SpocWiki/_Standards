@@ -1,12 +1,65 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ContactPoint, class/Thing/Intangible/StructuredValue/ContactPoint, is_a_/ContactPoint, schema-org/ContactPoint]
-tags: ["class/FileClass", "class/ContactPoint", "is_a_/ContactPoint", "class/Thing/Intangible/StructuredValue/ContactPoint"]
+version: "2.0"
+tagNames:
+  - class/ContactPoint
+  - class/Thing/Intangible/StructuredValue/ContactPoint
+  - is_a_/ContactPoint
+  - schema-org/ContactPoint
+tags:
+  - class/FileClass
+  - class/ContactPoint
+  - is_a_/ContactPoint
+  - class/Thing/Intangible/StructuredValue/ContactPoint
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: y6Pn36
+    name: AreaServed
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: hSjQ5J
+    name: AvailableLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ""
+  - id: d6k3on
+    name: ContactType
+    options: {}
+    type: Input
+    path: ""
+  - id: NazSDM
+    name: Email
+    options: {}
+    type: Input
+    path: ""
+  - id: WZGfGz
+    name: FaxNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: lUNIf5
+    name: HoursAvailable
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
+    type: MultiFile
+    path: ""
+  - id: oHqFT5
+    name: ProductSupported
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ""
+  - id: Zomav0
+    name: Telephone
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # ContactPoint

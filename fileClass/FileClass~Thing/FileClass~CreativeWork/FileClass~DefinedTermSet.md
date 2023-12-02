@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DefinedTermSet, class/Thing/CreativeWork/DefinedTermSet, is_a_/DefinedTermSet, schema-org/DefinedTermSet]
-tags: ["class/FileClass", "class/DefinedTermSet", "is_a_/DefinedTermSet", "class/Thing/CreativeWork/DefinedTermSet"]
+version: "2.0"
+tagNames:
+  - class/DefinedTermSet
+  - class/Thing/CreativeWork/DefinedTermSet
+  - is_a_/DefinedTermSet
+  - schema-org/DefinedTermSet
+tags:
+  - class/FileClass
+  - class/DefinedTermSet
+  - is_a_/DefinedTermSet
+  - class/Thing/CreativeWork/DefinedTermSet
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: XPpQcz
+    name: HasDefinedTerm
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
 ---
 
 # DefinedTermSet

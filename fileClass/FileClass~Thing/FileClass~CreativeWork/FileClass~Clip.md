@@ -1,12 +1,72 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: paperclip
-version: 5
-tagNames: [class/Clip, class/Thing/CreativeWork/Clip, is_a_/Clip, schema-org/Clip]
-tags: ["class/FileClass", "class/Clip", "is_a_/Clip", "class/Thing/CreativeWork/Clip"]
+version: "2.0"
+tagNames:
+  - class/Clip
+  - class/Thing/CreativeWork/Clip
+  - is_a_/Clip
+  - schema-org/Clip
+tags:
+  - class/FileClass
+  - class/Clip
+  - is_a_/Clip
+  - class/Thing/CreativeWork/Clip
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: upb46r
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: kyaKg4
+    name: ClipNumber
+    options: {}
+    type: Number
+    path: ""
+  - id: LJhoiA
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: 5EruHH
+    name: EndOffset
+    options: {}
+    type: Number
+    path: ""
+  - id: 8wfi62
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ""
+  - id: WlLMz9
+    name: PartOfEpisode
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
+    type: MultiFile
+    path: ""
+  - id: CwGd3j
+    name: PartOfSeason
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
+    type: MultiFile
+    path: ""
+  - id: 94Jdv2
+    name: PartOfSeries
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')
+    type: MultiFile
+    path: ""
+  - id: dtMnNZ
+    name: StartOffset
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # Clip

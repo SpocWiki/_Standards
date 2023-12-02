@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/InformAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction, is_an_/InformAction, schema-org/InformAction]
-tags: ["class/FileClass", "class/InformAction", "#is_an_/InformAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction"]
+version: "2.0"
+tagNames:
+  - class/InformAction
+  - class/Thing/Action/InteractAction/CommunicateAction/InformAction
+  - is_an_/InformAction
+  - schema-org/InformAction
+tags:
+  - class/FileClass
+  - class/InformAction
+  - "#is_an_/InformAction"
+  - class/Thing/Action/InteractAction/CommunicateAction/InformAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
+fields:
+  - id: czwFER
+    name: Events
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ""
 ---
 
 # InformAction

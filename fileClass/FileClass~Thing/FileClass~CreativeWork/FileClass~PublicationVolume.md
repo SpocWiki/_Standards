@@ -1,12 +1,41 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PublicationVolume, class/Thing/CreativeWork/PublicationVolume, is_a_/PublicationVolume, schema-org/PublicationVolume]
-tags: ["class/FileClass", "class/PublicationVolume", "is_a_/PublicationVolume", "class/Thing/CreativeWork/PublicationVolume"]
+version: "2.0"
+tagNames:
+  - class/PublicationVolume
+  - class/Thing/CreativeWork/PublicationVolume
+  - is_a_/PublicationVolume
+  - schema-org/PublicationVolume
+tags:
+  - class/FileClass
+  - class/PublicationVolume
+  - is_a_/PublicationVolume
+  - class/Thing/CreativeWork/PublicationVolume
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: xlEnXR
+    name: PageEnd
+    options: {}
+    type: Number
+    path: ""
+  - id: dgSyUe
+    name: PageStart
+    options: {}
+    type: Number
+    path: ""
+  - id: 7jOElV
+    name: Pagination
+    options: {}
+    type: Input
+    path: ""
+  - id: 5RGuUD
+    name: VolumeNumber
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # PublicationVolume

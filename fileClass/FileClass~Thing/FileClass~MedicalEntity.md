@@ -1,12 +1,56 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: plus-circle
-version: 5
-tagNames: [class/MedicalEntity, class/Thing/MedicalEntity, is_a_/MedicalEntity, schema-org/MedicalEntity]
-tags: ["class/FileClass", "class/MedicalEntity", "is_a_/MedicalEntity", "class/Thing/MedicalEntity"]
+version: "2.0"
+tagNames:
+  - class/MedicalEntity
+  - class/Thing/MedicalEntity
+  - is_a_/MedicalEntity
+  - schema-org/MedicalEntity
+tags:
+  - class/FileClass
+  - class/MedicalEntity
+  - is_a_/MedicalEntity
+  - class/Thing/MedicalEntity
 extends: FileClass~Thing
+fields:
+  - id: 0qvrmg
+    name: Code
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode')
+    type: MultiFile
+    path: ""
+  - id: cffPaC
+    name: Funding
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
+    type: MultiFile
+    path: ""
+  - id: G4eQpY
+    name: Guideline
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalGuideline')
+    type: MultiFile
+    path: ""
+  - id: BlzRaM
+    name: LegalStatus
+    options: {}
+    type: Input
+    path: ""
+  - id: fuTmqd
+    name: RecognizingAuthority
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: CAU3Ve
+    name: Study
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalStudy')
+    type: MultiFile
+    path: ""
 ---
 
 # MedicalEntity

@@ -1,12 +1,43 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ImageObject, class/Thing/CreativeWork/MediaObject/ImageObject, is_an_/ImageObject, schema-org/ImageObject]
-tags: ["class/FileClass", "class/ImageObject", "#is_an_/ImageObject", "class/Thing/CreativeWork/MediaObject/ImageObject"]
+version: "2.0"
+tagNames:
+  - class/ImageObject
+  - class/Thing/CreativeWork/MediaObject/ImageObject
+  - is_an_/ImageObject
+  - schema-org/ImageObject
+tags:
+  - class/FileClass
+  - class/ImageObject
+  - "#is_an_/ImageObject"
+  - class/Thing/CreativeWork/MediaObject/ImageObject
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
+fields:
+  - id: KfNCDq
+    name: Caption
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ""
+  - id: 8sTFkP
+    name: EmbeddedTextCaption
+    options: {}
+    type: Input
+    path: ""
+  - id: m8npFS
+    name: ExifData
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ""
+  - id: zE9HMt
+    name: RepresentativeOfPage
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # ImageObject

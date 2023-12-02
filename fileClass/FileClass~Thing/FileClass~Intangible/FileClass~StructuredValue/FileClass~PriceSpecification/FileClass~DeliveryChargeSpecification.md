@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DeliveryChargeSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification, is_a_/DeliveryChargeSpecification, schema-org/DeliveryChargeSpecification]
-tags: ["class/FileClass", "class/DeliveryChargeSpecification", "is_a_/DeliveryChargeSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification"]
+version: "2.0"
+tagNames:
+  - class/DeliveryChargeSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification
+  - is_a_/DeliveryChargeSpecification
+  - schema-org/DeliveryChargeSpecification
+tags:
+  - class/FileClass
+  - class/DeliveryChargeSpecification
+  - is_a_/DeliveryChargeSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
+fields:
+  - id: MSpeP6
+    name: AreaServed
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: QYxNmY
+    name: EligibleRegion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
+    type: MultiFile
+    path: ""
+  - id: JZIVFW
+    name: IneligibleRegion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
+    type: MultiFile
+    path: ""
 ---
 
 # DeliveryChargeSpecification

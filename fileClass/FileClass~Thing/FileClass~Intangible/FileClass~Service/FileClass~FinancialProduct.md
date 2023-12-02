@@ -1,12 +1,36 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/FinancialProduct, class/Thing/Intangible/Service/FinancialProduct, is_a_/FinancialProduct, schema-org/FinancialProduct]
-tags: ["class/FileClass", "class/FinancialProduct", "is_a_/FinancialProduct", "class/Thing/Intangible/Service/FinancialProduct"]
+version: "2.0"
+tagNames:
+  - class/FinancialProduct
+  - class/Thing/Intangible/Service/FinancialProduct
+  - is_a_/FinancialProduct
+  - schema-org/FinancialProduct
+tags:
+  - class/FileClass
+  - class/FinancialProduct
+  - is_a_/FinancialProduct
+  - class/Thing/Intangible/Service/FinancialProduct
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
+fields:
+  - id: xqP7gG
+    name: AnnualPercentageRate
+    options: {}
+    type: Number
+    path: ""
+  - id: vPGtpW
+    name: FeesAndCommissionsSpecification
+    options: {}
+    type: Input
+    path: ""
+  - id: lQrXDy
+    name: InterestRate
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # FinancialProduct

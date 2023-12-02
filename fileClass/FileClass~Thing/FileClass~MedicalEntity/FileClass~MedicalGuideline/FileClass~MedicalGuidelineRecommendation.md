@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalGuidelineRecommendation, class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation, is_a_/MedicalGuidelineRecommendation, schema-org/MedicalGuidelineRecommendation]
-tags: ["class/FileClass", "class/MedicalGuidelineRecommendation", "is_a_/MedicalGuidelineRecommendation", "class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation"]
+version: "2.0"
+tagNames:
+  - class/MedicalGuidelineRecommendation
+  - class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation
+  - is_a_/MedicalGuidelineRecommendation
+  - schema-org/MedicalGuidelineRecommendation
+tags:
+  - class/FileClass
+  - class/MedicalGuidelineRecommendation
+  - is_a_/MedicalGuidelineRecommendation
+  - class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline
+fields:
+  - id: jtqPvw
+    name: RecommendationStrength
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # MedicalGuidelineRecommendation

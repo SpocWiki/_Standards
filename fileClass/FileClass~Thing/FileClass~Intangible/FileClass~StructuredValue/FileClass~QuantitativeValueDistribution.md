@@ -1,12 +1,53 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/QuantitativeValueDistribution, class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution, is_a_/QuantitativeValueDistribution, schema-org/QuantitativeValueDistribution]
-tags: ["class/FileClass", "class/QuantitativeValueDistribution", "is_a_/QuantitativeValueDistribution", "class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution"]
+version: "2.0"
+tagNames:
+  - class/QuantitativeValueDistribution
+  - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution
+  - is_a_/QuantitativeValueDistribution
+  - schema-org/QuantitativeValueDistribution
+tags:
+  - class/FileClass
+  - class/QuantitativeValueDistribution
+  - is_a_/QuantitativeValueDistribution
+  - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: htvtHt
+    name: Duration
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: E28KYa
+    name: Median
+    options: {}
+    type: Number
+    path: ""
+  - id: me0mEt
+    name: Percentile10
+    options: {}
+    type: Number
+    path: ""
+  - id: sLxE25
+    name: Percentile25
+    options: {}
+    type: Number
+    path: ""
+  - id: AGNKhv
+    name: Percentile75
+    options: {}
+    type: Number
+    path: ""
+  - id: 8w8BqQ
+    name: Percentile90
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # QuantitativeValueDistribution

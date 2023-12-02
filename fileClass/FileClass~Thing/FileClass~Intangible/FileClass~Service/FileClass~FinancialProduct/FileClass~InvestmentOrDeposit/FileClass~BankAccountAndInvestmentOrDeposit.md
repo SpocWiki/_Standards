@@ -1,12 +1,38 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BankAccountAndInvestmentOrDeposit, class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BankAccountAndInvestmentOrDeposit, is_a_/BankAccountAndInvestmentOrDeposit, schema-org/BankAccountAndInvestmentOrDeposit]
-tags: ["class/FileClass", "class/BankAccountAndInvestmentOrDeposit", "is_a_/BankAccountAndInvestmentOrDeposit", "class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BankAccountAndInvestmentOrDeposit"]
+version: "2.0"
+tagNames:
+  - class/BankAccountAndInvestmentOrDeposit
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BankAccountAndInvestmentOrDeposit
+  - is_a_/BankAccountAndInvestmentOrDeposit
+  - schema-org/BankAccountAndInvestmentOrDeposit
+tags:
+  - class/FileClass
+  - class/BankAccountAndInvestmentOrDeposit
+  - is_a_/BankAccountAndInvestmentOrDeposit
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BankAccountAndInvestmentOrDeposit
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit
+fields:
+  - id: TiNSae
+    name: AccountMinimumInflow
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
+  - id: BBZFDr
+    name: AccountOverdraftLimit
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
+  - id: wOFrYR
+    name: BankAccountType
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # BankAccountAndInvestmentOrDeposit

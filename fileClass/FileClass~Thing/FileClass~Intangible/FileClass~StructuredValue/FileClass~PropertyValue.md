@@ -1,12 +1,56 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PropertyValue, class/Thing/Intangible/StructuredValue/PropertyValue, is_a_/PropertyValue, schema-org/PropertyValue]
-tags: ["class/FileClass", "class/PropertyValue", "is_a_/PropertyValue", "class/Thing/Intangible/StructuredValue/PropertyValue"]
+version: "2.0"
+tagNames:
+  - class/PropertyValue
+  - class/Thing/Intangible/StructuredValue/PropertyValue
+  - is_a_/PropertyValue
+  - schema-org/PropertyValue
+tags:
+  - class/FileClass
+  - class/PropertyValue
+  - is_a_/PropertyValue
+  - class/Thing/Intangible/StructuredValue/PropertyValue
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: Ds37bM
+    name: MaxValue
+    options: {}
+    type: Number
+    path: ""
+  - id: DHMF6G
+    name: MinValue
+    options: {}
+    type: Number
+    path: ""
+  - id: koI6he
+    name: PropertyID
+    options: {}
+    type: Input
+    path: ""
+  - id: zmHcoY
+    name: UnitCode
+    options: {}
+    type: Input
+    path: ""
+  - id: bo6tcB
+    name: UnitText
+    options: {}
+    type: Input
+    path: ""
+  - id: rUKk5z
+    name: Value
+    options: {}
+    type: Boolean
+    path: ""
+  - id: ckVkAq
+    name: ValueReference
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # PropertyValue

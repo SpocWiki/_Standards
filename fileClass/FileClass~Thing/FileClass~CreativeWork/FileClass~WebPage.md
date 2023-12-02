@@ -1,12 +1,73 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/WebPage, class/Thing/CreativeWork/WebPage, is_a_/WebPage, schema-org/WebPage]
-tags: ["class/FileClass", "class/WebPage", "is_a_/WebPage", "class/Thing/CreativeWork/WebPage"]
+version: "2.0"
+tagNames:
+  - class/WebPage
+  - class/Thing/CreativeWork/WebPage
+  - is_a_/WebPage
+  - schema-org/WebPage
+tags:
+  - class/FileClass
+  - class/WebPage
+  - is_a_/WebPage
+  - class/Thing/CreativeWork/WebPage
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: 4XDQqU
+    name: Breadcrumb
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList/BreadcrumbList')
+    type: MultiFile
+    path: ""
+  - id: KNAxZq
+    name: LastReviewed
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: 0GDqOz
+    name: MainContentOfPage
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebPageElement')
+    type: MultiFile
+    path: ""
+  - id: sXTDQ4
+    name: PrimaryImageOfPage
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ""
+  - id: 3moY3n
+    name: RelatedLink
+    options: {}
+    type: Input
+    path: ""
+  - id: MZWji7
+    name: ReviewedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: Sg6y4C
+    name: SignificantLink
+    options: {}
+    type: Input
+    path: ""
+  - id: PTNLgY
+    name: Speakable
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/SpeakableSpecification')
+    type: MultiFile
+    path: ""
+  - id: oKwzPZ
+    name: Specialty
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # WebPage

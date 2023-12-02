@@ -1,12 +1,77 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BroadcastService, class/Thing/Intangible/Service/BroadcastService, is_a_/BroadcastService, schema-org/BroadcastService]
-tags: ["class/FileClass", "class/BroadcastService", "is_a_/BroadcastService", "class/Thing/Intangible/Service/BroadcastService"]
+version: "2.0"
+tagNames:
+  - class/BroadcastService
+  - class/Thing/Intangible/Service/BroadcastService
+  - is_a_/BroadcastService
+  - schema-org/BroadcastService
+tags:
+  - class/FileClass
+  - class/BroadcastService
+  - is_a_/BroadcastService
+  - class/Thing/Intangible/Service/BroadcastService
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
+fields:
+  - id: 8iUZpG
+    name: BroadcastAffiliateOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: xKQWQS
+    name: BroadcastDisplayName
+    options: {}
+    type: Input
+    path: ""
+  - id: UuRRE8
+    name: BroadcastFrequency
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/BroadcastFrequencySpecification')
+    type: MultiFile
+    path: ""
+  - id: mIEM5S
+    name: BroadcastTimezone
+    options: {}
+    type: Input
+    path: ""
+  - id: PVbjge
+    name: Broadcaster
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: vQVxvD
+    name: CallSign
+    options: {}
+    type: Input
+    path: ""
+  - id: F5odBy
+    name: HasBroadcastChannel
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/BroadcastChannel')
+    type: MultiFile
+    path: ""
+  - id: xSfep6
+    name: InLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ""
+  - id: T3g2V4
+    name: ParentService
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Service/BroadcastService')
+    type: MultiFile
+    path: ""
+  - id: bAlqxq
+    name: VideoFormat
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # BroadcastService

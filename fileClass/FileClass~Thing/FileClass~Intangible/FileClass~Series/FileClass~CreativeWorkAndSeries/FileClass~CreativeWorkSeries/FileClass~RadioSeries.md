@@ -1,12 +1,73 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RadioSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/RadioSeries, is_a_/RadioSeries, schema-org/RadioSeries]
-tags: ["class/FileClass", "class/RadioSeries", "is_a_/RadioSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/RadioSeries"]
+version: "2.0"
+tagNames:
+  - class/RadioSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/RadioSeries
+  - is_a_/RadioSeries
+  - schema-org/RadioSeries
+tags:
+  - class/FileClass
+  - class/RadioSeries
+  - is_a_/RadioSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/RadioSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
+fields:
+  - id: iaCV6G
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: k3JEQK
+    name: ContainsSeason
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
+    type: MultiFile
+    path: ""
+  - id: hZ1ruC
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: OA1osf
+    name: Episode
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
+    type: MultiFile
+    path: ""
+  - id: FIvqlr
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ""
+  - id: D7Zbj0
+    name: NumberOfEpisodes
+    options: {}
+    type: Number
+    path: ""
+  - id: NQD73c
+    name: NumberOfSeasons
+    options: {}
+    type: Number
+    path: ""
+  - id: rJLxGP
+    name: ProductionCompany
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: abUADu
+    name: Trailer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
+    type: MultiFile
+    path: ""
 ---
 
 # RadioSeries

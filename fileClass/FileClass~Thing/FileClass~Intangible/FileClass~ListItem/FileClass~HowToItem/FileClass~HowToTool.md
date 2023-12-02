@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/HowToTool, class/Thing/Intangible/ListItem/HowToItem/HowToTool, is_a_/HowToTool, schema-org/HowToTool]
-tags: ["class/FileClass", "class/HowToTool", "is_a_/HowToTool", "class/Thing/Intangible/ListItem/HowToItem/HowToTool"]
+version: "2.0"
+tagNames:
+  - class/HowToTool
+  - class/Thing/Intangible/ListItem/HowToItem/HowToTool
+  - is_a_/HowToTool
+  - schema-org/HowToTool
+tags:
+  - class/FileClass
+  - class/HowToTool
+  - is_a_/HowToTool
+  - class/Thing/Intangible/ListItem/HowToItem/HowToTool
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem
+fields: []
 ---
 
 # HowToTool

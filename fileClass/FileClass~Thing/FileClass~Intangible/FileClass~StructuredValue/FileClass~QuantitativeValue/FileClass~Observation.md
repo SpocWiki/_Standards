@@ -1,12 +1,52 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Observation, class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation, is_an_/Observation, schema-org/Observation]
-tags: ["class/FileClass", "class/Observation", "#is_an_/Observation", "class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation"]
+version: "2.0"
+tagNames:
+  - class/Observation
+  - class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation
+  - is_an_/Observation
+  - schema-org/Observation
+tags:
+  - class/FileClass
+  - class/Observation
+  - "#is_an_/Observation"
+  - class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue
+fields:
+  - id: fiYfgW
+    name: MarginOfError
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: 0b1Q80
+    name: MeasurementDenominator
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ConstraintNode/StatisticalVariable')
+    type: MultiFile
+    path: ""
+  - id: 5ItbOp
+    name: ObservationAbout
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: 6Wd8qy
+    name: ObservationDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: KWMZS6
+    name: VariableMeasured
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ""
 ---
 
 # Observation

@@ -1,12 +1,51 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Game, class/Thing/CreativeWork/Game, is_a_/Game, schema-org/Game]
-tags: ["class/FileClass", "class/Game", "is_a_/Game", "class/Thing/CreativeWork/Game"]
+version: "2.0"
+tagNames:
+  - class/Game
+  - class/Thing/CreativeWork/Game
+  - is_a_/Game
+  - schema-org/Game
+tags:
+  - class/FileClass
+  - class/Game
+  - is_a_/Game
+  - class/Thing/CreativeWork/Game
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: uiOOQj
+    name: CharacterAttribute
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: FPZmGo
+    name: GameItem
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: UM8xzT
+    name: GameLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: 3mwYXP
+    name: NumberOfPlayers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: 3Ddvnz
+    name: Quest
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
 ---
 
 # Game

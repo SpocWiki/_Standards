@@ -1,12 +1,41 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PublicationIssue, class/Thing/CreativeWork/PublicationIssue, is_a_/PublicationIssue, schema-org/PublicationIssue]
-tags: ["class/FileClass", "class/PublicationIssue", "is_a_/PublicationIssue", "class/Thing/CreativeWork/PublicationIssue"]
+version: "2.0"
+tagNames:
+  - class/PublicationIssue
+  - class/Thing/CreativeWork/PublicationIssue
+  - is_a_/PublicationIssue
+  - schema-org/PublicationIssue
+tags:
+  - class/FileClass
+  - class/PublicationIssue
+  - is_a_/PublicationIssue
+  - class/Thing/CreativeWork/PublicationIssue
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: fuou7e
+    name: IssueNumber
+    options: {}
+    type: Number
+    path: ""
+  - id: fSpMvK
+    name: PageEnd
+    options: {}
+    type: Number
+    path: ""
+  - id: adUDK2
+    name: PageStart
+    options: {}
+    type: Number
+    path: ""
+  - id: 3bnNXq
+    name: Pagination
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # PublicationIssue

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: book-copy
-version: 5
-tagNames: [class/Library, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Library, is_a_/Library, schema-org/Library]
-tags: ["class/FileClass", "class/Library", "is_a_/Library", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Library"]
+version: "2.0"
+tagNames:
+  - class/Library
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Library
+  - is_a_/Library
+  - schema-org/Library
+tags:
+  - class/FileClass
+  - class/Library
+  - is_a_/Library
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Library
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields: []
 ---
 
 # Library

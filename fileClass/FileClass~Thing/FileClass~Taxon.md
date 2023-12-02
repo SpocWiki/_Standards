@@ -1,12 +1,45 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Taxon, class/Thing/Taxon, is_a_/Taxon, schema-org/Taxon]
-tags: ["class/FileClass", "class/Taxon", "is_a_/Taxon", "class/Thing/Taxon"]
+version: "2.0"
+tagNames:
+  - class/Taxon
+  - class/Thing/Taxon
+  - is_a_/Taxon
+  - schema-org/Taxon
+tags:
+  - class/FileClass
+  - class/Taxon
+  - is_a_/Taxon
+  - class/Thing/Taxon
 extends: FileClass~Thing
+fields:
+  - id: D0W7XU
+    name: ChildTaxon
+    options:
+      dvQueryString: dv.pages('#class/Thing/Taxon')
+    type: MultiFile
+    path: ""
+  - id: KQMuqP
+    name: HasDefinedTerm
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: kFErgW
+    name: ParentTaxon
+    options:
+      dvQueryString: dv.pages('#class/Thing/Taxon')
+    type: MultiFile
+    path: ""
+  - id: yDDVhc
+    name: TaxonRank
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ""
 ---
 
 # Taxon

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Recommendation, class/Thing/CreativeWork/Review/Recommendation, is_a_/Recommendation, schema-org/Recommendation]
-tags: ["class/FileClass", "class/Recommendation", "is_a_/Recommendation", "class/Thing/CreativeWork/Review/Recommendation"]
+version: "2.0"
+tagNames:
+  - class/Recommendation
+  - class/Thing/CreativeWork/Review/Recommendation
+  - is_a_/Recommendation
+  - schema-org/Recommendation
+tags:
+  - class/FileClass
+  - class/Recommendation
+  - is_a_/Recommendation
+  - class/Thing/CreativeWork/Review/Recommendation
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
+fields: []
 ---
 
 # Recommendation

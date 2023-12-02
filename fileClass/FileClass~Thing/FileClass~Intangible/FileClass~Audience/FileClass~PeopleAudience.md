@@ -1,12 +1,64 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PeopleAudience, class/Thing/Intangible/Audience/PeopleAudience, is_a_/PeopleAudience, schema-org/PeopleAudience]
-tags: ["class/FileClass", "class/PeopleAudience", "is_a_/PeopleAudience", "class/Thing/Intangible/Audience/PeopleAudience"]
+version: "2.0"
+tagNames:
+  - class/PeopleAudience
+  - class/Thing/Intangible/Audience/PeopleAudience
+  - is_a_/PeopleAudience
+  - schema-org/PeopleAudience
+tags:
+  - class/FileClass
+  - class/PeopleAudience
+  - is_a_/PeopleAudience
+  - class/Thing/Intangible/Audience/PeopleAudience
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
+fields:
+  - id: U9GSLc
+    name: HealthCondition
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ""
+  - id: 16EeTI
+    name: RequiredGender
+    options: {}
+    type: Input
+    path: ""
+  - id: V5m2T0
+    name: RequiredMaxAge
+    options: {}
+    type: Number
+    path: ""
+  - id: Wi8LaV
+    name: RequiredMinAge
+    options: {}
+    type: Number
+    path: ""
+  - id: gVq2NM
+    name: SuggestedAge
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: rHevXl
+    name: SuggestedMaxAge
+    options: {}
+    type: Number
+    path: ""
+  - id: ZgRCon
+    name: SuggestedMeasurement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: JjPi11
+    name: SuggestedMinAge
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # PeopleAudience

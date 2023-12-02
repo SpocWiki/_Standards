@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/InviteAction, class/Thing/Action/InteractAction/CommunicateAction/InviteAction, is_an_/InviteAction, schema-org/InviteAction]
-tags: ["class/FileClass", "class/InviteAction", "#is_an_/InviteAction", "class/Thing/Action/InteractAction/CommunicateAction/InviteAction"]
+version: "2.0"
+tagNames:
+  - class/InviteAction
+  - class/Thing/Action/InteractAction/CommunicateAction/InviteAction
+  - is_an_/InviteAction
+  - schema-org/InviteAction
+tags:
+  - class/FileClass
+  - class/InviteAction
+  - "#is_an_/InviteAction"
+  - class/Thing/Action/InteractAction/CommunicateAction/InviteAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
+fields:
+  - id: BtBGGQ
+    name: Events
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ""
 ---
 
 # InviteAction

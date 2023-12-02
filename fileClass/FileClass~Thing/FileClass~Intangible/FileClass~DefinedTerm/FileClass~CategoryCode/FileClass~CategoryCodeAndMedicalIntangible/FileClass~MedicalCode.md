@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalCode, class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode, is_a_/MedicalCode, schema-org/MedicalCode]
-tags: ["class/FileClass", "class/MedicalCode", "is_a_/MedicalCode", "class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode"]
+version: "2.0"
+tagNames:
+  - class/MedicalCode
+  - class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode
+  - is_a_/MedicalCode
+  - schema-org/MedicalCode
+tags:
+  - class/FileClass
+  - class/MedicalCode
+  - is_a_/MedicalCode
+  - class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible
+fields:
+  - id: qtXwzU
+    name: CodingSystem
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # MedicalCode

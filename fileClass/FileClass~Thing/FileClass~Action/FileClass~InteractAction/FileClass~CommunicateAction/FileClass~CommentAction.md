@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CommentAction, class/Thing/Action/InteractAction/CommunicateAction/CommentAction, is_a_/CommentAction, schema-org/CommentAction]
-tags: ["class/FileClass", "class/CommentAction", "is_a_/CommentAction", "class/Thing/Action/InteractAction/CommunicateAction/CommentAction"]
+version: "2.0"
+tagNames:
+  - class/CommentAction
+  - class/Thing/Action/InteractAction/CommunicateAction/CommentAction
+  - is_a_/CommentAction
+  - schema-org/CommentAction
+tags:
+  - class/FileClass
+  - class/CommentAction
+  - is_a_/CommentAction
+  - class/Thing/Action/InteractAction/CommunicateAction/CommentAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
+fields:
+  - id: OhLNzm
+    name: ResultComment
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
+    type: MultiFile
+    path: ""
 ---
 
 # CommentAction

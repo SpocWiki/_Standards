@@ -1,12 +1,159 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/EducationalOccupationalProgram, class/Thing/Intangible/EducationalOccupationalProgram, is_an_/EducationalOccupationalProgram, schema-org/EducationalOccupationalProgram]
-tags: ["class/FileClass", "class/EducationalOccupationalProgram", "#is_an_/EducationalOccupationalProgram", "class/Thing/Intangible/EducationalOccupationalProgram"]
+version: "2.0"
+tagNames:
+  - class/EducationalOccupationalProgram
+  - class/Thing/Intangible/EducationalOccupationalProgram
+  - is_an_/EducationalOccupationalProgram
+  - schema-org/EducationalOccupationalProgram
+tags:
+  - class/FileClass
+  - class/EducationalOccupationalProgram
+  - "#is_an_/EducationalOccupationalProgram"
+  - class/Thing/Intangible/EducationalOccupationalProgram
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: RoFE2q
+    name: ApplicationDeadline
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: wxVPGh
+    name: ApplicationStartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: cSFMD3
+    name: EducationalCredentialAwarded
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
+    type: MultiFile
+    path: ""
+  - id: oumxRt
+    name: EducationalProgramMode
+    options: {}
+    type: Input
+    path: ""
+  - id: cuO3ev
+    name: EndDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: fMFl9g
+    name: FinancialAidEligible
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: Be6VdI
+    name: HasCourse
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/LearningResource/Course')
+    type: MultiFile
+    path: ""
+  - id: 3Px46i
+    name: MaximumEnrollment
+    options: {}
+    type: Number
+    path: ""
+  - id: ChESjS
+    name: NumberOfCredits
+    options: {}
+    type: Number
+    path: ""
+  - id: tTKenS
+    name: OccupationalCategory
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')
+    type: MultiFile
+    path: ""
+  - id: bc3sJt
+    name: OccupationalCredentialAwarded
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
+    type: MultiFile
+    path: ""
+  - id: P8STjQ
+    name: Offers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
+    type: MultiFile
+    path: ""
+  - id: vzHBBi
+    name: ProgramPrerequisites
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/AlignmentObject')
+    type: MultiFile
+    path: ""
+  - id: eolybF
+    name: ProgramType
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: GjbgYR
+    name: Provider
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: ofDNxe
+    name: SalaryUponCompletion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution')
+    type: MultiFile
+    path: ""
+  - id: N1jn8v
+    name: StartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: KVWZ9q
+    name: TermDuration
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: 8iUGUa
+    name: TermsPerYear
+    options: {}
+    type: Number
+    path: ""
+  - id: 5IFjlk
+    name: TimeOfDay
+    options: {}
+    type: Input
+    path: ""
+  - id: JGKakT
+    name: TimeToComplete
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: XCFTgZ
+    name: TrainingSalary
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution')
+    type: MultiFile
+    path: ""
+  - id: uGJxXe
+    name: TypicalCreditsPerTerm
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # EducationalOccupationalProgram

@@ -1,12 +1,55 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MonetaryAmount, class/Thing/Intangible/StructuredValue/MonetaryAmount, is_a_/MonetaryAmount, schema-org/MonetaryAmount]
-tags: ["class/FileClass", "class/MonetaryAmount", "is_a_/MonetaryAmount", "class/Thing/Intangible/StructuredValue/MonetaryAmount"]
+version: "2.0"
+tagNames:
+  - class/MonetaryAmount
+  - class/Thing/Intangible/StructuredValue/MonetaryAmount
+  - is_a_/MonetaryAmount
+  - schema-org/MonetaryAmount
+tags:
+  - class/FileClass
+  - class/MonetaryAmount
+  - is_a_/MonetaryAmount
+  - class/Thing/Intangible/StructuredValue/MonetaryAmount
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: K8Y1Ft
+    name: Currency
+    options: {}
+    type: Input
+    path: ""
+  - id: HoMeGZ
+    name: MaxValue
+    options: {}
+    type: Number
+    path: ""
+  - id: wgnTY1
+    name: MinValue
+    options: {}
+    type: Number
+    path: ""
+  - id: gnPAqx
+    name: ValidFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: aFq6pV
+    name: ValidThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: WUx2fV
+    name: Value
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # MonetaryAmount

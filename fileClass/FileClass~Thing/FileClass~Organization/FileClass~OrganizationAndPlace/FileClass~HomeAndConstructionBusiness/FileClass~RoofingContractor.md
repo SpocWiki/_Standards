@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RoofingContractor, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/RoofingContractor, is_a_/RoofingContractor, schema-org/RoofingContractor]
-tags: ["class/FileClass", "class/RoofingContractor", "is_a_/RoofingContractor", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/RoofingContractor"]
+version: "2.0"
+tagNames:
+  - class/RoofingContractor
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/RoofingContractor
+  - is_a_/RoofingContractor
+  - schema-org/RoofingContractor
+tags:
+  - class/FileClass
+  - class/RoofingContractor
+  - is_a_/RoofingContractor
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HomeAndConstructionBusiness/RoofingContractor
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HomeAndConstructionBusiness
+fields: []
 ---
 
 # RoofingContractor

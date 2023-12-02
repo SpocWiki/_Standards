@@ -1,12 +1,52 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/UnitPriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification, is_an_/UnitPriceSpecification, schema-org/UnitPriceSpecification]
-tags: ["class/FileClass", "class/UnitPriceSpecification", "#is_an_/UnitPriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification"]
+version: "2.0"
+tagNames:
+  - class/UnitPriceSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification
+  - is_an_/UnitPriceSpecification
+  - schema-org/UnitPriceSpecification
+tags:
+  - class/FileClass
+  - class/UnitPriceSpecification
+  - "#is_an_/UnitPriceSpecification"
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
+fields:
+  - id: VJYlKK
+    name: BillingDuration
+    options: {}
+    type: Number
+    path: ""
+  - id: eobGTm
+    name: BillingIncrement
+    options: {}
+    type: Number
+    path: ""
+  - id: 4jPx2t
+    name: BillingStart
+    options: {}
+    type: Number
+    path: ""
+  - id: cQy3u8
+    name: ReferenceQuantity
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: qK5nBT
+    name: UnitCode
+    options: {}
+    type: Input
+    path: ""
+  - id: hnHTmz
+    name: UnitText
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # UnitPriceSpecification

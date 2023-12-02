@@ -1,12 +1,71 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LoanOrCredit, class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit, is_a_/LoanOrCredit, schema-org/LoanOrCredit]
-tags: ["class/FileClass", "class/LoanOrCredit", "is_a_/LoanOrCredit", "class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit"]
+version: "2.0"
+tagNames:
+  - class/LoanOrCredit
+  - class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit
+  - is_a_/LoanOrCredit
+  - schema-org/LoanOrCredit
+tags:
+  - class/FileClass
+  - class/LoanOrCredit
+  - is_a_/LoanOrCredit
+  - class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
+fields:
+  - id: u3ggW4
+    name: Amount
+    options: {}
+    type: Number
+    path: ""
+  - id: RihR08
+    name: Currency
+    options: {}
+    type: Input
+    path: ""
+  - id: VbwVpu
+    name: GracePeriod
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: 7ZiGWe
+    name: LoanRepaymentForm
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/RepaymentSpecification')
+    type: MultiFile
+    path: ""
+  - id: z3PDkU
+    name: LoanTerm
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: u0ICOq
+    name: LoanType
+    options: {}
+    type: Input
+    path: ""
+  - id: 7kA6Wo
+    name: RecourseLoan
+    options: {}
+    type: Boolean
+    path: ""
+  - id: slhMnh
+    name: RenegotiableLoan
+    options: {}
+    type: Boolean
+    path: ""
+  - id: ZgOwnW
+    name: RequiredCollateral
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
 ---
 
 # LoanOrCredit

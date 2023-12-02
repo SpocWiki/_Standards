@@ -1,19 +1,45 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ProductGroup, class/Thing/Product/ProductGroup, is_a_/ProductGroup, schema-org/ProductGroup]
-tags: ["class/FileClass", "class/ProductGroup", "is_a_/ProductGroup", "class/Thing/Product/ProductGroup"]
+version: "2.0"
+tagNames:
+  - class/ProductGroup
+  - class/Thing/Product/ProductGroup
+  - is_a_/ProductGroup
+  - schema-org/ProductGroup
+tags:
+  - class/FileClass
+  - class/ProductGroup
+  - is_a_/ProductGroup
+  - class/Thing/Product/ProductGroup
 extends: FileClass~Thing/FileClass~Product
+fields:
+  - id: AyoB7S
+    name: HasVariant
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ""
+  - id: 5RIuty
+    name: ProductGroupID
+    options: {}
+    type: Input
+    path: ""
+  - id: x3oADt
+    name: VariesBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
 ---
 
 # ProductGroup
 This is a kind of [[FileClass~Product]]
 
 A ProductGroup represents a group of [[Product]]s that vary only in certain well-described ways, such as by [[size]], [[color]], [[material]] etc.  
- While a ProductGroup itself is not directly offered for sale, the various varying products that it represents can be. The ProductGroup serves as a prototype or template, standing in for all of the products who have an [[isVariantOf]] relationship to it. As such, properties (including additional types) can be applied to the ProductGroup to represent characteristics shared by each of the (possibly very many) variants. Properties that reference a ProductGroup are not included in this mechanism; neither are the following specific properties [[variesBy]], [[hasVariant]], [[url]].
+ While a ProductGroup itself is not directly offered for sale, the various varying products that it represents can be. The ProductGroup serves as a prototype or template, standing in for all of the products who have an [[isVariantOf]] relationship to it. As such, properties (including additional types) can be applied to the ProductGroup to represent characteristics shared by each of the (possibly very many) variants. Properties that reference a ProductGroup are not included in this mechanism; neither are the following specific properties [[variesBy]], [[hasVariant]], [[../../../schema-org/Class/is_a_/data_type/text/URLs]].
 
 
 ## Use one of these Tags for Objects of this Type:

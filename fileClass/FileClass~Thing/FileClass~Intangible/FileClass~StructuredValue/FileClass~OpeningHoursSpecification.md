@@ -1,12 +1,49 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/OpeningHoursSpecification, class/Thing/Intangible/StructuredValue/OpeningHoursSpecification, is_an_/OpeningHoursSpecification, schema-org/OpeningHoursSpecification]
-tags: ["class/FileClass", "class/OpeningHoursSpecification", "#is_an_/OpeningHoursSpecification", "class/Thing/Intangible/StructuredValue/OpeningHoursSpecification"]
+version: "2.0"
+tagNames:
+  - class/OpeningHoursSpecification
+  - class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
+  - is_an_/OpeningHoursSpecification
+  - schema-org/OpeningHoursSpecification
+tags:
+  - class/FileClass
+  - class/OpeningHoursSpecification
+  - "#is_an_/OpeningHoursSpecification"
+  - class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: Fi6kNr
+    name: Closes
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: yFSARs
+    name: Opens
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: 8FkDza
+    name: ValidFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: xZdGwO
+    name: ValidThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # OpeningHoursSpecification

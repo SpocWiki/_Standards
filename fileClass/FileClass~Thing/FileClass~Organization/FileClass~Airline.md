@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Airline, class/Thing/Organization/Airline, is_an_/Airline, schema-org/Airline]
-tags: ["class/FileClass", "class/Airline", "#is_an_/Airline", "class/Thing/Organization/Airline"]
+version: "2.0"
+tagNames:
+  - class/Airline
+  - class/Thing/Organization/Airline
+  - is_an_/Airline
+  - schema-org/Airline
+tags:
+  - class/FileClass
+  - class/Airline
+  - "#is_an_/Airline"
+  - class/Thing/Organization/Airline
 extends: FileClass~Thing/FileClass~Organization
+fields:
+  - id: NWBWig
+    name: IataCode
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Airline

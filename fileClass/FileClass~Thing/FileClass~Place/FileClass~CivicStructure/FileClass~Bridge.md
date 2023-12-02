@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Bridge, class/Thing/Place/CivicStructure/Bridge, is_a_/Bridge, schema-org/Bridge]
-tags: ["class/FileClass", "class/Bridge", "is_a_/Bridge", "class/Thing/Place/CivicStructure/Bridge"]
+version: "2.0"
+tagNames:
+  - class/Bridge
+  - class/Thing/Place/CivicStructure/Bridge
+  - is_a_/Bridge
+  - schema-org/Bridge
+tags:
+  - class/FileClass
+  - class/Bridge
+  - is_a_/Bridge
+  - class/Thing/Place/CivicStructure/Bridge
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
+fields: []
 ---
 
 # Bridge

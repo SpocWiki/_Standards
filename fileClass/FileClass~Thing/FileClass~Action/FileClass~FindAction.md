@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/FindAction, class/Thing/Action/FindAction, is_a_/FindAction, schema-org/FindAction]
-tags: ["class/FileClass", "class/FindAction", "is_a_/FindAction", "class/Thing/Action/FindAction"]
+version: "2.0"
+tagNames:
+  - class/FindAction
+  - class/Thing/Action/FindAction
+  - is_a_/FindAction
+  - schema-org/FindAction
+tags:
+  - class/FileClass
+  - class/FindAction
+  - is_a_/FindAction
+  - class/Thing/Action/FindAction
 extends: FileClass~Thing/FileClass~Action
+fields: []
 ---
 
 # FindAction

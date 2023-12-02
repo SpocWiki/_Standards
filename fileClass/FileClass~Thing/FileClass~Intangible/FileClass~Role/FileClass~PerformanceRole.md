@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PerformanceRole, class/Thing/Intangible/Role/PerformanceRole, is_a_/PerformanceRole, schema-org/PerformanceRole]
-tags: ["class/FileClass", "class/PerformanceRole", "is_a_/PerformanceRole", "class/Thing/Intangible/Role/PerformanceRole"]
+version: "2.0"
+tagNames:
+  - class/PerformanceRole
+  - class/Thing/Intangible/Role/PerformanceRole
+  - is_a_/PerformanceRole
+  - schema-org/PerformanceRole
+tags:
+  - class/FileClass
+  - class/PerformanceRole
+  - is_a_/PerformanceRole
+  - class/Thing/Intangible/Role/PerformanceRole
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
+fields:
+  - id: vEmGoC
+    name: CharacterName
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # PerformanceRole

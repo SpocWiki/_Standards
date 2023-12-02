@@ -1,12 +1,135 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SoftwareApplication, class/Thing/CreativeWork/SoftwareApplication, is_a_/SoftwareApplication, schema-org/SoftwareApplication]
-tags: ["class/FileClass", "class/SoftwareApplication", "is_a_/SoftwareApplication", "class/Thing/CreativeWork/SoftwareApplication"]
+version: "2.0"
+tagNames:
+  - class/SoftwareApplication
+  - class/Thing/CreativeWork/SoftwareApplication
+  - is_a_/SoftwareApplication
+  - schema-org/SoftwareApplication
+tags:
+  - class/FileClass
+  - class/SoftwareApplication
+  - is_a_/SoftwareApplication
+  - class/Thing/CreativeWork/SoftwareApplication
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: 4gpjQs
+    name: ApplicationCategory
+    options: {}
+    type: Input
+    path: ""
+  - id: QX7CvI
+    name: ApplicationSubCategory
+    options: {}
+    type: Input
+    path: ""
+  - id: XxZXOz
+    name: ApplicationSuite
+    options: {}
+    type: Input
+    path: ""
+  - id: XRBmOt
+    name: AvailableOnDevice
+    options: {}
+    type: Input
+    path: ""
+  - id: QZDcT8
+    name: CountriesNotSupported
+    options: {}
+    type: Input
+    path: ""
+  - id: YChiGn
+    name: CountriesSupported
+    options: {}
+    type: Input
+    path: ""
+  - id: N4TEnW
+    name: DownloadUrl
+    options: {}
+    type: Input
+    path: ""
+  - id: iONwXt
+    name: FeatureList
+    options: {}
+    type: Input
+    path: ""
+  - id: K3BlQ5
+    name: FileSize
+    options: {}
+    type: Input
+    path: ""
+  - id: r2lML3
+    name: InstallUrl
+    options: {}
+    type: Input
+    path: ""
+  - id: XQ9pFe
+    name: MemoryRequirements
+    options: {}
+    type: Input
+    path: ""
+  - id: pXjDum
+    name: OperatingSystem
+    options: {}
+    type: Input
+    path: ""
+  - id: JfJnvi
+    name: Permissions
+    options: {}
+    type: Input
+    path: ""
+  - id: w1ieVa
+    name: ProcessorRequirements
+    options: {}
+    type: Input
+    path: ""
+  - id: 0xalea
+    name: ReleaseNotes
+    options: {}
+    type: Input
+    path: ""
+  - id: e9tgfC
+    name: Screenshot
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ""
+  - id: Pm7L7T
+    name: SoftwareAddOn
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
+    type: MultiFile
+    path: ""
+  - id: sr5Rkr
+    name: SoftwareHelp
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: BKQ1Ul
+    name: SoftwareRequirements
+    options: {}
+    type: Input
+    path: ""
+  - id: 39MT9N
+    name: SoftwareVersion
+    options: {}
+    type: Input
+    path: ""
+  - id: bWzfPf
+    name: StorageRequirements
+    options: {}
+    type: Input
+    path: ""
+  - id: sS2zvY
+    name: SupportingData
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')
+    type: MultiFile
+    path: ""
 ---
 
 # SoftwareApplication

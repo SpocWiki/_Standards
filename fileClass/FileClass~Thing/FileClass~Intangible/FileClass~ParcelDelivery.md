@@ -1,12 +1,81 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ParcelDelivery, class/Thing/Intangible/ParcelDelivery, is_a_/ParcelDelivery, schema-org/ParcelDelivery]
-tags: ["class/FileClass", "class/ParcelDelivery", "is_a_/ParcelDelivery", "class/Thing/Intangible/ParcelDelivery"]
+version: "2.0"
+tagNames:
+  - class/ParcelDelivery
+  - class/Thing/Intangible/ParcelDelivery
+  - is_a_/ParcelDelivery
+  - schema-org/ParcelDelivery
+tags:
+  - class/FileClass
+  - class/ParcelDelivery
+  - is_a_/ParcelDelivery
+  - class/Thing/Intangible/ParcelDelivery
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: cLkKbw
+    name: DeliveryAddress
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ""
+  - id: 2FncWR
+    name: DeliveryStatus
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event/DeliveryEvent')
+    type: MultiFile
+    path: ""
+  - id: C7SMxW
+    name: ExpectedArrivalFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: Ixw1gp
+    name: ExpectedArrivalUntil
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: L7He9O
+    name: ItemShipped
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ""
+  - id: b6Np8f
+    name: OriginAddress
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ""
+  - id: vLOGAT
+    name: PartOfOrder
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Order')
+    type: MultiFile
+    path: ""
+  - id: 9sK4tp
+    name: Provider
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: hHrQnL
+    name: TrackingNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: Hjbpdp
+    name: TrackingUrl
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # ParcelDelivery

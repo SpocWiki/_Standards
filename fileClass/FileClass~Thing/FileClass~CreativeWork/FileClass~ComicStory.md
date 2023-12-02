@@ -1,12 +1,51 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ComicStory, class/Thing/CreativeWork/ComicStory, is_a_/ComicStory, schema-org/ComicStory]
-tags: ["class/FileClass", "class/ComicStory", "is_a_/ComicStory", "class/Thing/CreativeWork/ComicStory"]
+version: "2.0"
+tagNames:
+  - class/ComicStory
+  - class/Thing/CreativeWork/ComicStory
+  - is_a_/ComicStory
+  - schema-org/ComicStory
+tags:
+  - class/FileClass
+  - class/ComicStory
+  - is_a_/ComicStory
+  - class/Thing/CreativeWork/ComicStory
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: PG50uM
+    name: Artist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: xsvd94
+    name: Colorist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: n2s2wJ
+    name: Inker
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: DH9Z8I
+    name: Letterer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: LMie13
+    name: Penciler
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
 ---
 
 # ComicStory

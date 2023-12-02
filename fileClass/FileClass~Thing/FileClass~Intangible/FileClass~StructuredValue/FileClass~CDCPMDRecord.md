@@ -1,12 +1,110 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CDCPMDRecord, class/Thing/Intangible/StructuredValue/CDCPMDRecord, is_a_/CDCPMDRecord, schema-org/CDCPMDRecord]
-tags: ["class/FileClass", "class/CDCPMDRecord", "is_a_/CDCPMDRecord", "class/Thing/Intangible/StructuredValue/CDCPMDRecord"]
+version: "2.0"
+tagNames:
+  - class/CDCPMDRecord
+  - class/Thing/Intangible/StructuredValue/CDCPMDRecord
+  - is_a_/CDCPMDRecord
+  - schema-org/CDCPMDRecord
+tags:
+  - class/FileClass
+  - class/CDCPMDRecord
+  - is_a_/CDCPMDRecord
+  - class/Thing/Intangible/StructuredValue/CDCPMDRecord
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: MMxPnc
+    name: CvdCollectionDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: z8US5w
+    name: CvdFacilityCounty
+    options: {}
+    type: Input
+    path: ""
+  - id: BLhLAq
+    name: CvdFacilityId
+    options: {}
+    type: Input
+    path: ""
+  - id: 8eeONx
+    name: CvdNumBeds
+    options: {}
+    type: Number
+    path: ""
+  - id: dMF0Xm
+    name: CvdNumBedsOcc
+    options: {}
+    type: Number
+    path: ""
+  - id: DHvj8V
+    name: CvdNumC19Died
+    options: {}
+    type: Number
+    path: ""
+  - id: l8v6mE
+    name: CvdNumC19HOPats
+    options: {}
+    type: Number
+    path: ""
+  - id: XYIQu0
+    name: CvdNumC19HospPats
+    options: {}
+    type: Number
+    path: ""
+  - id: y0nNLD
+    name: CvdNumC19MechVentPats
+    options: {}
+    type: Number
+    path: ""
+  - id: aQr7N7
+    name: CvdNumC19OFMechVentPats
+    options: {}
+    type: Number
+    path: ""
+  - id: KNXBIi
+    name: CvdNumC19OverflowPats
+    options: {}
+    type: Number
+    path: ""
+  - id: 1LzF7o
+    name: CvdNumICUBeds
+    options: {}
+    type: Number
+    path: ""
+  - id: 9GZXKY
+    name: CvdNumICUBedsOcc
+    options: {}
+    type: Number
+    path: ""
+  - id: KkGGqC
+    name: CvdNumTotBeds
+    options: {}
+    type: Number
+    path: ""
+  - id: aF7w6G
+    name: CvdNumVent
+    options: {}
+    type: Number
+    path: ""
+  - id: 6jdAlW
+    name: CvdNumVentUse
+    options: {}
+    type: Number
+    path: ""
+  - id: l6gd9m
+    name: DatePosted
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # CDCPMDRecord

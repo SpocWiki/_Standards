@@ -1,12 +1,41 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DoseSchedule, class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule, is_a_/DoseSchedule, schema-org/DoseSchedule]
-tags: ["class/FileClass", "class/DoseSchedule", "is_a_/DoseSchedule", "class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule"]
+version: "2.0"
+tagNames:
+  - class/DoseSchedule
+  - class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule
+  - is_a_/DoseSchedule
+  - schema-org/DoseSchedule
+tags:
+  - class/FileClass
+  - class/DoseSchedule
+  - is_a_/DoseSchedule
+  - class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
+fields:
+  - id: wKLwZk
+    name: DoseUnit
+    options: {}
+    type: Input
+    path: ""
+  - id: ZfTOAA
+    name: DoseValue
+    options: {}
+    type: Number
+    path: ""
+  - id: a6I5s6
+    name: Frequency
+    options: {}
+    type: Input
+    path: ""
+  - id: ohkFDo
+    name: TargetPopulation
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # DoseSchedule

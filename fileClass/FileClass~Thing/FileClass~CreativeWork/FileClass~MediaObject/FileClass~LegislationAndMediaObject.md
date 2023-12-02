@@ -1,12 +1,94 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LegislationAndMediaObject, class/Thing/CreativeWork/MediaObject/LegislationAndMediaObject, is_a_/LegislationAndMediaObject, schema-org/LegislationAndMediaObject]
-tags: ["class/FileClass", "class/LegislationAndMediaObject", "is_a_/LegislationAndMediaObject", "class/Thing/CreativeWork/MediaObject/LegislationAndMediaObject"]
+version: "2.0"
+tagNames:
+  - class/LegislationAndMediaObject
+  - class/Thing/CreativeWork/MediaObject/LegislationAndMediaObject
+  - is_a_/LegislationAndMediaObject
+  - schema-org/LegislationAndMediaObject
+tags:
+  - class/FileClass
+  - class/LegislationAndMediaObject
+  - is_a_/LegislationAndMediaObject
+  - class/Thing/CreativeWork/MediaObject/LegislationAndMediaObject
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
+fields:
+  - id: EISnIh
+    name: Jurisdiction
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: zc0jIn
+    name: LegislationApplies
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
+    type: MultiFile
+    path: ""
+  - id: ovsIbo
+    name: LegislationChanges
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
+    type: MultiFile
+    path: ""
+  - id: 0KBmFR
+    name: LegislationConsolidates
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
+    type: MultiFile
+    path: ""
+  - id: uHH3uG
+    name: LegislationDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: QT7hT5
+    name: LegislationDateVersion
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: kXBsKy
+    name: LegislationIdentifier
+    options: {}
+    type: Input
+    path: ""
+  - id: r1AvZN
+    name: LegislationJurisdiction
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: upmshQ
+    name: LegislationPassedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: gBXhor
+    name: LegislationResponsible
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: qXEjWb
+    name: LegislationTransposes
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
+    type: MultiFile
+    path: ""
+  - id: DInQpz
+    name: LegislationType
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')
+    type: MultiFile
+    path: ""
 ---
 
 # LegislationAndMediaObject

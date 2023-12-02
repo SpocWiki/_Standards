@@ -1,12 +1,53 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TrainTrip, class/Thing/Intangible/Trip/TrainTrip, is_a_/TrainTrip, schema-org/TrainTrip]
-tags: ["class/FileClass", "class/TrainTrip", "is_a_/TrainTrip", "class/Thing/Intangible/Trip/TrainTrip"]
+version: "2.0"
+tagNames:
+  - class/TrainTrip
+  - class/Thing/Intangible/Trip/TrainTrip
+  - is_a_/TrainTrip
+  - schema-org/TrainTrip
+tags:
+  - class/FileClass
+  - class/TrainTrip
+  - is_a_/TrainTrip
+  - class/Thing/Intangible/Trip/TrainTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
+fields:
+  - id: qO6DhX
+    name: ArrivalPlatform
+    options: {}
+    type: Input
+    path: ""
+  - id: Mj4NX7
+    name: ArrivalStation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/TrainStation')
+    type: MultiFile
+    path: ""
+  - id: dG54Do
+    name: DeparturePlatform
+    options: {}
+    type: Input
+    path: ""
+  - id: Y1hAtV
+    name: DepartureStation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/TrainStation')
+    type: MultiFile
+    path: ""
+  - id: ABJ2ir
+    name: TrainName
+    options: {}
+    type: Input
+    path: ""
+  - id: WuV349
+    name: TrainNumber
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # TrainTrip

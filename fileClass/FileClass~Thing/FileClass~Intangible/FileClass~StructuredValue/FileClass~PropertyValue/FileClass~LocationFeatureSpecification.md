@@ -1,12 +1,41 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LocationFeatureSpecification, class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification, is_a_/LocationFeatureSpecification, schema-org/LocationFeatureSpecification]
-tags: ["class/FileClass", "class/LocationFeatureSpecification", "is_a_/LocationFeatureSpecification", "class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification"]
+version: "2.0"
+tagNames:
+  - class/LocationFeatureSpecification
+  - class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification
+  - is_a_/LocationFeatureSpecification
+  - schema-org/LocationFeatureSpecification
+tags:
+  - class/FileClass
+  - class/LocationFeatureSpecification
+  - is_a_/LocationFeatureSpecification
+  - class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue
+fields:
+  - id: bXAYV4
+    name: HoursAvailable
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
+    type: MultiFile
+    path: ""
+  - id: g3XX5H
+    name: ValidFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: NCXx8h
+    name: ValidThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # LocationFeatureSpecification

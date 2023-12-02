@@ -1,12 +1,81 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/NutritionInformation, class/Thing/Intangible/StructuredValue/NutritionInformation, is_a_/NutritionInformation, schema-org/NutritionInformation]
-tags: ["class/FileClass", "class/NutritionInformation", "is_a_/NutritionInformation", "class/Thing/Intangible/StructuredValue/NutritionInformation"]
+version: "2.0"
+tagNames:
+  - class/NutritionInformation
+  - class/Thing/Intangible/StructuredValue/NutritionInformation
+  - is_a_/NutritionInformation
+  - schema-org/NutritionInformation
+tags:
+  - class/FileClass
+  - class/NutritionInformation
+  - is_a_/NutritionInformation
+  - class/Thing/Intangible/StructuredValue/NutritionInformation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: 7ofQgZ
+    name: Calories
+    options: {}
+    type: Input
+    path: ""
+  - id: Znwgkz
+    name: CarbohydrateContent
+    options: {}
+    type: Input
+    path: ""
+  - id: ysTjH4
+    name: CholesterolContent
+    options: {}
+    type: Input
+    path: ""
+  - id: LYBSF8
+    name: FatContent
+    options: {}
+    type: Input
+    path: ""
+  - id: hcQW5Y
+    name: FiberContent
+    options: {}
+    type: Input
+    path: ""
+  - id: n563Fg
+    name: ProteinContent
+    options: {}
+    type: Input
+    path: ""
+  - id: qf58Lj
+    name: SaturatedFatContent
+    options: {}
+    type: Input
+    path: ""
+  - id: Vtokw1
+    name: ServingSize
+    options: {}
+    type: Input
+    path: ""
+  - id: DdMn7H
+    name: SodiumContent
+    options: {}
+    type: Input
+    path: ""
+  - id: nbcc9L
+    name: SugarContent
+    options: {}
+    type: Input
+    path: ""
+  - id: UgADce
+    name: TransFatContent
+    options: {}
+    type: Input
+    path: ""
+  - id: xzhVvE
+    name: UnsaturatedFatContent
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # NutritionInformation

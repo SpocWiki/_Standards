@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RentAction, class/Thing/Action/TradeAction/RentAction, is_a_/RentAction, schema-org/RentAction]
-tags: ["class/FileClass", "class/RentAction", "is_a_/RentAction", "class/Thing/Action/TradeAction/RentAction"]
+version: "2.0"
+tagNames:
+  - class/RentAction
+  - class/Thing/Action/TradeAction/RentAction
+  - is_a_/RentAction
+  - schema-org/RentAction
+tags:
+  - class/FileClass
+  - class/RentAction
+  - is_a_/RentAction
+  - class/Thing/Action/TradeAction/RentAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
+fields:
+  - id: n6lzEd
+    name: Landlord
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: X1uHV5
+    name: RealEstateAgent
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent')
+    type: MultiFile
+    path: ""
 ---
 
 # RentAction

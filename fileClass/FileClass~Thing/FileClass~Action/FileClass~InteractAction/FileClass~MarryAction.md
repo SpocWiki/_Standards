@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MarryAction, class/Thing/Action/InteractAction/MarryAction, is_a_/MarryAction, schema-org/MarryAction]
-tags: ["class/FileClass", "class/MarryAction", "is_a_/MarryAction", "class/Thing/Action/InteractAction/MarryAction"]
+version: "2.0"
+tagNames:
+  - class/MarryAction
+  - class/Thing/Action/InteractAction/MarryAction
+  - is_a_/MarryAction
+  - schema-org/MarryAction
+tags:
+  - class/FileClass
+  - class/MarryAction
+  - is_a_/MarryAction
+  - class/Thing/Action/InteractAction/MarryAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
+fields: []
 ---
 
 # MarryAction

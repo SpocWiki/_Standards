@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: palmtree
-version: 5
-tagNames: [class/Beach, class/Thing/Place/CivicStructure/Beach, is_a_/Beach, schema-org/Beach]
-tags: ["class/FileClass", "class/Beach", "is_a_/Beach", "class/Thing/Place/CivicStructure/Beach"]
+version: "2.0"
+tagNames:
+  - class/Beach
+  - class/Thing/Place/CivicStructure/Beach
+  - is_a_/Beach
+  - schema-org/Beach
+tags:
+  - class/FileClass
+  - class/Beach
+  - is_a_/Beach
+  - class/Thing/Place/CivicStructure/Beach
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
+fields: []
 ---
 
 # Beach

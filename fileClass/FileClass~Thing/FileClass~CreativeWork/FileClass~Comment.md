@@ -1,12 +1,37 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Comment, class/Thing/CreativeWork/Comment, is_a_/Comment, schema-org/Comment]
-tags: ["class/FileClass", "class/Comment", "is_a_/Comment", "class/Thing/CreativeWork/Comment"]
+version: "2.0"
+tagNames:
+  - class/Comment
+  - class/Thing/CreativeWork/Comment
+  - is_a_/Comment
+  - schema-org/Comment
+tags:
+  - class/FileClass
+  - class/Comment
+  - is_a_/Comment
+  - class/Thing/CreativeWork/Comment
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: YHM9Rn
+    name: DownvoteCount
+    options: {}
+    type: Number
+    path: ""
+  - id: sS4zQW
+    name: ParentItem
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
+    type: MultiFile
+    path: ""
+  - id: e3Bs2y
+    name: UpvoteCount
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # Comment

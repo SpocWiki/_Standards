@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/InstallAction, class/Thing/Action/ConsumeAction/InstallAction, is_an_/InstallAction, schema-org/InstallAction]
-tags: ["class/FileClass", "class/InstallAction", "#is_an_/InstallAction", "class/Thing/Action/ConsumeAction/InstallAction"]
+version: "2.0"
+tagNames:
+  - class/InstallAction
+  - class/Thing/Action/ConsumeAction/InstallAction
+  - is_an_/InstallAction
+  - schema-org/InstallAction
+tags:
+  - class/FileClass
+  - class/InstallAction
+  - "#is_an_/InstallAction"
+  - class/Thing/Action/ConsumeAction/InstallAction
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
+fields: []
 ---
 
 # InstallAction

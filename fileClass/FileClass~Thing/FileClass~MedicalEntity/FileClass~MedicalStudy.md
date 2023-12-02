@@ -1,12 +1,45 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalStudy, class/Thing/MedicalEntity/MedicalStudy, is_a_/MedicalStudy, schema-org/MedicalStudy]
-tags: ["class/FileClass", "class/MedicalStudy", "is_a_/MedicalStudy", "class/Thing/MedicalEntity/MedicalStudy"]
+version: "2.0"
+tagNames:
+  - class/MedicalStudy
+  - class/Thing/MedicalEntity/MedicalStudy
+  - is_a_/MedicalStudy
+  - schema-org/MedicalStudy
+tags:
+  - class/FileClass
+  - class/MedicalStudy
+  - is_a_/MedicalStudy
+  - class/Thing/MedicalEntity/MedicalStudy
 extends: FileClass~Thing/FileClass~MedicalEntity
+fields:
+  - id: 1yG0Sg
+    name: HealthCondition
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ""
+  - id: cx4SqM
+    name: Sponsor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: 8VMVtG
+    name: StudyLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: 0PNwnW
+    name: StudySubject
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
+    type: MultiFile
+    path: ""
 ---
 
 # MedicalStudy

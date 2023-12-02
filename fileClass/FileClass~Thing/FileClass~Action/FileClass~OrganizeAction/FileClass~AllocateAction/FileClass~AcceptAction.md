@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AcceptAction, class/Thing/Action/OrganizeAction/AllocateAction/AcceptAction, is_an_/AcceptAction, schema-org/AcceptAction]
-tags: ["class/FileClass", "class/AcceptAction", "#is_an_/AcceptAction", "class/Thing/Action/OrganizeAction/AllocateAction/AcceptAction"]
+version: "2.0"
+tagNames:
+  - class/AcceptAction
+  - class/Thing/Action/OrganizeAction/AllocateAction/AcceptAction
+  - is_an_/AcceptAction
+  - schema-org/AcceptAction
+tags:
+  - class/FileClass
+  - class/AcceptAction
+  - "#is_an_/AcceptAction"
+  - class/Thing/Action/OrganizeAction/AllocateAction/AcceptAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
+fields: []
 ---
 
 # AcceptAction

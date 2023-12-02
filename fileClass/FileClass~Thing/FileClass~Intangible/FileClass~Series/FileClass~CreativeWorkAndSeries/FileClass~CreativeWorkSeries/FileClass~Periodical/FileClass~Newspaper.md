@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Newspaper, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/Newspaper, is_a_/Newspaper, schema-org/Newspaper]
-tags: ["class/FileClass", "class/Newspaper", "is_a_/Newspaper", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/Newspaper"]
+version: "2.0"
+tagNames:
+  - class/Newspaper
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/Newspaper
+  - is_a_/Newspaper
+  - schema-org/Newspaper
+tags:
+  - class/FileClass
+  - class/Newspaper
+  - is_a_/Newspaper
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/Periodical/Newspaper
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries/FileClass~Periodical
+fields: []
 ---
 
 # Newspaper

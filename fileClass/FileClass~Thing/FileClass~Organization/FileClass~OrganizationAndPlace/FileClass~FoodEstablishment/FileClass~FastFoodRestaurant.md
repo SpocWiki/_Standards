@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: utensils
-version: 5
-tagNames: [class/FastFoodRestaurant, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant, is_a_/FastFoodRestaurant, schema-org/FastFoodRestaurant]
-tags: ["class/FileClass", "class/FastFoodRestaurant", "is_a_/FastFoodRestaurant", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant"]
+version: "2.0"
+tagNames:
+  - class/FastFoodRestaurant
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant
+  - is_a_/FastFoodRestaurant
+  - schema-org/FastFoodRestaurant
+tags:
+  - class/FileClass
+  - class/FastFoodRestaurant
+  - is_a_/FastFoodRestaurant
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/FastFoodRestaurant
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
+fields: []
 ---
 
 # FastFoodRestaurant

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: map
-version: 5
-tagNames: [class/Atlas, class/Thing/CreativeWork/Atlas, is_an_/Atlas, schema-org/Atlas]
-tags: ["class/FileClass", "class/Atlas", "#is_an_/Atlas", "class/Thing/CreativeWork/Atlas"]
+version: "2.0"
+tagNames:
+  - class/Atlas
+  - class/Thing/CreativeWork/Atlas
+  - is_an_/Atlas
+  - schema-org/Atlas
+tags:
+  - class/FileClass
+  - class/Atlas
+  - "#is_an_/Atlas"
+  - class/Thing/CreativeWork/Atlas
 extends: FileClass~Thing/FileClass~CreativeWork
+fields: []
 ---
 
 # Atlas

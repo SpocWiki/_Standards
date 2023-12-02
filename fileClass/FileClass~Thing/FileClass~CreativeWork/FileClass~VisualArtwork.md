@@ -1,12 +1,89 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/VisualArtwork, class/Thing/CreativeWork/VisualArtwork, is_a_/VisualArtwork, schema-org/VisualArtwork]
-tags: ["class/FileClass", "class/VisualArtwork", "is_a_/VisualArtwork", "class/Thing/CreativeWork/VisualArtwork"]
+version: "2.0"
+tagNames:
+  - class/VisualArtwork
+  - class/Thing/CreativeWork/VisualArtwork
+  - is_a_/VisualArtwork
+  - schema-org/VisualArtwork
+tags:
+  - class/FileClass
+  - class/VisualArtwork
+  - is_a_/VisualArtwork
+  - class/Thing/CreativeWork/VisualArtwork
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: Mx7yRA
+    name: ArtEdition
+    options: {}
+    type: Number
+    path: ""
+  - id: 75kWR4
+    name: ArtMedium
+    options: {}
+    type: Input
+    path: ""
+  - id: SNtEh7
+    name: Artform
+    options: {}
+    type: Input
+    path: ""
+  - id: VAbtiT
+    name: Artist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: lB2Wqv
+    name: ArtworkSurface
+    options: {}
+    type: Input
+    path: ""
+  - id: EJFD5P
+    name: Colorist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: ZEK0jb
+    name: Depth
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: ej8Mjo
+    name: Height
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: bhVdUe
+    name: Inker
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: D2JUVc
+    name: Letterer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: RLWgfW
+    name: Penciler
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: k9M4yP
+    name: Width
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # VisualArtwork

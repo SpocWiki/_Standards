@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SellAction, class/Thing/Action/TradeAction/SellAction, is_a_/SellAction, schema-org/SellAction]
-tags: ["class/FileClass", "class/SellAction", "is_a_/SellAction", "class/Thing/Action/TradeAction/SellAction"]
+version: "2.0"
+tagNames:
+  - class/SellAction
+  - class/Thing/Action/TradeAction/SellAction
+  - is_a_/SellAction
+  - schema-org/SellAction
+tags:
+  - class/FileClass
+  - class/SellAction
+  - is_a_/SellAction
+  - class/Thing/Action/TradeAction/SellAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
+fields:
+  - id: hDTy3i
+    name: Buyer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
 ---
 
 # SellAction

@@ -1,12 +1,99 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BioChemEntity, class/Thing/BioChemEntity, is_a_/BioChemEntity, schema-org/BioChemEntity]
-tags: ["class/FileClass", "class/BioChemEntity", "is_a_/BioChemEntity", "class/Thing/BioChemEntity"]
+version: "2.0"
+tagNames:
+  - class/BioChemEntity
+  - class/Thing/BioChemEntity
+  - is_a_/BioChemEntity
+  - schema-org/BioChemEntity
+tags:
+  - class/FileClass
+  - class/BioChemEntity
+  - is_a_/BioChemEntity
+  - class/Thing/BioChemEntity
 extends: FileClass~Thing
+fields:
+  - id: X7BJff
+    name: AssociatedDisease
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ""
+  - id: Y0dwNi
+    name: BioChemInteraction
+    options:
+      dvQueryString: dv.pages('#class/Thing/BioChemEntity')
+    type: MultiFile
+    path: ""
+  - id: 5avmBz
+    name: BioChemSimilarity
+    options:
+      dvQueryString: dv.pages('#class/Thing/BioChemEntity')
+    type: MultiFile
+    path: ""
+  - id: 00ty7b
+    name: BiologicalRole
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: 8SSrec
+    name: Funding
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
+    type: MultiFile
+    path: ""
+  - id: iZNcFb
+    name: HasBioChemEntityPart
+    options:
+      dvQueryString: dv.pages('#class/Thing/BioChemEntity')
+    type: MultiFile
+    path: ""
+  - id: EJdt1X
+    name: HasMolecularFunction
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: K7K6LU
+    name: HasRepresentation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ""
+  - id: PNTupb
+    name: IsEncodedByBioChemEntity
+    options:
+      dvQueryString: dv.pages('#class/Thing/BioChemEntity/Gene')
+    type: MultiFile
+    path: ""
+  - id: JCay2K
+    name: IsInvolvedInBiologicalProcess
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: T2jGTE
+    name: IsLocatedInSubcellularLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: WkezY0
+    name: IsPartOfBioChemEntity
+    options:
+      dvQueryString: dv.pages('#class/Thing/BioChemEntity')
+    type: MultiFile
+    path: ""
+  - id: eMWAgk
+    name: TaxonomicRange
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
 ---
 
 # BioChemEntity

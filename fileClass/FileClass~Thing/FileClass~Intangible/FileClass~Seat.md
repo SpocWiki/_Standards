@@ -1,12 +1,41 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Seat, class/Thing/Intangible/Seat, is_a_/Seat, schema-org/Seat]
-tags: ["class/FileClass", "class/Seat", "is_a_/Seat", "class/Thing/Intangible/Seat"]
+version: "2.0"
+tagNames:
+  - class/Seat
+  - class/Thing/Intangible/Seat
+  - is_a_/Seat
+  - schema-org/Seat
+tags:
+  - class/FileClass
+  - class/Seat
+  - is_a_/Seat
+  - class/Thing/Intangible/Seat
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: jVazUf
+    name: SeatNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: bVQJUZ
+    name: SeatRow
+    options: {}
+    type: Input
+    path: ""
+  - id: HMHq91
+    name: SeatSection
+    options: {}
+    type: Input
+    path: ""
+  - id: 0Yk89h
+    name: SeatingType
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Seat

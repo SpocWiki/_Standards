@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: bus
-version: 5
-tagNames: [class/BusStation, class/Thing/Place/CivicStructure/BusStation, is_a_/BusStation, schema-org/BusStation]
-tags: ["class/FileClass", "class/BusStation", "is_a_/BusStation", "class/Thing/Place/CivicStructure/BusStation"]
+version: "2.0"
+tagNames:
+  - class/BusStation
+  - class/Thing/Place/CivicStructure/BusStation
+  - is_a_/BusStation
+  - schema-org/BusStation
+tags:
+  - class/FileClass
+  - class/BusStation
+  - is_a_/BusStation
+  - class/Thing/Place/CivicStructure/BusStation
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
+fields: []
 ---
 
 # BusStation

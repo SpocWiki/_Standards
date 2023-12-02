@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: store
-version: 5
-tagNames: [class/Store, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store, is_a_/Store, schema-org/Store]
-tags: ["class/FileClass", "class/Store", "is_a_/Store", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store"]
+version: "2.0"
+tagNames:
+  - class/Store
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store
+  - is_a_/Store
+  - schema-org/Store
+tags:
+  - class/FileClass
+  - class/Store
+  - is_a_/Store
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields: []
 ---
 
 # Store

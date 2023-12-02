@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ReactAction, class/Thing/Action/AssessAction/ReactAction, is_a_/ReactAction, schema-org/ReactAction]
-tags: ["class/FileClass", "class/ReactAction", "is_a_/ReactAction", "class/Thing/Action/AssessAction/ReactAction"]
+version: "2.0"
+tagNames:
+  - class/ReactAction
+  - class/Thing/Action/AssessAction/ReactAction
+  - is_a_/ReactAction
+  - schema-org/ReactAction
+tags:
+  - class/FileClass
+  - class/ReactAction
+  - is_a_/ReactAction
+  - class/Thing/Action/AssessAction/ReactAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
+fields: []
 ---
 
 # ReactAction

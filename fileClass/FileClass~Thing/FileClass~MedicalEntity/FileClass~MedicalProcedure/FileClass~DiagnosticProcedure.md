@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DiagnosticProcedure, class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure, is_a_/DiagnosticProcedure, schema-org/DiagnosticProcedure]
-tags: ["class/FileClass", "class/DiagnosticProcedure", "is_a_/DiagnosticProcedure", "class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure"]
+version: "2.0"
+tagNames:
+  - class/DiagnosticProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure
+  - is_a_/DiagnosticProcedure
+  - schema-org/DiagnosticProcedure
+tags:
+  - class/FileClass
+  - class/DiagnosticProcedure
+  - is_a_/DiagnosticProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/DiagnosticProcedure
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure
+fields: []
 ---
 
 # DiagnosticProcedure

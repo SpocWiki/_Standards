@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LinkRole, class/Thing/Intangible/Role/LinkRole, is_a_/LinkRole, schema-org/LinkRole]
-tags: ["class/FileClass", "class/LinkRole", "is_a_/LinkRole", "class/Thing/Intangible/Role/LinkRole"]
+version: "2.0"
+tagNames:
+  - class/LinkRole
+  - class/Thing/Intangible/Role/LinkRole
+  - is_a_/LinkRole
+  - schema-org/LinkRole
+tags:
+  - class/FileClass
+  - class/LinkRole
+  - is_a_/LinkRole
+  - class/Thing/Intangible/Role/LinkRole
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
+fields:
+  - id: BcpB04
+    name: InLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ""
+  - id: nUeU1V
+    name: LinkRelationship
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # LinkRole

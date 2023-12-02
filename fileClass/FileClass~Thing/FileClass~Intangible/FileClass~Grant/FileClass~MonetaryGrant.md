@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MonetaryGrant, class/Thing/Intangible/Grant/MonetaryGrant, is_a_/MonetaryGrant, schema-org/MonetaryGrant]
-tags: ["class/FileClass", "class/MonetaryGrant", "is_a_/MonetaryGrant", "class/Thing/Intangible/Grant/MonetaryGrant"]
+version: "2.0"
+tagNames:
+  - class/MonetaryGrant
+  - class/Thing/Intangible/Grant/MonetaryGrant
+  - is_a_/MonetaryGrant
+  - schema-org/MonetaryGrant
+tags:
+  - class/FileClass
+  - class/MonetaryGrant
+  - is_a_/MonetaryGrant
+  - class/Thing/Intangible/Grant/MonetaryGrant
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Grant
+fields:
+  - id: wMsTSc
+    name: Amount
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # MonetaryGrant

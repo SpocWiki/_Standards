@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TouristTrip, class/Thing/Intangible/Trip/TouristTrip, is_a_/TouristTrip, schema-org/TouristTrip]
-tags: ["class/FileClass", "class/TouristTrip", "is_a_/TouristTrip", "class/Thing/Intangible/Trip/TouristTrip"]
+version: "2.0"
+tagNames:
+  - class/TouristTrip
+  - class/Thing/Intangible/Trip/TouristTrip
+  - is_a_/TouristTrip
+  - schema-org/TouristTrip
+tags:
+  - class/FileClass
+  - class/TouristTrip
+  - is_a_/TouristTrip
+  - class/Thing/Intangible/Trip/TouristTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
+fields:
+  - id: r8zTIZ
+    name: TouristType
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ""
 ---
 
 # TouristTrip

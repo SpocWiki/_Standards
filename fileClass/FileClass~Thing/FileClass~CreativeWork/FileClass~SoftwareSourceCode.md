@@ -1,12 +1,48 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SoftwareSourceCode, class/Thing/CreativeWork/SoftwareSourceCode, is_a_/SoftwareSourceCode, schema-org/SoftwareSourceCode]
-tags: ["class/FileClass", "class/SoftwareSourceCode", "is_a_/SoftwareSourceCode", "class/Thing/CreativeWork/SoftwareSourceCode"]
+version: "2.0"
+tagNames:
+  - class/SoftwareSourceCode
+  - class/Thing/CreativeWork/SoftwareSourceCode
+  - is_a_/SoftwareSourceCode
+  - schema-org/SoftwareSourceCode
+tags:
+  - class/FileClass
+  - class/SoftwareSourceCode
+  - is_a_/SoftwareSourceCode
+  - class/Thing/CreativeWork/SoftwareSourceCode
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: 4XZvJP
+    name: CodeRepository
+    options: {}
+    type: Input
+    path: ""
+  - id: 8RPQyE
+    name: CodeSampleType
+    options: {}
+    type: Input
+    path: ""
+  - id: n2E0Qy
+    name: ProgrammingLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ComputerLanguage')
+    type: MultiFile
+    path: ""
+  - id: UOBGJb
+    name: RuntimePlatform
+    options: {}
+    type: Input
+    path: ""
+  - id: s9Byca
+    name: TargetProduct
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
+    type: MultiFile
+    path: ""
 ---
 
 # SoftwareSourceCode

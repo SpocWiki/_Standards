@@ -1,12 +1,46 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AlignmentObject, class/Thing/Intangible/AlignmentObject, is_an_/AlignmentObject, schema-org/AlignmentObject]
-tags: ["class/FileClass", "class/AlignmentObject", "#is_an_/AlignmentObject", "class/Thing/Intangible/AlignmentObject"]
+version: "2.0"
+tagNames:
+  - class/AlignmentObject
+  - class/Thing/Intangible/AlignmentObject
+  - is_an_/AlignmentObject
+  - schema-org/AlignmentObject
+tags:
+  - class/FileClass
+  - class/AlignmentObject
+  - "#is_an_/AlignmentObject"
+  - class/Thing/Intangible/AlignmentObject
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: AxFrcc
+    name: AlignmentType
+    options: {}
+    type: Input
+    path: ""
+  - id: MochSY
+    name: EducationalFramework
+    options: {}
+    type: Input
+    path: ""
+  - id: bmNMOB
+    name: TargetDescription
+    options: {}
+    type: Input
+    path: ""
+  - id: 3Duwwh
+    name: TargetName
+    options: {}
+    type: Input
+    path: ""
+  - id: UcT7uL
+    name: TargetUrl
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # AlignmentObject

@@ -30,17 +30,20 @@ aliases:
 - has_next_item
 ---
 
+# [[has_next_item]] 
+
+A link to the [[../../Collection/list_item|ListItem]] that follows the current one.
+
 Use it like this: 
 - [ #has_/next_item :: ListItem ] or 
 - [ has_next_item :: ListItem ] 
 
-A link to the ListItem that follows the current one.
-
-Relation describes that: 
+This Relation describes that: 
 [ #has_/domain  :: ListItem ]
 ( #has_/name :: has_next_item )
 ( #has_/range :: ListItem )
 
+#is_inverse_of :: [[has_previous_item]] 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_next_item.md|has_next_item]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_next_item.internal.md|has_next_item.internal]] 

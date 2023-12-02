@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/InfectiousDisease, class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease, is_an_/InfectiousDisease, schema-org/InfectiousDisease]
-tags: ["class/FileClass", "class/InfectiousDisease", "#is_an_/InfectiousDisease", "class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease"]
+version: "2.0"
+tagNames:
+  - class/InfectiousDisease
+  - class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease
+  - is_an_/InfectiousDisease
+  - schema-org/InfectiousDisease
+tags:
+  - class/FileClass
+  - class/InfectiousDisease
+  - "#is_an_/InfectiousDisease"
+  - class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition
+fields:
+  - id: uMxmYb
+    name: InfectiousAgent
+    options: {}
+    type: Input
+    path: ""
+  - id: OLYaoH
+    name: TransmissionMethod
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # InfectiousDisease

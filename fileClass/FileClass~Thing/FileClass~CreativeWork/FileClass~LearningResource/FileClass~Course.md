@@ -1,12 +1,78 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Course, class/Thing/CreativeWork/LearningResource/Course, is_a_/Course, schema-org/Course]
-tags: ["class/FileClass", "class/Course", "is_a_/Course", "class/Thing/CreativeWork/LearningResource/Course"]
+version: "2.0"
+tagNames:
+  - class/Course
+  - class/Thing/CreativeWork/LearningResource/Course
+  - is_a_/Course
+  - schema-org/Course
+tags:
+  - class/FileClass
+  - class/Course
+  - is_a_/Course
+  - class/Thing/CreativeWork/LearningResource/Course
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
+fields:
+  - id: SoGBxE
+    name: AvailableLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ""
+  - id: 81nNvi
+    name: CourseCode
+    options: {}
+    type: Input
+    path: ""
+  - id: olwub2
+    name: CoursePrerequisites
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/AlignmentObject')
+    type: MultiFile
+    path: ""
+  - id: gxyjmP
+    name: EducationalCredentialAwarded
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
+    type: MultiFile
+    path: ""
+  - id: NiKxSu
+    name: FinancialAidEligible
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: si3n4G
+    name: HasCourseInstance
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event/CourseInstance')
+    type: MultiFile
+    path: ""
+  - id: dDhAO1
+    name: NumberOfCredits
+    options: {}
+    type: Number
+    path: ""
+  - id: qbl6Aa
+    name: OccupationalCredentialAwarded
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
+    type: MultiFile
+    path: ""
+  - id: kSMraT
+    name: SyllabusSections
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/LearningResource/Syllabus')
+    type: MultiFile
+    path: ""
+  - id: AKSEH0
+    name: TotalHistoricalEnrollment
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # Course

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: camera
-version: 5
-tagNames: [class/Photograph, class/Thing/CreativeWork/Photograph, is_a_/Photograph, schema-org/Photograph]
-tags: ["class/FileClass", "class/Photograph", "is_a_/Photograph", "class/Thing/CreativeWork/Photograph"]
+version: "2.0"
+tagNames:
+  - class/Photograph
+  - class/Thing/CreativeWork/Photograph
+  - is_a_/Photograph
+  - schema-org/Photograph
+tags:
+  - class/FileClass
+  - class/Photograph
+  - is_a_/Photograph
+  - class/Thing/CreativeWork/Photograph
 extends: FileClass~Thing/FileClass~CreativeWork
+fields: []
 ---
 
 # Photograph

@@ -30,20 +30,20 @@ aliases:
 - has_toc_entry
 ---
 
+Indicates a [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] in a [[../../Class/is_a_/creative_work/hyper_toc|HyperToc]]. 
+
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/toc_entry :: HyperTocEntry ] or 
-- [ has_toc_entry :: HyperTocEntry ] 
-
-Indicates a [[HyperTocEntry]] in a [[HyperToc]].
+- [ #has_/toc_entry :: [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] ] or 
+- [ has_toc_entry :: [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] ] 
 
 Relation describes that: 
-[ #has_/domain  :: HyperToc ]
-( #has_/name :: is_toc_entry )
-( #has_/range :: HyperTocEntry )
+[ #has_/domain  :: [[../../Class/is_a_/creative_work/hyper_toc|HyperToc]] ] 
+( #has_/name :: is_toc_entry ) 
+( #has_/range :: [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] ) 
 
-[ #is_/sub_property_of  :: hasPart ]
+[ #is_/sub_property_of  :: [[has_part|hasPart]] ] 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_toc_entry.md|has_toc_entry]] 

@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/EnergyConsumptionDetails, class/Thing/Intangible/EnergyConsumptionDetails, is_an_/EnergyConsumptionDetails, schema-org/EnergyConsumptionDetails]
-tags: ["class/FileClass", "class/EnergyConsumptionDetails", "#is_an_/EnergyConsumptionDetails", "class/Thing/Intangible/EnergyConsumptionDetails"]
+version: "2.0"
+tagNames:
+  - class/EnergyConsumptionDetails
+  - class/Thing/Intangible/EnergyConsumptionDetails
+  - is_an_/EnergyConsumptionDetails
+  - schema-org/EnergyConsumptionDetails
+tags:
+  - class/FileClass
+  - class/EnergyConsumptionDetails
+  - "#is_an_/EnergyConsumptionDetails"
+  - class/Thing/Intangible/EnergyConsumptionDetails
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: Nyy3ov
+    name: HasEnergyEfficiencyCategory
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # EnergyConsumptionDetails

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MusicEvent, class/Thing/Event/MusicEvent, is_a_/MusicEvent, schema-org/MusicEvent]
-tags: ["class/FileClass", "class/MusicEvent", "is_a_/MusicEvent", "class/Thing/Event/MusicEvent"]
+version: "2.0"
+tagNames:
+  - class/MusicEvent
+  - class/Thing/Event/MusicEvent
+  - is_a_/MusicEvent
+  - schema-org/MusicEvent
+tags:
+  - class/FileClass
+  - class/MusicEvent
+  - is_a_/MusicEvent
+  - class/Thing/Event/MusicEvent
 extends: FileClass~Thing/FileClass~Event
+fields: []
 ---
 
 # MusicEvent

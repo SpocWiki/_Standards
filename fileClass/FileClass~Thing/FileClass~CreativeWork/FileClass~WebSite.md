@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/WebSite, class/Thing/CreativeWork/WebSite, is_a_/WebSite, schema-org/WebSite]
-tags: ["class/FileClass", "class/WebSite", "is_a_/WebSite", "class/Thing/CreativeWork/WebSite"]
+version: "2.0"
+tagNames:
+  - class/WebSite
+  - class/Thing/CreativeWork/WebSite
+  - is_a_/WebSite
+  - schema-org/WebSite
+tags:
+  - class/FileClass
+  - class/WebSite
+  - is_a_/WebSite
+  - class/Thing/CreativeWork/WebSite
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: Oflmmy
+    name: Issn
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # WebSite

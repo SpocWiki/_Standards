@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SocialMediaPosting, class/Thing/CreativeWork/Article/SocialMediaPosting, is_a_/SocialMediaPosting, schema-org/SocialMediaPosting]
-tags: ["class/FileClass", "class/SocialMediaPosting", "is_a_/SocialMediaPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting"]
+version: "2.0"
+tagNames:
+  - class/SocialMediaPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting
+  - is_a_/SocialMediaPosting
+  - schema-org/SocialMediaPosting
+tags:
+  - class/FileClass
+  - class/SocialMediaPosting
+  - is_a_/SocialMediaPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
+fields:
+  - id: CL3onz
+    name: SharedContent
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
 ---
 
 # SocialMediaPosting

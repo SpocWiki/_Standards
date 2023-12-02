@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/StatisticalVariable, class/Thing/Intangible/ConstraintNode/StatisticalVariable, is_a_/StatisticalVariable, schema-org/StatisticalVariable]
-tags: ["class/FileClass", "class/StatisticalVariable", "is_a_/StatisticalVariable", "class/Thing/Intangible/ConstraintNode/StatisticalVariable"]
+version: "2.0"
+tagNames:
+  - class/StatisticalVariable
+  - class/Thing/Intangible/ConstraintNode/StatisticalVariable
+  - is_a_/StatisticalVariable
+  - schema-org/StatisticalVariable
+tags:
+  - class/FileClass
+  - class/StatisticalVariable
+  - is_a_/StatisticalVariable
+  - class/Thing/Intangible/ConstraintNode/StatisticalVariable
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode
+fields:
+  - id: y619wL
+    name: MeasurementDenominator
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ConstraintNode/StatisticalVariable')
+    type: MultiFile
+    path: ""
+  - id: Knbhh0
+    name: StatType
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # StatisticalVariable

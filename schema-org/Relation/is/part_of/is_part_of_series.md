@@ -3,45 +3,43 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: is_part_of_series
-
 linkTitle: is_part_of_series
-keywords: [part, of, series]
+keywords:
+  - part
+  - of
+  - series
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: partOfTVSeries
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- part-of-series
-- part_of_series
-- partOfSeries
-- is_part_of_series
+  - part-of-series
+  - part_of_series
+  - partOfSeries
+  - is_part_of_series
+  - partOfTVSeries
 ---
 
 Use it like this: 
-- [ #is_/part_of_series :: CreativeWorkSeries ] or 
-- [ is_part_of_series :: CreativeWorkSeries ] 
+- [ #is_/part_of_series :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] ] or 
+- [ is_part_of_series :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] ] 
 
 The series to which this episode or season belongs.
 
-Relation describes that: 
-[ #has_/domain  :: Clip, CreativeWorkSeason, Episode ]
+[[../../../Relation|Relation]] describes that: 
+[ #has_/domain  :: [ [[../../../Class/is_a_/creative_work/clip|Clip]], [[../../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]], [[../../../Class/is_a_/creative_work/episode|Episode]] ] ]
 ( #has_/name :: is_part_of_series )
-( #has_/range :: CreativeWorkSeries )
+( #has_/range :: [[../../../Class/is_a_/creative_work/creative_work_series|CreativeWorkSeries]] )
 
 [ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
 

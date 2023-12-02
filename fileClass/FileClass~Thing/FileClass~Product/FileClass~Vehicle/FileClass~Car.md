@@ -2,11 +2,31 @@
 limit: 9
 mapWithTag: true
 icon: car
-tagNames: [class/Car, class/Thing/Product/Vehicle/Car, is_a_/Car, schema-org/Car]
-tags: ["class/FileClass", "class/Car", "is_a_/Car", "class/Thing/Product/Vehicle/Car"]
+tagNames:
+  - class/Car
+  - class/Thing/Product/Vehicle/Car
+  - is_a_/Car
+  - schema-org/Car
+tags:
+  - class/FileClass
+  - class/Car
+  - is_a_/Car
+  - class/Thing/Product/Vehicle/Car
 excludes: 
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
-version: 4
+version: "2.0"
+fields:
+  - id: iEKjUK
+    name: AcrissCode
+    options: {}
+    type: Input
+    path: ""
+  - id: 3zL0er
+    name: RoofLoad
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # Car

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CheckOutAction, class/Thing/Action/InteractAction/CommunicateAction/CheckOutAction, is_a_/CheckOutAction, schema-org/CheckOutAction]
-tags: ["class/FileClass", "class/CheckOutAction", "is_a_/CheckOutAction", "class/Thing/Action/InteractAction/CommunicateAction/CheckOutAction"]
+version: "2.0"
+tagNames:
+  - class/CheckOutAction
+  - class/Thing/Action/InteractAction/CommunicateAction/CheckOutAction
+  - is_a_/CheckOutAction
+  - schema-org/CheckOutAction
+tags:
+  - class/FileClass
+  - class/CheckOutAction
+  - is_a_/CheckOutAction
+  - class/Thing/Action/InteractAction/CommunicateAction/CheckOutAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
+fields: []
 ---
 
 # CheckOutAction

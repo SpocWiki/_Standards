@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PreOrderAction, class/Thing/Action/TradeAction/PreOrderAction, is_a_/PreOrderAction, schema-org/PreOrderAction]
-tags: ["class/FileClass", "class/PreOrderAction", "is_a_/PreOrderAction", "class/Thing/Action/TradeAction/PreOrderAction"]
+version: "2.0"
+tagNames:
+  - class/PreOrderAction
+  - class/Thing/Action/TradeAction/PreOrderAction
+  - is_a_/PreOrderAction
+  - schema-org/PreOrderAction
+tags:
+  - class/FileClass
+  - class/PreOrderAction
+  - is_a_/PreOrderAction
+  - class/Thing/Action/TradeAction/PreOrderAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
+fields: []
 ---
 
 # PreOrderAction

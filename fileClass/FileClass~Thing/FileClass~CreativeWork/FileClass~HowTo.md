@@ -1,12 +1,72 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/HowTo, class/Thing/CreativeWork/HowTo, is_a_/HowTo, schema-org/HowTo]
-tags: ["class/FileClass", "class/HowTo", "is_a_/HowTo", "class/Thing/CreativeWork/HowTo"]
+version: "2.0"
+tagNames:
+  - class/HowTo
+  - class/Thing/CreativeWork/HowTo
+  - is_a_/HowTo
+  - schema-org/HowTo
+tags:
+  - class/FileClass
+  - class/HowTo
+  - is_a_/HowTo
+  - class/Thing/CreativeWork/HowTo
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: Alk2Px
+    name: EstimatedCost
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
+  - id: UNFskw
+    name: PerformTime
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: L66XCA
+    name: PrepTime
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: j37os3
+    name: Step
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: Y65n22
+    name: Supply
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')
+    type: MultiFile
+    path: ""
+  - id: ZG1cSw
+    name: Tool
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')
+    type: MultiFile
+    path: ""
+  - id: Mffahr
+    name: TotalTime
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: 2zQauS
+    name: Yield
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # HowTo

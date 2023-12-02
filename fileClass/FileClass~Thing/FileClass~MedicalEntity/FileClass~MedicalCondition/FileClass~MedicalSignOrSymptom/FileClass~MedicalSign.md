@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalSign, class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign, is_a_/MedicalSign, schema-org/MedicalSign]
-tags: ["class/FileClass", "class/MedicalSign", "is_a_/MedicalSign", "class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign"]
+version: "2.0"
+tagNames:
+  - class/MedicalSign
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign
+  - is_a_/MedicalSign
+  - schema-org/MedicalSign
+tags:
+  - class/FileClass
+  - class/MedicalSign
+  - is_a_/MedicalSign
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom
+fields:
+  - id: K4MlAn
+    name: IdentifyingTest
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalTest')
+    type: MultiFile
+    path: ""
 ---
 
 # MedicalSign

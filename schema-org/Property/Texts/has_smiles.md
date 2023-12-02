@@ -39,7 +39,8 @@ Use it like this:
 - [ #has_/text_/of_/smiles :: Text ] or 
 - [ has_text_of_smiles :: Text ] 
 
-A specification in form of a line notation for describing the structure of chemical species using short ASCII strings.  Double bond stereochemistry \ indicators may need to be escaped in the string in formats where the backslash is an escape character.
+A specification in form of a line notation for describing the structure of chemical species using short ASCII strings. 
+Double bond stereochemistry \ indicators may need to be escaped in the string in formats where the backslash is an escape character.
 
 Predicated describes that: 
 [ #has_/domain  :: MolecularEntity ]

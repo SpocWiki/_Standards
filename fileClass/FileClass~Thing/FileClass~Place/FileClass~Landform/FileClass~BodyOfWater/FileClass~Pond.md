@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: waves
-version: 5
-tagNames: [class/Pond, class/Thing/Place/Landform/BodyOfWater/Pond, is_a_/Pond, schema-org/Pond]
-tags: ["class/FileClass", "class/Pond", "is_a_/Pond", "class/Thing/Place/Landform/BodyOfWater/Pond"]
+version: "2.0"
+tagNames:
+  - class/Pond
+  - class/Thing/Place/Landform/BodyOfWater/Pond
+  - is_a_/Pond
+  - schema-org/Pond
+tags:
+  - class/FileClass
+  - class/Pond
+  - is_a_/Pond
+  - class/Thing/Place/Landform/BodyOfWater/Pond
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
+fields: []
 ---
 
 # Pond

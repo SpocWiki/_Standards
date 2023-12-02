@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: ice-cream
-version: 5
-tagNames: [class/IceCreamShop, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop, is_an_/IceCreamShop, schema-org/IceCreamShop]
-tags: ["class/FileClass", "class/IceCreamShop", "#is_an_/IceCreamShop", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop"]
+version: "2.0"
+tagNames:
+  - class/IceCreamShop
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop
+  - is_an_/IceCreamShop
+  - schema-org/IceCreamShop
+tags:
+  - class/FileClass
+  - class/IceCreamShop
+  - "#is_an_/IceCreamShop"
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment/IceCreamShop
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment
+fields: []
 ---
 
 # IceCreamShop

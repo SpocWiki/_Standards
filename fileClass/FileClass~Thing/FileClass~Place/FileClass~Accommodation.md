@@ -1,12 +1,101 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: hotel
-version: 5
-tagNames: [class/Accommodation, class/Thing/Place/Accommodation, is_an_/Accommodation, schema-org/Accommodation]
-tags: ["class/FileClass", "class/Accommodation", "#is_an_/Accommodation", "class/Thing/Place/Accommodation"]
+version: "2.0"
+tagNames:
+  - class/Accommodation
+  - class/Thing/Place/Accommodation
+  - is_an_/Accommodation
+  - schema-org/Accommodation
+tags:
+  - class/FileClass
+  - class/Accommodation
+  - "#is_an_/Accommodation"
+  - class/Thing/Place/Accommodation
 extends: FileClass~Thing/FileClass~Place
+fields:
+  - id: Chew3O
+    name: AccommodationCategory
+    options: {}
+    type: Input
+    path: ""
+  - id: eWNp0c
+    name: AccommodationFloorPlan
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/FloorPlan')
+    type: MultiFile
+    path: ""
+  - id: bn5qfP
+    name: Bed
+    options: {}
+    type: Input
+    path: ""
+  - id: 6Pm1hL
+    name: FloorLevel
+    options: {}
+    type: Input
+    path: ""
+  - id: dSKQR7
+    name: FloorSize
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: 20rEgu
+    name: LeaseLength
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: XRLpHc
+    name: NumberOfBathroomsTotal
+    options: {}
+    type: Number
+    path: ""
+  - id: oiBtPA
+    name: NumberOfBedrooms
+    options: {}
+    type: Number
+    path: ""
+  - id: 5Jyuk8
+    name: NumberOfFullBathrooms
+    options: {}
+    type: Number
+    path: ""
+  - id: eFqXqo
+    name: NumberOfPartialBathrooms
+    options: {}
+    type: Number
+    path: ""
+  - id: n6J3D6
+    name: NumberOfRooms
+    options: {}
+    type: Number
+    path: ""
+  - id: gWLtWE
+    name: Occupancy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: cqco0l
+    name: PermittedUsage
+    options: {}
+    type: Input
+    path: ""
+  - id: uUFIOD
+    name: PetsAllowed
+    options: {}
+    type: Boolean
+    path: ""
+  - id: s5v7Qq
+    name: YearBuilt
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # Accommodation

@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/JoinAction, class/Thing/Action/InteractAction/JoinAction, is_a_/JoinAction, schema-org/JoinAction]
-tags: ["class/FileClass", "class/JoinAction", "is_a_/JoinAction", "class/Thing/Action/InteractAction/JoinAction"]
+version: "2.0"
+tagNames:
+  - class/JoinAction
+  - class/Thing/Action/InteractAction/JoinAction
+  - is_a_/JoinAction
+  - schema-org/JoinAction
+tags:
+  - class/FileClass
+  - class/JoinAction
+  - is_a_/JoinAction
+  - class/Thing/Action/InteractAction/JoinAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
+fields:
+  - id: bJ33uM
+    name: Events
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ""
 ---
 
 # JoinAction

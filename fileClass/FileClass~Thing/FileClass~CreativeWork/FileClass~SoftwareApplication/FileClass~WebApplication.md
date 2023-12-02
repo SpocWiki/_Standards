@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/WebApplication, class/Thing/CreativeWork/SoftwareApplication/WebApplication, is_a_/WebApplication, schema-org/WebApplication]
-tags: ["class/FileClass", "class/WebApplication", "is_a_/WebApplication", "class/Thing/CreativeWork/SoftwareApplication/WebApplication"]
+version: "2.0"
+tagNames:
+  - class/WebApplication
+  - class/Thing/CreativeWork/SoftwareApplication/WebApplication
+  - is_a_/WebApplication
+  - schema-org/WebApplication
+tags:
+  - class/FileClass
+  - class/WebApplication
+  - is_a_/WebApplication
+  - class/Thing/CreativeWork/SoftwareApplication/WebApplication
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
+fields:
+  - id: JVkqei
+    name: BrowserRequirements
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # WebApplication

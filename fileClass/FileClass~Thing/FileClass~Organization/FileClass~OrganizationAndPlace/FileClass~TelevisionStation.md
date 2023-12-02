@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: radio-tower
-version: 5
-tagNames: [class/TelevisionStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation, is_a_/TelevisionStation, schema-org/TelevisionStation]
-tags: ["class/FileClass", "class/TelevisionStation", "is_a_/TelevisionStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation"]
+version: "2.0"
+tagNames:
+  - class/TelevisionStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation
+  - is_a_/TelevisionStation
+  - schema-org/TelevisionStation
+tags:
+  - class/FileClass
+  - class/TelevisionStation
+  - is_a_/TelevisionStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/TelevisionStation
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields: []
 ---
 
 # TelevisionStation

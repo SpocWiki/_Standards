@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/WarrantyPromise, class/Thing/Intangible/StructuredValue/WarrantyPromise, is_a_/WarrantyPromise, schema-org/WarrantyPromise]
-tags: ["class/FileClass", "class/WarrantyPromise", "is_a_/WarrantyPromise", "class/Thing/Intangible/StructuredValue/WarrantyPromise"]
+version: "2.0"
+tagNames:
+  - class/WarrantyPromise
+  - class/Thing/Intangible/StructuredValue/WarrantyPromise
+  - is_a_/WarrantyPromise
+  - schema-org/WarrantyPromise
+tags:
+  - class/FileClass
+  - class/WarrantyPromise
+  - is_a_/WarrantyPromise
+  - class/Thing/Intangible/StructuredValue/WarrantyPromise
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: u9gwOq
+    name: DurationOfWarranty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: FSyhJi
+    name: WarrantyScope
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # WarrantyPromise

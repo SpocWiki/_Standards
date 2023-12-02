@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Manuscript, class/Thing/CreativeWork/Manuscript, is_a_/Manuscript, schema-org/Manuscript]
-tags: ["class/FileClass", "class/Manuscript", "is_a_/Manuscript", "class/Thing/CreativeWork/Manuscript"]
+version: "2.0"
+tagNames:
+  - class/Manuscript
+  - class/Thing/CreativeWork/Manuscript
+  - is_a_/Manuscript
+  - schema-org/Manuscript
+tags:
+  - class/FileClass
+  - class/Manuscript
+  - is_a_/Manuscript
+  - class/Thing/CreativeWork/Manuscript
 extends: FileClass~Thing/FileClass~CreativeWork
+fields: []
 ---
 
 # Manuscript

@@ -1,12 +1,85 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MerchantReturnPolicy, class/Thing/Intangible/MerchantReturnPolicy, is_a_/MerchantReturnPolicy, schema-org/MerchantReturnPolicy]
-tags: ["class/FileClass", "class/MerchantReturnPolicy", "is_a_/MerchantReturnPolicy", "class/Thing/Intangible/MerchantReturnPolicy"]
+version: "2.0"
+tagNames:
+  - class/MerchantReturnPolicy
+  - class/Thing/Intangible/MerchantReturnPolicy
+  - is_a_/MerchantReturnPolicy
+  - schema-org/MerchantReturnPolicy
+tags:
+  - class/FileClass
+  - class/MerchantReturnPolicy
+  - is_a_/MerchantReturnPolicy
+  - class/Thing/Intangible/MerchantReturnPolicy
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: 3FwFGS
+    name: AdditionalProperty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ""
+  - id: AHIu9g
+    name: ApplicableCountry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ""
+  - id: QlMShY
+    name: CustomerRemorseReturnShippingFeesAmount
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
+  - id: G5EW2w
+    name: InStoreReturnsOffered
+    options: {}
+    type: Boolean
+    path: ""
+  - id: JzZyuU
+    name: ItemDefectReturnShippingFeesAmount
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
+  - id: SnZ4fd
+    name: MerchantReturnDays
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: vNmeBp
+    name: MerchantReturnLink
+    options: {}
+    type: Input
+    path: ""
+  - id: O5bUW3
+    name: RestockingFee
+    options: {}
+    type: Number
+    path: ""
+  - id: sqYCih
+    name: ReturnPolicyCountry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ""
+  - id: RRtFky
+    name: ReturnPolicySeasonalOverride
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicySeasonalOverride')
+    type: MultiFile
+    path: ""
+  - id: oYybhM
+    name: ReturnShippingFeesAmount
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
 ---
 
 # MerchantReturnPolicy

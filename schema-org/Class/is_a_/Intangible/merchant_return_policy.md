@@ -1,39 +1,35 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_merchant_return_policy Class
 linkTitle: is_a_merchant_return_policy Class
-
-keywords: [merchant_return_policy]
+keywords:
+  - merchant_return_policy
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: ProductReturnPolicy
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
 aliases:
-- merchant-return-policy
-- merchant_return_policy
-- MerchantReturnPolicy
-- is_a_merchant_return_policy
+  - merchant-return-policy
+  - merchant_return_policy
+  - MerchantReturnPolicy
+  - is_a_merchant_return_policy
+  - ProductReturnPolicy
+  - Product-Return-Policy
+  - product_return_policy
 ---
 
-Class of all merchant_return_policys.
+[[../../../Class|Class]] of all merchant_return_policys.
 
 Tag Instances like this: 
 #is_a_/merchant_return_policy
@@ -44,7 +40,7 @@ A MerchantReturnPolicy provides information about product return policies associ
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
-[ #has_/properties :: [ additionalProperty, additionalType, alternateName, applicableCountry, customerRemorseReturnFees, customerRemorseReturnLabelSource, customerRemorseReturnShippingFeesAmount, description, disambiguatingDescription, identifier, image, inStoreReturnsOffered, itemCondition, itemDefectReturnFees, itemDefectReturnLabelSource, itemDefectReturnShippingFeesAmount, mainEntityOfPage, merchantReturnDays, merchantReturnLink, name, potentialAction, refundType, restockingFee, returnFees, returnLabelSource, returnMethod, returnPolicyCategory, returnPolicyCountry, returnPolicySeasonalOverride, returnShippingFeesAmount, sameAs, subjectOf, url ] ]
+[ #has_/properties :: [ [[../../../Relation/has/has_additional_property|additionalProperty]], [[../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../Property/Texts/has_alternate_name|alternateName]], [[../../../Relation/is/is_applicable_in_country|applicableCountry]], [[../../../Relation/has/has_customer_remorse_return_fees|customerRemorseReturnFees]], [[../../../Relation/has/has_customer_remorse_return_label_source|customerRemorseReturnLabelSource]], [[../../../Property/has_value_for/has_value_for_customer_remorse_return_shipping_fees_amount|customerRemorseReturnShippingFeesAmount]], [[../../../Property/Texts/has_description|description]], [[../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../Relation/has/has_identifier|identifier]], [[../../../Relation/has/has_image|image]], [[../../../Property/Flags/is_in_store_return_offered|inStoreReturnsOffered]], [[../../../Relation/has/has_item_condition|itemCondition]], [[../../../Relation/has/has_item_defect_return_fees|itemDefectReturnFees]], [[../../../Relation/has/has_item_defect_return_label_source|itemDefectReturnLabelSource]], [[../../../Property/has_value_for/has_value_for_item_defect_return_shipping_fees_amount|itemDefectReturnShippingFeesAmount]], [[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../Property/has_Date_Time/has_time_of_merchant_return_days|merchantReturnDays]], [[../../../Property/has_url_for/has_url_for_merchant_return_link|merchantReturnLink]], [[../../../Property/Texts/has_name|name]], [[../../../Relation/has/has_potential_action|potentialAction]], [[../../../Relation/has/has_refund_type|refundType]], [[../../../Property/has_value_for/has_value_for_restocking_fee|restockingFee]], [[../../../Relation/has/has_return_fees|returnFees]], [[../../../Relation/has/has_return_label_source|returnLabelSource]], [[../../../Relation/has/has_return_method|returnMethod]], [[../../../Relation/has/has_return_policy_category|returnPolicyCategory]], [[../../../Relation/has/has_return_policy_country|returnPolicyCountry]], [[../../../Relation/has/has_return_policy_seasonal_override|returnPolicySeasonalOverride]], [[../../../Property/has_value_for/has_value_for_return_shipping_fees_amount|returnShippingFeesAmount]], [[../../../Property/has_url_for/has_url_for_same_as|sameAs]], [[../../../Relation/is/is_subject_of|subjectOf]], [[../../../Property/has_url_for/has_url|url]] ] ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Class/is_a_/intangible/merchant_return_policy.md|merchant_return_policy]] 

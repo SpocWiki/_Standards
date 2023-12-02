@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: anchor
-version: 5
-tagNames: [class/BoatTerminal, class/Thing/Place/CivicStructure/BoatTerminal, is_a_/BoatTerminal, schema-org/BoatTerminal]
-tags: ["class/FileClass", "class/BoatTerminal", "is_a_/BoatTerminal", "class/Thing/Place/CivicStructure/BoatTerminal"]
+version: "2.0"
+tagNames:
+  - class/BoatTerminal
+  - class/Thing/Place/CivicStructure/BoatTerminal
+  - is_a_/BoatTerminal
+  - schema-org/BoatTerminal
+tags:
+  - class/FileClass
+  - class/BoatTerminal
+  - is_a_/BoatTerminal
+  - class/Thing/Place/CivicStructure/BoatTerminal
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
+fields: []
 ---
 
 # BoatTerminal

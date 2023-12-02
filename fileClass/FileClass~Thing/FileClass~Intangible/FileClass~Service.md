@@ -1,12 +1,131 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Service, class/Thing/Intangible/Service, is_a_/Service, schema-org/Service]
-tags: ["class/FileClass", "class/Service", "is_a_/Service", "class/Thing/Intangible/Service"]
+version: "2.0"
+tagNames:
+  - class/Service
+  - class/Thing/Intangible/Service
+  - is_a_/Service
+  - schema-org/Service
+tags:
+  - class/FileClass
+  - class/Service
+  - is_a_/Service
+  - class/Thing/Intangible/Service
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: gfFpic
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ""
+  - id: 3vbKyR
+    name: AreaServed
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: KDqhN4
+    name: Audience
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ""
+  - id: rYbA5d
+    name: AvailableChannel
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ServiceChannel')
+    type: MultiFile
+    path: ""
+  - id: UBHApE
+    name: Award
+    options: {}
+    type: Input
+    path: ""
+  - id: MdEltj
+    name: Brand
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Brand')
+    type: MultiFile
+    path: ""
+  - id: TG6udj
+    name: Broker
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: yPKnX9
+    name: HasOfferCatalog
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList/OfferCatalog')
+    type: MultiFile
+    path: ""
+  - id: QMRLxC
+    name: HoursAvailable
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
+    type: MultiFile
+    path: ""
+  - id: F4DBGW
+    name: IsRelatedTo
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ""
+  - id: MqU5xR
+    name: IsSimilarTo
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ""
+  - id: IGeppZ
+    name: Logo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ""
+  - id: QbT9VN
+    name: Offers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
+    type: MultiFile
+    path: ""
+  - id: Rs22KR
+    name: Provider
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: AGS0hX
+    name: ProviderMobility
+    options: {}
+    type: Input
+    path: ""
+  - id: AauhZ1
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: 6T0JEr
+    name: ServiceOutput
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: ifH2aw
+    name: Slogan
+    options: {}
+    type: Input
+    path: ""
+  - id: vUUYAr
+    name: TermsOfService
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Service

@@ -1,12 +1,28 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PlanAction, class/Thing/Action/OrganizeAction/PlanAction, is_a_/PlanAction, schema-org/PlanAction]
-tags: ["class/FileClass", "class/PlanAction", "is_a_/PlanAction", "class/Thing/Action/OrganizeAction/PlanAction"]
+version: "2.0"
+tagNames:
+  - class/PlanAction
+  - class/Thing/Action/OrganizeAction/PlanAction
+  - is_a_/PlanAction
+  - schema-org/PlanAction
+tags:
+  - class/FileClass
+  - class/PlanAction
+  - is_a_/PlanAction
+  - class/Thing/Action/OrganizeAction/PlanAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
+fields:
+  - id: pRU29Y
+    name: ScheduledTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # PlanAction

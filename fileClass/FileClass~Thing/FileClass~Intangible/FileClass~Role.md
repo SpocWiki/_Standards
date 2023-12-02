@@ -1,12 +1,40 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Role, class/Thing/Intangible/Role, is_a_/Role, schema-org/Role]
-tags: ["class/FileClass", "class/Role", "is_a_/Role", "class/Thing/Intangible/Role"]
+version: "2.0"
+tagNames:
+  - class/Role
+  - class/Thing/Intangible/Role
+  - is_a_/Role
+  - schema-org/Role
+tags:
+  - class/FileClass
+  - class/Role
+  - is_a_/Role
+  - class/Thing/Intangible/Role
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: eDpwVC
+    name: EndDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: lpXj2R
+    name: RoleName
+    options: {}
+    type: Input
+    path: ""
+  - id: XsruHj
+    name: StartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # Role

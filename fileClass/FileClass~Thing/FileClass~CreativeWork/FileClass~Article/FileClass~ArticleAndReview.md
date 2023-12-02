@@ -1,12 +1,73 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ArticleAndReview, class/Thing/CreativeWork/Article/ArticleAndReview, is_an_/ArticleAndReview, schema-org/ArticleAndReview]
-tags: ["class/FileClass", "class/ArticleAndReview", "#is_an_/ArticleAndReview", "class/Thing/CreativeWork/Article/ArticleAndReview"]
+version: "2.0"
+tagNames:
+  - class/ArticleAndReview
+  - class/Thing/CreativeWork/Article/ArticleAndReview
+  - is_an_/ArticleAndReview
+  - schema-org/ArticleAndReview
+tags:
+  - class/FileClass
+  - class/ArticleAndReview
+  - "#is_an_/ArticleAndReview"
+  - class/Thing/CreativeWork/Article/ArticleAndReview
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
+fields:
+  - id: PLeVf9
+    name: AssociatedClaimReview
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: XqMLSy
+    name: AssociatedMediaReview
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: jEpSgq
+    name: AssociatedReview
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: Uqsmz2
+    name: ItemReviewed
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: rPLL8W
+    name: NegativeNotes
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ""
+  - id: QuJ8KB
+    name: PositiveNotes
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ""
+  - id: MHsXUR
+    name: ReviewAspect
+    options: {}
+    type: Input
+    path: ""
+  - id: DKaRrN
+    name: ReviewBody
+    options: {}
+    type: Input
+    path: ""
+  - id: E1bMU1
+    name: ReviewRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating')
+    type: MultiFile
+    path: ""
 ---
 
 # ArticleAndReview

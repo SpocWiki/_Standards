@@ -1,12 +1,51 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/GameAndSoftwareApplication, class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication, is_a_/GameAndSoftwareApplication, schema-org/GameAndSoftwareApplication]
-tags: ["class/FileClass", "class/GameAndSoftwareApplication", "is_a_/GameAndSoftwareApplication", "class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication"]
+version: "2.0"
+tagNames:
+  - class/GameAndSoftwareApplication
+  - class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication
+  - is_a_/GameAndSoftwareApplication
+  - schema-org/GameAndSoftwareApplication
+tags:
+  - class/FileClass
+  - class/GameAndSoftwareApplication
+  - is_a_/GameAndSoftwareApplication
+  - class/Thing/CreativeWork/SoftwareApplication/GameAndSoftwareApplication
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
+fields:
+  - id: PILNOk
+    name: CharacterAttribute
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: DMX3yg
+    name: GameItem
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: BeGSlK
+    name: GameLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: THboEF
+    name: NumberOfPlayers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: F2nqIZ
+    name: Quest
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
 ---
 
 # GameAndSoftwareApplication

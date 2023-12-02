@@ -1,12 +1,70 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: atom
-version: 5
-tagNames: [class/MolecularEntity, class/Thing/BioChemEntity/MolecularEntity, is_a_/MolecularEntity, schema-org/MolecularEntity]
-tags: ["class/FileClass", "class/MolecularEntity", "is_a_/MolecularEntity", "class/Thing/BioChemEntity/MolecularEntity"]
+version: "2.0"
+tagNames:
+  - class/MolecularEntity
+  - class/Thing/BioChemEntity/MolecularEntity
+  - is_a_/MolecularEntity
+  - schema-org/MolecularEntity
+tags:
+  - class/FileClass
+  - class/MolecularEntity
+  - is_a_/MolecularEntity
+  - class/Thing/BioChemEntity/MolecularEntity
 extends: FileClass~Thing/FileClass~BioChemEntity
+fields:
+  - id: KNOf3W
+    name: ChemicalRole
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: 3TG0FW
+    name: InChI
+    options: {}
+    type: Input
+    path: ""
+  - id: 3HrY6R
+    name: InChIKey
+    options: {}
+    type: Input
+    path: ""
+  - id: oGT8C3
+    name: IupacName
+    options: {}
+    type: Input
+    path: ""
+  - id: j3QK4C
+    name: MolecularFormula
+    options: {}
+    type: Input
+    path: ""
+  - id: uCfKMQ
+    name: MolecularWeight
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: 2rGq8N
+    name: MonoisotopicMolecularWeight
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: Ru43Wx
+    name: PotentialUse
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: NaZLBr
+    name: Smiles
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # MolecularEntity

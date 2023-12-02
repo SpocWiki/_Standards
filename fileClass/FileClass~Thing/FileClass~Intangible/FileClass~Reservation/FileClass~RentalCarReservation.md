@@ -1,12 +1,47 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RentalCarReservation, class/Thing/Intangible/Reservation/RentalCarReservation, is_a_/RentalCarReservation, schema-org/RentalCarReservation]
-tags: ["class/FileClass", "class/RentalCarReservation", "is_a_/RentalCarReservation", "class/Thing/Intangible/Reservation/RentalCarReservation"]
+version: "2.0"
+tagNames:
+  - class/RentalCarReservation
+  - class/Thing/Intangible/Reservation/RentalCarReservation
+  - is_a_/RentalCarReservation
+  - schema-org/RentalCarReservation
+tags:
+  - class/FileClass
+  - class/RentalCarReservation
+  - is_a_/RentalCarReservation
+  - class/Thing/Intangible/Reservation/RentalCarReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
+fields:
+  - id: uro7cm
+    name: DropoffLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: OiJJBK
+    name: DropoffTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: KGMPHG
+    name: PickupLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: VGUdbX
+    name: PickupTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # RentalCarReservation

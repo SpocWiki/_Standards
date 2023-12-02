@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LifestyleModification, class/Thing/MedicalEntity/LifestyleModification, is_a_/LifestyleModification, schema-org/LifestyleModification]
-tags: ["class/FileClass", "class/LifestyleModification", "is_a_/LifestyleModification", "class/Thing/MedicalEntity/LifestyleModification"]
+version: "2.0"
+tagNames:
+  - class/LifestyleModification
+  - class/Thing/MedicalEntity/LifestyleModification
+  - is_a_/LifestyleModification
+  - schema-org/LifestyleModification
+tags:
+  - class/FileClass
+  - class/LifestyleModification
+  - is_a_/LifestyleModification
+  - class/Thing/MedicalEntity/LifestyleModification
 extends: FileClass~Thing/FileClass~MedicalEntity
+fields: []
 ---
 
 # LifestyleModification

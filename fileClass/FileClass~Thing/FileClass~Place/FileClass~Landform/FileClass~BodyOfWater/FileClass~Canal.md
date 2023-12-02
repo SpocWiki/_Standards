@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: waves
-version: 5
-tagNames: [class/Canal, class/Thing/Place/Landform/BodyOfWater/Canal, is_a_/Canal, schema-org/Canal]
-tags: ["class/FileClass", "class/Canal", "is_a_/Canal", "class/Thing/Place/Landform/BodyOfWater/Canal"]
+version: "2.0"
+tagNames:
+  - class/Canal
+  - class/Thing/Place/Landform/BodyOfWater/Canal
+  - is_a_/Canal
+  - schema-org/Canal
+tags:
+  - class/FileClass
+  - class/Canal
+  - is_a_/Canal
+  - class/Thing/Place/Landform/BodyOfWater/Canal
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
+fields: []
 ---
 
 # Canal

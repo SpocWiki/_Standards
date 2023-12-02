@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: clapperboard
-version: 5
-tagNames: [class/MovieTheater, class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater, is_a_/MovieTheater, schema-org/MovieTheater]
-tags: ["class/FileClass", "class/MovieTheater", "is_a_/MovieTheater", "class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater"]
+version: "2.0"
+tagNames:
+  - class/MovieTheater
+  - class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater
+  - is_a_/MovieTheater
+  - schema-org/MovieTheater
+tags:
+  - class/FileClass
+  - class/MovieTheater
+  - is_a_/MovieTheater
+  - class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness
+fields:
+  - id: kOiO2Y
+    name: ScreenCount
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # MovieTheater

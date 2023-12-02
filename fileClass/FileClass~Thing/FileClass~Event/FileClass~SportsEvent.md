@@ -1,12 +1,44 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SportsEvent, class/Thing/Event/SportsEvent, is_a_/SportsEvent, schema-org/SportsEvent]
-tags: ["class/FileClass", "class/SportsEvent", "is_a_/SportsEvent", "class/Thing/Event/SportsEvent"]
+version: "2.0"
+tagNames:
+  - class/SportsEvent
+  - class/Thing/Event/SportsEvent
+  - is_a_/SportsEvent
+  - schema-org/SportsEvent
+tags:
+  - class/FileClass
+  - class/SportsEvent
+  - is_a_/SportsEvent
+  - class/Thing/Event/SportsEvent
 extends: FileClass~Thing/FileClass~Event
+fields:
+  - id: frIDWD
+    name: AwayTeam
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: xoSPIR
+    name: Competitor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: vT0jxp
+    name: HomeTeam
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: oa6DrR
+    name: Sport
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # SportsEvent

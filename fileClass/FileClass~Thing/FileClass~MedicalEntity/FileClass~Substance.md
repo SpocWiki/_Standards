@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Substance, class/Thing/MedicalEntity/Substance, is_a_/Substance, schema-org/Substance]
-tags: ["class/FileClass", "class/Substance", "is_a_/Substance", "class/Thing/MedicalEntity/Substance"]
+version: "2.0"
+tagNames:
+  - class/Substance
+  - class/Thing/MedicalEntity/Substance
+  - is_a_/Substance
+  - schema-org/Substance
+tags:
+  - class/FileClass
+  - class/Substance
+  - is_a_/Substance
+  - class/Thing/MedicalEntity/Substance
 extends: FileClass~Thing/FileClass~MedicalEntity
+fields:
+  - id: qDmG6A
+    name: ActiveIngredient
+    options: {}
+    type: Input
+    path: ""
+  - id: 0XVrzW
+    name: MaximumIntake
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')
+    type: MultiFile
+    path: ""
 ---
 
 # Substance

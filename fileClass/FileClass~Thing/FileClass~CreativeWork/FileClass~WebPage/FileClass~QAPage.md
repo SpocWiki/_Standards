@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/QAPage, class/Thing/CreativeWork/WebPage/QAPage, is_a_/QAPage, schema-org/QAPage]
-tags: ["class/FileClass", "class/QAPage", "is_a_/QAPage", "class/Thing/CreativeWork/WebPage/QAPage"]
+version: "2.0"
+tagNames:
+  - class/QAPage
+  - class/Thing/CreativeWork/WebPage/QAPage
+  - is_a_/QAPage
+  - schema-org/QAPage
+tags:
+  - class/FileClass
+  - class/QAPage
+  - is_a_/QAPage
+  - class/Thing/CreativeWork/WebPage/QAPage
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
+fields: []
 ---
 
 # QAPage

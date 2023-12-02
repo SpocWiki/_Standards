@@ -1,12 +1,94 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SpecialAnnouncement, class/Thing/CreativeWork/SpecialAnnouncement, is_a_/SpecialAnnouncement, schema-org/SpecialAnnouncement]
-tags: ["class/FileClass", "class/SpecialAnnouncement", "is_a_/SpecialAnnouncement", "class/Thing/CreativeWork/SpecialAnnouncement"]
+version: "2.0"
+tagNames:
+  - class/SpecialAnnouncement
+  - class/Thing/CreativeWork/SpecialAnnouncement
+  - is_a_/SpecialAnnouncement
+  - schema-org/SpecialAnnouncement
+tags:
+  - class/FileClass
+  - class/SpecialAnnouncement
+  - is_a_/SpecialAnnouncement
+  - class/Thing/CreativeWork/SpecialAnnouncement
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: YTmK5E
+    name: AnnouncementLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure')
+    type: MultiFile
+    path: ""
+  - id: gL0k7y
+    name: DatePosted
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: FaAITX
+    name: DiseasePreventionInfo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
+    type: MultiFile
+    path: ""
+  - id: XxkhwE
+    name: DiseaseSpreadStatistics
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset')
+    type: MultiFile
+    path: ""
+  - id: 5vj2JH
+    name: GettingTestedInfo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
+    type: MultiFile
+    path: ""
+  - id: aOst6L
+    name: GovernmentBenefitsInfo
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Service/GovernmentService')
+    type: MultiFile
+    path: ""
+  - id: WiubgN
+    name: NewsUpdatesAndGuidelines
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
+    type: MultiFile
+    path: ""
+  - id: uRZV1c
+    name: PublicTransportClosuresInfo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
+    type: MultiFile
+    path: ""
+  - id: GvuCq9
+    name: QuarantineGuidelines
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
+    type: MultiFile
+    path: ""
+  - id: 7FWlIU
+    name: SchoolClosuresInfo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
+    type: MultiFile
+    path: ""
+  - id: x2oixV
+    name: TravelBans
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
+    type: MultiFile
+    path: ""
+  - id: 2Cz573
+    name: WebFeed
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')
+    type: MultiFile
+    path: ""
 ---
 
 # SpecialAnnouncement

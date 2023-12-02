@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AskAction, class/Thing/Action/InteractAction/CommunicateAction/AskAction, is_an_/AskAction, schema-org/AskAction]
-tags: ["class/FileClass", "class/AskAction", "#is_an_/AskAction", "class/Thing/Action/InteractAction/CommunicateAction/AskAction"]
+version: "2.0"
+tagNames:
+  - class/AskAction
+  - class/Thing/Action/InteractAction/CommunicateAction/AskAction
+  - is_an_/AskAction
+  - schema-org/AskAction
+tags:
+  - class/FileClass
+  - class/AskAction
+  - "#is_an_/AskAction"
+  - class/Thing/Action/InteractAction/CommunicateAction/AskAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
+fields:
+  - id: 6Sezfz
+    name: Question
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment/Question')
+    type: MultiFile
+    path: ""
 ---
 
 # AskAction

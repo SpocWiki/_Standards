@@ -1,12 +1,43 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/FoodEstablishment, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment, is_a_/FoodEstablishment, schema-org/FoodEstablishment]
-tags: ["class/FileClass", "class/FoodEstablishment", "is_a_/FoodEstablishment", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment"]
+version: "2.0"
+tagNames:
+  - class/FoodEstablishment
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment
+  - is_a_/FoodEstablishment
+  - schema-org/FoodEstablishment
+tags:
+  - class/FileClass
+  - class/FoodEstablishment
+  - is_a_/FoodEstablishment
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields:
+  - id: kjlcaG
+    name: AcceptsReservations
+    options: {}
+    type: Boolean
+    path: ""
+  - id: ID8GHB
+    name: HasMenu
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Menu')
+    type: MultiFile
+    path: ""
+  - id: nsUdCc
+    name: ServesCuisine
+    options: {}
+    type: Input
+    path: ""
+  - id: R1r6QY
+    name: StarRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating')
+    type: MultiFile
+    path: ""
 ---
 
 # FoodEstablishment

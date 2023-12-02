@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ResumeAction, class/Thing/Action/ControlAction/ResumeAction, is_a_/ResumeAction, schema-org/ResumeAction]
-tags: ["class/FileClass", "class/ResumeAction", "is_a_/ResumeAction", "class/Thing/Action/ControlAction/ResumeAction"]
+version: "2.0"
+tagNames:
+  - class/ResumeAction
+  - class/Thing/Action/ControlAction/ResumeAction
+  - is_a_/ResumeAction
+  - schema-org/ResumeAction
+tags:
+  - class/FileClass
+  - class/ResumeAction
+  - is_a_/ResumeAction
+  - class/Thing/Action/ControlAction/ResumeAction
 extends: FileClass~Thing/FileClass~Action/FileClass~ControlAction
+fields: []
 ---
 
 # ResumeAction

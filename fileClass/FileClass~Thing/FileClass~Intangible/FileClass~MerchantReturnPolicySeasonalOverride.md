@@ -1,12 +1,42 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MerchantReturnPolicySeasonalOverride, class/Thing/Intangible/MerchantReturnPolicySeasonalOverride, is_a_/MerchantReturnPolicySeasonalOverride, schema-org/MerchantReturnPolicySeasonalOverride]
-tags: ["class/FileClass", "class/MerchantReturnPolicySeasonalOverride", "is_a_/MerchantReturnPolicySeasonalOverride", "class/Thing/Intangible/MerchantReturnPolicySeasonalOverride"]
+version: "2.0"
+tagNames:
+  - class/MerchantReturnPolicySeasonalOverride
+  - class/Thing/Intangible/MerchantReturnPolicySeasonalOverride
+  - is_a_/MerchantReturnPolicySeasonalOverride
+  - schema-org/MerchantReturnPolicySeasonalOverride
+tags:
+  - class/FileClass
+  - class/MerchantReturnPolicySeasonalOverride
+  - is_a_/MerchantReturnPolicySeasonalOverride
+  - class/Thing/Intangible/MerchantReturnPolicySeasonalOverride
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: z5bcym
+    name: EndDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: O8aQIi
+    name: MerchantReturnDays
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: zkZacM
+    name: StartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # MerchantReturnPolicySeasonalOverride

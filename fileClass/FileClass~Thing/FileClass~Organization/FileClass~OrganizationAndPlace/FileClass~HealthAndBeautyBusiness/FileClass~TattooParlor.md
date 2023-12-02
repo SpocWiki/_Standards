@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TattooParlor, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/TattooParlor, is_a_/TattooParlor, schema-org/TattooParlor]
-tags: ["class/FileClass", "class/TattooParlor", "is_a_/TattooParlor", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/TattooParlor"]
+version: "2.0"
+tagNames:
+  - class/TattooParlor
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/TattooParlor
+  - is_a_/TattooParlor
+  - schema-org/TattooParlor
+tags:
+  - class/FileClass
+  - class/TattooParlor
+  - is_a_/TattooParlor
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/TattooParlor
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness
+fields: []
 ---
 
 # TattooParlor

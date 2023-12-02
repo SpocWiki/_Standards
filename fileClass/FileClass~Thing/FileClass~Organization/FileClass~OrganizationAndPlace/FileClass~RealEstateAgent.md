@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RealEstateAgent, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent, is_a_/RealEstateAgent, schema-org/RealEstateAgent]
-tags: ["class/FileClass", "class/RealEstateAgent", "is_a_/RealEstateAgent", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent"]
+version: "2.0"
+tagNames:
+  - class/RealEstateAgent
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent
+  - is_a_/RealEstateAgent
+  - schema-org/RealEstateAgent
+tags:
+  - class/FileClass
+  - class/RealEstateAgent
+  - is_a_/RealEstateAgent
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields: []
 ---
 
 # RealEstateAgent

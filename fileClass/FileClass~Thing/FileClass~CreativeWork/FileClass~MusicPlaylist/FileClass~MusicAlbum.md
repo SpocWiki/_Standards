@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: list-music
-version: 5
-tagNames: [class/MusicAlbum, class/Thing/CreativeWork/MusicPlaylist/MusicAlbum, is_a_/MusicAlbum, schema-org/MusicAlbum]
-tags: ["class/FileClass", "class/MusicAlbum", "is_a_/MusicAlbum", "class/Thing/CreativeWork/MusicPlaylist/MusicAlbum"]
+version: "2.0"
+tagNames:
+  - class/MusicAlbum
+  - class/Thing/CreativeWork/MusicPlaylist/MusicAlbum
+  - is_a_/MusicAlbum
+  - schema-org/MusicAlbum
+tags:
+  - class/FileClass
+  - class/MusicAlbum
+  - is_a_/MusicAlbum
+  - class/Thing/CreativeWork/MusicPlaylist/MusicAlbum
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist
+fields:
+  - id: Nxbcs5
+    name: AlbumRelease
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicRelease')
+    type: MultiFile
+    path: ""
+  - id: wzC8Ht
+    name: ByArtist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ""
 ---
 
 # MusicAlbum

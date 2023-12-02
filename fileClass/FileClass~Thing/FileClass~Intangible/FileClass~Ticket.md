@@ -1,12 +1,66 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Ticket, class/Thing/Intangible/Ticket, is_a_/Ticket, schema-org/Ticket]
-tags: ["class/FileClass", "class/Ticket", "is_a_/Ticket", "class/Thing/Intangible/Ticket"]
+version: "2.0"
+tagNames:
+  - class/Ticket
+  - class/Thing/Intangible/Ticket
+  - is_a_/Ticket
+  - schema-org/Ticket
+tags:
+  - class/FileClass
+  - class/Ticket
+  - is_a_/Ticket
+  - class/Thing/Intangible/Ticket
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: lf5WzO
+    name: DateIssued
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: 4IwnUa
+    name: IssuedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: I5stUP
+    name: PriceCurrency
+    options: {}
+    type: Input
+    path: ""
+  - id: 3yqkZC
+    name: TicketNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: nwrXH5
+    name: TicketToken
+    options: {}
+    type: Input
+    path: ""
+  - id: 53AJPC
+    name: TicketedSeat
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Seat')
+    type: MultiFile
+    path: ""
+  - id: QEoQ5p
+    name: TotalPrice
+    options: {}
+    type: Number
+    path: ""
+  - id: FBz9ly
+    name: UnderName
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
 ---
 
 # Ticket

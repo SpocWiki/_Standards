@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalGuidelineContraindication, class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineContraindication, is_a_/MedicalGuidelineContraindication, schema-org/MedicalGuidelineContraindication]
-tags: ["class/FileClass", "class/MedicalGuidelineContraindication", "is_a_/MedicalGuidelineContraindication", "class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineContraindication"]
+version: "2.0"
+tagNames:
+  - class/MedicalGuidelineContraindication
+  - class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineContraindication
+  - is_a_/MedicalGuidelineContraindication
+  - schema-org/MedicalGuidelineContraindication
+tags:
+  - class/FileClass
+  - class/MedicalGuidelineContraindication
+  - is_a_/MedicalGuidelineContraindication
+  - class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineContraindication
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline
+fields: []
 ---
 
 # MedicalGuidelineContraindication

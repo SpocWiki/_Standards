@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: hotel
-version: 5
-tagNames: [class/Suite, class/Thing/Place/Accommodation/Suite, is_a_/Suite, schema-org/Suite]
-tags: ["class/FileClass", "class/Suite", "is_a_/Suite", "class/Thing/Place/Accommodation/Suite"]
+version: "2.0"
+tagNames:
+  - class/Suite
+  - class/Thing/Place/Accommodation/Suite
+  - is_a_/Suite
+  - schema-org/Suite
+tags:
+  - class/FileClass
+  - class/Suite
+  - is_a_/Suite
+  - class/Thing/Place/Accommodation/Suite
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
+fields: []
 ---
 
 # Suite

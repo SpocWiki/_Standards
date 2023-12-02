@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TipAction, class/Thing/Action/TradeAction/TipAction, is_a_/TipAction, schema-org/TipAction]
-tags: ["class/FileClass", "class/TipAction", "is_a_/TipAction", "class/Thing/Action/TradeAction/TipAction"]
+version: "2.0"
+tagNames:
+  - class/TipAction
+  - class/Thing/Action/TradeAction/TipAction
+  - is_a_/TipAction
+  - schema-org/TipAction
+tags:
+  - class/FileClass
+  - class/TipAction
+  - is_a_/TipAction
+  - class/Thing/Action/TradeAction/TipAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
+fields:
+  - id: EIiLZU
+    name: Recipient
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ""
 ---
 
 # TipAction

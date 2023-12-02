@@ -1,12 +1,128 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Order, class/Thing/Intangible/Order, is_an_/Order, schema-org/Order]
-tags: ["class/FileClass", "class/Order", "#is_an_/Order", "class/Thing/Intangible/Order"]
+version: "2.0"
+tagNames:
+  - class/Order
+  - class/Thing/Intangible/Order
+  - is_an_/Order
+  - schema-org/Order
+tags:
+  - class/FileClass
+  - class/Order
+  - "#is_an_/Order"
+  - class/Thing/Intangible/Order
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: DhYYA7
+    name: AcceptedOffer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
+    type: MultiFile
+    path: ""
+  - id: 1GkYR6
+    name: BillingAddress
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ""
+  - id: IZyWSK
+    name: Broker
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: Zpe2Hb
+    name: ConfirmationNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: UYjhMb
+    name: Customer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: JFnJ8C
+    name: Discount
+    options: {}
+    type: Number
+    path: ""
+  - id: kqq3mG
+    name: DiscountCode
+    options: {}
+    type: Input
+    path: ""
+  - id: y6ldsF
+    name: DiscountCurrency
+    options: {}
+    type: Input
+    path: ""
+  - id: NfEjrk
+    name: IsGift
+    options: {}
+    type: Boolean
+    path: ""
+  - id: lbHDzS
+    name: OrderDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: Nxlkjn
+    name: OrderDelivery
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ParcelDelivery')
+    type: MultiFile
+    path: ""
+  - id: 1i4j4k
+    name: OrderNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: 1zZX1o
+    name: OrderedItem
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/OrderItem')
+    type: MultiFile
+    path: ""
+  - id: xiFDjO
+    name: PartOfInvoice
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Invoice')
+    type: MultiFile
+    path: ""
+  - id: alfKEc
+    name: PaymentDueDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: 2j729v
+    name: PaymentMethod
+    options: {}
+    type: Input
+    path: ""
+  - id: HrjNaI
+    name: PaymentMethodId
+    options: {}
+    type: Input
+    path: ""
+  - id: d112jd
+    name: PaymentUrl
+    options: {}
+    type: Input
+    path: ""
+  - id: lK1m3I
+    name: Seller
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
 ---
 
 # Order

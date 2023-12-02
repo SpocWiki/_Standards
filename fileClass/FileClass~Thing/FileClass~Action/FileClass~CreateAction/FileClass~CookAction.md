@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CookAction, class/Thing/Action/CreateAction/CookAction, is_a_/CookAction, schema-org/CookAction]
-tags: ["class/FileClass", "class/CookAction", "is_a_/CookAction", "class/Thing/Action/CreateAction/CookAction"]
+version: "2.0"
+tagNames:
+  - class/CookAction
+  - class/Thing/Action/CreateAction/CookAction
+  - is_a_/CookAction
+  - schema-org/CookAction
+tags:
+  - class/FileClass
+  - class/CookAction
+  - is_a_/CookAction
+  - class/Thing/Action/CreateAction/CookAction
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
+fields:
+  - id: 3G0MZY
+    name: FoodEstablishment
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment')
+    type: MultiFile
+    path: ""
+  - id: XCA1BG
+    name: FoodEvent
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event/FoodEvent')
+    type: MultiFile
+    path: ""
+  - id: rUr0aS
+    name: Recipe
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/HowTo/Recipe')
+    type: MultiFile
+    path: ""
 ---
 
 # CookAction

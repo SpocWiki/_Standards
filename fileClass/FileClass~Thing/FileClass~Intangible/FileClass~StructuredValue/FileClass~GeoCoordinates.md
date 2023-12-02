@@ -1,12 +1,53 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/GeoCoordinates, class/Thing/Intangible/StructuredValue/GeoCoordinates, is_a_/GeoCoordinates, schema-org/GeoCoordinates]
-tags: ["class/FileClass", "class/GeoCoordinates", "is_a_/GeoCoordinates", "class/Thing/Intangible/StructuredValue/GeoCoordinates"]
+version: "2.0"
+tagNames:
+  - class/GeoCoordinates
+  - class/Thing/Intangible/StructuredValue/GeoCoordinates
+  - is_a_/GeoCoordinates
+  - schema-org/GeoCoordinates
+tags:
+  - class/FileClass
+  - class/GeoCoordinates
+  - is_a_/GeoCoordinates
+  - class/Thing/Intangible/StructuredValue/GeoCoordinates
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: 4cJzGF
+    name: Address
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ""
+  - id: SSt5Ct
+    name: AddressCountry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ""
+  - id: nbWnqK
+    name: Elevation
+    options: {}
+    type: Number
+    path: ""
+  - id: yrqtMy
+    name: Latitude
+    options: {}
+    type: Number
+    path: ""
+  - id: Cjnf4o
+    name: Longitude
+    options: {}
+    type: Number
+    path: ""
+  - id: pDyw5H
+    name: PostalCode
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # GeoCoordinates

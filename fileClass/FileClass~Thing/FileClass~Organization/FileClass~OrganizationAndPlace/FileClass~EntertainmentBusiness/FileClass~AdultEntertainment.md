@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AdultEntertainment, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment, is_an_/AdultEntertainment, schema-org/AdultEntertainment]
-tags: ["class/FileClass", "class/AdultEntertainment", "#is_an_/AdultEntertainment", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment"]
+version: "2.0"
+tagNames:
+  - class/AdultEntertainment
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment
+  - is_an_/AdultEntertainment
+  - schema-org/AdultEntertainment
+tags:
+  - class/FileClass
+  - class/AdultEntertainment
+  - "#is_an_/AdultEntertainment"
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/AdultEntertainment
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness
+fields: []
 ---
 
 # AdultEntertainment

@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: quote
-version: 5
-tagNames: [class/Quotation, class/Thing/CreativeWork/Quotation, is_a_/Quotation, schema-org/Quotation]
-tags: ["class/FileClass", "class/Quotation", "is_a_/Quotation", "class/Thing/CreativeWork/Quotation"]
+version: "2.0"
+tagNames:
+  - class/Quotation
+  - class/Thing/CreativeWork/Quotation
+  - is_a_/Quotation
+  - schema-org/Quotation
+tags:
+  - class/FileClass
+  - class/Quotation
+  - is_a_/Quotation
+  - class/Thing/CreativeWork/Quotation
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: LP5JvW
+    name: SpokenByCharacter
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
 ---
 
 # Quotation

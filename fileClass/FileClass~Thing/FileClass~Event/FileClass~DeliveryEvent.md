@@ -1,12 +1,40 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DeliveryEvent, class/Thing/Event/DeliveryEvent, is_a_/DeliveryEvent, schema-org/DeliveryEvent]
-tags: ["class/FileClass", "class/DeliveryEvent", "is_a_/DeliveryEvent", "class/Thing/Event/DeliveryEvent"]
+version: "2.0"
+tagNames:
+  - class/DeliveryEvent
+  - class/Thing/Event/DeliveryEvent
+  - is_a_/DeliveryEvent
+  - schema-org/DeliveryEvent
+tags:
+  - class/FileClass
+  - class/DeliveryEvent
+  - is_a_/DeliveryEvent
+  - class/Thing/Event/DeliveryEvent
 extends: FileClass~Thing/FileClass~Event
+fields:
+  - id: yjjvhv
+    name: AccessCode
+    options: {}
+    type: Input
+    path: ""
+  - id: y1zoKJ
+    name: AvailableFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: gsXi2X
+    name: AvailableThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # DeliveryEvent

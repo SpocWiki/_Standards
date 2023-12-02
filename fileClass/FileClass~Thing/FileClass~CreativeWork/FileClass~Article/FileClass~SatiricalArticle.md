@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SatiricalArticle, class/Thing/CreativeWork/Article/SatiricalArticle, is_a_/SatiricalArticle, schema-org/SatiricalArticle]
-tags: ["class/FileClass", "class/SatiricalArticle", "is_a_/SatiricalArticle", "class/Thing/CreativeWork/Article/SatiricalArticle"]
+version: "2.0"
+tagNames:
+  - class/SatiricalArticle
+  - class/Thing/CreativeWork/Article/SatiricalArticle
+  - is_a_/SatiricalArticle
+  - schema-org/SatiricalArticle
+tags:
+  - class/FileClass
+  - class/SatiricalArticle
+  - is_a_/SatiricalArticle
+  - class/Thing/CreativeWork/Article/SatiricalArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
+fields: []
 ---
 
 # SatiricalArticle

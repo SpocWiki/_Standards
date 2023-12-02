@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AssignAction, class/Thing/Action/OrganizeAction/AllocateAction/AssignAction, is_an_/AssignAction, schema-org/AssignAction]
-tags: ["class/FileClass", "class/AssignAction", "#is_an_/AssignAction", "class/Thing/Action/OrganizeAction/AllocateAction/AssignAction"]
+version: "2.0"
+tagNames:
+  - class/AssignAction
+  - class/Thing/Action/OrganizeAction/AllocateAction/AssignAction
+  - is_an_/AssignAction
+  - schema-org/AssignAction
+tags:
+  - class/FileClass
+  - class/AssignAction
+  - "#is_an_/AssignAction"
+  - class/Thing/Action/OrganizeAction/AllocateAction/AssignAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
+fields: []
 ---
 
 # AssignAction

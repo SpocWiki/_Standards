@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ItemPage, class/Thing/CreativeWork/WebPage/ItemPage, is_an_/ItemPage, schema-org/ItemPage]
-tags: ["class/FileClass", "class/ItemPage", "#is_an_/ItemPage", "class/Thing/CreativeWork/WebPage/ItemPage"]
+version: "2.0"
+tagNames:
+  - class/ItemPage
+  - class/Thing/CreativeWork/WebPage/ItemPage
+  - is_an_/ItemPage
+  - schema-org/ItemPage
+tags:
+  - class/FileClass
+  - class/ItemPage
+  - "#is_an_/ItemPage"
+  - class/Thing/CreativeWork/WebPage/ItemPage
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
+fields: []
 ---
 
 # ItemPage

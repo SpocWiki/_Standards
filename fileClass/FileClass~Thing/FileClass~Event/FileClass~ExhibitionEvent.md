@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ExhibitionEvent, class/Thing/Event/ExhibitionEvent, is_an_/ExhibitionEvent, schema-org/ExhibitionEvent]
-tags: ["class/FileClass", "class/ExhibitionEvent", "#is_an_/ExhibitionEvent", "class/Thing/Event/ExhibitionEvent"]
+version: "2.0"
+tagNames:
+  - class/ExhibitionEvent
+  - class/Thing/Event/ExhibitionEvent
+  - is_an_/ExhibitionEvent
+  - schema-org/ExhibitionEvent
+tags:
+  - class/FileClass
+  - class/ExhibitionEvent
+  - "#is_an_/ExhibitionEvent"
+  - class/Thing/Event/ExhibitionEvent
 extends: FileClass~Thing/FileClass~Event
+fields: []
 ---
 
 # ExhibitionEvent

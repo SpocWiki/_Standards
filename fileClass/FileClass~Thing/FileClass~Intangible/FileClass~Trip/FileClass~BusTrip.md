@@ -1,12 +1,43 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BusTrip, class/Thing/Intangible/Trip/BusTrip, is_a_/BusTrip, schema-org/BusTrip]
-tags: ["class/FileClass", "class/BusTrip", "is_a_/BusTrip", "class/Thing/Intangible/Trip/BusTrip"]
+version: "2.0"
+tagNames:
+  - class/BusTrip
+  - class/Thing/Intangible/Trip/BusTrip
+  - is_a_/BusTrip
+  - schema-org/BusTrip
+tags:
+  - class/FileClass
+  - class/BusTrip
+  - is_a_/BusTrip
+  - class/Thing/Intangible/Trip/BusTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
+fields:
+  - id: AnVVzF
+    name: ArrivalBusStop
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BusStation')
+    type: MultiFile
+    path: ""
+  - id: cnC7eQ
+    name: BusName
+    options: {}
+    type: Input
+    path: ""
+  - id: Aqqt1l
+    name: BusNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: 7p020C
+    name: DepartureBusStop
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BusStation')
+    type: MultiFile
+    path: ""
 ---
 
 # BusTrip

@@ -46,6 +46,8 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ] ]
 
+#is_inverse_of :: [[is_describing]] 
+
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_description.md|has_description]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_description.internal.md|has_description.internal]] 

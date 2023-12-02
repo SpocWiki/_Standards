@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Patient, class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient, is_a_/Patient, schema-org/Patient]
-tags: ["class/FileClass", "class/Patient", "is_a_/Patient", "class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient"]
+version: "2.0"
+tagNames:
+  - class/Patient
+  - class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient
+  - is_a_/Patient
+  - schema-org/Patient
+tags:
+  - class/FileClass
+  - class/Patient
+  - is_a_/Patient
+  - class/Thing/Intangible/Audience/PeopleAudience/MedicalAudience/MedicalAudienceAndPerson/Patient
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience/FileClass~MedicalAudience/FileClass~MedicalAudienceAndPerson
+fields:
+  - id: 36QAup
+    name: Diagnosis
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ""
+  - id: OthCAv
+    name: Drug
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
+    type: MultiFile
+    path: ""
 ---
 
 # Patient

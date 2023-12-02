@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BookSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/BookSeries, is_a_/BookSeries, schema-org/BookSeries]
-tags: ["class/FileClass", "class/BookSeries", "is_a_/BookSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/BookSeries"]
+version: "2.0"
+tagNames:
+  - class/BookSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/BookSeries
+  - is_a_/BookSeries
+  - schema-org/BookSeries
+tags:
+  - class/FileClass
+  - class/BookSeries
+  - is_a_/BookSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/BookSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
+fields: []
 ---
 
 # BookSeries

@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SpeakableSpecification, class/Thing/Intangible/SpeakableSpecification, is_a_/SpeakableSpecification, schema-org/SpeakableSpecification]
-tags: ["class/FileClass", "class/SpeakableSpecification", "is_a_/SpeakableSpecification", "class/Thing/Intangible/SpeakableSpecification"]
+version: "2.0"
+tagNames:
+  - class/SpeakableSpecification
+  - class/Thing/Intangible/SpeakableSpecification
+  - is_a_/SpeakableSpecification
+  - schema-org/SpeakableSpecification
+tags:
+  - class/FileClass
+  - class/SpeakableSpecification
+  - is_a_/SpeakableSpecification
+  - class/Thing/Intangible/SpeakableSpecification
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: Ytb6mH
+    name: CssSelector
+    options: {}
+    type: Input
+    path: ""
+  - id: wGf9DD
+    name: Xpath
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # SpeakableSpecification

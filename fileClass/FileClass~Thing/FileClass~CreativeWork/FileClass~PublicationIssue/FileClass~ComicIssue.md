@@ -1,12 +1,56 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ComicIssue, class/Thing/CreativeWork/PublicationIssue/ComicIssue, is_a_/ComicIssue, schema-org/ComicIssue]
-tags: ["class/FileClass", "class/ComicIssue", "is_a_/ComicIssue", "class/Thing/CreativeWork/PublicationIssue/ComicIssue"]
+version: "2.0"
+tagNames:
+  - class/ComicIssue
+  - class/Thing/CreativeWork/PublicationIssue/ComicIssue
+  - is_a_/ComicIssue
+  - schema-org/ComicIssue
+tags:
+  - class/FileClass
+  - class/ComicIssue
+  - is_a_/ComicIssue
+  - class/Thing/CreativeWork/PublicationIssue/ComicIssue
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue
+fields:
+  - id: lX6BRe
+    name: Artist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: PtKMFO
+    name: Colorist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: 5jZMbL
+    name: Inker
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: 3BLu3K
+    name: Letterer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: jHSewb
+    name: Penciler
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: NeS4DI
+    name: VariantCover
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # ComicIssue

@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalConditionStage, class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage, is_a_/MedicalConditionStage, schema-org/MedicalConditionStage]
-tags: ["class/FileClass", "class/MedicalConditionStage", "is_a_/MedicalConditionStage", "class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage"]
+version: "2.0"
+tagNames:
+  - class/MedicalConditionStage
+  - class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage
+  - is_a_/MedicalConditionStage
+  - schema-org/MedicalConditionStage
+tags:
+  - class/FileClass
+  - class/MedicalConditionStage
+  - is_a_/MedicalConditionStage
+  - class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
+fields:
+  - id: J12lZJ
+    name: StageAsNumber
+    options: {}
+    type: Number
+    path: ""
+  - id: 6qLwnS
+    name: SubStageSuffix
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # MedicalConditionStage

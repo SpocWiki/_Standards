@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/WinAction, class/Thing/Action/AchieveAction/WinAction, is_a_/WinAction, schema-org/WinAction]
-tags: ["class/FileClass", "class/WinAction", "is_a_/WinAction", "class/Thing/Action/AchieveAction/WinAction"]
+version: "2.0"
+tagNames:
+  - class/WinAction
+  - class/Thing/Action/AchieveAction/WinAction
+  - is_a_/WinAction
+  - schema-org/WinAction
+tags:
+  - class/FileClass
+  - class/WinAction
+  - is_a_/WinAction
+  - class/Thing/Action/AchieveAction/WinAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
+fields:
+  - id: wyP1Id
+    name: Loser
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
 ---
 
 # WinAction

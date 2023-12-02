@@ -1,12 +1,44 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: dna
-version: 5
-tagNames: [class/Gene, class/Thing/BioChemEntity/Gene, is_a_/Gene, schema-org/Gene]
-tags: ["class/FileClass", "class/Gene", "is_a_/Gene", "class/Thing/BioChemEntity/Gene"]
+version: "2.0"
+tagNames:
+  - class/Gene
+  - class/Thing/BioChemEntity/Gene
+  - is_a_/Gene
+  - schema-org/Gene
+tags:
+  - class/FileClass
+  - class/Gene
+  - is_a_/Gene
+  - class/Thing/BioChemEntity/Gene
 extends: FileClass~Thing/FileClass~BioChemEntity
+fields:
+  - id: mNziVd
+    name: AlternativeOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/BioChemEntity/Gene')
+    type: MultiFile
+    path: ""
+  - id: GYcecU
+    name: EncodesBioChemEntity
+    options:
+      dvQueryString: dv.pages('#class/Thing/BioChemEntity')
+    type: MultiFile
+    path: ""
+  - id: qVdTE3
+    name: ExpressedIn
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ""
+  - id: OBeDQY
+    name: HasBioPolymerSequence
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Gene

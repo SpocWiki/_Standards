@@ -30,20 +30,22 @@ aliases:
 - has_part
 ---
 
+# [[has_part|has_part]] 
+
+Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense).
+
 Use it like this: 
 - [ #has_/part :: CreativeWork ] or 
 - [ has_part :: CreativeWork ] 
 
-Indicates an item or CreativeWork that is part of this item, or CreativeWork (in some sense).
-
 Relation describes that: 
 [ #has_/domain  :: CreativeWork ]
 ( #has_/name :: has_part )
-( #has_/range :: CreativeWork )
+( #has_/range :: [[../../Class/is_a_/creative_work|CreativeWork]] )
 
-[ #is_/inverse_of  :: [[../../../Composite/is_part_of]] ]
+#is_/inverse_of  :: [[../../Composite/is_part_of|is_part_of]]   
 
-[ #has_/sub_properties :: [ containsSeason, episode, season, tocEntry ] ]
+[ #has_/sub_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ] ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_part.md|has_part]] 

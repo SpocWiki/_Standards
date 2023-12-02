@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DrugClass, class/Thing/MedicalEntity/DrugClass, is_a_/DrugClass, schema-org/DrugClass]
-tags: ["class/FileClass", "class/DrugClass", "is_a_/DrugClass", "class/Thing/MedicalEntity/DrugClass"]
+version: "2.0"
+tagNames:
+  - class/DrugClass
+  - class/Thing/MedicalEntity/DrugClass
+  - is_a_/DrugClass
+  - schema-org/DrugClass
+tags:
+  - class/FileClass
+  - class/DrugClass
+  - is_a_/DrugClass
+  - class/Thing/MedicalEntity/DrugClass
 extends: FileClass~Thing/FileClass~MedicalEntity
+fields:
+  - id: 1aGYqg
+    name: Drug
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
+    type: MultiFile
+    path: ""
 ---
 
 # DrugClass

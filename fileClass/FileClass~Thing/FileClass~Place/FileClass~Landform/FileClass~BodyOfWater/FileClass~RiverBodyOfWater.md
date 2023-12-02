@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: waves
-version: 5
-tagNames: [class/RiverBodyOfWater, class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater, is_a_/RiverBodyOfWater, schema-org/RiverBodyOfWater]
-tags: ["class/FileClass", "class/RiverBodyOfWater", "is_a_/RiverBodyOfWater", "class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater"]
+version: "2.0"
+tagNames:
+  - class/RiverBodyOfWater
+  - class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater
+  - is_a_/RiverBodyOfWater
+  - schema-org/RiverBodyOfWater
+tags:
+  - class/FileClass
+  - class/RiverBodyOfWater
+  - is_a_/RiverBodyOfWater
+  - class/Thing/Place/Landform/BodyOfWater/RiverBodyOfWater
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
+fields: []
 ---
 
 # RiverBodyOfWater

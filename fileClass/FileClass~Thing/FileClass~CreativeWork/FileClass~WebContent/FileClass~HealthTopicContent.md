@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/HealthTopicContent, class/Thing/CreativeWork/WebContent/HealthTopicContent, is_a_/HealthTopicContent, schema-org/HealthTopicContent]
-tags: ["class/FileClass", "class/HealthTopicContent", "is_a_/HealthTopicContent", "class/Thing/CreativeWork/WebContent/HealthTopicContent"]
+version: "2.0"
+tagNames:
+  - class/HealthTopicContent
+  - class/Thing/CreativeWork/WebContent/HealthTopicContent
+  - is_a_/HealthTopicContent
+  - schema-org/HealthTopicContent
+tags:
+  - class/FileClass
+  - class/HealthTopicContent
+  - is_a_/HealthTopicContent
+  - class/Thing/CreativeWork/WebContent/HealthTopicContent
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent
+fields: []
 ---
 
 # HealthTopicContent

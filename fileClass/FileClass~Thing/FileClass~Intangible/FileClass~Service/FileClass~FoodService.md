@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/FoodService, class/Thing/Intangible/Service/FoodService, is_a_/FoodService, schema-org/FoodService]
-tags: ["class/FileClass", "class/FoodService", "is_a_/FoodService", "class/Thing/Intangible/Service/FoodService"]
+version: "2.0"
+tagNames:
+  - class/FoodService
+  - class/Thing/Intangible/Service/FoodService
+  - is_a_/FoodService
+  - schema-org/FoodService
+tags:
+  - class/FileClass
+  - class/FoodService
+  - is_a_/FoodService
+  - class/Thing/Intangible/Service/FoodService
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
+fields: []
 ---
 
 # FoodService

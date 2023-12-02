@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/GatedResidenceCommunity, class/Thing/Place/Residence/GatedResidenceCommunity, is_a_/GatedResidenceCommunity, schema-org/GatedResidenceCommunity]
-tags: ["class/FileClass", "class/GatedResidenceCommunity", "is_a_/GatedResidenceCommunity", "class/Thing/Place/Residence/GatedResidenceCommunity"]
+version: "2.0"
+tagNames:
+  - class/GatedResidenceCommunity
+  - class/Thing/Place/Residence/GatedResidenceCommunity
+  - is_a_/GatedResidenceCommunity
+  - schema-org/GatedResidenceCommunity
+tags:
+  - class/FileClass
+  - class/GatedResidenceCommunity
+  - is_a_/GatedResidenceCommunity
+  - class/Thing/Place/Residence/GatedResidenceCommunity
 extends: FileClass~Thing/FileClass~Place/FileClass~Residence
+fields: []
 ---
 
 # GatedResidenceCommunity

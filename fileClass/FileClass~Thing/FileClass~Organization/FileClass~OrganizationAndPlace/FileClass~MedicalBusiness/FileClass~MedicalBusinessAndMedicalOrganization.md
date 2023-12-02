@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalBusinessAndMedicalOrganization, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization, is_a_/MedicalBusinessAndMedicalOrganization, schema-org/MedicalBusinessAndMedicalOrganization]
-tags: ["class/FileClass", "class/MedicalBusinessAndMedicalOrganization", "is_a_/MedicalBusinessAndMedicalOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization"]
+version: "2.0"
+tagNames:
+  - class/MedicalBusinessAndMedicalOrganization
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization
+  - is_a_/MedicalBusinessAndMedicalOrganization
+  - schema-org/MedicalBusinessAndMedicalOrganization
+tags:
+  - class/FileClass
+  - class/MedicalBusinessAndMedicalOrganization
+  - is_a_/MedicalBusinessAndMedicalOrganization
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness
+fields:
+  - id: 0V0wt4
+    name: HealthPlanNetworkId
+    options: {}
+    type: Input
+    path: ""
+  - id: Ush6QE
+    name: IsAcceptingNewPatients
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # MedicalBusinessAndMedicalOrganization

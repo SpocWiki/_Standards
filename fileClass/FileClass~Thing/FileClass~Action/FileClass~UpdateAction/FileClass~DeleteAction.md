@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DeleteAction, class/Thing/Action/UpdateAction/DeleteAction, is_a_/DeleteAction, schema-org/DeleteAction]
-tags: ["class/FileClass", "class/DeleteAction", "is_a_/DeleteAction", "class/Thing/Action/UpdateAction/DeleteAction"]
+version: "2.0"
+tagNames:
+  - class/DeleteAction
+  - class/Thing/Action/UpdateAction/DeleteAction
+  - is_a_/DeleteAction
+  - schema-org/DeleteAction
+tags:
+  - class/FileClass
+  - class/DeleteAction
+  - is_a_/DeleteAction
+  - class/Thing/Action/UpdateAction/DeleteAction
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction
+fields: []
 ---
 
 # DeleteAction

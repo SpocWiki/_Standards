@@ -1,12 +1,41 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LiveBlogPosting, class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting, is_a_/LiveBlogPosting, schema-org/LiveBlogPosting]
-tags: ["class/FileClass", "class/LiveBlogPosting", "is_a_/LiveBlogPosting", "class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting"]
+version: "2.0"
+tagNames:
+  - class/LiveBlogPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting
+  - is_a_/LiveBlogPosting
+  - schema-org/LiveBlogPosting
+tags:
+  - class/FileClass
+  - class/LiveBlogPosting
+  - is_a_/LiveBlogPosting
+  - class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting
+fields:
+  - id: brjDSl
+    name: CoverageEndTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: yDZOY5
+    name: CoverageStartTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: 8UG6wT
+    name: LiveBlogUpdate
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting')
+    type: MultiFile
+    path: ""
 ---
 
 # LiveBlogPosting

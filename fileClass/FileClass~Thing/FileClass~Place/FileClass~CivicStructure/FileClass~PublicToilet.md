@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PublicToilet, class/Thing/Place/CivicStructure/PublicToilet, is_a_/PublicToilet, schema-org/PublicToilet]
-tags: ["class/FileClass", "class/PublicToilet", "is_a_/PublicToilet", "class/Thing/Place/CivicStructure/PublicToilet"]
+version: "2.0"
+tagNames:
+  - class/PublicToilet
+  - class/Thing/Place/CivicStructure/PublicToilet
+  - is_a_/PublicToilet
+  - schema-org/PublicToilet
+tags:
+  - class/FileClass
+  - class/PublicToilet
+  - is_a_/PublicToilet
+  - class/Thing/Place/CivicStructure/PublicToilet
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
+fields: []
 ---
 
 # PublicToilet

@@ -1,12 +1,81 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CreativeWorkSeason, class/Thing/CreativeWork/CreativeWorkSeason, is_a_/CreativeWorkSeason, schema-org/CreativeWorkSeason]
-tags: ["class/FileClass", "class/CreativeWorkSeason", "is_a_/CreativeWorkSeason", "class/Thing/CreativeWork/CreativeWorkSeason"]
+version: "2.0"
+tagNames:
+  - class/CreativeWorkSeason
+  - class/Thing/CreativeWork/CreativeWorkSeason
+  - is_a_/CreativeWorkSeason
+  - schema-org/CreativeWorkSeason
+tags:
+  - class/FileClass
+  - class/CreativeWorkSeason
+  - is_a_/CreativeWorkSeason
+  - class/Thing/CreativeWork/CreativeWorkSeason
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: 5L4v3r
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: DsUYuQ
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: KLjHTo
+    name: EndDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: Hj4kCY
+    name: Episode
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
+    type: MultiFile
+    path: ""
+  - id: FYy0fh
+    name: NumberOfEpisodes
+    options: {}
+    type: Number
+    path: ""
+  - id: aIIAWl
+    name: PartOfSeries
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')
+    type: MultiFile
+    path: ""
+  - id: dfCrZg
+    name: ProductionCompany
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: bhe7mr
+    name: SeasonNumber
+    options: {}
+    type: Number
+    path: ""
+  - id: CsMDG1
+    name: StartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: FCFXci
+    name: Trailer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
+    type: MultiFile
+    path: ""
 ---
 
 # CreativeWorkSeason

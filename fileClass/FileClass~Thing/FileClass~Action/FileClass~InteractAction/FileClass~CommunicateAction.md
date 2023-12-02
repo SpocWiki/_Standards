@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CommunicateAction, class/Thing/Action/InteractAction/CommunicateAction, is_a_/CommunicateAction, schema-org/CommunicateAction]
-tags: ["class/FileClass", "class/CommunicateAction", "is_a_/CommunicateAction", "class/Thing/Action/InteractAction/CommunicateAction"]
+version: "2.0"
+tagNames:
+  - class/CommunicateAction
+  - class/Thing/Action/InteractAction/CommunicateAction
+  - is_a_/CommunicateAction
+  - schema-org/CommunicateAction
+tags:
+  - class/FileClass
+  - class/CommunicateAction
+  - is_a_/CommunicateAction
+  - class/Thing/Action/InteractAction/CommunicateAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
+fields:
+  - id: MWJwcc
+    name: About
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: lO0EZl
+    name: InLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ""
+  - id: Pj1EtS
+    name: Recipient
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ""
 ---
 
 # CommunicateAction

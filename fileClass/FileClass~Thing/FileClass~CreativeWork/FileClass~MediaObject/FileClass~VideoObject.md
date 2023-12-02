@@ -1,12 +1,65 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/VideoObject, class/Thing/CreativeWork/MediaObject/VideoObject, is_a_/VideoObject, schema-org/VideoObject]
-tags: ["class/FileClass", "class/VideoObject", "is_a_/VideoObject", "class/Thing/CreativeWork/MediaObject/VideoObject"]
+version: "2.0"
+tagNames:
+  - class/VideoObject
+  - class/Thing/CreativeWork/MediaObject/VideoObject
+  - is_a_/VideoObject
+  - schema-org/VideoObject
+tags:
+  - class/FileClass
+  - class/VideoObject
+  - is_a_/VideoObject
+  - class/Thing/CreativeWork/MediaObject/VideoObject
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
+fields:
+  - id: PudNPt
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: ZxXq5v
+    name: Caption
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ""
+  - id: vgirPJ
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: 7ZfiyI
+    name: EmbeddedTextCaption
+    options: {}
+    type: Input
+    path: ""
+  - id: MdjFY3
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ""
+  - id: wOtCP2
+    name: Transcript
+    options: {}
+    type: Input
+    path: ""
+  - id: Y5nc1Q
+    name: VideoFrameSize
+    options: {}
+    type: Input
+    path: ""
+  - id: pgncBP
+    name: VideoQuality
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # VideoObject

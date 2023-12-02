@@ -1,12 +1,48 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ProgramMembership, class/Thing/Intangible/ProgramMembership, is_a_/ProgramMembership, schema-org/ProgramMembership]
-tags: ["class/FileClass", "class/ProgramMembership", "is_a_/ProgramMembership", "class/Thing/Intangible/ProgramMembership"]
+version: "2.0"
+tagNames:
+  - class/ProgramMembership
+  - class/Thing/Intangible/ProgramMembership
+  - is_a_/ProgramMembership
+  - schema-org/ProgramMembership
+tags:
+  - class/FileClass
+  - class/ProgramMembership
+  - is_a_/ProgramMembership
+  - class/Thing/Intangible/ProgramMembership
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: SMvHYC
+    name: HostingOrganization
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: nWC4B4
+    name: Member
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: PdzwJh
+    name: MembershipNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: BZHjcR
+    name: MembershipPointsEarned
+    options: {}
+    type: Number
+    path: ""
+  - id: LfIrCD
+    name: ProgramName
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # ProgramMembership

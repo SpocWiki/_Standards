@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DrinkAction, class/Thing/Action/ConsumeAction/DrinkAction, is_a_/DrinkAction, schema-org/DrinkAction]
-tags: ["class/FileClass", "class/DrinkAction", "is_a_/DrinkAction", "class/Thing/Action/ConsumeAction/DrinkAction"]
+version: "2.0"
+tagNames:
+  - class/DrinkAction
+  - class/Thing/Action/ConsumeAction/DrinkAction
+  - is_a_/DrinkAction
+  - schema-org/DrinkAction
+tags:
+  - class/FileClass
+  - class/DrinkAction
+  - is_a_/DrinkAction
+  - class/Thing/Action/ConsumeAction/DrinkAction
 extends: FileClass~Thing/FileClass~Action/FileClass~ConsumeAction
+fields: []
 ---
 
 # DrinkAction

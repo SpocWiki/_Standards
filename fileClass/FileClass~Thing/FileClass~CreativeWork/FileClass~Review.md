@@ -1,12 +1,73 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Review, class/Thing/CreativeWork/Review, is_a_/Review, schema-org/Review]
-tags: ["class/FileClass", "class/Review", "is_a_/Review", "class/Thing/CreativeWork/Review"]
+version: "2.0"
+tagNames:
+  - class/Review
+  - class/Thing/CreativeWork/Review
+  - is_a_/Review
+  - schema-org/Review
+tags:
+  - class/FileClass
+  - class/Review
+  - is_a_/Review
+  - class/Thing/CreativeWork/Review
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: OJ5GgQ
+    name: AssociatedClaimReview
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: SZk09v
+    name: AssociatedMediaReview
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: EMDpNn
+    name: AssociatedReview
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: f8mcLQ
+    name: ItemReviewed
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: rY3HBZ
+    name: NegativeNotes
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ""
+  - id: 9Icupq
+    name: PositiveNotes
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ""
+  - id: P2RFVk
+    name: ReviewAspect
+    options: {}
+    type: Input
+    path: ""
+  - id: MoBnj2
+    name: ReviewBody
+    options: {}
+    type: Input
+    path: ""
+  - id: 7zlnTO
+    name: ReviewRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating')
+    type: MultiFile
+    path: ""
 ---
 
 # Review

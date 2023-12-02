@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ControlAction, class/Thing/Action/ControlAction, is_a_/ControlAction, schema-org/ControlAction]
-tags: ["class/FileClass", "class/ControlAction", "is_a_/ControlAction", "class/Thing/Action/ControlAction"]
+version: "2.0"
+tagNames:
+  - class/ControlAction
+  - class/Thing/Action/ControlAction
+  - is_a_/ControlAction
+  - schema-org/ControlAction
+tags:
+  - class/FileClass
+  - class/ControlAction
+  - is_a_/ControlAction
+  - class/Thing/Action/ControlAction
 extends: FileClass~Thing/FileClass~Action
+fields: []
 ---
 
 # ControlAction

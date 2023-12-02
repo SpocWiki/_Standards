@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Residence, class/Thing/Place/Residence, is_a_/Residence, schema-org/Residence]
-tags: ["class/FileClass", "class/Residence", "is_a_/Residence", "class/Thing/Place/Residence"]
+version: "2.0"
+tagNames:
+  - class/Residence
+  - class/Thing/Place/Residence
+  - is_a_/Residence
+  - schema-org/Residence
+tags:
+  - class/FileClass
+  - class/Residence
+  - is_a_/Residence
+  - class/Thing/Place/Residence
 extends: FileClass~Thing/FileClass~Place
+fields:
+  - id: B6Buu4
+    name: AccommodationFloorPlan
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/FloorPlan')
+    type: MultiFile
+    path: ""
 ---
 
 # Residence

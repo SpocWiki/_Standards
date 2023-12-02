@@ -1,12 +1,89 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Action, class/Thing/Action, is_an_/Action, schema-org/Action]
-tags: ["class/FileClass", "class/Action", "#is_an_/Action", "class/Thing/Action"]
+version: "2.0"
+tagNames:
+  - class/Action
+  - class/Thing/Action
+  - is_an_/Action
+  - schema-org/Action
+tags:
+  - class/FileClass
+  - class/Action
+  - "#is_an_/Action"
+  - class/Thing/Action
 extends: FileClass~Thing
+fields:
+  - id: UovcU4
+    name: Agent
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: AyYbei
+    name: EndTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: sPTB2D
+    name: Error
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: OtGtbk
+    name: Instrument
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: Cxte1S
+    name: Location
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: n1zzmZ
+    name: Object
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: 2nM3hc
+    name: Participant
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: 95RkSj
+    name: Provider
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: 92zA15
+    name: Result
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: jP5jSr
+    name: StartTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: NaKKOJ
+    name: Target
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/EntryPoint')
+    type: MultiFile
+    path: ""
 ---
 
 # Action

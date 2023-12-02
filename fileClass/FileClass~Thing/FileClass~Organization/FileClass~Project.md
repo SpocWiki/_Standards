@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Project, class/Thing/Organization/Project, is_a_/Project, schema-org/Project]
-tags: ["class/FileClass", "class/Project", "is_a_/Project", "class/Thing/Organization/Project"]
+version: "2.0"
+tagNames:
+  - class/Project
+  - class/Thing/Organization/Project
+  - is_a_/Project
+  - schema-org/Project
+tags:
+  - class/FileClass
+  - class/Project
+  - is_a_/Project
+  - class/Thing/Organization/Project
 extends: FileClass~Thing/FileClass~Organization
+fields: []
 ---
 
 # Project

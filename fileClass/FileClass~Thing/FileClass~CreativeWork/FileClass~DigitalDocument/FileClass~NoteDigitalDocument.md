@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/NoteDigitalDocument, class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument, is_a_/NoteDigitalDocument, schema-org/NoteDigitalDocument]
-tags: ["class/FileClass", "class/NoteDigitalDocument", "is_a_/NoteDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument"]
+version: "2.0"
+tagNames:
+  - class/NoteDigitalDocument
+  - class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument
+  - is_a_/NoteDigitalDocument
+  - schema-org/NoteDigitalDocument
+tags:
+  - class/FileClass
+  - class/NoteDigitalDocument
+  - is_a_/NoteDigitalDocument
+  - class/Thing/CreativeWork/DigitalDocument/NoteDigitalDocument
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
+fields: []
 ---
 
 # NoteDigitalDocument

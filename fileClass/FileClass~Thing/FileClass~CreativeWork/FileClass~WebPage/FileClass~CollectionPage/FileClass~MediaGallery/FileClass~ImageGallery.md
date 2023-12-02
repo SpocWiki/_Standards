@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ImageGallery, class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/ImageGallery, is_an_/ImageGallery, schema-org/ImageGallery]
-tags: ["class/FileClass", "class/ImageGallery", "#is_an_/ImageGallery", "class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/ImageGallery"]
+version: "2.0"
+tagNames:
+  - class/ImageGallery
+  - class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/ImageGallery
+  - is_an_/ImageGallery
+  - schema-org/ImageGallery
+tags:
+  - class/FileClass
+  - class/ImageGallery
+  - "#is_an_/ImageGallery"
+  - class/Thing/CreativeWork/WebPage/CollectionPage/MediaGallery/ImageGallery
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery
+fields: []
 ---
 
 # ImageGallery

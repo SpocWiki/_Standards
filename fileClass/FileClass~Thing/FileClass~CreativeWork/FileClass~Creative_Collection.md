@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Collection, class/Thing/CreativeWork/Collection, is_a_/Collection, schema-org/Collection]
-tags: ["class/FileClass", "class/Collection", "is_a_/Collection", "class/Thing/CreativeWork/Collection"]
+version: "2.0"
+tagNames:
+  - class/Collection
+  - class/Thing/CreativeWork/Collection
+  - is_a_/Collection
+  - schema-org/Collection
+tags:
+  - class/FileClass
+  - class/Collection
+  - is_a_/Collection
+  - class/Thing/CreativeWork/Collection
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: EElPDY
+    name: CollectionSize
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # [[CreativeCollection]] 

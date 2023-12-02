@@ -1,12 +1,54 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ShippingRateSettings, class/Thing/Intangible/StructuredValue/ShippingRateSettings, is_a_/ShippingRateSettings, schema-org/ShippingRateSettings]
-tags: ["class/FileClass", "class/ShippingRateSettings", "is_a_/ShippingRateSettings", "class/Thing/Intangible/StructuredValue/ShippingRateSettings"]
+version: "2.0"
+tagNames:
+  - class/ShippingRateSettings
+  - class/Thing/Intangible/StructuredValue/ShippingRateSettings
+  - is_a_/ShippingRateSettings
+  - schema-org/ShippingRateSettings
+tags:
+  - class/FileClass
+  - class/ShippingRateSettings
+  - is_a_/ShippingRateSettings
+  - class/Thing/Intangible/StructuredValue/ShippingRateSettings
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: LlwoLV
+    name: DoesNotShip
+    options: {}
+    type: Boolean
+    path: ""
+  - id: o4wVu8
+    name: FreeShippingThreshold
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification')
+    type: MultiFile
+    path: ""
+  - id: 2FpVQj
+    name: IsUnlabelledFallback
+    options: {}
+    type: Boolean
+    path: ""
+  - id: 2123JO
+    name: ShippingDestination
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
+    type: MultiFile
+    path: ""
+  - id: Moe9rM
+    name: ShippingLabel
+    options: {}
+    type: Input
+    path: ""
+  - id: HFfszx
+    name: ShippingRate
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
 ---
 
 # ShippingRateSettings

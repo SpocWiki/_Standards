@@ -1,12 +1,67 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Occupation, class/Thing/Intangible/Occupation, is_an_/Occupation, schema-org/Occupation]
-tags: ["class/FileClass", "class/Occupation", "#is_an_/Occupation", "class/Thing/Intangible/Occupation"]
+version: "2.0"
+tagNames:
+  - class/Occupation
+  - class/Thing/Intangible/Occupation
+  - is_an_/Occupation
+  - schema-org/Occupation
+tags:
+  - class/FileClass
+  - class/Occupation
+  - "#is_an_/Occupation"
+  - class/Thing/Intangible/Occupation
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: AeZxzn
+    name: EducationRequirements
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
+    type: MultiFile
+    path: ""
+  - id: ddJVsw
+    name: EstimatedSalary
+    options: {}
+    type: Number
+    path: ""
+  - id: BMWvx8
+    name: ExperienceRequirements
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/OccupationalExperienceRequirements')
+    type: MultiFile
+    path: ""
+  - id: 11tbJ0
+    name: OccupationLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: joqn6Z
+    name: OccupationalCategory
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')
+    type: MultiFile
+    path: ""
+  - id: zWzFnT
+    name: Qualifications
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
+    type: MultiFile
+    path: ""
+  - id: 48aCwo
+    name: Responsibilities
+    options: {}
+    type: Input
+    path: ""
+  - id: 9OIoBW
+    name: Skills
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
 ---
 
 # Occupation

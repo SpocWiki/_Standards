@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/VisualArtsEvent, class/Thing/Event/VisualArtsEvent, is_a_/VisualArtsEvent, schema-org/VisualArtsEvent]
-tags: ["class/FileClass", "class/VisualArtsEvent", "is_a_/VisualArtsEvent", "class/Thing/Event/VisualArtsEvent"]
+version: "2.0"
+tagNames:
+  - class/VisualArtsEvent
+  - class/Thing/Event/VisualArtsEvent
+  - is_a_/VisualArtsEvent
+  - schema-org/VisualArtsEvent
+tags:
+  - class/FileClass
+  - class/VisualArtsEvent
+  - is_a_/VisualArtsEvent
+  - class/Thing/Event/VisualArtsEvent
 extends: FileClass~Thing/FileClass~Event
+fields: []
 ---
 
 # VisualArtsEvent

@@ -1,12 +1,98 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Invoice, class/Thing/Intangible/Invoice, is_an_/Invoice, schema-org/Invoice]
-tags: ["class/FileClass", "class/Invoice", "#is_an_/Invoice", "class/Thing/Intangible/Invoice"]
+version: "2.0"
+tagNames:
+  - class/Invoice
+  - class/Thing/Intangible/Invoice
+  - is_an_/Invoice
+  - schema-org/Invoice
+tags:
+  - class/FileClass
+  - class/Invoice
+  - "#is_an_/Invoice"
+  - class/Thing/Intangible/Invoice
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: V4CC8w
+    name: AccountId
+    options: {}
+    type: Input
+    path: ""
+  - id: jP1wgW
+    name: BillingPeriod
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: 2ugcsT
+    name: Broker
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: nR6jSh
+    name: ConfirmationNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: 0R3iH7
+    name: Customer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: wFiOE5
+    name: MinimumPaymentDue
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
+  - id: IjYapE
+    name: PaymentDueDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: bVyXVt
+    name: PaymentMethod
+    options: {}
+    type: Input
+    path: ""
+  - id: 6ATVqN
+    name: PaymentMethodId
+    options: {}
+    type: Input
+    path: ""
+  - id: N5hOsE
+    name: Provider
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: tOnduB
+    name: ReferencesOrder
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Order')
+    type: MultiFile
+    path: ""
+  - id: EJ2nix
+    name: ScheduledPaymentDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: XUffEW
+    name: TotalPaymentDue
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
 ---
 
 # Invoice

@@ -1,12 +1,63 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: hotel
-version: 5
-tagNames: [class/LodgingBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness, is_a_/LodgingBusiness, schema-org/LodgingBusiness]
-tags: ["class/FileClass", "class/LodgingBusiness", "is_a_/LodgingBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness"]
+version: "2.0"
+tagNames:
+  - class/LodgingBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness
+  - is_a_/LodgingBusiness
+  - schema-org/LodgingBusiness
+tags:
+  - class/FileClass
+  - class/LodgingBusiness
+  - is_a_/LodgingBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields:
+  - id: ddzVC4
+    name: Audience
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ""
+  - id: chI2WS
+    name: AvailableLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ""
+  - id: CV1ISr
+    name: CheckinTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: lDmX9B
+    name: CheckoutTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: X0bfVz
+    name: NumberOfRooms
+    options: {}
+    type: Number
+    path: ""
+  - id: WjbZpW
+    name: PetsAllowed
+    options: {}
+    type: Boolean
+    path: ""
+  - id: YphcCs
+    name: StarRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating')
+    type: MultiFile
+    path: ""
 ---
 
 # LodgingBusiness

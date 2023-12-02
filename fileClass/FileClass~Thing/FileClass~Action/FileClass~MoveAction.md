@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MoveAction, class/Thing/Action/MoveAction, is_a_/MoveAction, schema-org/MoveAction]
-tags: ["class/FileClass", "class/MoveAction", "is_a_/MoveAction", "class/Thing/Action/MoveAction"]
+version: "2.0"
+tagNames:
+  - class/MoveAction
+  - class/Thing/Action/MoveAction
+  - is_a_/MoveAction
+  - schema-org/MoveAction
+tags:
+  - class/FileClass
+  - class/MoveAction
+  - is_a_/MoveAction
+  - class/Thing/Action/MoveAction
 extends: FileClass~Thing/FileClass~Action
+fields:
+  - id: LVVOFM
+    name: FromLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: fIE1qZ
+    name: ToLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
 ---
 
 # MoveAction

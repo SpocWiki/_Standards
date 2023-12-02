@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CurrencyConversionService, class/Thing/Intangible/Service/FinancialProduct/CurrencyConversionService, is_a_/CurrencyConversionService, schema-org/CurrencyConversionService]
-tags: ["class/FileClass", "class/CurrencyConversionService", "is_a_/CurrencyConversionService", "class/Thing/Intangible/Service/FinancialProduct/CurrencyConversionService"]
+version: "2.0"
+tagNames:
+  - class/CurrencyConversionService
+  - class/Thing/Intangible/Service/FinancialProduct/CurrencyConversionService
+  - is_a_/CurrencyConversionService
+  - schema-org/CurrencyConversionService
+tags:
+  - class/FileClass
+  - class/CurrencyConversionService
+  - is_a_/CurrencyConversionService
+  - class/Thing/Intangible/Service/FinancialProduct/CurrencyConversionService
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
+fields: []
 ---
 
 # CurrencyConversionService

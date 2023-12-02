@@ -1,12 +1,41 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/APIReference, class/Thing/CreativeWork/Article/TechArticle/APIReference, is_an_/APIReference, schema-org/APIReference]
-tags: ["class/FileClass", "class/APIReference", "#is_an_/APIReference", "class/Thing/CreativeWork/Article/TechArticle/APIReference"]
+version: "2.0"
+tagNames:
+  - class/APIReference
+  - class/Thing/CreativeWork/Article/TechArticle/APIReference
+  - is_an_/APIReference
+  - schema-org/APIReference
+tags:
+  - class/FileClass
+  - class/APIReference
+  - "#is_an_/APIReference"
+  - class/Thing/CreativeWork/Article/TechArticle/APIReference
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle
+fields:
+  - id: 8wglXv
+    name: AssemblyVersion
+    options: {}
+    type: Input
+    path: ""
+  - id: 8oAvYt
+    name: ExecutableLibraryName
+    options: {}
+    type: Input
+    path: ""
+  - id: yXSPi8
+    name: ProgrammingModel
+    options: {}
+    type: Input
+    path: ""
+  - id: x4yNdl
+    name: TargetPlatform
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # APIReference

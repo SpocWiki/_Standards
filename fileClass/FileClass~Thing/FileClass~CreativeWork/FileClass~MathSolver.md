@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MathSolver, class/Thing/CreativeWork/MathSolver, is_a_/MathSolver, schema-org/MathSolver]
-tags: ["class/FileClass", "class/MathSolver", "is_a_/MathSolver", "class/Thing/CreativeWork/MathSolver"]
+version: "2.0"
+tagNames:
+  - class/MathSolver
+  - class/Thing/CreativeWork/MathSolver
+  - is_a_/MathSolver
+  - schema-org/MathSolver
+tags:
+  - class/FileClass
+  - class/MathSolver
+  - is_a_/MathSolver
+  - class/Thing/CreativeWork/MathSolver
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: 79HK0J
+    name: MathExpression
+    options:
+      dvQueryString: dv.pages('#class/Thing/Action/SolveMathAction')
+    type: MultiFile
+    path: ""
 ---
 
 # MathSolver

@@ -1,12 +1,87 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/FloorPlan, class/Thing/Intangible/FloorPlan, is_a_/FloorPlan, schema-org/FloorPlan]
-tags: ["class/FileClass", "class/FloorPlan", "is_a_/FloorPlan", "class/Thing/Intangible/FloorPlan"]
+version: "2.0"
+tagNames:
+  - class/FloorPlan
+  - class/Thing/Intangible/FloorPlan
+  - is_a_/FloorPlan
+  - schema-org/FloorPlan
+tags:
+  - class/FileClass
+  - class/FloorPlan
+  - is_a_/FloorPlan
+  - class/Thing/Intangible/FloorPlan
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: x5Na7R
+    name: AmenityFeature
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')
+    type: MultiFile
+    path: ""
+  - id: hB1L0J
+    name: FloorSize
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: 9AM3NY
+    name: IsPlanForApartment
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/Accommodation')
+    type: MultiFile
+    path: ""
+  - id: eIDv2e
+    name: LayoutImage
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ""
+  - id: nWyAzh
+    name: NumberOfAccommodationUnits
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: opVDPu
+    name: NumberOfAvailableAccommodationUnits
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: ZjQIpu
+    name: NumberOfBathroomsTotal
+    options: {}
+    type: Number
+    path: ""
+  - id: XtsAHQ
+    name: NumberOfBedrooms
+    options: {}
+    type: Number
+    path: ""
+  - id: oQcbNI
+    name: NumberOfFullBathrooms
+    options: {}
+    type: Number
+    path: ""
+  - id: pG7aOz
+    name: NumberOfPartialBathrooms
+    options: {}
+    type: Number
+    path: ""
+  - id: 04YFzh
+    name: NumberOfRooms
+    options: {}
+    type: Number
+    path: ""
+  - id: rEabw9
+    name: PetsAllowed
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # FloorPlan

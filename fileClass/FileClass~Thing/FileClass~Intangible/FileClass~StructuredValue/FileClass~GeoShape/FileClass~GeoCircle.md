@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/GeoCircle, class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle, is_a_/GeoCircle, schema-org/GeoCircle]
-tags: ["class/FileClass", "class/GeoCircle", "is_a_/GeoCircle", "class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle"]
+version: "2.0"
+tagNames:
+  - class/GeoCircle
+  - class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle
+  - is_a_/GeoCircle
+  - schema-org/GeoCircle
+tags:
+  - class/FileClass
+  - class/GeoCircle
+  - is_a_/GeoCircle
+  - class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape
+fields:
+  - id: T5Z5PF
+    name: GeoMidpoint
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')
+    type: MultiFile
+    path: ""
+  - id: 035iuP
+    name: GeoRadius
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # GeoCircle

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: mountain
-version: 5
-tagNames: [class/Mountain, class/Thing/Place/Landform/Mountain, is_a_/Mountain, schema-org/Mountain]
-tags: ["class/FileClass", "class/Mountain", "is_a_/Mountain", "class/Thing/Place/Landform/Mountain"]
+version: "2.0"
+tagNames:
+  - class/Mountain
+  - class/Thing/Place/Landform/Mountain
+  - is_a_/Mountain
+  - schema-org/Mountain
+tags:
+  - class/FileClass
+  - class/Mountain
+  - is_a_/Mountain
+  - class/Thing/Place/Landform/Mountain
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform
+fields: []
 ---
 
 # Mountain

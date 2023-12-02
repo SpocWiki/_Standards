@@ -1,12 +1,72 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/HowToDirection, class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection, is_a_/HowToDirection, schema-org/HowToDirection]
-tags: ["class/FileClass", "class/HowToDirection", "is_a_/HowToDirection", "class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection"]
+version: "2.0"
+tagNames:
+  - class/HowToDirection
+  - class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection
+  - is_a_/HowToDirection
+  - schema-org/HowToDirection
+tags:
+  - class/FileClass
+  - class/HowToDirection
+  - is_a_/HowToDirection
+  - class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem
+fields:
+  - id: jyg3X8
+    name: AfterMedia
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ""
+  - id: DIO6Ud
+    name: BeforeMedia
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ""
+  - id: JtHSvq
+    name: DuringMedia
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ""
+  - id: woL0Nh
+    name: PerformTime
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: NlIpTP
+    name: PrepTime
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: J6D7aL
+    name: Supply
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')
+    type: MultiFile
+    path: ""
+  - id: qjzaBz
+    name: Tool
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')
+    type: MultiFile
+    path: ""
+  - id: 73a1yZ
+    name: TotalTime
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
 ---
 
 # HowToDirection

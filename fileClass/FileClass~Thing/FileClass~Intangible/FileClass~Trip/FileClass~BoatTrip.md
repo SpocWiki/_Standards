@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BoatTrip, class/Thing/Intangible/Trip/BoatTrip, is_a_/BoatTrip, schema-org/BoatTrip]
-tags: ["class/FileClass", "class/BoatTrip", "is_a_/BoatTrip", "class/Thing/Intangible/Trip/BoatTrip"]
+version: "2.0"
+tagNames:
+  - class/BoatTrip
+  - class/Thing/Intangible/Trip/BoatTrip
+  - is_a_/BoatTrip
+  - schema-org/BoatTrip
+tags:
+  - class/FileClass
+  - class/BoatTrip
+  - is_a_/BoatTrip
+  - class/Thing/Intangible/Trip/BoatTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
+fields:
+  - id: s4DBlM
+    name: ArrivalBoatTerminal
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')
+    type: MultiFile
+    path: ""
+  - id: TpM5UI
+    name: DepartureBoatTerminal
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')
+    type: MultiFile
+    path: ""
 ---
 
 # BoatTrip

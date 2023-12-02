@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/EndorseAction, class/Thing/Action/AssessAction/ReactAction/EndorseAction, is_an_/EndorseAction, schema-org/EndorseAction]
-tags: ["class/FileClass", "class/EndorseAction", "#is_an_/EndorseAction", "class/Thing/Action/AssessAction/ReactAction/EndorseAction"]
+version: "2.0"
+tagNames:
+  - class/EndorseAction
+  - class/Thing/Action/AssessAction/ReactAction/EndorseAction
+  - is_an_/EndorseAction
+  - schema-org/EndorseAction
+tags:
+  - class/FileClass
+  - class/EndorseAction
+  - "#is_an_/EndorseAction"
+  - class/Thing/Action/AssessAction/ReactAction/EndorseAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
+fields:
+  - id: ZrZQW2
+    name: Endorsee
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
 ---
 
 # EndorseAction

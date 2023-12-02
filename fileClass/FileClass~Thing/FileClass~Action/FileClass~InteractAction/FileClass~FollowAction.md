@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/FollowAction, class/Thing/Action/InteractAction/FollowAction, is_a_/FollowAction, schema-org/FollowAction]
-tags: ["class/FileClass", "class/FollowAction", "is_a_/FollowAction", "class/Thing/Action/InteractAction/FollowAction"]
+version: "2.0"
+tagNames:
+  - class/FollowAction
+  - class/Thing/Action/InteractAction/FollowAction
+  - is_a_/FollowAction
+  - schema-org/FollowAction
+tags:
+  - class/FileClass
+  - class/FollowAction
+  - is_a_/FollowAction
+  - class/Thing/Action/InteractAction/FollowAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
+fields:
+  - id: cHR7iu
+    name: Followee
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
 ---
 
 # FollowAction

@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ChooseAction, class/Thing/Action/AssessAction/ChooseAction, is_a_/ChooseAction, schema-org/ChooseAction]
-tags: ["class/FileClass", "class/ChooseAction", "is_a_/ChooseAction", "class/Thing/Action/AssessAction/ChooseAction"]
+version: "2.0"
+tagNames:
+  - class/ChooseAction
+  - class/Thing/Action/AssessAction/ChooseAction
+  - is_a_/ChooseAction
+  - schema-org/ChooseAction
+tags:
+  - class/FileClass
+  - class/ChooseAction
+  - is_a_/ChooseAction
+  - class/Thing/Action/AssessAction/ChooseAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
+fields:
+  - id: ePzQqG
+    name: ActionOption
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
 ---
 
 # ChooseAction

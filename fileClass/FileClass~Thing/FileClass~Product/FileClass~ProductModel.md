@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ProductModel, class/Thing/Product/ProductModel, is_a_/ProductModel, schema-org/ProductModel]
-tags: ["class/FileClass", "class/ProductModel", "is_a_/ProductModel", "class/Thing/Product/ProductModel"]
+version: "2.0"
+tagNames:
+  - class/ProductModel
+  - class/Thing/Product/ProductModel
+  - is_a_/ProductModel
+  - schema-org/ProductModel
+tags:
+  - class/FileClass
+  - class/ProductModel
+  - is_a_/ProductModel
+  - class/Thing/Product/ProductModel
 extends: FileClass~Thing/FileClass~Product
+fields:
+  - id: q3G6KZ
+    name: PredecessorOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product/ProductModel')
+    type: MultiFile
+    path: ""
+  - id: wZJyDx
+    name: SuccessorOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product/ProductModel')
+    type: MultiFile
+    path: ""
 ---
 
 # ProductModel

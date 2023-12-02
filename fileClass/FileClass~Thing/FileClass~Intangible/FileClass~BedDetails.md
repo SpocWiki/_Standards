@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BedDetails, class/Thing/Intangible/BedDetails, is_a_/BedDetails, schema-org/BedDetails]
-tags: ["class/FileClass", "class/BedDetails", "is_a_/BedDetails", "class/Thing/Intangible/BedDetails"]
+version: "2.0"
+tagNames:
+  - class/BedDetails
+  - class/Thing/Intangible/BedDetails
+  - is_a_/BedDetails
+  - schema-org/BedDetails
+tags:
+  - class/FileClass
+  - class/BedDetails
+  - is_a_/BedDetails
+  - class/Thing/Intangible/BedDetails
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: eNVWmQ
+    name: NumberOfBeds
+    options: {}
+    type: Number
+    path: ""
+  - id: ZXMwhG
+    name: TypeOfBed
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # BedDetails

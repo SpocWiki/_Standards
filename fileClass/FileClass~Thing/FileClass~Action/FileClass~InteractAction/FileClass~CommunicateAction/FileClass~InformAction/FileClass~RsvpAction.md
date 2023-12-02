@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RsvpAction, class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction, is_a_/RsvpAction, schema-org/RsvpAction]
-tags: ["class/FileClass", "class/RsvpAction", "is_a_/RsvpAction", "class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction"]
+version: "2.0"
+tagNames:
+  - class/RsvpAction
+  - class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction
+  - is_a_/RsvpAction
+  - schema-org/RsvpAction
+tags:
+  - class/FileClass
+  - class/RsvpAction
+  - is_a_/RsvpAction
+  - class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction
+fields:
+  - id: Vzrfda
+    name: AdditionalNumberOfGuests
+    options: {}
+    type: Number
+    path: ""
+  - id: 3GeP0g
+    name: Comment
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
+    type: MultiFile
+    path: ""
 ---
 
 # RsvpAction

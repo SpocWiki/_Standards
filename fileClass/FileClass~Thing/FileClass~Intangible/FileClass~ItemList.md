@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ItemList, class/Thing/Intangible/ItemList, is_an_/ItemList, schema-org/ItemList]
-tags: ["class/FileClass", "class/ItemList", "#is_an_/ItemList", "class/Thing/Intangible/ItemList"]
+version: "2.0"
+tagNames:
+  - class/ItemList
+  - class/Thing/Intangible/ItemList
+  - is_an_/ItemList
+  - schema-org/ItemList
+tags:
+  - class/FileClass
+  - class/ItemList
+  - "#is_an_/ItemList"
+  - class/Thing/Intangible/ItemList
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: waOyWY
+    name: ItemListElement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ListItem')
+    type: MultiFile
+    path: ""
+  - id: Zvssa4
+    name: NumberOfItems
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # ItemList

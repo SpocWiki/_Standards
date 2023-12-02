@@ -1,12 +1,57 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DietarySupplement, class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement, is_a_/DietarySupplement, schema-org/DietarySupplement]
-tags: ["class/FileClass", "class/DietarySupplement", "is_a_/DietarySupplement", "class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement"]
+version: "2.0"
+tagNames:
+  - class/DietarySupplement
+  - class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement
+  - is_a_/DietarySupplement
+  - schema-org/DietarySupplement
+tags:
+  - class/FileClass
+  - class/DietarySupplement
+  - is_a_/DietarySupplement
+  - class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance
+fields:
+  - id: zq87D5
+    name: IsProprietary
+    options: {}
+    type: Boolean
+    path: ""
+  - id: 1V7gL4
+    name: MechanismOfAction
+    options: {}
+    type: Input
+    path: ""
+  - id: 45c2GD
+    name: NonProprietaryName
+    options: {}
+    type: Input
+    path: ""
+  - id: uzLHl1
+    name: ProprietaryName
+    options: {}
+    type: Input
+    path: ""
+  - id: z4q4Qm
+    name: RecommendedIntake
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule')
+    type: MultiFile
+    path: ""
+  - id: rhUM5x
+    name: SafetyConsideration
+    options: {}
+    type: Input
+    path: ""
+  - id: KqKjnz
+    name: TargetPopulation
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # DietarySupplement

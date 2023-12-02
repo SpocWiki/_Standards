@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LeaveAction, class/Thing/Action/InteractAction/LeaveAction, is_a_/LeaveAction, schema-org/LeaveAction]
-tags: ["class/FileClass", "class/LeaveAction", "is_a_/LeaveAction", "class/Thing/Action/InteractAction/LeaveAction"]
+version: "2.0"
+tagNames:
+  - class/LeaveAction
+  - class/Thing/Action/InteractAction/LeaveAction
+  - is_a_/LeaveAction
+  - schema-org/LeaveAction
+tags:
+  - class/FileClass
+  - class/LeaveAction
+  - is_a_/LeaveAction
+  - class/Thing/Action/InteractAction/LeaveAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
+fields:
+  - id: r4lrVO
+    name: Events
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ""
 ---
 
 # LeaveAction

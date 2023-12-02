@@ -1,12 +1,49 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/EngineSpecification, class/Thing/Intangible/StructuredValue/EngineSpecification, is_an_/EngineSpecification, schema-org/EngineSpecification]
-tags: ["class/FileClass", "class/EngineSpecification", "#is_an_/EngineSpecification", "class/Thing/Intangible/StructuredValue/EngineSpecification"]
+version: "2.0"
+tagNames:
+  - class/EngineSpecification
+  - class/Thing/Intangible/StructuredValue/EngineSpecification
+  - is_an_/EngineSpecification
+  - schema-org/EngineSpecification
+tags:
+  - class/FileClass
+  - class/EngineSpecification
+  - "#is_an_/EngineSpecification"
+  - class/Thing/Intangible/StructuredValue/EngineSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: x4F5qp
+    name: EngineDisplacement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: CzlRqO
+    name: EnginePower
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: Zrpv0m
+    name: EngineType
+    options: {}
+    type: Input
+    path: ""
+  - id: cVwsYK
+    name: FuelType
+    options: {}
+    type: Input
+    path: ""
+  - id: bzTjSs
+    name: Torque
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # EngineSpecification

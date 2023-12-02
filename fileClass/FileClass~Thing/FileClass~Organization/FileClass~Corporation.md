@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Corporation, class/Thing/Organization/Corporation, is_a_/Corporation, schema-org/Corporation]
-tags: ["class/FileClass", "class/Corporation", "is_a_/Corporation", "class/Thing/Organization/Corporation"]
+version: "2.0"
+tagNames:
+  - class/Corporation
+  - class/Thing/Organization/Corporation
+  - is_a_/Corporation
+  - schema-org/Corporation
+tags:
+  - class/FileClass
+  - class/Corporation
+  - is_a_/Corporation
+  - class/Thing/Organization/Corporation
 extends: FileClass~Thing/FileClass~Organization
+fields:
+  - id: OeF6ta
+    name: TickerSymbol
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Corporation

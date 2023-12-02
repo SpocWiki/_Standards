@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: dog
-version: 5
-tagNames: [class/AnimalShelter, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter, is_an_/AnimalShelter, schema-org/AnimalShelter]
-tags: ["class/FileClass", "class/AnimalShelter", "#is_an_/AnimalShelter", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter"]
+version: "2.0"
+tagNames:
+  - class/AnimalShelter
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter
+  - is_an_/AnimalShelter
+  - schema-org/AnimalShelter
+tags:
+  - class/FileClass
+  - class/AnimalShelter
+  - "#is_an_/AnimalShelter"
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/AnimalShelter
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields: []
 ---
 
 # AnimalShelter

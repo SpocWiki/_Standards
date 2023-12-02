@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Syllabus, class/Thing/CreativeWork/LearningResource/Syllabus, is_a_/Syllabus, schema-org/Syllabus]
-tags: ["class/FileClass", "class/Syllabus", "is_a_/Syllabus", "class/Thing/CreativeWork/LearningResource/Syllabus"]
+version: "2.0"
+tagNames:
+  - class/Syllabus
+  - class/Thing/CreativeWork/LearningResource/Syllabus
+  - is_a_/Syllabus
+  - schema-org/Syllabus
+tags:
+  - class/FileClass
+  - class/Syllabus
+  - is_a_/Syllabus
+  - class/Thing/CreativeWork/LearningResource/Syllabus
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
+fields: []
 ---
 
 # Syllabus

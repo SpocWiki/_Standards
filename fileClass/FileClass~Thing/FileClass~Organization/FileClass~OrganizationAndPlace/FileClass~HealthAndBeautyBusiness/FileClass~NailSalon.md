@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/NailSalon, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/NailSalon, is_a_/NailSalon, schema-org/NailSalon]
-tags: ["class/FileClass", "class/NailSalon", "is_a_/NailSalon", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/NailSalon"]
+version: "2.0"
+tagNames:
+  - class/NailSalon
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/NailSalon
+  - is_a_/NailSalon
+  - schema-org/NailSalon
+tags:
+  - class/FileClass
+  - class/NailSalon
+  - is_a_/NailSalon
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/NailSalon
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness
+fields: []
 ---
 
 # NailSalon

@@ -33,15 +33,15 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has_/review :: Review ] or 
-- [ has_review :: Review ] 
+- [ #has_/review :: [[../../Class/is_a_/creative_work/review|Review]] ] or 
+- [ has_review :: [[../../Class/is_a_/creative_work/review|Review]] ] 
 
-A review of the item.
+A [[../../Class/is_a_/creative_work/review|review]] of the item.
 
-Relation describes that: 
-[ #has_/domain  :: Brand, CreativeWork, Event, Offer, Organization, Place, Product, Service ]
-( #has_/name :: is_review )
-( #has_/range :: Review )
+[[../../Relation|Relation]] describes that: 
+[#has_/domain  :: [ [[../../Class/is_a_/Intangible/brand|Brand]], [[../../Class/is_a_/creative_work|CreativeWork]], [[../../Class/is_a_/event|Event]], [[../../Class/is_a_/Intangible/offer|Offer]], [[../../Class/is_a_/organization|Organization]], [[../../Class/is_a_/place|Place]], [[../../Class/is_a_/product|Product]], [[../../Class/is_a_/Intangible/service|Service]] ] ]
+( #has_/name :: has_review )
+( #has_/range :: [[../../Class/is_a_/creative_work/review|Review]] )
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_review.md|has_review]] 

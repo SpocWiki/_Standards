@@ -1,12 +1,55 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LodgingReservation, class/Thing/Intangible/Reservation/LodgingReservation, is_a_/LodgingReservation, schema-org/LodgingReservation]
-tags: ["class/FileClass", "class/LodgingReservation", "is_a_/LodgingReservation", "class/Thing/Intangible/Reservation/LodgingReservation"]
+version: "2.0"
+tagNames:
+  - class/LodgingReservation
+  - class/Thing/Intangible/Reservation/LodgingReservation
+  - is_a_/LodgingReservation
+  - schema-org/LodgingReservation
+tags:
+  - class/FileClass
+  - class/LodgingReservation
+  - is_a_/LodgingReservation
+  - class/Thing/Intangible/Reservation/LodgingReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
+fields:
+  - id: M3oGKd
+    name: CheckinTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: BC9pA3
+    name: CheckoutTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: UU3oJy
+    name: LodgingUnitDescription
+    options: {}
+    type: Input
+    path: ""
+  - id: qYmgJj
+    name: LodgingUnitType
+    options: {}
+    type: Input
+    path: ""
+  - id: 4OateB
+    name: NumAdults
+    options: {}
+    type: Number
+    path: ""
+  - id: J2MvQp
+    name: NumChildren
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # LodgingReservation

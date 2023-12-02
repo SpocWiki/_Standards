@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ChildrensEvent, class/Thing/Event/ChildrensEvent, is_a_/ChildrensEvent, schema-org/ChildrensEvent]
-tags: ["class/FileClass", "class/ChildrensEvent", "is_a_/ChildrensEvent", "class/Thing/Event/ChildrensEvent"]
+version: "2.0"
+tagNames:
+  - class/ChildrensEvent
+  - class/Thing/Event/ChildrensEvent
+  - is_a_/ChildrensEvent
+  - schema-org/ChildrensEvent
+tags:
+  - class/FileClass
+  - class/ChildrensEvent
+  - is_a_/ChildrensEvent
+  - class/Thing/Event/ChildrensEvent
 extends: FileClass~Thing/FileClass~Event
+fields: []
 ---
 
 # ChildrensEvent

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RVPark, class/Thing/Place/CivicStructure/RVPark, is_a_/RVPark, schema-org/RVPark]
-tags: ["class/FileClass", "class/RVPark", "is_a_/RVPark", "class/Thing/Place/CivicStructure/RVPark"]
+version: "2.0"
+tagNames:
+  - class/RVPark
+  - class/Thing/Place/CivicStructure/RVPark
+  - is_a_/RVPark
+  - schema-org/RVPark
+tags:
+  - class/FileClass
+  - class/RVPark
+  - is_a_/RVPark
+  - class/Thing/Place/CivicStructure/RVPark
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
+fields: []
 ---
 
 # RVPark

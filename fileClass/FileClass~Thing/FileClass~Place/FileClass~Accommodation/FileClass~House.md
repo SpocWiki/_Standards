@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: home
-version: 5
-tagNames: [class/House, class/Thing/Place/Accommodation/House, is_a_/House, schema-org/House]
-tags: ["class/FileClass", "class/House", "is_a_/House", "class/Thing/Place/Accommodation/House"]
+version: "2.0"
+tagNames:
+  - class/House
+  - class/Thing/Place/Accommodation/House
+  - is_a_/House
+  - schema-org/House
+tags:
+  - class/FileClass
+  - class/House
+  - is_a_/House
+  - class/Thing/Place/Accommodation/House
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation
+fields: []
 ---
 
 # House

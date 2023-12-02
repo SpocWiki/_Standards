@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CategoryCode, class/Thing/Intangible/DefinedTerm/CategoryCode, is_a_/CategoryCode, schema-org/CategoryCode]
-tags: ["class/FileClass", "class/CategoryCode", "is_a_/CategoryCode", "class/Thing/Intangible/DefinedTerm/CategoryCode"]
+version: "2.0"
+tagNames:
+  - class/CategoryCode
+  - class/Thing/Intangible/DefinedTerm/CategoryCode
+  - is_a_/CategoryCode
+  - schema-org/CategoryCode
+tags:
+  - class/FileClass
+  - class/CategoryCode
+  - is_a_/CategoryCode
+  - class/Thing/Intangible/DefinedTerm/CategoryCode
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm
+fields:
+  - id: 7EUYaM
+    name: CodeValue
+    options: {}
+    type: Input
+    path: ""
+  - id: lxiCxY
+    name: InCodeSet
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet')
+    type: MultiFile
+    path: ""
 ---
 
 # CategoryCode

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: glasses
-version: 5
-tagNames: [class/Optician, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician, is_an_/Optician, schema-org/Optician]
-tags: ["class/FileClass", "class/Optician", "#is_an_/Optician", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician"]
+version: "2.0"
+tagNames:
+  - class/Optician
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician
+  - is_an_/Optician
+  - schema-org/Optician
+tags:
+  - class/FileClass
+  - class/Optician
+  - "#is_an_/Optician"
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/Optician
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness
+fields: []
 ---
 
 # Optician

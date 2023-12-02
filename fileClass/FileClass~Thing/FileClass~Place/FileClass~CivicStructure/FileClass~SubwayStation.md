@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: train
-version: 5
-tagNames: [class/SubwayStation, class/Thing/Place/CivicStructure/SubwayStation, is_a_/SubwayStation, schema-org/SubwayStation]
-tags: ["class/FileClass", "class/SubwayStation", "is_a_/SubwayStation", "class/Thing/Place/CivicStructure/SubwayStation"]
+version: "2.0"
+tagNames:
+  - class/SubwayStation
+  - class/Thing/Place/CivicStructure/SubwayStation
+  - is_a_/SubwayStation
+  - schema-org/SubwayStation
+tags:
+  - class/FileClass
+  - class/SubwayStation
+  - is_a_/SubwayStation
+  - class/Thing/Place/CivicStructure/SubwayStation
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
+fields: []
 ---
 
 # SubwayStation

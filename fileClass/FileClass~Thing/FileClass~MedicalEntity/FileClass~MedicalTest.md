@@ -1,12 +1,50 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalTest, class/Thing/MedicalEntity/MedicalTest, is_a_/MedicalTest, schema-org/MedicalTest]
-tags: ["class/FileClass", "class/MedicalTest", "is_a_/MedicalTest", "class/Thing/MedicalEntity/MedicalTest"]
+version: "2.0"
+tagNames:
+  - class/MedicalTest
+  - class/Thing/MedicalEntity/MedicalTest
+  - is_a_/MedicalTest
+  - schema-org/MedicalTest
+tags:
+  - class/FileClass
+  - class/MedicalTest
+  - is_a_/MedicalTest
+  - class/Thing/MedicalEntity/MedicalTest
 extends: FileClass~Thing/FileClass~MedicalEntity
+fields:
+  - id: lfYzVL
+    name: AffectedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
+    type: MultiFile
+    path: ""
+  - id: 9CRq58
+    name: NormalRange
+    options: {}
+    type: Input
+    path: ""
+  - id: dHXZRq
+    name: SignDetected
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign')
+    type: MultiFile
+    path: ""
+  - id: nTPsiC
+    name: UsedToDiagnose
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ""
+  - id: N11qrx
+    name: UsesDevice
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalDevice')
+    type: MultiFile
+    path: ""
 ---
 
 # MedicalTest

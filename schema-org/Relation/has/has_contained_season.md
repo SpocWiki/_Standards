@@ -29,18 +29,18 @@ aliases:
   - has_season
 ---
 
-Use it like this: 
-- [ #has_/contained_season :: CreativeWorkSeason ] or 
-- [ has_contained_season :: CreativeWorkSeason ] 
-
 A season that is part of the media series.
 
-Relation describes that: 
-[ #has_/domain  :: RadioSeries, TVSeries, VideoGameSeries ]
-( #has_/name :: has_contained_season )
-( #has_/range :: CreativeWorkSeason )
+Use it like this: 
+- [ #has_/contained_season :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] ] or 
+- [ has_contained_season :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] ] 
 
-[ #is_/sub_property_of  :: hasPart ]
+[[../../Relation|Relation]] describes that: 
+[ #has_/domain  :: [ [[../../Class/is_a_/creative_work/creative_work_series/radio_series|RadioSeries]], [[../../Class/is_a_/creative_work/tv_series|TVSeries]], [[../../Class/is_a_/creative_work/creative_work_series/video_game_series|VideoGameSeries]] ] ] 
+( #has_/name :: has_contained_season )
+( #has_/range :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] )
+
+[ #is_/sub_property_of  :: [[has_part|hasPart]] ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_contained_season.md|has_contained_season]] 

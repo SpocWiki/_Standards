@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MusicVideoObject, class/Thing/CreativeWork/MediaObject/MusicVideoObject, is_a_/MusicVideoObject, schema-org/MusicVideoObject]
-tags: ["class/FileClass", "class/MusicVideoObject", "is_a_/MusicVideoObject", "class/Thing/CreativeWork/MediaObject/MusicVideoObject"]
+version: "2.0"
+tagNames:
+  - class/MusicVideoObject
+  - class/Thing/CreativeWork/MediaObject/MusicVideoObject
+  - is_a_/MusicVideoObject
+  - schema-org/MusicVideoObject
+tags:
+  - class/FileClass
+  - class/MusicVideoObject
+  - is_a_/MusicVideoObject
+  - class/Thing/CreativeWork/MediaObject/MusicVideoObject
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
+fields: []
 ---
 
 # MusicVideoObject

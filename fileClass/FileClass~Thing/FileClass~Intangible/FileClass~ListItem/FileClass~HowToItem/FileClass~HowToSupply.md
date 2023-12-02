@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/HowToSupply, class/Thing/Intangible/ListItem/HowToItem/HowToSupply, is_a_/HowToSupply, schema-org/HowToSupply]
-tags: ["class/FileClass", "class/HowToSupply", "is_a_/HowToSupply", "class/Thing/Intangible/ListItem/HowToItem/HowToSupply"]
+version: "2.0"
+tagNames:
+  - class/HowToSupply
+  - class/Thing/Intangible/ListItem/HowToItem/HowToSupply
+  - is_a_/HowToSupply
+  - schema-org/HowToSupply
+tags:
+  - class/FileClass
+  - class/HowToSupply
+  - is_a_/HowToSupply
+  - class/Thing/Intangible/ListItem/HowToItem/HowToSupply
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem
+fields:
+  - id: 4WagOv
+    name: EstimatedCost
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
 ---
 
 # HowToSupply

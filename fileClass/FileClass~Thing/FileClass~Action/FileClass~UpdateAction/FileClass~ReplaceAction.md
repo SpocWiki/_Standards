@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ReplaceAction, class/Thing/Action/UpdateAction/ReplaceAction, is_a_/ReplaceAction, schema-org/ReplaceAction]
-tags: ["class/FileClass", "class/ReplaceAction", "is_a_/ReplaceAction", "class/Thing/Action/UpdateAction/ReplaceAction"]
+version: "2.0"
+tagNames:
+  - class/ReplaceAction
+  - class/Thing/Action/UpdateAction/ReplaceAction
+  - is_a_/ReplaceAction
+  - schema-org/ReplaceAction
+tags:
+  - class/FileClass
+  - class/ReplaceAction
+  - is_a_/ReplaceAction
+  - class/Thing/Action/UpdateAction/ReplaceAction
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction
+fields:
+  - id: lTSXnn
+    name: Replacee
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: tvN42i
+    name: Replacer
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
 ---
 
 # ReplaceAction

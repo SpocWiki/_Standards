@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: siren
-version: 5
-tagNames: [class/CivicStructureAndEmergencyService, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService, is_a_/CivicStructureAndEmergencyService, schema-org/CivicStructureAndEmergencyService]
-tags: ["class/FileClass", "class/CivicStructureAndEmergencyService", "is_a_/CivicStructureAndEmergencyService", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService"]
+version: "2.0"
+tagNames:
+  - class/CivicStructureAndEmergencyService
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService
+  - is_a_/CivicStructureAndEmergencyService
+  - schema-org/CivicStructureAndEmergencyService
+tags:
+  - class/FileClass
+  - class/CivicStructureAndEmergencyService
+  - is_a_/CivicStructureAndEmergencyService
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyService
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService
+fields:
+  - id: wCxQsM
+    name: OpeningHours
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # CivicStructureAndEmergencyService

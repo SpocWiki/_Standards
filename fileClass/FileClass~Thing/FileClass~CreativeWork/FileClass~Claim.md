@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Claim, class/Thing/CreativeWork/Claim, is_a_/Claim, schema-org/Claim]
-tags: ["class/FileClass", "class/Claim", "is_a_/Claim", "class/Thing/CreativeWork/Claim"]
+version: "2.0"
+tagNames:
+  - class/Claim
+  - class/Thing/CreativeWork/Claim
+  - is_a_/Claim
+  - schema-org/Claim
+tags:
+  - class/FileClass
+  - class/Claim
+  - is_a_/Claim
+  - class/Thing/CreativeWork/Claim
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: LhH8YE
+    name: Appearance
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: bDOgAd
+    name: ClaimInterpreter
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: Zg3Weq
+    name: FirstAppearance
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
 ---
 
 # Claim

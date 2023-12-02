@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AnalysisNewsArticle, class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle, is_an_/AnalysisNewsArticle, schema-org/AnalysisNewsArticle]
-tags: ["class/FileClass", "class/AnalysisNewsArticle", "#is_an_/AnalysisNewsArticle", "class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle"]
+version: "2.0"
+tagNames:
+  - class/AnalysisNewsArticle
+  - class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle
+  - is_an_/AnalysisNewsArticle
+  - schema-org/AnalysisNewsArticle
+tags:
+  - class/FileClass
+  - class/AnalysisNewsArticle
+  - "#is_an_/AnalysisNewsArticle"
+  - class/Thing/CreativeWork/Article/NewsArticle/AnalysisNewsArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
+fields: []
 ---
 
 # AnalysisNewsArticle

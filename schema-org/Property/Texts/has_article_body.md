@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_on_article_body
-linkTitle: has_text_on_article_body
+title: has_text_of_article_body
+linkTitle: has_text_of_article_body
 
 keywords: [article, body]
 layout: 
@@ -28,20 +28,20 @@ aliases:
 - article-body
 - article_body
 - articleBody
-- has_text_on_article_body
+- has_text_of_article_body
 ---
 
 Predicate to describe the Text of Article.
 
 Use it like this: 
-- [ #has_/text_/on_/article_body :: Text ] or 
-- [ has_text_on_article_body :: Text ] 
+- [ #has_/text_/of_/article_body :: Text ] or 
+- [ has_text_of_article_body :: Text ] 
 
 The actual body of the article.
 
 Predicated describes that: 
 [ #has_/domain  :: Article ]
-( #has_/name :: has_text_on_article_body )
+( #has_/name :: has_text_of_article_body )
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 

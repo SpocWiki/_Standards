@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: dumbbell
-version: 5
-tagNames: [class/ExerciseGym, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/ExerciseGym, is_an_/ExerciseGym, schema-org/ExerciseGym]
-tags: ["class/FileClass", "class/ExerciseGym", "#is_an_/ExerciseGym", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/ExerciseGym"]
+version: "2.0"
+tagNames:
+  - class/ExerciseGym
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/ExerciseGym
+  - is_an_/ExerciseGym
+  - schema-org/ExerciseGym
+tags:
+  - class/FileClass
+  - class/ExerciseGym
+  - "#is_an_/ExerciseGym"
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/ExerciseGym
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation
+fields: []
 ---
 
 # ExerciseGym

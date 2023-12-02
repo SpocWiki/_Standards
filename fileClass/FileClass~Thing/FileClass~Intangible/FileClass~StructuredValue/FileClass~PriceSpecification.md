@@ -1,12 +1,72 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification, is_a_/PriceSpecification, schema-org/PriceSpecification]
-tags: ["class/FileClass", "class/PriceSpecification", "is_a_/PriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification"]
+version: "2.0"
+tagNames:
+  - class/PriceSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification
+  - is_a_/PriceSpecification
+  - schema-org/PriceSpecification
+tags:
+  - class/FileClass
+  - class/PriceSpecification
+  - is_a_/PriceSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: giaPLF
+    name: EligibleQuantity
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: qXTJMX
+    name: EligibleTransactionVolume
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
+    type: MultiFile
+    path: ""
+  - id: VrxOAX
+    name: MaxPrice
+    options: {}
+    type: Number
+    path: ""
+  - id: 1mqNXt
+    name: MinPrice
+    options: {}
+    type: Number
+    path: ""
+  - id: Foe6HG
+    name: Price
+    options: {}
+    type: Number
+    path: ""
+  - id: SJvH7q
+    name: PriceCurrency
+    options: {}
+    type: Input
+    path: ""
+  - id: JHKRXC
+    name: ValidFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: U5g0wx
+    name: ValidThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: wSMASi
+    name: ValueAddedTaxIncluded
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # PriceSpecification

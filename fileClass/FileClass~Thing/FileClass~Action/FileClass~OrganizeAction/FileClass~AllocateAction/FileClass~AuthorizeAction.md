@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AuthorizeAction, class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction, is_an_/AuthorizeAction, schema-org/AuthorizeAction]
-tags: ["class/FileClass", "class/AuthorizeAction", "#is_an_/AuthorizeAction", "class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction"]
+version: "2.0"
+tagNames:
+  - class/AuthorizeAction
+  - class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction
+  - is_an_/AuthorizeAction
+  - schema-org/AuthorizeAction
+tags:
+  - class/FileClass
+  - class/AuthorizeAction
+  - "#is_an_/AuthorizeAction"
+  - class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
+fields:
+  - id: RLtErI
+    name: Recipient
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ""
 ---
 
 # AuthorizeAction

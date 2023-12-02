@@ -1,12 +1,44 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Dataset, class/Thing/CreativeWork/Dataset, is_a_/Dataset, schema-org/Dataset]
-tags: ["class/FileClass", "class/Dataset", "is_a_/Dataset", "class/Thing/CreativeWork/Dataset"]
+version: "2.0"
+tagNames:
+  - class/Dataset
+  - class/Thing/CreativeWork/Dataset
+  - is_a_/Dataset
+  - schema-org/Dataset
+tags:
+  - class/FileClass
+  - class/Dataset
+  - is_a_/Dataset
+  - class/Thing/CreativeWork/Dataset
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: o1PQVL
+    name: Distribution
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/DataDownload')
+    type: MultiFile
+    path: ""
+  - id: 3qTkjh
+    name: IncludedInDataCatalog
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/DataCatalog')
+    type: MultiFile
+    path: ""
+  - id: 5BpPRD
+    name: Issn
+    options: {}
+    type: Input
+    path: ""
+  - id: pGRd0d
+    name: VariableMeasured
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ""
 ---
 
 # Dataset

@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/UpdateAction, class/Thing/Action/UpdateAction, is_an_/UpdateAction, schema-org/UpdateAction]
-tags: ["class/FileClass", "class/UpdateAction", "#is_an_/UpdateAction", "class/Thing/Action/UpdateAction"]
+version: "2.0"
+tagNames:
+  - class/UpdateAction
+  - class/Thing/Action/UpdateAction
+  - is_an_/UpdateAction
+  - schema-org/UpdateAction
+tags:
+  - class/FileClass
+  - class/UpdateAction
+  - "#is_an_/UpdateAction"
+  - class/Thing/Action/UpdateAction
 extends: FileClass~Thing/FileClass~Action
+fields:
+  - id: 3G95BZ
+    name: TargetCollection
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
 ---
 
 # UpdateAction

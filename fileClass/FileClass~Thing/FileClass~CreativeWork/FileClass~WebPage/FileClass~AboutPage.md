@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AboutPage, class/Thing/CreativeWork/WebPage/AboutPage, is_an_/AboutPage, schema-org/AboutPage]
-tags: ["class/FileClass", "class/AboutPage", "#is_an_/AboutPage", "class/Thing/CreativeWork/WebPage/AboutPage"]
+version: "2.0"
+tagNames:
+  - class/AboutPage
+  - class/Thing/CreativeWork/WebPage/AboutPage
+  - is_an_/AboutPage
+  - schema-org/AboutPage
+tags:
+  - class/FileClass
+  - class/AboutPage
+  - "#is_an_/AboutPage"
+  - class/Thing/CreativeWork/WebPage/AboutPage
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
+fields: []
 ---
 
 # AboutPage

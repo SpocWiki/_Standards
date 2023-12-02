@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SportsOrganization, class/Thing/Organization/SportsOrganization, is_a_/SportsOrganization, schema-org/SportsOrganization]
-tags: ["class/FileClass", "class/SportsOrganization", "is_a_/SportsOrganization", "class/Thing/Organization/SportsOrganization"]
+version: "2.0"
+tagNames:
+  - class/SportsOrganization
+  - class/Thing/Organization/SportsOrganization
+  - is_a_/SportsOrganization
+  - schema-org/SportsOrganization
+tags:
+  - class/FileClass
+  - class/SportsOrganization
+  - is_a_/SportsOrganization
+  - class/Thing/Organization/SportsOrganization
 extends: FileClass~Thing/FileClass~Organization
+fields:
+  - id: p4taK1
+    name: Sport
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # SportsOrganization

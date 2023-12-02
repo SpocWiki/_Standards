@@ -1,12 +1,48 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RepaymentSpecification, class/Thing/Intangible/StructuredValue/RepaymentSpecification, is_a_/RepaymentSpecification, schema-org/RepaymentSpecification]
-tags: ["class/FileClass", "class/RepaymentSpecification", "is_a_/RepaymentSpecification", "class/Thing/Intangible/StructuredValue/RepaymentSpecification"]
+version: "2.0"
+tagNames:
+  - class/RepaymentSpecification
+  - class/Thing/Intangible/StructuredValue/RepaymentSpecification
+  - is_a_/RepaymentSpecification
+  - schema-org/RepaymentSpecification
+tags:
+  - class/FileClass
+  - class/RepaymentSpecification
+  - is_a_/RepaymentSpecification
+  - class/Thing/Intangible/StructuredValue/RepaymentSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: 2Twdgu
+    name: DownPayment
+    options: {}
+    type: Number
+    path: ""
+  - id: navEHq
+    name: EarlyPrepaymentPenalty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
+  - id: 03D0sb
+    name: LoanPaymentAmount
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
+  - id: qOBwQz
+    name: LoanPaymentFrequency
+    options: {}
+    type: Number
+    path: ""
+  - id: Whq71s
+    name: NumberOfLoanPayments
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # RepaymentSpecification

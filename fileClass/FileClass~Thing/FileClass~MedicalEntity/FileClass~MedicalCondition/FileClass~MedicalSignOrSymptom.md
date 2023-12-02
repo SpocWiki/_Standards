@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalSignOrSymptom, class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom, is_a_/MedicalSignOrSymptom, schema-org/MedicalSignOrSymptom]
-tags: ["class/FileClass", "class/MedicalSignOrSymptom", "is_a_/MedicalSignOrSymptom", "class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom"]
+version: "2.0"
+tagNames:
+  - class/MedicalSignOrSymptom
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom
+  - is_a_/MedicalSignOrSymptom
+  - schema-org/MedicalSignOrSymptom
+tags:
+  - class/FileClass
+  - class/MedicalSignOrSymptom
+  - is_a_/MedicalSignOrSymptom
+  - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition
+fields: []
 ---
 
 # MedicalSignOrSymptom

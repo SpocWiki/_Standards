@@ -1,12 +1,43 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Question, class/Thing/CreativeWork/Comment/Question, is_a_/Question, schema-org/Question]
-tags: ["class/FileClass", "class/Question", "is_a_/Question", "class/Thing/CreativeWork/Comment/Question"]
+version: "2.0"
+tagNames:
+  - class/Question
+  - class/Thing/CreativeWork/Comment/Question
+  - is_a_/Question
+  - schema-org/Question
+tags:
+  - class/FileClass
+  - class/Question
+  - is_a_/Question
+  - class/Thing/CreativeWork/Comment/Question
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Comment
+fields:
+  - id: XuY1sx
+    name: AcceptedAnswer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment/Answer')
+    type: MultiFile
+    path: ""
+  - id: A6ndGe
+    name: AnswerCount
+    options: {}
+    type: Number
+    path: ""
+  - id: jnqf6I
+    name: EduQuestionType
+    options: {}
+    type: Input
+    path: ""
+  - id: JKhgDx
+    name: SuggestedAnswer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment/Answer')
+    type: MultiFile
+    path: ""
 ---
 
 # Question

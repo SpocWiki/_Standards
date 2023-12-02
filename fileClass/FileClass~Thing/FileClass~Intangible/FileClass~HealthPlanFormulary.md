@@ -1,12 +1,36 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/HealthPlanFormulary, class/Thing/Intangible/HealthPlanFormulary, is_a_/HealthPlanFormulary, schema-org/HealthPlanFormulary]
-tags: ["class/FileClass", "class/HealthPlanFormulary", "is_a_/HealthPlanFormulary", "class/Thing/Intangible/HealthPlanFormulary"]
+version: "2.0"
+tagNames:
+  - class/HealthPlanFormulary
+  - class/Thing/Intangible/HealthPlanFormulary
+  - is_a_/HealthPlanFormulary
+  - schema-org/HealthPlanFormulary
+tags:
+  - class/FileClass
+  - class/HealthPlanFormulary
+  - is_a_/HealthPlanFormulary
+  - class/Thing/Intangible/HealthPlanFormulary
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: lbOq5n
+    name: HealthPlanCostSharing
+    options: {}
+    type: Boolean
+    path: ""
+  - id: meoYwY
+    name: HealthPlanDrugTier
+    options: {}
+    type: Input
+    path: ""
+  - id: 4XwdrE
+    name: OffersPrescriptionByMail
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # HealthPlanFormulary

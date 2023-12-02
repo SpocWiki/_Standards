@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: brush
-version: 5
-tagNames: [class/Painting, class/Thing/CreativeWork/Painting, is_a_/Painting, schema-org/Painting]
-tags: ["class/FileClass", "class/Painting", "is_a_/Painting", "class/Thing/CreativeWork/Painting"]
+version: "2.0"
+tagNames:
+  - class/Painting
+  - class/Thing/CreativeWork/Painting
+  - is_a_/Painting
+  - schema-org/Painting
+tags:
+  - class/FileClass
+  - class/Painting
+  - is_a_/Painting
+  - class/Thing/CreativeWork/Painting
 extends: FileClass~Thing/FileClass~CreativeWork
+fields: []
 ---
 
 # Painting

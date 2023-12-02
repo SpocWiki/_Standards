@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/HotelRoom, class/Thing/Place/Accommodation/Room/HotelRoom, is_a_/HotelRoom, schema-org/HotelRoom]
-tags: ["class/FileClass", "class/HotelRoom", "is_a_/HotelRoom", "class/Thing/Place/Accommodation/Room/HotelRoom"]
+version: "2.0"
+tagNames:
+  - class/HotelRoom
+  - class/Thing/Place/Accommodation/Room/HotelRoom
+  - is_a_/HotelRoom
+  - schema-org/HotelRoom
+tags:
+  - class/FileClass
+  - class/HotelRoom
+  - is_a_/HotelRoom
+  - class/Thing/Place/Accommodation/Room/HotelRoom
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room
+fields: []
 ---
 
 # HotelRoom

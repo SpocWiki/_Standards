@@ -1,12 +1,47 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TypeAndQuantityNode, class/Thing/Intangible/StructuredValue/TypeAndQuantityNode, is_a_/TypeAndQuantityNode, schema-org/TypeAndQuantityNode]
-tags: ["class/FileClass", "class/TypeAndQuantityNode", "is_a_/TypeAndQuantityNode", "class/Thing/Intangible/StructuredValue/TypeAndQuantityNode"]
+version: "2.0"
+tagNames:
+  - class/TypeAndQuantityNode
+  - class/Thing/Intangible/StructuredValue/TypeAndQuantityNode
+  - is_a_/TypeAndQuantityNode
+  - schema-org/TypeAndQuantityNode
+tags:
+  - class/FileClass
+  - class/TypeAndQuantityNode
+  - is_a_/TypeAndQuantityNode
+  - class/Thing/Intangible/StructuredValue/TypeAndQuantityNode
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: FRQEzU
+    name: AmountOfThisGood
+    options: {}
+    type: Number
+    path: ""
+  - id: C7n1Q0
+    name: BusinessFunction
+    options: {}
+    type: Input
+    path: ""
+  - id: YNqvzh
+    name: TypeOfGood
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product')
+    type: MultiFile
+    path: ""
+  - id: 3MOYi6
+    name: UnitCode
+    options: {}
+    type: Input
+    path: ""
+  - id: Sb2uY7
+    name: UnitText
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # TypeAndQuantityNode

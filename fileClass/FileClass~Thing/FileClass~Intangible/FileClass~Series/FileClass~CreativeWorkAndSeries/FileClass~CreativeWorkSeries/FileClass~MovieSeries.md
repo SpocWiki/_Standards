@@ -1,12 +1,51 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MovieSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/MovieSeries, is_a_/MovieSeries, schema-org/MovieSeries]
-tags: ["class/FileClass", "class/MovieSeries", "is_a_/MovieSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/MovieSeries"]
+version: "2.0"
+tagNames:
+  - class/MovieSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/MovieSeries
+  - is_a_/MovieSeries
+  - schema-org/MovieSeries
+tags:
+  - class/FileClass
+  - class/MovieSeries
+  - is_a_/MovieSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/MovieSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
+fields:
+  - id: Z6s9Vs
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: yVmdBR
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: aVMhgk
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ""
+  - id: HhEB3M
+    name: ProductionCompany
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: rrdzYm
+    name: Trailer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
+    type: MultiFile
+    path: ""
 ---
 
 # MovieSeries

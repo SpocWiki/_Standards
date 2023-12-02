@@ -1,12 +1,280 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Offer, class/Thing/Intangible/Offer, is_an_/Offer, schema-org/Offer]
-tags: ["class/FileClass", "class/Offer", "#is_an_/Offer", "class/Thing/Intangible/Offer"]
+version: "2.0"
+tagNames:
+  - class/Offer
+  - class/Thing/Intangible/Offer
+  - is_an_/Offer
+  - schema-org/Offer
+tags:
+  - class/FileClass
+  - class/Offer
+  - "#is_an_/Offer"
+  - class/Thing/Intangible/Offer
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: gSMYR8
+    name: AcceptedPaymentMethod
+    options: {}
+    type: Input
+    path: ""
+  - id: EDF2Xk
+    name: AddOn
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
+    type: MultiFile
+    path: ""
+  - id: QDFZPz
+    name: AdvanceBookingRequirement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: HsbOFi
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ""
+  - id: b60w2o
+    name: AreaServed
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: agNATk
+    name: Asin
+    options: {}
+    type: Input
+    path: ""
+  - id: 4mCVmv
+    name: AvailabilityEnds
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: QhjPua
+    name: AvailabilityStarts
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: 2hpXjt
+    name: AvailableAtOrFrom
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: 1XGByj
+    name: BusinessFunction
+    options: {}
+    type: Input
+    path: ""
+  - id: A78gwz
+    name: CheckoutPageURLTemplate
+    options: {}
+    type: Input
+    path: ""
+  - id: e00P7B
+    name: DeliveryLeadTime
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: g6mo6F
+    name: EligibleCustomerType
+    options: {}
+    type: Input
+    path: ""
+  - id: LOF6by
+    name: EligibleDuration
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: RssACq
+    name: EligibleQuantity
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: ArikJY
+    name: EligibleRegion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
+    type: MultiFile
+    path: ""
+  - id: fyqyGH
+    name: EligibleTransactionVolume
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
+    type: MultiFile
+    path: ""
+  - id: gF5Bjn
+    name: Gtin
+    options: {}
+    type: Input
+    path: ""
+  - id: AKU9ZF
+    name: Gtin12
+    options: {}
+    type: Input
+    path: ""
+  - id: 3eMc1W
+    name: Gtin13
+    options: {}
+    type: Input
+    path: ""
+  - id: cQfggU
+    name: Gtin14
+    options: {}
+    type: Input
+    path: ""
+  - id: rZkDUh
+    name: Gtin8
+    options: {}
+    type: Input
+    path: ""
+  - id: 3yOPmI
+    name: HasMeasurement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: ASb7os
+    name: HasMerchantReturnPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')
+    type: MultiFile
+    path: ""
+  - id: bEcQTA
+    name: IncludesObject
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')
+    type: MultiFile
+    path: ""
+  - id: c2Bqsk
+    name: IneligibleRegion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
+    type: MultiFile
+    path: ""
+  - id: ZBNvcp
+    name: InventoryLevel
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: oKKaNs
+    name: IsFamilyFriendly
+    options: {}
+    type: Boolean
+    path: ""
+  - id: b4sy7I
+    name: ItemOffered
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Offer/AggregateOffer')
+    type: MultiFile
+    path: ""
+  - id: 7YBtJ9
+    name: LeaseLength
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: cbPJ9h
+    name: MobileUrl
+    options: {}
+    type: Input
+    path: ""
+  - id: jwJRMF
+    name: Mpn
+    options: {}
+    type: Input
+    path: ""
+  - id: KwDxfE
+    name: OfferedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: Bwbzp4
+    name: Price
+    options: {}
+    type: Number
+    path: ""
+  - id: uwIwM3
+    name: PriceCurrency
+    options: {}
+    type: Input
+    path: ""
+  - id: 5Fthpa
+    name: PriceSpecification
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
+    type: MultiFile
+    path: ""
+  - id: DIU0Zy
+    name: PriceValidUntil
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: YXvxb6
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: 6psy3U
+    name: Seller
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: rMQVED
+    name: SerialNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: IQ21Sf
+    name: ShippingDetails
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OfferShippingDetails')
+    type: MultiFile
+    path: ""
+  - id: d2oso5
+    name: Sku
+    options: {}
+    type: Input
+    path: ""
+  - id: lqL4Qw
+    name: ValidFrom
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: BAfWP8
+    name: ValidThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: FZWwpC
+    name: Warranty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/WarrantyPromise')
+    type: MultiFile
+    path: ""
 ---
 
 # Offer
@@ -212,7 +480,7 @@ LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
 ### MobileUrl
 The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated 'mobile site'.  
- To discourage over-use, and reflecting intial usecases, the property is expected only on [[Product]] and [[Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[url]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[url]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
+ To discourage over-use, and reflecting intial usecases, the property is expected only on [[Product]] and [[Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[../../../schema-org/Class/is_a_/data_type/text/URLs]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[../../../schema-org/Class/is_a_/data_type/text/URLs]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
 
 MobileUrl:: {"type":"Input","options":{}}
 

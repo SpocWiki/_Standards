@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DanceEvent, class/Thing/Event/DanceEvent, is_a_/DanceEvent, schema-org/DanceEvent]
-tags: ["class/FileClass", "class/DanceEvent", "is_a_/DanceEvent", "class/Thing/Event/DanceEvent"]
+version: "2.0"
+tagNames:
+  - class/DanceEvent
+  - class/Thing/Event/DanceEvent
+  - is_a_/DanceEvent
+  - schema-org/DanceEvent
+tags:
+  - class/FileClass
+  - class/DanceEvent
+  - is_a_/DanceEvent
+  - class/Thing/Event/DanceEvent
 extends: FileClass~Thing/FileClass~Event
+fields: []
 ---
 
 # DanceEvent

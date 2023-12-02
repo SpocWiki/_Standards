@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Answer, class/Thing/CreativeWork/Comment/Answer, is_an_/Answer, schema-org/Answer]
-tags: ["class/FileClass", "class/Answer", "#is_an_/Answer", "class/Thing/CreativeWork/Comment/Answer"]
+version: "2.0"
+tagNames:
+  - class/Answer
+  - class/Thing/CreativeWork/Comment/Answer
+  - is_an_/Answer
+  - schema-org/Answer
+tags:
+  - class/FileClass
+  - class/Answer
+  - "#is_an_/Answer"
+  - class/Thing/CreativeWork/Comment/Answer
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Comment
+fields:
+  - id: DtgtV1
+    name: AnswerExplanation
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
+    type: MultiFile
+    path: ""
 ---
 
 # Answer

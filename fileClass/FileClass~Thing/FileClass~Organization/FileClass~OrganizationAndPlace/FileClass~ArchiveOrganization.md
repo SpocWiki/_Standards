@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ArchiveOrganization, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization, is_an_/ArchiveOrganization, schema-org/ArchiveOrganization]
-tags: ["class/FileClass", "class/ArchiveOrganization", "#is_an_/ArchiveOrganization", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization"]
+version: "2.0"
+tagNames:
+  - class/ArchiveOrganization
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization
+  - is_an_/ArchiveOrganization
+  - schema-org/ArchiveOrganization
+tags:
+  - class/FileClass
+  - class/ArchiveOrganization
+  - "#is_an_/ArchiveOrganization"
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields:
+  - id: gbvebc
+    name: ArchiveHeld
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/ArchiveComponent')
+    type: MultiFile
+    path: ""
 ---
 
 # ArchiveOrganization

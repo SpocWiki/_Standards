@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SomeProducts, class/Thing/Product/SomeProducts, is_a_/SomeProducts, schema-org/SomeProducts]
-tags: ["class/FileClass", "class/SomeProducts", "is_a_/SomeProducts", "class/Thing/Product/SomeProducts"]
+version: "2.0"
+tagNames:
+  - class/SomeProducts
+  - class/Thing/Product/SomeProducts
+  - is_a_/SomeProducts
+  - schema-org/SomeProducts
+tags:
+  - class/FileClass
+  - class/SomeProducts
+  - is_a_/SomeProducts
+  - class/Thing/Product/SomeProducts
 extends: FileClass~Thing/FileClass~Product
+fields:
+  - id: ylJP6f
+    name: InventoryLevel
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # SomeProducts

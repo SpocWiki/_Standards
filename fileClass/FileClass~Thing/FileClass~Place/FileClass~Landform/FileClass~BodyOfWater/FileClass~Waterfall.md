@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: waves
-version: 5
-tagNames: [class/Waterfall, class/Thing/Place/Landform/BodyOfWater/Waterfall, is_a_/Waterfall, schema-org/Waterfall]
-tags: ["class/FileClass", "class/Waterfall", "is_a_/Waterfall", "class/Thing/Place/Landform/BodyOfWater/Waterfall"]
+version: "2.0"
+tagNames:
+  - class/Waterfall
+  - class/Thing/Place/Landform/BodyOfWater/Waterfall
+  - is_a_/Waterfall
+  - schema-org/Waterfall
+tags:
+  - class/FileClass
+  - class/Waterfall
+  - is_a_/Waterfall
+  - class/Thing/Place/Landform/BodyOfWater/Waterfall
 extends: FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater
+fields: []
 ---
 
 # Waterfall

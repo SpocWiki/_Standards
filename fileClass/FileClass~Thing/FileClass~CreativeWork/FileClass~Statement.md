@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Statement, class/Thing/CreativeWork/Statement, is_a_/Statement, schema-org/Statement]
-tags: ["class/FileClass", "class/Statement", "is_a_/Statement", "class/Thing/CreativeWork/Statement"]
+version: "2.0"
+tagNames:
+  - class/Statement
+  - class/Thing/CreativeWork/Statement
+  - is_a_/Statement
+  - schema-org/Statement
+tags:
+  - class/FileClass
+  - class/Statement
+  - is_a_/Statement
+  - class/Thing/CreativeWork/Statement
 extends: FileClass~Thing/FileClass~CreativeWork
+fields: []
 ---
 
 # Statement

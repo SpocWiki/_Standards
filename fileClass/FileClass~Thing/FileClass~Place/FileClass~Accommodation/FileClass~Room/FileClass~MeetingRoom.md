@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MeetingRoom, class/Thing/Place/Accommodation/Room/MeetingRoom, is_a_/MeetingRoom, schema-org/MeetingRoom]
-tags: ["class/FileClass", "class/MeetingRoom", "is_a_/MeetingRoom", "class/Thing/Place/Accommodation/Room/MeetingRoom"]
+version: "2.0"
+tagNames:
+  - class/MeetingRoom
+  - class/Thing/Place/Accommodation/Room/MeetingRoom
+  - is_a_/MeetingRoom
+  - schema-org/MeetingRoom
+tags:
+  - class/FileClass
+  - class/MeetingRoom
+  - is_a_/MeetingRoom
+  - class/Thing/Place/Accommodation/Room/MeetingRoom
 extends: FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Room
+fields: []
 ---
 
 # MeetingRoom

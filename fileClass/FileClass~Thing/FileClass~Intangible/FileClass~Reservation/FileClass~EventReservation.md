@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/EventReservation, class/Thing/Intangible/Reservation/EventReservation, is_an_/EventReservation, schema-org/EventReservation]
-tags: ["class/FileClass", "class/EventReservation", "#is_an_/EventReservation", "class/Thing/Intangible/Reservation/EventReservation"]
+version: "2.0"
+tagNames:
+  - class/EventReservation
+  - class/Thing/Intangible/Reservation/EventReservation
+  - is_an_/EventReservation
+  - schema-org/EventReservation
+tags:
+  - class/FileClass
+  - class/EventReservation
+  - "#is_an_/EventReservation"
+  - class/Thing/Intangible/Reservation/EventReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
+fields: []
 ---
 
 # EventReservation

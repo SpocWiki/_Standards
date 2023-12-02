@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Intangible, class/Thing/Intangible, is_an_/Intangible, schema-org/Intangible]
-tags: ["class/FileClass", "class/Intangible", "#is_an_/Intangible", "class/Thing/Intangible"]
+version: "2.0"
+tagNames:
+  - class/Intangible
+  - class/Thing/Intangible
+  - is_an_/Intangible
+  - schema-org/Intangible
+tags:
+  - class/FileClass
+  - class/Intangible
+  - "#is_an_/Intangible"
+  - class/Thing/Intangible
 extends: FileClass~Thing
+fields: []
 ---
 
 # Intangible

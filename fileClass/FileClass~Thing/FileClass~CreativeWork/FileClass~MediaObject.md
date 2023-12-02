@@ -1,12 +1,124 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MediaObject, class/Thing/CreativeWork/MediaObject, is_a_/MediaObject, schema-org/MediaObject]
-tags: ["class/FileClass", "class/MediaObject", "is_a_/MediaObject", "class/Thing/CreativeWork/MediaObject"]
+version: "2.0"
+tagNames:
+  - class/MediaObject
+  - class/Thing/CreativeWork/MediaObject
+  - is_a_/MediaObject
+  - schema-org/MediaObject
+tags:
+  - class/FileClass
+  - class/MediaObject
+  - is_a_/MediaObject
+  - class/Thing/CreativeWork/MediaObject
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: SxM7Mr
+    name: AssociatedArticle
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Article/NewsArticle')
+    type: MultiFile
+    path: ""
+  - id: 4at7dW
+    name: Bitrate
+    options: {}
+    type: Input
+    path: ""
+  - id: Ghd3m9
+    name: ContentSize
+    options: {}
+    type: Input
+    path: ""
+  - id: pwWmLJ
+    name: ContentUrl
+    options: {}
+    type: Input
+    path: ""
+  - id: BVGCfp
+    name: Duration
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: GykRBB
+    name: EmbedUrl
+    options: {}
+    type: Input
+    path: ""
+  - id: ezSNPP
+    name: EncodesCreativeWork
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: 5TAFlb
+    name: EndTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: jWmRs9
+    name: Height
+    options: {}
+    type: Number
+    path: ""
+  - id: lrKhyI
+    name: IneligibleRegion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
+    type: MultiFile
+    path: ""
+  - id: iQGGe4
+    name: PlayerType
+    options: {}
+    type: Input
+    path: ""
+  - id: MvPeb1
+    name: ProductionCompany
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: MyiWfG
+    name: RegionsAllowed
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: kgSzlP
+    name: RequiresSubscription
+    options: {}
+    type: Boolean
+    path: ""
+  - id: SDH35y
+    name: Sha256
+    options: {}
+    type: Input
+    path: ""
+  - id: VqF8J5
+    name: StartTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: hafCBz
+    name: UploadDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: ZnFxke
+    name: Width
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # MediaObject

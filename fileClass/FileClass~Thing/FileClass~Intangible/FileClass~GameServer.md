@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/GameServer, class/Thing/Intangible/GameServer, is_a_/GameServer, schema-org/GameServer]
-tags: ["class/FileClass", "class/GameServer", "is_a_/GameServer", "class/Thing/Intangible/GameServer"]
+version: "2.0"
+tagNames:
+  - class/GameServer
+  - class/Thing/Intangible/GameServer
+  - is_a_/GameServer
+  - schema-org/GameServer
+tags:
+  - class/FileClass
+  - class/GameServer
+  - is_a_/GameServer
+  - class/Thing/Intangible/GameServer
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: RMT0MP
+    name: Game
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame')
+    type: MultiFile
+    path: ""
+  - id: 3Pl7Wz
+    name: PlayersOnline
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # GameServer

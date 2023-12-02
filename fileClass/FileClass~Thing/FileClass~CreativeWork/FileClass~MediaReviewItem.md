@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MediaReviewItem, class/Thing/CreativeWork/MediaReviewItem, is_a_/MediaReviewItem, schema-org/MediaReviewItem]
-tags: ["class/FileClass", "class/MediaReviewItem", "is_a_/MediaReviewItem", "class/Thing/CreativeWork/MediaReviewItem"]
+version: "2.0"
+tagNames:
+  - class/MediaReviewItem
+  - class/Thing/CreativeWork/MediaReviewItem
+  - is_a_/MediaReviewItem
+  - schema-org/MediaReviewItem
+tags:
+  - class/FileClass
+  - class/MediaReviewItem
+  - is_a_/MediaReviewItem
+  - class/Thing/CreativeWork/MediaReviewItem
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: pdfytx
+    name: MediaItemAppearance
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ""
 ---
 
 # MediaReviewItem

@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MonetaryAmountDistribution, class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution, is_a_/MonetaryAmountDistribution, schema-org/MonetaryAmountDistribution]
-tags: ["class/FileClass", "class/MonetaryAmountDistribution", "is_a_/MonetaryAmountDistribution", "class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution"]
+version: "2.0"
+tagNames:
+  - class/MonetaryAmountDistribution
+  - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution
+  - is_a_/MonetaryAmountDistribution
+  - schema-org/MonetaryAmountDistribution
+tags:
+  - class/FileClass
+  - class/MonetaryAmountDistribution
+  - is_a_/MonetaryAmountDistribution
+  - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution
+fields:
+  - id: Xg5MsO
+    name: Currency
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # MonetaryAmountDistribution

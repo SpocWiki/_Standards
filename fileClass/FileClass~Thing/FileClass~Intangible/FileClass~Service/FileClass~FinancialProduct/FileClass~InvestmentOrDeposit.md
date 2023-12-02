@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/InvestmentOrDeposit, class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit, is_an_/InvestmentOrDeposit, schema-org/InvestmentOrDeposit]
-tags: ["class/FileClass", "class/InvestmentOrDeposit", "#is_an_/InvestmentOrDeposit", "class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit"]
+version: "2.0"
+tagNames:
+  - class/InvestmentOrDeposit
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit
+  - is_an_/InvestmentOrDeposit
+  - schema-org/InvestmentOrDeposit
+tags:
+  - class/FileClass
+  - class/InvestmentOrDeposit
+  - "#is_an_/InvestmentOrDeposit"
+  - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
+fields:
+  - id: dsS4YH
+    name: Amount
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # InvestmentOrDeposit

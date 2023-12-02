@@ -40,7 +40,7 @@ aliases:
 Class of all {{label_snail}}s.
 
 Tag Instances like this: 
-#is_a_/{{label_snail}}
+#is_a_ /{{label_snail}}
 
 [ #is_/part_of :: {{isPartOf}} ]
 

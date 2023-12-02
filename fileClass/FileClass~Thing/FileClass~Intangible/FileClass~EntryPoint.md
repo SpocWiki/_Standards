@@ -1,12 +1,47 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/EntryPoint, class/Thing/Intangible/EntryPoint, is_an_/EntryPoint, schema-org/EntryPoint]
-tags: ["class/FileClass", "class/EntryPoint", "#is_an_/EntryPoint", "class/Thing/Intangible/EntryPoint"]
+version: "2.0"
+tagNames:
+  - class/EntryPoint
+  - class/Thing/Intangible/EntryPoint
+  - is_an_/EntryPoint
+  - schema-org/EntryPoint
+tags:
+  - class/FileClass
+  - class/EntryPoint
+  - "#is_an_/EntryPoint"
+  - class/Thing/Intangible/EntryPoint
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: uHAPgY
+    name: ActionApplication
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
+    type: MultiFile
+    path: ""
+  - id: HvG5vE
+    name: ContentType
+    options: {}
+    type: Input
+    path: ""
+  - id: Z73z1i
+    name: EncodingType
+    options: {}
+    type: Input
+    path: ""
+  - id: IK713j
+    name: HttpMethod
+    options: {}
+    type: Input
+    path: ""
+  - id: GUe9VN
+    name: UrlTemplate
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # EntryPoint

@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/WebPageElement, class/Thing/CreativeWork/WebPageElement, is_a_/WebPageElement, schema-org/WebPageElement]
-tags: ["class/FileClass", "class/WebPageElement", "is_a_/WebPageElement", "class/Thing/CreativeWork/WebPageElement"]
+version: "2.0"
+tagNames:
+  - class/WebPageElement
+  - class/Thing/CreativeWork/WebPageElement
+  - is_a_/WebPageElement
+  - schema-org/WebPageElement
+tags:
+  - class/FileClass
+  - class/WebPageElement
+  - is_a_/WebPageElement
+  - class/Thing/CreativeWork/WebPageElement
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: R6zhyw
+    name: CssSelector
+    options: {}
+    type: Input
+    path: ""
+  - id: FKlrfD
+    name: Xpath
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # WebPageElement

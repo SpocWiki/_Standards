@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Menu, class/Thing/CreativeWork/Menu, is_a_/Menu, schema-org/Menu]
-tags: ["class/FileClass", "class/Menu", "is_a_/Menu", "class/Thing/CreativeWork/Menu"]
+version: "2.0"
+tagNames:
+  - class/Menu
+  - class/Thing/CreativeWork/Menu
+  - is_a_/Menu
+  - schema-org/Menu
+tags:
+  - class/FileClass
+  - class/Menu
+  - is_a_/Menu
+  - class/Thing/CreativeWork/Menu
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: M2RlpC
+    name: HasMenuItem
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/MenuItem')
+    type: MultiFile
+    path: ""
+  - id: U2oDV9
+    name: HasMenuSection
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MenuSection')
+    type: MultiFile
+    path: ""
 ---
 
 # Menu

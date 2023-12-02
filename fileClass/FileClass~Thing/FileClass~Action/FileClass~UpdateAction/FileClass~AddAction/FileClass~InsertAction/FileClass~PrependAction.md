@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PrependAction, class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction, is_a_/PrependAction, schema-org/PrependAction]
-tags: ["class/FileClass", "class/PrependAction", "is_a_/PrependAction", "class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction"]
+version: "2.0"
+tagNames:
+  - class/PrependAction
+  - class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction
+  - is_a_/PrependAction
+  - schema-org/PrependAction
+tags:
+  - class/FileClass
+  - class/PrependAction
+  - is_a_/PrependAction
+  - class/Thing/Action/UpdateAction/AddAction/InsertAction/PrependAction
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~AddAction/FileClass~InsertAction
+fields: []
 ---
 
 # PrependAction

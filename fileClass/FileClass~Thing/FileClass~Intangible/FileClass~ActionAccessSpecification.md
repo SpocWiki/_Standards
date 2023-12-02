@@ -1,12 +1,58 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ActionAccessSpecification, class/Thing/Intangible/ActionAccessSpecification, is_an_/ActionAccessSpecification, schema-org/ActionAccessSpecification]
-tags: ["class/FileClass", "class/ActionAccessSpecification", "#is_an_/ActionAccessSpecification", "class/Thing/Intangible/ActionAccessSpecification"]
+version: "2.0"
+tagNames:
+  - class/ActionAccessSpecification
+  - class/Thing/Intangible/ActionAccessSpecification
+  - is_an_/ActionAccessSpecification
+  - schema-org/ActionAccessSpecification
+tags:
+  - class/FileClass
+  - class/ActionAccessSpecification
+  - "#is_an_/ActionAccessSpecification"
+  - class/Thing/Intangible/ActionAccessSpecification
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: B7smEU
+    name: AvailabilityEnds
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: rnhFPC
+    name: AvailabilityStarts
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: mf1k32
+    name: EligibleRegion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
+    type: MultiFile
+    path: ""
+  - id: Bl9Rue
+    name: ExpectsAcceptanceOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
+    type: MultiFile
+    path: ""
+  - id: QTaqGO
+    name: IneligibleRegion
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
+    type: MultiFile
+    path: ""
+  - id: DyaF2r
+    name: RequiresSubscription
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # ActionAccessSpecification

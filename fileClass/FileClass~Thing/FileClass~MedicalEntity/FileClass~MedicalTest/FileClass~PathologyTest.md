@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PathologyTest, class/Thing/MedicalEntity/MedicalTest/PathologyTest, is_a_/PathologyTest, schema-org/PathologyTest]
-tags: ["class/FileClass", "class/PathologyTest", "is_a_/PathologyTest", "class/Thing/MedicalEntity/MedicalTest/PathologyTest"]
+version: "2.0"
+tagNames:
+  - class/PathologyTest
+  - class/Thing/MedicalEntity/MedicalTest/PathologyTest
+  - is_a_/PathologyTest
+  - schema-org/PathologyTest
+tags:
+  - class/FileClass
+  - class/PathologyTest
+  - is_a_/PathologyTest
+  - class/Thing/MedicalEntity/MedicalTest/PathologyTest
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
+fields:
+  - id: 4MyBq3
+    name: TissueSample
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # PathologyTest

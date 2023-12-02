@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/OrganizationRole, class/Thing/Intangible/Role/OrganizationRole, is_an_/OrganizationRole, schema-org/OrganizationRole]
-tags: ["class/FileClass", "class/OrganizationRole", "#is_an_/OrganizationRole", "class/Thing/Intangible/Role/OrganizationRole"]
+version: "2.0"
+tagNames:
+  - class/OrganizationRole
+  - class/Thing/Intangible/Role/OrganizationRole
+  - is_an_/OrganizationRole
+  - schema-org/OrganizationRole
+tags:
+  - class/FileClass
+  - class/OrganizationRole
+  - "#is_an_/OrganizationRole"
+  - class/Thing/Intangible/Role/OrganizationRole
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
+fields:
+  - id: mMVAbU
+    name: NumberedPosition
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # OrganizationRole

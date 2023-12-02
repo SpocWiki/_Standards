@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/EducationEvent, class/Thing/Event/EducationEvent, is_an_/EducationEvent, schema-org/EducationEvent]
-tags: ["class/FileClass", "class/EducationEvent", "#is_an_/EducationEvent", "class/Thing/Event/EducationEvent"]
+version: "2.0"
+tagNames:
+  - class/EducationEvent
+  - class/Thing/Event/EducationEvent
+  - is_an_/EducationEvent
+  - schema-org/EducationEvent
+tags:
+  - class/FileClass
+  - class/EducationEvent
+  - "#is_an_/EducationEvent"
+  - class/Thing/Event/EducationEvent
 extends: FileClass~Thing/FileClass~Event
+fields:
+  - id: ILH2wt
+    name: Assesses
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: q4h4qA
+    name: EducationalLevel
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: seHiNR
+    name: Teaches
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
 ---
 
 # EducationEvent

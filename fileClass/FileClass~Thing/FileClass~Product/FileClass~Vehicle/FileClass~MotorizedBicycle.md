@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: bike
-version: 5
-tagNames: [class/MotorizedBicycle, class/Thing/Product/Vehicle/MotorizedBicycle, is_a_/MotorizedBicycle, schema-org/MotorizedBicycle]
-tags: ["class/FileClass", "class/MotorizedBicycle", "is_a_/MotorizedBicycle", "class/Thing/Product/Vehicle/MotorizedBicycle"]
+version: "2.0"
+tagNames:
+  - class/MotorizedBicycle
+  - class/Thing/Product/Vehicle/MotorizedBicycle
+  - is_a_/MotorizedBicycle
+  - schema-org/MotorizedBicycle
+tags:
+  - class/FileClass
+  - class/MotorizedBicycle
+  - is_a_/MotorizedBicycle
+  - class/Thing/Product/Vehicle/MotorizedBicycle
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
+fields: []
 ---
 
 # MotorizedBicycle

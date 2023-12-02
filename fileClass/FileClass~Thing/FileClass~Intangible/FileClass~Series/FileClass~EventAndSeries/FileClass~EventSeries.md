@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/EventSeries, class/Thing/Intangible/Series/EventAndSeries/EventSeries, is_an_/EventSeries, schema-org/EventSeries]
-tags: ["class/FileClass", "class/EventSeries", "#is_an_/EventSeries", "class/Thing/Intangible/Series/EventAndSeries/EventSeries"]
+version: "2.0"
+tagNames:
+  - class/EventSeries
+  - class/Thing/Intangible/Series/EventAndSeries/EventSeries
+  - is_an_/EventSeries
+  - schema-org/EventSeries
+tags:
+  - class/FileClass
+  - class/EventSeries
+  - "#is_an_/EventSeries"
+  - class/Thing/Intangible/Series/EventAndSeries/EventSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~EventAndSeries
+fields: []
 ---
 
 # EventSeries

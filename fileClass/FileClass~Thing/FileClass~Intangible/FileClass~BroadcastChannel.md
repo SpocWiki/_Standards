@@ -1,12 +1,54 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BroadcastChannel, class/Thing/Intangible/BroadcastChannel, is_a_/BroadcastChannel, schema-org/BroadcastChannel]
-tags: ["class/FileClass", "class/BroadcastChannel", "is_a_/BroadcastChannel", "class/Thing/Intangible/BroadcastChannel"]
+version: "2.0"
+tagNames:
+  - class/BroadcastChannel
+  - class/Thing/Intangible/BroadcastChannel
+  - is_a_/BroadcastChannel
+  - schema-org/BroadcastChannel
+tags:
+  - class/FileClass
+  - class/BroadcastChannel
+  - is_a_/BroadcastChannel
+  - class/Thing/Intangible/BroadcastChannel
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: tjSrTp
+    name: BroadcastChannelId
+    options: {}
+    type: Input
+    path: ""
+  - id: aOxhGC
+    name: BroadcastFrequency
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/BroadcastFrequencySpecification')
+    type: MultiFile
+    path: ""
+  - id: fkLivC
+    name: BroadcastServiceTier
+    options: {}
+    type: Input
+    path: ""
+  - id: Dj08Yg
+    name: Genre
+    options: {}
+    type: Input
+    path: ""
+  - id: jp2ULu
+    name: InBroadcastLineup
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Service/CableOrSatelliteService')
+    type: MultiFile
+    path: ""
+  - id: ydQi6M
+    name: ProvidesBroadcastService
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Service/BroadcastService')
+    type: MultiFile
+    path: ""
 ---
 
 # BroadcastChannel

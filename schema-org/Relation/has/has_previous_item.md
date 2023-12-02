@@ -3,43 +3,45 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_previous_item
-
 linkTitle: has_previous_item
-keywords: [previous, item]
+keywords:
+  - previous
+  - item
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- previous-item
-- previous_item
-- previousItem
-- has_previous_item
+  - previous-item
+  - previous_item
+  - previousItem
+  - has_previous_item
+  - prev-item
 ---
+
+# [[has_previous_item]] 
+
+A link to the [[../../Collection/list_item|ListItem]] that precedes the current one.
 
 Use it like this: 
 - [ #has_/previous_item :: ListItem ] or 
 - [ has_previous_item :: ListItem ] 
 
-A link to the ListItem that precedes the current one.
-
-Relation describes that: 
+This Relation describes that: 
 [ #has_/domain  :: ListItem ]
 ( #has_/name :: is_previous_item )
 ( #has_/range :: ListItem )
+
+#is_inverse_of :: [[has_next_item|has_next_item]]  
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_previous_item.md|has_previous_item]] 

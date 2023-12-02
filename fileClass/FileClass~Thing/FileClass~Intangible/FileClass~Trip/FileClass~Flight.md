@@ -1,12 +1,94 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Flight, class/Thing/Intangible/Trip/Flight, is_a_/Flight, schema-org/Flight]
-tags: ["class/FileClass", "class/Flight", "is_a_/Flight", "class/Thing/Intangible/Trip/Flight"]
+version: "2.0"
+tagNames:
+  - class/Flight
+  - class/Thing/Intangible/Trip/Flight
+  - is_a_/Flight
+  - schema-org/Flight
+tags:
+  - class/FileClass
+  - class/Flight
+  - is_a_/Flight
+  - class/Thing/Intangible/Trip/Flight
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
+fields:
+  - id: s0IyOf
+    name: Aircraft
+    options:
+      dvQueryString: dv.pages('#class/Thing/Product/Vehicle')
+    type: MultiFile
+    path: ""
+  - id: FJXvYP
+    name: ArrivalAirport
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/Airport')
+    type: MultiFile
+    path: ""
+  - id: GFQc4c
+    name: ArrivalGate
+    options: {}
+    type: Input
+    path: ""
+  - id: Wc7S02
+    name: ArrivalTerminal
+    options: {}
+    type: Input
+    path: ""
+  - id: DXabOC
+    name: DepartureAirport
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/Airport')
+    type: MultiFile
+    path: ""
+  - id: I7oPtt
+    name: DepartureGate
+    options: {}
+    type: Input
+    path: ""
+  - id: y9HN90
+    name: DepartureTerminal
+    options: {}
+    type: Input
+    path: ""
+  - id: 6qJ7Xf
+    name: EstimatedFlightDuration
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: gajOlN
+    name: FlightDistance
+    options: {}
+    type: Input
+    path: ""
+  - id: m6w02O
+    name: FlightNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: PFmhxk
+    name: MealService
+    options: {}
+    type: Input
+    path: ""
+  - id: T2MXf8
+    name: Seller
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: 7mGqNw
+    name: WebCheckinTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # Flight

@@ -1,12 +1,37 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TradeAction, class/Thing/Action/TradeAction, is_a_/TradeAction, schema-org/TradeAction]
-tags: ["class/FileClass", "class/TradeAction", "is_a_/TradeAction", "class/Thing/Action/TradeAction"]
+version: "2.0"
+tagNames:
+  - class/TradeAction
+  - class/Thing/Action/TradeAction
+  - is_a_/TradeAction
+  - schema-org/TradeAction
+tags:
+  - class/FileClass
+  - class/TradeAction
+  - is_a_/TradeAction
+  - class/Thing/Action/TradeAction
 extends: FileClass~Thing/FileClass~Action
+fields:
+  - id: qj7u7n
+    name: Price
+    options: {}
+    type: Number
+    path: ""
+  - id: 2bB9R8
+    name: PriceCurrency
+    options: {}
+    type: Input
+    path: ""
+  - id: 4Jm1tP
+    name: PriceSpecification
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
+    type: MultiFile
+    path: ""
 ---
 
 # TradeAction

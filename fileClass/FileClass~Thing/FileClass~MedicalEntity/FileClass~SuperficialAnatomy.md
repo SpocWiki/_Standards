@@ -1,12 +1,49 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SuperficialAnatomy, class/Thing/MedicalEntity/SuperficialAnatomy, is_a_/SuperficialAnatomy, schema-org/SuperficialAnatomy]
-tags: ["class/FileClass", "class/SuperficialAnatomy", "is_a_/SuperficialAnatomy", "class/Thing/MedicalEntity/SuperficialAnatomy"]
+version: "2.0"
+tagNames:
+  - class/SuperficialAnatomy
+  - class/Thing/MedicalEntity/SuperficialAnatomy
+  - is_a_/SuperficialAnatomy
+  - schema-org/SuperficialAnatomy
+tags:
+  - class/FileClass
+  - class/SuperficialAnatomy
+  - is_a_/SuperficialAnatomy
+  - class/Thing/MedicalEntity/SuperficialAnatomy
 extends: FileClass~Thing/FileClass~MedicalEntity
+fields:
+  - id: ZKuKkT
+    name: AssociatedPathophysiology
+    options: {}
+    type: Input
+    path: ""
+  - id: 2jro8g
+    name: RelatedAnatomy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ""
+  - id: 65JYEt
+    name: RelatedCondition
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ""
+  - id: o72AIt
+    name: RelatedTherapy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
+    type: MultiFile
+    path: ""
+  - id: 1Ye3RC
+    name: Significance
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # SuperficialAnatomy

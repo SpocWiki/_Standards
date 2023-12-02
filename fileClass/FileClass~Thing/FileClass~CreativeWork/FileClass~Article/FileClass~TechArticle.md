@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TechArticle, class/Thing/CreativeWork/Article/TechArticle, is_a_/TechArticle, schema-org/TechArticle]
-tags: ["class/FileClass", "class/TechArticle", "is_a_/TechArticle", "class/Thing/CreativeWork/Article/TechArticle"]
+version: "2.0"
+tagNames:
+  - class/TechArticle
+  - class/Thing/CreativeWork/Article/TechArticle
+  - is_a_/TechArticle
+  - schema-org/TechArticle
+tags:
+  - class/FileClass
+  - class/TechArticle
+  - is_a_/TechArticle
+  - class/Thing/CreativeWork/Article/TechArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
+fields:
+  - id: Jit7LA
+    name: Dependencies
+    options: {}
+    type: Input
+    path: ""
+  - id: 6BmRaP
+    name: ProficiencyLevel
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # TechArticle

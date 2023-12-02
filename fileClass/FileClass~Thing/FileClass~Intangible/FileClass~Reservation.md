@@ -1,12 +1,86 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Reservation, class/Thing/Intangible/Reservation, is_a_/Reservation, schema-org/Reservation]
-tags: ["class/FileClass", "class/Reservation", "is_a_/Reservation", "class/Thing/Intangible/Reservation"]
+version: "2.0"
+tagNames:
+  - class/Reservation
+  - class/Thing/Intangible/Reservation
+  - is_a_/Reservation
+  - schema-org/Reservation
+tags:
+  - class/FileClass
+  - class/Reservation
+  - is_a_/Reservation
+  - class/Thing/Intangible/Reservation
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: pRBDF2
+    name: BookingTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: qToSWN
+    name: Broker
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: k0KvzD
+    name: ModifiedTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: 6lS2hR
+    name: PriceCurrency
+    options: {}
+    type: Input
+    path: ""
+  - id: D29FFA
+    name: ProgramMembershipUsed
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ProgramMembership')
+    type: MultiFile
+    path: ""
+  - id: DTTWA4
+    name: Provider
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: jgCKlx
+    name: ReservationFor
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: hviQL4
+    name: ReservationId
+    options: {}
+    type: Input
+    path: ""
+  - id: 2wLUKM
+    name: ReservedTicket
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Ticket')
+    type: MultiFile
+    path: ""
+  - id: mh1J5c
+    name: TotalPrice
+    options: {}
+    type: Number
+    path: ""
+  - id: 31hMEZ
+    name: UnderName
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
 ---
 
 # Reservation

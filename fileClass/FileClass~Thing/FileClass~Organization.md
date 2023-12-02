@@ -3,10 +3,354 @@ limit: 9
 mapWithTag: true
 excludes: 
 icon: users
-version: 6
-tagNames: [class/Organization, class/Thing/Organization, is_an_/Organization, schema-org/Organization]
-tags: ["class/FileClass", "class/Organization", "#is_an_/Organization", "class/Thing/Organization"]
+version: "2.0"
+tagNames:
+  - class/Organization
+  - class/Thing/Organization
+  - is_an_/Organization
+  - schema-org/Organization
+tags:
+  - class/FileClass
+  - class/Organization
+  - "#is_an_/Organization"
+  - class/Thing/Organization
 extends: FileClass~Thing
+fields:
+  - id: N4lkw3
+    name: ActionableFeedbackPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: rEyLMf
+    name: Address
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ""
+  - id: SoaiLj
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ""
+  - id: Q6PFue
+    name: Alumni
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: ZzX23J
+    name: AreaServed
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: zd8ZYX
+    name: Award
+    options: {}
+    type: Input
+    path: ""
+  - id: 9l3Ivt
+    name: Brand
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Brand')
+    type: MultiFile
+    path: ""
+  - id: Gvma9v
+    name: ContactPoint
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
+    type: MultiFile
+    path: ""
+  - id: 2awVHX
+    name: CorrectionsPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: jTHlTV
+    name: Department
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: 4O3wY7
+    name: DissolutionDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: meyXz2
+    name: DiversityPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: Fd2Vcy
+    name: DiversityStaffingReport
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Article')
+    type: MultiFile
+    path: ""
+  - id: 8MbH3C
+    name: Duns
+    options: {}
+    type: Input
+    path: ""
+  - id: BnpsmQ
+    name: Email
+    options: {}
+    type: Input
+    path: ""
+  - id: 7ylec1
+    name: Employee
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: FpDnGV
+    name: EthicsPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: AuqbnF
+    name: FaxNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: ZqYy0j
+    name: Founder
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: 2R2hcR
+    name: FoundingDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: fObuB3
+    name: FoundingLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: X3pfDZ
+    name: Funder
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: crr7Jn
+    name: Funding
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
+    type: MultiFile
+    path: ""
+  - id: 7k1vdW
+    name: GlobalLocationNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: 7ZFQVR
+    name: HasCredential
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
+    type: MultiFile
+    path: ""
+  - id: AQ3Zw0
+    name: HasMerchantReturnPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')
+    type: MultiFile
+    path: ""
+  - id: kcmRiP
+    name: HasOfferCatalog
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList/OfferCatalog')
+    type: MultiFile
+    path: ""
+  - id: jlWFQt
+    name: HasPOS
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: ICAFGR
+    name: InteractionStatistic
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/InteractionCounter')
+    type: MultiFile
+    path: ""
+  - id: LLMCHh
+    name: IsicV4
+    options: {}
+    type: Input
+    path: ""
+  - id: 2Tx5QH
+    name: Iso6523Code
+    options: {}
+    type: Input
+    path: ""
+  - id: hvIIK3
+    name: Keywords
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: Ecq0Uw
+    name: KnowsAbout
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: dFyERc
+    name: KnowsLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ""
+  - id: exT6iT
+    name: LegalName
+    options: {}
+    type: Input
+    path: ""
+  - id: uffWop
+    name: LeiCode
+    options: {}
+    type: Input
+    path: ""
+  - id: skQhyM
+    name: Location
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: OFIWho
+    name: Logo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ""
+  - id: khOveT
+    name: MakesOffer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
+    type: MultiFile
+    path: ""
+  - id: KtEMbQ
+    name: Member
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: wva7Xf
+    name: MemberOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: JPNuoq
+    name: Naics
+    options: {}
+    type: Input
+    path: ""
+  - id: Uc35cS
+    name: NonprofitStatus
+    options: {}
+    type: Input
+    path: ""
+  - id: kRv5CK
+    name: NumberOfEmployees
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: naDpNx
+    name: OwnershipFundingInfo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/WebPage/AboutPage')
+    type: MultiFile
+    path: ""
+  - id: 0XeGY8
+    name: Owns
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OwnershipInfo')
+    type: MultiFile
+    path: ""
+  - id: GSASGq
+    name: ParentOrganization
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: CjJ3sq
+    name: PublishingPrinciples
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: jhYXhw
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: 71hzQN
+    name: Seeks
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
+    type: MultiFile
+    path: ""
+  - id: wHQsDq
+    name: Slogan
+    options: {}
+    type: Input
+    path: ""
+  - id: nfFQrW
+    name: Sponsor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: BKj0Ui
+    name: SubOrganization
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: 6fKYyb
+    name: TaxID
+    options: {}
+    type: Input
+    path: ""
+  - id: cqFHPu
+    name: Telephone
+    options: {}
+    type: Input
+    path: ""
+  - id: 6Lrt6O
+    name: UnnamedSourcesPolicy
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: xUJP1a
+    name: VatID
+    options: {}
+    type: Input
+    path: ""
+  - id: O5Ibh3
+    name: Events
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ""
 ---
 
 # Organization
@@ -258,7 +602,7 @@ The larger organization that this organization is a [[subOrganization]] of, if a
 ParentOrganization:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 ### PublishingPrinciples
-The publishingPrinciples property indicates (typically via [[URL]]) a document describing the editorial principles of an [[Organization]] (or individual, e.g. a [[Person]] writing a blog) that relate to their activities as a publisher, e.g. ethics or diversity policies. When applied to a [[CreativeWork]] (e.g. [[NewsArticle]]) the principles are those of the party primarily responsible for the creation of the [[CreativeWork]].  
+The publishingPrinciples property indicates (typically via [[../../schema-org/Class/is_a_/data_type/text/URLs]]) a document describing the editorial principles of an [[Organization]] (or individual, e.g. a [[Person]] writing a blog) that relate to their activities as a publisher, e.g. ethics or diversity policies. When applied to a [[CreativeWork]] (e.g. [[NewsArticle]]) the principles are those of the party primarily responsible for the creation of the [[CreativeWork]].  
  While such policies are most typically expressed in natural language, sometimes related information (e.g. indicating a [[funder]]) can be expressed using schema.org terminology.
 
 PublishingPrinciples:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}

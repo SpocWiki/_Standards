@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: tent
-version: 5
-tagNames: [class/Campground, class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground, is_a_/Campground, schema-org/Campground]
-tags: ["class/FileClass", "class/Campground", "is_a_/Campground", "class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground"]
+version: "2.0"
+tagNames:
+  - class/Campground
+  - class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground
+  - is_a_/Campground
+  - schema-org/Campground
+tags:
+  - class/FileClass
+  - class/Campground
+  - is_a_/Campground
+  - class/Thing/Place/CivicStructure/CivicStructureAndLodgingBusiness/Campground
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness
+fields: []
 ---
 
 # Campground

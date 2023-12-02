@@ -1,12 +1,37 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PhysicalActivity, class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity, is_a_/PhysicalActivity, schema-org/PhysicalActivity]
-tags: ["class/FileClass", "class/PhysicalActivity", "is_a_/PhysicalActivity", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity"]
+version: "2.0"
+tagNames:
+  - class/PhysicalActivity
+  - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity
+  - is_a_/PhysicalActivity
+  - schema-org/PhysicalActivity
+tags:
+  - class/FileClass
+  - class/PhysicalActivity
+  - is_a_/PhysicalActivity
+  - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification
+fields:
+  - id: n5qwrk
+    name: AssociatedAnatomy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ""
+  - id: bCvdCw
+    name: Epidemiology
+    options: {}
+    type: Input
+    path: ""
+  - id: 5D2nhN
+    name: Pathophysiology
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # PhysicalActivity

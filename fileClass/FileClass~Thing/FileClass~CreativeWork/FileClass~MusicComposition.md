@@ -1,12 +1,78 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: music
-version: 5
-tagNames: [class/MusicComposition, class/Thing/CreativeWork/MusicComposition, is_a_/MusicComposition, schema-org/MusicComposition]
-tags: ["class/FileClass", "class/MusicComposition", "is_a_/MusicComposition", "class/Thing/CreativeWork/MusicComposition"]
+version: "2.0"
+tagNames:
+  - class/MusicComposition
+  - class/Thing/CreativeWork/MusicComposition
+  - is_a_/MusicComposition
+  - schema-org/MusicComposition
+tags:
+  - class/FileClass
+  - class/MusicComposition
+  - is_a_/MusicComposition
+  - class/Thing/CreativeWork/MusicComposition
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: HVQ0Vl
+    name: Composer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: s0fPXJ
+    name: FirstPerformance
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ""
+  - id: ZL4JR0
+    name: IncludedComposition
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicComposition')
+    type: MultiFile
+    path: ""
+  - id: OURngo
+    name: IswcCode
+    options: {}
+    type: Input
+    path: ""
+  - id: eEKyKw
+    name: Lyricist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: fTrGSm
+    name: Lyrics
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: xKOC1P
+    name: MusicArrangement
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicComposition')
+    type: MultiFile
+    path: ""
+  - id: zbFRWq
+    name: MusicCompositionForm
+    options: {}
+    type: Input
+    path: ""
+  - id: W97HvO
+    name: MusicalKey
+    options: {}
+    type: Input
+    path: ""
+  - id: xScKz3
+    name: RecordedAs
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicRecording')
+    type: MultiFile
+    path: ""
 ---
 
 # MusicComposition

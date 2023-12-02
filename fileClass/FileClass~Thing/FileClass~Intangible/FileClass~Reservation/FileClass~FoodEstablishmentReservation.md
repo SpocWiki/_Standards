@@ -1,12 +1,40 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/FoodEstablishmentReservation, class/Thing/Intangible/Reservation/FoodEstablishmentReservation, is_a_/FoodEstablishmentReservation, schema-org/FoodEstablishmentReservation]
-tags: ["class/FileClass", "class/FoodEstablishmentReservation", "is_a_/FoodEstablishmentReservation", "class/Thing/Intangible/Reservation/FoodEstablishmentReservation"]
+version: "2.0"
+tagNames:
+  - class/FoodEstablishmentReservation
+  - class/Thing/Intangible/Reservation/FoodEstablishmentReservation
+  - is_a_/FoodEstablishmentReservation
+  - schema-org/FoodEstablishmentReservation
+tags:
+  - class/FileClass
+  - class/FoodEstablishmentReservation
+  - is_a_/FoodEstablishmentReservation
+  - class/Thing/Intangible/Reservation/FoodEstablishmentReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
+fields:
+  - id: MfQW0H
+    name: EndTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: iwHEdy
+    name: PartySize
+    options: {}
+    type: Number
+    path: ""
+  - id: luBEuF
+    name: StartTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
 ---
 
 # FoodEstablishmentReservation

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/WorkBasedProgram, class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram, is_a_/WorkBasedProgram, schema-org/WorkBasedProgram]
-tags: ["class/FileClass", "class/WorkBasedProgram", "is_a_/WorkBasedProgram", "class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram"]
+version: "2.0"
+tagNames:
+  - class/WorkBasedProgram
+  - class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram
+  - is_a_/WorkBasedProgram
+  - schema-org/WorkBasedProgram
+tags:
+  - class/FileClass
+  - class/WorkBasedProgram
+  - is_a_/WorkBasedProgram
+  - class/Thing/Intangible/EducationalOccupationalProgram/WorkBasedProgram
 extends: FileClass~Thing/FileClass~Intangible/FileClass~EducationalOccupationalProgram
+fields: []
 ---
 
 # WorkBasedProgram

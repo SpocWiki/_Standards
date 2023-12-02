@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CorrectionComment, class/Thing/CreativeWork/Comment/CorrectionComment, is_a_/CorrectionComment, schema-org/CorrectionComment]
-tags: ["class/FileClass", "class/CorrectionComment", "is_a_/CorrectionComment", "class/Thing/CreativeWork/Comment/CorrectionComment"]
+version: "2.0"
+tagNames:
+  - class/CorrectionComment
+  - class/Thing/CreativeWork/Comment/CorrectionComment
+  - is_a_/CorrectionComment
+  - schema-org/CorrectionComment
+tags:
+  - class/FileClass
+  - class/CorrectionComment
+  - is_a_/CorrectionComment
+  - class/Thing/CreativeWork/Comment/CorrectionComment
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Comment
+fields: []
 ---
 
 # CorrectionComment

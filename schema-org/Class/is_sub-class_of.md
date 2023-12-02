@@ -29,16 +29,20 @@ aliases:
 ---
 Relates a subclass to its super-class. 
 Alternative, better readable Name: is_a_kind_of similar to #is_a_ 
-Could be implemented with dedicated #Tags, but that would create a proliferation. 
+Could be implemented with dedicated #Tags, 
+but that would create a proliferation. 
 
 Use it like this: 
 - [ #is_/sub_class_of :: Class] or 
 - [ is_sub_class_of :: Class] 
 
-Relation describes that: 
+[[../Relation|Relation]] describes that: 
 [ #has_/domain  :: [Class](../../Classes.md)]
 ( #has_/name :: [is_subclass_of](is_sub-class_of.md))
 ( #has_/range :: [Class](../../Classes.md))
+
+#is_/similar_to :: [[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
+#is_inverse_of :: #has_/sub_class 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/is_sub_class_of.md|is_sub_class_of]] 

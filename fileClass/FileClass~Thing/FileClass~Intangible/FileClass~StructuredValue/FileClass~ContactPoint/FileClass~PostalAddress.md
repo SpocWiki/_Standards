@@ -1,12 +1,52 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PostalAddress, class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress, is_a_/PostalAddress, schema-org/PostalAddress]
-tags: ["class/FileClass", "class/PostalAddress", "is_a_/PostalAddress", "class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress"]
+version: "2.0"
+tagNames:
+  - class/PostalAddress
+  - class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress
+  - is_a_/PostalAddress
+  - schema-org/PostalAddress
+tags:
+  - class/FileClass
+  - class/PostalAddress
+  - is_a_/PostalAddress
+  - class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint
+fields:
+  - id: k3qcrc
+    name: AddressCountry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ""
+  - id: MwoswM
+    name: AddressLocality
+    options: {}
+    type: Input
+    path: ""
+  - id: sXwZn2
+    name: AddressRegion
+    options: {}
+    type: Input
+    path: ""
+  - id: hhh9ye
+    name: PostOfficeBoxNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: OcS8S6
+    name: PostalCode
+    options: {}
+    type: Input
+    path: ""
+  - id: idT7iB
+    name: StreetAddress
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # PostalAddress

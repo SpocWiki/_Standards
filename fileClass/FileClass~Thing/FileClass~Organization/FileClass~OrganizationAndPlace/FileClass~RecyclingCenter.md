@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RecyclingCenter, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RecyclingCenter, is_a_/RecyclingCenter, schema-org/RecyclingCenter]
-tags: ["class/FileClass", "class/RecyclingCenter", "is_a_/RecyclingCenter", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RecyclingCenter"]
+version: "2.0"
+tagNames:
+  - class/RecyclingCenter
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RecyclingCenter
+  - is_a_/RecyclingCenter
+  - schema-org/RecyclingCenter
+tags:
+  - class/FileClass
+  - class/RecyclingCenter
+  - is_a_/RecyclingCenter
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RecyclingCenter
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields: []
 ---
 
 # RecyclingCenter

@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/OccupationalExperienceRequirements, class/Thing/Intangible/OccupationalExperienceRequirements, is_an_/OccupationalExperienceRequirements, schema-org/OccupationalExperienceRequirements]
-tags: ["class/FileClass", "class/OccupationalExperienceRequirements", "#is_an_/OccupationalExperienceRequirements", "class/Thing/Intangible/OccupationalExperienceRequirements"]
+version: "2.0"
+tagNames:
+  - class/OccupationalExperienceRequirements
+  - class/Thing/Intangible/OccupationalExperienceRequirements
+  - is_an_/OccupationalExperienceRequirements
+  - schema-org/OccupationalExperienceRequirements
+tags:
+  - class/FileClass
+  - class/OccupationalExperienceRequirements
+  - "#is_an_/OccupationalExperienceRequirements"
+  - class/Thing/Intangible/OccupationalExperienceRequirements
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: u1AdrL
+    name: MonthsOfExperience
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # OccupationalExperienceRequirements

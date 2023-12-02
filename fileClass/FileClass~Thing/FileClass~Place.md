@@ -1,12 +1,199 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Place, class/Thing/Place, is_a_/Place, schema-org/Place]
-tags: ["class/FileClass", "class/Place", "is_a_/Place", "class/Thing/Place"]
+version: "2.0"
+tagNames:
+  - class/Place
+  - class/Thing/Place
+  - is_a_/Place
+  - schema-org/Place
+tags:
+  - class/FileClass
+  - class/Place
+  - is_a_/Place
+  - class/Thing/Place
 extends: FileClass~Thing
+fields:
+  - id: u3lkmn
+    name: AdditionalProperty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ""
+  - id: eykiaG
+    name: Address
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ""
+  - id: sPOu7x
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ""
+  - id: 0yvJqp
+    name: AmenityFeature
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')
+    type: MultiFile
+    path: ""
+  - id: UaBLhx
+    name: BranchCode
+    options: {}
+    type: Input
+    path: ""
+  - id: DAUGiY
+    name: FaxNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: SFTPoC
+    name: Geo
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')
+    type: MultiFile
+    path: ""
+  - id: qLBZtp
+    name: GeoDisjoint
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: AxgmWs
+    name: GeoEquals
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: YJMxzO
+    name: GeoOverlaps
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: hbhm8J
+    name: GeoTouches
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: xaLro7
+    name: GeoWithin
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: BiOr9b
+    name: GlobalLocationNumber
+    options: {}
+    type: Input
+    path: ""
+  - id: pBMPU3
+    name: HasDriveThroughService
+    options: {}
+    type: Boolean
+    path: ""
+  - id: VOrm2o
+    name: HasMap
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Map')
+    type: MultiFile
+    path: ""
+  - id: HiVvED
+    name: IsAccessibleForFree
+    options: {}
+    type: Boolean
+    path: ""
+  - id: sQHisQ
+    name: IsicV4
+    options: {}
+    type: Input
+    path: ""
+  - id: w092OE
+    name: Keywords
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: 32VILf
+    name: Latitude
+    options: {}
+    type: Number
+    path: ""
+  - id: 5uAB5e
+    name: Logo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ""
+  - id: rzCbnT
+    name: Longitude
+    options: {}
+    type: Number
+    path: ""
+  - id: FXVJ6t
+    name: MaximumAttendeeCapacity
+    options: {}
+    type: Number
+    path: ""
+  - id: w7di2d
+    name: OpeningHoursSpecification
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
+    type: MultiFile
+    path: ""
+  - id: seWfD8
+    name: Photo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ""
+  - id: 6DXJI5
+    name: PublicAccess
+    options: {}
+    type: Boolean
+    path: ""
+  - id: DYC01G
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: 3hYlci
+    name: Slogan
+    options: {}
+    type: Input
+    path: ""
+  - id: 6XTThf
+    name: SmokingAllowed
+    options: {}
+    type: Boolean
+    path: ""
+  - id: YJvmp8
+    name: SpecialOpeningHoursSpecification
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
+    type: MultiFile
+    path: ""
+  - id: fNQBOw
+    name: Telephone
+    options: {}
+    type: Input
+    path: ""
+  - id: ddsAQK
+    name: TourBookingPage
+    options: {}
+    type: Input
+    path: ""
+  - id: TLulsC
+    name: Events
+    options:
+      dvQueryString: dv.pages('#class/Thing/Event')
+    type: MultiFile
+    path: ""
 ---
 
 # Place

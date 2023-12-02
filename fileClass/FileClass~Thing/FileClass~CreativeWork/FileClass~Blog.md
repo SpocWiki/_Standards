@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Blog, class/Thing/CreativeWork/Blog, is_a_/Blog, schema-org/Blog]
-tags: ["class/FileClass", "class/Blog", "is_a_/Blog", "class/Thing/CreativeWork/Blog"]
+version: "2.0"
+tagNames:
+  - class/Blog
+  - class/Thing/CreativeWork/Blog
+  - is_a_/Blog
+  - schema-org/Blog
+tags:
+  - class/FileClass
+  - class/Blog
+  - is_a_/Blog
+  - class/Thing/CreativeWork/Blog
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: UG6EuN
+    name: BlogPost
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting')
+    type: MultiFile
+    path: ""
+  - id: eOxIHS
+    name: Issn
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Blog

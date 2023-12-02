@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Vessel, class/Thing/MedicalEntity/AnatomicalStructure/Vessel, is_a_/Vessel, schema-org/Vessel]
-tags: ["class/FileClass", "class/Vessel", "is_a_/Vessel", "class/Thing/MedicalEntity/AnatomicalStructure/Vessel"]
+version: "2.0"
+tagNames:
+  - class/Vessel
+  - class/Thing/MedicalEntity/AnatomicalStructure/Vessel
+  - is_a_/Vessel
+  - schema-org/Vessel
+tags:
+  - class/FileClass
+  - class/Vessel
+  - is_a_/Vessel
+  - class/Thing/MedicalEntity/AnatomicalStructure/Vessel
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
+fields: []
 ---
 
 # Vessel

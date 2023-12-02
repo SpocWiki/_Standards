@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TransferAction, class/Thing/Action/TransferAction, is_a_/TransferAction, schema-org/TransferAction]
-tags: ["class/FileClass", "class/TransferAction", "is_a_/TransferAction", "class/Thing/Action/TransferAction"]
+version: "2.0"
+tagNames:
+  - class/TransferAction
+  - class/Thing/Action/TransferAction
+  - is_a_/TransferAction
+  - schema-org/TransferAction
+tags:
+  - class/FileClass
+  - class/TransferAction
+  - is_a_/TransferAction
+  - class/Thing/Action/TransferAction
 extends: FileClass~Thing/FileClass~Action
+fields:
+  - id: M1RJ6r
+    name: FromLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: ibWfDt
+    name: ToLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
 ---
 
 # TransferAction

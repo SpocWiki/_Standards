@@ -1,12 +1,50 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Muscle, class/Thing/MedicalEntity/AnatomicalStructure/Muscle, is_a_/Muscle, schema-org/Muscle]
-tags: ["class/FileClass", "class/Muscle", "is_a_/Muscle", "class/Thing/MedicalEntity/AnatomicalStructure/Muscle"]
+version: "2.0"
+tagNames:
+  - class/Muscle
+  - class/Thing/MedicalEntity/AnatomicalStructure/Muscle
+  - is_a_/Muscle
+  - schema-org/Muscle
+tags:
+  - class/FileClass
+  - class/Muscle
+  - is_a_/Muscle
+  - class/Thing/MedicalEntity/AnatomicalStructure/Muscle
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
+fields:
+  - id: 10t4S4
+    name: Antagonist
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Muscle')
+    type: MultiFile
+    path: ""
+  - id: nyNRvA
+    name: BloodSupply
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')
+    type: MultiFile
+    path: ""
+  - id: OpkQul
+    name: Insertion
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ""
+  - id: RUIawt
+    name: MuscleAction
+    options: {}
+    type: Input
+    path: ""
+  - id: sUiiqi
+    name: Nerve
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Nerve')
+    type: MultiFile
+    path: ""
 ---
 
 # Muscle

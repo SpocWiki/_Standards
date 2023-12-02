@@ -1,12 +1,57 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/QuantitativeValue, class/Thing/Intangible/StructuredValue/QuantitativeValue, is_a_/QuantitativeValue, schema-org/QuantitativeValue]
-tags: ["class/FileClass", "class/QuantitativeValue", "is_a_/QuantitativeValue", "class/Thing/Intangible/StructuredValue/QuantitativeValue"]
+version: "2.0"
+tagNames:
+  - class/QuantitativeValue
+  - class/Thing/Intangible/StructuredValue/QuantitativeValue
+  - is_a_/QuantitativeValue
+  - schema-org/QuantitativeValue
+tags:
+  - class/FileClass
+  - class/QuantitativeValue
+  - is_a_/QuantitativeValue
+  - class/Thing/Intangible/StructuredValue/QuantitativeValue
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: ztcDqq
+    name: AdditionalProperty
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
+    type: MultiFile
+    path: ""
+  - id: Yn0Isw
+    name: MaxValue
+    options: {}
+    type: Number
+    path: ""
+  - id: RTTkxD
+    name: MinValue
+    options: {}
+    type: Number
+    path: ""
+  - id: 5Wo2wQ
+    name: UnitCode
+    options: {}
+    type: Input
+    path: ""
+  - id: xxlRWh
+    name: UnitText
+    options: {}
+    type: Input
+    path: ""
+  - id: eTzJg7
+    name: Value
+    options: {}
+    type: Boolean
+    path: ""
+  - id: cICzxQ
+    name: ValueReference
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # QuantitativeValue

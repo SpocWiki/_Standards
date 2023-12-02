@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DDxElement, class/Thing/MedicalEntity/MedicalIntangible/DDxElement, is_a_/DDxElement, schema-org/DDxElement]
-tags: ["class/FileClass", "class/DDxElement", "is_a_/DDxElement", "class/Thing/MedicalEntity/MedicalIntangible/DDxElement"]
+version: "2.0"
+tagNames:
+  - class/DDxElement
+  - class/Thing/MedicalEntity/MedicalIntangible/DDxElement
+  - is_a_/DDxElement
+  - schema-org/DDxElement
+tags:
+  - class/FileClass
+  - class/DDxElement
+  - is_a_/DDxElement
+  - class/Thing/MedicalEntity/MedicalIntangible/DDxElement
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
+fields:
+  - id: lU2vlF
+    name: Diagnosis
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ""
+  - id: jhXoEG
+    name: DistinguishingSign
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')
+    type: MultiFile
+    path: ""
 ---
 
 # DDxElement

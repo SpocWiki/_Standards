@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/OrderAction, class/Thing/Action/TradeAction/OrderAction, is_an_/OrderAction, schema-org/OrderAction]
-tags: ["class/FileClass", "class/OrderAction", "#is_an_/OrderAction", "class/Thing/Action/TradeAction/OrderAction"]
+version: "2.0"
+tagNames:
+  - class/OrderAction
+  - class/Thing/Action/TradeAction/OrderAction
+  - is_an_/OrderAction
+  - schema-org/OrderAction
+tags:
+  - class/FileClass
+  - class/OrderAction
+  - "#is_an_/OrderAction"
+  - class/Thing/Action/TradeAction/OrderAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
+fields: []
 ---
 
 # OrderAction

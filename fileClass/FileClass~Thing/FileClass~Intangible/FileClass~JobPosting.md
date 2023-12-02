@@ -1,12 +1,216 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/JobPosting, class/Thing/Intangible/JobPosting, is_a_/JobPosting, schema-org/JobPosting]
-tags: ["class/FileClass", "class/JobPosting", "is_a_/JobPosting", "class/Thing/Intangible/JobPosting"]
+version: "2.0"
+tagNames:
+  - class/JobPosting
+  - class/Thing/Intangible/JobPosting
+  - is_a_/JobPosting
+  - schema-org/JobPosting
+tags:
+  - class/FileClass
+  - class/JobPosting
+  - is_a_/JobPosting
+  - class/Thing/Intangible/JobPosting
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: rgSzsz
+    name: Title
+    options: {}
+    type: Input
+    path: ""
+  - id: nWKUzV
+    name: ApplicantLocationRequirements
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
+  - id: VObPnP
+    name: ApplicationContact
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
+    type: MultiFile
+    path: ""
+  - id: ykGubz
+    name: BaseSalary
+    options: {}
+    type: Number
+    path: ""
+  - id: Qf7f8c
+    name: DatePosted
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: 0Lnc0K
+    name: DirectApply
+    options: {}
+    type: Boolean
+    path: ""
+  - id: cC5EUM
+    name: EducationRequirements
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
+    type: MultiFile
+    path: ""
+  - id: nm8hCk
+    name: EligibilityToWorkRequirement
+    options: {}
+    type: Input
+    path: ""
+  - id: xA2Dm3
+    name: EmployerOverview
+    options: {}
+    type: Input
+    path: ""
+  - id: 4EhMoO
+    name: EmploymentType
+    options: {}
+    type: Input
+    path: ""
+  - id: zdmJKt
+    name: EmploymentUnit
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: TwPVcW
+    name: EstimatedSalary
+    options: {}
+    type: Number
+    path: ""
+  - id: Yb2vSh
+    name: ExperienceInPlaceOfEducation
+    options: {}
+    type: Boolean
+    path: ""
+  - id: M9gVJr
+    name: ExperienceRequirements
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/OccupationalExperienceRequirements')
+    type: MultiFile
+    path: ""
+  - id: 7D5sfV
+    name: HiringOrganization
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: O1aDnY
+    name: IncentiveCompensation
+    options: {}
+    type: Input
+    path: ""
+  - id: 4lHuNg
+    name: Industry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: CmwWje
+    name: JobBenefits
+    options: {}
+    type: Input
+    path: ""
+  - id: j9YEaD
+    name: JobImmediateStart
+    options: {}
+    type: Boolean
+    path: ""
+  - id: MQSFA7
+    name: JobLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: MfSgzA
+    name: JobLocationType
+    options: {}
+    type: Input
+    path: ""
+  - id: jXYMWO
+    name: JobStartDate
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: mBjrd2
+    name: OccupationalCategory
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')
+    type: MultiFile
+    path: ""
+  - id: nnDgyj
+    name: PhysicalRequirement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: z9FPHD
+    name: Qualifications
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
+    type: MultiFile
+    path: ""
+  - id: QMYxyr
+    name: RelevantOccupation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Occupation')
+    type: MultiFile
+    path: ""
+  - id: I4KDIL
+    name: Responsibilities
+    options: {}
+    type: Input
+    path: ""
+  - id: ypzIUM
+    name: SalaryCurrency
+    options: {}
+    type: Input
+    path: ""
+  - id: k0iOHW
+    name: SecurityClearanceRequirement
+    options: {}
+    type: Input
+    path: ""
+  - id: oF7NTa
+    name: SensoryRequirement
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: lSI2q7
+    name: Skills
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: akfdql
+    name: SpecialCommitments
+    options: {}
+    type: Input
+    path: ""
+  - id: PSnPNd
+    name: TotalJobOpenings
+    options: {}
+    type: Number
+    path: ""
+  - id: w4Qp4q
+    name: ValidThrough
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: 7ubF7m
+    name: WorkHours
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # JobPosting
@@ -49,7 +253,7 @@ Publication date of an online listing.
 DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 ### DirectApply
-Indicates whether an [[url]] that is associated with a [[JobPosting]] enables direct application for the job, via the posting website. A job posting is considered to have directApply of [[True]] if an application process for the specified job can be directly initiated via the url(s) given (noting that e.g. multiple internet domains might nevertheless be involved at an implementation level). A value of [[False]] is appropriate if there is no clear path to applying directly online for the specified job, navigating directly from the JobPosting url(s) supplied.
+Indicates whether an [[../../../schema-org/Class/is_a_/data_type/text/URLs]] that is associated with a [[JobPosting]] enables direct application for the job, via the posting website. A job posting is considered to have directApply of [[True]] if an application process for the specified job can be directly initiated via the url(s) given (noting that e.g. multiple internet domains might nevertheless be involved at an implementation level). A value of [[False]] is appropriate if there is no clear path to applying directly online for the specified job, navigating directly from the JobPosting url(s) supplied.
 
 DirectApply:: {"type":"Boolean","options":{}}
 

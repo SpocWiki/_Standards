@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SuspendAction, class/Thing/Action/ControlAction/SuspendAction, is_a_/SuspendAction, schema-org/SuspendAction]
-tags: ["class/FileClass", "class/SuspendAction", "is_a_/SuspendAction", "class/Thing/Action/ControlAction/SuspendAction"]
+version: "2.0"
+tagNames:
+  - class/SuspendAction
+  - class/Thing/Action/ControlAction/SuspendAction
+  - is_a_/SuspendAction
+  - schema-org/SuspendAction
+tags:
+  - class/FileClass
+  - class/SuspendAction
+  - is_a_/SuspendAction
+  - class/Thing/Action/ControlAction/SuspendAction
 extends: FileClass~Thing/FileClass~Action/FileClass~ControlAction
+fields: []
 ---
 
 # SuspendAction

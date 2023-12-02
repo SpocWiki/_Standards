@@ -1,12 +1,36 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BroadcastFrequencySpecification, class/Thing/Intangible/BroadcastFrequencySpecification, is_a_/BroadcastFrequencySpecification, schema-org/BroadcastFrequencySpecification]
-tags: ["class/FileClass", "class/BroadcastFrequencySpecification", "is_a_/BroadcastFrequencySpecification", "class/Thing/Intangible/BroadcastFrequencySpecification"]
+version: "2.0"
+tagNames:
+  - class/BroadcastFrequencySpecification
+  - class/Thing/Intangible/BroadcastFrequencySpecification
+  - is_a_/BroadcastFrequencySpecification
+  - schema-org/BroadcastFrequencySpecification
+tags:
+  - class/FileClass
+  - class/BroadcastFrequencySpecification
+  - is_a_/BroadcastFrequencySpecification
+  - class/Thing/Intangible/BroadcastFrequencySpecification
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: r5EujM
+    name: BroadcastFrequencyValue
+    options: {}
+    type: Number
+    path: ""
+  - id: 5bbHPZ
+    name: BroadcastSignalModulation
+    options: {}
+    type: Input
+    path: ""
+  - id: bRbOx0
+    name: BroadcastSubChannel
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # BroadcastFrequencySpecification

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ResortAndSportsActivityLocation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation, is_a_/ResortAndSportsActivityLocation, schema-org/ResortAndSportsActivityLocation]
-tags: ["class/FileClass", "class/ResortAndSportsActivityLocation", "is_a_/ResortAndSportsActivityLocation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation"]
+version: "2.0"
+tagNames:
+  - class/ResortAndSportsActivityLocation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation
+  - is_a_/ResortAndSportsActivityLocation
+  - schema-org/ResortAndSportsActivityLocation
+tags:
+  - class/FileClass
+  - class/ResortAndSportsActivityLocation
+  - is_a_/ResortAndSportsActivityLocation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/Resort/ResortAndSportsActivityLocation
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~Resort
+fields: []
 ---
 
 # ResortAndSportsActivityLocation

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PalliativeProcedure, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure, is_a_/PalliativeProcedure, schema-org/PalliativeProcedure]
-tags: ["class/FileClass", "class/PalliativeProcedure", "is_a_/PalliativeProcedure", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure"]
+version: "2.0"
+tagNames:
+  - class/PalliativeProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure
+  - is_a_/PalliativeProcedure
+  - schema-org/PalliativeProcedure
+tags:
+  - class/FileClass
+  - class/PalliativeProcedure
+  - is_a_/PalliativeProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/PalliativeProcedure
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy
+fields: []
 ---
 
 # PalliativeProcedure

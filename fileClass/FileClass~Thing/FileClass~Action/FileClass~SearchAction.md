@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/SearchAction, class/Thing/Action/SearchAction, is_a_/SearchAction, schema-org/SearchAction]
-tags: ["class/FileClass", "class/SearchAction", "is_a_/SearchAction", "class/Thing/Action/SearchAction"]
+version: "2.0"
+tagNames:
+  - class/SearchAction
+  - class/Thing/Action/SearchAction
+  - is_a_/SearchAction
+  - schema-org/SearchAction
+tags:
+  - class/FileClass
+  - class/SearchAction
+  - is_a_/SearchAction
+  - class/Thing/Action/SearchAction
 extends: FileClass~Thing/FileClass~Action
+fields:
+  - id: 8MmhU2
+    name: Query
+    options: {}
+    type: Input
+    path: ""
+  - id: imFUQ6
+    name: QueryInput
+    options:
+      dvQueryString: dv.pages('#class/JsonLdObject/Thing/Intangible/PropertyValueSpecification')
+    type: MultiFile
+    path: ""
 ---
 
 # SearchAction

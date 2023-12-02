@@ -1,12 +1,42 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalProcedure, class/Thing/MedicalEntity/MedicalProcedure, is_a_/MedicalProcedure, schema-org/MedicalProcedure]
-tags: ["class/FileClass", "class/MedicalProcedure", "is_a_/MedicalProcedure", "class/Thing/MedicalEntity/MedicalProcedure"]
+version: "2.0"
+tagNames:
+  - class/MedicalProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure
+  - is_a_/MedicalProcedure
+  - schema-org/MedicalProcedure
+tags:
+  - class/FileClass
+  - class/MedicalProcedure
+  - is_a_/MedicalProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure
 extends: FileClass~Thing/FileClass~MedicalEntity
+fields:
+  - id: Wuq4Ts
+    name: BodyLocation
+    options: {}
+    type: Input
+    path: ""
+  - id: WJaXbn
+    name: Followup
+    options: {}
+    type: Input
+    path: ""
+  - id: 5kcQqv
+    name: HowPerformed
+    options: {}
+    type: Input
+    path: ""
+  - id: UgOCAa
+    name: Preparation
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
+    type: MultiFile
+    path: ""
 ---
 
 # MedicalProcedure

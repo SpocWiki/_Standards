@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MediaReview, class/Thing/CreativeWork/Review/MediaReview, is_a_/MediaReview, schema-org/MediaReview]
-tags: ["class/FileClass", "class/MediaReview", "is_a_/MediaReview", "class/Thing/CreativeWork/Review/MediaReview"]
+version: "2.0"
+tagNames:
+  - class/MediaReview
+  - class/Thing/CreativeWork/Review/MediaReview
+  - is_a_/MediaReview
+  - schema-org/MediaReview
+tags:
+  - class/FileClass
+  - class/MediaReview
+  - is_a_/MediaReview
+  - class/Thing/CreativeWork/Review/MediaReview
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
+fields:
+  - id: xIVUZn
+    name: OriginalMediaContextDescription
+    options: {}
+    type: Input
+    path: ""
+  - id: mjGiu0
+    name: OriginalMediaLink
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
+    type: MultiFile
+    path: ""
 ---
 
 # MediaReview

@@ -1,12 +1,41 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LocalBusiness, class/Thing/Organization/OrganizationAndPlace/LocalBusiness, is_a_/LocalBusiness, schema-org/LocalBusiness]
-tags: ["class/FileClass", "class/LocalBusiness", "is_a_/LocalBusiness", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness"]
+version: "2.0"
+tagNames:
+  - class/LocalBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness
+  - is_a_/LocalBusiness
+  - schema-org/LocalBusiness
+tags:
+  - class/FileClass
+  - class/LocalBusiness
+  - is_a_/LocalBusiness
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness
 extends: FileClass~Thing/FileClass~Place/FileClass~OrganizationAndPlace
+fields:
+  - id: H0hcJU
+    name: CurrenciesAccepted
+    options: {}
+    type: Input
+    path: ""
+  - id: PYFiPB
+    name: OpeningHours
+    options: {}
+    type: Input
+    path: ""
+  - id: BPWbSk
+    name: PaymentAccepted
+    options: {}
+    type: Input
+    path: ""
+  - id: xxjoHO
+    name: PriceRange
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # LocalBusiness

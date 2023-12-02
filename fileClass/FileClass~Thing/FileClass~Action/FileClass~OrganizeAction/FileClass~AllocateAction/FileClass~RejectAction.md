@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/RejectAction, class/Thing/Action/OrganizeAction/AllocateAction/RejectAction, is_a_/RejectAction, schema-org/RejectAction]
-tags: ["class/FileClass", "class/RejectAction", "is_a_/RejectAction", "class/Thing/Action/OrganizeAction/AllocateAction/RejectAction"]
+version: "2.0"
+tagNames:
+  - class/RejectAction
+  - class/Thing/Action/OrganizeAction/AllocateAction/RejectAction
+  - is_a_/RejectAction
+  - schema-org/RejectAction
+tags:
+  - class/FileClass
+  - class/RejectAction
+  - is_a_/RejectAction
+  - class/Thing/Action/OrganizeAction/AllocateAction/RejectAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
+fields: []
 ---
 
 # RejectAction

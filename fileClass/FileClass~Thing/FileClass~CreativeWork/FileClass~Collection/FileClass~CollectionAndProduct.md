@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CollectionAndProduct, class/Thing/CreativeWork/Collection/CollectionAndProduct, is_a_/CollectionAndProduct, schema-org/CollectionAndProduct]
-tags: ["class/FileClass", "class/CollectionAndProduct", "is_a_/CollectionAndProduct", "class/Thing/CreativeWork/Collection/CollectionAndProduct"]
+version: "2.0"
+tagNames:
+  - class/CollectionAndProduct
+  - class/Thing/CreativeWork/Collection/CollectionAndProduct
+  - is_a_/CollectionAndProduct
+  - schema-org/CollectionAndProduct
+tags:
+  - class/FileClass
+  - class/CollectionAndProduct
+  - is_a_/CollectionAndProduct
+  - class/Thing/CreativeWork/Collection/CollectionAndProduct
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Collection
+fields: []
 ---
 
 - # CollectionAndProduct
@@ -170,7 +179,7 @@ extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Collection
   Material:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product')"}}
 - ### MobileUrl
   The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated 'mobile site'.  
-  To discourage over-use, and reflecting intial usecases, the property is expected only on [[Product]] and [[Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[url]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[url]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
+  To discourage over-use, and reflecting intial usecases, the property is expected only on [[Product]] and [[Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[../../../../schema-org/Class/is_a_/data_type/text/URLs]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[../../../../schema-org/Class/is_a_/data_type/text/URLs]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
   
   MobileUrl:: {"type":"Input","options":{}}
 - ### Model

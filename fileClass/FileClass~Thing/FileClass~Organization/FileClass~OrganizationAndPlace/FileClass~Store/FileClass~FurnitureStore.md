@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/FurnitureStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/FurnitureStore, is_a_/FurnitureStore, schema-org/FurnitureStore]
-tags: ["class/FileClass", "class/FurnitureStore", "is_a_/FurnitureStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/FurnitureStore"]
+version: "2.0"
+tagNames:
+  - class/FurnitureStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/FurnitureStore
+  - is_a_/FurnitureStore
+  - schema-org/FurnitureStore
+tags:
+  - class/FileClass
+  - class/FurnitureStore
+  - is_a_/FurnitureStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/FurnitureStore
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
+fields: []
 ---
 
 # FurnitureStore

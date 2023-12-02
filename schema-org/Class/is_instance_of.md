@@ -36,7 +36,8 @@ fileClass:
 ---
 # [Class](../../Classes.md)-[Thing](Thing.md) Relationship 
 Relates an Object/Thing/Entity to its Class. 
-Can be implemented with a dedicated #Tag for each Class to enable Tools to restrict the Range to defined Classes.
+Can be implemented with a dedicated #Tag for each Class 
+to enable Tools to restrict the Range to defined Classes.
 
 Classes help to group all (potential) **similar** objects and extend Rules 
 from (countable) Sets (for which you can use Induction) 
@@ -54,15 +55,21 @@ Verbs:
 - itemtype or additionalType in MicroData 
 -  
 
-## Alternative Structural Relations:
+## Other hierarchical Relations: 
 - [is_part_of](../Composite/is_part_of.md)
 - [is_item_in](../Collection/is_item_in.md) 
 
 ## Use it like this: 
 - [ #is_/instance_of :: Class] or 
+- [ #is_a :: Class] or 
+- [ #is_an :: Class] or 
 - [ is_instance_of :: Class]  for Objects
-Or use 
-- [is_subclass_of](is_sub-class_of.md)  for Classes
+
+You can also use a pre-defined #Tag, 
+like #is_a_/pet, but that makes Navigation 
+to the actual Class Definition harder.
+
+- For Classes use [is_subclass_of](is_sub-class_of.md)  
 
 ## Relation describes that: 
 [ #has_/domain  :: [[Thing]]] 

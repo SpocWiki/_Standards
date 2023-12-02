@@ -1,12 +1,63 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Article, class/Thing/CreativeWork/Article, is_an_/Article, schema-org/Article]
-tags: ["class/FileClass", "class/Article", "#is_an_/Article", "class/Thing/CreativeWork/Article"]
+version: "2.0"
+tagNames:
+  - class/Article
+  - class/Thing/CreativeWork/Article
+  - is_an_/Article
+  - schema-org/Article
+tags:
+  - class/FileClass
+  - class/Article
+  - "#is_an_/Article"
+  - class/Thing/CreativeWork/Article
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: P8hpOV
+    name: ArticleBody
+    options: {}
+    type: Input
+    path: ""
+  - id: jJGjgZ
+    name: ArticleSection
+    options: {}
+    type: Input
+    path: ""
+  - id: Io9wvM
+    name: Backstory
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: XfOVNq
+    name: PageEnd
+    options: {}
+    type: Number
+    path: ""
+  - id: nNegkv
+    name: PageStart
+    options: {}
+    type: Number
+    path: ""
+  - id: FZ95U7
+    name: Pagination
+    options: {}
+    type: Input
+    path: ""
+  - id: 10n9lv
+    name: Speakable
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/SpeakableSpecification')
+    type: MultiFile
+    path: ""
+  - id: nJ5ZT0
+    name: WordCount
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # Article

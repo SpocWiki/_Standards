@@ -1,12 +1,57 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MusicRecording, class/Thing/CreativeWork/MusicRecording, is_a_/MusicRecording, schema-org/MusicRecording]
-tags: ["class/FileClass", "class/MusicRecording", "is_a_/MusicRecording", "class/Thing/CreativeWork/MusicRecording"]
+version: "2.0"
+tagNames:
+  - class/MusicRecording
+  - class/Thing/CreativeWork/MusicRecording
+  - is_a_/MusicRecording
+  - schema-org/MusicRecording
+tags:
+  - class/FileClass
+  - class/MusicRecording
+  - is_a_/MusicRecording
+  - class/Thing/CreativeWork/MusicRecording
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: OJtS3f
+    name: ByArtist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ""
+  - id: 4P68kD
+    name: Duration
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: FghObk
+    name: InAlbum
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')
+    type: MultiFile
+    path: ""
+  - id: TQFnnf
+    name: InPlaylist
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist')
+    type: MultiFile
+    path: ""
+  - id: ickwHO
+    name: IsrcCode
+    options: {}
+    type: Input
+    path: ""
+  - id: BmReSf
+    name: RecordingOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicComposition')
+    type: MultiFile
+    path: ""
 ---
 
 # MusicRecording

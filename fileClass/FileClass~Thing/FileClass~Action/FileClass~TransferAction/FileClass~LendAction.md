@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/LendAction, class/Thing/Action/TransferAction/LendAction, is_a_/LendAction, schema-org/LendAction]
-tags: ["class/FileClass", "class/LendAction", "is_a_/LendAction", "class/Thing/Action/TransferAction/LendAction"]
+version: "2.0"
+tagNames:
+  - class/LendAction
+  - class/Thing/Action/TransferAction/LendAction
+  - is_a_/LendAction
+  - schema-org/LendAction
+tags:
+  - class/FileClass
+  - class/LendAction
+  - is_a_/LendAction
+  - class/Thing/Action/TransferAction/LendAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
+fields:
+  - id: gexy2x
+    name: Borrower
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
 ---
 
 # LendAction

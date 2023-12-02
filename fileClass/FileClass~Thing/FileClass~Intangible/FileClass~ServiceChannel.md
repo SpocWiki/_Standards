@@ -1,12 +1,69 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ServiceChannel, class/Thing/Intangible/ServiceChannel, is_a_/ServiceChannel, schema-org/ServiceChannel]
-tags: ["class/FileClass", "class/ServiceChannel", "is_a_/ServiceChannel", "class/Thing/Intangible/ServiceChannel"]
+version: "2.0"
+tagNames:
+  - class/ServiceChannel
+  - class/Thing/Intangible/ServiceChannel
+  - is_a_/ServiceChannel
+  - schema-org/ServiceChannel
+tags:
+  - class/FileClass
+  - class/ServiceChannel
+  - is_a_/ServiceChannel
+  - class/Thing/Intangible/ServiceChannel
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: nOgsbn
+    name: AvailableLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ""
+  - id: ysFamX
+    name: ProcessingTime
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: Li3kok
+    name: ProvidesService
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Service')
+    type: MultiFile
+    path: ""
+  - id: z5FKqo
+    name: ServiceLocation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: Hkm33R
+    name: ServicePhone
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
+    type: MultiFile
+    path: ""
+  - id: DeQnbe
+    name: ServicePostalAddress
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
+    type: MultiFile
+    path: ""
+  - id: 2lPx9z
+    name: ServiceSmsNumber
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
+    type: MultiFile
+    path: ""
+  - id: r2DowV
+    name: ServiceUrl
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # ServiceChannel

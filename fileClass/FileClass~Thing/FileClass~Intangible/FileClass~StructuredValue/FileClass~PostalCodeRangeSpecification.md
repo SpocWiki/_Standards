@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PostalCodeRangeSpecification, class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification, is_a_/PostalCodeRangeSpecification, schema-org/PostalCodeRangeSpecification]
-tags: ["class/FileClass", "class/PostalCodeRangeSpecification", "is_a_/PostalCodeRangeSpecification", "class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification"]
+version: "2.0"
+tagNames:
+  - class/PostalCodeRangeSpecification
+  - class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification
+  - is_a_/PostalCodeRangeSpecification
+  - schema-org/PostalCodeRangeSpecification
+tags:
+  - class/FileClass
+  - class/PostalCodeRangeSpecification
+  - is_a_/PostalCodeRangeSpecification
+  - class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: 6zUH2D
+    name: PostalCodeBegin
+    options: {}
+    type: Input
+    path: ""
+  - id: RvEwzX
+    name: PostalCodeEnd
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # PostalCodeRangeSpecification

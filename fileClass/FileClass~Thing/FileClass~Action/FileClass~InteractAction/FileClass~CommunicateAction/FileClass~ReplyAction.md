@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ReplyAction, class/Thing/Action/InteractAction/CommunicateAction/ReplyAction, is_a_/ReplyAction, schema-org/ReplyAction]
-tags: ["class/FileClass", "class/ReplyAction", "is_a_/ReplyAction", "class/Thing/Action/InteractAction/CommunicateAction/ReplyAction"]
+version: "2.0"
+tagNames:
+  - class/ReplyAction
+  - class/Thing/Action/InteractAction/CommunicateAction/ReplyAction
+  - is_a_/ReplyAction
+  - schema-org/ReplyAction
+tags:
+  - class/FileClass
+  - class/ReplyAction
+  - is_a_/ReplyAction
+  - class/Thing/Action/InteractAction/CommunicateAction/ReplyAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
+fields:
+  - id: zFdKdM
+    name: ResultComment
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
+    type: MultiFile
+    path: ""
 ---
 
 # ReplyAction

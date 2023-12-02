@@ -1,12 +1,47 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: book
-version: 5
-tagNames: [class/Book, class/Thing/CreativeWork/Book, is_a_/Book, schema-org/Book]
-tags: ["class/FileClass", "class/Book", "is_a_/Book", "class/Thing/CreativeWork/Book"]
+version: "2.0"
+tagNames:
+  - class/Book
+  - class/Thing/CreativeWork/Book
+  - is_a_/Book
+  - schema-org/Book
+tags:
+  - class/FileClass
+  - class/Book
+  - is_a_/Book
+  - class/Thing/CreativeWork/Book
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: scvgml
+    name: Abridged
+    options: {}
+    type: Boolean
+    path: ""
+  - id: 4x7S2n
+    name: BookEdition
+    options: {}
+    type: Input
+    path: ""
+  - id: 6TT7bv
+    name: Illustrator
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: IwFXCO
+    name: Isbn
+    options: {}
+    type: Input
+    path: ""
+  - id: vO7ygh
+    name: NumberOfPages
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # Book

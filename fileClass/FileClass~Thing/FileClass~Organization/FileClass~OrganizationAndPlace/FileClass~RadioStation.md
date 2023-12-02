@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: radio-tower
-version: 5
-tagNames: [class/RadioStation, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RadioStation, is_a_/RadioStation, schema-org/RadioStation]
-tags: ["class/FileClass", "class/RadioStation", "is_a_/RadioStation", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RadioStation"]
+version: "2.0"
+tagNames:
+  - class/RadioStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RadioStation
+  - is_a_/RadioStation
+  - schema-org/RadioStation
+tags:
+  - class/FileClass
+  - class/RadioStation
+  - is_a_/RadioStation
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RadioStation
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields: []
 ---
 
 # RadioStation

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: music-4
-version: 5
-tagNames: [class/SheetMusic, class/Thing/CreativeWork/SheetMusic, is_a_/SheetMusic, schema-org/SheetMusic]
-tags: ["class/FileClass", "class/SheetMusic", "is_a_/SheetMusic", "class/Thing/CreativeWork/SheetMusic"]
+version: "2.0"
+tagNames:
+  - class/SheetMusic
+  - class/Thing/CreativeWork/SheetMusic
+  - is_a_/SheetMusic
+  - schema-org/SheetMusic
+tags:
+  - class/FileClass
+  - class/SheetMusic
+  - is_a_/SheetMusic
+  - class/Thing/CreativeWork/SheetMusic
 extends: FileClass~Thing/FileClass~CreativeWork
+fields: []
 ---
 
 # SheetMusic

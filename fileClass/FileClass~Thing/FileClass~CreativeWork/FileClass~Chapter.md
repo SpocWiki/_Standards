@@ -1,12 +1,36 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Chapter, class/Thing/CreativeWork/Chapter, is_a_/Chapter, schema-org/Chapter]
-tags: ["class/FileClass", "class/Chapter", "is_a_/Chapter", "class/Thing/CreativeWork/Chapter"]
+version: "2.0"
+tagNames:
+  - class/Chapter
+  - class/Thing/CreativeWork/Chapter
+  - is_a_/Chapter
+  - schema-org/Chapter
+tags:
+  - class/FileClass
+  - class/Chapter
+  - is_a_/Chapter
+  - class/Thing/CreativeWork/Chapter
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: u80Va3
+    name: PageEnd
+    options: {}
+    type: Number
+    path: ""
+  - id: Mf72kF
+    name: PageStart
+    options: {}
+    type: Number
+    path: ""
+  - id: J9ANjN
+    name: Pagination
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Chapter

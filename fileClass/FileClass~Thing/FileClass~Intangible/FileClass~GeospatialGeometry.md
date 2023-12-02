@@ -1,12 +1,81 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/GeospatialGeometry, class/Thing/Intangible/GeospatialGeometry, is_a_/GeospatialGeometry, schema-org/GeospatialGeometry]
-tags: ["class/FileClass", "class/GeospatialGeometry", "is_a_/GeospatialGeometry", "class/Thing/Intangible/GeospatialGeometry"]
+version: "2.0"
+tagNames:
+  - class/GeospatialGeometry
+  - class/Thing/Intangible/GeospatialGeometry
+  - is_a_/GeospatialGeometry
+  - schema-org/GeospatialGeometry
+tags:
+  - class/FileClass
+  - class/GeospatialGeometry
+  - is_a_/GeospatialGeometry
+  - class/Thing/Intangible/GeospatialGeometry
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: UPXWhx
+    name: GeoContains
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: juc8QT
+    name: GeoCoveredBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: jDD5xR
+    name: GeoCovers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: kmDWSr
+    name: GeoCrosses
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: 3xdiQY
+    name: GeoDisjoint
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: qmB5fs
+    name: GeoEquals
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: M2AgnF
+    name: GeoIntersects
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: JWCZLt
+    name: GeoOverlaps
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: W9uZQr
+    name: GeoTouches
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
+  - id: Nq6cuk
+    name: GeoWithin
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
+    type: MultiFile
+    path: ""
 ---
 
 # GeospatialGeometry

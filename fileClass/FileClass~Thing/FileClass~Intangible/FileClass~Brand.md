@@ -1,12 +1,44 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Brand, class/Thing/Intangible/Brand, is_a_/Brand, schema-org/Brand]
-tags: ["class/FileClass", "class/Brand", "is_a_/Brand", "class/Thing/Intangible/Brand"]
+version: "2.0"
+tagNames:
+  - class/Brand
+  - class/Thing/Intangible/Brand
+  - is_a_/Brand
+  - schema-org/Brand
+tags:
+  - class/FileClass
+  - class/Brand
+  - is_a_/Brand
+  - class/Thing/Intangible/Brand
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: wp5c0i
+    name: AggregateRating
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+    type: MultiFile
+    path: ""
+  - id: 4tqEto
+    name: Logo
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ""
+  - id: 2aMvZa
+    name: Review
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+    type: MultiFile
+    path: ""
+  - id: 8FcC1O
+    name: Slogan
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Brand

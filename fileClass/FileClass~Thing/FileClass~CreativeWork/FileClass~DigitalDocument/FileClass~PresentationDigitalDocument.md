@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PresentationDigitalDocument, class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument, is_a_/PresentationDigitalDocument, schema-org/PresentationDigitalDocument]
-tags: ["class/FileClass", "class/PresentationDigitalDocument", "is_a_/PresentationDigitalDocument", "class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument"]
+version: "2.0"
+tagNames:
+  - class/PresentationDigitalDocument
+  - class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument
+  - is_a_/PresentationDigitalDocument
+  - schema-org/PresentationDigitalDocument
+tags:
+  - class/FileClass
+  - class/PresentationDigitalDocument
+  - is_a_/PresentationDigitalDocument
+  - class/Thing/CreativeWork/DigitalDocument/PresentationDigitalDocument
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument
+fields: []
 ---
 
 # PresentationDigitalDocument

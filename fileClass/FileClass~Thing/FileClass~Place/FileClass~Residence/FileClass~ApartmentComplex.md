@@ -1,12 +1,43 @@
 ---
 limit: 9
 mapWithTag: false
-excludes:
+excludes: 
 icon: hotel
-version: 5
-tagNames: [class/ApartmentComplex, class/Thing/Place/Residence/ApartmentComplex, is_an_/ApartmentComplex, schema-org/ApartmentComplex]
-tags: ["class/FileClass", "class/ApartmentComplex", "#is_an_/ApartmentComplex", "class/Thing/Place/Residence/ApartmentComplex"]
+version: "2.0"
+tagNames:
+  - class/ApartmentComplex
+  - class/Thing/Place/Residence/ApartmentComplex
+  - is_an_/ApartmentComplex
+  - schema-org/ApartmentComplex
+tags:
+  - class/FileClass
+  - class/ApartmentComplex
+  - "#is_an_/ApartmentComplex"
+  - class/Thing/Place/Residence/ApartmentComplex
 extends: FileClass~Thing/FileClass~Place/FileClass~Residence
+fields:
+  - id: 6mKXSo
+    name: NumberOfAccommodationUnits
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: m0NmoN
+    name: NumberOfAvailableAccommodationUnits
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: RcZiKq
+    name: NumberOfBedrooms
+    options: {}
+    type: Number
+    path: ""
+  - id: DZKLmY
+    name: PetsAllowed
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # ApartmentComplex

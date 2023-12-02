@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MenuItem, class/Thing/Intangible/MenuItem, is_a_/MenuItem, schema-org/MenuItem]
-tags: ["class/FileClass", "class/MenuItem", "is_a_/MenuItem", "class/Thing/Intangible/MenuItem"]
+version: "2.0"
+tagNames:
+  - class/MenuItem
+  - class/Thing/Intangible/MenuItem
+  - is_a_/MenuItem
+  - schema-org/MenuItem
+tags:
+  - class/FileClass
+  - class/MenuItem
+  - is_a_/MenuItem
+  - class/Thing/Intangible/MenuItem
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: NlAyZM
+    name: MenuAddOn
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/MenuItem')
+    type: MultiFile
+    path: ""
+  - id: ndJVIn
+    name: Nutrition
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')
+    type: MultiFile
+    path: ""
+  - id: Tk46bl
+    name: Offers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
+    type: MultiFile
+    path: ""
 ---
 
 # MenuItem

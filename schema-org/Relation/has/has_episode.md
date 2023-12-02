@@ -32,18 +32,18 @@ aliases:
 - has_episode
 ---
 
-Use it like this: 
-- [ #has_/episode :: Episode ] or 
-- [ has_episode :: Episode ] 
-
 An episode of a TV, radio or game media within a series or season.
 
-Relation describes that: 
-[ #has_/domain  :: CreativeWorkSeason, RadioSeries, TVSeries, VideoGameSeries ]
-( #has_/name :: has_episode )
-( #has_/range :: Episode )
+Use it like this: 
+- [ #has_/episode :: [[../../Class/is_a_/creative_work/episode|Episode]] ] or 
+- [ has_episode :: [[../../Class/is_a_/creative_work/episode|Episode]] ] 
 
-[ #is_/sub_property_of  :: hasPart ]
+[[../../Relation|Relation]] describes that: 
+[ #has_/domain  :: [ [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]], [[../../Class/is_a_/creative_work/creative_work_series/radio_series|RadioSeries]], [[../../Class/is_a_/creative_work/tv_series|TVSeries]], [[../../Class/is_a_/creative_work/creative_work_series/video_game_series|VideoGameSeries]] ] ] 
+( #has_/name :: has_episode )
+( #has_/range :: [[../../Class/is_a_/creative_work/episode|Episode]] )
+
+[ #is_/sub_property_of  :: [[has_part]] ] 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_public/schema.org/Predicate/Relations/has/has_episode.md|has_episode]] 

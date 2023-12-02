@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Guide, class/Thing/CreativeWork/Guide, is_a_/Guide, schema-org/Guide]
-tags: ["class/FileClass", "class/Guide", "is_a_/Guide", "class/Thing/CreativeWork/Guide"]
+version: "2.0"
+tagNames:
+  - class/Guide
+  - class/Thing/CreativeWork/Guide
+  - is_a_/Guide
+  - schema-org/Guide
+tags:
+  - class/FileClass
+  - class/Guide
+  - is_a_/Guide
+  - class/Thing/CreativeWork/Guide
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: eNYEHn
+    name: ReviewAspect
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Guide

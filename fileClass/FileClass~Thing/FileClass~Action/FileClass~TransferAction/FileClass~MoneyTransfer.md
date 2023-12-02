@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MoneyTransfer, class/Thing/Action/TransferAction/MoneyTransfer, is_a_/MoneyTransfer, schema-org/MoneyTransfer]
-tags: ["class/FileClass", "class/MoneyTransfer", "is_a_/MoneyTransfer", "class/Thing/Action/TransferAction/MoneyTransfer"]
+version: "2.0"
+tagNames:
+  - class/MoneyTransfer
+  - class/Thing/Action/TransferAction/MoneyTransfer
+  - is_a_/MoneyTransfer
+  - schema-org/MoneyTransfer
+tags:
+  - class/FileClass
+  - class/MoneyTransfer
+  - is_a_/MoneyTransfer
+  - class/Thing/Action/TransferAction/MoneyTransfer
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
+fields:
+  - id: IiDbnG
+    name: Amount
+    options: {}
+    type: Number
+    path: ""
+  - id: L1GSxc
+    name: BeneficiaryBank
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion')
+    type: MultiFile
+    path: ""
 ---
 
 # MoneyTransfer

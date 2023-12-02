@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: cross
-version: 5
-tagNames: [class/MedicalOrganization, class/Thing/Organization/MedicalOrganization, is_a_/MedicalOrganization, schema-org/MedicalOrganization]
-tags: ["class/FileClass", "class/MedicalOrganization", "is_a_/MedicalOrganization", "class/Thing/Organization/MedicalOrganization"]
+version: "2.0"
+tagNames:
+  - class/MedicalOrganization
+  - class/Thing/Organization/MedicalOrganization
+  - is_a_/MedicalOrganization
+  - schema-org/MedicalOrganization
+tags:
+  - class/FileClass
+  - class/MedicalOrganization
+  - is_a_/MedicalOrganization
+  - class/Thing/Organization/MedicalOrganization
 extends: FileClass~Thing/FileClass~Organization
+fields:
+  - id: hkTTOm
+    name: HealthPlanNetworkId
+    options: {}
+    type: Input
+    path: ""
+  - id: xCSrrX
+    name: IsAcceptingNewPatients
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # MedicalOrganization

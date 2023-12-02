@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ScholarlyArticle, class/Thing/CreativeWork/Article/ScholarlyArticle, is_a_/ScholarlyArticle, schema-org/ScholarlyArticle]
-tags: ["class/FileClass", "class/ScholarlyArticle", "is_a_/ScholarlyArticle", "class/Thing/CreativeWork/Article/ScholarlyArticle"]
+version: "2.0"
+tagNames:
+  - class/ScholarlyArticle
+  - class/Thing/CreativeWork/Article/ScholarlyArticle
+  - is_a_/ScholarlyArticle
+  - schema-org/ScholarlyArticle
+tags:
+  - class/FileClass
+  - class/ScholarlyArticle
+  - is_a_/ScholarlyArticle
+  - class/Thing/CreativeWork/Article/ScholarlyArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
+fields: []
 ---
 
 # ScholarlyArticle

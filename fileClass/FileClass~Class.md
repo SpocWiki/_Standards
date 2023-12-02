@@ -2,11 +2,23 @@
 limit: 100
 mapWithTag: true
 icon: list
-tagNames: [is_a_/Class, schema-org/Class, class/Class]
-tags: ["class/FileClass", "is_a_/Class"]
+tagNames:
+  - is_a_/Class
+  - schema-org/Class
+  - class/Class
+tags:
+  - class/FileClass
+  - is_a_/Class
 excludes: 
 extends: FileClass~Thing/FileClass~Intangible
-version: 9
+version: "2.0"
+fields:
+  - id: 0NkjpX
+    name: is_sub_class_of
+    options:
+      dvQueryString: dv.pages('#class/Class')
+    type: File
+    path: ""
 ---
 
 # [[FileClass~Class]]

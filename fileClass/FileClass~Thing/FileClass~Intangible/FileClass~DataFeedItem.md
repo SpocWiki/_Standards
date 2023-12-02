@@ -1,12 +1,48 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DataFeedItem, class/Thing/Intangible/DataFeedItem, is_a_/DataFeedItem, schema-org/DataFeedItem]
-tags: ["class/FileClass", "class/DataFeedItem", "is_a_/DataFeedItem", "class/Thing/Intangible/DataFeedItem"]
+version: "2.0"
+tagNames:
+  - class/DataFeedItem
+  - class/Thing/Intangible/DataFeedItem
+  - is_a_/DataFeedItem
+  - schema-org/DataFeedItem
+tags:
+  - class/FileClass
+  - class/DataFeedItem
+  - is_a_/DataFeedItem
+  - class/Thing/Intangible/DataFeedItem
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: JsZ8KP
+    name: DateCreated
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: 4j9Zch
+    name: DateDeleted
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: rKzQKT
+    name: DateModified
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: wXf38j
+    name: Item
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
 ---
 
 # DataFeedItem

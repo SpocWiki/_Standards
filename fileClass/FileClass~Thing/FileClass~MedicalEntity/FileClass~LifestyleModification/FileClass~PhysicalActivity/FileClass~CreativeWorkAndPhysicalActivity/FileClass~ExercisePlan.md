@@ -1,12 +1,67 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ExercisePlan, class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan, is_an_/ExercisePlan, schema-org/ExercisePlan]
-tags: ["class/FileClass", "class/ExercisePlan", "#is_an_/ExercisePlan", "class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan"]
+version: "2.0"
+tagNames:
+  - class/ExercisePlan
+  - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan
+  - is_an_/ExercisePlan
+  - schema-org/ExercisePlan
+tags:
+  - class/FileClass
+  - class/ExercisePlan
+  - "#is_an_/ExercisePlan"
+  - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity
+fields:
+  - id: QHzaOL
+    name: ActivityDuration
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: PkoT1M
+    name: ActivityFrequency
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: AjQmU5
+    name: AdditionalVariable
+    options: {}
+    type: Input
+    path: ""
+  - id: 8dGUEy
+    name: ExerciseType
+    options: {}
+    type: Input
+    path: ""
+  - id: uIsbNt
+    name: Intensity
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: fPoBRk
+    name: Repetitions
+    options: {}
+    type: Number
+    path: ""
+  - id: 7nCbGh
+    name: RestPeriods
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: zhg3xV
+    name: Workload
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # ExercisePlan

@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DaySpa, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/DaySpa, is_a_/DaySpa, schema-org/DaySpa]
-tags: ["class/FileClass", "class/DaySpa", "is_a_/DaySpa", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/DaySpa"]
+version: "2.0"
+tagNames:
+  - class/DaySpa
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/DaySpa
+  - is_a_/DaySpa
+  - schema-org/DaySpa
+tags:
+  - class/FileClass
+  - class/DaySpa
+  - is_a_/DaySpa
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/HealthAndBeautyBusiness/DaySpa
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness
+fields: []
 ---
 
 # DaySpa

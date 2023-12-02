@@ -1,12 +1,37 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ExchangeRateSpecification, class/Thing/Intangible/StructuredValue/ExchangeRateSpecification, is_an_/ExchangeRateSpecification, schema-org/ExchangeRateSpecification]
-tags: ["class/FileClass", "class/ExchangeRateSpecification", "#is_an_/ExchangeRateSpecification", "class/Thing/Intangible/StructuredValue/ExchangeRateSpecification"]
+version: "2.0"
+tagNames:
+  - class/ExchangeRateSpecification
+  - class/Thing/Intangible/StructuredValue/ExchangeRateSpecification
+  - is_an_/ExchangeRateSpecification
+  - schema-org/ExchangeRateSpecification
+tags:
+  - class/FileClass
+  - class/ExchangeRateSpecification
+  - "#is_an_/ExchangeRateSpecification"
+  - class/Thing/Intangible/StructuredValue/ExchangeRateSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: Xccew0
+    name: Currency
+    options: {}
+    type: Input
+    path: ""
+  - id: DPj5OM
+    name: CurrentExchangeRate
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification')
+    type: MultiFile
+    path: ""
+  - id: xzszuY
+    name: ExchangeRateSpread
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # ExchangeRateSpecification

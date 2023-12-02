@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Researcher, class/Thing/Intangible/Audience/Researcher, is_a_/Researcher, schema-org/Researcher]
-tags: ["class/FileClass", "class/Researcher", "is_a_/Researcher", "class/Thing/Intangible/Audience/Researcher"]
+version: "2.0"
+tagNames:
+  - class/Researcher
+  - class/Thing/Intangible/Audience/Researcher
+  - is_a_/Researcher
+  - schema-org/Researcher
+tags:
+  - class/FileClass
+  - class/Researcher
+  - is_a_/Researcher
+  - class/Thing/Intangible/Audience/Researcher
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
+fields: []
 ---
 
 # Researcher

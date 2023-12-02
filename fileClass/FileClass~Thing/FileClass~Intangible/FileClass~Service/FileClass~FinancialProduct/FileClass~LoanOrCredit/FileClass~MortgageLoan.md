@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MortgageLoan, class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan, is_a_/MortgageLoan, schema-org/MortgageLoan]
-tags: ["class/FileClass", "class/MortgageLoan", "is_a_/MortgageLoan", "class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan"]
+version: "2.0"
+tagNames:
+  - class/MortgageLoan
+  - class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan
+  - is_a_/MortgageLoan
+  - schema-org/MortgageLoan
+tags:
+  - class/FileClass
+  - class/MortgageLoan
+  - is_a_/MortgageLoan
+  - class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit
+fields:
+  - id: tcV22R
+    name: DomiciledMortgage
+    options: {}
+    type: Boolean
+    path: ""
+  - id: aBHXl0
+    name: LoanMortgageMandateAmount
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
 ---
 
 # MortgageLoan

@@ -39,7 +39,8 @@ Use it like this:
 - [ #has_/text_/of_/sha256 :: Text ] or 
 - [ has_text_of_sha256 :: Text ] 
 
-The [SHA-2](https://en.wikipedia.org/wiki/SHA-2) SHA256 hash of the content of the item. For example, a zero-length input has value "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+The [SHA-2](https://en.wikipedia.org/wiki/SHA-2) SHA256 hash of the content of the item. 
+For example, a zero-length input has value "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 Predicated describes that: 
 [ #has_/domain  :: MediaObject ]

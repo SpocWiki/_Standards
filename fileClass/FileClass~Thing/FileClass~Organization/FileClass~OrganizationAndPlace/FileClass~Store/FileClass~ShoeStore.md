@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: footprints
-version: 5
-tagNames: [class/ShoeStore, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore, is_a_/ShoeStore, schema-org/ShoeStore]
-tags: ["class/FileClass", "class/ShoeStore", "is_a_/ShoeStore", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore"]
+version: "2.0"
+tagNames:
+  - class/ShoeStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore
+  - is_a_/ShoeStore
+  - schema-org/ShoeStore
+tags:
+  - class/FileClass
+  - class/ShoeStore
+  - is_a_/ShoeStore
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/Store/ShoeStore
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store
+fields: []
 ---
 
 # ShoeStore

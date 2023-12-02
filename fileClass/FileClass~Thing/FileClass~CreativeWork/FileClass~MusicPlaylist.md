@@ -1,12 +1,32 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: list-music
-version: 5
-tagNames: [class/MusicPlaylist, class/Thing/CreativeWork/MusicPlaylist, is_a_/MusicPlaylist, schema-org/MusicPlaylist]
-tags: ["class/FileClass", "class/MusicPlaylist", "is_a_/MusicPlaylist", "class/Thing/CreativeWork/MusicPlaylist"]
+version: "2.0"
+tagNames:
+  - class/MusicPlaylist
+  - class/Thing/CreativeWork/MusicPlaylist
+  - is_a_/MusicPlaylist
+  - schema-org/MusicPlaylist
+tags:
+  - class/FileClass
+  - class/MusicPlaylist
+  - is_a_/MusicPlaylist
+  - class/Thing/CreativeWork/MusicPlaylist
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: XPEGvv
+    name: NumTracks
+    options: {}
+    type: Number
+    path: ""
+  - id: eA4IFS
+    name: Track
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ""
 ---
 
 # MusicPlaylist

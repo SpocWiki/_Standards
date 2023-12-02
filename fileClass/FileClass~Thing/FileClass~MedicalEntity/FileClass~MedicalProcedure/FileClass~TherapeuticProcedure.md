@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TherapeuticProcedure, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure, is_a_/TherapeuticProcedure, schema-org/TherapeuticProcedure]
-tags: ["class/FileClass", "class/TherapeuticProcedure", "is_a_/TherapeuticProcedure", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure"]
+version: "2.0"
+tagNames:
+  - class/TherapeuticProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure
+  - is_a_/TherapeuticProcedure
+  - schema-org/TherapeuticProcedure
+tags:
+  - class/FileClass
+  - class/TherapeuticProcedure
+  - is_a_/TherapeuticProcedure
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure
+fields:
+  - id: PQSby6
+    name: AdverseOutcome
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
+    type: MultiFile
+    path: ""
+  - id: Er2Ibq
+    name: DoseSchedule
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule')
+    type: MultiFile
+    path: ""
+  - id: ZkcRa1
+    name: Drug
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
+    type: MultiFile
+    path: ""
 ---
 
 # TherapeuticProcedure

@@ -1,12 +1,51 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ComicStoryAndCoverArt, class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt, is_a_/ComicStoryAndCoverArt, schema-org/ComicStoryAndCoverArt]
-tags: ["class/FileClass", "class/ComicStoryAndCoverArt", "is_a_/ComicStoryAndCoverArt", "class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt"]
+version: "2.0"
+tagNames:
+  - class/ComicStoryAndCoverArt
+  - class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt
+  - is_a_/ComicStoryAndCoverArt
+  - schema-org/ComicStoryAndCoverArt
+tags:
+  - class/FileClass
+  - class/ComicStoryAndCoverArt
+  - is_a_/ComicStoryAndCoverArt
+  - class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt
+fields:
+  - id: SHtVMd
+    name: Artist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: 8F3xyr
+    name: Colorist
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: UxSHaw
+    name: Inker
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: uUxyMA
+    name: Letterer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: rykF0g
+    name: Penciler
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
 ---
 
 # ComicStoryAndCoverArt

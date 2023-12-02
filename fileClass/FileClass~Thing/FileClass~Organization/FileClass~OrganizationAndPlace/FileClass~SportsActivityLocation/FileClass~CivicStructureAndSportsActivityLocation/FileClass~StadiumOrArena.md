@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/StadiumOrArena, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation/StadiumOrArena, is_a_/StadiumOrArena, schema-org/StadiumOrArena]
-tags: ["class/FileClass", "class/StadiumOrArena", "is_a_/StadiumOrArena", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation/StadiumOrArena"]
+version: "2.0"
+tagNames:
+  - class/StadiumOrArena
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation/StadiumOrArena
+  - is_a_/StadiumOrArena
+  - schema-org/StadiumOrArena
+tags:
+  - class/FileClass
+  - class/StadiumOrArena
+  - is_a_/StadiumOrArena
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/CivicStructureAndSportsActivityLocation/StadiumOrArena
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~CivicStructureAndSportsActivityLocation
+fields: []
 ---
 
 # StadiumOrArena

@@ -32,12 +32,11 @@ aliases:
 ---
 
 Predicate to describe the Text of DrugStrength.
+The units of an active ingredient's strength, e.g. mg.
 
 Use it like this: 
 - [ #has_/text_/of_/strength_unit :: Text ] or 
 - [ has_text_of_strength_unit :: Text ] 
-
-The units of an active ingredient"s strength, e.g. mg.
 
 Predicated describes that: 
 [ #has_/domain  :: DrugStrength ]

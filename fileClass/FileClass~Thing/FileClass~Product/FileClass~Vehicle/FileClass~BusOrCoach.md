@@ -3,10 +3,30 @@ limit: 9
 mapWithTag: false
 excludes: 
 icon: bus
-version: 7
-tagNames: [class/BusOrCoach, class/Thing/Product/Vehicle/BusOrCoach, is_a_/BusOrCoach, schema-org/BusOrCoach]
-tags: ["class/FileClass", "class/BusOrCoach", "is_a_/BusOrCoach", "class/Thing/Product/Vehicle/BusOrCoach"]
+version: "2.0"
+tagNames:
+  - class/BusOrCoach
+  - class/Thing/Product/Vehicle/BusOrCoach
+  - is_a_/BusOrCoach
+  - schema-org/BusOrCoach
+tags:
+  - class/FileClass
+  - class/BusOrCoach
+  - is_a_/BusOrCoach
+  - class/Thing/Product/Vehicle/BusOrCoach
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
+fields:
+  - id: uhdurT
+    name: AcrissCode
+    options: {}
+    type: Input
+    path: ""
+  - id: ZTexaP
+    name: RoofLoad
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # BusOrCoach

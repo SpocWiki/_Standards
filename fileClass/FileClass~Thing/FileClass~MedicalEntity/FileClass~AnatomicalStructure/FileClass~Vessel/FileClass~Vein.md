@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Vein, class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Vein, is_a_/Vein, schema-org/Vein]
-tags: ["class/FileClass", "class/Vein", "is_a_/Vein", "class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Vein"]
+version: "2.0"
+tagNames:
+  - class/Vein
+  - class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Vein
+  - is_a_/Vein
+  - schema-org/Vein
+tags:
+  - class/FileClass
+  - class/Vein
+  - is_a_/Vein
+  - class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Vein
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel
+fields:
+  - id: fFtGb9
+    name: DrainsTo
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')
+    type: MultiFile
+    path: ""
+  - id: auh48h
+    name: RegionDrained
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ""
+  - id: HRpYlt
+    name: Tributary
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ""
 ---
 
 # Vein

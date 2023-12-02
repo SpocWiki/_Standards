@@ -1,12 +1,66 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Recipe, class/Thing/CreativeWork/HowTo/Recipe, is_a_/Recipe, schema-org/Recipe]
-tags: ["class/FileClass", "class/Recipe", "is_a_/Recipe", "class/Thing/CreativeWork/HowTo/Recipe"]
+version: "2.0"
+tagNames:
+  - class/Recipe
+  - class/Thing/CreativeWork/HowTo/Recipe
+  - is_a_/Recipe
+  - schema-org/Recipe
+tags:
+  - class/FileClass
+  - class/Recipe
+  - is_a_/Recipe
+  - class/Thing/CreativeWork/HowTo/Recipe
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo
+fields:
+  - id: Gl5uY7
+    name: CookTime
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: eY02Dv
+    name: CookingMethod
+    options: {}
+    type: Input
+    path: ""
+  - id: 3KYHXH
+    name: Nutrition
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')
+    type: MultiFile
+    path: ""
+  - id: ek9twL
+    name: RecipeCategory
+    options: {}
+    type: Input
+    path: ""
+  - id: bvK1kh
+    name: RecipeCuisine
+    options: {}
+    type: Input
+    path: ""
+  - id: j2O2AL
+    name: RecipeIngredient
+    options: {}
+    type: Input
+    path: ""
+  - id: nOfpIa
+    name: RecipeInstructions
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: mEOBym
+    name: RecipeYield
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # Recipe

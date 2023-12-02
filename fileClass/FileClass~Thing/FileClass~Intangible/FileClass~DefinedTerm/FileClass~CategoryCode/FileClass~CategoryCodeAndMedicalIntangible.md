@@ -1,12 +1,56 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CategoryCodeAndMedicalIntangible, class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible, is_a_/CategoryCodeAndMedicalIntangible, schema-org/CategoryCodeAndMedicalIntangible]
-tags: ["class/FileClass", "class/CategoryCodeAndMedicalIntangible", "is_a_/CategoryCodeAndMedicalIntangible", "class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible"]
+version: "2.0"
+tagNames:
+  - class/CategoryCodeAndMedicalIntangible
+  - class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible
+  - is_a_/CategoryCodeAndMedicalIntangible
+  - schema-org/CategoryCodeAndMedicalIntangible
+tags:
+  - class/FileClass
+  - class/CategoryCodeAndMedicalIntangible
+  - is_a_/CategoryCodeAndMedicalIntangible
+  - class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode
+fields:
+  - id: EhFdYz
+    name: Code
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode')
+    type: MultiFile
+    path: ""
+  - id: lqNK3y
+    name: Funding
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
+    type: MultiFile
+    path: ""
+  - id: IytKhH
+    name: Guideline
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalGuideline')
+    type: MultiFile
+    path: ""
+  - id: 0LIYlv
+    name: LegalStatus
+    options: {}
+    type: Input
+    path: ""
+  - id: XhSD7p
+    name: RecognizingAuthority
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: BVmKfN
+    name: Study
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalStudy')
+    type: MultiFile
+    path: ""
 ---
 
 # CategoryCodeAndMedicalIntangible

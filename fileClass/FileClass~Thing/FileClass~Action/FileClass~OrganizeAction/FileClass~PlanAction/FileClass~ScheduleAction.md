@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ScheduleAction, class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction, is_a_/ScheduleAction, schema-org/ScheduleAction]
-tags: ["class/FileClass", "class/ScheduleAction", "is_a_/ScheduleAction", "class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction"]
+version: "2.0"
+tagNames:
+  - class/ScheduleAction
+  - class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction
+  - is_a_/ScheduleAction
+  - schema-org/ScheduleAction
+tags:
+  - class/FileClass
+  - class/ScheduleAction
+  - is_a_/ScheduleAction
+  - class/Thing/Action/OrganizeAction/PlanAction/ScheduleAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction
+fields: []
 ---
 
 # ScheduleAction

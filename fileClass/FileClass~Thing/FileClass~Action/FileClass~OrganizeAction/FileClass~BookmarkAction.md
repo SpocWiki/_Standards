@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BookmarkAction, class/Thing/Action/OrganizeAction/BookmarkAction, is_a_/BookmarkAction, schema-org/BookmarkAction]
-tags: ["class/FileClass", "class/BookmarkAction", "is_a_/BookmarkAction", "class/Thing/Action/OrganizeAction/BookmarkAction"]
+version: "2.0"
+tagNames:
+  - class/BookmarkAction
+  - class/Thing/Action/OrganizeAction/BookmarkAction
+  - is_a_/BookmarkAction
+  - schema-org/BookmarkAction
+tags:
+  - class/FileClass
+  - class/BookmarkAction
+  - is_a_/BookmarkAction
+  - class/Thing/Action/OrganizeAction/BookmarkAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction
+fields: []
 ---
 
 # BookmarkAction

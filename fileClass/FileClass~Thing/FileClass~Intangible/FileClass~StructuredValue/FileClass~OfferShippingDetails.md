@@ -1,12 +1,89 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/OfferShippingDetails, class/Thing/Intangible/StructuredValue/OfferShippingDetails, is_an_/OfferShippingDetails, schema-org/OfferShippingDetails]
-tags: ["class/FileClass", "class/OfferShippingDetails", "#is_an_/OfferShippingDetails", "class/Thing/Intangible/StructuredValue/OfferShippingDetails"]
+version: "2.0"
+tagNames:
+  - class/OfferShippingDetails
+  - class/Thing/Intangible/StructuredValue/OfferShippingDetails
+  - is_an_/OfferShippingDetails
+  - schema-org/OfferShippingDetails
+tags:
+  - class/FileClass
+  - class/OfferShippingDetails
+  - "#is_an_/OfferShippingDetails"
+  - class/Thing/Intangible/StructuredValue/OfferShippingDetails
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: xxMyZl
+    name: DeliveryTime
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ShippingDeliveryTime')
+    type: MultiFile
+    path: ""
+  - id: wIH9cy
+    name: Depth
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: 1Gr8lZ
+    name: DoesNotShip
+    options: {}
+    type: Boolean
+    path: ""
+  - id: cg96lw
+    name: Height
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: voVJB5
+    name: ShippingDestination
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
+    type: MultiFile
+    path: ""
+  - id: CSPRyY
+    name: ShippingLabel
+    options: {}
+    type: Input
+    path: ""
+  - id: miFApJ
+    name: ShippingOrigin
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
+    type: MultiFile
+    path: ""
+  - id: JhlMw9
+    name: ShippingRate
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
+    type: MultiFile
+    path: ""
+  - id: oiXyHr
+    name: ShippingSettingsLink
+    options: {}
+    type: Input
+    path: ""
+  - id: E7oSiU
+    name: TransitTimeLabel
+    options: {}
+    type: Input
+    path: ""
+  - id: lbistI
+    name: Weight
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: nx6AEK
+    name: Width
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # OfferShippingDetails

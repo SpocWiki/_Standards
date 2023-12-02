@@ -1,12 +1,58 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/InteractionCounter, class/Thing/Intangible/StructuredValue/InteractionCounter, is_an_/InteractionCounter, schema-org/InteractionCounter]
-tags: ["class/FileClass", "class/InteractionCounter", "#is_an_/InteractionCounter", "class/Thing/Intangible/StructuredValue/InteractionCounter"]
+version: "2.0"
+tagNames:
+  - class/InteractionCounter
+  - class/Thing/Intangible/StructuredValue/InteractionCounter
+  - is_an_/InteractionCounter
+  - schema-org/InteractionCounter
+tags:
+  - class/FileClass
+  - class/InteractionCounter
+  - "#is_an_/InteractionCounter"
+  - class/Thing/Intangible/StructuredValue/InteractionCounter
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: Sh9t3S
+    name: EndTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: yufir4
+    name: InteractionService
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
+    type: MultiFile
+    path: ""
+  - id: llWbeV
+    name: InteractionType
+    options:
+      dvQueryString: dv.pages('#class/Thing/Action')
+    type: MultiFile
+    path: ""
+  - id: tf0w4x
+    name: Location
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place')
+    type: MultiFile
+    path: ""
+  - id: qui8cM
+    name: StartTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: NnG0aL
+    name: UserInteractionCount
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # InteractionCounter

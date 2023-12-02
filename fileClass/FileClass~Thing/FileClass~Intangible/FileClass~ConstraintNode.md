@@ -1,12 +1,31 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ConstraintNode, class/Thing/Intangible/ConstraintNode, is_a_/ConstraintNode, schema-org/ConstraintNode]
-tags: ["class/FileClass", "class/ConstraintNode", "is_a_/ConstraintNode", "class/Thing/Intangible/ConstraintNode"]
+version: "2.0"
+tagNames:
+  - class/ConstraintNode
+  - class/Thing/Intangible/ConstraintNode
+  - is_a_/ConstraintNode
+  - schema-org/ConstraintNode
+tags:
+  - class/FileClass
+  - class/ConstraintNode
+  - is_a_/ConstraintNode
+  - class/Thing/Intangible/ConstraintNode
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: xeckSN
+    name: ConstraintProperty
+    options: {}
+    type: Input
+    path: ""
+  - id: 44Esmd
+    name: NumConstraints
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # ConstraintNode

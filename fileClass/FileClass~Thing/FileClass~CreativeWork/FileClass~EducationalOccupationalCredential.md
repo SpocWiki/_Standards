@@ -1,12 +1,52 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/EducationalOccupationalCredential, class/Thing/CreativeWork/EducationalOccupationalCredential, is_an_/EducationalOccupationalCredential, schema-org/EducationalOccupationalCredential]
-tags: ["class/FileClass", "class/EducationalOccupationalCredential", "#is_an_/EducationalOccupationalCredential", "class/Thing/CreativeWork/EducationalOccupationalCredential"]
+version: "2.0"
+tagNames:
+  - class/EducationalOccupationalCredential
+  - class/Thing/CreativeWork/EducationalOccupationalCredential
+  - is_an_/EducationalOccupationalCredential
+  - schema-org/EducationalOccupationalCredential
+tags:
+  - class/FileClass
+  - class/EducationalOccupationalCredential
+  - "#is_an_/EducationalOccupationalCredential"
+  - class/Thing/CreativeWork/EducationalOccupationalCredential
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: QMt9Ur
+    name: CompetencyRequired
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: ENrLlX
+    name: CredentialCategory
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
+    type: MultiFile
+    path: ""
+  - id: gnHNpP
+    name: RecognizedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: Px7ySv
+    name: ValidFor
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: WGhjoK
+    name: ValidIn
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
+    type: MultiFile
+    path: ""
 ---
 
 # EducationalOccupationalCredential

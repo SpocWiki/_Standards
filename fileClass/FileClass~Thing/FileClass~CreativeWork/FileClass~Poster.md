@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Poster, class/Thing/CreativeWork/Poster, is_a_/Poster, schema-org/Poster]
-tags: ["class/FileClass", "class/Poster", "is_a_/Poster", "class/Thing/CreativeWork/Poster"]
+version: "2.0"
+tagNames:
+  - class/Poster
+  - class/Thing/CreativeWork/Poster
+  - is_a_/Poster
+  - schema-org/Poster
+tags:
+  - class/FileClass
+  - class/Poster
+  - is_a_/Poster
+  - class/Thing/CreativeWork/Poster
 extends: FileClass~Thing/FileClass~CreativeWork
+fields: []
 ---
 
 # Poster

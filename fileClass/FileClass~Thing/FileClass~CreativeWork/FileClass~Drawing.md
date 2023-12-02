@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: pencil
-version: 5
-tagNames: [class/Drawing, class/Thing/CreativeWork/Drawing, is_a_/Drawing, schema-org/Drawing]
-tags: ["class/FileClass", "class/Drawing", "is_a_/Drawing", "class/Thing/CreativeWork/Drawing"]
+version: "2.0"
+tagNames:
+  - class/Drawing
+  - class/Thing/CreativeWork/Drawing
+  - is_a_/Drawing
+  - schema-org/Drawing
+tags:
+  - class/FileClass
+  - class/Drawing
+  - is_a_/Drawing
+  - class/Thing/CreativeWork/Drawing
 extends: FileClass~Thing/FileClass~CreativeWork
+fields: []
 ---
 
 # Drawing

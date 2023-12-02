@@ -1,12 +1,52 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Rating, class/Thing/Intangible/Rating, is_a_/Rating, schema-org/Rating]
-tags: ["class/FileClass", "class/Rating", "is_a_/Rating", "class/Thing/Intangible/Rating"]
+version: "2.0"
+tagNames:
+  - class/Rating
+  - class/Thing/Intangible/Rating
+  - is_a_/Rating
+  - schema-org/Rating
+tags:
+  - class/FileClass
+  - class/Rating
+  - is_a_/Rating
+  - class/Thing/Intangible/Rating
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: cmaZWs
+    name: Author
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: HMJXhI
+    name: BestRating
+    options: {}
+    type: Number
+    path: ""
+  - id: gIQi5M
+    name: RatingExplanation
+    options: {}
+    type: Input
+    path: ""
+  - id: 8wyjIt
+    name: RatingValue
+    options: {}
+    type: Number
+    path: ""
+  - id: 93Il5V
+    name: ReviewAspect
+    options: {}
+    type: Input
+    path: ""
+  - id: e7sJpw
+    name: WorstRating
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # Rating

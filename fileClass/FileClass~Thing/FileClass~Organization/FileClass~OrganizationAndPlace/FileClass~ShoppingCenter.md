@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ShoppingCenter, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ShoppingCenter, is_a_/ShoppingCenter, schema-org/ShoppingCenter]
-tags: ["class/FileClass", "class/ShoppingCenter", "is_a_/ShoppingCenter", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ShoppingCenter"]
+version: "2.0"
+tagNames:
+  - class/ShoppingCenter
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ShoppingCenter
+  - is_a_/ShoppingCenter
+  - schema-org/ShoppingCenter
+tags:
+  - class/FileClass
+  - class/ShoppingCenter
+  - is_a_/ShoppingCenter
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ShoppingCenter
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
+fields: []
 ---
 
 # ShoppingCenter

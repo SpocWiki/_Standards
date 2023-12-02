@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MobileApplication, class/Thing/CreativeWork/SoftwareApplication/MobileApplication, is_a_/MobileApplication, schema-org/MobileApplication]
-tags: ["class/FileClass", "class/MobileApplication", "is_a_/MobileApplication", "class/Thing/CreativeWork/SoftwareApplication/MobileApplication"]
+version: "2.0"
+tagNames:
+  - class/MobileApplication
+  - class/Thing/CreativeWork/SoftwareApplication/MobileApplication
+  - is_a_/MobileApplication
+  - schema-org/MobileApplication
+tags:
+  - class/FileClass
+  - class/MobileApplication
+  - is_a_/MobileApplication
+  - class/Thing/CreativeWork/SoftwareApplication/MobileApplication
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
+fields:
+  - id: OBAFgm
+    name: CarrierRequirements
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # MobileApplication

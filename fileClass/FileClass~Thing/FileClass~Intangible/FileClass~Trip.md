@@ -1,12 +1,65 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Trip, class/Thing/Intangible/Trip, is_a_/Trip, schema-org/Trip]
-tags: ["class/FileClass", "class/Trip", "is_a_/Trip", "class/Thing/Intangible/Trip"]
+version: "2.0"
+tagNames:
+  - class/Trip
+  - class/Thing/Intangible/Trip
+  - is_a_/Trip
+  - schema-org/Trip
+tags:
+  - class/FileClass
+  - class/Trip
+  - is_a_/Trip
+  - class/Thing/Intangible/Trip
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: JannU5
+    name: ArrivalTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: T3hmBh
+    name: DepartureTime
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    type: Date
+    path: ""
+  - id: QMVWGM
+    name: Itinerary
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+    type: MultiFile
+    path: ""
+  - id: naSiaM
+    name: Offers
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
+    type: MultiFile
+    path: ""
+  - id: 16pjyQ
+    name: PartOfTrip
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Trip')
+    type: MultiFile
+    path: ""
+  - id: iWrnrs
+    name: Provider
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: 2V7Uh9
+    name: SubTrip
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Trip')
+    type: MultiFile
+    path: ""
 ---
 
 # Trip

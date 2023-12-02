@@ -1,12 +1,77 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PropertyValueSpecification, class/Thing/Intangible/PropertyValueSpecification, is_a_/PropertyValueSpecification, schema-org/PropertyValueSpecification]
-tags: ["class/FileClass", "class/PropertyValueSpecification", "is_a_/PropertyValueSpecification", "class/Thing/Intangible/PropertyValueSpecification"]
+version: "2.0"
+tagNames:
+  - class/PropertyValueSpecification
+  - class/Thing/Intangible/PropertyValueSpecification
+  - is_a_/PropertyValueSpecification
+  - schema-org/PropertyValueSpecification
+tags:
+  - class/FileClass
+  - class/PropertyValueSpecification
+  - is_a_/PropertyValueSpecification
+  - class/Thing/Intangible/PropertyValueSpecification
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: k96cjE
+    name: DefaultValue
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: ULs5wA
+    name: MaxValue
+    options: {}
+    type: Number
+    path: ""
+  - id: jXpctO
+    name: MinValue
+    options: {}
+    type: Number
+    path: ""
+  - id: Xy1hOw
+    name: MultipleValues
+    options: {}
+    type: Boolean
+    path: ""
+  - id: oNym5K
+    name: ReadonlyValue
+    options: {}
+    type: Boolean
+    path: ""
+  - id: IIJFWY
+    name: StepValue
+    options: {}
+    type: Number
+    path: ""
+  - id: 4WfDSe
+    name: ValueMaxLength
+    options: {}
+    type: Number
+    path: ""
+  - id: oQUlqL
+    name: ValueMinLength
+    options: {}
+    type: Number
+    path: ""
+  - id: I0Xunb
+    name: ValueName
+    options: {}
+    type: Input
+    path: ""
+  - id: IX0FtQ
+    name: ValuePattern
+    options: {}
+    type: Input
+    path: ""
+  - id: zeQiIr
+    name: ValueRequired
+    options: {}
+    type: Boolean
+    path: ""
 ---
 
 # PropertyValueSpecification

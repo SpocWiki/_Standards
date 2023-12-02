@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: flag-triangle-right
-version: 5
-tagNames: [class/GolfCourse, class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/GolfCourse, is_a_/GolfCourse, schema-org/GolfCourse]
-tags: ["class/FileClass", "class/GolfCourse", "is_a_/GolfCourse", "class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/GolfCourse"]
+version: "2.0"
+tagNames:
+  - class/GolfCourse
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/GolfCourse
+  - is_a_/GolfCourse
+  - schema-org/GolfCourse
+tags:
+  - class/FileClass
+  - class/GolfCourse
+  - is_a_/GolfCourse
+  - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation/GolfCourse
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation
+fields: []
 ---
 
 # GolfCourse

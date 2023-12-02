@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MediaSubscription, class/Thing/Intangible/MediaSubscription, is_a_/MediaSubscription, schema-org/MediaSubscription]
-tags: ["class/FileClass", "class/MediaSubscription", "is_a_/MediaSubscription", "class/Thing/Intangible/MediaSubscription"]
+version: "2.0"
+tagNames:
+  - class/MediaSubscription
+  - class/Thing/Intangible/MediaSubscription
+  - is_a_/MediaSubscription
+  - schema-org/MediaSubscription
+tags:
+  - class/FileClass
+  - class/MediaSubscription
+  - is_a_/MediaSubscription
+  - class/Thing/Intangible/MediaSubscription
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: ELHd0z
+    name: Authenticator
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: mzhIeT
+    name: ExpectsAcceptanceOf
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
+    type: MultiFile
+    path: ""
 ---
 
 # MediaSubscription

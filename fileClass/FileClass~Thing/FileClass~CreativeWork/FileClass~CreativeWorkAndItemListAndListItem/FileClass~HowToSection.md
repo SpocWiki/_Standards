@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/HowToSection, class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToSection, is_a_/HowToSection, schema-org/HowToSection]
-tags: ["class/FileClass", "class/HowToSection", "is_a_/HowToSection", "class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToSection"]
+version: "2.0"
+tagNames:
+  - class/HowToSection
+  - class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToSection
+  - is_a_/HowToSection
+  - schema-org/HowToSection
+tags:
+  - class/FileClass
+  - class/HowToSection
+  - is_a_/HowToSection
+  - class/Thing/CreativeWork/CreativeWorkAndItemListAndListItem/HowToSection
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndItemListAndListItem
+fields: []
 ---
 
 # HowToSection

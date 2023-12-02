@@ -1,12 +1,33 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PublicationEvent, class/Thing/Event/PublicationEvent, is_a_/PublicationEvent, schema-org/PublicationEvent]
-tags: ["class/FileClass", "class/PublicationEvent", "is_a_/PublicationEvent", "class/Thing/Event/PublicationEvent"]
+version: "2.0"
+tagNames:
+  - class/PublicationEvent
+  - class/Thing/Event/PublicationEvent
+  - is_a_/PublicationEvent
+  - schema-org/PublicationEvent
+tags:
+  - class/FileClass
+  - class/PublicationEvent
+  - is_a_/PublicationEvent
+  - class/Thing/Event/PublicationEvent
 extends: FileClass~Thing/FileClass~Event
+fields:
+  - id: WwvcTN
+    name: PublishedBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: 3Zi8WF
+    name: PublishedOn
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Service/BroadcastService')
+    type: MultiFile
+    path: ""
 ---
 
 # PublicationEvent

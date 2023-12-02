@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/CompoundPriceSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification, is_a_/CompoundPriceSpecification, schema-org/CompoundPriceSpecification]
-tags: ["class/FileClass", "class/CompoundPriceSpecification", "is_a_/CompoundPriceSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification"]
+version: "2.0"
+tagNames:
+  - class/CompoundPriceSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification
+  - is_a_/CompoundPriceSpecification
+  - schema-org/CompoundPriceSpecification
+tags:
+  - class/FileClass
+  - class/CompoundPriceSpecification
+  - is_a_/CompoundPriceSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
+fields:
+  - id: tXVTGo
+    name: PriceComponent
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification')
+    type: MultiFile
+    path: ""
 ---
 
 # CompoundPriceSpecification

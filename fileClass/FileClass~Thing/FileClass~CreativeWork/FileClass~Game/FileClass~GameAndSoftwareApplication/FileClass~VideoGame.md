@@ -1,12 +1,74 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: gamepad-2
-version: 5
-tagNames: [class/VideoGame, class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame, is_a_/VideoGame, schema-org/VideoGame]
-tags: ["class/FileClass", "class/VideoGame", "is_a_/VideoGame", "class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame"]
+version: "2.0"
+tagNames:
+  - class/VideoGame
+  - class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame
+  - is_a_/VideoGame
+  - schema-org/VideoGame
+tags:
+  - class/FileClass
+  - class/VideoGame
+  - is_a_/VideoGame
+  - class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication
+fields:
+  - id: HDLw2w
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: 9Mn9D0
+    name: CheatCode
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: 90O458
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: 1otMak
+    name: GameEdition
+    options: {}
+    type: Input
+    path: ""
+  - id: VZG8Pd
+    name: GamePlatform
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: fYHKmh
+    name: GameServer
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/GameServer')
+    type: MultiFile
+    path: ""
+  - id: ZrgEzh
+    name: GameTip
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork')
+    type: MultiFile
+    path: ""
+  - id: B4I1qJ
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ""
+  - id: nRFJmm
+    name: Trailer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
+    type: MultiFile
+    path: ""
 ---
 
 # VideoGame

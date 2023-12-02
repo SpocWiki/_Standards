@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/PaymentChargeSpecification, class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification, is_a_/PaymentChargeSpecification, schema-org/PaymentChargeSpecification]
-tags: ["class/FileClass", "class/PaymentChargeSpecification", "is_a_/PaymentChargeSpecification", "class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification"]
+version: "2.0"
+tagNames:
+  - class/PaymentChargeSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification
+  - is_a_/PaymentChargeSpecification
+  - schema-org/PaymentChargeSpecification
+tags:
+  - class/FileClass
+  - class/PaymentChargeSpecification
+  - is_a_/PaymentChargeSpecification
+  - class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
+fields:
+  - id: 6jdmZ9
+    name: AppliesToPaymentMethod
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # PaymentChargeSpecification

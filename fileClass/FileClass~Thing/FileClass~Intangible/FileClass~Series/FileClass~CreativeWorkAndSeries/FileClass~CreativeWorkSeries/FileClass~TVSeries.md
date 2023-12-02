@@ -1,12 +1,73 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/TVSeries, class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/TVSeries, is_a_/TVSeries, schema-org/TVSeries]
-tags: ["class/FileClass", "class/TVSeries", "is_a_/TVSeries", "class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/TVSeries"]
+version: "2.0"
+tagNames:
+  - class/TVSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/TVSeries
+  - is_a_/TVSeries
+  - schema-org/TVSeries
+tags:
+  - class/FileClass
+  - class/TVSeries
+  - is_a_/TVSeries
+  - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/TVSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
+fields:
+  - id: OJyHRQ
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: hjThlK
+    name: ContainsSeason
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
+    type: MultiFile
+    path: ""
+  - id: y1fc1e
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: e8HWcN
+    name: Episode
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
+    type: MultiFile
+    path: ""
+  - id: 6AwRjr
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ""
+  - id: y8lQOd
+    name: NumberOfEpisodes
+    options: {}
+    type: Number
+    path: ""
+  - id: 5MVCkd
+    name: NumberOfSeasons
+    options: {}
+    type: Number
+    path: ""
+  - id: ACohJ2
+    name: ProductionCompany
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: kI3dzn
+    name: Trailer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
+    type: MultiFile
+    path: ""
 ---
 
 # TVSeries

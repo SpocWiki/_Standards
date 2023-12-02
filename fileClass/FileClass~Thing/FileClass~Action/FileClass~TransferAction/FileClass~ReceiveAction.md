@@ -1,12 +1,27 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ReceiveAction, class/Thing/Action/TransferAction/ReceiveAction, is_a_/ReceiveAction, schema-org/ReceiveAction]
-tags: ["class/FileClass", "class/ReceiveAction", "is_a_/ReceiveAction", "class/Thing/Action/TransferAction/ReceiveAction"]
+version: "2.0"
+tagNames:
+  - class/ReceiveAction
+  - class/Thing/Action/TransferAction/ReceiveAction
+  - is_a_/ReceiveAction
+  - schema-org/ReceiveAction
+tags:
+  - class/FileClass
+  - class/ReceiveAction
+  - is_a_/ReceiveAction
+  - class/Thing/Action/TransferAction/ReceiveAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
+fields:
+  - id: 4PyLk7
+    name: Sender
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+    type: MultiFile
+    path: ""
 ---
 
 # ReceiveAction

@@ -1,12 +1,48 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/DefinedRegion, class/Thing/Intangible/StructuredValue/DefinedRegion, is_a_/DefinedRegion, schema-org/DefinedRegion]
-tags: ["class/FileClass", "class/DefinedRegion", "is_a_/DefinedRegion", "class/Thing/Intangible/StructuredValue/DefinedRegion"]
+version: "2.0"
+tagNames:
+  - class/DefinedRegion
+  - class/Thing/Intangible/StructuredValue/DefinedRegion
+  - is_a_/DefinedRegion
+  - schema-org/DefinedRegion
+tags:
+  - class/FileClass
+  - class/DefinedRegion
+  - is_a_/DefinedRegion
+  - class/Thing/Intangible/StructuredValue/DefinedRegion
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: QXeV6d
+    name: AddressCountry
+    options:
+      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
+    type: MultiFile
+    path: ""
+  - id: s1H9zS
+    name: AddressRegion
+    options: {}
+    type: Input
+    path: ""
+  - id: cCGraZ
+    name: PostalCode
+    options: {}
+    type: Input
+    path: ""
+  - id: ZKmxyw
+    name: PostalCodePrefix
+    options: {}
+    type: Input
+    path: ""
+  - id: AXnkl5
+    name: PostalCodeRange
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification')
+    type: MultiFile
+    path: ""
 ---
 
 # DefinedRegion

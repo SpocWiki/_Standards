@@ -1,12 +1,37 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AggregateRating, class/Thing/Intangible/Rating/AggregateRating, is_an_/AggregateRating, schema-org/AggregateRating]
-tags: ["class/FileClass", "class/AggregateRating", "#is_an_/AggregateRating", "class/Thing/Intangible/Rating/AggregateRating"]
+version: "2.0"
+tagNames:
+  - class/AggregateRating
+  - class/Thing/Intangible/Rating/AggregateRating
+  - is_an_/AggregateRating
+  - schema-org/AggregateRating
+tags:
+  - class/FileClass
+  - class/AggregateRating
+  - "#is_an_/AggregateRating"
+  - class/Thing/Intangible/Rating/AggregateRating
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating
+fields:
+  - id: gAKGPa
+    name: ItemReviewed
+    options:
+      dvQueryString: dv.pages('#class/Thing')
+    type: MultiFile
+    path: ""
+  - id: M7fbXu
+    name: RatingCount
+    options: {}
+    type: Number
+    path: ""
+  - id: 6U7Qjm
+    name: ReviewCount
+    options: {}
+    type: Number
+    path: ""
 ---
 
 # AggregateRating

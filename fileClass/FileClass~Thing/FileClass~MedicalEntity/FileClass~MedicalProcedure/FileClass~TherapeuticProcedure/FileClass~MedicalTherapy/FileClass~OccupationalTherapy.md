@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/OccupationalTherapy, class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy, is_an_/OccupationalTherapy, schema-org/OccupationalTherapy]
-tags: ["class/FileClass", "class/OccupationalTherapy", "#is_an_/OccupationalTherapy", "class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy"]
+version: "2.0"
+tagNames:
+  - class/OccupationalTherapy
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy
+  - is_an_/OccupationalTherapy
+  - schema-org/OccupationalTherapy
+tags:
+  - class/FileClass
+  - class/OccupationalTherapy
+  - "#is_an_/OccupationalTherapy"
+  - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy/OccupationalTherapy
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy
+fields: []
 ---
 
 # OccupationalTherapy

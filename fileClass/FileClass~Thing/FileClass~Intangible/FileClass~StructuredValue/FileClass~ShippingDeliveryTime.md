@@ -1,12 +1,46 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/ShippingDeliveryTime, class/Thing/Intangible/StructuredValue/ShippingDeliveryTime, is_a_/ShippingDeliveryTime, schema-org/ShippingDeliveryTime]
-tags: ["class/FileClass", "class/ShippingDeliveryTime", "is_a_/ShippingDeliveryTime", "class/Thing/Intangible/StructuredValue/ShippingDeliveryTime"]
+version: "2.0"
+tagNames:
+  - class/ShippingDeliveryTime
+  - class/Thing/Intangible/StructuredValue/ShippingDeliveryTime
+  - is_a_/ShippingDeliveryTime
+  - schema-org/ShippingDeliveryTime
+tags:
+  - class/FileClass
+  - class/ShippingDeliveryTime
+  - is_a_/ShippingDeliveryTime
+  - class/Thing/Intangible/StructuredValue/ShippingDeliveryTime
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
+fields:
+  - id: DBCDIN
+    name: BusinessDays
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
+    type: MultiFile
+    path: ""
+  - id: eo2751
+    name: CutoffTime
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: Dv5RO3
+    name: HandlingTime
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: ti1dIx
+    name: TransitTime
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # ShippingDeliveryTime

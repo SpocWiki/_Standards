@@ -1,12 +1,21 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: microscope
-version: 5
-tagNames: [class/ResearchProject, class/Thing/Organization/Project/ResearchProject, is_a_/ResearchProject, schema-org/ResearchProject]
-tags: ["class/FileClass", "class/ResearchProject", "is_a_/ResearchProject", "class/Thing/Organization/Project/ResearchProject"]
+version: "2.0"
+tagNames:
+  - class/ResearchProject
+  - class/Thing/Organization/Project/ResearchProject
+  - is_a_/ResearchProject
+  - schema-org/ResearchProject
+tags:
+  - class/FileClass
+  - class/ResearchProject
+  - is_a_/ResearchProject
+  - class/Thing/Organization/Project/ResearchProject
 extends: FileClass~Thing/FileClass~Organization/FileClass~Project
+fields: []
 ---
 
 # ResearchProject

@@ -1,12 +1,67 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/AnatomicalStructure, class/Thing/MedicalEntity/AnatomicalStructure, is_an_/AnatomicalStructure, schema-org/AnatomicalStructure]
-tags: ["class/FileClass", "class/AnatomicalStructure", "#is_an_/AnatomicalStructure", "class/Thing/MedicalEntity/AnatomicalStructure"]
+version: "2.0"
+tagNames:
+  - class/AnatomicalStructure
+  - class/Thing/MedicalEntity/AnatomicalStructure
+  - is_an_/AnatomicalStructure
+  - schema-org/AnatomicalStructure
+tags:
+  - class/FileClass
+  - class/AnatomicalStructure
+  - "#is_an_/AnatomicalStructure"
+  - class/Thing/MedicalEntity/AnatomicalStructure
 extends: FileClass~Thing/FileClass~MedicalEntity
+fields:
+  - id: c664O3
+    name: AssociatedPathophysiology
+    options: {}
+    type: Input
+    path: ""
+  - id: nmvlDU
+    name: BodyLocation
+    options: {}
+    type: Input
+    path: ""
+  - id: 6ogYmn
+    name: ConnectedTo
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ""
+  - id: z1aWjU
+    name: Diagram
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
+    type: MultiFile
+    path: ""
+  - id: 4IqcsC
+    name: PartOfSystem
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalSystem')
+    type: MultiFile
+    path: ""
+  - id: lNTfXN
+    name: RelatedCondition
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
+    type: MultiFile
+    path: ""
+  - id: 99qj5n
+    name: RelatedTherapy
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
+    type: MultiFile
+    path: ""
+  - id: tsesak
+    name: SubStructure
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
+    type: MultiFile
+    path: ""
 ---
 
 # AnatomicalStructure

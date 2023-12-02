@@ -1,12 +1,54 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/MedicalDevice, class/Thing/MedicalEntity/MedicalDevice, is_a_/MedicalDevice, schema-org/MedicalDevice]
-tags: ["class/FileClass", "class/MedicalDevice", "is_a_/MedicalDevice", "class/Thing/MedicalEntity/MedicalDevice"]
+version: "2.0"
+tagNames:
+  - class/MedicalDevice
+  - class/Thing/MedicalEntity/MedicalDevice
+  - is_a_/MedicalDevice
+  - schema-org/MedicalDevice
+tags:
+  - class/FileClass
+  - class/MedicalDevice
+  - is_a_/MedicalDevice
+  - class/Thing/MedicalEntity/MedicalDevice
 extends: FileClass~Thing/FileClass~MedicalEntity
+fields:
+  - id: Mxq4Zt
+    name: AdverseOutcome
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
+    type: MultiFile
+    path: ""
+  - id: ZbACIZ
+    name: Contraindication
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalContraindication')
+    type: MultiFile
+    path: ""
+  - id: O2rCOu
+    name: PostOp
+    options: {}
+    type: Input
+    path: ""
+  - id: ShI5Ko
+    name: PreOp
+    options: {}
+    type: Input
+    path: ""
+  - id: gKhnoE
+    name: Procedure
+    options: {}
+    type: Input
+    path: ""
+  - id: YIFZIh
+    name: SeriousAdverseOutcome
+    options:
+      dvQueryString: dv.pages('#class/Thing/MedicalEntity')
+    type: MultiFile
+    path: ""
 ---
 
 # MedicalDevice

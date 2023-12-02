@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/BusinessAudience, class/Thing/Intangible/Audience/BusinessAudience, is_a_/BusinessAudience, schema-org/BusinessAudience]
-tags: ["class/FileClass", "class/BusinessAudience", "is_a_/BusinessAudience", "class/Thing/Intangible/Audience/BusinessAudience"]
+version: "2.0"
+tagNames:
+  - class/BusinessAudience
+  - class/Thing/Intangible/Audience/BusinessAudience
+  - is_a_/BusinessAudience
+  - schema-org/BusinessAudience
+tags:
+  - class/FileClass
+  - class/BusinessAudience
+  - is_a_/BusinessAudience
+  - class/Thing/Intangible/Audience/BusinessAudience
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
+fields:
+  - id: qhWO2W
+    name: NumberOfEmployees
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: TEDB7c
+    name: YearlyRevenue
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
+  - id: 7JWPg7
+    name: YearsInOperation
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
+    path: ""
 ---
 
 # BusinessAudience

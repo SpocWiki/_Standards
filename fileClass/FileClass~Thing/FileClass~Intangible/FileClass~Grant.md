@@ -1,12 +1,39 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Grant, class/Thing/Intangible/Grant, is_a_/Grant, schema-org/Grant]
-tags: ["class/FileClass", "class/Grant", "is_a_/Grant", "class/Thing/Intangible/Grant"]
+version: "2.0"
+tagNames:
+  - class/Grant
+  - class/Thing/Intangible/Grant
+  - is_a_/Grant
+  - schema-org/Grant
+tags:
+  - class/FileClass
+  - class/Grant
+  - is_a_/Grant
+  - class/Thing/Intangible/Grant
 extends: FileClass~Thing/FileClass~Intangible
+fields:
+  - id: BDQ9is
+    name: FundedItem
+    options:
+      dvQueryString: dv.pages('#class/Thing/BioChemEntity')
+    type: MultiFile
+    path: ""
+  - id: X2sjPl
+    name: Funder
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: 0tji7L
+    name: Sponsor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
 ---
 
 # Grant

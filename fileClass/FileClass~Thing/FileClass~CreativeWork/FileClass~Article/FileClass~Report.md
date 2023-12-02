@@ -1,12 +1,26 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: link-2
-version: 5
-tagNames: [class/Report, class/Thing/CreativeWork/Article/Report, is_a_/Report, schema-org/Report]
-tags: ["class/FileClass", "class/Report", "is_a_/Report", "class/Thing/CreativeWork/Article/Report"]
+version: "2.0"
+tagNames:
+  - class/Report
+  - class/Thing/CreativeWork/Article/Report
+  - is_a_/Report
+  - schema-org/Report
+tags:
+  - class/FileClass
+  - class/Report
+  - is_a_/Report
+  - class/Thing/CreativeWork/Article/Report
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
+fields:
+  - id: FbCZfc
+    name: ReportNumber
+    options: {}
+    type: Input
+    path: ""
 ---
 
 # Report

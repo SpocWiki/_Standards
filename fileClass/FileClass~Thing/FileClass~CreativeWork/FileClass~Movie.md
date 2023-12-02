@@ -1,12 +1,69 @@
 ---
 limit: 9
 mapWithTag: true
-excludes:
+excludes: 
 icon: clapperboard
-version: 5
-tagNames: [class/Movie, class/Thing/CreativeWork/Movie, is_a_/Movie, schema-org/Movie]
-tags: ["class/FileClass", "class/Movie", "is_a_/Movie", "class/Thing/CreativeWork/Movie"]
+version: "2.0"
+tagNames:
+  - class/Movie
+  - class/Thing/CreativeWork/Movie
+  - is_a_/Movie
+  - schema-org/Movie
+tags:
+  - class/FileClass
+  - class/Movie
+  - is_a_/Movie
+  - class/Thing/CreativeWork/Movie
 extends: FileClass~Thing/FileClass~CreativeWork
+fields:
+  - id: 7GrHZp
+    name: Actor
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: 1WngUT
+    name: Director
+    options:
+      dvQueryString: dv.pages('#class/Thing/Person')
+    type: MultiFile
+    path: ""
+  - id: Wr7QiI
+    name: Duration
+    options:
+      min: "0"
+      max: "2359"
+    type: Number
+    path: ""
+  - id: o3p6su
+    name: MusicBy
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
+    type: MultiFile
+    path: ""
+  - id: 4pjAnw
+    name: ProductionCompany
+    options:
+      dvQueryString: dv.pages('#class/Thing/Organization')
+    type: MultiFile
+    path: ""
+  - id: SQlnK4
+    name: SubtitleLanguage
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/Language')
+    type: MultiFile
+    path: ""
+  - id: h7govd
+    name: TitleEIDR
+    options: {}
+    type: Input
+    path: ""
+  - id: kSjmOY
+    name: Trailer
+    options:
+      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')
+    type: MultiFile
+    path: ""
 ---
 
 # Movie
