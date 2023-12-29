@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of BroadcastService.
 
 Use it like this: 
-- [ #has_/text_/of_/broadcast_timezone :: Text ] or 
+- [ #has_/text_of_/broadcast_timezone :: Text ] or 
 - [ has_text_of_broadcast_timezone :: Text ] 
 
 The timezone in [ISO 8601 format](http://en.wikipedia.org/wiki/ISO_8601) for which the service bases its broadcasts.

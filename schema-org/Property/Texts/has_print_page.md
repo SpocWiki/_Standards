@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [ #has_/text_/of_/print_page :: Text ] or 
+- [ #has_/text_of_/print_page :: Text ] or 
 - [ has_text_of_print_page :: Text ] 
 
 If this NewsArticle appears in print, this field indicates the name of the page on which the article is found. Please note that this field is intended for the exact page name (e.g. A5, B18).

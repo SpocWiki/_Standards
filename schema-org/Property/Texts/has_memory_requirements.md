@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/of_/memory_requirements :: Text, URL ] or 
+- [ #has_/text_of_/memory_requirements :: Text, URL ] or 
 - [ has_text_of_memory_requirements :: Text, URL ] 
 
 Minimum memory requirements.

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of FoodEstablishment.
 
 Use it like this: 
-- [ #has_/text_/of_/serves_cuisine :: Text ] or 
+- [ #has_/text_of_/serves_cuisine :: Text ] or 
 - [ has_text_of_serves_cuisine :: Text ] 
 
 The cuisine of the restaurant.

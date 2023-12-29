@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_/of_/risks :: Text ] or 
+- [ #has_/text_of_/risks :: Text ] or 
 - [ has_text_of_risks :: Text ] 
 
 Specific physiologic risks associated to the diet plan.

@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/of_/processor_requirements :: Text ] or 
+- [ #has_/text_of_/processor_requirements :: Text ] or 
 - [ has_text_of_processor_requirements :: Text ] 
 
 Processor architecture required to run the application (e.g. IA64).

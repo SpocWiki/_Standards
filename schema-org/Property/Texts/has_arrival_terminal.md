@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- [ #has_/text_/of_/arrival_terminal :: Text ] or 
+- [ #has_/text_of_/arrival_terminal :: Text ] or 
 - [ has_text_of_arrival_terminal :: Text ] 
 
 Identifier of the flight"s arrival terminal.

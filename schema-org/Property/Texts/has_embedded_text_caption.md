@@ -36,7 +36,7 @@ Predicate to describe the Text of AudioObject, ImageObject, VideoObject.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/of_/embedded_text_caption :: Text ] or 
+- [ #has_/text_of_/embedded_text_caption :: Text ] or 
 - [ has_text_of_embedded_text_caption :: Text ] 
 
 Represents textual captioning from a [[MediaObject]], e.g. text of a "meme".

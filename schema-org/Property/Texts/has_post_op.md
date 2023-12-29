@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MedicalDevice.
 
 Use it like this: 
-- [ #has_/text_/of_/post_op :: Text ] or 
+- [ #has_/text_of_/post_op :: Text ] or 
 - [ has_text_of_post_op :: Text ] 
 
 A description of the postoperative procedures, care, and/or followups for this device.

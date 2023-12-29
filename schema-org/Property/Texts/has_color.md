@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Product.
 
 Use it like this: 
-- [ #has_/text_/of_/color :: Text ] or 
+- [ #has_/text_of_/color :: Text ] or 
 - [ has_text_of_color :: Text ] 
 
 The color of the product.

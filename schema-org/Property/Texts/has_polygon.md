@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [ #has_/text_/of_/polygon :: Text ] or 
+- [ #has_/text_of_/polygon :: Text ] or 
 - [ has_text_of_polygon :: Text ] 
 
 A polygon is the area enclosed by a point-to-point path for which the starting and ending points are the same. A polygon is expressed as a series of four or more space delimited points where the first and final points are identical.

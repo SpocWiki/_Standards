@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MedicalGuidelineRecommendation.
 
 Use it like this: 
-- [ #has_/text_/of_/recommendation_strength :: Text ] or 
+- [ #has_/text_of_/recommendation_strength :: Text ] or 
 - [ has_text_of_recommendation_strength :: Text ] 
 
 Strength of the guideline"s recommendation (e.g. "class I").

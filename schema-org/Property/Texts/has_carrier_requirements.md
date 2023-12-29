@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MobileApplication.
 
 Use it like this: 
-- [ #has_/text_/of_/carrier_requirements :: Text ] or 
+- [ #has_/text_of_/carrier_requirements :: Text ] or 
 - [ has_text_of_carrier_requirements :: Text ] 
 
 Specifies specific carrier(s) requirements for the application (e.g. an application may only work on a specific carrier network).

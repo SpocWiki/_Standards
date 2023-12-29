@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of LocalBusiness.
 
 Use it like this: 
-- [ #has_/text_/of_/payment_accepted :: Text ] or 
+- [ #has_/text_of_/payment_accepted :: Text ] or 
 - [ has_text_of_payment_accepted :: Text ] 
 
 Cash, Credit Card, Cryptocurrency, Local Exchange Tradings System, etc.

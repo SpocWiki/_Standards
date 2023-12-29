@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_/of_/administration_route :: Text ] or 
+- [ #has_/text_of_/administration_route :: Text ] or 
 - [ has_text_of_administration_route :: Text ] 
 
 A route by which this drug may be administered, e.g. "oral".

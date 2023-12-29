@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of BroadcastEvent, BroadcastService, ScreeningEvent.
 
 Use it like this: 
-- [ #has_/text_/of_/video_format :: Text ] or 
+- [ #has_/text_of_/video_format :: Text ] or 
 - [ has_text_of_video_format :: Text ] 
 
 The type of screening or video broadcast used (e.g. IMAX, 3D, SD, HD, etc.).

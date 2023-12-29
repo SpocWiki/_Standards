@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/of_/application_sub_category :: Text, URL ] or 
+- [ #has_/text_of_/application_sub_category :: Text, URL ] or 
 - [ has_text_of_application_sub_category :: Text, URL ] 
 
 Subcategory of the application, e.g. "Arcade Game".

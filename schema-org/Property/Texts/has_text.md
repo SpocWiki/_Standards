@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_/of_/text :: Text ] or 
+- [ #has_/text_of_/text :: Text ] or 
 - [ has_text_of_text :: Text ] 
 
 The textual content of this CreativeWork.

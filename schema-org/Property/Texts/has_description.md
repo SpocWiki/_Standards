@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Thing.
 
 Use it like this: 
-- [ #has_/text_/of_/description :: Text ] or 
+- [ #has_/text_of_/description :: Text ] or 
 - [ has_text_of_description :: Text ] 
 
 A description of the item.
@@ -46,7 +46,7 @@ Predicated describes that:
 
 [ #has_/sub_properties :: [ disambiguatingDescription, interpretedAsClaim, originalMediaContextDescription, sha256 ] ]
 
-#is_inverse_of :: [[is_describing]] 
+#is_/inverse_of :: [[is_describing]] 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Texts/has_description.md|has_description]] 

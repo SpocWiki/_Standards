@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Offer, PriceSpecification, Reservation, Ticket, TradeAction.
 
 Use it like this: 
-- [ #has_/text_/of_/price_currency :: Text ] or 
+- [ #has_/text_of_/price_currency :: Text ] or 
 - [ has_text_of_price_currency :: Text ] 
 
 The currency of the price, or a price component when attached to [[PriceSpecification]] and its subtypes.

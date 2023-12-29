@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of LoanOrCredit.
 
 Use it like this: 
-- [ #has_/text_/of_/required_collateral :: Text, Thing ] or 
+- [ #has_/text_of_/required_collateral :: Text, Thing ] or 
 - [ has_text_of_required_collateral :: Text, Thing ] 
 
 Assets required to secure loan or credit repayments. It may take form of third party pledge, goods, financial instruments (cash, securities, etc.)

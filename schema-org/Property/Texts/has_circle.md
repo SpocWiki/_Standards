@@ -34,10 +34,12 @@ aliases:
 Predicate to describe the Text of GeoShape.
 
 Use it like this: 
-- [ #has_/text_/of_/circle :: Text ] or 
+- [ #has_/text_of_/circle :: Text ] or 
 - [ has_text_of_circle :: Text ] 
 
-A circle is the circular region of a specified radius centered at a specified latitude and longitude. A circle is expressed as a pair followed by a radius in meters.
+A circle is the circular region of a specified radius 
+centered at a specified latitude and longitude. 
+A circle is expressed as a pair followed by a radius in meters.
 
 Predicated describes that: 
 [ #has_/domain  :: GeoShape ]

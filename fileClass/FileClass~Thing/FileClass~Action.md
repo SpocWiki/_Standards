@@ -136,7 +136,7 @@ Instrument:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 ### Location
 The location of, for example, where an event is happening, where an organization is located, or where an action takes place.
 
-Location:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
+has_/geo_/location_:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 ### Object
 The object upon which the action is carried out, whose state is kept intact or changed. Also known as the semantic roles patient, affected or undergoer (which change their state) or theme (which doesn't). E.g. John read \*a book\*.

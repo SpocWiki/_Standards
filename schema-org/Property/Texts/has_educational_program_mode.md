@@ -36,7 +36,7 @@ Predicate to describe the Text of EducationalOccupationalProgram.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/of_/educational_program_mode :: Text, URL ] or 
+- [ #has_/text_of_/educational_program_mode :: Text, URL ] or 
 - [ has_text_of_educational_program_mode :: Text, URL ] 
 
 Similar to courseMode, the medium or means of delivery of the program as a whole. The value may either be a text label (e.g. "online", "onsite" or "blended"; "synchronous" or "asynchronous"; "full-time" or "part-time") or a URL reference to a term from a controlled vocabulary (e.g. https://ceds.ed.gov/element/001311#Asynchronous ).

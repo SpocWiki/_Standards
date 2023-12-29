@@ -28,26 +28,26 @@ aliases:
 - max_value
 - max-value
 - maxValue
-- has_value_for_max_value
+- has_value_for_max
 ---
 
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.
 
 Use it like this: 
-- [ #has_/value_for_/max_value :: Number ] or 
-- [ has_value_for_max_value :: Number ] 
+- [ #has_/value_for_/max :: Number ] or 
+- [ has_value_for_max :: Number ] 
 
 The upper value of some characteristic or property.
 
 Predicate describes that: 
 [ #has_/domain  :: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue ]
-( #has_/name :: has_value_for_max_value )
+( #has_/name :: has_value_for_max )
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_max_value.md|has_value_for_max_value]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_max_value.internal.md|has_value_for_max_value.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_max_value.protect.md|has_value_for_max_value.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_max_value.private.md|has_value_for_max_value.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_max_value.personal.md|has_value_for_max_value.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_max_value.secret.md|has_value_for_max_value.secret]] 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_max.md|has_value_for_max]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_max.internal.md|has_value_for_max.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_max.protect.md|has_value_for_max.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_max.private.md|has_value_for_max.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_max.personal.md|has_value_for_max.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_max.secret.md|has_value_for_max.secret]] 

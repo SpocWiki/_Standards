@@ -18,7 +18,7 @@ draft: false
 publishDate: 
 expiryDate: 
 tags:
-  - is_inverse_of
+  - is_/inverse_of
   - class/Relation
   - schema-org/Relation
 aliases:
@@ -48,15 +48,18 @@ Relation describes that:
 ( #has_/name :: is_inverse_of)
 ( #has_/range :: [[Property]])
 
-Alternatively often the `has_inverse` Syntax comes to mind, 
+Alternatively often a `has_inverse` Syntax comes to mind, 
 but that would be redundant (since the Relation is symmetric), 
 and it does not emphasize the categorical nature of the Statement. 
 ## Converse 
 The mathematical Term is [converse Relation](https://en.wikipedia.org/wiki/Converse_relation)
 The notation is analogous with that for an [inverse function](https://en.wikipedia.org/wiki/Inverse_function "Inverse function"). 
 
+E.g. [[is/is_lesser_than]] and [[is/is_greater_than]] are Converses; 
+
 Although many functions do not have an inverse, 
-every relation does have a unique converse, because Relations are multi-valued. 
+every relation does have a unique converse Relation, 
+because Relations are multi-valued. 
 ### If an Inverse exists, it is identical to the Converse.
 
 But unlike with Functions, the Concatenation with the Converse 
@@ -67,14 +70,17 @@ in these situations RDFa and JSON-LD syntax for reverse properties can be used.
 
 ## Complement 
 Don't confuse that with the [[is_complement_of]] Relation where ARelatesB <=> !BComplementsA.
+The Complement of `>` is `<=`. 
+The Converse of `>` is `<`. 
+
+Both are very close though, 
+in both cases an Attribute of one Relation 
+negates the Truth/Existence of the negated Relation. 
 
 ### The Complement of the Inverse is identical to the Inverse of the Complement. 
+Converse(Complement(`>`)) = Converse(`<=`)  = `>=`
+Complement(Converse(`>`)) = Complement(`<`)  = `>=` 
 
-But e.g. [[is/is_lesser_than]] and [[is/is_greater_than]] are NOT exact Complements; 
-still an Attribute of one Relation negates the Truth/Existence of the negated Relation. 
-
-If a > b for a Relation,
-then b >= a is the Converse Relation 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/is_inverse_of.md|is_inverse_of]]

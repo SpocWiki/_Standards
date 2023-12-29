@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MusicRelease.
 
 Use it like this: 
-- [ #has_/text_/of_/catalog_number :: Text ] or 
+- [ #has_/text_of_/catalog_number :: Text ] or 
 - [ has_text_of_catalog_number :: Text ] 
 
 The catalog number for the release.

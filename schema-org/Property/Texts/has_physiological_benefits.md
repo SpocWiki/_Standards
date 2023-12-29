@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Diet.
 
 Use it like this: 
-- [ #has_/text_/of_/physiological_benefits :: Text ] or 
+- [ #has_/text_of_/physiological_benefits :: Text ] or 
 - [ has_text_of_physiological_benefits :: Text ] 
 
 Specific physiologic benefits associated to the plan.

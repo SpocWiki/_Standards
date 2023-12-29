@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/of_/operating_system :: Text ] or 
+- [ #has_/text_of_/operating_system :: Text ] or 
 - [ has_text_of_operating_system :: Text ] 
 
 Operating systems supported (Windows 7, OS X 10.6, Android 1.6).

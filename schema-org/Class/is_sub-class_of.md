@@ -42,7 +42,7 @@ Use it like this:
 ( #has_/range :: [Class](../../Classes.md))
 
 #is_/similar_to :: [[../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~subClassOf|rdfs~subClassOf]] 
-#is_inverse_of :: #has_/sub_class 
+#is_/inverse_of :: #has_/sub_classes 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_public/schema.org/Predicate/Relations/is_sub_class_of.md|is_sub_class_of]] 

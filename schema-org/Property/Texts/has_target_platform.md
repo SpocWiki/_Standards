@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of APIReference.
 
 Use it like this: 
-- [ #has_/text_/of_/target_platform :: Text ] or 
+- [ #has_/text_of_/target_platform :: Text ] or 
 - [ has_text_of_target_platform :: Text ] 
 
 Type of app development: phone, Metro style, desktop, XBox, etc.

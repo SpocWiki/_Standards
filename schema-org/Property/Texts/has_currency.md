@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of DatedMoneySpecification, ExchangeRateSpecification, LoanOrCredit, MonetaryAmount, MonetaryAmountDistribution.
 
 Use it like this: 
-- [ #has_/text_/of_/currency :: Text ] or 
+- [ #has_/text_of_/currency :: Text ] or 
 - [ has_text_of_currency :: Text ] 
 
 The currency in which the monetary amount is expressed.

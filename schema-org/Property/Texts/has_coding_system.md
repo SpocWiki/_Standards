@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MedicalCode.
 
 Use it like this: 
-- [ #has_/text_/of_/coding_system :: Text ] or 
+- [ #has_/text_of_/coding_system :: Text ] or 
 - [ has_text_of_coding_system :: Text ] 
 
 The coding system, e.g. "ICD-10".

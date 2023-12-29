@@ -36,7 +36,7 @@ Predicate to describe the Text of JobPosting.
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/text_/of_/security_clearance_requirement :: Text, URL ] or 
+- [ #has_/text_of_/security_clearance_requirement :: Text, URL ] or 
 - [ has_text_of_security_clearance_requirement :: Text, URL ] 
 
 A description of any security clearance requirements of the job.

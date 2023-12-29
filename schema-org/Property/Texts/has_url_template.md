@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of EntryPoint.
 
 Use it like this: 
-- [ #has_/text_/of_/url_template :: Text ] or 
+- [ #has_/text_of_/url_template :: Text ] or 
 - [ has_text_of_url_template :: Text ] 
 
 An url template (RFC6570) that will be used to construct the target of the execution of the action.

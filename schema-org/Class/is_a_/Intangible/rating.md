@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -32,11 +32,10 @@ aliases:
 ---
 
 Class of all ratings.
+A rating is an evaluation on a numeric scale, such as 1 to 5 stars.
 
 Tag Instances like this: 
 #is_a_/rating
-
-A rating is an evaluation on a numeric scale, such as 1 to 5 stars.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

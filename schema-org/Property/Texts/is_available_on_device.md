@@ -39,7 +39,7 @@ Used in cases where a specific make/model is required to run the application.
 Predicate to describe a [[../../Class/is_a_/creative_work/software_application|SoftwareApplication]].
 
 Use it like this: 
-- [ #has_/text_/of_/available_on_device :: Text ] or 
+- [ #has_/text_of_/available_on_device :: Text ] or 
 - [ has_text_of_available_on_device :: Text ] 
 
 Predicated describes that: 

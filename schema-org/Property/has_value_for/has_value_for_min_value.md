@@ -28,26 +28,26 @@ aliases:
 - min_value
 - min-value
 - minValue
-- has_value_for_min_value
+- has_value_for_min
 ---
 
 Predicate to describe the Quantity of MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue.
 
 Use it like this: 
-- [ #has_/value_for_/min_value :: Number ] or 
-- [ has_value_for_min_value :: Number ] 
+- [ #has_/value_for_/min :: Number ] or 
+- [ has_value_for_min :: Number ] 
 
 The lower value of some characteristic or property.
 
 Predicate describes that: 
 [ #has_/domain  :: MonetaryAmount, PropertyValue, PropertyValueSpecification, QuantitativeValue ]
-( #has_/name :: has_value_for_min_value )
+( #has_/name :: has_value_for_min )
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_min_value.md|has_value_for_min_value]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_min_value.internal.md|has_value_for_min_value.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_min_value.protect.md|has_value_for_min_value.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_min_value.private.md|has_value_for_min_value.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_min_value.personal.md|has_value_for_min_value.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_min_value.secret.md|has_value_for_min_value.secret]] 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_min.md|has_value_for_min]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_min.internal.md|has_value_for_min.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_min.protect.md|has_value_for_min.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_min.private.md|has_value_for_min.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_min.personal.md|has_value_for_min.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_min.secret.md|has_value_for_min.secret]] 

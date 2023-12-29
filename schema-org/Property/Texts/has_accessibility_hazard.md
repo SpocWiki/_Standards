@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_/of_/accessibility_hazard :: Text ] or 
+- [ #has_/text_of_/accessibility_hazard :: Text ] or 
 - [ has_text_of_accessibility_hazard :: Text ] 
 
 A characteristic of the described resource that is physiologically dangerous to some users. 

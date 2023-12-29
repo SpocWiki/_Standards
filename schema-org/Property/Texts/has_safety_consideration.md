@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of DietarySupplement.
 
 Use it like this: 
-- [ #has_/text_/of_/safety_consideration :: Text ] or 
+- [ #has_/text_of_/safety_consideration :: Text ] or 
 - [ has_text_of_safety_consideration :: Text ] 
 
 Any potential safety concern associated with the supplement. May include interactions with other drugs and foods, pregnancy, breastfeeding, known adverse reactions, and documented efficacy of the supplement.

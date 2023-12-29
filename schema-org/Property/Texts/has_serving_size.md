@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of NutritionInformation.
 
 Use it like this: 
-- [ #has_/text_/of_/serving_size :: Text ] or 
+- [ #has_/text_of_/serving_size :: Text ] or 
 - [ has_text_of_serving_size :: Text ] 
 
 The serving size, in terms of the number of volume or mass.

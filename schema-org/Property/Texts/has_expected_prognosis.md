@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of MedicalCondition.
 
 Use it like this: 
-- [ #has_/text_/of_/expected_prognosis :: Text ] or 
+- [ #has_/text_of_/expected_prognosis :: Text ] or 
 - [ has_text_of_expected_prognosis :: Text ] 
 
 The likely outcome in either the short term or long term of the medical condition.

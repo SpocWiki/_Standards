@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Drug.
 
 Use it like this: 
-- [ #has_/text_/of_/breastfeeding_warning :: Text ] or 
+- [ #has_/text_of_/breastfeeding_warning :: Text ] or 
 - [ has_text_of_breastfeeding_warning :: Text ] 
 
 Any precaution, guidance, contraindication, etc. related to this drug"s use by breastfeeding mothers.

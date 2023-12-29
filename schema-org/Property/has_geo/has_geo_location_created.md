@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the geo of CreativeWork.
 
 Use it like this: 
-- [ #has_/geo_place_/_created :: Place ] or 
+- [ #has_/geo_/location_/_created :: Place ] or 
 - [ has_geo_location_created :: Place ] 
 
 The location where the CreativeWork was created, which may not be the same as the location depicted in the CreativeWork.

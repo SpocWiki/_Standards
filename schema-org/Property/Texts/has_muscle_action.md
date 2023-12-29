@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Muscle.
 
 Use it like this: 
-- [ #has_/text_/of_/muscle_action :: Text ] or 
+- [ #has_/text_of_/muscle_action :: Text ] or 
 - [ has_text_of_muscle_action :: Text ] 
 
 The movement the muscle generates.

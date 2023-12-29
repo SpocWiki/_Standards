@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of BroadcastChannel, CreativeWork, MusicGroup.
 
 Use it like this: 
-- [ #has_/text_/of_/genre :: Text, URL ] or 
+- [ #has_/text_of_/genre :: Text, URL ] or 
 - [ has_text_of_genre :: Text, URL ] 
 
 Genre of the creative work, broadcast channel or group.

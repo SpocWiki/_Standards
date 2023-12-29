@@ -36,7 +36,7 @@ Predicate to describe the Text of Thesis.
 [ #is_/part_of :: https://bib.schema.org ]
 
 Use it like this: 
-- [ #has_/text_/of_/in_support_of :: Text ] or 
+- [ #has_/text_of_/in_support_of :: Text ] or 
 - [ has_text_of_in_support_of :: Text ] 
 
 Qualification, candidature, degree, application that Thesis supports.

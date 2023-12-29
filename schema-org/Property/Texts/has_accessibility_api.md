@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of CreativeWork.
 
 Use it like this: 
-- [ #has_/text_/of_/accessibility_api :: Text ] or 
+- [ #has_/text_of_/accessibility_api :: Text ] or 
 - [ has_text_of_accessibility_api :: Text ] 
 
 Indicates that the resource is compatible with the referenced accessibility API. Values should be drawn from the [approved vocabulary](https://www.w3.org/2021/a11y-discov-vocab/latest/#accessibilityAPI-vocabulary).

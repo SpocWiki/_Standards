@@ -28,26 +28,26 @@ aliases:
 - step_value
 - step-value
 - stepValue
-- has_value_for_step_value
+- has_value_for_step
 ---
 
 Predicate to describe the Quantity of PropertyValueSpecification.
 
 Use it like this: 
-- [ #has_/value_for_/step_value :: Number ] or 
-- [ has_value_for_step_value :: Number ] 
+- [ #has_/value_for_/step :: Number ] or 
+- [ has_value_for_step :: Number ] 
 
 The stepValue attribute indicates the granularity that is expected (and required) of the value in a PropertyValueSpecification.
 
 Predicate describes that: 
 [ #has_/domain  :: PropertyValueSpecification ]
-( #has_/name :: has_value_for_step_value )
+( #has_/name :: has_value_for_step )
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_step_value.md|has_value_for_step_value]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_step_value.internal.md|has_value_for_step_value.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_step_value.protect.md|has_value_for_step_value.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_step_value.private.md|has_value_for_step_value.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_step_value.personal.md|has_value_for_step_value.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_step_value.secret.md|has_value_for_step_value.secret]] 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_step.md|has_value_for_step]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_step.internal.md|has_value_for_step.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_step.protect.md|has_value_for_step.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_step.private.md|has_value_for_step.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_step.personal.md|has_value_for_step.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_step.secret.md|has_value_for_step.secret]] 

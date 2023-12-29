@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Flight.
 
 Use it like this: 
-- [ #has_/text_/of_/meal_service :: Text ] or 
+- [ #has_/text_of_/meal_service :: Text ] or 
 - [ has_text_of_meal_service :: Text ] 
 
 Description of the meals that will be provided or available for purchase.

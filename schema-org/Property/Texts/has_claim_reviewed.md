@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of ClaimReview.
 
 Use it like this: 
-- [ #has_/text_/of_/claim_reviewed :: Text ] or 
+- [ #has_/text_of_/claim_reviewed :: Text ] or 
 - [ has_text_of_claim_reviewed :: Text ] 
 
 A short summary of the specific claims reviewed in a ClaimReview.

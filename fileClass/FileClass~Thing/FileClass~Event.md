@@ -349,7 +349,7 @@ Keywords:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 ### Location
 The location of, for example, where an event is happening, where an organization is located, or where an action takes place.
 
-Location:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
+has_/geo_/location_:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 ### MaximumAttendeeCapacity
 The total number of individuals that may attend an event or venue.

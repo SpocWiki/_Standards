@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of SearchAction.
 
 Use it like this: 
-- [ #has_/text_/of_/query :: Text ] or 
+- [ #has_/text_of_/query :: Text ] or 
 - [ has_text_of_query :: Text ] 
 
 A sub property of instrument. The query used on this action.

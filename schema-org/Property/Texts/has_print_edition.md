@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of NewsArticle.
 
 Use it like this: 
-- [ #has_/text_/of_/print_edition :: Text ] or 
+- [ #has_/text_of_/print_edition :: Text ] or 
 - [ has_text_of_print_edition :: Text ] 
 
 The edition of the print product in which the NewsArticle appears.

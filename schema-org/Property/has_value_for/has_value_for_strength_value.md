@@ -28,26 +28,26 @@ aliases:
 - strength_value
 - strength-value
 - strengthValue
-- has_value_for_strength_value
+- has_value_for_strength
 ---
 
 Predicate to describe the Quantity of DrugStrength.
 
 Use it like this: 
-- [ #has_/value_for_/strength_value :: Number ] or 
-- [ has_value_for_strength_value :: Number ] 
+- [ #has_/value_for_/strength :: Number ] or 
+- [ has_value_for_strength :: Number ] 
 
 The value of an active ingredient's strength, e.g. 325.
 
 Predicate describes that: 
 [ #has_/domain  :: DrugStrength ]
-( #has_/name :: has_value_for_strength_value )
+( #has_/name :: has_value_for_strength )
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_strength_value.md|has_value_for_strength_value]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_strength_value.internal.md|has_value_for_strength_value.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_strength_value.protect.md|has_value_for_strength_value.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_strength_value.private.md|has_value_for_strength_value.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_strength_value.personal.md|has_value_for_strength_value.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_strength_value.secret.md|has_value_for_strength_value.secret]] 
+- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_strength.md|has_value_for_strength]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_strength.internal.md|has_value_for_strength.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_strength.protect.md|has_value_for_strength.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_strength.private.md|has_value_for_strength.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_strength.personal.md|has_value_for_strength.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_strength.secret.md|has_value_for_strength.secret]] 

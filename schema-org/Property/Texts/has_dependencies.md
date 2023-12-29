@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of TechArticle.
 
 Use it like this: 
-- [ #has_/text_/of_/dependencies :: Text ] or 
+- [ #has_/text_of_/dependencies :: Text ] or 
 - [ has_text_of_dependencies :: Text ] 
 
 Prerequisites needed to fulfill steps in article.

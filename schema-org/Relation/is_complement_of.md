@@ -36,14 +36,21 @@ Use it like this:
 - [ is_complement_of :: Property] 
 
 Complementary Relations are typically Order Relations. 
-They relate those pairs of items to each other, that the original Relation does NOT relate.
+They relate exactly those pairs of items to each other, 
+that the original Relation does NOT relate.
 
 Don't confuse that with the [[is_inverse_of|inverse_of]] Relation where ARelatesB <=> BInverseA.
 
-like [[is/is_lesser_than]] and [[is/is_greater_than]], where an Attribute of one Relation negates the Truth/Existence of the negated Relation. 
+The Union of any Relation with its Complement is the (trivial) universal Relation, 
+which relates everything to everything. 
 
-If a > b for a Relation,
-then b > a is the Converse Relation 
+E.g. [[is/is_lesser_than]] and [[is/is_greater_than]], 
+where an Attribute of one Relation negates the Truth/Existence of the negated Relation. 
+
+Relation `>` has the same Domain for both Arguments which makes it more confusing. 
+- Its Complement is `<=`. 
+- Its Converse is `<`. 
+- It has no Inverse, because it is not a Function. 
 
 Relation describes that: 
 [ #has_/domain  :: Property]

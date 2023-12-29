@@ -66,7 +66,7 @@ aliases:
 Predicate to describe the Text of Organization, Person, Place.
 
 Use it like this: 
-- [ #has_/text_/of_/isic_v4 :: Text ] or 
+- [ #has_/text_of_/isic_v4 :: Text ] or 
 - [ has_text_of_isic_v4 :: Text ] 
 
 The International Standard of Industrial Classification of All Economic Activities (ISIC), Revision 4 code for a particular organization, business person, or place.

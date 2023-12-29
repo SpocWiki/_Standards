@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of JobPosting.
 
 Use it like this: 
-- [ #has_/text_/of_/special_commitments :: Text ] or 
+- [ #has_/text_of_/special_commitments :: Text ] or 
 - [ has_text_of_special_commitments :: Text ] 
 
 Any special commitments associated with this job posting. Valid entries include VeteranCommit, MilitarySpouseCommit, etc.

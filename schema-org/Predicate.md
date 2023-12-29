@@ -48,7 +48,7 @@ Semantic Graphs are much richer and allow for automated inference of Information
 	* TODO: ==Quantities with Enumerations as Values need to be decided on!== Enum Values are Singleton/Flyweight Instances
 * Properties: specify a Value. This can be a string, but also JSON Types like double, int, DateTime etc. and even Lists of Values are allowed. 
   Depending on the Value Type we distinguish: 
-	* Texts: Labels, Names, URLs, Descriptions etc. start with #has_/text_/of_/  
+	* Texts: Labels, Names, URLs, Descriptions etc. start with #has_/text_of_/  
 	* Counts: integer Cardinals and Ordinals start with #has_/number_of_/  
 	* Quantities: continuous float-point Values (often 1-dimensional Scalars) start with #has_/value_for_/ 
 	* geographic Objects: start with #has_/geo_/ but also 2D and 3D Vectors for Locations 

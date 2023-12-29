@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of ContactPoint, Organization, Person.
 
 Use it like this: 
-- [ #has_/text_/of_/email :: Text ] or 
+- [ #has_/text_of_/email :: Text ] or 
 - [ has_text_of_email :: Text ] 
 
 Email address.

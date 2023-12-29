@@ -3,38 +3,33 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
+cssclasses:
+  - Predicate
+  - geo
 publish: true
-
-# Hugo Tags
 type: Pred_geo
-
 title: has_geo_location_location
 linkTitle: has_geo_location_location
-
-keywords: [location]
+keywords:
+  - location
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/geo
-
+  - class/Property
+  - schema-org/Property/geo
 aliases:
-- location
-- location
-- location
-- has_geo_location_location
+  - location
+  - location
+  - location
+  - has_geo_location_location
 ---
 
 Predicate to describe the geo of Action, Event, InteractionCounter, Organization.
 
 Use it like this: 
-- [ #has_/geo_place_/ :: Place, PostalAddress, Text, VirtualLocation ] or 
+- [ #has_/geo_/location_/ :: Place, PostalAddress, Text, VirtualLocation ] or 
 - [ has_geo_location :: Place, PostalAddress, Text, VirtualLocation ] 
 
 The location of, for example, where an event is happening, where an organization is located, or where an action takes place.

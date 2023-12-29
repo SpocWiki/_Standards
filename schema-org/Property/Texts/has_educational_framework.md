@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of AlignmentObject.
 
 Use it like this: 
-- [ #has_/text_/of_/educational_framework :: Text ] or 
+- [ #has_/text_of_/educational_framework :: Text ] or 
 - [ has_text_of_educational_framework :: Text ] 
 
 The framework to which the resource being described is aligned.

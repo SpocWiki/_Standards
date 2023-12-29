@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of DrugCost.
 
 Use it like this: 
-- [ #has_/text_/of_/cost_origin :: Text ] or 
+- [ #has_/text_of_/cost_origin :: Text ] or 
 - [ has_text_of_cost_origin :: Text ] 
 
 Additional details to capture the origin of the cost data. For example, "Medicare Part B".

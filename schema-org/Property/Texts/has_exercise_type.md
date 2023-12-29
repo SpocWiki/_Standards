@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of ExerciseAction, ExercisePlan.
 
 Use it like this: 
-- [ #has_/text_/of_/exercise_type :: Text ] or 
+- [ #has_/text_of_/exercise_type :: Text ] or 
 - [ has_text_of_exercise_type :: Text ] 
 
 Type(s) of exercise or activity, such as strength training, flexibility training, aerobics, cardiac rehabilitation, etc.

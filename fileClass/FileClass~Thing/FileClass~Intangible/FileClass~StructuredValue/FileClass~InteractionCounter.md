@@ -96,7 +96,7 @@ InteractionType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 ### Location
 The location of, for example, where an event is happening, where an organization is located, or where an action takes place.
 
-Location:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
+has_/geo_/location_:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 ### StartTime
 The startTime of something. For a reserved event or service (e.g. FoodEstablishmentReservation), the time that it is expected to start. For actions that span a period of time, when the action was performed. E.g. John wrote a book from \*January\* to December. For media, including audio and video, it's the time offset of the start of a clip within a larger file.

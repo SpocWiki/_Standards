@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of DrugCost.
 
 Use it like this: 
-- [ #has_/text_/of_/cost_currency :: Text ] or 
+- [ #has_/text_of_/cost_currency :: Text ] or 
 - [ has_text_of_cost_currency :: Text ] 
 
 The currency (in 3-letter) of the drug cost. See: http://en.wikipedia.org/wiki/ISO_4217.

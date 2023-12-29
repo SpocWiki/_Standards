@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of ParcelDelivery.
 
 Use it like this: 
-- [ #has_/text_/of_/tracking_number :: Text ] or 
+- [ #has_/text_of_/tracking_number :: Text ] or 
 - [ has_text_of_tracking_number :: Text ] 
 
 Shipper tracking number.

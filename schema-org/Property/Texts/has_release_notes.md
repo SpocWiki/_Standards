@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of SoftwareApplication.
 
 Use it like this: 
-- [ #has_/text_/of_/release_notes :: Text, URL ] or 
+- [ #has_/text_of_/release_notes :: Text, URL ] or 
 - [ has_text_of_release_notes :: Text, URL ] 
 
 Description of what changed in this version.

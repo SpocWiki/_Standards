@@ -10,7 +10,7 @@ publish: true
 
 # Hugo Tags
 type: Predi_Date_Time
-title: has_time_deleted
+title: has_time_destroyed
 
 linkTitle: 
 keywords: 
@@ -27,26 +27,27 @@ aliases:
 - date-deleted
 - date_deleted
 - dateDeleted
+- has_time_destroyed
 - has_time_deleted
 ---
 
 Predicate to describe the date of DataFeedItem.
 
 Use it like this: 
-- [has_time_deleted::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/deleted::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [has_time_destroyed::P#Y#M#W#DT#H#M#s.fff] or 
+- [ #has_/time_/destroyed::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 The datetime the item was removed from the DataFeed.
 
 Formal Predicate: 
 [domain::DataFeedItem]
-(name::has_time_deleted)
+(name::has_time_destroyed)
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_deleted.md|has_time_deleted]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_deleted.internal.md|has_time_deleted.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_deleted.protect.md|has_time_deleted.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_deleted.private.md|has_time_deleted.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_deleted.personal.md|has_time_deleted.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_deleted.secret.md|has_time_deleted.secret]] 
+- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_destroyed.md|has_time_destroyed]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_destroyed.internal.md|has_time_destroyed.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_destroyed.protect.md|has_time_destroyed.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_destroyed.private.md|has_time_destroyed.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_destroyed.personal.md|has_time_destroyed.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_destroyed.secret.md|has_time_destroyed.secret]] 

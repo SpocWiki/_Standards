@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of CreativeWork, Event.
 
 Use it like this: 
-- [ #has_/text_/of_/typical_age_range :: Text ] or 
+- [ #has_/text_of_/typical_age_range :: Text ] or 
 - [ has_text_of_typical_age_range :: Text ] 
 
 The typical expected age range, e.g. "7-9", "11-".
