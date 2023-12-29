@@ -45,7 +45,7 @@ Studies carried out on pre-existing data (usually from 'snapshot' surveys), such
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.md|cross_sectional]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.md|cross_sectional]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.internal.md|cross_sectional.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.protect.md|cross_sectional.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/cross_sectional.private.md|cross_sectional.private]] 

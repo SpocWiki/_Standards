@@ -48,7 +48,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_lei.md|has_id_lei]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_lei.md|has_id_lei]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_lei.internal.md|has_id_lei.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_lei.protect.md|has_id_lei.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_lei.private.md|has_id_lei.private]] 

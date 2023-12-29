@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: EntryPoint, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_target.md|has_target]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_target.md|has_target]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_target.internal.md|has_target.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_target.protect.md|has_target.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_target.private.md|has_target.private]] 

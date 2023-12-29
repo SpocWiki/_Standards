@@ -45,7 +45,7 @@ ShippingDeliveryTime provides various pieces of information about delivery times
 [ #has_/properties :: [ additionalType, alternateName, businessDays, cutoffTime, description, disambiguatingDescription, handlingTime, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, transitTime, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.md|shipping_delivery_time]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/shipping_delivery_time.md|shipping_delivery_time]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.internal.md|shipping_delivery_time.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.protect.md|shipping_delivery_time.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.private.md|shipping_delivery_time.private]] 

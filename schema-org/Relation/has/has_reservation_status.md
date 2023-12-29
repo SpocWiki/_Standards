@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: ReservationStatusType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_reservation_status.md|has_reservation_status]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_reservation_status.md|has_reservation_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_reservation_status.internal.md|has_reservation_status.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_reservation_status.protect.md|has_reservation_status.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_reservation_status.private.md|has_reservation_status.private]] 

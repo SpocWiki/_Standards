@@ -39,7 +39,7 @@ Relation describes that:
 ( #has_/range :: DataCatalog )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_included_data_catalog.md|has_included_data_catalog]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_included_data_catalog.md|has_included_data_catalog]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_included_data_catalog.internal.md|has_included_data_catalog.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_included_data_catalog.protect.md|has_included_data_catalog.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_included_data_catalog.private.md|has_included_data_catalog.private]] 

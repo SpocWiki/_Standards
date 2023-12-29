@@ -45,7 +45,7 @@ LiveAlbum.
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.md|live_album]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.md|live_album]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.internal.md|live_album.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.protect.md|live_album.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.private.md|live_album.private]] 

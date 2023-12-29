@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_reviewed_by.md|is_reviewed_by]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_reviewed_by.md|is_reviewed_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_reviewed_by.internal.md|is_reviewed_by.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_reviewed_by.protect.md|is_reviewed_by.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_reviewed_by.private.md|is_reviewed_by.private]] 

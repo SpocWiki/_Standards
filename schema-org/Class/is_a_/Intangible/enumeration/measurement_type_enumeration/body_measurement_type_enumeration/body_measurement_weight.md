@@ -47,7 +47,7 @@ Body weight. Used, for example, to measure pantyhose.
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.md|body_measurement_weight]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.md|body_measurement_weight]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.internal.md|body_measurement_weight.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.protect.md|body_measurement_weight.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_weight.private.md|body_measurement_weight.private]] 

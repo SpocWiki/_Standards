@@ -47,7 +47,7 @@ Represents EU Energy Efficiency Class E as defined in EU energy labeling regulat
 [ #is_/enum_of :: [[../EUEnergyEfficiencyEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_e.md|eu_energy_efficiency_category_e]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_e.md|eu_energy_efficiency_category_e]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_e.internal.md|eu_energy_efficiency_category_e.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_e.protect.md|eu_energy_efficiency_category_e.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/eu_energy_efficiency_enumeration/eu_energy_efficiency_category_e.private.md|eu_energy_efficiency_category_e.private]] 

@@ -45,7 +45,7 @@ A specific branch of medical science that studies the nerves and nervous system 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/neurologic.md|neurologic]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/neurologic.md|neurologic]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/neurologic.internal.md|neurologic.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/neurologic.protect.md|neurologic.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/neurologic.private.md|neurologic.private]] 

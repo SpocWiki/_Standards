@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_label_details.md|has_url_for_label_details]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_label_details.md|has_url_for_label_details]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_label_details.internal.md|has_url_for_label_details.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_label_details.protect.md|has_url_for_label_details.protect]] 
 - [[../../../../_private/schema.org/Predicate/Urls/has_url_for_label_details.private.md|has_url_for_label_details.private]] 

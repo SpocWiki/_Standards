@@ -49,7 +49,7 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.md|has_number_of_number_of_forward_gears]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_forward_gears.md|has_number_of_number_of_forward_gears]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.internal.md|has_number_of_number_of_forward_gears.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.protect.md|has_number_of_number_of_forward_gears.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_forward_gears.private.md|has_number_of_number_of_forward_gears.private]] 

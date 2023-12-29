@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_code_icao.md|has_code_icao]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_icao.md|has_code_icao]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_code_icao.internal.md|has_code_icao.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_code_icao.protect.md|has_code_icao.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_code_icao.private.md|has_code_icao.private]] 

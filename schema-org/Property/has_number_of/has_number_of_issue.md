@@ -47,7 +47,7 @@ Predicate describes that:
 [ #is_/sub_property_of  :: position ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_issue.md|has_number_of_issue]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_issue.md|has_number_of_issue]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_issue.internal.md|has_number_of_issue.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_issue.protect.md|has_number_of_issue.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_issue.private.md|has_number_of_issue.private]] 

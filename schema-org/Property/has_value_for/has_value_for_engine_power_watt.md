@@ -57,7 +57,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.md|has_value_for_engine_power_watt]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_engine_power_watt.md|has_value_for_engine_power_watt]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.internal.md|has_value_for_engine_power_watt.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.protect.md|has_value_for_engine_power_watt.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.private.md|has_value_for_engine_power_watt.private]] 

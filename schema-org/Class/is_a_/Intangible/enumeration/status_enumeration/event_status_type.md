@@ -41,7 +41,7 @@ EventStatusType is an enumeration type whose instances represent several states 
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.md|event_status_type]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.md|event_status_type]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.internal.md|event_status_type.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.protect.md|event_status_type.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type.private.md|event_status_type.private]] 

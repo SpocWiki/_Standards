@@ -45,7 +45,7 @@ OrderStatus representing successful delivery of an order.
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.md|order_delivered]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.md|order_delivered]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.internal.md|order_delivered.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.protect.md|order_delivered.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_delivered.private.md|order_delivered.private]] 

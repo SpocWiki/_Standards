@@ -48,7 +48,7 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../../Composite/is_part_of]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_comprised_of.md|is_comprised_of]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_comprised_of.md|is_comprised_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_comprised_of.internal.md|is_comprised_of.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_comprised_of.protect.md|is_comprised_of.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_comprised_of.private.md|is_comprised_of.private]] 

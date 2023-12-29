@@ -45,7 +45,7 @@ Indicates that the event was changed to allow online participation. See [[eventA
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.md|event_moved_online]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.md|event_moved_online]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.internal.md|event_moved_online.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.protect.md|event_moved_online.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_moved_online.private.md|event_moved_online.private]] 

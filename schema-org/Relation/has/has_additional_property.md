@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: PropertyValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_additional_property.md|has_additional_property]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_additional_property.md|has_additional_property]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_additional_property.internal.md|has_additional_property.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_additional_property.protect.md|has_additional_property.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_additional_property.private.md|has_additional_property.private]] 

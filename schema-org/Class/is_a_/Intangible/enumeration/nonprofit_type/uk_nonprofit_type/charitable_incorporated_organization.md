@@ -47,7 +47,7 @@ CharitableIncorporatedOrganization: Non-profit type referring to a Charitable In
 [ #is_/enum_of :: [[../UKNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.md|charitable_incorporated_organization]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.md|charitable_incorporated_organization]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.internal.md|charitable_incorporated_organization.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.protect.md|charitable_incorporated_organization.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/charitable_incorporated_organization.private.md|charitable_incorporated_organization.private]] 

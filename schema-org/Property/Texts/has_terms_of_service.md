@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_terms_of_service.md|has_terms_of_service]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_terms_of_service.md|has_terms_of_service]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_terms_of_service.internal.md|has_terms_of_service.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_terms_of_service.protect.md|has_terms_of_service.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_terms_of_service.private.md|has_terms_of_service.private]] 

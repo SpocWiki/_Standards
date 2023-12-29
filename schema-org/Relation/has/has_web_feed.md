@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DataFeed, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_web_feed.md|has_web_feed]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_web_feed.md|has_web_feed]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_web_feed.internal.md|has_web_feed.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_web_feed.protect.md|has_web_feed.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_web_feed.private.md|has_web_feed.private]] 

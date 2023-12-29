@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.md|has_time_of_expected_arrival_until]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_expected_arrival_until.md|has_time_of_expected_arrival_until]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.internal.md|has_time_of_expected_arrival_until.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.protect.md|has_time_of_expected_arrival_until.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.private.md|has_time_of_expected_arrival_until.private]] 

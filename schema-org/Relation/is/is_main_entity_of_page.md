@@ -77,7 +77,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_isic_v4.md|has_isic_v4]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_isic_v4.md|has_isic_v4]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_isic_v4.internal.md|has_isic_v4.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_isic_v4.protect.md|has_isic_v4.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_isic_v4.private.md|has_isic_v4.private]] 
@@ -99,7 +99,7 @@ Relation describes that:
 [ #is_/inverse_of  :: [[has_main_entity]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_main_entity_of_page.md|is_main_entity_of_page]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_main_entity_of_page.md|is_main_entity_of_page]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_main_entity_of_page.internal.md|is_main_entity_of_page.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_main_entity_of_page.protect.md|is_main_entity_of_page.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_main_entity_of_page.private.md|is_main_entity_of_page.private]] 

@@ -45,7 +45,7 @@ Skin assessment with clinical examination.
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.md|skin]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.md|skin]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.internal.md|skin.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.protect.md|skin.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/skin.private.md|skin.private]] 

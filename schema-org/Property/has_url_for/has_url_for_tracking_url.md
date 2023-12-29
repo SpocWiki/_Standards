@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_tracking_url.md|has_url_for_tracking_url]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_tracking_url.md|has_url_for_tracking_url]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_tracking_url.internal.md|has_url_for_tracking_url.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_tracking_url.protect.md|has_url_for_tracking_url.protect]] 
 - [[../../../../_private/schema.org/Predicate/Urls/has_url_for_tracking_url.private.md|has_url_for_tracking_url.private]] 

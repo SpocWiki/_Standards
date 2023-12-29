@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number, QualitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_dose.md|has_value_for_dose]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_dose.md|has_value_for_dose]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_dose.internal.md|has_value_for_dose.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_dose.protect.md|has_value_for_dose.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_dose.private.md|has_value_for_dose.private]] 

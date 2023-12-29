@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: ImageObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_primary_image_of_page.md|has_primary_image_of_page]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_primary_image_of_page.md|has_primary_image_of_page]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_primary_image_of_page.internal.md|has_primary_image_of_page.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_primary_image_of_page.protect.md|has_primary_image_of_page.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_primary_image_of_page.private.md|has_primary_image_of_page.private]] 

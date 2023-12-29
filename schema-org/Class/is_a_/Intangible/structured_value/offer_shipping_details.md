@@ -56,7 +56,7 @@ or Fast and expensive: $15 in 1-2 days.
 [ #has_/properties :: [ additionalType, alternateName, deliveryTime, depth, description, disambiguatingDescription, doesNotShip, height, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, shippingLabel, shippingOrigin, shippingRate, shippingSettingsLink, subjectOf, transitTimeLabel, url, weight, width ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/offer_shipping_details.md|offer_shipping_details]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/offer_shipping_details.md|offer_shipping_details]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/offer_shipping_details.internal.md|offer_shipping_details.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/offer_shipping_details.protect.md|offer_shipping_details.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/offer_shipping_details.private.md|offer_shipping_details.private]] 

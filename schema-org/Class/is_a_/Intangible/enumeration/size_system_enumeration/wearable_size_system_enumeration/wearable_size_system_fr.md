@@ -47,7 +47,7 @@ French size system for wearables.
 [ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_fr.md|wearable_size_system_fr]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_fr.md|wearable_size_system_fr]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_fr.internal.md|wearable_size_system_fr.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_fr.protect.md|wearable_size_system_fr.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_fr.private.md|wearable_size_system_fr.private]] 

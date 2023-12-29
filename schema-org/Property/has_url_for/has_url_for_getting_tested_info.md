@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: URL, WebContent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_getting_tested_info.md|has_url_for_getting_tested_info]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_getting_tested_info.md|has_url_for_getting_tested_info]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_getting_tested_info.internal.md|has_url_for_getting_tested_info.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_getting_tested_info.protect.md|has_url_for_getting_tested_info.protect]] 
 - [[../../../../_private/schema.org/Predicate/Urls/has_url_for_getting_tested_info.private.md|has_url_for_getting_tested_info.private]] 

@@ -51,7 +51,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: hasRepresentation ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_in_ch_i.md|has_in_ch_i]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_in_ch_i.md|has_in_ch_i]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_in_ch_i.internal.md|has_in_ch_i.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_in_ch_i.protect.md|has_in_ch_i.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_in_ch_i.private.md|has_in_ch_i.private]] 

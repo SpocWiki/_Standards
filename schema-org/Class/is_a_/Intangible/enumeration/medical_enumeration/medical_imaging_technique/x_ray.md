@@ -45,7 +45,7 @@ X-ray imaging.
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.md|x_ray]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.md|x_ray]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.internal.md|x_ray.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.protect.md|x_ray.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.private.md|x_ray.private]] 

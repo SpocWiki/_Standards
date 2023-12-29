@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_handling_days.md|has_value_for_handling_days]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_handling_days.md|has_value_for_handling_days]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_handling_days.internal.md|has_value_for_handling_days.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_handling_days.protect.md|has_value_for_handling_days.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_handling_days.private.md|has_value_for_handling_days.private]] 

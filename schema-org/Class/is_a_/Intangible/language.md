@@ -72,7 +72,7 @@ Alternatively use the RDFa-Lite:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/language.md|language]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/language.md|language]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/language.internal.md|language.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/language.protect.md|language.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/language.private.md|language.private]] 

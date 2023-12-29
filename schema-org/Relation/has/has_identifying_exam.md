@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: PhysicalExam )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_identifying_exam.md|has_identifying_exam]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_identifying_exam.md|has_identifying_exam]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_identifying_exam.internal.md|has_identifying_exam.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_identifying_exam.protect.md|has_identifying_exam.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_identifying_exam.private.md|has_identifying_exam.private]] 

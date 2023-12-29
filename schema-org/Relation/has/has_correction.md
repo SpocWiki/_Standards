@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: CorrectionComment, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_correction.md|has_correction]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_correction.md|has_correction]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_correction.internal.md|has_correction.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_correction.protect.md|has_correction.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_correction.private.md|has_correction.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MapCategoryType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_map_type.md|has_map_type]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_map_type.md|has_map_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_map_type.internal.md|has_map_type.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_map_type.protect.md|has_map_type.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_map_type.private.md|has_map_type.private]] 

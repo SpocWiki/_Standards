@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_replacee.md|has_replacee]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_replacee.md|has_replacee]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_replacee.internal.md|has_replacee.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_replacee.protect.md|has_replacee.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_replacee.private.md|has_replacee.private]] 

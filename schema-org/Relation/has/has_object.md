@@ -46,7 +46,7 @@ Relation describes that:
 #has_/sub_properties :: [ [has_actionOption](../../Texts/has_action_option.md) , [has_candidate](has_candidate.md) , [is_in_collection](../is/is_in_collection.md), [is_followee_of](../is/is_followee_of.md), [has_option](../../Texts/has_option.md) , [has_question](has_question.md), [has_replacee](has_replacee.md), [replacer](has_replacer.md) , [has_targetCollection](has_target_collection.md) ] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_object.md|has_object]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_object.md|has_object]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_object.internal.md|has_object.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_object.protect.md|has_object.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_object.private.md|has_object.private]] 

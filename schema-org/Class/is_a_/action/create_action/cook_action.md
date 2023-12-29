@@ -43,7 +43,7 @@ The act of producing/preparing food.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, foodEstablishment, foodEvent, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipe, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/create_action/cook_action.md|cook_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/cook_action.md|cook_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/cook_action.internal.md|cook_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/cook_action.protect.md|cook_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/cook_action.private.md|cook_action.private]] 

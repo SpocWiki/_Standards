@@ -45,7 +45,7 @@ A specific branch of medical science that pertains to treating diseases, injurie
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.md|surgical]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.md|surgical]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.internal.md|surgical.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.protect.md|surgical.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.private.md|surgical.private]] 

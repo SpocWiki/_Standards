@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_copyright_year.md|has_value_for_copyright_year]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_copyright_year.md|has_value_for_copyright_year]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_copyright_year.internal.md|has_value_for_copyright_year.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_copyright_year.protect.md|has_value_for_copyright_year.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_copyright_year.private.md|has_value_for_copyright_year.private]] 

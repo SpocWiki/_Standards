@@ -45,7 +45,7 @@ This Relation describes that:
 
 #is_/inverse_of :: [[has_previous_item]] 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_next_item.md|has_next_item]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_next_item.md|has_next_item]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_next_item.internal.md|has_next_item.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_next_item.protect.md|has_next_item.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_next_item.private.md|has_next_item.private]] 

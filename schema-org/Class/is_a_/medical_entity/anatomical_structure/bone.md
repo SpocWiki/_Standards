@@ -43,7 +43,7 @@ Rigid connective tissue that comprises up the skeletal structure of the human bo
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.md|bone]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/bone.md|bone]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.internal.md|bone.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.protect.md|bone.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/bone.private.md|bone.private]] 

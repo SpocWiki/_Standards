@@ -45,7 +45,7 @@ The day of the week between Wednesday and Friday.
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.md|thursday]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/thursday.md|thursday]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.internal.md|thursday.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.protect.md|thursday.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/thursday.private.md|thursday.private]] 

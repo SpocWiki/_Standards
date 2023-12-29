@@ -45,7 +45,7 @@ A designation by the US FDA signifying that there is positive evidence of human 
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.md|fd_acategory_d]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.md|fd_acategory_d]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.internal.md|fd_acategory_d.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.protect.md|fd_acategory_d.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.private.md|fd_acategory_d.private]] 

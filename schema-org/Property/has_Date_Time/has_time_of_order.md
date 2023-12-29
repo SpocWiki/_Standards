@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_order.md|has_time_of_order]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_order.md|has_time_of_order]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_order.internal.md|has_time_of_order.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_order.protect.md|has_time_of_order.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_order.private.md|has_time_of_order.private]] 

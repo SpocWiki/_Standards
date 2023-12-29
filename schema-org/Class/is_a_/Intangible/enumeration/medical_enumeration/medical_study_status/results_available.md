@@ -45,7 +45,7 @@ Results are available.
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/results_available.md|results_available]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/results_available.md|results_available]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/results_available.internal.md|results_available.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/results_available.protect.md|results_available.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/results_available.private.md|results_available.private]] 

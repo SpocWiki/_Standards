@@ -62,7 +62,7 @@ Predicate describes that:
 ( #has_/range :: [[../../Class/is_a_/Intangible/rating|Rating]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_number_of_stars_rating.md|has_number_of_stars_rating]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_number_of_stars_rating.md|has_number_of_stars_rating]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_number_of_stars_rating.internal.md|has_number_of_stars_rating.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_number_of_stars_rating.protect.md|has_number_of_stars_rating.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_number_of_stars_rating.private.md|has_number_of_stars_rating.private]] 

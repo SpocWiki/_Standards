@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalTrialDesign )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_trial_design.md|has_trial_design]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_trial_design.md|has_trial_design]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_trial_design.internal.md|has_trial_design.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_trial_design.protect.md|has_trial_design.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_trial_design.private.md|has_trial_design.private]] 

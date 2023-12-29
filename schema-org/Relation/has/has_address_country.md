@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Country, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_address_country.md|has_address_country]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_address_country.md|has_address_country]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_address_country.internal.md|has_address_country.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_address_country.protect.md|has_address_country.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_address_country.private.md|has_address_country.private]] 

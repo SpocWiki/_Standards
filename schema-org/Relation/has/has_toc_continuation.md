@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: HyperTocEntry )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_toc_continuation.md|has_toc_continuation]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_toc_continuation.md|has_toc_continuation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_toc_continuation.internal.md|has_toc_continuation.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_toc_continuation.protect.md|has_toc_continuation.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_toc_continuation.private.md|has_toc_continuation.private]] 

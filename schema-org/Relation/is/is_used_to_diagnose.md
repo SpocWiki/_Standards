@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_used_to_diagnose.md|is_used_to_diagnose]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_used_to_diagnose.md|is_used_to_diagnose]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_used_to_diagnose.internal.md|is_used_to_diagnose.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_used_to_diagnose.protect.md|is_used_to_diagnose.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_used_to_diagnose.private.md|is_used_to_diagnose.private]] 

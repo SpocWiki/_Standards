@@ -49,7 +49,7 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/action/play_action.md|play_action]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/action/play_action.md|play_action]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/action/play_action.internal.md|play_action.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/action/play_action.protect.md|play_action.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/action/play_action.private.md|play_action.private]] 

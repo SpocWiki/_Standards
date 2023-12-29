@@ -45,7 +45,7 @@ Unlike cross-sectional studies, longitudinal studies track the same people, and 
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.md|longitudinal]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.md|longitudinal]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.internal.md|longitudinal.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.protect.md|longitudinal.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/longitudinal.private.md|longitudinal.private]] 

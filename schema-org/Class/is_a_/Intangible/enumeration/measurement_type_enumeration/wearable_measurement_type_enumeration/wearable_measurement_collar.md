@@ -47,7 +47,7 @@ Measurement of the collar, for example of a shirt
 [ #is_/enum_of :: [[../WearableMeasurementTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.md|wearable_measurement_collar]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.md|wearable_measurement_collar]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.internal.md|wearable_measurement_collar.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.protect.md|wearable_measurement_collar.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration/wearable_measurement_collar.private.md|wearable_measurement_collar.private]] 

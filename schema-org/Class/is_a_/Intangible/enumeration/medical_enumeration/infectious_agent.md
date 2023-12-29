@@ -39,7 +39,7 @@ Classes of agents or pathogens that transmit infectious diseases. Enumerated typ
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.md|infectious_agent_class]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.md|infectious_agent_class]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.internal.md|infectious_agent_class.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.protect.md|infectious_agent_class.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.private.md|infectious_agent_class.private]] 

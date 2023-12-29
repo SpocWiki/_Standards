@@ -43,7 +43,7 @@ A stage of a medical condition, such as 'Stage IIIa'.
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, stageAsNumber, study, subStageSuffix, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_intangible/medical_condition_stage.md|medical_condition_stage]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/medical_condition_stage.md|medical_condition_stage]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_intangible/medical_condition_stage.internal.md|medical_condition_stage.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_intangible/medical_condition_stage.protect.md|medical_condition_stage.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_intangible/medical_condition_stage.private.md|medical_condition_stage.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_exercise_plan.md|has_exercise_plan]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_exercise_plan.md|has_exercise_plan]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_exercise_plan.internal.md|has_exercise_plan.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_exercise_plan.protect.md|has_exercise_plan.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_exercise_plan.private.md|has_exercise_plan.private]] 

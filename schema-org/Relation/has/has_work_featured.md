@@ -45,7 +45,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ workPerformed, workPresented ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_work_featured.md|has_work_featured]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_work_featured.md|has_work_featured]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_featured.internal.md|has_work_featured.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_work_featured.protect.md|has_work_featured.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_work_featured.private.md|has_work_featured.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: RsvpResponseType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_rsvp_response.md|has_rsvp_response]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_rsvp_response.md|has_rsvp_response]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_rsvp_response.internal.md|has_rsvp_response.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_rsvp_response.protect.md|has_rsvp_response.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_rsvp_response.private.md|has_rsvp_response.private]] 

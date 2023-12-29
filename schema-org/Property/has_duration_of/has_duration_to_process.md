@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Duration)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration_to_process.md|has_duration_to_process]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_to_process.md|has_duration_to_process]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_to_process.internal.md|has_duration_to_process.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration_to_process.protect.md|has_duration_to_process.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration_to_process.private.md|has_duration_to_process.private]] 

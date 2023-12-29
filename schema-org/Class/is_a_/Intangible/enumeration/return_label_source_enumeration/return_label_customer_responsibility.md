@@ -47,7 +47,7 @@ Indicated that creating a return label is the responsibility of the customer.
 [ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.md|return_label_customer_responsibility]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.md|return_label_customer_responsibility]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.internal.md|return_label_customer_responsibility.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.protect.md|return_label_customer_responsibility.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_customer_responsibility.private.md|return_label_customer_responsibility.private]] 

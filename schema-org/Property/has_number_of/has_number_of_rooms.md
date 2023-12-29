@@ -49,7 +49,7 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_rooms.md|has_number_of_number_of_rooms]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_rooms.md|has_number_of_number_of_rooms]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_rooms.internal.md|has_number_of_number_of_rooms.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_rooms.protect.md|has_number_of_number_of_rooms.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_rooms.private.md|has_number_of_number_of_rooms.private]] 

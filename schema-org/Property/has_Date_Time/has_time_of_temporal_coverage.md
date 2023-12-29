@@ -58,7 +58,7 @@ Formal Predicate:
 (range::DateTime, Text, URL)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.md|has_time_of_temporal_coverage]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_temporal_coverage.md|has_time_of_temporal_coverage]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.internal.md|has_time_of_temporal_coverage.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.protect.md|has_time_of_temporal_coverage.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.private.md|has_time_of_temporal_coverage.private]] 

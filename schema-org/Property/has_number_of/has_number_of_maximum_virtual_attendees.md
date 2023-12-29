@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.md|has_number_of_maximum_virtual_attendees]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_maximum_virtual_attendees.md|has_number_of_maximum_virtual_attendees]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.internal.md|has_number_of_maximum_virtual_attendees.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.protect.md|has_number_of_maximum_virtual_attendees.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_maximum_virtual_attendees.private.md|has_number_of_maximum_virtual_attendees.private]] 

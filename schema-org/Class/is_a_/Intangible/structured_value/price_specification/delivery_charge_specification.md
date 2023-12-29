@@ -43,7 +43,7 @@ The price for the delivery of an offer using a particular delivery method.
 [ #has_/properties :: [ additionalType, alternateName, appliesToDeliveryMethod, areaServed, description, disambiguatingDescription, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, identifier, image, ineligibleRegion, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.md|delivery_charge_specification]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.md|delivery_charge_specification]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.internal.md|delivery_charge_specification.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.protect.md|delivery_charge_specification.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/price_specification/delivery_charge_specification.private.md|delivery_charge_specification.private]] 

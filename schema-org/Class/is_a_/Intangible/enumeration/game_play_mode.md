@@ -41,7 +41,7 @@ Indicates whether this game is multi-player, co-op or single-player.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.md|game_play_mode]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/game_play_mode.md|game_play_mode]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.internal.md|game_play_mode.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.protect.md|game_play_mode.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_play_mode.private.md|game_play_mode.private]] 

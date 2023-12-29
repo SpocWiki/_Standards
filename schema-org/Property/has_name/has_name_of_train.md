@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_name_of_train.md|has_name_of_train]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_train.md|has_name_of_train]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_train.internal.md|has_name_of_train.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_train.protect.md|has_name_of_train.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_name_of_train.private.md|has_name_of_train.private]] 

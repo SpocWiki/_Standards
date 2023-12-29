@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Rating, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_content_rating_stars.md|has_value_for_content_rating_stars]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_content_rating_stars.md|has_value_for_content_rating_stars]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_content_rating_stars.internal.md|has_value_for_content_rating_stars.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_content_rating_stars.protect.md|has_value_for_content_rating_stars.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_content_rating_stars.private.md|has_value_for_content_rating_stars.private]] 

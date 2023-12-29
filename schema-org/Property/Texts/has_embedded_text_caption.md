@@ -49,7 +49,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: caption ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_embedded_text_caption.md|has_embedded_text_caption]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_embedded_text_caption.md|has_embedded_text_caption]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_embedded_text_caption.internal.md|has_embedded_text_caption.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_embedded_text_caption.protect.md|has_embedded_text_caption.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_embedded_text_caption.private.md|has_embedded_text_caption.private]] 

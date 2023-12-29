@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Hospital )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_hospital_affiliation.md|has_hospital_affiliation]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_hospital_affiliation.md|has_hospital_affiliation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hospital_affiliation.internal.md|has_hospital_affiliation.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_hospital_affiliation.protect.md|has_hospital_affiliation.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_hospital_affiliation.private.md|has_hospital_affiliation.private]] 

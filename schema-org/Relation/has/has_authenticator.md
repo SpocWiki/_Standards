@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_authenticator.md|has_authenticator]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_authenticator.md|has_authenticator]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_authenticator.internal.md|has_authenticator.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_authenticator.protect.md|has_authenticator.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_authenticator.private.md|has_authenticator.private]] 

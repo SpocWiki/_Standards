@@ -47,7 +47,7 @@ Foot length (measured between end of the most prominent toe and the most promine
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.md|body_measurement_foot]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.md|body_measurement_foot]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.internal.md|body_measurement_foot.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.protect.md|body_measurement_foot.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_foot.private.md|body_measurement_foot.private]] 

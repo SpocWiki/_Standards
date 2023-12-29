@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: OpeningHoursSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_hours_available.md|has_hours_available]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_hours_available.md|has_hours_available]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hours_available.internal.md|has_hours_available.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_hours_available.protect.md|has_hours_available.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_hours_available.private.md|has_hours_available.private]] 

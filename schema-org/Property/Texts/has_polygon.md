@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_polygon.md|has_polygon]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_polygon.md|has_polygon]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_polygon.internal.md|has_polygon.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_polygon.protect.md|has_polygon.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_polygon.private.md|has_polygon.private]] 

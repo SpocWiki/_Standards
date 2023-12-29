@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: UnitPriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_current_exchange_rate.md|has_current_exchange_rate]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_current_exchange_rate.md|has_current_exchange_rate]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_current_exchange_rate.internal.md|has_current_exchange_rate.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_current_exchange_rate.protect.md|has_current_exchange_rate.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_current_exchange_rate.private.md|has_current_exchange_rate.private]] 

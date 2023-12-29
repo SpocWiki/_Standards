@@ -45,7 +45,7 @@ A trial that takes place at multiple centers.
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.md|multi_center_trial]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.md|multi_center_trial]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.internal.md|multi_center_trial.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.protect.md|multi_center_trial.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/multi_center_trial.private.md|multi_center_trial.private]] 

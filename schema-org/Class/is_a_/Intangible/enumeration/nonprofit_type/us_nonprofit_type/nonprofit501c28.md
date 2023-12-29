@@ -47,7 +47,7 @@ Nonprofit501c28: Non-profit type referring to National Railroad Retirement Inves
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.md|nonprofit501c28]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.md|nonprofit501c28]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.internal.md|nonprofit501c28.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.protect.md|nonprofit501c28.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c28.private.md|nonprofit501c28.private]] 

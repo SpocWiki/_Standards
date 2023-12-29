@@ -43,7 +43,7 @@ Relation describes that:
 [ #is_/inverse_of  :: subOrganization ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_parent_organization.md|has_parent_organization]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_parent_organization.md|has_parent_organization]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parent_organization.internal.md|has_parent_organization.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_parent_organization.protect.md|has_parent_organization.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_parent_organization.private.md|has_parent_organization.private]] 

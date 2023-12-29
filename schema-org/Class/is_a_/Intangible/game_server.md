@@ -43,7 +43,7 @@ Server that provides game interaction in a multiplayer game.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, game, identifier, image, mainEntityOfPage, name, playersOnline, potentialAction, sameAs, serverStatus, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/game_server.md|game_server]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/game_server.md|game_server]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/game_server.internal.md|game_server.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/game_server.protect.md|game_server.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/game_server.private.md|game_server.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_manufacturer.md|has_manufacturer]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_manufacturer.md|has_manufacturer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_manufacturer.internal.md|has_manufacturer.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_manufacturer.protect.md|has_manufacturer.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_manufacturer.private.md|has_manufacturer.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: OccupationalExperienceRequirements, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_experience_requirements.md|has_experience_requirements]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_experience_requirements.md|has_experience_requirements]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_experience_requirements.internal.md|has_experience_requirements.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_experience_requirements.protect.md|has_experience_requirements.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_experience_requirements.private.md|has_experience_requirements.private]] 

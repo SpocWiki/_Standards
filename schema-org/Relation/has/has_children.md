@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_children.md|has_children]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_children.md|has_children]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_children.internal.md|has_children.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_children.protect.md|has_children.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_children.private.md|has_children.private]] 

@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_sub_stage_suffix.md|has_sub_stage_suffix]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_sub_stage_suffix.md|has_sub_stage_suffix]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_sub_stage_suffix.internal.md|has_sub_stage_suffix.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_sub_stage_suffix.protect.md|has_sub_stage_suffix.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_sub_stage_suffix.private.md|has_sub_stage_suffix.private]] 

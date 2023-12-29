@@ -45,7 +45,7 @@ A Role that represents a Web link, e.g. as expressed via the 'url' property. Its
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, inLanguage, linkRelationship, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/role/link_role.md|link_role]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/role/link_role.md|link_role]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/role/link_role.internal.md|link_role.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/role/link_role.protect.md|link_role.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/role/link_role.private.md|link_role.private]] 

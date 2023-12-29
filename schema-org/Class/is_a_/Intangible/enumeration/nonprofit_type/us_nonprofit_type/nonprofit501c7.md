@@ -47,7 +47,7 @@ Nonprofit501c7: Non-profit type referring to Social and Recreational Clubs.
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.md|nonprofit501c7]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.md|nonprofit501c7]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.internal.md|nonprofit501c7.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.protect.md|nonprofit501c7.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c7.private.md|nonprofit501c7.private]] 

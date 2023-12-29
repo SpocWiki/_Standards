@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Duration)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration_to_prepare.md|has_duration_to_prepare]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_to_prepare.md|has_duration_to_prepare]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_to_prepare.internal.md|has_duration_to_prepare.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration_to_prepare.protect.md|has_duration_to_prepare.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration_to_prepare.private.md|has_duration_to_prepare.private]] 

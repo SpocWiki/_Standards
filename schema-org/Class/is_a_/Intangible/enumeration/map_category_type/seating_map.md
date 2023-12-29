@@ -45,7 +45,7 @@ A seating map.
 [ #is_/enum_of :: [[../MapCategoryType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/map_category_type/seating_map.md|seating_map]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/map_category_type/seating_map.md|seating_map]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/map_category_type/seating_map.internal.md|seating_map.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/map_category_type/seating_map.protect.md|seating_map.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/map_category_type/seating_map.private.md|seating_map.private]] 

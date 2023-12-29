@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_landlord.md|has_landlord]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_landlord.md|has_landlord]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_landlord.internal.md|has_landlord.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_landlord.protect.md|has_landlord.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_landlord.private.md|has_landlord.private]] 

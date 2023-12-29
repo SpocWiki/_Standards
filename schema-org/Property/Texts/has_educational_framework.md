@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_educational_framework.md|has_educational_framework]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_educational_framework.md|has_educational_framework]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_educational_framework.internal.md|has_educational_framework.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_educational_framework.protect.md|has_educational_framework.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_educational_framework.private.md|has_educational_framework.private]] 

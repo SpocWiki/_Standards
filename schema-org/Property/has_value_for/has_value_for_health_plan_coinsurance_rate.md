@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.md|has_value_for_health_plan_coinsurance_rate]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.md|has_value_for_health_plan_coinsurance_rate]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.internal.md|has_value_for_health_plan_coinsurance_rate.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.protect.md|has_value_for_health_plan_coinsurance_rate.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.private.md|has_value_for_health_plan_coinsurance_rate.private]] 

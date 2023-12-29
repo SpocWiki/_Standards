@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: TrainStation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_station.md|has_arrival_station]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_arrival_station.md|has_arrival_station]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_station.internal.md|has_arrival_station.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_arrival_station.protect.md|has_arrival_station.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_arrival_station.private.md|has_arrival_station.private]] 

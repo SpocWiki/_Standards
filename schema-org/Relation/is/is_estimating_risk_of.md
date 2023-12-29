@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalEntity)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_estimating_risk_of.md|is_estimating_risk_of]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_estimating_risk_of.md|is_estimating_risk_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_estimating_risk_of.internal.md|is_estimating_risk_of.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_estimating_risk_of.protect.md|is_estimating_risk_of.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_estimating_risk_of.private.md|is_estimating_risk_of.private]] 

@@ -45,7 +45,7 @@ The status of a reservation when a request has been sent, but not confirmed.
 [ #is_/enum_of :: [[../ReservationStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.md|reservation_pending]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.md|reservation_pending]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.internal.md|reservation_pending.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.protect.md|reservation_pending.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.private.md|reservation_pending.private]] 

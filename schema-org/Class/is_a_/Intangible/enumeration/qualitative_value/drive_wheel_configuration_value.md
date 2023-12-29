@@ -43,7 +43,7 @@ A value indicating which roadwheels will receive torque.
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.md|drive_wheel_configuration_value]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.md|drive_wheel_configuration_value]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.internal.md|drive_wheel_configuration_value.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.protect.md|drive_wheel_configuration_value.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.private.md|drive_wheel_configuration_value.private]] 

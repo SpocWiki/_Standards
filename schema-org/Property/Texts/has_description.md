@@ -49,7 +49,7 @@ Predicated describes that:
 #is_/inverse_of :: [[is_describing]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_description.md|has_description]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_description.md|has_description]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_description.internal.md|has_description.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_description.protect.md|has_description.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_description.private.md|has_description.private]] 

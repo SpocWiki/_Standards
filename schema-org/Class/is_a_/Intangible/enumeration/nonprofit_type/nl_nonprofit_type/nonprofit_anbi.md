@@ -47,7 +47,7 @@ NonprofitANBI: Non-profit type referring to a Public Benefit Organization (NL).
 [ #is_/enum_of :: [[../NLNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.md|nonprofit_anbi]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.md|nonprofit_anbi]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.internal.md|nonprofit_anbi.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.protect.md|nonprofit_anbi.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.private.md|nonprofit_anbi.private]] 

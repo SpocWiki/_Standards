@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_award.md|has_award]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_award.md|has_award]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_award.internal.md|has_award.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_award.protect.md|has_award.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_award.private.md|has_award.private]] 

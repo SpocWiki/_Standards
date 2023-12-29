@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_acquired_from.md|is_acquired_from]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_acquired_from.md|is_acquired_from]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_acquired_from.internal.md|is_acquired_from.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_acquired_from.protect.md|is_acquired_from.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_acquired_from.private.md|is_acquired_from.private]] 

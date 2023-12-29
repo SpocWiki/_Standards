@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, QuantitativeValue, SizeSpecification, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_size.md|has_size]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_size.md|has_size]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_size.internal.md|has_size.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_size.protect.md|has_size.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_size.private.md|has_size.private]] 

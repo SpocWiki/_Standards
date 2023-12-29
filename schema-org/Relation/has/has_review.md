@@ -44,7 +44,7 @@ A [[../../Class/is_a_/creative_work/review|review]] of the item.
 ( #has_/range :: [[../../Class/is_a_/creative_work/review|Review]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_review.md|has_review]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_review.md|has_review]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_review.internal.md|has_review.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_review.protect.md|has_review.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_review.private.md|has_review.private]] 

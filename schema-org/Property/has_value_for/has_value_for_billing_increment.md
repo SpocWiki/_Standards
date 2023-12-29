@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_billing_increment.md|has_value_for_billing_increment]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_billing_increment.md|has_value_for_billing_increment]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_billing_increment.internal.md|has_value_for_billing_increment.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_billing_increment.protect.md|has_value_for_billing_increment.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_billing_increment.private.md|has_value_for_billing_increment.private]] 

@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_players.md|has_number_of_number_of_players]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_players.md|has_number_of_number_of_players]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_players.internal.md|has_number_of_number_of_players.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_players.protect.md|has_number_of_number_of_players.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_players.private.md|has_number_of_number_of_players.private]] 

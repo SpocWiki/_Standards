@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: BlogPosting )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_live_blog_update.md|has_live_blog_update]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_live_blog_update.md|has_live_blog_update]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_live_blog_update.internal.md|has_live_blog_update.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_live_blog_update.protect.md|has_live_blog_update.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_live_blog_update.private.md|has_live_blog_update.private]] 

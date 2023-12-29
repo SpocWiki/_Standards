@@ -43,7 +43,7 @@ A set of requirements that must be fulfilled in order to perform an Action.
 [ #has_/properties :: [ additionalType, alternateName, availabilityEnds, availabilityStarts, category, description, disambiguatingDescription, eligibleRegion, expectsAcceptanceOf, identifier, image, ineligibleRegion, mainEntityOfPage, name, potentialAction, requiresSubscription, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/action_access_specification.md|action_access_specification]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/action_access_specification.md|action_access_specification]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/action_access_specification.internal.md|action_access_specification.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/action_access_specification.protect.md|action_access_specification.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/action_access_specification.private.md|action_access_specification.private]] 

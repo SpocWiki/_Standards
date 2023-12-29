@@ -41,7 +41,7 @@ Enumerated categories of medical drug costs.
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.md|drug_cost_category]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.md|drug_cost_category]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.internal.md|drug_cost_category.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.protect.md|drug_cost_category.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.private.md|drug_cost_category.private]] 

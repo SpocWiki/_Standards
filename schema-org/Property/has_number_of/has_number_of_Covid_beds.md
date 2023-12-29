@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_Covid_beds.md|has_number_of_Covid_beds]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_Covid_beds.md|has_number_of_Covid_beds]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_beds.internal.md|has_number_of_Covid_beds.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_Covid_beds.protect.md|has_number_of_Covid_beds.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_Covid_beds.private.md|has_number_of_Covid_beds.private]] 

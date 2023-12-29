@@ -47,7 +47,7 @@ Item contains tobacco and/or nicotine, for example cigars, cigarettes, chewing t
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.md|tobacco_nicotine_consideration]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.md|tobacco_nicotine_consideration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.internal.md|tobacco_nicotine_consideration.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.protect.md|tobacco_nicotine_consideration.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/tobacco_nicotine_consideration.private.md|tobacco_nicotine_consideration.private]] 

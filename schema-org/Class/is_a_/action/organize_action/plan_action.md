@@ -45,7 +45,7 @@ The act of planning the execution of an event/task/action/reservation/plan to a 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/organize_action/plan_action.md|plan_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/plan_action.md|plan_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/plan_action.internal.md|plan_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/plan_action.protect.md|plan_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/organize_action/plan_action.private.md|plan_action.private]] 

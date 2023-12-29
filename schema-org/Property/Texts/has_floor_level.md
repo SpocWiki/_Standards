@@ -48,7 +48,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_floor_level.md|has_floor_level]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_floor_level.md|has_floor_level]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_floor_level.internal.md|has_floor_level.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_floor_level.protect.md|has_floor_level.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_floor_level.private.md|has_floor_level.private]] 

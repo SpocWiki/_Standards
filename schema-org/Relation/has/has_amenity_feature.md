@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: LocationFeatureSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_amenity_feature.md|has_amenity_feature]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_amenity_feature.md|has_amenity_feature]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_amenity_feature.internal.md|has_amenity_feature.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_amenity_feature.protect.md|has_amenity_feature.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_amenity_feature.private.md|has_amenity_feature.private]] 

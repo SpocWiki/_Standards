@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_tributary.md|has_tributary]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_tributary.md|has_tributary]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tributary.internal.md|has_tributary.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_tributary.protect.md|has_tributary.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_tributary.private.md|has_tributary.private]] 

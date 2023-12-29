@@ -46,7 +46,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_legislation_responsible.md|has_legislation_responsible]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_legislation_responsible.md|has_legislation_responsible]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legislation_responsible.internal.md|has_legislation_responsible.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_legislation_responsible.protect.md|has_legislation_responsible.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_legislation_responsible.private.md|has_legislation_responsible.private]] 

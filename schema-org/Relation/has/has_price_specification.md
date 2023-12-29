@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: PriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_price_specification.md|has_price_specification]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_price_specification.md|has_price_specification]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_price_specification.internal.md|has_price_specification.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_price_specification.protect.md|has_price_specification.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_price_specification.private.md|has_price_specification.private]] 

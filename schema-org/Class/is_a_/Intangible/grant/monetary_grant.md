@@ -45,7 +45,7 @@ A monetary grant.
 [ #has_/properties :: [ additionalType, alternateName, amount, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/grant/monetary_grant.md|monetary_grant]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/grant/monetary_grant.md|monetary_grant]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/grant/monetary_grant.internal.md|monetary_grant.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/grant/monetary_grant.protect.md|monetary_grant.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/grant/monetary_grant.private.md|monetary_grant.private]] 

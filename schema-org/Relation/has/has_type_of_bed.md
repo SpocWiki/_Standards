@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: BedType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_type_of_bed.md|has_type_of_bed]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_type_of_bed.md|has_type_of_bed]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_type_of_bed.internal.md|has_type_of_bed.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_type_of_bed.protect.md|has_type_of_bed.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_type_of_bed.private.md|has_type_of_bed.private]] 

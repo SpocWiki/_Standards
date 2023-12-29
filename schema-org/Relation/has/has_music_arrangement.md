@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MusicComposition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_music_arrangement.md|has_music_arrangement]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_music_arrangement.md|has_music_arrangement]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_music_arrangement.internal.md|has_music_arrangement.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_music_arrangement.protect.md|has_music_arrangement.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_music_arrangement.private.md|has_music_arrangement.private]] 

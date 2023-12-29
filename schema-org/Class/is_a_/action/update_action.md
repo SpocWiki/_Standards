@@ -45,7 +45,7 @@ The act of managing by changing/editing the state of the object.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/action/update_action.md|update_action]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/action/update_action.md|update_action]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/action/update_action.internal.md|update_action.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/action/update_action.protect.md|update_action.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/action/update_action.private.md|update_action.private]] 

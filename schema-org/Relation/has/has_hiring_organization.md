@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_hiring_organization.md|has_hiring_organization]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_hiring_organization.md|has_hiring_organization]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hiring_organization.internal.md|has_hiring_organization.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_hiring_organization.protect.md|has_hiring_organization.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_hiring_organization.private.md|has_hiring_organization.private]] 

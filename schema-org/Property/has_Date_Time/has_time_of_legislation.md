@@ -48,7 +48,7 @@ Formal Predicate:
 Is [sub_property_of::dateCreated]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_legislation.md|has_time_of_legislation]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_legislation.md|has_time_of_legislation]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_legislation.internal.md|has_time_of_legislation.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_legislation.protect.md|has_time_of_legislation.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_legislation.private.md|has_time_of_legislation.private]] 

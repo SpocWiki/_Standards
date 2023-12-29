@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount, MonetaryAmountDistribution, Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_estimated_salary.md|has_value_for_estimated_salary]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_estimated_salary.md|has_value_for_estimated_salary]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_estimated_salary.internal.md|has_value_for_estimated_salary.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_estimated_salary.protect.md|has_value_for_estimated_salary.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_estimated_salary.private.md|has_value_for_estimated_salary.private]] 

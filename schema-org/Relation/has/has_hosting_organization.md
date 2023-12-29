@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_hosting_organization.md|has_hosting_organization]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_hosting_organization.md|has_hosting_organization]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hosting_organization.internal.md|has_hosting_organization.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_hosting_organization.protect.md|has_hosting_organization.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_hosting_organization.private.md|has_hosting_organization.private]] 

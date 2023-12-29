@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_transit_time_label.md|has_transit_time_label]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_transit_time_label.md|has_transit_time_label]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_transit_time_label.internal.md|has_transit_time_label.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_transit_time_label.protect.md|has_transit_time_label.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_transit_time_label.private.md|has_transit_time_label.private]] 

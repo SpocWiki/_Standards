@@ -45,7 +45,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_sd_publisher.md|has_sd_publisher]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sd_publisher.md|has_sd_publisher]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sd_publisher.internal.md|has_sd_publisher.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sd_publisher.protect.md|has_sd_publisher.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_sd_publisher.private.md|has_sd_publisher.private]] 

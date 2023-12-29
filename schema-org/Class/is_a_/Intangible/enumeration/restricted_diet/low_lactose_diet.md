@@ -45,7 +45,7 @@ A diet appropriate for people with lactose intolerance.
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.md|low_lactose_diet]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.md|low_lactose_diet]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.internal.md|low_lactose_diet.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.protect.md|low_lactose_diet.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_lactose_diet.private.md|low_lactose_diet.private]] 

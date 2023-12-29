@@ -47,7 +47,7 @@ Typical progression and happenings of life course of the topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.md|prognosis_health_aspect]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.md|prognosis_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.internal.md|prognosis_health_aspect.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.protect.md|prognosis_health_aspect.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.private.md|prognosis_health_aspect.private]] 

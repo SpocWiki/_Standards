@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: InfectiousAgentClass )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_infectious_agent_class.md|has_infectious_agent_class]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_infectious_agent_class.md|has_infectious_agent_class]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_infectious_agent_class.internal.md|has_infectious_agent_class.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_infectious_agent_class.protect.md|has_infectious_agent_class.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_infectious_agent_class.private.md|has_infectious_agent_class.private]] 

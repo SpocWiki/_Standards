@@ -43,7 +43,7 @@ A listing that describes a job opening in a certain organization.
 [ #has_/properties :: [ additionalType, alternateName, applicantLocationRequirements, applicationContact, baseSalary, benefits, datePosted, description, directApply, disambiguatingDescription, educationRequirements, eligibilityToWorkRequirement, employerOverview, employmentType, employmentUnit, estimatedSalary, experienceInPlaceOfEducation, experienceRequirements, hiringOrganization, identifier, image, incentiveCompensation, incentives, industry, jobBenefits, jobImmediateStart, jobLocation, jobLocationType, jobStartDate, mainEntityOfPage, name, occupationalCategory, physicalRequirement, potentialAction, qualifications, relevantOccupation, responsibilities, salaryCurrency, sameAs, securityClearanceRequirement, sensoryRequirement, skills, specialCommitments, subjectOf, title, totalJobOpenings, url, validThrough, workHours ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/job_posting.md|job_posting]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/job_posting.md|job_posting]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/job_posting.internal.md|job_posting.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/job_posting.protect.md|job_posting.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/job_posting.private.md|job_posting.private]] 

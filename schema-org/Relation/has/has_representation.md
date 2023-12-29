@@ -46,7 +46,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ hasBioPolymerSequence, inChI, inChIKey, smiles ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_representation.md|has_representation]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_representation.md|has_representation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_representation.internal.md|has_representation.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_representation.protect.md|has_representation.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_representation.private.md|has_representation.private]] 

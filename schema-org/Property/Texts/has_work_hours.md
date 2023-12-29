@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_work_hours.md|has_work_hours]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_work_hours.md|has_work_hours]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_work_hours.internal.md|has_work_hours.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_work_hours.protect.md|has_work_hours.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_work_hours.private.md|has_work_hours.private]] 

@@ -45,7 +45,7 @@ The day of the week between Sunday and Tuesday.
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week/monday.md|monday]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/monday.md|monday]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/monday.internal.md|monday.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/monday.protect.md|monday.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/monday.private.md|monday.private]] 

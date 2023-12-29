@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: DrugPregnancyCategory )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_pregnancy_category.md|has_pregnancy_category]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_pregnancy_category.md|has_pregnancy_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_pregnancy_category.internal.md|has_pregnancy_category.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_pregnancy_category.protect.md|has_pregnancy_category.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_pregnancy_category.private.md|has_pregnancy_category.private]] 

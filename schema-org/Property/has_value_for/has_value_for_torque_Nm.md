@@ -58,7 +58,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_torque_Nm.md|has_value_for_torque_Nm]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_torque_Nm.md|has_value_for_torque_Nm]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_torque_Nm.internal.md|has_value_for_torque_Nm.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_torque_Nm.protect.md|has_value_for_torque_Nm.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_torque_Nm.private.md|has_value_for_torque_Nm.private]] 

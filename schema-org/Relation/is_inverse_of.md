@@ -83,7 +83,7 @@ Complement(Converse(`>`)) = Complement(`<`)  = `>=`
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Relations/is_inverse_of.md|is_inverse_of]]
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_inverse_of.md|is_inverse_of]]
 - [[../../../../_internal/schema.org/Predicate/Relations/is_inverse_of.internal.md|is_inverse_of.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Relations/is_inverse_of.protect.md|is_inverse_of.protect]] 
 - [[../../../../_private/schema.org/Predicate/Relations/is_inverse_of.private.md|is_inverse_of.private]] 

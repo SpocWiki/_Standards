@@ -43,7 +43,7 @@ The legal availability status of a medical drug.
 [ #has_/properties :: [ additionalType, alternateName, applicableLocation, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.md|drug_legal_status]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.md|drug_legal_status]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.internal.md|drug_legal_status.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.protect.md|drug_legal_status.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_intangible/drug_legal_status.private.md|drug_legal_status.private]] 

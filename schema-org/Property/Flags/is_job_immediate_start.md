@@ -48,7 +48,7 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Flags/is_job_immediate_start.md|is_job_immediate_start]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_job_immediate_start.md|is_job_immediate_start]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_job_immediate_start.internal.md|is_job_immediate_start.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Flags/is_job_immediate_start.protect.md|is_job_immediate_start.protect]] 
 - [[../../../../_private/schema.org/Predicate/Flags/is_job_immediate_start.private.md|is_job_immediate_start.private]] 

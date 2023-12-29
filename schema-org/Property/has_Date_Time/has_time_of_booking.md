@@ -44,7 +44,7 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_booking.md|has_time_of_booking]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_booking.md|has_time_of_booking]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_booking.internal.md|has_time_of_booking.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_booking.protect.md|has_time_of_booking.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_booking.private.md|has_time_of_booking.private]] 

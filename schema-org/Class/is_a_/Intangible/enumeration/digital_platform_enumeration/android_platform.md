@@ -47,7 +47,7 @@ Represents the broad notion of Android-based operating systems.
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.md|android_platform]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.md|android_platform]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.internal.md|android_platform.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.protect.md|android_platform.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/android_platform.private.md|android_platform.private]] 

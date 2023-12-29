@@ -47,7 +47,7 @@ Brazilian size system for wearables.
 [ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_br.md|wearable_size_system_br]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_br.md|wearable_size_system_br]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_br.internal.md|wearable_size_system_br.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_br.protect.md|wearable_size_system_br.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_br.private.md|wearable_size_system_br.private]] 

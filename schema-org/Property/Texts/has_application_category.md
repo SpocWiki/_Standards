@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_application_category.md|has_application_category]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_application_category.md|has_application_category]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_application_category.internal.md|has_application_category.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_application_category.protect.md|has_application_category.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_application_category.private.md|has_application_category.private]] 

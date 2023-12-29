@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: MusicAlbum )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_album.md|has_album]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_album.md|has_album]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_album.internal.md|has_album.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_album.protect.md|has_album.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_album.private.md|has_album.private]] 

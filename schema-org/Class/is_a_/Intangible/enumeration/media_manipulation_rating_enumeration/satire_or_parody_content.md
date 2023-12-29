@@ -57,7 +57,7 @@ Audio that was created as political or humorous commentary and is presented in t
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.md|satire_or_parody_content]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.md|satire_or_parody_content]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.internal.md|satire_or_parody_content.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.protect.md|satire_or_parody_content.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/satire_or_parody_content.private.md|satire_or_parody_content.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Drug )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_interacting_drug.md|has_interacting_drug]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_interacting_drug.md|has_interacting_drug]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_interacting_drug.internal.md|has_interacting_drug.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_interacting_drug.protect.md|has_interacting_drug.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_interacting_drug.private.md|has_interacting_drug.private]] 

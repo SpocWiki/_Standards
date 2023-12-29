@@ -37,7 +37,7 @@ Data type: Text.
 [ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/data_type/text.md|text]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/text.md|text]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/data_type/text.internal.md|text.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/data_type/text.protect.md|text.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/data_type/text.private.md|text.private]] 

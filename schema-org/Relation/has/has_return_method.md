@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: ReturnMethodEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_return_method.md|has_return_method]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_return_method.md|has_return_method]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_method.internal.md|has_return_method.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_return_method.protect.md|has_return_method.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_return_method.private.md|has_return_method.private]] 

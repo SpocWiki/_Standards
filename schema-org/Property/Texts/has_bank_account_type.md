@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_bank_account_type.md|has_bank_account_type]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_bank_account_type.md|has_bank_account_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_bank_account_type.internal.md|has_bank_account_type.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_bank_account_type.protect.md|has_bank_account_type.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_bank_account_type.private.md|has_bank_account_type.private]] 

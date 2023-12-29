@@ -45,7 +45,7 @@ Ultrasound imaging.
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.md|ultrasound]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.md|ultrasound]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.internal.md|ultrasound.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.protect.md|ultrasound.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ultrasound.private.md|ultrasound.private]] 

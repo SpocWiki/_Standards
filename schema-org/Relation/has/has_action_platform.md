@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: DigitalPlatformEnumeration, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_action_platform.md|has_action_platform]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_action_platform.md|has_action_platform]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_platform.internal.md|has_action_platform.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_action_platform.protect.md|has_action_platform.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_action_platform.private.md|has_action_platform.private]] 

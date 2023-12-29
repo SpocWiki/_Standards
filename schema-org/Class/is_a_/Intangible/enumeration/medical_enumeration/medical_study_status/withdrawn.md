@@ -45,7 +45,7 @@ Withdrawn.
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.md|withdrawn]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.md|withdrawn]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.internal.md|withdrawn.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.protect.md|withdrawn.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.private.md|withdrawn.private]] 

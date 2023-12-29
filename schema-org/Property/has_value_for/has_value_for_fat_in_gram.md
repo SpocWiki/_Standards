@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Mass )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_fat_in_gram.md|has_value_for_fat_in_gram]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_fat_in_gram.md|has_value_for_fat_in_gram]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_fat_in_gram.internal.md|has_value_for_fat_in_gram.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_fat_in_gram.protect.md|has_value_for_fat_in_gram.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_fat_in_gram.private.md|has_value_for_fat_in_gram.private]] 

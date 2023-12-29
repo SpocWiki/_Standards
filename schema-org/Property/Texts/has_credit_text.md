@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_credit_text.md|has_credit_text]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_credit_text.md|has_credit_text]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_credit_text.internal.md|has_credit_text.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_credit_text.protect.md|has_credit_text.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_credit_text.private.md|has_credit_text.private]] 

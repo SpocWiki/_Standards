@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_biomechnical_class.md|has_biomechnical_class]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_biomechnical_class.md|has_biomechnical_class]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_biomechnical_class.internal.md|has_biomechnical_class.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_biomechnical_class.protect.md|has_biomechnical_class.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_biomechnical_class.private.md|has_biomechnical_class.private]] 

@@ -54,7 +54,7 @@ Commonly used values:
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, cashBack, category, contactlessPayment, currency, description, disambiguatingDescription, feesAndCommissionsSpecification, floorLimit, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, monthlyMinimumRepaymentAmount, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.md|credit_card]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.md|credit_card]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.internal.md|credit_card.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.protect.md|credit_card.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit/credit_card.private.md|credit_card.private]] 

@@ -45,7 +45,7 @@ Indicates that the item has limited availability.
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/limited_availability.md|limited_availability]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_availability/limited_availability.md|limited_availability]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/limited_availability.internal.md|limited_availability.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/limited_availability.protect.md|limited_availability.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/limited_availability.private.md|limited_availability.private]] 

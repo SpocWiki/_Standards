@@ -46,7 +46,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ ingredients, recipeIngredient ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_supply.md|has_supply]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_supply.md|has_supply]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_supply.internal.md|has_supply.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_supply.protect.md|has_supply.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_supply.private.md|has_supply.private]] 

@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_percentile10.md|has_value_for_percentile10]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_percentile10.md|has_value_for_percentile10]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_percentile10.internal.md|has_value_for_percentile10.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_percentile10.protect.md|has_value_for_percentile10.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_percentile10.private.md|has_value_for_percentile10.private]] 

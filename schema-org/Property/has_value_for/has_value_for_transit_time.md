@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_transit_time.md|has_value_for_transit_time]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_transit_time.md|has_value_for_transit_time]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_transit_time.internal.md|has_value_for_transit_time.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_transit_time.protect.md|has_value_for_transit_time.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_transit_time.private.md|has_value_for_transit_time.private]] 

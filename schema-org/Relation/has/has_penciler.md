@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_penciler.md|has_penciler]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_penciler.md|has_penciler]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_penciler.internal.md|has_penciler.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_penciler.protect.md|has_penciler.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_penciler.private.md|has_penciler.private]] 

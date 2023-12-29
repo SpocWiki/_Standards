@@ -58,7 +58,7 @@ Basic Levels of Factuality are
 > [Wikipedia](https://en.wikipedia.org/wiki/Claim%20(philosophy))
 
 ## Confidential Links & Embeds: 
-- [[../../_public/schema.org/Proposition.md|Proposition]] 
+- [[../../_Standards/schema-org/Proposition.md|Proposition]] 
 - [[../../_internal/schema.org/Proposition.internal.md|Proposition.internal]] 
 - [[../../_protect/schema.org/Proposition.protect.md|Proposition.protect]] 
 - [[../../_private/schema.org/Proposition.private.md|Proposition.private]] 

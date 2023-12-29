@@ -51,7 +51,7 @@ to describe the price of an Offer, Invoice, etc.
 [ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.md|monetary_amount]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/monetary_amount.md|monetary_amount]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.internal.md|monetary_amount.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.protect.md|monetary_amount.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.private.md|monetary_amount.private]] 

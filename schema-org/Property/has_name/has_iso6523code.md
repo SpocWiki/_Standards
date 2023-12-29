@@ -53,7 +53,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_iso6523code.md|has_iso6523code]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_iso6523code.md|has_iso6523code]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_iso6523code.internal.md|has_iso6523code.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_iso6523code.protect.md|has_iso6523code.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_iso6523code.private.md|has_iso6523code.private]] 

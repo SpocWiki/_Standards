@@ -45,7 +45,7 @@ This is the [[Action]] of navigating to a specific [[startOffset]] timestamp wit
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startOffset, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/action/seek_to_action.md|seek_to_action]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/action/seek_to_action.md|seek_to_action]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/action/seek_to_action.internal.md|seek_to_action.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/action/seek_to_action.protect.md|seek_to_action.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/action/seek_to_action.private.md|seek_to_action.private]] 

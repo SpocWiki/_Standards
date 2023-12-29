@@ -47,7 +47,7 @@ Predicate describes that:
 [ #is_/sub_property_of  :: position ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_volume.md|has_number_of_volume]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_volume.md|has_number_of_volume]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_volume.internal.md|has_number_of_volume.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_volume.protect.md|has_number_of_volume.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_volume.private.md|has_number_of_volume.private]] 

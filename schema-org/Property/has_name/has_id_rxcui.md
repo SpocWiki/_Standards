@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_rxcui.md|has_id_rxcui]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_rxcui.md|has_id_rxcui]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_rxcui.internal.md|has_id_rxcui.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_rxcui.protect.md|has_id_rxcui.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_rxcui.private.md|has_id_rxcui.private]] 

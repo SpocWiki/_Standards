@@ -46,7 +46,7 @@ Relation describes that:
 [ #is_/inverse_of  :: [[has_funding]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_funding_item.md|is_funding_item]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_funding_item.md|is_funding_item]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_funding_item.internal.md|is_funding_item.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_funding_item.protect.md|is_funding_item.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_funding_item.private.md|is_funding_item.private]] 

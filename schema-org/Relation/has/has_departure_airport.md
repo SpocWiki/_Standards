@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Airport )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_departure_airport.md|has_departure_airport]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_departure_airport.md|has_departure_airport]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_airport.internal.md|has_departure_airport.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_departure_airport.protect.md|has_departure_airport.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_departure_airport.private.md|has_departure_airport.private]] 

@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_copyright_notice.md|has_copyright_notice]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_copyright_notice.md|has_copyright_notice]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_copyright_notice.internal.md|has_copyright_notice.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_copyright_notice.protect.md|has_copyright_notice.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_copyright_notice.private.md|has_copyright_notice.private]] 

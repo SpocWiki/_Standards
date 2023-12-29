@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Duration, QuantitativeValue)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_activity.md|has_duration_of_activity]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_activity.md|has_duration_of_activity]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_activity.internal.md|has_duration_of_activity.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_activity.protect.md|has_duration_of_activity.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_activity.private.md|has_duration_of_activity.private]] 

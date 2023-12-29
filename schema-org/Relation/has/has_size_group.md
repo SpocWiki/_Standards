@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: SizeGroupEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_size_group.md|has_size_group]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_size_group.md|has_size_group]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_size_group.internal.md|has_size_group.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_size_group.protect.md|has_size_group.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_size_group.private.md|has_size_group.private]] 

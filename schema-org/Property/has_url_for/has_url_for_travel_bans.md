@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: URL, WebContent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_travel_bans.md|has_url_for_travel_bans]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_travel_bans.md|has_url_for_travel_bans]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_travel_bans.internal.md|has_url_for_travel_bans.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_travel_bans.protect.md|has_url_for_travel_bans.protect]] 
 - [[../../../../_private/schema.org/Predicate/Urls/has_url_for_travel_bans.private.md|has_url_for_travel_bans.private]] 

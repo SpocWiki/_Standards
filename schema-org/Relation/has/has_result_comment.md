@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: result ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_result_comment.md|has_result_comment]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_result_comment.md|has_result_comment]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_result_comment.internal.md|has_result_comment.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_result_comment.protect.md|has_result_comment.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_result_comment.private.md|has_result_comment.private]] 

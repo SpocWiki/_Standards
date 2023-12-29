@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: AdministrativeArea )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_geographic_area.md|has_geographic_area]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_geographic_area.md|has_geographic_area]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_geographic_area.internal.md|has_geographic_area.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_geographic_area.protect.md|has_geographic_area.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_geographic_area.private.md|has_geographic_area.private]] 

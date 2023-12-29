@@ -47,7 +47,7 @@ Represents the invoice price of an offered product.
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.md|invoice_price]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.md|invoice_price]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.internal.md|invoice_price.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.protect.md|invoice_price.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/invoice_price.private.md|invoice_price.private]] 

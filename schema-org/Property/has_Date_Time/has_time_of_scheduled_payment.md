@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_scheduled_payment.md|has_time_of_scheduled_payment]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_scheduled_payment.md|has_time_of_scheduled_payment]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_scheduled_payment.internal.md|has_time_of_scheduled_payment.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_scheduled_payment.protect.md|has_time_of_scheduled_payment.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_scheduled_payment.private.md|has_time_of_scheduled_payment.private]] 

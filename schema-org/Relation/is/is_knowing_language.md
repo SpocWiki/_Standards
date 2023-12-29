@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Language, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_knowing_language.md|is_knowing_language]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_knowing_language.md|is_knowing_language]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_knowing_language.internal.md|is_knowing_language.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_knowing_language.protect.md|is_knowing_language.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_knowing_language.private.md|is_knowing_language.private]] 

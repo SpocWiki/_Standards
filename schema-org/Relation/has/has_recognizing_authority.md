@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_recognizing_authority.md|has_recognizing_authority]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_recognizing_authority.md|has_recognizing_authority]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recognizing_authority.internal.md|has_recognizing_authority.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_recognizing_authority.protect.md|has_recognizing_authority.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_recognizing_authority.private.md|has_recognizing_authority.private]] 

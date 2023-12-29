@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalSpecialty )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_relevant_specialty.md|has_relevant_specialty]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_relevant_specialty.md|has_relevant_specialty]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_relevant_specialty.internal.md|has_relevant_specialty.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_relevant_specialty.protect.md|has_relevant_specialty.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_relevant_specialty.private.md|has_relevant_specialty.private]] 

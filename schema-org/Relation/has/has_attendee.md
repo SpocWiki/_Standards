@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_attendee.md|has_attendee]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_attendee.md|has_attendee]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_attendee.internal.md|has_attendee.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_attendee.protect.md|has_attendee.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_attendee.private.md|has_attendee.private]] 

@@ -54,7 +54,7 @@ Commonly used values:
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/business_function.md|business_function]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/business_function.md|business_function]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/business_function.internal.md|business_function.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/business_function.protect.md|business_function.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/business_function.private.md|business_function.private]] 

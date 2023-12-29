@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Accommodation)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_plan_for_apartment.md|is_plan_for_apartment]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_plan_for_apartment.md|is_plan_for_apartment]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_plan_for_apartment.internal.md|is_plan_for_apartment.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_plan_for_apartment.protect.md|is_plan_for_apartment.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_plan_for_apartment.private.md|is_plan_for_apartment.private]] 

@@ -45,7 +45,7 @@ Size related properties of a product, typically a size code ([[name]]) and optio
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.md|size_specification]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.md|size_specification]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.internal.md|size_specification.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.protect.md|size_specification.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.private.md|size_specification.private]] 

@@ -44,7 +44,7 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_to_pick_up.md|has_time_to_pick_up]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_pick_up.md|has_time_to_pick_up]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_pick_up.internal.md|has_time_to_pick_up.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_pick_up.protect.md|has_time_to_pick_up.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_pick_up.private.md|has_time_to_pick_up.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: CarUsageType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_vehicle_special_usage.md|has_vehicle_special_usage]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_vehicle_special_usage.md|has_vehicle_special_usage]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_vehicle_special_usage.internal.md|has_vehicle_special_usage.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_vehicle_special_usage.protect.md|has_vehicle_special_usage.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_vehicle_special_usage.private.md|has_vehicle_special_usage.private]] 

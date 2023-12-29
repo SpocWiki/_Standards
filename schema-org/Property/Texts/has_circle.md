@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_circle.md|has_circle]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_circle.md|has_circle]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_circle.internal.md|has_circle.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_circle.protect.md|has_circle.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_circle.private.md|has_circle.private]] 

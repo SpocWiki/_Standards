@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_diagnosis.md|has_diagnosis]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_diagnosis.md|has_diagnosis]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_diagnosis.internal.md|has_diagnosis.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_diagnosis.protect.md|has_diagnosis.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_diagnosis.private.md|has_diagnosis.private]] 

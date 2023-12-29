@@ -45,7 +45,7 @@ A nurse-like health profession that deals with pregnancy, childbirth, and the po
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/midwifery.md|midwifery]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.md|midwifery]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/midwifery.internal.md|midwifery.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/midwifery.protect.md|midwifery.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/midwifery.private.md|midwifery.private]] 

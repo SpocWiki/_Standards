@@ -45,7 +45,7 @@ Play mode: SinglePlayer. Which is played by a lone player.
 [ #is_/enum_of :: [[../GamePlayMode]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.md|single_player]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.md|single_player]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.internal.md|single_player.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.protect.md|single_player.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_play_mode/single_player.private.md|single_player.private]] 

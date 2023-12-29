@@ -47,7 +47,7 @@ Overview of the content. Contains a summarized view of the topic with the most r
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/overview_health_aspect.md|overview_health_aspect]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/overview_health_aspect.md|overview_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/overview_health_aspect.internal.md|overview_health_aspect.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/overview_health_aspect.protect.md|overview_health_aspect.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/overview_health_aspect.private.md|overview_health_aspect.private]] 

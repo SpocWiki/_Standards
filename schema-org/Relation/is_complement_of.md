@@ -58,7 +58,7 @@ Relation describes that:
 ( #has_/range :: Property)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Relations/is_complement_of.md|is_complement_of]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_complement_of.md|is_complement_of]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/is_complement_of.internal.md|is_complement_of.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Relations/is_complement_of.protect.md|is_complement_of.protect]] 
 - [[../../../../_private/schema.org/Predicate/Relations/is_complement_of.private.md|is_complement_of.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_carrier.md|has_carrier]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_carrier.md|has_carrier]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_carrier.internal.md|has_carrier.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_carrier.protect.md|has_carrier.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_carrier.private.md|has_carrier.private]] 

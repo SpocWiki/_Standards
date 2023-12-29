@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: BusinessFunction )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_business_function.md|has_business_function]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_business_function.md|has_business_function]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_business_function.internal.md|has_business_function.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_business_function.protect.md|has_business_function.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_business_function.private.md|has_business_function.private]] 

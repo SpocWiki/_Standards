@@ -43,7 +43,7 @@ A means for accessing a service, e.g. a government office location, web site, or
 [ #has_/properties :: [ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/service_channel.md|service_channel]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/service_channel.md|service_channel]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/service_channel.internal.md|service_channel.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/service_channel.protect.md|service_channel.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/service_channel.private.md|service_channel.private]] 

@@ -47,7 +47,7 @@ Represents the manufacturer suggested retail price ("MSRP") of an offered produc
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/msrp.md|msrp]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_type_enumeration/msrp.md|msrp]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/msrp.internal.md|msrp.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/msrp.protect.md|msrp.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/msrp.private.md|msrp.private]] 

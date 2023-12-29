@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_repeats.md|has_number_of_repeats]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_repeats.md|has_number_of_repeats]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_repeats.internal.md|has_number_of_repeats.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_repeats.protect.md|has_number_of_repeats.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_repeats.private.md|has_number_of_repeats.private]] 

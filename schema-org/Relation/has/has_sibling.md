@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_sibling.md|has_sibling]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sibling.md|has_sibling]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sibling.internal.md|has_sibling.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sibling.protect.md|has_sibling.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_sibling.private.md|has_sibling.private]] 

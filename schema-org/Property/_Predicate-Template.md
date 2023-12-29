@@ -49,7 +49,7 @@ aliases:
 [is_part_of::{{isPartOf}}]
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/schema.org/Predicate/_Predicate-Template.md|_Predicate-Template]] 
+- [[../../../_Standards/schema-org/Predicate/_Predicate-Template.md|_Predicate-Template]] 
 - [[../../../_internal/schema.org/Predicate/_Predicate-Template.internal.md|_Predicate-Template.internal]] 
 - [[../../../_protect/schema.org/Predicate/_Predicate-Template.protect.md|_Predicate-Template.protect]] 
 - [[../../../_private/schema.org/Predicate/_Predicate-Template.private.md|_Predicate-Template.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalProcedure, MedicalTest, MedicalTherapy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_available_service.md|has_available_service]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_available_service.md|has_available_service]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_service.internal.md|has_available_service.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_available_service.protect.md|has_available_service.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_available_service.private.md|has_available_service.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_food_establishment.md|has_food_establishment]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_food_establishment.md|has_food_establishment]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_food_establishment.internal.md|has_food_establishment.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_food_establishment.protect.md|has_food_establishment.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_food_establishment.private.md|has_food_establishment.private]] 

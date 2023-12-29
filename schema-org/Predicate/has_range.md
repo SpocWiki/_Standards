@@ -41,7 +41,7 @@ Relation describes that:
 ( #has_/range :: [Class](../Classes.md) )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_range_includes.md|has_range_includes]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_range_includes.md|has_range_includes]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_range_includes.internal.md|has_range_includes.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_range_includes.protect.md|has_range_includes.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_range_includes.private.md|has_range_includes.private]] 

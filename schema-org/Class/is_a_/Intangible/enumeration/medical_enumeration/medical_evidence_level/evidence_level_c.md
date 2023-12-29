@@ -45,7 +45,7 @@ Only consensus opinion of experts, case studies, or standard-of-care.
 [ #is_/enum_of :: [[../MedicalEvidenceLevel]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.md|evidence_level_c]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.md|evidence_level_c]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.internal.md|evidence_level_c.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.protect.md|evidence_level_c.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_c.private.md|evidence_level_c.private]] 

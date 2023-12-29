@@ -43,7 +43,7 @@ A set of characteristics belonging to businesses, e.g. who compose an item's tar
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, numberOfEmployees, potentialAction, sameAs, subjectOf, url, yearlyRevenue, yearsInOperation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/audience/business_audience.md|business_audience]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/audience/business_audience.md|business_audience]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/business_audience.internal.md|business_audience.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/business_audience.protect.md|business_audience.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/audience/business_audience.private.md|business_audience.private]] 

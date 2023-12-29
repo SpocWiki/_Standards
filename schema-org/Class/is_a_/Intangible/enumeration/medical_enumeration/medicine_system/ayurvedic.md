@@ -45,7 +45,7 @@ A system of medicine that originated in India over thousands of years and that f
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.md|ayurvedic]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.md|ayurvedic]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.internal.md|ayurvedic.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.protect.md|ayurvedic.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/ayurvedic.private.md|ayurvedic.private]] 

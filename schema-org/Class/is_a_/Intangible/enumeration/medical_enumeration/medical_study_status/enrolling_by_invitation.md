@@ -45,7 +45,7 @@ Enrolling participants by invitation only.
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.md|enrolling_by_invitation]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.md|enrolling_by_invitation]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.internal.md|enrolling_by_invitation.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.protect.md|enrolling_by_invitation.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/enrolling_by_invitation.private.md|enrolling_by_invitation.private]] 

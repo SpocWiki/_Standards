@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: CableOrSatelliteService )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.md|is_in_broadcast_lineup]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_in_broadcast_lineup.md|is_in_broadcast_lineup]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.internal.md|is_in_broadcast_lineup.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.protect.md|is_in_broadcast_lineup.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.private.md|is_in_broadcast_lineup.private]] 

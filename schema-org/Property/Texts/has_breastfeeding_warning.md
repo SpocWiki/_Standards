@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_breastfeeding_warning.md|has_breastfeeding_warning]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_breastfeeding_warning.md|has_breastfeeding_warning]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_breastfeeding_warning.internal.md|has_breastfeeding_warning.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_breastfeeding_warning.protect.md|has_breastfeeding_warning.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_breastfeeding_warning.private.md|has_breastfeeding_warning.private]] 

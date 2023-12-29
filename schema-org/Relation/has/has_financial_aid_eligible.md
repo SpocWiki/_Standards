@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_financial_aid_eligible.md|has_financial_aid_eligible]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_financial_aid_eligible.md|has_financial_aid_eligible]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_financial_aid_eligible.internal.md|has_financial_aid_eligible.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_financial_aid_eligible.protect.md|has_financial_aid_eligible.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_financial_aid_eligible.private.md|has_financial_aid_eligible.private]] 

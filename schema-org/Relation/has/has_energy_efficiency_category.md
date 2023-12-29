@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: EnergyEfficiencyEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_energy_efficiency_category.md|has_energy_efficiency_category]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_energy_efficiency_category.md|has_energy_efficiency_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_energy_efficiency_category.internal.md|has_energy_efficiency_category.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_energy_efficiency_category.protect.md|has_energy_efficiency_category.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_energy_efficiency_category.private.md|has_energy_efficiency_category.private]] 

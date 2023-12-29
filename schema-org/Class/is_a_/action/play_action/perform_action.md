@@ -43,7 +43,7 @@ The act of participating in performance arts.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, entertainmentBusiness, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/play_action/perform_action.md|perform_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/play_action/perform_action.md|perform_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/play_action/perform_action.internal.md|perform_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/play_action/perform_action.protect.md|perform_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/play_action/perform_action.private.md|perform_action.private]] 

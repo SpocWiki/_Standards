@@ -40,7 +40,7 @@ Single-celled organism that causes an infection.
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/protozoa.md|protozoa]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/protozoa.md|protozoa]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/protozoa.internal.md|protozoa.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/protozoa.protect.md|protozoa.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/protozoa.private.md|protozoa.private]] 

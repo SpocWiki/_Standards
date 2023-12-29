@@ -56,7 +56,7 @@ Predicate describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/_Quantity-Template.md|_Quantity-Template]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/_Quantity-Template.md|_Quantity-Template]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/_Quantity-Template.internal.md|_Quantity-Template.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/_Quantity-Template.protect.md|_Quantity-Template.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/_Quantity-Template.private.md|_Quantity-Template.private]] 

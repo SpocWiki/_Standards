@@ -45,7 +45,7 @@ A specific branch of medical science that pertains to the study of the respirato
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.md|pulmonary]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.md|pulmonary]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.internal.md|pulmonary.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.protect.md|pulmonary.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.private.md|pulmonary.private]] 

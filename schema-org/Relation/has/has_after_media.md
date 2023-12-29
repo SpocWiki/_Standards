@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MediaObject, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_after_media.md|has_after_media]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_after_media.md|has_after_media]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_after_media.internal.md|has_after_media.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_after_media.protect.md|has_after_media.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_after_media.private.md|has_after_media.private]] 

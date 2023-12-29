@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalTherapy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_related_therapy.md|has_related_therapy]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_related_therapy.md|has_related_therapy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_related_therapy.internal.md|has_related_therapy.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_related_therapy.protect.md|has_related_therapy.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_related_therapy.private.md|has_related_therapy.private]] 

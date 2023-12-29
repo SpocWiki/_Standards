@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_billing_start.md|has_value_for_billing_start]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_billing_start.md|has_value_for_billing_start]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_billing_start.internal.md|has_value_for_billing_start.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_billing_start.protect.md|has_value_for_billing_start.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_billing_start.private.md|has_value_for_billing_start.private]] 

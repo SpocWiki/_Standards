@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_previous_start.md|has_time_of_previous_start]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_previous_start.md|has_time_of_previous_start]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_previous_start.internal.md|has_time_of_previous_start.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_previous_start.protect.md|has_time_of_previous_start.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_previous_start.private.md|has_time_of_previous_start.private]] 

@@ -53,7 +53,7 @@ Relation describes that:
 [ #is_/inverse_of  :: itemOffered ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_offering.md|is_offering]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_offering.md|is_offering]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_offering.internal.md|is_offering.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_offering.protect.md|is_offering.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_offering.private.md|is_offering.private]] 

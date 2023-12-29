@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: [[../../Class/is_a_/data_type/text/URL]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_same_as.md|has_url_for_same_as]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_same_as.md|has_url_for_same_as]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_same_as.internal.md|has_url_for_same_as.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_same_as.protect.md|has_url_for_same_as.protect]] 
 - [[../../../../_private/schema.org/Predicate/Urls/has_url_for_same_as.private.md|has_url_for_same_as.private]] 

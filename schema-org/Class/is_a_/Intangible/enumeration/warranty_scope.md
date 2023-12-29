@@ -49,7 +49,7 @@ Commonly used values:
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.md|warranty_scope]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/warranty_scope.md|warranty_scope]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.internal.md|warranty_scope.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.protect.md|warranty_scope.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.private.md|warranty_scope.private]] 

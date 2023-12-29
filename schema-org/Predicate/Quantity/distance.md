@@ -44,7 +44,7 @@ Properties that take Distances as values are of the form '<Number> <Length unit 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/quantity/distance.md|distance]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity/distance.md|distance]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/quantity/distance.internal.md|distance.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/quantity/distance.protect.md|distance.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/quantity/distance.private.md|distance.private]] 

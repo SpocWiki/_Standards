@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MusicPlaylist )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_in_playlist.md|is_in_playlist]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_in_playlist.md|is_in_playlist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_playlist.internal.md|is_in_playlist.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_in_playlist.protect.md|is_in_playlist.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_in_playlist.private.md|is_in_playlist.private]] 

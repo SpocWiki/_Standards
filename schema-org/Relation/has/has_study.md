@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalStudy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_study.md|has_study]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_study.md|has_study]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study.internal.md|has_study.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_study.protect.md|has_study.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_study.private.md|has_study.private]] 

@@ -45,7 +45,7 @@ VinylFormat.
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.md|vinyl_format]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.md|vinyl_format]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.internal.md|vinyl_format.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.protect.md|vinyl_format.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.private.md|vinyl_format.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_shared_content.md|has_shared_content]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_shared_content.md|has_shared_content]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_shared_content.internal.md|has_shared_content.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_shared_content.protect.md|has_shared_content.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_shared_content.private.md|has_shared_content.private]] 

@@ -46,7 +46,7 @@ Relation describes that:
 ( #has_/range :: AlignmentObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_educational_alignment.md|has_educational_alignment]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_educational_alignment.md|has_educational_alignment]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_educational_alignment.internal.md|has_educational_alignment.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_educational_alignment.protect.md|has_educational_alignment.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_educational_alignment.private.md|has_educational_alignment.private]] 

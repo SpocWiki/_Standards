@@ -45,7 +45,7 @@ Cardiovascular system assessment with clinical examination.
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.md|cardiovascular_exam]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.md|cardiovascular_exam]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.internal.md|cardiovascular_exam.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.protect.md|cardiovascular_exam.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/cardiovascular_exam.private.md|cardiovascular_exam.private]] 

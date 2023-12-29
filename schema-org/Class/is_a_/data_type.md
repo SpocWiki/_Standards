@@ -31,7 +31,7 @@ aliases:
 - is_a_data_type
 ---
 
-Class of all (basic) data types used in [[../../../../_public/schema.org/Predicate/Quantities]] such as Integers, Strings, etc.
+Class of all (basic) data types used in [[../../../../_Standards/schema-org/Predicate/Quantities]] such as Integers, Strings, etc.
 #class/data_type
 
 Tag Instances like this: 
@@ -43,7 +43,7 @@ Tag Instances like this:
 [ #has_/sub_classes :: [ Boolean, Time, DateTime, Date, Text, Number ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Class/is_a_/data_type.md|data_type]] 
+- [[../../../../_Standards/schema-org/Class/is_a_/data_type.md|data_type]] 
 - [[../../../../_internal/schema.org/Class/is_a_/data_type.internal.md|data_type.internal]] 
 - [[../../../../_protect/schema.org/Class/is_a_/data_type.protect.md|data_type.protect]] 
 - [[../../../../_private/schema.org/Class/is_a_/data_type.private.md|data_type.private]] 

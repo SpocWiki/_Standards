@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalEntity )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_study_subject.md|has_study_subject]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_study_subject.md|has_study_subject]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study_subject.internal.md|has_study_subject.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_study_subject.protect.md|has_study_subject.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_study_subject.private.md|has_study_subject.private]] 

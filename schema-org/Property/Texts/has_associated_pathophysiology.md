@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_associated_pathophysiology.md|has_associated_pathophysiology]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_associated_pathophysiology.md|has_associated_pathophysiology]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_associated_pathophysiology.internal.md|has_associated_pathophysiology.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_associated_pathophysiology.protect.md|has_associated_pathophysiology.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_associated_pathophysiology.private.md|has_associated_pathophysiology.private]] 

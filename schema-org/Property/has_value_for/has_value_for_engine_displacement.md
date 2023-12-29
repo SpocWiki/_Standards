@@ -53,7 +53,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_engine_displacement.md|has_value_for_engine_displacement]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_engine_displacement.md|has_value_for_engine_displacement]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_engine_displacement.internal.md|has_value_for_engine_displacement.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_engine_displacement.protect.md|has_value_for_engine_displacement.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_engine_displacement.private.md|has_value_for_engine_displacement.private]] 

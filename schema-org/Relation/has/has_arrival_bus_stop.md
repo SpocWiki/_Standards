@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: BusStation, BusStop )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_bus_stop.md|has_arrival_bus_stop]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_arrival_bus_stop.md|has_arrival_bus_stop]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_bus_stop.internal.md|has_arrival_bus_stop.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_arrival_bus_stop.protect.md|has_arrival_bus_stop.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_arrival_bus_stop.private.md|has_arrival_bus_stop.private]] 

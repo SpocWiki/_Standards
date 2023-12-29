@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_valid_from.md|has_time_valid_from]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_valid_from.md|has_time_valid_from]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_valid_from.internal.md|has_time_valid_from.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_valid_from.protect.md|has_time_valid_from.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_valid_from.private.md|has_time_valid_from.private]] 

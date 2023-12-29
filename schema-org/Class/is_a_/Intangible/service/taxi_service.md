@@ -45,7 +45,7 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/taxi_service.md|taxi_service]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/taxi_service.md|taxi_service]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/taxi_service.internal.md|taxi_service.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/taxi_service.protect.md|taxi_service.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/taxi_service.private.md|taxi_service.private]] 

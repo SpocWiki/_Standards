@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_code_for_discount.md|has_code_for_discount]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_for_discount.md|has_code_for_discount]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_code_for_discount.internal.md|has_code_for_discount.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_code_for_discount.protect.md|has_code_for_discount.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_code_for_discount.private.md|has_code_for_discount.private]] 

@@ -47,7 +47,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_confirmation.md|has_id_confirmation]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_confirmation.md|has_id_confirmation]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_confirmation.internal.md|has_id_confirmation.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_confirmation.protect.md|has_id_confirmation.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_confirmation.private.md|has_id_confirmation.private]] 

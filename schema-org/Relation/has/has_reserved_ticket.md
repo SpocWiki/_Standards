@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Ticket )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_reserved_ticket.md|has_reserved_ticket]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_reserved_ticket.md|has_reserved_ticket]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_reserved_ticket.internal.md|has_reserved_ticket.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_reserved_ticket.protect.md|has_reserved_ticket.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_reserved_ticket.private.md|has_reserved_ticket.private]] 

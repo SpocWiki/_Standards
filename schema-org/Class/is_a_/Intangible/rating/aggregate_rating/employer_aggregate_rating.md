@@ -43,7 +43,7 @@ An aggregate rating of an Organization related to its role as an employer.
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, itemReviewed, mainEntityOfPage, name, potentialAction, ratingCount, ratingExplanation, ratingValue, reviewAspect, reviewCount, sameAs, subjectOf, url, worstRating ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.md|employer_aggregate_rating]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.md|employer_aggregate_rating]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.internal.md|employer_aggregate_rating.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.protect.md|employer_aggregate_rating.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/rating/aggregate_rating/employer_aggregate_rating.private.md|employer_aggregate_rating.private]] 

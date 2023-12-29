@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_purchase.md|has_time_of_purchase]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_purchase.md|has_time_of_purchase]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_purchase.internal.md|has_time_of_purchase.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_purchase.protect.md|has_time_of_purchase.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_purchase.private.md|has_time_of_purchase.private]] 

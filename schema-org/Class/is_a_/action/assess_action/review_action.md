@@ -43,7 +43,7 @@ The act of producing a balanced opinion about the object for an audience. An age
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, resultReview, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/assess_action/review_action.md|review_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/assess_action/review_action.md|review_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/review_action.internal.md|review_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/review_action.protect.md|review_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/assess_action/review_action.private.md|review_action.private]] 

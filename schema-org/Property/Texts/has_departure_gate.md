@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_departure_gate.md|has_departure_gate]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_departure_gate.md|has_departure_gate]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_departure_gate.internal.md|has_departure_gate.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_departure_gate.protect.md|has_departure_gate.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_departure_gate.private.md|has_departure_gate.private]] 

@@ -56,7 +56,7 @@ Predicate describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Urls/_Url_Template.md|_Url_Template]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/_Url_Template.md|_Url_Template]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/_Url_Template.internal.md|_Url_Template.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Urls/_Url_Template.protect.md|_Url_Template.protect]] 
 - [[../../../../_private/schema.org/Predicate/Urls/_Url_Template.private.md|_Url_Template.private]] 

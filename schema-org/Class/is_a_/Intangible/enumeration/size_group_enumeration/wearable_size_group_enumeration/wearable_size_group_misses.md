@@ -47,7 +47,7 @@ Size group "Misses" (also known as "Missy") for wearables.
 [ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.md|wearable_size_group_misses]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.md|wearable_size_group_misses]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.internal.md|wearable_size_group_misses.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.protect.md|wearable_size_group_misses.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_misses.private.md|wearable_size_group_misses.private]] 

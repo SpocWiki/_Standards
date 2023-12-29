@@ -43,7 +43,7 @@ A structured value indicating the quantity, unit of measurement, and business fu
 [ #has_/properties :: [ additionalType, alternateName, amountOfThisGood, businessFunction, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, typeOfGood, unitCode, unitText, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.md|type_and_quantity_node]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/type_and_quantity_node.md|type_and_quantity_node]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.internal.md|type_and_quantity_node.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.protect.md|type_and_quantity_node.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/type_and_quantity_node.private.md|type_and_quantity_node.private]] 

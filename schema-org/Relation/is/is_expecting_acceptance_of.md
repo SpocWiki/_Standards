@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Offer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.md|is_expecting_acceptance_of]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_expecting_acceptance_of.md|is_expecting_acceptance_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.internal.md|is_expecting_acceptance_of.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.protect.md|is_expecting_acceptance_of.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.private.md|is_expecting_acceptance_of.private]] 

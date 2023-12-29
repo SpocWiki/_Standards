@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: BioChemEntity )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_bio_chem_similar_to.md|is_bio_chem_similar_to]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_bio_chem_similar_to.md|is_bio_chem_similar_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_bio_chem_similar_to.internal.md|is_bio_chem_similar_to.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_bio_chem_similar_to.protect.md|is_bio_chem_similar_to.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_bio_chem_similar_to.private.md|is_bio_chem_similar_to.private]] 

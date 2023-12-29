@@ -47,7 +47,7 @@ Size group "Juniors" for wearables.
 [ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.md|wearable_size_group_juniors]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.md|wearable_size_group_juniors]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.internal.md|wearable_size_group_juniors.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.protect.md|wearable_size_group_juniors.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_juniors.private.md|wearable_size_group_juniors.private]] 

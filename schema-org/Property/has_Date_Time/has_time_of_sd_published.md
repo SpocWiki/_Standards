@@ -46,7 +46,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_sd_published.md|has_time_of_sd_published]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_sd_published.md|has_time_of_sd_published]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_sd_published.internal.md|has_time_of_sd_published.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_sd_published.protect.md|has_time_of_sd_published.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_sd_published.private.md|has_time_of_sd_published.private]] 

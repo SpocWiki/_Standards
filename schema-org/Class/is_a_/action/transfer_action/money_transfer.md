@@ -45,7 +45,7 @@ The act of transferring money from one place to another place. This may occur el
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, amount, beneficiaryBank, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/money_transfer.md|money_transfer]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/transfer_action/money_transfer.md|money_transfer]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/transfer_action/money_transfer.internal.md|money_transfer.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/transfer_action/money_transfer.protect.md|money_transfer.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/transfer_action/money_transfer.private.md|money_transfer.private]] 

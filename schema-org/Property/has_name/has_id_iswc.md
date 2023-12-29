@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_iswc.md|has_id_iswc]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_iswc.md|has_id_iswc]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_iswc.internal.md|has_id_iswc.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_iswc.protect.md|has_id_iswc.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_iswc.private.md|has_id_iswc.private]] 

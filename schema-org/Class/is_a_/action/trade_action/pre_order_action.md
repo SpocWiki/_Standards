@@ -43,7 +43,7 @@ An agent orders a (not yet released) object/product/service to be delivered/sent
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/pre_order_action.md|pre_order_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/trade_action/pre_order_action.md|pre_order_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/pre_order_action.internal.md|pre_order_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/pre_order_action.protect.md|pre_order_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/pre_order_action.private.md|pre_order_action.private]] 

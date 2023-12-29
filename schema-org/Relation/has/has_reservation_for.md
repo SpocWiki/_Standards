@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_reservation_for.md|has_reservation_for]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_reservation_for.md|has_reservation_for]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_reservation_for.internal.md|has_reservation_for.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_reservation_for.protect.md|has_reservation_for.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_reservation_for.private.md|has_reservation_for.private]] 

@@ -45,7 +45,7 @@ Podiatry is the care of the human foot, especially the diagnosis and treatment o
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/podiatric.md|podiatric]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/podiatric.md|podiatric]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/podiatric.internal.md|podiatric.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/podiatric.protect.md|podiatric.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/podiatric.private.md|podiatric.private]] 

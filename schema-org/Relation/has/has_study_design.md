@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalObservationalStudyDesign )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_study_design.md|has_study_design]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_study_design.md|has_study_design]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study_design.internal.md|has_study_design.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_study_design.protect.md|has_study_design.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_study_design.private.md|has_study_design.private]] 

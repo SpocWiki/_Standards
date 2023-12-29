@@ -49,7 +49,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: [[has_suggested_answer]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_accepted_answer.md|has_accepted_answer]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_accepted_answer.md|has_accepted_answer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accepted_answer.internal.md|has_accepted_answer.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_accepted_answer.protect.md|has_accepted_answer.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_accepted_answer.private.md|has_accepted_answer.private]] 

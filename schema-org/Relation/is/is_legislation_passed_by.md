@@ -46,7 +46,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: [[has_creator]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_legislation_passed_by.md|is_legislation_passed_by]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_legislation_passed_by.md|is_legislation_passed_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_passed_by.internal.md|is_legislation_passed_by.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_passed_by.protect.md|is_legislation_passed_by.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_passed_by.private.md|is_legislation_passed_by.private]] 

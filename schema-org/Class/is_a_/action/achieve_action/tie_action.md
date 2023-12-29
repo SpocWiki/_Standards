@@ -43,7 +43,7 @@ The act of reaching a draw in a competitive activity.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/achieve_action/tie_action.md|tie_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/achieve_action/tie_action.md|tie_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/achieve_action/tie_action.internal.md|tie_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/achieve_action/tie_action.protect.md|tie_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/achieve_action/tie_action.private.md|tie_action.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ accountId, asin, callSign, confirmationNumber, duns, editEIDR, flightNumber, globalLocationNumber, gtin, gtin12, gtin13, gtin14, gtin8, isbn, issn, legislationIdentifier, leiCode, nsn, orderNumber, productID, serialNumber, sku, taxID, titleEIDR ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_identifier.md|has_identifier]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_identifier.md|has_identifier]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_identifier.internal.md|has_identifier.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_identifier.protect.md|has_identifier.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_identifier.private.md|has_identifier.private]] 

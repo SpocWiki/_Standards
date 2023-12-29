@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_region_drained.md|has_region_drained]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_region_drained.md|has_region_drained]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_region_drained.internal.md|has_region_drained.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_region_drained.protect.md|has_region_drained.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_region_drained.private.md|has_region_drained.private]] 

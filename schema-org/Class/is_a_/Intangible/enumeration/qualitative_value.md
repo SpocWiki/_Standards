@@ -45,7 +45,7 @@ A predefined value for a product characteristic, e.g. the power cord plug type '
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value.md|qualitative_value]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value.md|qualitative_value]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value.internal.md|qualitative_value.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value.protect.md|qualitative_value.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value.private.md|qualitative_value.private]] 

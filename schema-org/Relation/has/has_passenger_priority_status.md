@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_passenger_priority_status.md|has_passenger_priority_status]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_passenger_priority_status.md|has_passenger_priority_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_passenger_priority_status.internal.md|has_passenger_priority_status.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_passenger_priority_status.protect.md|has_passenger_priority_status.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_passenger_priority_status.private.md|has_passenger_priority_status.private]] 

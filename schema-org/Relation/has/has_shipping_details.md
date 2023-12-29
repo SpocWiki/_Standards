@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: OfferShippingDetails )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_shipping_details.md|has_shipping_details]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_shipping_details.md|has_shipping_details]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_shipping_details.internal.md|has_shipping_details.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_shipping_details.protect.md|has_shipping_details.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_shipping_details.private.md|has_shipping_details.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_winner.md|has_winner]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_winner.md|has_winner]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_winner.internal.md|has_winner.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_winner.protect.md|has_winner.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_winner.private.md|has_winner.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_publisher_imprint.md|has_publisher_imprint]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_publisher_imprint.md|has_publisher_imprint]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publisher_imprint.internal.md|has_publisher_imprint.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_publisher_imprint.protect.md|has_publisher_imprint.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_publisher_imprint.private.md|has_publisher_imprint.private]] 

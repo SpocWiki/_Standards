@@ -45,7 +45,7 @@ A set of characteristics belonging to people, e.g. who compose an item's target 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/audience/people_audience.md|people_audience]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/audience/people_audience.md|people_audience]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/people_audience.internal.md|people_audience.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/people_audience.protect.md|people_audience.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/audience/people_audience.private.md|people_audience.private]] 

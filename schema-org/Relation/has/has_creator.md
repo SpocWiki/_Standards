@@ -50,7 +50,7 @@ it can actually describe any Cardinality e.g. for scientific Papers.
 is_definin
 [[has_defined_term|defined_term]]
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_creator.md|has_creator]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_creator.md|has_creator]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_creator.internal.md|has_creator.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_creator.protect.md|has_creator.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_creator.private.md|has_creator.private]] 

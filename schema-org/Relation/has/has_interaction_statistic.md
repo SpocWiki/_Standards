@@ -48,7 +48,7 @@ Relation describes that:
 `Supersedes` `has_interaction_count`.
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_interaction_statistic.md|has_interaction_statistic]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_interaction_statistic.md|has_interaction_statistic]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_interaction_statistic.internal.md|has_interaction_statistic.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_interaction_statistic.protect.md|has_interaction_statistic.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_interaction_statistic.private.md|has_interaction_statistic.private]] 

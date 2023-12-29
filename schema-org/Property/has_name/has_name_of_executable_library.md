@@ -46,7 +46,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_name_executable_library.md|has_name_executable_library]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_executable_library.md|has_name_executable_library]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_name_executable_library.internal.md|has_name_executable_library.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_name_executable_library.protect.md|has_name_executable_library.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_name_executable_library.private.md|has_name_executable_library.private]] 

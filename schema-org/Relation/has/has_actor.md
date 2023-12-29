@@ -46,7 +46,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ readBy ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_actor.md|has_actor]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_actor.md|has_actor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_actor.internal.md|has_actor.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_actor.protect.md|has_actor.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_actor.private.md|has_actor.private]] 

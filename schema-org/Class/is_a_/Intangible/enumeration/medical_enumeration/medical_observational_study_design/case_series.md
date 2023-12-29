@@ -45,7 +45,7 @@ A case series (also known as a clinical series) is a medical research study that
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.md|case_series]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.md|case_series]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.internal.md|case_series.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.protect.md|case_series.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/case_series.private.md|case_series.private]] 

@@ -47,7 +47,7 @@ Nonprofit501c10: Non-profit type referring to Domestic Fraternal Societies and A
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.md|nonprofit501c10]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.md|nonprofit501c10]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.internal.md|nonprofit501c10.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.protect.md|nonprofit501c10.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501c10.private.md|nonprofit501c10.private]] 

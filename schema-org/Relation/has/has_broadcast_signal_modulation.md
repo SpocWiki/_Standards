@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.md|has_broadcast_signal_modulation]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_broadcast_signal_modulation.md|has_broadcast_signal_modulation]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.internal.md|has_broadcast_signal_modulation.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.protect.md|has_broadcast_signal_modulation.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.private.md|has_broadcast_signal_modulation.private]] 

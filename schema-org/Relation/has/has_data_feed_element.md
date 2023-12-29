@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: DataFeedItem, Text, Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_data_feed_element.md|has_data_feed_element]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_data_feed_element.md|has_data_feed_element]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_data_feed_element.internal.md|has_data_feed_element.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_data_feed_element.protect.md|has_data_feed_element.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_data_feed_element.private.md|has_data_feed_element.private]] 

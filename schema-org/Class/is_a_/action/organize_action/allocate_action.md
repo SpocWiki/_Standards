@@ -45,7 +45,7 @@ The act of organizing tasks/objects/events by associating resources to it.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/organize_action/allocate_action.md|allocate_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action.md|allocate_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/allocate_action.internal.md|allocate_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/allocate_action.protect.md|allocate_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/organize_action/allocate_action.private.md|allocate_action.private]] 

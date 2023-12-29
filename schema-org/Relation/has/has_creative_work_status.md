@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_creative_work_status.md|has_creative_work_status]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_creative_work_status.md|has_creative_work_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_creative_work_status.internal.md|has_creative_work_status.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_creative_work_status.protect.md|has_creative_work_status.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_creative_work_status.private.md|has_creative_work_status.private]] 

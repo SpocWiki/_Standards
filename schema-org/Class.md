@@ -60,7 +60,7 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/class.md|class]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/class.md|class]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/class.internal.md|class.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/class.protect.md|class.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/class.private.md|class.private]] 

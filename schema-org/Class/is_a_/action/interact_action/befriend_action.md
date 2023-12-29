@@ -49,7 +49,7 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/interact_action/befriend_action.md|befriend_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/befriend_action.md|befriend_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/befriend_action.internal.md|befriend_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/befriend_action.protect.md|befriend_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/befriend_action.private.md|befriend_action.private]] 

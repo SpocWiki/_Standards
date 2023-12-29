@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_broadcast_timezone.md|has_broadcast_timezone]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_broadcast_timezone.md|has_broadcast_timezone]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_broadcast_timezone.internal.md|has_broadcast_timezone.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_broadcast_timezone.protect.md|has_broadcast_timezone.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_broadcast_timezone.private.md|has_broadcast_timezone.private]] 

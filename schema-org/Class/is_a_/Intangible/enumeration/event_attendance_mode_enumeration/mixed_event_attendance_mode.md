@@ -47,7 +47,7 @@ MixedEventAttendanceMode - an event that is conducted as a combination of both o
 [ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.md|mixed_event_attendance_mode]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.md|mixed_event_attendance_mode]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.internal.md|mixed_event_attendance_mode.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.protect.md|mixed_event_attendance_mode.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.private.md|mixed_event_attendance_mode.private]] 

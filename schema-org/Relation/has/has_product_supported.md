@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Product, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_product_supported.md|has_product_supported]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_product_supported.md|has_product_supported]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_product_supported.internal.md|has_product_supported.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_product_supported.protect.md|has_product_supported.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_product_supported.private.md|has_product_supported.private]] 

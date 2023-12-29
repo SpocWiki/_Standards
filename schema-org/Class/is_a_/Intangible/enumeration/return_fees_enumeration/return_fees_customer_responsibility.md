@@ -47,7 +47,7 @@ Specifies that product returns must be paid for, and are the responsibility of, 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.md|return_fees_customer_responsibility]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.md|return_fees_customer_responsibility]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.internal.md|return_fees_customer_responsibility.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.protect.md|return_fees_customer_responsibility.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.private.md|return_fees_customer_responsibility.private]] 

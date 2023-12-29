@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: ProgramMembership )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_program_membership_used.md|has_program_membership_used]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_program_membership_used.md|has_program_membership_used]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_program_membership_used.internal.md|has_program_membership_used.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_program_membership_used.protect.md|has_program_membership_used.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_program_membership_used.private.md|has_program_membership_used.private]] 

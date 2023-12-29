@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_material_extent.md|has_value_for_material_extent]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_material_extent.md|has_value_for_material_extent]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_material_extent.internal.md|has_value_for_material_extent.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_material_extent.protect.md|has_value_for_material_extent.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_material_extent.private.md|has_value_for_material_extent.private]] 

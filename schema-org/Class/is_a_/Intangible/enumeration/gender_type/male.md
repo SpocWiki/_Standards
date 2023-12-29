@@ -45,7 +45,7 @@ The male gender.
 [ #is_/enum_of :: [[../GenderType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.md|male]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/gender_type/male.md|male]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.internal.md|male.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.protect.md|male.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/gender_type/male.private.md|male.private]] 

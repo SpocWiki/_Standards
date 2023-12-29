@@ -46,7 +46,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_in_collection.md|is_in_collection]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_in_collection.md|is_in_collection]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_collection.internal.md|is_in_collection.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_in_collection.protect.md|is_in_collection.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_in_collection.private.md|is_in_collection.private]] 

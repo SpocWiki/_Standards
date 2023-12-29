@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Action )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_potential_action.md|has_potential_action]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_potential_action.md|has_potential_action]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_potential_action.internal.md|has_potential_action.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_potential_action.protect.md|has_potential_action.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_potential_action.private.md|has_potential_action.private]] 

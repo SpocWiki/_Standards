@@ -44,7 +44,7 @@ Relation describes that:
 #is_/sub_relation_of :: [[has_creator]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_author.md|has_author]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_author.md|has_author]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_author.internal.md|has_author.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_author.protect.md|has_author.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_author.private.md|has_author.private]] 

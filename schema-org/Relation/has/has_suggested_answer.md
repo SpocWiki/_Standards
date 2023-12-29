@@ -44,7 +44,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ acceptedAnswer ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_suggested_answer.md|has_suggested_answer]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_suggested_answer.md|has_suggested_answer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_suggested_answer.internal.md|has_suggested_answer.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_suggested_answer.protect.md|has_suggested_answer.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_suggested_answer.private.md|has_suggested_answer.private]] 

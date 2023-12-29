@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: BankOrCreditUnion, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_beneficiary_bank.md|has_beneficiary_bank]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_beneficiary_bank.md|has_beneficiary_bank]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_beneficiary_bank.internal.md|has_beneficiary_bank.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_beneficiary_bank.protect.md|has_beneficiary_bank.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_beneficiary_bank.private.md|has_beneficiary_bank.private]] 

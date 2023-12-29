@@ -59,7 +59,7 @@ Relation describes that:
 ( #has_/range :: Schedule )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_event_schedule.md|has_event_schedule]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_event_schedule.md|has_event_schedule]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_event_schedule.internal.md|has_event_schedule.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_event_schedule.protect.md|has_event_schedule.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_event_schedule.private.md|has_event_schedule.private]] 

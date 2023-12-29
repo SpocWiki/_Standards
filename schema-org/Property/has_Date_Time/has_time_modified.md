@@ -46,7 +46,7 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_modified.md|has_time_modified]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_modified.md|has_time_modified]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_modified.internal.md|has_time_modified.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_modified.protect.md|has_time_modified.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_modified.private.md|has_time_modified.private]] 

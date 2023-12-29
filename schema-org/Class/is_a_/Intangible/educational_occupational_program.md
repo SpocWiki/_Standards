@@ -47,7 +47,7 @@ A program offered by an institution which determines the learning progress to ac
 [ #has_/properties :: [ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/educational_occupational_program.md|educational_occupational_program]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/educational_occupational_program.md|educational_occupational_program]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/educational_occupational_program.internal.md|educational_occupational_program.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/educational_occupational_program.protect.md|educational_occupational_program.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/educational_occupational_program.private.md|educational_occupational_program.private]] 

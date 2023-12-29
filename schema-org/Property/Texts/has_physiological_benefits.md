@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_physiological_benefits.md|has_physiological_benefits]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_physiological_benefits.md|has_physiological_benefits]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_physiological_benefits.internal.md|has_physiological_benefits.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_physiological_benefits.protect.md|has_physiological_benefits.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_physiological_benefits.private.md|has_physiological_benefits.private]] 

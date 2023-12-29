@@ -36,7 +36,7 @@ Tag Instances like this:
 A combination of date and time of day in the form (-)?CCYY-MM-DDThh:mm:ss(Z|(+|-)hh:mm) (see Chapter 5.4 of ISO 8601).
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/data_type/date_time.md|date_time]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/date_time.md|date_time]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/data_type/date_time.internal.md|date_time.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/data_type/date_time.protect.md|date_time.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/data_type/date_time.private.md|date_time.private]] 

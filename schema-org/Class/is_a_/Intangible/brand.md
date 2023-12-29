@@ -43,7 +43,7 @@ A brand is a name used by an organization or business person for labeling a prod
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, description, disambiguatingDescription, identifier, image, logo, mainEntityOfPage, name, potentialAction, review, sameAs, slogan, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/brand.md|brand]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/brand.md|brand]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/brand.internal.md|brand.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/brand.protect.md|brand.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/brand.private.md|brand.private]] 

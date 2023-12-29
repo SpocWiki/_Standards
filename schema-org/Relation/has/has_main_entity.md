@@ -46,7 +46,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: about ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_main_entity.md|has_main_entity]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_main_entity.md|has_main_entity]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_main_entity.internal.md|has_main_entity.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_main_entity.protect.md|has_main_entity.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_main_entity.private.md|has_main_entity.private]] 

@@ -54,7 +54,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Relations/_has_Relation-Template.md|_has_Relation-Template]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/_has_Relation-Template.md|_has_Relation-Template]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/_has_Relation-Template.internal.md|_has_Relation-Template.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Relations/_has_Relation-Template.protect.md|_has_Relation-Template.protect]] 
 - [[../../../../_private/schema.org/Predicate/Relations/_has_Relation-Template.private.md|_has_Relation-Template.private]] 

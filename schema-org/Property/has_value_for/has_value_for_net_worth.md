@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount, PriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_net_worth.md|has_value_for_net_worth]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_net_worth.md|has_value_for_net_worth]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_net_worth.internal.md|has_value_for_net_worth.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_net_worth.protect.md|has_value_for_net_worth.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_net_worth.private.md|has_value_for_net_worth.private]] 

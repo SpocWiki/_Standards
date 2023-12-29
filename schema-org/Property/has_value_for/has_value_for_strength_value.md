@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_strength.md|has_value_for_strength]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_strength.md|has_value_for_strength]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_strength.internal.md|has_value_for_strength.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_strength.protect.md|has_value_for_strength.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_strength.private.md|has_value_for_strength.private]] 

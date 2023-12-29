@@ -47,7 +47,7 @@ Predicate describes that:
 [ #has_/sub_properties :: [ clipNumber, episodeNumber, issueNumber, seasonNumber, volumeNumber ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_position.md|has_number_of_position]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_position.md|has_number_of_position]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_position.internal.md|has_number_of_position.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_position.protect.md|has_number_of_position.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_position.private.md|has_number_of_position.private]] 

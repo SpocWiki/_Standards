@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text, Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_default_value.md|has_default_value]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_default_value.md|has_default_value]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_default_value.internal.md|has_default_value.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_default_value.protect.md|has_default_value.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_default_value.private.md|has_default_value.private]] 

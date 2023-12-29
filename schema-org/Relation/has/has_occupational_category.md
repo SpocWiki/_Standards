@@ -48,7 +48,7 @@ Relation describes that:
 ( #has_/range :: CategoryCode, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_occupational_category.md|has_occupational_category]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_occupational_category.md|has_occupational_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_occupational_category.internal.md|has_occupational_category.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_occupational_category.protect.md|has_occupational_category.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_occupational_category.private.md|has_occupational_category.private]] 

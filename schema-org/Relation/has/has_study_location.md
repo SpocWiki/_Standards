@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: AdministrativeArea )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_study_location.md|has_study_location]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_study_location.md|has_study_location]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study_location.internal.md|has_study_location.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_study_location.protect.md|has_study_location.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_study_location.private.md|has_study_location.private]] 

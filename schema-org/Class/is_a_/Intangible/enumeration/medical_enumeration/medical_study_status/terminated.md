@@ -45,7 +45,7 @@ Terminated.
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.md|terminated]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.md|terminated]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.internal.md|terminated.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.protect.md|terminated.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/terminated.private.md|terminated.private]] 

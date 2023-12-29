@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_employees.md|has_number_of_number_of_employees]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_employees.md|has_number_of_number_of_employees]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_employees.internal.md|has_number_of_number_of_employees.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_employees.protect.md|has_number_of_number_of_employees.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_employees.private.md|has_number_of_number_of_employees.private]] 

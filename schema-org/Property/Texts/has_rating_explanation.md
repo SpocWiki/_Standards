@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_rating_explanation.md|has_rating_explanation]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_rating_explanation.md|has_rating_explanation]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_rating_explanation.internal.md|has_rating_explanation.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_rating_explanation.protect.md|has_rating_explanation.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_rating_explanation.private.md|has_rating_explanation.private]] 

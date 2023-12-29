@@ -41,7 +41,7 @@ Format of this release (the type of recording media used, i.e. compact disc, dig
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.md|music_release_format_type]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type.md|music_release_format_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.internal.md|music_release_format_type.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.protect.md|music_release_format_type.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.private.md|music_release_format_type.private]] 

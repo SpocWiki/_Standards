@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: BreadcrumbList, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_breadcrumb.md|has_breadcrumb]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_breadcrumb.md|has_breadcrumb]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_breadcrumb.internal.md|has_breadcrumb.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_breadcrumb.protect.md|has_breadcrumb.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_breadcrumb.private.md|has_breadcrumb.private]] 

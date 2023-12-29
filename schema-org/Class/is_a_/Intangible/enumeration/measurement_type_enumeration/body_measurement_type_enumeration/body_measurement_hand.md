@@ -47,7 +47,7 @@ Maximum hand girth (measured over the knuckles of the open right hand excluding 
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.md|body_measurement_hand]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.md|body_measurement_hand]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.internal.md|body_measurement_hand.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.protect.md|body_measurement_hand.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_hand.private.md|body_measurement_hand.private]] 

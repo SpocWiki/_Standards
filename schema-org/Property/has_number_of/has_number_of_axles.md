@@ -49,7 +49,7 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_axles.md|has_number_of_number_of_axles]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_axles.md|has_number_of_number_of_axles]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_axles.internal.md|has_number_of_number_of_axles.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_axles.protect.md|has_number_of_number_of_axles.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_axles.private.md|has_number_of_number_of_axles.private]] 

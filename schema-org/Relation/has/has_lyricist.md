@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_lyricist.md|has_lyricist]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_lyricist.md|has_lyricist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_lyricist.internal.md|has_lyricist.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_lyricist.protect.md|has_lyricist.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_lyricist.private.md|has_lyricist.private]] 

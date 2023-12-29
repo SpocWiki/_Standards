@@ -45,7 +45,7 @@ A statistical distribution of values.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, duration, identifier, image, mainEntityOfPage, median, name, percentile10, percentile25, percentile75, percentile90, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.md|quantitative_value_distribution]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.md|quantitative_value_distribution]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.internal.md|quantitative_value_distribution.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.protect.md|quantitative_value_distribution.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/quantitative_value_distribution.private.md|quantitative_value_distribution.private]] 

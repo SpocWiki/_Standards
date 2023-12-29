@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: TypeAndQuantityNode)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_including_object.md|is_including_object]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_including_object.md|is_including_object]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_object.internal.md|is_including_object.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_including_object.protect.md|is_including_object.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_including_object.private.md|is_including_object.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: DriveWheelConfigurationValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.md|has_drive_wheel_configuration]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_drive_wheel_configuration.md|has_drive_wheel_configuration]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.internal.md|has_drive_wheel_configuration.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.protect.md|has_drive_wheel_configuration.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.private.md|has_drive_wheel_configuration.private]] 

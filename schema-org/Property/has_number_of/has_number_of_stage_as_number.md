@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_stage_as_number.md|has_number_of_stage_as_number]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_stage_as_number.md|has_number_of_stage_as_number]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_stage_as_number.internal.md|has_number_of_stage_as_number.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_stage_as_number.protect.md|has_number_of_stage_as_number.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_stage_as_number.private.md|has_number_of_stage_as_number.private]] 

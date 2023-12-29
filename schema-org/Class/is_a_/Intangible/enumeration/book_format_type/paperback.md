@@ -45,7 +45,7 @@ Book format: Paperback.
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.md|paperback]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/book_format_type/paperback.md|paperback]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.internal.md|paperback.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.protect.md|paperback.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type/paperback.private.md|paperback.private]] 

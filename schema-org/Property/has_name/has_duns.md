@@ -47,7 +47,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_duns.md|has_duns]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_duns.md|has_duns]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_duns.internal.md|has_duns.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_duns.protect.md|has_duns.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_duns.private.md|has_duns.private]] 

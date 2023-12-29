@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalContraindication, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_contraindication.md|has_contraindication]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_contraindication.md|has_contraindication]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contraindication.internal.md|has_contraindication.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contraindication.protect.md|has_contraindication.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_contraindication.private.md|has_contraindication.private]] 

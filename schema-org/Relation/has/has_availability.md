@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: ItemAvailability )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_availability.md|has_availability]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_availability.md|has_availability]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_availability.internal.md|has_availability.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_availability.protect.md|has_availability.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_availability.private.md|has_availability.private]] 

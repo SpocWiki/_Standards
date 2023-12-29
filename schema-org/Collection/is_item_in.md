@@ -59,7 +59,7 @@ Relation describes that:
 ( #has_/range :: Collection)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Relations/is_element_of.md|is_element_of]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_element_of.md|is_element_of]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/is_element_of.internal.md|is_element_of.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Relations/is_element_of.protect.md|is_element_of.protect]] 
 - [[../../../../_private/schema.org/Predicate/Relations/is_element_of.private.md|is_element_of.private]] 

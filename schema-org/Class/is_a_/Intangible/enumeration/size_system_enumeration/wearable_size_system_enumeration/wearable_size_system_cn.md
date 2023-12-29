@@ -47,7 +47,7 @@ Chinese size system for wearables.
 [ #is_/enum_of :: [[../WearableSizeSystemEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.md|wearable_size_system_cn]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.md|wearable_size_system_cn]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.internal.md|wearable_size_system_cn.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.protect.md|wearable_size_system_cn.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/wearable_size_system_enumeration/wearable_size_system_cn.private.md|wearable_size_system_cn.private]] 

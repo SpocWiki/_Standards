@@ -45,7 +45,7 @@ The event has been rescheduled. The event's previousStartDate should be set to t
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.md|event_rescheduled]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.md|event_rescheduled]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.internal.md|event_rescheduled.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.protect.md|event_rescheduled.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_rescheduled.private.md|event_rescheduled.private]] 

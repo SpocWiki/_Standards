@@ -43,7 +43,7 @@ A single item within a larger data feed.
 [ #has_/properties :: [ additionalType, alternateName, dateCreated, dateDeleted, dateModified, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/data_feed_item.md|data_feed_item]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/data_feed_item.md|data_feed_item]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/data_feed_item.internal.md|data_feed_item.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/data_feed_item.protect.md|data_feed_item.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/data_feed_item.private.md|data_feed_item.private]] 

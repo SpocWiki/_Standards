@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_vehicle_model.md|has_time_of_vehicle_model]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_vehicle_model.md|has_time_of_vehicle_model]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_vehicle_model.internal.md|has_time_of_vehicle_model.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_vehicle_model.protect.md|has_time_of_vehicle_model.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_vehicle_model.private.md|has_time_of_vehicle_model.private]] 

@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_book_edition.md|has_book_edition]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_book_edition.md|has_book_edition]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_book_edition.internal.md|has_book_edition.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_book_edition.protect.md|has_book_edition.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_book_edition.private.md|has_book_edition.private]] 

@@ -45,7 +45,7 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_expressed_in.md|is_expressed_in]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_expressed_in.md|is_expressed_in]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_expressed_in.internal.md|is_expressed_in.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_expressed_in.protect.md|is_expressed_in.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_expressed_in.private.md|is_expressed_in.private]] 

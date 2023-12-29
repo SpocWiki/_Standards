@@ -44,7 +44,7 @@ The series to which this episode or season belongs.
 [ #is_/sub_property_of  :: [[../../../Composite/is_part_of]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_series.md|is_part_of_series]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_part_of_series.md|is_part_of_series]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_series.internal.md|is_part_of_series.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_series.protect.md|is_part_of_series.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_series.private.md|is_part_of_series.private]] 

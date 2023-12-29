@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_biological_role.md|has_biological_role]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_biological_role.md|has_biological_role]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_biological_role.internal.md|has_biological_role.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_biological_role.protect.md|has_biological_role.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_biological_role.private.md|has_biological_role.private]] 

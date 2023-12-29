@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: OfferItemCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_item_condition.md|has_item_condition]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_item_condition.md|has_item_condition]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_condition.internal.md|has_item_condition.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_item_condition.protect.md|has_item_condition.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_item_condition.private.md|has_item_condition.private]] 

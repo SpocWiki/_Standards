@@ -45,7 +45,7 @@ A loan in which property or real estate is used as collateral. (A loan securitiz
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, currency, description, disambiguatingDescription, domiciledMortgage, feesAndCommissionsSpecification, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanMortgageMandateAmount, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.md|mortgage_loan]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.md|mortgage_loan]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.internal.md|mortgage_loan.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.protect.md|mortgage_loan.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit/mortgage_loan.private.md|mortgage_loan.private]] 

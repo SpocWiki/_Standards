@@ -48,7 +48,7 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Flags/is_accepting_new_patients.md|is_accepting_new_patients]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_accepting_new_patients.md|is_accepting_new_patients]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_accepting_new_patients.internal.md|is_accepting_new_patients.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Flags/is_accepting_new_patients.protect.md|is_accepting_new_patients.protect]] 
 - [[../../../../_private/schema.org/Predicate/Flags/is_accepting_new_patients.private.md|is_accepting_new_patients.private]] 

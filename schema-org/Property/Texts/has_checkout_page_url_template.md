@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_checkout_page_url_template.md|has_checkout_page_url_template]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_checkout_page_url_template.md|has_checkout_page_url_template]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_checkout_page_url_template.internal.md|has_checkout_page_url_template.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_checkout_page_url_template.protect.md|has_checkout_page_url_template.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_checkout_page_url_template.private.md|has_checkout_page_url_template.private]] 

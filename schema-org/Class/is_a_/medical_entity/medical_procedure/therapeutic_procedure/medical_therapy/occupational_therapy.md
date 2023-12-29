@@ -43,7 +43,7 @@ A treatment of people with physical, emotional, or social problems, using purpos
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.md|occupational_therapy]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.md|occupational_therapy]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.internal.md|occupational_therapy.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.protect.md|occupational_therapy.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_procedure/therapeutic_procedure/medical_therapy/occupational_therapy.private.md|occupational_therapy.private]] 

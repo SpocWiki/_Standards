@@ -45,7 +45,7 @@ A subclass of Role used to describe roles within organizations.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/role/organization_role.md|organization_role]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/role/organization_role.md|organization_role]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/role/organization_role.internal.md|organization_role.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/role/organization_role.protect.md|organization_role.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/role/organization_role.private.md|organization_role.private]] 

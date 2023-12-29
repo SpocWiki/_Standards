@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_varying_by.md|is_varying_by]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_varying_by.md|is_varying_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_varying_by.internal.md|is_varying_by.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_varying_by.protect.md|is_varying_by.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_varying_by.private.md|is_varying_by.private]] 

@@ -46,7 +46,7 @@ Relation describes that:
 **
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_alumni.md|has_alumni]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_alumni.md|has_alumni]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_alumni.internal.md|has_alumni.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_alumni.protect.md|has_alumni.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_alumni.private.md|has_alumni.private]] 

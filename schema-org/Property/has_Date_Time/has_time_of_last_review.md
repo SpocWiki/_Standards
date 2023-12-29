@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_last_review.md|has_time_of_last_review]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_last_review.md|has_time_of_last_review]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_last_review.internal.md|has_time_of_last_review.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_last_review.protect.md|has_time_of_last_review.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_last_review.private.md|has_time_of_last_review.private]] 

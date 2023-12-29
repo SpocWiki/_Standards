@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_accountable_person.md|has_accountable_person]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_accountable_person.md|has_accountable_person]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accountable_person.internal.md|has_accountable_person.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_accountable_person.protect.md|has_accountable_person.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_accountable_person.private.md|has_accountable_person.private]] 

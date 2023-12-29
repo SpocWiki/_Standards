@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_edu_question_type.md|has_edu_question_type]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_edu_question_type.md|has_edu_question_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_edu_question_type.internal.md|has_edu_question_type.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_edu_question_type.protect.md|has_edu_question_type.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_edu_question_type.private.md|has_edu_question_type.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: AlignmentObject, Course, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_course_prerequisites.md|has_course_prerequisites]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_course_prerequisites.md|has_course_prerequisites]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course_prerequisites.internal.md|has_course_prerequisites.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_course_prerequisites.protect.md|has_course_prerequisites.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_course_prerequisites.private.md|has_course_prerequisites.private]] 

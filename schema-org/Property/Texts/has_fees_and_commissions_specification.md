@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_fees_and_commissions_specification.md|has_fees_and_commissions_specification]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_fees_and_commissions_specification.md|has_fees_and_commissions_specification]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_fees_and_commissions_specification.internal.md|has_fees_and_commissions_specification.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_fees_and_commissions_specification.protect.md|has_fees_and_commissions_specification.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_fees_and_commissions_specification.private.md|has_fees_and_commissions_specification.private]] 

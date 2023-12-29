@@ -39,7 +39,7 @@ Text representing a CSS selector.
 [ #is_/sub_class_of :: [[../Text]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/data_type/text/css_selector_type.md|css_selector_type]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/text/css_selector_type.md|css_selector_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/css_selector_type.internal.md|css_selector_type.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/data_type/text/css_selector_type.protect.md|css_selector_type.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/data_type/text/css_selector_type.private.md|css_selector_type.private]] 

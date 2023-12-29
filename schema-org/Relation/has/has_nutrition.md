@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: NutritionInformation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_nutrition.md|has_nutrition]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_nutrition.md|has_nutrition]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nutrition.internal.md|has_nutrition.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nutrition.protect.md|has_nutrition.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_nutrition.private.md|has_nutrition.private]] 

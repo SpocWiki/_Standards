@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: RecommendedDoseSchedule )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_recommended_intake.md|has_recommended_intake]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_recommended_intake.md|has_recommended_intake]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recommended_intake.internal.md|has_recommended_intake.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_recommended_intake.protect.md|has_recommended_intake.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_recommended_intake.private.md|has_recommended_intake.private]] 

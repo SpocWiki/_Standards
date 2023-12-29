@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: CreativeWork, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_ethics_policy.md|has_ethics_policy]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_ethics_policy.md|has_ethics_policy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ethics_policy.internal.md|has_ethics_policy.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_ethics_policy.protect.md|has_ethics_policy.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_ethics_policy.private.md|has_ethics_policy.private]] 

@@ -47,7 +47,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_death.md|has_time_of_death]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_death.md|has_time_of_death]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_death.internal.md|has_time_of_death.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_death.protect.md|has_time_of_death.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_death.private.md|has_time_of_death.private]] 

@@ -43,7 +43,7 @@ The act of consuming audio content.
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/listen_action.md|listen_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/consume_action/listen_action.md|listen_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/listen_action.internal.md|listen_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/listen_action.protect.md|listen_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/listen_action.private.md|listen_action.private]] 

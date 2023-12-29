@@ -43,7 +43,7 @@ A service which provides access to media programming like TV or radio. Access ma
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.md|cable_or_satellite_service]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/cable_or_satellite_service.md|cable_or_satellite_service]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.internal.md|cable_or_satellite_service.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.protect.md|cable_or_satellite_service.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.private.md|cable_or_satellite_service.private]] 

@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_birth.md|has_time_of_birth]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_birth.md|has_time_of_birth]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_birth.internal.md|has_time_of_birth.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_birth.protect.md|has_time_of_birth.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_birth.private.md|has_time_of_birth.private]] 

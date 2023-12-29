@@ -45,7 +45,7 @@ OrderStatus representing that payment is due on an order.
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.md|order_payment_due]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.md|order_payment_due]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.internal.md|order_payment_due.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.protect.md|order_payment_due.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.private.md|order_payment_due.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MenuSection )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_menu_section.md|has_menu_section]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_menu_section.md|has_menu_section]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_menu_section.internal.md|has_menu_section.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_menu_section.protect.md|has_menu_section.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_menu_section.private.md|has_menu_section.private]] 

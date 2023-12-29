@@ -46,7 +46,7 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Flags/is_value_required.md|is_value_required]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_value_required.md|is_value_required]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_value_required.internal.md|is_value_required.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Flags/is_value_required.protect.md|is_value_required.protect]] 
 - [[../../../../_private/schema.org/Predicate/Flags/is_value_required.private.md|is_value_required.private]] 

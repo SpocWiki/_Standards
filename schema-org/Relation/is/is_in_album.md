@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MusicAlbum )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_in_album.md|is_in_album]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_in_album.md|is_in_album]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_album.internal.md|is_in_album.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_in_album.protect.md|is_in_album.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_in_album.private.md|is_in_album.private]] 

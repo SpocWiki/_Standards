@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Mass )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_sodium_in_milliGram.md|has_value_for_sodium_in_milliGram]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_sodium_in_milliGram.md|has_value_for_sodium_in_milliGram]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_sodium_in_milliGram.internal.md|has_value_for_sodium_in_milliGram.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_sodium_in_milliGram.protect.md|has_value_for_sodium_in_milliGram.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_sodium_in_milliGram.private.md|has_value_for_sodium_in_milliGram.private]] 

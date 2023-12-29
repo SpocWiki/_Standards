@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Invoice )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_invoice.md|is_part_of_invoice]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_part_of_invoice.md|is_part_of_invoice]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_invoice.internal.md|is_part_of_invoice.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_invoice.protect.md|is_part_of_invoice.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_invoice.private.md|is_part_of_invoice.private]] 

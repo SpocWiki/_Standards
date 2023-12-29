@@ -45,7 +45,7 @@ An ItemList ordered with no explicit order.
 [ #is_/enum_of :: [[../ItemListOrderType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.md|item_list_unordered]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.md|item_list_unordered]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.internal.md|item_list_unordered.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.protect.md|item_list_unordered.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.private.md|item_list_unordered.private]] 

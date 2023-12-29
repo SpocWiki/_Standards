@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_years_in_operation.md|has_value_for_years_in_operation]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_years_in_operation.md|has_value_for_years_in_operation]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_years_in_operation.internal.md|has_value_for_years_in_operation.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_years_in_operation.protect.md|has_value_for_years_in_operation.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_years_in_operation.private.md|has_value_for_years_in_operation.private]] 

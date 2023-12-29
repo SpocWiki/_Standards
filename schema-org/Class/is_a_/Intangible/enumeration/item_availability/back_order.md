@@ -45,7 +45,7 @@ Indicates that the item is available on back order.
 [[../ItemAvailability| #is_/enum_of :: [../ItemAvailability]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.md|back_order]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_availability/back_order.md|back_order]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.internal.md|back_order.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.protect.md|back_order.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/back_order.private.md|back_order.private]] 

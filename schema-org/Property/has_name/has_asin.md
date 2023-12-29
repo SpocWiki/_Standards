@@ -54,7 +54,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_asin.md|has_asin]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_asin.md|has_asin]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_asin.internal.md|has_asin.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_asin.protect.md|has_asin.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_asin.private.md|has_asin.private]] 

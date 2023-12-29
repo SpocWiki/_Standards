@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount, Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_exchange_rate_spread.md|has_value_for_exchange_rate_spread]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_exchange_rate_spread.md|has_value_for_exchange_rate_spread]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_exchange_rate_spread.internal.md|has_value_for_exchange_rate_spread.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_exchange_rate_spread.protect.md|has_value_for_exchange_rate_spread.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_exchange_rate_spread.private.md|has_value_for_exchange_rate_spread.private]] 

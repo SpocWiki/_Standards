@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Country )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_nationality.md|has_nationality]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_nationality.md|has_nationality]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nationality.internal.md|has_nationality.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nationality.protect.md|has_nationality.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_nationality.private.md|has_nationality.private]] 

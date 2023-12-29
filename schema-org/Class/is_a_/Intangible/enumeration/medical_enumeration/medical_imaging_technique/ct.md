@@ -45,7 +45,7 @@ X-ray computed tomography imaging.
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.md|ct]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.md|ct]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.internal.md|ct.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.protect.md|ct.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/ct.private.md|ct.private]] 

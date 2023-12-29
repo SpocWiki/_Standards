@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/inverse_of  :: releaseOf ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_album_release.md|has_album_release]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_album_release.md|has_album_release]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_album_release.internal.md|has_album_release.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_album_release.protect.md|has_album_release.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_album_release.private.md|has_album_release.private]] 

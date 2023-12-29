@@ -47,7 +47,7 @@ Represents EnergyStar certification.
 [ #is_/enum_of :: [[../EnergyStarEnergyEfficiencyEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.md|energy_star_certified]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.md|energy_star_certified]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.internal.md|energy_star_certified.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.protect.md|energy_star_certified.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration/energy_star_energy_efficiency_enumeration/energy_star_certified.private.md|energy_star_certified.private]] 

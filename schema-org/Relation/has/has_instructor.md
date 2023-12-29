@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_instructor.md|has_instructor]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_instructor.md|has_instructor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_instructor.internal.md|has_instructor.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_instructor.protect.md|has_instructor.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_instructor.private.md|has_instructor.private]] 

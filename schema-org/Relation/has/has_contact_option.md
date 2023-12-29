@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: ContactPointOption )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_contact_option.md|has_contact_option]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_contact_option.md|has_contact_option]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contact_option.internal.md|has_contact_option.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contact_option.protect.md|has_contact_option.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_contact_option.private.md|has_contact_option.private]] 

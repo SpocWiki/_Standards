@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: HealthInsurancePlan)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.md|is_included_in_health_insurance_plan]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_included_in_health_insurance_plan.md|is_included_in_health_insurance_plan]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.internal.md|is_included_in_health_insurance_plan.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.protect.md|is_included_in_health_insurance_plan.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.private.md|is_included_in_health_insurance_plan.private]] 

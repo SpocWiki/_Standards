@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: EUEnergyEfficiencyEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.md|has_energy_efficiency_scale_max]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_energy_efficiency_scale_max.md|has_energy_efficiency_scale_max]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.internal.md|has_energy_efficiency_scale_max.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.protect.md|has_energy_efficiency_scale_max.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_max.private.md|has_energy_efficiency_scale_max.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_letterer.md|has_letterer]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_letterer.md|has_letterer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_letterer.internal.md|has_letterer.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_letterer.protect.md|has_letterer.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_letterer.private.md|has_letterer.private]] 

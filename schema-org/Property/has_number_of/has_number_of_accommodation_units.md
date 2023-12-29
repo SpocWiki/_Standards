@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_number_of_accommodation_units.md|has_number_of_number_of_accommodation_units]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_accommodation_units.md|has_number_of_number_of_accommodation_units]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_accommodation_units.internal.md|has_number_of_number_of_accommodation_units.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_accommodation_units.protect.md|has_number_of_number_of_accommodation_units.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_accommodation_units.private.md|has_number_of_number_of_accommodation_units.private]] 

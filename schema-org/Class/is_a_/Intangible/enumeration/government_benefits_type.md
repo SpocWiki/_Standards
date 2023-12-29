@@ -43,7 +43,7 @@ GovernmentBenefitsType enumerates several kinds of government benefits to suppor
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.md|government_benefits_type]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type.md|government_benefits_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.internal.md|government_benefits_type.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.protect.md|government_benefits_type.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.private.md|government_benefits_type.private]] 

@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_muscle_action.md|has_muscle_action]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_muscle_action.md|has_muscle_action]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_muscle_action.internal.md|has_muscle_action.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_muscle_action.protect.md|has_muscle_action.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_muscle_action.private.md|has_muscle_action.private]] 

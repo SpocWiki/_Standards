@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: GamePlayMode )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_play_mode.md|has_play_mode]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_play_mode.md|has_play_mode]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_play_mode.internal.md|has_play_mode.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_play_mode.protect.md|has_play_mode.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_play_mode.private.md|has_play_mode.private]] 

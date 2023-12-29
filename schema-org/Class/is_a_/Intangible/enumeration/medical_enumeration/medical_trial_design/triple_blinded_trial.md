@@ -45,7 +45,7 @@ A trial design in which neither the researcher, the person administering the the
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.md|triple_blinded_trial]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.md|triple_blinded_trial]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.internal.md|triple_blinded_trial.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.protect.md|triple_blinded_trial.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.private.md|triple_blinded_trial.private]] 

@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_maximum_attendees.md|has_number_of_maximum_attendees]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_maximum_attendees.md|has_number_of_maximum_attendees]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_attendees.internal.md|has_number_of_maximum_attendees.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_maximum_attendees.protect.md|has_number_of_maximum_attendees.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_maximum_attendees.private.md|has_number_of_maximum_attendees.private]] 

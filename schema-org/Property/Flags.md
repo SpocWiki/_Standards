@@ -20,7 +20,7 @@ Flags implement an explicit binary Logic.
 But they can also implement a ternary logic using the empty '` `' or `null` Value or be omitted completely. 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/schema.org/Predicate/Flags.md|Flags]] 
+- [[../../../_Standards/schema-org/Predicate/Flags.md|Flags]] 
 - [[../../../_internal/schema.org/Predicate/Flags.internal.md|Flags.internal]] 
 - [[../../../_protect/schema.org/Predicate/Flags.protect.md|Flags.protect]] 
 - [[../../../_private/schema.org/Predicate/Flags.private.md|Flags.private]] 

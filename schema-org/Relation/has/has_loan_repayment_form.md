@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: RepaymentSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_loan_repayment_form.md|has_loan_repayment_form]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_loan_repayment_form.md|has_loan_repayment_form]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_loan_repayment_form.internal.md|has_loan_repayment_form.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_loan_repayment_form.protect.md|has_loan_repayment_form.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_loan_repayment_form.private.md|has_loan_repayment_form.private]] 

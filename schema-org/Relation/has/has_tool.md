@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_tool.md|has_tool]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_tool.md|has_tool]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tool.internal.md|has_tool.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_tool.protect.md|has_tool.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_tool.private.md|has_tool.private]] 

@@ -43,7 +43,7 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../is/is_member_of]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_member.md|has_member]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_member.md|has_member]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_member.internal.md|has_member.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_member.protect.md|has_member.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_member.private.md|has_member.private]] 

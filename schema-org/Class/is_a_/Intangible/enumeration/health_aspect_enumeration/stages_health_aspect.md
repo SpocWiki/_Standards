@@ -47,7 +47,7 @@ Stages that can be observed from a topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.md|stages_health_aspect]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.md|stages_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.internal.md|stages_health_aspect.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.protect.md|stages_health_aspect.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.private.md|stages_health_aspect.private]] 

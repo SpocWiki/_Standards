@@ -45,7 +45,7 @@ A product provided to consumers and businesses by financial institutions such as
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product.md|financial_product]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product.md|financial_product]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product.internal.md|financial_product.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product.protect.md|financial_product.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product.private.md|financial_product.private]] 

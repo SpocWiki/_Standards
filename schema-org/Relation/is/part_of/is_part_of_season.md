@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: isPartOf ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_season.md|is_part_of_season]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_part_of_season.md|is_part_of_season]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_season.internal.md|is_part_of_season.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_season.protect.md|is_part_of_season.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_season.private.md|is_part_of_season.private]] 

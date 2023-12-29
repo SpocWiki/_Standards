@@ -43,7 +43,7 @@ Any collection of tests commonly ordered together.
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subTest, subjectOf, url, usedToDiagnose, usesDevice ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.md|medical_test_panel]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.md|medical_test_panel]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.internal.md|medical_test_panel.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.protect.md|medical_test_panel.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.private.md|medical_test_panel.private]] 

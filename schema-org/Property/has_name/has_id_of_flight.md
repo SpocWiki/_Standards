@@ -47,7 +47,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_of_flight.md|has_id_of_flight]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_of_flight.md|has_id_of_flight]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_of_flight.internal.md|has_id_of_flight.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_of_flight.protect.md|has_id_of_flight.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_of_flight.private.md|has_id_of_flight.private]] 

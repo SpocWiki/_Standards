@@ -43,7 +43,7 @@ Enumerates different price types, for example list price, invoice price, and sal
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.md|price_type_enumeration]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_type_enumeration.md|price_type_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.internal.md|price_type_enumeration.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.protect.md|price_type_enumeration.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration.private.md|price_type_enumeration.private]] 

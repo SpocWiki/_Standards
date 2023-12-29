@@ -45,7 +45,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_claim_interpreter.md|has_claim_interpreter]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_claim_interpreter.md|has_claim_interpreter]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_claim_interpreter.internal.md|has_claim_interpreter.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_claim_interpreter.protect.md|has_claim_interpreter.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_claim_interpreter.private.md|has_claim_interpreter.private]] 

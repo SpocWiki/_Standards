@@ -49,7 +49,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_code_of_branch.md|has_code_of_branch]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_of_branch.md|has_code_of_branch]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_code_of_branch.internal.md|has_code_of_branch.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_code_of_branch.protect.md|has_code_of_branch.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_code_of_branch.private.md|has_code_of_branch.private]] 

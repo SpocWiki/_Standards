@@ -45,7 +45,7 @@ A program with both an educational and employment component. Typically based at 
 [ #has_/properties :: [ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/educational_occupational_program/work_based_program.md|work_based_program]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/educational_occupational_program/work_based_program.md|work_based_program]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/educational_occupational_program/work_based_program.internal.md|work_based_program.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/educational_occupational_program/work_based_program.protect.md|work_based_program.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/educational_occupational_program/work_based_program.private.md|work_based_program.private]] 

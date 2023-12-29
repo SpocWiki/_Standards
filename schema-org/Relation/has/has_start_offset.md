@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: HyperTocEntry, Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_start_offset.md|has_start_offset]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_start_offset.md|has_start_offset]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_start_offset.internal.md|has_start_offset.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_start_offset.protect.md|has_start_offset.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_start_offset.private.md|has_start_offset.private]] 

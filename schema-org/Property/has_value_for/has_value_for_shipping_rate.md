@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_shipping_rate.md|has_value_for_shipping_rate]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_shipping_rate.md|has_value_for_shipping_rate]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_shipping_rate.internal.md|has_value_for_shipping_rate.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_shipping_rate.protect.md|has_value_for_shipping_rate.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_shipping_rate.private.md|has_value_for_shipping_rate.private]] 

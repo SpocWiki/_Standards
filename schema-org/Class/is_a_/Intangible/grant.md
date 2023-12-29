@@ -52,7 +52,7 @@ The amount of a [[Grant]] is represented using [[amount]] as a [[MonetaryAmount]
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/grant.md|grant]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/grant.md|grant]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/grant.internal.md|grant.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/grant.protect.md|grant.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/grant.private.md|grant.private]] 

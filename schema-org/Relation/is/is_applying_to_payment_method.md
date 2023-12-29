@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: PaymentMethod)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_applying_to_payment_method.md|is_applying_to_payment_method]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_applying_to_payment_method.md|is_applying_to_payment_method]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_applying_to_payment_method.internal.md|is_applying_to_payment_method.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_applying_to_payment_method.protect.md|is_applying_to_payment_method.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_applying_to_payment_method.private.md|is_applying_to_payment_method.private]] 

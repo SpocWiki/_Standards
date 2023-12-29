@@ -44,7 +44,7 @@ Properties that take Mass as values are of the form '[[../../Class/is_a_/data_ty
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/quantity/mass.md|mass]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity/mass.md|mass]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/quantity/mass.internal.md|mass.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/quantity/mass.protect.md|mass.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/quantity/mass.private.md|mass.private]] 

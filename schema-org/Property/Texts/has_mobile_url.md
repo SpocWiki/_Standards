@@ -49,7 +49,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_mobile_url.md|has_mobile_url]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_mobile_url.md|has_mobile_url]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_mobile_url.internal.md|has_mobile_url.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_mobile_url.protect.md|has_mobile_url.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_mobile_url.private.md|has_mobile_url.private]] 

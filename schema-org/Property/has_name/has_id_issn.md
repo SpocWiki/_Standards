@@ -47,7 +47,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_issn.md|has_id_issn]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_issn.md|has_id_issn]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_issn.internal.md|has_id_issn.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_issn.protect.md|has_id_issn.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_issn.private.md|has_id_issn.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/inverse_of  :: gameServer ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_game.md|has_game]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_game.md|has_game]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game.internal.md|has_game.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_game.protect.md|has_game.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_game.private.md|has_game.private]] 

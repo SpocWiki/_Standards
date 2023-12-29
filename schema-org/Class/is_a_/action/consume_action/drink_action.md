@@ -43,7 +43,7 @@ The act of swallowing liquids.
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/consume_action/drink_action.md|drink_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/consume_action/drink_action.md|drink_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/drink_action.internal.md|drink_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/drink_action.protect.md|drink_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/drink_action.private.md|drink_action.private]] 

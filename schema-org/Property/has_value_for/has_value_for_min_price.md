@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_min_price.md|has_value_for_min_price]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_min_price.md|has_value_for_min_price]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_min_price.internal.md|has_value_for_min_price.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_min_price.protect.md|has_value_for_min_price.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_min_price.private.md|has_value_for_min_price.private]] 

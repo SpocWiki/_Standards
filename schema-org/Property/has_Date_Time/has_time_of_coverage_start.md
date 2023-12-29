@@ -44,7 +44,7 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_coverage_start.md|has_time_of_coverage_start]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_coverage_start.md|has_time_of_coverage_start]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_coverage_start.internal.md|has_time_of_coverage_start.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_coverage_start.protect.md|has_time_of_coverage_start.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_coverage_start.private.md|has_time_of_coverage_start.private]] 

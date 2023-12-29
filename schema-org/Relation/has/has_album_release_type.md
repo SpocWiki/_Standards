@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MusicAlbumReleaseType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_album_release_type.md|has_album_release_type]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_album_release_type.md|has_album_release_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_album_release_type.internal.md|has_album_release_type.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_album_release_type.protect.md|has_album_release_type.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_album_release_type.private.md|has_album_release_type.private]] 

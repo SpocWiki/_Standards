@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_guideline.md|has_time_of_guideline]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_guideline.md|has_time_of_guideline]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_guideline.internal.md|has_time_of_guideline.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_guideline.protect.md|has_time_of_guideline.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_guideline.private.md|has_time_of_guideline.private]] 

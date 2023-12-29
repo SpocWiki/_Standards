@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_production.md|has_time_of_production]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_production.md|has_time_of_production]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_production.internal.md|has_time_of_production.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_production.protect.md|has_time_of_production.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_production.private.md|has_time_of_production.private]] 

@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Duration, Text)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_flight.md|has_duration_of_flight]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_flight.md|has_duration_of_flight]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_flight.internal.md|has_duration_of_flight.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_flight.protect.md|has_duration_of_flight.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_flight.private.md|has_duration_of_flight.private]] 

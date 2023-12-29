@@ -44,7 +44,7 @@ Tag Instances like this:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/download_action.md|download_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/transfer_action/download_action.md|download_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/transfer_action/download_action.internal.md|download_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/transfer_action/download_action.protect.md|download_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/transfer_action/download_action.private.md|download_action.private]] 

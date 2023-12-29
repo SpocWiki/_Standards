@@ -45,7 +45,7 @@ Relation describes that:
 ( #has_/range :: [[medical_code]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_code.md|has_code]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_code.md|has_code]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_code.internal.md|has_code.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_code.protect.md|has_code.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_code.private.md|has_code.private]] 

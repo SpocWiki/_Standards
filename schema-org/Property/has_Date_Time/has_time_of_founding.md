@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_founding.md|has_time_of_founding]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_founding.md|has_time_of_founding]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_founding.internal.md|has_time_of_founding.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_founding.protect.md|has_time_of_founding.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_founding.private.md|has_time_of_founding.private]] 

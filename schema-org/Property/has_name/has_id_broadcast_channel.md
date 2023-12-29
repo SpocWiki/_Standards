@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_broadcast_channel.md|has_id_broadcast_channel]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_broadcast_channel.md|has_id_broadcast_channel]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_broadcast_channel.internal.md|has_id_broadcast_channel.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_broadcast_channel.protect.md|has_id_broadcast_channel.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_broadcast_channel.private.md|has_id_broadcast_channel.private]] 

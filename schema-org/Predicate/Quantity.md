@@ -74,7 +74,7 @@ Tag Instances like this:
 #is_a_/quantity
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/quantity.md|quantity]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity.md|quantity]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/quantity.internal.md|quantity.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/quantity.protect.md|quantity.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/quantity.private.md|quantity.private]] 

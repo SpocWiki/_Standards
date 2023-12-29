@@ -47,7 +47,7 @@ Nonprofit501q: Non-profit type referring to Credit Counseling Organizations.
 [ #is_/enum_of :: [[../USNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.md|nonprofit501q]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.md|nonprofit501q]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.internal.md|nonprofit501q.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.protect.md|nonprofit501q.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/us_nonprofit_type/nonprofit501q.private.md|nonprofit501q.private]] 

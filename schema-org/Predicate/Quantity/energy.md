@@ -45,7 +45,7 @@ Properties that take Energy as values are of the form '<Number> <Energy unit of 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/quantity/energy.md|energy]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity/energy.md|energy]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/quantity/energy.internal.md|energy.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/quantity/energy.protect.md|energy.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/quantity/energy.private.md|energy.private]] 

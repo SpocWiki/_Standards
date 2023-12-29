@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Integer, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_children.md|has_number_of_children]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_children.md|has_number_of_children]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_children.internal.md|has_number_of_children.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_children.protect.md|has_number_of_children.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_children.private.md|has_number_of_children.private]] 

@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_bitrate.md|has_bitrate]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_bitrate.md|has_bitrate]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_bitrate.internal.md|has_bitrate.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_bitrate.protect.md|has_bitrate.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_bitrate.private.md|has_bitrate.private]] 

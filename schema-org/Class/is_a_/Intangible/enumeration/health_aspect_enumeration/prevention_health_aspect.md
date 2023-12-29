@@ -47,7 +47,7 @@ Information about actions or measures that can be taken to avoid getting the top
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.md|prevention_health_aspect]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.md|prevention_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.internal.md|prevention_health_aspect.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.protect.md|prevention_health_aspect.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.private.md|prevention_health_aspect.private]] 

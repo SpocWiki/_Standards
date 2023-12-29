@@ -48,7 +48,7 @@ endorsement rating is particularly useful in the absence of numeric scales as it
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/rating/endorsement_rating.md|endorsement_rating]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/rating/endorsement_rating.md|endorsement_rating]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/rating/endorsement_rating.internal.md|endorsement_rating.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/rating/endorsement_rating.protect.md|endorsement_rating.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/rating/endorsement_rating.private.md|endorsement_rating.private]] 

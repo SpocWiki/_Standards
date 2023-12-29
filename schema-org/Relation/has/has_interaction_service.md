@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: SoftwareApplication, WebSite )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_interaction_service.md|has_interaction_service]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_interaction_service.md|has_interaction_service]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_interaction_service.internal.md|has_interaction_service.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_interaction_service.protect.md|has_interaction_service.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_interaction_service.private.md|has_interaction_service.private]] 

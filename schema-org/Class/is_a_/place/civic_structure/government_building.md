@@ -45,7 +45,7 @@ A government building.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/place/civic_structure/government_building.md|government_building]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/government_building.md|government_building]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building.internal.md|government_building.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building.protect.md|government_building.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building.private.md|government_building.private]] 

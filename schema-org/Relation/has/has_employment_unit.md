@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_employment_unit.md|has_employment_unit]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_employment_unit.md|has_employment_unit]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_employment_unit.internal.md|has_employment_unit.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_employment_unit.protect.md|has_employment_unit.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_employment_unit.private.md|has_employment_unit.private]] 

@@ -47,7 +47,7 @@ population, and does not imply that the population consists of people. For examp
 [ #has_/properties :: [ additionalType, alternateName, constrainingProperty, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numConstraints, populationType, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/statistical_population.md|statistical_population]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/statistical_population.md|statistical_population]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/statistical_population.internal.md|statistical_population.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/statistical_population.protect.md|statistical_population.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/statistical_population.private.md|statistical_population.private]] 

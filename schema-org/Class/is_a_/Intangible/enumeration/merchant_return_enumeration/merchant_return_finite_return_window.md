@@ -49,7 +49,7 @@ Specifies that there is a finite window for product returns.
 [ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.md|merchant_return_finite_return_window]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.md|merchant_return_finite_return_window]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.internal.md|merchant_return_finite_return_window.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.protect.md|merchant_return_finite_return_window.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_finite_return_window.private.md|merchant_return_finite_return_window.private]] 

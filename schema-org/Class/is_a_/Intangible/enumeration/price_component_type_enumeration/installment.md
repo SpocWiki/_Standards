@@ -47,7 +47,7 @@ Represents the installment pricing component of the total price for an offered p
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.md|installment]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.md|installment]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.internal.md|installment.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.protect.md|installment.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.private.md|installment.private]] 

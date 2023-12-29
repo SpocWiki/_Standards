@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_eligible_duration.md|has_value_for_eligible_duration]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_eligible_duration.md|has_value_for_eligible_duration]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_eligible_duration.internal.md|has_value_for_eligible_duration.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_eligible_duration.protect.md|has_value_for_eligible_duration.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_eligible_duration.private.md|has_value_for_eligible_duration.private]] 

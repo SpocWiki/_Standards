@@ -46,7 +46,7 @@ Use it like this:
 [ #is_/sub_property_of  :: [[has_part]] ] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_episode.md|has_episode]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_episode.md|has_episode]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_episode.internal.md|has_episode.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_episode.protect.md|has_episode.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_episode.private.md|has_episode.private]] 

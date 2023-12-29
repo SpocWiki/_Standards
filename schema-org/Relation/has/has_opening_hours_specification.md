@@ -61,7 +61,7 @@ Relation describes that:
 ( #has_/range :: OpeningHoursSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_opening_hours_specification.md|has_opening_hours_specification]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_opening_hours_specification.md|has_opening_hours_specification]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_opening_hours_specification.internal.md|has_opening_hours_specification.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_opening_hours_specification.protect.md|has_opening_hours_specification.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_opening_hours_specification.private.md|has_opening_hours_specification.private]] 

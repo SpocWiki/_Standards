@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: BrainStructure )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_sourced_from.md|is_sourced_from]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_sourced_from.md|is_sourced_from]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_sourced_from.internal.md|is_sourced_from.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_sourced_from.protect.md|is_sourced_from.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_sourced_from.private.md|is_sourced_from.private]] 

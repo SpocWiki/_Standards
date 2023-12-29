@@ -46,7 +46,7 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endTime, identifier, image, interactionService, interactionType, location, mainEntityOfPage, name, potentialAction, sameAs, startTime, subjectOf, url, userInteractionCount ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/interaction_counter.md|interaction_counter]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/interaction_counter.md|interaction_counter]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/interaction_counter.internal.md|interaction_counter.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/interaction_counter.protect.md|interaction_counter.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/interaction_counter.private.md|interaction_counter.private]] 

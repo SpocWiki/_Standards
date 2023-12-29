@@ -63,7 +63,7 @@ Usage guidelines:
 ( #has_/range :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ])
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_rating.md|has_value_for_rating]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_rating.md|has_value_for_rating]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_rating.internal.md|has_value_for_rating.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_rating.protect.md|has_value_for_rating.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_rating.private.md|has_value_for_rating.private]] 

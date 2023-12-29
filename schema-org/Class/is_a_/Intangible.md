@@ -44,7 +44,7 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Class/is_a_/intangible.md|intangible]] 
+- [[../../../../_Standards/schema-org/Class/is_a_/intangible.md|intangible]] 
 - [[../../../../_internal/schema.org/Class/is_a_/intangible.internal.md|intangible.internal]] 
 - [[../../../../_protect/schema.org/Class/is_a_/intangible.protect.md|intangible.protect]] 
 - [[../../../../_private/schema.org/Class/is_a_/intangible.private.md|intangible.private]] 

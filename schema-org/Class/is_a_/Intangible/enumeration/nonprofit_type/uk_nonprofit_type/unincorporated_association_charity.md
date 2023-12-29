@@ -47,7 +47,7 @@ UnincorporatedAssociationCharity: Non-profit type referring to a charitable comp
 [ #is_/enum_of :: [[../UKNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.md|unincorporated_association_charity]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.md|unincorporated_association_charity]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.internal.md|unincorporated_association_charity.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.protect.md|unincorporated_association_charity.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/unincorporated_association_charity.private.md|unincorporated_association_charity.private]] 

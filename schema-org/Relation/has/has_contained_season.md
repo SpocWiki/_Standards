@@ -43,7 +43,7 @@ Use it like this:
 [ #is_/sub_property_of  :: [[has_part|hasPart]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_contained_season.md|has_contained_season]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_contained_season.md|has_contained_season]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contained_season.internal.md|has_contained_season.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contained_season.protect.md|has_contained_season.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_contained_season.private.md|has_contained_season.private]] 

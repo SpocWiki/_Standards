@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_health_plan_coinsurance_option.md|has_health_plan_coinsurance_option]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_health_plan_coinsurance_option.md|has_health_plan_coinsurance_option]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_health_plan_coinsurance_option.internal.md|has_health_plan_coinsurance_option.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_health_plan_coinsurance_option.protect.md|has_health_plan_coinsurance_option.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_health_plan_coinsurance_option.private.md|has_health_plan_coinsurance_option.private]] 

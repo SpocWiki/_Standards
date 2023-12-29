@@ -47,7 +47,7 @@ Represents the broad notion of iOS-based operating systems.
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.md|ios_platform]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.md|ios_platform]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.internal.md|ios_platform.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.protect.md|ios_platform.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.private.md|ios_platform.private]] 

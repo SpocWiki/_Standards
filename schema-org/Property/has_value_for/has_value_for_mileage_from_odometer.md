@@ -49,7 +49,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.md|has_value_for_mileage_from_odometer]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_mileage_from_odometer.md|has_value_for_mileage_from_odometer]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.internal.md|has_value_for_mileage_from_odometer.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.protect.md|has_value_for_mileage_from_odometer.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.private.md|has_value_for_mileage_from_odometer.private]] 

@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_longitude.md|has_value_for_longitude]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_longitude.md|has_value_for_longitude]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_longitude.internal.md|has_value_for_longitude.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_longitude.protect.md|has_value_for_longitude.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_longitude.private.md|has_value_for_longitude.private]] 

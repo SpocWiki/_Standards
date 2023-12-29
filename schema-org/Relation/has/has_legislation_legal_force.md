@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: LegalForceStatus )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_legislation_legal_force.md|has_legislation_legal_force]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_legislation_legal_force.md|has_legislation_legal_force]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legislation_legal_force.internal.md|has_legislation_legal_force.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_legislation_legal_force.protect.md|has_legislation_legal_force.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_legislation_legal_force.private.md|has_legislation_legal_force.private]] 

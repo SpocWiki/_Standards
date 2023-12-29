@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalImagingTechnique )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_imaging_technique.md|has_imaging_technique]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_imaging_technique.md|has_imaging_technique]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_imaging_technique.internal.md|has_imaging_technique.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_imaging_technique.protect.md|has_imaging_technique.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_imaging_technique.private.md|has_imaging_technique.private]] 

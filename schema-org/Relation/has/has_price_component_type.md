@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: PriceComponentTypeEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_price_component_type.md|has_price_component_type]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_price_component_type.md|has_price_component_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_price_component_type.internal.md|has_price_component_type.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_price_component_type.protect.md|has_price_component_type.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_price_component_type.private.md|has_price_component_type.private]] 

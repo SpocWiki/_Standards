@@ -40,7 +40,7 @@ Text representing an XPath (typically but not necessarily version 1.0).
 [ #is_/sub_class_of :: [[../Text]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/data_type/text/x_path_type.md|x_path_type]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/text/x_path_type.md|x_path_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/x_path_type.internal.md|x_path_type.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/data_type/text/x_path_type.protect.md|x_path_type.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/data_type/text/x_path_type.private.md|x_path_type.private]] 

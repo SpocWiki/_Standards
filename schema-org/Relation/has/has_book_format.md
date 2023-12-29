@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: BookFormatType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_book_format.md|has_book_format]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_book_format.md|has_book_format]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_book_format.internal.md|has_book_format.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_book_format.protect.md|has_book_format.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_book_format.private.md|has_book_format.private]] 

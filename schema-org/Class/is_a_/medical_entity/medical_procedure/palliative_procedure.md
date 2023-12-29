@@ -43,7 +43,7 @@ A medical procedure intended primarily for palliative purposes, aimed at relievi
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.md|palliative_procedure]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.md|palliative_procedure]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.internal.md|palliative_procedure.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.protect.md|palliative_procedure.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_procedure/palliative_procedure.private.md|palliative_procedure.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_skills.md|has_skills]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_skills.md|has_skills]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_skills.internal.md|has_skills.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_skills.protect.md|has_skills.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_skills.private.md|has_skills.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ artMedium, surface ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_material.md|has_material]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_material.md|has_material]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_material.internal.md|has_material.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_material.protect.md|has_material.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_material.private.md|has_material.private]] 

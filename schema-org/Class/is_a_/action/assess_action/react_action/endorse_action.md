@@ -43,7 +43,7 @@ An agent approves/certifies/likes/supports/sanctions an object.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, endorsee, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/action/assess_action/react_action/endorse_action.md|endorse_action]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/assess_action/react_action/endorse_action.md|endorse_action]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action/endorse_action.internal.md|endorse_action.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/react_action/endorse_action.protect.md|endorse_action.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/react_action/endorse_action.private.md|endorse_action.private]] 

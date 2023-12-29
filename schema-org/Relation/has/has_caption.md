@@ -44,7 +44,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ embeddedTextCaption ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_caption.md|has_caption]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_caption.md|has_caption]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_caption.internal.md|has_caption.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_caption.protect.md|has_caption.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_caption.private.md|has_caption.private]] 

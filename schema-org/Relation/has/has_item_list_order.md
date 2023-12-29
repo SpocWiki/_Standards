@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: ItemListOrderType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_item_list_order.md|has_item_list_order]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_item_list_order.md|has_item_list_order]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_list_order.internal.md|has_item_list_order.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_item_list_order.protect.md|has_item_list_order.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_item_list_order.private.md|has_item_list_order.private]] 

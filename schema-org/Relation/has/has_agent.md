@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/range :: [Organization](../../Class/is_a_/organization.md), [Person](../../Class/is_a_/person.md) )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_agent.md|has_agent]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_agent.md|has_agent]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_agent.internal.md|has_agent.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_agent.protect.md|has_agent.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_agent.private.md|has_agent.private]] 

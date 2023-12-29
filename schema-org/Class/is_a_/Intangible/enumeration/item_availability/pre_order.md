@@ -45,7 +45,7 @@ Indicates that the item is available for pre-order.
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.md|pre_order]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_availability/pre_order.md|pre_order]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.internal.md|pre_order.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.protect.md|pre_order.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.private.md|pre_order.private]] 

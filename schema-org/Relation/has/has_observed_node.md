@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: StatisticalPopulation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_observed_node.md|has_observed_node]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_observed_node.md|has_observed_node]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_observed_node.internal.md|has_observed_node.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_observed_node.protect.md|has_observed_node.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_observed_node.private.md|has_observed_node.private]] 

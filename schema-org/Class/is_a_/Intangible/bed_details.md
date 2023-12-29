@@ -44,7 +44,7 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, numberOfBeds, potentialAction, sameAs, subjectOf, typeOfBed, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/bed_details.md|bed_details]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/bed_details.md|bed_details]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/bed_details.internal.md|bed_details.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/bed_details.protect.md|bed_details.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/bed_details.private.md|bed_details.private]] 

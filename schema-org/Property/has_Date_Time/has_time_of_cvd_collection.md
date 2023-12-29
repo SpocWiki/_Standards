@@ -46,7 +46,7 @@ Formal Predicate:
 (range::DateTime, Text)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.md|has_time_of_cvd_collection]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_cvd_collection.md|has_time_of_cvd_collection]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.internal.md|has_time_of_cvd_collection.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.protect.md|has_time_of_cvd_collection.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.private.md|has_time_of_cvd_collection.private]] 

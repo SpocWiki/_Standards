@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Brand, Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_brand.md|has_brand]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_brand.md|has_brand]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_brand.internal.md|has_brand.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_brand.protect.md|has_brand.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_brand.private.md|has_brand.private]] 

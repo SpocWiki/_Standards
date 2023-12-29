@@ -30,7 +30,7 @@ But since ValueTypes are fundamentally different from ReferenceTypes in Software
 it makes sense to also differentiate between [Property](Property.md) and [Relation](Relation.md). 
 
 ## Confidential Links & Embeds: 
-- [[../../../_public/schema.org/Predicate/Property.md|Property]] 
+- [[../../../_Standards/schema-org/Predicate/Property.md|Property]] 
 - [[../../../_internal/schema.org/Predicate/Property.internal.md|Property.internal]] 
 - [[../../../_protect/schema.org/Predicate/Property.protect.md|Property.protect]] 
 - [[../../../_private/schema.org/Predicate/Property.private.md|Property.private]] 

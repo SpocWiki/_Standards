@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_passenger_sequence_number.md|has_passenger_sequence_number]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_passenger_sequence_number.md|has_passenger_sequence_number]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_passenger_sequence_number.internal.md|has_passenger_sequence_number.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_passenger_sequence_number.protect.md|has_passenger_sequence_number.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_passenger_sequence_number.private.md|has_passenger_sequence_number.private]] 

@@ -43,7 +43,7 @@ The act of expressing a preference from a fixed/finite/structured set of choices
 [ #has_/properties :: [ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.md|vote_action]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.md|vote_action]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.internal.md|vote_action.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.protect.md|vote_action.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.private.md|vote_action.private]] 

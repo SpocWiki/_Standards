@@ -44,7 +44,7 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_owned_from.md|has_time_owned_from]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_owned_from.md|has_time_owned_from]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_owned_from.internal.md|has_time_owned_from.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_owned_from.protect.md|has_time_owned_from.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_owned_from.private.md|has_time_owned_from.private]] 

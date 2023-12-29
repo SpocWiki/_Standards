@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.md|has_value_for_suggested_max_age]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_suggested_max_age.md|has_value_for_suggested_max_age]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.internal.md|has_value_for_suggested_max_age.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.protect.md|has_value_for_suggested_max_age.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.private.md|has_value_for_suggested_max_age.private]] 

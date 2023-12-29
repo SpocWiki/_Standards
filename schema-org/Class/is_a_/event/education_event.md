@@ -43,7 +43,7 @@ Event type: Education event.
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, assesses, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, educationalLevel, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, teaches, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/event/education_event.md|education_event]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/event/education_event.md|education_event]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/event/education_event.internal.md|education_event.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/event/education_event.protect.md|education_event.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/event/education_event.private.md|education_event.private]] 

@@ -49,7 +49,7 @@ for background on the underlying concepts.
 [ #has_/properties :: [ acceptedPaymentMethod, addOn, additionalType, advanceBookingRequirement, aggregateRating, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, category, checkoutPageURLTemplate, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasMeasurement, hasMerchantReturnPolicy, identifier, image, includesObject, ineligibleRegion, inventoryLevel, isFamilyFriendly, itemCondition, itemOffered, leaseLength, mainEntityOfPage, mobileUrl, mpn, name, offeredBy, potentialAction, price, priceCurrency, priceSpecification, priceValidUntil, review, reviews, sameAs, seller, serialNumber, shippingDetails, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/offer/offer_for_lease.md|offer_for_lease]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/offer/offer_for_lease.md|offer_for_lease]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/offer/offer_for_lease.internal.md|offer_for_lease.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/offer/offer_for_lease.protect.md|offer_for_lease.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/offer/offer_for_lease.private.md|offer_for_lease.private]] 

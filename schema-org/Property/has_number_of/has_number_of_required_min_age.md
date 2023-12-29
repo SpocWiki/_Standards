@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_required_min_age.md|has_number_of_required_min_age]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_required_min_age.md|has_number_of_required_min_age]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_required_min_age.internal.md|has_number_of_required_min_age.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_required_min_age.protect.md|has_number_of_required_min_age.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_required_min_age.private.md|has_number_of_required_min_age.private]] 

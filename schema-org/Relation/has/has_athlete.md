@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_athlete.md|has_athlete]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_athlete.md|has_athlete]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_athlete.internal.md|has_athlete.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_athlete.protect.md|has_athlete.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_athlete.private.md|has_athlete.private]] 

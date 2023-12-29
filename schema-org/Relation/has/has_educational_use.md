@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_educational_use.md|has_educational_use]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_educational_use.md|has_educational_use]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_educational_use.internal.md|has_educational_use.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_educational_use.protect.md|has_educational_use.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_educational_use.private.md|has_educational_use.private]] 

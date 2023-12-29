@@ -43,7 +43,7 @@ A service to convert funds from one currency to another currency.
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/currency_conversion_service.md|currency_conversion_service]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/currency_conversion_service.md|currency_conversion_service]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/currency_conversion_service.internal.md|currency_conversion_service.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/currency_conversion_service.protect.md|currency_conversion_service.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/currency_conversion_service.private.md|currency_conversion_service.private]] 

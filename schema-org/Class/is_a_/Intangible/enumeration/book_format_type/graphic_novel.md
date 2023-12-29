@@ -45,7 +45,7 @@ Book format: [[graphic_novel]]. May represent a bound collection of [[../../../c
 [ #is_/enum_of :: [[../Book_Format_Type]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.md|graphic_novel]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.md|graphic_novel]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.internal.md|graphic_novel.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.protect.md|graphic_novel.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type/graphic_novel.private.md|graphic_novel.private]] 

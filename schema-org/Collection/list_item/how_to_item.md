@@ -45,7 +45,7 @@ An item used as either a tool or supply when performing the instructions for how
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/list_item/how_to_item.md|how_to_item]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/list_item/how_to_item.md|how_to_item]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/list_item/how_to_item.internal.md|how_to_item.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/list_item/how_to_item.protect.md|how_to_item.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/list_item/how_to_item.private.md|how_to_item.private]] 

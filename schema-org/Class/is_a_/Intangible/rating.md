@@ -44,7 +44,7 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/rating.md|rating]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/rating.md|rating]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/rating.internal.md|rating.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/rating.protect.md|rating.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/rating.private.md|rating.private]] 

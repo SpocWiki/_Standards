@@ -64,7 +64,7 @@ For example, using incorrect dates or locations, or sharing brief clips from a l
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.md|decontextualized_content]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.md|decontextualized_content]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.internal.md|decontextualized_content.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.protect.md|decontextualized_content.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.private.md|decontextualized_content.private]] 

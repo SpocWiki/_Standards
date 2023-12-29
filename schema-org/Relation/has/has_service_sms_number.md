@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: ContactPoint )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_service_sms_number.md|has_service_sms_number]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_service_sms_number.md|has_service_sms_number]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_service_sms_number.internal.md|has_service_sms_number.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_service_sms_number.protect.md|has_service_sms_number.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_service_sms_number.private.md|has_service_sms_number.private]] 

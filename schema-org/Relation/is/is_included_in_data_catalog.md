@@ -47,7 +47,7 @@ Relation describes that:
 [ #is_/inverse_of  :: dataset ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_included_in_data_catalog.md|is_included_in_data_catalog]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_included_in_data_catalog.md|is_included_in_data_catalog]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_included_in_data_catalog.internal.md|is_included_in_data_catalog.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_included_in_data_catalog.protect.md|is_included_in_data_catalog.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_included_in_data_catalog.private.md|is_included_in_data_catalog.private]] 

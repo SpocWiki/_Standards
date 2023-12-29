@@ -40,7 +40,7 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_discussing.md|is_discussing]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_discussing.md|is_discussing]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_discussing.internal.md|is_discussing.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_discussing.protect.md|is_discussing.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_discussing.private.md|is_discussing.private]] 

@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Duration)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_validity.md|has_duration_of_validity]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_validity.md|has_duration_of_validity]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_validity.internal.md|has_duration_of_validity.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_validity.protect.md|has_duration_of_validity.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_validity.private.md|has_duration_of_validity.private]] 

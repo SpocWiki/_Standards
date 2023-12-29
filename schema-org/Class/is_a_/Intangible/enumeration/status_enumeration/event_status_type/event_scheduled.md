@@ -45,7 +45,7 @@ The event is taking place or has taken place on the startDate as scheduled. Use 
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.md|event_scheduled]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.md|event_scheduled]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.internal.md|event_scheduled.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.protect.md|event_scheduled.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_scheduled.private.md|event_scheduled.private]] 

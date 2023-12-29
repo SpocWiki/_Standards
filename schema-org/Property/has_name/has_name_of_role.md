@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_name_of_role.md|has_name_of_role]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_role.md|has_name_of_role]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_role.internal.md|has_name_of_role.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_role.protect.md|has_name_of_role.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_name_of_role.private.md|has_name_of_role.private]] 

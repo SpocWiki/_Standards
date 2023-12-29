@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: RestrictedDiet )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_suitable_for_diet.md|has_suitable_for_diet]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_suitable_for_diet.md|has_suitable_for_diet]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_suitable_for_diet.internal.md|has_suitable_for_diet.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_suitable_for_diet.protect.md|has_suitable_for_diet.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_suitable_for_diet.private.md|has_suitable_for_diet.private]] 

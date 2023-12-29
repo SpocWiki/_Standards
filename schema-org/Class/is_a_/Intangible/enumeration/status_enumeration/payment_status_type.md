@@ -41,7 +41,7 @@ A specific payment status. For example, PaymentDue, PaymentComplete, etc.
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.md|payment_status_type]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.md|payment_status_type]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.internal.md|payment_status_type.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.protect.md|payment_status_type.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type.private.md|payment_status_type.private]] 

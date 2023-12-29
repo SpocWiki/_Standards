@@ -47,7 +47,7 @@ Content about the allergy-related aspects of a health topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.md|allergies_health_aspect]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.md|allergies_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.internal.md|allergies_health_aspect.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.protect.md|allergies_health_aspect.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/allergies_health_aspect.private.md|allergies_health_aspect.private]] 

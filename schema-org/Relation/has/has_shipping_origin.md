@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedRegion )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_shipping_origin.md|has_shipping_origin]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_shipping_origin.md|has_shipping_origin]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_shipping_origin.internal.md|has_shipping_origin.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_shipping_origin.protect.md|has_shipping_origin.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_shipping_origin.private.md|has_shipping_origin.private]] 

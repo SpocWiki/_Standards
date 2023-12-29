@@ -41,7 +41,7 @@ Data type: Floating number.
 [ #is_/sub_class_of :: [[../Number]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/data_type/number/float.md|float]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/number/float.md|float]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/number/float.internal.md|float.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/data_type/number/float.protect.md|float.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/data_type/number/float.private.md|float.private]] 

@@ -45,7 +45,7 @@ The status of a reservation on hold pending an update like credit card number or
 [ #is_/enum_of :: [[../ReservationStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.md|reservation_hold]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.md|reservation_hold]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.internal.md|reservation_hold.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.protect.md|reservation_hold.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_hold.private.md|reservation_hold.private]] 

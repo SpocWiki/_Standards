@@ -57,7 +57,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_entertain_title.md|has_id_entertain_title]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_entertain_title.md|has_id_entertain_title]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_entertain_title.internal.md|has_id_entertain_title.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_entertain_title.protect.md|has_id_entertain_title.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_entertain_title.private.md|has_id_entertain_title.private]] 

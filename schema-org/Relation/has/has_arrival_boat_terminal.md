@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: BoatTerminal )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_arrival_boat_terminal.md|has_arrival_boat_terminal]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_arrival_boat_terminal.md|has_arrival_boat_terminal]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_arrival_boat_terminal.internal.md|has_arrival_boat_terminal.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_arrival_boat_terminal.protect.md|has_arrival_boat_terminal.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_arrival_boat_terminal.private.md|has_arrival_boat_terminal.private]] 

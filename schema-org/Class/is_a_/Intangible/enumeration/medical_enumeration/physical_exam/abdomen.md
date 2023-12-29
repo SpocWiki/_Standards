@@ -43,7 +43,7 @@ Abdomen clinical examination.
 [ #is_/enum_of :: [[../Physical_Exam]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.md|abdomen]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.md|abdomen]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.internal.md|abdomen.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.protect.md|abdomen.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/abdomen.private.md|abdomen.private]] 

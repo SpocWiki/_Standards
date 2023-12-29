@@ -45,7 +45,7 @@ Book format: Ebook.
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.md|e_book]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/book_format_type/e_book.md|e_book]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.internal.md|e_book.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.protect.md|e_book.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.private.md|e_book.private]] 

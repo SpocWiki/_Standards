@@ -47,7 +47,7 @@ Indicates that a document has no particular or special standing (e.g. a republic
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.md|unofficial_legal_value]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.md|unofficial_legal_value]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.internal.md|unofficial_legal_value.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.protect.md|unofficial_legal_value.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.private.md|unofficial_legal_value.private]] 

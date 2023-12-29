@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Text, Vehicle )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_aircraft.md|has_aircraft]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_aircraft.md|has_aircraft]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_aircraft.internal.md|has_aircraft.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_aircraft.protect.md|has_aircraft.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_aircraft.private.md|has_aircraft.private]] 

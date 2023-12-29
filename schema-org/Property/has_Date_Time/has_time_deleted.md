@@ -45,7 +45,7 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_destroyed.md|has_time_destroyed]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_destroyed.md|has_time_destroyed]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_destroyed.internal.md|has_time_destroyed.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_destroyed.protect.md|has_time_destroyed.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_destroyed.private.md|has_time_destroyed.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_colorist.md|has_colorist]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_colorist.md|has_colorist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_colorist.internal.md|has_colorist.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_colorist.protect.md|has_colorist.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_colorist.private.md|has_colorist.private]] 

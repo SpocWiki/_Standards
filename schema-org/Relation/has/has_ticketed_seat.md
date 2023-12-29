@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Seat )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_ticketed_seat.md|has_ticketed_seat]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_ticketed_seat.md|has_ticketed_seat]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ticketed_seat.internal.md|has_ticketed_seat.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_ticketed_seat.protect.md|has_ticketed_seat.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_ticketed_seat.private.md|has_ticketed_seat.private]] 

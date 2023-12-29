@@ -43,7 +43,7 @@ Event type: Sports event.
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, awayTeam, competitor, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, homeTeam, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, sport, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/event/sports_event.md|sports_event]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/event/sports_event.md|sports_event]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/event/sports_event.internal.md|sports_event.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/event/sports_event.protect.md|sports_event.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/event/sports_event.private.md|sports_event.private]] 

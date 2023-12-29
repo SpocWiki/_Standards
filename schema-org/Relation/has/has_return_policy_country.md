@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Country, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_return_policy_country.md|has_return_policy_country]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_return_policy_country.md|has_return_policy_country]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_policy_country.internal.md|has_return_policy_country.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_return_policy_country.protect.md|has_return_policy_country.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_return_policy_country.private.md|has_return_policy_country.private]] 

@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_price_range.md|has_price_range]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_price_range.md|has_price_range]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_price_range.internal.md|has_price_range.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_price_range.protect.md|has_price_range.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_price_range.private.md|has_price_range.private]] 

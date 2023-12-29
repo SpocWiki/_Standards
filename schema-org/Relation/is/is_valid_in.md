@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: AdministrativeArea)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_valid_in.md|is_valid_in]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_valid_in.md|is_valid_in]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_valid_in.internal.md|is_valid_in.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_valid_in.protect.md|is_valid_in.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_valid_in.private.md|is_valid_in.private]] 

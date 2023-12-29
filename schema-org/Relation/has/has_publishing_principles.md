@@ -48,7 +48,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ actionableFeedbackPolicy, correctionsPolicy, diversityStaffingReport, masthead, missionCoveragePrioritiesPolicy, noBylinesPolicy, ownershipFundingInfo, unnamedSourcesPolicy, verificationFactCheckingPolicy ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_publishing_principles.md|has_publishing_principles]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_publishing_principles.md|has_publishing_principles]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publishing_principles.internal.md|has_publishing_principles.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_publishing_principles.protect.md|has_publishing_principles.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_publishing_principles.private.md|has_publishing_principles.private]] 

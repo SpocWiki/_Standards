@@ -43,7 +43,7 @@ A Property value specification.
 [ #has_/properties :: [ additionalType, alternateName, defaultValue, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, multipleValues, name, potentialAction, readonlyValue, sameAs, stepValue, subjectOf, url, valueMaxLength, valueMinLength, valueName, valuePattern, valueRequired ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/property_value_specification.md|property_value_specification]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/property_value_specification.md|property_value_specification]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/property_value_specification.internal.md|property_value_specification.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/property_value_specification.protect.md|property_value_specification.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/property_value_specification.private.md|property_value_specification.private]] 

@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_box.md|has_box]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_box.md|has_box]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_box.internal.md|has_box.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_box.protect.md|has_box.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_box.private.md|has_box.private]] 

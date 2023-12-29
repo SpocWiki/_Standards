@@ -43,7 +43,7 @@ The act of resuming a device or application which was formerly paused (e.g. resu
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/control_action/resume_action.md|resume_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/control_action/resume_action.md|resume_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/control_action/resume_action.internal.md|resume_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/control_action/resume_action.protect.md|resume_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/control_action/resume_action.private.md|resume_action.private]] 

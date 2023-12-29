@@ -44,7 +44,7 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_web_checkin.md|has_time_of_web_checkin]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_web_checkin.md|has_time_of_web_checkin]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_web_checkin.internal.md|has_time_of_web_checkin.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_web_checkin.protect.md|has_time_of_web_checkin.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_web_checkin.private.md|has_time_of_web_checkin.private]] 

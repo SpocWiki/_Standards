@@ -46,7 +46,7 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Flags/is_live.md|is_live]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_live.md|is_live]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_live.internal.md|is_live.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Flags/is_live.protect.md|is_live.protect]] 
 - [[../../../../_private/schema.org/Predicate/Flags/is_live.private.md|is_live.private]] 

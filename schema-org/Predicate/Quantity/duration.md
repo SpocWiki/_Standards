@@ -45,7 +45,7 @@ Quantity: Duration (use <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/quantity/duration.md|duration]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity/duration.md|duration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/quantity/duration.internal.md|duration.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/quantity/duration.protect.md|duration.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/quantity/duration.private.md|duration.private]] 

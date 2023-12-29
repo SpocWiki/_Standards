@@ -47,7 +47,7 @@ NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institut
 [ #is_/enum_of :: [[../NLNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.md|nonprofit_sbbi]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.md|nonprofit_sbbi]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.internal.md|nonprofit_sbbi.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.protect.md|nonprofit_sbbi.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.private.md|nonprofit_sbbi.private]] 

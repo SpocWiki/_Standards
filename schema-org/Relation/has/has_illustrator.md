@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_illustrator.md|has_illustrator]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_illustrator.md|has_illustrator]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_illustrator.internal.md|has_illustrator.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_illustrator.protect.md|has_illustrator.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_illustrator.private.md|has_illustrator.private]] 

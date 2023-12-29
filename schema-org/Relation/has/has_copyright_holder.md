@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_copyright_holder.md|has_copyright_holder]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_copyright_holder.md|has_copyright_holder]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_copyright_holder.internal.md|has_copyright_holder.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_copyright_holder.protect.md|has_copyright_holder.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_copyright_holder.private.md|has_copyright_holder.private]] 

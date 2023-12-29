@@ -47,7 +47,7 @@ Inside leg (measured between crotch and soles of feet). Used, for example, to fi
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.md|body_measurement_inside_leg]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.md|body_measurement_inside_leg]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.internal.md|body_measurement_inside_leg.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.protect.md|body_measurement_inside_leg.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_inside_leg.private.md|body_measurement_inside_leg.private]] 

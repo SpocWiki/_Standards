@@ -59,7 +59,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_weight_total_kg.md|has_value_for_weight_total_kg]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_weight_total_kg.md|has_value_for_weight_total_kg]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_weight_total_kg.internal.md|has_value_for_weight_total_kg.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_weight_total_kg.protect.md|has_value_for_weight_total_kg.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_weight_total_kg.private.md|has_value_for_weight_total_kg.private]] 

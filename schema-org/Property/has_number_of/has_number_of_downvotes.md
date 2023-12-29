@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_downvotes.md|has_number_of_downvotes]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_downvotes.md|has_number_of_downvotes]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_downvotes.internal.md|has_number_of_downvotes.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_downvotes.protect.md|has_number_of_downvotes.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_downvotes.private.md|has_number_of_downvotes.private]] 

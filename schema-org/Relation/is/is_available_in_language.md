@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: [[../../../Class/is_a_thing/intangible/language]], Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_available_in_language.md|is_available_in_language]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_available_in_language.md|is_available_in_language]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_available_in_language.internal.md|is_available_in_language.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_available_in_language.protect.md|is_available_in_language.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_available_in_language.private.md|is_available_in_language.private]] 

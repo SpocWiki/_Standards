@@ -48,7 +48,7 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Flags/is_unlabelled_fallback.md|is_unlabelled_fallback]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_unlabelled_fallback.md|is_unlabelled_fallback]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_unlabelled_fallback.internal.md|is_unlabelled_fallback.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Flags/is_unlabelled_fallback.protect.md|is_unlabelled_fallback.protect]] 
 - [[../../../../_private/schema.org/Predicate/Flags/is_unlabelled_fallback.private.md|is_unlabelled_fallback.private]] 

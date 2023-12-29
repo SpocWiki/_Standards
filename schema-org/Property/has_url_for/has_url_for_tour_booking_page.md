@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_tour_booking_page.md|has_url_for_tour_booking_page]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_tour_booking_page.md|has_url_for_tour_booking_page]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_tour_booking_page.internal.md|has_url_for_tour_booking_page.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_tour_booking_page.protect.md|has_url_for_tour_booking_page.protect]] 
 - [[../../../../_private/schema.org/Predicate/Urls/has_url_for_tour_booking_page.private.md|has_url_for_tour_booking_page.private]] 

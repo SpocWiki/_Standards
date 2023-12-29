@@ -45,7 +45,7 @@ Any object used in a medical capacity, such as to diagnose or treat a patient.
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, code, contraindication, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, postOp, potentialAction, preOp, procedure, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_device.md|medical_device]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_device.md|medical_device]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_device.internal.md|medical_device.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_device.protect.md|medical_device.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_device.private.md|medical_device.private]] 

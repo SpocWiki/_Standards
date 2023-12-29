@@ -47,7 +47,7 @@ Represents the cleaning fee part of the total price for an offered product, for 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.md|cleaning_fee]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.md|cleaning_fee]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.internal.md|cleaning_fee.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.protect.md|cleaning_fee.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/cleaning_fee.private.md|cleaning_fee.private]] 

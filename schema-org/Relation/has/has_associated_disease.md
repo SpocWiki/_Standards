@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: MedicalCondition, PropertyValue, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_associated_disease.md|has_associated_disease]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_associated_disease.md|has_associated_disease]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_disease.internal.md|has_associated_disease.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_disease.protect.md|has_associated_disease.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_disease.private.md|has_associated_disease.private]] 

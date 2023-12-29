@@ -43,7 +43,7 @@ An airline flight.
 [ #has_/properties :: [ additionalType, aircraft, alternateName, arrivalAirport, arrivalGate, arrivalTerminal, arrivalTime, boardingPolicy, carrier, departureAirport, departureGate, departureTerminal, departureTime, description, disambiguatingDescription, estimatedFlightDuration, flightDistance, flightNumber, identifier, image, itinerary, mainEntityOfPage, mealService, name, offers, partOfTrip, potentialAction, provider, sameAs, seller, subTrip, subjectOf, url, webCheckinTime ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/trip/flight.md|flight]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/trip/flight.md|flight]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/trip/flight.internal.md|flight.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/trip/flight.protect.md|flight.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/trip/flight.private.md|flight.private]] 

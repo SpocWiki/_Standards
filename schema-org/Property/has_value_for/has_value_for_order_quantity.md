@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_order_quantity.md|has_value_for_order_quantity]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_order_quantity.md|has_value_for_order_quantity]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_order_quantity.internal.md|has_value_for_order_quantity.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_order_quantity.protect.md|has_value_for_order_quantity.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_order_quantity.private.md|has_value_for_order_quantity.private]] 

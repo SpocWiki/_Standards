@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_sport.md|has_sport]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_sport.md|has_sport]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_sport.internal.md|has_sport.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_sport.protect.md|has_sport.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_sport.private.md|has_sport.private]] 

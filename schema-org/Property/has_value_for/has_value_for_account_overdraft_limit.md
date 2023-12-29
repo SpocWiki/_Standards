@@ -49,7 +49,7 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.md|has_value_for_account_overdraft_limit]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_account_overdraft_limit.md|has_value_for_account_overdraft_limit]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.internal.md|has_value_for_account_overdraft_limit.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.protect.md|has_value_for_account_overdraft_limit.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.private.md|has_value_for_account_overdraft_limit.private]] 

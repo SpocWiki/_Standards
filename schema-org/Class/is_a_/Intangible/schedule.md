@@ -48,7 +48,7 @@ A schedule defines a repeating time period used to describe a regularly occurrin
 [ #has_/properties :: [ additionalType, alternateName, byDay, byMonth, byMonthDay, byMonthWeek, description, disambiguatingDescription, duration, endDate, endTime, exceptDate, identifier, image, mainEntityOfPage, name, potentialAction, repeatCount, repeatFrequency, sameAs, scheduleTimezone, startDate, startTime, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/schedule.md|schedule]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/schedule.md|schedule]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/schedule.internal.md|schedule.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/schedule.protect.md|schedule.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/schedule.private.md|schedule.private]] 

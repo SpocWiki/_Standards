@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_job_benefits.md|has_job_benefits]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_job_benefits.md|has_job_benefits]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_job_benefits.internal.md|has_job_benefits.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_job_benefits.protect.md|has_job_benefits.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_job_benefits.private.md|has_job_benefits.private]] 

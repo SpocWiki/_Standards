@@ -50,7 +50,7 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/transfer_action/take_action.md|take_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/transfer_action/take_action.md|take_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/transfer_action/take_action.internal.md|take_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/transfer_action/take_action.protect.md|take_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/transfer_action/take_action.private.md|take_action.private]] 

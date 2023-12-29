@@ -47,7 +47,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_corrections_policy.md|has_corrections_policy]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_corrections_policy.md|has_corrections_policy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_corrections_policy.internal.md|has_corrections_policy.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_corrections_policy.protect.md|has_corrections_policy.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_corrections_policy.private.md|has_corrections_policy.private]] 

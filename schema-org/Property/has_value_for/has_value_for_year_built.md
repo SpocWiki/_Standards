@@ -48,7 +48,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_year_built.md|has_value_for_year_built]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_year_built.md|has_value_for_year_built]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_year_built.internal.md|has_value_for_year_built.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_year_built.protect.md|has_value_for_year_built.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_year_built.private.md|has_value_for_year_built.private]] 

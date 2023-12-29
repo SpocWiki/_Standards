@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_comment.md|has_time_of_comment]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_comment.md|has_time_of_comment]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_comment.internal.md|has_time_of_comment.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_comment.protect.md|has_time_of_comment.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_comment.private.md|has_time_of_comment.private]] 

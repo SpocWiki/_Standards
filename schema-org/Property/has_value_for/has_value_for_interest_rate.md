@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_interest_rate.md|has_value_for_interest_rate]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_interest_rate.md|has_value_for_interest_rate]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_interest_rate.internal.md|has_value_for_interest_rate.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_interest_rate.protect.md|has_value_for_interest_rate.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_interest_rate.private.md|has_value_for_interest_rate.private]] 

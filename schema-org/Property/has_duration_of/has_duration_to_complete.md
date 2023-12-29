@@ -46,7 +46,7 @@ Formal Predicate:
 (range::Duration)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration_to_complete.md|has_duration_to_complete]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_to_complete.md|has_duration_to_complete]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_to_complete.internal.md|has_duration_to_complete.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration_to_complete.protect.md|has_duration_to_complete.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration_to_complete.private.md|has_duration_to_complete.private]] 

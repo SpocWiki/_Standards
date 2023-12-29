@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Time )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_opening_at.md|is_opening_at]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_opening_at.md|is_opening_at]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_opening_at.internal.md|is_opening_at.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_opening_at.protect.md|is_opening_at.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_opening_at.private.md|is_opening_at.private]] 

@@ -45,7 +45,7 @@ Relation describes that:
 #is_/similar_to :: [[../has/has_next_item|has_next_item]]  
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_predecessor_of.md|is_predecessor_of]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_predecessor_of.md|is_predecessor_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_predecessor_of.internal.md|is_predecessor_of.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_predecessor_of.protect.md|is_predecessor_of.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_predecessor_of.private.md|is_predecessor_of.private]] 

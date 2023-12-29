@@ -46,7 +46,7 @@ Relation describes that:
 [ #is_/inverse_of  :: subTrip ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_part_of_trip.md|is_part_of_trip]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_part_of_trip.md|is_part_of_trip]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_trip.internal.md|is_part_of_trip.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_trip.protect.md|is_part_of_trip.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_trip.private.md|is_part_of_trip.private]] 

@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_margin_of_error.md|has_value_for_margin_of_error]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_margin_of_error.md|has_value_for_margin_of_error]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_margin_of_error.internal.md|has_value_for_margin_of_error.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_margin_of_error.protect.md|has_value_for_margin_of_error.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_margin_of_error.private.md|has_value_for_margin_of_error.private]] 

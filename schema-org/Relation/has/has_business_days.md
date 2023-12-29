@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: OpeningHoursSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_business_days.md|has_business_days]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_business_days.md|has_business_days]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_business_days.internal.md|has_business_days.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_business_days.protect.md|has_business_days.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_business_days.private.md|has_business_days.private]] 

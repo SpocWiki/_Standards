@@ -41,7 +41,7 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.md|medical_code]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/defined_term/category_code/medical_code.md|medical_code]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.internal.md|medical_code.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.protect.md|medical_code.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.private.md|medical_code.private]] 

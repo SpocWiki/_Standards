@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_dissolution.md|has_time_of_dissolution]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_dissolution.md|has_time_of_dissolution]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_dissolution.internal.md|has_time_of_dissolution.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_dissolution.protect.md|has_time_of_dissolution.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_dissolution.private.md|has_time_of_dissolution.private]] 

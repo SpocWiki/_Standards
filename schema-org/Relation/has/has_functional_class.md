@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalEntity, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_functional_class.md|has_functional_class]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_functional_class.md|has_functional_class]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_functional_class.internal.md|has_functional_class.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_functional_class.protect.md|has_functional_class.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_functional_class.private.md|has_functional_class.private]] 

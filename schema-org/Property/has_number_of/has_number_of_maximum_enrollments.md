@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.md|has_number_of_maximum_enrollments]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_maximum_enrollments.md|has_number_of_maximum_enrollments]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.internal.md|has_number_of_maximum_enrollments.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.protect.md|has_number_of_maximum_enrollments.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.private.md|has_number_of_maximum_enrollments.private]] 

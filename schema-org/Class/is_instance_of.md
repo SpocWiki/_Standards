@@ -77,7 +77,7 @@ to the actual Class Definition harder.
 ( #has_/range :: Class)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Relations/is_instance_of.md|is_instance_of]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_instance_of.md|is_instance_of]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/is_instance_of.internal.md|is_instance_of.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Relations/is_instance_of.protect.md|is_instance_of.protect]] 
 - [[../../../../_private/schema.org/Predicate/Relations/is_instance_of.private.md|is_instance_of.private]] 

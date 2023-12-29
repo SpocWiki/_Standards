@@ -46,7 +46,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.md|has_verification_fact_checking_policy]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_verification_fact_checking_policy.md|has_verification_fact_checking_policy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.internal.md|has_verification_fact_checking_policy.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.protect.md|has_verification_fact_checking_policy.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_verification_fact_checking_policy.private.md|has_verification_fact_checking_policy.private]] 

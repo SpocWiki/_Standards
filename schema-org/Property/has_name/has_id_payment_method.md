@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_payment_method.md|has_id_payment_method]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_payment_method.md|has_id_payment_method]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_payment_method.internal.md|has_id_payment_method.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_payment_method.protect.md|has_id_payment_method.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_payment_method.private.md|has_id_payment_method.private]] 

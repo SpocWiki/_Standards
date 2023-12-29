@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_membership.md|has_id_membership]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_membership.md|has_id_membership]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_membership.internal.md|has_id_membership.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_membership.protect.md|has_id_membership.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_membership.private.md|has_id_membership.private]] 

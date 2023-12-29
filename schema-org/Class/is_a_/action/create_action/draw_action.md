@@ -43,7 +43,7 @@ The act of producing a visual/graphical representation of an object, typically w
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/create_action/draw_action.md|draw_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/draw_action.md|draw_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/draw_action.internal.md|draw_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/draw_action.protect.md|draw_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/draw_action.private.md|draw_action.private]] 

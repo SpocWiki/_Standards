@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: ActionStatusType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_action_status.md|has_action_status]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_action_status.md|has_action_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_status.internal.md|has_action_status.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_action_status.protect.md|has_action_status.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_action_status.private.md|has_action_status.private]] 

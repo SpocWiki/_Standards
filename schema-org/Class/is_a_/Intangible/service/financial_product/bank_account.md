@@ -45,7 +45,7 @@ A product or service offered by a bank whereby one may deposit, withdraw or tran
 [ #has_/properties :: [ accountMinimumInflow, accountOverdraftLimit, additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, bankAccountType, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/bank_account.md|bank_account]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/bank_account.md|bank_account]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/bank_account.internal.md|bank_account.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/bank_account.protect.md|bank_account.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/bank_account.private.md|bank_account.private]] 

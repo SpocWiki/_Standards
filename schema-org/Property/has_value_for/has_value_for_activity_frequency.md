@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_activity_frequency.md|has_value_for_activity_frequency]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_activity_frequency.md|has_value_for_activity_frequency]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_activity_frequency.internal.md|has_value_for_activity_frequency.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_activity_frequency.protect.md|has_value_for_activity_frequency.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_activity_frequency.private.md|has_value_for_activity_frequency.private]] 

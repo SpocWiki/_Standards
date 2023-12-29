@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_following.md|is_following]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_following.md|is_following]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_following.internal.md|is_following.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_following.protect.md|is_following.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_following.private.md|is_following.private]] 

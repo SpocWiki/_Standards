@@ -52,7 +52,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_code_of_sample_type.md|has_code_of_sample_type]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_of_sample_type.md|has_code_of_sample_type]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_code_of_sample_type.internal.md|has_code_of_sample_type.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_code_of_sample_type.protect.md|has_code_of_sample_type.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_code_of_sample_type.private.md|has_code_of_sample_type.private]] 

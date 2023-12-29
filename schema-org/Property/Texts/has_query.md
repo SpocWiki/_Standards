@@ -47,7 +47,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_query.md|has_query]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_query.md|has_query]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_query.internal.md|has_query.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_query.protect.md|has_query.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_query.private.md|has_query.private]] 

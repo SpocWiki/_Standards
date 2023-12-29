@@ -43,7 +43,7 @@ The act of capturing still images of objects using a camera.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/create_action/photograph_action.md|photograph_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/photograph_action.md|photograph_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/photograph_action.internal.md|photograph_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/photograph_action.protect.md|photograph_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/photograph_action.private.md|photograph_action.private]] 

@@ -47,7 +47,7 @@ While a ProductGroup itself is not directly offered for sale, the various varyin
 [ #has_/properties :: [ additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, brand, category, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, funding, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, hasVariant, height, identifier, image, inProductGroupWithID, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, logo, mainEntityOfPage, manufacturer, material, mobileUrl, model, mpn, name, negativeNotes, nsn, offers, pattern, positiveNotes, potentialAction, productGroupID, productID, productionDate, purchaseDate, releaseDate, review, reviews, sameAs, size, sku, slogan, subjectOf, url, variesBy, weight, width ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/product/product_group.md|product_group]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/product/product_group.md|product_group]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/product/product_group.internal.md|product_group.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/product/product_group.protect.md|product_group.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/product/product_group.private.md|product_group.private]] 

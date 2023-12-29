@@ -41,7 +41,7 @@ Data type: Integer.
 [ #is_/sub_class_of :: [[../Number]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/data_type/number/integer.md|integer]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/number/integer.md|integer]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/number/integer.internal.md|integer.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/data_type/number/integer.protect.md|integer.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/data_type/number/integer.private.md|integer.private]] 

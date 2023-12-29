@@ -41,7 +41,7 @@ Enumerated options related to a ContactPoint.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/contact_point_option.md|contact_point_option]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/contact_point_option.md|contact_point_option]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/contact_point_option.internal.md|contact_point_option.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/contact_point_option.protect.md|contact_point_option.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/contact_point_option.private.md|contact_point_option.private]] 

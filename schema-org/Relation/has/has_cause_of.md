@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalEntity )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_cause_of.md|has_cause_of]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_cause_of.md|has_cause_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cause_of.internal.md|has_cause_of.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_cause_of.protect.md|has_cause_of.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_cause_of.private.md|has_cause_of.private]] 

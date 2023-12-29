@@ -41,7 +41,7 @@ Systems of medical practice.
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.md|medicine_system]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.md|medicine_system]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.internal.md|medicine_system.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.protect.md|medicine_system.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.private.md|medicine_system.private]] 

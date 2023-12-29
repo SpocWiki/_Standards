@@ -46,7 +46,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ hasCategoryCode ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_defined_term.md|has_defined_term]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_defined_term.md|has_defined_term]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_defined_term.internal.md|has_defined_term.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_defined_term.protect.md|has_defined_term.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_defined_term.private.md|has_defined_term.private]] 

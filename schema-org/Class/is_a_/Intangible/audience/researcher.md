@@ -43,7 +43,7 @@ Researchers.
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/audience/researcher.md|researcher]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/audience/researcher.md|researcher]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/researcher.internal.md|researcher.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/researcher.protect.md|researcher.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/audience/researcher.private.md|researcher.private]] 

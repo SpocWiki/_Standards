@@ -43,7 +43,7 @@ The act of momentarily pausing a device or application (e.g. pause music playbac
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/control_action/suspend_action.md|suspend_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/control_action/suspend_action.md|suspend_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/control_action/suspend_action.internal.md|suspend_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/control_action/suspend_action.protect.md|suspend_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/control_action/suspend_action.private.md|suspend_action.private]] 

@@ -46,7 +46,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_legislation_version.md|has_time_of_legislation_version]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_legislation_version.md|has_time_of_legislation_version]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_legislation_version.internal.md|has_time_of_legislation_version.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_legislation_version.protect.md|has_time_of_legislation_version.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_legislation_version.private.md|has_time_of_legislation_version.private]] 

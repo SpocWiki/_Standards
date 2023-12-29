@@ -49,7 +49,7 @@ Relation describes that:
 ( #has_/range :: Legislation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.md|is_legislation_consolidated_from]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_legislation_consolidated_from.md|is_legislation_consolidated_from]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.internal.md|is_legislation_consolidated_from.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.protect.md|is_legislation_consolidated_from.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.private.md|is_legislation_consolidated_from.private]] 

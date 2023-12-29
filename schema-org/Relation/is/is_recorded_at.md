@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/inverse_of  :: recordedIn ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_recorded_at.md|is_recorded_at]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_recorded_at.md|is_recorded_at]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_recorded_at.internal.md|is_recorded_at.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_recorded_at.protect.md|is_recorded_at.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_recorded_at.private.md|is_recorded_at.private]] 

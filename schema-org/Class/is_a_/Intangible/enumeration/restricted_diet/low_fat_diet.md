@@ -45,7 +45,7 @@ A diet focused on reduced fat and cholesterol intake.
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_fat_diet.md|low_fat_diet]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/low_fat_diet.md|low_fat_diet]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_fat_diet.internal.md|low_fat_diet.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_fat_diet.protect.md|low_fat_diet.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/low_fat_diet.private.md|low_fat_diet.private]] 

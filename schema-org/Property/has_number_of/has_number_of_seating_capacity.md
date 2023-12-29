@@ -51,7 +51,7 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_seating_capacity.md|has_number_of_seating_capacity]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_seating_capacity.md|has_number_of_seating_capacity]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_seating_capacity.internal.md|has_number_of_seating_capacity.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_seating_capacity.protect.md|has_number_of_seating_capacity.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_seating_capacity.private.md|has_number_of_seating_capacity.private]] 

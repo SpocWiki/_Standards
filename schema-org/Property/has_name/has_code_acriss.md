@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_code_acriss.md|has_code_acriss]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_acriss.md|has_code_acriss]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_code_acriss.internal.md|has_code_acriss.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_code_acriss.protect.md|has_code_acriss.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_code_acriss.private.md|has_code_acriss.private]] 

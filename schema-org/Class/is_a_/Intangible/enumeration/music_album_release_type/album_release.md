@@ -45,7 +45,7 @@ AlbumRelease.
 [ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.md|album_release]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.md|album_release]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.internal.md|album_release.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.protect.md|album_release.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.private.md|album_release.private]] 

@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_alcohol_warning.md|has_alcohol_warning]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_alcohol_warning.md|has_alcohol_warning]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_alcohol_warning.internal.md|has_alcohol_warning.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_alcohol_warning.protect.md|has_alcohol_warning.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_alcohol_warning.private.md|has_alcohol_warning.private]] 

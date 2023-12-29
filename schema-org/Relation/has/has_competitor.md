@@ -44,7 +44,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ awayTeam, homeTeam ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_competitor.md|has_competitor]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_competitor.md|has_competitor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_competitor.internal.md|has_competitor.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_competitor.protect.md|has_competitor.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_competitor.private.md|has_competitor.private]] 

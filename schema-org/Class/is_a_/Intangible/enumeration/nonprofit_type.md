@@ -45,7 +45,7 @@ NonprofitType enumerates several kinds of official non-profit types of which a n
 [ #has_/sub_classes :: [ NLNonprofitType, UKNonprofitType, USNonprofitType ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type.md|nonprofit_type]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type.md|nonprofit_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type.internal.md|nonprofit_type.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type.protect.md|nonprofit_type.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type.private.md|nonprofit_type.private]] 

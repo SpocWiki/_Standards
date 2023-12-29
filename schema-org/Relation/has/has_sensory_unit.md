@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, SuperficialAnatomy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_sensory_unit.md|has_sensory_unit]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sensory_unit.md|has_sensory_unit]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sensory_unit.internal.md|has_sensory_unit.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sensory_unit.protect.md|has_sensory_unit.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_sensory_unit.private.md|has_sensory_unit.private]] 

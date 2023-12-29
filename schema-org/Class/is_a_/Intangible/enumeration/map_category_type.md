@@ -41,7 +41,7 @@ An enumeration of several kinds of Map.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/map_category_type.md|map_category_type]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/map_category_type.md|map_category_type]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/map_category_type.internal.md|map_category_type.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/map_category_type.protect.md|map_category_type.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/map_category_type.private.md|map_category_type.private]] 

@@ -46,7 +46,7 @@ Formal Predicate:
 (range::Duration, QuantitativeValue)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_lease.md|has_duration_of_lease]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_lease.md|has_duration_of_lease]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_lease.internal.md|has_duration_of_lease.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_lease.protect.md|has_duration_of_lease.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_lease.private.md|has_duration_of_lease.private]] 

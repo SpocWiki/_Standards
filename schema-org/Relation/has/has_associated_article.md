@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: NewsArticle )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_associated_article.md|has_associated_article]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_associated_article.md|has_associated_article]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_article.internal.md|has_associated_article.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_article.protect.md|has_associated_article.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_article.private.md|has_associated_article.private]] 

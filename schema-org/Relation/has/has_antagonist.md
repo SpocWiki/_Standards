@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Muscle )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_antagonist.md|has_antagonist]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_antagonist.md|has_antagonist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_antagonist.internal.md|has_antagonist.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_antagonist.protect.md|has_antagonist.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_antagonist.private.md|has_antagonist.private]] 

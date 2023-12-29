@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalTest )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_available_test.md|has_available_test]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_available_test.md|has_available_test]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_test.internal.md|has_available_test.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_available_test.protect.md|has_available_test.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_available_test.private.md|has_available_test.private]] 

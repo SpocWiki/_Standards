@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_translator.md|has_translator]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_translator.md|has_translator]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_translator.internal.md|has_translator.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_translator.protect.md|has_translator.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_translator.private.md|has_translator.private]] 

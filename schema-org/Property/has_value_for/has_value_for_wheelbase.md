@@ -51,7 +51,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_wheelbase.md|has_value_for_wheelbase]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_wheelbase.md|has_value_for_wheelbase]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_wheelbase.internal.md|has_value_for_wheelbase.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_wheelbase.protect.md|has_value_for_wheelbase.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_wheelbase.private.md|has_value_for_wheelbase.private]] 

@@ -45,7 +45,7 @@ A designation that the drug in question has not been assigned a pregnancy catego
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.md|fd_anot_evaluated]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.md|fd_anot_evaluated]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.internal.md|fd_anot_evaluated.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.protect.md|fd_anot_evaluated.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_anot_evaluated.private.md|fd_anot_evaluated.private]] 

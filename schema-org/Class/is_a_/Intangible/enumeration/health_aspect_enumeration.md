@@ -43,7 +43,7 @@ HealthAspectEnumeration enumerates several aspects of health content online, eac
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.md|health_aspect_enumeration]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.md|health_aspect_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.internal.md|health_aspect_enumeration.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.protect.md|health_aspect_enumeration.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration.private.md|health_aspect_enumeration.private]] 

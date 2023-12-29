@@ -46,7 +46,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: actor ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_read_by.md|has_read_by]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_read_by.md|has_read_by]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_read_by.internal.md|has_read_by.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_read_by.protect.md|has_read_by.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_read_by.private.md|has_read_by.private]] 

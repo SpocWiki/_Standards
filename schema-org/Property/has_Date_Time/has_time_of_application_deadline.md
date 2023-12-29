@@ -46,7 +46,7 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_of_application_deadline.md|has_time_of_application_deadline]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_application_deadline.md|has_time_of_application_deadline]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_application_deadline.internal.md|has_time_of_application_deadline.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_application_deadline.protect.md|has_time_of_application_deadline.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_application_deadline.private.md|has_time_of_application_deadline.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: OwnershipInfo, Product )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_owns.md|has_owns]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_owns.md|has_owns]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_owns.internal.md|has_owns.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_owns.protect.md|has_owns.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_owns.private.md|has_owns.private]] 

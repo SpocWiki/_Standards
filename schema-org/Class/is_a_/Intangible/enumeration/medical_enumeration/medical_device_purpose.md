@@ -41,7 +41,7 @@ Categories of medical devices, organized by the purpose or intended use of the d
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose.md|medical_device_purpose]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose.md|medical_device_purpose]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose.internal.md|medical_device_purpose.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose.protect.md|medical_device_purpose.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_device_purpose.private.md|medical_device_purpose.private]] 

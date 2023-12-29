@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_body_type.md|has_body_type]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_body_type.md|has_body_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_body_type.internal.md|has_body_type.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_body_type.protect.md|has_body_type.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_body_type.private.md|has_body_type.private]] 

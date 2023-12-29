@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_sports_event.md|has_sports_event]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sports_event.md|has_sports_event]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sports_event.internal.md|has_sports_event.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sports_event.protect.md|has_sports_event.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_sports_event.private.md|has_sports_event.private]] 

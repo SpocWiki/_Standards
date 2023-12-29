@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_code_of_course.md|has_code_of_course]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_of_course.md|has_code_of_course]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_code_of_course.internal.md|has_code_of_course.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_code_of_course.protect.md|has_code_of_course.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_code_of_course.private.md|has_code_of_course.private]] 

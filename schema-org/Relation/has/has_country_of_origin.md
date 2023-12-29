@@ -50,7 +50,7 @@ Relation describes that:
 ( #has_/range :: Country )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_country_of_origin.md|has_country_of_origin]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_country_of_origin.md|has_country_of_origin]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_country_of_origin.internal.md|has_country_of_origin.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_country_of_origin.protect.md|has_country_of_origin.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_country_of_origin.private.md|has_country_of_origin.private]] 

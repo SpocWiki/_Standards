@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalEvidenceLevel )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_evidence_level.md|has_evidence_level]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_evidence_level.md|has_evidence_level]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_evidence_level.internal.md|has_evidence_level.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_evidence_level.protect.md|has_evidence_level.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_evidence_level.private.md|has_evidence_level.private]] 

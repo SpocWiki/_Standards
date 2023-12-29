@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MusicReleaseFormatType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_music_release_format.md|has_music_release_format]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_music_release_format.md|has_music_release_format]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_music_release_format.internal.md|has_music_release_format.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_music_release_format.protect.md|has_music_release_format.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_music_release_format.private.md|has_music_release_format.private]] 

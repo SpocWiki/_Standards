@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: SteeringPositionValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_steering_position.md|has_steering_position]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_steering_position.md|has_steering_position]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_steering_position.internal.md|has_steering_position.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_steering_position.protect.md|has_steering_position.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_steering_position.private.md|has_steering_position.private]] 

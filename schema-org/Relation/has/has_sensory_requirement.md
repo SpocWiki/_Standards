@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_sensory_requirement.md|has_sensory_requirement]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sensory_requirement.md|has_sensory_requirement]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sensory_requirement.internal.md|has_sensory_requirement.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sensory_requirement.protect.md|has_sensory_requirement.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_sensory_requirement.private.md|has_sensory_requirement.private]] 

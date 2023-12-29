@@ -47,7 +47,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ availableAtOrFrom, eligibleRegion ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_area_served.md|has_area_served]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_area_served.md|has_area_served]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_area_served.internal.md|has_area_served.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_area_served.protect.md|has_area_served.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_area_served.private.md|has_area_served.private]] 

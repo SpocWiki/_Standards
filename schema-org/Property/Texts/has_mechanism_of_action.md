@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_mechanism_of_action.md|has_mechanism_of_action]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_mechanism_of_action.md|has_mechanism_of_action]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_mechanism_of_action.internal.md|has_mechanism_of_action.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_mechanism_of_action.protect.md|has_mechanism_of_action.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_mechanism_of_action.private.md|has_mechanism_of_action.private]] 

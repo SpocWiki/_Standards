@@ -43,7 +43,7 @@ Enumeration of considerations that make a product relevant or potentially restri
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.md|adult_oriented_enumeration]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.md|adult_oriented_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.internal.md|adult_oriented_enumeration.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.protect.md|adult_oriented_enumeration.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.private.md|adult_oriented_enumeration.private]] 

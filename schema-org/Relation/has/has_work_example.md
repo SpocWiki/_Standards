@@ -56,7 +56,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ appearance, firstAppearance ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_work_example.md|has_work_example]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_work_example.md|has_work_example]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_example.internal.md|has_work_example.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_work_example.protect.md|has_work_example.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_work_example.private.md|has_work_example.private]] 

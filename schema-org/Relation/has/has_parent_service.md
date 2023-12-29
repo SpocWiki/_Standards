@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/range :: BroadcastService )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_parent_service.md|has_parent_service]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_parent_service.md|has_parent_service]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parent_service.internal.md|has_parent_service.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_parent_service.protect.md|has_parent_service.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_parent_service.private.md|has_parent_service.private]] 

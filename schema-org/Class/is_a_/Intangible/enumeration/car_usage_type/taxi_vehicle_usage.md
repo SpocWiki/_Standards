@@ -47,7 +47,7 @@ Indicates the usage of the car as a taxi.
 [ #is_/enum_of :: [[../CarUsageType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.md|taxi_vehicle_usage]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.md|taxi_vehicle_usage]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.internal.md|taxi_vehicle_usage.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.protect.md|taxi_vehicle_usage.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.private.md|taxi_vehicle_usage.private]] 

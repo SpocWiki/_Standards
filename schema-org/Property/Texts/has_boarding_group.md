@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_boarding_group.md|has_boarding_group]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_boarding_group.md|has_boarding_group]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_boarding_group.internal.md|has_boarding_group.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_boarding_group.protect.md|has_boarding_group.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_boarding_group.private.md|has_boarding_group.private]] 

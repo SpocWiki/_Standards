@@ -43,7 +43,7 @@ A lake (for example, Lake Pontrachain).
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.md|lake_body_of_water]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.md|lake_body_of_water]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.internal.md|lake_body_of_water.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.protect.md|lake_body_of_water.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/place/landform/body_of_water/lake_body_of_water.private.md|lake_body_of_water.private]] 

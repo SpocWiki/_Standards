@@ -44,7 +44,7 @@ Relation describes that:
 [ #is_/inverse_of  :: [[has_alumni]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_alumni_of.md|is_alumni_of]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_alumni_of.md|is_alumni_of]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_alumni_of.internal.md|is_alumni_of.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_alumni_of.protect.md|is_alumni_of.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_alumni_of.private.md|is_alumni_of.private]] 

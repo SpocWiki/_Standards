@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_suggested_age.md|has_value_for_suggested_age]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_suggested_age.md|has_value_for_suggested_age]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_suggested_age.internal.md|has_value_for_suggested_age.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_suggested_age.protect.md|has_value_for_suggested_age.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_suggested_age.private.md|has_value_for_suggested_age.private]] 

@@ -45,7 +45,7 @@ OrderStatus representing that there is a problem with the order.
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.md|order_problem]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.md|order_problem]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.internal.md|order_problem.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.protect.md|order_problem.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.private.md|order_problem.private]] 

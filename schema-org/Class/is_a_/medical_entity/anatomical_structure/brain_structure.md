@@ -43,7 +43,7 @@ Any anatomical structure which pertains to the soft nervous tissue functioning a
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.md|brain_structure]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.md|brain_structure]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.internal.md|brain_structure.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.protect.md|brain_structure.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/brain_structure.private.md|brain_structure.private]] 

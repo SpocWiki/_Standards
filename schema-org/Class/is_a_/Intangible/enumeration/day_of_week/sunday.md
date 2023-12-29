@@ -43,7 +43,7 @@ Tag Instances like this:
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.md|sunday]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/sunday.md|sunday]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.internal.md|sunday.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.protect.md|sunday.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.private.md|sunday.private]] 

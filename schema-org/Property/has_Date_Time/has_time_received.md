@@ -44,7 +44,7 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_received.md|has_time_received]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_received.md|has_time_received]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_received.internal.md|has_time_received.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_received.protect.md|has_time_received.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_received.private.md|has_time_received.private]] 

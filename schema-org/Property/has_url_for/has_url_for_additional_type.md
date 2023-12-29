@@ -49,7 +49,7 @@ Predicate describes that:
 [is_instance_of](../../Class/is_instance_of.md) 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Urls/has_url_for_additional_type.md|has_url_for_additional_type]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_additional_type.md|has_url_for_additional_type]] 
 - [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_additional_type.internal.md|has_url_for_additional_type.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_additional_type.protect.md|has_url_for_additional_type.protect]] 
 - [[../../../../_private/schema.org/Predicate/Urls/has_url_for_additional_type.private.md|has_url_for_additional_type.private]] 

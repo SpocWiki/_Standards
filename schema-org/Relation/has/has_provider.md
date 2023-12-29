@@ -52,7 +52,7 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_provider.md|has_provider]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_provider.md|has_provider]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_provider.internal.md|has_provider.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_provider.protect.md|has_provider.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_provider.private.md|has_provider.private]] 

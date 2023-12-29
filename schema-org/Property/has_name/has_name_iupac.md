@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_name_iupac.md|has_name_iupac]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_iupac.md|has_name_iupac]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_name_iupac.internal.md|has_name_iupac.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_name_iupac.protect.md|has_name_iupac.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_name_iupac.private.md|has_name_iupac.private]] 

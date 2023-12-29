@@ -45,7 +45,7 @@ A health profession of a person formally educated and trained in the care of the
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/nursing.md|nursing]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/nursing.md|nursing]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/nursing.internal.md|nursing.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/nursing.protect.md|nursing.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/nursing.private.md|nursing.private]] 

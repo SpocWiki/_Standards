@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_countries_supported.md|has_countries_supported]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_countries_supported.md|has_countries_supported]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_countries_supported.internal.md|has_countries_supported.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_countries_supported.protect.md|has_countries_supported.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_countries_supported.private.md|has_countries_supported.private]] 

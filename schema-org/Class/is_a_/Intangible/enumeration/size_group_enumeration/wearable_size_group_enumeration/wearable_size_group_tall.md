@@ -47,7 +47,7 @@ Size group "Tall" for wearables.
 [ #is_/enum_of :: [[../WearableSizeGroupEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_tall.md|wearable_size_group_tall]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_tall.md|wearable_size_group_tall]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_tall.internal.md|wearable_size_group_tall.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_tall.protect.md|wearable_size_group_tall.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration/wearable_size_group_tall.private.md|wearable_size_group_tall.private]] 

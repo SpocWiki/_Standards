@@ -17,7 +17,7 @@ Relation describes that:
 ( #has_/range :: [Quantity](../Property.md))
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Relations/is_sub_class_of.md|is_sub_class_of]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_sub_class_of.md|is_sub_class_of]] 
 - [[../../../../_internal/schema.org/Predicate/Relations/is_sub_class_of.internal.md|is_sub_class_of.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Relations/is_sub_class_of.protect.md|is_sub_class_of.protect]] 
 - [[../../../../_private/schema.org/Predicate/Relations/is_sub_class_of.private.md|is_sub_class_of.private]] 

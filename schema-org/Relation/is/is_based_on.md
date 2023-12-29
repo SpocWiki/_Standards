@@ -39,7 +39,7 @@ Relation describes that:
 ( #has_/range :: CreativeWork, Product, URL)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_based_on.md|is_based_on]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_based_on.md|is_based_on]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_based_on.internal.md|is_based_on.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_based_on.protect.md|is_based_on.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_based_on.private.md|is_based_on.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: BusinessEntityType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_eligible_customer_type.md|has_eligible_customer_type]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_eligible_customer_type.md|has_eligible_customer_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_eligible_customer_type.internal.md|has_eligible_customer_type.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_eligible_customer_type.protect.md|has_eligible_customer_type.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_eligible_customer_type.private.md|has_eligible_customer_type.private]] 

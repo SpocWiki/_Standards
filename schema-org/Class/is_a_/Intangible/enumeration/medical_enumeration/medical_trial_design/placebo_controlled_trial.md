@@ -45,7 +45,7 @@ A placebo-controlled trial design.
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.md|placebo_controlled_trial]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.md|placebo_controlled_trial]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.internal.md|placebo_controlled_trial.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.protect.md|placebo_controlled_trial.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.private.md|placebo_controlled_trial.private]] 

@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_step.md|has_value_for_step]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_step.md|has_value_for_step]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_step.internal.md|has_value_for_step.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_step.protect.md|has_value_for_step.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_step.private.md|has_value_for_step.private]] 

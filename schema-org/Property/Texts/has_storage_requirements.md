@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_storage_requirements.md|has_storage_requirements]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_storage_requirements.md|has_storage_requirements]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_storage_requirements.internal.md|has_storage_requirements.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_storage_requirements.protect.md|has_storage_requirements.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_storage_requirements.private.md|has_storage_requirements.private]] 

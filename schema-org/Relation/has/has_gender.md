@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: GenderType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_gender.md|has_gender]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_gender.md|has_gender]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_gender.internal.md|has_gender.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_gender.protect.md|has_gender.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_gender.private.md|has_gender.private]] 

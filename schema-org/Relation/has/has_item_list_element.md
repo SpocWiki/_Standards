@@ -50,7 +50,7 @@ Relation describes that:
 ( #has_/range :: ListItem, Text, Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_item_list_element.md|has_item_list_element]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_item_list_element.md|has_item_list_element]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_list_element.internal.md|has_item_list_element.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_item_list_element.protect.md|has_item_list_element.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_item_list_element.private.md|has_item_list_element.private]] 

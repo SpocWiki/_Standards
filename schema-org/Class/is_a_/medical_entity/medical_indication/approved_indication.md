@@ -43,7 +43,7 @@ An indication for a medical therapy that has been formally specified or approved
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_indication/approved_indication.md|approved_indication]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_indication/approved_indication.md|approved_indication]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_indication/approved_indication.internal.md|approved_indication.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_indication/approved_indication.protect.md|approved_indication.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_indication/approved_indication.private.md|approved_indication.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Nerve )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_nerve.md|has_nerve]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_nerve.md|has_nerve]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nerve.internal.md|has_nerve.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nerve.protect.md|has_nerve.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_nerve.private.md|has_nerve.private]] 

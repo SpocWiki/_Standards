@@ -48,7 +48,7 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_property.md|has_id_property]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_property.md|has_id_property]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_property.internal.md|has_id_property.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_property.protect.md|has_id_property.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_property.private.md|has_id_property.private]] 

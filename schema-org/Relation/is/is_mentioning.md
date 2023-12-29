@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: [[../../../Class/Thing|thing]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_mentioning.md|is_mentioning]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_mentioning.md|is_mentioning]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_mentioning.internal.md|is_mentioning.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_mentioning.protect.md|is_mentioning.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_mentioning.private.md|is_mentioning.private]] 

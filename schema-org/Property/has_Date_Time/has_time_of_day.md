@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_time_of_day.md|has_time_of_day]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_time_of_day.md|has_time_of_day]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_time_of_day.internal.md|has_time_of_day.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_time_of_day.protect.md|has_time_of_day.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_time_of_day.private.md|has_time_of_day.private]] 

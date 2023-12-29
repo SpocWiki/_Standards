@@ -45,7 +45,7 @@ A type of medical procedure that involves percutaneous techniques, where access 
 [ #is_/enum_of :: [[../MedicalProcedureType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.md|percutaneous_procedure]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.md|percutaneous_procedure]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.internal.md|percutaneous_procedure.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.protect.md|percutaneous_procedure.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.private.md|percutaneous_procedure.private]] 

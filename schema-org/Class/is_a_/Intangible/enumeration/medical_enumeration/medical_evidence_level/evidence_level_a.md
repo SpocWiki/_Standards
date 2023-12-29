@@ -45,7 +45,7 @@ Data derived from multiple randomized clinical trials or meta-analyses.
 [ #is_/enum_of :: [[../MedicalEvidenceLevel]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.md|evidence_level_a]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.md|evidence_level_a]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.internal.md|evidence_level_a.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.protect.md|evidence_level_a.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.private.md|evidence_level_a.private]] 

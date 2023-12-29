@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_seasons.md|has_number_of_seasons]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_seasons.md|has_number_of_seasons]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_seasons.internal.md|has_number_of_seasons.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_seasons.protect.md|has_number_of_seasons.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_seasons.private.md|has_number_of_seasons.private]] 

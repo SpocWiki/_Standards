@@ -47,7 +47,7 @@ A general code for cases where relevance to children is reduced, e.g. adult educ
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.md|reduced_relevance_for_children_consideration]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.md|reduced_relevance_for_children_consideration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.internal.md|reduced_relevance_for_children_consideration.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.protect.md|reduced_relevance_for_children_consideration.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/reduced_relevance_for_children_consideration.private.md|reduced_relevance_for_children_consideration.private]] 

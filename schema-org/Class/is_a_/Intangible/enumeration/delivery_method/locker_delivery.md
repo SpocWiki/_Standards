@@ -45,7 +45,7 @@ A DeliveryMethod in which an item is made available via locker.
 [ #is_/enum_of :: [[../DeliveryMethod]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.md|locker_delivery]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.md|locker_delivery]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.internal.md|locker_delivery.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.protect.md|locker_delivery.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/delivery_method/locker_delivery.private.md|locker_delivery.private]] 

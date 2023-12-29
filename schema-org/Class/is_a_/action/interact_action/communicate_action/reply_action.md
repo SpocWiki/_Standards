@@ -49,7 +49,7 @@ Related actions:
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, resultComment, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/action/interact_action/communicate_action/reply_action.md|reply_action]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/reply_action.md|reply_action]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/communicate_action/reply_action.internal.md|reply_action.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/communicate_action/reply_action.protect.md|reply_action.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/action/interact_action/communicate_action/reply_action.private.md|reply_action.private]] 

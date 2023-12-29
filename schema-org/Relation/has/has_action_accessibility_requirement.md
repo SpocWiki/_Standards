@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/range :: ActionAccessSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.md|has_action_accessibility_requirement]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_action_accessibility_requirement.md|has_action_accessibility_requirement]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.internal.md|has_action_accessibility_requirement.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.protect.md|has_action_accessibility_requirement.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.private.md|has_action_accessibility_requirement.private]] 

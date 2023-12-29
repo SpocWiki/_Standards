@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalSign )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_sign_detected.md|has_sign_detected]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sign_detected.md|has_sign_detected]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sign_detected.internal.md|has_sign_detected.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sign_detected.protect.md|has_sign_detected.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_sign_detected.private.md|has_sign_detected.private]] 

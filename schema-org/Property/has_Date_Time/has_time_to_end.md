@@ -61,7 +61,7 @@ Formal Predicate:
 (range::Date, DateTime, Time)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_to_end.md|has_time_to_end]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_end.md|has_time_to_end]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_end.internal.md|has_time_to_end.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_end.protect.md|has_time_to_end.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_end.private.md|has_time_to_end.private]] 

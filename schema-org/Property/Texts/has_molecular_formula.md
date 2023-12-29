@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_molecular_formula.md|has_molecular_formula]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_molecular_formula.md|has_molecular_formula]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_molecular_formula.internal.md|has_molecular_formula.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_molecular_formula.protect.md|has_molecular_formula.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_molecular_formula.private.md|has_molecular_formula.private]] 

@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_players_online.md|has_number_of_players_online]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_players_online.md|has_number_of_players_online]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_players_online.internal.md|has_number_of_players_online.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_players_online.protect.md|has_number_of_players_online.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_players_online.private.md|has_number_of_players_online.private]] 

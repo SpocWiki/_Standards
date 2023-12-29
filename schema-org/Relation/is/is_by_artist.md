@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MusicGroup, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_by_artist.md|is_by_artist]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_by_artist.md|is_by_artist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_by_artist.internal.md|is_by_artist.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_by_artist.protect.md|is_by_artist.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_by_artist.private.md|is_by_artist.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: [[Offer]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_accepted_offer.md|has_accepted_offer]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_accepted_offer.md|has_accepted_offer]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accepted_offer.internal.md|has_accepted_offer.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_accepted_offer.protect.md|has_accepted_offer.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_accepted_offer.private.md|has_accepted_offer.private]] 

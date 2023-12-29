@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: PropertyValue, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_taxon_rank.md|has_taxon_rank]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_taxon_rank.md|has_taxon_rank]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_taxon_rank.internal.md|has_taxon_rank.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_taxon_rank.protect.md|has_taxon_rank.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_taxon_rank.private.md|has_taxon_rank.private]] 

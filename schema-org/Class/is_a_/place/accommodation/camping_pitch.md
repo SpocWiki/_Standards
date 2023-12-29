@@ -48,7 +48,7 @@ See also the dedicated <a href="https://schema.org/docs/hotels.html">document on
 [ #has_/properties :: [ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/place/accommodation/camping_pitch.md|camping_pitch]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/place/accommodation/camping_pitch.md|camping_pitch]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/camping_pitch.internal.md|camping_pitch.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/camping_pitch.protect.md|camping_pitch.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/place/accommodation/camping_pitch.private.md|camping_pitch.private]] 

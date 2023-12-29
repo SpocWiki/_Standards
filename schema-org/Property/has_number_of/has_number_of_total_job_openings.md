@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_total_job_openings.md|has_number_of_total_job_openings]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_total_job_openings.md|has_number_of_total_job_openings]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_total_job_openings.internal.md|has_number_of_total_job_openings.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_total_job_openings.protect.md|has_number_of_total_job_openings.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_total_job_openings.private.md|has_number_of_total_job_openings.private]] 

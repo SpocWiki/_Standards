@@ -41,7 +41,7 @@ A prion is an infectious agent composed of protein in a misfolded form.
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/prion.md|prion]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/prion.md|prion]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/prion.internal.md|prion.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/prion.protect.md|prion.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/prion.private.md|prion.private]] 

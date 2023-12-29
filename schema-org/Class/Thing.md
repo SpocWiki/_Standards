@@ -97,7 +97,7 @@ Obsidian allows to naturally capture these Triples,
 either in the Frontmatter or anywhere in the Text.
 
 ## Confidential Links & Embeds: 
-- [[../../_public/schema.org/Thing.md|Entity]] 
+- [[../../_Standards/schema-org/Thing.md|Entity]] 
 - [[../../_internal/schema.org/Thing.internal.md|Entity.internal]] 
 - [[../../_protect/schema.org/Thing.protect.md|Entity.protect]] 
 - [[../../_private/schema.org/Thing.private.md|Entity.private]] 

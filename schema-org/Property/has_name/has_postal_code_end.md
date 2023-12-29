@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_postal_code_end.md|has_postal_code_end]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_postal_code_end.md|has_postal_code_end]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_postal_code_end.internal.md|has_postal_code_end.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_postal_code_end.protect.md|has_postal_code_end.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_postal_code_end.private.md|has_postal_code_end.private]] 

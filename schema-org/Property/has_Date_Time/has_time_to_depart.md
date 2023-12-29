@@ -44,7 +44,7 @@ Formal Predicate:
 (range::DateTime, Time)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_to_depart.md|has_time_to_depart]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_depart.md|has_time_to_depart]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_depart.internal.md|has_time_to_depart.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_depart.protect.md|has_time_to_depart.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_depart.private.md|has_time_to_depart.private]] 

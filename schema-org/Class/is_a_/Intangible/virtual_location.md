@@ -45,7 +45,7 @@ An online or virtual location for attending events. For example, one may attend 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/virtual_location.md|virtual_location]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/virtual_location.md|virtual_location]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/virtual_location.internal.md|virtual_location.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/virtual_location.protect.md|virtual_location.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/virtual_location.private.md|virtual_location.private]] 

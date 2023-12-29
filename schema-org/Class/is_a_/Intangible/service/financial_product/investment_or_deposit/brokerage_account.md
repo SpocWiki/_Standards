@@ -45,7 +45,7 @@ An account that allows an investor to deposit funds and place investment orders 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.md|brokerage_account]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.md|brokerage_account]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.internal.md|brokerage_account.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.protect.md|brokerage_account.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/brokerage_account.private.md|brokerage_account.private]] 

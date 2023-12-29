@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_credential_category.md|has_credential_category]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_credential_category.md|has_credential_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_credential_category.internal.md|has_credential_category.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_credential_category.protect.md|has_credential_category.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_credential_category.private.md|has_credential_category.private]] 

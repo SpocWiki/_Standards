@@ -49,7 +49,7 @@ Specifies that a product return policy is not provided.
 [ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.md|merchant_return_unspecified]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.md|merchant_return_unspecified]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.internal.md|merchant_return_unspecified.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.protect.md|merchant_return_unspecified.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_unspecified.private.md|merchant_return_unspecified.private]] 

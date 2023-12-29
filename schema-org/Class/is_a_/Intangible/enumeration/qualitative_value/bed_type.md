@@ -80,7 +80,7 @@ The day of the week between Saturday and Monday.
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.md|sunday]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/sunday.md|sunday]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.internal.md|sunday.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.protect.md|sunday.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.private.md|sunday.private]] 
@@ -95,7 +95,7 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.md|bed_type]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.md|bed_type]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.internal.md|bed_type.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.protect.md|bed_type.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.private.md|bed_type.private]] 

@@ -43,7 +43,7 @@ An historical landmark or building.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.md|landmarks_or_historical_buildings]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/place/landmarks_or_historical_buildings.md|landmarks_or_historical_buildings]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.internal.md|landmarks_or_historical_buildings.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.protect.md|landmarks_or_historical_buildings.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/place/landmarks_or_historical_buildings.private.md|landmarks_or_historical_buildings.private]] 

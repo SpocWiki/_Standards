@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Energy, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_workload.md|has_workload]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_workload.md|has_workload]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_workload.internal.md|has_workload.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_workload.protect.md|has_workload.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_workload.private.md|has_workload.private]] 

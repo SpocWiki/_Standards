@@ -45,7 +45,7 @@ Game server status: OfflineTemporarily. Server is offline now but it can be onli
 [ #is_/enum_of :: [[../GameServerStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.md|offline_temporarily]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.md|offline_temporarily]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.internal.md|offline_temporarily.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.protect.md|offline_temporarily.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/offline_temporarily.private.md|offline_temporarily.private]] 

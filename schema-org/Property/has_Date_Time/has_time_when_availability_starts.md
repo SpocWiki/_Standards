@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date, DateTime, Time)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_when_availability_starts.md|has_time_when_availability_starts]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_when_availability_starts.md|has_time_when_availability_starts]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_when_availability_starts.internal.md|has_time_when_availability_starts.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_when_availability_starts.protect.md|has_time_when_availability_starts.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_when_availability_starts.private.md|has_time_when_availability_starts.private]] 

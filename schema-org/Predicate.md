@@ -51,7 +51,7 @@ Semantic Graphs are much richer and allow for automated inference of Information
 	* Texts: Labels, Names, URLs, Descriptions etc. start with #has_/text_of_/  
 	* Counts: integer Cardinals and Ordinals start with #has_/number_of_/  
 	* Quantities: continuous float-point Values (often 1-dimensional Scalars) start with #has_/value_for_/ 
-	* geographic Objects: start with #has_/geo_/ but also 2D and 3D Vectors for Locations 
+	* geographic Objects: start with #has_/location_/ but also 2D and 3D Vectors for Locations 
 	* Date and Time: are written in ISO Format with Tags like #has_/time_/ .  Missing Time indicates Noon; missing Date indicates a periodic Event
 	* Durations: start with #has_/duration_/ and are specified using the ISO-Notation P#Y#M#DT#H#M#S.### 
 	* Recurrence: start with #has_/recurrence and are specified using the Cron-Notation P#Y#M#DT#H#M#S.### 
@@ -76,7 +76,7 @@ you can promote consistent Naming.
 Derived from [Schema.org](https://schema.org/docs/developers.html) 
 
 ## Confidential Links & Embeds: 
-- [[../../_public/schema.org/Predicate.md|Predicate]] 
+- [[../../_Standards/schema-org/Predicate.md|Predicate]] 
 - [[../../_internal/schema.org/Predicate.internal.md|Predicate.internal]] 
 - [[../../_protect/schema.org/Predicate.protect.md|Predicate.protect]] 
 - [[../../_private/schema.org/Predicate.private.md|Predicate.private]] 

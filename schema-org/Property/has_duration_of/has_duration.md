@@ -49,7 +49,7 @@ Formal Predicate:
 Has [sub_properties::loanTerm]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration.md|has_duration]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration.md|has_duration]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration.internal.md|has_duration.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration.protect.md|has_duration.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration.private.md|has_duration.private]] 

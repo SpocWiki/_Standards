@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Order)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_referencing_order.md|is_referencing_order]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_referencing_order.md|is_referencing_order]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_referencing_order.internal.md|is_referencing_order.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_referencing_order.protect.md|is_referencing_order.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_referencing_order.private.md|is_referencing_order.private]] 

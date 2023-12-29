@@ -46,7 +46,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ recipeInstructions ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_step.md|has_step]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_step.md|has_step]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_step.internal.md|has_step.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_step.protect.md|has_step.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_step.private.md|has_step.private]] 

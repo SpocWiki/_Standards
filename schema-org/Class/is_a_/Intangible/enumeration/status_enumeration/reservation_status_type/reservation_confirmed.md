@@ -45,7 +45,7 @@ The status of a confirmed reservation.
 [ #is_/enum_of :: [[../ReservationStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.md|reservation_confirmed]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.md|reservation_confirmed]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.internal.md|reservation_confirmed.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.protect.md|reservation_confirmed.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_confirmed.private.md|reservation_confirmed.private]] 

@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_measurement.md|has_value_for_measurement]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_measurement.md|has_value_for_measurement]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_measurement.internal.md|has_value_for_measurement.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_measurement.protect.md|has_value_for_measurement.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_measurement.private.md|has_value_for_measurement.private]] 

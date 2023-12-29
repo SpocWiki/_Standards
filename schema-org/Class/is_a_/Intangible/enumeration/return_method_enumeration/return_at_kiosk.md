@@ -47,7 +47,7 @@ Specifies that product returns must be made at a kiosk.
 [ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.md|return_at_kiosk]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.md|return_at_kiosk]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.internal.md|return_at_kiosk.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.protect.md|return_at_kiosk.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.private.md|return_at_kiosk.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_teaches.md|has_teaches]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_teaches.md|has_teaches]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_teaches.internal.md|has_teaches.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_teaches.protect.md|has_teaches.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_teaches.private.md|has_teaches.private]] 

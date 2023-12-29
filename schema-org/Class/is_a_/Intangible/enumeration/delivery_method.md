@@ -54,7 +54,7 @@ Commonly used values:
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/delivery_method.md|delivery_method]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/delivery_method.md|delivery_method]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method.internal.md|delivery_method.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/delivery_method.protect.md|delivery_method.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/delivery_method.private.md|delivery_method.private]] 

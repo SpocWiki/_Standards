@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.md|has_value_for_membership_points_earned]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_membership_points_earned.md|has_value_for_membership_points_earned]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.internal.md|has_value_for_membership_points_earned.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.protect.md|has_value_for_membership_points_earned.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_membership_points_earned.private.md|has_value_for_membership_points_earned.private]] 

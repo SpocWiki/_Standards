@@ -47,7 +47,7 @@ Content about common misconceptions and myths that are related to a topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/misconceptions_health_aspect.md|misconceptions_health_aspect]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/misconceptions_health_aspect.md|misconceptions_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/misconceptions_health_aspect.internal.md|misconceptions_health_aspect.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/misconceptions_health_aspect.protect.md|misconceptions_health_aspect.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/misconceptions_health_aspect.private.md|misconceptions_health_aspect.private]] 

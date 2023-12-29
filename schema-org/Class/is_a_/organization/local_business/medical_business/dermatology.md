@@ -47,7 +47,7 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/organization/local_business/medical_business/dermatology.md|dermatology]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/dermatology.md|dermatology]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/dermatology.internal.md|dermatology.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/dermatology.protect.md|dermatology.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/dermatology.private.md|dermatology.private]] 

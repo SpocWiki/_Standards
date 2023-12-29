@@ -45,7 +45,7 @@ Uses devices to support users with hearing impairments.
 [ #is_/enum_of :: [[../ContactPointOption]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.md|hearing_impaired_supported]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.md|hearing_impaired_supported]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.internal.md|hearing_impaired_supported.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.protect.md|hearing_impaired_supported.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/hearing_impaired_supported.private.md|hearing_impaired_supported.private]] 

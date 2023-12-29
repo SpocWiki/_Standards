@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_country_of_last_processing.md|has_country_of_last_processing]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_country_of_last_processing.md|has_country_of_last_processing]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_country_of_last_processing.internal.md|has_country_of_last_processing.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_country_of_last_processing.protect.md|has_country_of_last_processing.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_country_of_last_processing.private.md|has_country_of_last_processing.private]] 

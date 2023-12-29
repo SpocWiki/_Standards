@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_bathrooms_total.md|has_number_of_bathrooms_total]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_bathrooms_total.md|has_number_of_bathrooms_total]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_bathrooms_total.internal.md|has_number_of_bathrooms_total.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_bathrooms_total.protect.md|has_number_of_bathrooms_total.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_bathrooms_total.private.md|has_number_of_bathrooms_total.private]] 

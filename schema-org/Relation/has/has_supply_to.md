@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_supply_to.md|has_supply_to]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_supply_to.md|has_supply_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_supply_to.internal.md|has_supply_to.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_supply_to.protect.md|has_supply_to.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_supply_to.private.md|has_supply_to.private]] 

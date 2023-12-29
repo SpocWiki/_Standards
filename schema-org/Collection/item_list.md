@@ -45,7 +45,7 @@ A list of items of any sort&#x2014;for example, Top 10 Movies About Weathermen, 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/item_list.md|item_list]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/item_list.md|item_list]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/item_list.internal.md|item_list.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/item_list.protect.md|item_list.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/item_list.private.md|item_list.private]] 

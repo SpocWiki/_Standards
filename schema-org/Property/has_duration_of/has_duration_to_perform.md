@@ -46,7 +46,7 @@ Formal Predicate:
 Has [sub_properties::cookTime]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration_to_perform.md|has_duration_to_perform]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_to_perform.md|has_duration_to_perform]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_to_perform.internal.md|has_duration_to_perform.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration_to_perform.protect.md|has_duration_to_perform.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration_to_perform.private.md|has_duration_to_perform.private]] 

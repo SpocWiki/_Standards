@@ -48,7 +48,7 @@ Formal Predicate:
 (range::Duration, Number, QuantitativeValue)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Durations/has_duration_of_billing.md|has_duration_of_billing]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_billing.md|has_duration_of_billing]] 
 - [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_billing.internal.md|has_duration_of_billing.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_billing.protect.md|has_duration_of_billing.protect]] 
 - [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_billing.private.md|has_duration_of_billing.private]] 

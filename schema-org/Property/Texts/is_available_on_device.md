@@ -48,7 +48,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_available_on_device.md|has_available_on_device]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_available_on_device.md|has_available_on_device]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_available_on_device.internal.md|has_available_on_device.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_available_on_device.protect.md|has_available_on_device.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_available_on_device.private.md|has_available_on_device.private]] 

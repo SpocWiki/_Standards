@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: GameServerStatus )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_server_status.md|has_server_status]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_server_status.md|has_server_status]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_server_status.internal.md|has_server_status.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_server_status.protect.md|has_server_status.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_server_status.private.md|has_server_status.private]] 

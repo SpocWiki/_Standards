@@ -50,7 +50,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ acquireLicensePage ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_usage_info.md|has_usage_info]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_usage_info.md|has_usage_info]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_usage_info.internal.md|has_usage_info.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_usage_info.protect.md|has_usage_info.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_usage_info.private.md|has_usage_info.private]] 

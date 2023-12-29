@@ -45,7 +45,7 @@ An ItemList ordered with higher values listed first.
 [ #is_/enum_of :: [[../ItemListOrderType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.md|item_list_order_descending]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.md|item_list_order_descending]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.internal.md|item_list_order_descending.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.protect.md|item_list_order_descending.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.private.md|item_list_order_descending.private]] 

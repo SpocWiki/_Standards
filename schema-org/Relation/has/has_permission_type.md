@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: DigitalDocumentPermissionType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_permission_type.md|has_permission_type]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_permission_type.md|has_permission_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_permission_type.internal.md|has_permission_type.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_permission_type.protect.md|has_permission_type.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_permission_type.private.md|has_permission_type.private]] 

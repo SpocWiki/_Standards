@@ -43,7 +43,7 @@ The act of traveling from a fromLocation to a destination by a specified mode of
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, distance, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/move_action/travel_action.md|travel_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/move_action/travel_action.md|travel_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/move_action/travel_action.internal.md|travel_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/move_action/travel_action.protect.md|travel_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/move_action/travel_action.private.md|travel_action.private]] 

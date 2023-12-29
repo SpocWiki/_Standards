@@ -48,7 +48,7 @@ Predicate describes that:
 ( #has_/range :: Number, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_elevation.md|has_value_for_elevation]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_elevation.md|has_value_for_elevation]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_elevation.internal.md|has_value_for_elevation.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_elevation.protect.md|has_value_for_elevation.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_elevation.private.md|has_value_for_elevation.private]] 

@@ -46,7 +46,7 @@ Predicate describes that:
 ( #has_/range :: Boolean, Number, StructuredValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Flags/is_true.md|is_true]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_true.md|is_true]] 
 - [[../../../../_internal/schema.org/Predicate/Flags/is_true.internal.md|is_true.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Flags/is_true.protect.md|is_true.protect]] 
 - [[../../../../_private/schema.org/Predicate/Flags/is_true.private.md|is_true.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, PropertyValue, URL)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_involved_in_biological_process.md|is_involved_in_biological_process]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_involved_in_biological_process.md|is_involved_in_biological_process]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_involved_in_biological_process.internal.md|is_involved_in_biological_process.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_involved_in_biological_process.protect.md|is_involved_in_biological_process.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_involved_in_biological_process.private.md|is_involved_in_biological_process.private]] 

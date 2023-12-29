@@ -46,7 +46,7 @@ Specifies a [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturn
 ( #has_/range :: [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_merchant_return_policy.md|has_merchant_return_policy]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_merchant_return_policy.md|has_merchant_return_policy]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_merchant_return_policy.internal.md|has_merchant_return_policy.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_merchant_return_policy.protect.md|has_merchant_return_policy.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_merchant_return_policy.private.md|has_merchant_return_policy.private]] 

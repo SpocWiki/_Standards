@@ -60,7 +60,7 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_measurement_technique.md|has_measurement_technique]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_measurement_technique.md|has_measurement_technique]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_measurement_technique.internal.md|has_measurement_technique.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_measurement_technique.protect.md|has_measurement_technique.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_measurement_technique.private.md|has_measurement_technique.private]] 

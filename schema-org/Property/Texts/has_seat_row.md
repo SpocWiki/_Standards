@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_seat_row.md|has_seat_row]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_seat_row.md|has_seat_row]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_seat_row.internal.md|has_seat_row.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_seat_row.protect.md|has_seat_row.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_seat_row.private.md|has_seat_row.private]] 

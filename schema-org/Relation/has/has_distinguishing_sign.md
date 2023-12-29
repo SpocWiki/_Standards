@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalSignOrSymptom )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_distinguishing_sign.md|has_distinguishing_sign]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_distinguishing_sign.md|has_distinguishing_sign]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_distinguishing_sign.internal.md|has_distinguishing_sign.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_distinguishing_sign.protect.md|has_distinguishing_sign.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_distinguishing_sign.private.md|has_distinguishing_sign.private]] 

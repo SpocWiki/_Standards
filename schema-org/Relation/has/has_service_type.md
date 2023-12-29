@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: GovernmentBenefitsType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_service_type.md|has_service_type]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_service_type.md|has_service_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_service_type.internal.md|has_service_type.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_service_type.protect.md|has_service_type.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_service_type.private.md|has_service_type.private]] 

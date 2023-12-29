@@ -47,7 +47,7 @@ Predicated describes that:
 [ #is_/sub_property_of  :: serialNumber ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_id_of_vehicle.md|has_id_of_vehicle]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_of_vehicle.md|has_id_of_vehicle]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_id_of_vehicle.internal.md|has_id_of_vehicle.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_id_of_vehicle.protect.md|has_id_of_vehicle.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_id_of_vehicle.private.md|has_id_of_vehicle.private]] 

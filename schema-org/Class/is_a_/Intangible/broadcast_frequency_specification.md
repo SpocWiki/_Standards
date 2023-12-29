@@ -43,7 +43,7 @@ The frequency in MHz and the modulation used for a particular BroadcastService.
 [ #has_/properties :: [ additionalType, alternateName, broadcastFrequencyValue, broadcastSignalModulation, broadcastSubChannel, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.md|broadcast_frequency_specification]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/broadcast_frequency_specification.md|broadcast_frequency_specification]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.internal.md|broadcast_frequency_specification.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.protect.md|broadcast_frequency_specification.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.private.md|broadcast_frequency_specification.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Course )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_course.md|has_course]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_course.md|has_course]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course.internal.md|has_course.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_course.protect.md|has_course.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_course.private.md|has_course.private]] 

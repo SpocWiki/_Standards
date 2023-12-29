@@ -47,7 +47,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_shipping_label.md|has_shipping_label]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_shipping_label.md|has_shipping_label]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_shipping_label.internal.md|has_shipping_label.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_shipping_label.protect.md|has_shipping_label.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_shipping_label.private.md|has_shipping_label.private]] 

@@ -44,7 +44,7 @@ Relation describes that:
 ( [[is_sub_Relation_of]] :: [use_action](../../../Class/is_a_/action/consume_action/use_action.md) )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_using_device.md|is_using_device]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_using_device.md|is_using_device]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_using_device.internal.md|is_using_device.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_using_device.protect.md|is_using_device.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_using_device.private.md|is_using_device.private]] 

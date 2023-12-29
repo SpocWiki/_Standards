@@ -44,7 +44,7 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Date_Times/has_time_to_expire.md|has_time_to_expire]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_expire.md|has_time_to_expire]] 
 - [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_expire.internal.md|has_time_to_expire.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_expire.protect.md|has_time_to_expire.protect]] 
 - [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_expire.private.md|has_time_to_expire.private]] 

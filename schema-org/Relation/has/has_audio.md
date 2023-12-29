@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: AudioObject, Clip, MusicRecording )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_audio.md|has_audio]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_audio.md|has_audio]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_audio.internal.md|has_audio.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_audio.protect.md|has_audio.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_audio.private.md|has_audio.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: PriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.md|has_eligible_transaction_volume]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_eligible_transaction_volume.md|has_eligible_transaction_volume]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.internal.md|has_eligible_transaction_volume.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.protect.md|has_eligible_transaction_volume.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_eligible_transaction_volume.private.md|has_eligible_transaction_volume.private]] 

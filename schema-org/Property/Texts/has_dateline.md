@@ -61,7 +61,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_dateline.md|has_dateline]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_dateline.md|has_dateline]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_dateline.internal.md|has_dateline.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_dateline.protect.md|has_dateline.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_dateline.private.md|has_dateline.private]] 

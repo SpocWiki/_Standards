@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: TouristAttraction)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_including_attraction.md|is_including_attraction]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_including_attraction.md|is_including_attraction]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_attraction.internal.md|is_including_attraction.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_including_attraction.protect.md|is_including_attraction.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_including_attraction.private.md|is_including_attraction.private]] 

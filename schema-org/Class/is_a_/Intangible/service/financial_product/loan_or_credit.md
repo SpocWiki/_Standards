@@ -45,7 +45,7 @@ A financial product for the loaning of an amount of money, or line of credit, un
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, currency, description, disambiguatingDescription, feesAndCommissionsSpecification, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.md|loan_or_credit]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/loan_or_credit.md|loan_or_credit]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.internal.md|loan_or_credit.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.protect.md|loan_or_credit.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.private.md|loan_or_credit.private]] 

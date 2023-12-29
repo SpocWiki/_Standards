@@ -38,7 +38,7 @@ Relation describes that:
 ( #has_/range :: Menu, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_menu.md|has_menu]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_menu.md|has_menu]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_menu.internal.md|has_menu.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_menu.protect.md|has_menu.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_menu.private.md|has_menu.private]] 

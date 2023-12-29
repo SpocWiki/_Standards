@@ -47,7 +47,7 @@ LimitedByGuaranteeCharity: Non-profit type referring to a charitable company tha
 [ #is_/enum_of :: [[../UKNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.md|limited_by_guarantee_charity]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.md|limited_by_guarantee_charity]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.internal.md|limited_by_guarantee_charity.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.protect.md|limited_by_guarantee_charity.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type/limited_by_guarantee_charity.private.md|limited_by_guarantee_charity.private]] 

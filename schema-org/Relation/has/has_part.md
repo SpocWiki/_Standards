@@ -48,7 +48,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ [[has_contained_season|containsSeason]], [[has_episode|episode]], [[has_toc_entry|tocEntry]] ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_part.md|has_part]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_part.md|has_part]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_part.internal.md|has_part.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_part.protect.md|has_part.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_part.private.md|has_part.private]] 

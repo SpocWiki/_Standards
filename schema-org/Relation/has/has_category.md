@@ -44,7 +44,7 @@ Relation describes that:
 [ #has_/sub_properties :: [ accommodationCategory ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_category.md|has_category]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_category.md|has_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_category.internal.md|has_category.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_category.protect.md|has_category.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_category.private.md|has_category.private]] 

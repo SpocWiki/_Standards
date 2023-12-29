@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_cheat_code.md|has_cheat_code]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_cheat_code.md|has_cheat_code]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cheat_code.internal.md|has_cheat_code.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_cheat_code.protect.md|has_cheat_code.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_cheat_code.private.md|has_cheat_code.private]] 

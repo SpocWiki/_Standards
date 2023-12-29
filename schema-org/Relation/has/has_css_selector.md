@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: CssSelectorType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_css_selector.md|has_css_selector]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_css_selector.md|has_css_selector]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_css_selector.internal.md|has_css_selector.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_css_selector.protect.md|has_css_selector.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_css_selector.private.md|has_css_selector.private]] 

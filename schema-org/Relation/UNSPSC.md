@@ -4,8 +4,8 @@
 name: Schema.org Ontology
 has_/time_/created:
 has_/time_/destroyed:
-has_/geo_/location_/created:
-has_/geo_/location_/destroyed:
+has_/location_/created:
+has_/location_/destroyed:
 subjectOf:
   \@type: Book
   name: The Complete History of Schema.org

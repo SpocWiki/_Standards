@@ -45,7 +45,7 @@ A registry-based study design.
 [ #is_/enum_of :: [[../MedicalObservationalStudyDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.md|registry]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.md|registry]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.internal.md|registry.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.protect.md|registry.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design/registry.private.md|registry.private]] 

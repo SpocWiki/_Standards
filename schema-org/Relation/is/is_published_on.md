@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: BroadcastService)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/is/is_published_on.md|is_published_on]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_published_on.md|is_published_on]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/is/is_published_on.internal.md|is_published_on.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/is/is_published_on.protect.md|is_published_on.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/is/is_published_on.private.md|is_published_on.private]] 

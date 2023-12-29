@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: Class )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_population_type.md|has_population_type]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_population_type.md|has_population_type]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_population_type.internal.md|has_population_type.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_population_type.protect.md|has_population_type.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_population_type.private.md|has_population_type.private]] 

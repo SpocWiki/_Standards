@@ -45,7 +45,7 @@ A description of an action that is supported.
 [ #is_/enum_of :: [[../ActionStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.md|potential_action_status]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.md|potential_action_status]] 
 - [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.internal.md|potential_action_status.internal]] 
 - [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.protect.md|potential_action_status.protect]] 
 - [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/action_status_type/potential_action_status.private.md|potential_action_status.private]] 

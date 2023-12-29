@@ -44,7 +44,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_potential_use.md|has_potential_use]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_potential_use.md|has_potential_use]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_potential_use.internal.md|has_potential_use.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_potential_use.protect.md|has_potential_use.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_potential_use.private.md|has_potential_use.private]] 

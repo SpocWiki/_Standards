@@ -43,7 +43,7 @@ The act of editing a recipient by replacing an old object with a new object.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, replacee, replacer, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/update_action/replace_action.md|replace_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/update_action/replace_action.md|replace_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/update_action/replace_action.internal.md|replace_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/update_action/replace_action.protect.md|replace_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/update_action/replace_action.private.md|replace_action.private]] 

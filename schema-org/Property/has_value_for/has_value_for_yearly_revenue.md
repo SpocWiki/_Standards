@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.md|has_value_for_yearly_revenue]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_yearly_revenue.md|has_value_for_yearly_revenue]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.internal.md|has_value_for_yearly_revenue.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.protect.md|has_value_for_yearly_revenue.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_yearly_revenue.private.md|has_value_for_yearly_revenue.private]] 

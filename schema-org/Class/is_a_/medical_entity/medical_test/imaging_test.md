@@ -43,7 +43,7 @@ Any medical imaging modality typically used for diagnostic purposes.
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, imagingTechnique, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/medical_entity/medical_test/imaging_test.md|imaging_test]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_test/imaging_test.md|imaging_test]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test/imaging_test.internal.md|imaging_test.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_test/imaging_test.protect.md|imaging_test.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_test/imaging_test.private.md|imaging_test.private]] 

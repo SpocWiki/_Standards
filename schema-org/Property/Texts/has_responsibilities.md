@@ -45,7 +45,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_responsibilities.md|has_responsibilities]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_responsibilities.md|has_responsibilities]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_responsibilities.internal.md|has_responsibilities.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_responsibilities.protect.md|has_responsibilities.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_responsibilities.private.md|has_responsibilities.private]] 

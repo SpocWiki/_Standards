@@ -35,7 +35,7 @@ Tag Instances like this:
 A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date format</a>.
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/data_type/date.md|date]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/date.md|date]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/data_type/date.internal.md|date.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/data_type/date.protect.md|date.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/data_type/date.private.md|date.private]] 

@@ -45,7 +45,7 @@ The act of manipulating/administering/supervising/controlling one or more object
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/action/organize_action.md|organize_action]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/action/organize_action.md|organize_action]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/action/organize_action.internal.md|organize_action.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/action/organize_action.protect.md|organize_action.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/action/organize_action.private.md|organize_action.private]] 

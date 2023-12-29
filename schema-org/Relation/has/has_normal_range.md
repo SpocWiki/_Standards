@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: MedicalEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_normal_range.md|has_normal_range]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_normal_range.md|has_normal_range]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_normal_range.internal.md|has_normal_range.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_normal_range.protect.md|has_normal_range.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_normal_range.private.md|has_normal_range.private]] 

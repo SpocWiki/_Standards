@@ -51,7 +51,7 @@ Related actions:
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/action/interact_action/communicate_action/check_in_action.md|check_in_action]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/check_in_action.md|check_in_action]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/communicate_action/check_in_action.internal.md|check_in_action.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/communicate_action/check_in_action.protect.md|check_in_action.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/action/interact_action/communicate_action/check_in_action.private.md|check_in_action.private]] 

@@ -46,7 +46,7 @@ A tourist destination. In principle any [[Place]] can be a [[TouristDestination]
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, includesAttraction, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, touristType, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Class/is_a_/place/tourist_destination.md|tourist_destination]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/place/tourist_destination.md|tourist_destination]] 
 - [[../../../../../_internal/schema.org/Class/is_a_/place/tourist_destination.internal.md|tourist_destination.internal]] 
 - [[../../../../../_protect/schema.org/Class/is_a_/place/tourist_destination.protect.md|tourist_destination.protect]] 
 - [[../../../../../_private/schema.org/Class/is_a_/place/tourist_destination.private.md|tourist_destination.private]] 

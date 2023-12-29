@@ -46,7 +46,7 @@ Relation describes that:
 ( #has_/range :: [[Person]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_artist.md|has_artist]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_artist.md|has_artist]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_artist.internal.md|has_artist.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_artist.protect.md|has_artist.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_artist.private.md|has_artist.private]] 

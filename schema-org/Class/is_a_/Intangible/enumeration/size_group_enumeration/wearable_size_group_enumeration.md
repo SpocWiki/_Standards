@@ -43,7 +43,7 @@ Enumerates common size groups (also known as "size types") for wearable products
 [ #is_/sub_class_of :: [[../SizeGroupEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.md|wearable_size_group_enumeration]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.md|wearable_size_group_enumeration]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.internal.md|wearable_size_group_enumeration.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.protect.md|wearable_size_group_enumeration.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration/wearable_size_group_enumeration.private.md|wearable_size_group_enumeration.private]] 

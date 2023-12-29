@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_vehicle_transmission.md|has_vehicle_transmission]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_vehicle_transmission.md|has_vehicle_transmission]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_vehicle_transmission.internal.md|has_vehicle_transmission.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_vehicle_transmission.protect.md|has_vehicle_transmission.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_vehicle_transmission.private.md|has_vehicle_transmission.private]] 

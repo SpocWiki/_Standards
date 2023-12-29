@@ -43,7 +43,7 @@ A structured value representing the duration and scope of services that will be 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, durationOfWarranty, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, warrantyScope ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/structured_value/warranty_promise.md|warranty_promise]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/warranty_promise.md|warranty_promise]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/warranty_promise.internal.md|warranty_promise.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/warranty_promise.protect.md|warranty_promise.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/warranty_promise.private.md|warranty_promise.private]] 

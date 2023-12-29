@@ -69,7 +69,7 @@ Data type: URL.
 [ #is_/sub_class_of :: [[../Text]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/data_type/text/url.md|url]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/text/url.md|url]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/url.internal.md|url.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/data_type/text/url.protect.md|url.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/data_type/text/url.private.md|url.private]] 

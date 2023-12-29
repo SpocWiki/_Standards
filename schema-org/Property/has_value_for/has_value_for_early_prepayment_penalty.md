@@ -47,7 +47,7 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.md|has_value_for_early_prepayment_penalty]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_early_prepayment_penalty.md|has_value_for_early_prepayment_penalty]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.internal.md|has_value_for_early_prepayment_penalty.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.protect.md|has_value_for_early_prepayment_penalty.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_early_prepayment_penalty.private.md|has_value_for_early_prepayment_penalty.private]] 

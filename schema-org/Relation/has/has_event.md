@@ -46,7 +46,7 @@ Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../
 ( #has_/range :: [[../../Class/is_a_/event|Event]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_event.md|has_event]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_event.md|has_event]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_event.internal.md|has_event.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_event.protect.md|has_event.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_event.private.md|has_event.private]] 

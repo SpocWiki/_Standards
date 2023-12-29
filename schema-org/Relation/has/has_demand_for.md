@@ -41,7 +41,7 @@ Relation describes that:
 ( #has_/range :: Demand )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_seeks.md|has_seeks]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_seeks.md|has_seeks]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_seeks.internal.md|has_seeks.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_seeks.protect.md|has_seeks.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_seeks.private.md|has_seeks.private]] 

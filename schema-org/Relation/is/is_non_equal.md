@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/range :: QualitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/is_non_equal.md|is_non_equal]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_non_equal.md|is_non_equal]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/is_non_equal.internal.md|is_non_equal.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/is_non_equal.protect.md|is_non_equal.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/is_non_equal.private.md|is_non_equal.private]] 

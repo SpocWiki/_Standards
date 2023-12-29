@@ -43,7 +43,7 @@ The act of giving money to a seller in exchange for goods or services rendered. 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, seller, startTime, subjectOf, target, url, vendor, warrantyPromise ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/action/trade_action/buy_action.md|buy_action]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/trade_action/buy_action.md|buy_action]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/buy_action.internal.md|buy_action.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/buy_action.protect.md|buy_action.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/buy_action.private.md|buy_action.private]] 

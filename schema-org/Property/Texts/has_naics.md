@@ -43,7 +43,7 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Texts/has_naics.md|has_naics]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_naics.md|has_naics]] 
 - [[../../../../_internal/schema.org/Predicate/Texts/has_naics.internal.md|has_naics.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Texts/has_naics.protect.md|has_naics.protect]] 
 - [[../../../../_private/schema.org/Predicate/Texts/has_naics.private.md|has_naics.private]] 

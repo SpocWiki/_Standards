@@ -47,7 +47,7 @@ Content that discusses and explains how a particular health-related topic works,
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.md|how_it_works_health_aspect]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.md|how_it_works_health_aspect]] 
 - [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.internal.md|how_it_works_health_aspect.internal]] 
 - [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.protect.md|how_it_works_health_aspect.protect]] 
 - [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/how_it_works_health_aspect.private.md|how_it_works_health_aspect.private]] 

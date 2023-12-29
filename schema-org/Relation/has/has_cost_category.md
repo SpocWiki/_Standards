@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: DrugCostCategory )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_cost_category.md|has_cost_category]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_cost_category.md|has_cost_category]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cost_category.internal.md|has_cost_category.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_cost_category.protect.md|has_cost_category.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_cost_category.private.md|has_cost_category.private]] 

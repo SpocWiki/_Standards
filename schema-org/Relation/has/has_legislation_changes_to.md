@@ -53,7 +53,7 @@ Relation describes that:
 ( #has_/range :: Legislation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_legislation_changes_to.md|has_legislation_changes_to]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_legislation_changes_to.md|has_legislation_changes_to]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legislation_changes_to.internal.md|has_legislation_changes_to.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_legislation_changes_to.protect.md|has_legislation_changes_to.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_legislation_changes_to.private.md|has_legislation_changes_to.private]] 

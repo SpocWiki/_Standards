@@ -48,7 +48,7 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Counts/has_number_of_constraining_properties.md|has_number_of_constraining_properties]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_constraining_properties.md|has_number_of_constraining_properties]] 
 - [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_constraining_properties.internal.md|has_number_of_constraining_properties.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_constraining_properties.protect.md|has_number_of_constraining_properties.protect]] 
 - [[../../../../_private/schema.org/Predicate/Counts/has_number_of_constraining_properties.private.md|has_number_of_constraining_properties.private]] 

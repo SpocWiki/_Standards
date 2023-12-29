@@ -43,7 +43,7 @@ An EventAttendanceModeEnumeration value is one of potentially several modes of o
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_public/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.md|event_attendance_mode_enumeration]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.md|event_attendance_mode_enumeration]] 
 - [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.internal.md|event_attendance_mode_enumeration.internal]] 
 - [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.protect.md|event_attendance_mode_enumeration.protect]] 
 - [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration.private.md|event_attendance_mode_enumeration.private]] 

@@ -42,7 +42,7 @@ Relation describes that:
 ( #has_/range :: Muscle )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_public/schema.org/Predicate/Relations/has/has_nerve_motor.md|has_nerve_motor]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_nerve_motor.md|has_nerve_motor]] 
 - [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nerve_motor.internal.md|has_nerve_motor.internal]] 
 - [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nerve_motor.protect.md|has_nerve_motor.protect]] 
 - [[../../../../../_private/schema.org/Predicate/Relations/has/has_nerve_motor.private.md|has_nerve_motor.private]] 

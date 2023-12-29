@@ -45,7 +45,7 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_public/schema.org/Predicate/Quantities/has_value_for_max.md|has_value_for_max]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_max.md|has_value_for_max]] 
 - [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_max.internal.md|has_value_for_max.internal]] 
 - [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_max.protect.md|has_value_for_max.protect]] 
 - [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_max.private.md|has_value_for_max.private]] 
