@@ -553,7 +553,7 @@ LeiCode:: {"type":"Input","options":{}}
 ### Location
 The location of, for example, where an event is happening, where an organization is located, or where an action takes place.
 
-has_/geo_/location_:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
+has_/location_:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 ### Logo
 An associated logo.

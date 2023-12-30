@@ -26,7 +26,7 @@ VERSION:2.0
 BEGIN:VEVENT
 SUMMARY:Event Title
 DTSTART:20230101T120000
-has_/geo_/location_:Event Location
+has_/location_:Event Location
 END:VEVENT
 END:VCALENDAR
 ```
