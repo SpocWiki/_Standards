@@ -21,7 +21,7 @@ fields: []
 # LegislativeBuilding
 This is a kind of [[FileClass~GovernmentBuilding]]
 
-A legislative building&#x2014;for example, the state capitol.
+A legislative building—for example, the state capitol.
 
 
 ## Use one of these Tags for Objects of this Type:

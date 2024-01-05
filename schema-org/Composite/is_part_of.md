@@ -62,7 +62,7 @@ Relation describes that:
 ( #has_/name :: is_part_of)
 ( #has_/range :: CreativeWork, URL)
 
-#is_/inverse_of  :: [[../Relation/has/has_part|has_Part]] 
+#is_/inverse_of  :: [[has_parts]] 
 
 [ #has_/sub_properties :: [ [[../Relation/is/is_in_defined_term_set|inDefinedTermSet]], [[../Relation/is/part_of/is_part_of_episode|partOfEpisode]], [[../Relation/is/part_of/is_part_of_season|partOfSeason]], [[../Relation/is/part_of/is_part_of_series|partOfSeries]] ] ] 
 

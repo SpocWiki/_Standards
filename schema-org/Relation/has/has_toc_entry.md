@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/name :: is_toc_entry ) 
 ( #has_/range :: [[../../Class/is_a_/creative_work/hyper_toc_entry|HyperTocEntry]] ) 
 
-[ #is_/sub_property_of  :: [[has_part|hasPart]] ] 
+[ #is_/sub_property_of  :: [[../../Composite/has_parts]] ] 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_toc_entry.md|has_toc_entry]] 

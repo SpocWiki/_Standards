@@ -59,7 +59,7 @@ They are the Subject of the [[is_instance_of]] Relation to their [[../Classes.md
 This is disjoint to the [[is_part_of]] and [[../Collection/is_item_in|is_item_in]] Relations. 
 
 Instances can be Members of [[../Classes.md|Classes]]. Typically the narrowest Sub-Class is specified, 
-as the [[is_sub-class_of|subclass-of]] Relation allows to infer many other Classes 
+as the [[is_sub_class_of|subclass-of]] Relation allows to infer many other Classes 
 (but not all! A Thing may be an instance of multiple disjoint Class Hierarchies). 
 
 Tagging Instances like this is futile, because it is implied: 
@@ -69,7 +69,7 @@ Tagging Instances like this is futile, because it is implied:
 
 Don't used this Class in a Relation, because it is too vague. Rather use 
 - [[is_instance_of]] for Objects or 
-- [[is_sub-class_of|is_subclass_of]]  for Classes
+- [[is_sub_class_of|is_subclass_of]]  for Classes
 
 But this [#is_/instance_of :: [[../Class|Class]] ] 
 

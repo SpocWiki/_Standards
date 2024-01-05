@@ -36,7 +36,7 @@ Class of all contact_points.
 Tag Instances like this: 
 #is_a_/contact_point
 
-A contact point&#x2014;for example, a Customer Complaints department.
+A contact point—for example, a Customer Complaints department.
 
 [ #is_/sub_class_of :: [[../StructuredValue]] ]
 

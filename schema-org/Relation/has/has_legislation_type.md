@@ -43,7 +43,7 @@ Relation describes that:
 ( #has_/name :: has_legislation_type )
 ( #has_/range :: CategoryCode, Text )
 
-[ #has_/sub_property_of  :: genre ]
+[ #is_/sub_property_of  :: genre ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_legislation_type.md|has_legislation_type]] 

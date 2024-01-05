@@ -21,7 +21,7 @@ fields: []
 # GovernmentOffice
 This is a kind of [[FileClass~LocalBusiness]]
 
-A government office&#x2014;for example, an IRS or DMV office.
+A government office—for example, an IRS or DMV office.
 
 
 ## Use one of these Tags for Objects of this Type:

@@ -233,7 +233,7 @@ An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric u
 Asin:: {"type":"Input","options":{}}
 
 ### Availability
-The availability of this item&#x2014;for example In stock, Out of stock, Pre-order, etc.
+The availability of this item—for example In stock, Out of stock, Pre-order, etc.
 
 Availability:: {"type":"Select","options":{"valuesList":{"BackOrder","Discontinued","InStock","InStoreOnly","LimitedAvailability","OnlineOnly","OutOfStock","PreOrder","PreSale","SoldOut"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 

@@ -190,7 +190,7 @@ See also [[eligibleRegion]].
 IneligibleRegion:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')"}}
 
 ### PlayerType
-Player type required&#x2014;for example, Flash or Silverlight.
+Player type required—for example, Flash or Silverlight.
 
 PlayerType:: {"type":"Input","options":{}}
 

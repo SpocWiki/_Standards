@@ -43,7 +43,7 @@ Use it like this:
 ( #has_/name :: has_episode )
 ( #has_/range :: [[../../Class/is_a_/creative_work/episode|Episode]] )
 
-[ #is_/sub_property_of  :: [[has_part]] ] 
+[ #is_/sub_property_of  :: [[../../Composite/has_parts]] ] 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_episode.md|has_episode]] 

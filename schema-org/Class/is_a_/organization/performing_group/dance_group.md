@@ -36,7 +36,7 @@ Class of all dance_groups.
 Tag Instances like this: 
 #is_a_/dance_group
 
-A dance group&#x2014;for example, the Alvin Ailey Dance Theater or Riverdance.
+A dance group—for example, the Alvin Ailey Dance Theater or Riverdance.
 
 [ #is_/sub_class_of :: [[../PerformingGroup]] ]
 

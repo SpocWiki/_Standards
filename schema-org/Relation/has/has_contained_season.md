@@ -40,7 +40,7 @@ Use it like this:
 ( #has_/name :: has_contained_season )
 ( #has_/range :: [[../../Class/is_a_/creative_work/creative_work_season|CreativeWorkSeason]] )
 
-[ #is_/sub_property_of  :: [[has_part|hasPart]] ]
+[ #is_/sub_property_of  :: [[../../Composite/has_parts]] ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_contained_season.md|has_contained_season]] 

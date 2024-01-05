@@ -34,6 +34,6 @@ fields:
 ## Relations: 
 
 ### Subclass Relation: 
-![[../schema-org/Class/is_sub-class_of|subclassOf]] 
+![[../schema-org/Class/is_sub_class_of|subclassOf]] 
 is_sub_class_of::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
 

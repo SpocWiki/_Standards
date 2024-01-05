@@ -47,6 +47,8 @@ Unlike the untyped, finite [[../Collection/is_item_in|is_element_of]] Relation,
 or the typed, finite [[../Composite/is_part_of|is_part_of]] Relation 
 this is an infinite, typed Relation. 
 
+#is_/inverse_of :: [[has_instances]] 
+
 Verbs: 
 - rdf:type for XML-RDF
 - typeof Attribute in HTML 
@@ -69,7 +71,7 @@ You can also use a pre-defined #Tag,
 like #is_a_/pet, but that makes Navigation 
 to the actual Class Definition harder.
 
-- For Classes use [is_subclass_of](is_sub-class_of.md)  
+- For Classes use [is_subclass_of](is_sub_class_of.md)  
 
 ## Relation describes that: 
 [ #has_/domain  :: [[Thing]]] 

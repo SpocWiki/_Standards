@@ -36,7 +36,7 @@ Class of all legislative_buildings.
 Tag Instances like this: 
 #is_a_/legislative_building
 
-A legislative building&#x2014;for example, the state capitol.
+A legislative building—for example, the state capitol.
 
 [ #is_/sub_class_of :: [[../GovernmentBuilding]] ]
 

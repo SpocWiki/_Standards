@@ -36,7 +36,7 @@ Class of all government_offices.
 Tag Instances like this: 
 #is_a_/government_office
 
-A government office&#x2014;for example, an IRS or DMV office.
+A government office—for example, an IRS or DMV office.
 
 [ #is_/sub_class_of :: [[../LocalBusiness]] ]
 
