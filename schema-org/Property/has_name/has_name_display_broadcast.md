@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of BroadcastService.
 
 Use it like this: 
-- [ #has_//name_display_broadcast :: Text ] or 
+- [ #has_/name_display_broadcast :: Text ] or 
 - [ has_name_display_broadcast :: Text ] 
 
 The name displayed in the channel guide. 

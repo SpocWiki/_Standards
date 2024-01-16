@@ -3,35 +3,37 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
+cssclasses:
+  - Predicate
+  - Url
 publish: true
-
-# Hugo Tags
 type: Predi_Url
-
 title: has_url_for_content_url
 linkTitle: has_url_for_content_url
-
-keywords: [content_url]
+keywords:
+  - content_url
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Url
-
+  - class/Property
+  - schema-org/Property/Url
 aliases:
-- content-url
-- content_url
-- contentUrl
-- has_url_for_content_url
+  - content-url
+  - content_url
+  - contentUrl
+  - has_url_for_content_url
+  - documentation-url
 ---
 
-Predicate to specify the Url of MediaObject.
+#has_/url_for_/same_as :: [[../../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~seeAlso|rdfs:seeAlso]]
+#has_/url_for_/same_as :: [[../../../W3C/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy|rdfs:isDefinedBy]]
+#has_/url_for_/same_as :: [[dc~source]]
+#has_/url_for_/same_as :: [[../../../foaf/foaf~page|foaf:page]] 
+
+
+Predicate to specify the Url of a [[../../Class/is_a_/creative_work/media_object|MediaObject]].
 
 Use it like this: 
 - [ #has_/url_for_/content :: URL ] or 

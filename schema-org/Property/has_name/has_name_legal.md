@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of Organization.
 
 Use it like this: 
-- [ #has_//name_legal :: Text ] or 
+- [ #has_/name_legal :: Text ] or 
 - [ has_name_legal :: Text ] 
 
 The official name of the organization, e.g. the registered company name.

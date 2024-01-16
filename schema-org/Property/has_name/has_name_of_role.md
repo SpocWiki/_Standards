@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the Text of Role.
 
 Use it like this: 
-- [ #has_//name_of_role :: Text, URL ] or 
+- [ #has_/name_of_role :: Text, URL ] or 
 - [ has_name_of_role :: Text, URL ] 
 
 A role played, performed or filled by a person or organization. For example, the team of creators for a comic book might fill the roles named "inker", "penciller", and "letterer"; or an athlete in a SportsTeam might play in the position named "Quarterback".

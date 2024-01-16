@@ -31,7 +31,7 @@ aliases:
 - has_url_for_discussion_url
 ---
 
-Predicate to specify the Url of CreativeWork.
+Predicate to specify the Url of [[../../Class/is_a_/creative_work|CreativeWork]].
 
 Use it like this: 
 - [ #has_/url_for_/discussion :: URL ] or 

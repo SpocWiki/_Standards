@@ -1,0 +1,60 @@
+# [[Eon~3~Proterozoic]] 
+
+A time period from 2500 to 538.8 million years ago.
+
+> The **Proterozoic** (IPA:  PROH-tər-ə-ZOH-ik, PROT-, -⁠ər-oh-, -⁠trə-, -⁠troh-) is the third of the four geologic eons of Earth's history, spanning the time interval from 2500 to 538.8 Mya, the longest eon of the Earth's geologic time scale. It is preceded by the Archean and followed by the Phanerozoic, and is the most recent part of the Precambrian "supereon".
+>
+> The Proterozoic is subdivided into three geologic eras (from oldest to youngest): the Paleoproterozoic, Mesoproterozoic and Neoproterozoic. It covers the time from the appearance of free oxygen in Earth's atmosphere to just before the proliferation of complex life on the Earth during the Cambrian Explosion. The name Proterozoic combines two words of Greek origin: protero- meaning "former, earlier", and -zoic, meaning "of life".Well-identified events of this eon were the transition to an oxygenated atmosphere during the Paleoproterozoic; the evolution of eukaryotes via symbiogenesis; several global glaciations, which produced the 300 million years-long Huronian glaciation (during the Siderian and Rhyacian periods of the Paleoproterozoic) and the hypothesized Snowball Earth (during the Cryogenian period in the late Neoproterozoic); and the Ediacaran period (635 to 538.8 Ma), which is characterized by the evolution of abundant soft-bodied multicellular organisms such as sponges, algae, cnidarians, bilaterians and the sessile Ediacaran biota (some of which had evolved sexual reproduction) and provides the first obvious fossil evidence of life on Earth.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Proterozoic)
+
+#has_/label_/bg  :: Протерозой
+#has_/label_/cs  :: Proterozoikum
+#has_/label_/da  :: Proterozoikum
+#has_/label_/de  :: Proterozoikum
+#has_/label_/es  :: Proterozoico
+#has_/label_/et  :: Proterosoikum
+#has_/label_/fi  :: Proterotsoikum
+#has_/label_/fr  :: Protérozoïque
+#has_/label_/hu  :: proterozoos
+#has_/label_/it  :: proterozoico
+#has_/label_/ja  :: 原生代
+#has_/label_/lt  :: Proterozojus
+#has_/label_/nl  :: Proterozoïcum
+#has_/label_/no  :: Proterozoisk
+#has_/label_/pl  :: Proterozoik
+#has_/label_/pt  :: Proterozóico
+#has_/label_/sk  :: proterozoikum
+#has_/label_/sl  :: proterozoik
+#has_/label_/sv  :: proterozoikum
+#has_/label_/zh  :: 元古宙
+    skos:broader ischart:Precambrian ;
+#has_/time_/created/Ma :: -2500
+#has_/time_/destroyed/Ma :: -538.8 
+
+    sh:order 170 ;
+
+#has_/text_of_/color :: #F73563
+
+## All Contents
+
+```ccard
+type: folder_brief_live
+style : card
+col: 2
+briefMax: 128
+noteOnly: true
+```
+
+
+
+## All Contents
+
+```ccard
+type: folder_brief_live
+style : card
+col: 2
+briefMax: 128
+noteOnly: true
+```
+

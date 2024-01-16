@@ -34,7 +34,7 @@ aliases:
 Predicate to describe the Text of DietarySupplement, Drug.
 
 Use it like this: 
-- [ #has_//name_non_proprietary :: Text ] or 
+- [ #has_/name_non_proprietary :: Text ] or 
 - [ has_name_non_proprietary :: Text ] 
 
 The generic name of this drug or supplement.
