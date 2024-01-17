@@ -1,7 +1,7 @@
 
 # [[Period~1~Tonian]] 
 
-> The **Tonian** (from Ancient Greek: τόνος, romanized: tónos, meaning "stretch") is the first geologic period of the Neoproterozoic Era. It lasted from 1000 to 720 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined by the ICS based on radiometric chronometry. The Tonian is preceded by the [[../Era~2~Mesoproterozoic/Period~Stenian|Period~Stenian]] of the Mesoproterozoic Era and followed by the [[Period~2~Cryogenian]].
+> The **Tonian** (from Ancient Greek: τόνος, romanized: tónos, meaning "stretch") is the first geologic period of the Neoproterozoic Era. It lasted from 1000 to 720 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined by the ICS based on radiometric chronometry. The Tonian is preceded by the [[../Era~2~Mesoproterozoic/Period~3~Stenian|Period~3~Stenian]] of the Mesoproterozoic Era and followed by the [[Period~2~Cryogenian]].
 >
 > Rifting leading to the breakup of supercontinent [[Rodinia]], 
 > which had formed in the mid-Stenian, occurred during this period, 

@@ -25,7 +25,7 @@ ischart:Fortunian
 #has_/label_/sv  :: fortun
 #has_/label_/zh  :: 好运期
     skos:broader ischart:Terreneuvian ;
-    skos:definition "A time period from 538.8 to 529 million years ago" ;
+A time period from 538.8 to 529 million years ago. 
 
 #has_/abbreviation :: ep1
     skos:prefLabel "Fortunian"@en ;

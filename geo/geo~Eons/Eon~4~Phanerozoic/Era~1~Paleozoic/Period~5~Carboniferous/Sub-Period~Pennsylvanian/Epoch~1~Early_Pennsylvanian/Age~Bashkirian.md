@@ -1,9 +1,13 @@
+# [[Age~Bashkirian]] 
 
-ischart:Bashkirian
-    a skos:Concept ;
-    gts:rank rank:Age ;
-    rdfs:isDefinedBy ts:gts2020 ;
-    skos:altLabel
+A time period from 323.2 to 315.2 million years ago. 
+
+> The **Bashkirian** is in the International Commission on Stratigraphy geologic timescale the lowest stage or oldest age of the Pennsylvanian. The Bashkirian age lasted from 323.2 to 315.2 Ma, is preceded by the Serpukhovian and is followed by the Moscovian.
+>
+> The Bashkirian overlaps with the upper part of the Namurian and lower part of the Westphalian stages from regional European stratigraphy. It also overlaps with the North American Morrowan and Atokan stages and the Chinese Luosuan and lower Huashibanian stages.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bashkirian)
+
 #has_/label_/bg  :: Башкир
 #has_/label_/cs  :: Bashkir
 #has_/label_/da  :: Bashkirien
@@ -24,21 +28,14 @@ ischart:Bashkirian
 #has_/label_/sl  :: baškirij
 #has_/label_/sv  :: bashkir
 #has_/label_/zh  :: 巴什基尔期
-    skos:broader ischart:LowerPennsylvanian ;
-    skos:definition "A time period from 323.2 to 315.2 million years ago" ;
 
 #has_/abbreviation :: c4
-    skos:prefLabel "Bashkirian"@en ;
-#has_/time_/created/Ma :: -323.2 
 
- 0.4
-        ] ;
+#has_/time_/created/Ma :: -323.2 
 #has_/time_/destroyed/Ma :: -315.2 
 
- 0.2
-        ] ;
-
     sh:order 97 ;
+
 #has_/text_of_/color :: #99C2B5
 
 ## All Contents

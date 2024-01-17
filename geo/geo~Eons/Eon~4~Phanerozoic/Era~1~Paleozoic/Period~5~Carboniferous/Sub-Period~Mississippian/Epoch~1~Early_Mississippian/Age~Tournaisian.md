@@ -1,9 +1,13 @@
+# [[Age~Tournaisian]] 
 
-ischart:Tournaisian
-    a skos:Concept ;
-    gts:rank rank:Age ;
-    rdfs:isDefinedBy ts:gts2020 ;
-    skos:altLabel
+A time period from 358.9 to 346.7 million years ago. 
+
+> The **Tournaisian** is in the ICS geologic timescale the lowest stage or oldest age of the Mississippian, the oldest subsystem of the Carboniferous. The Tournaisian age lasted from 358.9 Ma to 346.7 Ma. It is preceded by the [[../../../Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian|Age~2~Famennian]] (the uppermost stage of the Devonian) and is followed by the [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]]. 
+> 
+> In global stratigraphy, the Tournaisian contains two substages: the Hastarian (lower Tournaisian) and Ivorian (upper Tournaisian). These two substages were originally designated as European regional stages.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Tournaisian)
+
 #has_/label_/bg  :: Турней
 #has_/label_/cs  :: Tournai
 #has_/label_/da  :: Tournaisien
@@ -24,21 +28,13 @@ ischart:Tournaisian
 #has_/label_/sl  :: tournaisij
 #has_/label_/sv  :: tournas
 #has_/label_/zh  :: 杜内期
-    skos:broader ischart:LowerMississippian ;
-    skos:definition "A time period from 358.9 to 346.7 million years ago" ;
 
 #has_/abbreviation :: c1
-    skos:prefLabel "Tournaisian"@en ;
 #has_/time_/created/Ma :: -358.9 
-
- 0.4
-        ] ;
 #has_/time_/destroyed/Ma :: -346.7 
 
- 0.4
-        ] ;
-
     sh:order 107 ;
+
 #has_/text_of_/color :: #8CB06C
 
 ## All Contents

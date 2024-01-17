@@ -25,7 +25,7 @@ ischart:CambrianStage2
 #has_/label_/sv  :: kambrium etage 1
 #has_/label_/zh  :: 第二期
     skos:broader ischart:Terreneuvian ;
-    skos:definition "A time period from 521 to 509 million years ago" ;
+A time period from 521 to 509 million years ago. 
 
 #has_/abbreviation :: ep3
     skos:prefLabel "Cambrian-Stage 2"@en ;

@@ -1,9 +1,13 @@
+# [[Age~Serpukhovian]] 
 
-ischart:Serpukhovian
-    a skos:Concept ;
-    gts:rank rank:Age ;
-    rdfs:isDefinedBy ts:gts2020 ;
-    skos:altLabel
+A time period from 330.9 to 323.2 million years ago. 
+
+> The **Serpukhovian** is in the ICS geologic timescale the uppermost stage or youngest age of the Mississippian, the lower subsystem of the Carboniferous. The Serpukhovian age lasted from 330.9 Ma to 323.2 Ma. It is preceded by the [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] and is followed by the [[../../Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]]. 
+> 
+> The Serpukhovian correlates with the lower part of the Namurian Stage of European stratigraphy and the middle and upper parts of the Chesterian Stage of North American stratigraphy.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Serpukhovian)
+
 #has_/label_/bg  :: Серпухов
 #has_/label_/cs  :: Serpukhov
 #has_/label_/da  :: Serpukhovien
@@ -24,21 +28,13 @@ ischart:Serpukhovian
 #has_/label_/sl  :: serpukhovij
 #has_/label_/sv  :: serpukhov
 #has_/label_/zh  :: 谢尔普霍夫期
-    skos:broader ischart:UpperMississippian ;
-    skos:definition "A time period from 330.9 to 323.2 million years ago" ;
 
 #has_/abbreviation :: c3
-    skos:prefLabel "Serpukhovian"@en ;
 #has_/time_/created/Ma :: -330.9 
-
- 0.2
-        ] ;
 #has_/time_/destroyed/Ma :: -323.2 
 
- 0.4
-        ] ;
-
     sh:order 100 ;
+
 #has_/text_of_/color :: #BFC26B
 
 ## All Contents
