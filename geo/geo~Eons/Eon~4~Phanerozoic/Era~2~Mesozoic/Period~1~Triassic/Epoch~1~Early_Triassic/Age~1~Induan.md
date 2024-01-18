@@ -1,5 +1,7 @@
 # [[Age~1~Induan]]
 
+#is_a_/time_/Age 
+
 A time period from 251.902 to 251.2 million years ago. 
 
 > The **Induan** is the first age of the Early Triassic epoch in the geologic timescale, or the lowest stage of the Lower Triassic series in chronostratigraphy. It spans the time between 251.9 Ma and 251.2 Ma (million years ago). The Induan is sometimes divided into the Griesbachian and the Dienerian subages or substages. The Induan is preceded by the Changhsingian (latest Permian) and is followed by the Olenekian.

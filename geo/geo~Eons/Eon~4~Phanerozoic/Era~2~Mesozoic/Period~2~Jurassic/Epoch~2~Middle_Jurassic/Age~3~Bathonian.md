@@ -1,5 +1,7 @@
 # [[Age~3~Bathonian]] 
 
+#is_a_/time_/Age 
+
 A time period from 168.2 to 165.3 million years ago. 
 
 > In the geologic timescale the **Bathonian** is an age and stage of the Middle Jurassic. It lasted from approximately 168.2 ±1.2 Ma to around 165.3 ±1.1 Ma (million years ago). The Bathonian Age succeeds the Bajocian Age and precedes the Callovian Age.

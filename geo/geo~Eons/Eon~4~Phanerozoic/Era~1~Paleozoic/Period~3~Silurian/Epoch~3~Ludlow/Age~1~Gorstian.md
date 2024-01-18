@@ -1,3 +1,7 @@
+# [[Age~1~Gorstian]] 
+
+#is_a_/time_/Age 
+
 A time period from 427.4 to 425.6 million years ago. 
 
 ischart:Gorstian

@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~2~Middle_Pennsylvanian]]
 
+#is_a_/time_/Epoch 
+
 A time period from 315.2 to 307.0 million years ago. 
 
 #has_/label_/ja  :: 中期ペンシルバニア紀

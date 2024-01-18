@@ -1,5 +1,7 @@
 # [[Age~4~Toarcian]] 
 
+#is_a_/time_/Age 
+
 A time period from 184.2 to 174.7 million years ago. 
 
 > The **Toarcian** is, in the ICS' geologic timescale, an age and stage in the Early or Lower Jurassic. It spans the time between 182.7 Ma (million years ago) and 174.7 ±0.8 Ma.  It follows the [[Age~3~Pliensbachian]] and is followed by the [[../Epoch~2~Middle_Jurassic/Age~1~Aalenian|Age~1~Aalenian]].

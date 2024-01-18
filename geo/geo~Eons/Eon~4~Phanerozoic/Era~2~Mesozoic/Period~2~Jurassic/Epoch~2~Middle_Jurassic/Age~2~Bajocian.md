@@ -1,5 +1,7 @@
 # [[Age~2~Bajocian]] 
 
+#is_a_/time_/Age 
+
 A time period from 170.9 to 168.2 million years ago. 
 
 > In the geologic timescale, the **Bajocian** is an age and stage in the Middle Jurassic. It lasted from approximately 170.9 ±0.8 Ma to around 168.2 ±1.2 Ma (million years ago). The Bajocian Age succeeds the Aalenian Age and precedes the [[Age~3~Bathonian]] Age.

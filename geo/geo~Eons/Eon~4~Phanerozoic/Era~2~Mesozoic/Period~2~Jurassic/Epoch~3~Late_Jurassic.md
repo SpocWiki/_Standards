@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~3~Late_Jurassic]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 161.5 to 145 million years ago. 
 
 > The Late Jurassic is the third epoch of the Jurassic Period, and it spans the geologic time from 161.5 ± 1.0 to 145.0 ± 0.8 million years ago (Ma), which is preserved in Upper Jurassic strata.In European lithostratigraphy, the name "Malm" indicates rocks of Late Jurassic age. In the past, Malm was also used to indicate the unit of geological time, but this usage is now discouraged to make a clear distinction between lithostratigraphic and geochronologic/chronostratigraphic units.

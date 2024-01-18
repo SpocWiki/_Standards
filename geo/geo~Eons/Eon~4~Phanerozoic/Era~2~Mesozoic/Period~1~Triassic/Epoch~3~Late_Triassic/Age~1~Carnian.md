@@ -1,5 +1,7 @@
 # [[Age~1~Carnian]] 
 
+#is_a_/time_/Age 
+
 A time period from 237 to 227 million years ago. 
 
 > The **Carnian** (less commonly, Karnian) is the lowermost stage of the Upper Triassic Series (or earliest age of the Late Triassic Epoch). It lasted from 237 to 227 million years ago (Ma). The Carnian is preceded by the [[../Epoch~2~Middle_Triassic/Age~2~Ladinian|Age~2~Ladinian]] and is followed by the [[Age~2~Norian]]. Its boundaries are not characterized by major extinctions or biotic turnovers, but a climatic event (known as the Carnian pluvial episode characterized by substantial rainfall) occurred during the Carnian and seems to be associated with important extinctions or biotic radiations. Another extinction occurred at the Carnian-Norian boundary, ending the Carnian age.

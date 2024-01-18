@@ -1,6 +1,8 @@
 
 # [[Epoch~1~Miocene]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 23.03 to 5.333 million years ago. 
 
 > The **Miocene** ( MY-ə-seen, -⁠oh-) is the first geological epoch of the Neogene Period and extends from about 23.03 to 5.333 million years ago (Ma). 

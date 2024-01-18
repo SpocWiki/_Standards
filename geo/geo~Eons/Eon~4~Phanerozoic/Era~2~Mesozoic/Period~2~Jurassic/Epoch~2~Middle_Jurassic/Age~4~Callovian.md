@@ -1,5 +1,7 @@
 # [[Age~4~Callovian]] 
 
+#is_a_/time_/Age 
+
 A time period from 165.3 to 161.5 million years ago. 
 
 > In the geologic timescale, the **Callovian** is an age and stage in the Middle Jurassic, lasting between 165.3 ± 1.1 Ma (million years ago) and 161.5 ± 1.0 Ma. It is the last stage of the Middle Jurassic, following the [[Age~3~Bathonian]] and preceding the [[../Epoch~3~Late_Jurassic/Age~1~Oxfordian|Age~1~Oxfordian]].

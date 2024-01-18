@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~3~Late_Ordovician]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 458.4 to 443.8 million years ago. 
 
 > The Late Ordovician, also called the Upper Ordovician by geologists, is the third epoch of the Ordovician period. 

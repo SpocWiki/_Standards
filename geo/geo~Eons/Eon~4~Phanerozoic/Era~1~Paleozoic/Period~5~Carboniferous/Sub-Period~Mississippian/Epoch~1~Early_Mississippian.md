@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~1~Early_Mississippian]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 358.9 to 346.7 million years ago. 
 
 #has_/label_/ja  :: 前期ミシシッピアン紀

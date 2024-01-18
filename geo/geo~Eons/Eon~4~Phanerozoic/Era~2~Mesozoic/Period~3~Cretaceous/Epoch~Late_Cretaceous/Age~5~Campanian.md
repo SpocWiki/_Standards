@@ -1,5 +1,7 @@
 # [[Age~5~Campanian]]
 
+#is_a_/time_/Age 
+
 A time period from 83.6 to 72.1 million years ago. 
 
 > The **Campanian** is the fifth of six ages of the Late Cretaceous Epoch on the geologic timescale of the International Commission on Stratigraphy (ICS). In chronostratigraphy, it is the fifth of six stages in the Upper Cretaceous Series. Campanian spans the time from 83.6 (± 0.2) to 72.1 (± 0.2) million years ago. It is preceded by the Santonian and it is followed by the Maastrichtian.The Campanian was an age when a worldwide sea level rise covered many coastal areas. The morphology of some of these areas has been preserved: it is an unconformity beneath a cover of marine sedimentary rocks.

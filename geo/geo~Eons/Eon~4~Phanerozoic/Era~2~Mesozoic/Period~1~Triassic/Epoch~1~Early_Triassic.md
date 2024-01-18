@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~1~Early_Triassic]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 251.902 to 247.2 million years ago. 
 
 > The **Early Triassic** is the first of three epochs of the Triassic Period of the geologic timescale. It spans the time between 251.9 Ma and 247.2 Ma (million years ago). Rocks from this epoch are collectively known as the Lower Triassic Series, which is a unit in chronostratigraphy. 

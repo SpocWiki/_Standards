@@ -1,5 +1,7 @@
 # [[Age~1~Ypresian]] 
 
+#is_a_/time_/Age 
+
 A time period from 56.0 to 47.8 million years ago. 
 
 > In the geologic timescale the **Ypresian** is the oldest age or lowest stratigraphic stage of the Eocene. It spans the time between 56 and 47.8 Ma, is preceded by the Thanetian Age (part of the Paleocene) and is followed by the Eocene [[Age~2~Lutetian]]. The Ypresian is consistent with the lower Eocene.

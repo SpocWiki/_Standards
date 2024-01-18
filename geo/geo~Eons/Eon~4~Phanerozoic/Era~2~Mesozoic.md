@@ -5,6 +5,8 @@ aliases:
 
 # [[Era~2~Mesozoic]] 
 
+#is_a_/time_/Era 
+
 A time period from 251.902 to 66.0 million years ago.
 
 #has_/label_/bg  :: Мезозой

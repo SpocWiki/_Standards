@@ -1,5 +1,7 @@
 # [[Age~2~Sinemurian]] 
 
+#is_a_/time_/Age 
+
 A time period from 199.5 to 192.9 million years ago. 
 
 > In the geologic timescale, the **Sinemurian** is an age and stage in the Early or Lower Jurassic Epoch or Series. It spans the time between 199.5 ±0.3 Ma and 192.9 ±0.3 Ma (million years ago). The Sinemurian is preceded by the Hettangian and is followed by the [[Age~3~Pliensbachian]]. 

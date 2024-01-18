@@ -1,5 +1,7 @@
 # [[Age~1~Kasimovian]] 
 
+#is_a_/time_/Age 
+
 A time period from 307.0 to 303.7 million years ago. 
 
 > The **Kasimovian** is a geochronologic age or chronostratigraphic stage in the ICS geologic timescale. It is the third stage in the Pennsylvanian (late Carboniferous), lasting from 307 to 303.7 Ma. The Kasimovian Stage follows the [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] and is followed by the [[Age~2~Gzhelian]].

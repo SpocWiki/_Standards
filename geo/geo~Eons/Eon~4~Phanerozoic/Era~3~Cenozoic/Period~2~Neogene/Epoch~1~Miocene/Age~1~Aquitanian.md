@@ -1,12 +1,14 @@
 # [[Age~1~Aquitanian]] 
 
+#is_a_/time_/Age 
+
+A time period from 23.03 to 20.44 million years ago. 
+
 > The **Aquitanian** is, in the International Commission on Stratigraphy's (ICS) geologic timescale, the oldest age or lowest stage in the Miocene. It spans the time between 23.03 ± 0.05 Ma and 20.43 ± 0.05 Ma (million years ago) during the Early Miocene. It was a dry, cooling period. The Aquitanian succeeds the [[../../Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian]] (the youngest age of the Oligocene) and precedes the [[Age~2~Burdigalian]].
 >
 > The Aquitanian Age overlaps with the Harrisonian, Agenian, Pareora, Landon, Otaian, and Waitakian Ages from various regional timescales.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aquitanian%20(stage))
-
-A time period from 23.03 to 20.44 million years ago. 
 
 #has_/label_/bg  :: пквитан
 #has_/label_/cs  :: Aquitan

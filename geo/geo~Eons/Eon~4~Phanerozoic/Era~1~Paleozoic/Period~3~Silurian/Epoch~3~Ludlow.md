@@ -1,6 +1,8 @@
 
 # [[Epoch~3~Ludlow]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 427.4 to 419.2 million years ago. 
 
 > In the geological timescale, the **Ludlow Epoch** (from 427.4 ± 0.5 million years ago to 423.0 ± 2.3 million years ago) occurred during the Silurian Period, after the end of the Homerian Age. It is named for the town of Ludlow in Shropshire, England.

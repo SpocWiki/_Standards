@@ -1,5 +1,7 @@
 # [[Age~1~Frasnian]] 
 
+#is_a_/time_/Age 
+
 A time period from 382.7 to 372.2 million years ago. 
 
 > The **Frasnian** is one of two faunal stages in the Late Devonian Period. It lasted from 382.7 million years ago to 372.2  million years ago. It was preceded by the [[../Epoch~2~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]] Stage and followed by the [[Age~2~Famennian]] Stage.

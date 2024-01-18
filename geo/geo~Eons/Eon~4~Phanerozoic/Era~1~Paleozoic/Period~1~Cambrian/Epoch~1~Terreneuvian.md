@@ -1,6 +1,8 @@
 
 # [[Epoch~1~Terreneuvian]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 538.8 to 521 million years ago. 
 
 > The **Terreneuvian** is the lowermost and oldest series of the Cambrian geological system. Its base is defined by the first appearance datum of the trace fossil Treptichnus pedum around 538.8 million years ago. Its top is defined as the first appearance of trilobites in the stratigraphic record around 521 million years ago. This series' name was formally accepted by the International Commission on Stratigraphy in 2007.The Fortunian stage and presently unnamed Cambrian Stage 2 are the stages within this series. The Terreneuvian corresponds to the pre-trilobitic Cambrian.The name Terreneuvian is derived from Terre Neuve, the French name for the island of Newfoundland, Canada, where many rocks of this age are found, including the type section.

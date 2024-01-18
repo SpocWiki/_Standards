@@ -1,5 +1,7 @@
 # [[Age~3~Coniacian]] 
 
+#is_a_/time_/Age 
+
 A time period from 89.8 to 86.3 million years ago. 
 
 > The **Coniacian** is an age or stage in the geologic timescale. It is a subdivision of the Late Cretaceous Epoch or Upper Cretaceous Series and spans the time between 89.8 ± 1 Ma and 86.3 ± 0.7 Ma (million years ago). The Coniacian is preceded by the [[Age~2~Turonian]] and followed by the [[Age~4~Santonian]].

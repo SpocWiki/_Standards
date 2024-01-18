@@ -1,5 +1,7 @@
 # [[Age~3~Capitanian]] 
 
+#is_a_/time_/Age 
+
 A time period from 264.28 to 259.51 million years ago. 
 
 > In the geologic timescale, the **Capitanian** is an age or stage of the Permian. It is also the uppermost or latest of three subdivisions of the Guadalupian Epoch or Series. The Capitanian lasted between 264.28 and 259.51 million years ago. It was preceded by the [[Age~2~Wordian]] and followed by the [[../Epoch~3~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]]. 

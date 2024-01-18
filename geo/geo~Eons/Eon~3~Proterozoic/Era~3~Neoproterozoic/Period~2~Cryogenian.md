@@ -1,5 +1,7 @@
 # [[Period~2~Cryogenian]] 
 
+#is_a_/time_/Period 
+
 A time period from 720 to 635 million years ago. 
 
 > The **Cryogenian** (from Ancient Greek: κρύος, romanized: krýos, meaning "cold" and γένεσις, romanized: génesis, meaning "birth") is a geologic period that lasted from 720 to 635 million years ago. 

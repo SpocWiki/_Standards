@@ -1,5 +1,7 @@
 # [[Age~1~Berriasian]] 
 
+#is_a_/time_/Age 
+
 A time period from 145.0 to 139.8 million years ago. 
 
 > In the geological timescale, the **Berriasian** is an age/stage of the Early/Lower Cretaceous. It is the oldest subdivision in the entire Cretaceous. It has been taken to span the time between 145.0 ± 4.0 Ma and 139.8 ± 3.0 Ma (million years ago). The Berriasian succeeds the [[../../Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian|Age~3~Tithonian]] (part of the Jurassic) and precedes the [[Age~2~Valanginian]].

@@ -1,5 +1,7 @@
 # [[Age~3~Thanetian]] 
 
+#is_a_/time_/Age 
+
 A time period from 59.2 to 56.0 million years ago. 
 
 > The **Thanetian** is, in the ICS Geologic timescale, the latest age or uppermost stratigraphic stage of the Paleocene Epoch or Series. It spans the time between 59.2 and 56 Ma. The Thanetian is preceded by the [[Age~2~Selandian]] Age and followed by the [[../Epoch~2~Eocene/Age~1~Ypresian]] Age. The Thanetian is sometimes referred to as the Late Paleocene.

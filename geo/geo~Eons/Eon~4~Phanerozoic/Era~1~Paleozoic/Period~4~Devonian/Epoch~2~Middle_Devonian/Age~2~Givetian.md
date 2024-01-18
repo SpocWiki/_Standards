@@ -1,5 +1,7 @@
 # [[Age~2~Givetian]] 
 
+#is_a_/time_/Age 
+
 A time period from 387.7 to 382.7 million years ago. 
 
 > The **Givetian** is one of two faunal stages in the Middle Devonian Period. It lasted from 387.7 million years ago to 382.7  million years ago. It was preceded by the Eifelian Stage and followed by the Frasnian Stage. It is named after the town of Givet in France. The oldest forests occurred during the late Givetian. The lower GSSP is located at Jebel Mech Irdane, Tafilalt, Morocco.

@@ -1,5 +1,7 @@
 # [[Age~3~Meghalayan]] 
 
+#is_a_/time_/Age 
+
 A time period from 4_200 thousand years ago to the present. 
 
 > The **Meghalayan** age is the name given in 2018, by the International Commission on Stratigraphy, to the current age or latest geologic age – or uppermost stage of the Quaternary. It is also the upper, or latest, of three subdivisions of the Holocene epoch or series. This way of breaking down time is based only on geology; for example, it is unrelated to the three-age system of historical periods into which human development is sometimes divided.

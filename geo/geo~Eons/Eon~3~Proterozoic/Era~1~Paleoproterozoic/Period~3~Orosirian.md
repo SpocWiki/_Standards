@@ -1,6 +1,8 @@
 
 # [[Period~3~Orosirian]] 
 
+#is_a_/time_/Period 
+
 A time period from 2050 to 1800 million years ago. 
 
 > The **Orosirian** Period ( ; Ancient Greek: ὀροσειρά, romanized: oroseirá, meaning "mountain range") is the third geologic period in the Paleoproterozoic Era and lasted from 2050 Mya to 1800 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.

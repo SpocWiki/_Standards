@@ -1,5 +1,7 @@
 # [[Age~2~Ladinian]] 
 
+#is_a_/time_/Age 
+
 A time period from 242 to 237 million years ago. 
 
 > The **Ladinian** is a stage and age in the Middle Triassic series or epoch. It spans the time between 242 Ma and ~237 Ma (million years ago). The Ladinian was preceded by the [[Age~1~Anisian]] and succeeded by the [[../Epoch~3~Late_Triassic/Age~1~Carnian|Age~1~Carnian]] (part of the Upper or Late Triassic).The Ladinian is coeval with the Falangian regional stage used in China.

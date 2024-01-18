@@ -1,5 +1,7 @@
 # [[Era~1~Eoarchean]] 
 
+#is_a_/time_/Era 
+
 A time period from 4031 to 3600 million years ago.
 
 > The **Eoarchean** (IPA:  EE-oh-ar-KEE-ən; also spelled Eoarchaean) is the first era of the Archean Eon of the geologic record. It spans 431 million years, from the end of the [[../Eon~1~Hadean]] 4031 Mya to the start of the [[Era~2~Paleoarchean]] 3600 Mya. 

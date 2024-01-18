@@ -1,5 +1,7 @@
 # [[Age~1~Gelasian]] 
 
+#is_a_/time_/Age 
+
 A time period from 2.58 to 1.8 million years ago. 
 
 > The **Gelasian** is an age in the international geologic timescale or a stage in chronostratigraphy, being the earliest or lowest subdivision of the Quaternary Period/System and Pleistocene Epoch/Series. It spans the time between 2.58 Ma (million years ago) and 1.80 Ma. It follows the [[../../Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian|Age~2~Piacenzian]] Stage (part of the Pliocene) and is followed by the [[Age~2~Calabrian]] Stage.

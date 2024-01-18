@@ -4,6 +4,8 @@ aliases:
 ---
 # [[Age~4~Late_Pleistocene]] 
 
+#is_a_/time_/Age 
+
 A time period from 0.129 to 0.0117 million years ago. 
 
 > The Late Pleistocene is an unofficial age in the international geologic timescale in chronostratigraphy, also known as the **Upper Pleistocene** from a stratigraphic perspective. It is intended to be the fourth division of the Pleistocene Epoch within the ongoing Quaternary Period. It is currently defined as the time between c. 129,000 and c. 11,700 years ago. The __late Pleistocene equates to the proposed Tarantian Age of the geologic time scale__, preceded by the officially ratified [[Age~3~Chibanian]] (commonly known as Middle Pleistocene) and succeeded by the officially ratified [[../Epoch~2~Holocene/Age~1~Greenlandian]]. 

@@ -1,5 +1,7 @@
 # [[Age~2~Famennian]] 
 
+#is_a_/time_/Age 
+
 A time period from 372.2 to 358.9 million years ago. 
 
 > The **Famennian** is the later of two faunal stages in the Late Devonian Epoch. The most recent estimate for its duration estimates that it lasted from around 371.1 million years ago to 359.3 million years ago. 

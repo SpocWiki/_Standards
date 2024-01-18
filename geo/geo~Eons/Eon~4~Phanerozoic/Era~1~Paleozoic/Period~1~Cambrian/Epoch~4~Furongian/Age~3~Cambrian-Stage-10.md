@@ -1,6 +1,8 @@
 
 # [[Age~3~Cambrian-Stage-10]] 
 
+#is_a_/time_/Age 
+
 A time period from 489.5 to 485.4 million years ago. 
 
 #has_/label_/bg  :: Камбрий - 10 етаж

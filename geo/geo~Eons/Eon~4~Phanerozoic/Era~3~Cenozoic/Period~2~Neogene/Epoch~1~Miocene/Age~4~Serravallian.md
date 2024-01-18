@@ -1,5 +1,7 @@
 # [[Age~4~Serravallian]] 
 
+#is_a_/time_/Age 
+
 A time period from 13.82 to 11.63 million years ago. 
 
 > The **Serravallian** is, in the geologic timescale, an age or a stage in the middle Miocene Epoch/Series, which spans the time between 13.82 Ma and 11.63 Ma (million years ago). The Serravallian follows the [[Age~3~Langhian]] and is followed by the [[Age~5~Tortonian]]. It overlaps with the middle of the Astaracian European Land Mammal Mega Zone, the upper Barstovian and lower Clarendonian North American Land Mammal Ages and the Laventan and lower Mayoan South American Land Mammal Ages. It is also coeval with the Sarmatian and upper Badenian Stages of the Paratethys time scale of Central and eastern Europe.

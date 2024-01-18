@@ -1,5 +1,7 @@
 # [[Age~2~Gzhelian]] 
 
+#is_a_/time_/Age 
+
 A time period from 303.7 to 298.9 million years ago. 
 
 > The **Gzhelian** ( ZHELL-ee-ən) is an age in the ICS geologic timescale or a stage in the stratigraphic column. It is the youngest stage of the Pennsylvanian, the youngest subsystem of the Carboniferous. The Gzhelian lasted from 303.7 to 298.9 Ma. It follows the [[Age~1~Kasimovian]] and is followed by the [[../../../Period~6~Permian/Epoch~1~Cisuralian/Age~1~Asselian|Age~1~Asselian]] age/stage, the oldest subdivision of the Permian system.

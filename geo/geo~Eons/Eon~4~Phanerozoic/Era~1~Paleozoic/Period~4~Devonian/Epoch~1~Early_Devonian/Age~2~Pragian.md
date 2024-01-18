@@ -1,5 +1,7 @@
 # [[Age~2~Pragian]] 
 
+#is_a_/time_/Age 
+
 A time period from 410.8 to 407.6 million years ago. 
 
 > The **Pragian** is one of three faunal stages in the Early Devonian Epoch. It lasted from 410.8 ± 2.8 million years ago to 407.6 ± 2.8 million years ago. It was preceded by the [[Age~1~Lochkovian]] Stage and followed by the [[Age~3~Emsian]] Stage. The most important Lagerstätte of the Pragian is Rhynie chert in Scotland. 

@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~Early_Cretaceous]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 145.0 to 100.5 million years ago. 
 
 > The Early Cretaceous (geochronological name) or the Lower Cretaceous (chronostratigraphic name) is the earlier or lower of the two major divisions of the Cretaceous. It is usually considered to stretch from 145 Ma to 100.5 Ma.

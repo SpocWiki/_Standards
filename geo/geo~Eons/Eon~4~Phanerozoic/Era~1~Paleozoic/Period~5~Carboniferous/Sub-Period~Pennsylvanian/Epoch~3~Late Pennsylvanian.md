@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~3~Late Pennsylvanian]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 307.0 to 298.9 million years ago. 
 
 #has_/label_/bg  :: Къѿен Пенѿилван

@@ -1,5 +1,7 @@
 # [[Age~1~Lochkovian]] 
 
+#is_a_/time_/Age 
+
 A time period from 419.2 to 410.8 million years ago. 
 
 > The **Lochkovian** is one of three faunal stages in the Early Devonian Epoch. It lasted from 419.2 ± 3.2 million years ago to 410.8 ± 2.8 million years ago. It marked the beginning of the Devonian Period, and was followed by the Pragian Stage. It is named after the village of Lochkov in the Czech Republic, now part of the city of Prague. The GSSP is located within the Lochkow Formation at the Klonk Section in Prague.

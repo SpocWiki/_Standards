@@ -1,7 +1,8 @@
 # [[Era~1~Paleoproterozoic]] 
 
-A time period from 2500 to 1600 million years ago.
+#is_a_/time_/Era 
 
+A time period from 2500 to 1600 million years ago.
 
 > The **Paleoproterozoic** Era (also spelled Palaeoproterozoic) is the first of the three sub-divisions (eras) of the Proterozoic eon, and also the longest era of the Earth's geological history, spanning from 2,500 to 1,600 million years ago (2.5–1.6 Ga). It is further subdivided into four geologic periods, namely the Siderian, Rhyacian, Orosirian and Statherian.
 >

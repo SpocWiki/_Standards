@@ -1,5 +1,7 @@
 # [[Eon~2~Archean]] 
 
+#is_a_/time_/Eon
+
 A time period from 4031 to 2500 million years ago.
 
 > The **Archean** Eon (IPA:  ar-KEE-ən, also spelled Archaean or Archæan), in older sources sometimes called the Archaeozoic, is the second of the four geologic eons of Earth's history, preceded by the Hadean Eon and followed by the Proterozoic. 

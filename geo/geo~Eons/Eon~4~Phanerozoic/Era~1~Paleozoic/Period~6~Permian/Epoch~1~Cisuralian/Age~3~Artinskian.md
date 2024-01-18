@@ -1,5 +1,7 @@
 # [[Age~3~Artinskian]] 
 
+#is_a_/time_/Age 
+
 A time period from 290.1 to 283.5 million years ago.
 
 > In the geologic timescale, the **Artinskian** is an age or stage of the Permian. It is a subdivision of the Cisuralian Epoch or Series. The Artinskian likely lasted between 290.1 and 283.5 million years ago (Ma) according to the most recent revision of the International Commission on Stratigraphy (ICS) in 2022. It was preceded by the [[Age~2~Sakmarian]] and followed by the [[Age~4~Kungurian]].

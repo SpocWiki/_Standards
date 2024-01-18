@@ -1,7 +1,9 @@
 
 # [[Period~2~Jurassic]] 
 
-> The **Jurassic** ( juu-RASS-ik) is a geologic period and stratigraphic system that spanned from the end of the [[Period~1~Triassic]] 201.4 million years ago (Mya) to the beginning of the [[Period~3~Cretaceous]], approximately 145 Mya. The Jurassic constitutes the middle period of the Mesozoic Era and is named after the Jura Mountains, where limestone strata from the period were first identified.
+#is_a_/time_/Period 
+
+A time period from> The **Jurassic** ( juu-RASS-ik) is a geologic period and stratigraphic system that spanned from the end of the [[Period~1~Triassic]] 201.4 million years ago (Mya) to the beginning of the [[Period~3~Cretaceous]], approximately 145 Mya. The Jurassic constitutes the middle period of the Mesozoic Era and is named after the Jura Mountains, where limestone strata from the period were first identified.
 >
 > The start of the Jurassic was marked by the major Triassic–Jurassic extinction event, associated with the eruption of the Central Atlantic Magmatic Province (CAMP). The beginning of the Toarcian Stage started around 183 million years ago and is marked by the Toarcian Oceanic Anoxic Event, a global episode of oceanic anoxia, ocean acidification, and elevated global temperatures associated with extinctions, likely caused by the eruption of the Karoo-Ferrar large igneous provinces. The end of the Jurassic, however, has no clear, definitive boundary with the Cretaceous and is the only boundary between geological periods to remain formally undefined.
 >

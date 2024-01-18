@@ -1,5 +1,7 @@
 # [[Age~1~Danian]] 
 
+#is_a_/time_/Age 
+
 A time period from 66.0 to 61.6 million years ago. 
 
 > The **Danian** is the oldest age or lowest stage of the Paleocene Epoch or Series, of the Paleogene Period or System, and of the Cenozoic Era or Erathem. 

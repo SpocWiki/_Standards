@@ -1,5 +1,7 @@
 # [[Age~4~Barremian]] 
 
+#is_a_/time_/Age 
+
 A time period from 125.77 to 121.4 million years ago. 
 
 > The **Barremian** is an age in the geologic timescale (or a chronostratigraphic stage) between 125.77 Ma (million years ago) and 121.4 ± 1.0 Ma (Historically, this stage was placed at 129.4 million to approximately 125 million years ago) It is a subdivision of the Early Cretaceous Epoch (or Lower Cretaceous Series). It is preceded by the [[Age~3~Hauterivian]] and followed by the [[Age~5~Aptian]] Stage.

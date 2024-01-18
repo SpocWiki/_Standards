@@ -1,3 +1,7 @@
+# [[Age~1~Sheinwoodian]] 
+
+#is_a_/time_/Age 
+
 A time period from 433.4 to 430.5 million years ago. 
 
 #has_/label_/bg  :: Шейнуд

@@ -1,6 +1,8 @@
 
 # [[Era~1~Paleozoic]] 
 
+#is_a_/time_/Era 
+
 A time period from 251.902 to 538.8 million years ago
 
 

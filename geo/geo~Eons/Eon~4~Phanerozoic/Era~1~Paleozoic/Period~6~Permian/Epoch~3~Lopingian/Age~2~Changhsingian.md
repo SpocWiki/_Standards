@@ -1,5 +1,7 @@
 # [[Age~2~Changhsingian]] 
 
+#is_a_/time_/Age 
+
 A time period from 254.14 to 251.902 million years ago. 
 
 > In the geologic time scale, the **Changhsingian** or Changxingian is the latest age or uppermost stage of the Permian. It is also the upper or latest of two subdivisions of the Lopingian Epoch or Series. The Changhsingian lasted from 254.14 to 251.9 Ma ago. It is preceded by the [[Age~1~Wuchiapingian]] age/stage and is followed by the [[../../../Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic/Age~1~Induan|Age~1~Induan]] age/stage (Early Triassic epoch).The greatest mass extinction in the Phanerozoic eon, the Permian–Triassic extinction event, occurred around the end of this age.

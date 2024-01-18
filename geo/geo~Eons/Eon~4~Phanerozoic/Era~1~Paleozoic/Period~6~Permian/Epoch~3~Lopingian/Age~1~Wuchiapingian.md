@@ -1,5 +1,7 @@
 # [[Age~1~Wuchiapingian]] 
 
+#is_a_/time_/Age 
+
 A time period from 259.51 to 254.14 million years ago. 
 
 > In the geologic timescale, the **Wuchiapingian** or Wujiapingian (from Chinese: 吴家坪; pinyin: Wújiāpíng; lit. 'Wu Family Flatland"' in the Liangshan area of Hanzhong, Shaanxi Province) is an age or stage of the Permian. It is also the lower or earlier of two subdivisions of the Lopingian Epoch or Series. The Wuchiapingian spans the time between 259.51 and 254.14 million years ago (Ma). It was preceded by the Capitanian and followed by the Changhsingian.Regional stages with which the Wuchiapingian is coeval or overlaps include the Djulfian or Dzhulfian, Longtanian, Rustlerian, Saladoan, and Castilian.

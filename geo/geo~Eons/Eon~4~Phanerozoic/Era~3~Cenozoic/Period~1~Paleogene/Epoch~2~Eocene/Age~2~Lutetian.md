@@ -1,5 +1,7 @@
 # [[Age~2~Lutetian]] 
 
+#is_a_/time_/Age 
+
 A time period from 47.8 to 41.2 million years ago. 
 
 > The **Lutetian** is, in the geologic timescale, a stage or age in the Eocene. It spans the time between 47.8 and 41.2 Ma. The Lutetian is preceded by the [[Age~1~Ypresian]] and is followed by the [[Age~3~Bartonian]]. Together with the Bartonian it is sometimes referred to as the Middle Eocene Subepoch.

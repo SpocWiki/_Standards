@@ -1,5 +1,7 @@
 # [[Age~2~Kimmeridgian]] 
 
+#is_a_/time_/Age 
+
 A time period from 154.8 to 149.2 million years ago. 
 
 > In the geologic timescale, the **Kimmeridgian** is an age in the Late Jurassic Epoch and a stage in the Upper Jurassic Series. It spans the time between 154.8 ±0.8 Ma and 149.2 ±0.7 Ma (million years ago). The Kimmeridgian follows the Oxfordian and precedes the [[Age~3~Tithonian]].

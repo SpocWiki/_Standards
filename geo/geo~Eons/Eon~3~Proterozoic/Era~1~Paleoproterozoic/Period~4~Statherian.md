@@ -1,6 +1,8 @@
 # [[Period~4~Statherian]] 
 
-> The **Statherian** Period ( ; Ancient Greek: σταθερός, romanized: statherós, meaning "stable, firm") is the final geologic period in the Paleoproterozoic Era and lasted from 1800 Mya to 1600 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.The period was characterized on most continents by either new platforms or final cratonization of fold belts. Oxygen levels were 10% to 20% of current values.Rafatazmia, controversially claimed to be present in Statherian beds in India, may be the oldest known confirmably eukaryotic fossil organism.By the beginning of the Statherian, the supercontinent Columbia had assembled.Approximately 1.7 billion years ago, a series of natural nuclear fission reactors was operational in what is now Oklo, Gabon.
+#is_a_/time_/Period 
+
+A time period from> The **Statherian** Period ( ; Ancient Greek: σταθερός, romanized: statherós, meaning "stable, firm") is the final geologic period in the Paleoproterozoic Era and lasted from 1800 Mya to 1600 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.The period was characterized on most continents by either new platforms or final cratonization of fold belts. Oxygen levels were 10% to 20% of current values.Rafatazmia, controversially claimed to be present in Statherian beds in India, may be the oldest known confirmably eukaryotic fossil organism.By the beginning of the Statherian, the supercontinent Columbia had assembled.Approximately 1.7 billion years ago, a series of natural nuclear fission reactors was operational in what is now Oklo, Gabon.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Statherian)
 

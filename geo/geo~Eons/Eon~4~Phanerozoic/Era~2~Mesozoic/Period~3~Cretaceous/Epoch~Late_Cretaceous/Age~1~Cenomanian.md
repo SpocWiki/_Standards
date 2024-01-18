@@ -1,5 +1,7 @@
 # [[Age~1~Cenomanian]] 
 
+#is_a_/time_/Age 
+
 A time period from 100.5 to 93.9 million years ago. 
 
 > The **Cenomanian** is, in the ICS' geological timescale, the oldest or earliest age of the Late Cretaceous Epoch or the lowest stage of the Upper Cretaceous Series. An age is a unit of geochronology; it is a unit of time; the stage is a unit in the stratigraphic column deposited during the corresponding age. Both age and stage bear the same name.

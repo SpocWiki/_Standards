@@ -1,5 +1,7 @@
 # [[Age~1~Hettangian]] 
 
+#is_a_/time_/Age 
+
 A time period from 201.4 to 199.5 million years ago. 
 
 > The **Hettangian** is the earliest age and lowest stage of the Jurassic Period of the geologic timescale. It spans the time between 201.3 ± 0.2 Ma and 199.3 ± 0.3 Ma (million years ago).  The Hettangian follows the Rhaetian (part of the Triassic Period) and is followed by the [[Age~2~Sinemurian]]. 

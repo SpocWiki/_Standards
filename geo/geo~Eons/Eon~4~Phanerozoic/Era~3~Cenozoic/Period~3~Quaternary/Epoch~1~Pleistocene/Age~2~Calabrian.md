@@ -1,5 +1,7 @@
 # [[Age~2~Calabrian]] 
 
+#is_a_/time_/Age 
+
 A time period from 1.8 to 0.774 million years ago. 
 
 > Calabrian is a subdivision of the Pleistocene Epoch of the geologic time scale, defined as 1.8 Ma—774,000 years ago ± 5,000 years, a period of ~1.026 million years.

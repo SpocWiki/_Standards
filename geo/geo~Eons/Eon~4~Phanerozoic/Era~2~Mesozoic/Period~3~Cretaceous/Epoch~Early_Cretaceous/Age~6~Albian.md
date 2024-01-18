@@ -1,5 +1,7 @@
 # [[Age~6~Albian]] 
 
+#is_a_/time_/Age 
+
 A time period from 113.0 to 100.5 million years ago. 
 
 > The **Albian** is both an age of the geologic timescale and a stage in the stratigraphic column. It is the youngest or uppermost subdivision of the Early/Lower Cretaceous Epoch/Series. Its approximate time range is 113.0 ± 1.0 Ma to 100.5 ± 0.9 Ma (million years ago). The Albian is preceded by the [[Age~5~Aptian]] and followed by the [[../Epoch~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]].

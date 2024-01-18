@@ -1,5 +1,7 @@
 # [[Age~2~Drumian]] 
 
+#is_a_/time_/Age 
+
 > The **Drumian** is a stage of the Miaolingian Series of the Cambrian. It succeeds the Wuliuan and precedes the Guzhangian. The base is defined as the first appearance of the trilobite Ptychagnostus atavus around 504.5 million years ago. The top is defined as the first appearance of another trilobite Lejopyge laevigata around 500.5 million years ago.
 >
 > The GSSP is defined in the Drumian section (39.5117°N 112.9915°W﻿ / 39.5117; -112.9915) in the Drum Mountains, Millard County, Utah, United States. The stage was also named after the Drum Mountains. The section is an outcrop of the Wheeler Formation, a succession of calcareous shales. The precise base of the Drumian is a laminated limestone 62 m (203 ft) above the base of the Wheeler Formation.

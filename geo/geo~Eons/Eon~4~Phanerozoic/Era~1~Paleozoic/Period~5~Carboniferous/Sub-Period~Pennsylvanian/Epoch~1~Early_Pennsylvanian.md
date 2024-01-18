@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~1~Early_Pennsylvanian]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 323.2 to 315.2 million years ago. 
 
 #has_/label_/ja  :: 前期ペンシルバニア紀

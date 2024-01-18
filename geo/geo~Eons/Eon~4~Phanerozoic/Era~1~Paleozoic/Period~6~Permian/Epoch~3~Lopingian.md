@@ -1,6 +1,8 @@
 
 # [[Epoch~3~Lopingian]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 259.51 to 251.902 million years ago. 
 
 > The **Lopingian** is the uppermost series/last epoch of the Permian. It is the last epoch of the Paleozoic. The Lopingian was preceded by the Guadalupian and followed by the Early Triassic.

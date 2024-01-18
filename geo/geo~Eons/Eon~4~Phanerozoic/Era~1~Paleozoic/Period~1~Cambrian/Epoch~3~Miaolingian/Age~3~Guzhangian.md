@@ -1,6 +1,8 @@
 
 # [[Age~3~Guzhangian]] 
 
+#is_a_/time_/Age 
+
 A time period from 500.5 to 497 million years ago. 
 
 > The **Guzhangian** is an uppermost stage of the Miaolingian Series of the Cambrian. It follows the Drumian Stage and precedes the Paibian Stage of the Furongian Series. The base is defined as the first appearance of the trilobite Lejopyge laevigata around 500.5 million years ago. The Guzhangian-Paibian boundary is marked by the first appearance of the trilobite Glyptagnostus reticulatus around 497 million years ago.The name Guzhangian is derived from Guzhang County, Hunan Province, China.

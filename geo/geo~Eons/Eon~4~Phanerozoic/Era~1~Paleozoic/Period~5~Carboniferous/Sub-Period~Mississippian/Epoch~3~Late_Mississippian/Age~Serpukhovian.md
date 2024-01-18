@@ -1,5 +1,7 @@
 # [[Age~Serpukhovian]] 
 
+#is_a_/time_/Age 
+
 A time period from 330.9 to 323.2 million years ago. 
 
 > The **Serpukhovian** is in the ICS geologic timescale the uppermost stage or youngest age of the Mississippian, the lower subsystem of the Carboniferous. The Serpukhovian age lasted from 330.9 Ma to 323.2 Ma. It is preceded by the [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] and is followed by the [[../../Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]]. 

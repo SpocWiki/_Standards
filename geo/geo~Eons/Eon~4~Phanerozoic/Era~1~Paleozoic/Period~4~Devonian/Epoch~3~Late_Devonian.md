@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~3~Late_Devonian]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 382.7 to 358.9 million years ago. 
 
 #has_/label_/bg  :: Къѿен Девон

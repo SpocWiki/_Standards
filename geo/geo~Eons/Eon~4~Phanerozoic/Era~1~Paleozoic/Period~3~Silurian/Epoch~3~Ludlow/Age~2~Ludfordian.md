@@ -1,3 +1,7 @@
+# [[Age~2~Ludfordian]] 
+
+#is_a_/time_/Age 
+
 A time period from 425.6 to 423.0 million years ago. 
 
 ischart:Ludfordian

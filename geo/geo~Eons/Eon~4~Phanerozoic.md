@@ -4,6 +4,8 @@ has_/label_/ts: sdfsdf
 
 # [[Eon~4~Phanerozoic]] 
 
+#is_a_/time_/Eon
+
 A time period from 538.8 million years ago to the present.
 
 > The **Phanerozoic** is the current and the latest of the four geologic eons in the Earth's geologic time scale, covering the time period from 538.8 million years ago to the present. It is the eon during which abundant animal and plant life has proliferated, diversified and colonized various niches on the Earth's surface, beginning with the Cambrian period when animals first developed hard shells that can be clearly preserved in the fossil record. The time before the Phanerozoic, collectively called the Precambrian, is now divided into the Hadean, Archaean and Proterozoic eons.

@@ -1,6 +1,16 @@
-# [[Age~Cambrian-Stage-3]] 
+# [[Age~1~Cambrian-Stage-3]] 
+
+#is_a_/time_/Age 
 
 A time period from 521 to 514 million years ago. 
+
+> **Cambrian Stage 3** is the still unnamed third stage of the Cambrian. It succeeds Cambrian Stage 2 and precedes Cambrian Stage 4, although neither its base nor top have been formally defined.  
+> The plan is for its lower boundary to correspond approximately to the first appearance of trilobites, about 521 million years ago, though the globally asynchronous appearance of trilobites warrants the use of a separate, globally synchronous marker to define the base. 
+> 
+> The upper boundary and beginning of Cambrian Stage 4 is informally defined as the first appearance of the trilobite genera Olenellus or Redlichia around 514 million years ago.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%203)
+
 
 #has_/label_/bg  :: Камбрий - 3 етаж
 #has_/label_/cs  :: Kambrium-Stupeň 3

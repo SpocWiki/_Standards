@@ -63,9 +63,9 @@ Verbs:
 
 ## Use it like this: 
 - [ #is_/instance_of :: Class] or 
-- [ #is_a :: Class] or 
-- [ #is_an :: Class] or 
+- [ #is_a_ :: Class] or 
 - [ is_instance_of :: Class]  for Objects
+Do __not__ flex the predicate when the Class starts with a Vowel like so is_an_ ant!
 
 You can also use a pre-defined #Tag, 
 like #is_a_/pet, but that makes Navigation 

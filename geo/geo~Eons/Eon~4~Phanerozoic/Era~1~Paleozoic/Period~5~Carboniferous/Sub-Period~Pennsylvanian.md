@@ -1,6 +1,8 @@
 
 # [[Sub-Period~Pennsylvanian]] 
 
+#is_a_/time_/Period 
+
 A time period from 323.2 to 298.9 million years ago. 
 
 > The Pennsylvanian ( pen-səl-VAYN-i-ən, also known as Upper Carboniferous or Late Carboniferous) is, on the ICS geologic timescale, the younger of two subperiods (or upper of two subsystems) of the Carboniferous Period. It lasted from roughly 323.2 million years ago to 298.9 million years ago. As with most other geochronologic units, the rock beds that define the Pennsylvanian are well identified, but the exact date of the start and end are uncertain by a few hundred thousand years. The Pennsylvanian is named after the U.S. state of Pennsylvania, where the coal-producing beds of this age are widespread.The division between Pennsylvanian and Mississippian comes from North American stratigraphy. In North America, where the early Carboniferous beds are primarily marine limestones, the Pennsylvanian was in the past treated as a full-fledged geologic period between the Mississippian and the Permian. In parts of Europe, the Mississippian and Pennsylvanian are one more-or-less continuous sequence of lowland continental deposits and are grouped together as the Carboniferous Period. The current internationally used geologic timescale of the ICS gives the Mississippian and Pennsylvanian the rank of subperiods, subdivisions of the Carboniferous Period.

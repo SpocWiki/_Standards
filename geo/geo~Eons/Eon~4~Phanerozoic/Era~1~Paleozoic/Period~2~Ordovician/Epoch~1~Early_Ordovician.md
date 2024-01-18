@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~1~Early_Ordovician]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 485.4 to 470.0 million years ago. 
 
 #has_/label_/bg  :: Ранен Ордовик

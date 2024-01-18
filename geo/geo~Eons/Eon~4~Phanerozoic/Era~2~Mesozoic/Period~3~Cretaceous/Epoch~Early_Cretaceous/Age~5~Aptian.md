@@ -1,5 +1,7 @@
 # [[Age~5~Aptian]] 
 
+#is_a_/time_/Age 
+
 A time period from 121.4 to 113.0 million years ago. 
 
 > The **Aptian** is an age in the geologic timescale or a stage in the stratigraphic column. It is a subdivision of the Early or Lower Cretaceous Epoch or Series and encompasses the time from 121.4 ± 1.0 Ma to 113.0 ± 1.0 Ma (million years ago), approximately. The Aptian succeeds the Barremian and precedes the Albian, all part of the Lower/Early Cretaceous.The Aptian partly overlaps the upper part of the Western European Urgonian Stage.

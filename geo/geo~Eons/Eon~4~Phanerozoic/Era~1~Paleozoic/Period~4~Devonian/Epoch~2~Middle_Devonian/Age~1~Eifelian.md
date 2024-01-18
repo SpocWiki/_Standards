@@ -1,5 +1,7 @@
 # [[Age~1~Eifelian]] 
 
+#is_a_/time_/Age 
+
 A time period from 393.3 to 387.7 million years ago. 
 
 > The **Eifelian** is the first of two faunal stages in the Middle Devonian Epoch. It lasted from 393.3 ± 1.2 million years ago to 387.7 ± 0.8 million years ago. It was preceded by the Emsian Stage and followed by the Givetian Stage.

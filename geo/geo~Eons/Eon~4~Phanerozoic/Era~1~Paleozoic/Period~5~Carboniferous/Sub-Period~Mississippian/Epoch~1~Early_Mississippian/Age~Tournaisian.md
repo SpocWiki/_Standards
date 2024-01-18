@@ -1,5 +1,7 @@
 # [[Age~Tournaisian]] 
 
+#is_a_/time_/Age 
+
 A time period from 358.9 to 346.7 million years ago. 
 
 > The **Tournaisian** is in the ICS geologic timescale the lowest stage or oldest age of the Mississippian, the oldest subsystem of the Carboniferous. The Tournaisian age lasted from 358.9 Ma to 346.7 Ma. It is preceded by the [[../../../Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian|Age~2~Famennian]] (the uppermost stage of the Devonian) and is followed by the [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]]. 

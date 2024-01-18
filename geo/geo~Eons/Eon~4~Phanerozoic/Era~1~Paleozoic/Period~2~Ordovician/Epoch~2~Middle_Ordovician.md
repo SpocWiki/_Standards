@@ -1,6 +1,8 @@
 
 # [[Epoch~2~Middle_Ordovician]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 470.0 to 458.4 million years ago. 
 
 #has_/label_/bg  :: Среден Ордовик

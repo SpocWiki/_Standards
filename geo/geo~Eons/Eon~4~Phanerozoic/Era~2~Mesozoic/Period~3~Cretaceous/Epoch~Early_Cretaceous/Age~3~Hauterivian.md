@@ -1,5 +1,7 @@
 # [[Age~3~Hauterivian]] 
 
+#is_a_/time_/Age 
+
 A time period from 132.6 to 125.77 million years ago. 
 
 > The **Hauterivian** is, in the geologic timescale, an age in the Early Cretaceous Epoch or a stage in the Lower Cretaceous Series. It spans the time between 132.6 ± 2 Ma and 125.77 (million years ago). The Hauterivian is preceded by the [[Age~2~Valanginian]] and succeeded by the [[Age~4~Barremian]].

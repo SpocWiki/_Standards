@@ -1,6 +1,8 @@
 
 # [[Epoch~4~Pridoli]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 423.0 to 419.2 million years ago. 
 
 > In the geologic timescale, the Přídolí Epoch (Czech pronunciation: [ˈpr̝̊iːdoliː]) is the uppermost subdivision of the Silurian Period, dated at between 423 ± 2.3 and 419.2 ± 3.2 mya (million years ago). The Přídolí Epoch succeeds the [[Epoch~3~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]] Stage and precedes the [[../Period~4~Devonian/Epoch~1~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]], the lowest of three stages within the Lower Devonian geological epoch. 

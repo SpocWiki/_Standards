@@ -1,6 +1,8 @@
 
 # [[Age~2~Aeronian]] 
 
+#is_a_/time_/Age 
+
 A time period from 440.8 to 438.5 million years ago. 
 
 > In the geologic timescale, the **Aeronian** is an age of the  Llandovery Epoch of the Silurian Period of the Paleozoic Era of the Phanerozoic Eon that began 440.8 ± 1.2 Ma and ended 438.5 ± 1.1 Ma (million years ago). The Aeronian Age succeeds the Rhuddanian Age and precedes the Telychian Age, all in the same epoch. 

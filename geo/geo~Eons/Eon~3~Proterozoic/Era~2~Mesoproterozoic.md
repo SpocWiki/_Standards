@@ -1,7 +1,8 @@
 # [[Era~2~Mesoproterozoic]] 
 
-A time period from 1600 to 1000 million years ago. 
+#is_a_/time_/Era 
 
+A time period from 1600 to 1000 million years ago. 
 
 > The **Mesoproterozoic** Era is a geologic era that occurred from 1,600 to 1,000 million years ago. The Mesoproterozoic was the first era of Earth's history for which a fairly definitive geological record survives. Continents existed during the preceding era (the Paleoproterozoic), but little is known about them. 
 > 

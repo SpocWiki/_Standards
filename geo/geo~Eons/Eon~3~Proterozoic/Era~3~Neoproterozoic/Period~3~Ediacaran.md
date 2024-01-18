@@ -1,5 +1,7 @@
 # [[Period~3~Ediacaran]] 
 
+#is_a_/time_/Period 
+
 A time period from 635 to 538.8 million years ago
 
 > The **Ediacaran** period (  EE-dee-AK-ər-ən, ED-ee-) is a geological period of the Neoproterozoic era that spans 96 million years from the end of the [[Period~2~Cryogenian]] at 635 Mya, to the beginning of the [[../../Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian|Period~1~Cambrian]]  period at 538.8 Mya. 

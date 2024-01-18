@@ -1,5 +1,7 @@
 # [[Age~3~Chibanian]]
 
+#is_a_/time_/Age 
+
 A time period from 0.774 to 0.129 million years ago. 
 
 > The **Chibanian**, widely known as the Middle Pleistocene, is an age in the international geologic timescale or a stage in chronostratigraphy, being a division of the Pleistocene Epoch within the ongoing Quaternary Period. 

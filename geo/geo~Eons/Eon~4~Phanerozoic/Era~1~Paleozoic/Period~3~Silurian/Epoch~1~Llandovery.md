@@ -1,6 +1,8 @@
 
 # [[Epoch~1~Llandovery]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 443.8 to 433.4 million years ago. 
 
 > In the geological timescale, the **Llandovery Epoch** (from 443.8 ± 1.5 million years ago to 433.4 ± 0.8 million years ago) occurred at the beginning of the [[../Period~3~Silurian]]. 

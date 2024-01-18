@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~2~Middle_Triassic]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 247.2 to 237 million years ago. 
 
 > In the geologic timescale, the Middle Triassic is the second of three epochs of the Triassic period or the middle of three series in which the Triassic system is divided in chronostratigraphy. The Middle Triassic spans the time between 247.2 Ma and 237 Ma (million years ago). It is preceded by the Early Triassic Epoch and followed by the Late Triassic Epoch. The Middle Triassic is divided into the Anisian and Ladinian ages or stages.

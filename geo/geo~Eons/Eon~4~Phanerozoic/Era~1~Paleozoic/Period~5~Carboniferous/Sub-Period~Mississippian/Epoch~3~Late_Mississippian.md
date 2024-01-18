@@ -5,6 +5,8 @@ aliases:
 
 # [[Epoch~3~Late_Mississippian]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 330.9 to 323.2 million years ago. 
 
 #has_/label_/ja  :: 後期ミシシッピアン紀

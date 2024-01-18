@@ -135,7 +135,7 @@ The word is derived from 'Think', so anything you can think of is a Thing.
 
 ## Use one of these Tags for Objects of this Type:
 
-#is_/a_/Thing
+#is_a_/Thing
 #class/Thing
 #class/Thing
 

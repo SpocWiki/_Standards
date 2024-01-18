@@ -1,5 +1,7 @@
 # [[Age~1~Paibian]] 
 
+#is_a_/time_/Age 
+
 A time period from 497 to 494 million years ago. 
 
 > The **Paibian** is the lowest stage of Furongian series of the Cambrian. It follows the [[../Epoch~3~Miaolingian/Age~3~Guzhangian|Age~3~Guzhangian]] (3rd series of the Cambrian) and is succeeded by the [[Age~2~Jiangshanian]] Stage. The base is defined as the first appearance of the trilobite Glyptagnostus reticulatus around 497 million years ago. The top, or the base of the Jiangshanian is defined as the first appearance of the trilobite Agnostotes orientalis around 494 million years ago.

@@ -1,6 +1,8 @@
 
 # [[Period~2~Ordovician]] 
 
+#is_a_/time_/Period 
+
 A time period from 485.4 to 443.8 million years ago. 
 
 > The **Ordovician** ( or-də-VISH-ee-ən, -⁠doh-, -⁠VISH-ən) is a geologic period and system, the second of six periods of the Paleozoic Era. The Ordovician spans 41.6 million years from the end of the [[Period~1~Cambrian]] 485.4 million years ago (Ma) to the start of the [[Period~3~Silurian]] 443.8 Mya. 

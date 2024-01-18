@@ -1,6 +1,8 @@
 
 # [[Epoch~2~Guadalupian]] 
 
+#is_a_/time_/Epoch 
+
 A time period from 273.01 to 259.51 million years ago. 
 
 > The **Guadalupian** is the second and middle series/epoch of the Permian. The Guadalupian was preceded by the Cisuralian and followed by the Lopingian. It is named after the Guadalupe Mountains of New Mexico and Texas, and dates between 272.95 ± 0.5 – 259.1 ± 0.4 Mya. The series saw the rise of the therapsids, a minor extinction event called Olson's Extinction and a significant mass extinction called the end-Capitanian extinction event. The Guadalupian was previously known as the Middle Permian.

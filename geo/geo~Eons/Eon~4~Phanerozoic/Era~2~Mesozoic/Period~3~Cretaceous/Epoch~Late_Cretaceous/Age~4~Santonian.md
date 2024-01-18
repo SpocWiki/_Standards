@@ -1,5 +1,7 @@
 # [[Age~4~Santonian]] 
 
+#is_a_/time_/Age 
+
 A time period from 86.3 to 83.6 million years ago. 
 
 > The **Santonian** is an age in the geologic timescale or a chronostratigraphic stage. It is a subdivision of the Late Cretaceous Epoch or Upper Cretaceous Series. It spans the time between 86.3 ± 0.7 mya (million years ago) and 83.6 ± 0.7 mya. The Santonian is preceded by the [[Age~3~Coniacian]] and is followed by the [[Age~5~Campanian]].

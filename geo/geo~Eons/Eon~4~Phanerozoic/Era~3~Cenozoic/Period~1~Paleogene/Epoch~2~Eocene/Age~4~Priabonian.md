@@ -1,6 +1,10 @@
+# [[Age~4~Priabonian]] 
+
+#is_a_/time_/Age 
+
 A time period from 37.71 to 33.9 million years ago. 
 
-> The **Priabonian** is, in the ICS's geologic timescale, the latest age or the upper stage of the Eocene Epoch or Series. It spans the time between 37.71 and 33.9 Ma. The Priabonian is preceded by the [[Age~3~Bartonian]] and is followed by the [[../Epoch~3~Oligocene/Age~1~Rupelian|Age~1~Rupelian]], the lowest stage of the Oligocene.
+> The **Priabonian** is, in the ICS's geologic timescale, the latest age or the upper stage of the Eocene Epoch or Series. It spans the time between 37.71 and 33.9 Ma. The Priabonian is preceded by the [[Age~3~Bartonian]] and is followed by the [[../Epoch~3~Oligocene/Age~1~Rupelian]], the lowest stage of the Oligocene.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Priabonian)
 

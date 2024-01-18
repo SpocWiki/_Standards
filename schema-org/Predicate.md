@@ -57,9 +57,12 @@ Semantic Graphs are much richer and allow for automated inference of Information
 	* Recurrence: start with #has_/recurrence and are specified using the Cron-Notation P#Y#M#DT#H#M#S.### 
 	* Urls: usually specify Web-Addresses using #has_/url_for_/, but may also be URIs which are only (unique) Identifiers 
 	* Flags: Tags are Boolean Properties/Attribute and can be applied using #is_/ or #is_not_/  
-	* Types: common Type(s) of Entities can be specified by Tags #is_a or #is_an directly followed by the Class Name 
 	* Lists: are Values enclosed in [ square Brackets, separated by Commas ] . 
+	* Types: common Type(s) of Entities can be specified by Tags #is_a_ directly followed by the Class Name 
+		* do __not__ flex the Predicate when the class starts with a Vowel like so: is_an_ :: ant, because then you have a special case in each query! These make up only 20% of all classes. 
 
+#is_an_ 
+#is_a_ 
 Entering these Predicates is supported by #Tags of the same name, which are also supported in the FrontMatter (unlike [ [Links]]). These Tags are structured further to support drill-down and to distinguish them from ad-hoc Tags: 
 - 
 
