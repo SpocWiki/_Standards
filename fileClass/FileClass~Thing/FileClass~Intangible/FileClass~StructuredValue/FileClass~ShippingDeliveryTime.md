@@ -16,26 +16,26 @@ tags:
   - class/Thing/Intangible/StructuredValue/ShippingDeliveryTime
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: DBCDIN
+  - id: h06GJV
     name: BusinessDays
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
     type: MultiFile
     path: ""
-  - id: eo2751
+  - id: fK4bzg
     name: CutoffTime
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: Dv5RO3
+  - id: z4lGnb
     name: HandlingTime
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: ti1dIx
+  - id: qv3Ysh
     name: TransitTime
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

@@ -16,86 +16,86 @@ tags:
   - class/Thing/MedicalEntity/MedicalCondition
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: 2XUNhT
+  - id: zTN29r
     name: AssociatedAnatomy
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: 1rE3Zq
+  - id: Zpu8dz
     name: DifferentialDiagnosis
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DDxElement')
     type: MultiFile
     path: ""
-  - id: 5LQ9IX
+  - id: VhMrNL
     name: Drug
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
     type: MultiFile
     path: ""
-  - id: L0EdxK
+  - id: RQuYXw
     name: Epidemiology
     options: {}
     type: Input
     path: ""
-  - id: TZY6ZH
+  - id: EgcjFi
     name: ExpectedPrognosis
     options: {}
     type: Input
     path: ""
-  - id: jfLLTY
+  - id: StWdFL
     name: NaturalProgression
     options: {}
     type: Input
     path: ""
-  - id: fNehkD
+  - id: t7VjWG
     name: Pathophysiology
     options: {}
     type: Input
     path: ""
-  - id: OIUpHQ
+  - id: dhmgqt
     name: PossibleComplication
     options: {}
     type: Input
     path: ""
-  - id: CjufW2
+  - id: UZypsz
     name: PossibleTreatment
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
     type: MultiFile
     path: ""
-  - id: hsD2ue
+  - id: xKv7N5
     name: PrimaryPrevention
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
     type: MultiFile
     path: ""
-  - id: qs5NQu
+  - id: Ey31TK
     name: RiskFactor
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')
     type: MultiFile
     path: ""
-  - id: KYLJfp
+  - id: 5SEv18
     name: SecondaryPrevention
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
     type: MultiFile
     path: ""
-  - id: TfT3NG
+  - id: cM2MtJ
     name: SignOrSymptom
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')
     type: MultiFile
     path: ""
-  - id: ZPkP5R
+  - id: dfPpln
     name: Stage
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage')
     type: MultiFile
     path: ""
-  - id: KneWBC
+  - id: 3gZPrl
     name: TypicalTest
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalTest')

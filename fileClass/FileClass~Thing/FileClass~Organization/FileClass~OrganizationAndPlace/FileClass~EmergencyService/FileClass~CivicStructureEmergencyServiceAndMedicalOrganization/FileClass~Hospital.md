@@ -16,13 +16,13 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization/Hospital
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyServiceAndMedicalOrganization
 fields:
-  - id: rPiLdf
+  - id: HxbJIX
     name: AvailableService
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure')
     type: MultiFile
     path: ""
-  - id: 3XnVCO
+  - id: z35cqx
     name: HealthcareReportingData
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/CDCPMDRecord')

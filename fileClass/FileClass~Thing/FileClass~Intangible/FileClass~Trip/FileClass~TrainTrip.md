@@ -16,34 +16,34 @@ tags:
   - class/Thing/Intangible/Trip/TrainTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-  - id: qO6DhX
+  - id: mxF5CS
     name: ArrivalPlatform
     options: {}
     type: Input
     path: ""
-  - id: Mj4NX7
+  - id: iWu8eU
     name: ArrivalStation
     options:
       dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/TrainStation')
     type: MultiFile
     path: ""
-  - id: dG54Do
+  - id: RNutXy
     name: DeparturePlatform
     options: {}
     type: Input
     path: ""
-  - id: Y1hAtV
+  - id: HQSXPF
     name: DepartureStation
     options:
       dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/TrainStation')
     type: MultiFile
     path: ""
-  - id: ABJ2ir
+  - id: FB96sF
     name: TrainName
     options: {}
     type: Input
     path: ""
-  - id: WuV349
+  - id: fPqXjQ
     name: TrainNumber
     options: {}
     type: Input

@@ -16,260 +16,260 @@ tags:
   - class/Thing/Intangible/Offer
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: gSMYR8
+  - id: 3l1fO4
     name: AcceptedPaymentMethod
     options: {}
     type: Input
     path: ""
-  - id: EDF2Xk
+  - id: Ox3de3
     name: AddOn
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
     type: MultiFile
     path: ""
-  - id: QDFZPz
+  - id: 8ogi2j
     name: AdvanceBookingRequirement
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: HsbOFi
+  - id: AR7iX7
     name: AggregateRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
     type: MultiFile
     path: ""
-  - id: b60w2o
+  - id: Qv01aw
     name: AreaServed
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: agNATk
+  - id: XuTZh0
     name: Asin
     options: {}
     type: Input
     path: ""
-  - id: 4mCVmv
+  - id: g4w7lY
     name: AvailabilityEnds
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: QhjPua
+  - id: pvk5Yt
     name: AvailabilityStarts
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 2hpXjt
+  - id: CzXiwQ
     name: AvailableAtOrFrom
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: 1XGByj
+  - id: A4HHhG
     name: BusinessFunction
     options: {}
     type: Input
     path: ""
-  - id: A78gwz
+  - id: A6XAwt
     name: CheckoutPageURLTemplate
     options: {}
     type: Input
     path: ""
-  - id: e00P7B
+  - id: drugoS
     name: DeliveryLeadTime
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: g6mo6F
+  - id: mD4nmA
     name: EligibleCustomerType
     options: {}
     type: Input
     path: ""
-  - id: LOF6by
+  - id: m0G9Qt
     name: EligibleDuration
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: RssACq
+  - id: k3bLBB
     name: EligibleQuantity
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: ArikJY
+  - id: qfbE0r
     name: EligibleRegion
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
     type: MultiFile
     path: ""
-  - id: fyqyGH
+  - id: pAbERd
     name: EligibleTransactionVolume
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
     type: MultiFile
     path: ""
-  - id: gF5Bjn
+  - id: FmdHCe
     name: Gtin
     options: {}
     type: Input
     path: ""
-  - id: AKU9ZF
+  - id: 4fG2mQ
     name: Gtin12
     options: {}
     type: Input
     path: ""
-  - id: 3eMc1W
+  - id: uyFUWK
     name: Gtin13
     options: {}
     type: Input
     path: ""
-  - id: cQfggU
+  - id: iB0ftP
     name: Gtin14
     options: {}
     type: Input
     path: ""
-  - id: rZkDUh
+  - id: 7CrdHj
     name: Gtin8
     options: {}
     type: Input
     path: ""
-  - id: 3yOPmI
+  - id: kL1i38
     name: HasMeasurement
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: ASb7os
+  - id: DSSr9Y
     name: HasMerchantReturnPolicy
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')
     type: MultiFile
     path: ""
-  - id: bEcQTA
+  - id: jgxKkx
     name: IncludesObject
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')
     type: MultiFile
     path: ""
-  - id: c2Bqsk
+  - id: 6IKyE1
     name: IneligibleRegion
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
     type: MultiFile
     path: ""
-  - id: ZBNvcp
+  - id: lpbgOd
     name: InventoryLevel
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: oKKaNs
+  - id: EYTpF1
     name: IsFamilyFriendly
     options: {}
     type: Boolean
     path: ""
-  - id: b4sy7I
+  - id: BT1Z7h
     name: ItemOffered
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Offer/AggregateOffer')
     type: MultiFile
     path: ""
-  - id: 7YBtJ9
+  - id: QNJB3N
     name: LeaseLength
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: cbPJ9h
+  - id: BrEHCi
     name: MobileUrl
     options: {}
     type: Input
     path: ""
-  - id: jwJRMF
+  - id: IdK798
     name: Mpn
     options: {}
     type: Input
     path: ""
-  - id: KwDxfE
+  - id: A7yIaX
     name: OfferedBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: Bwbzp4
+  - id: 9smyBp
     name: Price
     options: {}
     type: Number
     path: ""
-  - id: uwIwM3
+  - id: ndCfNK
     name: PriceCurrency
     options: {}
     type: Input
     path: ""
-  - id: 5Fthpa
+  - id: dI84ss
     name: PriceSpecification
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
     type: MultiFile
     path: ""
-  - id: DIU0Zy
+  - id: D5gwcP
     name: PriceValidUntil
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: YXvxb6
+  - id: WEOS6L
     name: Review
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: 6psy3U
+  - id: JqoolR
     name: Seller
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: rMQVED
+  - id: 5CTEga
     name: SerialNumber
     options: {}
     type: Input
     path: ""
-  - id: IQ21Sf
+  - id: SizObx
     name: ShippingDetails
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OfferShippingDetails')
     type: MultiFile
     path: ""
-  - id: d2oso5
+  - id: Y1Ry5t
     name: Sku
     options: {}
     type: Input
     path: ""
-  - id: lqL4Qw
+  - id: qRC9iV
     name: ValidFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: BAfWP8
+  - id: xWvuDD
     name: ValidThrough
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: FZWwpC
+  - id: uoLHxF
     name: Warranty
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/WarrantyPromise')
@@ -328,7 +328,7 @@ An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric u
 Asin:: {"type":"Input","options":{}}
 
 ### Availability
-The availability of this item—for example In stock, Out of stock, Pre-order, etc.
+The availability of this item&#x2014;for example In stock, Out of stock, Pre-order, etc.
 
 Availability:: {"type":"Select","options":{"valuesList":{"BackOrder","Discontinued","InStock","InStoreOnly","LimitedAvailability","OnlineOnly","OutOfStock","PreOrder","PreSale","SoldOut"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
@@ -480,7 +480,7 @@ LeaseLength:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
 ### MobileUrl
 The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated 'mobile site'.  
- To discourage over-use, and reflecting intial usecases, the property is expected only on [[Product]] and [[Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[../../../schema-org/Class/is_a_/data_type/text/URL]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[../../../schema-org/Class/is_a_/data_type/text/URL]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
+ To discourage over-use, and reflecting intial usecases, the property is expected only on [[Product]] and [[Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[url]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[url]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
 
 MobileUrl:: {"type":"Input","options":{}}
 

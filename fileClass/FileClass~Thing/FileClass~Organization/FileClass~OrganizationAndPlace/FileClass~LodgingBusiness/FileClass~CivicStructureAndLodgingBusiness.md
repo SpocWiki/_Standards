@@ -16,7 +16,7 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness/CivicStructureAndLodgingBusiness
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness
 fields:
-  - id: EJHTnW
+  - id: t28qXe
     name: OpeningHours
     options: {}
     type: Input

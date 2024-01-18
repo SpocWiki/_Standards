@@ -16,22 +16,22 @@ tags:
   - class/Thing/CreativeWork/PublicationIssue
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: fuou7e
+  - id: 1tFNaB
     name: IssueNumber
     options: {}
     type: Number
     path: ""
-  - id: fSpMvK
+  - id: M3twD8
     name: PageEnd
     options: {}
     type: Number
     path: ""
-  - id: adUDK2
+  - id: p1tBDu
     name: PageStart
     options: {}
     type: Number
     path: ""
-  - id: 3bnNXq
+  - id: lxWkQB
     name: Pagination
     options: {}
     type: Input

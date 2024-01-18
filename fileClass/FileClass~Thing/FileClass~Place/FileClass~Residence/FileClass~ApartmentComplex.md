@@ -16,24 +16,24 @@ tags:
   - class/Thing/Place/Residence/ApartmentComplex
 extends: FileClass~Thing/FileClass~Place/FileClass~Residence
 fields:
-  - id: 6mKXSo
+  - id: rHAIgZ
     name: NumberOfAccommodationUnits
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: m0NmoN
+  - id: WxdukX
     name: NumberOfAvailableAccommodationUnits
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: RcZiKq
+  - id: 9qgnIs
     name: NumberOfBedrooms
     options: {}
     type: Number
     path: ""
-  - id: DZKLmY
+  - id: h0GQYe
     name: PetsAllowed
     options: {}
     type: Boolean

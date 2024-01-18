@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/Service/WebAPI
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields:
-  - id: SBLrPA
+  - id: mSSJvh
     name: Documentation
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')

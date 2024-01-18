@@ -16,19 +16,19 @@ tags:
   - class/Thing/CreativeWork/Claim
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: LhH8YE
+  - id: j5DapQ
     name: Appearance
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: bDOgAd
+  - id: UpNKx0
     name: ClaimInterpreter
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: Zg3Weq
+  - id: ABH9A5
     name: FirstAppearance
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')

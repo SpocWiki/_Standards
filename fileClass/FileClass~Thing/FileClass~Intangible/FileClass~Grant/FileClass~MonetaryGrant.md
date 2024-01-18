@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/Grant/MonetaryGrant
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Grant
 fields:
-  - id: wMsTSc
+  - id: hoZhlW
     name: Amount
     options: {}
     type: Number

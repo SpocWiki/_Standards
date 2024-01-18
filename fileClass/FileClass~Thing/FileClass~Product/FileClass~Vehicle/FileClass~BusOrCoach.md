@@ -16,12 +16,12 @@ tags:
   - class/Thing/Product/Vehicle/BusOrCoach
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 fields:
-  - id: uhdurT
+  - id: hEz4fF
     name: AcrissCode
     options: {}
     type: Input
     path: ""
-  - id: ZTexaP
+  - id: ODn1SF
     name: RoofLoad
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

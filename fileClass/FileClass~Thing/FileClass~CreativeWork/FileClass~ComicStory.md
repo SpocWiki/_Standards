@@ -16,31 +16,31 @@ tags:
   - class/Thing/CreativeWork/ComicStory
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: PG50uM
+  - id: 5YBU5H
     name: Artist
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: xsvd94
+  - id: ppwIR7
     name: Colorist
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: n2s2wJ
+  - id: bqzwvF
     name: Inker
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: DH9Z8I
+  - id: uTGHWv
     name: Letterer
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: LMie13
+  - id: OnY7OU
     name: Penciler
     options:
       dvQueryString: dv.pages('#class/Thing/Person')

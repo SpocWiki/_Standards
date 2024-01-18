@@ -16,53 +16,53 @@ tags:
   - class/Thing/CreativeWork/Article/NewsArticle/CriticReviewAndNewsArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle
 fields:
-  - id: bCHqRt
+  - id: abR1Dm
     name: AssociatedClaimReview
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: k82gYC
+  - id: nAUIin
     name: AssociatedMediaReview
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: Nqopru
+  - id: x28tiV
     name: AssociatedReview
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: Lh6NZW
+  - id: IPdtMw
     name: ItemReviewed
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: l8BTIU
+  - id: Kd4xVU
     name: NegativeNotes
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
     type: MultiFile
     path: ""
-  - id: Zz6Kk2
+  - id: iZdbSf
     name: PositiveNotes
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
     type: MultiFile
     path: ""
-  - id: EGA8wF
+  - id: XXFXio
     name: ReviewAspect
     options: {}
     type: Input
     path: ""
-  - id: i3fmkr
+  - id: fhCYFX
     name: ReviewBody
     options: {}
     type: Input
     path: ""
-  - id: PNP5Yr
+  - id: gQxNI9
     name: ReviewRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating')

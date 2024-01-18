@@ -16,74 +16,74 @@ tags:
   - class/Thing/Intangible/Schedule
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: rSRiS9
+  - id: N4SAU4
     name: ByMonth
     options: {}
     type: Number
     path: ""
-  - id: jkcUVB
+  - id: 3GRWtY
     name: ByMonthDay
     options: {}
     type: Number
     path: ""
-  - id: 8Ak2sc
+  - id: CrLiyo
     name: ByMonthWeek
     options: {}
     type: Number
     path: ""
-  - id: NpSAdb
+  - id: mjAs6Q
     name: Duration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: MnIJSV
+  - id: 42nLL2
     name: EndDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: kebzpt
+  - id: 5PDGA5
     name: EndTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: skdUKR
+  - id: nGX5jI
     name: ExceptDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: ei2Msw
+  - id: OXglG0
     name: RepeatCount
     options: {}
     type: Number
     path: ""
-  - id: ny1Q2Q
+  - id: SxsvKg
     name: RepeatFrequency
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: lZNAIg
+  - id: XKW9aG
     name: ScheduleTimezone
     options: {}
     type: Input
     path: ""
-  - id: 2gYLmB
+  - id: 5KkNAH
     name: StartDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: SzY5VI
+  - id: HWFyUe
     name: StartTime
     options:
       dateFormat: YYYY-MM-DD

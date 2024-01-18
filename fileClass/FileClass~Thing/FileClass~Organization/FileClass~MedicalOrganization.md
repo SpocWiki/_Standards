@@ -16,12 +16,12 @@ tags:
   - class/Thing/Organization/MedicalOrganization
 extends: FileClass~Thing/FileClass~Organization
 fields:
-  - id: hkTTOm
+  - id: CWW2Yq
     name: HealthPlanNetworkId
     options: {}
     type: Input
     path: ""
-  - id: xCSrrX
+  - id: QpxaCA
     name: IsAcceptingNewPatients
     options: {}
     type: Boolean

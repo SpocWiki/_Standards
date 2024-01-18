@@ -16,43 +16,43 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/LodgingBusiness
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields:
-  - id: ddzVC4
+  - id: DkW72m
     name: Audience
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
     type: MultiFile
     path: ""
-  - id: chI2WS
+  - id: g4WGz0
     name: AvailableLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: CV1ISr
+  - id: DYwPhI
     name: CheckinTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: lDmX9B
+  - id: 7kEtdu
     name: CheckoutTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: X0bfVz
+  - id: Z1hiO7
     name: NumberOfRooms
     options: {}
     type: Number
     path: ""
-  - id: WjbZpW
+  - id: parde4
     name: PetsAllowed
     options: {}
     type: Boolean
     path: ""
-  - id: YphcCs
+  - id: jVLWDT
     name: StarRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating')

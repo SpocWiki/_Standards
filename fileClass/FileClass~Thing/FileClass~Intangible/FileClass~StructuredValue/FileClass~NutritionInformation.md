@@ -16,62 +16,62 @@ tags:
   - class/Thing/Intangible/StructuredValue/NutritionInformation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: 7ofQgZ
+  - id: au0pLK
     name: Calories
     options: {}
     type: Input
     path: ""
-  - id: Znwgkz
+  - id: 13Hx9R
     name: CarbohydrateContent
     options: {}
     type: Input
     path: ""
-  - id: ysTjH4
+  - id: 8ZzTOa
     name: CholesterolContent
     options: {}
     type: Input
     path: ""
-  - id: LYBSF8
+  - id: 8CKXDE
     name: FatContent
     options: {}
     type: Input
     path: ""
-  - id: hcQW5Y
+  - id: e87Mhu
     name: FiberContent
     options: {}
     type: Input
     path: ""
-  - id: n563Fg
+  - id: vb1wUC
     name: ProteinContent
     options: {}
     type: Input
     path: ""
-  - id: qf58Lj
+  - id: fc0Zbs
     name: SaturatedFatContent
     options: {}
     type: Input
     path: ""
-  - id: Vtokw1
+  - id: NgKhuQ
     name: ServingSize
     options: {}
     type: Input
     path: ""
-  - id: DdMn7H
+  - id: atjrIF
     name: SodiumContent
     options: {}
     type: Input
     path: ""
-  - id: nbcc9L
+  - id: BrcsYy
     name: SugarContent
     options: {}
     type: Input
     path: ""
-  - id: UgADce
+  - id: CatU4H
     name: TransFatContent
     options: {}
     type: Input
     path: ""
-  - id: xzhVvE
+  - id: G3PJjW
     name: UnsaturatedFatContent
     options: {}
     type: Input

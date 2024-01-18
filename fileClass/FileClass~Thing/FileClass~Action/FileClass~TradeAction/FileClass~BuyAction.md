@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/TradeAction/BuyAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields:
-  - id: JtzE7b
+  - id: EG30sn
     name: Seller
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')

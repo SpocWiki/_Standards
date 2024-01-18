@@ -16,31 +16,31 @@ tags:
   - class/Thing/CreativeWork/MusicPlaylist/MusicRelease
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist
 fields:
-  - id: PSUGvY
+  - id: A7hNpl
     name: CatalogNumber
     options: {}
     type: Input
     path: ""
-  - id: aKy9sR
+  - id: 4uUust
     name: CreditedTo
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: FFDhYH
+  - id: XWa8O8
     name: Duration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: 9ikCwD
+  - id: 3NXbm5
     name: RecordLabel
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: KgX4XZ
+  - id: BVqBA2
     name: ReleaseOf
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')

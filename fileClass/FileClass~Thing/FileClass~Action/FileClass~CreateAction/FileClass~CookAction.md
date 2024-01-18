@@ -16,19 +16,19 @@ tags:
   - class/Thing/Action/CreateAction/CookAction
 extends: FileClass~Thing/FileClass~Action/FileClass~CreateAction
 fields:
-  - id: 3G0MZY
+  - id: JuxgET
     name: FoodEstablishment
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment')
     type: MultiFile
     path: ""
-  - id: XCA1BG
+  - id: vnATOm
     name: FoodEvent
     options:
       dvQueryString: dv.pages('#class/Thing/Event/FoodEvent')
     type: MultiFile
     path: ""
-  - id: rUr0aS
+  - id: cjXwoq
     name: Recipe
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/HowTo/Recipe')

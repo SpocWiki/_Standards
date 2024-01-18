@@ -16,50 +16,50 @@ tags:
   - class/Thing/Intangible/HealthInsurancePlan
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: RR9jPc
+  - id: rk0EaS
     name: BenefitsSummaryUrl
     options: {}
     type: Input
     path: ""
-  - id: eHOwqc
+  - id: 7LQ4zP
     name: ContactPoint
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
     type: MultiFile
     path: ""
-  - id: GS0cRN
+  - id: k1l2hv
     name: HealthPlanDrugOption
     options: {}
     type: Input
     path: ""
-  - id: JWZpxP
+  - id: du3CG6
     name: HealthPlanDrugTier
     options: {}
     type: Input
     path: ""
-  - id: KnELHf
+  - id: 1fGzzT
     name: HealthPlanId
     options: {}
     type: Input
     path: ""
-  - id: Zbyc5A
+  - id: bSonSx
     name: HealthPlanMarketingUrl
     options: {}
     type: Input
     path: ""
-  - id: BFjbuB
+  - id: FnYOqL
     name: IncludesHealthPlanFormulary
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/HealthPlanFormulary')
     type: MultiFile
     path: ""
-  - id: bhS0VJ
+  - id: pJK8FO
     name: IncludesHealthPlanNetwork
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/HealthPlanNetwork')
     type: MultiFile
     path: ""
-  - id: FKElC5
+  - id: LPY6n3
     name: UsesHealthPlanIdStandard
     options: {}
     type: Input

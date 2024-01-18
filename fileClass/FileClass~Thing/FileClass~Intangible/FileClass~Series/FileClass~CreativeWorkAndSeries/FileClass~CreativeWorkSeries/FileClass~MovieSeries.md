@@ -16,31 +16,31 @@ tags:
   - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/MovieSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 fields:
-  - id: Z6s9Vs
+  - id: 1eOIKL
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: yVmdBR
+  - id: oVZORD
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: aVMhgk
+  - id: O925DV
     name: MusicBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
     type: MultiFile
     path: ""
-  - id: HhEB3M
+  - id: kuctBy
     name: ProductionCompany
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: rrdzYm
+  - id: EAA3kN
     name: Trailer
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')

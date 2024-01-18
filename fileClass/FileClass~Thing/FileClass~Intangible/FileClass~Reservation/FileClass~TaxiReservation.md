@@ -16,18 +16,18 @@ tags:
   - class/Thing/Intangible/Reservation/TaxiReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-  - id: LXStuh
+  - id: eAWDPk
     name: PartySize
     options: {}
     type: Number
     path: ""
-  - id: Q9vdRA
+  - id: yCZoOV
     name: PickupLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: Ft4mSH
+  - id: jCK5ub
     name: PickupTime
     options:
       dateFormat: YYYY-MM-DD

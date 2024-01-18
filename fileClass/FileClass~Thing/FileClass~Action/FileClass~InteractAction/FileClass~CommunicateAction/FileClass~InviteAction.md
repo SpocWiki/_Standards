@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/InteractAction/CommunicateAction/InviteAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields:
-  - id: BtBGGQ
+  - id: T7Mdfq
     name: Events
     options:
       dvQueryString: dv.pages('#class/Thing/Event')

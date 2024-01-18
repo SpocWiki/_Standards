@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/AssessAction/ChooseAction/VoteAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ChooseAction
 fields:
-  - id: DCOb3j
+  - id: fyIA0A
     name: Candidate
     options:
       dvQueryString: dv.pages('#class/Thing/Person')

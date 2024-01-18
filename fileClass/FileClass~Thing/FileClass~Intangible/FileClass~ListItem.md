@@ -16,24 +16,24 @@ tags:
   - class/Thing/Intangible/ListItem
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: wR52kO
+  - id: xkerYo
     name: Item
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: ykjskA
+  - id: Gk4n9Q
     name: NextItem
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ListItem')
     type: MultiFile
     path: ""
-  - id: Evk2m9
+  - id: 6yfE6F
     name: Position
     options: {}
     type: Number
     path: ""
-  - id: zQNeMb
+  - id: RXta2m
     name: PreviousItem
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ListItem')

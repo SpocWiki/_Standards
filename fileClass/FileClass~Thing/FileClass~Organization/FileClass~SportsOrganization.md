@@ -16,7 +16,7 @@ tags:
   - class/Thing/Organization/SportsOrganization
 extends: FileClass~Thing/FileClass~Organization
 fields:
-  - id: p4taK1
+  - id: m1yprr
     name: Sport
     options: {}
     type: Input

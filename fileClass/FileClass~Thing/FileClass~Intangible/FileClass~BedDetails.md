@@ -16,12 +16,12 @@ tags:
   - class/Thing/Intangible/BedDetails
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: eNVWmQ
+  - id: mTTEFj
     name: NumberOfBeds
     options: {}
     type: Number
     path: ""
-  - id: ZXMwhG
+  - id: m0holD
     name: TypeOfBed
     options: {}
     type: Input

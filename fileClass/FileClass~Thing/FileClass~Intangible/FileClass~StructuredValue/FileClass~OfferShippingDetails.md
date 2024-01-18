@@ -16,69 +16,69 @@ tags:
   - class/Thing/Intangible/StructuredValue/OfferShippingDetails
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: xxMyZl
+  - id: HJ6zZd
     name: DeliveryTime
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ShippingDeliveryTime')
     type: MultiFile
     path: ""
-  - id: wIH9cy
+  - id: edMVX9
     name: Depth
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: 1Gr8lZ
+  - id: 7pt8rV
     name: DoesNotShip
     options: {}
     type: Boolean
     path: ""
-  - id: cg96lw
+  - id: 5799cm
     name: Height
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: voVJB5
+  - id: 6VvilJ
     name: ShippingDestination
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
     type: MultiFile
     path: ""
-  - id: CSPRyY
+  - id: cLojSk
     name: ShippingLabel
     options: {}
     type: Input
     path: ""
-  - id: miFApJ
+  - id: QCBnl3
     name: ShippingOrigin
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
     type: MultiFile
     path: ""
-  - id: JhlMw9
+  - id: Bgbvcn
     name: ShippingRate
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: oiXyHr
+  - id: YphBTP
     name: ShippingSettingsLink
     options: {}
     type: Input
     path: ""
-  - id: E7oSiU
+  - id: Br5C9B
     name: TransitTimeLabel
     options: {}
     type: Input
     path: ""
-  - id: lbistI
+  - id: yO1Q7M
     name: Weight
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: nx6AEK
+  - id: zsxaWW
     name: Width
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

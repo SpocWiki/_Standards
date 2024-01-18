@@ -16,13 +16,13 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/Physician
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization
 fields:
-  - id: bvnqGi
+  - id: mDAMAA
     name: AvailableService
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure')
     type: MultiFile
     path: ""
-  - id: pnBEqU
+  - id: gDfXa0
     name: HospitalAffiliation
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization/Hospital')

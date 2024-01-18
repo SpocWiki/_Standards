@@ -16,13 +16,13 @@ tags:
   - class/Thing/Action/TransferAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: M1RJ6r
+  - id: XLPWyV
     name: FromLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: ibWfDt
+  - id: Y2w4u9
     name: ToLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')

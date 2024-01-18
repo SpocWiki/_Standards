@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/InteractAction/LeaveAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields:
-  - id: r4lrVO
+  - id: GXVlFD
     name: Events
     options:
       dvQueryString: dv.pages('#class/Thing/Event')

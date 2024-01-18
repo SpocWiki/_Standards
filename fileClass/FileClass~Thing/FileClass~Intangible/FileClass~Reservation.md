@@ -16,66 +16,66 @@ tags:
   - class/Thing/Intangible/Reservation
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: pRBDF2
+  - id: njJkfe
     name: BookingTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: qToSWN
+  - id: TwwNYB
     name: Broker
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: k0KvzD
+  - id: zlPeV7
     name: ModifiedTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 6lS2hR
+  - id: lhGDHr
     name: PriceCurrency
     options: {}
     type: Input
     path: ""
-  - id: D29FFA
+  - id: mEy2mL
     name: ProgramMembershipUsed
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ProgramMembership')
     type: MultiFile
     path: ""
-  - id: DTTWA4
+  - id: 8aOBYF
     name: Provider
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: jgCKlx
+  - id: pjEzvW
     name: ReservationFor
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: hviQL4
+  - id: RKR1RU
     name: ReservationId
     options: {}
     type: Input
     path: ""
-  - id: 2wLUKM
+  - id: X55z44
     name: ReservedTicket
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Ticket')
     type: MultiFile
     path: ""
-  - id: mh1J5c
+  - id: uTSLSM
     name: TotalPrice
     options: {}
     type: Number
     path: ""
-  - id: 31hMEZ
+  - id: qa80J9
     name: UnderName
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')

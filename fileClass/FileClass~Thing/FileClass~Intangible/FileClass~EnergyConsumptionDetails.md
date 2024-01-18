@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/EnergyConsumptionDetails
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: Nyy3ov
+  - id: wSbewp
     name: HasEnergyEfficiencyCategory
     options: {}
     type: Input

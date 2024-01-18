@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/AssessAction/ChooseAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 fields:
-  - id: ePzQqG
+  - id: NzN3SF
     name: ActionOption
     options:
       dvQueryString: dv.pages('#class/Thing')

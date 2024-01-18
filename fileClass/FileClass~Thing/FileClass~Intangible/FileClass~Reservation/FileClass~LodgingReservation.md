@@ -16,36 +16,36 @@ tags:
   - class/Thing/Intangible/Reservation/LodgingReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-  - id: M3oGKd
+  - id: zgvLOg
     name: CheckinTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: BC9pA3
+  - id: qrV9PF
     name: CheckoutTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: UU3oJy
+  - id: b8Wpn9
     name: LodgingUnitDescription
     options: {}
     type: Input
     path: ""
-  - id: qYmgJj
+  - id: NvVSfl
     name: LodgingUnitType
     options: {}
     type: Input
     path: ""
-  - id: 4OateB
+  - id: mpMFiU
     name: NumAdults
     options: {}
     type: Number
     path: ""
-  - id: J2MvQp
+  - id: 65gFJW
     name: NumChildren
     options: {}
     type: Number

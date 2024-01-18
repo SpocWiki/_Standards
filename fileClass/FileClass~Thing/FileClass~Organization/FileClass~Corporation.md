@@ -16,7 +16,7 @@ tags:
   - class/Thing/Organization/Corporation
 extends: FileClass~Thing/FileClass~Organization
 fields:
-  - id: OeF6ta
+  - id: Fn0gW0
     name: TickerSymbol
     options: {}
     type: Input

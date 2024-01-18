@@ -16,12 +16,12 @@ tags:
   - class/Thing/CreativeWork/MusicPlaylist
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: XPEGvv
+  - id: CwpYxo
     name: NumTracks
     options: {}
     type: Number
     path: ""
-  - id: eA4IFS
+  - id: Y6wa39
     name: Track
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')

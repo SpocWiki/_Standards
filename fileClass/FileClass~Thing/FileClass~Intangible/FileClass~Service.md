@@ -16,112 +16,112 @@ tags:
   - class/Thing/Intangible/Service
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: gfFpic
+  - id: HXwBYd
     name: AggregateRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
     type: MultiFile
     path: ""
-  - id: 3vbKyR
+  - id: 35SkVv
     name: AreaServed
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: KDqhN4
+  - id: lvPmcn
     name: Audience
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
     type: MultiFile
     path: ""
-  - id: rYbA5d
+  - id: 4KekI1
     name: AvailableChannel
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ServiceChannel')
     type: MultiFile
     path: ""
-  - id: UBHApE
+  - id: 1EUPVC
     name: Award
     options: {}
     type: Input
     path: ""
-  - id: MdEltj
+  - id: U4QpNA
     name: Brand
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Brand')
     type: MultiFile
     path: ""
-  - id: TG6udj
+  - id: U7kQ0z
     name: Broker
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: yPKnX9
+  - id: CZ60sA
     name: HasOfferCatalog
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList/OfferCatalog')
     type: MultiFile
     path: ""
-  - id: QMRLxC
+  - id: Js3VGu
     name: HoursAvailable
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
     type: MultiFile
     path: ""
-  - id: F4DBGW
+  - id: JdPdPe
     name: IsRelatedTo
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: MqU5xR
+  - id: 9TV0tq
     name: IsSimilarTo
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: IGeppZ
+  - id: J64qyV
     name: Logo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: QbT9VN
+  - id: 4hnaSq
     name: Offers
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
     type: MultiFile
     path: ""
-  - id: Rs22KR
+  - id: kspS3w
     name: Provider
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: AGS0hX
+  - id: JUCQOg
     name: ProviderMobility
     options: {}
     type: Input
     path: ""
-  - id: AauhZ1
+  - id: NVPVyZ
     name: Review
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: 6T0JEr
+  - id: N6H2gF
     name: ServiceOutput
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: ifH2aw
+  - id: tDkqki
     name: Slogan
     options: {}
     type: Input
     path: ""
-  - id: vUUYAr
+  - id: 7RcskT
     name: TermsOfService
     options: {}
     type: Input
@@ -208,7 +208,7 @@ An associated logo.
 Logo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
 
 ### Offers
-An offer to provide this item—for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
+An offer to provide this item&#x2014;for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
 
 Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Demand')"}}
 

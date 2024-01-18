@@ -16,7 +16,7 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields:
-  - id: xXlESA
+  - id: EJP57l
     name: FeesAndCommissionsSpecification
     options: {}
     type: Input

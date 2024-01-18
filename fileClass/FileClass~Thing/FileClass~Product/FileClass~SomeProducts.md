@@ -16,7 +16,7 @@ tags:
   - class/Thing/Product/SomeProducts
 extends: FileClass~Thing/FileClass~Product
 fields:
-  - id: ylJP6f
+  - id: h2S0RZ
     name: InventoryLevel
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

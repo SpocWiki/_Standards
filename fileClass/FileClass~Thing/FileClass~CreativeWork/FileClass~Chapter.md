@@ -16,17 +16,17 @@ tags:
   - class/Thing/CreativeWork/Chapter
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: u80Va3
+  - id: EjXSHF
     name: PageEnd
     options: {}
     type: Number
     path: ""
-  - id: Mf72kF
+  - id: ouJQYg
     name: PageStart
     options: {}
     type: Number
     path: ""
-  - id: J9ANjN
+  - id: JhuqCD
     name: Pagination
     options: {}
     type: Input

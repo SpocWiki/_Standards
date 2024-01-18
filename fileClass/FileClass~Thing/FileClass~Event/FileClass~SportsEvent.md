@@ -16,25 +16,25 @@ tags:
   - class/Thing/Event/SportsEvent
 extends: FileClass~Thing/FileClass~Event
 fields:
-  - id: frIDWD
+  - id: eKSc97
     name: AwayTeam
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: xoSPIR
+  - id: Sk1sq5
     name: Competitor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: vT0jxp
+  - id: bQRfJf
     name: HomeTeam
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: oa6DrR
+  - id: CtjIte
     name: Sport
     options: {}
     type: Input

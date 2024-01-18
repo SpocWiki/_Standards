@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Quotation
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: LP5JvW
+  - id: AWhnlr
     name: SpokenByCharacter
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')

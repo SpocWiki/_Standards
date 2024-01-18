@@ -16,19 +16,19 @@ tags:
   - class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 fields:
-  - id: MSpeP6
+  - id: cralOh
     name: AreaServed
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: QYxNmY
+  - id: EaAmub
     name: EligibleRegion
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
     type: MultiFile
     path: ""
-  - id: JZIVFW
+  - id: MWbwpO
     name: IneligibleRegion
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')

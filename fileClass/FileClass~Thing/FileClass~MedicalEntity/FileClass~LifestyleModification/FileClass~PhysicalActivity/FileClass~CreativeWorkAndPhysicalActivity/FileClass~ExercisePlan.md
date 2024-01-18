@@ -16,47 +16,47 @@ tags:
   - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity
 fields:
-  - id: QHzaOL
+  - id: 26my5j
     name: ActivityDuration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: PkoT1M
+  - id: FIVjbq
     name: ActivityFrequency
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: AjQmU5
+  - id: OPS1E2
     name: AdditionalVariable
     options: {}
     type: Input
     path: ""
-  - id: 8dGUEy
+  - id: vH1oaw
     name: ExerciseType
     options: {}
     type: Input
     path: ""
-  - id: uIsbNt
+  - id: ENyHfy
     name: Intensity
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: fPoBRk
+  - id: KwO3Uo
     name: Repetitions
     options: {}
     type: Number
     path: ""
-  - id: 7nCbGh
+  - id: Z8tdQp
     name: RestPeriods
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: zhg3xV
+  - id: es6Atp
     name: Workload
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

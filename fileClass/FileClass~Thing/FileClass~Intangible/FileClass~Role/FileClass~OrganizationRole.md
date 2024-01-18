@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/Role/OrganizationRole
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 fields:
-  - id: mMVAbU
+  - id: SwHLeB
     name: NumberedPosition
     options: {}
     type: Number

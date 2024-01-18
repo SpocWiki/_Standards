@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/UpdateAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: 3G95BZ
+  - id: yah6BN
     name: TargetCollection
     options:
       dvQueryString: dv.pages('#class/Thing')

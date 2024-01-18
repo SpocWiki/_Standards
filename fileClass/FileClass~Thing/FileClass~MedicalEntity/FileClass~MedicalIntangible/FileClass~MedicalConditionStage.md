@@ -16,12 +16,12 @@ tags:
   - class/Thing/MedicalEntity/MedicalIntangible/MedicalConditionStage
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 fields:
-  - id: J12lZJ
+  - id: EnzaO3
     name: StageAsNumber
     options: {}
     type: Number
     path: ""
-  - id: 6qLwnS
+  - id: nlL4bT
     name: SubStageSuffix
     options: {}
     type: Input

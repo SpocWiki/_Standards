@@ -16,7 +16,7 @@ tags:
   - class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom
 fields:
-  - id: K4MlAn
+  - id: SP07UR
     name: IdentifyingTest
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalTest')

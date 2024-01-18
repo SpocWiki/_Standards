@@ -16,7 +16,7 @@ tags:
   - class/Thing/MedicalEntity/MedicalTest/PathologyTest
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 fields:
-  - id: 4MyBq3
+  - id: bp5vTb
     name: TissueSample
     options: {}
     type: Input

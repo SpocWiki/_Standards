@@ -16,39 +16,39 @@ tags:
   - class/Thing/Intangible/StructuredValue/InteractionCounter
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: Sh9t3S
+  - id: n5zT9J
     name: EndTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: yufir4
+  - id: mnU7IH
     name: InteractionService
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
     type: MultiFile
     path: ""
-  - id: llWbeV
+  - id: WfUCTw
     name: InteractionType
     options:
       dvQueryString: dv.pages('#class/Thing/Action')
     type: MultiFile
     path: ""
-  - id: tf0w4x
+  - id: twC6Nd
     name: Location
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: qui8cM
+  - id: m5MHnD
     name: StartTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: NnG0aL
+  - id: yElvLa
     name: UserInteractionCount
     options: {}
     type: Number
@@ -96,7 +96,7 @@ InteractionType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 ### Location
 The location of, for example, where an event is happening, where an organization is located, or where an action takes place.
 
-has_/location_:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
+Location:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 ### StartTime
 The startTime of something. For a reserved event or service (e.g. FoodEstablishmentReservation), the time that it is expected to start. For actions that span a period of time, when the action was performed. E.g. John wrote a book from \*January\* to December. For media, including audio and video, it's the time offset of the start of a clip within a larger file.

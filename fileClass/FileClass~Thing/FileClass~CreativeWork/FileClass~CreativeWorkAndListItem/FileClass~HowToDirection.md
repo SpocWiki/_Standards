@@ -16,51 +16,51 @@ tags:
   - class/Thing/CreativeWork/CreativeWorkAndListItem/HowToDirection
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~CreativeWorkAndListItem
 fields:
-  - id: jyg3X8
+  - id: bZREU7
     name: AfterMedia
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
     type: MultiFile
     path: ""
-  - id: DIO6Ud
+  - id: 7WhCxY
     name: BeforeMedia
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
     type: MultiFile
     path: ""
-  - id: JtHSvq
+  - id: e8yS2V
     name: DuringMedia
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
     type: MultiFile
     path: ""
-  - id: woL0Nh
+  - id: vpuJwk
     name: PerformTime
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: NlIpTP
+  - id: 51XkyT
     name: PrepTime
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: J6D7aL
+  - id: gZTVTg
     name: Supply
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')
     type: MultiFile
     path: ""
-  - id: qjzaBz
+  - id: 1yU7Fr
     name: Tool
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')
     type: MultiFile
     path: ""
-  - id: 73a1yZ
+  - id: zEgRLW
     name: TotalTime
     options:
       min: "0"

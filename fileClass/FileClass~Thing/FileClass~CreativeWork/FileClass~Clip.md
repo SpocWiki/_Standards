@@ -16,53 +16,53 @@ tags:
   - class/Thing/CreativeWork/Clip
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: upb46r
+  - id: 4H9ubL
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: kyaKg4
+  - id: iI2CNL
     name: ClipNumber
     options: {}
     type: Number
     path: ""
-  - id: LJhoiA
+  - id: ZFLHmE
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 5EruHH
+  - id: rPk4bu
     name: EndOffset
     options: {}
     type: Number
     path: ""
-  - id: 8wfi62
+  - id: IWf6hS
     name: MusicBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
     type: MultiFile
     path: ""
-  - id: WlLMz9
+  - id: X41rDg
     name: PartOfEpisode
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
     type: MultiFile
     path: ""
-  - id: CwGd3j
+  - id: qdXGZi
     name: PartOfSeason
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
     type: MultiFile
     path: ""
-  - id: 94Jdv2
+  - id: KfoHeJ
     name: PartOfSeries
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')
     type: MultiFile
     path: ""
-  - id: dtMnNZ
+  - id: ZNs5Rc
     name: StartOffset
     options: {}
     type: Number

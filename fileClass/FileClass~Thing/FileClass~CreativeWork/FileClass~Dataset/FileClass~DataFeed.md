@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Dataset/DataFeed
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset
 fields:
-  - id: 9Dy7Sy
+  - id: OoZhbQ
     name: DataFeedElement
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DataFeedItem')

@@ -16,19 +16,19 @@ tags:
   - class/Thing/Intangible/Grant
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: BDQ9is
+  - id: 4TwFrd
     name: FundedItem
     options:
       dvQueryString: dv.pages('#class/Thing/BioChemEntity')
     type: MultiFile
     path: ""
-  - id: X2sjPl
+  - id: KIQquH
     name: Funder
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 0tji7L
+  - id: X8iBiG
     name: Sponsor
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')

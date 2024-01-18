@@ -16,629 +16,629 @@ tags:
   - class/Thing/CreativeWork
 extends: FileClass~Thing
 fields:
-  - id: nPNEXT
+  - id: blbECc
     name: Version
     options: {}
     type: Number
     path: ""
-  - id: fqVQnQ
+  - id: hW8gWA
     name: About
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: rdWjMM
+  - id: K4b1y5
     name: Abstract
     options: {}
     type: Input
     path: ""
-  - id: SKUJoe
+  - id: 7M4tp5
     name: AccessMode
     options: {}
     type: Input
     path: ""
-  - id: MWtPkD
+  - id: SnR6uG
     name: AccessModeSufficient
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
     type: MultiFile
     path: ""
-  - id: 829lBX
+  - id: LQfato
     name: AccessibilityAPI
     options: {}
     type: Input
     path: ""
-  - id: KOAITe
+  - id: WztgdD
     name: AccessibilityControl
     options: {}
     type: Input
     path: ""
-  - id: 5A9ebS
+  - id: Pniqmu
     name: AccessibilityFeature
     options: {}
     type: Input
     path: ""
-  - id: uYNmb5
+  - id: ojyTmz
     name: AccessibilityHazard
     options: {}
     type: Input
     path: ""
-  - id: x9gDEt
+  - id: KZBlvQ
     name: AccessibilitySummary
     options: {}
     type: Input
     path: ""
-  - id: 9dms5J
+  - id: yDupQG
     name: AccountablePerson
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: aUM6Wt
+  - id: HQBwNZ
     name: AcquireLicensePage
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: LhB30t
+  - id: YyxgmF
     name: AggregateRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
     type: MultiFile
     path: ""
-  - id: Ef3CMi
+  - id: mrOmke
     name: AlternativeHeadline
     options: {}
     type: Input
     path: ""
-  - id: aa1RNg
+  - id: 5cjo2e
     name: ArchivedAt
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/WebPage')
     type: MultiFile
     path: ""
-  - id: 0lEtPR
+  - id: wQOHvP
     name: Assesses
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: OBYDTx
+  - id: m0zOjA
     name: AssociatedMedia
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
     type: MultiFile
     path: ""
-  - id: x5TjRt
+  - id: uugBuv
     name: Audience
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
     type: MultiFile
     path: ""
-  - id: xwh9d5
+  - id: 3x4OUk
     name: Audio
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/AudioObject')
     type: MultiFile
     path: ""
-  - id: yJm7If
+  - id: mOLCL7
     name: Author
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: N5An7F
+  - id: hetfKL
     name: Award
     options: {}
     type: Input
     path: ""
-  - id: ULWgb4
+  - id: e6znYs
     name: Character
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: iUwv1s
+  - id: 4nvCrC
     name: Citation
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: PGIVlk
+  - id: oQCWhR
     name: Comment
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
     type: MultiFile
     path: ""
-  - id: m7pp6f
+  - id: eZBiu8
     name: CommentCount
     options: {}
     type: Number
     path: ""
-  - id: Jkz2ru
+  - id: rtr99P
     name: ConditionsOfAccess
     options: {}
     type: Input
     path: ""
-  - id: Ak8eDo
+  - id: 47Lxq4
     name: ContentLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: Ztstm0
+  - id: Tuy0DR
     name: ContentRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating')
     type: MultiFile
     path: ""
-  - id: 2almSU
+  - id: th8HZo
     name: ContentReferenceTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 41ubjj
+  - id: buKna0
     name: Contributor
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: p906Uf
+  - id: DfnYuv
     name: CopyrightHolder
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: E3voRk
+  - id: IUjuTX
     name: CopyrightNotice
     options: {}
     type: Input
     path: ""
-  - id: xrUUyu
+  - id: qhFb61
     name: CopyrightYear
     options: {}
     type: Number
     path: ""
-  - id: hdPRea
+  - id: ikR4Ut
     name: Correction
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment/CorrectionComment')
     type: MultiFile
     path: ""
-  - id: sRIpKb
+  - id: e3luCG
     name: CountryOfOrigin
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
     type: MultiFile
     path: ""
-  - id: RiiBnL
+  - id: O9KMkr
     name: CreativeWorkStatus
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: Nmdpwh
+  - id: kmKp2a
     name: Creator
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: Kcyxse
+  - id: jOzXma
     name: CreditText
     options: {}
     type: Input
     path: ""
-  - id: Tnc4KT
+  - id: gzRxxY
     name: DateCreated
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: lcMFij
+  - id: jcmUKe
     name: DateModified
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: m8gwEz
+  - id: pccpZy
     name: DatePublished
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: DHDM70
+  - id: bQR0nw
     name: DiscussionUrl
     options: {}
     type: Input
     path: ""
-  - id: 9EoYUR
+  - id: 2Pr1z2
     name: EditEIDR
     options: {}
     type: Input
     path: ""
-  - id: rfpjZ0
+  - id: sW797n
     name: Editor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 5W9neI
+  - id: dTct4i
     name: EducationalAlignment
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/AlignmentObject')
     type: MultiFile
     path: ""
-  - id: CQAUqN
+  - id: pwoq7R
     name: EducationalLevel
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: oRwzqF
+  - id: ufpUNb
     name: EducationalUse
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: 1hTfLr
+  - id: KIOdYE
     name: Encoding
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
     type: MultiFile
     path: ""
-  - id: n4feqr
+  - id: iZeuak
     name: EncodingFormat
     options: {}
     type: Input
     path: ""
-  - id: Lu9ixl
+  - id: orXBHR
     name: ExampleOfWork
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: zPvVMw
+  - id: P5OT1Q
     name: Expires
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: e2hXSu
+  - id: TfDJoL
     name: Funder
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: IAry2k
+  - id: vrkmZq
     name: Funding
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
     type: MultiFile
     path: ""
-  - id: z3r8s2
+  - id: v8FTDs
     name: Genre
     options: {}
     type: Input
     path: ""
-  - id: KSt7N9
+  - id: pHWYQV
     name: HasPart
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: zhR39R
+  - id: 3Lj761
     name: Headline
     options: {}
     type: Input
     path: ""
-  - id: n0NA1q
+  - id: gGD4vo
     name: InLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: Sa19Rl
+  - id: alBplZ
     name: InteractionStatistic
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/InteractionCounter')
     type: MultiFile
     path: ""
-  - id: 4Oliz2
+  - id: vAusnA
     name: InteractivityType
     options: {}
     type: Input
     path: ""
-  - id: OM4PqG
+  - id: RFwhak
     name: InterpretedAsClaim
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Claim')
     type: MultiFile
     path: ""
-  - id: EsKT3m
+  - id: IexKZ1
     name: IsAccessibleForFree
     options: {}
     type: Boolean
     path: ""
-  - id: 8PMb0r
+  - id: pkjTZe
     name: IsBasedOn
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: F0MwQj
+  - id: qpZTxp
     name: IsFamilyFriendly
     options: {}
     type: Boolean
     path: ""
-  - id: 2Ja7MG
+  - id: 1fmo7d
     name: IsPartOf
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: oj8H3z
+  - id: UGaZvW
     name: Keywords
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: Tp9rCt
+  - id: UyrE3R
     name: LearningResourceType
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: QcJaPC
+  - id: TMdLFG
     name: License
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: SGXOtG
+  - id: 640yYR
     name: LocationCreated
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: 4OtIca
+  - id: 5ngOrX
     name: MainEntity
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: Qv0bpo
+  - id: 0VlrNZ
     name: Maintainer
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: Z7DKrP
+  - id: KIkhmE
     name: Material
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: vcnrJq
+  - id: R1bqF6
     name: MaterialExtent
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: Hpqpzv
+  - id: 6BKHyH
     name: Mentions
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: 28ssnX
+  - id: sRh84y
     name: Offers
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
     type: MultiFile
     path: ""
-  - id: gcI2ue
+  - id: LvzLY3
     name: Pattern
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: 9yqnp5
+  - id: tawSTp
     name: Position
     options: {}
     type: Number
     path: ""
-  - id: 9usIQi
+  - id: YgyLOh
     name: Producer
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: ROFFKs
+  - id: IusFu3
     name: Provider
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: Yd3Rbp
+  - id: FPXnoR
     name: Publication
     options:
       dvQueryString: dv.pages('#class/Thing/Event/PublicationEvent')
     type: MultiFile
     path: ""
-  - id: gtoUCt
+  - id: WGkhK9
     name: Publisher
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: wPqV6x
+  - id: 7PHs7z
     name: PublisherImprint
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: xMTgik
+  - id: 0p8DGU
     name: PublishingPrinciples
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: hZPO1e
+  - id: BfILKY
     name: RecordedAt
     options:
       dvQueryString: dv.pages('#class/Thing/Event')
     type: MultiFile
     path: ""
-  - id: SmkMle
+  - id: QCU85m
     name: ReleasedEvent
     options:
       dvQueryString: dv.pages('#class/Thing/Event/PublicationEvent')
     type: MultiFile
     path: ""
-  - id: iibXqI
+  - id: c7OvhC
     name: Review
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: 7VbfVj
+  - id: QJM3nr
     name: SchemaVersion
     options: {}
     type: Input
     path: ""
-  - id: WGRv8T
+  - id: vvn36t
     name: SdDatePublished
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 5AeblC
+  - id: 1Wu9dC
     name: SdLicense
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: yfy1JT
+  - id: C7y7HI
     name: SdPublisher
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: Fn6444
+  - id: cr7tNY
     name: Size
     options: {}
     type: Input
     path: ""
-  - id: uGdTnA
+  - id: ls0Jtd
     name: SourceOrganization
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: b6QGLK
+  - id: dLcEDf
     name: Spatial
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: OarojZ
+  - id: iHCRBa
     name: SpatialCoverage
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: SGAWfb
+  - id: zQLSqk
     name: Sponsor
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: gaeJHT
+  - id: HXvKGr
     name: Teaches
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: L5N9TM
+  - id: SDygPp
     name: Temporal
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: BEwQLi
+  - id: E1zMI8
     name: TemporalCoverage
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 3ToIo3
+  - id: fhaqil
     name: Text
     options: {}
     type: Input
     path: ""
-  - id: Mf3rB5
+  - id: gb97hi
     name: Thumbnail
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: L5sUua
+  - id: sp5UqE
     name: ThumbnailUrl
     options: {}
     type: Input
     path: ""
-  - id: PDXgv2
+  - id: ylNQhp
     name: TimeRequired
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: rruSdH
+  - id: x5VwTV
     name: TranslationOfWork
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: 0qP6RP
+  - id: MM1nKc
     name: Translator
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 4hwB86
+  - id: n7Kury
     name: TypicalAgeRange
     options: {}
     type: Input
     path: ""
-  - id: TMtSFx
+  - id: AfSsVk
     name: UsageInfo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: mtMRkA
+  - id: NkpHpF
     name: Video
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Clip')
     type: MultiFile
     path: ""
-  - id: oZ5H5T
+  - id: LP7zoT
     name: WorkExample
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: PjvP4m
+  - id: yFWT89
     name: WorkTranslation
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
@@ -792,7 +792,7 @@ The location depicted or described in the content. For example, the location in 
 ContentLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 ### ContentRating
-Official rating of a piece of content—for example, 'MPAA PG-13'.
+Official rating of a piece of content&#x2014;for example, 'MPAA PG-13'.
 
 ContentRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Rating')"}}
 
@@ -1029,7 +1029,7 @@ Indicates that the CreativeWork contains a reference to, but is not necessarily 
 Mentions:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 
 ### Offers
-An offer to provide this item—for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
+An offer to provide this item&#x2014;for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
 
 Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Demand')"}}
 
@@ -1069,7 +1069,7 @@ The publishing division which published the comic.
 PublisherImprint:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 ### PublishingPrinciples
-The publishingPrinciples property indicates (typically via [[../../schema-org/Class/is_a_/data_type/text/URL]]) a document describing the editorial principles of an [[Organization]] (or individual, e.g. a [[Person]] writing a blog) that relate to their activities as a publisher, e.g. ethics or diversity policies. When applied to a [[CreativeWork]] (e.g. [[NewsArticle]]) the principles are those of the party primarily responsible for the creation of the [[CreativeWork]].  
+The publishingPrinciples property indicates (typically via [[URL]]) a document describing the editorial principles of an [[Organization]] (or individual, e.g. a [[Person]] writing a blog) that relate to their activities as a publisher, e.g. ethics or diversity policies. When applied to a [[CreativeWork]] (e.g. [[NewsArticle]]) the principles are those of the party primarily responsible for the creation of the [[CreativeWork]].  
  While such policies are most typically expressed in natural language, sometimes related information (e.g. indicating a [[funder]]) can be expressed using schema.org terminology.
 
 PublishingPrinciples:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}

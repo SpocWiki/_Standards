@@ -16,285 +16,285 @@ tags:
   - class/Thing/MedicalEntity/Substance/ProductAndSubstance
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance
 fields:
-  - id: cYpCED
+  - id: tKfELl
     name: AdditionalProperty
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
     type: MultiFile
     path: ""
-  - id: gNuXfM
+  - id: KlzEAf
     name: AggregateRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
     type: MultiFile
     path: ""
-  - id: CiTw0j
+  - id: M7CdcH
     name: Asin
     options: {}
     type: Input
     path: ""
-  - id: HV3Sh8
+  - id: yaCo62
     name: Audience
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
     type: MultiFile
     path: ""
-  - id: taMLw5
+  - id: Fs2x7N
     name: Award
     options: {}
     type: Input
     path: ""
-  - id: F0hRmG
+  - id: VHq2yw
     name: Brand
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Brand')
     type: MultiFile
     path: ""
-  - id: WIhVDJ
+  - id: bOPcNY
     name: Color
     options: {}
     type: Input
     path: ""
-  - id: m7LVEs
+  - id: yAth8S
     name: CountryOfAssembly
     options: {}
     type: Input
     path: ""
-  - id: UeIoml
+  - id: ou82Kb
     name: CountryOfLastProcessing
     options: {}
     type: Input
     path: ""
-  - id: UN5zPC
+  - id: WgQOSP
     name: CountryOfOrigin
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
     type: MultiFile
     path: ""
-  - id: Pkxr3R
+  - id: hnLIsA
     name: Depth
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: nlRHxk
+  - id: Y7CV9d
     name: Funding
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
     type: MultiFile
     path: ""
-  - id: 5P7VO1
+  - id: 7f7psw
     name: Gtin
     options: {}
     type: Input
     path: ""
-  - id: rT9qn7
+  - id: VrLomV
     name: Gtin12
     options: {}
     type: Input
     path: ""
-  - id: wPbnZk
+  - id: vSiPYp
     name: Gtin13
     options: {}
     type: Input
     path: ""
-  - id: ZYIXRJ
+  - id: EO1iuA
     name: Gtin14
     options: {}
     type: Input
     path: ""
-  - id: CBmTwR
+  - id: ldsk8S
     name: Gtin8
     options: {}
     type: Input
     path: ""
-  - id: EJse8H
+  - id: L2ulcY
     name: HasEnergyConsumptionDetails
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/EnergyConsumptionDetails')
     type: MultiFile
     path: ""
-  - id: qgOroT
+  - id: CSnUmo
     name: HasMeasurement
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: IGHLob
+  - id: 4Ka91B
     name: HasMerchantReturnPolicy
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')
     type: MultiFile
     path: ""
-  - id: xOK285
+  - id: 2ZiQWy
     name: Height
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: SFnFYu
+  - id: 32xtAv
     name: InProductGroupWithID
     options: {}
     type: Input
     path: ""
-  - id: nniBK5
+  - id: XEFgia
     name: IsAccessoryOrSparePartFor
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: Pjxtlw
+  - id: JaZSbm
     name: IsConsumableFor
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: iB26V0
+  - id: uWUswe
     name: IsFamilyFriendly
     options: {}
     type: Boolean
     path: ""
-  - id: 0jKFXW
+  - id: PbKth8
     name: IsRelatedTo
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: vPZRnY
+  - id: D8lNKa
     name: IsSimilarTo
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: Ny5vQ5
+  - id: 4krpgf
     name: IsVariantOf
     options:
       dvQueryString: dv.pages('#class/Thing/Product/ProductGroup')
     type: MultiFile
     path: ""
-  - id: TBiVig
+  - id: bBdJkA
     name: Keywords
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: HHIWcn
+  - id: VmqUcm
     name: Logo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: hCx8Vu
+  - id: lneay2
     name: Manufacturer
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 9qQKCE
+  - id: EiuMXm
     name: Material
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: lEbBMP
+  - id: 7wnEEC
     name: MobileUrl
     options: {}
     type: Input
     path: ""
-  - id: ocG783
+  - id: gGhmbO
     name: Model
     options:
       dvQueryString: dv.pages('#class/Thing/Product/ProductModel')
     type: MultiFile
     path: ""
-  - id: D4Q4ZW
+  - id: htJWoX
     name: Mpn
     options: {}
     type: Input
     path: ""
-  - id: UBKKol
+  - id: YLnwAI
     name: NegativeNotes
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
     type: MultiFile
     path: ""
-  - id: OPqQMC
+  - id: vGu6iE
     name: Nsn
     options: {}
     type: Input
     path: ""
-  - id: YTgPPc
+  - id: GDQPOg
     name: Offers
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
     type: MultiFile
     path: ""
-  - id: 93yphY
+  - id: wrX5mA
     name: Pattern
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: TQ0hrd
+  - id: 10v1Z8
     name: PositiveNotes
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
     type: MultiFile
     path: ""
-  - id: daIXRL
+  - id: 15kPmy
     name: ProductID
     options: {}
     type: Input
     path: ""
-  - id: poltBn
+  - id: tJOEfp
     name: ProductionDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: Q1j5ID
+  - id: YbjACH
     name: PurchaseDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: agwwOY
+  - id: eTRCUT
     name: ReleaseDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: J7Rgga
+  - id: pZ4bO7
     name: Review
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: gfvrk1
+  - id: Hhh0um
     name: Size
     options: {}
     type: Input
     path: ""
-  - id: FKBemB
+  - id: r8AxqJ
     name: Sku
     options: {}
     type: Input
     path: ""
-  - id: 44RWUl
+  - id: itKvVm
     name: Slogan
     options: {}
     type: Input
     path: ""
-  - id: ECWDgp
+  - id: oF57ZD
     name: Weight
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: Tj0NhR
+  - id: 8yUqrc
     name: Width
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
@@ -504,7 +504,7 @@ Material:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ### MobileUrl
 The [[mobileUrl]] property is provided for specific situations in which data consumers need to determine whether one of several provided URLs is a dedicated 'mobile site'.  
- To discourage over-use, and reflecting intial usecases, the property is expected only on [[Product]] and [[Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[../../../../schema-org/Class/is_a_/data_type/text/URL]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[../../../../schema-org/Class/is_a_/data_type/text/URL]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
+ To discourage over-use, and reflecting intial usecases, the property is expected only on [[Product]] and [[Offer]], rather than [[Thing]]. The general trend in web technology is towards [responsive design](https://en.wikipedia.org/wiki/Responsive\_web\_design) in which content can be flexibly adapted to a wide range of browsing environments. Pages and sites referenced with the long-established [[url]] property should ideally also be usable on a wide variety of devices, including mobile phones. In most cases, it would be pointless and counter productive to attempt to update all [[url]] markup to use [[mobileUrl]] for more mobile-oriented pages. The property is intended for the case when items (primarily [[Product]] and [[Offer]]) have extra URLs hosted on an additional "mobile site" alongside the main one. It should not be taken as an endorsement of this publication style.
 
 MobileUrl:: {"type":"Input","options":{}}
 
@@ -532,7 +532,7 @@ Indicates the [NATO stock number](https://en.wikipedia.org/wiki/NATO\_Stock\_Num
 Nsn:: {"type":"Input","options":{}}
 
 ### Offers
-An offer to provide this item—for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
+An offer to provide this item&#x2014;for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
 
 Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Demand')"}}
 

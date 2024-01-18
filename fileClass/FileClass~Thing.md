@@ -14,113 +14,113 @@ tags:
   - "#is_/a_/Thing"
   - class/Thing
 fields:
-  - id: OhyDlG
+  - id: eVmlNP
     name: Name
     options: {}
     type: Input
     path: ""
-  - id: qgBqt6
+  - id: VA7ToR
     name: Description
     options: {}
     type: Input
     path: ""
-  - id: d3fXWh
+  - id: 0liZzI
     name: AdditionalType
     options: {}
     type: Input
     path: ""
-  - id: mPlcvT
+  - id: Dkb6pX
     name: AlternateName
     options: {}
     type: Input
     path: ""
-  - id: 52JJ1E
+  - id: lw8src
     name: DisambiguatingDescription
     options: {}
     type: Input
     path: ""
-  - id: vJS6NV
+  - id: jPPe2V
     name: Identifier
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
     type: MultiFile
     path: ""
-  - id: edYJI3
+  - id: k4Cbhq
     name: Image
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: dldunt
+  - id: CoRJPY
     name: MainEntityOfPage
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: trR5eX
+  - id: lragLx
     name: PotentialAction
     options:
       dvQueryString: dv.pages('#class/Thing/Action')
     type: MultiFile
     path: ""
-  - id: 29wFrg
+  - id: HuDmiv
     name: SameAs
     options: {}
     type: Input
     path: ""
-  - id: dhjojC
+  - id: Bu0LaZ
     name: SubjectOf
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: c6Wpze
+  - id: V6BgOl
     name: Url
     options: {}
     type: Input
     path: ""
-  - id: TFovHj
+  - id: F26YLd
     name: is_a
     options:
       dvQueryString: dv.pages('#class/Class')
     type: File
     path: ""
-  - id: AI5Jbu
+  - id: GSMPIa
     name: fileClass
     options:
       dvQueryString: dv.pages('#class/FileClass')
     type: File
     path: ""
-  - id: QlkPEM
+  - id: Jza665
     name: has_time_created
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 0hbTgA
+  - id: slq0qJ
     name: has_time_destroyed
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: gvDXqI
+  - id: pWnIi6
     name: has_creator
     options: {}
     type: Input
     path: ""
-  - id: iVXZsJ
+  - id: XTOfSf
     name: has_destroyer
     options: {}
     type: Input
     path: ""
-  - id: Ll2W1z
+  - id: 7hDUzU
     name: has_place_created
     options: {}
     type: Input
     path: ""
-  - id: bSGoqJ
+  - id: ju8s3c
     name: has_place_destroyed
     options: {}
     type: Input
@@ -181,7 +181,7 @@ The identifier property represents any kind of identifier for any kind of [[Thin
 Identifier:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
 
 ### Image
-An image of the item. This can be a [[../schema-org/Class/is_a_/data_type/text/URL]] or a fully described [[ImageObject]].
+An image of the item. This can be a [[URL]] or a fully described [[ImageObject]].
 
 Image:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
 
@@ -202,7 +202,7 @@ E.g. the URL of the item's Wikipedia page, Wikidata entry, or official website.
 SameAs:: {"type":"Input","options":{}}
 
 ### SubjectOf
-CreativeWorks or Events about this Thing. Inverse Relation of [[../schema-org/Relation/is/is_subject_of|is_subject_of]] 
+CreativeWorks or Events about this Thing. Inverse Relation of [[../schema-org/Relation/has/is_subject_of|is_subject_of]] 
 
 SubjectOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 

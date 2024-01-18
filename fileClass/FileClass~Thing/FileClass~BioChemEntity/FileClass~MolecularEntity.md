@@ -16,51 +16,51 @@ tags:
   - class/Thing/BioChemEntity/MolecularEntity
 extends: FileClass~Thing/FileClass~BioChemEntity
 fields:
-  - id: KNOf3W
+  - id: I4IuV3
     name: ChemicalRole
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: 3TG0FW
+  - id: u40imR
     name: InChI
     options: {}
     type: Input
     path: ""
-  - id: 3HrY6R
+  - id: zr06U8
     name: InChIKey
     options: {}
     type: Input
     path: ""
-  - id: oGT8C3
+  - id: h7U1GK
     name: IupacName
     options: {}
     type: Input
     path: ""
-  - id: j3QK4C
+  - id: 8JAIr1
     name: MolecularFormula
     options: {}
     type: Input
     path: ""
-  - id: uCfKMQ
+  - id: Snbtw1
     name: MolecularWeight
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: 2rGq8N
+  - id: hxYCRn
     name: MonoisotopicMolecularWeight
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: Ru43Wx
+  - id: fHcaJa
     name: PotentialUse
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: NaZLBr
+  - id: I3xS6H
     name: Smiles
     options: {}
     type: Input

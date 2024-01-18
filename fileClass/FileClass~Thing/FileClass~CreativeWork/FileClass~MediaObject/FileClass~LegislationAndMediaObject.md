@@ -16,74 +16,74 @@ tags:
   - class/Thing/CreativeWork/MediaObject/LegislationAndMediaObject
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields:
-  - id: EISnIh
+  - id: sptt4w
     name: Jurisdiction
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: zc0jIn
+  - id: iqNi33
     name: LegislationApplies
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
     type: MultiFile
     path: ""
-  - id: ovsIbo
+  - id: PilRap
     name: LegislationChanges
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
     type: MultiFile
     path: ""
-  - id: 0KBmFR
+  - id: wXhhy1
     name: LegislationConsolidates
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
     type: MultiFile
     path: ""
-  - id: uHH3uG
+  - id: FJQfL4
     name: LegislationDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: QT7hT5
+  - id: 9NOL7w
     name: LegislationDateVersion
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: kXBsKy
+  - id: xGZs7y
     name: LegislationIdentifier
     options: {}
     type: Input
     path: ""
-  - id: r1AvZN
+  - id: kOtIYF
     name: LegislationJurisdiction
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: upmshQ
+  - id: aAPGZM
     name: LegislationPassedBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: gBXhor
+  - id: uLJPkW
     name: LegislationResponsible
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: qXEjWb
+  - id: FHlqtw
     name: LegislationTransposes
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
     type: MultiFile
     path: ""
-  - id: DInQpz
+  - id: IJicab
     name: LegislationType
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')

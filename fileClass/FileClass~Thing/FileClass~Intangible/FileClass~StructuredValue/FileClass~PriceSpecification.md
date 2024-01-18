@@ -16,53 +16,53 @@ tags:
   - class/Thing/Intangible/StructuredValue/PriceSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: giaPLF
+  - id: LrZ8hm
     name: EligibleQuantity
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: qXTJMX
+  - id: MHDq6a
     name: EligibleTransactionVolume
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
     type: MultiFile
     path: ""
-  - id: VrxOAX
+  - id: KbF9Mz
     name: MaxPrice
     options: {}
     type: Number
     path: ""
-  - id: 1mqNXt
+  - id: BrTLBH
     name: MinPrice
     options: {}
     type: Number
     path: ""
-  - id: Foe6HG
+  - id: TU5WQ6
     name: Price
     options: {}
     type: Number
     path: ""
-  - id: SJvH7q
+  - id: nuJdF6
     name: PriceCurrency
     options: {}
     type: Input
     path: ""
-  - id: JHKRXC
+  - id: dQIKC5
     name: ValidFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: U5g0wx
+  - id: CX7aAv
     name: ValidThrough
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: wSMASi
+  - id: AeoCeL
     name: ValueAddedTaxIncluded
     options: {}
     type: Boolean

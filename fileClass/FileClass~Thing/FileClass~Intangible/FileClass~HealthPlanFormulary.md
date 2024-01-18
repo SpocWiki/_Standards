@@ -16,17 +16,17 @@ tags:
   - class/Thing/Intangible/HealthPlanFormulary
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: lbOq5n
+  - id: GiPryd
     name: HealthPlanCostSharing
     options: {}
     type: Boolean
     path: ""
-  - id: meoYwY
+  - id: q8Hk4X
     name: HealthPlanDrugTier
     options: {}
     type: Input
     path: ""
-  - id: 4XwdrE
+  - id: lolzag
     name: OffersPrescriptionByMail
     options: {}
     type: Boolean

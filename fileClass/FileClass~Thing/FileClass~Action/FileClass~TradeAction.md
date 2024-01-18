@@ -16,17 +16,17 @@ tags:
   - class/Thing/Action/TradeAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: qj7u7n
+  - id: asKafP
     name: Price
     options: {}
     type: Number
     path: ""
-  - id: 2bB9R8
+  - id: i610fE
     name: PriceCurrency
     options: {}
     type: Input
     path: ""
-  - id: 4Jm1tP
+  - id: hYLNCR
     name: PriceSpecification
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')

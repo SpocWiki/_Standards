@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/ListItem/HowToItem
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem
 fields:
-  - id: W65Mfp
+  - id: VXQmqR
     name: RequiredQuantity
     options: {}
     type: Number

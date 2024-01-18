@@ -16,7 +16,7 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/MedicalBusiness/MedicalBusinessAndMedicalOrganization/MedicalClinic
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~MedicalBusiness/FileClass~MedicalBusinessAndMedicalOrganization
 fields:
-  - id: gHUb6T
+  - id: 36zXqe
     name: AvailableService
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure')

@@ -16,19 +16,19 @@ tags:
   - class/Thing/MedicalEntity/AnatomicalStructure/Vessel/LymphaticVessel
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel
 fields:
-  - id: SxpfPk
+  - id: TaLRqs
     name: OriginatesFrom
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')
     type: MultiFile
     path: ""
-  - id: ItMtSz
+  - id: 9oeWds
     name: RegionDrained
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: 3fa05h
+  - id: YzI9un
     name: RunsTo
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')

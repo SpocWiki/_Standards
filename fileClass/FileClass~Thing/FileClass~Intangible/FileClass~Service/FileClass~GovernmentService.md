@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/Service/GovernmentService
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields:
-  - id: QA25jN
+  - id: 1CscF8
     name: Jurisdiction
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: 7W3MHf
+  - id: oCrcHM
     name: ServiceOperator
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')

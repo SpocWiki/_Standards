@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/InteractAction/FollowAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields:
-  - id: cHR7iu
+  - id: MPtr40
     name: Followee
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')

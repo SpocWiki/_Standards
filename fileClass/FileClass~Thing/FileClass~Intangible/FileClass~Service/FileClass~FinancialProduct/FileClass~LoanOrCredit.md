@@ -16,51 +16,51 @@ tags:
   - class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 fields:
-  - id: u3ggW4
+  - id: tnoLPj
     name: Amount
     options: {}
     type: Number
     path: ""
-  - id: RihR08
+  - id: MSrZCZ
     name: Currency
     options: {}
     type: Input
     path: ""
-  - id: VbwVpu
+  - id: rmSuLR
     name: GracePeriod
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: 7ZiGWe
+  - id: Dx4fNQ
     name: LoanRepaymentForm
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/RepaymentSpecification')
     type: MultiFile
     path: ""
-  - id: z3PDkU
+  - id: lMBjjz
     name: LoanTerm
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: u0ICOq
+  - id: H81NZc
     name: LoanType
     options: {}
     type: Input
     path: ""
-  - id: 7kA6Wo
+  - id: d8Atmo
     name: RecourseLoan
     options: {}
     type: Boolean
     path: ""
-  - id: slhMnh
+  - id: 4G4zYD
     name: RenegotiableLoan
     options: {}
     type: Boolean
     path: ""
-  - id: ZgOwnW
+  - id: puuMri
     name: RequiredCollateral
     options:
       dvQueryString: dv.pages('#class/Thing')

@@ -16,12 +16,12 @@ tags:
   - class/Thing/CreativeWork/Review/MediaReview
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 fields:
-  - id: xIVUZn
+  - id: NVyU37
     name: OriginalMediaContextDescription
     options: {}
     type: Input
     path: ""
-  - id: mjGiu0
+  - id: jZ1n7l
     name: OriginalMediaLink
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')

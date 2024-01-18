@@ -16,19 +16,19 @@ tags:
   - class/Thing/Event/DeliveryEvent
 extends: FileClass~Thing/FileClass~Event
 fields:
-  - id: yjjvhv
+  - id: ThuzHi
     name: AccessCode
     options: {}
     type: Input
     path: ""
-  - id: y1zoKJ
+  - id: 1A2Rof
     name: AvailableFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: gsXi2X
+  - id: BNAx1R
     name: AvailableThrough
     options:
       dateFormat: YYYY-MM-DD

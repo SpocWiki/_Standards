@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/Role/PerformanceRole
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 fields:
-  - id: vEmGoC
+  - id: 5KLo3u
     name: CharacterName
     options: {}
     type: Input

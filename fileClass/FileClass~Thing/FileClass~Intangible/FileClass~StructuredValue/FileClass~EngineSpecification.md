@@ -16,29 +16,29 @@ tags:
   - class/Thing/Intangible/StructuredValue/EngineSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: x4F5qp
+  - id: ooNWkC
     name: EngineDisplacement
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: CzlRqO
+  - id: xqtiU2
     name: EnginePower
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: Zrpv0m
+  - id: Jb9TPB
     name: EngineType
     options: {}
     type: Input
     path: ""
-  - id: cVwsYK
+  - id: I4m85V
     name: FuelType
     options: {}
     type: Input
     path: ""
-  - id: bzTjSs
+  - id: VYa6ye
     name: Torque
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

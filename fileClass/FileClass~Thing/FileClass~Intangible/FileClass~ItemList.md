@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/ItemList
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: waOyWY
+  - id: 0MRjwP
     name: ItemListElement
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ListItem')
     type: MultiFile
     path: ""
-  - id: Zvssa4
+  - id: QuoDDI
     name: NumberOfItems
     options: {}
     type: Number
@@ -32,7 +32,7 @@ fields:
 # ItemList
 This is a kind of [[FileClass~Intangible]]
 
-A list of items of any sort—for example, Top 10 Movies About Weathermen, or Top 100 Party Songs. Not to be confused with HTML lists, which are often used only for formatting.
+A list of items of any sort&#x2014;for example, Top 10 Movies About Weathermen, or Top 100 Party Songs. Not to be confused with HTML lists, which are often used only for formatting.
 
 
 ## Use one of these Tags for Objects of this Type:

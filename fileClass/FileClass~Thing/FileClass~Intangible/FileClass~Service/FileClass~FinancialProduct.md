@@ -16,17 +16,17 @@ tags:
   - class/Thing/Intangible/Service/FinancialProduct
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields:
-  - id: xqP7gG
+  - id: JepkKM
     name: AnnualPercentageRate
     options: {}
     type: Number
     path: ""
-  - id: vPGtpW
+  - id: JEVET7
     name: FeesAndCommissionsSpecification
     options: {}
     type: Input
     path: ""
-  - id: lQrXDy
+  - id: BXXEDy
     name: InterestRate
     options: {}
     type: Number

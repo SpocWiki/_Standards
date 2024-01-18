@@ -13,7 +13,7 @@ excludes:
 extends: FileClass~Thing
 version: "2.0"
 fields:
-  - id: FuxSx8
+  - id: JBawoz
     name: Items
     options: {}
     type: MultiFile

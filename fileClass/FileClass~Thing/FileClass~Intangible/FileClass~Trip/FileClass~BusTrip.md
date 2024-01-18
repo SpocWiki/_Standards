@@ -16,23 +16,23 @@ tags:
   - class/Thing/Intangible/Trip/BusTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-  - id: AnVVzF
+  - id: Trvs14
     name: ArrivalBusStop
     options:
       dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BusStation')
     type: MultiFile
     path: ""
-  - id: cnC7eQ
+  - id: 0znFtX
     name: BusName
     options: {}
     type: Input
     path: ""
-  - id: Aqqt1l
+  - id: zWEAKu
     name: BusNumber
     options: {}
     type: Input
     path: ""
-  - id: 7p020C
+  - id: il4Cpq
     name: DepartureBusStop
     options:
       dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BusStation')

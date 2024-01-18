@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/HyperToc
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: coGZvz
+  - id: lKgTp2
     name: TocEntry
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/HyperTocEntry')

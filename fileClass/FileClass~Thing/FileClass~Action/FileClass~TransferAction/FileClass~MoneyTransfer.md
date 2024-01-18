@@ -16,12 +16,12 @@ tags:
   - class/Thing/Action/TransferAction/MoneyTransfer
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-  - id: IiDbnG
+  - id: CoVnFf
     name: Amount
     options: {}
     type: Number
     path: ""
-  - id: L1GSxc
+  - id: kLeRGC
     name: BeneficiaryBank
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FinancialService/BankOrCreditUnion')

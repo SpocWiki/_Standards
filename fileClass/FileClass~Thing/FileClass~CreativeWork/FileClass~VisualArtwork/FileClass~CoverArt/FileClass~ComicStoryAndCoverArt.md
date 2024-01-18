@@ -16,31 +16,31 @@ tags:
   - class/Thing/CreativeWork/VisualArtwork/CoverArt/ComicStoryAndCoverArt
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork/FileClass~CoverArt
 fields:
-  - id: SHtVMd
+  - id: GKJRKV
     name: Artist
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 8F3xyr
+  - id: fUeRaz
     name: Colorist
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: UxSHaw
+  - id: IdgNft
     name: Inker
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: uUxyMA
+  - id: VdAPqt
     name: Letterer
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: rykF0g
+  - id: GMiZUT
     name: Penciler
     options:
       dvQueryString: dv.pages('#class/Thing/Person')

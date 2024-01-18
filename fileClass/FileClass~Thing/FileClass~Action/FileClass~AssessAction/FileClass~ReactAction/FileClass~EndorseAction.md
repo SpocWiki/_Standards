@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/AssessAction/ReactAction/EndorseAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction
 fields:
-  - id: ZrZQW2
+  - id: y4RMPV
     name: Endorsee
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')

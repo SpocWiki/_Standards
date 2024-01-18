@@ -16,17 +16,17 @@ tags:
   - class/Thing/Intangible/HealthPlanNetwork
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: jBXyHq
+  - id: qT5V1p
     name: HealthPlanCostSharing
     options: {}
     type: Boolean
     path: ""
-  - id: Ke7oBj
+  - id: i6twk4
     name: HealthPlanNetworkId
     options: {}
     type: Input
     path: ""
-  - id: BrDfPb
+  - id: rHDWGX
     name: HealthPlanNetworkTier
     options: {}
     type: Input

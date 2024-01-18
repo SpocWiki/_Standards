@@ -16,19 +16,19 @@ tags:
   - class/Thing/MedicalEntity/AnatomicalStructure/Nerve
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 fields:
-  - id: sfuqts
+  - id: AJqqaf
     name: NerveMotor
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Muscle')
     type: MultiFile
     path: ""
-  - id: GrjN8K
+  - id: V76tgd
     name: SensoryUnit
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: oKskfj
+  - id: UFFejV
     name: SourcedFrom
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure')

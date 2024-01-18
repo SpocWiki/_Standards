@@ -16,44 +16,44 @@ tags:
   - class/Thing/CreativeWork/Article
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: P8hpOV
+  - id: Cz9NtF
     name: ArticleBody
     options: {}
     type: Input
     path: ""
-  - id: jJGjgZ
+  - id: cjIHSp
     name: ArticleSection
     options: {}
     type: Input
     path: ""
-  - id: Io9wvM
+  - id: JuFBFf
     name: Backstory
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: XfOVNq
+  - id: VtHY6u
     name: PageEnd
     options: {}
     type: Number
     path: ""
-  - id: nNegkv
+  - id: wVxNKW
     name: PageStart
     options: {}
     type: Number
     path: ""
-  - id: FZ95U7
+  - id: bn8kyf
     name: Pagination
     options: {}
     type: Input
     path: ""
-  - id: 10n9lv
+  - id: 9hotyJ
     name: Speakable
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/SpeakableSpecification')
     type: MultiFile
     path: ""
-  - id: nJ5ZT0
+  - id: UFKbDM
     name: WordCount
     options: {}
     type: Number

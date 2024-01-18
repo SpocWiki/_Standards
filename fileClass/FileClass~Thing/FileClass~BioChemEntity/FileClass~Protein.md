@@ -16,7 +16,7 @@ tags:
   - class/Thing/BioChemEntity/Protein
 extends: FileClass~Thing/FileClass~BioChemEntity
 fields:
-  - id: mHwvam
+  - id: eOewCo
     name: HasBioPolymerSequence
     options: {}
     type: Input

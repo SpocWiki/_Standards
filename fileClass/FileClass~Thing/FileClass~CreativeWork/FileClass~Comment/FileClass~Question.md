@@ -16,23 +16,23 @@ tags:
   - class/Thing/CreativeWork/Comment/Question
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Comment
 fields:
-  - id: XuY1sx
+  - id: LZq8in
     name: AcceptedAnswer
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment/Answer')
     type: MultiFile
     path: ""
-  - id: A6ndGe
+  - id: G6bvL4
     name: AnswerCount
     options: {}
     type: Number
     path: ""
-  - id: jnqf6I
+  - id: Vw3NyU
     name: EduQuestionType
     options: {}
     type: Input
     path: ""
-  - id: JKhgDx
+  - id: gj2Vys
     name: SuggestedAnswer
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment/Answer')

@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Review/ClaimReview
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Review
 fields:
-  - id: SKwtDF
+  - id: 4KLInd
     name: ClaimReviewed
     options: {}
     type: Input

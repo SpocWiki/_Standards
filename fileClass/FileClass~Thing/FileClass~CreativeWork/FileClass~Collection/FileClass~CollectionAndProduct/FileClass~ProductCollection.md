@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Collection/CollectionAndProduct/ProductCollection
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct
 fields:
-  - id: nGkVyw
+  - id: lb6K3J
     name: IncludesObject
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')

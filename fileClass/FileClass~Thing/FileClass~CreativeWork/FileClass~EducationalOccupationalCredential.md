@@ -16,32 +16,32 @@ tags:
   - class/Thing/CreativeWork/EducationalOccupationalCredential
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: QMt9Ur
+  - id: AbZKY7
     name: CompetencyRequired
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: ENrLlX
+  - id: 47QXKT
     name: CredentialCategory
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: gnHNpP
+  - id: lco3Ar
     name: RecognizedBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: Px7ySv
+  - id: bsfE19
     name: ValidFor
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: WGhjoK
+  - id: 6Ugedn
     name: ValidIn
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')

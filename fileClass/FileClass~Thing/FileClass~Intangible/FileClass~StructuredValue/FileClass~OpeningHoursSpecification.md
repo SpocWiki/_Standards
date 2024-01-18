@@ -16,28 +16,28 @@ tags:
   - class/Thing/Intangible/StructuredValue/OpeningHoursSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: Fi6kNr
+  - id: aeAMow
     name: Closes
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: yFSARs
+  - id: spCF6i
     name: Opens
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: 8FkDza
+  - id: IbrJFN
     name: ValidFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: xZdGwO
+  - id: FE08Wp
     name: ValidThrough
     options:
       dateFormat: YYYY-MM-DD

@@ -16,28 +16,28 @@ tags:
   - class/Thing/Intangible/EntryPoint
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: uHAPgY
+  - id: JBNv3U
     name: ActionApplication
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')
     type: MultiFile
     path: ""
-  - id: HvG5vE
+  - id: pdCrbh
     name: ContentType
     options: {}
     type: Input
     path: ""
-  - id: Z73z1i
+  - id: 2bmAck
     name: EncodingType
     options: {}
     type: Input
     path: ""
-  - id: IK713j
+  - id: d3uAl5
     name: HttpMethod
     options: {}
     type: Input
     path: ""
-  - id: GUe9VN
+  - id: LR2896
     name: UrlTemplate
     options: {}
     type: Input

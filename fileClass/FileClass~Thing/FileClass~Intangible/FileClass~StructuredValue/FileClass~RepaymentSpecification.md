@@ -16,29 +16,29 @@ tags:
   - class/Thing/Intangible/StructuredValue/RepaymentSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: 2Twdgu
+  - id: hDw3MN
     name: DownPayment
     options: {}
     type: Number
     path: ""
-  - id: navEHq
+  - id: YHHdWQ
     name: EarlyPrepaymentPenalty
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: 03D0sb
+  - id: yZOV76
     name: LoanPaymentAmount
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: qOBwQz
+  - id: MQJWiq
     name: LoanPaymentFrequency
     options: {}
     type: Number
     path: ""
-  - id: Whq71s
+  - id: WsAFEd
     name: NumberOfLoanPayments
     options: {}
     type: Number

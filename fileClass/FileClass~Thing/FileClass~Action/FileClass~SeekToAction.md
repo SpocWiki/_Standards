@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/SeekToAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: phFVWy
+  - id: BkUHAV
     name: StartOffset
     options: {}
     type: Number

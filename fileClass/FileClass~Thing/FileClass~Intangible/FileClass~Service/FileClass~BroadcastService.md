@@ -16,58 +16,58 @@ tags:
   - class/Thing/Intangible/Service/BroadcastService
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service
 fields:
-  - id: 8iUZpG
+  - id: PCSD4Q
     name: BroadcastAffiliateOf
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: xKQWQS
+  - id: 1eUeWT
     name: BroadcastDisplayName
     options: {}
     type: Input
     path: ""
-  - id: UuRRE8
+  - id: aZOhhH
     name: BroadcastFrequency
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/BroadcastFrequencySpecification')
     type: MultiFile
     path: ""
-  - id: mIEM5S
+  - id: BmxziC
     name: BroadcastTimezone
     options: {}
     type: Input
     path: ""
-  - id: PVbjge
+  - id: j0ZJko
     name: Broadcaster
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: vQVxvD
+  - id: jC2Qa3
     name: CallSign
     options: {}
     type: Input
     path: ""
-  - id: F5odBy
+  - id: WSHlN4
     name: HasBroadcastChannel
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/BroadcastChannel')
     type: MultiFile
     path: ""
-  - id: xSfep6
+  - id: F00Xp5
     name: InLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: T3g2V4
+  - id: 6tU0fV
     name: ParentService
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Service/BroadcastService')
     type: MultiFile
     path: ""
-  - id: bAlqxq
+  - id: vsX9VU
     name: VideoFormat
     options: {}
     type: Input

@@ -16,33 +16,33 @@ tags:
   - class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 fields:
-  - id: VJYlKK
+  - id: G8jUdd
     name: BillingDuration
     options: {}
     type: Number
     path: ""
-  - id: eobGTm
+  - id: yRmq70
     name: BillingIncrement
     options: {}
     type: Number
     path: ""
-  - id: 4jPx2t
+  - id: F8baPm
     name: BillingStart
     options: {}
     type: Number
     path: ""
-  - id: cQy3u8
+  - id: eZthJs
     name: ReferenceQuantity
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: qK5nBT
+  - id: YZlgWk
     name: UnitCode
     options: {}
     type: Input
     path: ""
-  - id: hnHTmz
+  - id: svdYh4
     name: UnitText
     options: {}
     type: Input

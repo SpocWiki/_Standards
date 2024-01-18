@@ -16,30 +16,30 @@ tags:
   - class/Thing/MedicalEntity/AnatomicalSystem
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: VTH8P1
+  - id: mQVvtR
     name: AssociatedPathophysiology
     options: {}
     type: Input
     path: ""
-  - id: qCDkhW
+  - id: RGHsJn
     name: ComprisedOf
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: ZbqdAq
+  - id: TXwAYw
     name: RelatedCondition
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
     type: MultiFile
     path: ""
-  - id: egdDS8
+  - id: 8LFNKi
     name: RelatedStructure
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: SraVWX
+  - id: v0RTsJ
     name: RelatedTherapy
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')

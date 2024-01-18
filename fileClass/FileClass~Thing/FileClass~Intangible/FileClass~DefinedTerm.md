@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/DefinedTerm
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: MJD6z3
+  - id: J277b1
     name: InDefinedTermSet
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/DefinedTermSet')
     type: MultiFile
     path: ""
-  - id: RuJsQu
+  - id: XZQU3M
     name: TermCode
     options: {}
     type: Input

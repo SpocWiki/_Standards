@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/MathSolver
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 79HK0J
+  - id: 0jXELC
     name: MathExpression
     options:
       dvQueryString: dv.pages('#class/Thing/Action/SolveMathAction')

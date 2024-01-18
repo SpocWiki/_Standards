@@ -16,13 +16,13 @@ tags:
   - class/Thing/CreativeWork/ArchiveComponent
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: muomnI
+  - id: yTGaO9
     name: HoldingArchive
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization')
     type: MultiFile
     path: ""
-  - id: dyxGjD
+  - id: FcaO97
     name: ItemLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')

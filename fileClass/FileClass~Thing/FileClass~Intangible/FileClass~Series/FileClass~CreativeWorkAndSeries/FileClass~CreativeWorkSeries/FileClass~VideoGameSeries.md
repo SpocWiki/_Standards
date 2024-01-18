@@ -16,95 +16,95 @@ tags:
   - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/VideoGameSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 fields:
-  - id: NVBMy7
+  - id: 6SO7dU
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: hxtuaM
+  - id: AVyuBz
     name: CharacterAttribute
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: zLbjKk
+  - id: GhUU27
     name: CheatCode
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: qnqrJR
+  - id: 20lpvJ
     name: ContainsSeason
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
     type: MultiFile
     path: ""
-  - id: Mm28ef
+  - id: npPo0L
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: vbIV33
+  - id: dnIFBk
     name: Episode
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
     type: MultiFile
     path: ""
-  - id: jlRzGO
+  - id: 2c3sHp
     name: GameItem
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: n8N7Tk
+  - id: 3OhFCT
     name: GameLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: neXzhn
+  - id: O5IRa4
     name: GamePlatform
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: Nugng2
+  - id: isaHtZ
     name: MusicBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
     type: MultiFile
     path: ""
-  - id: RCakuH
+  - id: Bb1YbY
     name: NumberOfEpisodes
     options: {}
     type: Number
     path: ""
-  - id: uxovzQ
+  - id: pKSKiR
     name: NumberOfPlayers
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: AOPOmw
+  - id: F3pDc5
     name: NumberOfSeasons
     options: {}
     type: Number
     path: ""
-  - id: L65IjF
+  - id: 1BQdLt
     name: ProductionCompany
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: S4Ahmc
+  - id: HoqdYR
     name: Quest
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: nl77DE
+  - id: z0usXO
     name: Trailer
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')

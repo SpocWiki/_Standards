@@ -16,13 +16,13 @@ tags:
   - class/Thing/CreativeWork/HyperTocEntry
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: R7N4lN
+  - id: yXs6r2
     name: TocContinuation
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/HyperTocEntry')
     type: MultiFile
     path: ""
-  - id: tL6QD6
+  - id: bFnxIk
     name: Utterances
     options: {}
     type: Input

@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/ListItem/HowToItem/HowToSupply
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem
 fields:
-  - id: 4WagOv
+  - id: Cumsl2
     name: EstimatedCost
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')

@@ -16,45 +16,45 @@ tags:
   - class/Thing/Intangible/Trip
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: JannU5
+  - id: G40UZZ
     name: ArrivalTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: T3hmBh
+  - id: 1iMyeO
     name: DepartureTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: QMVWGM
+  - id: 6e98wM
     name: Itinerary
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
     type: MultiFile
     path: ""
-  - id: naSiaM
+  - id: yh3rys
     name: Offers
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
     type: MultiFile
     path: ""
-  - id: 16pjyQ
+  - id: rKOmhQ
     name: PartOfTrip
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Trip')
     type: MultiFile
     path: ""
-  - id: iWrnrs
+  - id: mdCZ1M
     name: Provider
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 2V7Uh9
+  - id: Mauhy7
     name: SubTrip
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Trip')
@@ -92,7 +92,7 @@ Destination(s) ( [[Place]] ) that make up a trip. For a trip where destination o
 Itinerary:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}
 
 ### Offers
-An offer to provide this item—for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
+An offer to provide this item&#x2014;for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
 
 Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Demand')"}}
 

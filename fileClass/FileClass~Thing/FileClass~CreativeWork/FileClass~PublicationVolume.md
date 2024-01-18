@@ -16,22 +16,22 @@ tags:
   - class/Thing/CreativeWork/PublicationVolume
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: xlEnXR
+  - id: M2bwXW
     name: PageEnd
     options: {}
     type: Number
     path: ""
-  - id: dgSyUe
+  - id: 4obwgD
     name: PageStart
     options: {}
     type: Number
     path: ""
-  - id: 7jOElV
+  - id: 1rxweF
     name: Pagination
     options: {}
     type: Input
     path: ""
-  - id: 5RGuUD
+  - id: DYiIMR
     name: VolumeNumber
     options: {}
     type: Number

@@ -16,23 +16,23 @@ tags:
   - class/Thing/Intangible/OrderItem
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: jvILBm
+  - id: W02EK2
     name: OrderDelivery
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ParcelDelivery')
     type: MultiFile
     path: ""
-  - id: Wq201s
+  - id: Ap1IVZ
     name: OrderItemNumber
     options: {}
     type: Input
     path: ""
-  - id: A0hCQu
+  - id: n9qYlW
     name: OrderQuantity
     options: {}
     type: Number
     path: ""
-  - id: uuRPD2
+  - id: 69xAVr
     name: OrderedItem
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/OrderItem')

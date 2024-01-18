@@ -16,19 +16,19 @@ tags:
   - class/Thing/Intangible/MenuItem
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: NlAyZM
+  - id: TUlPPq
     name: MenuAddOn
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/MenuItem')
     type: MultiFile
     path: ""
-  - id: ndJVIn
+  - id: 5mdPTn
     name: Nutrition
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')
     type: MultiFile
     path: ""
-  - id: Tk46bl
+  - id: 7SDWNa
     name: Offers
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
@@ -61,7 +61,7 @@ Nutrition information about the recipe or menu item.
 Nutrition:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')"}}
 
 ### Offers
-An offer to provide this item—for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
+An offer to provide this item&#x2014;for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
 
 Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Demand')"}}
 

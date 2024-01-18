@@ -16,25 +16,25 @@ tags:
   - class/Thing/BioChemEntity/Gene
 extends: FileClass~Thing/FileClass~BioChemEntity
 fields:
-  - id: mNziVd
+  - id: cn9HD7
     name: AlternativeOf
     options:
       dvQueryString: dv.pages('#class/Thing/BioChemEntity/Gene')
     type: MultiFile
     path: ""
-  - id: GYcecU
+  - id: 5FaWui
     name: EncodesBioChemEntity
     options:
       dvQueryString: dv.pages('#class/Thing/BioChemEntity')
     type: MultiFile
     path: ""
-  - id: qVdTE3
+  - id: CZikNB
     name: ExpressedIn
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: OBeDQY
+  - id: 0Ijrld
     name: HasBioPolymerSequence
     options: {}
     type: Input

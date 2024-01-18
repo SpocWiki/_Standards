@@ -16,7 +16,7 @@ tags:
   - class/Thing/Product/IndividualProduct
 extends: FileClass~Thing/FileClass~Product
 fields:
-  - id: N2F5Kq
+  - id: oMrCVY
     name: SerialNumber
     options: {}
     type: Input

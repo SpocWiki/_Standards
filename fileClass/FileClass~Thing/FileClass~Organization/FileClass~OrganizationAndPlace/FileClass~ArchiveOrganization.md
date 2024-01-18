@@ -16,7 +16,7 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/ArchiveOrganization
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields:
-  - id: gbvebc
+  - id: Ck1fbT
     name: ArchiveHeld
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/ArchiveComponent')

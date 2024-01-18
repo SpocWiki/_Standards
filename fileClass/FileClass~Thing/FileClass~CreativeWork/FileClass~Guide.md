@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Guide
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: eNYEHn
+  - id: KT1E3y
     name: ReviewAspect
     options: {}
     type: Input

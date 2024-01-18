@@ -16,33 +16,33 @@ tags:
   - class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint
 fields:
-  - id: k3qcrc
+  - id: hyqHrT
     name: AddressCountry
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
     type: MultiFile
     path: ""
-  - id: MwoswM
+  - id: gkF1FO
     name: AddressLocality
     options: {}
     type: Input
     path: ""
-  - id: sXwZn2
+  - id: rExNp8
     name: AddressRegion
     options: {}
     type: Input
     path: ""
-  - id: hhh9ye
+  - id: iXY7g6
     name: PostOfficeBoxNumber
     options: {}
     type: Input
     path: ""
-  - id: OcS8S6
+  - id: 23Yq8h
     name: PostalCode
     options: {}
     type: Input
     path: ""
-  - id: idT7iB
+  - id: 8SHqMe
     name: StreetAddress
     options: {}
     type: Input

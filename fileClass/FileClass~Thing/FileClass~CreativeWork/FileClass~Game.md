@@ -16,31 +16,31 @@ tags:
   - class/Thing/CreativeWork/Game
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: uiOOQj
+  - id: kZL7lC
     name: CharacterAttribute
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: FPZmGo
+  - id: paT4S8
     name: GameItem
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: UM8xzT
+  - id: wvZRiD
     name: GameLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: 3mwYXP
+  - id: tw3MNV
     name: NumberOfPlayers
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: 3Ddvnz
+  - id: QOW827
     name: Quest
     options:
       dvQueryString: dv.pages('#class/Thing')

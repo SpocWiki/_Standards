@@ -16,24 +16,24 @@ tags:
   - class/Thing/Intangible/StructuredValue/DeliveryTimeSettings
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: nK0WQe
+  - id: 2cP98C
     name: DeliveryTime
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ShippingDeliveryTime')
     type: MultiFile
     path: ""
-  - id: YuQiLn
+  - id: 3vKICY
     name: IsUnlabelledFallback
     options: {}
     type: Boolean
     path: ""
-  - id: kgRnJA
+  - id: H5Gotc
     name: ShippingDestination
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
     type: MultiFile
     path: ""
-  - id: RpaliC
+  - id: sv1rwk
     name: TransitTimeLabel
     options: {}
     type: Input

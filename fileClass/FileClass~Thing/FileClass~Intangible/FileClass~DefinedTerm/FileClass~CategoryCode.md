@@ -16,12 +16,12 @@ tags:
   - class/Thing/Intangible/DefinedTerm/CategoryCode
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm
 fields:
-  - id: 7EUYaM
+  - id: s76lQl
     name: CodeValue
     options: {}
     type: Input
     path: ""
-  - id: lxiCxY
+  - id: t9F8Xp
     name: InCodeSet
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet')

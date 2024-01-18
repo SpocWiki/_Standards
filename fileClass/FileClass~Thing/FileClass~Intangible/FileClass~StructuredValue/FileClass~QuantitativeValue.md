@@ -16,38 +16,38 @@ tags:
   - class/Thing/Intangible/StructuredValue/QuantitativeValue
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: ztcDqq
+  - id: D8aXjM
     name: AdditionalProperty
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
     type: MultiFile
     path: ""
-  - id: Yn0Isw
+  - id: xipCfp
     name: MaxValue
     options: {}
     type: Number
     path: ""
-  - id: RTTkxD
+  - id: KRDPSA
     name: MinValue
     options: {}
     type: Number
     path: ""
-  - id: 5Wo2wQ
+  - id: T0aFZn
     name: UnitCode
     options: {}
     type: Input
     path: ""
-  - id: xxlRWh
+  - id: lzxo5t
     name: UnitText
     options: {}
     type: Input
     path: ""
-  - id: eTzJg7
+  - id: Dc4Vpy
     name: Value
     options: {}
     type: Boolean
     path: ""
-  - id: cICzxQ
+  - id: NeSaK0
     name: ValueReference
     options: {}
     type: Input

@@ -16,179 +16,179 @@ tags:
   - class/Thing/Intangible/Demand
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: SM8acT
+  - id: lHBF83
     name: AcceptedPaymentMethod
     options: {}
     type: Input
     path: ""
-  - id: rUEPJN
+  - id: 6OrTGW
     name: AdvanceBookingRequirement
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: krznhh
+  - id: aHUrkY
     name: AreaServed
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: rCUEC8
+  - id: cMIHCb
     name: Asin
     options: {}
     type: Input
     path: ""
-  - id: eP8QAm
+  - id: VDaG3o
     name: AvailabilityEnds
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 346SiI
+  - id: ZQi55G
     name: AvailabilityStarts
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 2hqFtP
+  - id: wMofW6
     name: AvailableAtOrFrom
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: 50BX5b
+  - id: 2ZHlB5
     name: BusinessFunction
     options: {}
     type: Input
     path: ""
-  - id: E2XtzX
+  - id: haEsi2
     name: DeliveryLeadTime
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: HWBwzK
+  - id: OD3qoG
     name: EligibleCustomerType
     options: {}
     type: Input
     path: ""
-  - id: PxgOmV
+  - id: Zi2NGN
     name: EligibleDuration
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: zaNRMn
+  - id: 0HcQdt
     name: EligibleQuantity
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: sVe5Aa
+  - id: bQD50b
     name: EligibleRegion
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
     type: MultiFile
     path: ""
-  - id: lZtr8e
+  - id: bkXAJm
     name: EligibleTransactionVolume
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
     type: MultiFile
     path: ""
-  - id: rRXyRP
+  - id: hulV0y
     name: Gtin
     options: {}
     type: Input
     path: ""
-  - id: dJ3nDF
+  - id: ZRJkBC
     name: Gtin12
     options: {}
     type: Input
     path: ""
-  - id: wDzBV4
+  - id: 9eQKWm
     name: Gtin13
     options: {}
     type: Input
     path: ""
-  - id: 02kS98
+  - id: mTRpJB
     name: Gtin14
     options: {}
     type: Input
     path: ""
-  - id: UGDAYJ
+  - id: UMWdYf
     name: Gtin8
     options: {}
     type: Input
     path: ""
-  - id: y7Ot1X
+  - id: HvAECd
     name: IncludesObject
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/TypeAndQuantityNode')
     type: MultiFile
     path: ""
-  - id: uHAClJ
+  - id: SB3BUu
     name: IneligibleRegion
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
     type: MultiFile
     path: ""
-  - id: WeoXAm
+  - id: JjS285
     name: InventoryLevel
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: XvY4AD
+  - id: o5RC6F
     name: ItemOffered
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Offer/AggregateOffer')
     type: MultiFile
     path: ""
-  - id: gGcisj
+  - id: 1bdoGj
     name: Mpn
     options: {}
     type: Input
     path: ""
-  - id: yEZfiD
+  - id: hxn8xI
     name: PriceSpecification
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
     type: MultiFile
     path: ""
-  - id: rprunq
+  - id: QXZw9M
     name: Seller
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: pZylp9
+  - id: KeTrEe
     name: SerialNumber
     options: {}
     type: Input
     path: ""
-  - id: VKXB45
+  - id: 5W8w1f
     name: Sku
     options: {}
     type: Input
     path: ""
-  - id: cE2od2
+  - id: 24Wyiv
     name: ValidFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: OCRAHt
+  - id: bnKaaZ
     name: ValidThrough
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: DNR1oj
+  - id: HIXdWs
     name: Warranty
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/WarrantyPromise')
@@ -233,7 +233,7 @@ An Amazon Standard Identification Number (ASIN) is a 10-character alphanumeric u
 Asin:: {"type":"Input","options":{}}
 
 ### Availability
-The availability of this item—for example In stock, Out of stock, Pre-order, etc.
+The availability of this item&#x2014;for example In stock, Out of stock, Pre-order, etc.
 
 Availability:: {"type":"Select","options":{"valuesList":{"BackOrder","Discontinued","InStock","InStoreOnly","LimitedAvailability","OnlineOnly","OutOfStock","PreOrder","PreSale","SoldOut"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 

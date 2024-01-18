@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/Role/LinkRole
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role
 fields:
-  - id: BcpB04
+  - id: 6KoEcn
     name: InLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: nUeU1V
+  - id: N3WExo
     name: LinkRelationship
     options: {}
     type: Input

@@ -16,34 +16,34 @@ tags:
   - class/Thing/MedicalEntity/MedicalDevice
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: Mxq4Zt
+  - id: K4YBY9
     name: AdverseOutcome
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')
     type: MultiFile
     path: ""
-  - id: ZbACIZ
+  - id: W8zvFh
     name: Contraindication
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalContraindication')
     type: MultiFile
     path: ""
-  - id: O2rCOu
+  - id: FFknFh
     name: PostOp
     options: {}
     type: Input
     path: ""
-  - id: ShI5Ko
+  - id: seJ1ag
     name: PreOp
     options: {}
     type: Input
     path: ""
-  - id: gKhnoE
+  - id: XeIoXE
     name: Procedure
     options: {}
     type: Input
     path: ""
-  - id: YIFZIh
+  - id: nlciSl
     name: SeriousAdverseOutcome
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')

@@ -16,19 +16,19 @@ tags:
   - class/Thing/Action/InteractAction/CommunicateAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction
 fields:
-  - id: MWJwcc
+  - id: kl4bNG
     name: About
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: lO0EZl
+  - id: cVZFsA
     name: InLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: Pj1EtS
+  - id: v0kus6
     name: Recipient
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')

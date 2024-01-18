@@ -16,140 +16,140 @@ tags:
   - class/Thing/Intangible/EducationalOccupationalProgram
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: RoFE2q
+  - id: g1Jbj5
     name: ApplicationDeadline
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: wxVPGh
+  - id: UOKKos
     name: ApplicationStartDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: cSFMD3
+  - id: NfRDOe
     name: EducationalCredentialAwarded
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
     type: MultiFile
     path: ""
-  - id: oumxRt
+  - id: ArwJrI
     name: EducationalProgramMode
     options: {}
     type: Input
     path: ""
-  - id: cuO3ev
+  - id: lcARMG
     name: EndDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: fMFl9g
+  - id: JIZyH6
     name: FinancialAidEligible
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: Be6VdI
+  - id: gaIZ3z
     name: HasCourse
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/LearningResource/Course')
     type: MultiFile
     path: ""
-  - id: 3Px46i
+  - id: 3ubWNm
     name: MaximumEnrollment
     options: {}
     type: Number
     path: ""
-  - id: ChESjS
+  - id: ba2XGj
     name: NumberOfCredits
     options: {}
     type: Number
     path: ""
-  - id: tTKenS
+  - id: OSb97q
     name: OccupationalCategory
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')
     type: MultiFile
     path: ""
-  - id: bc3sJt
+  - id: bJvixO
     name: OccupationalCredentialAwarded
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
     type: MultiFile
     path: ""
-  - id: P8STjQ
+  - id: ouXANk
     name: Offers
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
     type: MultiFile
     path: ""
-  - id: vzHBBi
+  - id: cCzjyu
     name: ProgramPrerequisites
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/AlignmentObject')
     type: MultiFile
     path: ""
-  - id: eolybF
+  - id: KBYWue
     name: ProgramType
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: GjbgYR
+  - id: qirukG
     name: Provider
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: ofDNxe
+  - id: 8wWocc
     name: SalaryUponCompletion
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution')
     type: MultiFile
     path: ""
-  - id: N1jn8v
+  - id: Kr6RSw
     name: StartDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: KVWZ9q
+  - id: nyCyqH
     name: TermDuration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: 8iUGUa
+  - id: 7Co42c
     name: TermsPerYear
     options: {}
     type: Number
     path: ""
-  - id: 5IFjlk
+  - id: CRm6pn
     name: TimeOfDay
     options: {}
     type: Input
     path: ""
-  - id: JGKakT
+  - id: t3AAQj
     name: TimeToComplete
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: XCFTgZ
+  - id: UlrK4Z
     name: TrainingSalary
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution')
     type: MultiFile
     path: ""
-  - id: uGJxXe
+  - id: cf1YOm
     name: TypicalCreditsPerTerm
     options: {}
     type: Number
@@ -233,7 +233,7 @@ A description of the qualification, award, certificate, diploma or other occupat
 OccupationalCredentialAwarded:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')"}}
 
 ### Offers
-An offer to provide this item—for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
+An offer to provide this item&#x2014;for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
 
 Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Demand')"}}
 

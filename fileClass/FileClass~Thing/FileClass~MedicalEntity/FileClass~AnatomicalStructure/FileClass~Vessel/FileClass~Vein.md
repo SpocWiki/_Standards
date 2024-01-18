@@ -16,19 +16,19 @@ tags:
   - class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Vein
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel
 fields:
-  - id: fFtGb9
+  - id: 9DU4IM
     name: DrainsTo
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')
     type: MultiFile
     path: ""
-  - id: auh48h
+  - id: Pt8zuU
     name: RegionDrained
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: HRpYlt
+  - id: HYAVwD
     name: Tributary
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')

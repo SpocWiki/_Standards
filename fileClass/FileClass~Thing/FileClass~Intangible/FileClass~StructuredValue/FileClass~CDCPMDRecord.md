@@ -16,89 +16,89 @@ tags:
   - class/Thing/Intangible/StructuredValue/CDCPMDRecord
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: MMxPnc
+  - id: nrbabt
     name: CvdCollectionDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: z8US5w
+  - id: lijOcK
     name: CvdFacilityCounty
     options: {}
     type: Input
     path: ""
-  - id: BLhLAq
+  - id: 6buYl3
     name: CvdFacilityId
     options: {}
     type: Input
     path: ""
-  - id: 8eeONx
+  - id: UaJOWC
     name: CvdNumBeds
     options: {}
     type: Number
     path: ""
-  - id: dMF0Xm
+  - id: 1ykiVx
     name: CvdNumBedsOcc
     options: {}
     type: Number
     path: ""
-  - id: DHvj8V
+  - id: OLBTBl
     name: CvdNumC19Died
     options: {}
     type: Number
     path: ""
-  - id: l8v6mE
+  - id: AqrgUe
     name: CvdNumC19HOPats
     options: {}
     type: Number
     path: ""
-  - id: XYIQu0
+  - id: NHPomp
     name: CvdNumC19HospPats
     options: {}
     type: Number
     path: ""
-  - id: y0nNLD
+  - id: 4cyT6t
     name: CvdNumC19MechVentPats
     options: {}
     type: Number
     path: ""
-  - id: aQr7N7
+  - id: CuhC0C
     name: CvdNumC19OFMechVentPats
     options: {}
     type: Number
     path: ""
-  - id: KNXBIi
+  - id: yPGO20
     name: CvdNumC19OverflowPats
     options: {}
     type: Number
     path: ""
-  - id: 1LzF7o
+  - id: RQCJVT
     name: CvdNumICUBeds
     options: {}
     type: Number
     path: ""
-  - id: 9GZXKY
+  - id: tguNam
     name: CvdNumICUBedsOcc
     options: {}
     type: Number
     path: ""
-  - id: KkGGqC
+  - id: cUwanU
     name: CvdNumTotBeds
     options: {}
     type: Number
     path: ""
-  - id: aF7w6G
+  - id: HkEjBy
     name: CvdNumVent
     options: {}
     type: Number
     path: ""
-  - id: 6jdAlW
+  - id: c5zOsK
     name: CvdNumVentUse
     options: {}
     type: Number
     path: ""
-  - id: l6gd9m
+  - id: 64dFBm
     name: DatePosted
     options:
       dateFormat: YYYY-MM-DD

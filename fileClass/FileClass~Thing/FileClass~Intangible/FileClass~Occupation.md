@@ -16,47 +16,47 @@ tags:
   - class/Thing/Intangible/Occupation
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: AeZxzn
+  - id: VGKV4Z
     name: EducationRequirements
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
     type: MultiFile
     path: ""
-  - id: ddJVsw
+  - id: n56soB
     name: EstimatedSalary
     options: {}
     type: Number
     path: ""
-  - id: BMWvx8
+  - id: b8So6n
     name: ExperienceRequirements
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/OccupationalExperienceRequirements')
     type: MultiFile
     path: ""
-  - id: 11tbJ0
+  - id: QxEwsk
     name: OccupationLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: joqn6Z
+  - id: lRI2Yo
     name: OccupationalCategory
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')
     type: MultiFile
     path: ""
-  - id: zWzFnT
+  - id: 8rxFXJ
     name: Qualifications
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
     type: MultiFile
     path: ""
-  - id: 48aCwo
+  - id: flaWjt
     name: Responsibilities
     options: {}
     type: Input
     path: ""
-  - id: 9OIoBW
+  - id: hvrreE
     name: Skills
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')

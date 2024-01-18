@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/OrganizeAction/AllocateAction/AuthorizeAction
 extends: FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction
 fields:
-  - id: RLtErI
+  - id: L4usjN
     name: Recipient
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')

@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 fields:
-  - id: dsS4YH
+  - id: pkH3z7
     name: Amount
     options: {}
     type: Number

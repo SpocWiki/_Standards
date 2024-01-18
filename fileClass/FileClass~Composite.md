@@ -13,7 +13,7 @@ excludes:
 extends: FileClass~Thing
 version: "2.0"
 fields:
-  - id: JWsJK1
+  - id: AwLQYP
     name: Components
     options: {}
     type: MultiFile

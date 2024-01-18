@@ -16,58 +16,58 @@ tags:
   - class/Thing/Intangible/PropertyValueSpecification
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: k96cjE
+  - id: qWTMtt
     name: DefaultValue
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: ULs5wA
+  - id: XjXknv
     name: MaxValue
     options: {}
     type: Number
     path: ""
-  - id: jXpctO
+  - id: SCY6uQ
     name: MinValue
     options: {}
     type: Number
     path: ""
-  - id: Xy1hOw
+  - id: Kk2j7N
     name: MultipleValues
     options: {}
     type: Boolean
     path: ""
-  - id: oNym5K
+  - id: bCjOtD
     name: ReadonlyValue
     options: {}
     type: Boolean
     path: ""
-  - id: IIJFWY
+  - id: iK1qpA
     name: StepValue
     options: {}
     type: Number
     path: ""
-  - id: 4WfDSe
+  - id: YptBqQ
     name: ValueMaxLength
     options: {}
     type: Number
     path: ""
-  - id: oQUlqL
+  - id: xLCObn
     name: ValueMinLength
     options: {}
     type: Number
     path: ""
-  - id: I0Xunb
+  - id: ZBpgSm
     name: ValueName
     options: {}
     type: Input
     path: ""
-  - id: IX0FtQ
+  - id: c4b8tE
     name: ValuePattern
     options: {}
     type: Input
     path: ""
-  - id: zeQiIr
+  - id: JGvQ54
     name: ValueRequired
     options: {}
     type: Boolean

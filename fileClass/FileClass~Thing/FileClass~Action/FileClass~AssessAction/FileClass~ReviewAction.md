@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/AssessAction/ReviewAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AssessAction
 fields:
-  - id: RVGOs7
+  - id: tQkpRc
     name: ResultReview
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')

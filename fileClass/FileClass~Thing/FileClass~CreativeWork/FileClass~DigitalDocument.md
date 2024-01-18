@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/DigitalDocument
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: fk4dip
+  - id: MU5nLs
     name: HasDigitalDocumentPermission
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DigitalDocumentPermission')

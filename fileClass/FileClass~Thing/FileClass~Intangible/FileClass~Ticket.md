@@ -16,46 +16,46 @@ tags:
   - class/Thing/Intangible/Ticket
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: lf5WzO
+  - id: 2cCRjh
     name: DateIssued
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 4IwnUa
+  - id: 5iJN3g
     name: IssuedBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: I5stUP
+  - id: 2wDgl8
     name: PriceCurrency
     options: {}
     type: Input
     path: ""
-  - id: 3yqkZC
+  - id: Nx7Igi
     name: TicketNumber
     options: {}
     type: Input
     path: ""
-  - id: nwrXH5
+  - id: ziEbqe
     name: TicketToken
     options: {}
     type: Input
     path: ""
-  - id: 53AJPC
+  - id: dwTIUD
     name: TicketedSeat
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Seat')
     type: MultiFile
     path: ""
-  - id: QEoQ5p
+  - id: E1aBRn
     name: TotalPrice
     options: {}
     type: Number
     path: ""
-  - id: FBz9ly
+  - id: UQPQVF
     name: UnderName
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')

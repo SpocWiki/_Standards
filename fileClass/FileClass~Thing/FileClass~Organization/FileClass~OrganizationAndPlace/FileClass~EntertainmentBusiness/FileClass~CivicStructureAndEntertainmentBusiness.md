@@ -16,7 +16,7 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EntertainmentBusiness/CivicStructureAndEntertainmentBusiness
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness
 fields:
-  - id: OcwYJG
+  - id: MDPGcF
     name: OpeningHours
     options: {}
     type: Input

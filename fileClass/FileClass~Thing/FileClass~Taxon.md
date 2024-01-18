@@ -16,25 +16,25 @@ tags:
   - class/Thing/Taxon
 extends: FileClass~Thing
 fields:
-  - id: D0W7XU
+  - id: ULE3SR
     name: ChildTaxon
     options:
       dvQueryString: dv.pages('#class/Thing/Taxon')
     type: MultiFile
     path: ""
-  - id: KQMuqP
+  - id: brXl8G
     name: HasDefinedTerm
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: kFErgW
+  - id: waxyhJ
     name: ParentTaxon
     options:
       dvQueryString: dv.pages('#class/Thing/Taxon')
     type: MultiFile
     path: ""
-  - id: yDDVhc
+  - id: L4K8B6
     name: TaxonRank
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')

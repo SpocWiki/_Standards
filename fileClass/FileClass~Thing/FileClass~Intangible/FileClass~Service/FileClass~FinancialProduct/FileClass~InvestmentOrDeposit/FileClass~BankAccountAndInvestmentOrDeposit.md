@@ -16,19 +16,19 @@ tags:
   - class/Thing/Intangible/Service/FinancialProduct/InvestmentOrDeposit/BankAccountAndInvestmentOrDeposit
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit
 fields:
-  - id: TiNSae
+  - id: zdYh9M
     name: AccountMinimumInflow
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: BBZFDr
+  - id: wNlX8a
     name: AccountOverdraftLimit
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: wOFrYR
+  - id: oZpFiR
     name: BankAccountType
     options: {}
     type: Input

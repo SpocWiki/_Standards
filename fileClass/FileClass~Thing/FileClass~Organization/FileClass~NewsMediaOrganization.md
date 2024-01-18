@@ -16,25 +16,25 @@ tags:
   - class/Thing/Organization/NewsMediaOrganization
 extends: FileClass~Thing/FileClass~Organization
 fields:
-  - id: tTWmxL
+  - id: k5qzmS
     name: Masthead
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: 9JcWKG
+  - id: f7Mlwm
     name: MissionCoveragePrioritiesPolicy
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: xXTixy
+  - id: AvrNC1
     name: NoBylinesPolicy
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: hMhZai
+  - id: iMC6An
     name: VerificationFactCheckingPolicy
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')

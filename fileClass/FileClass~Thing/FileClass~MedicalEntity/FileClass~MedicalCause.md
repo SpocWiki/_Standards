@@ -16,7 +16,7 @@ tags:
   - class/Thing/MedicalEntity/MedicalCause
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: TS8mzu
+  - id: ky4cUQ
     name: CauseOf
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')

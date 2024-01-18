@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/ConstraintNode/StatisticalVariable
 extends: FileClass~Thing/FileClass~Intangible/FileClass~ConstraintNode
 fields:
-  - id: y619wL
+  - id: c0eekr
     name: MeasurementDenominator
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ConstraintNode/StatisticalVariable')
     type: MultiFile
     path: ""
-  - id: Knbhh0
+  - id: I4j3FL
     name: StatType
     options: {}
     type: Input

@@ -16,54 +16,54 @@ tags:
   - class/Thing/CreativeWork/WebPage
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 4XDQqU
+  - id: p55UyK
     name: Breadcrumb
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList/BreadcrumbList')
     type: MultiFile
     path: ""
-  - id: KNAxZq
+  - id: ykYDhp
     name: LastReviewed
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 0GDqOz
+  - id: IHkZ3w
     name: MainContentOfPage
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/WebPageElement')
     type: MultiFile
     path: ""
-  - id: sXTDQ4
+  - id: k5pvwZ
     name: PrimaryImageOfPage
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: 3moY3n
+  - id: NcgMGd
     name: RelatedLink
     options: {}
     type: Input
     path: ""
-  - id: MZWji7
+  - id: IhrlOV
     name: ReviewedBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: Sg6y4C
+  - id: fpIExj
     name: SignificantLink
     options: {}
     type: Input
     path: ""
-  - id: PTNLgY
+  - id: J4NWUw
     name: Speakable
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/SpeakableSpecification')
     type: MultiFile
     path: ""
-  - id: oKwzPZ
+  - id: A7gbHe
     name: Specialty
     options: {}
     type: Input

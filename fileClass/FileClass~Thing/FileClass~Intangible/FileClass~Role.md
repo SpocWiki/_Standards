@@ -16,19 +16,19 @@ tags:
   - class/Thing/Intangible/Role
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: eDpwVC
+  - id: cDz1Ur
     name: EndDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: lpXj2R
+  - id: RWtAXu
     name: RoleName
     options: {}
     type: Input
     path: ""
-  - id: XsruHj
+  - id: UVrpFU
     name: StartDate
     options:
       dateFormat: YYYY-MM-DD

@@ -16,18 +16,18 @@ tags:
   - class/Thing/CreativeWork/Comment
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: YHM9Rn
+  - id: Aevrjc
     name: DownvoteCount
     options: {}
     type: Number
     path: ""
-  - id: sS4zQW
+  - id: eeEgcQ
     name: ParentItem
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')
     type: MultiFile
     path: ""
-  - id: e3Bs2y
+  - id: GjDOsM
     name: UpvoteCount
     options: {}
     type: Number

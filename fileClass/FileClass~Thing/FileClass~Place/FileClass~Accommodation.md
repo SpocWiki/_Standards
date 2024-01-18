@@ -16,82 +16,82 @@ tags:
   - class/Thing/Place/Accommodation
 extends: FileClass~Thing/FileClass~Place
 fields:
-  - id: Chew3O
+  - id: VTYmGU
     name: AccommodationCategory
     options: {}
     type: Input
     path: ""
-  - id: eWNp0c
+  - id: TmjQxF
     name: AccommodationFloorPlan
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/FloorPlan')
     type: MultiFile
     path: ""
-  - id: bn5qfP
+  - id: lmmQUR
     name: Bed
     options: {}
     type: Input
     path: ""
-  - id: 6Pm1hL
+  - id: kJmHWW
     name: FloorLevel
     options: {}
     type: Input
     path: ""
-  - id: dSKQR7
+  - id: 5ZfBF2
     name: FloorSize
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: 20rEgu
+  - id: Bd1QZ1
     name: LeaseLength
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: XRLpHc
+  - id: Jydql0
     name: NumberOfBathroomsTotal
     options: {}
     type: Number
     path: ""
-  - id: oiBtPA
+  - id: jXucwU
     name: NumberOfBedrooms
     options: {}
     type: Number
     path: ""
-  - id: 5Jyuk8
+  - id: qcp6aY
     name: NumberOfFullBathrooms
     options: {}
     type: Number
     path: ""
-  - id: eFqXqo
+  - id: 9W3Pa7
     name: NumberOfPartialBathrooms
     options: {}
     type: Number
     path: ""
-  - id: n6J3D6
+  - id: wWx4eT
     name: NumberOfRooms
     options: {}
     type: Number
     path: ""
-  - id: gWLtWE
+  - id: bZALxf
     name: Occupancy
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: cqco0l
+  - id: dt2RJm
     name: PermittedUsage
     options: {}
     type: Input
     path: ""
-  - id: uUFIOD
+  - id: fD8qlc
     name: PetsAllowed
     options: {}
     type: Boolean
     path: ""
-  - id: s5v7Qq
+  - id: 4fu3En
     name: YearBuilt
     options: {}
     type: Number

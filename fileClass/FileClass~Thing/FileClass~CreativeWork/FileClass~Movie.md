@@ -16,49 +16,49 @@ tags:
   - class/Thing/CreativeWork/Movie
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 7GrHZp
+  - id: YIBT4K
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 1WngUT
+  - id: 8hRryH
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: Wr7QiI
+  - id: yGuxDm
     name: Duration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: o3p6su
+  - id: bA6Oq7
     name: MusicBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
     type: MultiFile
     path: ""
-  - id: 4pjAnw
+  - id: J5R8e3
     name: ProductionCompany
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: SQlnK4
+  - id: tpx7iy
     name: SubtitleLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: h7govd
+  - id: mHXpJX
     name: TitleEIDR
     options: {}
     type: Input
     path: ""
-  - id: kSjmOY
+  - id: qxjgww
     name: Trailer
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')

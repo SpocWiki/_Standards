@@ -16,12 +16,12 @@ tags:
   - class/Thing/Intangible/Audience/PeopleAudience/ParentAudience
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~PeopleAudience
 fields:
-  - id: LVZsbL
+  - id: v2hhjw
     name: ChildMaxAge
     options: {}
     type: Number
     path: ""
-  - id: ggXFCb
+  - id: KvLFts
     name: ChildMinAge
     options: {}
     type: Number

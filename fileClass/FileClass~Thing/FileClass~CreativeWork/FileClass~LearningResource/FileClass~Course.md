@@ -16,59 +16,59 @@ tags:
   - class/Thing/CreativeWork/LearningResource/Course
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource
 fields:
-  - id: SoGBxE
+  - id: 7A4wWD
     name: AvailableLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: 81nNvi
+  - id: oHUh9p
     name: CourseCode
     options: {}
     type: Input
     path: ""
-  - id: olwub2
+  - id: HPkAYk
     name: CoursePrerequisites
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/AlignmentObject')
     type: MultiFile
     path: ""
-  - id: gxyjmP
+  - id: kM0AaT
     name: EducationalCredentialAwarded
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
     type: MultiFile
     path: ""
-  - id: NiKxSu
+  - id: MlBafj
     name: FinancialAidEligible
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: si3n4G
+  - id: N8lnZt
     name: HasCourseInstance
     options:
       dvQueryString: dv.pages('#class/Thing/Event/CourseInstance')
     type: MultiFile
     path: ""
-  - id: dDhAO1
+  - id: aQ8V9H
     name: NumberOfCredits
     options: {}
     type: Number
     path: ""
-  - id: qbl6Aa
+  - id: QVTQT3
     name: OccupationalCredentialAwarded
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/EducationalOccupationalCredential')
     type: MultiFile
     path: ""
-  - id: kSMraT
+  - id: yGIsUm
     name: SyllabusSections
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/LearningResource/Syllabus')
     type: MultiFile
     path: ""
-  - id: AKSEH0
+  - id: uWzu16
     name: TotalHistoricalEnrollment
     options: {}
     type: Number

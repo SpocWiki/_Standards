@@ -16,28 +16,28 @@ tags:
   - class/Thing/CreativeWork/Book
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: scvgml
+  - id: h1IogT
     name: Abridged
     options: {}
     type: Boolean
     path: ""
-  - id: 4x7S2n
+  - id: pFuHud
     name: BookEdition
     options: {}
     type: Input
     path: ""
-  - id: 6TT7bv
+  - id: FD8XVf
     name: Illustrator
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: IwFXCO
+  - id: UssBaH
     name: Isbn
     options: {}
     type: Input
     path: ""
-  - id: vO7ygh
+  - id: LfNiK2
     name: NumberOfPages
     options: {}
     type: Number

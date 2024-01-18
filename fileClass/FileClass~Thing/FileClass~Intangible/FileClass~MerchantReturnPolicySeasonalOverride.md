@@ -16,21 +16,21 @@ tags:
   - class/Thing/Intangible/MerchantReturnPolicySeasonalOverride
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: z5bcym
+  - id: LrK8Dy
     name: EndDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: O8aQIi
+  - id: LBXMUz
     name: MerchantReturnDays
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: zkZacM
+  - id: hTnusy
     name: StartDate
     options:
       dateFormat: YYYY-MM-DD

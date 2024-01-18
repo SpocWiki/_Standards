@@ -16,34 +16,34 @@ tags:
   - class/Thing/Intangible/BroadcastChannel
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: tjSrTp
+  - id: Azwt1n
     name: BroadcastChannelId
     options: {}
     type: Input
     path: ""
-  - id: aOxhGC
+  - id: FaAEu1
     name: BroadcastFrequency
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/BroadcastFrequencySpecification')
     type: MultiFile
     path: ""
-  - id: fkLivC
+  - id: A1vnnc
     name: BroadcastServiceTier
     options: {}
     type: Input
     path: ""
-  - id: Dj08Yg
+  - id: GLTOS2
     name: Genre
     options: {}
     type: Input
     path: ""
-  - id: jp2ULu
+  - id: bHShQF
     name: InBroadcastLineup
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Service/CableOrSatelliteService')
     type: MultiFile
     path: ""
-  - id: ydQi6M
+  - id: G2T9zx
     name: ProvidesBroadcastService
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Service/BroadcastService')

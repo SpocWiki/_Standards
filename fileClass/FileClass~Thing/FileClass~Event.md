@@ -16,216 +16,216 @@ tags:
   - class/Thing/Event
 extends: FileClass~Thing
 fields:
-  - id: mpK3ER
+  - id: TbKjxe
     name: About
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: pZVA0Z
+  - id: DtovvF
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: UmyS4D
+  - id: cVbGIN
     name: AggregateRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
     type: MultiFile
     path: ""
-  - id: vyqTnD
+  - id: iRemhW
     name: Attendee
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: o6JOml
+  - id: XQ7nD5
     name: Audience
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
     type: MultiFile
     path: ""
-  - id: DYDHwC
+  - id: fPLo0J
     name: Composer
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: RZ2FJy
+  - id: MObU8w
     name: Contributor
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 5grAKj
+  - id: UR9rVH
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 1aBD2A
+  - id: Qf3l8G
     name: DoorTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: xlssf8
+  - id: M2WQCD
     name: Duration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: P0wC1J
+  - id: jiJVSO
     name: EndDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: iiNVca
+  - id: OQriFS
     name: EventSchedule
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Schedule')
     type: MultiFile
     path: ""
-  - id: 5aH6fa
+  - id: 3d5EGv
     name: Funder
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: TkqSph
+  - id: n200tF
     name: Funding
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
     type: MultiFile
     path: ""
-  - id: HencVJ
+  - id: tgfjCL
     name: InLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: nSCsft
+  - id: CFD2xV
     name: IsAccessibleForFree
     options: {}
     type: Boolean
     path: ""
-  - id: 6w4vjl
+  - id: F5ug0S
     name: Keywords
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: 1EaD2q
+  - id: mnVOcC
     name: Location
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: NbKYBt
+  - id: GPg6n8
     name: MaximumAttendeeCapacity
     options: {}
     type: Number
     path: ""
-  - id: i4jwXl
+  - id: M9I776
     name: MaximumPhysicalAttendeeCapacity
     options: {}
     type: Number
     path: ""
-  - id: 0DG8AW
+  - id: 2PfuG8
     name: MaximumVirtualAttendeeCapacity
     options: {}
     type: Number
     path: ""
-  - id: qx3j4t
+  - id: Bvdyhe
     name: Offers
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
     type: MultiFile
     path: ""
-  - id: l1RkM4
+  - id: nuIg0o
     name: Organizer
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 6lb17S
+  - id: AEa7iz
     name: Performer
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: VbnhHQ
+  - id: AwZaqu
     name: PreviousStartDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: NdFpXV
+  - id: gYpvIL
     name: RecordedIn
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: mo2Nq4
+  - id: uRv2cF
     name: RemainingAttendeeCapacity
     options: {}
     type: Number
     path: ""
-  - id: ylasHZ
+  - id: 9KWpmM
     name: Review
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: 37cteJ
+  - id: rESew6
     name: Sponsor
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: BNvoA3
+  - id: atsL93
     name: StartDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: k77EWw
+  - id: 2FzBCy
     name: SubEvent
     options:
       dvQueryString: dv.pages('#class/Thing/Event')
     type: MultiFile
     path: ""
-  - id: SXiMKC
+  - id: St6xHQ
     name: SuperEvent
     options:
       dvQueryString: dv.pages('#class/Thing/Event')
     type: MultiFile
     path: ""
-  - id: EMj5GU
+  - id: YSqNMi
     name: Translator
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: RxGbnv
+  - id: CzHc2F
     name: TypicalAgeRange
     options: {}
     type: Input
     path: ""
-  - id: 1FnPFt
+  - id: 1eW7lH
     name: WorkFeatured
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: r330BY
+  - id: o21Cxs
     name: WorkPerformed
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
@@ -349,7 +349,7 @@ Keywords:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 ### Location
 The location of, for example, where an event is happening, where an organization is located, or where an action takes place.
 
-has_/location_:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
+Location:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 ### MaximumAttendeeCapacity
 The total number of individuals that may attend an event or venue.
@@ -367,7 +367,7 @@ The maximum physical attendee capacity of an [[Event]] whose [[eventAttendanceMo
 MaximumVirtualAttendeeCapacity:: {"type":"Number","options":{}}
 
 ### Offers
-An offer to provide this item—for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
+An offer to provide this item&#x2014;for example, an offer to sell a product, rent the DVD of a movie, perform a service, or give away tickets to an event. Use [[businessFunction]] to indicate the kind of transaction offered, i.e. sell, lease, etc. This property can also be used to describe a [[Demand]]. While this property is listed as expected on a number of common types, it can be used in others. In that case, using a second type, such as Product or a subtype of Product, can clarify the nature of the offer.
 
 Offers:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Demand')"}}
 
@@ -377,7 +377,7 @@ An organizer of an Event.
 Organizer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 ### Performer
-A performer at the event—for example, a presenter, musician, musical group or actor.
+A performer at the event&#x2014;for example, a presenter, musician, musical group or actor.
 
 Performer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 

@@ -16,28 +16,28 @@ tags:
   - class/Thing/CreativeWork/MediaObject/AudioObject/AudioObjectAndBook
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject
 fields:
-  - id: 0k0OwE
+  - id: IMuwNi
     name: Abridged
     options: {}
     type: Boolean
     path: ""
-  - id: 3qKuqW
+  - id: 3dZCDB
     name: BookEdition
     options: {}
     type: Input
     path: ""
-  - id: eIm7Gy
+  - id: Abo6NZ
     name: Illustrator
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: fgcmaI
+  - id: gR05hI
     name: Isbn
     options: {}
     type: Input
     path: ""
-  - id: d1BYc9
+  - id: IeM41O
     name: NumberOfPages
     options: {}
     type: Number

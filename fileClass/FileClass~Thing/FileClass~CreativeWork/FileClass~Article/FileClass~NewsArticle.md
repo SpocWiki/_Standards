@@ -16,27 +16,27 @@ tags:
   - class/Thing/CreativeWork/Article/NewsArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 fields:
-  - id: OOaGlx
+  - id: LhT1MK
     name: Dateline
     options: {}
     type: Input
     path: ""
-  - id: tc4lmq
+  - id: fwZEcC
     name: PrintColumn
     options: {}
     type: Input
     path: ""
-  - id: 4Xk1Pw
+  - id: y0IGtw
     name: PrintEdition
     options: {}
     type: Input
     path: ""
-  - id: 6kULqq
+  - id: 6tIJbT
     name: PrintPage
     options: {}
     type: Input
     path: ""
-  - id: WNPjg9
+  - id: R9pWVf
     name: PrintSection
     options: {}
     type: Input

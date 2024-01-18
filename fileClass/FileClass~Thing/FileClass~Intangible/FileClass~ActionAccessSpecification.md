@@ -16,39 +16,39 @@ tags:
   - class/Thing/Intangible/ActionAccessSpecification
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: B7smEU
+  - id: hHZZWv
     name: AvailabilityEnds
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: rnhFPC
+  - id: imfVhD
     name: AvailabilityStarts
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: mf1k32
+  - id: Apa8Cg
     name: EligibleRegion
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
     type: MultiFile
     path: ""
-  - id: Bl9Rue
+  - id: vk6VGh
     name: ExpectsAcceptanceOf
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Offer')
     type: MultiFile
     path: ""
-  - id: QTaqGO
+  - id: nxVbJv
     name: IneligibleRegion
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoShape')
     type: MultiFile
     path: ""
-  - id: DyaF2r
+  - id: CxzaNJ
     name: RequiresSubscription
     options: {}
     type: Boolean

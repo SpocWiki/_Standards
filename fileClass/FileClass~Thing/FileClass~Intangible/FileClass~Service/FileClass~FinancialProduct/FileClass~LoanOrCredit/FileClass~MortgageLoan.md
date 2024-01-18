@@ -16,12 +16,12 @@ tags:
   - class/Thing/Intangible/Service/FinancialProduct/LoanOrCredit/MortgageLoan
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit
 fields:
-  - id: tcV22R
+  - id: cmGqwl
     name: DomiciledMortgage
     options: {}
     type: Boolean
     path: ""
-  - id: aBHXl0
+  - id: F3pvXX
     name: LoanMortgageMandateAmount
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')

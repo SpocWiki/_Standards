@@ -16,190 +16,190 @@ tags:
   - class/Thing/Product/Vehicle
 extends: FileClass~Thing/FileClass~Product
 fields:
-  - id: gTSZtH
+  - id: RA6CKL
     name: AccelerationTime
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: MyOB6Z
+  - id: JY4Bvu
     name: BodyType
     options: {}
     type: Input
     path: ""
-  - id: tzxV9Y
+  - id: fPgEGt
     name: CallSign
     options: {}
     type: Input
     path: ""
-  - id: iNcpsm
+  - id: 9HcHyO
     name: CargoVolume
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: siDhK9
+  - id: ZQddOw
     name: DateVehicleFirstRegistered
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 2fRLtI
+  - id: MYjFzv
     name: EmissionsCO2
     options: {}
     type: Number
     path: ""
-  - id: HMz6pa
+  - id: gAdBVq
     name: FuelCapacity
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: q0AiN9
+  - id: 1Kj135
     name: FuelConsumption
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: fs3Cwm
+  - id: gFdi0U
     name: FuelEfficiency
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: vdn81G
+  - id: GR4RG8
     name: FuelType
     options: {}
     type: Input
     path: ""
-  - id: 4HfolU
+  - id: LIlYwm
     name: KnownVehicleDamages
     options: {}
     type: Input
     path: ""
-  - id: q7i0yV
+  - id: JYLwi7
     name: MeetsEmissionStandard
     options: {}
     type: Input
     path: ""
-  - id: T1eZVm
+  - id: cLqtRS
     name: MileageFromOdometer
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: gYkdoW
+  - id: Fnnju0
     name: ModelDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: J7cWe8
+  - id: qq6lKU
     name: NumberOfAirbags
     options: {}
     type: Number
     path: ""
-  - id: tinl96
+  - id: A3qD6s
     name: NumberOfAxles
     options: {}
     type: Number
     path: ""
-  - id: hqbPan
+  - id: uumu2f
     name: NumberOfDoors
     options: {}
     type: Number
     path: ""
-  - id: 2RKZ5f
+  - id: F7ZcZ9
     name: NumberOfForwardGears
     options: {}
     type: Number
     path: ""
-  - id: rf53Y5
+  - id: hIT08J
     name: NumberOfPreviousOwners
     options: {}
     type: Number
     path: ""
-  - id: 6aj0Hi
+  - id: QICIGv
     name: Payload
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: ffDGbT
+  - id: btNckM
     name: SeatingCapacity
     options: {}
     type: Number
     path: ""
-  - id: gQD6oo
+  - id: 8XmjEt
     name: Speed
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: OuLm0a
+  - id: dYZdLb
     name: TongueWeight
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: eNIBpQ
+  - id: 4FRWtk
     name: TrailerWeight
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: oUi95B
+  - id: ykLw0s
     name: VehicleConfiguration
     options: {}
     type: Input
     path: ""
-  - id: 2S1MZ8
+  - id: NETJvx
     name: VehicleEngine
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/EngineSpecification')
     type: MultiFile
     path: ""
-  - id: fvd0lJ
+  - id: 8RQsVi
     name: VehicleIdentificationNumber
     options: {}
     type: Input
     path: ""
-  - id: eYDUdl
+  - id: KWyZjV
     name: VehicleInteriorColor
     options: {}
     type: Input
     path: ""
-  - id: uyCkJQ
+  - id: uk2yBG
     name: VehicleInteriorType
     options: {}
     type: Input
     path: ""
-  - id: a6H5CA
+  - id: rnF7Ew
     name: VehicleModelDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: OlyetG
+  - id: vYktac
     name: VehicleSeatingCapacity
     options: {}
     type: Number
     path: ""
-  - id: cu97ie
+  - id: SkoS2n
     name: VehicleTransmission
     options: {}
     type: Input
     path: ""
-  - id: yZCgi8
+  - id: pfAOSz
     name: WeightTotal
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: Kv1kZ1
+  - id: oKZ5jz
     name: Wheelbase
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

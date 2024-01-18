@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/TransferAction/ReceiveAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-  - id: 4PyLk7
+  - id: u8r1ET
     name: Sender
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')

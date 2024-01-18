@@ -16,44 +16,44 @@ tags:
   - class/Thing/Intangible/StructuredValue/GeoShape
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: qnKTMZ
+  - id: 7Slfr7
     name: Address
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
     type: MultiFile
     path: ""
-  - id: yQYx9y
+  - id: CouUQg
     name: AddressCountry
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
     type: MultiFile
     path: ""
-  - id: Htjd5e
+  - id: VcljiC
     name: Box
     options: {}
     type: Input
     path: ""
-  - id: bzKkQx
+  - id: b6EBkP
     name: Circle
     options: {}
     type: Input
     path: ""
-  - id: nSeghS
+  - id: ult11b
     name: Elevation
     options: {}
     type: Number
     path: ""
-  - id: cjatH3
+  - id: fx1Lad
     name: Line
     options: {}
     type: Input
     path: ""
-  - id: Oq3FKc
+  - id: 1gOLNA
     name: Polygon
     options: {}
     type: Input
     path: ""
-  - id: HnKFbW
+  - id: aW11Rh
     name: PostalCode
     options: {}
     type: Input

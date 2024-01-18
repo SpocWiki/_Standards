@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/TradeAction/PayAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields:
-  - id: xfuwT2
+  - id: 66yjrn
     name: Recipient
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')

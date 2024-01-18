@@ -16,53 +16,53 @@ tags:
   - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/RadioSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 fields:
-  - id: iaCV6G
+  - id: 9AFi3y
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: k3JEQK
+  - id: HgSF22
     name: ContainsSeason
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
     type: MultiFile
     path: ""
-  - id: hZ1ruC
+  - id: iGEYDA
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: OA1osf
+  - id: 4zClcV
     name: Episode
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
     type: MultiFile
     path: ""
-  - id: FIvqlr
+  - id: 0cyj7P
     name: MusicBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
     type: MultiFile
     path: ""
-  - id: D7Zbj0
+  - id: X7SQD6
     name: NumberOfEpisodes
     options: {}
     type: Number
     path: ""
-  - id: NQD73c
+  - id: iEUcdR
     name: NumberOfSeasons
     options: {}
     type: Number
     path: ""
-  - id: rJLxGP
+  - id: qU0sRw
     name: ProductionCompany
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: abUADu
+  - id: nepGoz
     name: Trailer
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')

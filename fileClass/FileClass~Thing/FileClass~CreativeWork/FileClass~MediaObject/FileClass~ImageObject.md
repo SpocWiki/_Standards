@@ -16,24 +16,24 @@ tags:
   - class/Thing/CreativeWork/MediaObject/ImageObject
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields:
-  - id: KfNCDq
+  - id: K4vnmx
     name: Caption
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
     type: MultiFile
     path: ""
-  - id: 8sTFkP
+  - id: j0LSAx
     name: EmbeddedTextCaption
     options: {}
     type: Input
     path: ""
-  - id: m8npFS
+  - id: krx3Up
     name: ExifData
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
     type: MultiFile
     path: ""
-  - id: zE9HMt
+  - id: ngwPQU
     name: RepresentativeOfPage
     options: {}
     type: Boolean

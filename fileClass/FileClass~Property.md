@@ -12,7 +12,7 @@ excludes:
 extends: FileClass~Relation
 version: "2.0"
 fields:
-  - id: yZa3Hz
+  - id: 9dYCGX
     name: has_range
     options:
       dvQueryString: dv.pages('#class/data_type')

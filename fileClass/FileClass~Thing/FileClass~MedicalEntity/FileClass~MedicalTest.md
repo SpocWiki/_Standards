@@ -16,30 +16,30 @@ tags:
   - class/Thing/MedicalEntity/MedicalTest
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: lfYzVL
+  - id: SYEnGo
     name: AffectedBy
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')
     type: MultiFile
     path: ""
-  - id: 9CRq58
+  - id: rW4Tyn
     name: NormalRange
     options: {}
     type: Input
     path: ""
-  - id: dHXZRq
+  - id: PwdUyj
     name: SignDetected
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom/MedicalSign')
     type: MultiFile
     path: ""
-  - id: nTPsiC
+  - id: ejonCM
     name: UsedToDiagnose
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
     type: MultiFile
     path: ""
-  - id: N11qrx
+  - id: sgWYIm
     name: UsesDevice
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalDevice')

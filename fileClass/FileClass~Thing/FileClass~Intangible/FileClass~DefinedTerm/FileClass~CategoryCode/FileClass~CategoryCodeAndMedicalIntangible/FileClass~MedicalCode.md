@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible
 fields:
-  - id: qtXwzU
+  - id: Xb4xwt
     name: CodingSystem
     options: {}
     type: Input

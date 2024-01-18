@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/MediaObject/Type3DModel
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields:
-  - id: rChNCh
+  - id: rfORlE
     name: IsResizable
     options: {}
     type: Boolean

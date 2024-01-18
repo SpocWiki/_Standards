@@ -16,71 +16,71 @@ tags:
   - class/Thing/Action/PlayAction/ExerciseAction
 extends: FileClass~Thing/FileClass~Action/FileClass~PlayAction
 fields:
-  - id: LcQGiD
+  - id: FG7LCq
     name: Diet
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet')
     type: MultiFile
     path: ""
-  - id: 8eZ3SC
+  - id: sdBIyc
     name: Distance
     options: {}
     type: Input
     path: ""
-  - id: WSPOAi
+  - id: AVHkcb
     name: ExerciseCourse
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: dZuVTR
+  - id: zoUpCp
     name: ExercisePlan
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity/CreativeWorkAndPhysicalActivity/ExercisePlan')
     type: MultiFile
     path: ""
-  - id: TIWiDM
+  - id: upcanj
     name: ExerciseRelatedDiet
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet')
     type: MultiFile
     path: ""
-  - id: y9MBZk
+  - id: mvDuA8
     name: ExerciseType
     options: {}
     type: Input
     path: ""
-  - id: SjLWIM
+  - id: aNzd5h
     name: FromLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: HFAWde
+  - id: dXX0DO
     name: Opponent
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: Y4Z9SS
+  - id: zjvk1x
     name: SportsActivityLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/SportsActivityLocation')
     type: MultiFile
     path: ""
-  - id: tj8SIp
+  - id: JoqhhZ
     name: SportsEvent
     options:
       dvQueryString: dv.pages('#class/Thing/Event/SportsEvent')
     type: MultiFile
     path: ""
-  - id: Rr0BQp
+  - id: ihxspd
     name: SportsTeam
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/SportsOrganization/SportsTeam')
     type: MultiFile
     path: ""
-  - id: y41NDf
+  - id: L4YjsJ
     name: ToLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')

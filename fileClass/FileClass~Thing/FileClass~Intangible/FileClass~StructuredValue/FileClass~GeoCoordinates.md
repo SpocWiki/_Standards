@@ -16,34 +16,34 @@ tags:
   - class/Thing/Intangible/StructuredValue/GeoCoordinates
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: 4cJzGF
+  - id: XZqhmN
     name: Address
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
     type: MultiFile
     path: ""
-  - id: SSt5Ct
+  - id: h6Ryhn
     name: AddressCountry
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
     type: MultiFile
     path: ""
-  - id: nbWnqK
+  - id: Ve2EJ4
     name: Elevation
     options: {}
     type: Number
     path: ""
-  - id: yrqtMy
+  - id: ltPjWU
     name: Latitude
     options: {}
     type: Number
     path: ""
-  - id: Cjnf4o
+  - id: G1WiSS
     name: Longitude
     options: {}
     type: Number
     path: ""
-  - id: pDyw5H
+  - id: 8WUL8D
     name: PostalCode
     options: {}
     type: Input

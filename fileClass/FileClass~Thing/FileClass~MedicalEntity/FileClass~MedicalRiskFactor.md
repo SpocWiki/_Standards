@@ -16,7 +16,7 @@ tags:
   - class/Thing/MedicalEntity/MedicalRiskFactor
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: pPZHbU
+  - id: JG0Ihe
     name: IncreasesRiskOf
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')

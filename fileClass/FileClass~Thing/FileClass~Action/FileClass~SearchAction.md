@@ -16,12 +16,12 @@ tags:
   - class/Thing/Action/SearchAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: 8MmhU2
+  - id: aosG9F
     name: Query
     options: {}
     type: Input
     path: ""
-  - id: imFUQ6
+  - id: Gz1TOS
     name: QueryInput
     options:
       dvQueryString: dv.pages('#class/JsonLdObject/Thing/Intangible/PropertyValueSpecification')

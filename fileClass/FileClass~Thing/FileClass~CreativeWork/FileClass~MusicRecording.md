@@ -16,37 +16,37 @@ tags:
   - class/Thing/CreativeWork/MusicRecording
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: OJtS3f
+  - id: pcODQg
     name: ByArtist
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
     type: MultiFile
     path: ""
-  - id: 4P68kD
+  - id: bGg1r5
     name: Duration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: FghObk
+  - id: Vb6qAJ
     name: InAlbum
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')
     type: MultiFile
     path: ""
-  - id: TQFnnf
+  - id: JSjhe7
     name: InPlaylist
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist')
     type: MultiFile
     path: ""
-  - id: ickwHO
+  - id: 7wG6LM
     name: IsrcCode
     options: {}
     type: Input
     path: ""
-  - id: BmReSf
+  - id: gLnyzC
     name: RecordingOf
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicComposition')

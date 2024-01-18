@@ -16,38 +16,38 @@ tags:
   - class/Thing/MedicalEntity/Substance/ProductAndSubstance/DietarySupplement
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance
 fields:
-  - id: zq87D5
+  - id: qdyxLp
     name: IsProprietary
     options: {}
     type: Boolean
     path: ""
-  - id: 1V7gL4
+  - id: DZ6Yqt
     name: MechanismOfAction
     options: {}
     type: Input
     path: ""
-  - id: 45c2GD
+  - id: HLbMD3
     name: NonProprietaryName
     options: {}
     type: Input
     path: ""
-  - id: uzLHl1
+  - id: 4nRNye
     name: ProprietaryName
     options: {}
     type: Input
     path: ""
-  - id: z4q4Qm
+  - id: YTU8yH
     name: RecommendedIntake
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/RecommendedDoseSchedule')
     type: MultiFile
     path: ""
-  - id: rhUM5x
+  - id: 1kzL35
     name: SafetyConsideration
     options: {}
     type: Input
     path: ""
-  - id: KqKjnz
+  - id: Vhygnt
     name: TargetPopulation
     options: {}
     type: Input

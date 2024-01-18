@@ -16,19 +16,19 @@ tags:
   - class/Thing/MedicalEntity/MedicalGuideline
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: Ffqm9v
+  - id: UDpxAz
     name: EvidenceOrigin
     options: {}
     type: Input
     path: ""
-  - id: q4fmwv
+  - id: qFdbqW
     name: GuidelineDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: By0dsb
+  - id: TKtBnp
     name: GuidelineSubject
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')

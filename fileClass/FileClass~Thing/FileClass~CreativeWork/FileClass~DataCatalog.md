@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/DataCatalog
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: GqrG2G
+  - id: TFongU
     name: Dataset
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset')

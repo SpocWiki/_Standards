@@ -16,23 +16,23 @@ tags:
   - class/Thing/Event/CourseInstance
 extends: FileClass~Thing/FileClass~Event
 fields:
-  - id: GNNJ0D
+  - id: 67gqNe
     name: CourseLength
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Schedule')
     type: MultiFile
     path: ""
-  - id: vrIM03
+  - id: nZrjbU
     name: CourseMode
     options: {}
     type: Input
     path: ""
-  - id: 2rnNSj
+  - id: iQ51i9
     name: CourseWorkload
     options: {}
     type: Input
     path: ""
-  - id: SI3v6M
+  - id: hrW32A
     name: Instructor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')

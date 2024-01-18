@@ -16,12 +16,12 @@ tags:
   - class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: 6zUH2D
+  - id: lPJEKW
     name: PostalCodeBegin
     options: {}
     type: Input
     path: ""
-  - id: RvEwzX
+  - id: Im5KtL
     name: PostalCodeEnd
     options: {}
     type: Input

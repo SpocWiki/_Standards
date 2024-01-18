@@ -16,7 +16,7 @@ tags:
   - class/Thing/MedicalEntity/MedicalRiskEstimator/MedicalRiskScore
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator
 fields:
-  - id: WlKv4R
+  - id: Vg1ZXg
     name: Algorithm
     options: {}
     type: Input

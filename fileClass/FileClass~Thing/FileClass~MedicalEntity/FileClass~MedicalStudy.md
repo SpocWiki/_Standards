@@ -16,25 +16,25 @@ tags:
   - class/Thing/MedicalEntity/MedicalStudy
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: 1yG0Sg
+  - id: bGnskj
     name: HealthCondition
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
     type: MultiFile
     path: ""
-  - id: cx4SqM
+  - id: 9XIVL2
     name: Sponsor
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 8VMVtG
+  - id: vGMNiz
     name: StudyLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: 0PNwnW
+  - id: sUkODv
     name: StudySubject
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')

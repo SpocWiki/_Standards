@@ -16,36 +16,36 @@ tags:
   - class/Thing/Intangible/StructuredValue/MonetaryAmount
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: K8Y1Ft
+  - id: idY0hK
     name: Currency
     options: {}
     type: Input
     path: ""
-  - id: HoMeGZ
+  - id: xrYIVv
     name: MaxValue
     options: {}
     type: Number
     path: ""
-  - id: wgnTY1
+  - id: JHL6Lv
     name: MinValue
     options: {}
     type: Number
     path: ""
-  - id: gnPAqx
+  - id: Kwyej2
     name: ValidFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: aFq6pV
+  - id: K8INhu
     name: ValidThrough
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: WUx2fV
+  - id: 77Y376
     name: Value
     options: {}
     type: Boolean

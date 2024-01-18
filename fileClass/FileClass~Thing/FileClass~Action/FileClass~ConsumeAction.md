@@ -16,13 +16,13 @@ tags:
   - class/Thing/Action/ConsumeAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: X3Qady
+  - id: 0G1HRg
     name: ActionAccessibilityRequirement
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ActionAccessSpecification')
     type: MultiFile
     path: ""
-  - id: gN8cAa
+  - id: vyIdbm
     name: ExpectsAcceptanceOf
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Offer')

@@ -16,62 +16,62 @@ tags:
   - class/Thing/Intangible/ParcelDelivery
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: cLkKbw
+  - id: WceKbe
     name: DeliveryAddress
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
     type: MultiFile
     path: ""
-  - id: 2FncWR
+  - id: Q6tlrv
     name: DeliveryStatus
     options:
       dvQueryString: dv.pages('#class/Thing/Event/DeliveryEvent')
     type: MultiFile
     path: ""
-  - id: C7SMxW
+  - id: Ol2csZ
     name: ExpectedArrivalFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: Ixw1gp
+  - id: O70JYB
     name: ExpectedArrivalUntil
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: L7He9O
+  - id: zF4kgD
     name: ItemShipped
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: b6Np8f
+  - id: g9SRxJ
     name: OriginAddress
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
     type: MultiFile
     path: ""
-  - id: vLOGAT
+  - id: 2q0kLN
     name: PartOfOrder
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Order')
     type: MultiFile
     path: ""
-  - id: 9sK4tp
+  - id: voAWLy
     name: Provider
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: hHrQnL
+  - id: 5MQQsn
     name: TrackingNumber
     options: {}
     type: Input
     path: ""
-  - id: Hjbpdp
+  - id: EhvDtY
     name: TrackingUrl
     options: {}
     type: Input

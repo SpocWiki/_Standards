@@ -16,7 +16,7 @@ tags:
   - class/Thing/Organization/Airline
 extends: FileClass~Thing/FileClass~Organization
 fields:
-  - id: NWBWig
+  - id: sn5RqP
     name: IataCode
     options: {}
     type: Input

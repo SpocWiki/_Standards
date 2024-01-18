@@ -16,21 +16,21 @@ tags:
   - class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting/LiveBlogPosting
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~BlogPosting
 fields:
-  - id: brjDSl
+  - id: A3ZBCU
     name: CoverageEndTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: yDZOY5
+  - id: DV4ARf
     name: CoverageStartTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 8UG6wT
+  - id: J1xxoo
     name: LiveBlogUpdate
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting')

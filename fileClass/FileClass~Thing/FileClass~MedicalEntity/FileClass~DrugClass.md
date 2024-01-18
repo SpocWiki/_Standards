@@ -16,7 +16,7 @@ tags:
   - class/Thing/MedicalEntity/DrugClass
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: 1aGYqg
+  - id: CJctpQ
     name: Drug
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')

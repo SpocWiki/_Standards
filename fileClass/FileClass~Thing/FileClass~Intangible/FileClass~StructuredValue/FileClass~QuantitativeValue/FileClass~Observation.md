@@ -16,32 +16,32 @@ tags:
   - class/Thing/Intangible/StructuredValue/QuantitativeValue/Observation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue
 fields:
-  - id: fiYfgW
+  - id: 9yYxa0
     name: MarginOfError
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: 0b1Q80
+  - id: eQbnuQ
     name: MeasurementDenominator
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ConstraintNode/StatisticalVariable')
     type: MultiFile
     path: ""
-  - id: 5ItbOp
+  - id: AMQxzJ
     name: ObservationAbout
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: 6Wd8qy
+  - id: Zyb2jx
     name: ObservationDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: KWMZS6
+  - id: bfVofB
     name: VariableMeasured
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')

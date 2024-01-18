@@ -16,13 +16,13 @@ tags:
   - class/Thing/Action/PlayAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: 0uUeiO
+  - id: nFH0nc
     name: Audience
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
     type: MultiFile
     path: ""
-  - id: k3KnTl
+  - id: SuTwSJ
     name: Events
     options:
       dvQueryString: dv.pages('#class/Thing/Event')

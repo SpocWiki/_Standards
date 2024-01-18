@@ -16,46 +16,46 @@ tags:
   - class/Thing/CreativeWork/HowTo/Recipe
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~HowTo
 fields:
-  - id: Gl5uY7
+  - id: zVDcrU
     name: CookTime
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: eY02Dv
+  - id: g3HS6r
     name: CookingMethod
     options: {}
     type: Input
     path: ""
-  - id: 3KYHXH
+  - id: 6AxOVF
     name: Nutrition
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/NutritionInformation')
     type: MultiFile
     path: ""
-  - id: ek9twL
+  - id: 2xIx4H
     name: RecipeCategory
     options: {}
     type: Input
     path: ""
-  - id: bvK1kh
+  - id: VHgv6M
     name: RecipeCuisine
     options: {}
     type: Input
     path: ""
-  - id: j2O2AL
+  - id: phDrhP
     name: RecipeIngredient
     options: {}
     type: Input
     path: ""
-  - id: nOfpIa
+  - id: bS7moa
     name: RecipeInstructions
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: mEOBym
+  - id: aBFehz
     name: RecipeYield
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

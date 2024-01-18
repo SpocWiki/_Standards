@@ -16,46 +16,46 @@ tags:
   - class/Thing/CreativeWork/MediaObject/VideoObject
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields:
-  - id: PudNPt
+  - id: TMwhuy
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: ZxXq5v
+  - id: wxxhxi
     name: Caption
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
     type: MultiFile
     path: ""
-  - id: vgirPJ
+  - id: 4B0CmS
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 7ZfiyI
+  - id: JSioai
     name: EmbeddedTextCaption
     options: {}
     type: Input
     path: ""
-  - id: MdjFY3
+  - id: OpZWEG
     name: MusicBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
     type: MultiFile
     path: ""
-  - id: wOtCP2
+  - id: pDVgqU
     name: Transcript
     options: {}
     type: Input
     path: ""
-  - id: Y5nc1Q
+  - id: 3jNbfn
     name: VideoFrameSize
     options: {}
     type: Input
     path: ""
-  - id: pgncBP
+  - id: a9dNuV
     name: VideoQuality
     options: {}
     type: Input

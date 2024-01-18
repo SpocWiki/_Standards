@@ -16,12 +16,12 @@ tags:
   - class/Thing/CreativeWork/Article/TechArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 fields:
-  - id: Jit7LA
+  - id: LsOnJG
     name: Dependencies
     options: {}
     type: Input
     path: ""
-  - id: 6BmRaP
+  - id: NkCCpP
     name: ProficiencyLevel
     options: {}
     type: Input

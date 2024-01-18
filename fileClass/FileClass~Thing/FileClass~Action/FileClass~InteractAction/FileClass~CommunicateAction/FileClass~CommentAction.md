@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/InteractAction/CommunicateAction/CommentAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields:
-  - id: OhLNzm
+  - id: F0ZhNL
     name: ResultComment
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')

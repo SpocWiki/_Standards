@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/StructuredValue/GeoShape/GeoCircle
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape
 fields:
-  - id: T5Z5PF
+  - id: vgxWOH
     name: GeoMidpoint
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')
     type: MultiFile
     path: ""
-  - id: 035iuP
+  - id: E77aT9
     name: GeoRadius
     options: {}
     type: Number

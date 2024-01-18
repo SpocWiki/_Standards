@@ -16,22 +16,22 @@ tags:
   - class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 fields:
-  - id: wKLwZk
+  - id: NasP6Z
     name: DoseUnit
     options: {}
     type: Input
     path: ""
-  - id: ZfTOAA
+  - id: AxlH6O
     name: DoseValue
     options: {}
     type: Number
     path: ""
-  - id: a6I5s6
+  - id: 4r2Kmx
     name: Frequency
     options: {}
     type: Input
     path: ""
-  - id: ohkFDo
+  - id: DBgZgl
     name: TargetPopulation
     options: {}
     type: Input

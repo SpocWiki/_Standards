@@ -16,22 +16,22 @@ tags:
   - class/Thing/Intangible/Seat
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: jVazUf
+  - id: gpzyrk
     name: SeatNumber
     options: {}
     type: Input
     path: ""
-  - id: bVQJUZ
+  - id: NZruqA
     name: SeatRow
     options: {}
     type: Input
     path: ""
-  - id: HMHq91
+  - id: z0piEz
     name: SeatSection
     options: {}
     type: Input
     path: ""
-  - id: 0Yk89h
+  - id: GlIh0b
     name: SeatingType
     options: {}
     type: Input

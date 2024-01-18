@@ -16,28 +16,28 @@ tags:
   - class/Thing/MedicalEntity/LifestyleModification/CreativeWorkAndLifestyleModification/Diet
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification
 fields:
-  - id: rSDABY
+  - id: hLgo9j
     name: DietFeatures
     options: {}
     type: Input
     path: ""
-  - id: vbnOw9
+  - id: sBjKjo
     name: Endorsers
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: aFOjxP
+  - id: cb4ivh
     name: ExpertConsiderations
     options: {}
     type: Input
     path: ""
-  - id: pZPZ56
+  - id: pwvTvM
     name: PhysiologicalBenefits
     options: {}
     type: Input
     path: ""
-  - id: Cpoxa8
+  - id: VSUTxh
     name: Risks
     options: {}
     type: Input

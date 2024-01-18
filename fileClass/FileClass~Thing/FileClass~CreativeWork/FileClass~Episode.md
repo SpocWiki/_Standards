@@ -16,55 +16,55 @@ tags:
   - class/Thing/CreativeWork/Episode
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: DzqkO5
+  - id: 9ItsHa
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: XbtP0z
+  - id: Tf1wZo
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: ciqVFV
+  - id: k1eRiF
     name: Duration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: 0TIb46
+  - id: qTltMv
     name: EpisodeNumber
     options: {}
     type: Number
     path: ""
-  - id: XKhj4R
+  - id: k2Xfxq
     name: MusicBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
     type: MultiFile
     path: ""
-  - id: kL9YNI
+  - id: NfUSwf
     name: PartOfSeason
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/CreativeWorkSeason')
     type: MultiFile
     path: ""
-  - id: WlKoL6
+  - id: Fam5Vn
     name: PartOfSeries
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')
     type: MultiFile
     path: ""
-  - id: IB1hWe
+  - id: gkUZj9
     name: ProductionCompany
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: EGqU4q
+  - id: uASAXx
     name: Trailer
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')

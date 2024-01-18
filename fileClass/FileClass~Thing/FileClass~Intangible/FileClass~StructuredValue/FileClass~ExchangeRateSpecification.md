@@ -16,18 +16,18 @@ tags:
   - class/Thing/Intangible/StructuredValue/ExchangeRateSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: Xccew0
+  - id: bGLMFi
     name: Currency
     options: {}
     type: Input
     path: ""
-  - id: DPj5OM
+  - id: ycdpfT
     name: CurrentExchangeRate
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification')
     type: MultiFile
     path: ""
-  - id: xzszuY
+  - id: XvI3vo
     name: ExchangeRateSpread
     options: {}
     type: Number

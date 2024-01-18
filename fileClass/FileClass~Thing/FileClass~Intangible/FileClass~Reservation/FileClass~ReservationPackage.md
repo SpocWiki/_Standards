@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/Reservation/ReservationPackage
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-  - id: 5vtGe0
+  - id: 7kKmqO
     name: SubReservation
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Reservation')

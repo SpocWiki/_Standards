@@ -16,22 +16,22 @@ tags:
   - class/Thing/MedicalEntity/MedicalProcedure
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: Wuq4Ts
+  - id: 87Znwy
     name: BodyLocation
     options: {}
     type: Input
     path: ""
-  - id: WJaXbn
+  - id: y46UZj
     name: Followup
     options: {}
     type: Input
     path: ""
-  - id: 5kcQqv
+  - id: sIdLob
     name: HowPerformed
     options: {}
     type: Input
     path: ""
-  - id: UgOCAa
+  - id: z7Qy2w
     name: Preparation
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')

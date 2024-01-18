@@ -16,13 +16,13 @@ tags:
   - class/Thing/Organization/SportsOrganization/SportsTeam
 extends: FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization
 fields:
-  - id: ni19Sm
+  - id: KAOeHz
     name: Athlete
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: H608F4
+  - id: CeUAth
     name: Coach
     options:
       dvQueryString: dv.pages('#class/Thing/Person')

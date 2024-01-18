@@ -16,26 +16,26 @@ tags:
   - class/Thing/Intangible/Reservation/RentalCarReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-  - id: uro7cm
+  - id: YNIEZt
     name: DropoffLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: OiJJBK
+  - id: e4w3k4
     name: DropoffTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: KGMPHG
+  - id: 5IF5nc
     name: PickupLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: VGUdbX
+  - id: r0y8vY
     name: PickupTime
     options:
       dateFormat: YYYY-MM-DD

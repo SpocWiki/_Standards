@@ -16,13 +16,13 @@ tags:
   - class/Thing/CreativeWork/Blog
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: UG6EuN
+  - id: wuX2No
     name: BlogPost
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Article/SocialMediaPosting/BlogPosting')
     type: MultiFile
     path: ""
-  - id: eOxIHS
+  - id: N6vqrO
     name: Issn
     options: {}
     type: Input

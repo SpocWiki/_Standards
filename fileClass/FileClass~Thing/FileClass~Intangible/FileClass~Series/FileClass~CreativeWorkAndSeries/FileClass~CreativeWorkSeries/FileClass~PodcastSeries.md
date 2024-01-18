@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries/PodcastSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries/FileClass~CreativeWorkSeries
 fields:
-  - id: U9HblS
+  - id: KW0wzB
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: y8wABu
+  - id: 0oNs4H
     name: WebFeed
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')

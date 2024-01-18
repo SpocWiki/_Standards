@@ -16,29 +16,29 @@ tags:
   - class/Thing/MedicalEntity/MedicalIntangible/DrugStrength
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 fields:
-  - id: SNooE5
+  - id: 8bJ7Dj
     name: ActiveIngredient
     options: {}
     type: Input
     path: ""
-  - id: EeEeEO
+  - id: GfyHYX
     name: AvailableIn
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: Vb8SiD
+  - id: XElU0d
     name: MaximumIntake
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')
     type: MultiFile
     path: ""
-  - id: pRsNS7
+  - id: HdJdm8
     name: StrengthUnit
     options: {}
     type: Input
     path: ""
-  - id: jstjaD
+  - id: 6Uz0UI
     name: StrengthValue
     options: {}
     type: Number

@@ -16,65 +16,65 @@ tags:
   - class/Thing/Intangible/MerchantReturnPolicy
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: 3FwFGS
+  - id: 1o7ztm
     name: AdditionalProperty
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
     type: MultiFile
     path: ""
-  - id: AHIu9g
+  - id: 0JpEOk
     name: ApplicableCountry
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
     type: MultiFile
     path: ""
-  - id: QlMShY
+  - id: x5uhd1
     name: CustomerRemorseReturnShippingFeesAmount
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: G5EW2w
+  - id: gnvZWi
     name: InStoreReturnsOffered
     options: {}
     type: Boolean
     path: ""
-  - id: JzZyuU
+  - id: hUjlJ0
     name: ItemDefectReturnShippingFeesAmount
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: SnZ4fd
+  - id: 2VsCWu
     name: MerchantReturnDays
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: vNmeBp
+  - id: lvD8Fs
     name: MerchantReturnLink
     options: {}
     type: Input
     path: ""
-  - id: O5bUW3
+  - id: kpxZ8Y
     name: RestockingFee
     options: {}
     type: Number
     path: ""
-  - id: sqYCih
+  - id: Lx7Pto
     name: ReturnPolicyCountry
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
     type: MultiFile
     path: ""
-  - id: RRtFky
+  - id: VyWZFP
     name: ReturnPolicySeasonalOverride
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicySeasonalOverride')
     type: MultiFile
     path: ""
-  - id: oYybhM
+  - id: viMVal
     name: ReturnShippingFeesAmount
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')

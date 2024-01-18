@@ -16,73 +16,73 @@ tags:
   - class/Thing/Intangible/Trip/Flight
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-  - id: s0IyOf
+  - id: qJkaES
     name: Aircraft
     options:
       dvQueryString: dv.pages('#class/Thing/Product/Vehicle')
     type: MultiFile
     path: ""
-  - id: FJXvYP
+  - id: P4sjpB
     name: ArrivalAirport
     options:
       dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/Airport')
     type: MultiFile
     path: ""
-  - id: GFQc4c
+  - id: fp6B1o
     name: ArrivalGate
     options: {}
     type: Input
     path: ""
-  - id: Wc7S02
+  - id: 2CYrTV
     name: ArrivalTerminal
     options: {}
     type: Input
     path: ""
-  - id: DXabOC
+  - id: 2y2PFb
     name: DepartureAirport
     options:
       dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/Airport')
     type: MultiFile
     path: ""
-  - id: I7oPtt
+  - id: JBOezd
     name: DepartureGate
     options: {}
     type: Input
     path: ""
-  - id: y9HN90
+  - id: gSL3r4
     name: DepartureTerminal
     options: {}
     type: Input
     path: ""
-  - id: 6qJ7Xf
+  - id: Nibyqt
     name: EstimatedFlightDuration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: gajOlN
+  - id: wNIJ2i
     name: FlightDistance
     options: {}
     type: Input
     path: ""
-  - id: m6w02O
+  - id: 3BGaGQ
     name: FlightNumber
     options: {}
     type: Input
     path: ""
-  - id: PFmhxk
+  - id: 8k6Ub4
     name: MealService
     options: {}
     type: Input
     path: ""
-  - id: T2MXf8
+  - id: PJ8Dko
     name: Seller
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 7mGqNw
+  - id: ZSoCIe
     name: WebCheckinTime
     options:
       dateFormat: YYYY-MM-DD

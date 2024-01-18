@@ -16,17 +16,17 @@ tags:
   - class/Thing/Intangible/BroadcastFrequencySpecification
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: r5EujM
+  - id: FD0R4K
     name: BroadcastFrequencyValue
     options: {}
     type: Number
     path: ""
-  - id: 5bbHPZ
+  - id: yzCpTV
     name: BroadcastSignalModulation
     options: {}
     type: Input
     path: ""
-  - id: bRbOx0
+  - id: lTSKck
     name: BroadcastSubChannel
     options: {}
     type: Input

@@ -16,28 +16,28 @@ tags:
   - class/Thing/Intangible/StructuredValue/DefinedRegion
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: QXeV6d
+  - id: 3Q18KY
     name: AddressCountry
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
     type: MultiFile
     path: ""
-  - id: s1H9zS
+  - id: 1KOWJx
     name: AddressRegion
     options: {}
     type: Input
     path: ""
-  - id: cCGraZ
+  - id: WBUOT8
     name: PostalCode
     options: {}
     type: Input
     path: ""
-  - id: ZKmxyw
+  - id: odOPRM
     name: PostalCodePrefix
     options: {}
     type: Input
     path: ""
-  - id: AXnkl5
+  - id: 8JNfDx
     name: PostalCodeRange
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PostalCodeRangeSpecification')

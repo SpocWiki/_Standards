@@ -16,18 +16,18 @@ tags:
   - class/Thing/MedicalEntity/LifestyleModification/PhysicalActivity
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification
 fields:
-  - id: n5qwrk
+  - id: BHI5Nx
     name: AssociatedAnatomy
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: bCvdCw
+  - id: 5jY4nP
     name: Epidemiology
     options: {}
     type: Input
     path: ""
-  - id: 5D2nhN
+  - id: gAycoS
     name: Pathophysiology
     options: {}
     type: Input

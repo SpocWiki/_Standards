@@ -16,19 +16,19 @@ tags:
   - class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Series/FileClass~CreativeWorkAndSeries
 fields:
-  - id: mRkp0R
+  - id: Gw5UKo
     name: EndDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: PzWEVc
+  - id: FIDqEh
     name: Issn
     options: {}
     type: Input
     path: ""
-  - id: klIYdb
+  - id: TUOLHf
     name: StartDate
     options:
       dateFormat: YYYY-MM-DD

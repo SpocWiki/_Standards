@@ -16,33 +16,33 @@ tags:
   - class/Thing/Intangible/Rating
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: cmaZWs
+  - id: IDBV5h
     name: Author
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: HMJXhI
+  - id: 9rIjaO
     name: BestRating
     options: {}
     type: Number
     path: ""
-  - id: gIQi5M
+  - id: y8v6ME
     name: RatingExplanation
     options: {}
     type: Input
     path: ""
-  - id: 8wyjIt
+  - id: XD34Hc
     name: RatingValue
     options: {}
     type: Number
     path: ""
-  - id: 93Il5V
+  - id: AR8Rni
     name: ReviewAspect
     options: {}
     type: Input
     path: ""
-  - id: e7sJpw
+  - id: nbHUcU
     name: WorstRating
     options: {}
     type: Number

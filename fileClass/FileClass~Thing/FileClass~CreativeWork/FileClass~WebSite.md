@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/WebSite
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: Oflmmy
+  - id: wFkbrk
     name: Issn
     options: {}
     type: Input

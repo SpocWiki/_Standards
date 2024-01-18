@@ -16,34 +16,34 @@ tags:
   - class/Thing/Intangible/StructuredValue/ShippingRateSettings
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: LlwoLV
+  - id: F4bvvd
     name: DoesNotShip
     options: {}
     type: Boolean
     path: ""
-  - id: o4wVu8
+  - id: Z8UjUq
     name: FreeShippingThreshold
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/DeliveryChargeSpecification')
     type: MultiFile
     path: ""
-  - id: 2FpVQj
+  - id: AmcyyQ
     name: IsUnlabelledFallback
     options: {}
     type: Boolean
     path: ""
-  - id: 2123JO
+  - id: TVnk0K
     name: ShippingDestination
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/DefinedRegion')
     type: MultiFile
     path: ""
-  - id: Moe9rM
+  - id: grvxDG
     name: ShippingLabel
     options: {}
     type: Input
     path: ""
-  - id: HFfszx
+  - id: DQnppg
     name: ShippingRate
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')

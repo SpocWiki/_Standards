@@ -16,37 +16,37 @@ tags:
   - class/Thing/CreativeWork/PublicationIssue/ComicIssue
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationIssue
 fields:
-  - id: lX6BRe
+  - id: buRbJR
     name: Artist
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: PtKMFO
+  - id: z5G6PR
     name: Colorist
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 5jZMbL
+  - id: FWJUb2
     name: Inker
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 3BLu3K
+  - id: bvWjk9
     name: Letterer
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: jHSewb
+  - id: g7AXsr
     name: Penciler
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: NeS4DI
+  - id: XXNqOh
     name: VariantCover
     options: {}
     type: Input

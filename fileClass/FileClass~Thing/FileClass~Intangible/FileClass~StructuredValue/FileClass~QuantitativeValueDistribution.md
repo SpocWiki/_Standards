@@ -16,34 +16,34 @@ tags:
   - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: htvtHt
+  - id: Ue9xiJ
     name: Duration
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: E28KYa
+  - id: FF6ogp
     name: Median
     options: {}
     type: Number
     path: ""
-  - id: me0mEt
+  - id: qZQjDP
     name: Percentile10
     options: {}
     type: Number
     path: ""
-  - id: sLxE25
+  - id: E8uPkB
     name: Percentile25
     options: {}
     type: Number
     path: ""
-  - id: AGNKhv
+  - id: RMtCpq
     name: Percentile75
     options: {}
     type: Number
     path: ""
-  - id: 8w8BqQ
+  - id: 02kpFE
     name: Percentile90
     options: {}
     type: Number

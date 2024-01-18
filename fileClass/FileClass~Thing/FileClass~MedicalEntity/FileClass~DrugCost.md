@@ -16,28 +16,28 @@ tags:
   - class/Thing/MedicalEntity/DrugCost
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: hkLyeN
+  - id: sRtf31
     name: ApplicableLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: caaFHI
+  - id: sdaKy2
     name: CostCurrency
     options: {}
     type: Input
     path: ""
-  - id: zHizHm
+  - id: 2biuGl
     name: CostOrigin
     options: {}
     type: Input
     path: ""
-  - id: 4PFqOV
+  - id: ZIV6sx
     name: CostPerUnit
     options: {}
     type: Number
     path: ""
-  - id: dUAHHm
+  - id: XQvQKE
     name: DrugUnit
     options: {}
     type: Input

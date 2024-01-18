@@ -16,19 +16,19 @@ tags:
   - class/Thing/Intangible/Reservation/FoodEstablishmentReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-  - id: MfQW0H
+  - id: L8Cyp1
     name: EndTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: iwHEdy
+  - id: SGrC7t
     name: PartySize
     options: {}
     type: Number
     path: ""
-  - id: luBEuF
+  - id: r54ixJ
     name: StartTime
     options:
       dateFormat: YYYY-MM-DD

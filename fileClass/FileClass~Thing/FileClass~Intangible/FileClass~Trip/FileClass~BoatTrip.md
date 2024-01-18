@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/Trip/BoatTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-  - id: s4DBlM
+  - id: 2VelHo
     name: ArrivalBoatTerminal
     options:
       dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')
     type: MultiFile
     path: ""
-  - id: TpM5UI
+  - id: 16MCwa
     name: DepartureBoatTerminal
     options:
       dvQueryString: dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')

@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/DigitalDocumentPermission
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: 71wODM
+  - id: Lv5ouK
     name: Grantee
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')

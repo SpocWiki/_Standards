@@ -16,28 +16,28 @@ tags:
   - class/Thing/Intangible/DataFeedItem
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: JsZ8KP
+  - id: cgc0PW
     name: DateCreated
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 4j9Zch
+  - id: oT8X1a
     name: DateDeleted
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: rKzQKT
+  - id: WNfcmD
     name: DateModified
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: wXf38j
+  - id: XBHmkM
     name: Item
     options:
       dvQueryString: dv.pages('#class/Thing')

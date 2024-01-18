@@ -16,61 +16,61 @@ tags:
   - class/Thing/CreativeWork/CreativeWorkSeason
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 5L4v3r
+  - id: ret2wp
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: DsUYuQ
+  - id: TOVSpG
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: KLjHTo
+  - id: ZeNr3a
     name: EndDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: Hj4kCY
+  - id: ecpTK7
     name: Episode
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Episode')
     type: MultiFile
     path: ""
-  - id: FYy0fh
+  - id: 5Zc1fg
     name: NumberOfEpisodes
     options: {}
     type: Number
     path: ""
-  - id: aIIAWl
+  - id: ucTUaD
     name: PartOfSeries
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Series/CreativeWorkAndSeries/CreativeWorkSeries')
     type: MultiFile
     path: ""
-  - id: dfCrZg
+  - id: Hl5P2F
     name: ProductionCompany
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: bhe7mr
+  - id: osL8Vm
     name: SeasonNumber
     options: {}
     type: Number
     path: ""
-  - id: CsMDG1
+  - id: yIeCxh
     name: StartDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: FCFXci
+  - id: IS38q1
     name: Trailer
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')

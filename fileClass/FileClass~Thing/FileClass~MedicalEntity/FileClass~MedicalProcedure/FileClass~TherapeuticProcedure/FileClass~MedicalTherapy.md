@@ -16,19 +16,19 @@ tags:
   - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure
 fields:
-  - id: 9fwxtw
+  - id: 2nuU9D
     name: Contraindication
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalContraindication')
     type: MultiFile
     path: ""
-  - id: 42wz8X
+  - id: cwwK8D
     name: DuplicateTherapy
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
     type: MultiFile
     path: ""
-  - id: uhKDso
+  - id: NhF3GP
     name: SeriousAdverseOutcome
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')

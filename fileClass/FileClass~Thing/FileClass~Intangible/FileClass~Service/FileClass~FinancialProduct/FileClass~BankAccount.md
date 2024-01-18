@@ -16,19 +16,19 @@ tags:
   - class/Thing/Intangible/Service/FinancialProduct/BankAccount
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct
 fields:
-  - id: TQbD8d
+  - id: WsHSZc
     name: AccountMinimumInflow
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: sJ08Hh
+  - id: FudxOZ
     name: AccountOverdraftLimit
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: 7BC25M
+  - id: 0f0SOQ
     name: BankAccountType
     options: {}
     type: Input

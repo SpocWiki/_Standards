@@ -16,13 +16,13 @@ tags:
   - class/Thing/CreativeWork/MusicPlaylist/MusicAlbum
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist
 fields:
-  - id: Nxbcs5
+  - id: ds4w8C
     name: AlbumRelease
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicRelease')
     type: MultiFile
     path: ""
-  - id: wzC8Ht
+  - id: 4CzL1E
     name: ByArtist
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')

@@ -16,13 +16,13 @@ tags:
   - class/Thing/Action/UpdateAction/ReplaceAction
 extends: FileClass~Thing/FileClass~Action/FileClass~UpdateAction
 fields:
-  - id: lTSXnn
+  - id: eRhoLk
     name: Replacee
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: tvN42i
+  - id: jdq4Sd
     name: Replacer
     options:
       dvQueryString: dv.pages('#class/Thing')

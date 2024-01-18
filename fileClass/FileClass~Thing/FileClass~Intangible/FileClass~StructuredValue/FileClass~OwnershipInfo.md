@@ -16,27 +16,27 @@ tags:
   - class/Thing/Intangible/StructuredValue/OwnershipInfo
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: S0dXVb
+  - id: oBXz8m
     name: AcquiredFrom
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: HQepjp
+  - id: AflOoz
     name: OwnedFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: oXluYZ
+  - id: vwv3eT
     name: OwnedThrough
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: jyXYOC
+  - id: tstIpH
     name: TypeOfGood
     options:
       dvQueryString: dv.pages('#class/Thing/Product')

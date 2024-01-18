@@ -16,179 +16,179 @@ tags:
   - class/Thing/Place
 extends: FileClass~Thing
 fields:
-  - id: u3lkmn
+  - id: xDT69L
     name: AdditionalProperty
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
     type: MultiFile
     path: ""
-  - id: eykiaG
+  - id: khiDhm
     name: Address
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
     type: MultiFile
     path: ""
-  - id: sPOu7x
+  - id: Kcv5pc
     name: AggregateRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
     type: MultiFile
     path: ""
-  - id: 0yvJqp
+  - id: kbfIe4
     name: AmenityFeature
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')
     type: MultiFile
     path: ""
-  - id: UaBLhx
+  - id: CZ1Yjn
     name: BranchCode
     options: {}
     type: Input
     path: ""
-  - id: DAUGiY
+  - id: PlvZrm
     name: FaxNumber
     options: {}
     type: Input
     path: ""
-  - id: SFTPoC
+  - id: e87cuQ
     name: Geo
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')
     type: MultiFile
     path: ""
-  - id: qLBZtp
+  - id: 72bhFw
     name: GeoDisjoint
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
-  - id: AxgmWs
+  - id: b6iLkX
     name: GeoEquals
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
-  - id: YJMxzO
+  - id: akaKB4
     name: GeoOverlaps
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
-  - id: hbhm8J
+  - id: g4KgNy
     name: GeoTouches
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
-  - id: xaLro7
+  - id: uwnmnP
     name: GeoWithin
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
-  - id: BiOr9b
+  - id: ojuihd
     name: GlobalLocationNumber
     options: {}
     type: Input
     path: ""
-  - id: pBMPU3
+  - id: dihHaJ
     name: HasDriveThroughService
     options: {}
     type: Boolean
     path: ""
-  - id: VOrm2o
+  - id: JuttB1
     name: HasMap
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Map')
     type: MultiFile
     path: ""
-  - id: HiVvED
+  - id: ZY9dJx
     name: IsAccessibleForFree
     options: {}
     type: Boolean
     path: ""
-  - id: sQHisQ
+  - id: EkdxFr
     name: IsicV4
     options: {}
     type: Input
     path: ""
-  - id: w092OE
+  - id: aYs3i6
     name: Keywords
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: 32VILf
+  - id: PAXN7M
     name: Latitude
     options: {}
     type: Number
     path: ""
-  - id: 5uAB5e
+  - id: ML2S8v
     name: Logo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: rzCbnT
+  - id: bQdwq5
     name: Longitude
     options: {}
     type: Number
     path: ""
-  - id: FXVJ6t
+  - id: FXWp5z
     name: MaximumAttendeeCapacity
     options: {}
     type: Number
     path: ""
-  - id: w7di2d
+  - id: Q3LHXa
     name: OpeningHoursSpecification
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
     type: MultiFile
     path: ""
-  - id: seWfD8
+  - id: zJ4x4m
     name: Photo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: 6DXJI5
+  - id: 8QRKWA
     name: PublicAccess
     options: {}
     type: Boolean
     path: ""
-  - id: DYC01G
+  - id: bPnNjc
     name: Review
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: 3hYlci
+  - id: J5eCFD
     name: Slogan
     options: {}
     type: Input
     path: ""
-  - id: 6XTThf
+  - id: pLPhMF
     name: SmokingAllowed
     options: {}
     type: Boolean
     path: ""
-  - id: YJvmp8
+  - id: mPcr1A
     name: SpecialOpeningHoursSpecification
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
     type: MultiFile
     path: ""
-  - id: fNQBOw
+  - id: x9sihw
     name: Telephone
     options: {}
     type: Input
     path: ""
-  - id: ddsAQK
+  - id: k0T9oW
     name: TourBookingPage
     options: {}
     type: Input
     path: ""
-  - id: TLulsC
+  - id: ceZqW2
     name: Events
     options:
       dvQueryString: dv.pages('#class/Thing/Event')

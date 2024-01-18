@@ -16,74 +16,74 @@ tags:
   - class/Thing/CreativeWork/Legislation
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: AFoZjq
+  - id: ALivj8
     name: Jurisdiction
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: DjidSJ
+  - id: ayxbhH
     name: LegislationApplies
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
     type: MultiFile
     path: ""
-  - id: 84kaQN
+  - id: JV3iET
     name: LegislationChanges
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
     type: MultiFile
     path: ""
-  - id: 36OEOq
+  - id: 5uPqC5
     name: LegislationConsolidates
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
     type: MultiFile
     path: ""
-  - id: BP0ApJ
+  - id: fCN0Mb
     name: LegislationDate
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: hTa975
+  - id: Zl4oMv
     name: LegislationDateVersion
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: sBgfTM
+  - id: jGls97
     name: LegislationIdentifier
     options: {}
     type: Input
     path: ""
-  - id: Wpivll
+  - id: YBL7Yx
     name: LegislationJurisdiction
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: oa3BMa
+  - id: qZnApa
     name: LegislationPassedBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: TXEL1C
+  - id: qNxZoe
     name: LegislationResponsible
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: iE5Qx5
+  - id: fBDoT1
     name: LegislationTransposes
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Legislation')
     type: MultiFile
     path: ""
-  - id: g3DFjw
+  - id: SC6CIO
     name: LegislationType
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')

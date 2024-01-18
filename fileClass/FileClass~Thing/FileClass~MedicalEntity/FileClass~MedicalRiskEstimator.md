@@ -16,13 +16,13 @@ tags:
   - class/Thing/MedicalEntity/MedicalRiskEstimator
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: 5uME0M
+  - id: LFbt9w
     name: EstimatesRiskOf
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')
     type: MultiFile
     path: ""
-  - id: sa1Z2W
+  - id: oHVIky
     name: IncludedRiskFactor
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalRiskFactor')

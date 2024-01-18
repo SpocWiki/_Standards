@@ -16,52 +16,52 @@ tags:
   - class/Thing/CreativeWork/HowTo
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: Alk2Px
+  - id: RKeSFu
     name: EstimatedCost
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/MonetaryAmount')
     type: MultiFile
     path: ""
-  - id: UNFskw
+  - id: zC0txA
     name: PerformTime
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: L66XCA
+  - id: HC5NuP
     name: PrepTime
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: j37os3
+  - id: GS1hNd
     name: Step
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: Y65n22
+  - id: avrIAw
     name: Supply
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToSupply')
     type: MultiFile
     path: ""
-  - id: ZG1cSw
+  - id: hE6W81
     name: Tool
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ListItem/HowToItem/HowToTool')
     type: MultiFile
     path: ""
-  - id: Mffahr
+  - id: wOvBAz
     name: TotalTime
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: 2zQauS
+  - id: A7bFk2
     name: Yield
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

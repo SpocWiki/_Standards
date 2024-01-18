@@ -13,7 +13,7 @@ excludes:
 extends: FileClass~Thing/FileClass~Intangible
 version: "2.0"
 fields:
-  - id: anLY0h
+  - id: 2Jwblk
     name: has_range
     options:
       dvQueryString: dv.pages('#class/Class')
@@ -21,7 +21,7 @@ fields:
       code: false
     type: File
     path: ""
-  - id: IZNrqF
+  - id: cxsrFV
     name: has_domain
     options:
       dvQueryString: dv.pages('#class/Class')

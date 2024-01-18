@@ -16,18 +16,18 @@ tags:
   - class/Thing/Intangible/Rating/AggregateRating
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Rating
 fields:
-  - id: gAKGPa
+  - id: RR7xQf
     name: ItemReviewed
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: M7fbXu
+  - id: dfjQIR
     name: RatingCount
     options: {}
     type: Number
     path: ""
-  - id: 6U7Qjm
+  - id: z9z3MN
     name: ReviewCount
     options: {}
     type: Number

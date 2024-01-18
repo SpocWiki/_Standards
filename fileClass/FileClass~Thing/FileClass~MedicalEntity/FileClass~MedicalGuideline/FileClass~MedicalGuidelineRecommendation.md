@@ -16,7 +16,7 @@ tags:
   - class/Thing/MedicalEntity/MedicalGuideline/MedicalGuidelineRecommendation
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline
 fields:
-  - id: jtqPvw
+  - id: 4wovF1
     name: RecommendationStrength
     options: {}
     type: Input

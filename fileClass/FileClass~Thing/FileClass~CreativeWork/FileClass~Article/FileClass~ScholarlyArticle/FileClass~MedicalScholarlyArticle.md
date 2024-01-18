@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Article/ScholarlyArticle/MedicalScholarlyArticle
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle
 fields:
-  - id: OoE5Xj
+  - id: RKfyRk
     name: PublicationType
     options: {}
     type: Input

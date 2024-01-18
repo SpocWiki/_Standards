@@ -16,28 +16,28 @@ tags:
   - class/Thing/CreativeWork/SoftwareSourceCode
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 4XZvJP
+  - id: MFGWPr
     name: CodeRepository
     options: {}
     type: Input
     path: ""
-  - id: 8RPQyE
+  - id: o8G7fN
     name: CodeSampleType
     options: {}
     type: Input
     path: ""
-  - id: n2E0Qy
+  - id: frpIlh
     name: ProgrammingLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ComputerLanguage')
     type: MultiFile
     path: ""
-  - id: UOBGJb
+  - id: 3opMEZ
     name: RuntimePlatform
     options: {}
     type: Input
     path: ""
-  - id: s9Byca
+  - id: Pd6w45
     name: TargetProduct
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/SoftwareApplication')

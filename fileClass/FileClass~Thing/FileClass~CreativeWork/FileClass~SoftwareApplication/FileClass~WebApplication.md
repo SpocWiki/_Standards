@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/SoftwareApplication/WebApplication
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 fields:
-  - id: JVkqei
+  - id: dEsYaA
     name: BrowserRequirements
     options: {}
     type: Input

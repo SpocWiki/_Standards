@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/LearningResource
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: TVrc5y
+  - id: zoIdrO
     name: CompetencyRequired
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')

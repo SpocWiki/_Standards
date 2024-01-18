@@ -16,13 +16,13 @@ tags:
   - class/Thing/Event/PublicationEvent
 extends: FileClass~Thing/FileClass~Event
 fields:
-  - id: WwvcTN
+  - id: UdrRtq
     name: PublishedBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 3Zi8WF
+  - id: 23NgbX
     name: PublishedOn
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Service/BroadcastService')

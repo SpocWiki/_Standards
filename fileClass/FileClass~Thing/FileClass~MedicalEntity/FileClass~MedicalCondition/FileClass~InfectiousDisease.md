@@ -16,12 +16,12 @@ tags:
   - class/Thing/MedicalEntity/MedicalCondition/InfectiousDisease
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition
 fields:
-  - id: uMxmYb
+  - id: HEJbDZ
     name: InfectiousAgent
     options: {}
     type: Input
     path: ""
-  - id: OLYaoH
+  - id: LX1q2h
     name: TransmissionMethod
     options: {}
     type: Input

@@ -16,18 +16,18 @@ tags:
   - class/Thing/BioChemEntity/ChemicalSubstance
 extends: FileClass~Thing/FileClass~BioChemEntity
 fields:
-  - id: 3JYBhd
+  - id: tmUWEH
     name: ChemicalComposition
     options: {}
     type: Input
     path: ""
-  - id: gmS8i0
+  - id: cTN4IH
     name: ChemicalRole
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: 0pvNR4
+  - id: XxDV0W
     name: PotentialUse
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')

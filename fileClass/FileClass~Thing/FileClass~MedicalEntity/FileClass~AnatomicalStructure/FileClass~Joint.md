@@ -16,18 +16,18 @@ tags:
   - class/Thing/MedicalEntity/AnatomicalStructure/Joint
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 fields:
-  - id: QSZ476
+  - id: lX4MG8
     name: BiomechnicalClass
     options: {}
     type: Input
     path: ""
-  - id: HNJR9r
+  - id: JJwgse
     name: FunctionalClass
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')
     type: MultiFile
     path: ""
-  - id: pOM62y
+  - id: 8L5ntQ
     name: StructuralClass
     options: {}
     type: Input

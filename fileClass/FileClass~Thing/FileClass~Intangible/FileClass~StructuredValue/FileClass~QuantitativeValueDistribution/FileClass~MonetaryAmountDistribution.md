@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/StructuredValue/QuantitativeValueDistribution/MonetaryAmountDistribution
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution
 fields:
-  - id: Xg5MsO
+  - id: nLBQlB
     name: Currency
     options: {}
     type: Input

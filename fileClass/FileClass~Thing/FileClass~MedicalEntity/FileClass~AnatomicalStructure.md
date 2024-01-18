@@ -16,47 +16,47 @@ tags:
   - class/Thing/MedicalEntity/AnatomicalStructure
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: c664O3
+  - id: FcvT3B
     name: AssociatedPathophysiology
     options: {}
     type: Input
     path: ""
-  - id: nmvlDU
+  - id: o21vKO
     name: BodyLocation
     options: {}
     type: Input
     path: ""
-  - id: 6ogYmn
+  - id: NGpV1O
     name: ConnectedTo
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: z1aWjU
+  - id: YvF5sx
     name: Diagram
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: 4IqcsC
+  - id: 2VQnUx
     name: PartOfSystem
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalSystem')
     type: MultiFile
     path: ""
-  - id: lNTfXN
+  - id: hPoXzG
     name: RelatedCondition
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
     type: MultiFile
     path: ""
-  - id: 99qj5n
+  - id: q851XS
     name: RelatedTherapy
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
     type: MultiFile
     path: ""
-  - id: tsesak
+  - id: 8HP0xc
     name: SubStructure
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')

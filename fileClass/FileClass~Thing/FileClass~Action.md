@@ -16,69 +16,69 @@ tags:
   - class/Thing/Action
 extends: FileClass~Thing
 fields:
-  - id: UovcU4
+  - id: 8HMCQW
     name: Agent
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: AyYbei
+  - id: IgRPV5
     name: EndTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: sPTB2D
+  - id: LN1PgO
     name: Error
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: OtGtbk
+  - id: mvlP0k
     name: Instrument
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: Cxte1S
+  - id: Mr3ZT1
     name: Location
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: n1zzmZ
+  - id: I26CBt
     name: Object
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: 2nM3hc
+  - id: GvFLip
     name: Participant
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 95RkSj
+  - id: semoIg
     name: Provider
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: 92zA15
+  - id: 7Khk1K
     name: Result
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: jP5jSr
+  - id: 1x8C1l
     name: StartTime
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: NaKKOJ
+  - id: Lg7pLS
     name: Target
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/EntryPoint')
@@ -136,7 +136,7 @@ Instrument:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 ### Location
 The location of, for example, where an event is happening, where an organization is located, or where an action takes place.
 
-has_/location_:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
+Location:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 ### Object
 The object upon which the action is carried out, whose state is kept intact or changed. Also known as the semantic roles patient, affected or undergoer (which change their state) or theme (which doesn't). E.g. John read \*a book\*.

@@ -16,7 +16,7 @@ tags:
   - class/Thing/Place/CivicStructure/CivicStructureAndEntertainmentBusiness/MovieTheater
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EntertainmentBusiness/FileClass~CivicStructureAndEntertainmentBusiness
 fields:
-  - id: kOiO2Y
+  - id: OnJdil
     name: ScreenCount
     options: {}
     type: Number

@@ -16,13 +16,13 @@ tags:
   - class/Thing/CreativeWork/Episode/TVEpisode
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Episode
 fields:
-  - id: cTtpNF
+  - id: MQmVz4
     name: SubtitleLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: 8bodb2
+  - id: In0BGE
     name: TitleEIDR
     options: {}
     type: Input

@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Article/SocialMediaPosting
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 fields:
-  - id: CL3onz
+  - id: GHnSTI
     name: SharedContent
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')

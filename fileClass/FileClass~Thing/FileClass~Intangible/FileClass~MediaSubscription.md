@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/MediaSubscription
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: ELHd0z
+  - id: ij6VyT
     name: Authenticator
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: mzhIeT
+  - id: eNs74A
     name: ExpectsAcceptanceOf
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Offer')

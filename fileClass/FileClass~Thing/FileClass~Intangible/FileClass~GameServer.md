@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/GameServer
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: RMT0MP
+  - id: 55SAv0
     name: Game
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame')
     type: MultiFile
     path: ""
-  - id: 3Pl7Wz
+  - id: EJLyFr
     name: PlayersOnline
     options: {}
     type: Number

@@ -16,7 +16,7 @@ tags:
   - class/Thing/Place/CivicStructure
 extends: FileClass~Thing/FileClass~Place
 fields:
-  - id: j2lQuf
+  - id: ooOsz1
     name: OpeningHours
     options: {}
     type: Input

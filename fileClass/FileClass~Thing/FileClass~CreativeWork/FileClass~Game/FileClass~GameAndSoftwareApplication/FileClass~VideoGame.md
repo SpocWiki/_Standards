@@ -16,54 +16,54 @@ tags:
   - class/Thing/CreativeWork/Game/GameAndSoftwareApplication/VideoGame
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication/FileClass~GameAndSoftwareApplication
 fields:
-  - id: HDLw2w
+  - id: xKScrk
     name: Actor
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 9Mn9D0
+  - id: sP8emP
     name: CheatCode
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: 90O458
+  - id: rL0G2B
     name: Director
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: 1otMak
+  - id: hVmcFM
     name: GameEdition
     options: {}
     type: Input
     path: ""
-  - id: VZG8Pd
+  - id: FMSPMg
     name: GamePlatform
     options:
       dvQueryString: dv.pages('#class/Thing')
     type: MultiFile
     path: ""
-  - id: fYHKmh
+  - id: x6VVbW
     name: GameServer
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GameServer')
     type: MultiFile
     path: ""
-  - id: ZrgEzh
+  - id: cviOxF
     name: GameTip
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: B4I1qJ
+  - id: lschoZ
     name: MusicBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')
     type: MultiFile
     path: ""
-  - id: nRFJmm
+  - id: GGtTyM
     name: Trailer
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/VideoObject')

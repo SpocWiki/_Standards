@@ -16,45 +16,45 @@ tags:
   - class/Thing/Intangible/Permit
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: DRY5JT
+  - id: ITOCcT
     name: IssuedBy
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: JrdZcI
+  - id: vKSJkf
     name: IssuedThrough
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Service')
     type: MultiFile
     path: ""
-  - id: xxSzGm
+  - id: MAB0XT
     name: PermitAudience
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
     type: MultiFile
     path: ""
-  - id: jw5XCi
+  - id: ID96kS
     name: ValidFor
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: X3SE20
+  - id: loISIK
     name: ValidFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: BNuJhX
+  - id: uqbaBw
     name: ValidIn
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: WZvp7x
+  - id: 4LEkam
     name: ValidUntil
     options:
       dateFormat: YYYY-MM-DD

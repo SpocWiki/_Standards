@@ -13,7 +13,7 @@ excludes:
 extends: FileClass~Thing/FileClass~Intangible
 version: "2.0"
 fields:
-  - id: 0NkjpX
+  - id: rpfWON
     name: is_sub_class_of
     options:
       dvQueryString: dv.pages('#class/Class')
@@ -34,6 +34,6 @@ fields:
 ## Relations: 
 
 ### Subclass Relation: 
-![[../schema-org/Class/is_sub_class_of|subclassOf]] 
+![[../schema-org/Class/is_sub-class_of|subclassOf]] 
 is_sub_class_of::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
 

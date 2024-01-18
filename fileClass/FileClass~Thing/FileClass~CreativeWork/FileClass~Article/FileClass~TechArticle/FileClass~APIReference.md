@@ -16,22 +16,22 @@ tags:
   - class/Thing/CreativeWork/Article/TechArticle/APIReference
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle
 fields:
-  - id: 8wglXv
+  - id: gc2stb
     name: AssemblyVersion
     options: {}
     type: Input
     path: ""
-  - id: 8oAvYt
+  - id: DouyNC
     name: ExecutableLibraryName
     options: {}
     type: Input
     path: ""
-  - id: yXSPi8
+  - id: xve11U
     name: ProgrammingModel
     options: {}
     type: Input
     path: ""
-  - id: x4yNdl
+  - id: AhxkQ0
     name: TargetPlatform
     options: {}
     type: Input

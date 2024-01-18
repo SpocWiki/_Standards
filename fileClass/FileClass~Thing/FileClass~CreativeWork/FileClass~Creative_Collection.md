@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Collection
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: EElPDY
+  - id: uFIRCK
     name: CollectionSize
     options: {}
     type: Number

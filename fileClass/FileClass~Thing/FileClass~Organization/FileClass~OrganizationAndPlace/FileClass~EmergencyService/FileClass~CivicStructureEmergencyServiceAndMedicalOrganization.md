@@ -16,17 +16,17 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/EmergencyService/CivicStructureAndEmergencyServiceAndMedicalOrganization
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService
 fields:
-  - id: c6RH1A
+  - id: JTy8yN
     name: HealthPlanNetworkId
     options: {}
     type: Input
     path: ""
-  - id: TCg2GW
+  - id: Pa0Dqx
     name: IsAcceptingNewPatients
     options: {}
     type: Boolean
     path: ""
-  - id: 7VtfWC
+  - id: xne1Ts
     name: OpeningHours
     options: {}
     type: Input

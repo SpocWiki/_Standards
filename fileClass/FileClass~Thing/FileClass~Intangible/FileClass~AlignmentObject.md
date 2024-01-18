@@ -16,27 +16,27 @@ tags:
   - class/Thing/Intangible/AlignmentObject
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: AxFrcc
+  - id: tIrNHg
     name: AlignmentType
     options: {}
     type: Input
     path: ""
-  - id: MochSY
+  - id: a0BDav
     name: EducationalFramework
     options: {}
     type: Input
     path: ""
-  - id: bmNMOB
+  - id: kJU6Q2
     name: TargetDescription
     options: {}
     type: Input
     path: ""
-  - id: 3Duwwh
+  - id: 66sZaT
     name: TargetName
     options: {}
     type: Input
     path: ""
-  - id: UcT7uL
+  - id: tSaRs0
     name: TargetUrl
     options: {}
     type: Input

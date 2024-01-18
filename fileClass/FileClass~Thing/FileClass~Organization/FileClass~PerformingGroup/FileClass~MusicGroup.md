@@ -16,18 +16,18 @@ tags:
   - class/Thing/Organization/PerformingGroup/MusicGroup
 extends: FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup
 fields:
-  - id: aq32Wi
+  - id: 7KritP
     name: Album
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MusicPlaylist/MusicAlbum')
     type: MultiFile
     path: ""
-  - id: CtDi9Y
+  - id: N8Scii
     name: Genre
     options: {}
     type: Input
     path: ""
-  - id: BqnLxs
+  - id: KTnAtL
     name: Track
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')

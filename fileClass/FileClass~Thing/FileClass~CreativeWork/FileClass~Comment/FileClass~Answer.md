@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Comment/Answer
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Comment
 fields:
-  - id: DtgtV1
+  - id: RlX1fa
     name: AnswerExplanation
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')

@@ -16,20 +16,20 @@ tags:
   - class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue
 fields:
-  - id: bXAYV4
+  - id: Bmo9Y3
     name: HoursAvailable
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
     type: MultiFile
     path: ""
-  - id: g3XX5H
+  - id: DHkA2d
     name: ValidFrom
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: NCXx8h
+  - id: QW1Tgx
     name: ValidThrough
     options:
       dateFormat: YYYY-MM-DD

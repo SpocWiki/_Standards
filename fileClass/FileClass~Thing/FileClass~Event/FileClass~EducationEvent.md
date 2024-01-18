@@ -16,19 +16,19 @@ tags:
   - class/Thing/Event/EducationEvent
 extends: FileClass~Thing/FileClass~Event
 fields:
-  - id: ILH2wt
+  - id: xzrMP8
     name: Assesses
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: q4h4qA
+  - id: XQuaTp
     name: EducationalLevel
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: seHiNR
+  - id: aRAXCI
     name: Teaches
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')

@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/TransferAction/BorrowAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-  - id: F27kEx
+  - id: WHOTmv
     name: Lender
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')

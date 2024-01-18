@@ -16,25 +16,25 @@ tags:
   - class/Thing/Intangible/Brand
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: wp5c0i
+  - id: 3m26qR
     name: AggregateRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
     type: MultiFile
     path: ""
-  - id: 4tqEto
+  - id: MU2HDl
     name: Logo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: 2aMvZa
+  - id: rzYza0
     name: Review
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: 8FcC1O
+  - id: rJitP5
     name: Slogan
     options: {}
     type: Input

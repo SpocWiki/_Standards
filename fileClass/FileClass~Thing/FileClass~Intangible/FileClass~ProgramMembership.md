@@ -16,29 +16,29 @@ tags:
   - class/Thing/Intangible/ProgramMembership
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: SMvHYC
+  - id: ZtfEZd
     name: HostingOrganization
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: nWC4B4
+  - id: y8f0k7
     name: Member
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: PdzwJh
+  - id: kKVBZ6
     name: MembershipNumber
     options: {}
     type: Input
     path: ""
-  - id: BZHjcR
+  - id: KfZMXE
     name: MembershipPointsEarned
     options: {}
     type: Number
     path: ""
-  - id: LfIrCD
+  - id: gYfM3h
     name: ProgramName
     options: {}
     type: Input

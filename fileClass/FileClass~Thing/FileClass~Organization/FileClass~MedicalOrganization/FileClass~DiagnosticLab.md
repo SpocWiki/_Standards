@@ -16,7 +16,7 @@ tags:
   - class/Thing/Organization/MedicalOrganization/DiagnosticLab
 extends: FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization
 fields:
-  - id: dSxcjG
+  - id: xijSKP
     name: AvailableTest
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalTest')

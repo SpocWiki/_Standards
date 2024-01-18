@@ -16,50 +16,50 @@ tags:
   - class/Thing/Intangible/ServiceChannel
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: nOgsbn
+  - id: joWFFP
     name: AvailableLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: ysFamX
+  - id: gzXcwM
     name: ProcessingTime
     options:
       min: "0"
       max: "2359"
     type: Number
     path: ""
-  - id: Li3kok
+  - id: qk8KLA
     name: ProvidesService
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Service')
     type: MultiFile
     path: ""
-  - id: z5FKqo
+  - id: b7axXE
     name: ServiceLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place')
     type: MultiFile
     path: ""
-  - id: Hkm33R
+  - id: c0uzIf
     name: ServicePhone
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
     type: MultiFile
     path: ""
-  - id: DeQnbe
+  - id: kT8HuB
     name: ServicePostalAddress
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
     type: MultiFile
     path: ""
-  - id: 2lPx9z
+  - id: jShQHN
     name: ServiceSmsNumber
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
     type: MultiFile
     path: ""
-  - id: r2DowV
+  - id: SCwVe5
     name: ServiceUrl
     options: {}
     type: Input

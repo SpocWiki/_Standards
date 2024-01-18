@@ -16,74 +16,74 @@ tags:
   - class/Thing/CreativeWork/SpecialAnnouncement
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: YTmK5E
+  - id: qDW6Up
     name: AnnouncementLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place/CivicStructure')
     type: MultiFile
     path: ""
-  - id: gL0k7y
+  - id: N4DFwm
     name: DatePosted
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: FaAITX
+  - id: QdouvC
     name: DiseasePreventionInfo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
     type: MultiFile
     path: ""
-  - id: XxkhwE
+  - id: QF1R1J
     name: DiseaseSpreadStatistics
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset')
     type: MultiFile
     path: ""
-  - id: 5vj2JH
+  - id: EBA7VA
     name: GettingTestedInfo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
     type: MultiFile
     path: ""
-  - id: aOst6L
+  - id: I9SC9u
     name: GovernmentBenefitsInfo
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Service/GovernmentService')
     type: MultiFile
     path: ""
-  - id: WiubgN
+  - id: xz2jp6
     name: NewsUpdatesAndGuidelines
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
     type: MultiFile
     path: ""
-  - id: uRZV1c
+  - id: ewA3Zf
     name: PublicTransportClosuresInfo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
     type: MultiFile
     path: ""
-  - id: GvuCq9
+  - id: kfcEIF
     name: QuarantineGuidelines
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
     type: MultiFile
     path: ""
-  - id: 7FWlIU
+  - id: kQusqu
     name: SchoolClosuresInfo
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
     type: MultiFile
     path: ""
-  - id: x2oixV
+  - id: Ax00Ma
     name: TravelBans
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/WebContent')
     type: MultiFile
     path: ""
-  - id: 2Cz573
+  - id: 65C9te
     name: WebFeed
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Dataset/DataFeed')

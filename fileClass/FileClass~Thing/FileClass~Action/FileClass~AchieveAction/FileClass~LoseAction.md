@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/AchieveAction/LoseAction
 extends: FileClass~Thing/FileClass~Action/FileClass~AchieveAction
 fields:
-  - id: kGqfka
+  - id: wKv3Ox
     name: Winner
     options:
       dvQueryString: dv.pages('#class/Thing/Person')

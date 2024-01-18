@@ -16,28 +16,28 @@ tags:
   - class/Thing/Intangible/StructuredValue/TypeAndQuantityNode
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: FRQEzU
+  - id: Te83A4
     name: AmountOfThisGood
     options: {}
     type: Number
     path: ""
-  - id: C7n1Q0
+  - id: trn5vN
     name: BusinessFunction
     options: {}
     type: Input
     path: ""
-  - id: YNqvzh
+  - id: XCkISd
     name: TypeOfGood
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: 3MOYi6
+  - id: 7OFvim
     name: UnitCode
     options: {}
     type: Input
     path: ""
-  - id: Sb2uY7
+  - id: rpcfaC
     name: UnitText
     options: {}
     type: Input

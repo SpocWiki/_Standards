@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/MoveAction/TravelAction
 extends: FileClass~Thing/FileClass~Action/FileClass~MoveAction
 fields:
-  - id: vZrxG8
+  - id: qLU7W3
     name: Distance
     options: {}
     type: Input

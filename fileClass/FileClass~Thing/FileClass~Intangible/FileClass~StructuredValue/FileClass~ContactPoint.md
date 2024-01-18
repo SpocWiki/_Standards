@@ -16,46 +16,46 @@ tags:
   - class/Thing/Intangible/StructuredValue/ContactPoint
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: y6Pn36
+  - id: psjAsA
     name: AreaServed
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')
     type: MultiFile
     path: ""
-  - id: hSjQ5J
+  - id: sc0wdu
     name: AvailableLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: d6k3on
+  - id: NojFhK
     name: ContactType
     options: {}
     type: Input
     path: ""
-  - id: NazSDM
+  - id: KFW1pE
     name: Email
     options: {}
     type: Input
     path: ""
-  - id: WZGfGz
+  - id: Et2JIK
     name: FaxNumber
     options: {}
     type: Input
     path: ""
-  - id: lUNIf5
+  - id: KKaUTM
     name: HoursAvailable
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/OpeningHoursSpecification')
     type: MultiFile
     path: ""
-  - id: oHqFT5
+  - id: DrgOW3
     name: ProductSupported
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: Zomav0
+  - id: 9eCEo5
     name: Telephone
     options: {}
     type: Input
@@ -65,7 +65,7 @@ fields:
 # ContactPoint
 This is a kind of [[FileClass~StructuredValue]]
 
-A contact point—for example, a Customer Complaints department.
+A contact point&#x2014;for example, a Customer Complaints department.
 
 
 ## Use one of these Tags for Objects of this Type:

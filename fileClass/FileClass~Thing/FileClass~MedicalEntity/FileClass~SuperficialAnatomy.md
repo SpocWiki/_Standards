@@ -16,30 +16,30 @@ tags:
   - class/Thing/MedicalEntity/SuperficialAnatomy
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: ZKuKkT
+  - id: dsAsIm
     name: AssociatedPathophysiology
     options: {}
     type: Input
     path: ""
-  - id: 2jro8g
+  - id: eqsAMO
     name: RelatedAnatomy
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: 65JYEt
+  - id: 0LYyWD
     name: RelatedCondition
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
     type: MultiFile
     path: ""
-  - id: o72AIt
+  - id: CrnZWH
     name: RelatedTherapy
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')
     type: MultiFile
     path: ""
-  - id: 1Ye3RC
+  - id: gO9zd3
     name: Significance
     options: {}
     type: Input

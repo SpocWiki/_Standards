@@ -16,12 +16,12 @@ tags:
   - class/Thing/MedicalEntity/Substance
 extends: FileClass~Thing/FileClass~MedicalEntity
 fields:
-  - id: qDmG6A
+  - id: Gidz9b
     name: ActiveIngredient
     options: {}
     type: Input
     path: ""
-  - id: 0XVrzW
+  - id: v9ceWj
     name: MaximumIntake
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')

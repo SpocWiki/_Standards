@@ -16,68 +16,68 @@ tags:
   - class/Thing/Intangible/FloorPlan
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: x5Na7R
+  - id: QeSMPA
     name: AmenityFeature
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')
     type: MultiFile
     path: ""
-  - id: hB1L0J
+  - id: R0uR5Z
     name: FloorSize
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: 9AM3NY
+  - id: KFQ2rj
     name: IsPlanForApartment
     options:
       dvQueryString: dv.pages('#class/Thing/Place/Accommodation')
     type: MultiFile
     path: ""
-  - id: eIDv2e
+  - id: INpLk4
     name: LayoutImage
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
     type: MultiFile
     path: ""
-  - id: nWyAzh
+  - id: EJSZdo
     name: NumberOfAccommodationUnits
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: opVDPu
+  - id: ZF21xu
     name: NumberOfAvailableAccommodationUnits
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: ZjQIpu
+  - id: Can3Cf
     name: NumberOfBathroomsTotal
     options: {}
     type: Number
     path: ""
-  - id: XtsAHQ
+  - id: aa87iA
     name: NumberOfBedrooms
     options: {}
     type: Number
     path: ""
-  - id: oQcbNI
+  - id: VSYhE9
     name: NumberOfFullBathrooms
     options: {}
     type: Number
     path: ""
-  - id: pG7aOz
+  - id: vOzXoC
     name: NumberOfPartialBathrooms
     options: {}
     type: Number
     path: ""
-  - id: 04YFzh
+  - id: GNPgnB
     name: NumberOfRooms
     options: {}
     type: Number
     path: ""
-  - id: rEabw9
+  - id: 1CW623
     name: PetsAllowed
     options: {}
     type: Boolean

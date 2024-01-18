@@ -16,7 +16,7 @@ tags:
   - class/Thing/MedicalEntity/MedicalTest/MedicalTestPanel
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest
 fields:
-  - id: NmXqXf
+  - id: zMZzLZ
     name: SubTest
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalTest')

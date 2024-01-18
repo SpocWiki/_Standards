@@ -16,24 +16,24 @@ tags:
   - class/Thing/Event/PublicationEvent/BroadcastEvent
 extends: FileClass~Thing/FileClass~Event/FileClass~PublicationEvent
 fields:
-  - id: N8pREm
+  - id: rpykPC
     name: BroadcastOfEvent
     options:
       dvQueryString: dv.pages('#class/Thing/Event')
     type: MultiFile
     path: ""
-  - id: JN3BCM
+  - id: KACSrk
     name: IsLiveBroadcast
     options: {}
     type: Boolean
     path: ""
-  - id: ZhY5kp
+  - id: D1zmh6
     name: SubtitleLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: pxSAkD
+  - id: h1kzFc
     name: VideoFormat
     options: {}
     type: Input

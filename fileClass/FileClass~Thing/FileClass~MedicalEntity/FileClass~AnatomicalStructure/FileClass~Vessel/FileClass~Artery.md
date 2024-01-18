@@ -16,13 +16,13 @@ tags:
   - class/Thing/MedicalEntity/AnatomicalStructure/Vessel/Artery
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Vessel
 fields:
-  - id: H898Ui
+  - id: 3eDqNP
     name: ArterialBranch
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: BrIVXc
+  - id: vjooh2
     name: SupplyTo
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')

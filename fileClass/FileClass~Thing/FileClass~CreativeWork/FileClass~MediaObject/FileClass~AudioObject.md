@@ -16,18 +16,18 @@ tags:
   - class/Thing/CreativeWork/MediaObject/AudioObject
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject
 fields:
-  - id: CBVY6P
+  - id: EA08nC
     name: Caption
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')
     type: MultiFile
     path: ""
-  - id: OO8ejK
+  - id: zlpued
     name: EmbeddedTextCaption
     options: {}
     type: Input
     path: ""
-  - id: W0luOr
+  - id: NTEVfa
     name: Transcript
     options: {}
     type: Input

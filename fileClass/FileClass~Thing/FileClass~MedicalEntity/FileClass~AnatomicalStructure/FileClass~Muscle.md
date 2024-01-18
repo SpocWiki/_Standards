@@ -16,30 +16,30 @@ tags:
   - class/Thing/MedicalEntity/AnatomicalStructure/Muscle
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure
 fields:
-  - id: 10t4S4
+  - id: tdGEOj
     name: Antagonist
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Muscle')
     type: MultiFile
     path: ""
-  - id: nyNRvA
+  - id: YUhEB9
     name: BloodSupply
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Vessel')
     type: MultiFile
     path: ""
-  - id: OpkQul
+  - id: omd4BA
     name: Insertion
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
-  - id: RUIawt
+  - id: lOUV8d
     name: MuscleAction
     options: {}
     type: Input
     path: ""
-  - id: sUiiqi
+  - id: Z6A1LB
     name: Nerve
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/Nerve')

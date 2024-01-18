@@ -15,12 +15,12 @@ tags:
   - class/Thing/Place/CivicStructure/Airport
 extends: FileClass~Thing/FileClass~Place/FileClass~CivicStructure
 fields:
-  - id: 31E6Ye
+  - id: sX1XOX
     name: IataCode
     options: {}
     type: Input
     path: ""
-  - id: dgatV5
+  - id: Rq30J5
     name: IcaoCode
     options: {}
     type: Input

@@ -16,14 +16,14 @@ tags:
   - class/Thing/CreativeWork/WebPage/RealEstateListing
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage
 fields:
-  - id: z2RzEh
+  - id: A5vfPB
     name: DatePosted
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: MM3Lqg
+  - id: ww0wyU
     name: LeaseLength
     options:
       min: "0"

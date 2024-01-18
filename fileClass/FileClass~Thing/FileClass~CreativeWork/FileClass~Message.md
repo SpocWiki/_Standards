@@ -16,58 +16,58 @@ tags:
   - class/Thing/CreativeWork/Message
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: 3gXzQj
+  - id: w3T4na
     name: BccRecipient
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
     type: MultiFile
     path: ""
-  - id: u9x8pP
+  - id: mbkI0d
     name: CcRecipient
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint')
     type: MultiFile
     path: ""
-  - id: waN4Vk
+  - id: 0YZzXO
     name: DateRead
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: fmmNGz
+  - id: j7mLCG
     name: DateReceived
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 5AdchF
+  - id: 8QCqfK
     name: DateSent
     options:
       dateFormat: YYYY-MM-DD
       defaultInsertAsLink: "false"
     type: Date
     path: ""
-  - id: 3KR6LK
+  - id: oIGYv3
     name: MessageAttachment
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork')
     type: MultiFile
     path: ""
-  - id: GRxozp
+  - id: 8hmkyG
     name: Recipient
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
     type: MultiFile
     path: ""
-  - id: pznYy0
+  - id: yhIAHD
     name: Sender
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
     type: MultiFile
     path: ""
-  - id: Vl7q2j
+  - id: VOgwyH
     name: ToRecipient
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')

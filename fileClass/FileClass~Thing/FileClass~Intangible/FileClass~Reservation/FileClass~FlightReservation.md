@@ -16,22 +16,22 @@ tags:
   - class/Thing/Intangible/Reservation/FlightReservation
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Reservation
 fields:
-  - id: Q5AnY2
+  - id: T9fhvM
     name: BoardingGroup
     options: {}
     type: Input
     path: ""
-  - id: 6vUSJa
+  - id: oSTdJj
     name: PassengerPriorityStatus
     options: {}
     type: Input
     path: ""
-  - id: oJhXof
+  - id: krq68n
     name: PassengerSequenceNumber
     options: {}
     type: Input
     path: ""
-  - id: OIZUCn
+  - id: bOnF3f
     name: SecurityScreening
     options: {}
     type: Input

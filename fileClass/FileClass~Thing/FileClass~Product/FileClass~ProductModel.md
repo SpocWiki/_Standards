@@ -16,13 +16,13 @@ tags:
   - class/Thing/Product/ProductModel
 extends: FileClass~Thing/FileClass~Product
 fields:
-  - id: q3G6KZ
+  - id: 4GmCY2
     name: PredecessorOf
     options:
       dvQueryString: dv.pages('#class/Thing/Product/ProductModel')
     type: MultiFile
     path: ""
-  - id: wZJyDx
+  - id: pZLowK
     name: SuccessorOf
     options:
       dvQueryString: dv.pages('#class/Thing/Product/ProductModel')

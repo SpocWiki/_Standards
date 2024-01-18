@@ -16,13 +16,13 @@ tags:
   - class/Thing/MedicalEntity/MedicalIntangible/DDxElement
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 fields:
-  - id: lU2vlF
+  - id: Lyrzwy
     name: Diagnosis
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition')
     type: MultiFile
     path: ""
-  - id: jhXoEG
+  - id: lyCV6Y
     name: DistinguishingSign
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')

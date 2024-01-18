@@ -16,12 +16,12 @@ tags:
   - class/Thing/Intangible/SpeakableSpecification
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: Ytb6mH
+  - id: I9YRK5
     name: CssSelector
     options: {}
     type: Input
     path: ""
-  - id: wGf9DD
+  - id: kylcQQ
     name: Xpath
     options: {}
     type: Input

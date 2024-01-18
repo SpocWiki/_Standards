@@ -16,23 +16,23 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness/FoodEstablishment
 extends: FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusiness
 fields:
-  - id: kjlcaG
+  - id: sG5Q3B
     name: AcceptsReservations
     options: {}
     type: Boolean
     path: ""
-  - id: ID8GHB
+  - id: 6vIoA0
     name: HasMenu
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Menu')
     type: MultiFile
     path: ""
-  - id: nsUdCc
+  - id: MDjo6d
     name: ServesCuisine
     options: {}
     type: Input
     path: ""
-  - id: R1r6QY
+  - id: tuaeSu
     name: StarRating
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Rating')

@@ -16,13 +16,13 @@ tags:
   - class/Thing/CreativeWork/MenuSection
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: Sdauma
+  - id: iqSDp8
     name: HasMenuItem
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/MenuItem')
     type: MultiFile
     path: ""
-  - id: 8P5wxW
+  - id: qSPKkH
     name: HasMenuSection
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MenuSection')

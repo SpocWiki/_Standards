@@ -16,36 +16,36 @@ tags:
   - class/Thing/Intangible/DefinedTerm/DefinedTermAndMedicalEntity
 extends: FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm
 fields:
-  - id: UDWyoD
+  - id: YIMqb9
     name: Code
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode/CategoryCodeAndMedicalIntangible/MedicalCode')
     type: MultiFile
     path: ""
-  - id: N1ohdc
+  - id: lFEJBQ
     name: Funding
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
     type: MultiFile
     path: ""
-  - id: NP03BJ
+  - id: Q6lMXu
     name: Guideline
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalGuideline')
     type: MultiFile
     path: ""
-  - id: CgUCMm
+  - id: 1C471c
     name: LegalStatus
     options: {}
     type: Input
     path: ""
-  - id: NKoyQn
+  - id: hGnjfm
     name: RecognizingAuthority
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: xoiroY
+  - id: o1z52R
     name: Study
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalStudy')

@@ -16,22 +16,22 @@ tags:
   - class/Thing/Organization/OrganizationAndPlace/LocalBusiness
 extends: FileClass~Thing/FileClass~Place/FileClass~OrganizationAndPlace
 fields:
-  - id: H0hcJU
+  - id: lkuVZz
     name: CurrenciesAccepted
     options: {}
     type: Input
     path: ""
-  - id: PYFiPB
+  - id: 8iNTAB
     name: OpeningHours
     options: {}
     type: Input
     path: ""
-  - id: BPWbSk
+  - id: 6PwDho
     name: PaymentAccepted
     options: {}
     type: Input
     path: ""
-  - id: xxjoHO
+  - id: EjIcRd
     name: PriceRange
     options: {}
     type: Input

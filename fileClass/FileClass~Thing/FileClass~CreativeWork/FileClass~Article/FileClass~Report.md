@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/Article/Report
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~Article
 fields:
-  - id: FbCZfc
+  - id: 8WSVTI
     name: ReportNumber
     options: {}
     type: Input

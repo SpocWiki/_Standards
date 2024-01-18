@@ -16,12 +16,12 @@ tags:
   - class/Thing/Action/InteractAction/CommunicateAction/InformAction/RsvpAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction
 fields:
-  - id: Vzrfda
+  - id: XslMuX
     name: AdditionalNumberOfGuests
     options: {}
     type: Number
     path: ""
-  - id: 3GeP0g
+  - id: 8cIMMB
     name: Comment
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment')

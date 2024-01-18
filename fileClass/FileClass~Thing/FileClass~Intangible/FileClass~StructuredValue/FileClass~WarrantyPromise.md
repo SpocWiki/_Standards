@@ -16,13 +16,13 @@ tags:
   - class/Thing/Intangible/StructuredValue/WarrantyPromise
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: u9gwOq
+  - id: AWlW8G
     name: DurationOfWarranty
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: FSyhJi
+  - id: vjan04
     name: WarrantyScope
     options: {}
     type: Input

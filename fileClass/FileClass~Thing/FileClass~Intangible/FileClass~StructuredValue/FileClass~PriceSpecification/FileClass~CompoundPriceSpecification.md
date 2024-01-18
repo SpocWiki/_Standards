@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/StructuredValue/PriceSpecification/CompoundPriceSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 fields:
-  - id: tXVTGo
+  - id: bpfu1r
     name: PriceComponent
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification/UnitPriceSpecification')

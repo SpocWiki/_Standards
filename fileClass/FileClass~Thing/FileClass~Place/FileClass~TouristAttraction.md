@@ -16,13 +16,13 @@ tags:
   - class/Thing/Place/TouristAttraction
 extends: FileClass~Thing/FileClass~Place
 fields:
-  - id: 6f2nlR
+  - id: 9W0D8Q
     name: AvailableLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: KBINlK
+  - id: qzhCZw
     name: TouristType
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')

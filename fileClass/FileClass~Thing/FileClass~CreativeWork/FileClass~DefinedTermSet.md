@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/DefinedTermSet
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: XPpQcz
+  - id: 5mk1ep
     name: HasDefinedTerm
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')

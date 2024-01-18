@@ -16,18 +16,18 @@ tags:
   - class/Thing/Event/ScreeningEvent
 extends: FileClass~Thing/FileClass~Event
 fields:
-  - id: x05GQQ
+  - id: bNmW5O
     name: SubtitleLanguage
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Language')
     type: MultiFile
     path: ""
-  - id: F9yygS
+  - id: Q5n3NZ
     name: VideoFormat
     options: {}
     type: Input
     path: ""
-  - id: x2PGsH
+  - id: c56xUa
     name: WorkPresented
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Movie')

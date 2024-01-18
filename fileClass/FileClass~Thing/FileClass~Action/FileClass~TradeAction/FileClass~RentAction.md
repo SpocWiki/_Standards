@@ -16,13 +16,13 @@ tags:
   - class/Thing/Action/TradeAction/RentAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TradeAction
 fields:
-  - id: n6lzEd
+  - id: kh9dRV
     name: Landlord
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
-  - id: X1uHV5
+  - id: tphgNR
     name: RealEstateAgent
     options:
       dvQueryString: dv.pages('#class/Thing/Organization/OrganizationAndPlace/LocalBusiness/RealEstateAgent')

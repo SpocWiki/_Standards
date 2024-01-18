@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/StructuredValue/PriceSpecification/PaymentChargeSpecification
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification
 fields:
-  - id: 6jdmZ9
+  - id: Y6fYfk
     name: AppliesToPaymentMethod
     options: {}
     type: Input

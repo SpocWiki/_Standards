@@ -16,7 +16,7 @@ tags:
   - class/Thing/Intangible/Trip/TouristTrip
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Trip
 fields:
-  - id: r8zTIZ
+  - id: im8Kuw
     name: TouristType
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/Audience')

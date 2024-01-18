@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/InteractAction/CommunicateAction/AskAction
 extends: FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction
 fields:
-  - id: 6Sezfz
+  - id: hgJyr4
     name: Question
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Comment/Question')

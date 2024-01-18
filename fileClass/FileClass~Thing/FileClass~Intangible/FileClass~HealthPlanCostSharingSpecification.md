@@ -16,28 +16,28 @@ tags:
   - class/Thing/Intangible/HealthPlanCostSharingSpecification
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: YwRJvO
+  - id: fCDdqz
     name: HealthPlanCoinsuranceOption
     options: {}
     type: Input
     path: ""
-  - id: l45VFN
+  - id: GSd1Oh
     name: HealthPlanCoinsuranceRate
     options: {}
     type: Number
     path: ""
-  - id: chLiNc
+  - id: 2u8IUI
     name: HealthPlanCopay
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PriceSpecification')
     type: MultiFile
     path: ""
-  - id: WFUJHX
+  - id: erQEEq
     name: HealthPlanCopayOption
     options: {}
     type: Input
     path: ""
-  - id: fBBMni
+  - id: oAitRT
     name: HealthPlanPharmacyCategory
     options: {}
     type: Input

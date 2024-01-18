@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/SolveMathAction
 extends: FileClass~Thing/FileClass~Action
 fields:
-  - id: mbYQkD
+  - id: ToVd07
     name: EduQuestionType
     options: {}
     type: Input

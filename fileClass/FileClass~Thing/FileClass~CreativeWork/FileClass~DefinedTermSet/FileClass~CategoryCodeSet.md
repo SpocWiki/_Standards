@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~DefinedTermSet
 fields:
-  - id: LpBQea
+  - id: SJODR9
     name: HasCategoryCode
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm/CategoryCode')

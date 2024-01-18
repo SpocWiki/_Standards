@@ -16,69 +16,69 @@ tags:
   - class/Thing/CreativeWork/VisualArtwork
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: Mx7yRA
+  - id: ze5Jq8
     name: ArtEdition
     options: {}
     type: Number
     path: ""
-  - id: 75kWR4
+  - id: 7zAipw
     name: ArtMedium
     options: {}
     type: Input
     path: ""
-  - id: SNtEh7
+  - id: N8IS9T
     name: Artform
     options: {}
     type: Input
     path: ""
-  - id: VAbtiT
+  - id: 0VDGCO
     name: Artist
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: lB2Wqv
+  - id: 3SFSmd
     name: ArtworkSurface
     options: {}
     type: Input
     path: ""
-  - id: EJFD5P
+  - id: oIqb2z
     name: Colorist
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: ZEK0jb
+  - id: yOI1jI
     name: Depth
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: ej8Mjo
+  - id: 1DypoP
     name: Height
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: bhVdUe
+  - id: L7eJxv
     name: Inker
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: D2JUVc
+  - id: cto4Eg
     name: Letterer
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: RLWgfW
+  - id: a7UO3H
     name: Penciler
     options:
       dvQueryString: dv.pages('#class/Thing/Person')
     type: MultiFile
     path: ""
-  - id: k9M4yP
+  - id: fU3vVl
     name: Width
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

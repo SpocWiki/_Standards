@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/MediaReviewItem
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: pdfytx
+  - id: H1UHYz
     name: MediaItemAppearance
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject')

@@ -16,12 +16,12 @@ tags:
   - class/Thing/Intangible/Audience
 extends: FileClass~Thing/FileClass~Intangible
 fields:
-  - id: yTjhuA
+  - id: VXRpDd
     name: AudienceType
     options: {}
     type: Input
     path: ""
-  - id: pFk8pD
+  - id: 1G63tB
     name: GeographicArea
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')

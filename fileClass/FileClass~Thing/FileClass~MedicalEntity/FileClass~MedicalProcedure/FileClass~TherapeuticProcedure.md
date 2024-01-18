@@ -16,19 +16,19 @@ tags:
   - class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure
 fields:
-  - id: PQSby6
+  - id: v8RDAf
     name: AdverseOutcome
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity')
     type: MultiFile
     path: ""
-  - id: Er2Ibq
+  - id: j9Jgcd
     name: DoseSchedule
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule')
     type: MultiFile
     path: ""
-  - id: ZkcRa1
+  - id: lYyhpK
     name: Drug
     options:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')

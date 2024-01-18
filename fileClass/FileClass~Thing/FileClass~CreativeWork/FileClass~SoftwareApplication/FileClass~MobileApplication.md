@@ -16,7 +16,7 @@ tags:
   - class/Thing/CreativeWork/SoftwareApplication/MobileApplication
 extends: FileClass~Thing/FileClass~CreativeWork/FileClass~SoftwareApplication
 fields:
-  - id: OBAFgm
+  - id: eVnCLt
     name: CarrierRequirements
     options: {}
     type: Input

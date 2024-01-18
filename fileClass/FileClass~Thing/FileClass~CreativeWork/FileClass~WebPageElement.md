@@ -16,12 +16,12 @@ tags:
   - class/Thing/CreativeWork/WebPageElement
 extends: FileClass~Thing/FileClass~CreativeWork
 fields:
-  - id: R6zhyw
+  - id: 5vzeSD
     name: CssSelector
     options: {}
     type: Input
     path: ""
-  - id: FKlrfD
+  - id: Lqti0y
     name: Xpath
     options: {}
     type: Input

@@ -16,7 +16,7 @@ tags:
   - class/Thing/Action/TransferAction/LendAction
 extends: FileClass~Thing/FileClass~Action/FileClass~TransferAction
 fields:
-  - id: gexy2x
+  - id: xDWple
     name: Borrower
     options:
       dvQueryString: dv.pages('#class/Thing/Person')

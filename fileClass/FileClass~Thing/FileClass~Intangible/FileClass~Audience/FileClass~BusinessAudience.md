@@ -16,19 +16,19 @@ tags:
   - class/Thing/Intangible/Audience/BusinessAudience
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Audience
 fields:
-  - id: qhWO2W
+  - id: fQnHxR
     name: NumberOfEmployees
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: TEDB7c
+  - id: wHgcpn
     name: YearlyRevenue
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: 7JWPg7
+  - id: DdHBfU
     name: YearsInOperation
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

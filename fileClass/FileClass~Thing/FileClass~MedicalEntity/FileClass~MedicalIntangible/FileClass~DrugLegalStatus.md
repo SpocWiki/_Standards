@@ -16,7 +16,7 @@ tags:
   - class/Thing/MedicalEntity/MedicalIntangible/DrugLegalStatus
 extends: FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible
 fields:
-  - id: RXVA4v
+  - id: lOla7L
     name: ApplicableLocation
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea')

@@ -16,12 +16,12 @@ excludes:
 extends: FileClass~Thing/FileClass~Product/FileClass~Vehicle
 version: "2.0"
 fields:
-  - id: iEKjUK
+  - id: WR0qpx
     name: AcrissCode
     options: {}
     type: Input
     path: ""
-  - id: 3zL0er
+  - id: xArk0N
     name: RoofLoad
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')

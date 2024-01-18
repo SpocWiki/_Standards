@@ -16,37 +16,37 @@ tags:
   - class/Thing/Intangible/StructuredValue/PropertyValue
 extends: FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue
 fields:
-  - id: Ds37bM
+  - id: vG28Mz
     name: MaxValue
     options: {}
     type: Number
     path: ""
-  - id: DHMF6G
+  - id: 729yop
     name: MinValue
     options: {}
     type: Number
     path: ""
-  - id: koI6he
+  - id: rl7f8K
     name: PropertyID
     options: {}
     type: Input
     path: ""
-  - id: zmHcoY
+  - id: m4pWWB
     name: UnitCode
     options: {}
     type: Input
     path: ""
-  - id: bo6tcB
+  - id: HzGfku
     name: UnitText
     options: {}
     type: Input
     path: ""
-  - id: rUKk5z
+  - id: U2KuOG
     name: Value
     options: {}
     type: Boolean
     path: ""
-  - id: ckVkAq
+  - id: pqZba5
     name: ValueReference
     options: {}
     type: Input

@@ -16,7 +16,7 @@ tags:
   - class/Thing/Place/Residence
 extends: FileClass~Thing/FileClass~Place
 fields:
-  - id: B6Buu4
+  - id: db1Fcb
     name: AccommodationFloorPlan
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/FloorPlan')

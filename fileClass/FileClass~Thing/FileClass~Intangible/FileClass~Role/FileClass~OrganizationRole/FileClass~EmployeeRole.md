@@ -16,12 +16,12 @@ tags:
   - class/Thing/Intangible/Role/OrganizationRole/EmployeeRole
 extends: FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole
 fields:
-  - id: 76eY2K
+  - id: jPWbP3
     name: BaseSalary
     options: {}
     type: Number
     path: ""
-  - id: pKevAy
+  - id: 3YpenZ
     name: SalaryCurrency
     options: {}
     type: Input
