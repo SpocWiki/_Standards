@@ -1,6 +1,6 @@
 # [[Eon~3~Proterozoic]] 
 
-#is_a_/time_/Eon
+#is_a_/time_/Eon 
 
 A time period from 2500 to 538.8 million years ago.
 
