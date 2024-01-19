@@ -31,10 +31,10 @@
 
 #has_/abbreviation :: ep6
 
-#has_/time_/created/Ma :: -504.5 ;
-#has_/time_/destroyed/Ma :: -500.5 ;
+#has_/time_/created/Ma :: -504.5 
+#has_/time_/destroyed/Ma :: -500.5 
 
-    sh:order 147 ;
+    sh:order 147 
 
 #has_/text_of_/color :: #BFD99D
 

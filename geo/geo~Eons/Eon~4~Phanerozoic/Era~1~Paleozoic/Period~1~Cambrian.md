@@ -3,7 +3,7 @@
 
 #is_a_/time_/Period 
 
-A time period from> The **Cambrian** Period (  KAM-bree-ən, KAYM-; sometimes symbolized Ꞓ) is the first geological period of the Paleozoic Era, and of the Phanerozoic Eon. The Cambrian lasted 53.4 million years from the end of the preceding [[../../Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran|Period~3~Ediacaran]] 538.8 million years ago (mya) to the beginning of the [[Period~2~Ordovician]] 485.4 mya. Its subdivisions, and its base, are somewhat in flux. 
+> The **Cambrian** Period (  KAM-bree-ən, KAYM-; sometimes symbolized Ꞓ) is the first geological period of the Paleozoic Era, and of the Phanerozoic Eon. The Cambrian lasted 53.4 million years from the end of the preceding [[../../Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran|Period~3~Ediacaran]] 538.8 million years ago (mya) to the beginning of the [[Period~2~Ordovician]] 485.4 mya. Its subdivisions, and its base, are somewhat in flux. 
 >
 > The period was established as "Cambrian series" by Adam Sedgwick, who named it after Cambria, the Latin name for 'Cymru' (Wales), where Britain's Cambrian rocks are best exposed. 
 > Sedgwick identified the layer as part of his task, along with Roderick Murchison, to subdivide the large "Transition Series", although the two geologists disagreed for a while on the appropriate categorization. The Cambrian is unique in its unusually high proportion of lagerstätte sedimentary deposits, sites of exceptional preservation where "soft" parts of organisms are preserved as well as their more resistant shells. As a result, scientific understanding of the Cambrian biology surpasses that of some later periods.The Cambrian marked a profound change in life on Earth: prior to the Cambrian, the majority of living organisms on the whole were small, unicellular and simple (Ediacaran fauna and earlier Tonian Huainan biota being notable exceptions). Complex, multicellular organisms gradually became more common in the millions of years immediately preceding the Cambrian, but it was not until this period that mineralized – hence readily fossilized – organisms became common.The rapid diversification of lifeforms in the Cambrian, known as the Cambrian explosion, produced the first representatives of most modern animal phyla. Phylogenetic analysis has supported the view that before the Cambrian radiation, in the Cryogenian or Tonian, animals (metazoans) evolved monophyletically from a single common ancestor: flagellated colonial protists similar to modern choanoflagellates.
@@ -38,7 +38,7 @@ A time period from> The **Cambrian** Period (  KAM-bree-ən, KAYM-; sometimes sy
 #has_/time_/created/Ma :: -538.8 
 #has_/time_/destroyed/Ma :: -485.4 
 
-    sh:order 154 ;
+    sh:order 154 
 
 #has_/text_of_/color :: #7FA056
 

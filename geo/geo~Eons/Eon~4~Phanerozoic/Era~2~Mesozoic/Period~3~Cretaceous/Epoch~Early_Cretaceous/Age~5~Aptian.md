@@ -32,10 +32,10 @@ A time period from 121.4 to 113.0 million years ago.
 #has_/label_/zh  :: 阿普弟期
 
 #has_/abbreviation :: b5
-#has_/time_/created/Ma :: -121.4 ;
-#has_/time_/destroyed/Ma :: -113.0 ;
+#has_/time_/created/Ma :: -121.4 
+#has_/time_/destroyed/Ma :: -113.0 
 
-    sh:order 44 ;
+    sh:order 44 
 
 #has_/text_of_/color :: #BFE48A
 

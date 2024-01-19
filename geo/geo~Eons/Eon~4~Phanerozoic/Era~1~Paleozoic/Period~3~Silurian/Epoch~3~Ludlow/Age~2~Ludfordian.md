@@ -31,7 +31,7 @@ ischart:Ludfordian
 #has_/time_/created/Ma :: -425.6 
 #has_/time_/destroyed/Ma :: -423.0 
 
-    sh:order 120 ;
+    sh:order 120 
 
 #has_/text_of_/color :: #D9F0DF
 

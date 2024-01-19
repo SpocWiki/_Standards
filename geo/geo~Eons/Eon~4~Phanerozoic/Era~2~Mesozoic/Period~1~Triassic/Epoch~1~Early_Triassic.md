@@ -43,7 +43,7 @@ A time period from 251.902 to 247.2 million years ago.
 #has_/time_/created/Ma :: -251.902 
 #has_/time_/destroyed/Ma :: -247.2
 
-    sh:order 75 ;
+    sh:order 75 
 
 #has_/text_of_/color :: #983999
 

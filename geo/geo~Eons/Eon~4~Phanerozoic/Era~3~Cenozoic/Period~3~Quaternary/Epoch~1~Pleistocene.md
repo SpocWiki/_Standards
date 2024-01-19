@@ -34,17 +34,12 @@ A time period from 2.58 to 0.0117 million years ago.
 #has_/label_/sv  :: pleistocen
 #has_/label_/zh  :: 更新世
 
-    skos:narrower
-        ischart:Calabrian ,
-        ischart:Chibanian ,
-        ischart:Gelasian ,
-        ischart:UpperPleistocene ;
 #has_/abbreviation :: Q1
 
 #has_/time_/created/Ma :: -2.58
 #has_/time_/destroyed/Ma :: -0.0117
 
-    sh:order 9 ;
+    sh:order 9 
 
 #has_/text_of_/color :: #FFEFAF
 

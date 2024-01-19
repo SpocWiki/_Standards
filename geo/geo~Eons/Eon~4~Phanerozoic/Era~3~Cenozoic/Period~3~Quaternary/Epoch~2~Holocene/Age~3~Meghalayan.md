@@ -16,7 +16,7 @@ A time period from 4_200 thousand years ago to the present.
 #has_/time_/created/Ma :: -0.0042
 #has_/time_/destroyed/Ma :: -0
 
-    sh:order 1 ;
+    sh:order 1 
 
 #has_/text_of_/color :: #FDEDEC
 

@@ -38,7 +38,6 @@ A time period from 4031 to 2500 million years ago.
 #has_/label_/sl  :: arhaik
 #has_/label_/sv  :: arkeikum
 #has_/label_/zh  :: 太古宙
-    skos:broader ischart:Precambrian ;
 
 #has_/abbreviation :: AR
 

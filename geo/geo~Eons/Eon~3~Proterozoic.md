@@ -30,11 +30,11 @@ A time period from 2500 to 538.8 million years ago.
 #has_/label_/sl  :: proterozoik
 #has_/label_/sv  :: proterozoikum
 #has_/label_/zh  :: 元古宙
-    skos:broader ischart:Precambrian ;
+
 #has_/time_/created/Ma :: -2500
 #has_/time_/destroyed/Ma :: -538.8 
 
-    sh:order 170 ;
+    sh:order 170 
 
 #has_/text_of_/color :: #F73563
 

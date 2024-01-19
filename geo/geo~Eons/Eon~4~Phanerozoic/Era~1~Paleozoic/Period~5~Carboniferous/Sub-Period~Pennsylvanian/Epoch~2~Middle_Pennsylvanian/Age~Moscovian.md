@@ -30,17 +30,12 @@ A time period from 315.2 to 307.0 million years ago.
 #has_/label_/zh  :: 莫斯科期
 
 #has_/abbreviation :: c5
-    skos:prefLabel "Moscovian"@en ;
-#has_/time_/created/Ma :: -315.2 
 
- 0.2
-        ] ;
+#has_/time_/created/Ma :: -315.2 
 #has_/time_/destroyed/Ma :: -307.0 
 
- 0.1
-        ] ;
+    sh:order 96 
 
-    sh:order 96 ;
 #has_/text_of_/color :: #B3CBB9
 
 ## All Contents

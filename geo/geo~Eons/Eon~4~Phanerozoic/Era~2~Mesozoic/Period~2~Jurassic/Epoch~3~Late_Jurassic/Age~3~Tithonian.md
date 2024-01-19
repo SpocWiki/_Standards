@@ -32,9 +32,9 @@ A time period from 149.2 to 145 million years ago.
 #has_/abbreviation :: j7
 
 #has_/time_/created/Ma :: -149.2 
-#has_/time_/destroyed/Ma :: -145 ;
+#has_/time_/destroyed/Ma :: -145 
 
-    sh:order 51 ;
+    sh:order 51 
 
 #has_/text_of_/color :: #D9F1F7
 

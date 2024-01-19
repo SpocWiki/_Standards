@@ -40,10 +40,11 @@ A time period from 251.902 to 201.4 million years ago.
 #has_/label_/zh  :: 三叠纪
 
 #has_/abbreviation :: T
+
 #has_/time_/created/Ma :: -251.902 
 #has_/time_/destroyed/Ma :: -201.4 
 
-    sh:order 78 ;
+    sh:order 78 
 
 #has_/text_of_/color :: #812B92
 

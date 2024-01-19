@@ -30,7 +30,7 @@ ischart:Gorstian
 #has_/time_/created/Ma :: -427.4 
 #has_/time_/destroyed/Ma :: -425.6 
 
-    sh:order 121 ;
+    sh:order 121 
 
 #has_/text_of_/color :: #CCECDD
 

@@ -36,7 +36,7 @@ A time period from 1600 to 1000 million years ago.
 #has_/time_/created/Ma :: -1600
 #has_/time_/destroyed/Ma :: -1000
 
-    sh:order 165 ;
+    sh:order 165 
 
 #has_/text_of_/color :: #FDB462
 

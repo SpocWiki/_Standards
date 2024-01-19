@@ -28,10 +28,10 @@ A time period from 489.5 to 485.4 million years ago.
 
 #has_/abbreviation :: ep10
 
-#has_/time_/created/Ma :: -489.5 ;
+#has_/time_/created/Ma :: -489.5 
 #has_/time_/destroyed/Ma :: -485.4 
 
-    sh:order 142 ;
+    sh:order 142 
 
 #has_/text_of_/color :: #E6F5C9
 

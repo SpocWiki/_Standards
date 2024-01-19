@@ -32,9 +32,9 @@ A time period from 247.2 to 242 million years ago.
 #has_/abbreviation :: t3
 
 #has_/time_/created/Ma :: -247.2
-#has_/time_/destroyed/Ma :: -242 ;
+#has_/time_/destroyed/Ma :: -242 
 
-    sh:order 71 ;
+    sh:order 71 
 
 #has_/text_of_/color :: #BC75B7
 

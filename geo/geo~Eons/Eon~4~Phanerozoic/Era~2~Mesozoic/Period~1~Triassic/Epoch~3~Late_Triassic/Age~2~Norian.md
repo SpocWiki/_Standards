@@ -31,10 +31,10 @@ A time period from 227 to 208.5 million years ago.
 
 #has_/abbreviation :: t6
 
-#has_/time_/created/Ma :: -227 ;
-#has_/time_/destroyed/Ma :: -208.5 ;
+#has_/time_/created/Ma :: -227 
+#has_/time_/destroyed/Ma :: -208.5 
 
-    sh:order 67 ;
+    sh:order 67 
 
 #has_/text_of_/color :: #D6AAD3
 

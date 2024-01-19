@@ -30,15 +30,13 @@ A time period from 251.902 to 66.0 million years ago.
 #has_/label_/sv  :: mesozoikum
 #has_/label_/zh  :: 中生代
 
-    skos:narrower
-        ischart:Cretaceous ,
-        ischart:Jurassic ,
-        ischart:Triassic ;
 #has_/abbreviation :: MZ
+
 #has_/time_/created/Ma :: -251.902 
 #has_/time_/destroyed/Ma :: -66.0
 
-    sh:order 76 ;
+    sh:order 76 
+
 #has_/text_of_/color :: #67C5CA
 
 ## All Contents

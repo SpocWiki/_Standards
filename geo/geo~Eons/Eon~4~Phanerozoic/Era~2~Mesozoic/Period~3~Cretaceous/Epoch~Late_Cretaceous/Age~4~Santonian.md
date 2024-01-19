@@ -34,7 +34,7 @@ A time period from 86.3 to 83.6 million years ago.
 #has_/time_/created/Ma :: -86.3 
 #has_/time_/destroyed/Ma :: -83.6 
 
-    sh:order 38 ;
+    sh:order 38 
 
 #has_/text_of_/color :: #D9EF74
 

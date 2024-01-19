@@ -13,7 +13,7 @@ A time period from 11_700 to 8_200 thousand years ago.
 #has_/time_/created/Ma :: -0.0117
 #has_/time_/destroyed/Ma :: -0.0082
 
-    sh:order 3 ;
+    sh:order 3 
 
 #has_/text_of_/color :: #FEECDB
 

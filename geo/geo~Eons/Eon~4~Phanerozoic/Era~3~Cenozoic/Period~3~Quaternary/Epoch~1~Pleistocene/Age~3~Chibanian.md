@@ -21,7 +21,7 @@ A time period from 0.774 to 0.129 million years ago.
 #has_/time_/created/Ma :: -0.774
 #has_/time_/destroyed/Ma :: -0.129
 
-    sh:order 6 ;
+    sh:order 6 
 
 #has_/text_of_/color :: #FFF2C7
 

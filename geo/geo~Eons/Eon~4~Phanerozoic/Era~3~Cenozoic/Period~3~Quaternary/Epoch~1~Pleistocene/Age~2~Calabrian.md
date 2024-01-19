@@ -36,7 +36,7 @@ A time period from 1.8 to 0.774 million years ago.
 #has_/time_/created/Ma :: -1.8
 #has_/time_/destroyed/Ma :: -0.774
 
-    sh:order 7 ;
+    sh:order 7 
 
 #has_/text_of_/color :: #FFF2BA
 

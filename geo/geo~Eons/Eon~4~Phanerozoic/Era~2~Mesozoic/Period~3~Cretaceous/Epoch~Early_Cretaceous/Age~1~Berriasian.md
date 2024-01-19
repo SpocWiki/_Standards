@@ -31,10 +31,10 @@ A time period from 145.0 to 139.8 million years ago.
 
 #has_/abbreviation :: b1
 
-#has_/time_/created/Ma :: -145.0 ;
-#has_/time_/destroyed/Ma :: -139.8 ;
+#has_/time_/created/Ma :: -145.0 
+#has_/time_/destroyed/Ma :: -139.8 
 
-    sh:order 48 ;
+    sh:order 48 
 
 #has_/text_of_/color :: #8CCD60
 

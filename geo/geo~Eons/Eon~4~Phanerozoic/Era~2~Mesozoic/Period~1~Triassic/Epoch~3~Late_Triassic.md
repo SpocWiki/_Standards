@@ -34,10 +34,10 @@ A time period from 237 to 201.4 million years ago.
 
 #has_/abbreviation :: T3
 
-#has_/time_/created/Ma :: -237 ;
+#has_/time_/created/Ma :: -237 
 #has_/time_/destroyed/Ma :: -201.4 
 
-    sh:order 69 ;
+    sh:order 69 
 
 #has_/text_of_/color :: #BD8CC3
 

@@ -37,7 +37,7 @@ A time period from> The **Stenian** Period ( STEE-nee-É™n, from Ancient Greek: Ï
 #has_/time_/created/Ma :: -1200
 #has_/time_/destroyed/Ma :: -1000
 
-    sh:order 162 ;
+    sh:order 162 
 
 #has_/text_of_/color :: #FED99A
 

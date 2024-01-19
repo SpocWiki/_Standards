@@ -34,7 +34,7 @@ A time period from> The **Siderian** Period ( ; Ancient Greek: σίδηρος, r
 #has_/time_/created/Ma :: -2500
 #has_/time_/destroyed/Ma :: -2300
 
-    sh:order 171 ;
+    sh:order 171 
 
 #has_/text_of_/color :: #F74F7C
 

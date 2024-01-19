@@ -29,25 +29,13 @@ A time period from 251.902 to 538.8 million years ago
 #has_/label_/sv  :: paleozoikum
 #has_/label_/zh  :: 古生代
 
-    skos:narrower
-        ischart:Cambrian ,
-        ischart:Carboniferous ,
-        ischart:Devonian ,
-        ischart:Ordovician ,
-        ischart:Permian ,
-        ischart:Silurian ;
 #has_/abbreviation :: PZ
-    skos:prefLabel "Paleozoic"@en ;
-#has_/time_/created/Ma :: -251.902 
 
- 0.024
-        ] ;
-#has_/time_/destroyed/Ma :: -538.8 
+#has_/time_/created/Ma :: -538.8 
+#has_/time_/destroyed/Ma :: -251.902 
 
- 0.2
-        ] ;
+    sh:order 77 
 
-    sh:order 77 ;
 #has_/text_of_/color :: #99C08D
 
 ## All Contents

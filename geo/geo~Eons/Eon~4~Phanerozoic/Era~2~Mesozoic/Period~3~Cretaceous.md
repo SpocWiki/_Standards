@@ -36,10 +36,10 @@ A time period from 145.0 to 66.0 million years ago.
 
 #has_/abbreviation :: K
 
-#has_/time_/created/Ma :: -145.0 ;
+#has_/time_/created/Ma :: -145.0 
 #has_/time_/destroyed/Ma :: -66.0
 
-    sh:order 49 ;
+    sh:order 49 
 
 #has_/text_of_/color :: #7FC64E
 

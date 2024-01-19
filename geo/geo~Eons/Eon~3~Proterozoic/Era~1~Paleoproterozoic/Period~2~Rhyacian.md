@@ -32,7 +32,7 @@ A time period from> The **Rhyacian** Period ( ; Ancient Greek: ῥύαξ, romani
 #has_/time_/created/Ma :: -2300
 #has_/time_/destroyed/Ma :: -2050
 
-    sh:order 168 ;
+    sh:order 168 
 
 #has_/text_of_/color :: #F75B89
 

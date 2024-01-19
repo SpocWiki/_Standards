@@ -35,7 +35,6 @@ A time period from 4567 to 4031 million years ago.
 #has_/label_/sl  :: hadej (neformalno)
 #has_/label_/sv  :: hadeikum
 #has_/label_/zh  :: 冥古宙（非正式）
-    skos:broader ischart:Precambrian ;
 
 #has_/abbreviation :: HA
 

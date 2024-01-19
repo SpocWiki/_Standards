@@ -30,15 +30,12 @@ A time period from 132.6 to 139.8 million years ago.
 #has_/label_/zh  :: 凡兰吟期
 
 #has_/abbreviation :: b2
-    skos:prefLabel "Valanginian"@en ;
-#has_/time_/created/Ma :: -132.6 ;
-            skos:note "uncertain"
-        ] ;
-#has_/time_/destroyed/Ma :: -139.8 ;
-            skos:note "uncertain"
-        ] ;
 
-    sh:order 47 ;
+#has_/time_/created/Ma :: -132.6 
+#has_/time_/destroyed/Ma :: -139.8 
+
+    sh:order 47 
+
 #has_/text_of_/color :: #99D36A
 
 ## All Contents

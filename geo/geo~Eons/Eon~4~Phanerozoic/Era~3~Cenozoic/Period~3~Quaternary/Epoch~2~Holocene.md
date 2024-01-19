@@ -33,7 +33,7 @@ A time period from 11_650 years ago to the present.
 #has_/time_/created/Ma :: -0.0117
 #has_/time_/destroyed/Ma :: -0
 
-    sh:order 4 ;
+    sh:order 4 
 
 #has_/text_of_/color :: #FEEBD2
 

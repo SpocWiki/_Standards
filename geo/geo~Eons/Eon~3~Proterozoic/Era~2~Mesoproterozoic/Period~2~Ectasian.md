@@ -38,7 +38,7 @@ A time period from> The **Ectasian** Period (from Ancient Greek: ἔκτασις
 #has_/time_/created/Ma :: -1400
 #has_/time_/destroyed/Ma :: -1200
 
-    sh:order 163 ;
+    sh:order 163 
 
 #has_/text_of_/color :: #FDCC8A
 

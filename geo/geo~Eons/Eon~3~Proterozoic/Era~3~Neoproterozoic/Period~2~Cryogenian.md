@@ -37,10 +37,12 @@ A time period from 720 to 635 million years ago.
 #has_/label_/zh  :: 成冰纪
 
 #has_/abbreviation :: NP2
-#has_/time_/created/Ma :: -720 ;
-#has_/time_/destroyed/Ma :: -635 ;
 
-    sh:order 159 ;
+#has_/time_/created/Ma :: -720 
+#has_/time_/destroyed/Ma :: -635 
+
+    sh:order 159 
+
 #has_/text_of_/color :: #FECC5C
 
 ## All Contents

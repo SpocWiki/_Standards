@@ -29,14 +29,14 @@ A time period from 184.2 to 174.7 million years ago.
 #has_/label_/sl  :: toarcij
 #has_/label_/sv  :: toarc
 #has_/label_/zh  :: 托阿尔期
-    skos:broader ischart:LowerJurassic ;
+    skos:broader ischart:LowerJurassic 
 
 #has_/abbreviation :: I4
 
 #has_/time_/created/Ma :: -184.2 
 #has_/time_/destroyed/Ma :: -174.7 
 
-    sh:order 60 ;
+    sh:order 60 
 
 #has_/text_of_/color :: #99CEE3
 

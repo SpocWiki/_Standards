@@ -2,7 +2,9 @@
 
 #is_a_/time_/Period 
 
-A time period from> The **Calymmian** Period (from Ancient Greek: κάλυμμα, romanized: kálymma, meaning "cover") is the first geologic period in the Mesoproterozoic Era and lasted from 1600 Mya to 1400 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.
+A time period from 1600 to 1400 million years ago. 
+
+> The **Calymmian** Period (from Ancient Greek: κάλυμμα, romanized: kálymma, meaning "cover") is the first geologic period in the Mesoproterozoic Era and lasted from 1600 Mya to 1400 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically.
 >
 > The period is characterised by expansion of existing platform covers, or by new platforms on recently cratonized basements.
 >
@@ -32,19 +34,15 @@ A time period from> The **Calymmian** Period (from Ancient Greek: κάλυμμα
 #has_/label_/sl  :: calymmij
 #has_/label_/sv  :: kalymmium
 #has_/label_/zh  :: 盖层纪
-    skos:broader ischart:Mesoproterozoic ;
 #is_a_/time_/Period 
 
-A time period from 1600 to 1400 million years ago. 
-
 #has_/abbreviation :: MP1
-    skos:prefLabel "Calymmian"@en ;
-#has_/time_/created/Ma :: -1600
-        ] ;
-#has_/time_/destroyed/Ma :: -1400
-        ] ;
 
-    sh:order 164 ;
+#has_/time_/created/Ma :: -1600
+#has_/time_/destroyed/Ma :: -1400
+
+    sh:order 164 
+
 #has_/text_of_/color :: #FDC07A
 
 ## All Contents

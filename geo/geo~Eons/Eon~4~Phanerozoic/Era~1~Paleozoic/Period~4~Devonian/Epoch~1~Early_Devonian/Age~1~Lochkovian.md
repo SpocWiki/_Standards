@@ -35,7 +35,7 @@ A time period from 419.2 to 410.8 million years ago.
 #has_/time_/created/Ma :: -419.2 
 #has_/time_/destroyed/Ma :: -410.8 
 
-    sh:order 117 ;
+    sh:order 117 
 
 #has_/text_of_/color :: #E5B75A
 

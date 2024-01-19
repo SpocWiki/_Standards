@@ -30,13 +30,11 @@ A time period from 37.71 to 33.9 million years ago.
 #has_/label_/zh  :: 普里阿邦期
 
 #has_/abbreviation :: e7
-    skos:prefLabel "Priabonian"@en ;
 #has_/time_/created/Ma :: -37.71
-        ] ;
 #has_/time_/destroyed/Ma :: -33.9
-        ] ;
 
-    sh:order 25 ;
+    sh:order 25 
+
 #has_/text_of_/color :: #FDCDA1
 
 ## All Contents

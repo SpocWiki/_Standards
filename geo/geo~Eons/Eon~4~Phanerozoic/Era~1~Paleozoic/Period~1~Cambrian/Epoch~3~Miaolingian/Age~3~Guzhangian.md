@@ -35,10 +35,10 @@ A time period from 500.5 to 497 million years ago.
 
 #has_/abbreviation :: ep7
 
-#has_/time_/created/Ma :: -500.5 ;
-#has_/time_/destroyed/Ma :: -497 ;
+#has_/time_/created/Ma :: -500.5 
+#has_/time_/destroyed/Ma :: -497 
 
-    sh:order 146 ;
+    sh:order 146 
 
 #has_/text_of_/color :: #CCDFAA
 

@@ -33,10 +33,10 @@ A time period from 497 to 494 million years ago.
 
 #has_/abbreviation :: ep8
 
-#has_/time_/created/Ma :: -497 ;
-#has_/time_/destroyed/Ma :: -494 ;
+#has_/time_/created/Ma :: -497 
+#has_/time_/destroyed/Ma :: -494 
 
-    sh:order 145 ;
+    sh:order 145 
 
 #has_/text_of_/color :: #CCEBAE
 

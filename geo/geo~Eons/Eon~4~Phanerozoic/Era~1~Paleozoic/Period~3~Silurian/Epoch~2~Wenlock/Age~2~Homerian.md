@@ -32,17 +32,12 @@ A time period from 430.5 to 427.4 million years ago.
 #has_/label_/zh  :: 侯默期
 
 #has_/abbreviation :: s5
-    skos:prefLabel "Homerian"@en ;
-#has_/time_/created/Ma :: -430.5 
 
- 0.7
-        ] ;
+#has_/time_/created/Ma :: -430.5 
 #has_/time_/destroyed/Ma :: -427.4 
 
- 0.5
-        ] ;
+    sh:order 123 
 
-    sh:order 123 ;
 #has_/text_of_/color :: #CCEBD1
 
 ## All Contents

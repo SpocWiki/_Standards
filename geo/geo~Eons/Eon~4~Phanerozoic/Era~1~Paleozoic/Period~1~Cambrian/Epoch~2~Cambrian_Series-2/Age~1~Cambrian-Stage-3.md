@@ -35,10 +35,10 @@ A time period from 521 to 514 million years ago.
 
 #has_/abbreviation :: ep2
 
-#has_/time_/created/Ma :: -521 ;
-#has_/time_/destroyed/Ma :: -514 ;
+#has_/time_/created/Ma :: -521 
+#has_/time_/destroyed/Ma :: -514 
 
-    sh:order 153 ;
+    sh:order 153 
 
 #has_/text_of_/color :: #A6C583
 

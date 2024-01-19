@@ -31,10 +31,10 @@ A time period from 290.1 to 283.5 million years ago.
 
 #has_/abbreviation :: p3
 
-#has_/time_/created/Ma :: 290.1 
-#has_/time_/destroyed/Ma :: 283.5 
+#has_/time_/created/Ma :: -290.1 
+#has_/time_/destroyed/Ma :: -283.5 
 
-    sh:order 87 ;
+    sh:order 87 
 
 #has_/text_of_/color :: #E37B68
 

@@ -44,7 +44,7 @@ A time period from 66.0 to 56.0 million years ago.
 #has_/time_/created/Ma :: -66.0
 #has_/time_/destroyed/Ma :: -56.0
 
-    sh:order 34 ;
+    sh:order 34 
 
 #has_/text_of_/color :: #FDA75F
 

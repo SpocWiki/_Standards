@@ -36,7 +36,7 @@ A time period from 5.333 to 3.6 million years ago.
 #has_/time_/created/Ma :: -5.333
 #has_/time_/destroyed/Ma :: -3.6
 
-    sh:order 13 ;
+    sh:order 13 
 
 #has_/text_of_/color :: #FFFFB3
 

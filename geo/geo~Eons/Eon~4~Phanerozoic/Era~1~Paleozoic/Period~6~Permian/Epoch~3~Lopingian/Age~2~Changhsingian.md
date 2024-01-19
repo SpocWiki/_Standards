@@ -34,7 +34,7 @@ A time period from 254.14 to 251.902 million years ago.
 #has_/time_/created/Ma :: -254.14 
 #has_/time_/destroyed/Ma :: -251.902 
 
-    sh:order 79 ;
+    sh:order 79 
 
 #has_/text_of_/color :: #FCC0B2
 

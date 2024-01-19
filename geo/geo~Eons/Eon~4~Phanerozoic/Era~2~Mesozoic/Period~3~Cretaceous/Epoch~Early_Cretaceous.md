@@ -34,10 +34,11 @@ A time period from 145.0 to 100.5 million years ago.
 
 #has_/abbreviation :: K1
 
-#has_/time_/created/Ma :: -145.0 ;
+#has_/time_/created/Ma :: -145.0 
 #has_/time_/destroyed/Ma :: -100.5
 
-    sh:order 50 ;
+    sh:order 50 
+
 #has_/text_of_/color :: #8CCD57
 
 ## All Contents

@@ -32,9 +32,9 @@ A time period from 125.77 to 121.4 million years ago.
 #has_/abbreviation :: b4
 
 #has_/time_/created/Ma :: -125.77
-#has_/time_/destroyed/Ma :: -121.4 ;
+#has_/time_/destroyed/Ma :: -121.4 
 
-    sh:order 45 ;
+    sh:order 45 
 
 #has_/text_of_/color :: #B3DF7F
 

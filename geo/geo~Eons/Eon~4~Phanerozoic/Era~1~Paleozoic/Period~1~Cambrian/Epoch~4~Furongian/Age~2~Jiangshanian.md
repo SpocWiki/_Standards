@@ -15,7 +15,7 @@ A time period from 494 to 489.5 million years ago.
 #has_/time_/created/Ma :: -494 
 #has_/time_/destroyed/Ma :: -489.5 
 
-    sh:order 143 ;
+    sh:order 143 
 
 #has_/text_of_/color :: #D9F0BB
 

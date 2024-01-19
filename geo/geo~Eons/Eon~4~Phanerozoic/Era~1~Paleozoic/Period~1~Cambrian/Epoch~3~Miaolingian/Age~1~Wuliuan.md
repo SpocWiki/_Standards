@@ -13,10 +13,10 @@ A time period from 509 to 504.5 million years ago.
 
 #has_/abbreviation :: ep5
 
-#has_/time_/created/Ma :: -509 ;
-#has_/time_/destroyed/Ma :: -504.5 ;
+#has_/time_/created/Ma :: -509 
+#has_/time_/destroyed/Ma :: -504.5 
 
-    sh:order 149 ;
+    sh:order 149 
 
 #has_/text_of_/color :: #B3D492
 
