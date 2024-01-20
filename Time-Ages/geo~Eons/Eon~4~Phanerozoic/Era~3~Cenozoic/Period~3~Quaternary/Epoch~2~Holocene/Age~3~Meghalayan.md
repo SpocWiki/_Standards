@@ -14,7 +14,7 @@ A time period from 4_200 thousand years ago to the present.
 #has_/abbreviation :: q7
 
 #has_/time_/created/Ma :: -0.0042
-#has_/time_/destroyed/Ma :: -0
+#has_/time_/destroyed/Ma :: 0.002 
 
     sh:order 1 
 

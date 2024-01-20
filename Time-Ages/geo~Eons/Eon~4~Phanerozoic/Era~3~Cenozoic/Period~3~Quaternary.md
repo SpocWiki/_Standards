@@ -35,7 +35,7 @@ A time period from 2.58 million years ago to the present.
 #has_/abbreviation :: Q
 
 #has_/time_/created/Ma :: -2.58 
-#has_/time_/destroyed/Ma :: 0 
+#has_/time_/destroyed/Ma :: 0.002 
 
     sh:order 10 
 

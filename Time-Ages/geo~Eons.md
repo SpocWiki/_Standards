@@ -180,7 +180,6 @@ SORT has_time_createdma asc
 ```
 
 
-
 ```mermaid
 ---
 displayMode: compact
@@ -189,7 +188,6 @@ gantt
     title Cenozoic Ages 
     dateFormat x
     axisFormat %s
-    tickInterval 1000
     
     section Era
 Cenozoic: crit, -66000000, 0
@@ -258,21 +256,21 @@ SORT has_time_createdma asc
 displayMode: compact
 ---
 gantt
-    title Neogene Ages 
+    title Millenia in Neogene Ages 
     dateFormat x
     axisFormat %s
     tickInterval 1000year
     
     section Period 
 Neogene: crit, -23030000, -2580000
-Quaternary: crit, -2580000, 0
+Quaternary: crit, -2580000, 2000
 
 section Epoch 
 
 Miocene: crit, -23030000, -5333000
 Pliocene: crit, -5333000, -2580000
 Pleistocene: crit, -2580000, -11700
-Holocene: crit, -11700, 0
+Holocene: crit, -11700, 2000
 
 section Ages 
 
@@ -290,7 +288,7 @@ Chibanian: crit, -774000, -129000
 Late_Pleistocene: crit, -129000, -11700
 Greenlandian: crit, -11700, -8200
 Northgrippian: crit, -8200, -4200
-Meghalayan: crit, -4200, 0
+Meghalayan: crit, -4200, 2000
 ```
 
 
@@ -302,15 +300,14 @@ gantt
     title Millenia in Quaternary Ages 
     dateFormat x
     axisFormat %s
-    tickInterval 1000year
     
     section Period 
-Quaternary: crit, -2580000, 0
+Quaternary: crit, -2580000, 2000
 
 section Epoch 
 
 Pleistocene: crit, -2580000, -11700
-Holocene: crit, -11700, 0
+Holocene: crit, -11700, 2000
 
 section Ages 
 
@@ -320,7 +317,32 @@ Chibanian: crit, -774000, -129000
 Late_Pleistocene: crit, -129000, -11700
 Greenlandian: crit, -11700, -8200
 Northgrippian: crit, -8200, -4200
-Meghalayan: crit, -4200, 0
+Meghalayan: crit, -4200, 2000
+
+section Cultures 
+
+Lower_Paleolithic: crit, -3300000, -300000 
+Middle_Paleolithic: crit, -300000, -50000 
+Upper_Paleolithic: crit, -50000, -13000 
+
+section Revolutions 
+
+humans and chimpanzees split : milestone, -6000000, 0d  
+First stone tools. : milestone, -2500000 , 0d 
+Homo-Races spread from Africa to Eurasia. : milestone, -2000000, 0d 
+Neanderthals evolve : milestone, -500000 , 0d 
+Daily usage of fire. : milestone, -300000 , 0d 
+Homo sapiens evolves in East Africa. : milestone, -200000, 0d 
+Sapiens spreads out of Africa. : milestone, -70000, 0d 
+Sapiens reaches Australia : milestone, -45000, 0d 
+Extinction of Neanderthals. : milestone, 30000, 0d 
+Sapiens reach America : milestone, -14000, 0d 
+sapiens is last human species. : milestone, -11000, 0d 
+
+
+Cognitive : crit, -70000, -30000
+Agricultural : milestone, -10000, 0d
+Scientific : milestone, -1500, 0d
 
 ```
 
@@ -334,20 +356,61 @@ gantt
     title Millenia in Holocene Ages 
     dateFormat x
     axisFormat %s
-    tickInterval 1000year
+    tickInterval 1second
     
 
 section Epoch 
 
-Holocene: crit, -11700, 0
+Holocene: crit, -11700, 2000
 
 section Ages 
 
 Greenlandian: crit, -11700, -8200
 Northgrippian: crit, -8200, -4200
-Meghalayan: crit, -4200, 0
+Meghalayan: crit, -4200, 2000
+
+section Culture 
+
+Mesolithic: crit, -13000, -8000 
+Neolithic: crit, -8000, -3300 
+Bronze-Age: crit, -3300, -1200 
+Iron-Age: crit, -1200, -100 
+Ancient_Rome: crit, -100, 400 
+Early_Middle-Ages: crit, 400, 800 
+Middle-Ages: crit, 800, 1500 
+Post-Middle-Ages: crit, 1500, 1800 
+Industrial-Age: crit, 1800, 1900 
+
+section Revolutions 
+
+Sapiens reach America : milestone, -14000, 0d 
+last human species. : milestone, -11000, 0d 
+Agricultural : milestone, -10000, 0d
+First kingdoms, script, money : milestone, -3000, 0d 
+First empire — Akkadian : milestone, -2350, 0d
+Buddhism in India : milestone, -500 
+Roman Empire : milestone, 0, 0d 
+Islam. : milestone, 610 
+Scientific : milestone, 1500, 0d
+
+section China
+Han Empire in China : milestone, 0, 0d 
 
 ```
+
+
+
+```dataview
+TABLE WITHOUT ID
+substring(file.name,0) + ": crit, " 
++ round(has_time_createdka * 1000) + ", "
++ round(has_time_destroyedka * 1000) as task
+FROM #is_a_/time_/Culture 
+SORT has_time_createdka asc
+```
+
+
+
 
 
 

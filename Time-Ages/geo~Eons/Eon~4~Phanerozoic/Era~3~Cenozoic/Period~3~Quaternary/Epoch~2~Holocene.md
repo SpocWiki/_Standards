@@ -31,7 +31,7 @@ A time period from 11_650 years ago to the present.
 
 #has_/abbreviation :: Q2
 #has_/time_/created/Ma :: -0.0117
-#has_/time_/destroyed/Ma :: -0
+#has_/time_/destroyed/Ma :: 0.002 
 
     sh:order 4 
 
