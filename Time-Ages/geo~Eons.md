@@ -325,7 +325,7 @@ Lower_Paleolithic: crit, -3300000, -300000
 Middle_Paleolithic: crit, -300000, -50000 
 Upper_Paleolithic: crit, -50000, -13000 
 
-section Revolutions 
+section Humans  
 
 humans and chimpanzees split : milestone, -6000000, 0d  
 First stone tools. : milestone, -2500000 , 0d 
@@ -381,7 +381,7 @@ Middle-Ages: crit, 800, 1500
 Post-Middle-Ages: crit, 1500, 1800 
 Industrial-Age: crit, 1800, 1900 
 
-section Revolutions 
+section Humans  
 
 Sapiens reach America : milestone, -14000, 0d 
 last human species. : milestone, -11000, 0d 
@@ -393,8 +393,327 @@ Roman Empire : milestone, 0, 0d
 Islam. : milestone, 610 
 Scientific : milestone, 1500, 0d
 
-section China
-Han Empire in China : milestone, 0, 0d 
+```
+
+
+```mermaid
+gantt
+    title Years in History  
+    dateFormat x
+    axisFormat %Q
+    tickInterval 100millisecond
+    
+
+
+section Africa
+
+Khufu Pyramid	: crit, 	-2580	,	-2560
+Mali-Mansa Musa's Pilgrimage	: crit, 	1324	,	1325
+Building Suez Canal	: crit, 	1859	,	1869
+Nelson Mandela imprisoned	: crit, 	1962	,	1990
+Apartheid Ends in South Africa	: milestone, 	1994	,	1994
+Rwandan Genocide	: milestone, 	1994	,	1994
+Second Congo War	: crit, 	1998	,	2003
+
+
+section Asia 
+
+Building the Great Wall of China	: crit, 	-700	,	1700
+Three Kingdoms Period	: crit, 	220	,	280
+Japan-Heian Period	: crit, 	794	,	1185
+China-Invention of Gunpowder	: milestone, 	800	,	800
+Pax Mongolica	: crit, 	1200	,	1400
+Ming Dynasty's Yongle Encyclopedia	: crit, 	1403	,	1408
+China-Zheng He's Voyages	: crit, 	1405	,	1433
+China-Opium Trade	: crit, 	1700	,	1900
+Opium War I China vs Britain	: crit, 	1839	,	1842
+China-Treaty of Nanking	: milestone, 	1842	,	1842
+Opium War II China vs Britain	: crit, 	1856	,	1860
+Japan-Meiji Restoration	: crit, 	1868	,	1912
+China-Long March	: crit, 	1934	,	1935
+Korean War	: crit, 	1950	,	1953
+Vietnam War Begins	: crit, 	1955	,	1975
+Cultural Revolution in China	: crit, 	1966	,	1976
+Vietnam-Tet Offensive	: milestone, 	1968	,	1968
+Bangladesh-Independence	: milestone, 	1971	,	1971
+Hong Kong to China	: milestone, 	1997	,	1997
+Indian Ocean Tsunami	: milestone, 	2004	,	2004
+North Korea-Nuclear Tests	: crit, 	2006	,	2017
+Hong Kong Protests	: crit, 	2019	,	2020
+
+section Europe 
+
+Roman Republic	: crit, 	-509	,	-27  
+Greece: Battle of Marathon	: milestone, 	-490	,	-490
+Greece-Peloponnesian Wars	: crit, 	-431	,	-404
+Alexander the Great	: crit, 	-356	,	-323
+Rome: Punic War I	: crit, 	-264	,	-241
+Julius Caesar crosses the Rubicon	: milestone, 	-49	,	-49
+Jesus Christ	: crit, 	1	,	33
+Great Fire of Rome	: milestone, 	64	,	64
+Construction of the Colosseum	: crit, 	70	,	80
+Edict of Milan	: crit, 	313	,	313
+Western Roman Empire	: crit, 	-27	,	476
+Justinian's Code	: milestone, 	529	,	529
+Viking Expansion	: crit, 	700	,	1100
+Umayyad defeated at Tours	: milestone, 	732	,	732
+Norman Conquest of England	: milestone, 	1066	,	1066
+First Crusade	: crit, 	1096	,	1099
+Mongol Invasion of Europe	: crit, 	1241	,	1242
+Black Death Peaks	: crit, 	1347	,	1351
+Ottoman Empire Conquers Constantinople	: milestone, 	1453	,	1453
+Spanish Inquisition Established	: milestone, 	1478	,	1478
+Leonardo da Vinci's Last Supper	: crit, 	1495	,	1498
+Martin Luther's 95 Theses	: milestone, 	1517	,	1517
+Siege of Vienna by Ottomans	: milestone, 	1529	,	1529
+England-Elizabet I	: crit, 	1558	,	1603
+Age of Enlightenment	: crit, 	1600	,	1800
+Netherlands-Tulip Mania	: milestone, 	1637	,	1637
+Thirty Years' War	: crit, 	1618	,	1648
+Peter the Great's Westernization of Russia	: crit, 	1697	,	1725
+France-Reign of Terror	: crit, 	1793	,	1794
+Industrial Revolution	: crit, 	1800	,	1900
+Napoleon Bonaparte Reign	: crit, 	1804	,	1815
+Battle of Leipzig	: milestone, 	1813	,	1813
+Greece-Battle of Navarino	: milestone, 	1827	,	1827
+UK-Victoria I	: crit, 	1837	,	1901
+Crimean War	: crit, 	1853	,	1856
+Berlin Conference on Africa	: crit, 	1884	,	1885
+First Nobel Prizes Awarded	: milestone, 	1901	,	1901
+Russian Revolution of 1905	: milestone, 	1905	,	1905
+Russian October Revolution	: milestone, 	1917	,	1917
+Austro-Hungarian Empire	: crit, 	1867	,	1918
+Hyperinflation in Germany	: crit, 	1921	,	1924
+Ottoman Empire	: crit, 	1299	,	1922
+Guernica Bombing	: milestone, 	1937	,	1937
+Battle of Stalingrad	: crit, 	1942	,	1943
+Nuremberg Trials	: crit, 	1945	,	1946
+Chernobyl Disaster	: milestone, 	1986	,	1986
+Siege of Sarajevo	: crit, 	1992	,	1996
+European Union Established	: milestone, 	1993	,	1993
+Annexation of Crimea	: milestone, 	2014	,	2014
+2015 Paris Islamic Attacks	: milestone, 	2015	,	2015
+Brexit Referendum	: milestone, 	2016	,	2016
+
+section Global 
+
+Christopher Columbus Reaches the Americas	: milestone, 	1492	,	1492
+Spanish-American War	: milestone, 	1898	,	1898
+Battle of the Somme	: milestone, 	1916	,	1916
+Great Depression	: crit, 	1929	,	1939
+Marshall Plan Implemented	: milestone, 	1948	,	1948
+Antarctic Treaty Signed	: milestone, 	1959	,	1959
+Kyoto Protocol Adopted	: milestone, 	1997	,	1997
+Paris Agreement Signed	: milestone, 	2015	,	2015
+COVID-19 Pandemic	: crit, 	2019	,	2022 
+
+section India 
+Buddha's Enlightenment	: milestone, 	-600	,	-600
+Maurya Empire Established	: crit, 	-322	,	-322
+Indian Mutiny	: crit, 	1857	,	1858
+
+section Middle-East 
+
+Code of Ur-Nammu	: milestone, 	-2100	,	-2100
+Hammurabi's Code	: milestone, 	-1754	,	-1754
+Alexander the Great in Persia 	: milestone, 	-330	,	-330
+Abbasid Caliphate Translations	: crit, 	700	,	1000
+Iranian Revolution	: milestone, 	1979	,	1979
+Invasion of Iraq	: milestone, 	2003	,	2003
+Arab Spring Begins	: milestone, 	2010	,	2010
+Syrian Civil War Begins	: milestone, 	2011	,	2011
+Beirut Port Explosion	: milestone, 	2020	,	2020
+
+section North-America 
+
+Salem Witch Trials	: milestone, 	1692	,	1692
+Boston Tea Party	: milestone, 	1773	,	1773
+American Revolution	: crit, 	1775	,	1783
+Louisiana Purchase by US	: milestone, 	1803	,	1803
+Haitian Independence	: milestone, 	1804	,	1804
+Mexican War of Independence	: crit, 	1810	,	1821
+Gold Rush in California	: crit, 	1848	,	1855
+Lincolns Slavery Abolition	: milestone, 	1863	,	1863
+Transcontinental Railroad Completed	: milestone, 	1869	,	1869
+Construction of the Panama Canal	: crit, 	1904	,	1914
+Mexican Revolution	: crit, 	1910	,	1920
+Cuban Revolution	: crit, 	1953	,	1959
+Cuban Missile Crisis	: milestone, 	1962	,	1962
+Civil Rights-March on Washington	: milestone, 	1963	,	1963
+Civil Rights Act of 1964	: milestone, 	1964	,	1964
+Apollo 11 Moon Landing	: milestone, 	1969	,	1969
+Apollo 13 Mission	: milestone, 	1970	,	1970
+Watergate Scandal	: crit, 	1972	,	1974
+9/11 Terrorist Attacks	: milestone, 	2001	,	2001
+U.S. Capitol Riot	: milestone, 	2021	,	2021
+
+section South-America 
+
+Inca-Machu Picchu Built	: crit, 	1450	,	1460
+Siege of Aztec Tenochtitlan	: milestone, 	1521	,	1521
+
+
+```
+
+
+```mermaid
+---
+displayMode: compact
+
+---
+
+gantt
+    title Years in History  
+    dateFormat x
+    axisFormat %Q
+    tickInterval 100millisecond
+    
+
+
+section Africa
+
+Mali-Mansa Musa's Pilgrimage	: crit, 	1324	,	1325
+Building Suez Canal	: crit, 	1859	,	1869
+Nelson Mandela imprisoned	: crit, 	1962	,	1990
+Apartheid Ends in South Africa	: milestone, 	1994	,	1994
+Rwandan Genocide	: milestone, 	1994	,	1994
+Second Congo War	: crit, 	1998	,	2003
+
+
+section Asia 
+
+Building the Great Wall of China	: crit, 	-700	,	1700
+Three Kingdoms Period	: crit, 	220	,	280
+Japan-Heian Period	: crit, 	794	,	1185
+China-Invention of Gunpowder	: milestone, 	800	,	800
+Pax Mongolica	: crit, 	1200	,	1400
+Ming Dynasty's Yongle Encyclopedia	: crit, 	1403	,	1408
+China-Zheng He's Voyages	: crit, 	1405	,	1433
+China-Opium Trade	: crit, 	1700	,	1900
+Opium War I China vs Britain	: crit, 	1839	,	1842
+China-Treaty of Nanking	: milestone, 	1842	,	1842
+Opium War II China vs Britain	: crit, 	1856	,	1860
+Japan-Meiji Restoration	: crit, 	1868	,	1912
+China-Long March	: crit, 	1934	,	1935
+Korean War	: crit, 	1950	,	1953
+Vietnam War Begins	: crit, 	1955	,	1975
+Cultural Revolution in China	: crit, 	1966	,	1976
+Vietnam-Tet Offensive	: milestone, 	1968	,	1968
+Bangladesh-Independence	: milestone, 	1971	,	1971
+Hong Kong to China	: milestone, 	1997	,	1997
+Indian Ocean Tsunami	: milestone, 	2004	,	2004
+North Korea-Nuclear Tests	: crit, 	2006	,	2017
+Hong Kong Protests	: crit, 	2019	,	2020
+
+section Europe 
+
+Roman Republic	: crit, 	-509	,	-27  
+Greece: Battle of Marathon	: milestone, 	-490	,	-490
+Greece-Peloponnesian Wars	: crit, 	-431	,	-404
+Alexander the Great	: crit, 	-356	,	-323
+Rome: Punic War I	: crit, 	-264	,	-241
+Julius Caesar crosses the Rubicon	: milestone, 	-49	,	-49
+Jesus Christ	: crit, 	1	,	33
+Great Fire of Rome	: milestone, 	64	,	64
+Construction of the Colosseum	: crit, 	70	,	80
+Edict of Milan	: crit, 	313	,	313
+Western Roman Empire	: crit, 	-27	,	476
+Justinian's Code	: milestone, 	529	,	529
+Viking Expansion	: crit, 	700	,	1100
+Umayyad defeated at Tours	: milestone, 	732	,	732
+Norman Conquest of England	: milestone, 	1066	,	1066
+First Crusade	: crit, 	1096	,	1099
+Mongol Invasion of Europe	: crit, 	1241	,	1242
+Black Death Peaks	: crit, 	1347	,	1351
+Ottoman Empire Conquers Constantinople	: milestone, 	1453	,	1453
+Spanish Inquisition Established	: milestone, 	1478	,	1478
+Leonardo da Vinci's Last Supper	: crit, 	1495	,	1498
+Martin Luther's 95 Theses	: milestone, 	1517	,	1517
+Siege of Vienna by Ottomans	: milestone, 	1529	,	1529
+England-Elizabet I	: crit, 	1558	,	1603
+Age of Enlightenment	: crit, 	1600	,	1800
+Netherlands-Tulip Mania	: milestone, 	1637	,	1637
+Thirty Years' War	: crit, 	1618	,	1648
+Peter the Great's Westernization of Russia	: crit, 	1697	,	1725
+France-Reign of Terror	: crit, 	1793	,	1794
+Industrial Revolution	: crit, 	1800	,	1900
+Napoleon Bonaparte Reign	: crit, 	1804	,	1815
+Battle of Leipzig	: milestone, 	1813	,	1813
+Greece-Battle of Navarino	: milestone, 	1827	,	1827
+UK-Victoria I	: crit, 	1837	,	1901
+Crimean War	: crit, 	1853	,	1856
+Berlin Conference on Africa	: crit, 	1884	,	1885
+First Nobel Prizes Awarded	: milestone, 	1901	,	1901
+Russian Revolution of 1905	: milestone, 	1905	,	1905
+Russian October Revolution	: milestone, 	1917	,	1917
+Austro-Hungarian Empire	: crit, 	1867	,	1918
+Hyperinflation in Germany	: crit, 	1921	,	1924
+Ottoman Empire	: crit, 	1299	,	1922
+Guernica Bombing	: milestone, 	1937	,	1937
+Battle of Stalingrad	: crit, 	1942	,	1943
+Nuremberg Trials	: crit, 	1945	,	1946
+Chernobyl Disaster	: milestone, 	1986	,	1986
+Siege of Sarajevo	: crit, 	1992	,	1996
+European Union Established	: milestone, 	1993	,	1993
+Annexation of Crimea	: milestone, 	2014	,	2014
+2015 Paris Islamic Attacks	: milestone, 	2015	,	2015
+Brexit Referendum	: milestone, 	2016	,	2016
+
+section Global 
+
+Christopher Columbus Reaches the Americas	: milestone, 	1492	,	1492
+Spanish-American War	: milestone, 	1898	,	1898
+Battle of the Somme	: milestone, 	1916	,	1916
+Great Depression	: crit, 	1929	,	1939
+Marshall Plan Implemented	: milestone, 	1948	,	1948
+Antarctic Treaty Signed	: milestone, 	1959	,	1959
+Kyoto Protocol Adopted	: milestone, 	1997	,	1997
+Paris Agreement Signed	: milestone, 	2015	,	2015
+COVID-19 Pandemic	: crit, 	2019	,	2022 
+
+section India 
+Buddha's Enlightenment	: milestone, 	-600	,	-600
+Maurya Empire Established	: crit, 	-322	,	-322
+Indian Mutiny	: crit, 	1857	,	1858
+
+section Middle-East 
+
+Alexander the Great in Persia 	: milestone, 	-330	,	-330
+Abbasid Caliphate Translations	: crit, 	700	,	1000
+Iranian Revolution	: milestone, 	1979	,	1979
+Invasion of Iraq	: milestone, 	2003	,	2003
+Arab Spring Begins	: milestone, 	2010	,	2010
+Syrian Civil War Begins	: milestone, 	2011	,	2011
+Beirut Port Explosion	: milestone, 	2020	,	2020
+
+section North-America 
+
+Salem Witch Trials	: milestone, 	1692	,	1692
+Boston Tea Party	: milestone, 	1773	,	1773
+American Revolution	: crit, 	1775	,	1783
+Louisiana Purchase by US	: milestone, 	1803	,	1803
+Haitian Independence	: milestone, 	1804	,	1804
+Mexican War of Independence	: crit, 	1810	,	1821
+Gold Rush in California	: crit, 	1848	,	1855
+Lincolns Slavery Abolition	: milestone, 	1863	,	1863
+Transcontinental Railroad Completed	: milestone, 	1869	,	1869
+Construction of the Panama Canal	: crit, 	1904	,	1914
+Mexican Revolution	: crit, 	1910	,	1920
+Cuban Revolution	: crit, 	1953	,	1959
+Cuban Missile Crisis	: milestone, 	1962	,	1962
+Civil Rights-March on Washington	: milestone, 	1963	,	1963
+Civil Rights Act of 1964	: milestone, 	1964	,	1964
+Apollo 11 Moon Landing	: milestone, 	1969	,	1969
+Apollo 13 Mission	: milestone, 	1970	,	1970
+Watergate Scandal	: crit, 	1972	,	1974
+9/11 Terrorist Attacks	: milestone, 	2001	,	2001
+U.S. Capitol Riot	: milestone, 	2021	,	2021
+
+section South-America 
+
+Inca-Machu Picchu Built	: crit, 	1450	,	1460
+Siege of Aztec Tenochtitlan	: milestone, 	1521	,	1521
+
 
 ```
 
@@ -423,4 +742,6 @@ col: 2
 briefMax: 128
 noteOnly: true
 ```
+
+
 
