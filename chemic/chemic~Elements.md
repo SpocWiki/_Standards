@@ -1,0 +1,71 @@
+
+
+
+## Primary Groups 
+8 Groups corresponding to 2 \* 4  Electrons in [[sp-Orbitals]]
+
+[Group-01-Alkali](Elements/Group-01-Alkali.md)
+
+[Group-02-Earth-Alkaline](Elements/Group-02-Earth-Alkaline.md)
+
+In Period 6, the [Lanthanide-Group](Elements/Lanthanide-Group.md) appears here
+
+In Period 7, the [Actinide-Group](Elements/Actinide-Group.md) appears here
+
+as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
+
+[Group-13-Boron](Elements/Group-13-Boron.md)
+
+[Group-14-Carbon](Elements/Group-14-Carbon.md)
+
+[Group-15-Nitrogen](Elements/Group-15-Nitrogen.md)
+
+[Group-16-Chalcogene](Elements/Group-16-Chalcogene.md)
+
+[Group-17-Halogene](Elements/Group-17-Halogene.md)
+
+[Group-18-Nobel-Gases](Elements/Group-18-Nobel-Gases.md)
+
+## Metallic Groups
+10 Groups corresponding to 2 \* 5  Electrons in [[d-Orbitals]]
+
+[Group-03-Scandium](Elements/Group-03-Scandium.md)
+
+[Group-04-Titanium](Elements/Group-04-Titanium.md)
+
+[Group-05-Vanadium](Elements/Group-05-Vanadium.md)
+
+[Group-06-Chromium](Elements/Group-06-Chromium.md)
+
+[Group-07-Manganese](Elements/Group-07-Manganese.md)
+
+[Group-08-Iron](Elements/Group-08-Iron.md)
+
+[Group-09-Cobalt](Elements/Group-09-Cobalt.md)
+
+[Group-10-Nickel](Elements/Group-10-Nickel.md)
+
+[Group-11-Copper](Elements/Group-11-Copper.md)
+
+[Group-12-Zinc](Elements/Group-12-Zinc.md)
+
+> A **Chemical element** is a chemical substance that cannot be broken down into other substances. The basic particle that constitutes a chemical element is the atom, and chemical elements are distinguished from each other by the number of protons in the nuclei of their atoms. This is in contrast to chemical compounds and mixtures.
+>
+> Almost all of the baryonic matter of the universe is composed of chemical elements (among rare exceptions are neutron stars).  When different elements undergo chemical reactions, atoms are rearranged into new compounds held together by chemical bonds. Only a minority of elements, such as silver and gold, are found uncombined as relatively pure native element minerals. Nearly all other naturally occurring elements occur in the Earth as compounds or mixtures. Air is primarily a mixture of the elements nitrogen, oxygen, and argon, though it does contain compounds including carbon dioxide and water.
+>
+> The history of the discovery and use of the elements began with primitive human societies that discovered native minerals like carbon, sulfur, copper and gold (though the concept of a chemical element was not yet understood). Attempts to classify materials such as these resulted in the concepts of classical elements, alchemy, and various similar theories throughout human history.  Much of the modern understanding of elements developed from the work of Dmitri Mendeleev, a Russian chemist who published the first recognizable periodic table in 1869. This table organizes the elements by increasing atomic number into rows ("periods") in which the columns ("groups") share recurring ("periodic") physical and chemical properties. The periodic table summarizes various properties of the elements, allowing chemists to derive relationships between them and to make predictions about compounds and potential new ones.
+>
+> By November 2016, the International Union of Pure and Applied Chemistry had recognized a total of 118 elements. The first 94 occur naturally on Earth, and the remaining 24 are synthetic elements produced in nuclear reactions. Save for unstable radioactive elements (radionuclides) which decay quickly, nearly all of the elements are available industrially in varying amounts.  The discovery and synthesis of further new elements is an ongoing area of scientific study.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Chemical%20element)
+
+
+## Confidential Links & Embeds: 
+- [[../../_Standards/chemic/Elements|Elements]] 
+- [[../../_public/chemic/Elements.public|Elements.public]] 
+- [[../../_internal/chemic/Elements.internal|Elements.internal]] 
+- [[../../_protect/chemic/Elements.protect|Elements.protect]] 
+- [[../../_private/chemic/Elements.private|Elements.private]] 
+- [[../../_personal/chemic/Elements.personal|Elements.personal]] 
+- [[../../_secret/chemic/Elements.secret|Elements.secret]]
+
