@@ -43,9 +43,10 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/move_action/arrive_action.md|arrive_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/move_action/arrive_action.internal.md|arrive_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/move_action/arrive_action.protect.md|arrive_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/move_action/arrive_action.private.md|arrive_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/move_action/arrive_action.personal.md|arrive_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/move_action/arrive_action.secret.md|arrive_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/move_action/arrive_action|arrive_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/move_action/arrive_action.public|arrive_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/move_action/arrive_action.internal|arrive_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/move_action/arrive_action.protect|arrive_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/move_action/arrive_action.private|arrive_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/move_action/arrive_action.personal|arrive_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/move_action/arrive_action.secret|arrive_action.secret]] 

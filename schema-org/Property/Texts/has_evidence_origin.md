@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_evidence_origin.md|has_evidence_origin]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_evidence_origin.internal.md|has_evidence_origin.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_evidence_origin.protect.md|has_evidence_origin.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_evidence_origin.private.md|has_evidence_origin.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_evidence_origin.personal.md|has_evidence_origin.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_evidence_origin.secret.md|has_evidence_origin.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_evidence_origin|has_evidence_origin]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_evidence_origin.public|has_evidence_origin.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_evidence_origin.internal|has_evidence_origin.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_evidence_origin.protect|has_evidence_origin.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_evidence_origin.private|has_evidence_origin.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_evidence_origin.personal|has_evidence_origin.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_evidence_origin.secret|has_evidence_origin.secret]] 

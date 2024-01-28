@@ -45,9 +45,10 @@ A seasonal override of a return policy, for example used for holidays.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, merchantReturnDays, name, potentialAction, returnPolicyCategory, sameAs, startDate, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.md|merchant_return_policy_seasonal_override]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.internal.md|merchant_return_policy_seasonal_override.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.protect.md|merchant_return_policy_seasonal_override.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.private.md|merchant_return_policy_seasonal_override.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.personal.md|merchant_return_policy_seasonal_override.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.secret.md|merchant_return_policy_seasonal_override.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/merchant_return_policy_seasonal_override|merchant_return_policy_seasonal_override]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.public|merchant_return_policy_seasonal_override.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.internal|merchant_return_policy_seasonal_override.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.protect|merchant_return_policy_seasonal_override.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.private|merchant_return_policy_seasonal_override.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.personal|merchant_return_policy_seasonal_override.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/merchant_return_policy_seasonal_override.secret|merchant_return_policy_seasonal_override.secret]] 

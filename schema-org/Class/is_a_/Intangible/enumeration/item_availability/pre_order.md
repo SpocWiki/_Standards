@@ -45,9 +45,10 @@ Indicates that the item is available for pre-order.
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_availability/pre_order.md|pre_order]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.internal.md|pre_order.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.protect.md|pre_order.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.private.md|pre_order.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.personal.md|pre_order.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.secret.md|pre_order.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_availability/pre_order|pre_order]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/item_availability/pre_order.public|pre_order.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.internal|pre_order.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.protect|pre_order.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.private|pre_order.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.personal|pre_order.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability/pre_order.secret|pre_order.secret]] 

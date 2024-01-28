@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_strength.md|has_value_for_strength]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_strength.internal.md|has_value_for_strength.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_strength.protect.md|has_value_for_strength.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_strength.private.md|has_value_for_strength.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_strength.personal.md|has_value_for_strength.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_strength.secret.md|has_value_for_strength.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_strength|has_value_for_strength]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_strength.public|has_value_for_strength.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_strength.internal|has_value_for_strength.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_strength.protect|has_value_for_strength.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_strength.private|has_value_for_strength.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_strength.personal|has_value_for_strength.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_strength.secret|has_value_for_strength.secret]] 

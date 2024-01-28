@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_game_edition.md|has_game_edition]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_game_edition.internal.md|has_game_edition.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_game_edition.protect.md|has_game_edition.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_game_edition.private.md|has_game_edition.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_game_edition.personal.md|has_game_edition.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_game_edition.secret.md|has_game_edition.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_game_edition|has_game_edition]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_game_edition.public|has_game_edition.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_game_edition.internal|has_game_edition.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_game_edition.protect|has_game_edition.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_game_edition.private|has_game_edition.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_game_edition.personal|has_game_edition.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_game_edition.secret|has_game_edition.secret]] 

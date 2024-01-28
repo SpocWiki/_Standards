@@ -48,9 +48,10 @@ Examples include FOXP2 (Forkhead box protein P2), SCARNA21 (small Cajal body-spe
 [ #has_/properties :: [ additionalType, alternateName, alternativeOf, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, encodesBioChemEntity, expressedIn, funding, hasBioChemEntityPart, hasBioPolymerSequence, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/bio_chem_entity/gene.md|gene]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/gene.internal.md|gene.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/bio_chem_entity/gene.protect.md|gene.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/bio_chem_entity/gene.private.md|gene.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/bio_chem_entity/gene.personal.md|gene.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/bio_chem_entity/gene.secret.md|gene.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/bio_chem_entity/gene|gene]] 
+- [[../../../../../_public/schema-org/Class/is_a_/bio_chem_entity/gene.public|gene.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/gene.internal|gene.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/bio_chem_entity/gene.protect|gene.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/bio_chem_entity/gene.private|gene.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/bio_chem_entity/gene.personal|gene.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/bio_chem_entity/gene.secret|gene.secret]] 

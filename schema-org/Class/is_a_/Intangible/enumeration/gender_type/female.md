@@ -45,9 +45,10 @@ The female gender.
 [ #is_/enum_of :: [[../GenderType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/gender_type/female.md|female]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.internal.md|female.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.protect.md|female.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.private.md|female.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.personal.md|female.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.secret.md|female.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/gender_type/female|female]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/gender_type/female.public|female.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.internal|female.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.protect|female.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.private|female.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.personal|female.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/gender_type/female.secret|female.secret]] 

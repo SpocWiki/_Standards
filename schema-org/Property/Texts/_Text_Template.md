@@ -56,9 +56,10 @@ Predicate describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/_Text_Template.md|_Text_Template]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/_Text_Template.internal.md|_Text_Template.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/_Text_Template.protect.md|_Text_Template.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/_Text_Template.private.md|_Text_Template.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/_Text_Template.personal.md|_Text_Template.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/_Text_Template.secret.md|_Text_Template.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/_Text_Template|_Text_Template]] 
+- [[../../../../_public/schema-org/Predicate/Texts/_Text_Template.public|_Text_Template.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/_Text_Template.internal|_Text_Template.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/_Text_Template.protect|_Text_Template.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/_Text_Template.private|_Text_Template.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/_Text_Template.personal|_Text_Template.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/_Text_Template.secret|_Text_Template.secret]] 

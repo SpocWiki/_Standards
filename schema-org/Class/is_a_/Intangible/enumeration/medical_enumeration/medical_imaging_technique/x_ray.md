@@ -45,9 +45,10 @@ X-ray imaging.
 [ #is_/enum_of :: [[../MedicalImagingTechnique]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.md|x_ray]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.internal.md|x_ray.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.protect.md|x_ray.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.private.md|x_ray.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.personal.md|x_ray.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.secret.md|x_ray.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray|x_ray]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.public|x_ray.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.internal|x_ray.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.protect|x_ray.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.private|x_ray.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.personal|x_ray.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique/x_ray.secret|x_ray.secret]] 

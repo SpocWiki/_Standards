@@ -47,9 +47,10 @@ Use it like this:
 #is_/inverse_of  :: [[has_sub_classes]]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/is_sub_class_of.md|is_sub_class_of]] 
-- [[../../../../_internal/schema.org/Predicate/Relations/is_sub_class_of.internal.md|is_sub_class_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_sub_class_of.protect.md|is_sub_class_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_sub_class_of.private.md|is_sub_class_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_sub_class_of.personal.md|is_sub_class_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_sub_class_of.secret.md|is_sub_class_of.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_sub_class_of|is_sub_class_of]] 
+- [[../../../../_public/schema-org/Predicate/Relations/is_sub_class_of.public|is_sub_class_of.public]] 
+- [[../../../../_internal/schema.org/Predicate/Relations/is_sub_class_of.internal|is_sub_class_of.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Relations/is_sub_class_of.protect|is_sub_class_of.protect]] 
+- [[../../../../_private/schema.org/Predicate/Relations/is_sub_class_of.private|is_sub_class_of.private]] 
+- [[../../../../_personal/schema.org/Predicate/Relations/is_sub_class_of.personal|is_sub_class_of.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Relations/is_sub_class_of.secret|is_sub_class_of.secret]] 

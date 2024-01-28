@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MusicAlbumProductionType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_album_production_type.md|has_album_production_type]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_album_production_type.internal.md|has_album_production_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_album_production_type.protect.md|has_album_production_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_album_production_type.private.md|has_album_production_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_album_production_type.personal.md|has_album_production_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_album_production_type.secret.md|has_album_production_type.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_album_production_type|has_album_production_type]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_album_production_type.public|has_album_production_type.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_album_production_type.internal|has_album_production_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_album_production_type.protect|has_album_production_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_album_production_type.private|has_album_production_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_album_production_type.personal|has_album_production_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_album_production_type.secret|has_album_production_type.secret]] 

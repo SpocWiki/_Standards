@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_role.md|has_name_of_role]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_role.internal.md|has_name_of_role.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_role.protect.md|has_name_of_role.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name_of_role.private.md|has_name_of_role.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name_of_role.personal.md|has_name_of_role.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name_of_role.secret.md|has_name_of_role.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_role|has_name_of_role]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_name_of_role.public|has_name_of_role.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_role.internal|has_name_of_role.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_role.protect|has_name_of_role.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_name_of_role.private|has_name_of_role.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_name_of_role.personal|has_name_of_role.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_name_of_role.secret|has_name_of_role.secret]] 

@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount, Number, PriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_base_salary.md|has_value_for_base_salary]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_base_salary.internal.md|has_value_for_base_salary.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_base_salary.protect.md|has_value_for_base_salary.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_base_salary.private.md|has_value_for_base_salary.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_base_salary.personal.md|has_value_for_base_salary.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_base_salary.secret.md|has_value_for_base_salary.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_base_salary|has_value_for_base_salary]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_base_salary.public|has_value_for_base_salary.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_base_salary.internal|has_value_for_base_salary.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_base_salary.protect|has_value_for_base_salary.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_base_salary.private|has_value_for_base_salary.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_base_salary.personal|has_value_for_base_salary.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_base_salary.secret|has_value_for_base_salary.secret]] 

@@ -45,9 +45,10 @@ Relation describes that:
 #is_/similar_to :: [[../has/has_next_item|has_next_item]]  
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_predecessor_of.md|is_predecessor_of]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_predecessor_of.internal.md|is_predecessor_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_predecessor_of.protect.md|is_predecessor_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_predecessor_of.private.md|is_predecessor_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_predecessor_of.personal.md|is_predecessor_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_predecessor_of.secret.md|is_predecessor_of.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_predecessor_of|is_predecessor_of]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/is_predecessor_of.public|is_predecessor_of.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_predecessor_of.internal|is_predecessor_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_predecessor_of.protect|is_predecessor_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_predecessor_of.private|is_predecessor_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_predecessor_of.personal|is_predecessor_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_predecessor_of.secret|is_predecessor_of.secret]] 

@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_posted.md|has_time_posted]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_posted.internal.md|has_time_posted.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_posted.protect.md|has_time_posted.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_posted.private.md|has_time_posted.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_posted.personal.md|has_time_posted.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_posted.secret.md|has_time_posted.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_posted|has_time_posted]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_posted.public|has_time_posted.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_posted.internal|has_time_posted.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_posted.protect|has_time_posted.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_posted.private|has_time_posted.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_posted.personal|has_time_posted.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_posted.secret|has_time_posted.secret]] 

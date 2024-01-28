@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_creative_work_status.md|has_creative_work_status]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_creative_work_status.internal.md|has_creative_work_status.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_creative_work_status.protect.md|has_creative_work_status.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_creative_work_status.private.md|has_creative_work_status.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_creative_work_status.personal.md|has_creative_work_status.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_creative_work_status.secret.md|has_creative_work_status.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_creative_work_status|has_creative_work_status]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_creative_work_status.public|has_creative_work_status.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_creative_work_status.internal|has_creative_work_status.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_creative_work_status.protect|has_creative_work_status.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_creative_work_status.private|has_creative_work_status.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_creative_work_status.personal|has_creative_work_status.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_creative_work_status.secret|has_creative_work_status.secret]] 

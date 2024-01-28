@@ -49,9 +49,10 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_rooms.md|has_number_of_number_of_rooms]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_rooms.internal.md|has_number_of_number_of_rooms.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_rooms.protect.md|has_number_of_number_of_rooms.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_rooms.private.md|has_number_of_number_of_rooms.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_rooms.personal.md|has_number_of_number_of_rooms.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_rooms.secret.md|has_number_of_number_of_rooms.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_rooms|has_number_of_number_of_rooms]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_number_of_rooms.public|has_number_of_number_of_rooms.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_rooms.internal|has_number_of_number_of_rooms.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_rooms.protect|has_number_of_number_of_rooms.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_rooms.private|has_number_of_number_of_rooms.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_rooms.personal|has_number_of_number_of_rooms.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_rooms.secret|has_number_of_number_of_rooms.secret]] 

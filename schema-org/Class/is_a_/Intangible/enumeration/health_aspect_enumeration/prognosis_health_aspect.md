@@ -47,9 +47,10 @@ Typical progression and happenings of life course of the topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.md|prognosis_health_aspect]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.internal.md|prognosis_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.protect.md|prognosis_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.private.md|prognosis_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.personal.md|prognosis_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.secret.md|prognosis_health_aspect.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect|prognosis_health_aspect]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.public|prognosis_health_aspect.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.internal|prognosis_health_aspect.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.protect|prognosis_health_aspect.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.private|prognosis_health_aspect.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.personal|prognosis_health_aspect.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prognosis_health_aspect.secret|prognosis_health_aspect.secret]] 

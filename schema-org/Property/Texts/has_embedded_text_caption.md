@@ -49,9 +49,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: caption ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_embedded_text_caption.md|has_embedded_text_caption]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_embedded_text_caption.internal.md|has_embedded_text_caption.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_embedded_text_caption.protect.md|has_embedded_text_caption.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_embedded_text_caption.private.md|has_embedded_text_caption.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_embedded_text_caption.personal.md|has_embedded_text_caption.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_embedded_text_caption.secret.md|has_embedded_text_caption.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_embedded_text_caption|has_embedded_text_caption]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_embedded_text_caption.public|has_embedded_text_caption.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_embedded_text_caption.internal|has_embedded_text_caption.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_embedded_text_caption.protect|has_embedded_text_caption.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_embedded_text_caption.private|has_embedded_text_caption.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_embedded_text_caption.personal|has_embedded_text_caption.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_embedded_text_caption.secret|has_embedded_text_caption.secret]] 

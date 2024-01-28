@@ -43,9 +43,10 @@ A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) 
 [ #has_/properties :: [ additionalType, alternateName, cssSelector, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, xpath ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/speakable_specification.md|speakable_specification]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/speakable_specification.internal.md|speakable_specification.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/speakable_specification.protect.md|speakable_specification.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/speakable_specification.private.md|speakable_specification.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/speakable_specification.personal.md|speakable_specification.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/speakable_specification.secret.md|speakable_specification.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/speakable_specification|speakable_specification]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/speakable_specification.public|speakable_specification.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/speakable_specification.internal|speakable_specification.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/speakable_specification.protect|speakable_specification.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/speakable_specification.private|speakable_specification.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/speakable_specification.personal|speakable_specification.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/speakable_specification.secret|speakable_specification.secret]] 

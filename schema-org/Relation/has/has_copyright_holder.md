@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_copyright_holder.md|has_copyright_holder]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_copyright_holder.internal.md|has_copyright_holder.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_copyright_holder.protect.md|has_copyright_holder.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_copyright_holder.private.md|has_copyright_holder.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_copyright_holder.personal.md|has_copyright_holder.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_copyright_holder.secret.md|has_copyright_holder.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_copyright_holder|has_copyright_holder]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_copyright_holder.public|has_copyright_holder.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_copyright_holder.internal|has_copyright_holder.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_copyright_holder.protect|has_copyright_holder.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_copyright_holder.private|has_copyright_holder.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_copyright_holder.personal|has_copyright_holder.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_copyright_holder.secret|has_copyright_holder.secret]] 

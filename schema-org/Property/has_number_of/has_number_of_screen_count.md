@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_screen_count.md|has_number_of_screen_count]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_screen_count.internal.md|has_number_of_screen_count.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_screen_count.protect.md|has_number_of_screen_count.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_screen_count.private.md|has_number_of_screen_count.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_screen_count.personal.md|has_number_of_screen_count.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_screen_count.secret.md|has_number_of_screen_count.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_screen_count|has_number_of_screen_count]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_screen_count.public|has_number_of_screen_count.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_screen_count.internal|has_number_of_screen_count.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_screen_count.protect|has_number_of_screen_count.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_screen_count.private|has_number_of_screen_count.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_screen_count.personal|has_number_of_screen_count.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_screen_count.secret|has_number_of_screen_count.secret]] 

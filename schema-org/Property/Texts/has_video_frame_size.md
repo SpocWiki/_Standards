@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_video_frame_size.md|has_video_frame_size]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_video_frame_size.internal.md|has_video_frame_size.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_video_frame_size.protect.md|has_video_frame_size.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_video_frame_size.private.md|has_video_frame_size.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_video_frame_size.personal.md|has_video_frame_size.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_video_frame_size.secret.md|has_video_frame_size.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_video_frame_size|has_video_frame_size]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_video_frame_size.public|has_video_frame_size.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_video_frame_size.internal|has_video_frame_size.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_video_frame_size.protect|has_video_frame_size.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_video_frame_size.private|has_video_frame_size.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_video_frame_size.personal|has_video_frame_size.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_video_frame_size.secret|has_video_frame_size.secret]] 

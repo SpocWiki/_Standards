@@ -45,9 +45,10 @@ OrderStatus representing that an order is being processed.
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.md|order_processing]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.internal.md|order_processing.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.protect.md|order_processing.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.private.md|order_processing.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.personal.md|order_processing.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.secret.md|order_processing.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing|order_processing]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.public|order_processing.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.internal|order_processing.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.protect|order_processing.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.private|order_processing.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.personal|order_processing.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_processing.secret|order_processing.secret]] 

@@ -45,9 +45,10 @@ Data derived from multiple randomized clinical trials or meta-analyses.
 [ #is_/enum_of :: [[../MedicalEvidenceLevel]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.md|evidence_level_a]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.internal.md|evidence_level_a.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.protect.md|evidence_level_a.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.private.md|evidence_level_a.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.personal.md|evidence_level_a.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.secret.md|evidence_level_a.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a|evidence_level_a]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.public|evidence_level_a.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.internal|evidence_level_a.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.protect|evidence_level_a.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.private|evidence_level_a.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.personal|evidence_level_a.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_evidence_level/evidence_level_a.secret|evidence_level_a.secret]] 

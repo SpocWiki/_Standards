@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_coding_system.md|has_coding_system]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_coding_system.internal.md|has_coding_system.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_coding_system.protect.md|has_coding_system.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_coding_system.private.md|has_coding_system.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_coding_system.personal.md|has_coding_system.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_coding_system.secret.md|has_coding_system.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_coding_system|has_coding_system]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_coding_system.public|has_coding_system.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_coding_system.internal|has_coding_system.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_coding_system.protect|has_coding_system.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_coding_system.private|has_coding_system.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_coding_system.personal|has_coding_system.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_coding_system.secret|has_coding_system.secret]] 

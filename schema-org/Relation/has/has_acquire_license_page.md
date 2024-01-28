@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: usageInfo ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_acquire_license_page.md|has_acquire_license_page]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_acquire_license_page.internal.md|has_acquire_license_page.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_acquire_license_page.protect.md|has_acquire_license_page.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_acquire_license_page.private.md|has_acquire_license_page.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_acquire_license_page.personal.md|has_acquire_license_page.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_acquire_license_page.secret.md|has_acquire_license_page.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_acquire_license_page|has_acquire_license_page]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_acquire_license_page.public|has_acquire_license_page.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_acquire_license_page.internal|has_acquire_license_page.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_acquire_license_page.protect|has_acquire_license_page.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_acquire_license_page.private|has_acquire_license_page.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_acquire_license_page.personal|has_acquire_license_page.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_acquire_license_page.secret|has_acquire_license_page.secret]] 

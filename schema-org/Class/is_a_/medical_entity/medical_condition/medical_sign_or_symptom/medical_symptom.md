@@ -43,9 +43,10 @@ Any complaint sensed and expressed by the patient (therefore defined as subjecti
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.md|medical_symptom]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.internal.md|medical_symptom.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.protect.md|medical_symptom.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.private.md|medical_symptom.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.personal.md|medical_symptom.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.secret.md|medical_symptom.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom|medical_symptom]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.public|medical_symptom.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.internal|medical_symptom.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.protect|medical_symptom.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.private|medical_symptom.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.personal|medical_symptom.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_condition/medical_sign_or_symptom/medical_symptom.secret|medical_symptom.secret]] 

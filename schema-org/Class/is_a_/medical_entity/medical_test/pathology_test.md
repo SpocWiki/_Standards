@@ -43,9 +43,10 @@ A medical test performed by a laboratory that typically involves examination of 
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, tissueSample, url, usedToDiagnose, usesDevice ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test.md|pathology_test]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.internal.md|pathology_test.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.protect.md|pathology_test.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.private.md|pathology_test.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.personal.md|pathology_test.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.secret.md|pathology_test.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test|pathology_test]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_test/pathology_test.public|pathology_test.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.internal|pathology_test.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.protect|pathology_test.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.private|pathology_test.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.personal|pathology_test.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_test/pathology_test.secret|pathology_test.secret]] 

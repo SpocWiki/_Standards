@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_order_item.md|has_id_order_item]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_order_item.internal.md|has_id_order_item.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_order_item.protect.md|has_id_order_item.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_order_item.private.md|has_id_order_item.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_order_item.personal.md|has_id_order_item.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_order_item.secret.md|has_id_order_item.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_order_item|has_id_order_item]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_order_item.public|has_id_order_item.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_order_item.internal|has_id_order_item.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_order_item.protect|has_id_order_item.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_order_item.private|has_id_order_item.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_order_item.personal|has_id_order_item.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_order_item.secret|has_id_order_item.secret]] 

@@ -45,9 +45,10 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible.md|medical_intangible]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_intangible.internal.md|medical_intangible.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_intangible.protect.md|medical_intangible.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_intangible.private.md|medical_intangible.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_intangible.personal.md|medical_intangible.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_intangible.secret.md|medical_intangible.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible|medical_intangible]] 
+- [[../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_intangible.public|medical_intangible.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_intangible.internal|medical_intangible.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_intangible.protect|medical_intangible.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_intangible.private|medical_intangible.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_intangible.personal|medical_intangible.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_intangible.secret|medical_intangible.secret]] 

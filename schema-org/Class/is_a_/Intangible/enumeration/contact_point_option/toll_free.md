@@ -45,9 +45,10 @@ The associated telephone number is toll free.
 [ #is_/enum_of :: [[../ContactPointOption]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.md|toll_free]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.internal.md|toll_free.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.protect.md|toll_free.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.private.md|toll_free.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.personal.md|toll_free.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.secret.md|toll_free.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free|toll_free]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.public|toll_free.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.internal|toll_free.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.protect|toll_free.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.private|toll_free.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.personal|toll_free.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/contact_point_option/toll_free.secret|toll_free.secret]] 

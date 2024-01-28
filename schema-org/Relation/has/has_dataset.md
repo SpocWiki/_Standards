@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../is/is_included_in_data_catalog]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_dataset.md|has_dataset]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_dataset.internal.md|has_dataset.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_dataset.protect.md|has_dataset.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_dataset.private.md|has_dataset.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_dataset.personal.md|has_dataset.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_dataset.secret.md|has_dataset.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_dataset|has_dataset]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_dataset.public|has_dataset.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_dataset.internal|has_dataset.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_dataset.protect|has_dataset.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_dataset.private|has_dataset.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_dataset.personal|has_dataset.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_dataset.secret|has_dataset.secret]] 

@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_location_address_region.md|has_location_address_region]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_location_address_region.internal.md|has_location_address_region.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_location_address_region.protect.md|has_location_address_region.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_location_address_region.private.md|has_location_address_region.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_location_address_region.personal.md|has_location_address_region.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_location_address_region.secret.md|has_location_address_region.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_location_address_region|has_location_address_region]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_location_address_region.public|has_location_address_region.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_location_address_region.internal|has_location_address_region.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_location_address_region.protect|has_location_address_region.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_location_address_region.private|has_location_address_region.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_location_address_region.personal|has_location_address_region.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_location_address_region.secret|has_location_address_region.secret]] 

@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: image ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_photo.md|has_photo]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_photo.internal.md|has_photo.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_photo.protect.md|has_photo.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_photo.private.md|has_photo.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_photo.personal.md|has_photo.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_photo.secret.md|has_photo.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_photo|has_photo]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_photo.public|has_photo.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_photo.internal|has_photo.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_photo.protect|has_photo.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_photo.private|has_photo.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_photo.personal|has_photo.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_photo.secret|has_photo.secret]] 

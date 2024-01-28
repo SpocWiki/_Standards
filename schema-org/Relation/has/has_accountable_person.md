@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_accountable_person.md|has_accountable_person]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accountable_person.internal.md|has_accountable_person.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_accountable_person.protect.md|has_accountable_person.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_accountable_person.private.md|has_accountable_person.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_accountable_person.personal.md|has_accountable_person.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_accountable_person.secret.md|has_accountable_person.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_accountable_person|has_accountable_person]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_accountable_person.public|has_accountable_person.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accountable_person.internal|has_accountable_person.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_accountable_person.protect|has_accountable_person.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_accountable_person.private|has_accountable_person.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_accountable_person.personal|has_accountable_person.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_accountable_person.secret|has_accountable_person.secret]] 

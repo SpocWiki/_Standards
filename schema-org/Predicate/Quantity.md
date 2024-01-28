@@ -74,9 +74,10 @@ Tag Instances like this:
 #is_a_/quantity
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity.md|quantity]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/quantity.internal.md|quantity.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/quantity.protect.md|quantity.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/quantity.private.md|quantity.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/quantity.personal.md|quantity.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/quantity.secret.md|quantity.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity|quantity]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/quantity.public|quantity.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/quantity.internal|quantity.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/quantity.protect|quantity.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/quantity.private|quantity.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/quantity.personal|quantity.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/quantity.secret|quantity.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: workFeatured ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_work_performed.md|has_work_performed]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_performed.internal.md|has_work_performed.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_work_performed.protect.md|has_work_performed.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_work_performed.private.md|has_work_performed.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_work_performed.personal.md|has_work_performed.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_work_performed.secret.md|has_work_performed.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_work_performed|has_work_performed]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_work_performed.public|has_work_performed.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_performed.internal|has_work_performed.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_work_performed.protect|has_work_performed.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_work_performed.private|has_work_performed.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_work_performed.personal|has_work_performed.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_work_performed.secret|has_work_performed.secret]] 

@@ -41,9 +41,10 @@ Enumerated for values for itemListOrder for indicating how an ordered ItemList i
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type.md|item_list_order_type]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.internal.md|item_list_order_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.protect.md|item_list_order_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.private.md|item_list_order_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.personal.md|item_list_order_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.secret.md|item_list_order_type.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type|item_list_order_type]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type.public|item_list_order_type.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.internal|item_list_order_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.protect|item_list_order_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.private|item_list_order_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.personal|item_list_order_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type.secret|item_list_order_type.secret]] 

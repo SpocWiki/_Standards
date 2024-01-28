@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_breastfeeding_warning.md|has_breastfeeding_warning]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_breastfeeding_warning.internal.md|has_breastfeeding_warning.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_breastfeeding_warning.protect.md|has_breastfeeding_warning.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_breastfeeding_warning.private.md|has_breastfeeding_warning.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_breastfeeding_warning.personal.md|has_breastfeeding_warning.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_breastfeeding_warning.secret.md|has_breastfeeding_warning.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_breastfeeding_warning|has_breastfeeding_warning]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_breastfeeding_warning.public|has_breastfeeding_warning.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_breastfeeding_warning.internal|has_breastfeeding_warning.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_breastfeeding_warning.protect|has_breastfeeding_warning.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_breastfeeding_warning.private|has_breastfeeding_warning.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_breastfeeding_warning.personal|has_breastfeeding_warning.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_breastfeeding_warning.secret|has_breastfeeding_warning.secret]] 

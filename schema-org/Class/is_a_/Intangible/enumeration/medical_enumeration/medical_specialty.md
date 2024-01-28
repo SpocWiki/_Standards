@@ -41,9 +41,10 @@ Any specific branch of medical science or practice. Medical specialities include
 [ #is_/sub_class_of :: [[../MedicalEnumeration, Specialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.md|medical_specialty]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.internal.md|medical_specialty.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.protect.md|medical_specialty.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.private.md|medical_specialty.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.personal.md|medical_specialty.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.secret.md|medical_specialty.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty|medical_specialty]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.public|medical_specialty.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.internal|medical_specialty.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.protect|medical_specialty.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.private|medical_specialty.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.personal|medical_specialty.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty.secret|medical_specialty.secret]] 

@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_incentive_compensation.md|has_incentive_compensation]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_incentive_compensation.internal.md|has_incentive_compensation.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_incentive_compensation.protect.md|has_incentive_compensation.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_incentive_compensation.private.md|has_incentive_compensation.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_incentive_compensation.personal.md|has_incentive_compensation.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_incentive_compensation.secret.md|has_incentive_compensation.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_incentive_compensation|has_incentive_compensation]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_incentive_compensation.public|has_incentive_compensation.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_incentive_compensation.internal|has_incentive_compensation.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_incentive_compensation.protect|has_incentive_compensation.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_incentive_compensation.private|has_incentive_compensation.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_incentive_compensation.personal|has_incentive_compensation.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_incentive_compensation.secret|has_incentive_compensation.secret]] 

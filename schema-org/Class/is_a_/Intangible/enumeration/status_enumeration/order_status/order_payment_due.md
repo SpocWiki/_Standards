@@ -45,9 +45,10 @@ OrderStatus representing that payment is due on an order.
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.md|order_payment_due]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.internal.md|order_payment_due.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.protect.md|order_payment_due.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.private.md|order_payment_due.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.personal.md|order_payment_due.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.secret.md|order_payment_due.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due|order_payment_due]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.public|order_payment_due.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.internal|order_payment_due.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.protect|order_payment_due.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.private|order_payment_due.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.personal|order_payment_due.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_payment_due.secret|order_payment_due.secret]] 

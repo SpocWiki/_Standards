@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_content_type.md|has_content_type]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_content_type.internal.md|has_content_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_content_type.protect.md|has_content_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_content_type.private.md|has_content_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_content_type.personal.md|has_content_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_content_type.secret.md|has_content_type.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_content_type|has_content_type]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_content_type.public|has_content_type.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_content_type.internal|has_content_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_content_type.protect|has_content_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_content_type.private|has_content_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_content_type.personal|has_content_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_content_type.secret|has_content_type.secret]] 

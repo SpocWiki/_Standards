@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalEntity)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_estimating_risk_of.md|is_estimating_risk_of]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_estimating_risk_of.internal.md|is_estimating_risk_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_estimating_risk_of.protect.md|is_estimating_risk_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_estimating_risk_of.private.md|is_estimating_risk_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_estimating_risk_of.personal.md|is_estimating_risk_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_estimating_risk_of.secret.md|is_estimating_risk_of.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_estimating_risk_of|is_estimating_risk_of]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_estimating_risk_of.public|is_estimating_risk_of.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_estimating_risk_of.internal|is_estimating_risk_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_estimating_risk_of.protect|is_estimating_risk_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_estimating_risk_of.private|is_estimating_risk_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_estimating_risk_of.personal|is_estimating_risk_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_estimating_risk_of.secret|is_estimating_risk_of.secret]] 

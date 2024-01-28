@@ -79,10 +79,11 @@ you can promote consistent Naming.
 Derived from [Schema.org](https://schema.org/docs/developers.html) 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/schema-org/Predicate.md|Predicate]] 
-- [[../../_internal/schema.org/Predicate.internal.md|Predicate.internal]] 
-- [[../../_protect/schema.org/Predicate.protect.md|Predicate.protect]] 
-- [[../../_private/schema.org/Predicate.private.md|Predicate.private]] 
-- [[../../_personal/schema.org/Predicate.personal.md|Predicate.personal]] 
-- [[../../_secret/schema.org/Predicate.secret.md|Predicate.secret]]
+- [[../../_Standards/schema-org/Predicate|Predicate]] 
+- [[../../_public/schema-org/Predicate.public|Predicate.public]] 
+- [[../../_internal/schema.org/Predicate.internal|Predicate.internal]] 
+- [[../../_protect/schema.org/Predicate.protect|Predicate.protect]] 
+- [[../../_private/schema.org/Predicate.private|Predicate.private]] 
+- [[../../_personal/schema.org/Predicate.personal|Predicate.personal]] 
+- [[../../_secret/schema.org/Predicate.secret|Predicate.secret]]
 

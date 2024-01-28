@@ -69,9 +69,10 @@ Data type: URL.
 [ #is_/sub_class_of :: [[../Text]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/text/url.md|url]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/url.internal.md|url.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/text/url.protect.md|url.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/data_type/text/url.private.md|url.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/text/url.personal.md|url.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/text/url.secret.md|url.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/text/url|url]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/data_type/text/url.public|url.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/url.internal|url.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/text/url.protect|url.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/data_type/text/url.private|url.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/text/url.personal|url.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/text/url.secret|url.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_exercise_related_diet.md|has_exercise_related_diet]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_exercise_related_diet.internal.md|has_exercise_related_diet.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_exercise_related_diet.protect.md|has_exercise_related_diet.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_exercise_related_diet.private.md|has_exercise_related_diet.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_exercise_related_diet.personal.md|has_exercise_related_diet.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_exercise_related_diet.secret.md|has_exercise_related_diet.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_exercise_related_diet|has_exercise_related_diet]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_exercise_related_diet.public|has_exercise_related_diet.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_exercise_related_diet.internal|has_exercise_related_diet.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_exercise_related_diet.protect|has_exercise_related_diet.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_exercise_related_diet.private|has_exercise_related_diet.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_exercise_related_diet.personal|has_exercise_related_diet.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_exercise_related_diet.secret|has_exercise_related_diet.secret]] 

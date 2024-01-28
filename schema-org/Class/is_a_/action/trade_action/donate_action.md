@@ -43,9 +43,10 @@ The act of providing goods, services, or money without compensation, often for p
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/trade_action/donate_action.md|donate_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/donate_action.internal.md|donate_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/donate_action.protect.md|donate_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/donate_action.private.md|donate_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/trade_action/donate_action.personal.md|donate_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/trade_action/donate_action.secret.md|donate_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/trade_action/donate_action|donate_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/trade_action/donate_action.public|donate_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/donate_action.internal|donate_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/donate_action.protect|donate_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/donate_action.private|donate_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/trade_action/donate_action.personal|donate_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/trade_action/donate_action.secret|donate_action.secret]] 

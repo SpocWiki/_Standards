@@ -53,9 +53,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_engine_displacement.md|has_value_for_engine_displacement]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_engine_displacement.internal.md|has_value_for_engine_displacement.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_engine_displacement.protect.md|has_value_for_engine_displacement.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_engine_displacement.private.md|has_value_for_engine_displacement.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_engine_displacement.personal.md|has_value_for_engine_displacement.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_engine_displacement.secret.md|has_value_for_engine_displacement.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_engine_displacement|has_value_for_engine_displacement]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_engine_displacement.public|has_value_for_engine_displacement.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_engine_displacement.internal|has_value_for_engine_displacement.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_engine_displacement.protect|has_value_for_engine_displacement.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_engine_displacement.private|has_value_for_engine_displacement.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_engine_displacement.personal|has_value_for_engine_displacement.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_engine_displacement.secret|has_value_for_engine_displacement.secret]] 

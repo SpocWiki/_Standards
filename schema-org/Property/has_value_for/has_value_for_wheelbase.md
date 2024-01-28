@@ -51,9 +51,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_wheelbase.md|has_value_for_wheelbase]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_wheelbase.internal.md|has_value_for_wheelbase.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_wheelbase.protect.md|has_value_for_wheelbase.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_wheelbase.private.md|has_value_for_wheelbase.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_wheelbase.personal.md|has_value_for_wheelbase.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_wheelbase.secret.md|has_value_for_wheelbase.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_wheelbase|has_value_for_wheelbase]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_wheelbase.public|has_value_for_wheelbase.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_wheelbase.internal|has_value_for_wheelbase.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_wheelbase.protect|has_value_for_wheelbase.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_wheelbase.private|has_value_for_wheelbase.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_wheelbase.personal|has_value_for_wheelbase.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_wheelbase.secret|has_value_for_wheelbase.secret]] 

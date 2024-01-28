@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_cost_origin.md|has_cost_origin]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_cost_origin.internal.md|has_cost_origin.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_cost_origin.protect.md|has_cost_origin.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_cost_origin.private.md|has_cost_origin.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_cost_origin.personal.md|has_cost_origin.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_cost_origin.secret.md|has_cost_origin.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_cost_origin|has_cost_origin]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_cost_origin.public|has_cost_origin.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_cost_origin.internal|has_cost_origin.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_cost_origin.protect|has_cost_origin.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_cost_origin.private|has_cost_origin.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_cost_origin.personal|has_cost_origin.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_cost_origin.secret|has_cost_origin.secret]] 

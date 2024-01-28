@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: translationOfWork ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_work_translation.md|has_work_translation]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_translation.internal.md|has_work_translation.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_work_translation.protect.md|has_work_translation.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_work_translation.private.md|has_work_translation.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_work_translation.personal.md|has_work_translation.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_work_translation.secret.md|has_work_translation.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_work_translation|has_work_translation]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_work_translation.public|has_work_translation.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_translation.internal|has_work_translation.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_work_translation.protect|has_work_translation.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_work_translation.private|has_work_translation.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_work_translation.personal|has_work_translation.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_work_translation.secret|has_work_translation.secret]] 

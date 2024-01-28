@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_video_quality.md|has_video_quality]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_video_quality.internal.md|has_video_quality.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_video_quality.protect.md|has_video_quality.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_video_quality.private.md|has_video_quality.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_video_quality.personal.md|has_video_quality.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_video_quality.secret.md|has_video_quality.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_video_quality|has_video_quality]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_video_quality.public|has_video_quality.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_video_quality.internal|has_video_quality.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_video_quality.protect|has_video_quality.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_video_quality.private|has_video_quality.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_video_quality.personal|has_video_quality.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_video_quality.secret|has_video_quality.secret]] 

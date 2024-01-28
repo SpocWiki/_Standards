@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_remaining_attendees.md|has_number_of_remaining_attendees]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_remaining_attendees.internal.md|has_number_of_remaining_attendees.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_remaining_attendees.protect.md|has_number_of_remaining_attendees.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_remaining_attendees.private.md|has_number_of_remaining_attendees.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_remaining_attendees.personal.md|has_number_of_remaining_attendees.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_remaining_attendees.secret.md|has_number_of_remaining_attendees.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_remaining_attendees|has_number_of_remaining_attendees]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_remaining_attendees.public|has_number_of_remaining_attendees.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_remaining_attendees.internal|has_number_of_remaining_attendees.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_remaining_attendees.protect|has_number_of_remaining_attendees.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_remaining_attendees.private|has_number_of_remaining_attendees.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_remaining_attendees.personal|has_number_of_remaining_attendees.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_remaining_attendees.secret|has_number_of_remaining_attendees.secret]] 

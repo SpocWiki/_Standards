@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_tracks.md|has_number_of_tracks]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_tracks.internal.md|has_number_of_tracks.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_tracks.protect.md|has_number_of_tracks.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_tracks.private.md|has_number_of_tracks.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_tracks.personal.md|has_number_of_tracks.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_tracks.secret.md|has_number_of_tracks.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_tracks|has_number_of_tracks]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_tracks.public|has_number_of_tracks.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_tracks.internal|has_number_of_tracks.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_tracks.protect|has_number_of_tracks.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_tracks.private|has_number_of_tracks.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_tracks.personal|has_number_of_tracks.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_tracks.secret|has_number_of_tracks.secret]] 

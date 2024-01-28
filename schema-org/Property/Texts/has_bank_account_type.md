@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_bank_account_type.md|has_bank_account_type]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_bank_account_type.internal.md|has_bank_account_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_bank_account_type.protect.md|has_bank_account_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_bank_account_type.private.md|has_bank_account_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_bank_account_type.personal.md|has_bank_account_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_bank_account_type.secret.md|has_bank_account_type.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_bank_account_type|has_bank_account_type]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_bank_account_type.public|has_bank_account_type.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_bank_account_type.internal|has_bank_account_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_bank_account_type.protect|has_bank_account_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_bank_account_type.private|has_bank_account_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_bank_account_type.personal|has_bank_account_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_bank_account_type.secret|has_bank_account_type.secret]] 

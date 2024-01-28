@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: BusinessEntityType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_eligible_customer_type.md|has_eligible_customer_type]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_eligible_customer_type.internal.md|has_eligible_customer_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_eligible_customer_type.protect.md|has_eligible_customer_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_eligible_customer_type.private.md|has_eligible_customer_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_eligible_customer_type.personal.md|has_eligible_customer_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_eligible_customer_type.secret.md|has_eligible_customer_type.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_eligible_customer_type|has_eligible_customer_type]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_eligible_customer_type.public|has_eligible_customer_type.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_eligible_customer_type.internal|has_eligible_customer_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_eligible_customer_type.protect|has_eligible_customer_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_eligible_customer_type.private|has_eligible_customer_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_eligible_customer_type.personal|has_eligible_customer_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_eligible_customer_type.secret|has_eligible_customer_type.secret]] 

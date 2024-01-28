@@ -43,9 +43,10 @@ An instance of a [[Course]] which is distinct from other instances because it is
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, courseMode, courseWorkload, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, instructor, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/event/course_instance.md|course_instance]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/event/course_instance.internal.md|course_instance.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/event/course_instance.protect.md|course_instance.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/event/course_instance.private.md|course_instance.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/event/course_instance.personal.md|course_instance.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/event/course_instance.secret.md|course_instance.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/event/course_instance|course_instance]] 
+- [[../../../../../_public/schema-org/Class/is_a_/event/course_instance.public|course_instance.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/course_instance.internal|course_instance.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/course_instance.protect|course_instance.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/course_instance.private|course_instance.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/course_instance.personal|course_instance.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/course_instance.secret|course_instance.secret]] 

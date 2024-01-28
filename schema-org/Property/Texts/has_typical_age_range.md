@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_typical_age_range.md|has_typical_age_range]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_typical_age_range.internal.md|has_typical_age_range.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_typical_age_range.protect.md|has_typical_age_range.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_typical_age_range.private.md|has_typical_age_range.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_typical_age_range.personal.md|has_typical_age_range.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_typical_age_range.secret.md|has_typical_age_range.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_typical_age_range|has_typical_age_range]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_typical_age_range.public|has_typical_age_range.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_typical_age_range.internal|has_typical_age_range.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_typical_age_range.protect|has_typical_age_range.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_typical_age_range.private|has_typical_age_range.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_typical_age_range.personal|has_typical_age_range.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_typical_age_range.secret|has_typical_age_range.secret]] 

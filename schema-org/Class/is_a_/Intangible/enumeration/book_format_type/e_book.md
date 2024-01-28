@@ -45,9 +45,10 @@ Book format: Ebook.
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/book_format_type/e_book.md|e_book]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.internal.md|e_book.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.protect.md|e_book.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.private.md|e_book.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.personal.md|e_book.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.secret.md|e_book.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/book_format_type/e_book|e_book]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/book_format_type/e_book.public|e_book.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.internal|e_book.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.protect|e_book.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.private|e_book.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.personal|e_book.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/book_format_type/e_book.secret|e_book.secret]] 

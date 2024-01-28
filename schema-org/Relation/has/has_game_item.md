@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_game_item.md|has_game_item]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game_item.internal.md|has_game_item.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_game_item.protect.md|has_game_item.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_game_item.private.md|has_game_item.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_game_item.personal.md|has_game_item.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_game_item.secret.md|has_game_item.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_game_item|has_game_item]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_game_item.public|has_game_item.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game_item.internal|has_game_item.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_game_item.protect|has_game_item.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_game_item.private|has_game_item.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_game_item.personal|has_game_item.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_game_item.secret|has_game_item.secret]] 

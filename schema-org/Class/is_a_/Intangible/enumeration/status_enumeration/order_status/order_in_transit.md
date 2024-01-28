@@ -45,9 +45,10 @@ OrderStatus representing that an order is in transit.
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.md|order_in_transit]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.internal.md|order_in_transit.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.protect.md|order_in_transit.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.private.md|order_in_transit.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.personal.md|order_in_transit.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.secret.md|order_in_transit.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit|order_in_transit]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.public|order_in_transit.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.internal|order_in_transit.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.protect|order_in_transit.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.private|order_in_transit.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.personal|order_in_transit.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_in_transit.secret|order_in_transit.secret]] 

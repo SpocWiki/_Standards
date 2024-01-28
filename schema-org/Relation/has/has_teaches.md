@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_teaches.md|has_teaches]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_teaches.internal.md|has_teaches.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_teaches.protect.md|has_teaches.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_teaches.private.md|has_teaches.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_teaches.personal.md|has_teaches.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_teaches.secret.md|has_teaches.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_teaches|has_teaches]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_teaches.public|has_teaches.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_teaches.internal|has_teaches.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_teaches.protect|has_teaches.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_teaches.private|has_teaches.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_teaches.personal|has_teaches.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_teaches.secret|has_teaches.secret]] 

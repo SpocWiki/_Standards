@@ -45,9 +45,10 @@ The medical care by a physician, or other health-care professional, who is the p
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.md|primary_care]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.internal.md|primary_care.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.protect.md|primary_care.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.private.md|primary_care.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.personal.md|primary_care.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.secret.md|primary_care.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care|primary_care]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/primary_care.public|primary_care.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.internal|primary_care.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.protect|primary_care.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.private|primary_care.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.personal|primary_care.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/primary_care.secret|primary_care.secret]] 

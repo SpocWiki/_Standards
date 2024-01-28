@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_exercise_type.md|has_exercise_type]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_exercise_type.internal.md|has_exercise_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_exercise_type.protect.md|has_exercise_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_exercise_type.private.md|has_exercise_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_exercise_type.personal.md|has_exercise_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_exercise_type.secret.md|has_exercise_type.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_exercise_type|has_exercise_type]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_exercise_type.public|has_exercise_type.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_exercise_type.internal|has_exercise_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_exercise_type.protect|has_exercise_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_exercise_type.private|has_exercise_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_exercise_type.personal|has_exercise_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_exercise_type.secret|has_exercise_type.secret]] 

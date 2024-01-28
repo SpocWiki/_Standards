@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_expected_arrival_until.md|has_time_of_expected_arrival_until]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.internal.md|has_time_of_expected_arrival_until.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.protect.md|has_time_of_expected_arrival_until.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.private.md|has_time_of_expected_arrival_until.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.personal.md|has_time_of_expected_arrival_until.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.secret.md|has_time_of_expected_arrival_until.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_expected_arrival_until|has_time_of_expected_arrival_until]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_expected_arrival_until.public|has_time_of_expected_arrival_until.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.internal|has_time_of_expected_arrival_until.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.protect|has_time_of_expected_arrival_until.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.private|has_time_of_expected_arrival_until.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.personal|has_time_of_expected_arrival_until.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_until.secret|has_time_of_expected_arrival_until.secret]] 

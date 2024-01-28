@@ -47,9 +47,10 @@ Represents the installment pricing component of the total price for an offered p
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.md|installment]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.internal.md|installment.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.protect.md|installment.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.private.md|installment.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.personal.md|installment.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.secret.md|installment.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment|installment]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.public|installment.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.internal|installment.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.protect|installment.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.private|installment.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.personal|installment.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/installment.secret|installment.secret]] 

@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_of_health_plan_standard.md|has_id_of_health_plan_standard]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_of_health_plan_standard.internal.md|has_id_of_health_plan_standard.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_of_health_plan_standard.protect.md|has_id_of_health_plan_standard.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_of_health_plan_standard.private.md|has_id_of_health_plan_standard.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_of_health_plan_standard.personal.md|has_id_of_health_plan_standard.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_of_health_plan_standard.secret.md|has_id_of_health_plan_standard.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_of_health_plan_standard|has_id_of_health_plan_standard]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_of_health_plan_standard.public|has_id_of_health_plan_standard.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_of_health_plan_standard.internal|has_id_of_health_plan_standard.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_of_health_plan_standard.protect|has_id_of_health_plan_standard.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_of_health_plan_standard.private|has_id_of_health_plan_standard.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_of_health_plan_standard.personal|has_id_of_health_plan_standard.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_of_health_plan_standard.secret|has_id_of_health_plan_standard.secret]] 

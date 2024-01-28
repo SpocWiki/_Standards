@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_step.md|has_value_for_step]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_step.internal.md|has_value_for_step.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_step.protect.md|has_value_for_step.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_step.private.md|has_value_for_step.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_step.personal.md|has_value_for_step.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_step.secret.md|has_value_for_step.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_step|has_value_for_step]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_step.public|has_value_for_step.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_step.internal|has_value_for_step.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_step.protect|has_value_for_step.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_step.private|has_value_for_step.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_step.personal|has_value_for_step.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_step.secret|has_value_for_step.secret]] 

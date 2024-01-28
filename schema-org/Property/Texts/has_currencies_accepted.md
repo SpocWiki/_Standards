@@ -49,9 +49,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_currencies_accepted.md|has_currencies_accepted]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_currencies_accepted.internal.md|has_currencies_accepted.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_currencies_accepted.protect.md|has_currencies_accepted.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_currencies_accepted.private.md|has_currencies_accepted.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_currencies_accepted.personal.md|has_currencies_accepted.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_currencies_accepted.secret.md|has_currencies_accepted.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_currencies_accepted|has_currencies_accepted]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_currencies_accepted.public|has_currencies_accepted.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_currencies_accepted.internal|has_currencies_accepted.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_currencies_accepted.protect|has_currencies_accepted.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_currencies_accepted.private|has_currencies_accepted.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_currencies_accepted.personal|has_currencies_accepted.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_currencies_accepted.secret|has_currencies_accepted.secret]] 

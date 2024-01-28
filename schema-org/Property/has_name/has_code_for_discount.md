@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_for_discount.md|has_code_for_discount]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_code_for_discount.internal.md|has_code_for_discount.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_code_for_discount.protect.md|has_code_for_discount.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_code_for_discount.private.md|has_code_for_discount.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_code_for_discount.personal.md|has_code_for_discount.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_code_for_discount.secret.md|has_code_for_discount.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_for_discount|has_code_for_discount]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_code_for_discount.public|has_code_for_discount.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_code_for_discount.internal|has_code_for_discount.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_code_for_discount.protect|has_code_for_discount.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_code_for_discount.private|has_code_for_discount.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_code_for_discount.personal|has_code_for_discount.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_code_for_discount.secret|has_code_for_discount.secret]] 

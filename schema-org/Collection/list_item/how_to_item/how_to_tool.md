@@ -43,9 +43,10 @@ A tool used (but not consumed) when performing instructions for how to achieve a
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, item, mainEntityOfPage, name, nextItem, position, potentialAction, previousItem, requiredQuantity, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.md|how_to_tool]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.internal.md|how_to_tool.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.protect.md|how_to_tool.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.private.md|how_to_tool.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.personal.md|how_to_tool.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.secret.md|how_to_tool.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool|how_to_tool]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.public|how_to_tool.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.internal|how_to_tool.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.protect|how_to_tool.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.private|how_to_tool.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.personal|how_to_tool.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/list_item/how_to_item/how_to_tool.secret|how_to_tool.secret]] 

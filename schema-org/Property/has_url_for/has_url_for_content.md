@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_content_url.md|has_url_for_content_url]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_content_url.internal.md|has_url_for_content_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_content_url.protect.md|has_url_for_content_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_content_url.private.md|has_url_for_content_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_content_url.personal.md|has_url_for_content_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_content_url.secret.md|has_url_for_content_url.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_content_url|has_url_for_content_url]] 
+- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_content_url.public|has_url_for_content_url.public]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_content_url.internal|has_url_for_content_url.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_content_url.protect|has_url_for_content_url.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_content_url.private|has_url_for_content_url.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_content_url.personal|has_url_for_content_url.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_content_url.secret|has_url_for_content_url.secret]] 

@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Drug )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_drug.md|has_drug]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_drug.internal.md|has_drug.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_drug.protect.md|has_drug.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_drug.private.md|has_drug.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_drug.personal.md|has_drug.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_drug.secret.md|has_drug.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_drug|has_drug]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_drug.public|has_drug.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_drug.internal|has_drug.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_drug.protect|has_drug.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_drug.private|has_drug.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_drug.personal|has_drug.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_drug.secret|has_drug.secret]] 

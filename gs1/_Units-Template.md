@@ -33,10 +33,11 @@ aliases:
 {{Definition}}.
 
 ## Confidential Links & Embeds: 
-- [[../../_public/gs1/_Units-Template.md|_Units-Template]] 
-- [[../../_internal/gs1/_Units-Template.internal.md|_Units-Template.internal]] 
-- [[../../_protect/gs1/_Units-Template.protect.md|_Units-Template.protect]] 
-- [[../../_private/gs1/_Units-Template.private.md|_Units-Template.private]] 
-- [[../../_personal/gs1/_Units-Template.personal.md|_Units-Template.personal]] 
-- [[../../_secret/gs1/_Units-Template.secret.md|_Units-Template.secret]]
+- [[../../_Standards/gs1/_Units-Template|_Units-Template]] 
+- [[../../_public/gs1/_Units-Template.public|_Units-Template.public]] 
+- [[../../_internal/gs1/_Units-Template.internal|_Units-Template.internal]] 
+- [[../../_protect/gs1/_Units-Template.protect|_Units-Template.protect]] 
+- [[../../_private/gs1/_Units-Template.private|_Units-Template.private]] 
+- [[../../_personal/gs1/_Units-Template.personal|_Units-Template.personal]] 
+- [[../../_secret/gs1/_Units-Template.secret|_Units-Template.secret]]
 

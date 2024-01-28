@@ -45,9 +45,10 @@ The act of participating in an exchange of goods and services for monetary compe
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/action/trade_action.md|trade_action]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/action/trade_action.internal.md|trade_action.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/action/trade_action.protect.md|trade_action.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/action/trade_action.private.md|trade_action.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/action/trade_action.personal.md|trade_action.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/action/trade_action.secret.md|trade_action.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/action/trade_action|trade_action]] 
+- [[../../../../../_public/schema-org/Class/is_a_/action/trade_action.public|trade_action.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/trade_action.internal|trade_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/trade_action.protect|trade_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/trade_action.private|trade_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/trade_action.personal|trade_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/trade_action.secret|trade_action.secret]] 

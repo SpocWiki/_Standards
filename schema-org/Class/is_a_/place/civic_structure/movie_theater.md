@@ -43,9 +43,10 @@ A movie theater.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, screenCount, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/movie_theater.md|movie_theater]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/movie_theater.internal.md|movie_theater.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/movie_theater.protect.md|movie_theater.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/movie_theater.private.md|movie_theater.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/movie_theater.personal.md|movie_theater.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/movie_theater.secret.md|movie_theater.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/movie_theater|movie_theater]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/movie_theater.public|movie_theater.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/movie_theater.internal|movie_theater.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/movie_theater.protect|movie_theater.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/movie_theater.private|movie_theater.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/movie_theater.personal|movie_theater.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/movie_theater.secret|movie_theater.secret]] 

@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_link_relationship.md|has_link_relationship]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_link_relationship.internal.md|has_link_relationship.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_link_relationship.protect.md|has_link_relationship.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_link_relationship.private.md|has_link_relationship.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_link_relationship.personal.md|has_link_relationship.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_link_relationship.secret.md|has_link_relationship.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_link_relationship|has_link_relationship]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_link_relationship.public|has_link_relationship.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_link_relationship.internal|has_link_relationship.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_link_relationship.protect|has_link_relationship.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_link_relationship.private|has_link_relationship.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_link_relationship.personal|has_link_relationship.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_link_relationship.secret|has_link_relationship.secret]] 

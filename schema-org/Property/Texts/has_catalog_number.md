@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_catalog_number.md|has_catalog_number]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_catalog_number.internal.md|has_catalog_number.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_catalog_number.protect.md|has_catalog_number.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_catalog_number.private.md|has_catalog_number.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_catalog_number.personal.md|has_catalog_number.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_catalog_number.secret.md|has_catalog_number.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_catalog_number|has_catalog_number]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_catalog_number.public|has_catalog_number.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_catalog_number.internal|has_catalog_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_catalog_number.protect|has_catalog_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_catalog_number.private|has_catalog_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_catalog_number.personal|has_catalog_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_catalog_number.secret|has_catalog_number.secret]] 

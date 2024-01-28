@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalEvidenceLevel )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_evidence_level.md|has_evidence_level]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_evidence_level.internal.md|has_evidence_level.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_evidence_level.protect.md|has_evidence_level.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_evidence_level.private.md|has_evidence_level.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_evidence_level.personal.md|has_evidence_level.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_evidence_level.secret.md|has_evidence_level.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_evidence_level|has_evidence_level]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_evidence_level.public|has_evidence_level.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_evidence_level.internal|has_evidence_level.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_evidence_level.protect|has_evidence_level.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_evidence_level.private|has_evidence_level.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_evidence_level.personal|has_evidence_level.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_evidence_level.secret|has_evidence_level.secret]] 

@@ -47,9 +47,10 @@ Predicated describes that:
 [ #has_/sub_properties :: [ legislationType ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_genre.md|has_genre]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_genre.internal.md|has_genre.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_genre.protect.md|has_genre.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_genre.private.md|has_genre.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_genre.personal.md|has_genre.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_genre.secret.md|has_genre.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_genre|has_genre]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_genre.public|has_genre.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_genre.internal|has_genre.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_genre.protect|has_genre.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_genre.private|has_genre.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_genre.personal|has_genre.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_genre.secret|has_genre.secret]] 

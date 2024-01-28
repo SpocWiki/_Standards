@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_amount_of_this_good.md|has_value_for_amount_of_this_good]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.internal.md|has_value_for_amount_of_this_good.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.protect.md|has_value_for_amount_of_this_good.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.private.md|has_value_for_amount_of_this_good.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.personal.md|has_value_for_amount_of_this_good.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.secret.md|has_value_for_amount_of_this_good.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_amount_of_this_good|has_value_for_amount_of_this_good]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_amount_of_this_good.public|has_value_for_amount_of_this_good.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.internal|has_value_for_amount_of_this_good.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.protect|has_value_for_amount_of_this_good.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.private|has_value_for_amount_of_this_good.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.personal|has_value_for_amount_of_this_good.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_amount_of_this_good.secret|has_value_for_amount_of_this_good.secret]] 

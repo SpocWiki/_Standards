@@ -49,9 +49,10 @@ Commonly used values:
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/warranty_scope.md|warranty_scope]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.internal.md|warranty_scope.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.protect.md|warranty_scope.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.private.md|warranty_scope.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.personal.md|warranty_scope.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.secret.md|warranty_scope.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/warranty_scope|warranty_scope]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/warranty_scope.public|warranty_scope.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.internal|warranty_scope.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.protect|warranty_scope.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.private|warranty_scope.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.personal|warranty_scope.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/warranty_scope.secret|warranty_scope.secret]] 

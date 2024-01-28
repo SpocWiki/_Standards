@@ -47,9 +47,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: gtin, identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_gtin12.md|has_gtin12]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_gtin12.internal.md|has_gtin12.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_gtin12.protect.md|has_gtin12.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_gtin12.private.md|has_gtin12.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_gtin12.personal.md|has_gtin12.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_gtin12.secret.md|has_gtin12.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_gtin12|has_gtin12]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_gtin12.public|has_gtin12.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_gtin12.internal|has_gtin12.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_gtin12.protect|has_gtin12.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_gtin12.private|has_gtin12.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_gtin12.personal|has_gtin12.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_gtin12.secret|has_gtin12.secret]] 

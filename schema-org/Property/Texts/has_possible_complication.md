@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_possible_complication.md|has_possible_complication]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_possible_complication.internal.md|has_possible_complication.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_possible_complication.protect.md|has_possible_complication.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_possible_complication.private.md|has_possible_complication.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_possible_complication.personal.md|has_possible_complication.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_possible_complication.secret.md|has_possible_complication.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_possible_complication|has_possible_complication]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_possible_complication.public|has_possible_complication.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_possible_complication.internal|has_possible_complication.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_possible_complication.protect|has_possible_complication.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_possible_complication.private|has_possible_complication.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_possible_complication.personal|has_possible_complication.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_possible_complication.secret|has_possible_complication.secret]] 

@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: actor ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_read_by.md|has_read_by]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_read_by.internal.md|has_read_by.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_read_by.protect.md|has_read_by.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_read_by.private.md|has_read_by.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_read_by.personal.md|has_read_by.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_read_by.secret.md|has_read_by.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_read_by|has_read_by]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_read_by.public|has_read_by.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_read_by.internal|has_read_by.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_read_by.protect|has_read_by.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_read_by.private|has_read_by.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_read_by.personal|has_read_by.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_read_by.secret|has_read_by.secret]] 

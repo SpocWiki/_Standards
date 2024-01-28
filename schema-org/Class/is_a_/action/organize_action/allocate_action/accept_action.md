@@ -49,9 +49,10 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action.md|accept_action]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.internal.md|accept_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.protect.md|accept_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.private.md|accept_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.personal.md|accept_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.secret.md|accept_action.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action|accept_action]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/action/organize_action/allocate_action/accept_action.public|accept_action.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.internal|accept_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.protect|accept_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.private|accept_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.personal|accept_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/allocate_action/accept_action.secret|accept_action.secret]] 

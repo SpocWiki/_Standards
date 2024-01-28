@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_upvotes.md|has_number_of_upvotes]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_upvotes.internal.md|has_number_of_upvotes.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_upvotes.protect.md|has_number_of_upvotes.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_upvotes.private.md|has_number_of_upvotes.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_upvotes.personal.md|has_number_of_upvotes.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_upvotes.secret.md|has_number_of_upvotes.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_upvotes|has_number_of_upvotes]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_upvotes.public|has_number_of_upvotes.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_upvotes.internal|has_number_of_upvotes.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_upvotes.protect|has_number_of_upvotes.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_upvotes.private|has_number_of_upvotes.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_upvotes.personal|has_number_of_upvotes.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_upvotes.secret|has_number_of_upvotes.secret]] 

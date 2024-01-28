@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: ImageObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_thumbnail.md|has_thumbnail]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_thumbnail.internal.md|has_thumbnail.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_thumbnail.protect.md|has_thumbnail.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_thumbnail.private.md|has_thumbnail.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_thumbnail.personal.md|has_thumbnail.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_thumbnail.secret.md|has_thumbnail.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_thumbnail|has_thumbnail]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_thumbnail.public|has_thumbnail.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_thumbnail.internal|has_thumbnail.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_thumbnail.protect|has_thumbnail.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_thumbnail.private|has_thumbnail.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_thumbnail.personal|has_thumbnail.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_thumbnail.secret|has_thumbnail.secret]] 

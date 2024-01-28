@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_assembly_version.md|has_assembly_version]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_assembly_version.internal.md|has_assembly_version.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_assembly_version.protect.md|has_assembly_version.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_assembly_version.private.md|has_assembly_version.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_assembly_version.personal.md|has_assembly_version.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_assembly_version.secret.md|has_assembly_version.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_assembly_version|has_assembly_version]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_assembly_version.public|has_assembly_version.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_assembly_version.internal|has_assembly_version.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_assembly_version.protect|has_assembly_version.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_assembly_version.private|has_assembly_version.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_assembly_version.personal|has_assembly_version.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_assembly_version.secret|has_assembly_version.secret]] 

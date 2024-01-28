@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: GenderType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_gender.md|has_gender]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_gender.internal.md|has_gender.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_gender.protect.md|has_gender.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_gender.private.md|has_gender.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_gender.personal.md|has_gender.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_gender.secret.md|has_gender.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_gender|has_gender]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_gender.public|has_gender.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_gender.internal|has_gender.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_gender.protect|has_gender.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_gender.private|has_gender.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_gender.personal|has_gender.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_gender.secret|has_gender.secret]] 

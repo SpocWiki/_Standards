@@ -47,9 +47,10 @@ Indicated that a return label must be downloaded and printed by the customer.
 [ #is_/enum_of :: [[../ReturnLabelSourceEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.md|return_label_download_and_print]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.internal.md|return_label_download_and_print.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.protect.md|return_label_download_and_print.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.private.md|return_label_download_and_print.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.personal.md|return_label_download_and_print.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.secret.md|return_label_download_and_print.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print|return_label_download_and_print]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.public|return_label_download_and_print.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.internal|return_label_download_and_print.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.protect|return_label_download_and_print.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.private|return_label_download_and_print.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.personal|return_label_download_and_print.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration/return_label_download_and_print.secret|return_label_download_and_print.secret]] 

@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_required_gender.md|has_required_gender]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_required_gender.internal.md|has_required_gender.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_required_gender.protect.md|has_required_gender.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_required_gender.private.md|has_required_gender.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_required_gender.personal.md|has_required_gender.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_required_gender.secret.md|has_required_gender.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_required_gender|has_required_gender]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_required_gender.public|has_required_gender.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_required_gender.internal|has_required_gender.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_required_gender.protect|has_required_gender.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_required_gender.private|has_required_gender.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_required_gender.personal|has_required_gender.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_required_gender.secret|has_required_gender.secret]] 

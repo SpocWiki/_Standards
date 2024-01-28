@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: HealthInsurancePlan)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_included_in_health_insurance_plan.md|is_included_in_health_insurance_plan]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.internal.md|is_included_in_health_insurance_plan.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.protect.md|is_included_in_health_insurance_plan.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.private.md|is_included_in_health_insurance_plan.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.personal.md|is_included_in_health_insurance_plan.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.secret.md|is_included_in_health_insurance_plan.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_included_in_health_insurance_plan|is_included_in_health_insurance_plan]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_included_in_health_insurance_plan.public|is_included_in_health_insurance_plan.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.internal|is_included_in_health_insurance_plan.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.protect|is_included_in_health_insurance_plan.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.private|is_included_in_health_insurance_plan.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.personal|is_included_in_health_insurance_plan.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_included_in_health_insurance_plan.secret|is_included_in_health_insurance_plan.secret]] 

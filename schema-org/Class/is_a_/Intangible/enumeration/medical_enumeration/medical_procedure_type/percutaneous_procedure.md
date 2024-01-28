@@ -45,9 +45,10 @@ A type of medical procedure that involves percutaneous techniques, where access 
 [ #is_/enum_of :: [[../MedicalProcedureType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.md|percutaneous_procedure]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.internal.md|percutaneous_procedure.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.protect.md|percutaneous_procedure.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.private.md|percutaneous_procedure.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.personal.md|percutaneous_procedure.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.secret.md|percutaneous_procedure.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure|percutaneous_procedure]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.public|percutaneous_procedure.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.internal|percutaneous_procedure.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.protect|percutaneous_procedure.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.private|percutaneous_procedure.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.personal|percutaneous_procedure.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/percutaneous_procedure.secret|percutaneous_procedure.secret]] 

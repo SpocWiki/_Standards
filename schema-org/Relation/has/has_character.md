@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_character.md|has_character]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_character.internal.md|has_character.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_character.protect.md|has_character.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_character.private.md|has_character.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_character.personal.md|has_character.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_character.secret.md|has_character.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_character|has_character]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_character.public|has_character.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_character.internal|has_character.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_character.protect|has_character.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_character.private|has_character.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_character.personal|has_character.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_character.secret|has_character.secret]] 

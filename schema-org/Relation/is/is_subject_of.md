@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [is_about](../is/is_about.md) ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_subject_of.md|is_subject_of]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_subject_of.internal.md|is_subject_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_subject_of.protect.md|is_subject_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_subject_of.private.md|is_subject_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_subject_of.personal.md|is_subject_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_subject_of.secret.md|is_subject_of.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_subject_of|is_subject_of]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/is_subject_of.public|is_subject_of.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_subject_of.internal|is_subject_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_subject_of.protect|is_subject_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_subject_of.private|is_subject_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_subject_of.personal|is_subject_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_subject_of.secret|is_subject_of.secret]] 

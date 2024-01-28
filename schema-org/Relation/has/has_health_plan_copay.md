@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: PriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_health_plan_copay.md|has_health_plan_copay]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_health_plan_copay.internal.md|has_health_plan_copay.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_health_plan_copay.protect.md|has_health_plan_copay.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_health_plan_copay.private.md|has_health_plan_copay.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_health_plan_copay.personal.md|has_health_plan_copay.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_health_plan_copay.secret.md|has_health_plan_copay.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_health_plan_copay|has_health_plan_copay]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_health_plan_copay.public|has_health_plan_copay.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_health_plan_copay.internal|has_health_plan_copay.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_health_plan_copay.protect|has_health_plan_copay.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_health_plan_copay.private|has_health_plan_copay.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_health_plan_copay.personal|has_health_plan_copay.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_health_plan_copay.secret|has_health_plan_copay.secret]] 

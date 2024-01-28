@@ -45,9 +45,10 @@ Any object used in a medical capacity, such as to diagnose or treat a patient.
 [ #has_/properties :: [ additionalType, adverseOutcome, alternateName, code, contraindication, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, postOp, potentialAction, preOp, procedure, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_device.md|medical_device]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_device.internal.md|medical_device.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_device.protect.md|medical_device.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_device.private.md|medical_device.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_device.personal.md|medical_device.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_device.secret.md|medical_device.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_device|medical_device]] 
+- [[../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_device.public|medical_device.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_device.internal|medical_device.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_device.protect|medical_device.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_device.private|medical_device.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_device.personal|medical_device.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_device.secret|medical_device.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: CreativeWork, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_diversity_policy.md|has_diversity_policy]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_diversity_policy.internal.md|has_diversity_policy.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_diversity_policy.protect.md|has_diversity_policy.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_diversity_policy.private.md|has_diversity_policy.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_diversity_policy.personal.md|has_diversity_policy.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_diversity_policy.secret.md|has_diversity_policy.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_diversity_policy|has_diversity_policy]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_diversity_policy.public|has_diversity_policy.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_diversity_policy.internal|has_diversity_policy.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_diversity_policy.protect|has_diversity_policy.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_diversity_policy.private|has_diversity_policy.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_diversity_policy.personal|has_diversity_policy.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_diversity_policy.secret|has_diversity_policy.secret]] 

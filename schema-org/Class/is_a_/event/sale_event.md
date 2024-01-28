@@ -43,9 +43,10 @@ Event type: Sales event.
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/event/sale_event.md|sale_event]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/event/sale_event.internal.md|sale_event.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/event/sale_event.protect.md|sale_event.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/event/sale_event.private.md|sale_event.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/event/sale_event.personal.md|sale_event.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/event/sale_event.secret.md|sale_event.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/event/sale_event|sale_event]] 
+- [[../../../../../_public/schema-org/Class/is_a_/event/sale_event.public|sale_event.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/sale_event.internal|sale_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/sale_event.protect|sale_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/sale_event.private|sale_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/sale_event.personal|sale_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/sale_event.secret|sale_event.secret]] 

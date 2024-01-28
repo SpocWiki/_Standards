@@ -43,9 +43,10 @@ A strategy of regulating the intake of food to achieve or maintain a specific he
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, code, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, dietFeatures, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, endorsers, exampleOfWork, expertConsiderations, expires, fileFormat, funder, funding, genre, guideline, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, legalStatus, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, medicineSystem, mentions, name, offers, pattern, physiologicalBenefits, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recognizingAuthority, recordedAt, releasedEvent, relevantSpecialty, review, reviews, risks, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, study, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/diet.md|diet]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/diet.internal.md|diet.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/diet.protect.md|diet.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/diet.private.md|diet.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/diet.personal.md|diet.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/diet.secret.md|diet.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/diet|diet]] 
+- [[../../../../../_public/schema-org/Class/is_a_/creative_work/diet.public|diet.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/diet.internal|diet.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/diet.protect|diet.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/diet.private|diet.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/diet.personal|diet.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/diet.secret|diet.secret]] 

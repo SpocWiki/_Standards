@@ -45,9 +45,10 @@ A diet conforming to Jewish dietary practices.
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.md|kosher_diet]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.internal.md|kosher_diet.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.protect.md|kosher_diet.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.private.md|kosher_diet.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.personal.md|kosher_diet.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.secret.md|kosher_diet.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet|kosher_diet]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.public|kosher_diet.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.internal|kosher_diet.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.protect|kosher_diet.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.private|kosher_diet.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.personal|kosher_diet.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/kosher_diet.secret|kosher_diet.secret]] 

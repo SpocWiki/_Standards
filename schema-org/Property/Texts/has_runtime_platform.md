@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_runtime_platform.md|has_runtime_platform]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_runtime_platform.internal.md|has_runtime_platform.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_runtime_platform.protect.md|has_runtime_platform.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_runtime_platform.private.md|has_runtime_platform.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_runtime_platform.personal.md|has_runtime_platform.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_runtime_platform.secret.md|has_runtime_platform.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_runtime_platform|has_runtime_platform]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_runtime_platform.public|has_runtime_platform.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_runtime_platform.internal|has_runtime_platform.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_runtime_platform.protect|has_runtime_platform.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_runtime_platform.private|has_runtime_platform.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_runtime_platform.personal|has_runtime_platform.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_runtime_platform.secret|has_runtime_platform.secret]] 

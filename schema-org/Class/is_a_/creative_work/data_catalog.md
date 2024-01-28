@@ -45,9 +45,10 @@ A collection of datasets.
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dataset, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, measurementTechnique, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/data_catalog.md|data_catalog]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/data_catalog.internal.md|data_catalog.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/data_catalog.protect.md|data_catalog.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/data_catalog.private.md|data_catalog.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/data_catalog.personal.md|data_catalog.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/data_catalog.secret.md|data_catalog.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/data_catalog|data_catalog]] 
+- [[../../../../../_public/schema-org/Class/is_a_/creative_work/data_catalog.public|data_catalog.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/data_catalog.internal|data_catalog.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/data_catalog.protect|data_catalog.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/data_catalog.private|data_catalog.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/data_catalog.personal|data_catalog.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/data_catalog.secret|data_catalog.secret]] 

@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[has_funding]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_funding_item.md|is_funding_item]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_funding_item.internal.md|is_funding_item.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_funding_item.protect.md|is_funding_item.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_funding_item.private.md|is_funding_item.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_funding_item.personal.md|is_funding_item.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_funding_item.secret.md|is_funding_item.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_funding_item|is_funding_item]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_funding_item.public|is_funding_item.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_funding_item.internal|is_funding_item.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_funding_item.protect|is_funding_item.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_funding_item.private|is_funding_item.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_funding_item.personal|is_funding_item.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_funding_item.secret|is_funding_item.secret]] 

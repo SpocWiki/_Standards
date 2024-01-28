@@ -49,9 +49,10 @@ aliases:
 [is_part_of::{{isPartOf}}]
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/schema-org/Predicate/_Predicate-Template.md|_Predicate-Template]] 
-- [[../../../_internal/schema.org/Predicate/_Predicate-Template.internal.md|_Predicate-Template.internal]] 
-- [[../../../_protect/schema.org/Predicate/_Predicate-Template.protect.md|_Predicate-Template.protect]] 
-- [[../../../_private/schema.org/Predicate/_Predicate-Template.private.md|_Predicate-Template.private]] 
-- [[../../../_personal/schema.org/Predicate/_Predicate-Template.personal.md|_Predicate-Template.personal]] 
-- [[../../../_secret/schema.org/Predicate/_Predicate-Template.secret.md|_Predicate-Template.secret]] 
+- [[../../../_Standards/schema-org/Predicate/_Predicate-Template|_Predicate-Template]] 
+- [[../../../_public/schema-org/Predicate/_Predicate-Template.public|_Predicate-Template.public]] 
+- [[../../../_internal/schema.org/Predicate/_Predicate-Template.internal|_Predicate-Template.internal]] 
+- [[../../../_protect/schema.org/Predicate/_Predicate-Template.protect|_Predicate-Template.protect]] 
+- [[../../../_private/schema.org/Predicate/_Predicate-Template.private|_Predicate-Template.private]] 
+- [[../../../_personal/schema.org/Predicate/_Predicate-Template.personal|_Predicate-Template.personal]] 
+- [[../../../_secret/schema.org/Predicate/_Predicate-Template.secret|_Predicate-Template.secret]] 

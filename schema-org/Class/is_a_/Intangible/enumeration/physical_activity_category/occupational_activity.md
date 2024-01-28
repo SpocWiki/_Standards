@@ -45,9 +45,10 @@ Any physical activity engaged in for job-related purposes. Examples may include 
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.md|occupational_activity]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.internal.md|occupational_activity.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.protect.md|occupational_activity.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.private.md|occupational_activity.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.personal.md|occupational_activity.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.secret.md|occupational_activity.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity|occupational_activity]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.public|occupational_activity.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.internal|occupational_activity.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.protect|occupational_activity.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.private|occupational_activity.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.personal|occupational_activity.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/occupational_activity.secret|occupational_activity.secret]] 

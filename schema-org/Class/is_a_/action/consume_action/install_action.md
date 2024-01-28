@@ -43,9 +43,10 @@ The act of installing an application.
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/consume_action/install_action.md|install_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/install_action.internal.md|install_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/install_action.protect.md|install_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/install_action.private.md|install_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/install_action.personal.md|install_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/install_action.secret.md|install_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/consume_action/install_action|install_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/consume_action/install_action.public|install_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/install_action.internal|install_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/install_action.protect|install_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/install_action.private|install_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/install_action.personal|install_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/install_action.secret|install_action.secret]] 

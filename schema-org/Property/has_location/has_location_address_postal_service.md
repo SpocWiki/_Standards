@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: PostalAddress )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_address_postal_service.md|has_location_address_postal_service]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_address_postal_service.internal.md|has_location_address_postal_service.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_address_postal_service.protect.md|has_location_address_postal_service.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_address_postal_service.private.md|has_location_address_postal_service.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_address_postal_service.personal.md|has_location_address_postal_service.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_address_postal_service.secret.md|has_location_address_postal_service.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_address_postal_service|has_location_address_postal_service]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_address_postal_service.public|has_location_address_postal_service.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_address_postal_service.internal|has_location_address_postal_service.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_address_postal_service.protect|has_location_address_postal_service.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_address_postal_service.private|has_location_address_postal_service.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_address_postal_service.personal|has_location_address_postal_service.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_address_postal_service.secret|has_location_address_postal_service.secret]] 

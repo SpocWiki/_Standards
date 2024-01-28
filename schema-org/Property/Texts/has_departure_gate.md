@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_departure_gate.md|has_departure_gate]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_departure_gate.internal.md|has_departure_gate.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_departure_gate.protect.md|has_departure_gate.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_departure_gate.private.md|has_departure_gate.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_departure_gate.personal.md|has_departure_gate.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_departure_gate.secret.md|has_departure_gate.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_departure_gate|has_departure_gate]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_departure_gate.public|has_departure_gate.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_departure_gate.internal|has_departure_gate.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_departure_gate.protect|has_departure_gate.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_departure_gate.private|has_departure_gate.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_departure_gate.personal|has_departure_gate.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_departure_gate.secret|has_departure_gate.secret]] 

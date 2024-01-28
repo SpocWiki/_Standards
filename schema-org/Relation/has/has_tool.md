@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_tool.md|has_tool]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tool.internal.md|has_tool.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_tool.protect.md|has_tool.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_tool.private.md|has_tool.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_tool.personal.md|has_tool.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_tool.secret.md|has_tool.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_tool|has_tool]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_tool.public|has_tool.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tool.internal|has_tool.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_tool.protect|has_tool.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_tool.private|has_tool.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_tool.personal|has_tool.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_tool.secret|has_tool.secret]] 

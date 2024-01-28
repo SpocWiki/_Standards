@@ -45,9 +45,10 @@ AlbumRelease.
 [ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.md|album_release]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.internal.md|album_release.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.protect.md|album_release.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.private.md|album_release.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.personal.md|album_release.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.secret.md|album_release.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release|album_release]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.public|album_release.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.internal|album_release.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.protect|album_release.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.private|album_release.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.personal|album_release.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/album_release.secret|album_release.secret]] 

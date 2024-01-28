@@ -47,9 +47,10 @@ DisabilitySupport: this is a benefit for disability support.
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.md|disability_support]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.internal.md|disability_support.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.protect.md|disability_support.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.private.md|disability_support.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.personal.md|disability_support.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.secret.md|disability_support.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support|disability_support]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.public|disability_support.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.internal|disability_support.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.protect|disability_support.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.private|disability_support.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.personal|disability_support.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/disability_support.secret|disability_support.secret]] 

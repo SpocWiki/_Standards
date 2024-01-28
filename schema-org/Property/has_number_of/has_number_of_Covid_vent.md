@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_Covid_vent.md|has_number_of_Covid_vent]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_vent.internal.md|has_number_of_Covid_vent.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_Covid_vent.protect.md|has_number_of_Covid_vent.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_Covid_vent.private.md|has_number_of_Covid_vent.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_Covid_vent.personal.md|has_number_of_Covid_vent.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_Covid_vent.secret.md|has_number_of_Covid_vent.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_Covid_vent|has_number_of_Covid_vent]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_Covid_vent.public|has_number_of_Covid_vent.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_vent.internal|has_number_of_Covid_vent.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_Covid_vent.protect|has_number_of_Covid_vent.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_Covid_vent.private|has_number_of_Covid_vent.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_Covid_vent.personal|has_number_of_Covid_vent.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_Covid_vent.secret|has_number_of_Covid_vent.secret]] 

@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MenuItem )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_menu_item.md|has_menu_item]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_menu_item.internal.md|has_menu_item.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_menu_item.protect.md|has_menu_item.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_menu_item.private.md|has_menu_item.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_menu_item.personal.md|has_menu_item.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_menu_item.secret.md|has_menu_item.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_menu_item|has_menu_item]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_menu_item.public|has_menu_item.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_menu_item.internal|has_menu_item.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_menu_item.protect|has_menu_item.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_menu_item.private|has_menu_item.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_menu_item.personal|has_menu_item.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_menu_item.secret|has_menu_item.secret]] 

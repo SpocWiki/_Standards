@@ -45,9 +45,10 @@ The steering position is on the right side of the vehicle (viewed from the main 
 [ #is_/enum_of :: [[../SteeringPositionValue]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.md|right_hand_driving]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.internal.md|right_hand_driving.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.protect.md|right_hand_driving.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.private.md|right_hand_driving.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.personal.md|right_hand_driving.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.secret.md|right_hand_driving.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving|right_hand_driving]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.public|right_hand_driving.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.internal|right_hand_driving.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.protect|right_hand_driving.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.private|right_hand_driving.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.personal|right_hand_driving.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/right_hand_driving.secret|right_hand_driving.secret]] 

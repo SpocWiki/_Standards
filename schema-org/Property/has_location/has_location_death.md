@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_death.md|has_location_death]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_death.internal.md|has_location_death.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_death.protect.md|has_location_death.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_death.private.md|has_location_death.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_death.personal.md|has_location_death.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_death.secret.md|has_location_death.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_death|has_location_death]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_death.public|has_location_death.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_death.internal|has_location_death.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_death.protect|has_location_death.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_death.private|has_location_death.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_death.personal|has_location_death.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_death.secret|has_location_death.secret]] 

@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_terms_per_year.md|has_value_for_terms_per_year]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_terms_per_year.internal.md|has_value_for_terms_per_year.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_terms_per_year.protect.md|has_value_for_terms_per_year.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_terms_per_year.private.md|has_value_for_terms_per_year.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_terms_per_year.personal.md|has_value_for_terms_per_year.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_terms_per_year.secret.md|has_value_for_terms_per_year.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_terms_per_year|has_value_for_terms_per_year]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_terms_per_year.public|has_value_for_terms_per_year.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_terms_per_year.internal|has_value_for_terms_per_year.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_terms_per_year.protect|has_value_for_terms_per_year.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_terms_per_year.private|has_value_for_terms_per_year.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_terms_per_year.personal|has_value_for_terms_per_year.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_terms_per_year.secret|has_value_for_terms_per_year.secret]] 

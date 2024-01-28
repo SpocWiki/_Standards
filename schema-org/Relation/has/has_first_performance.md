@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Event )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_first_performance.md|has_first_performance]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_first_performance.internal.md|has_first_performance.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_first_performance.protect.md|has_first_performance.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_first_performance.private.md|has_first_performance.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_first_performance.personal.md|has_first_performance.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_first_performance.secret.md|has_first_performance.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_first_performance|has_first_performance]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_first_performance.public|has_first_performance.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_first_performance.internal|has_first_performance.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_first_performance.protect|has_first_performance.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_first_performance.private|has_first_performance.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_first_performance.personal|has_first_performance.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_first_performance.secret|has_first_performance.secret]] 

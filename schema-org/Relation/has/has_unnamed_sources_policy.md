@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_unnamed_sources_policy.md|has_unnamed_sources_policy]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.internal.md|has_unnamed_sources_policy.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.protect.md|has_unnamed_sources_policy.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.private.md|has_unnamed_sources_policy.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.personal.md|has_unnamed_sources_policy.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.secret.md|has_unnamed_sources_policy.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_unnamed_sources_policy|has_unnamed_sources_policy]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_unnamed_sources_policy.public|has_unnamed_sources_policy.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.internal|has_unnamed_sources_policy.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.protect|has_unnamed_sources_policy.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.private|has_unnamed_sources_policy.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.personal|has_unnamed_sources_policy.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_unnamed_sources_policy.secret|has_unnamed_sources_policy.secret]] 

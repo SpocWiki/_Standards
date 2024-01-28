@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalTherapy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_secondary_prevention.md|has_secondary_prevention]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_secondary_prevention.internal.md|has_secondary_prevention.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_secondary_prevention.protect.md|has_secondary_prevention.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_secondary_prevention.private.md|has_secondary_prevention.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_secondary_prevention.personal.md|has_secondary_prevention.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_secondary_prevention.secret.md|has_secondary_prevention.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_secondary_prevention|has_secondary_prevention]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_secondary_prevention.public|has_secondary_prevention.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_secondary_prevention.internal|has_secondary_prevention.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_secondary_prevention.protect|has_secondary_prevention.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_secondary_prevention.private|has_secondary_prevention.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_secondary_prevention.personal|has_secondary_prevention.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_secondary_prevention.secret|has_secondary_prevention.secret]] 

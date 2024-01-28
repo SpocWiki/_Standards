@@ -47,9 +47,10 @@ A program offered by an institution which determines the learning progress to ac
 [ #has_/properties :: [ additionalType, alternateName, applicationDeadline, applicationStartDate, dayOfWeek, description, disambiguatingDescription, educationalCredentialAwarded, educationalProgramMode, endDate, financialAidEligible, hasCourse, identifier, image, mainEntityOfPage, maximumEnrollment, name, numberOfCredits, occupationalCategory, occupationalCredentialAwarded, offers, potentialAction, programPrerequisites, programType, provider, salaryUponCompletion, sameAs, startDate, subjectOf, termDuration, termsPerYear, timeOfDay, timeToComplete, trainingSalary, typicalCreditsPerTerm, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/educational_occupational_program.md|educational_occupational_program]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/educational_occupational_program.internal.md|educational_occupational_program.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/educational_occupational_program.protect.md|educational_occupational_program.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/educational_occupational_program.private.md|educational_occupational_program.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/educational_occupational_program.personal.md|educational_occupational_program.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/educational_occupational_program.secret.md|educational_occupational_program.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/educational_occupational_program|educational_occupational_program]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/educational_occupational_program.public|educational_occupational_program.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/educational_occupational_program.internal|educational_occupational_program.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/educational_occupational_program.protect|educational_occupational_program.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/educational_occupational_program.private|educational_occupational_program.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/educational_occupational_program.personal|educational_occupational_program.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/educational_occupational_program.secret|educational_occupational_program.secret]] 

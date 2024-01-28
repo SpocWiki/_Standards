@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_diversity_staffing_report.md|has_diversity_staffing_report]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_diversity_staffing_report.internal.md|has_diversity_staffing_report.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_diversity_staffing_report.protect.md|has_diversity_staffing_report.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_diversity_staffing_report.private.md|has_diversity_staffing_report.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_diversity_staffing_report.personal.md|has_diversity_staffing_report.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_diversity_staffing_report.secret.md|has_diversity_staffing_report.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_diversity_staffing_report|has_diversity_staffing_report]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_diversity_staffing_report.public|has_diversity_staffing_report.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_diversity_staffing_report.internal|has_diversity_staffing_report.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_diversity_staffing_report.protect|has_diversity_staffing_report.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_diversity_staffing_report.private|has_diversity_staffing_report.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_diversity_staffing_report.personal|has_diversity_staffing_report.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_diversity_staffing_report.secret|has_diversity_staffing_report.secret]] 

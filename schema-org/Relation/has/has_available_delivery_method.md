@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: DeliveryMethod )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_available_delivery_method.md|has_available_delivery_method]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_delivery_method.internal.md|has_available_delivery_method.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_available_delivery_method.protect.md|has_available_delivery_method.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_available_delivery_method.private.md|has_available_delivery_method.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_available_delivery_method.personal.md|has_available_delivery_method.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_available_delivery_method.secret.md|has_available_delivery_method.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_available_delivery_method|has_available_delivery_method]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_available_delivery_method.public|has_available_delivery_method.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_delivery_method.internal|has_available_delivery_method.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_available_delivery_method.protect|has_available_delivery_method.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_available_delivery_method.private|has_available_delivery_method.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_available_delivery_method.personal|has_available_delivery_method.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_available_delivery_method.secret|has_available_delivery_method.secret]] 

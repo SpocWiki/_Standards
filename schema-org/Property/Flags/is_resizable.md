@@ -48,9 +48,10 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_resizable.md|is_resizable]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_resizable.internal.md|is_resizable.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_resizable.protect.md|is_resizable.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_resizable.private.md|is_resizable.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_resizable.personal.md|is_resizable.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_resizable.secret.md|is_resizable.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_resizable|is_resizable]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_resizable.public|is_resizable.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_resizable.internal|is_resizable.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_resizable.protect|is_resizable.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_resizable.private|is_resizable.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_resizable.personal|is_resizable.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_resizable.secret|is_resizable.secret]] 

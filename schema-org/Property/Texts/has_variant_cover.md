@@ -49,9 +49,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_variant_cover.md|has_variant_cover]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_variant_cover.internal.md|has_variant_cover.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_variant_cover.protect.md|has_variant_cover.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_variant_cover.private.md|has_variant_cover.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_variant_cover.personal.md|has_variant_cover.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_variant_cover.secret.md|has_variant_cover.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_variant_cover|has_variant_cover]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_variant_cover.public|has_variant_cover.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_variant_cover.internal|has_variant_cover.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_variant_cover.protect|has_variant_cover.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_variant_cover.private|has_variant_cover.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_variant_cover.personal|has_variant_cover.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_variant_cover.secret|has_variant_cover.secret]] 

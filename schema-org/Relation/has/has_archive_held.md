@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../is/is_holding_archive]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_archive_held.md|has_archive_held]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_archive_held.internal.md|has_archive_held.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_archive_held.protect.md|has_archive_held.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_archive_held.private.md|has_archive_held.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_archive_held.personal.md|has_archive_held.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_archive_held.secret.md|has_archive_held.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_archive_held|has_archive_held]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_archive_held.public|has_archive_held.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_archive_held.internal|has_archive_held.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_archive_held.protect|has_archive_held.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_archive_held.private|has_archive_held.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_archive_held.personal|has_archive_held.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_archive_held.secret|has_archive_held.secret]] 

@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MusicGroup, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_music_by.md|has_music_by]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_music_by.internal.md|has_music_by.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_music_by.protect.md|has_music_by.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_music_by.private.md|has_music_by.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_music_by.personal.md|has_music_by.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_music_by.secret.md|has_music_by.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_music_by|has_music_by]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_music_by.public|has_music_by.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_music_by.internal|has_music_by.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_music_by.protect|has_music_by.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_music_by.private|has_music_by.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_music_by.personal|has_music_by.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_music_by.secret|has_music_by.secret]] 

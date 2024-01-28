@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_min.md|has_value_for_min]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_min.internal.md|has_value_for_min.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_min.protect.md|has_value_for_min.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_min.private.md|has_value_for_min.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_min.personal.md|has_value_for_min.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_min.secret.md|has_value_for_min.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_min|has_value_for_min]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_min.public|has_value_for_min.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_min.internal|has_value_for_min.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_min.protect|has_value_for_min.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_min.private|has_value_for_min.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_min.personal|has_value_for_min.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_min.secret|has_value_for_min.secret]] 

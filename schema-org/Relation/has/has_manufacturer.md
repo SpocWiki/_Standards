@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_manufacturer.md|has_manufacturer]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_manufacturer.internal.md|has_manufacturer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_manufacturer.protect.md|has_manufacturer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_manufacturer.private.md|has_manufacturer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_manufacturer.personal.md|has_manufacturer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_manufacturer.secret.md|has_manufacturer.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_manufacturer|has_manufacturer]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_manufacturer.public|has_manufacturer.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_manufacturer.internal|has_manufacturer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_manufacturer.protect|has_manufacturer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_manufacturer.private|has_manufacturer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_manufacturer.personal|has_manufacturer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_manufacturer.secret|has_manufacturer.secret]] 

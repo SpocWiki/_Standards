@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_safety_consideration.md|has_safety_consideration]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_safety_consideration.internal.md|has_safety_consideration.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_safety_consideration.protect.md|has_safety_consideration.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_safety_consideration.private.md|has_safety_consideration.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_safety_consideration.personal.md|has_safety_consideration.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_safety_consideration.secret.md|has_safety_consideration.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_safety_consideration|has_safety_consideration]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_safety_consideration.public|has_safety_consideration.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_safety_consideration.internal|has_safety_consideration.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_safety_consideration.protect|has_safety_consideration.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_safety_consideration.private|has_safety_consideration.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_safety_consideration.personal|has_safety_consideration.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_safety_consideration.secret|has_safety_consideration.secret]] 

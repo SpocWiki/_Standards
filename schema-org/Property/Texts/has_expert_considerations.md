@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_expert_considerations.md|has_expert_considerations]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_expert_considerations.internal.md|has_expert_considerations.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_expert_considerations.protect.md|has_expert_considerations.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_expert_considerations.private.md|has_expert_considerations.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_expert_considerations.personal.md|has_expert_considerations.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_expert_considerations.secret.md|has_expert_considerations.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_expert_considerations|has_expert_considerations]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_expert_considerations.public|has_expert_considerations.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_expert_considerations.internal|has_expert_considerations.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_expert_considerations.protect|has_expert_considerations.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_expert_considerations.private|has_expert_considerations.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_expert_considerations.personal|has_expert_considerations.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_expert_considerations.secret|has_expert_considerations.secret]] 

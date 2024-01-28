@@ -48,9 +48,10 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_direct_apply.md|is_direct_apply]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_direct_apply.internal.md|is_direct_apply.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_direct_apply.protect.md|is_direct_apply.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_direct_apply.private.md|is_direct_apply.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_direct_apply.personal.md|is_direct_apply.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_direct_apply.secret.md|is_direct_apply.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_direct_apply|is_direct_apply]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_direct_apply.public|is_direct_apply.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_direct_apply.internal|is_direct_apply.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_direct_apply.protect|is_direct_apply.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_direct_apply.private|is_direct_apply.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_direct_apply.personal|is_direct_apply.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_direct_apply.secret|is_direct_apply.secret]] 

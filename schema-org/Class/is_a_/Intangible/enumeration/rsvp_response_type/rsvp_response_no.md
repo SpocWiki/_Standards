@@ -45,9 +45,10 @@ The invitee will not attend.
 [ #is_/enum_of :: [[../RsvpResponseType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.md|rsvp_response_no]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.internal.md|rsvp_response_no.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.protect.md|rsvp_response_no.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.private.md|rsvp_response_no.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.personal.md|rsvp_response_no.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.secret.md|rsvp_response_no.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no|rsvp_response_no]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.public|rsvp_response_no.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.internal|rsvp_response_no.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.protect|rsvp_response_no.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.private|rsvp_response_no.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.personal|rsvp_response_no.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_no.secret|rsvp_response_no.secret]] 

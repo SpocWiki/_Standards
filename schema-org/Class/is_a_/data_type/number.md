@@ -43,9 +43,10 @@ Usage guidelines:
 [ #has_/sub_classes :: [ Float, Integer ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/number.md|number]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/data_type/number.internal.md|number.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/data_type/number.protect.md|number.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/data_type/number.private.md|number.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/data_type/number.personal.md|number.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/data_type/number.secret.md|number.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/number|number]] 
+- [[../../../../../_public/schema-org/Class/is_a_/data_type/number.public|number.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/data_type/number.internal|number.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/data_type/number.protect|number.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/data_type/number.private|number.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/data_type/number.personal|number.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/data_type/number.secret|number.secret]] 

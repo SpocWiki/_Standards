@@ -49,9 +49,10 @@ Relation describes that:
 ( #has_/range :: Legislation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_legislation_consolidated_from.md|is_legislation_consolidated_from]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.internal.md|is_legislation_consolidated_from.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.protect.md|is_legislation_consolidated_from.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.private.md|is_legislation_consolidated_from.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.personal.md|is_legislation_consolidated_from.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.secret.md|is_legislation_consolidated_from.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_legislation_consolidated_from|is_legislation_consolidated_from]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_legislation_consolidated_from.public|is_legislation_consolidated_from.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.internal|is_legislation_consolidated_from.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.protect|is_legislation_consolidated_from.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.private|is_legislation_consolidated_from.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.personal|is_legislation_consolidated_from.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_legislation_consolidated_from.secret|is_legislation_consolidated_from.secret]] 

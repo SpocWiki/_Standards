@@ -84,9 +84,9 @@ Complement(Converse(`>`)) = Complement(`<`)  = `>=`
 
 ## Confidential Links & Embeds: 
 - [[../../../../_Standards/schema-org/Predicate/Relations/is_inverse_of.md|is_inverse_of]]
-- [[../../../../_internal/schema.org/Predicate/Relations/is_inverse_of.internal.md|is_inverse_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_inverse_of.protect.md|is_inverse_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_inverse_of.private.md|is_inverse_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_inverse_of.personal.md|is_inverse_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_inverse_of.secret.md|is_inverse_of.secret]] 
+- [[../../../../_internal/schema.org/Predicate/Relations/is_inverse_of.internal|is_inverse_of.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Relations/is_inverse_of.protect|is_inverse_of.protect]] 
+- [[../../../../_private/schema.org/Predicate/Relations/is_inverse_of.private|is_inverse_of.private]] 
+- [[../../../../_personal/schema.org/Predicate/Relations/is_inverse_of.personal|is_inverse_of.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Relations/is_inverse_of.secret|is_inverse_of.secret]] 
 

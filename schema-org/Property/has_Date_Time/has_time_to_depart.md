@@ -44,9 +44,10 @@ Formal Predicate:
 (range::DateTime, Time)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_depart.md|has_time_to_depart]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_depart.internal.md|has_time_to_depart.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_depart.protect.md|has_time_to_depart.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_depart.private.md|has_time_to_depart.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_depart.personal.md|has_time_to_depart.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_depart.secret.md|has_time_to_depart.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_depart|has_time_to_depart]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_to_depart.public|has_time_to_depart.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_depart.internal|has_time_to_depart.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_depart.protect|has_time_to_depart.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_depart.private|has_time_to_depart.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_depart.personal|has_time_to_depart.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_depart.secret|has_time_to_depart.secret]] 

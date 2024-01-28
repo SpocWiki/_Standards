@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_production.md|has_time_of_production]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_production.internal.md|has_time_of_production.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_production.protect.md|has_time_of_production.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_production.private.md|has_time_of_production.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_production.personal.md|has_time_of_production.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_production.secret.md|has_time_of_production.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_production|has_time_of_production]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_production.public|has_time_of_production.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_production.internal|has_time_of_production.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_production.protect|has_time_of_production.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_production.private|has_time_of_production.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_production.personal|has_time_of_production.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_production.secret|has_time_of_production.secret]] 

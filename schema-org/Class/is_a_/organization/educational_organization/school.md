@@ -43,9 +43,10 @@ A school.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, photo, photos, potentialAction, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/educational_organization/school.md|school]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/organization/educational_organization/school.internal.md|school.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/organization/educational_organization/school.protect.md|school.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/organization/educational_organization/school.private.md|school.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/organization/educational_organization/school.personal.md|school.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/organization/educational_organization/school.secret.md|school.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/educational_organization/school|school]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/organization/educational_organization/school.public|school.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/educational_organization/school.internal|school.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/educational_organization/school.protect|school.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/educational_organization/school.private|school.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/educational_organization/school.personal|school.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/educational_organization/school.secret|school.secret]] 

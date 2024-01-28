@@ -46,9 +46,10 @@ Tag Instances like this:
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/event/user_interaction/user_tweets.md|user_tweets]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_tweets.internal.md|user_tweets.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_tweets.protect.md|user_tweets.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_tweets.private.md|user_tweets.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_tweets.personal.md|user_tweets.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_tweets.secret.md|user_tweets.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/event/user_interaction/user_tweets|user_tweets]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/event/user_interaction/user_tweets.public|user_tweets.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_tweets.internal|user_tweets.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_tweets.protect|user_tweets.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_tweets.private|user_tweets.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_tweets.personal|user_tweets.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_tweets.secret|user_tweets.secret]] 

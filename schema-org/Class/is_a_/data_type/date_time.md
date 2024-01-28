@@ -36,9 +36,10 @@ Tag Instances like this:
 A combination of date and time of day in the form (-)?CCYY-MM-DDThh:mm:ss(Z|(+|-)hh:mm) (see Chapter 5.4 of ISO 8601).
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/date_time.md|date_time]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/data_type/date_time.internal.md|date_time.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/data_type/date_time.protect.md|date_time.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/data_type/date_time.private.md|date_time.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/data_type/date_time.personal.md|date_time.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/data_type/date_time.secret.md|date_time.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/date_time|date_time]] 
+- [[../../../../../_public/schema-org/Class/is_a_/data_type/date_time.public|date_time.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/data_type/date_time.internal|date_time.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/data_type/date_time.protect|date_time.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/data_type/date_time.private|date_time.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/data_type/date_time.personal|date_time.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/data_type/date_time.secret|date_time.secret]] 

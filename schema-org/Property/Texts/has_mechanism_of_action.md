@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_mechanism_of_action.md|has_mechanism_of_action]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_mechanism_of_action.internal.md|has_mechanism_of_action.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_mechanism_of_action.protect.md|has_mechanism_of_action.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_mechanism_of_action.private.md|has_mechanism_of_action.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_mechanism_of_action.personal.md|has_mechanism_of_action.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_mechanism_of_action.secret.md|has_mechanism_of_action.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_mechanism_of_action|has_mechanism_of_action]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_mechanism_of_action.public|has_mechanism_of_action.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_mechanism_of_action.internal|has_mechanism_of_action.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_mechanism_of_action.protect|has_mechanism_of_action.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_mechanism_of_action.private|has_mechanism_of_action.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_mechanism_of_action.personal|has_mechanism_of_action.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_mechanism_of_action.secret|has_mechanism_of_action.secret]] 

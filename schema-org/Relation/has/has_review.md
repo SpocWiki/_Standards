@@ -44,9 +44,10 @@ A [[../../Class/is_a_/creative_work/review|review]] of the item.
 ( #has_/range :: [[../../Class/is_a_/creative_work/review|Review]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_review.md|has_review]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_review.internal.md|has_review.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_review.protect.md|has_review.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_review.private.md|has_review.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_review.personal.md|has_review.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_review.secret.md|has_review.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_review|has_review]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_review.public|has_review.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_review.internal|has_review.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_review.protect|has_review.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_review.private|has_review.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_review.personal|has_review.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_review.secret|has_review.secret]] 

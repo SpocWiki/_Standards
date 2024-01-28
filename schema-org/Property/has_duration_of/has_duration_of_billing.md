@@ -48,9 +48,10 @@ Formal Predicate:
 (range::Duration, Number, QuantitativeValue)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_billing.md|has_duration_of_billing]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_billing.internal.md|has_duration_of_billing.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_billing.protect.md|has_duration_of_billing.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_billing.private.md|has_duration_of_billing.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_billing.personal.md|has_duration_of_billing.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_billing.secret.md|has_duration_of_billing.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_billing|has_duration_of_billing]] 
+- [[../../../../_public/schema-org/Predicate/Durations/has_duration_of_billing.public|has_duration_of_billing.public]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_billing.internal|has_duration_of_billing.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_billing.protect|has_duration_of_billing.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_billing.private|has_duration_of_billing.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_billing.personal|has_duration_of_billing.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_billing.secret|has_duration_of_billing.secret]] 

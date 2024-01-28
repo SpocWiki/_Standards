@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicineSystem )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_medicine_system.md|has_medicine_system]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_medicine_system.internal.md|has_medicine_system.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_medicine_system.protect.md|has_medicine_system.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_medicine_system.private.md|has_medicine_system.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_medicine_system.personal.md|has_medicine_system.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_medicine_system.secret.md|has_medicine_system.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_medicine_system|has_medicine_system]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_medicine_system.public|has_medicine_system.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_medicine_system.internal|has_medicine_system.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_medicine_system.protect|has_medicine_system.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_medicine_system.private|has_medicine_system.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_medicine_system.personal|has_medicine_system.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_medicine_system.secret|has_medicine_system.secret]] 

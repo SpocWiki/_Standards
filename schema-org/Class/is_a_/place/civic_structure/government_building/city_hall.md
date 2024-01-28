@@ -43,9 +43,10 @@ A city hall.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.md|city_hall]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.internal.md|city_hall.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.protect.md|city_hall.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.private.md|city_hall.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.personal.md|city_hall.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.secret.md|city_hall.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall|city_hall]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/government_building/city_hall.public|city_hall.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.internal|city_hall.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.protect|city_hall.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.private|city_hall.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.personal|city_hall.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building/city_hall.secret|city_hall.secret]] 

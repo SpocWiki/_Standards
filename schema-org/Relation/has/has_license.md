@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: CreativeWork, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_license.md|has_license]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_license.internal.md|has_license.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_license.protect.md|has_license.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_license.private.md|has_license.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_license.personal.md|has_license.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_license.secret.md|has_license.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_license|has_license]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_license.public|has_license.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_license.internal|has_license.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_license.protect|has_license.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_license.private|has_license.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_license.personal|has_license.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_license.secret|has_license.secret]] 

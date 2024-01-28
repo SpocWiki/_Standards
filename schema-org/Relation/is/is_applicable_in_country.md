@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: Country, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_applicable_in_country.md|is_applicable_in_country]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_applicable_in_country.internal.md|is_applicable_in_country.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_applicable_in_country.protect.md|is_applicable_in_country.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_applicable_in_country.private.md|is_applicable_in_country.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_applicable_in_country.personal.md|is_applicable_in_country.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_applicable_in_country.secret.md|is_applicable_in_country.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_applicable_in_country|is_applicable_in_country]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_applicable_in_country.public|is_applicable_in_country.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_applicable_in_country.internal|is_applicable_in_country.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_applicable_in_country.protect|is_applicable_in_country.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_applicable_in_country.private|is_applicable_in_country.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_applicable_in_country.personal|is_applicable_in_country.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_applicable_in_country.secret|is_applicable_in_country.secret]] 

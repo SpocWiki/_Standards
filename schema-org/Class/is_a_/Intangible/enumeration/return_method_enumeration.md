@@ -43,9 +43,10 @@ Enumerates several types of product return methods.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration.md|return_method_enumeration]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.internal.md|return_method_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.protect.md|return_method_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.private.md|return_method_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.personal.md|return_method_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.secret.md|return_method_enumeration.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration|return_method_enumeration]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration.public|return_method_enumeration.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.internal|return_method_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.protect|return_method_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.private|return_method_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.personal|return_method_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration.secret|return_method_enumeration.secret]] 

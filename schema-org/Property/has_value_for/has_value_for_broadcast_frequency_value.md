@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_broadcast_frequency.md|has_value_for_broadcast_frequency]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.internal.md|has_value_for_broadcast_frequency.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.protect.md|has_value_for_broadcast_frequency.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.private.md|has_value_for_broadcast_frequency.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.personal.md|has_value_for_broadcast_frequency.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.secret.md|has_value_for_broadcast_frequency.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_broadcast_frequency|has_value_for_broadcast_frequency]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_broadcast_frequency.public|has_value_for_broadcast_frequency.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.internal|has_value_for_broadcast_frequency.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.protect|has_value_for_broadcast_frequency.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.private|has_value_for_broadcast_frequency.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.personal|has_value_for_broadcast_frequency.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_broadcast_frequency.secret|has_value_for_broadcast_frequency.secret]] 

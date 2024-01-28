@@ -45,9 +45,10 @@ An automatic payment system is in place and will be used.
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.md|payment_automatically_applied]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.internal.md|payment_automatically_applied.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.protect.md|payment_automatically_applied.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.private.md|payment_automatically_applied.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.personal.md|payment_automatically_applied.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.secret.md|payment_automatically_applied.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied|payment_automatically_applied]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.public|payment_automatically_applied.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.internal|payment_automatically_applied.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.protect|payment_automatically_applied.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.private|payment_automatically_applied.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.personal|payment_automatically_applied.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_automatically_applied.secret|payment_automatically_applied.secret]] 

@@ -52,9 +52,10 @@ A list of possible product availability options:
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_availability.md|item_availability]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability.internal.md|item_availability.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability.protect.md|item_availability.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability.private.md|item_availability.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability.personal.md|item_availability.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability.secret.md|item_availability.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_availability|item_availability]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/item_availability.public|item_availability.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability.internal|item_availability.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability.protect|item_availability.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability.private|item_availability.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability.personal|item_availability.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability.secret|item_availability.secret]] 

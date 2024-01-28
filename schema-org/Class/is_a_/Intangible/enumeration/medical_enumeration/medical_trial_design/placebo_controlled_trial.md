@@ -45,9 +45,10 @@ A placebo-controlled trial design.
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.md|placebo_controlled_trial]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.internal.md|placebo_controlled_trial.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.protect.md|placebo_controlled_trial.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.private.md|placebo_controlled_trial.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.personal.md|placebo_controlled_trial.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.secret.md|placebo_controlled_trial.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial|placebo_controlled_trial]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.public|placebo_controlled_trial.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.internal|placebo_controlled_trial.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.protect|placebo_controlled_trial.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.private|placebo_controlled_trial.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.personal|placebo_controlled_trial.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/placebo_controlled_trial.secret|placebo_controlled_trial.secret]] 

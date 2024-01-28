@@ -56,9 +56,10 @@ Predicate describes that:
 ( #has_/range :: Number, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_low_price.md|has_value_for_low_price]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_low_price.internal.md|has_value_for_low_price.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_low_price.protect.md|has_value_for_low_price.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_low_price.private.md|has_value_for_low_price.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_low_price.personal.md|has_value_for_low_price.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_low_price.secret.md|has_value_for_low_price.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_low_price|has_value_for_low_price]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_low_price.public|has_value_for_low_price.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_low_price.internal|has_value_for_low_price.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_low_price.protect|has_value_for_low_price.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_low_price.private|has_value_for_low_price.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_low_price.personal|has_value_for_low_price.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_low_price.secret|has_value_for_low_price.secret]] 

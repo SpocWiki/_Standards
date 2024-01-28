@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_broadcast_signal_modulation.md|has_broadcast_signal_modulation]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.internal.md|has_broadcast_signal_modulation.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.protect.md|has_broadcast_signal_modulation.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.private.md|has_broadcast_signal_modulation.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.personal.md|has_broadcast_signal_modulation.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.secret.md|has_broadcast_signal_modulation.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_broadcast_signal_modulation|has_broadcast_signal_modulation]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_broadcast_signal_modulation.public|has_broadcast_signal_modulation.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.internal|has_broadcast_signal_modulation.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.protect|has_broadcast_signal_modulation.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.private|has_broadcast_signal_modulation.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.personal|has_broadcast_signal_modulation.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.secret|has_broadcast_signal_modulation.secret]] 

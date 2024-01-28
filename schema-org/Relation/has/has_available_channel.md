@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: ServiceChannel )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_available_channel.md|has_available_channel]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_channel.internal.md|has_available_channel.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_available_channel.protect.md|has_available_channel.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_available_channel.private.md|has_available_channel.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_available_channel.personal.md|has_available_channel.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_available_channel.secret.md|has_available_channel.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_available_channel|has_available_channel]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_available_channel.public|has_available_channel.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_channel.internal|has_available_channel.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_available_channel.protect|has_available_channel.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_available_channel.private|has_available_channel.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_available_channel.personal|has_available_channel.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_available_channel.secret|has_available_channel.secret]] 

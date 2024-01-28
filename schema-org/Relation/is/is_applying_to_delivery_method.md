@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: DeliveryMethod)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_applying_to_delivery_method.md|is_applying_to_delivery_method]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.internal.md|is_applying_to_delivery_method.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.protect.md|is_applying_to_delivery_method.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.private.md|is_applying_to_delivery_method.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.personal.md|is_applying_to_delivery_method.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.secret.md|is_applying_to_delivery_method.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_applying_to_delivery_method|is_applying_to_delivery_method]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_applying_to_delivery_method.public|is_applying_to_delivery_method.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.internal|is_applying_to_delivery_method.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.protect|is_applying_to_delivery_method.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.private|is_applying_to_delivery_method.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.personal|is_applying_to_delivery_method.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_applying_to_delivery_method.secret|is_applying_to_delivery_method.secret]] 

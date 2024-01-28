@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_audience_type.md|has_audience_type]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_audience_type.internal.md|has_audience_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_audience_type.protect.md|has_audience_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_audience_type.private.md|has_audience_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_audience_type.personal.md|has_audience_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_audience_type.secret.md|has_audience_type.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_audience_type|has_audience_type]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_audience_type.public|has_audience_type.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_audience_type.internal|has_audience_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_audience_type.protect|has_audience_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_audience_type.private|has_audience_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_audience_type.personal|has_audience_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_audience_type.secret|has_audience_type.secret]] 

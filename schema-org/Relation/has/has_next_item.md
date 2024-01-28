@@ -45,9 +45,10 @@ This Relation describes that:
 
 #is_/inverse_of :: [[has_previous_item]] 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_next_item.md|has_next_item]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_next_item.internal.md|has_next_item.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_next_item.protect.md|has_next_item.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_next_item.private.md|has_next_item.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_next_item.personal.md|has_next_item.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_next_item.secret.md|has_next_item.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_next_item|has_next_item]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_next_item.public|has_next_item.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_next_item.internal|has_next_item.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_next_item.protect|has_next_item.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_next_item.private|has_next_item.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_next_item.personal|has_next_item.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_next_item.secret|has_next_item.secret]] 

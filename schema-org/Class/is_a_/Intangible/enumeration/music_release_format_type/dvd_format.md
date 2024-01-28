@@ -45,9 +45,10 @@ DVDFormat.
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.md|dvd_format]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.internal.md|dvd_format.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.protect.md|dvd_format.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.private.md|dvd_format.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.personal.md|dvd_format.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.secret.md|dvd_format.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format|dvd_format]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.public|dvd_format.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.internal|dvd_format.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.protect|dvd_format.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.private|dvd_format.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.personal|dvd_format.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/dvd_format.secret|dvd_format.secret]] 

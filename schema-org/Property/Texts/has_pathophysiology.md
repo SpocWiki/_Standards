@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_pathophysiology.md|has_pathophysiology]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_pathophysiology.internal.md|has_pathophysiology.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_pathophysiology.protect.md|has_pathophysiology.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_pathophysiology.private.md|has_pathophysiology.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_pathophysiology.personal.md|has_pathophysiology.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_pathophysiology.secret.md|has_pathophysiology.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_pathophysiology|has_pathophysiology]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_pathophysiology.public|has_pathophysiology.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_pathophysiology.internal|has_pathophysiology.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_pathophysiology.protect|has_pathophysiology.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_pathophysiology.private|has_pathophysiology.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_pathophysiology.personal|has_pathophysiology.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_pathophysiology.secret|has_pathophysiology.secret]] 

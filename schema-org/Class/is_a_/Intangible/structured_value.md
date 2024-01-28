@@ -39,9 +39,10 @@ Structured values are used when the value of a property has a more complex struc
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value.md|structured_value]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value.internal.md|structured_value.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value.protect.md|structured_value.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/structured_value.private.md|structured_value.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value.personal.md|structured_value.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value.secret.md|structured_value.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value|structured_value]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/structured_value.public|structured_value.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value.internal|structured_value.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value.protect|structured_value.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/structured_value.private|structured_value.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value.personal|structured_value.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value.secret|structured_value.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../is/is_making_offer|makesOffer]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_offered_by.md|is_offered_by]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_offered_by.internal.md|is_offered_by.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_offered_by.protect.md|is_offered_by.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_offered_by.private.md|is_offered_by.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_offered_by.personal.md|is_offered_by.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_offered_by.secret.md|is_offered_by.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_offered_by|is_offered_by]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_offered_by.public|is_offered_by.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_offered_by.internal|is_offered_by.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_offered_by.protect|is_offered_by.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_offered_by.private|is_offered_by.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_offered_by.personal|is_offered_by.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_offered_by.secret|is_offered_by.secret]] 

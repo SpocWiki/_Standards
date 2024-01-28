@@ -71,9 +71,10 @@ Predicated describes that:
 [ #has_/sub_properties :: [ gtin12, gtin13, gtin14, gtin8 ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_gtin.md|has_gtin]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_gtin.internal.md|has_gtin.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_gtin.protect.md|has_gtin.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_gtin.private.md|has_gtin.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_gtin.personal.md|has_gtin.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_gtin.secret.md|has_gtin.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_gtin|has_gtin]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_gtin.public|has_gtin.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_gtin.internal|has_gtin.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_gtin.protect|has_gtin.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_gtin.private|has_gtin.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_gtin.personal|has_gtin.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_gtin.secret|has_gtin.secret]] 

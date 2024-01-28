@@ -47,9 +47,10 @@ Content about contagion mechanisms and contagiousness information over the topic
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.md|contagiousness_health_aspect]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.internal.md|contagiousness_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.protect.md|contagiousness_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.private.md|contagiousness_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.personal.md|contagiousness_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.secret.md|contagiousness_health_aspect.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect|contagiousness_health_aspect]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.public|contagiousness_health_aspect.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.internal|contagiousness_health_aspect.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.protect|contagiousness_health_aspect.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.private|contagiousness_health_aspect.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.personal|contagiousness_health_aspect.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/contagiousness_health_aspect.secret|contagiousness_health_aspect.secret]] 

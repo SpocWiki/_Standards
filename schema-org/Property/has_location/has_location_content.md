@@ -47,9 +47,10 @@ Predicate describes that:
 [ #has_/sub_properties :: [ spatialCoverage ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_content.md|has_location_content]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_content.internal.md|has_location_content.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_content.protect.md|has_location_content.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_content.private.md|has_location_content.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_content.personal.md|has_location_content.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_content.secret.md|has_location_content.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_content|has_location_content]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_content.public|has_location_content.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_content.internal|has_location_content.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_content.protect|has_location_content.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_content.private|has_location_content.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_content.personal|has_location_content.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_content.secret|has_location_content.secret]] 

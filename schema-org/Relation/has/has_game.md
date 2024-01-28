@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: gameServer ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_game.md|has_game]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game.internal.md|has_game.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_game.protect.md|has_game.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_game.private.md|has_game.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_game.personal.md|has_game.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_game.secret.md|has_game.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_game|has_game]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_game.public|has_game.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game.internal|has_game.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_game.protect|has_game.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_game.private|has_game.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_game.personal|has_game.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_game.secret|has_game.secret]] 

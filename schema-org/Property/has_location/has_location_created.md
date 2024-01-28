@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_created.md|has_location_created]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_created.internal.md|has_location_created.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_created.protect.md|has_location_created.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_created.private.md|has_location_created.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_created.personal.md|has_location_created.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_created.secret.md|has_location_created.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_created|has_location_created]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_created.public|has_location_created.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_created.internal|has_location_created.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_created.protect|has_location_created.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_created.private|has_location_created.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_created.personal|has_location_created.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_created.secret|has_location_created.secret]] 

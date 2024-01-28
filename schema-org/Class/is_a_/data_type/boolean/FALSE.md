@@ -39,9 +39,10 @@ Tag Instances like this:
 The boolean value false.
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/boolean/FALSE.md|FALSE]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/boolean/FALSE.internal.md|FALSE.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/boolean/FALSE.protect.md|FALSE.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/data_type/boolean/FALSE.private.md|FALSE.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/boolean/FALSE.personal.md|FALSE.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/boolean/FALSE.secret.md|FALSE.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/boolean/FALSE|FALSE]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/data_type/boolean/FALSE.public|FALSE.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/boolean/FALSE.internal|FALSE.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/boolean/FALSE.protect|FALSE.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/data_type/boolean/FALSE.private|FALSE.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/boolean/FALSE.personal|FALSE.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/boolean/FALSE.secret|FALSE.secret]] 

@@ -50,9 +50,10 @@ Commonly used values:
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/business_entity_type.md|business_entity_type]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.internal.md|business_entity_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.protect.md|business_entity_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.private.md|business_entity_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.personal.md|business_entity_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.secret.md|business_entity_type.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/business_entity_type|business_entity_type]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/business_entity_type.public|business_entity_type.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.internal|business_entity_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.protect|business_entity_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.private|business_entity_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.personal|business_entity_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/business_entity_type.secret|business_entity_type.secret]] 

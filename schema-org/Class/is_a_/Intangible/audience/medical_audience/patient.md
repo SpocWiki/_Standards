@@ -45,9 +45,10 @@ A patient is any person recipient of health care services.
 [ #has_/properties :: [ additionalName, additionalType, address, affiliation, alternateName, alumniOf, audienceType, award, awards, birthDate, birthPlace, brand, callSign, children, colleague, colleagues, contactPoint, contactPoints, deathDate, deathPlace, description, diagnosis, disambiguatingDescription, drug, duns, email, familyName, faxNumber, follows, funder, funding, gender, geographicArea, givenName, globalLocationNumber, hasCredential, hasOccupation, hasOfferCatalog, hasPOS, healthCondition, height, homeLocation, honorificPrefix, honorificSuffix, identifier, image, interactionStatistic, isicV4, jobTitle, knows, knowsAbout, knowsLanguage, mainEntityOfPage, makesOffer, memberOf, naics, name, nationality, netWorth, owns, parent, parents, performerIn, potentialAction, publishingPrinciples, relatedTo, requiredGender, requiredMaxAge, requiredMinAge, sameAs, seeks, sibling, siblings, sponsor, spouse, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, taxID, telephone, url, vatID, weight, workLocation, worksFor ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/audience/medical_audience/patient.md|patient]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.internal.md|patient.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.protect.md|patient.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.private.md|patient.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.personal.md|patient.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.secret.md|patient.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/audience/medical_audience/patient|patient]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/audience/medical_audience/patient.public|patient.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.internal|patient.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.protect|patient.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.private|patient.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.personal|patient.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/audience/medical_audience/patient.secret|patient.secret]] 

@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_published.md|has_time_published]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_published.internal.md|has_time_published.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_published.protect.md|has_time_published.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_published.private.md|has_time_published.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_published.personal.md|has_time_published.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_published.secret.md|has_time_published.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_published|has_time_published]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_published.public|has_time_published.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_published.internal|has_time_published.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_published.protect|has_time_published.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_published.private|has_time_published.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_published.personal|has_time_published.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_published.secret|has_time_published.secret]] 

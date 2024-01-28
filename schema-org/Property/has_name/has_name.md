@@ -47,9 +47,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: http://www.w3.org/2000/01/rdf-schema#label ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name.md|has_name]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name.internal.md|has_name.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name.protect.md|has_name.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name.private.md|has_name.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name.personal.md|has_name.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name.secret.md|has_name.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name|has_name]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_name.public|has_name.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_name.internal|has_name.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_name.protect|has_name.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_name.private|has_name.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_name.personal|has_name.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_name.secret|has_name.secret]] 

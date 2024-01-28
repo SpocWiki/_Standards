@@ -43,9 +43,10 @@ A volcano, like Fujisan.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/landform/volcano.md|volcano]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/landform/volcano.internal.md|volcano.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/landform/volcano.protect.md|volcano.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/landform/volcano.private.md|volcano.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/landform/volcano.personal.md|volcano.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/landform/volcano.secret.md|volcano.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/place/landform/volcano|volcano]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/place/landform/volcano.public|volcano.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/landform/volcano.internal|volcano.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/landform/volcano.protect|volcano.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/landform/volcano.private|volcano.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/landform/volcano.personal|volcano.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/landform/volcano.secret|volcano.secret]] 

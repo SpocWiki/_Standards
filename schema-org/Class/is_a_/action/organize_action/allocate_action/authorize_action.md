@@ -43,9 +43,10 @@ The act of granting permission to an object.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/authorize_action.md|authorize_action]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.internal.md|authorize_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.protect.md|authorize_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.private.md|authorize_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.personal.md|authorize_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.secret.md|authorize_action.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/allocate_action/authorize_action|authorize_action]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/action/organize_action/allocate_action/authorize_action.public|authorize_action.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.internal|authorize_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.protect|authorize_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.private|authorize_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.personal|authorize_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/allocate_action/authorize_action.secret|authorize_action.secret]] 

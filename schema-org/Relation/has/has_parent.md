@@ -45,9 +45,10 @@ Relation describes that:
 #is_/sub_relation_of :: [[has_creator]]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_parent.md|has_parent]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parent.internal.md|has_parent.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_parent.protect.md|has_parent.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_parent.private.md|has_parent.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_parent.personal.md|has_parent.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_parent.secret.md|has_parent.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_parent|has_parent]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_parent.public|has_parent.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parent.internal|has_parent.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_parent.protect|has_parent.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_parent.private|has_parent.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_parent.personal|has_parent.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_parent.secret|has_parent.secret]] 

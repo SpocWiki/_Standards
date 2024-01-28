@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_years_in_operation.md|has_value_for_years_in_operation]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_years_in_operation.internal.md|has_value_for_years_in_operation.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_years_in_operation.protect.md|has_value_for_years_in_operation.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_years_in_operation.private.md|has_value_for_years_in_operation.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_years_in_operation.personal.md|has_value_for_years_in_operation.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_years_in_operation.secret.md|has_value_for_years_in_operation.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_years_in_operation|has_value_for_years_in_operation]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_years_in_operation.public|has_value_for_years_in_operation.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_years_in_operation.internal|has_value_for_years_in_operation.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_years_in_operation.protect|has_value_for_years_in_operation.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_years_in_operation.private|has_value_for_years_in_operation.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_years_in_operation.personal|has_value_for_years_in_operation.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_years_in_operation.secret|has_value_for_years_in_operation.secret]] 

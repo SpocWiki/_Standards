@@ -43,9 +43,10 @@ Anatomical features that can be observed by sight (without dissection), includin
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relatedAnatomy, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, significance, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/superficial_anatomy.md|superficial_anatomy]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/superficial_anatomy.internal.md|superficial_anatomy.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/superficial_anatomy.protect.md|superficial_anatomy.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/superficial_anatomy.private.md|superficial_anatomy.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/superficial_anatomy.personal.md|superficial_anatomy.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/superficial_anatomy.secret.md|superficial_anatomy.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/superficial_anatomy|superficial_anatomy]] 
+- [[../../../../../_public/schema-org/Class/is_a_/medical_entity/superficial_anatomy.public|superficial_anatomy.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/superficial_anatomy.internal|superficial_anatomy.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/superficial_anatomy.protect|superficial_anatomy.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/superficial_anatomy.private|superficial_anatomy.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/superficial_anatomy.personal|superficial_anatomy.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/superficial_anatomy.secret|superficial_anatomy.secret]] 

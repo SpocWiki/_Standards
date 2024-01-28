@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_seat_number.md|has_seat_number]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_seat_number.internal.md|has_seat_number.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_seat_number.protect.md|has_seat_number.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_seat_number.private.md|has_seat_number.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_seat_number.personal.md|has_seat_number.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_seat_number.secret.md|has_seat_number.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_seat_number|has_seat_number]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_seat_number.public|has_seat_number.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_seat_number.internal|has_seat_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_seat_number.protect|has_seat_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_seat_number.private|has_seat_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_seat_number.personal|has_seat_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_seat_number.secret|has_seat_number.secret]] 

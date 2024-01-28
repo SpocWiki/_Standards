@@ -47,9 +47,10 @@ Symptoms or related symptoms of a Topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.md|symptoms_health_aspect]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.internal.md|symptoms_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.protect.md|symptoms_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.private.md|symptoms_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.personal.md|symptoms_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.secret.md|symptoms_health_aspect.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect|symptoms_health_aspect]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.public|symptoms_health_aspect.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.internal|symptoms_health_aspect.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.protect|symptoms_health_aspect.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.private|symptoms_health_aspect.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.personal|symptoms_health_aspect.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/symptoms_health_aspect.secret|symptoms_health_aspect.secret]] 

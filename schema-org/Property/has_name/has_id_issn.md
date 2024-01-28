@@ -47,9 +47,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_issn.md|has_id_issn]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_issn.internal.md|has_id_issn.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_issn.protect.md|has_id_issn.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_issn.private.md|has_id_issn.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_issn.personal.md|has_id_issn.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_issn.secret.md|has_id_issn.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_issn|has_id_issn]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_issn.public|has_id_issn.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_issn.internal|has_id_issn.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_issn.protect|has_id_issn.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_issn.private|has_id_issn.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_issn.personal|has_id_issn.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_issn.secret|has_id_issn.secret]] 

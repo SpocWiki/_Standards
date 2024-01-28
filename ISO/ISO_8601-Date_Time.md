@@ -25,10 +25,11 @@ Points in Time can be specified as alphanumeric Strings using this Format:
 Separating date and time parts with other characters such as space is not allowed in ISO 8601, but allowed in its profile RFC 3339.
 
 ## Confidential Links & Embeds: 
-- [[../../_public/ISO/ISO_8601-Date_Time.md|ISO_8601-Date_Time]] 
-- [[../../_internal/ISO/ISO_8601-Date_Time.internal.md|ISO_8601-Date_Time.internal]] 
-- [[../../_protect/ISO/ISO_8601-Date_Time.protect.md|ISO_8601-Date_Time.protect]] 
-- [[../../_private/ISO/ISO_8601-Date_Time.private.md|ISO_8601-Date_Time.private]] 
-- [[../../_personal/ISO/ISO_8601-Date_Time.personal.md|ISO_8601-Date_Time.personal]] 
-- [[../../_secret/ISO/ISO_8601-Date_Time.secret.md|ISO_8601-Date_Time.secret]]
+- [[../../_Standards/ISO/ISO_8601-Date_Time|ISO_8601-Date_Time]] 
+- [[../../_public/ISO/ISO_8601-Date_Time.public|ISO_8601-Date_Time.public]] 
+- [[../../_internal/ISO/ISO_8601-Date_Time.internal|ISO_8601-Date_Time.internal]] 
+- [[../../_protect/ISO/ISO_8601-Date_Time.protect|ISO_8601-Date_Time.protect]] 
+- [[../../_private/ISO/ISO_8601-Date_Time.private|ISO_8601-Date_Time.private]] 
+- [[../../_personal/ISO/ISO_8601-Date_Time.personal|ISO_8601-Date_Time.personal]] 
+- [[../../_secret/ISO/ISO_8601-Date_Time.secret|ISO_8601-Date_Time.secret]]
 

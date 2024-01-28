@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_handling_days.md|has_value_for_handling_days]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_handling_days.internal.md|has_value_for_handling_days.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_handling_days.protect.md|has_value_for_handling_days.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_handling_days.private.md|has_value_for_handling_days.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_handling_days.personal.md|has_value_for_handling_days.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_handling_days.secret.md|has_value_for_handling_days.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_handling_days|has_value_for_handling_days]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_handling_days.public|has_value_for_handling_days.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_handling_days.internal|has_value_for_handling_days.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_handling_days.protect|has_value_for_handling_days.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_handling_days.private|has_value_for_handling_days.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_handling_days.personal|has_value_for_handling_days.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_handling_days.secret|has_value_for_handling_days.secret]] 

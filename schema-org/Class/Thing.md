@@ -97,12 +97,13 @@ Obsidian allows to naturally capture these Triples,
 either in the Frontmatter or anywhere in the Text.
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/schema-org/Thing.md|Entity]] 
-- [[../../_internal/schema.org/Thing.internal.md|Entity.internal]] 
-- [[../../_protect/schema.org/Thing.protect.md|Entity.protect]] 
-- [[../../_private/schema.org/Thing.private.md|Entity.private]] 
-- [[../../_personal/schema.org/Thing.personal.md|Entity.personal]] 
-- [[../../_secret/schema.org/Thing.secret.md|Entity.secret]] 
+- [[../../_Standards/schema-org/Thing|Entity]] 
+- [[../../_public/schema-org/Thing.public|Entity.public]] 
+- [[../../_internal/schema.org/Thing.internal|Entity.internal]] 
+- [[../../_protect/schema.org/Thing.protect|Entity.protect]] 
+- [[../../_private/schema.org/Thing.private|Entity.private]] 
+- [[../../_personal/schema.org/Thing.personal|Entity.personal]] 
+- [[../../_secret/schema.org/Thing.secret|Entity.secret]] 
 
 ```davaviewjs
 dv.pages('#class/Class')

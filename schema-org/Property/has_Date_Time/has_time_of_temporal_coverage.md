@@ -58,9 +58,10 @@ Formal Predicate:
 (range::DateTime, Text, URL)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_temporal_coverage.md|has_time_of_temporal_coverage]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.internal.md|has_time_of_temporal_coverage.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.protect.md|has_time_of_temporal_coverage.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.private.md|has_time_of_temporal_coverage.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.personal.md|has_time_of_temporal_coverage.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.secret.md|has_time_of_temporal_coverage.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_temporal_coverage|has_time_of_temporal_coverage]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_temporal_coverage.public|has_time_of_temporal_coverage.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.internal|has_time_of_temporal_coverage.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.protect|has_time_of_temporal_coverage.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.private|has_time_of_temporal_coverage.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.personal|has_time_of_temporal_coverage.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.secret|has_time_of_temporal_coverage.secret]] 

@@ -45,9 +45,10 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, partySize, pickupLocation, pickupTime, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/reservation/taxi_reservation.md|taxi_reservation]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.internal.md|taxi_reservation.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.protect.md|taxi_reservation.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.private.md|taxi_reservation.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.personal.md|taxi_reservation.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.secret.md|taxi_reservation.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/reservation/taxi_reservation|taxi_reservation]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/reservation/taxi_reservation.public|taxi_reservation.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.internal|taxi_reservation.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.protect|taxi_reservation.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.private|taxi_reservation.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.personal|taxi_reservation.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/reservation/taxi_reservation.secret|taxi_reservation.secret]] 

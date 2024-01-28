@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_entertainment_business.md|has_entertainment_business]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_entertainment_business.internal.md|has_entertainment_business.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_entertainment_business.protect.md|has_entertainment_business.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_entertainment_business.private.md|has_entertainment_business.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_entertainment_business.personal.md|has_entertainment_business.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_entertainment_business.secret.md|has_entertainment_business.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_entertainment_business|has_entertainment_business]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_entertainment_business.public|has_entertainment_business.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_entertainment_business.internal|has_entertainment_business.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_entertainment_business.protect|has_entertainment_business.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_entertainment_business.private|has_entertainment_business.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_entertainment_business.personal|has_entertainment_business.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_entertainment_business.secret|has_entertainment_business.secret]] 

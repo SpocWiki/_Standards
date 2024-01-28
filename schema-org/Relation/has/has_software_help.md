@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_software_help.md|has_software_help]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_software_help.internal.md|has_software_help.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_software_help.protect.md|has_software_help.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_software_help.private.md|has_software_help.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_software_help.personal.md|has_software_help.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_software_help.secret.md|has_software_help.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_software_help|has_software_help]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_software_help.public|has_software_help.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_software_help.internal|has_software_help.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_software_help.protect|has_software_help.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_software_help.private|has_software_help.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_software_help.personal|has_software_help.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_software_help.secret|has_software_help.secret]] 

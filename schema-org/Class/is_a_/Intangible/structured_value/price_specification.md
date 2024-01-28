@@ -45,9 +45,10 @@ A structured value representing a price or price range. Typically, only the subc
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, eligibleQuantity, eligibleTransactionVolume, identifier, image, mainEntityOfPage, maxPrice, minPrice, name, potentialAction, price, priceCurrency, sameAs, subjectOf, url, validFrom, validThrough, valueAddedTaxIncluded ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/price_specification.md|price_specification]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/price_specification.internal.md|price_specification.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/price_specification.protect.md|price_specification.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/price_specification.private.md|price_specification.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/price_specification.personal.md|price_specification.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/price_specification.secret.md|price_specification.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/price_specification|price_specification]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/price_specification.public|price_specification.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/price_specification.internal|price_specification.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/price_specification.protect|price_specification.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/price_specification.private|price_specification.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/price_specification.personal|price_specification.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/price_specification.secret|price_specification.secret]] 

@@ -43,9 +43,10 @@ A value indicating which roadwheels will receive torque.
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.md|drive_wheel_configuration_value]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.internal.md|drive_wheel_configuration_value.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.protect.md|drive_wheel_configuration_value.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.private.md|drive_wheel_configuration_value.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.personal.md|drive_wheel_configuration_value.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.secret.md|drive_wheel_configuration_value.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value|drive_wheel_configuration_value]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.public|drive_wheel_configuration_value.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.internal|drive_wheel_configuration_value.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.protect|drive_wheel_configuration_value.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.private|drive_wheel_configuration_value.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.personal|drive_wheel_configuration_value.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value.secret|drive_wheel_configuration_value.secret]] 

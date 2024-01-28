@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Vessel )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_draining_to.md|is_draining_to]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_draining_to.internal.md|is_draining_to.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_draining_to.protect.md|is_draining_to.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_draining_to.private.md|is_draining_to.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_draining_to.personal.md|is_draining_to.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_draining_to.secret.md|is_draining_to.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_draining_to|is_draining_to]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_draining_to.public|is_draining_to.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_draining_to.internal|is_draining_to.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_draining_to.protect|is_draining_to.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_draining_to.private|is_draining_to.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_draining_to.personal|is_draining_to.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_draining_to.secret|is_draining_to.secret]] 

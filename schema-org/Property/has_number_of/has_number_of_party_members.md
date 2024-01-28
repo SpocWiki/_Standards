@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_party_members.md|has_number_of_party_members]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_party_members.internal.md|has_number_of_party_members.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_party_members.protect.md|has_number_of_party_members.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_party_members.private.md|has_number_of_party_members.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_party_members.personal.md|has_number_of_party_members.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_party_members.secret.md|has_number_of_party_members.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_party_members|has_number_of_party_members]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_party_members.public|has_number_of_party_members.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_party_members.internal|has_number_of_party_members.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_party_members.protect|has_number_of_party_members.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_party_members.private|has_number_of_party_members.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_party_members.personal|has_number_of_party_members.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_party_members.secret|has_number_of_party_members.secret]] 

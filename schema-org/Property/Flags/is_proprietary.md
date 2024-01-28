@@ -46,9 +46,10 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_proprietary.md|is_proprietary]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_proprietary.internal.md|is_proprietary.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_proprietary.protect.md|is_proprietary.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_proprietary.private.md|is_proprietary.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_proprietary.personal.md|is_proprietary.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_proprietary.secret.md|is_proprietary.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_proprietary|is_proprietary]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_proprietary.public|is_proprietary.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_proprietary.internal|is_proprietary.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_proprietary.protect|is_proprietary.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_proprietary.private|is_proprietary.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_proprietary.personal|is_proprietary.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_proprietary.secret|is_proprietary.secret]] 

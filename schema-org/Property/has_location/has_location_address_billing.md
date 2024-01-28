@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: PostalAddress )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_address_billing.md|has_location_address_billing]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_address_billing.internal.md|has_location_address_billing.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_address_billing.protect.md|has_location_address_billing.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_address_billing.private.md|has_location_address_billing.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_address_billing.personal.md|has_location_address_billing.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_address_billing.secret.md|has_location_address_billing.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_address_billing|has_location_address_billing]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_address_billing.public|has_location_address_billing.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_address_billing.internal|has_location_address_billing.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_address_billing.protect|has_location_address_billing.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_address_billing.private|has_location_address_billing.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_address_billing.personal|has_location_address_billing.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_address_billing.secret|has_location_address_billing.secret]] 

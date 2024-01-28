@@ -47,9 +47,10 @@ UnemploymentSupport: this is a benefit for unemployment support.
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.md|unemployment_support]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.internal.md|unemployment_support.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.protect.md|unemployment_support.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.private.md|unemployment_support.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.personal.md|unemployment_support.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.secret.md|unemployment_support.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support|unemployment_support]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.public|unemployment_support.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.internal|unemployment_support.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.protect|unemployment_support.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.private|unemployment_support.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.personal|unemployment_support.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/unemployment_support.secret|unemployment_support.secret]] 

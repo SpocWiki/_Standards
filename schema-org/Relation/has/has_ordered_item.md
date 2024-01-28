@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: OrderItem, Product, Service )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_ordered_item.md|has_ordered_item]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ordered_item.internal.md|has_ordered_item.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_ordered_item.protect.md|has_ordered_item.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_ordered_item.private.md|has_ordered_item.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_ordered_item.personal.md|has_ordered_item.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_ordered_item.secret.md|has_ordered_item.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_ordered_item|has_ordered_item]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_ordered_item.public|has_ordered_item.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_ordered_item.internal|has_ordered_item.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_ordered_item.protect|has_ordered_item.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_ordered_item.private|has_ordered_item.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_ordered_item.personal|has_ordered_item.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_ordered_item.secret|has_ordered_item.secret]] 

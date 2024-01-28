@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_spoken_by_character.md|has_spoken_by_character]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_spoken_by_character.internal.md|has_spoken_by_character.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_spoken_by_character.protect.md|has_spoken_by_character.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_spoken_by_character.private.md|has_spoken_by_character.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_spoken_by_character.personal.md|has_spoken_by_character.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_spoken_by_character.secret.md|has_spoken_by_character.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_spoken_by_character|has_spoken_by_character]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_spoken_by_character.public|has_spoken_by_character.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_spoken_by_character.internal|has_spoken_by_character.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_spoken_by_character.protect|has_spoken_by_character.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_spoken_by_character.private|has_spoken_by_character.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_spoken_by_character.personal|has_spoken_by_character.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_spoken_by_character.secret|has_spoken_by_character.secret]] 

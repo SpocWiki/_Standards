@@ -47,9 +47,10 @@ Indicates full game availability.
 [ #is_/enum_of :: [[../GameAvailabilityEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.md|full_game_availability]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.internal.md|full_game_availability.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.protect.md|full_game_availability.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.private.md|full_game_availability.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.personal.md|full_game_availability.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.secret.md|full_game_availability.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability|full_game_availability]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.public|full_game_availability.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.internal|full_game_availability.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.protect|full_game_availability.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.private|full_game_availability.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.personal|full_game_availability.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/full_game_availability.secret|full_game_availability.secret]] 

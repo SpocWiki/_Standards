@@ -47,9 +47,10 @@ Specifies that product returns must be made in a store.
 [ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.md|return_in_store]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.internal.md|return_in_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.protect.md|return_in_store.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.private.md|return_in_store.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.personal.md|return_in_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.secret.md|return_in_store.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store|return_in_store]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.public|return_in_store.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.internal|return_in_store.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.protect|return_in_store.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.private|return_in_store.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.personal|return_in_store.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_in_store.secret|return_in_store.secret]] 

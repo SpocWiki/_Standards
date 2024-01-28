@@ -43,9 +43,10 @@ The act of producing/preparing food.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, foodEstablishment, foodEvent, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipe, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/cook_action.md|cook_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/cook_action.internal.md|cook_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/cook_action.protect.md|cook_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/cook_action.private.md|cook_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/create_action/cook_action.personal.md|cook_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/create_action/cook_action.secret.md|cook_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/cook_action|cook_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/create_action/cook_action.public|cook_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/cook_action.internal|cook_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/cook_action.protect|cook_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/cook_action.private|cook_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/create_action/cook_action.personal|cook_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/create_action/cook_action.secret|cook_action.secret]] 

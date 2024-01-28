@@ -47,9 +47,10 @@ Stages that can be observed from a topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.md|stages_health_aspect]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.internal.md|stages_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.protect.md|stages_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.private.md|stages_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.personal.md|stages_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.secret.md|stages_health_aspect.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect|stages_health_aspect]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.public|stages_health_aspect.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.internal|stages_health_aspect.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.protect|stages_health_aspect.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.private|stages_health_aspect.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.personal|stages_health_aspect.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/stages_health_aspect.secret|stages_health_aspect.secret]] 

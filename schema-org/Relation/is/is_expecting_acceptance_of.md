@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Offer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_expecting_acceptance_of.md|is_expecting_acceptance_of]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.internal.md|is_expecting_acceptance_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.protect.md|is_expecting_acceptance_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.private.md|is_expecting_acceptance_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.personal.md|is_expecting_acceptance_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.secret.md|is_expecting_acceptance_of.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_expecting_acceptance_of|is_expecting_acceptance_of]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_expecting_acceptance_of.public|is_expecting_acceptance_of.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.internal|is_expecting_acceptance_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.protect|is_expecting_acceptance_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.private|is_expecting_acceptance_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.personal|is_expecting_acceptance_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_expecting_acceptance_of.secret|is_expecting_acceptance_of.secret]] 

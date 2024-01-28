@@ -45,9 +45,10 @@ A subclass of Role used to describe roles within organizations.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, numberedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/role/organization_role.md|organization_role]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/role/organization_role.internal.md|organization_role.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/role/organization_role.protect.md|organization_role.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/role/organization_role.private.md|organization_role.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/role/organization_role.personal.md|organization_role.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/role/organization_role.secret.md|organization_role.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/role/organization_role|organization_role]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/role/organization_role.public|organization_role.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/role/organization_role.internal|organization_role.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/role/organization_role.protect|organization_role.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/role/organization_role.private|organization_role.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/role/organization_role.personal|organization_role.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/role/organization_role.secret|organization_role.secret]] 

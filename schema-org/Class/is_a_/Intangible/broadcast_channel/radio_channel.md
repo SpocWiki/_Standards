@@ -45,9 +45,10 @@ A unique instance of a radio BroadcastService on a CableOrSatelliteService lineu
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/broadcast_channel/radio_channel.md|radio_channel]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.internal.md|radio_channel.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.protect.md|radio_channel.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.private.md|radio_channel.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.personal.md|radio_channel.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.secret.md|radio_channel.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/broadcast_channel/radio_channel|radio_channel]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/broadcast_channel/radio_channel.public|radio_channel.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.internal|radio_channel.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.protect|radio_channel.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.private|radio_channel.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.personal|radio_channel.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel.secret|radio_channel.secret]] 

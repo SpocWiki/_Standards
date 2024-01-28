@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_time_of_day.md|has_time_of_day]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_time_of_day.internal.md|has_time_of_day.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_time_of_day.protect.md|has_time_of_day.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_time_of_day.private.md|has_time_of_day.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_time_of_day.personal.md|has_time_of_day.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_time_of_day.secret.md|has_time_of_day.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_time_of_day|has_time_of_day]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_time_of_day.public|has_time_of_day.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_time_of_day.internal|has_time_of_day.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_time_of_day.protect|has_time_of_day.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_time_of_day.private|has_time_of_day.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_time_of_day.personal|has_time_of_day.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_time_of_day.secret|has_time_of_day.secret]] 

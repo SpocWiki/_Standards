@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_additional_number_of_guests.md|has_number_of_additional_number_of_guests]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.internal.md|has_number_of_additional_number_of_guests.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.protect.md|has_number_of_additional_number_of_guests.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.private.md|has_number_of_additional_number_of_guests.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.personal.md|has_number_of_additional_number_of_guests.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.secret.md|has_number_of_additional_number_of_guests.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_additional_number_of_guests|has_number_of_additional_number_of_guests]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_additional_number_of_guests.public|has_number_of_additional_number_of_guests.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.internal|has_number_of_additional_number_of_guests.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.protect|has_number_of_additional_number_of_guests.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.private|has_number_of_additional_number_of_guests.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.personal|has_number_of_additional_number_of_guests.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_additional_number_of_guests.secret|has_number_of_additional_number_of_guests.secret]] 

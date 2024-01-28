@@ -43,9 +43,10 @@ The cost per unit of a medical drug. Note that this type is not meant to represe
 [ #has_/properties :: [ additionalType, alternateName, applicableLocation, code, costCategory, costCurrency, costOrigin, costPerUnit, description, disambiguatingDescription, drugUnit, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/drug_cost.md|drug_cost]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/drug_cost.internal.md|drug_cost.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/drug_cost.protect.md|drug_cost.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/drug_cost.private.md|drug_cost.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/drug_cost.personal.md|drug_cost.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/drug_cost.secret.md|drug_cost.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/drug_cost|drug_cost]] 
+- [[../../../../../_public/schema-org/Class/is_a_/medical_entity/drug_cost.public|drug_cost.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/drug_cost.internal|drug_cost.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/drug_cost.protect|drug_cost.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/drug_cost.private|drug_cost.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/drug_cost.personal|drug_cost.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/drug_cost.secret|drug_cost.secret]] 

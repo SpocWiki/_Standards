@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: UnitPriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_current_exchange_rate.md|has_current_exchange_rate]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_current_exchange_rate.internal.md|has_current_exchange_rate.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_current_exchange_rate.protect.md|has_current_exchange_rate.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_current_exchange_rate.private.md|has_current_exchange_rate.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_current_exchange_rate.personal.md|has_current_exchange_rate.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_current_exchange_rate.secret.md|has_current_exchange_rate.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_current_exchange_rate|has_current_exchange_rate]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_current_exchange_rate.public|has_current_exchange_rate.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_current_exchange_rate.internal|has_current_exchange_rate.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_current_exchange_rate.protect|has_current_exchange_rate.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_current_exchange_rate.private|has_current_exchange_rate.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_current_exchange_rate.personal|has_current_exchange_rate.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_current_exchange_rate.secret|has_current_exchange_rate.secret]] 

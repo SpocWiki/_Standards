@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.md|has_value_for_health_plan_coinsurance_rate]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.internal.md|has_value_for_health_plan_coinsurance_rate.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.protect.md|has_value_for_health_plan_coinsurance_rate.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.private.md|has_value_for_health_plan_coinsurance_rate.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.personal.md|has_value_for_health_plan_coinsurance_rate.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.secret.md|has_value_for_health_plan_coinsurance_rate.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate|has_value_for_health_plan_coinsurance_rate]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.public|has_value_for_health_plan_coinsurance_rate.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.internal|has_value_for_health_plan_coinsurance_rate.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.protect|has_value_for_health_plan_coinsurance_rate.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.private|has_value_for_health_plan_coinsurance_rate.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.personal|has_value_for_health_plan_coinsurance_rate.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_health_plan_coinsurance_rate.secret|has_value_for_health_plan_coinsurance_rate.secret]] 

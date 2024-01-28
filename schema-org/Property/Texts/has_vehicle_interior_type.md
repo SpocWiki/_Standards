@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_vehicle_interior_type.md|has_vehicle_interior_type]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_vehicle_interior_type.internal.md|has_vehicle_interior_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_vehicle_interior_type.protect.md|has_vehicle_interior_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_vehicle_interior_type.private.md|has_vehicle_interior_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_vehicle_interior_type.personal.md|has_vehicle_interior_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_vehicle_interior_type.secret.md|has_vehicle_interior_type.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_vehicle_interior_type|has_vehicle_interior_type]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_vehicle_interior_type.public|has_vehicle_interior_type.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_vehicle_interior_type.internal|has_vehicle_interior_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_vehicle_interior_type.protect|has_vehicle_interior_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_vehicle_interior_type.private|has_vehicle_interior_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_vehicle_interior_type.personal|has_vehicle_interior_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_vehicle_interior_type.secret|has_vehicle_interior_type.secret]] 

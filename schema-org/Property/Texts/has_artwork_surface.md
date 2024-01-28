@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_artwork_surface.md|has_artwork_surface]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_artwork_surface.internal.md|has_artwork_surface.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_artwork_surface.protect.md|has_artwork_surface.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_artwork_surface.private.md|has_artwork_surface.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_artwork_surface.personal.md|has_artwork_surface.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_artwork_surface.secret.md|has_artwork_surface.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_artwork_surface|has_artwork_surface]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_artwork_surface.public|has_artwork_surface.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_artwork_surface.internal|has_artwork_surface.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_artwork_surface.protect|has_artwork_surface.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_artwork_surface.private|has_artwork_surface.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_artwork_surface.personal|has_artwork_surface.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_artwork_surface.secret|has_artwork_surface.secret]] 

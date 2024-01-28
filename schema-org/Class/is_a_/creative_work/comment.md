@@ -48,9 +48,10 @@ and its topic via [[../../../Relation/is/is_about|is_about]] properties shared w
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, downvoteCount, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, parentItem, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, upvoteCount, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/comment.md|comment]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/comment.internal.md|comment.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/comment.protect.md|comment.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/comment.private.md|comment.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/comment.personal.md|comment.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/comment.secret.md|comment.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/comment|comment]] 
+- [[../../../../../_public/schema-org/Class/is_a_/creative_work/comment.public|comment.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/comment.internal|comment.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/comment.protect|comment.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/comment.private|comment.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/comment.personal|comment.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/comment.secret|comment.secret]] 

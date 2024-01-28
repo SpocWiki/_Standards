@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: ActionStatusType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_action_status.md|has_action_status]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_status.internal.md|has_action_status.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_action_status.protect.md|has_action_status.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_action_status.private.md|has_action_status.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_action_status.personal.md|has_action_status.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_action_status.secret.md|has_action_status.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_action_status|has_action_status]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_action_status.public|has_action_status.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_status.internal|has_action_status.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_action_status.protect|has_action_status.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_action_status.private|has_action_status.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_action_status.personal|has_action_status.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_action_status.secret|has_action_status.secret]] 

@@ -43,9 +43,10 @@ The act of inserting at the beginning if an ordered collection.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.md|prepend_action]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.internal.md|prepend_action.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.protect.md|prepend_action.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.private.md|prepend_action.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.personal.md|prepend_action.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.secret.md|prepend_action.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action|prepend_action]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.public|prepend_action.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.internal|prepend_action.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.protect|prepend_action.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.private|prepend_action.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.personal|prepend_action.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/action/update_action/add_action/insert_action/prepend_action.secret|prepend_action.secret]] 

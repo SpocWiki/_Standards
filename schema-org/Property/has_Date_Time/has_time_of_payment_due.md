@@ -46,9 +46,10 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_payment_due.md|has_time_of_payment_due]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_payment_due.internal.md|has_time_of_payment_due.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_payment_due.protect.md|has_time_of_payment_due.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_payment_due.private.md|has_time_of_payment_due.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_payment_due.personal.md|has_time_of_payment_due.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_payment_due.secret.md|has_time_of_payment_due.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_payment_due|has_time_of_payment_due]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_payment_due.public|has_time_of_payment_due.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_payment_due.internal|has_time_of_payment_due.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_payment_due.protect|has_time_of_payment_due.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_payment_due.private|has_time_of_payment_due.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_payment_due.personal|has_time_of_payment_due.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_payment_due.secret|has_time_of_payment_due.secret]] 

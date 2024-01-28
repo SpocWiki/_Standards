@@ -43,9 +43,10 @@ A trip on a commercial train line.
 [ #has_/properties :: [ additionalType, alternateName, arrivalPlatform, arrivalStation, arrivalTime, departurePlatform, departureStation, departureTime, description, disambiguatingDescription, identifier, image, itinerary, mainEntityOfPage, name, offers, partOfTrip, potentialAction, provider, sameAs, subTrip, subjectOf, trainName, trainNumber, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/trip/train_trip.md|train_trip]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/trip/train_trip.internal.md|train_trip.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/trip/train_trip.protect.md|train_trip.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/trip/train_trip.private.md|train_trip.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/trip/train_trip.personal.md|train_trip.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/trip/train_trip.secret.md|train_trip.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/trip/train_trip|train_trip]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/trip/train_trip.public|train_trip.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/trip/train_trip.internal|train_trip.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/trip/train_trip.protect|train_trip.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/trip/train_trip.private|train_trip.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/trip/train_trip.personal|train_trip.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/trip/train_trip.secret|train_trip.secret]] 

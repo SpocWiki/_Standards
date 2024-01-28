@@ -60,9 +60,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_payload_kg.md|has_value_for_payload_kg]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_payload_kg.internal.md|has_value_for_payload_kg.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_payload_kg.protect.md|has_value_for_payload_kg.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_payload_kg.private.md|has_value_for_payload_kg.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_payload_kg.personal.md|has_value_for_payload_kg.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_payload_kg.secret.md|has_value_for_payload_kg.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_payload_kg|has_value_for_payload_kg]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_payload_kg.public|has_value_for_payload_kg.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_payload_kg.internal|has_value_for_payload_kg.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_payload_kg.protect|has_value_for_payload_kg.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_payload_kg.private|has_value_for_payload_kg.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_payload_kg.personal|has_value_for_payload_kg.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_payload_kg.secret|has_value_for_payload_kg.secret]] 

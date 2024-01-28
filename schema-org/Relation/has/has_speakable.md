@@ -63,9 +63,10 @@ Relation describes that:
 ( #has_/range :: SpeakableSpecification, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_speakable.md|has_speakable]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_speakable.internal.md|has_speakable.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_speakable.protect.md|has_speakable.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_speakable.private.md|has_speakable.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_speakable.personal.md|has_speakable.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_speakable.secret.md|has_speakable.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_speakable|has_speakable]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_speakable.public|has_speakable.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_speakable.internal|has_speakable.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_speakable.protect|has_speakable.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_speakable.private|has_speakable.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_speakable.personal|has_speakable.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_speakable.secret|has_speakable.secret]] 

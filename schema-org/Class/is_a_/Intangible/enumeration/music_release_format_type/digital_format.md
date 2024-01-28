@@ -45,9 +45,10 @@ DigitalFormat.
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.md|digital_format]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.internal.md|digital_format.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.protect.md|digital_format.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.private.md|digital_format.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.personal.md|digital_format.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.secret.md|digital_format.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format|digital_format]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.public|digital_format.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.internal|digital_format.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.protect|digital_format.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.private|digital_format.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.personal|digital_format.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/digital_format.secret|digital_format.secret]] 

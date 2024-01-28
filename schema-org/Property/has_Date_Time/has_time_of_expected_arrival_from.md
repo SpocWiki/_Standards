@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_expected_arrival_from.md|has_time_of_expected_arrival_from]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.internal.md|has_time_of_expected_arrival_from.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.protect.md|has_time_of_expected_arrival_from.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.private.md|has_time_of_expected_arrival_from.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.personal.md|has_time_of_expected_arrival_from.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.secret.md|has_time_of_expected_arrival_from.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_expected_arrival_from|has_time_of_expected_arrival_from]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_expected_arrival_from.public|has_time_of_expected_arrival_from.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.internal|has_time_of_expected_arrival_from.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.protect|has_time_of_expected_arrival_from.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.private|has_time_of_expected_arrival_from.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.personal|has_time_of_expected_arrival_from.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_expected_arrival_from.secret|has_time_of_expected_arrival_from.secret]] 

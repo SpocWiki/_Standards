@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: PhysicalExam )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_identifying_exam.md|has_identifying_exam]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_identifying_exam.internal.md|has_identifying_exam.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_identifying_exam.protect.md|has_identifying_exam.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_identifying_exam.private.md|has_identifying_exam.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_identifying_exam.personal.md|has_identifying_exam.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_identifying_exam.secret.md|has_identifying_exam.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_identifying_exam|has_identifying_exam]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_identifying_exam.public|has_identifying_exam.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_identifying_exam.internal|has_identifying_exam.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_identifying_exam.protect|has_identifying_exam.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_identifying_exam.private|has_identifying_exam.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_identifying_exam.personal|has_identifying_exam.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_identifying_exam.secret|has_identifying_exam.secret]] 

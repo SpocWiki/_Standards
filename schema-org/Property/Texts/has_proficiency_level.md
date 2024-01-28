@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_proficiency_level.md|has_proficiency_level]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_proficiency_level.internal.md|has_proficiency_level.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_proficiency_level.protect.md|has_proficiency_level.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_proficiency_level.private.md|has_proficiency_level.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_proficiency_level.personal.md|has_proficiency_level.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_proficiency_level.secret.md|has_proficiency_level.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_proficiency_level|has_proficiency_level]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_proficiency_level.public|has_proficiency_level.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_proficiency_level.internal|has_proficiency_level.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_proficiency_level.protect|has_proficiency_level.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_proficiency_level.private|has_proficiency_level.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_proficiency_level.personal|has_proficiency_level.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_proficiency_level.secret|has_proficiency_level.secret]] 

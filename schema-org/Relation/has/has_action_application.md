@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: [[Software_Application]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_action_application.md|has_action_application]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_application.internal.md|has_action_application.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_action_application.protect.md|has_action_application.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_action_application.private.md|has_action_application.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_action_application.personal.md|has_action_application.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_action_application.secret.md|has_action_application.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_action_application|has_action_application]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_action_application.public|has_action_application.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_application.internal|has_action_application.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_action_application.protect|has_action_application.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_action_application.private|has_action_application.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_action_application.personal|has_action_application.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_action_application.secret|has_action_application.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ [[../is/is_legislation_passed_by|is_legislation_passed_by]] , [[has_founder]] ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_destroyer.md|has_destroyer]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_destroyer.internal.md|has_destroyer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_destroyer.protect.md|has_destroyer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_destroyer.private.md|has_destroyer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_destroyer.personal.md|has_destroyer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_destroyer.secret.md|has_destroyer.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_destroyer|has_destroyer]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_destroyer.public|has_destroyer.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_destroyer.internal|has_destroyer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_destroyer.protect|has_destroyer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_destroyer.private|has_destroyer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_destroyer.personal|has_destroyer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_destroyer.secret|has_destroyer.secret]] 

@@ -45,9 +45,10 @@ A diet exclusive of gluten.
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.md|gluten_free_diet]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.internal.md|gluten_free_diet.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.protect.md|gluten_free_diet.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.private.md|gluten_free_diet.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.personal.md|gluten_free_diet.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.secret.md|gluten_free_diet.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet|gluten_free_diet]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.public|gluten_free_diet.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.internal|gluten_free_diet.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.protect|gluten_free_diet.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.private|gluten_free_diet.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.personal|gluten_free_diet.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/gluten_free_diet.secret|gluten_free_diet.secret]] 

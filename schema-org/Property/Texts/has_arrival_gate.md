@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_arrival_gate.md|has_arrival_gate]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_arrival_gate.internal.md|has_arrival_gate.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_arrival_gate.protect.md|has_arrival_gate.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_arrival_gate.private.md|has_arrival_gate.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_arrival_gate.personal.md|has_arrival_gate.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_arrival_gate.secret.md|has_arrival_gate.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_arrival_gate|has_arrival_gate]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_arrival_gate.public|has_arrival_gate.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_arrival_gate.internal|has_arrival_gate.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_arrival_gate.protect|has_arrival_gate.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_arrival_gate.private|has_arrival_gate.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_arrival_gate.personal|has_arrival_gate.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_arrival_gate.secret|has_arrival_gate.secret]] 

@@ -51,9 +51,10 @@ Predicate describes that:
 [ #has_/sub_properties :: [ announcementLocation, legislationJurisdiction ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_spatial_coverage.md|has_location_spatial_coverage]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_spatial_coverage.internal.md|has_location_spatial_coverage.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_spatial_coverage.protect.md|has_location_spatial_coverage.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_spatial_coverage.private.md|has_location_spatial_coverage.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_spatial_coverage.personal.md|has_location_spatial_coverage.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_spatial_coverage.secret.md|has_location_spatial_coverage.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_spatial_coverage|has_location_spatial_coverage]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_spatial_coverage.public|has_location_spatial_coverage.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_spatial_coverage.internal|has_location_spatial_coverage.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_spatial_coverage.protect|has_location_spatial_coverage.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_spatial_coverage.private|has_location_spatial_coverage.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_spatial_coverage.personal|has_location_spatial_coverage.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_spatial_coverage.secret|has_location_spatial_coverage.secret]] 

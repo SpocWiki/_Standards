@@ -54,9 +54,10 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_drive_through_service.md|is_drive_through_service]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_drive_through_service.internal.md|is_drive_through_service.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_drive_through_service.protect.md|is_drive_through_service.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_drive_through_service.private.md|is_drive_through_service.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_drive_through_service.personal.md|is_drive_through_service.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_drive_through_service.secret.md|is_drive_through_service.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_drive_through_service|is_drive_through_service]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_drive_through_service.public|is_drive_through_service.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_drive_through_service.internal|is_drive_through_service.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_drive_through_service.protect|is_drive_through_service.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_drive_through_service.private|is_drive_through_service.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_drive_through_service.personal|is_drive_through_service.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_drive_through_service.secret|is_drive_through_service.secret]] 

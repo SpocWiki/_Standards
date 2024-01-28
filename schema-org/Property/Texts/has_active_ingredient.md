@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_active_ingredient.md|has_active_ingredient]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_active_ingredient.internal.md|has_active_ingredient.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_active_ingredient.protect.md|has_active_ingredient.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_active_ingredient.private.md|has_active_ingredient.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_active_ingredient.personal.md|has_active_ingredient.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_active_ingredient.secret.md|has_active_ingredient.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_active_ingredient|has_active_ingredient]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_active_ingredient.public|has_active_ingredient.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_active_ingredient.internal|has_active_ingredient.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_active_ingredient.protect|has_active_ingredient.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_active_ingredient.private|has_active_ingredient.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_active_ingredient.personal|has_active_ingredient.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_active_ingredient.secret|has_active_ingredient.secret]] 

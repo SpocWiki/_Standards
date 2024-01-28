@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: TouristAttraction)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_including_attraction.md|is_including_attraction]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_attraction.internal.md|is_including_attraction.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_including_attraction.protect.md|is_including_attraction.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_including_attraction.private.md|is_including_attraction.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_including_attraction.personal.md|is_including_attraction.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_including_attraction.secret.md|is_including_attraction.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_including_attraction|is_including_attraction]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_including_attraction.public|is_including_attraction.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_attraction.internal|is_including_attraction.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_including_attraction.protect|is_including_attraction.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_including_attraction.private|is_including_attraction.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_including_attraction.personal|is_including_attraction.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_including_attraction.secret|is_including_attraction.secret]] 

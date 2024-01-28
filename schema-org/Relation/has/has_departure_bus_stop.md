@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: BusStation, BusStop )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_departure_bus_stop.md|has_departure_bus_stop]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_bus_stop.internal.md|has_departure_bus_stop.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_departure_bus_stop.protect.md|has_departure_bus_stop.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_departure_bus_stop.private.md|has_departure_bus_stop.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_departure_bus_stop.personal.md|has_departure_bus_stop.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_departure_bus_stop.secret.md|has_departure_bus_stop.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_departure_bus_stop|has_departure_bus_stop]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_departure_bus_stop.public|has_departure_bus_stop.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_bus_stop.internal|has_departure_bus_stop.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_departure_bus_stop.protect|has_departure_bus_stop.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_departure_bus_stop.private|has_departure_bus_stop.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_departure_bus_stop.personal|has_departure_bus_stop.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_departure_bus_stop.secret|has_departure_bus_stop.secret]] 

@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_works_for.md|has_works_for]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_works_for.internal.md|has_works_for.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_works_for.protect.md|has_works_for.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_works_for.private.md|has_works_for.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_works_for.personal.md|has_works_for.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_works_for.secret.md|has_works_for.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_works_for|has_works_for]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_works_for.public|has_works_for.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_works_for.internal|has_works_for.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_works_for.protect|has_works_for.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_works_for.private|has_works_for.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_works_for.personal|has_works_for.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_works_for.secret|has_works_for.secret]] 

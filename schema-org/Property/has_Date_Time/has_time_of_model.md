@@ -46,9 +46,10 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_model.md|has_time_of_model]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_model.internal.md|has_time_of_model.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_model.protect.md|has_time_of_model.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_model.private.md|has_time_of_model.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_model.personal.md|has_time_of_model.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_model.secret.md|has_time_of_model.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_model|has_time_of_model]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_model.public|has_time_of_model.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_model.internal|has_time_of_model.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_model.protect|has_time_of_model.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_model.private|has_time_of_model.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_model.personal|has_time_of_model.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_model.secret|has_time_of_model.secret]] 

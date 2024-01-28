@@ -46,9 +46,10 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_readonly.md|is_readonly]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_readonly.internal.md|is_readonly.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_readonly.protect.md|is_readonly.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_readonly.private.md|is_readonly.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_readonly.personal.md|is_readonly.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_readonly.secret.md|is_readonly.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_readonly|is_readonly]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_readonly.public|is_readonly.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_readonly.internal|is_readonly.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_readonly.protect|is_readonly.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_readonly.private|is_readonly.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_readonly.personal|is_readonly.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_readonly.secret|is_readonly.secret]] 

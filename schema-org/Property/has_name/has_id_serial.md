@@ -49,9 +49,10 @@ Predicated describes that:
 [ #has_/sub_properties :: [ vehicleIdentificationNumber ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_serial.md|has_id_serial]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_serial.internal.md|has_id_serial.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_serial.protect.md|has_id_serial.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_serial.private.md|has_id_serial.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_serial.personal.md|has_id_serial.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_serial.secret.md|has_id_serial.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_serial|has_id_serial]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_serial.public|has_id_serial.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_serial.internal|has_id_serial.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_serial.protect|has_id_serial.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_serial.private|has_id_serial.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_serial.personal|has_id_serial.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_serial.secret|has_id_serial.secret]] 

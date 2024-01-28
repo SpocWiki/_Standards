@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_departure_terminal.md|has_departure_terminal]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_departure_terminal.internal.md|has_departure_terminal.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_departure_terminal.protect.md|has_departure_terminal.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_departure_terminal.private.md|has_departure_terminal.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_departure_terminal.personal.md|has_departure_terminal.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_departure_terminal.secret.md|has_departure_terminal.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_departure_terminal|has_departure_terminal]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_departure_terminal.public|has_departure_terminal.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_departure_terminal.internal|has_departure_terminal.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_departure_terminal.protect|has_departure_terminal.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_departure_terminal.private|has_departure_terminal.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_departure_terminal.personal|has_departure_terminal.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_departure_terminal.secret|has_departure_terminal.secret]] 

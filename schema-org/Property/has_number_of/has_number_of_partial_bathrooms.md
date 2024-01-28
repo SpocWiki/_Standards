@@ -48,9 +48,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.md|has_number_of_number_of_partial_bathrooms]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.internal.md|has_number_of_number_of_partial_bathrooms.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.protect.md|has_number_of_number_of_partial_bathrooms.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.private.md|has_number_of_number_of_partial_bathrooms.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.personal.md|has_number_of_number_of_partial_bathrooms.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.secret.md|has_number_of_number_of_partial_bathrooms.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_partial_bathrooms|has_number_of_number_of_partial_bathrooms]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.public|has_number_of_number_of_partial_bathrooms.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.internal|has_number_of_number_of_partial_bathrooms.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.protect|has_number_of_number_of_partial_bathrooms.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.private|has_number_of_number_of_partial_bathrooms.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.personal|has_number_of_number_of_partial_bathrooms.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_partial_bathrooms.secret|has_number_of_number_of_partial_bathrooms.secret]] 

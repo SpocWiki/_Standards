@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: SoftwareApplication )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_target_product.md|has_target_product]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_target_product.internal.md|has_target_product.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_target_product.protect.md|has_target_product.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_target_product.private.md|has_target_product.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_target_product.personal.md|has_target_product.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_target_product.secret.md|has_target_product.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_target_product|has_target_product]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_target_product.public|has_target_product.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_target_product.internal|has_target_product.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_target_product.protect|has_target_product.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_target_product.private|has_target_product.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_target_product.personal|has_target_product.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_target_product.secret|has_target_product.secret]] 

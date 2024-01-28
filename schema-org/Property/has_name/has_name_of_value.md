@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_value.md|has_name_of_value]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_value.internal.md|has_name_of_value.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_value.protect.md|has_name_of_value.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name_of_value.private.md|has_name_of_value.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name_of_value.personal.md|has_name_of_value.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name_of_value.secret.md|has_name_of_value.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_value|has_name_of_value]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_name_of_value.public|has_name_of_value.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_value.internal|has_name_of_value.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_value.protect|has_name_of_value.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_name_of_value.private|has_name_of_value.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_name_of_value.personal|has_name_of_value.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_name_of_value.secret|has_name_of_value.secret]] 

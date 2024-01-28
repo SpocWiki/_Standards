@@ -54,9 +54,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/_has_Relation-Template.md|_has_Relation-Template]] 
-- [[../../../../_internal/schema.org/Predicate/Relations/_has_Relation-Template.internal.md|_has_Relation-Template.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/_has_Relation-Template.protect.md|_has_Relation-Template.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/_has_Relation-Template.private.md|_has_Relation-Template.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/_has_Relation-Template.personal.md|_has_Relation-Template.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/_has_Relation-Template.secret.md|_has_Relation-Template.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/_has_Relation-Template|_has_Relation-Template]] 
+- [[../../../../_public/schema-org/Predicate/Relations/_has_Relation-Template.public|_has_Relation-Template.public]] 
+- [[../../../../_internal/schema.org/Predicate/Relations/_has_Relation-Template.internal|_has_Relation-Template.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Relations/_has_Relation-Template.protect|_has_Relation-Template.protect]] 
+- [[../../../../_private/schema.org/Predicate/Relations/_has_Relation-Template.private|_has_Relation-Template.private]] 
+- [[../../../../_personal/schema.org/Predicate/Relations/_has_Relation-Template.personal|_has_Relation-Template.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Relations/_has_Relation-Template.secret|_has_Relation-Template.secret]] 

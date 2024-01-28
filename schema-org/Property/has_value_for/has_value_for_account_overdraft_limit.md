@@ -49,9 +49,10 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_account_overdraft_limit.md|has_value_for_account_overdraft_limit]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.internal.md|has_value_for_account_overdraft_limit.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.protect.md|has_value_for_account_overdraft_limit.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.private.md|has_value_for_account_overdraft_limit.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.personal.md|has_value_for_account_overdraft_limit.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.secret.md|has_value_for_account_overdraft_limit.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_account_overdraft_limit|has_value_for_account_overdraft_limit]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_account_overdraft_limit.public|has_value_for_account_overdraft_limit.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.internal|has_value_for_account_overdraft_limit.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.protect|has_value_for_account_overdraft_limit.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.private|has_value_for_account_overdraft_limit.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.personal|has_value_for_account_overdraft_limit.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_account_overdraft_limit.secret|has_value_for_account_overdraft_limit.secret]] 

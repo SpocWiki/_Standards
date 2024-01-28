@@ -47,9 +47,10 @@ Metric size system.
 [ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.md|size_system_metric]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.internal.md|size_system_metric.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.protect.md|size_system_metric.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.private.md|size_system_metric.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.personal.md|size_system_metric.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.secret.md|size_system_metric.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric|size_system_metric]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.public|size_system_metric.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.internal|size_system_metric.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.protect|size_system_metric.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.private|size_system_metric.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.personal|size_system_metric.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_metric.secret|size_system_metric.secret]] 

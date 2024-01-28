@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_of_unit.md|has_code_of_unit]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_code_of_unit.internal.md|has_code_of_unit.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_code_of_unit.protect.md|has_code_of_unit.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_code_of_unit.private.md|has_code_of_unit.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_code_of_unit.personal.md|has_code_of_unit.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_code_of_unit.secret.md|has_code_of_unit.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_of_unit|has_code_of_unit]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_code_of_unit.public|has_code_of_unit.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_code_of_unit.internal|has_code_of_unit.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_code_of_unit.protect|has_code_of_unit.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_code_of_unit.private|has_code_of_unit.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_code_of_unit.personal|has_code_of_unit.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_code_of_unit.secret|has_code_of_unit.secret]] 

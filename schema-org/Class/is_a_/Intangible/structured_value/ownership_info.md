@@ -43,9 +43,10 @@ A structured value providing information about when a certain organization or pe
 [ #has_/properties :: [ acquiredFrom, additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, ownedFrom, ownedThrough, potentialAction, sameAs, subjectOf, typeOfGood, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/ownership_info.md|ownership_info]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/ownership_info.internal.md|ownership_info.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/ownership_info.protect.md|ownership_info.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/ownership_info.private.md|ownership_info.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/ownership_info.personal.md|ownership_info.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/ownership_info.secret.md|ownership_info.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/ownership_info|ownership_info]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/ownership_info.public|ownership_info.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/ownership_info.internal|ownership_info.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/ownership_info.protect|ownership_info.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/ownership_info.private|ownership_info.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/ownership_info.personal|ownership_info.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/ownership_info.secret|ownership_info.secret]] 

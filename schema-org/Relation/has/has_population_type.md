@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: Class )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_population_type.md|has_population_type]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_population_type.internal.md|has_population_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_population_type.protect.md|has_population_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_population_type.private.md|has_population_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_population_type.personal.md|has_population_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_population_type.secret.md|has_population_type.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_population_type|has_population_type]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_population_type.public|has_population_type.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_population_type.internal|has_population_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_population_type.protect|has_population_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_population_type.private|has_population_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_population_type.personal|has_population_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_population_type.secret|has_population_type.secret]] 

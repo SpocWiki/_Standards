@@ -45,9 +45,10 @@ A specific branch of medical science that pertains to the health care of women, 
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.md|gynecologic]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.internal.md|gynecologic.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.protect.md|gynecologic.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.private.md|gynecologic.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.personal.md|gynecologic.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.secret.md|gynecologic.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic|gynecologic]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/gynecologic.public|gynecologic.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.internal|gynecologic.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.protect|gynecologic.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.private|gynecologic.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.personal|gynecologic.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/gynecologic.secret|gynecologic.secret]] 

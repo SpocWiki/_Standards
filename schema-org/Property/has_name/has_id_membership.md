@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_membership.md|has_id_membership]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_membership.internal.md|has_id_membership.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_membership.protect.md|has_id_membership.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_membership.private.md|has_id_membership.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_membership.personal.md|has_id_membership.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_membership.secret.md|has_id_membership.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_membership|has_id_membership]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_membership.public|has_id_membership.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_membership.internal|has_id_membership.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_membership.protect|has_id_membership.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_membership.private|has_id_membership.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_membership.personal|has_id_membership.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_membership.secret|has_id_membership.secret]] 

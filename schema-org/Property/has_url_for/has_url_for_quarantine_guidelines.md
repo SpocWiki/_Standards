@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: URL, WebContent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_quarantine_guidelines.md|has_url_for_quarantine_guidelines]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.internal.md|has_url_for_quarantine_guidelines.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.protect.md|has_url_for_quarantine_guidelines.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.private.md|has_url_for_quarantine_guidelines.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.personal.md|has_url_for_quarantine_guidelines.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.secret.md|has_url_for_quarantine_guidelines.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_quarantine_guidelines|has_url_for_quarantine_guidelines]] 
+- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_quarantine_guidelines.public|has_url_for_quarantine_guidelines.public]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.internal|has_url_for_quarantine_guidelines.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.protect|has_url_for_quarantine_guidelines.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.private|has_url_for_quarantine_guidelines.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.personal|has_url_for_quarantine_guidelines.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_quarantine_guidelines.secret|has_url_for_quarantine_guidelines.secret]] 

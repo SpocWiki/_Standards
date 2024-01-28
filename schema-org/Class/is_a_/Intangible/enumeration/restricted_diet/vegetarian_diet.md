@@ -45,9 +45,10 @@ A diet exclusive of animal meat.
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.md|vegetarian_diet]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.internal.md|vegetarian_diet.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.protect.md|vegetarian_diet.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.private.md|vegetarian_diet.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.personal.md|vegetarian_diet.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.secret.md|vegetarian_diet.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet|vegetarian_diet]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.public|vegetarian_diet.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.internal|vegetarian_diet.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.protect|vegetarian_diet.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.private|vegetarian_diet.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.personal|vegetarian_diet.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/vegetarian_diet.secret|vegetarian_diet.secret]] 

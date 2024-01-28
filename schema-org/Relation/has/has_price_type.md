@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: PriceTypeEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_price_type.md|has_price_type]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_price_type.internal.md|has_price_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_price_type.protect.md|has_price_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_price_type.private.md|has_price_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_price_type.personal.md|has_price_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_price_type.secret.md|has_price_type.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_price_type|has_price_type]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_price_type.public|has_price_type.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_price_type.internal|has_price_type.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_price_type.protect|has_price_type.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_price_type.private|has_price_type.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_price_type.personal|has_price_type.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_price_type.secret|has_price_type.secret]] 

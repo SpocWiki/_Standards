@@ -45,9 +45,10 @@ A web page element, like a table or an image.
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, cssSelector, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation, xpath ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/web_page_element.md|web_page_element]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page_element.internal.md|web_page_element.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page_element.protect.md|web_page_element.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/web_page_element.private.md|web_page_element.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page_element.personal.md|web_page_element.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page_element.secret.md|web_page_element.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/web_page_element|web_page_element]] 
+- [[../../../../../_public/schema-org/Class/is_a_/creative_work/web_page_element.public|web_page_element.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/web_page_element.internal|web_page_element.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/web_page_element.protect|web_page_element.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/web_page_element.private|web_page_element.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/web_page_element.personal|web_page_element.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/web_page_element.secret|web_page_element.secret]] 

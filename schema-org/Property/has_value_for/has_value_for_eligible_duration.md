@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_eligible_duration.md|has_value_for_eligible_duration]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_eligible_duration.internal.md|has_value_for_eligible_duration.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_eligible_duration.protect.md|has_value_for_eligible_duration.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_eligible_duration.private.md|has_value_for_eligible_duration.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_eligible_duration.personal.md|has_value_for_eligible_duration.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_eligible_duration.secret.md|has_value_for_eligible_duration.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_eligible_duration|has_value_for_eligible_duration]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_eligible_duration.public|has_value_for_eligible_duration.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_eligible_duration.internal|has_value_for_eligible_duration.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_eligible_duration.protect|has_value_for_eligible_duration.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_eligible_duration.private|has_value_for_eligible_duration.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_eligible_duration.personal|has_value_for_eligible_duration.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_eligible_duration.secret|has_value_for_eligible_duration.secret]] 

@@ -79,9 +79,10 @@ to the actual Class Definition harder.
 ( #has_/range :: Class)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/is_instance_of.md|is_instance_of]] 
-- [[../../../../_internal/schema.org/Predicate/Relations/is_instance_of.internal.md|is_instance_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_instance_of.protect.md|is_instance_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_instance_of.private.md|is_instance_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_instance_of.personal.md|is_instance_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_instance_of.secret.md|is_instance_of.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_instance_of|is_instance_of]] 
+- [[../../../../_public/schema-org/Predicate/Relations/is_instance_of.public|is_instance_of.public]] 
+- [[../../../../_internal/schema.org/Predicate/Relations/is_instance_of.internal|is_instance_of.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Relations/is_instance_of.protect|is_instance_of.protect]] 
+- [[../../../../_private/schema.org/Predicate/Relations/is_instance_of.private|is_instance_of.private]] 
+- [[../../../../_personal/schema.org/Predicate/Relations/is_instance_of.personal|is_instance_of.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Relations/is_instance_of.secret|is_instance_of.secret]] 

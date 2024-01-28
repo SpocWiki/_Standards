@@ -50,9 +50,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: description ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_sha256.md|has_sha256]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_sha256.internal.md|has_sha256.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_sha256.protect.md|has_sha256.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_sha256.private.md|has_sha256.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_sha256.personal.md|has_sha256.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_sha256.secret.md|has_sha256.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_sha256|has_sha256]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_sha256.public|has_sha256.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_sha256.internal|has_sha256.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_sha256.protect|has_sha256.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_sha256.private|has_sha256.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_sha256.personal|has_sha256.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_sha256.secret|has_sha256.secret]] 

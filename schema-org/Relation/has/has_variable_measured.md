@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: PropertyValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_variable_measured.md|has_variable_measured]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_variable_measured.internal.md|has_variable_measured.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_variable_measured.protect.md|has_variable_measured.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_variable_measured.private.md|has_variable_measured.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_variable_measured.personal.md|has_variable_measured.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_variable_measured.secret.md|has_variable_measured.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_variable_measured|has_variable_measured]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_variable_measured.public|has_variable_measured.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_variable_measured.internal|has_variable_measured.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_variable_measured.protect|has_variable_measured.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_variable_measured.private|has_variable_measured.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_variable_measured.personal|has_variable_measured.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_variable_measured.secret|has_variable_measured.secret]] 

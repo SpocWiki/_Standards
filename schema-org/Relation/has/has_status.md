@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: EventStatusType, MedicalStudyStatus, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_status.md|has_status]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_status.internal.md|has_status.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_status.protect.md|has_status.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_status.private.md|has_status.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_status.personal.md|has_status.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_status.secret.md|has_status.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_status|has_status]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_status.public|has_status.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_status.internal|has_status.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_status.protect|has_status.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_status.private|has_status.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_status.personal|has_status.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_status.secret|has_status.secret]] 

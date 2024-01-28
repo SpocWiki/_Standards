@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_significant_link.md|has_url_for_significant_link]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_significant_link.internal.md|has_url_for_significant_link.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_significant_link.protect.md|has_url_for_significant_link.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_significant_link.private.md|has_url_for_significant_link.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_significant_link.personal.md|has_url_for_significant_link.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_significant_link.secret.md|has_url_for_significant_link.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_significant_link|has_url_for_significant_link]] 
+- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_significant_link.public|has_url_for_significant_link.public]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_significant_link.internal|has_url_for_significant_link.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_significant_link.protect|has_url_for_significant_link.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_significant_link.private|has_url_for_significant_link.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_significant_link.personal|has_url_for_significant_link.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_significant_link.secret|has_url_for_significant_link.secret]] 

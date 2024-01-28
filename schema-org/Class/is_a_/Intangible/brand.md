@@ -43,9 +43,10 @@ A brand is a name used by an organization or business person for labeling a prod
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, description, disambiguatingDescription, identifier, image, logo, mainEntityOfPage, name, potentialAction, review, sameAs, slogan, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/brand.md|brand]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/brand.internal.md|brand.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/brand.protect.md|brand.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/brand.private.md|brand.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/brand.personal.md|brand.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/brand.secret.md|brand.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/brand|brand]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/brand.public|brand.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/brand.internal|brand.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/brand.protect|brand.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/brand.private|brand.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/brand.personal|brand.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/brand.secret|brand.secret]] 

@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: GameServerStatus )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_server_status.md|has_server_status]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_server_status.internal.md|has_server_status.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_server_status.protect.md|has_server_status.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_server_status.private.md|has_server_status.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_server_status.personal.md|has_server_status.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_server_status.secret.md|has_server_status.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_server_status|has_server_status]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_server_status.public|has_server_status.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_server_status.internal|has_server_status.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_server_status.protect|has_server_status.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_server_status.private|has_server_status.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_server_status.personal|has_server_status.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_server_status.secret|has_server_status.secret]] 

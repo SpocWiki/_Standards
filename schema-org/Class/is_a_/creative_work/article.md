@@ -47,9 +47,10 @@ See also <a href="http://blog.schema.org/2014/09/schemaorg-support-for-bibliogra
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, articleBody, articleSection, assesses, associatedMedia, audience, audio, author, award, awards, backstory, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pageEnd, pageStart, pagination, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, speakable, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, wordCount, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/article.md|article]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/article.internal.md|article.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/article.protect.md|article.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/article.private.md|article.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/article.personal.md|article.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/article.secret.md|article.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/article|article]] 
+- [[../../../../../_public/schema-org/Class/is_a_/creative_work/article.public|article.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/article.internal|article.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/article.protect|article.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/creative_work/article.private|article.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/article.personal|article.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/article.secret|article.secret]] 

@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Duration)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_billing_period.md|has_duration_of_billing_period]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_billing_period.internal.md|has_duration_of_billing_period.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_billing_period.protect.md|has_duration_of_billing_period.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_billing_period.private.md|has_duration_of_billing_period.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_billing_period.personal.md|has_duration_of_billing_period.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_billing_period.secret.md|has_duration_of_billing_period.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_billing_period|has_duration_of_billing_period]] 
+- [[../../../../_public/schema-org/Predicate/Durations/has_duration_of_billing_period.public|has_duration_of_billing_period.public]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_billing_period.internal|has_duration_of_billing_period.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_billing_period.protect|has_duration_of_billing_period.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_billing_period.private|has_duration_of_billing_period.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_billing_period.personal|has_duration_of_billing_period.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_billing_period.secret|has_duration_of_billing_period.secret]] 

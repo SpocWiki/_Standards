@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_recipe_category.md|has_recipe_category]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_recipe_category.internal.md|has_recipe_category.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_recipe_category.protect.md|has_recipe_category.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_recipe_category.private.md|has_recipe_category.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_recipe_category.personal.md|has_recipe_category.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_recipe_category.secret.md|has_recipe_category.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_recipe_category|has_recipe_category]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_recipe_category.public|has_recipe_category.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_recipe_category.internal|has_recipe_category.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_recipe_category.protect|has_recipe_category.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_recipe_category.private|has_recipe_category.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_recipe_category.personal|has_recipe_category.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_recipe_category.secret|has_recipe_category.secret]] 

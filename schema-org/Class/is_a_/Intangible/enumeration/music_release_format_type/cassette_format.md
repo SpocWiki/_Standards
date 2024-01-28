@@ -45,9 +45,10 @@ CassetteFormat.
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.md|cassette_format]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.internal.md|cassette_format.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.protect.md|cassette_format.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.private.md|cassette_format.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.personal.md|cassette_format.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.secret.md|cassette_format.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format|cassette_format]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.public|cassette_format.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.internal|cassette_format.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.protect|cassette_format.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.private|cassette_format.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.personal|cassette_format.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cassette_format.secret|cassette_format.secret]] 

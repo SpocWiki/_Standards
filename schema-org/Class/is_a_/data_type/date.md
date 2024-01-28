@@ -35,9 +35,10 @@ Tag Instances like this:
 A date value in <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601 date format</a>.
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/date.md|date]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/data_type/date.internal.md|date.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/data_type/date.protect.md|date.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/data_type/date.private.md|date.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/data_type/date.personal.md|date.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/data_type/date.secret.md|date.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/date|date]] 
+- [[../../../../../_public/schema-org/Class/is_a_/data_type/date.public|date.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/data_type/date.internal|date.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/data_type/date.protect|date.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/data_type/date.private|date.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/data_type/date.personal|date.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/data_type/date.secret|date.secret]] 

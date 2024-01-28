@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: PropertyValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_additional_property.md|has_additional_property]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_additional_property.internal.md|has_additional_property.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_additional_property.protect.md|has_additional_property.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_additional_property.private.md|has_additional_property.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_additional_property.personal.md|has_additional_property.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_additional_property.secret.md|has_additional_property.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_additional_property|has_additional_property]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_additional_property.public|has_additional_property.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_additional_property.internal|has_additional_property.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_additional_property.protect|has_additional_property.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_additional_property.private|has_additional_property.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_additional_property.personal|has_additional_property.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_additional_property.secret|has_additional_property.secret]] 

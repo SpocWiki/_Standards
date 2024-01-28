@@ -45,9 +45,10 @@ Any constitutionally or isotopically distinct atom, molecule, ion, ion pair, rad
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, chemicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasMolecularFunction, hasRepresentation, identifier, image, inChI, inChIKey, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, iupacName, mainEntityOfPage, molecularFormula, molecularWeight, monoisotopicMolecularWeight, name, potentialAction, potentialUse, sameAs, smiles, subjectOf, taxonomicRange, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.md|molecular_entity]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.internal.md|molecular_entity.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.protect.md|molecular_entity.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.private.md|molecular_entity.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.personal.md|molecular_entity.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.secret.md|molecular_entity.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/bio_chem_entity/molecular_entity|molecular_entity]] 
+- [[../../../../../_public/schema-org/Class/is_a_/bio_chem_entity/molecular_entity.public|molecular_entity.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.internal|molecular_entity.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.protect|molecular_entity.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.private|molecular_entity.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.personal|molecular_entity.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/bio_chem_entity/molecular_entity.secret|molecular_entity.secret]] 

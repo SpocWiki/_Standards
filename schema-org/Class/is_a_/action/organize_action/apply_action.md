@@ -49,9 +49,10 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/apply_action.md|apply_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/apply_action.internal.md|apply_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/apply_action.protect.md|apply_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/organize_action/apply_action.private.md|apply_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/apply_action.personal.md|apply_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/apply_action.secret.md|apply_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/apply_action|apply_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/organize_action/apply_action.public|apply_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/apply_action.internal|apply_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/apply_action.protect|apply_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/organize_action/apply_action.private|apply_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/apply_action.personal|apply_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/apply_action.secret|apply_action.secret]] 

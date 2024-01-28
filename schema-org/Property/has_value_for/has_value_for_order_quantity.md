@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_order_quantity.md|has_value_for_order_quantity]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_order_quantity.internal.md|has_value_for_order_quantity.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_order_quantity.protect.md|has_value_for_order_quantity.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_order_quantity.private.md|has_value_for_order_quantity.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_order_quantity.personal.md|has_value_for_order_quantity.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_order_quantity.secret.md|has_value_for_order_quantity.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_order_quantity|has_value_for_order_quantity]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_order_quantity.public|has_value_for_order_quantity.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_order_quantity.internal|has_value_for_order_quantity.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_order_quantity.protect|has_value_for_order_quantity.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_order_quantity.private|has_value_for_order_quantity.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_order_quantity.personal|has_value_for_order_quantity.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_order_quantity.secret|has_value_for_order_quantity.secret]] 

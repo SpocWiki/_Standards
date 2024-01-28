@@ -45,9 +45,10 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/reservation/bus_reservation.md|bus_reservation]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/reservation/bus_reservation.internal.md|bus_reservation.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/reservation/bus_reservation.protect.md|bus_reservation.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/reservation/bus_reservation.private.md|bus_reservation.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/reservation/bus_reservation.personal.md|bus_reservation.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/reservation/bus_reservation.secret.md|bus_reservation.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/reservation/bus_reservation|bus_reservation]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/reservation/bus_reservation.public|bus_reservation.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/reservation/bus_reservation.internal|bus_reservation.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/reservation/bus_reservation.protect|bus_reservation.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/reservation/bus_reservation.private|bus_reservation.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/reservation/bus_reservation.personal|bus_reservation.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/reservation/bus_reservation.secret|bus_reservation.secret]] 

@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: RestrictedDiet )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_suitable_for_diet.md|has_suitable_for_diet]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_suitable_for_diet.internal.md|has_suitable_for_diet.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_suitable_for_diet.protect.md|has_suitable_for_diet.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_suitable_for_diet.private.md|has_suitable_for_diet.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_suitable_for_diet.personal.md|has_suitable_for_diet.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_suitable_for_diet.secret.md|has_suitable_for_diet.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_suitable_for_diet|has_suitable_for_diet]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_suitable_for_diet.public|has_suitable_for_diet.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_suitable_for_diet.internal|has_suitable_for_diet.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_suitable_for_diet.protect|has_suitable_for_diet.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_suitable_for_diet.private|has_suitable_for_diet.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_suitable_for_diet.personal|has_suitable_for_diet.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_suitable_for_diet.secret|has_suitable_for_diet.secret]] 

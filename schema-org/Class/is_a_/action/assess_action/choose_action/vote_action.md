@@ -43,9 +43,10 @@ The act of expressing a preference from a fixed/finite/structured set of choices
 [ #has_/properties :: [ actionOption, actionStatus, additionalType, agent, alternateName, candidate, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, option, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.md|vote_action]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.internal.md|vote_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.protect.md|vote_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.private.md|vote_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.personal.md|vote_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.secret.md|vote_action.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action|vote_action]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/action/assess_action/choose_action/vote_action.public|vote_action.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.internal|vote_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.protect|vote_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.private|vote_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.personal|vote_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/choose_action/vote_action.secret|vote_action.secret]] 

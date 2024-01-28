@@ -45,9 +45,10 @@ A trial design in which neither the researcher, the person administering the the
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.md|triple_blinded_trial]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.internal.md|triple_blinded_trial.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.protect.md|triple_blinded_trial.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.private.md|triple_blinded_trial.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.personal.md|triple_blinded_trial.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.secret.md|triple_blinded_trial.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial|triple_blinded_trial]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.public|triple_blinded_trial.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.internal|triple_blinded_trial.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.protect|triple_blinded_trial.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.private|triple_blinded_trial.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.personal|triple_blinded_trial.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/triple_blinded_trial.secret|triple_blinded_trial.secret]] 

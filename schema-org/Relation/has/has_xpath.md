@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: XPathType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_xpath.md|has_xpath]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_xpath.internal.md|has_xpath.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_xpath.protect.md|has_xpath.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_xpath.private.md|has_xpath.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_xpath.personal.md|has_xpath.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_xpath.secret.md|has_xpath.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_xpath|has_xpath]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_xpath.public|has_xpath.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_xpath.internal|has_xpath.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_xpath.protect|has_xpath.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_xpath.private|has_xpath.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_xpath.personal|has_xpath.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_xpath.secret|has_xpath.secret]] 

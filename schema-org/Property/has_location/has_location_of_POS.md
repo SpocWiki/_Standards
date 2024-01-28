@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_of_POS.md|has_location_of_POS]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_of_POS.internal.md|has_location_of_POS.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_of_POS.protect.md|has_location_of_POS.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_of_POS.private.md|has_location_of_POS.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_of_POS.personal.md|has_location_of_POS.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_of_POS.secret.md|has_location_of_POS.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_of_POS|has_location_of_POS]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_of_POS.public|has_location_of_POS.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_of_POS.internal|has_location_of_POS.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_of_POS.protect|has_location_of_POS.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_of_POS.private|has_location_of_POS.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_of_POS.personal|has_location_of_POS.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_of_POS.secret|has_location_of_POS.secret]] 

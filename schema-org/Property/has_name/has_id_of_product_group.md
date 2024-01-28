@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_of_product_group.md|has_id_of_product_group]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_of_product_group.internal.md|has_id_of_product_group.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_of_product_group.protect.md|has_id_of_product_group.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_of_product_group.private.md|has_id_of_product_group.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_of_product_group.personal.md|has_id_of_product_group.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_of_product_group.secret.md|has_id_of_product_group.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_of_product_group|has_id_of_product_group]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_of_product_group.public|has_id_of_product_group.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_of_product_group.internal|has_id_of_product_group.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_of_product_group.protect|has_id_of_product_group.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_of_product_group.private|has_id_of_product_group.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_of_product_group.personal|has_id_of_product_group.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_of_product_group.secret|has_id_of_product_group.secret]] 

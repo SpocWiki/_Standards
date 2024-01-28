@@ -43,9 +43,10 @@ A theater group or company, for example, the Royal Shakespeare Company or Druid 
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/performing_group/theater_group.md|theater_group]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/organization/performing_group/theater_group.internal.md|theater_group.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/organization/performing_group/theater_group.protect.md|theater_group.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/organization/performing_group/theater_group.private.md|theater_group.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/organization/performing_group/theater_group.personal.md|theater_group.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/organization/performing_group/theater_group.secret.md|theater_group.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/performing_group/theater_group|theater_group]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/organization/performing_group/theater_group.public|theater_group.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/performing_group/theater_group.internal|theater_group.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/performing_group/theater_group.protect|theater_group.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/performing_group/theater_group.private|theater_group.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/performing_group/theater_group.personal|theater_group.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/performing_group/theater_group.secret|theater_group.secret]] 

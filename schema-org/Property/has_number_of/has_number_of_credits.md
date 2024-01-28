@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: Integer, StructuredValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_credits.md|has_number_of_credits]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_credits.internal.md|has_number_of_credits.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_credits.protect.md|has_number_of_credits.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_credits.private.md|has_number_of_credits.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_credits.personal.md|has_number_of_credits.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_credits.secret.md|has_number_of_credits.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_credits|has_number_of_credits]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_credits.public|has_number_of_credits.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_credits.internal|has_number_of_credits.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_credits.protect|has_number_of_credits.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_credits.private|has_number_of_credits.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_credits.personal|has_number_of_credits.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_credits.secret|has_number_of_credits.secret]] 

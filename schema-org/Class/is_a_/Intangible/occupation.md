@@ -43,9 +43,10 @@ A profession, may involve prolonged training and/or a formal qualification.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, educationRequirements, estimatedSalary, experienceRequirements, identifier, image, mainEntityOfPage, name, occupationLocation, occupationalCategory, potentialAction, qualifications, responsibilities, sameAs, skills, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/occupation.md|occupation]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/occupation.internal.md|occupation.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/occupation.protect.md|occupation.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/occupation.private.md|occupation.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/occupation.personal.md|occupation.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/occupation.secret.md|occupation.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/occupation|occupation]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/occupation.public|occupation.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/occupation.internal|occupation.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/occupation.protect|occupation.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/occupation.private|occupation.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/occupation.personal|occupation.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/occupation.secret|occupation.secret]] 

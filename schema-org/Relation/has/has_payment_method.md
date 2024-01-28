@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: PaymentMethod )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_payment_method.md|has_payment_method]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_payment_method.internal.md|has_payment_method.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_payment_method.protect.md|has_payment_method.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_payment_method.private.md|has_payment_method.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_payment_method.personal.md|has_payment_method.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_payment_method.secret.md|has_payment_method.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_payment_method|has_payment_method]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_payment_method.public|has_payment_method.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_payment_method.internal|has_payment_method.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_payment_method.protect|has_payment_method.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_payment_method.private|has_payment_method.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_payment_method.personal|has_payment_method.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_payment_method.secret|has_payment_method.secret]] 

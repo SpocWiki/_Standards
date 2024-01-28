@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_loan_payment_amount.md|has_value_for_loan_payment_amount]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.internal.md|has_value_for_loan_payment_amount.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.protect.md|has_value_for_loan_payment_amount.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.private.md|has_value_for_loan_payment_amount.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.personal.md|has_value_for_loan_payment_amount.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.secret.md|has_value_for_loan_payment_amount.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_loan_payment_amount|has_value_for_loan_payment_amount]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_loan_payment_amount.public|has_value_for_loan_payment_amount.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.internal|has_value_for_loan_payment_amount.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.protect|has_value_for_loan_payment_amount.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.private|has_value_for_loan_payment_amount.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.personal|has_value_for_loan_payment_amount.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_loan_payment_amount.secret|has_value_for_loan_payment_amount.secret]] 

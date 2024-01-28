@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: CorrectionComment, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_correction.md|has_correction]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_correction.internal.md|has_correction.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_correction.protect.md|has_correction.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_correction.private.md|has_correction.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_correction.personal.md|has_correction.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_correction.secret.md|has_correction.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_correction|has_correction]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_correction.public|has_correction.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_correction.internal|has_correction.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_correction.protect|has_correction.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_correction.private|has_correction.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_correction.personal|has_correction.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_correction.secret|has_correction.secret]] 

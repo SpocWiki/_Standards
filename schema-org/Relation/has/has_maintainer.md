@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_maintainer.md|has_maintainer]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_maintainer.internal.md|has_maintainer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_maintainer.protect.md|has_maintainer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_maintainer.private.md|has_maintainer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_maintainer.personal.md|has_maintainer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_maintainer.secret.md|has_maintainer.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_maintainer|has_maintainer]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_maintainer.public|has_maintainer.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_maintainer.internal|has_maintainer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_maintainer.protect|has_maintainer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_maintainer.private|has_maintainer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_maintainer.personal|has_maintainer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_maintainer.secret|has_maintainer.secret]] 

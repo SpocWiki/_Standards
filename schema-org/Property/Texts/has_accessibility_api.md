@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_accessibility_api.md|has_accessibility_api]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_accessibility_api.internal.md|has_accessibility_api.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_accessibility_api.protect.md|has_accessibility_api.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_accessibility_api.private.md|has_accessibility_api.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_accessibility_api.personal.md|has_accessibility_api.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_accessibility_api.secret.md|has_accessibility_api.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_accessibility_api|has_accessibility_api]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_accessibility_api.public|has_accessibility_api.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_accessibility_api.internal|has_accessibility_api.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_accessibility_api.protect|has_accessibility_api.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_accessibility_api.private|has_accessibility_api.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_accessibility_api.personal|has_accessibility_api.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_accessibility_api.secret|has_accessibility_api.secret]] 

@@ -55,9 +55,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_encoding_format.md|has_encoding_format]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_encoding_format.internal.md|has_encoding_format.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_encoding_format.protect.md|has_encoding_format.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_encoding_format.private.md|has_encoding_format.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_encoding_format.personal.md|has_encoding_format.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_encoding_format.secret.md|has_encoding_format.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_encoding_format|has_encoding_format]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_encoding_format.public|has_encoding_format.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_encoding_format.internal|has_encoding_format.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_encoding_format.protect|has_encoding_format.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_encoding_format.private|has_encoding_format.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_encoding_format.personal|has_encoding_format.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_encoding_format.secret|has_encoding_format.secret]] 

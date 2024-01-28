@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/inverse_of :: [[is_greater_than]]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_lesser_than.md|is_lesser_than]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_lesser_than.internal.md|is_lesser_than.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_lesser_than.protect.md|is_lesser_than.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_lesser_than.private.md|is_lesser_than.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_lesser_than.personal.md|is_lesser_than.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_lesser_than.secret.md|is_lesser_than.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_lesser_than|is_lesser_than]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_lesser_than.public|is_lesser_than.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_lesser_than.internal|is_lesser_than.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_lesser_than.protect|is_lesser_than.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_lesser_than.private|is_lesser_than.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_lesser_than.personal|is_lesser_than.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_lesser_than.secret|is_lesser_than.secret]] 

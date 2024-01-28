@@ -45,9 +45,10 @@ A type of blood vessel that specifically carries blood away from the heart.
 [ #has_/properties :: [ additionalType, alternateName, arterialBranch, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, supplyTo, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.md|artery]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.internal.md|artery.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.protect.md|artery.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.private.md|artery.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.personal.md|artery.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.secret.md|artery.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery|artery]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.public|artery.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.internal|artery.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.protect|artery.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.private|artery.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.personal|artery.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/artery.secret|artery.secret]] 

@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_producer.md|has_producer]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_producer.internal.md|has_producer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_producer.protect.md|has_producer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_producer.private.md|has_producer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_producer.personal.md|has_producer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_producer.secret.md|has_producer.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_producer|has_producer]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_producer.public|has_producer.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_producer.internal|has_producer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_producer.protect|has_producer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_producer.private|has_producer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_producer.personal|has_producer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_producer.secret|has_producer.secret]] 

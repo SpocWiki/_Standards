@@ -45,9 +45,10 @@ The event has been cancelled. If the event has multiple startDate values, all ar
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.md|event_cancelled]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.internal.md|event_cancelled.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.protect.md|event_cancelled.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.private.md|event_cancelled.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.personal.md|event_cancelled.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret.md|event_cancelled.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled|event_cancelled]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.public|event_cancelled.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.internal|event_cancelled.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.protect|event_cancelled.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.private|event_cancelled.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.personal|event_cancelled.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_cancelled.secret|event_cancelled.secret]] 

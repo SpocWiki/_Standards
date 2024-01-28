@@ -45,9 +45,10 @@ A structured value representing repayment.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, downPayment, earlyPrepaymentPenalty, identifier, image, loanPaymentAmount, loanPaymentFrequency, mainEntityOfPage, name, numberOfLoanPayments, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/repayment_specification.md|repayment_specification]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.internal.md|repayment_specification.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.protect.md|repayment_specification.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.private.md|repayment_specification.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.personal.md|repayment_specification.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.secret.md|repayment_specification.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/repayment_specification|repayment_specification]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/repayment_specification.public|repayment_specification.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.internal|repayment_specification.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.protect|repayment_specification.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.private|repayment_specification.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.personal|repayment_specification.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/repayment_specification.secret|repayment_specification.secret]] 

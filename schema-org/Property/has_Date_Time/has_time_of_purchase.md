@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_purchase.md|has_time_of_purchase]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_purchase.internal.md|has_time_of_purchase.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_purchase.protect.md|has_time_of_purchase.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_purchase.private.md|has_time_of_purchase.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_purchase.personal.md|has_time_of_purchase.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_purchase.secret.md|has_time_of_purchase.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_purchase|has_time_of_purchase]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_purchase.public|has_time_of_purchase.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_purchase.internal|has_time_of_purchase.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_purchase.protect|has_time_of_purchase.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_purchase.private|has_time_of_purchase.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_purchase.personal|has_time_of_purchase.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_purchase.secret|has_time_of_purchase.secret]] 

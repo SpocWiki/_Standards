@@ -45,9 +45,10 @@ Any condition of the human body that affects the normal functioning of a person,
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_condition.md|medical_condition]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition.internal.md|medical_condition.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_condition.protect.md|medical_condition.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_condition.private.md|medical_condition.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_condition.personal.md|medical_condition.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_condition.secret.md|medical_condition.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_condition|medical_condition]] 
+- [[../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_condition.public|medical_condition.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition.internal|medical_condition.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_condition.protect|medical_condition.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_condition.private|medical_condition.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_condition.personal|medical_condition.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_condition.secret|medical_condition.secret]] 

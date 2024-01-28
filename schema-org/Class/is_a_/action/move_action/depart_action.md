@@ -43,9 +43,10 @@ The act of  departing from a place. An agent departs from a fromLocation for a d
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/move_action/depart_action.md|depart_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/move_action/depart_action.internal.md|depart_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/move_action/depart_action.protect.md|depart_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/move_action/depart_action.private.md|depart_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/move_action/depart_action.personal.md|depart_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/move_action/depart_action.secret.md|depart_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/move_action/depart_action|depart_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/move_action/depart_action.public|depart_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/move_action/depart_action.internal|depart_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/move_action/depart_action.protect|depart_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/move_action/depart_action.private|depart_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/move_action/depart_action.personal|depart_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/move_action/depart_action.secret|depart_action.secret]] 

@@ -59,9 +59,10 @@ or editing out large portions from the recording.
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.md|edited_or_cropped_content]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.internal.md|edited_or_cropped_content.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.protect.md|edited_or_cropped_content.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.private.md|edited_or_cropped_content.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.personal.md|edited_or_cropped_content.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.secret.md|edited_or_cropped_content.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content|edited_or_cropped_content]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.public|edited_or_cropped_content.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.internal|edited_or_cropped_content.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.protect|edited_or_cropped_content.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.private|edited_or_cropped_content.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.personal|edited_or_cropped_content.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/edited_or_cropped_content.secret|edited_or_cropped_content.secret]] 

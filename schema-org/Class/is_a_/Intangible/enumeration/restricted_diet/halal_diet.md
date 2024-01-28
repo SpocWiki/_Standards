@@ -45,9 +45,10 @@ A diet conforming to Islamic dietary practices.
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.md|halal_diet]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.internal.md|halal_diet.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.protect.md|halal_diet.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.private.md|halal_diet.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.personal.md|halal_diet.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.secret.md|halal_diet.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet|halal_diet]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.public|halal_diet.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.internal|halal_diet.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.protect|halal_diet.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.private|halal_diet.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.personal|halal_diet.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/halal_diet.secret|halal_diet.secret]] 

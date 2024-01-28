@@ -44,9 +44,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_strength_unit.md|has_strength_unit]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_strength_unit.internal.md|has_strength_unit.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_strength_unit.protect.md|has_strength_unit.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_strength_unit.private.md|has_strength_unit.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_strength_unit.personal.md|has_strength_unit.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_strength_unit.secret.md|has_strength_unit.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_strength_unit|has_strength_unit]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_strength_unit.public|has_strength_unit.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_strength_unit.internal|has_strength_unit.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_strength_unit.protect|has_strength_unit.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_strength_unit.private|has_strength_unit.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_strength_unit.personal|has_strength_unit.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_strength_unit.secret|has_strength_unit.secret]] 

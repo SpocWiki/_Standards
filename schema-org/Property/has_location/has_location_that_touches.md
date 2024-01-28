@@ -48,9 +48,10 @@ Predicate describes that:
 ( #has_/range :: GeospatialGeometry, Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_that_touches.md|has_location_that_touches]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_that_touches.internal.md|has_location_that_touches.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_that_touches.protect.md|has_location_that_touches.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_that_touches.private.md|has_location_that_touches.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_that_touches.personal.md|has_location_that_touches.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_that_touches.secret.md|has_location_that_touches.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_that_touches|has_location_that_touches]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_that_touches.public|has_location_that_touches.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_that_touches.internal|has_location_that_touches.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_that_touches.protect|has_location_that_touches.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_that_touches.private|has_location_that_touches.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_that_touches.personal|has_location_that_touches.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_that_touches.secret|has_location_that_touches.secret]] 

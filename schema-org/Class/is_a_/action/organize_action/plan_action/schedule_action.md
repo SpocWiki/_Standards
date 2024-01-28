@@ -49,9 +49,10 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.md|schedule_action]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.internal.md|schedule_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.protect.md|schedule_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.private.md|schedule_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.personal.md|schedule_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.secret.md|schedule_action.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action|schedule_action]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/action/organize_action/plan_action/schedule_action.public|schedule_action.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.internal|schedule_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.protect|schedule_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.private|schedule_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.personal|schedule_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/plan_action/schedule_action.secret|schedule_action.secret]] 

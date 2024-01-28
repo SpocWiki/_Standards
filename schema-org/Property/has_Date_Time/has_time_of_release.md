@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_release.md|has_time_of_release]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_release.internal.md|has_time_of_release.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_release.protect.md|has_time_of_release.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_release.private.md|has_time_of_release.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_release.personal.md|has_time_of_release.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_release.secret.md|has_time_of_release.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_release|has_time_of_release]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_release.public|has_time_of_release.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_release.internal|has_time_of_release.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_release.protect|has_time_of_release.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_release.private|has_time_of_release.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_release.personal|has_time_of_release.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_release.secret|has_time_of_release.secret]] 

@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Duration, QuantitativeValue)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_activity.md|has_duration_of_activity]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_activity.internal.md|has_duration_of_activity.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_activity.protect.md|has_duration_of_activity.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_activity.private.md|has_duration_of_activity.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_activity.personal.md|has_duration_of_activity.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_activity.secret.md|has_duration_of_activity.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_activity|has_duration_of_activity]] 
+- [[../../../../_public/schema-org/Predicate/Durations/has_duration_of_activity.public|has_duration_of_activity.public]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_activity.internal|has_duration_of_activity.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_activity.protect|has_duration_of_activity.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_activity.private|has_duration_of_activity.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_activity.personal|has_duration_of_activity.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_activity.secret|has_duration_of_activity.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: BoatTerminal )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_departure_boat_terminal.md|has_departure_boat_terminal]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_boat_terminal.internal.md|has_departure_boat_terminal.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_departure_boat_terminal.protect.md|has_departure_boat_terminal.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_departure_boat_terminal.private.md|has_departure_boat_terminal.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_departure_boat_terminal.personal.md|has_departure_boat_terminal.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_departure_boat_terminal.secret.md|has_departure_boat_terminal.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_departure_boat_terminal|has_departure_boat_terminal]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_departure_boat_terminal.public|has_departure_boat_terminal.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_boat_terminal.internal|has_departure_boat_terminal.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_departure_boat_terminal.protect|has_departure_boat_terminal.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_departure_boat_terminal.private|has_departure_boat_terminal.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_departure_boat_terminal.personal|has_departure_boat_terminal.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_departure_boat_terminal.secret|has_departure_boat_terminal.secret]] 

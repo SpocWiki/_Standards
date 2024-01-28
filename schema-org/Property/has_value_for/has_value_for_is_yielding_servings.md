@@ -47,9 +47,10 @@ Predicate describes that:
 [ #is_/sub_property_of  :: yield ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_is_yielding_servings.md|has_value_for_is_yielding_servings]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.internal.md|has_value_for_is_yielding_servings.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.protect.md|has_value_for_is_yielding_servings.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.private.md|has_value_for_is_yielding_servings.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.personal.md|has_value_for_is_yielding_servings.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.secret.md|has_value_for_is_yielding_servings.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_is_yielding_servings|has_value_for_is_yielding_servings]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_is_yielding_servings.public|has_value_for_is_yielding_servings.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.internal|has_value_for_is_yielding_servings.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.protect|has_value_for_is_yielding_servings.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.private|has_value_for_is_yielding_servings.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.personal|has_value_for_is_yielding_servings.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_is_yielding_servings.secret|has_value_for_is_yielding_servings.secret]] 

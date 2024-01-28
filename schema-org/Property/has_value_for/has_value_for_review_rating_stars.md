@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Rating )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_review_rating_stars.md|has_value_for_review_rating_stars]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.internal.md|has_value_for_review_rating_stars.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.protect.md|has_value_for_review_rating_stars.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.private.md|has_value_for_review_rating_stars.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.personal.md|has_value_for_review_rating_stars.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.secret.md|has_value_for_review_rating_stars.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_review_rating_stars|has_value_for_review_rating_stars]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_review_rating_stars.public|has_value_for_review_rating_stars.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.internal|has_value_for_review_rating_stars.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.protect|has_value_for_review_rating_stars.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.private|has_value_for_review_rating_stars.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.personal|has_value_for_review_rating_stars.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_review_rating_stars.secret|has_value_for_review_rating_stars.secret]] 

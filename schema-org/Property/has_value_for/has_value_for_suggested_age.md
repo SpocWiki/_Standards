@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_suggested_age.md|has_value_for_suggested_age]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_suggested_age.internal.md|has_value_for_suggested_age.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_suggested_age.protect.md|has_value_for_suggested_age.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_suggested_age.private.md|has_value_for_suggested_age.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_suggested_age.personal.md|has_value_for_suggested_age.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_suggested_age.secret.md|has_value_for_suggested_age.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_suggested_age|has_value_for_suggested_age]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_suggested_age.public|has_value_for_suggested_age.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_suggested_age.internal|has_value_for_suggested_age.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_suggested_age.protect|has_value_for_suggested_age.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_suggested_age.private|has_value_for_suggested_age.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_suggested_age.personal|has_value_for_suggested_age.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_suggested_age.secret|has_value_for_suggested_age.secret]] 

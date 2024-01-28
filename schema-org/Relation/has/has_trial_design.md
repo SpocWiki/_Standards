@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalTrialDesign )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_trial_design.md|has_trial_design]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_trial_design.internal.md|has_trial_design.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_trial_design.protect.md|has_trial_design.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_trial_design.private.md|has_trial_design.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_trial_design.personal.md|has_trial_design.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_trial_design.secret.md|has_trial_design.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_trial_design|has_trial_design]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_trial_design.public|has_trial_design.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_trial_design.internal|has_trial_design.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_trial_design.protect|has_trial_design.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_trial_design.private|has_trial_design.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_trial_design.personal|has_trial_design.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_trial_design.secret|has_trial_design.secret]] 

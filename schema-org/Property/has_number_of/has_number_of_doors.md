@@ -49,9 +49,10 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_doors.md|has_number_of_number_of_doors]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_doors.internal.md|has_number_of_number_of_doors.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_doors.protect.md|has_number_of_number_of_doors.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_doors.private.md|has_number_of_number_of_doors.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_doors.personal.md|has_number_of_number_of_doors.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_doors.secret.md|has_number_of_number_of_doors.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_doors|has_number_of_number_of_doors]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_number_of_doors.public|has_number_of_number_of_doors.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_doors.internal|has_number_of_number_of_doors.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_doors.protect|has_number_of_number_of_doors.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_doors.private|has_number_of_number_of_doors.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_doors.personal|has_number_of_number_of_doors.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_doors.secret|has_number_of_number_of_doors.secret]] 

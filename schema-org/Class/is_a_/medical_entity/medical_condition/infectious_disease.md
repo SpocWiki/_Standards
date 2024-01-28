@@ -43,9 +43,10 @@ An infectious disease is a clinically evident human disease resulting from the p
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, infectiousAgent, infectiousAgentClass, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, transmissionMethod, typicalTest, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.md|infectious_disease]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.internal.md|infectious_disease.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.protect.md|infectious_disease.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.private.md|infectious_disease.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.personal.md|infectious_disease.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.secret.md|infectious_disease.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease|infectious_disease]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_condition/infectious_disease.public|infectious_disease.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.internal|infectious_disease.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.protect|infectious_disease.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.private|infectious_disease.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.personal|infectious_disease.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_condition/infectious_disease.secret|infectious_disease.secret]] 

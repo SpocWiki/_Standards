@@ -43,9 +43,10 @@ The act of starting or activating a device or application (e.g. starting a timer
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/control_action/activate_action.md|activate_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/control_action/activate_action.internal.md|activate_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/control_action/activate_action.protect.md|activate_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/control_action/activate_action.private.md|activate_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/control_action/activate_action.personal.md|activate_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/control_action/activate_action.secret.md|activate_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/control_action/activate_action|activate_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/control_action/activate_action.public|activate_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/control_action/activate_action.internal|activate_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/control_action/activate_action.protect|activate_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/control_action/activate_action.private|activate_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/control_action/activate_action.personal|activate_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/control_action/activate_action.secret|activate_action.secret]] 

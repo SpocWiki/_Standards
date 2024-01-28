@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_broadcast_channel.md|has_id_broadcast_channel]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_broadcast_channel.internal.md|has_id_broadcast_channel.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_broadcast_channel.protect.md|has_id_broadcast_channel.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_broadcast_channel.private.md|has_id_broadcast_channel.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_broadcast_channel.personal.md|has_id_broadcast_channel.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_broadcast_channel.secret.md|has_id_broadcast_channel.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_broadcast_channel|has_id_broadcast_channel]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_broadcast_channel.public|has_id_broadcast_channel.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_broadcast_channel.internal|has_id_broadcast_channel.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_broadcast_channel.protect|has_id_broadcast_channel.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_broadcast_channel.private|has_id_broadcast_channel.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_broadcast_channel.personal|has_id_broadcast_channel.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_broadcast_channel.secret|has_id_broadcast_channel.secret]] 

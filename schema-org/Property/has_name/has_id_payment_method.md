@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_payment_method.md|has_id_payment_method]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_payment_method.internal.md|has_id_payment_method.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_payment_method.protect.md|has_id_payment_method.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_payment_method.private.md|has_id_payment_method.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_payment_method.personal.md|has_id_payment_method.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_payment_method.secret.md|has_id_payment_method.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_payment_method|has_id_payment_method]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_payment_method.public|has_id_payment_method.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_payment_method.internal|has_id_payment_method.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_payment_method.protect|has_id_payment_method.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_payment_method.private|has_id_payment_method.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_payment_method.personal|has_id_payment_method.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_payment_method.secret|has_id_payment_method.secret]] 

@@ -43,9 +43,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_seller.md|has_seller]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_seller.internal.md|has_seller.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_seller.protect.md|has_seller.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_seller.private.md|has_seller.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_seller.personal.md|has_seller.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_seller.secret.md|has_seller.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_seller|has_seller]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_seller.public|has_seller.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_seller.internal|has_seller.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_seller.protect|has_seller.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_seller.private|has_seller.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_seller.personal|has_seller.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_seller.secret|has_seller.secret]] 

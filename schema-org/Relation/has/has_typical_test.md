@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalTest )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_typical_test.md|has_typical_test]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_typical_test.internal.md|has_typical_test.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_typical_test.protect.md|has_typical_test.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_typical_test.private.md|has_typical_test.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_typical_test.personal.md|has_typical_test.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_typical_test.secret.md|has_typical_test.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_typical_test|has_typical_test]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_typical_test.public|has_typical_test.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_typical_test.internal|has_typical_test.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_typical_test.protect|has_typical_test.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_typical_test.private|has_typical_test.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_typical_test.personal|has_typical_test.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_typical_test.secret|has_typical_test.secret]] 

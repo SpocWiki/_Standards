@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_circle.md|has_circle]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_circle.internal.md|has_circle.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_circle.protect.md|has_circle.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_circle.private.md|has_circle.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_circle.personal.md|has_circle.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_circle.secret.md|has_circle.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_circle|has_circle]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_circle.public|has_circle.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_circle.internal|has_circle.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_circle.protect|has_circle.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_circle.private|has_circle.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_circle.personal|has_circle.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_circle.secret|has_circle.secret]] 

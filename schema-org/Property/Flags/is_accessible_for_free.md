@@ -48,9 +48,10 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_accessible_for_free.md|is_accessible_for_free]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_accessible_for_free.internal.md|is_accessible_for_free.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_accessible_for_free.protect.md|is_accessible_for_free.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_accessible_for_free.private.md|is_accessible_for_free.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_accessible_for_free.personal.md|is_accessible_for_free.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_accessible_for_free.secret.md|is_accessible_for_free.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_accessible_for_free|is_accessible_for_free]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_accessible_for_free.public|is_accessible_for_free.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_accessible_for_free.internal|is_accessible_for_free.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_accessible_for_free.protect|is_accessible_for_free.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_accessible_for_free.private|is_accessible_for_free.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_accessible_for_free.personal|is_accessible_for_free.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_accessible_for_free.secret|is_accessible_for_free.secret]] 

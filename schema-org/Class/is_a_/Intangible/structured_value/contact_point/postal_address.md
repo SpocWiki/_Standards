@@ -43,9 +43,10 @@ The mailing address.
 [ #has_/properties :: [ additionalType, addressCountry, addressLocality, addressRegion, alternateName, areaServed, availableLanguage, contactOption, contactType, description, disambiguatingDescription, email, faxNumber, hoursAvailable, identifier, image, mainEntityOfPage, name, postOfficeBoxNumber, postalCode, potentialAction, productSupported, sameAs, serviceArea, streetAddress, subjectOf, telephone, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/contact_point/postal_address.md|postal_address]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.internal.md|postal_address.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.protect.md|postal_address.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.private.md|postal_address.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.personal.md|postal_address.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.secret.md|postal_address.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/contact_point/postal_address|postal_address]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/contact_point/postal_address.public|postal_address.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.internal|postal_address.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.protect|postal_address.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.private|postal_address.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.personal|postal_address.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/contact_point/postal_address.secret|postal_address.secret]] 

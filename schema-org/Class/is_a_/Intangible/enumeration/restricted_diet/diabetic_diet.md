@@ -45,9 +45,10 @@ A diet appropriate for people with diabetes.
 [ #is_/enum_of :: [[../RestrictedDiet]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.md|diabetic_diet]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.internal.md|diabetic_diet.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.protect.md|diabetic_diet.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.private.md|diabetic_diet.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.personal.md|diabetic_diet.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.secret.md|diabetic_diet.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet|diabetic_diet]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.public|diabetic_diet.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.internal|diabetic_diet.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.protect|diabetic_diet.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.private|diabetic_diet.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.personal|diabetic_diet.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/restricted_diet/diabetic_diet.secret|diabetic_diet.secret]] 

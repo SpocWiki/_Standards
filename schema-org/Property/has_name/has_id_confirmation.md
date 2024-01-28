@@ -47,9 +47,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_confirmation.md|has_id_confirmation]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_confirmation.internal.md|has_id_confirmation.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_confirmation.protect.md|has_id_confirmation.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_confirmation.private.md|has_id_confirmation.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_confirmation.personal.md|has_id_confirmation.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_confirmation.secret.md|has_id_confirmation.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_confirmation|has_id_confirmation]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_confirmation.public|has_id_confirmation.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_confirmation.internal|has_id_confirmation.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_confirmation.protect|has_id_confirmation.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_confirmation.private|has_id_confirmation.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_confirmation.personal|has_id_confirmation.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_confirmation.secret|has_id_confirmation.secret]] 

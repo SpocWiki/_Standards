@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Muscle )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_nerve_motor.md|has_nerve_motor]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nerve_motor.internal.md|has_nerve_motor.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nerve_motor.protect.md|has_nerve_motor.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_nerve_motor.private.md|has_nerve_motor.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_nerve_motor.personal.md|has_nerve_motor.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_nerve_motor.secret.md|has_nerve_motor.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_nerve_motor|has_nerve_motor]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_nerve_motor.public|has_nerve_motor.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nerve_motor.internal|has_nerve_motor.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nerve_motor.protect|has_nerve_motor.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_nerve_motor.private|has_nerve_motor.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_nerve_motor.personal|has_nerve_motor.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_nerve_motor.secret|has_nerve_motor.secret]] 

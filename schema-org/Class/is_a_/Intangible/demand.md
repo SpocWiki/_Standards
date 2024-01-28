@@ -43,9 +43,10 @@ A demand entity represents the public, not necessarily binding, not necessarily 
 [ #has_/properties :: [ acceptedPaymentMethod, additionalType, advanceBookingRequirement, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, identifier, image, includesObject, ineligibleRegion, inventoryLevel, itemCondition, itemOffered, mainEntityOfPage, mpn, name, potentialAction, priceSpecification, sameAs, seller, serialNumber, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/demand.md|demand]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/demand.internal.md|demand.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/demand.protect.md|demand.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/demand.private.md|demand.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/demand.personal.md|demand.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/demand.secret.md|demand.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/demand|demand]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/demand.public|demand.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/demand.internal|demand.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/demand.protect|demand.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/demand.private|demand.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/demand.personal|demand.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/demand.secret|demand.secret]] 

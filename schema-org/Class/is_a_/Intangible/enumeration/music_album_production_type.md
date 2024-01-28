@@ -41,9 +41,10 @@ Classification of the album by its type of content: soundtrack, live album, stud
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type.md|music_album_production_type]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.internal.md|music_album_production_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.protect.md|music_album_production_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.private.md|music_album_production_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.personal.md|music_album_production_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.secret.md|music_album_production_type.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type|music_album_production_type]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type.public|music_album_production_type.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.internal|music_album_production_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.protect|music_album_production_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.private|music_album_production_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.personal|music_album_production_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type.secret|music_album_production_type.secret]] 

@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_permissions.md|has_permissions]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_permissions.internal.md|has_permissions.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_permissions.protect.md|has_permissions.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_permissions.private.md|has_permissions.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_permissions.personal.md|has_permissions.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_permissions.secret.md|has_permissions.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_permissions|has_permissions]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_permissions.public|has_permissions.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_permissions.internal|has_permissions.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_permissions.protect|has_permissions.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_permissions.private|has_permissions.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_permissions.personal|has_permissions.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_permissions.secret|has_permissions.secret]] 

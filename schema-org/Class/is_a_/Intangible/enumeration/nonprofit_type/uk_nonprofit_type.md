@@ -43,9 +43,10 @@ UKNonprofitType: Non-profit organization type originating from the United Kingdo
 [ #is_/sub_class_of :: [[../NonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.md|uk_nonprofit_type]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.internal.md|uk_nonprofit_type.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.protect.md|uk_nonprofit_type.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.private.md|uk_nonprofit_type.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.personal.md|uk_nonprofit_type.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.secret.md|uk_nonprofit_type.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type|uk_nonprofit_type]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.public|uk_nonprofit_type.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.internal|uk_nonprofit_type.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.protect|uk_nonprofit_type.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.private|uk_nonprofit_type.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.personal|uk_nonprofit_type.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/uk_nonprofit_type.secret|uk_nonprofit_type.secret]] 

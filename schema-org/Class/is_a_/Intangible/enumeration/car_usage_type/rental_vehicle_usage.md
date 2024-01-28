@@ -47,9 +47,10 @@ Indicates the usage of the vehicle as a rental car.
 [ #is_/enum_of :: [[../CarUsageType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.md|rental_vehicle_usage]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.internal.md|rental_vehicle_usage.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.protect.md|rental_vehicle_usage.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.private.md|rental_vehicle_usage.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.personal.md|rental_vehicle_usage.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.secret.md|rental_vehicle_usage.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage|rental_vehicle_usage]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.public|rental_vehicle_usage.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.internal|rental_vehicle_usage.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.protect|rental_vehicle_usage.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.private|rental_vehicle_usage.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.personal|rental_vehicle_usage.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/rental_vehicle_usage.secret|rental_vehicle_usage.secret]] 

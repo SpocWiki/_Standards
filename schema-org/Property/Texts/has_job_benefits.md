@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_job_benefits.md|has_job_benefits]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_job_benefits.internal.md|has_job_benefits.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_job_benefits.protect.md|has_job_benefits.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_job_benefits.private.md|has_job_benefits.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_job_benefits.personal.md|has_job_benefits.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_job_benefits.secret.md|has_job_benefits.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_job_benefits|has_job_benefits]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_job_benefits.public|has_job_benefits.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_job_benefits.internal|has_job_benefits.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_job_benefits.protect|has_job_benefits.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_job_benefits.private|has_job_benefits.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_job_benefits.personal|has_job_benefits.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_job_benefits.secret|has_job_benefits.secret]] 

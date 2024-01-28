@@ -45,9 +45,10 @@ Relation describes that:
 ( #has_/range :: [[Medical_Entity]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_adverse_outcome.md|has_adverse_outcome]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_adverse_outcome.internal.md|has_adverse_outcome.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_adverse_outcome.protect.md|has_adverse_outcome.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_adverse_outcome.private.md|has_adverse_outcome.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_adverse_outcome.personal.md|has_adverse_outcome.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_adverse_outcome.secret.md|has_adverse_outcome.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_adverse_outcome|has_adverse_outcome]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_adverse_outcome.public|has_adverse_outcome.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_adverse_outcome.internal|has_adverse_outcome.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_adverse_outcome.protect|has_adverse_outcome.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_adverse_outcome.private|has_adverse_outcome.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_adverse_outcome.personal|has_adverse_outcome.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_adverse_outcome.secret|has_adverse_outcome.secret]] 

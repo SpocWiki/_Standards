@@ -47,9 +47,10 @@ Specifies that the customer receives a store credit as refund when returning a p
 [ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.md|store_credit_refund]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.internal.md|store_credit_refund.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.protect.md|store_credit_refund.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.private.md|store_credit_refund.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.personal.md|store_credit_refund.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.secret.md|store_credit_refund.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund|store_credit_refund]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.public|store_credit_refund.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.internal|store_credit_refund.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.protect|store_credit_refund.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.private|store_credit_refund.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.personal|store_credit_refund.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/store_credit_refund.secret|store_credit_refund.secret]] 

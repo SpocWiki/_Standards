@@ -45,9 +45,10 @@ This stands for any day that is a public holiday; it is a placeholder for all of
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.md|public_holidays]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.internal.md|public_holidays.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.protect.md|public_holidays.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.private.md|public_holidays.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.personal.md|public_holidays.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.secret.md|public_holidays.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays|public_holidays]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.public|public_holidays.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.internal|public_holidays.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.protect|public_holidays.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.private|public_holidays.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.personal|public_holidays.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/public_holidays.secret|public_holidays.secret]] 

@@ -45,9 +45,10 @@ A specific branch of medical science that deals with benign and malignant tumors
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.md|oncologic]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.internal.md|oncologic.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.protect.md|oncologic.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.private.md|oncologic.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.personal.md|oncologic.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.secret.md|oncologic.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic|oncologic]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/oncologic.public|oncologic.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.internal|oncologic.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.protect|oncologic.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.private|oncologic.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.personal|oncologic.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/oncologic.secret|oncologic.secret]] 

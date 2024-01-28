@@ -56,9 +56,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_speed_km_h.md|has_value_for_speed_km_h]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_speed_km_h.internal.md|has_value_for_speed_km_h.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_speed_km_h.protect.md|has_value_for_speed_km_h.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_speed_km_h.private.md|has_value_for_speed_km_h.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_speed_km_h.personal.md|has_value_for_speed_km_h.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_speed_km_h.secret.md|has_value_for_speed_km_h.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_speed_km_h|has_value_for_speed_km_h]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_speed_km_h.public|has_value_for_speed_km_h.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_speed_km_h.internal|has_value_for_speed_km_h.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_speed_km_h.protect|has_value_for_speed_km_h.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_speed_km_h.private|has_value_for_speed_km_h.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_speed_km_h.personal|has_value_for_speed_km_h.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_speed_km_h.secret|has_value_for_speed_km_h.secret]] 

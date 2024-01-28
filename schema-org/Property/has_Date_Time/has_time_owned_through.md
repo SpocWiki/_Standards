@@ -44,9 +44,10 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_owned_through.md|has_time_owned_through]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_owned_through.internal.md|has_time_owned_through.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_owned_through.protect.md|has_time_owned_through.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_owned_through.private.md|has_time_owned_through.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_owned_through.personal.md|has_time_owned_through.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_owned_through.secret.md|has_time_owned_through.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_owned_through|has_time_owned_through]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_owned_through.public|has_time_owned_through.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_owned_through.internal|has_time_owned_through.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_owned_through.protect|has_time_owned_through.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_owned_through.private|has_time_owned_through.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_owned_through.personal|has_time_owned_through.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_owned_through.secret|has_time_owned_through.secret]] 

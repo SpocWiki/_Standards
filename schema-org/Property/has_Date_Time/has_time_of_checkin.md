@@ -44,9 +44,10 @@ Formal Predicate:
 (range::DateTime, Time)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_checkin.md|has_time_of_checkin]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_checkin.internal.md|has_time_of_checkin.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_checkin.protect.md|has_time_of_checkin.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_checkin.private.md|has_time_of_checkin.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_checkin.personal.md|has_time_of_checkin.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_checkin.secret.md|has_time_of_checkin.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_checkin|has_time_of_checkin]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_checkin.public|has_time_of_checkin.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_checkin.internal|has_time_of_checkin.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_checkin.protect|has_time_of_checkin.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_checkin.private|has_time_of_checkin.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_checkin.personal|has_time_of_checkin.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_checkin.secret|has_time_of_checkin.secret]] 

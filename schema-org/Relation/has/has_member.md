@@ -43,9 +43,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../is/is_member_of]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_member.md|has_member]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_member.internal.md|has_member.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_member.protect.md|has_member.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_member.private.md|has_member.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_member.personal.md|has_member.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_member.secret.md|has_member.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_member|has_member]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_member.public|has_member.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_member.internal|has_member.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_member.protect|has_member.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_member.private|has_member.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_member.personal|has_member.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_member.secret|has_member.secret]] 

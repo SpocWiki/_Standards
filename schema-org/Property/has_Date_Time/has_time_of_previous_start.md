@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_previous_start.md|has_time_of_previous_start]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_previous_start.internal.md|has_time_of_previous_start.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_previous_start.protect.md|has_time_of_previous_start.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_previous_start.private.md|has_time_of_previous_start.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_previous_start.personal.md|has_time_of_previous_start.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_previous_start.secret.md|has_time_of_previous_start.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_previous_start|has_time_of_previous_start]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_previous_start.public|has_time_of_previous_start.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_previous_start.internal|has_time_of_previous_start.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_previous_start.protect|has_time_of_previous_start.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_previous_start.private|has_time_of_previous_start.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_previous_start.personal|has_time_of_previous_start.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_previous_start.secret|has_time_of_previous_start.secret]] 

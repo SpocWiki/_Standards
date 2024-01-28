@@ -45,9 +45,10 @@ The invitee may or may not attend.
 [ #is_/enum_of :: [[../RsvpResponseType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.md|rsvp_response_maybe]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.internal.md|rsvp_response_maybe.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.protect.md|rsvp_response_maybe.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.private.md|rsvp_response_maybe.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.personal.md|rsvp_response_maybe.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.secret.md|rsvp_response_maybe.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe|rsvp_response_maybe]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.public|rsvp_response_maybe.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.internal|rsvp_response_maybe.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.protect|rsvp_response_maybe.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.private|rsvp_response_maybe.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.personal|rsvp_response_maybe.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_maybe.secret|rsvp_response_maybe.secret]] 

@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_train_number.md|has_train_number]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_train_number.internal.md|has_train_number.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_train_number.protect.md|has_train_number.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_train_number.private.md|has_train_number.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_train_number.personal.md|has_train_number.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_train_number.secret.md|has_train_number.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_train_number|has_train_number]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_train_number.public|has_train_number.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_train_number.internal|has_train_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_train_number.protect|has_train_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_train_number.private|has_train_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_train_number.personal|has_train_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_train_number.secret|has_train_number.secret]] 

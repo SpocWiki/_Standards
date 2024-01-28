@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_eligibility_to_work_requirement.md|has_eligibility_to_work_requirement]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.internal.md|has_eligibility_to_work_requirement.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.protect.md|has_eligibility_to_work_requirement.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.private.md|has_eligibility_to_work_requirement.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.personal.md|has_eligibility_to_work_requirement.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.secret.md|has_eligibility_to_work_requirement.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_eligibility_to_work_requirement|has_eligibility_to_work_requirement]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_eligibility_to_work_requirement.public|has_eligibility_to_work_requirement.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.internal|has_eligibility_to_work_requirement.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.protect|has_eligibility_to_work_requirement.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.private|has_eligibility_to_work_requirement.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.personal|has_eligibility_to_work_requirement.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_eligibility_to_work_requirement.secret|has_eligibility_to_work_requirement.secret]] 

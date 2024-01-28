@@ -47,9 +47,10 @@ Specifies that product returns must be paid for, and are the responsibility of, 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.md|return_fees_customer_responsibility]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.internal.md|return_fees_customer_responsibility.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.protect.md|return_fees_customer_responsibility.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.private.md|return_fees_customer_responsibility.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.personal.md|return_fees_customer_responsibility.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.secret.md|return_fees_customer_responsibility.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility|return_fees_customer_responsibility]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.public|return_fees_customer_responsibility.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.internal|return_fees_customer_responsibility.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.protect|return_fees_customer_responsibility.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.private|return_fees_customer_responsibility.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.personal|return_fees_customer_responsibility.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_fees_customer_responsibility.secret|return_fees_customer_responsibility.secret]] 

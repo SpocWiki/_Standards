@@ -48,9 +48,10 @@ Use it like this:
 #is_/inverse_of  :: [[has_sub_properties]]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/is_sub_property_of.md|is_sub_property_of]] 
-- [[../../../../_internal/schema.org/Predicate/Relations/is_sub_property_of.internal.md|is_sub_property_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_sub_property_of.protect.md|is_sub_property_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_sub_property_of.private.md|is_sub_property_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_sub_property_of.personal.md|is_sub_property_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_sub_property_of.secret.md|is_sub_property_of.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_sub_property_of|is_sub_property_of]] 
+- [[../../../../_public/schema-org/Predicate/Relations/is_sub_property_of.public|is_sub_property_of.public]] 
+- [[../../../../_internal/schema.org/Predicate/Relations/is_sub_property_of.internal|is_sub_property_of.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Relations/is_sub_property_of.protect|is_sub_property_of.protect]] 
+- [[../../../../_private/schema.org/Predicate/Relations/is_sub_property_of.private|is_sub_property_of.private]] 
+- [[../../../../_personal/schema.org/Predicate/Relations/is_sub_property_of.personal|is_sub_property_of.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Relations/is_sub_property_of.secret|is_sub_property_of.secret]] 

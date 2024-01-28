@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/name_of_bus.md|name_of_bus]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/name_of_bus.internal.md|name_of_bus.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/name_of_bus.protect.md|name_of_bus.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/name_of_bus.private.md|name_of_bus.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/name_of_bus.personal.md|name_of_bus.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/name_of_bus.secret.md|name_of_bus.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/name_of_bus|name_of_bus]] 
+- [[../../../../_public/schema-org/Predicate/Texts/name_of_bus.public|name_of_bus.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/name_of_bus.internal|name_of_bus.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/name_of_bus.protect|name_of_bus.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/name_of_bus.private|name_of_bus.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/name_of_bus.personal|name_of_bus.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/name_of_bus.secret|name_of_bus.secret]] 

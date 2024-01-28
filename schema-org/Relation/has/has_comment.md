@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Comment )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_comment.md|has_comment]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_comment.internal.md|has_comment.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_comment.protect.md|has_comment.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_comment.private.md|has_comment.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_comment.personal.md|has_comment.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_comment.secret.md|has_comment.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_comment|has_comment]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_comment.public|has_comment.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_comment.internal|has_comment.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_comment.protect|has_comment.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_comment.private|has_comment.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_comment.personal|has_comment.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_comment.secret|has_comment.secret]] 

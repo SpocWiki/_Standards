@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_food_warning.md|has_food_warning]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_food_warning.internal.md|has_food_warning.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_food_warning.protect.md|has_food_warning.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_food_warning.private.md|has_food_warning.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_food_warning.personal.md|has_food_warning.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_food_warning.secret.md|has_food_warning.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_food_warning|has_food_warning]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_food_warning.public|has_food_warning.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_food_warning.internal|has_food_warning.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_food_warning.protect|has_food_warning.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_food_warning.private|has_food_warning.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_food_warning.personal|has_food_warning.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_food_warning.secret|has_food_warning.secret]] 

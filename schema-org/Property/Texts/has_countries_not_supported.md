@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_countries_not_supported.md|has_countries_not_supported]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_countries_not_supported.internal.md|has_countries_not_supported.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_countries_not_supported.protect.md|has_countries_not_supported.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_countries_not_supported.private.md|has_countries_not_supported.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_countries_not_supported.personal.md|has_countries_not_supported.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_countries_not_supported.secret.md|has_countries_not_supported.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_countries_not_supported|has_countries_not_supported]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_countries_not_supported.public|has_countries_not_supported.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_countries_not_supported.internal|has_countries_not_supported.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_countries_not_supported.protect|has_countries_not_supported.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_countries_not_supported.private|has_countries_not_supported.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_countries_not_supported.personal|has_countries_not_supported.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_countries_not_supported.secret|has_countries_not_supported.secret]] 

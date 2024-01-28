@@ -44,9 +44,10 @@ Formal Predicate:
 (range::DateTime, Time)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_arrival.md|has_time_of_arrival]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_arrival.internal.md|has_time_of_arrival.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_arrival.protect.md|has_time_of_arrival.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_arrival.private.md|has_time_of_arrival.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_arrival.personal.md|has_time_of_arrival.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_arrival.secret.md|has_time_of_arrival.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_arrival|has_time_of_arrival]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_arrival.public|has_time_of_arrival.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_arrival.internal|has_time_of_arrival.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_arrival.protect|has_time_of_arrival.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_arrival.private|has_time_of_arrival.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_arrival.personal|has_time_of_arrival.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_arrival.secret|has_time_of_arrival.secret]] 

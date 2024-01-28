@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_measurement.md|has_value_for_measurement]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_measurement.internal.md|has_value_for_measurement.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_measurement.protect.md|has_value_for_measurement.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_measurement.private.md|has_value_for_measurement.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_measurement.personal.md|has_value_for_measurement.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_measurement.secret.md|has_value_for_measurement.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_measurement|has_value_for_measurement]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_measurement.public|has_value_for_measurement.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_measurement.internal|has_value_for_measurement.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_measurement.protect|has_value_for_measurement.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_measurement.private|has_value_for_measurement.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_measurement.personal|has_value_for_measurement.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_measurement.secret|has_value_for_measurement.secret]] 

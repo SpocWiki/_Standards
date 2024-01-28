@@ -43,9 +43,10 @@ An entry point, within some Web-based protocol.
 [ #has_/properties :: [ actionApplication, actionPlatform, additionalType, alternateName, application, contentType, description, disambiguatingDescription, encodingType, httpMethod, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url, urlTemplate ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/entry_point.md|entry_point]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/entry_point.internal.md|entry_point.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/entry_point.protect.md|entry_point.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/entry_point.private.md|entry_point.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/entry_point.personal.md|entry_point.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/entry_point.secret.md|entry_point.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/entry_point|entry_point]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/entry_point.public|entry_point.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/entry_point.internal|entry_point.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/entry_point.protect|entry_point.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/entry_point.private|entry_point.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/entry_point.personal|entry_point.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/entry_point.secret|entry_point.secret]] 

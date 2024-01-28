@@ -45,9 +45,10 @@ The day of the week between Monday and Wednesday.
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.md|tuesday]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.internal.md|tuesday.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.protect.md|tuesday.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.private.md|tuesday.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.personal.md|tuesday.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.secret.md|tuesday.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/tuesday|tuesday]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.public|tuesday.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.internal|tuesday.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.protect|tuesday.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.private|tuesday.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.personal|tuesday.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/tuesday.secret|tuesday.secret]] 

@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_intensity.md|has_value_for_intensity]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_intensity.internal.md|has_value_for_intensity.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_intensity.protect.md|has_value_for_intensity.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_intensity.private.md|has_value_for_intensity.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_intensity.personal.md|has_value_for_intensity.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_intensity.secret.md|has_value_for_intensity.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_intensity|has_value_for_intensity]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_intensity.public|has_value_for_intensity.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_intensity.internal|has_value_for_intensity.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_intensity.protect|has_value_for_intensity.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_intensity.private|has_value_for_intensity.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_intensity.personal|has_value_for_intensity.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_intensity.secret|has_value_for_intensity.secret]] 

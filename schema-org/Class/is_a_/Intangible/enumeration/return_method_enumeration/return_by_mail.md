@@ -47,9 +47,10 @@ Specifies that product returns must be done by mail.
 [ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.md|return_by_mail]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.internal.md|return_by_mail.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.protect.md|return_by_mail.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.private.md|return_by_mail.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.personal.md|return_by_mail.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.secret.md|return_by_mail.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail|return_by_mail]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.public|return_by_mail.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.internal|return_by_mail.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.protect|return_by_mail.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.private|return_by_mail.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.personal|return_by_mail.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_by_mail.secret|return_by_mail.secret]] 

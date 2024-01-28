@@ -45,9 +45,10 @@ Size related properties of a product, typically a size code ([[name]]) and optio
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, hasMeasurement, lesser, lesserOrEqual, nonEqual, sizeGroup, sizeSystem, suggestedAge, suggestedGender, suggestedMeasurement, valueReference ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.md|size_specification]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.internal.md|size_specification.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.protect.md|size_specification.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.private.md|size_specification.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.personal.md|size_specification.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.secret.md|size_specification.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification|size_specification]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.public|size_specification.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.internal|size_specification.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.protect|size_specification.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.private|size_specification.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.personal|size_specification.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/size_specification.secret|size_specification.secret]] 

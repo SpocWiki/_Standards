@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_algorithm.md|has_algorithm]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_algorithm.internal.md|has_algorithm.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_algorithm.protect.md|has_algorithm.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_algorithm.private.md|has_algorithm.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_algorithm.personal.md|has_algorithm.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_algorithm.secret.md|has_algorithm.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_algorithm|has_algorithm]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_algorithm.public|has_algorithm.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_algorithm.internal|has_algorithm.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_algorithm.protect|has_algorithm.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_algorithm.private|has_algorithm.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_algorithm.personal|has_algorithm.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_algorithm.secret|has_algorithm.secret]] 

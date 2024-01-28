@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MediaObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_associated_media.md|has_associated_media]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_media.internal.md|has_associated_media.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_media.protect.md|has_associated_media.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_media.private.md|has_associated_media.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_associated_media.personal.md|has_associated_media.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_associated_media.secret.md|has_associated_media.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_associated_media|has_associated_media]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_associated_media.public|has_associated_media.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_media.internal|has_associated_media.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_media.protect|has_associated_media.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_media.private|has_associated_media.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_associated_media.personal|has_associated_media.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_associated_media.secret|has_associated_media.secret]] 

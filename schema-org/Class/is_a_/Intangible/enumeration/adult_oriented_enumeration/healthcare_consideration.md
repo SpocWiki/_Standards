@@ -47,9 +47,10 @@ Item is a pharmaceutical (e.g., a prescription or OTC drug) or a restricted medi
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.md|healthcare_consideration]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.internal.md|healthcare_consideration.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.protect.md|healthcare_consideration.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.private.md|healthcare_consideration.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.personal.md|healthcare_consideration.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.secret.md|healthcare_consideration.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration|healthcare_consideration]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.public|healthcare_consideration.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.internal|healthcare_consideration.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.protect|healthcare_consideration.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.private|healthcare_consideration.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.personal|healthcare_consideration.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/healthcare_consideration.secret|healthcare_consideration.secret]] 

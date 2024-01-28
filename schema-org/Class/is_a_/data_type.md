@@ -43,9 +43,10 @@ Tag Instances like this:
 [ #has_/sub_classes :: [ Boolean, Time, DateTime, Date, Text, Number ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Class/is_a_/data_type.md|data_type]] 
-- [[../../../../_internal/schema.org/Class/is_a_/data_type.internal.md|data_type.internal]] 
-- [[../../../../_protect/schema.org/Class/is_a_/data_type.protect.md|data_type.protect]] 
-- [[../../../../_private/schema.org/Class/is_a_/data_type.private.md|data_type.private]] 
-- [[../../../../_personal/schema.org/Class/is_a_/data_type.personal.md|data_type.personal]] 
-- [[../../../../_secret/schema.org/Class/is_a_/data_type.secret.md|data_type.secret]] 
+- [[../../../../_Standards/schema-org/Class/is_a_/data_type|data_type]] 
+- [[../../../../_public/schema-org/Class/is_a_/data_type.public|data_type.public]] 
+- [[../../../../_internal/schema.org/Class/is_a_/data_type.internal|data_type.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/data_type.protect|data_type.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/data_type.private|data_type.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/data_type.personal|data_type.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/data_type.secret|data_type.secret]] 

@@ -45,9 +45,10 @@ For a given health insurance plan, the specification for costs and coverage of p
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, healthPlanCostSharing, healthPlanDrugTier, identifier, image, mainEntityOfPage, name, offersPrescriptionByMail, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/health_plan_formulary.md|health_plan_formulary]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/health_plan_formulary.internal.md|health_plan_formulary.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/health_plan_formulary.protect.md|health_plan_formulary.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/health_plan_formulary.private.md|health_plan_formulary.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/health_plan_formulary.personal.md|health_plan_formulary.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/health_plan_formulary.secret.md|health_plan_formulary.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/health_plan_formulary|health_plan_formulary]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/health_plan_formulary.public|health_plan_formulary.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/health_plan_formulary.internal|health_plan_formulary.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/health_plan_formulary.protect|health_plan_formulary.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/health_plan_formulary.private|health_plan_formulary.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/health_plan_formulary.personal|health_plan_formulary.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/health_plan_formulary.secret|health_plan_formulary.secret]] 

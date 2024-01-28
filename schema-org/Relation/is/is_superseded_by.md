@@ -44,9 +44,10 @@ Reision describes that:
 ( #has_/range :: Class, Enumeration, Property )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_superseded_by.md|is_superseded_by]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_superseded_by.internal.md|is_superseded_by.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_superseded_by.protect.md|is_superseded_by.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_superseded_by.private.md|is_superseded_by.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_superseded_by.personal.md|is_superseded_by.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_superseded_by.secret.md|is_superseded_by.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_superseded_by|is_superseded_by]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_superseded_by.public|is_superseded_by.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_superseded_by.internal|is_superseded_by.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_superseded_by.protect|is_superseded_by.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_superseded_by.private|is_superseded_by.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_superseded_by.personal|is_superseded_by.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_superseded_by.secret|is_superseded_by.secret]] 

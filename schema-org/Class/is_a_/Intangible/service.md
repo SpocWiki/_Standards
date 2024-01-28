@@ -45,9 +45,10 @@ A service provided by an organization, e.g. delivery service, print services, et
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/service.md|service]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/service.internal.md|service.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/service.protect.md|service.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/service.private.md|service.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/service.personal.md|service.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/service.secret.md|service.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/service|service]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/service.public|service.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/service.internal|service.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/service.protect|service.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/service.private|service.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/service.personal|service.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/service.secret|service.secret]] 

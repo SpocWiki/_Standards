@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: LocationFeatureSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_amenity_feature.md|has_amenity_feature]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_amenity_feature.internal.md|has_amenity_feature.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_amenity_feature.protect.md|has_amenity_feature.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_amenity_feature.private.md|has_amenity_feature.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_amenity_feature.personal.md|has_amenity_feature.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_amenity_feature.secret.md|has_amenity_feature.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_amenity_feature|has_amenity_feature]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_amenity_feature.public|has_amenity_feature.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_amenity_feature.internal|has_amenity_feature.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_amenity_feature.protect|has_amenity_feature.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_amenity_feature.private|has_amenity_feature.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_amenity_feature.personal|has_amenity_feature.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_amenity_feature.secret|has_amenity_feature.secret]] 

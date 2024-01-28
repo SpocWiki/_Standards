@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: URL, WebContent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_school_closures_info.md|has_url_for_school_closures_info]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_school_closures_info.internal.md|has_url_for_school_closures_info.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_school_closures_info.protect.md|has_url_for_school_closures_info.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_school_closures_info.private.md|has_url_for_school_closures_info.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_school_closures_info.personal.md|has_url_for_school_closures_info.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_school_closures_info.secret.md|has_url_for_school_closures_info.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_school_closures_info|has_url_for_school_closures_info]] 
+- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_school_closures_info.public|has_url_for_school_closures_info.public]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_school_closures_info.internal|has_url_for_school_closures_info.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_school_closures_info.protect|has_url_for_school_closures_info.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_school_closures_info.private|has_url_for_school_closures_info.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_school_closures_info.personal|has_url_for_school_closures_info.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_school_closures_info.secret|has_url_for_school_closures_info.secret]] 

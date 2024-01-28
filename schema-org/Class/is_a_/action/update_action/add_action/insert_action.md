@@ -45,9 +45,10 @@ The act of adding at a specific location in an ordered collection.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/update_action/add_action/insert_action.md|insert_action]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/update_action/add_action/insert_action.internal.md|insert_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/update_action/add_action/insert_action.protect.md|insert_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/update_action/add_action/insert_action.private.md|insert_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/update_action/add_action/insert_action.personal.md|insert_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/update_action/add_action/insert_action.secret.md|insert_action.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/update_action/add_action/insert_action|insert_action]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/action/update_action/add_action/insert_action.public|insert_action.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/action/update_action/add_action/insert_action.internal|insert_action.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/action/update_action/add_action/insert_action.protect|insert_action.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/action/update_action/add_action/insert_action.private|insert_action.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/action/update_action/add_action/insert_action.personal|insert_action.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/action/update_action/add_action/insert_action.secret|insert_action.secret]] 

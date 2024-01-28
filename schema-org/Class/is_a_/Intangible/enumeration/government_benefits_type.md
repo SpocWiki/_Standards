@@ -43,9 +43,10 @@ GovernmentBenefitsType enumerates several kinds of government benefits to suppor
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type.md|government_benefits_type]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.internal.md|government_benefits_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.protect.md|government_benefits_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.private.md|government_benefits_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.personal.md|government_benefits_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.secret.md|government_benefits_type.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type|government_benefits_type]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type.public|government_benefits_type.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.internal|government_benefits_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.protect|government_benefits_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.private|government_benefits_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.personal|government_benefits_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type.secret|government_benefits_type.secret]] 

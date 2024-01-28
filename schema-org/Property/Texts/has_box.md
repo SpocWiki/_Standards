@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_box.md|has_box]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_box.internal.md|has_box.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_box.protect.md|has_box.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_box.private.md|has_box.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_box.personal.md|has_box.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_box.secret.md|has_box.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_box|has_box]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_box.public|has_box.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_box.internal|has_box.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_box.protect|has_box.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_box.private|has_box.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_box.personal|has_box.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_box.secret|has_box.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_publisher_imprint.md|has_publisher_imprint]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publisher_imprint.internal.md|has_publisher_imprint.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_publisher_imprint.protect.md|has_publisher_imprint.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_publisher_imprint.private.md|has_publisher_imprint.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_publisher_imprint.personal.md|has_publisher_imprint.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_publisher_imprint.secret.md|has_publisher_imprint.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_publisher_imprint|has_publisher_imprint]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_publisher_imprint.public|has_publisher_imprint.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publisher_imprint.internal|has_publisher_imprint.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_publisher_imprint.protect|has_publisher_imprint.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_publisher_imprint.private|has_publisher_imprint.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_publisher_imprint.personal|has_publisher_imprint.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_publisher_imprint.secret|has_publisher_imprint.secret]] 

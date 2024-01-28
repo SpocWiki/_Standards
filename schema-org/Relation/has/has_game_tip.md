@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_game_tip.md|has_game_tip]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game_tip.internal.md|has_game_tip.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_game_tip.protect.md|has_game_tip.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_game_tip.private.md|has_game_tip.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_game_tip.personal.md|has_game_tip.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_game_tip.secret.md|has_game_tip.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_game_tip|has_game_tip]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_game_tip.public|has_game_tip.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game_tip.internal|has_game_tip.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_game_tip.protect|has_game_tip.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_game_tip.private|has_game_tip.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_game_tip.personal|has_game_tip.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_game_tip.secret|has_game_tip.secret]] 

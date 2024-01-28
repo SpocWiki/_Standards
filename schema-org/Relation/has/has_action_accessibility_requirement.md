@@ -43,9 +43,10 @@ Relation describes that:
 ( #has_/range :: ActionAccessSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_action_accessibility_requirement.md|has_action_accessibility_requirement]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.internal.md|has_action_accessibility_requirement.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.protect.md|has_action_accessibility_requirement.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.private.md|has_action_accessibility_requirement.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.personal.md|has_action_accessibility_requirement.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.secret.md|has_action_accessibility_requirement.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_action_accessibility_requirement|has_action_accessibility_requirement]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_action_accessibility_requirement.public|has_action_accessibility_requirement.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.internal|has_action_accessibility_requirement.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.protect|has_action_accessibility_requirement.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.private|has_action_accessibility_requirement.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.personal|has_action_accessibility_requirement.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_action_accessibility_requirement.secret|has_action_accessibility_requirement.secret]] 

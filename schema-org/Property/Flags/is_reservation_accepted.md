@@ -46,9 +46,10 @@ Predicate describes that:
 ( #has_/range :: Boolean, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_reservation_accepted.md|is_reservation_accepted]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_reservation_accepted.internal.md|is_reservation_accepted.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_reservation_accepted.protect.md|is_reservation_accepted.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_reservation_accepted.private.md|is_reservation_accepted.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_reservation_accepted.personal.md|is_reservation_accepted.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_reservation_accepted.secret.md|is_reservation_accepted.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_reservation_accepted|is_reservation_accepted]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_reservation_accepted.public|is_reservation_accepted.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_reservation_accepted.internal|is_reservation_accepted.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_reservation_accepted.protect|is_reservation_accepted.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_reservation_accepted.private|is_reservation_accepted.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_reservation_accepted.personal|is_reservation_accepted.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_reservation_accepted.secret|is_reservation_accepted.secret]] 

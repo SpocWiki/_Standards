@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: OpeningHoursSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_hours_available.md|has_hours_available]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hours_available.internal.md|has_hours_available.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_hours_available.protect.md|has_hours_available.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_hours_available.private.md|has_hours_available.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_hours_available.personal.md|has_hours_available.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_hours_available.secret.md|has_hours_available.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_hours_available|has_hours_available]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_hours_available.public|has_hours_available.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_hours_available.internal|has_hours_available.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_hours_available.protect|has_hours_available.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_hours_available.private|has_hours_available.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_hours_available.personal|has_hours_available.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_hours_available.secret|has_hours_available.secret]] 

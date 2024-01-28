@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_arrival_platform.md|has_arrival_platform]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_arrival_platform.internal.md|has_arrival_platform.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_arrival_platform.protect.md|has_arrival_platform.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_arrival_platform.private.md|has_arrival_platform.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_arrival_platform.personal.md|has_arrival_platform.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_arrival_platform.secret.md|has_arrival_platform.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_arrival_platform|has_arrival_platform]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_arrival_platform.public|has_arrival_platform.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_arrival_platform.internal|has_arrival_platform.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_arrival_platform.protect|has_arrival_platform.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_arrival_platform.private|has_arrival_platform.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_arrival_platform.personal|has_arrival_platform.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_arrival_platform.secret|has_arrival_platform.secret]] 

@@ -46,9 +46,10 @@ Formal Predicate:
 Has [sub_properties::legislationDate]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_created.md|has_time_created]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_created.internal.md|has_time_created.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_created.protect.md|has_time_created.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_created.private.md|has_time_created.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_created.personal.md|has_time_created.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_created.secret.md|has_time_created.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_created|has_time_created]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_created.public|has_time_created.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_created.internal|has_time_created.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_created.protect|has_time_created.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_created.private|has_time_created.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_created.personal|has_time_created.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_created.secret|has_time_created.secret]] 

@@ -45,9 +45,10 @@ The payment is due and considered late.
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.md|payment_past_due]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.internal.md|payment_past_due.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.protect.md|payment_past_due.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.private.md|payment_past_due.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.personal.md|payment_past_due.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.secret.md|payment_past_due.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due|payment_past_due]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.public|payment_past_due.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.internal|payment_past_due.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.protect|payment_past_due.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.private|payment_past_due.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.personal|payment_past_due.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_past_due.secret|payment_past_due.secret]] 

@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_storage_requirements.md|has_storage_requirements]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_storage_requirements.internal.md|has_storage_requirements.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_storage_requirements.protect.md|has_storage_requirements.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_storage_requirements.private.md|has_storage_requirements.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_storage_requirements.personal.md|has_storage_requirements.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_storage_requirements.secret.md|has_storage_requirements.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_storage_requirements|has_storage_requirements]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_storage_requirements.public|has_storage_requirements.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_storage_requirements.internal|has_storage_requirements.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_storage_requirements.protect|has_storage_requirements.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_storage_requirements.private|has_storage_requirements.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_storage_requirements.personal|has_storage_requirements.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_storage_requirements.secret|has_storage_requirements.secret]] 

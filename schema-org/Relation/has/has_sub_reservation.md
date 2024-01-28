@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Reservation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sub_reservation.md|has_sub_reservation]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_reservation.internal.md|has_sub_reservation.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sub_reservation.protect.md|has_sub_reservation.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sub_reservation.private.md|has_sub_reservation.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sub_reservation.personal.md|has_sub_reservation.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sub_reservation.secret.md|has_sub_reservation.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sub_reservation|has_sub_reservation]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_sub_reservation.public|has_sub_reservation.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_reservation.internal|has_sub_reservation.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sub_reservation.protect|has_sub_reservation.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sub_reservation.private|has_sub_reservation.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sub_reservation.personal|has_sub_reservation.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sub_reservation.secret|has_sub_reservation.secret]] 

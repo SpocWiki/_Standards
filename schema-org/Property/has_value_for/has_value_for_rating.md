@@ -63,9 +63,10 @@ Usage guidelines:
 ( #has_/range :: [ [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]]  ])
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_rating.md|has_value_for_rating]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_rating.internal.md|has_value_for_rating.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_rating.protect.md|has_value_for_rating.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_rating.private.md|has_value_for_rating.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_rating.personal.md|has_value_for_rating.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_rating.secret.md|has_value_for_rating.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_rating|has_value_for_rating]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_rating.public|has_value_for_rating.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_rating.internal|has_value_for_rating.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_rating.protect|has_value_for_rating.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_rating.private|has_value_for_rating.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_rating.personal|has_value_for_rating.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_rating.secret|has_value_for_rating.secret]] 

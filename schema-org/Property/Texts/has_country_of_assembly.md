@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_country_of_assembly.md|has_country_of_assembly]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_country_of_assembly.internal.md|has_country_of_assembly.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_country_of_assembly.protect.md|has_country_of_assembly.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_country_of_assembly.private.md|has_country_of_assembly.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_country_of_assembly.personal.md|has_country_of_assembly.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_country_of_assembly.secret.md|has_country_of_assembly.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_country_of_assembly|has_country_of_assembly]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_country_of_assembly.public|has_country_of_assembly.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_country_of_assembly.internal|has_country_of_assembly.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_country_of_assembly.protect|has_country_of_assembly.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_country_of_assembly.private|has_country_of_assembly.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_country_of_assembly.personal|has_country_of_assembly.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_country_of_assembly.secret|has_country_of_assembly.secret]] 

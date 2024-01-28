@@ -45,9 +45,10 @@ A DeliveryMethod in which an item is collected on site, e.g. in a store or at a 
 [ #is_/enum_of :: [[../DeliveryMethod]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.md|on_site_pickup]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.internal.md|on_site_pickup.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.protect.md|on_site_pickup.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.private.md|on_site_pickup.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.personal.md|on_site_pickup.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.secret.md|on_site_pickup.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup|on_site_pickup]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.public|on_site_pickup.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.internal|on_site_pickup.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.protect|on_site_pickup.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.private|on_site_pickup.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.personal|on_site_pickup.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/delivery_method/on_site_pickup.secret|on_site_pickup.secret]] 

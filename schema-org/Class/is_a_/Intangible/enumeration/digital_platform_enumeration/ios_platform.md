@@ -47,9 +47,10 @@ Represents the broad notion of iOS-based operating systems.
 [ #is_/enum_of :: [[../DigitalPlatformEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.md|ios_platform]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.internal.md|ios_platform.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.protect.md|ios_platform.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.private.md|ios_platform.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.personal.md|ios_platform.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.secret.md|ios_platform.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform|ios_platform]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.public|ios_platform.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.internal|ios_platform.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.protect|ios_platform.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.private|ios_platform.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.personal|ios_platform.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/digital_platform_enumeration/ios_platform.secret|ios_platform.secret]] 

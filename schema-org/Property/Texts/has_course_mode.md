@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_course_mode.md|has_course_mode]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_course_mode.internal.md|has_course_mode.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_course_mode.protect.md|has_course_mode.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_course_mode.private.md|has_course_mode.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_course_mode.personal.md|has_course_mode.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_course_mode.secret.md|has_course_mode.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_course_mode|has_course_mode]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_course_mode.public|has_course_mode.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_course_mode.internal|has_course_mode.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_course_mode.protect|has_course_mode.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_course_mode.private|has_course_mode.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_course_mode.personal|has_course_mode.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_course_mode.secret|has_course_mode.secret]] 

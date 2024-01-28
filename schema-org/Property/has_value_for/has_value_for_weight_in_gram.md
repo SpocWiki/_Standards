@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_weight_in_gram.md|has_value_for_weight_in_gram]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.internal.md|has_value_for_weight_in_gram.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.protect.md|has_value_for_weight_in_gram.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.private.md|has_value_for_weight_in_gram.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.personal.md|has_value_for_weight_in_gram.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.secret.md|has_value_for_weight_in_gram.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_weight_in_gram|has_value_for_weight_in_gram]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_weight_in_gram.public|has_value_for_weight_in_gram.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.internal|has_value_for_weight_in_gram.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.protect|has_value_for_weight_in_gram.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.private|has_value_for_weight_in_gram.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.personal|has_value_for_weight_in_gram.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_weight_in_gram.secret|has_value_for_weight_in_gram.secret]] 

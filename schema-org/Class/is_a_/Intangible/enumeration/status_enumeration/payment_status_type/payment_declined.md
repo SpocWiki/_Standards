@@ -45,9 +45,10 @@ The payee received the payment, but it was declined for some reason.
 [ #is_/enum_of :: [[../PaymentStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.md|payment_declined]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.internal.md|payment_declined.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.protect.md|payment_declined.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.private.md|payment_declined.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.personal.md|payment_declined.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.secret.md|payment_declined.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined|payment_declined]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.public|payment_declined.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.internal|payment_declined.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.protect|payment_declined.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.private|payment_declined.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.personal|payment_declined.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/payment_status_type/payment_declined.secret|payment_declined.secret]] 

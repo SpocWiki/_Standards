@@ -41,9 +41,10 @@ Relation describes that:
 ( #has_/range :: [Class](../Classes.md) )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_range_includes.md|has_range_includes]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_range_includes.internal.md|has_range_includes.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_range_includes.protect.md|has_range_includes.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_range_includes.private.md|has_range_includes.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_range_includes.personal.md|has_range_includes.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_range_includes.secret.md|has_range_includes.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_range_includes|has_range_includes]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_range_includes.public|has_range_includes.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_range_includes.internal|has_range_includes.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_range_includes.protect|has_range_includes.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_range_includes.private|has_range_includes.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_range_includes.personal|has_range_includes.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_range_includes.secret|has_range_includes.secret]] 

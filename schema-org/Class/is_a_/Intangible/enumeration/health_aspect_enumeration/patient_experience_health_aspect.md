@@ -47,9 +47,10 @@ Content about the real life experience of patients or people that have lived a s
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.md|patient_experience_health_aspect]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.internal.md|patient_experience_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.protect.md|patient_experience_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.private.md|patient_experience_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.personal.md|patient_experience_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.secret.md|patient_experience_health_aspect.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect|patient_experience_health_aspect]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.public|patient_experience_health_aspect.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.internal|patient_experience_health_aspect.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.protect|patient_experience_health_aspect.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.private|patient_experience_health_aspect.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.personal|patient_experience_health_aspect.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/patient_experience_health_aspect.secret|patient_experience_health_aspect.secret]] 

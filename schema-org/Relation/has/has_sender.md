@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sender.md|has_sender]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sender.internal.md|has_sender.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sender.protect.md|has_sender.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sender.private.md|has_sender.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sender.personal.md|has_sender.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sender.secret.md|has_sender.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sender|has_sender]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_sender.public|has_sender.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sender.internal|has_sender.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sender.protect|has_sender.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sender.private|has_sender.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sender.personal|has_sender.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sender.secret|has_sender.secret]] 

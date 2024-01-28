@@ -47,9 +47,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: [[has_name_alternate|alternateName]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/name_additional.md|name_additional]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/name_additional.internal.md|name_additional.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/name_additional.protect.md|name_additional.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/name_additional.private.md|name_additional.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/name_additional.personal.md|name_additional.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/name_additional.secret.md|name_additional.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/name_additional|name_additional]] 
+- [[../../../../_public/schema-org/Predicate/Texts/name_additional.public|name_additional.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/name_additional.internal|name_additional.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/name_additional.protect|name_additional.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/name_additional.private|name_additional.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/name_additional.personal|name_additional.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/name_additional.secret|name_additional.secret]] 

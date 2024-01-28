@@ -20,9 +20,10 @@ Flags implement an explicit binary Logic.
 But they can also implement a ternary logic using the empty '` `' or `null` Value or be omitted completely. 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/schema-org/Predicate/Flags.md|Flags]] 
-- [[../../../_internal/schema.org/Predicate/Flags.internal.md|Flags.internal]] 
-- [[../../../_protect/schema.org/Predicate/Flags.protect.md|Flags.protect]] 
-- [[../../../_private/schema.org/Predicate/Flags.private.md|Flags.private]] 
-- [[../../../_personal/schema.org/Predicate/Flags.personal.md|Flags.personal]] 
-- [[../../../_secret/schema.org/Predicate/Flags.secret.md|Flags.secret]] 
+- [[../../../_Standards/schema-org/Predicate/Flags|Flags]] 
+- [[../../../_public/schema-org/Predicate/Flags.public|Flags.public]] 
+- [[../../../_internal/schema.org/Predicate/Flags.internal|Flags.internal]] 
+- [[../../../_protect/schema.org/Predicate/Flags.protect|Flags.protect]] 
+- [[../../../_private/schema.org/Predicate/Flags.private|Flags.private]] 
+- [[../../../_personal/schema.org/Predicate/Flags.personal|Flags.personal]] 
+- [[../../../_secret/schema.org/Predicate/Flags.secret|Flags.secret]] 

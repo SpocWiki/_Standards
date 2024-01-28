@@ -50,9 +50,10 @@ Note that the application of these codes is with regard to a piece of media shar
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.md|media_manipulation_rating_enumeration]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.internal.md|media_manipulation_rating_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.protect.md|media_manipulation_rating_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.private.md|media_manipulation_rating_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.personal.md|media_manipulation_rating_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.secret.md|media_manipulation_rating_enumeration.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration|media_manipulation_rating_enumeration]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.public|media_manipulation_rating_enumeration.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.internal|media_manipulation_rating_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.protect|media_manipulation_rating_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.private|media_manipulation_rating_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.personal|media_manipulation_rating_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration.secret|media_manipulation_rating_enumeration.secret]] 

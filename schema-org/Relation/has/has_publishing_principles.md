@@ -48,9 +48,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ actionableFeedbackPolicy, correctionsPolicy, diversityStaffingReport, masthead, missionCoveragePrioritiesPolicy, noBylinesPolicy, ownershipFundingInfo, unnamedSourcesPolicy, verificationFactCheckingPolicy ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_publishing_principles.md|has_publishing_principles]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publishing_principles.internal.md|has_publishing_principles.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_publishing_principles.protect.md|has_publishing_principles.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_publishing_principles.private.md|has_publishing_principles.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_publishing_principles.personal.md|has_publishing_principles.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_publishing_principles.secret.md|has_publishing_principles.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_publishing_principles|has_publishing_principles]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_publishing_principles.public|has_publishing_principles.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publishing_principles.internal|has_publishing_principles.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_publishing_principles.protect|has_publishing_principles.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_publishing_principles.private|has_publishing_principles.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_publishing_principles.personal|has_publishing_principles.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_publishing_principles.secret|has_publishing_principles.secret]] 

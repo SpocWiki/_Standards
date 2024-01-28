@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_loan_payments.md|has_number_of_number_of_loan_payments]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.internal.md|has_number_of_number_of_loan_payments.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.protect.md|has_number_of_number_of_loan_payments.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.private.md|has_number_of_number_of_loan_payments.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.personal.md|has_number_of_number_of_loan_payments.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.secret.md|has_number_of_number_of_loan_payments.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_loan_payments|has_number_of_number_of_loan_payments]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_number_of_loan_payments.public|has_number_of_number_of_loan_payments.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.internal|has_number_of_number_of_loan_payments.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.protect|has_number_of_number_of_loan_payments.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.private|has_number_of_number_of_loan_payments.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.personal|has_number_of_number_of_loan_payments.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_loan_payments.secret|has_number_of_number_of_loan_payments.secret]] 

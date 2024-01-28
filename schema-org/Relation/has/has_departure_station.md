@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: TrainStation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_departure_station.md|has_departure_station]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_station.internal.md|has_departure_station.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_departure_station.protect.md|has_departure_station.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_departure_station.private.md|has_departure_station.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_departure_station.personal.md|has_departure_station.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_departure_station.secret.md|has_departure_station.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_departure_station|has_departure_station]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_departure_station.public|has_departure_station.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_departure_station.internal|has_departure_station.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_departure_station.protect|has_departure_station.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_departure_station.private|has_departure_station.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_departure_station.personal|has_departure_station.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_departure_station.secret|has_departure_station.secret]] 

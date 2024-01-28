@@ -53,9 +53,10 @@ Relation describes that:
 ( #has_/range :: ItemList, ListItem, Text, WebContent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_negative_notes.md|has_negative_notes]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_negative_notes.internal.md|has_negative_notes.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_negative_notes.protect.md|has_negative_notes.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_negative_notes.private.md|has_negative_notes.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_negative_notes.personal.md|has_negative_notes.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_negative_notes.secret.md|has_negative_notes.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_negative_notes|has_negative_notes]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_negative_notes.public|has_negative_notes.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_negative_notes.internal|has_negative_notes.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_negative_notes.protect|has_negative_notes.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_negative_notes.private|has_negative_notes.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_negative_notes.personal|has_negative_notes.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_negative_notes.secret|has_negative_notes.secret]] 

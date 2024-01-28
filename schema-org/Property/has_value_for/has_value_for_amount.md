@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount, Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_amount.md|has_value_for_amount]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_amount.internal.md|has_value_for_amount.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_amount.protect.md|has_value_for_amount.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_amount.private.md|has_value_for_amount.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_amount.personal.md|has_value_for_amount.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_amount.secret.md|has_value_for_amount.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_amount|has_value_for_amount]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_amount.public|has_value_for_amount.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_amount.internal|has_value_for_amount.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_amount.protect|has_value_for_amount.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_amount.private|has_value_for_amount.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_amount.personal|has_value_for_amount.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_amount.secret|has_value_for_amount.secret]] 

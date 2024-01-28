@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_health_plan_network_tier.md|has_health_plan_network_tier]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_health_plan_network_tier.internal.md|has_health_plan_network_tier.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_health_plan_network_tier.protect.md|has_health_plan_network_tier.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_health_plan_network_tier.private.md|has_health_plan_network_tier.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_health_plan_network_tier.personal.md|has_health_plan_network_tier.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_health_plan_network_tier.secret.md|has_health_plan_network_tier.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_health_plan_network_tier|has_health_plan_network_tier]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_health_plan_network_tier.public|has_health_plan_network_tier.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_health_plan_network_tier.internal|has_health_plan_network_tier.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_health_plan_network_tier.protect|has_health_plan_network_tier.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_health_plan_network_tier.private|has_health_plan_network_tier.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_health_plan_network_tier.personal|has_health_plan_network_tier.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_health_plan_network_tier.secret|has_health_plan_network_tier.secret]] 

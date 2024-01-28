@@ -43,9 +43,10 @@ A dentist.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, healthPlanNetworkId, identifier, image, interactionStatistic, isAcceptingNewPatients, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, medicalSpecialty, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/dentist.md|dentist]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/dentist.internal.md|dentist.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/dentist.protect.md|dentist.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/dentist.private.md|dentist.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/dentist.personal.md|dentist.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/dentist.secret.md|dentist.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/dentist|dentist]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/organization/local_business/dentist.public|dentist.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/dentist.internal|dentist.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/dentist.protect|dentist.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/organization/local_business/dentist.private|dentist.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/dentist.personal|dentist.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/dentist.secret|dentist.secret]] 

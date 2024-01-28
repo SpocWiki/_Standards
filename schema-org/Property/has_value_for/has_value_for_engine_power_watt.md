@@ -57,9 +57,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_engine_power_watt.md|has_value_for_engine_power_watt]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.internal.md|has_value_for_engine_power_watt.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.protect.md|has_value_for_engine_power_watt.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.private.md|has_value_for_engine_power_watt.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.personal.md|has_value_for_engine_power_watt.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.secret.md|has_value_for_engine_power_watt.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_engine_power_watt|has_value_for_engine_power_watt]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_engine_power_watt.public|has_value_for_engine_power_watt.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.internal|has_value_for_engine_power_watt.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.protect|has_value_for_engine_power_watt.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.private|has_value_for_engine_power_watt.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.personal|has_value_for_engine_power_watt.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_engine_power_watt.secret|has_value_for_engine_power_watt.secret]] 

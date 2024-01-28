@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_floor_limit.md|has_value_for_floor_limit]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_floor_limit.internal.md|has_value_for_floor_limit.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_floor_limit.protect.md|has_value_for_floor_limit.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_floor_limit.private.md|has_value_for_floor_limit.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_floor_limit.personal.md|has_value_for_floor_limit.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_floor_limit.secret.md|has_value_for_floor_limit.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_floor_limit|has_value_for_floor_limit]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_floor_limit.public|has_value_for_floor_limit.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_floor_limit.internal|has_value_for_floor_limit.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_floor_limit.protect|has_value_for_floor_limit.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_floor_limit.private|has_value_for_floor_limit.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_floor_limit.personal|has_value_for_floor_limit.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_floor_limit.secret|has_value_for_floor_limit.secret]] 

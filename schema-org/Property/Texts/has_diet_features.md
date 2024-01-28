@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_diet_features.md|has_diet_features]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_diet_features.internal.md|has_diet_features.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_diet_features.protect.md|has_diet_features.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_diet_features.private.md|has_diet_features.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_diet_features.personal.md|has_diet_features.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_diet_features.secret.md|has_diet_features.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_diet_features|has_diet_features]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_diet_features.public|has_diet_features.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_diet_features.internal|has_diet_features.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_diet_features.protect|has_diet_features.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_diet_features.private|has_diet_features.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_diet_features.personal|has_diet_features.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_diet_features.secret|has_diet_features.secret]] 

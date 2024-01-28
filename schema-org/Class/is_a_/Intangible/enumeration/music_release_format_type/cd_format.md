@@ -45,9 +45,10 @@ CDFormat.
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.md|cd_format]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.internal.md|cd_format.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.protect.md|cd_format.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.private.md|cd_format.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.personal.md|cd_format.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.secret.md|cd_format.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format|cd_format]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.public|cd_format.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.internal|cd_format.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.protect|cd_format.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.private|cd_format.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.personal|cd_format.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/cd_format.secret|cd_format.secret]] 

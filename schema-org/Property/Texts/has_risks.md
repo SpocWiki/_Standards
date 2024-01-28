@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_risks.md|has_risks]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_risks.internal.md|has_risks.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_risks.protect.md|has_risks.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_risks.private.md|has_risks.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_risks.personal.md|has_risks.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_risks.secret.md|has_risks.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_risks|has_risks]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_risks.public|has_risks.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_risks.internal|has_risks.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_risks.protect|has_risks.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_risks.private|has_risks.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_risks.personal|has_risks.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_risks.secret|has_risks.secret]] 

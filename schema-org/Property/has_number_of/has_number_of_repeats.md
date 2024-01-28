@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_repeats.md|has_number_of_repeats]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_repeats.internal.md|has_number_of_repeats.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_repeats.protect.md|has_number_of_repeats.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_repeats.private.md|has_number_of_repeats.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_repeats.personal.md|has_number_of_repeats.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_repeats.secret.md|has_number_of_repeats.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_repeats|has_number_of_repeats]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_repeats.public|has_number_of_repeats.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_repeats.internal|has_number_of_repeats.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_repeats.protect|has_number_of_repeats.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_repeats.private|has_number_of_repeats.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_repeats.personal|has_number_of_repeats.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_repeats.secret|has_number_of_repeats.secret]] 

@@ -46,9 +46,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_occupancy.md|has_value_for_occupancy]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_occupancy.internal.md|has_value_for_occupancy.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_occupancy.protect.md|has_value_for_occupancy.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_occupancy.private.md|has_value_for_occupancy.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_occupancy.personal.md|has_value_for_occupancy.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_occupancy.secret.md|has_value_for_occupancy.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_occupancy|has_value_for_occupancy]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_occupancy.public|has_value_for_occupancy.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_occupancy.internal|has_value_for_occupancy.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_occupancy.protect|has_value_for_occupancy.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_occupancy.private|has_value_for_occupancy.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_occupancy.personal|has_value_for_occupancy.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_occupancy.secret|has_value_for_occupancy.secret]] 

@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_work_hours.md|has_work_hours]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_work_hours.internal.md|has_work_hours.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_work_hours.protect.md|has_work_hours.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_work_hours.private.md|has_work_hours.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_work_hours.personal.md|has_work_hours.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_work_hours.secret.md|has_work_hours.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_work_hours|has_work_hours]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_work_hours.public|has_work_hours.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_work_hours.internal|has_work_hours.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_work_hours.protect|has_work_hours.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_work_hours.private|has_work_hours.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_work_hours.personal|has_work_hours.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_work_hours.secret|has_work_hours.secret]] 

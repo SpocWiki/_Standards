@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: Property )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_measured_property.md|has_measured_property]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_measured_property.internal.md|has_measured_property.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_measured_property.protect.md|has_measured_property.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_measured_property.private.md|has_measured_property.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_measured_property.personal.md|has_measured_property.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_measured_property.secret.md|has_measured_property.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_measured_property|has_measured_property]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_measured_property.public|has_measured_property.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_measured_property.internal|has_measured_property.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_measured_property.protect|has_measured_property.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_measured_property.private|has_measured_property.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_measured_property.personal|has_measured_property.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_measured_property.secret|has_measured_property.secret]] 

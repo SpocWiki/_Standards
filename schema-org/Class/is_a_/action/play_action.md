@@ -49,9 +49,10 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/action/play_action.md|play_action]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/action/play_action.internal.md|play_action.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/action/play_action.protect.md|play_action.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/action/play_action.private.md|play_action.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/action/play_action.personal.md|play_action.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/action/play_action.secret.md|play_action.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/action/play_action|play_action]] 
+- [[../../../../../_public/schema-org/Class/is_a_/action/play_action.public|play_action.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/play_action.internal|play_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/play_action.protect|play_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/play_action.private|play_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/play_action.personal|play_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/play_action.secret|play_action.secret]] 

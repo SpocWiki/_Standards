@@ -30,9 +30,10 @@ But since ValueTypes are fundamentally different from ReferenceTypes in Software
 it makes sense to also differentiate between [Property](Property.md) and [Relation](Relation.md). 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/schema-org/Predicate/Property.md|Property]] 
-- [[../../../_internal/schema.org/Predicate/Property.internal.md|Property.internal]] 
-- [[../../../_protect/schema.org/Predicate/Property.protect.md|Property.protect]] 
-- [[../../../_private/schema.org/Predicate/Property.private.md|Property.private]] 
-- [[../../../_personal/schema.org/Predicate/Property.personal.md|Property.personal]] 
-- [[../../../_secret/schema.org/Predicate/Property.secret.md|Property.secret]] 
+- [[../../../_Standards/schema-org/Predicate/Property|Property]] 
+- [[../../../_public/schema-org/Predicate/Property.public|Property.public]] 
+- [[../../../_internal/schema.org/Predicate/Property.internal|Property.internal]] 
+- [[../../../_protect/schema.org/Predicate/Property.protect|Property.protect]] 
+- [[../../../_private/schema.org/Predicate/Property.private|Property.private]] 
+- [[../../../_personal/schema.org/Predicate/Property.personal|Property.personal]] 
+- [[../../../_secret/schema.org/Predicate/Property.secret|Property.secret]] 

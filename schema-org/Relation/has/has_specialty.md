@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Specialty )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_specialty.md|has_specialty]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_specialty.internal.md|has_specialty.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_specialty.protect.md|has_specialty.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_specialty.private.md|has_specialty.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_specialty.personal.md|has_specialty.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_specialty.secret.md|has_specialty.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_specialty|has_specialty]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_specialty.public|has_specialty.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_specialty.internal|has_specialty.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_specialty.protect|has_specialty.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_specialty.private|has_specialty.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_specialty.personal|has_specialty.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_specialty.secret|has_specialty.secret]] 

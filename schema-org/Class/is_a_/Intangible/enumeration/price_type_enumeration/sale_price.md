@@ -47,9 +47,10 @@ Represents a sale price (usually active for a limited period) of an offered prod
 [ #is_/enum_of :: [[../PriceTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.md|sale_price]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.internal.md|sale_price.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.protect.md|sale_price.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.private.md|sale_price.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.personal.md|sale_price.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.secret.md|sale_price.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price|sale_price]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.public|sale_price.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.internal|sale_price.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.protect|sale_price.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.private|sale_price.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.personal|sale_price.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_type_enumeration/sale_price.secret|sale_price.secret]] 

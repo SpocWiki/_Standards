@@ -43,9 +43,10 @@ The act of consuming dynamic/moving visual content.
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/consume_action/watch_action.md|watch_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/watch_action.internal.md|watch_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/watch_action.protect.md|watch_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/watch_action.private.md|watch_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/watch_action.personal.md|watch_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/watch_action.secret.md|watch_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/consume_action/watch_action|watch_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/consume_action/watch_action.public|watch_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/watch_action.internal|watch_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/watch_action.protect|watch_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/consume_action/watch_action.private|watch_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/watch_action.personal|watch_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/watch_action.secret|watch_action.secret]] 

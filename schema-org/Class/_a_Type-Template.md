@@ -55,9 +55,10 @@ Tag Instances like this:
 [ #has_/properties :: [ {{properties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/schema-org/Type/_a_Type-Template.md|_a_Type-Template]] 
-- [[../../../_internal/schema.org/Type/_a_Type-Template.internal.md|_a_Type-Template.internal]] 
-- [[../../../_protect/schema.org/Type/_a_Type-Template.protect.md|_a_Type-Template.protect]] 
-- [[../../../_private/schema.org/Type/_a_Type-Template.private.md|_a_Type-Template.private]] 
-- [[../../../_personal/schema.org/Type/_a_Type-Template.personal.md|_a_Type-Template.personal]] 
-- [[../../../_secret/schema.org/Type/_a_Type-Template.secret.md|_a_Type-Template.secret]] 
+- [[../../../_Standards/schema-org/Type/_a_Type-Template|_a_Type-Template]] 
+- [[../../../_public/schema-org/Type/_a_Type-Template.public|_a_Type-Template.public]] 
+- [[../../../_internal/schema.org/Type/_a_Type-Template.internal|_a_Type-Template.internal]] 
+- [[../../../_protect/schema.org/Type/_a_Type-Template.protect|_a_Type-Template.protect]] 
+- [[../../../_private/schema.org/Type/_a_Type-Template.private|_a_Type-Template.private]] 
+- [[../../../_personal/schema.org/Type/_a_Type-Template.personal|_a_Type-Template.personal]] 
+- [[../../../_secret/schema.org/Type/_a_Type-Template.secret|_a_Type-Template.secret]] 

@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Duration)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_to_prepare.md|has_duration_to_prepare]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_to_prepare.internal.md|has_duration_to_prepare.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_to_prepare.protect.md|has_duration_to_prepare.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_to_prepare.private.md|has_duration_to_prepare.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_to_prepare.personal.md|has_duration_to_prepare.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_to_prepare.secret.md|has_duration_to_prepare.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_to_prepare|has_duration_to_prepare]] 
+- [[../../../../_public/schema-org/Predicate/Durations/has_duration_to_prepare.public|has_duration_to_prepare.public]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_to_prepare.internal|has_duration_to_prepare.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_to_prepare.protect|has_duration_to_prepare.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration_to_prepare.private|has_duration_to_prepare.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_to_prepare.personal|has_duration_to_prepare.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_to_prepare.secret|has_duration_to_prepare.secret]] 

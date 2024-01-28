@@ -43,9 +43,10 @@ A legislative building—for example, the state capitol.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.md|legislative_building]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.internal.md|legislative_building.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.protect.md|legislative_building.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.private.md|legislative_building.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.personal.md|legislative_building.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.secret.md|legislative_building.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building|legislative_building]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/government_building/legislative_building.public|legislative_building.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.internal|legislative_building.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.protect|legislative_building.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.private|legislative_building.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.personal|legislative_building.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building/legislative_building.secret|legislative_building.secret]] 

@@ -41,9 +41,10 @@ Indicates whether this drug is available by prescription or over-the-counter.
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.md|drug_prescription_status]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.internal.md|drug_prescription_status.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.protect.md|drug_prescription_status.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.private.md|drug_prescription_status.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.personal.md|drug_prescription_status.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.secret.md|drug_prescription_status.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status|drug_prescription_status]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.public|drug_prescription_status.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.internal|drug_prescription_status.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.protect|drug_prescription_status.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.private|drug_prescription_status.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.personal|drug_prescription_status.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_prescription_status.secret|drug_prescription_status.secret]] 

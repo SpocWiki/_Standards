@@ -45,9 +45,10 @@ A medical study is an umbrella type covering all kinds of research studies relat
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, healthCondition, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, sponsor, status, study, studyLocation, studySubject, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_study.md|medical_study]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_study.internal.md|medical_study.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_study.protect.md|medical_study.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_study.private.md|medical_study.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_study.personal.md|medical_study.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_study.secret.md|medical_study.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_study|medical_study]] 
+- [[../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_study.public|medical_study.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_study.internal|medical_study.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_study.protect|medical_study.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_study.private|medical_study.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_study.personal|medical_study.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_study.secret|medical_study.secret]] 

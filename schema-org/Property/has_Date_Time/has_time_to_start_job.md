@@ -46,9 +46,10 @@ Formal Predicate:
 (range::Date, Text)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_start_job.md|has_time_to_start_job]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_start_job.internal.md|has_time_to_start_job.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_start_job.protect.md|has_time_to_start_job.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_start_job.private.md|has_time_to_start_job.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_start_job.personal.md|has_time_to_start_job.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_start_job.secret.md|has_time_to_start_job.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_start_job|has_time_to_start_job]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_to_start_job.public|has_time_to_start_job.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_start_job.internal|has_time_to_start_job.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_start_job.protect|has_time_to_start_job.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_start_job.private|has_time_to_start_job.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_start_job.personal|has_time_to_start_job.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_start_job.secret|has_time_to_start_job.secret]] 

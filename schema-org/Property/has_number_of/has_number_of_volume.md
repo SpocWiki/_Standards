@@ -47,9 +47,10 @@ Predicate describes that:
 [ #is_/sub_property_of  :: position ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_volume.md|has_number_of_volume]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_volume.internal.md|has_number_of_volume.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_volume.protect.md|has_number_of_volume.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_volume.private.md|has_number_of_volume.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_volume.personal.md|has_number_of_volume.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_volume.secret.md|has_number_of_volume.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_volume|has_number_of_volume]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_volume.public|has_number_of_volume.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_volume.internal|has_number_of_volume.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_volume.protect|has_number_of_volume.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_volume.private|has_number_of_volume.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_volume.personal|has_number_of_volume.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_volume.secret|has_number_of_volume.secret]] 

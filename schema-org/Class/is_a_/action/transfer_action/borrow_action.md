@@ -49,9 +49,10 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, fromLocation, identifier, image, instrument, lender, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/transfer_action/borrow_action.md|borrow_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/transfer_action/borrow_action.internal.md|borrow_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/transfer_action/borrow_action.protect.md|borrow_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/transfer_action/borrow_action.private.md|borrow_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/transfer_action/borrow_action.personal.md|borrow_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/transfer_action/borrow_action.secret.md|borrow_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/transfer_action/borrow_action|borrow_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/transfer_action/borrow_action.public|borrow_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/transfer_action/borrow_action.internal|borrow_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/transfer_action/borrow_action.protect|borrow_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/transfer_action/borrow_action.private|borrow_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/transfer_action/borrow_action.personal|borrow_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/transfer_action/borrow_action.secret|borrow_action.secret]] 

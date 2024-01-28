@@ -47,9 +47,10 @@ OnlineEventAttendanceMode - an event that is primarily conducted online.
 [ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.md|online_event_attendance_mode]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.internal.md|online_event_attendance_mode.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.protect.md|online_event_attendance_mode.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.private.md|online_event_attendance_mode.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.personal.md|online_event_attendance_mode.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.secret.md|online_event_attendance_mode.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode|online_event_attendance_mode]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.public|online_event_attendance_mode.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.internal|online_event_attendance_mode.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.protect|online_event_attendance_mode.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.private|online_event_attendance_mode.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.personal|online_event_attendance_mode.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/online_event_attendance_mode.secret|online_event_attendance_mode.secret]] 

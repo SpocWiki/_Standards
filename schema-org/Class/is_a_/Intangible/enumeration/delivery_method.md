@@ -54,9 +54,10 @@ Commonly used values:
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/delivery_method.md|delivery_method]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method.internal.md|delivery_method.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/delivery_method.protect.md|delivery_method.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/delivery_method.private.md|delivery_method.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/delivery_method.personal.md|delivery_method.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/delivery_method.secret.md|delivery_method.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/delivery_method|delivery_method]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/delivery_method.public|delivery_method.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/delivery_method.internal|delivery_method.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/delivery_method.protect|delivery_method.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/delivery_method.private|delivery_method.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/delivery_method.personal|delivery_method.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/delivery_method.secret|delivery_method.secret]] 

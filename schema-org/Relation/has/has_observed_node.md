@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: StatisticalPopulation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_observed_node.md|has_observed_node]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_observed_node.internal.md|has_observed_node.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_observed_node.protect.md|has_observed_node.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_observed_node.private.md|has_observed_node.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_observed_node.personal.md|has_observed_node.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_observed_node.secret.md|has_observed_node.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_observed_node|has_observed_node]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_observed_node.public|has_observed_node.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_observed_node.internal|has_observed_node.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_observed_node.protect|has_observed_node.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_observed_node.private|has_observed_node.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_observed_node.personal|has_observed_node.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_observed_node.secret|has_observed_node.secret]] 

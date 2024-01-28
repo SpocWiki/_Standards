@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_memory_requirements.md|has_memory_requirements]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_memory_requirements.internal.md|has_memory_requirements.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_memory_requirements.protect.md|has_memory_requirements.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_memory_requirements.private.md|has_memory_requirements.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_memory_requirements.personal.md|has_memory_requirements.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_memory_requirements.secret.md|has_memory_requirements.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_memory_requirements|has_memory_requirements]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_memory_requirements.public|has_memory_requirements.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_memory_requirements.internal|has_memory_requirements.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_memory_requirements.protect|has_memory_requirements.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_memory_requirements.private|has_memory_requirements.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_memory_requirements.personal|has_memory_requirements.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_memory_requirements.secret|has_memory_requirements.secret]] 

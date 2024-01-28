@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_exercise_plan.md|has_exercise_plan]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_exercise_plan.internal.md|has_exercise_plan.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_exercise_plan.protect.md|has_exercise_plan.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_exercise_plan.private.md|has_exercise_plan.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_exercise_plan.personal.md|has_exercise_plan.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_exercise_plan.secret.md|has_exercise_plan.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_exercise_plan|has_exercise_plan]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_exercise_plan.public|has_exercise_plan.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_exercise_plan.internal|has_exercise_plan.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_exercise_plan.protect|has_exercise_plan.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_exercise_plan.private|has_exercise_plan.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_exercise_plan.personal|has_exercise_plan.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_exercise_plan.secret|has_exercise_plan.secret]] 

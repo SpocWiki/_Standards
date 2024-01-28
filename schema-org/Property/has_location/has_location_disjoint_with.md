@@ -48,9 +48,10 @@ Predicate describes that:
 ( #has_/range :: GeospatialGeometry, Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_disjoint_with.md|has_location_disjoint_with]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_disjoint_with.internal.md|has_location_disjoint_with.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_disjoint_with.protect.md|has_location_disjoint_with.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_disjoint_with.private.md|has_location_disjoint_with.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_disjoint_with.personal.md|has_location_disjoint_with.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_disjoint_with.secret.md|has_location_disjoint_with.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_disjoint_with|has_location_disjoint_with]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_disjoint_with.public|has_location_disjoint_with.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_disjoint_with.internal|has_location_disjoint_with.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_disjoint_with.protect|has_location_disjoint_with.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_disjoint_with.private|has_location_disjoint_with.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_disjoint_with.personal|has_location_disjoint_with.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_disjoint_with.secret|has_location_disjoint_with.secret]] 

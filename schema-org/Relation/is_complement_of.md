@@ -58,9 +58,10 @@ Relation describes that:
 ( #has_/range :: Property)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/is_complement_of.md|is_complement_of]] 
-- [[../../../../_internal/schema.org/Predicate/Relations/is_complement_of.internal.md|is_complement_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_complement_of.protect.md|is_complement_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_complement_of.private.md|is_complement_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_complement_of.personal.md|is_complement_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_complement_of.secret.md|is_complement_of.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_complement_of|is_complement_of]] 
+- [[../../../../_public/schema-org/Predicate/Relations/is_complement_of.public|is_complement_of.public]] 
+- [[../../../../_internal/schema.org/Predicate/Relations/is_complement_of.internal|is_complement_of.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Relations/is_complement_of.protect|is_complement_of.protect]] 
+- [[../../../../_private/schema.org/Predicate/Relations/is_complement_of.private|is_complement_of.private]] 
+- [[../../../../_personal/schema.org/Predicate/Relations/is_complement_of.personal|is_complement_of.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Relations/is_complement_of.secret|is_complement_of.secret]] 

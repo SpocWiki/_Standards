@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: description ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_interpreted_as_claim.md|is_interpreted_as_claim]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_interpreted_as_claim.internal.md|is_interpreted_as_claim.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_interpreted_as_claim.protect.md|is_interpreted_as_claim.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_interpreted_as_claim.private.md|is_interpreted_as_claim.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_interpreted_as_claim.personal.md|is_interpreted_as_claim.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_interpreted_as_claim.secret.md|is_interpreted_as_claim.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_interpreted_as_claim|is_interpreted_as_claim]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_interpreted_as_claim.public|is_interpreted_as_claim.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_interpreted_as_claim.internal|is_interpreted_as_claim.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_interpreted_as_claim.protect|is_interpreted_as_claim.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_interpreted_as_claim.private|is_interpreted_as_claim.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_interpreted_as_claim.personal|is_interpreted_as_claim.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_interpreted_as_claim.secret|is_interpreted_as_claim.secret]] 

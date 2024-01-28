@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: AdministrativeArea )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_study_location.md|has_study_location]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study_location.internal.md|has_study_location.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_study_location.protect.md|has_study_location.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_study_location.private.md|has_study_location.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_study_location.personal.md|has_study_location.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_study_location.secret.md|has_study_location.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_study_location|has_study_location]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_study_location.public|has_study_location.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study_location.internal|has_study_location.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_study_location.protect|has_study_location.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_study_location.private|has_study_location.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_study_location.personal|has_study_location.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_study_location.secret|has_study_location.secret]] 

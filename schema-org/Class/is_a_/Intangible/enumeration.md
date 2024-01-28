@@ -45,9 +45,10 @@ Lists or enumerationsâ€”for example, a list of cuisines or music genres, et
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration.md|enumeration]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration.internal.md|enumeration.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration.protect.md|enumeration.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/enumeration.private.md|enumeration.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration.personal.md|enumeration.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration.secret.md|enumeration.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration|enumeration]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/enumeration.public|enumeration.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration.internal|enumeration.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration.protect|enumeration.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/enumeration.private|enumeration.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration.personal|enumeration.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration.secret|enumeration.secret]] 

@@ -50,9 +50,10 @@ Relation describes that:
 ( #has_/range :: Country )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_country_of_origin.md|has_country_of_origin]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_country_of_origin.internal.md|has_country_of_origin.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_country_of_origin.protect.md|has_country_of_origin.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_country_of_origin.private.md|has_country_of_origin.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_country_of_origin.personal.md|has_country_of_origin.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_country_of_origin.secret.md|has_country_of_origin.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_country_of_origin|has_country_of_origin]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_country_of_origin.public|has_country_of_origin.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_country_of_origin.internal|has_country_of_origin.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_country_of_origin.protect|has_country_of_origin.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_country_of_origin.private|has_country_of_origin.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_country_of_origin.personal|has_country_of_origin.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_country_of_origin.secret|has_country_of_origin.secret]] 

@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_following.md|is_following]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_following.internal.md|is_following.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_following.protect.md|is_following.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_following.private.md|is_following.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_following.personal.md|is_following.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_following.secret.md|is_following.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_following|is_following]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_following.public|is_following.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_following.internal|is_following.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_following.protect|is_following.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_following.private|is_following.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_following.personal|is_following.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_following.secret|is_following.secret]] 

@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date, DateTime, Time)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_when_availability_starts.md|has_time_when_availability_starts]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_when_availability_starts.internal.md|has_time_when_availability_starts.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_when_availability_starts.protect.md|has_time_when_availability_starts.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_when_availability_starts.private.md|has_time_when_availability_starts.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_when_availability_starts.personal.md|has_time_when_availability_starts.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_when_availability_starts.secret.md|has_time_when_availability_starts.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_when_availability_starts|has_time_when_availability_starts]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_when_availability_starts.public|has_time_when_availability_starts.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_when_availability_starts.internal|has_time_when_availability_starts.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_when_availability_starts.protect|has_time_when_availability_starts.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_when_availability_starts.private|has_time_when_availability_starts.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_when_availability_starts.personal|has_time_when_availability_starts.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_when_availability_starts.secret|has_time_when_availability_starts.secret]] 

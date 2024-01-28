@@ -46,9 +46,10 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_for_a_gift.md|is_for_a_gift]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_for_a_gift.internal.md|is_for_a_gift.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_for_a_gift.protect.md|is_for_a_gift.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_for_a_gift.private.md|is_for_a_gift.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_for_a_gift.personal.md|is_for_a_gift.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_for_a_gift.secret.md|is_for_a_gift.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_for_a_gift|is_for_a_gift]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_for_a_gift.public|is_for_a_gift.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_for_a_gift.internal|is_for_a_gift.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_for_a_gift.protect|is_for_a_gift.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_for_a_gift.private|is_for_a_gift.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_for_a_gift.personal|is_for_a_gift.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_for_a_gift.secret|is_for_a_gift.secret]] 

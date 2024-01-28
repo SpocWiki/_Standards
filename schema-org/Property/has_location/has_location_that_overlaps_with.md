@@ -49,9 +49,10 @@ but these are too granular and create unnecessary Redundancy.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_that_overlaps.md|has_location_that_overlaps]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_that_overlaps.internal.md|has_location_that_overlaps.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_that_overlaps.protect.md|has_location_that_overlaps.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_that_overlaps.private.md|has_location_that_overlaps.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_that_overlaps.personal.md|has_location_that_overlaps.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_that_overlaps.secret.md|has_location_that_overlaps.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_that_overlaps|has_location_that_overlaps]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_that_overlaps.public|has_location_that_overlaps.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_that_overlaps.internal|has_location_that_overlaps.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_that_overlaps.protect|has_location_that_overlaps.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_that_overlaps.private|has_location_that_overlaps.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_that_overlaps.personal|has_location_that_overlaps.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_that_overlaps.secret|has_location_that_overlaps.secret]] 

@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_stage_as_number.md|has_number_of_stage_as_number]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_stage_as_number.internal.md|has_number_of_stage_as_number.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_stage_as_number.protect.md|has_number_of_stage_as_number.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_stage_as_number.private.md|has_number_of_stage_as_number.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_stage_as_number.personal.md|has_number_of_stage_as_number.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_stage_as_number.secret.md|has_number_of_stage_as_number.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_stage_as_number|has_number_of_stage_as_number]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_stage_as_number.public|has_number_of_stage_as_number.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_stage_as_number.internal|has_number_of_stage_as_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_stage_as_number.protect|has_number_of_stage_as_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_stage_as_number.private|has_number_of_stage_as_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_stage_as_number.personal|has_number_of_stage_as_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_stage_as_number.secret|has_number_of_stage_as_number.secret]] 

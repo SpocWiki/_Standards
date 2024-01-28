@@ -47,9 +47,10 @@ BasicIncome: this is a benefit for basic income.
 [ #is_/enum_of :: [[../GovernmentBenefitsType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.md|basic_income]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.internal.md|basic_income.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.protect.md|basic_income.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.private.md|basic_income.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.personal.md|basic_income.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.secret.md|basic_income.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income|basic_income]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.public|basic_income.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.internal|basic_income.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.protect|basic_income.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.private|basic_income.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.personal|basic_income.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/government_benefits_type/basic_income.secret|basic_income.secret]] 

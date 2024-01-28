@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_transit_time.md|has_value_for_transit_time]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_transit_time.internal.md|has_value_for_transit_time.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_transit_time.protect.md|has_value_for_transit_time.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_transit_time.private.md|has_value_for_transit_time.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_transit_time.personal.md|has_value_for_transit_time.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_transit_time.secret.md|has_value_for_transit_time.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_transit_time|has_value_for_transit_time]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_transit_time.public|has_value_for_transit_time.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_transit_time.internal|has_value_for_transit_time.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_transit_time.protect|has_value_for_transit_time.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_transit_time.private|has_value_for_transit_time.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_transit_time.personal|has_value_for_transit_time.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_transit_time.secret|has_value_for_transit_time.secret]] 

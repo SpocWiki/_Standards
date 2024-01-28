@@ -43,9 +43,10 @@ A service which provides access to media programming like TV or radio. Access ma
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/cable_or_satellite_service.md|cable_or_satellite_service]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.internal.md|cable_or_satellite_service.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.protect.md|cable_or_satellite_service.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.private.md|cable_or_satellite_service.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.personal.md|cable_or_satellite_service.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.secret.md|cable_or_satellite_service.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/cable_or_satellite_service|cable_or_satellite_service]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/service/cable_or_satellite_service.public|cable_or_satellite_service.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.internal|cable_or_satellite_service.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.protect|cable_or_satellite_service.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.private|cable_or_satellite_service.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.personal|cable_or_satellite_service.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/cable_or_satellite_service.secret|cable_or_satellite_service.secret]] 

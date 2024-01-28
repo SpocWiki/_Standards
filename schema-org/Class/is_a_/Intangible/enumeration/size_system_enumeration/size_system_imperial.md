@@ -47,9 +47,10 @@ Imperial size system.
 [ #is_/enum_of :: [[../SizeSystemEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.md|size_system_imperial]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.internal.md|size_system_imperial.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.protect.md|size_system_imperial.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.private.md|size_system_imperial.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.personal.md|size_system_imperial.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.secret.md|size_system_imperial.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial|size_system_imperial]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.public|size_system_imperial.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.internal|size_system_imperial.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.protect|size_system_imperial.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.private|size_system_imperial.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.personal|size_system_imperial.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/size_system_enumeration/size_system_imperial.secret|size_system_imperial.secret]] 

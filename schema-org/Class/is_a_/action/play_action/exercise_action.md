@@ -43,9 +43,10 @@ The act of participating in exertive activity for the purposes of improving heal
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, course, description, diet, disambiguatingDescription, distance, endTime, error, event, exerciseCourse, exercisePlan, exerciseRelatedDiet, exerciseType, fromLocation, identifier, image, instrument, location, mainEntityOfPage, name, object, opponent, participant, potentialAction, provider, result, sameAs, sportsActivityLocation, sportsEvent, sportsTeam, startTime, subjectOf, target, toLocation, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/play_action/exercise_action.md|exercise_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/play_action/exercise_action.internal.md|exercise_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/play_action/exercise_action.protect.md|exercise_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/play_action/exercise_action.private.md|exercise_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/play_action/exercise_action.personal.md|exercise_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/play_action/exercise_action.secret.md|exercise_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/play_action/exercise_action|exercise_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/play_action/exercise_action.public|exercise_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/play_action/exercise_action.internal|exercise_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/play_action/exercise_action.protect|exercise_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/play_action/exercise_action.private|exercise_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/play_action/exercise_action.personal|exercise_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/play_action/exercise_action.secret|exercise_action.secret]] 

@@ -45,9 +45,10 @@ The day of the week between Friday and Sunday.
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/saturday.md|saturday]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.internal.md|saturday.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.protect.md|saturday.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.private.md|saturday.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.personal.md|saturday.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.secret.md|saturday.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/saturday|saturday]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/day_of_week/saturday.public|saturday.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.internal|saturday.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.protect|saturday.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.private|saturday.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.personal|saturday.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/saturday.secret|saturday.secret]] 

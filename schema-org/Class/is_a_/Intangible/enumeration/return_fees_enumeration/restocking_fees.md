@@ -47,9 +47,10 @@ Specifies that the customer must pay a restocking fee when returning a product.
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.md|restocking_fees]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.internal.md|restocking_fees.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.protect.md|restocking_fees.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.private.md|restocking_fees.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.personal.md|restocking_fees.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.secret.md|restocking_fees.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees|restocking_fees]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.public|restocking_fees.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.internal|restocking_fees.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.protect|restocking_fees.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.private|restocking_fees.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.personal|restocking_fees.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/restocking_fees.secret|restocking_fees.secret]] 

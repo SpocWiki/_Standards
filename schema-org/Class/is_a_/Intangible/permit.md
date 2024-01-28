@@ -45,9 +45,10 @@ A permit issued by an organization, e.g. a parking pass.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, issuedBy, issuedThrough, mainEntityOfPage, name, permitAudience, potentialAction, sameAs, subjectOf, url, validFor, validFrom, validIn, validUntil ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/permit.md|permit]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/permit.internal.md|permit.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/permit.protect.md|permit.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/permit.private.md|permit.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/permit.personal.md|permit.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/permit.secret.md|permit.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/permit|permit]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/permit.public|permit.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/permit.internal|permit.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/permit.protect|permit.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/permit.private|permit.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/permit.personal|permit.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/permit.secret|permit.secret]] 

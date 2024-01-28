@@ -48,9 +48,10 @@ Formal Predicate:
 (range::Date, DateTime, Integer)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_merchant_return_days.md|has_time_of_merchant_return_days]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.internal.md|has_time_of_merchant_return_days.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.protect.md|has_time_of_merchant_return_days.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.private.md|has_time_of_merchant_return_days.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.personal.md|has_time_of_merchant_return_days.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.secret.md|has_time_of_merchant_return_days.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_merchant_return_days|has_time_of_merchant_return_days]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_merchant_return_days.public|has_time_of_merchant_return_days.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.internal|has_time_of_merchant_return_days.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.protect|has_time_of_merchant_return_days.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.private|has_time_of_merchant_return_days.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.personal|has_time_of_merchant_return_days.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_merchant_return_days.secret|has_time_of_merchant_return_days.secret]] 

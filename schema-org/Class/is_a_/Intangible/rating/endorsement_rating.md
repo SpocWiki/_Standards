@@ -48,9 +48,10 @@ endorsement rating is particularly useful in the absence of numeric scales as it
 [ #has_/properties :: [ additionalType, alternateName, author, bestRating, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, ratingExplanation, ratingValue, reviewAspect, sameAs, subjectOf, url, worstRating ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/rating/endorsement_rating.md|endorsement_rating]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/rating/endorsement_rating.internal.md|endorsement_rating.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/rating/endorsement_rating.protect.md|endorsement_rating.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/rating/endorsement_rating.private.md|endorsement_rating.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/rating/endorsement_rating.personal.md|endorsement_rating.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/rating/endorsement_rating.secret.md|endorsement_rating.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/rating/endorsement_rating|endorsement_rating]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/rating/endorsement_rating.public|endorsement_rating.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/rating/endorsement_rating.internal|endorsement_rating.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/rating/endorsement_rating.protect|endorsement_rating.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/rating/endorsement_rating.private|endorsement_rating.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/rating/endorsement_rating.personal|endorsement_rating.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/rating/endorsement_rating.secret|endorsement_rating.secret]] 

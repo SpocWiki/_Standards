@@ -46,9 +46,10 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_legislation_version.md|has_time_of_legislation_version]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_legislation_version.internal.md|has_time_of_legislation_version.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_legislation_version.protect.md|has_time_of_legislation_version.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_legislation_version.private.md|has_time_of_legislation_version.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_legislation_version.personal.md|has_time_of_legislation_version.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_legislation_version.secret.md|has_time_of_legislation_version.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_legislation_version|has_time_of_legislation_version]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_legislation_version.public|has_time_of_legislation_version.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_legislation_version.internal|has_time_of_legislation_version.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_legislation_version.protect|has_time_of_legislation_version.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_legislation_version.private|has_time_of_legislation_version.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_legislation_version.personal|has_time_of_legislation_version.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_legislation_version.secret|has_time_of_legislation_version.secret]] 

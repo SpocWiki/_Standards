@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Product, Service )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_type_of_good.md|has_type_of_good]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_type_of_good.internal.md|has_type_of_good.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_type_of_good.protect.md|has_type_of_good.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_type_of_good.private.md|has_type_of_good.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_type_of_good.personal.md|has_type_of_good.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_type_of_good.secret.md|has_type_of_good.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_type_of_good|has_type_of_good]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_type_of_good.public|has_type_of_good.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_type_of_good.internal|has_type_of_good.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_type_of_good.protect|has_type_of_good.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_type_of_good.private|has_type_of_good.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_type_of_good.personal|has_type_of_good.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_type_of_good.secret|has_type_of_good.secret]] 

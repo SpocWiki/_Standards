@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_security_screening.md|has_security_screening]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_security_screening.internal.md|has_security_screening.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_security_screening.protect.md|has_security_screening.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_security_screening.private.md|has_security_screening.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_security_screening.personal.md|has_security_screening.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_security_screening.secret.md|has_security_screening.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_security_screening|has_security_screening]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_security_screening.public|has_security_screening.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_security_screening.internal|has_security_screening.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_security_screening.protect|has_security_screening.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_security_screening.private|has_security_screening.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_security_screening.personal|has_security_screening.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_security_screening.secret|has_security_screening.secret]] 

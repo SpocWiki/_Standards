@@ -43,9 +43,10 @@ The act of authoring written creative content.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/write_action.md|write_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/write_action.internal.md|write_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/write_action.protect.md|write_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/write_action.private.md|write_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/create_action/write_action.personal.md|write_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/create_action/write_action.secret.md|write_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/write_action|write_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/create_action/write_action.public|write_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/write_action.internal|write_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/write_action.protect|write_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/write_action.private|write_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/create_action/write_action.personal|write_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/create_action/write_action.secret|write_action.secret]] 

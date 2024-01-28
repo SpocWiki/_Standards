@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_financial_aid_eligible.md|has_financial_aid_eligible]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_financial_aid_eligible.internal.md|has_financial_aid_eligible.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_financial_aid_eligible.protect.md|has_financial_aid_eligible.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_financial_aid_eligible.private.md|has_financial_aid_eligible.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_financial_aid_eligible.personal.md|has_financial_aid_eligible.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_financial_aid_eligible.secret.md|has_financial_aid_eligible.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_financial_aid_eligible|has_financial_aid_eligible]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_financial_aid_eligible.public|has_financial_aid_eligible.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_financial_aid_eligible.internal|has_financial_aid_eligible.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_financial_aid_eligible.protect|has_financial_aid_eligible.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_financial_aid_eligible.private|has_financial_aid_eligible.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_financial_aid_eligible.personal|has_financial_aid_eligible.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_financial_aid_eligible.secret|has_financial_aid_eligible.secret]] 

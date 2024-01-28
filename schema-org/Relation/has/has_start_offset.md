@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: HyperTocEntry, Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_start_offset.md|has_start_offset]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_start_offset.internal.md|has_start_offset.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_start_offset.protect.md|has_start_offset.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_start_offset.private.md|has_start_offset.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_start_offset.personal.md|has_start_offset.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_start_offset.secret.md|has_start_offset.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_start_offset|has_start_offset]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_start_offset.public|has_start_offset.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_start_offset.internal|has_start_offset.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_start_offset.protect|has_start_offset.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_start_offset.private|has_start_offset.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_start_offset.personal|has_start_offset.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_start_offset.secret|has_start_offset.secret]] 

@@ -47,9 +47,10 @@ Predicate describes that:
 [ #is_/sub_property_of  :: position ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_clip.md|has_number_of_clip]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_clip.internal.md|has_number_of_clip.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_clip.protect.md|has_number_of_clip.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_clip.private.md|has_number_of_clip.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_clip.personal.md|has_number_of_clip.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_clip.secret.md|has_number_of_clip.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_clip|has_number_of_clip]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_clip.public|has_number_of_clip.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_clip.internal|has_number_of_clip.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_clip.protect|has_number_of_clip.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_clip.private|has_number_of_clip.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_clip.personal|has_number_of_clip.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_clip.secret|has_number_of_clip.secret]] 

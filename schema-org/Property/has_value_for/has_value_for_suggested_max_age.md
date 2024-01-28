@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_suggested_max_age.md|has_value_for_suggested_max_age]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.internal.md|has_value_for_suggested_max_age.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.protect.md|has_value_for_suggested_max_age.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.private.md|has_value_for_suggested_max_age.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.personal.md|has_value_for_suggested_max_age.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.secret.md|has_value_for_suggested_max_age.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_suggested_max_age|has_value_for_suggested_max_age]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_suggested_max_age.public|has_value_for_suggested_max_age.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.internal|has_value_for_suggested_max_age.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.protect|has_value_for_suggested_max_age.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.private|has_value_for_suggested_max_age.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.personal|has_value_for_suggested_max_age.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_suggested_max_age.secret|has_value_for_suggested_max_age.secret]] 

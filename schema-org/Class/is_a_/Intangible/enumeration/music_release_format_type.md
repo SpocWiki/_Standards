@@ -41,9 +41,10 @@ Format of this release (the type of recording media used, i.e. compact disc, dig
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type.md|music_release_format_type]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.internal.md|music_release_format_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.protect.md|music_release_format_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.private.md|music_release_format_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.personal.md|music_release_format_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.secret.md|music_release_format_type.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type|music_release_format_type]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type.public|music_release_format_type.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.internal|music_release_format_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.protect|music_release_format_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.private|music_release_format_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.personal|music_release_format_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type.secret|music_release_format_type.secret]] 

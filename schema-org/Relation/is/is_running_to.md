@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Vessel)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_running_to.md|is_running_to]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_running_to.internal.md|is_running_to.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_running_to.protect.md|is_running_to.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_running_to.private.md|is_running_to.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_running_to.personal.md|is_running_to.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_running_to.secret.md|is_running_to.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_running_to|is_running_to]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_running_to.public|is_running_to.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_running_to.internal|is_running_to.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_running_to.protect|is_running_to.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_running_to.private|is_running_to.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_running_to.personal|is_running_to.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_running_to.secret|is_running_to.secret]] 

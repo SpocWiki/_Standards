@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_claim_reviewed.md|has_claim_reviewed]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_claim_reviewed.internal.md|has_claim_reviewed.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_claim_reviewed.protect.md|has_claim_reviewed.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_claim_reviewed.private.md|has_claim_reviewed.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_claim_reviewed.personal.md|has_claim_reviewed.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_claim_reviewed.secret.md|has_claim_reviewed.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_claim_reviewed|has_claim_reviewed]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_claim_reviewed.public|has_claim_reviewed.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_claim_reviewed.internal|has_claim_reviewed.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_claim_reviewed.protect|has_claim_reviewed.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_claim_reviewed.private|has_claim_reviewed.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_claim_reviewed.personal|has_claim_reviewed.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_claim_reviewed.secret|has_claim_reviewed.secret]] 

@@ -47,9 +47,10 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, identifier, image, mainEntityOfPage, modifiedTime, name, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, subjectOf, totalPrice, underName, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/reservation.md|reservation]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/reservation.internal.md|reservation.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/reservation.protect.md|reservation.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/reservation.private.md|reservation.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/reservation.personal.md|reservation.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/reservation.secret.md|reservation.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/reservation|reservation]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/reservation.public|reservation.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/reservation.internal|reservation.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/reservation.protect|reservation.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/reservation.private|reservation.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/reservation.personal|reservation.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/reservation.secret|reservation.secret]] 

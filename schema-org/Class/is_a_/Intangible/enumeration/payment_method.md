@@ -57,9 +57,10 @@ Commonly used values:
 [ #has_/sub_classes :: [ PaymentCard ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/payment_method.md|payment_method]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/payment_method.internal.md|payment_method.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/payment_method.protect.md|payment_method.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/payment_method.private.md|payment_method.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/payment_method.personal.md|payment_method.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/payment_method.secret.md|payment_method.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/payment_method|payment_method]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/payment_method.public|payment_method.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/payment_method.internal|payment_method.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/payment_method.protect|payment_method.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/payment_method.private|payment_method.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/payment_method.personal|payment_method.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/payment_method.secret|payment_method.secret]] 

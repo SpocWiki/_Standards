@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: ProgramMembership )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_program_membership_used.md|has_program_membership_used]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_program_membership_used.internal.md|has_program_membership_used.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_program_membership_used.protect.md|has_program_membership_used.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_program_membership_used.private.md|has_program_membership_used.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_program_membership_used.personal.md|has_program_membership_used.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_program_membership_used.secret.md|has_program_membership_used.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_program_membership_used|has_program_membership_used]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_program_membership_used.public|has_program_membership_used.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_program_membership_used.internal|has_program_membership_used.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_program_membership_used.protect|has_program_membership_used.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_program_membership_used.private|has_program_membership_used.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_program_membership_used.personal|has_program_membership_used.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_program_membership_used.secret|has_program_membership_used.secret]] 

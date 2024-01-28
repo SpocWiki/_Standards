@@ -41,9 +41,10 @@ Relation describes that:
 ( #has_/range :: Demand )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_seeks.md|has_seeks]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_seeks.internal.md|has_seeks.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_seeks.protect.md|has_seeks.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_seeks.private.md|has_seeks.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_seeks.personal.md|has_seeks.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_seeks.secret.md|has_seeks.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_seeks|has_seeks]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_seeks.public|has_seeks.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_seeks.internal|has_seeks.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_seeks.protect|has_seeks.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_seeks.private|has_seeks.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_seeks.personal|has_seeks.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_seeks.secret|has_seeks.secret]] 

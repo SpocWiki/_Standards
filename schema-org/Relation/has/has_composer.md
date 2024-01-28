@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_composer.md|has_composer]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_composer.internal.md|has_composer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_composer.protect.md|has_composer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_composer.private.md|has_composer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_composer.personal.md|has_composer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_composer.secret.md|has_composer.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_composer|has_composer]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_composer.public|has_composer.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_composer.internal|has_composer.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_composer.protect|has_composer.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_composer.private|has_composer.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_composer.personal|has_composer.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_composer.secret|has_composer.secret]] 

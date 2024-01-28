@@ -52,9 +52,10 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_url.md|has_url_for_url]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_url.internal.md|has_url_for_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_url.protect.md|has_url_for_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_url.private.md|has_url_for_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_url.personal.md|has_url_for_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_url.secret.md|has_url_for_url.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_url|has_url_for_url]] 
+- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_url.public|has_url_for_url.public]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_url.internal|has_url_for_url.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_url.protect|has_url_for_url.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_url.private|has_url_for_url.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_url.personal|has_url_for_url.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_url.secret|has_url_for_url.secret]] 

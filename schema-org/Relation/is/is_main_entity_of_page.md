@@ -77,12 +77,13 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_isic_v4.md|has_isic_v4]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_isic_v4.internal.md|has_isic_v4.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_isic_v4.protect.md|has_isic_v4.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_isic_v4.private.md|has_isic_v4.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_isic_v4.personal.md|has_isic_v4.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_isic_v4.secret.md|has_isic_v4.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_isic_v4|has_isic_v4]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_isic_v4.public|has_isic_v4.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_isic_v4.internal|has_isic_v4.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_isic_v4.protect|has_isic_v4.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_isic_v4.private|has_isic_v4.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_isic_v4.personal|has_isic_v4.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_isic_v4.secret|has_isic_v4.secret]] 
 
 - [ #is_/main_entity_of_page :: CreativeWork, URL ] or 
 - [ is_main_entity_of_page :: CreativeWork, URL ] 
@@ -99,9 +100,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[has_main_entity]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_main_entity_of_page.md|is_main_entity_of_page]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_main_entity_of_page.internal.md|is_main_entity_of_page.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_main_entity_of_page.protect.md|is_main_entity_of_page.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_main_entity_of_page.private.md|is_main_entity_of_page.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_main_entity_of_page.personal.md|is_main_entity_of_page.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_main_entity_of_page.secret.md|is_main_entity_of_page.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_main_entity_of_page|is_main_entity_of_page]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/is_main_entity_of_page.public|is_main_entity_of_page.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_main_entity_of_page.internal|is_main_entity_of_page.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_main_entity_of_page.protect|is_main_entity_of_page.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_main_entity_of_page.private|is_main_entity_of_page.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_main_entity_of_page.personal|is_main_entity_of_page.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_main_entity_of_page.secret|is_main_entity_of_page.secret]] 

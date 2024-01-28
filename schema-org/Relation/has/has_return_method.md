@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: ReturnMethodEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_return_method.md|has_return_method]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_method.internal.md|has_return_method.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_return_method.protect.md|has_return_method.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_return_method.private.md|has_return_method.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_return_method.personal.md|has_return_method.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_return_method.secret.md|has_return_method.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_return_method|has_return_method]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_return_method.public|has_return_method.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_method.internal|has_return_method.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_return_method.protect|has_return_method.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_return_method.private|has_return_method.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_return_method.personal|has_return_method.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_return_method.secret|has_return_method.secret]] 

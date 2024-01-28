@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: ImageObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_primary_image_of_page.md|has_primary_image_of_page]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_primary_image_of_page.internal.md|has_primary_image_of_page.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_primary_image_of_page.protect.md|has_primary_image_of_page.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_primary_image_of_page.private.md|has_primary_image_of_page.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_primary_image_of_page.personal.md|has_primary_image_of_page.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_primary_image_of_page.secret.md|has_primary_image_of_page.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_primary_image_of_page|has_primary_image_of_page]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_primary_image_of_page.public|has_primary_image_of_page.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_primary_image_of_page.internal|has_primary_image_of_page.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_primary_image_of_page.protect|has_primary_image_of_page.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_primary_image_of_page.private|has_primary_image_of_page.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_primary_image_of_page.personal|has_primary_image_of_page.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_primary_image_of_page.secret|has_primary_image_of_page.secret]] 

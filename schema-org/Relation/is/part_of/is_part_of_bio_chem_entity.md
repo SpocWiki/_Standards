@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../../has/has_bio_chem_entity_part]]]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_part_of_bio_chem_entity.md|is_part_of_bio_chem_entity]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.internal.md|is_part_of_bio_chem_entity.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.protect.md|is_part_of_bio_chem_entity.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.private.md|is_part_of_bio_chem_entity.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.personal.md|is_part_of_bio_chem_entity.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.secret.md|is_part_of_bio_chem_entity.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_part_of_bio_chem_entity|is_part_of_bio_chem_entity]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_part_of_bio_chem_entity.public|is_part_of_bio_chem_entity.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.internal|is_part_of_bio_chem_entity.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.protect|is_part_of_bio_chem_entity.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.private|is_part_of_bio_chem_entity.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.personal|is_part_of_bio_chem_entity.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_part_of_bio_chem_entity.secret|is_part_of_bio_chem_entity.secret]] 

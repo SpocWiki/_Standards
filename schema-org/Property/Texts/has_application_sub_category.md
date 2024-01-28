@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_application_sub_category.md|has_application_sub_category]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_application_sub_category.internal.md|has_application_sub_category.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_application_sub_category.protect.md|has_application_sub_category.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_application_sub_category.private.md|has_application_sub_category.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_application_sub_category.personal.md|has_application_sub_category.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_application_sub_category.secret.md|has_application_sub_category.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_application_sub_category|has_application_sub_category]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_application_sub_category.public|has_application_sub_category.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_application_sub_category.internal|has_application_sub_category.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_application_sub_category.protect|has_application_sub_category.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_application_sub_category.private|has_application_sub_category.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_application_sub_category.personal|has_application_sub_category.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_application_sub_category.secret|has_application_sub_category.secret]] 

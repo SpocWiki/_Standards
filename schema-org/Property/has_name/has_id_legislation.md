@@ -49,9 +49,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_legislation.md|has_id_legislation]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_legislation.internal.md|has_id_legislation.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_legislation.protect.md|has_id_legislation.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_legislation.private.md|has_id_legislation.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_legislation.personal.md|has_id_legislation.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_legislation.secret.md|has_id_legislation.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_legislation|has_id_legislation]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_legislation.public|has_id_legislation.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_legislation.internal|has_id_legislation.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_legislation.protect|has_id_legislation.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_legislation.private|has_id_legislation.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_legislation.personal|has_id_legislation.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_legislation.secret|has_id_legislation.secret]] 

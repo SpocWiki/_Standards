@@ -39,9 +39,10 @@ Tag Instances like this:
 The boolean value true.
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/boolean/TRUE.md|TRUE]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/boolean/TRUE.internal.md|TRUE.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/boolean/TRUE.protect.md|TRUE.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/data_type/boolean/TRUE.private.md|TRUE.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/boolean/TRUE.personal.md|TRUE.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/boolean/TRUE.secret.md|TRUE.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/boolean/TRUE|TRUE]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/data_type/boolean/TRUE.public|TRUE.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/boolean/TRUE.internal|TRUE.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/boolean/TRUE.protect|TRUE.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/data_type/boolean/TRUE.private|TRUE.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/boolean/TRUE.personal|TRUE.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/boolean/TRUE.secret|TRUE.secret]] 

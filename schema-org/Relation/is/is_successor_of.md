@@ -45,9 +45,10 @@ Relation describes that:
 #is_/similar_to :: [[../has/has_previous_item|has_previous_item]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_successor_of.md|is_successor_of]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_successor_of.internal.md|is_successor_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_successor_of.protect.md|is_successor_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_successor_of.private.md|is_successor_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_successor_of.personal.md|is_successor_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_successor_of.secret.md|is_successor_of.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_successor_of|is_successor_of]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/is_successor_of.public|is_successor_of.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_successor_of.internal|is_successor_of.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_successor_of.protect|is_successor_of.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_successor_of.private|is_successor_of.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_successor_of.personal|is_successor_of.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_successor_of.secret|is_successor_of.secret]] 

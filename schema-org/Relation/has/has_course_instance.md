@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: CourseInstance )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_course_instance.md|has_course_instance]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course_instance.internal.md|has_course_instance.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_course_instance.protect.md|has_course_instance.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_course_instance.private.md|has_course_instance.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_course_instance.personal.md|has_course_instance.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_course_instance.secret.md|has_course_instance.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_course_instance|has_course_instance]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_course_instance.public|has_course_instance.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course_instance.internal|has_course_instance.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_course_instance.protect|has_course_instance.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_course_instance.private|has_course_instance.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_course_instance.personal|has_course_instance.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_course_instance.secret|has_course_instance.secret]] 

@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_report_number.md|has_report_number]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_report_number.internal.md|has_report_number.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_report_number.protect.md|has_report_number.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_report_number.private.md|has_report_number.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_report_number.personal.md|has_report_number.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_report_number.secret.md|has_report_number.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_report_number|has_report_number]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_report_number.public|has_report_number.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_report_number.internal|has_report_number.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_report_number.protect|has_report_number.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_report_number.private|has_report_number.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_report_number.personal|has_report_number.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_report_number.secret|has_report_number.secret]] 

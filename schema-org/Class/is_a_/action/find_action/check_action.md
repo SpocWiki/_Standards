@@ -43,9 +43,10 @@ An agent inspects, determines, investigates, inquires, or examines an object's a
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/find_action/check_action.md|check_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/find_action/check_action.internal.md|check_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/find_action/check_action.protect.md|check_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/find_action/check_action.private.md|check_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/find_action/check_action.personal.md|check_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/find_action/check_action.secret.md|check_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/find_action/check_action|check_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/find_action/check_action.public|check_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/find_action/check_action.internal|check_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/find_action/check_action.protect|check_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/find_action/check_action.private|check_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/find_action/check_action.personal|check_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/find_action/check_action.secret|check_action.secret]] 

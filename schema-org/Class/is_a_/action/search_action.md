@@ -49,9 +49,10 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, query, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/action/search_action.md|search_action]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/action/search_action.internal.md|search_action.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/action/search_action.protect.md|search_action.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/action/search_action.private.md|search_action.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/action/search_action.personal.md|search_action.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/action/search_action.secret.md|search_action.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/action/search_action|search_action]] 
+- [[../../../../../_public/schema-org/Class/is_a_/action/search_action.public|search_action.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/search_action.internal|search_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/search_action.protect|search_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/search_action.private|search_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/search_action.personal|search_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/search_action.secret|search_action.secret]] 

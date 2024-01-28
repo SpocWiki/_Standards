@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_target_population.md|has_target_population]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_target_population.internal.md|has_target_population.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_target_population.protect.md|has_target_population.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_target_population.private.md|has_target_population.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_target_population.personal.md|has_target_population.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_target_population.secret.md|has_target_population.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_target_population|has_target_population]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_target_population.public|has_target_population.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_target_population.internal|has_target_population.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_target_population.protect|has_target_population.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_target_population.private|has_target_population.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_target_population.personal|has_target_population.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_target_population.secret|has_target_population.secret]] 

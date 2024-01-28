@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_percentile75.md|has_value_for_percentile75]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_percentile75.internal.md|has_value_for_percentile75.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_percentile75.protect.md|has_value_for_percentile75.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_percentile75.private.md|has_value_for_percentile75.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_percentile75.personal.md|has_value_for_percentile75.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_percentile75.secret.md|has_value_for_percentile75.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_percentile75|has_value_for_percentile75]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_percentile75.public|has_value_for_percentile75.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_percentile75.internal|has_value_for_percentile75.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_percentile75.protect|has_value_for_percentile75.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_percentile75.private|has_value_for_percentile75.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_percentile75.personal|has_value_for_percentile75.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_percentile75.secret|has_value_for_percentile75.secret]] 

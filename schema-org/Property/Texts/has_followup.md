@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_followup.md|has_followup]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_followup.internal.md|has_followup.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_followup.protect.md|has_followup.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_followup.private.md|has_followup.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_followup.personal.md|has_followup.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_followup.secret.md|has_followup.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_followup|has_followup]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_followup.public|has_followup.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_followup.internal|has_followup.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_followup.protect|has_followup.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_followup.private|has_followup.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_followup.personal|has_followup.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_followup.secret|has_followup.secret]] 

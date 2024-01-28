@@ -44,9 +44,10 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/audience.md|audience]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/audience.internal.md|audience.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/audience.protect.md|audience.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/audience.private.md|audience.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/audience.personal.md|audience.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/audience.secret.md|audience.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/audience|audience]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/audience.public|audience.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/audience.internal|audience.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/audience.protect|audience.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/audience.private|audience.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/audience.personal|audience.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/audience.secret|audience.secret]] 

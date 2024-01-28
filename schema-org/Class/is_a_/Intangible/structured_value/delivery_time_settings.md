@@ -45,9 +45,10 @@ A DeliveryTimeSettings represents re-usable pieces of shipping information, rela
 [ #has_/properties :: [ additionalType, alternateName, deliveryTime, description, disambiguatingDescription, identifier, image, isUnlabelledFallback, mainEntityOfPage, name, potentialAction, sameAs, shippingDestination, subjectOf, transitTimeLabel, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/delivery_time_settings.md|delivery_time_settings]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.internal.md|delivery_time_settings.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.protect.md|delivery_time_settings.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.private.md|delivery_time_settings.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.personal.md|delivery_time_settings.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.secret.md|delivery_time_settings.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/delivery_time_settings|delivery_time_settings]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/delivery_time_settings.public|delivery_time_settings.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.internal|delivery_time_settings.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.protect|delivery_time_settings.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.private|delivery_time_settings.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.personal|delivery_time_settings.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/delivery_time_settings.secret|delivery_time_settings.secret]] 

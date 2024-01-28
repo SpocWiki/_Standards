@@ -43,9 +43,10 @@ Relation describes that:
 ( #has_/range :: CreativeWork, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_cited_in.md|is_cited_in]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_cited_in.internal.md|is_cited_in.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_cited_in.protect.md|is_cited_in.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_cited_in.private.md|is_cited_in.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_cited_in.personal.md|is_cited_in.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_cited_in.secret.md|is_cited_in.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_cited_in|is_cited_in]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_cited_in.public|is_cited_in.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_cited_in.internal|is_cited_in.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_cited_in.protect|is_cited_in.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_cited_in.private|is_cited_in.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_cited_in.personal|is_cited_in.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_cited_in.secret|is_cited_in.secret]] 

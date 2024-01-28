@@ -49,9 +49,10 @@ Predicate describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_exercise_course.md|has_location_exercise_course]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_exercise_course.internal.md|has_location_exercise_course.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_exercise_course.protect.md|has_location_exercise_course.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_exercise_course.private.md|has_location_exercise_course.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_exercise_course.personal.md|has_location_exercise_course.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_exercise_course.secret.md|has_location_exercise_course.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_exercise_course|has_location_exercise_course]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_exercise_course.public|has_location_exercise_course.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_exercise_course.internal|has_location_exercise_course.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_exercise_course.protect|has_location_exercise_course.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_exercise_course.private|has_location_exercise_course.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_exercise_course.personal|has_location_exercise_course.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_exercise_course.secret|has_location_exercise_course.secret]] 

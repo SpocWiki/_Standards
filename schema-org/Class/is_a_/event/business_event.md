@@ -43,9 +43,10 @@ Event type: Business event.
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/event/business_event.md|business_event]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/event/business_event.internal.md|business_event.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/event/business_event.protect.md|business_event.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/event/business_event.private.md|business_event.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/event/business_event.personal.md|business_event.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/event/business_event.secret.md|business_event.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/event/business_event|business_event]] 
+- [[../../../../../_public/schema-org/Class/is_a_/event/business_event.public|business_event.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/business_event.internal|business_event.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/business_event.protect|business_event.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/business_event.private|business_event.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/business_event.personal|business_event.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/business_event.secret|business_event.secret]] 

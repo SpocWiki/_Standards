@@ -46,9 +46,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_pattern.md|has_pattern]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_pattern.internal.md|has_pattern.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_pattern.protect.md|has_pattern.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_pattern.private.md|has_pattern.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_pattern.personal.md|has_pattern.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_pattern.secret.md|has_pattern.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_pattern|has_pattern]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_pattern.public|has_pattern.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_pattern.internal|has_pattern.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_pattern.protect|has_pattern.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_pattern.private|has_pattern.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_pattern.personal|has_pattern.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_pattern.secret|has_pattern.secret]] 

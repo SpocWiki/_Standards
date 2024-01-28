@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_downvotes.md|has_number_of_downvotes]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_downvotes.internal.md|has_number_of_downvotes.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_downvotes.protect.md|has_number_of_downvotes.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_downvotes.private.md|has_number_of_downvotes.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_downvotes.personal.md|has_number_of_downvotes.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_downvotes.secret.md|has_number_of_downvotes.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_downvotes|has_number_of_downvotes]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_downvotes.public|has_number_of_downvotes.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_downvotes.internal|has_number_of_downvotes.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_downvotes.protect|has_number_of_downvotes.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_downvotes.private|has_number_of_downvotes.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_downvotes.personal|has_number_of_downvotes.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_downvotes.secret|has_number_of_downvotes.secret]] 

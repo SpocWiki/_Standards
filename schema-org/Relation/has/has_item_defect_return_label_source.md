@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: ReturnLabelSourceEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_item_defect_return_label_source.md|has_item_defect_return_label_source]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.internal.md|has_item_defect_return_label_source.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.protect.md|has_item_defect_return_label_source.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.private.md|has_item_defect_return_label_source.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.personal.md|has_item_defect_return_label_source.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.secret.md|has_item_defect_return_label_source.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_item_defect_return_label_source|has_item_defect_return_label_source]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_item_defect_return_label_source.public|has_item_defect_return_label_source.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.internal|has_item_defect_return_label_source.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.protect|has_item_defect_return_label_source.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.private|has_item_defect_return_label_source.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.personal|has_item_defect_return_label_source.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_item_defect_return_label_source.secret|has_item_defect_return_label_source.secret]] 

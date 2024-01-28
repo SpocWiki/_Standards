@@ -46,9 +46,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ bccRecipient, ccRecipient, toRecipient ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_recipient.md|has_recipient]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recipient.internal.md|has_recipient.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_recipient.protect.md|has_recipient.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_recipient.private.md|has_recipient.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_recipient.personal.md|has_recipient.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_recipient.secret.md|has_recipient.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_recipient|has_recipient]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_recipient.public|has_recipient.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recipient.internal|has_recipient.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_recipient.protect|has_recipient.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_recipient.private|has_recipient.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_recipient.personal|has_recipient.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_recipient.secret|has_recipient.secret]] 

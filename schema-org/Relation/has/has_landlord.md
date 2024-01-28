@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_landlord.md|has_landlord]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_landlord.internal.md|has_landlord.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_landlord.protect.md|has_landlord.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_landlord.private.md|has_landlord.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_landlord.personal.md|has_landlord.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_landlord.secret.md|has_landlord.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_landlord|has_landlord]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_landlord.public|has_landlord.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_landlord.internal|has_landlord.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_landlord.protect|has_landlord.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_landlord.private|has_landlord.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_landlord.personal|has_landlord.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_landlord.secret|has_landlord.secret]] 

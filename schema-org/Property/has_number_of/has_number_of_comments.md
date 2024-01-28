@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_comments.md|has_number_of_comments]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_comments.internal.md|has_number_of_comments.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_comments.protect.md|has_number_of_comments.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_comments.private.md|has_number_of_comments.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_comments.personal.md|has_number_of_comments.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_comments.secret.md|has_number_of_comments.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_comments|has_number_of_comments]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_comments.public|has_number_of_comments.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_comments.internal|has_number_of_comments.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_comments.protect|has_number_of_comments.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_comments.private|has_number_of_comments.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_comments.personal|has_number_of_comments.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_comments.secret|has_number_of_comments.secret]] 

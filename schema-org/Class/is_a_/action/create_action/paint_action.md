@@ -43,9 +43,10 @@ The act of producing a painting, typically with paint and canvas as instruments.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/paint_action.md|paint_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/paint_action.internal.md|paint_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/paint_action.protect.md|paint_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/paint_action.private.md|paint_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/create_action/paint_action.personal.md|paint_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/create_action/paint_action.secret.md|paint_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/create_action/paint_action|paint_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/create_action/paint_action.public|paint_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/create_action/paint_action.internal|paint_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/create_action/paint_action.protect|paint_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/create_action/paint_action.private|paint_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/create_action/paint_action.personal|paint_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/create_action/paint_action.secret|paint_action.secret]] 

@@ -43,9 +43,10 @@ Enumeration of considerations that make a product relevant or potentially restri
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.md|adult_oriented_enumeration]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.internal.md|adult_oriented_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.protect.md|adult_oriented_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.private.md|adult_oriented_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.personal.md|adult_oriented_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.secret.md|adult_oriented_enumeration.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration|adult_oriented_enumeration]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.public|adult_oriented_enumeration.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.internal|adult_oriented_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.protect|adult_oriented_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.private|adult_oriented_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.personal|adult_oriented_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration.secret|adult_oriented_enumeration.secret]] 

@@ -45,9 +45,10 @@ A type of medical procedure that involves noninvasive techniques.
 [ #is_/enum_of :: [[../MedicalProcedureType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.md|noninvasive_procedure]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.internal.md|noninvasive_procedure.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.protect.md|noninvasive_procedure.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.private.md|noninvasive_procedure.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.personal.md|noninvasive_procedure.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.secret.md|noninvasive_procedure.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure|noninvasive_procedure]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.public|noninvasive_procedure.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.internal|noninvasive_procedure.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.protect|noninvasive_procedure.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.private|noninvasive_procedure.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.personal|noninvasive_procedure.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_procedure_type/noninvasive_procedure.secret|noninvasive_procedure.secret]] 

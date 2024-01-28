@@ -47,9 +47,10 @@ Indicates that a legislation is currently not in force.
 [ #is_/enum_of :: [[../LegalForceStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.md|not_in_force]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.internal.md|not_in_force.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.protect.md|not_in_force.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.private.md|not_in_force.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.personal.md|not_in_force.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.secret.md|not_in_force.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force|not_in_force]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.public|not_in_force.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.internal|not_in_force.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.protect|not_in_force.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.private|not_in_force.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.personal|not_in_force.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status/not_in_force.secret|not_in_force.secret]] 

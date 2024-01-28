@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_molecular_formula.md|has_molecular_formula]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_molecular_formula.internal.md|has_molecular_formula.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_molecular_formula.protect.md|has_molecular_formula.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_molecular_formula.private.md|has_molecular_formula.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_molecular_formula.personal.md|has_molecular_formula.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_molecular_formula.secret.md|has_molecular_formula.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_molecular_formula|has_molecular_formula]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_molecular_formula.public|has_molecular_formula.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_molecular_formula.internal|has_molecular_formula.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_molecular_formula.protect|has_molecular_formula.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_molecular_formula.private|has_molecular_formula.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_molecular_formula.personal|has_molecular_formula.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_molecular_formula.secret|has_molecular_formula.secret]] 

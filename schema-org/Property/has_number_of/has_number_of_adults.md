@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_adults.md|has_number_of_adults]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_adults.internal.md|has_number_of_adults.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_adults.protect.md|has_number_of_adults.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_adults.private.md|has_number_of_adults.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_adults.personal.md|has_number_of_adults.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_adults.secret.md|has_number_of_adults.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_adults|has_number_of_adults]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_adults.public|has_number_of_adults.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_adults.internal|has_number_of_adults.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_adults.protect|has_number_of_adults.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_adults.private|has_number_of_adults.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_adults.personal|has_number_of_adults.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_adults.secret|has_number_of_adults.secret]] 

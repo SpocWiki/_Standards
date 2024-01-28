@@ -50,9 +50,10 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/un_register_action.md|un_register_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/un_register_action.internal.md|un_register_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/un_register_action.protect.md|un_register_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/un_register_action.private.md|un_register_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/un_register_action.personal.md|un_register_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/un_register_action.secret.md|un_register_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/un_register_action|un_register_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/interact_action/un_register_action.public|un_register_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/un_register_action.internal|un_register_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/un_register_action.protect|un_register_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/un_register_action.private|un_register_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/un_register_action.personal|un_register_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/un_register_action.secret|un_register_action.secret]] 

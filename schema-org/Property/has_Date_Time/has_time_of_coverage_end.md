@@ -44,9 +44,10 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_coverage_end.md|has_time_of_coverage_end]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_coverage_end.internal.md|has_time_of_coverage_end.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_coverage_end.protect.md|has_time_of_coverage_end.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_coverage_end.private.md|has_time_of_coverage_end.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_coverage_end.personal.md|has_time_of_coverage_end.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_coverage_end.secret.md|has_time_of_coverage_end.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_coverage_end|has_time_of_coverage_end]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_coverage_end.public|has_time_of_coverage_end.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_coverage_end.internal|has_time_of_coverage_end.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_coverage_end.protect|has_time_of_coverage_end.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_coverage_end.private|has_time_of_coverage_end.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_coverage_end.personal|has_time_of_coverage_end.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_coverage_end.secret|has_time_of_coverage_end.secret]] 

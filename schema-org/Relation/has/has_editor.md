@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_editor.md|has_editor]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_editor.internal.md|has_editor.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_editor.protect.md|has_editor.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_editor.private.md|has_editor.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_editor.personal.md|has_editor.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_editor.secret.md|has_editor.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_editor|has_editor]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_editor.public|has_editor.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_editor.internal|has_editor.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_editor.protect|has_editor.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_editor.private|has_editor.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_editor.personal|has_editor.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_editor.secret|has_editor.secret]] 

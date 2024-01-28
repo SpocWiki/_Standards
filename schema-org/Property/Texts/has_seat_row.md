@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_seat_row.md|has_seat_row]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_seat_row.internal.md|has_seat_row.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_seat_row.protect.md|has_seat_row.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_seat_row.private.md|has_seat_row.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_seat_row.personal.md|has_seat_row.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_seat_row.secret.md|has_seat_row.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_seat_row|has_seat_row]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_seat_row.public|has_seat_row.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_seat_row.internal|has_seat_row.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_seat_row.protect|has_seat_row.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_seat_row.private|has_seat_row.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_seat_row.personal|has_seat_row.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_seat_row.secret|has_seat_row.secret]] 

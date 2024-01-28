@@ -48,9 +48,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: termCode ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_value.md|has_code_value]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_code_value.internal.md|has_code_value.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_code_value.protect.md|has_code_value.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_code_value.private.md|has_code_value.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_code_value.personal.md|has_code_value.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_code_value.secret.md|has_code_value.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_value|has_code_value]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_code_value.public|has_code_value.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_code_value.internal|has_code_value.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_code_value.protect|has_code_value.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_code_value.private|has_code_value.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_code_value.personal|has_code_value.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_code_value.secret|has_code_value.secret]] 

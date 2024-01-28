@@ -45,9 +45,10 @@ The steering position is on the left side of the vehicle (viewed from the main d
 [ #is_/enum_of :: [[../SteeringPositionValue]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.md|left_hand_driving]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.internal.md|left_hand_driving.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.protect.md|left_hand_driving.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.private.md|left_hand_driving.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.personal.md|left_hand_driving.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.secret.md|left_hand_driving.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving|left_hand_driving]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.public|left_hand_driving.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.internal|left_hand_driving.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.protect|left_hand_driving.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.private|left_hand_driving.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.personal|left_hand_driving.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/steering_position_value/left_hand_driving.secret|left_hand_driving.secret]] 

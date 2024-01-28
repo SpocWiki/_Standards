@@ -41,9 +41,10 @@ Boolean: True or False.
 [ #has_/sub_classes :: [ False, True ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/boolean.md|boolean]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/data_type/boolean.internal.md|boolean.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/data_type/boolean.protect.md|boolean.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/data_type/boolean.private.md|boolean.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/data_type/boolean.personal.md|boolean.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/data_type/boolean.secret.md|boolean.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/boolean|boolean]] 
+- [[../../../../../_public/schema-org/Class/is_a_/data_type/boolean.public|boolean.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/data_type/boolean.internal|boolean.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/data_type/boolean.protect|boolean.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/data_type/boolean.private|boolean.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/data_type/boolean.personal|boolean.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/data_type/boolean.secret|boolean.secret]] 

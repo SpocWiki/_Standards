@@ -45,9 +45,10 @@ A specific branch of medical science that is concerned with the diagnosis and tr
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.md|geriatric]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.internal.md|geriatric.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.protect.md|geriatric.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.private.md|geriatric.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.personal.md|geriatric.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.secret.md|geriatric.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric|geriatric]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/geriatric.public|geriatric.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.internal|geriatric.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.protect|geriatric.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.private|geriatric.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.personal|geriatric.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/geriatric.secret|geriatric.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: Gene )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_alternative_to.md|is_alternative_to]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_alternative_to.internal.md|is_alternative_to.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_alternative_to.protect.md|is_alternative_to.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_alternative_to.private.md|is_alternative_to.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_alternative_to.personal.md|is_alternative_to.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_alternative_to.secret.md|is_alternative_to.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_alternative_to|is_alternative_to]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_alternative_to.public|is_alternative_to.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_alternative_to.internal|is_alternative_to.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_alternative_to.protect|is_alternative_to.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_alternative_to.private|is_alternative_to.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_alternative_to.personal|is_alternative_to.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_alternative_to.secret|is_alternative_to.secret]] 

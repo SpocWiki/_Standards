@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_infectious_agent.md|has_infectious_agent]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_infectious_agent.internal.md|has_infectious_agent.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_infectious_agent.protect.md|has_infectious_agent.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_infectious_agent.private.md|has_infectious_agent.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_infectious_agent.personal.md|has_infectious_agent.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_infectious_agent.secret.md|has_infectious_agent.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_infectious_agent|has_infectious_agent]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_infectious_agent.public|has_infectious_agent.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_infectious_agent.internal|has_infectious_agent.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_infectious_agent.protect|has_infectious_agent.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_infectious_agent.private|has_infectious_agent.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_infectious_agent.personal|has_infectious_agent.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_infectious_agent.secret|has_infectious_agent.secret]] 

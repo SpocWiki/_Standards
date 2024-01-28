@@ -45,9 +45,10 @@ Musculoskeletal system clinical examination.
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.md|musculoskeletal_exam]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.internal.md|musculoskeletal_exam.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.protect.md|musculoskeletal_exam.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.private.md|musculoskeletal_exam.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.personal.md|musculoskeletal_exam.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.secret.md|musculoskeletal_exam.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam|musculoskeletal_exam]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.public|musculoskeletal_exam.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.internal|musculoskeletal_exam.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.protect|musculoskeletal_exam.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.private|musculoskeletal_exam.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.personal|musculoskeletal_exam.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/musculoskeletal_exam.secret|musculoskeletal_exam.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: CreativeWork, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sd_license.md|has_sd_license]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sd_license.internal.md|has_sd_license.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sd_license.protect.md|has_sd_license.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sd_license.private.md|has_sd_license.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sd_license.personal.md|has_sd_license.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sd_license.secret.md|has_sd_license.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sd_license|has_sd_license]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_sd_license.public|has_sd_license.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sd_license.internal|has_sd_license.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sd_license.protect|has_sd_license.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sd_license.private|has_sd_license.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sd_license.personal|has_sd_license.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sd_license.secret|has_sd_license.secret]] 

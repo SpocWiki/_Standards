@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: about ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_main_entity.md|has_main_entity]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_main_entity.internal.md|has_main_entity.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_main_entity.protect.md|has_main_entity.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_main_entity.private.md|has_main_entity.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_main_entity.personal.md|has_main_entity.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_main_entity.secret.md|has_main_entity.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_main_entity|has_main_entity]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_main_entity.public|has_main_entity.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_main_entity.internal|has_main_entity.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_main_entity.protect|has_main_entity.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_main_entity.private|has_main_entity.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_main_entity.personal|has_main_entity.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_main_entity.secret|has_main_entity.secret]] 

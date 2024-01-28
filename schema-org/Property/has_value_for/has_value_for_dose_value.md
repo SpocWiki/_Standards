@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number, QualitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_dose.md|has_value_for_dose]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_dose.internal.md|has_value_for_dose.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_dose.protect.md|has_value_for_dose.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_dose.private.md|has_value_for_dose.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_dose.personal.md|has_value_for_dose.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_dose.secret.md|has_value_for_dose.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_dose|has_value_for_dose]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_dose.public|has_value_for_dose.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_dose.internal|has_value_for_dose.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_dose.protect|has_value_for_dose.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_dose.private|has_value_for_dose.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_dose.personal|has_value_for_dose.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_dose.secret|has_value_for_dose.secret]] 

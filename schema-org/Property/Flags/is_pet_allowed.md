@@ -46,9 +46,10 @@ Predicate describes that:
 ( #has_/range :: Boolean, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_pet_allowed.md|is_pet_allowed]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_pet_allowed.internal.md|is_pet_allowed.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_pet_allowed.protect.md|is_pet_allowed.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_pet_allowed.private.md|is_pet_allowed.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_pet_allowed.personal.md|is_pet_allowed.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_pet_allowed.secret.md|is_pet_allowed.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_pet_allowed|is_pet_allowed]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_pet_allowed.public|is_pet_allowed.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_pet_allowed.internal|is_pet_allowed.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_pet_allowed.protect|is_pet_allowed.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_pet_allowed.private|is_pet_allowed.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_pet_allowed.personal|is_pet_allowed.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_pet_allowed.secret|is_pet_allowed.secret]] 

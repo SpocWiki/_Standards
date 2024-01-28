@@ -49,9 +49,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_call_sign.md|has_name_call_sign]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name_call_sign.internal.md|has_name_call_sign.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name_call_sign.protect.md|has_name_call_sign.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name_call_sign.private.md|has_name_call_sign.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name_call_sign.personal.md|has_name_call_sign.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name_call_sign.secret.md|has_name_call_sign.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_call_sign|has_name_call_sign]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_name_call_sign.public|has_name_call_sign.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_name_call_sign.internal|has_name_call_sign.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_name_call_sign.protect|has_name_call_sign.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_name_call_sign.private|has_name_call_sign.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_name_call_sign.personal|has_name_call_sign.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_name_call_sign.secret|has_name_call_sign.secret]] 

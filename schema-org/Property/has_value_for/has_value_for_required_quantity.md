@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_required_quantity.md|has_value_for_required_quantity]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_required_quantity.internal.md|has_value_for_required_quantity.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_required_quantity.protect.md|has_value_for_required_quantity.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_required_quantity.private.md|has_value_for_required_quantity.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_required_quantity.personal.md|has_value_for_required_quantity.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_required_quantity.secret.md|has_value_for_required_quantity.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_required_quantity|has_value_for_required_quantity]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_required_quantity.public|has_value_for_required_quantity.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_required_quantity.internal|has_value_for_required_quantity.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_required_quantity.protect|has_value_for_required_quantity.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_required_quantity.private|has_value_for_required_quantity.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_required_quantity.personal|has_value_for_required_quantity.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_required_quantity.secret|has_value_for_required_quantity.secret]] 

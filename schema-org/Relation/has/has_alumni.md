@@ -46,9 +46,10 @@ Relation describes that:
 **
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_alumni.md|has_alumni]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_alumni.internal.md|has_alumni.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_alumni.protect.md|has_alumni.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_alumni.private.md|has_alumni.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_alumni.personal.md|has_alumni.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_alumni.secret.md|has_alumni.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_alumni|has_alumni]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_alumni.public|has_alumni.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_alumni.internal|has_alumni.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_alumni.protect|has_alumni.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_alumni.private|has_alumni.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_alumni.personal|has_alumni.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_alumni.secret|has_alumni.secret]] 

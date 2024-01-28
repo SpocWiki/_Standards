@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_postal_code.md|has_postal_code]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_postal_code.internal.md|has_postal_code.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_postal_code.protect.md|has_postal_code.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_postal_code.private.md|has_postal_code.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_postal_code.personal.md|has_postal_code.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_postal_code.secret.md|has_postal_code.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_postal_code|has_postal_code]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_postal_code.public|has_postal_code.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_postal_code.internal|has_postal_code.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_postal_code.protect|has_postal_code.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_postal_code.private|has_postal_code.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_postal_code.personal|has_postal_code.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_postal_code.secret|has_postal_code.secret]] 

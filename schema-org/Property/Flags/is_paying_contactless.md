@@ -48,9 +48,10 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_paying_contactless.md|is_paying_contactless]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_paying_contactless.internal.md|is_paying_contactless.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_paying_contactless.protect.md|is_paying_contactless.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_paying_contactless.private.md|is_paying_contactless.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_paying_contactless.personal.md|is_paying_contactless.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_paying_contactless.secret.md|is_paying_contactless.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Flags/is_paying_contactless|is_paying_contactless]] 
+- [[../../../../_public/schema-org/Predicate/Flags/is_paying_contactless.public|is_paying_contactless.public]] 
+- [[../../../../_internal/schema.org/Predicate/Flags/is_paying_contactless.internal|is_paying_contactless.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Flags/is_paying_contactless.protect|is_paying_contactless.protect]] 
+- [[../../../../_private/schema.org/Predicate/Flags/is_paying_contactless.private|is_paying_contactless.private]] 
+- [[../../../../_personal/schema.org/Predicate/Flags/is_paying_contactless.personal|is_paying_contactless.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Flags/is_paying_contactless.secret|is_paying_contactless.secret]] 

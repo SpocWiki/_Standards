@@ -41,9 +41,10 @@ Design models for observational medical studies. Enumerated type.
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.md|medical_observational_study_design]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.internal.md|medical_observational_study_design.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.protect.md|medical_observational_study_design.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.private.md|medical_observational_study_design.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.personal.md|medical_observational_study_design.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.secret.md|medical_observational_study_design.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design|medical_observational_study_design]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.public|medical_observational_study_design.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.internal|medical_observational_study_design.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.protect|medical_observational_study_design.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.private|medical_observational_study_design.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.personal|medical_observational_study_design.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_observational_study_design.secret|medical_observational_study_design.secret]] 

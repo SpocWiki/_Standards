@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_max.md|has_value_for_max]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_max.internal.md|has_value_for_max.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_max.protect.md|has_value_for_max.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_max.private.md|has_value_for_max.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_max.personal.md|has_value_for_max.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_max.secret.md|has_value_for_max.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_max|has_value_for_max]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_max.public|has_value_for_max.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_max.internal|has_value_for_max.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_max.protect|has_value_for_max.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_max.private|has_value_for_max.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_max.personal|has_value_for_max.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_max.secret|has_value_for_max.secret]] 

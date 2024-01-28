@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_copyright_notice.md|has_copyright_notice]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_copyright_notice.internal.md|has_copyright_notice.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_copyright_notice.protect.md|has_copyright_notice.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_copyright_notice.private.md|has_copyright_notice.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_copyright_notice.personal.md|has_copyright_notice.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_copyright_notice.secret.md|has_copyright_notice.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_copyright_notice|has_copyright_notice]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_copyright_notice.public|has_copyright_notice.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_copyright_notice.internal|has_copyright_notice.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_copyright_notice.protect|has_copyright_notice.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_copyright_notice.private|has_copyright_notice.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_copyright_notice.personal|has_copyright_notice.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_copyright_notice.secret|has_copyright_notice.secret]] 

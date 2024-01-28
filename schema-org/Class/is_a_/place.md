@@ -40,9 +40,10 @@ Entities that have a somewhat fixed, physical extension.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Class/is_a_/place.md|place]] 
-- [[../../../../_internal/schema.org/Class/is_a_/place.internal.md|place.internal]] 
-- [[../../../../_protect/schema.org/Class/is_a_/place.protect.md|place.protect]] 
-- [[../../../../_private/schema.org/Class/is_a_/place.private.md|place.private]] 
-- [[../../../../_personal/schema.org/Class/is_a_/place.personal.md|place.personal]] 
-- [[../../../../_secret/schema.org/Class/is_a_/place.secret.md|place.secret]] 
+- [[../../../../_Standards/schema-org/Class/is_a_/place|place]] 
+- [[../../../../_public/schema-org/Class/is_a_/place.public|place.public]] 
+- [[../../../../_internal/schema.org/Class/is_a_/place.internal|place.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/place.protect|place.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/place.private|place.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/place.personal|place.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/place.secret|place.secret]] 

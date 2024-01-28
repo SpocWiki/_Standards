@@ -48,9 +48,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_property.md|has_id_property]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_property.internal.md|has_id_property.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_property.protect.md|has_id_property.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_property.private.md|has_id_property.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_property.personal.md|has_id_property.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_property.secret.md|has_id_property.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_property|has_id_property]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_property.public|has_id_property.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_property.internal|has_id_property.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_property.protect|has_id_property.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_property.private|has_id_property.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_property.personal|has_id_property.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_property.secret|has_id_property.secret]] 

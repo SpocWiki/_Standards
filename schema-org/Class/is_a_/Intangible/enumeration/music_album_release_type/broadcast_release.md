@@ -45,9 +45,10 @@ BroadcastRelease.
 [ #is_/enum_of :: [[../MusicAlbumReleaseType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.md|broadcast_release]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.internal.md|broadcast_release.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.protect.md|broadcast_release.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.private.md|broadcast_release.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.personal.md|broadcast_release.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.secret.md|broadcast_release.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release|broadcast_release]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.public|broadcast_release.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.internal|broadcast_release.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.protect|broadcast_release.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.private|broadcast_release.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.personal|broadcast_release.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_release_type/broadcast_release.secret|broadcast_release.secret]] 

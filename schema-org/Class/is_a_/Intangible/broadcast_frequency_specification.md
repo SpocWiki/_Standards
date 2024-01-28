@@ -43,9 +43,10 @@ The frequency in MHz and the modulation used for a particular BroadcastService.
 [ #has_/properties :: [ additionalType, alternateName, broadcastFrequencyValue, broadcastSignalModulation, broadcastSubChannel, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/broadcast_frequency_specification.md|broadcast_frequency_specification]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.internal.md|broadcast_frequency_specification.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.protect.md|broadcast_frequency_specification.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.private.md|broadcast_frequency_specification.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.personal.md|broadcast_frequency_specification.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.secret.md|broadcast_frequency_specification.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/broadcast_frequency_specification|broadcast_frequency_specification]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/broadcast_frequency_specification.public|broadcast_frequency_specification.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.internal|broadcast_frequency_specification.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.protect|broadcast_frequency_specification.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.private|broadcast_frequency_specification.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.personal|broadcast_frequency_specification.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/broadcast_frequency_specification.secret|broadcast_frequency_specification.secret]] 

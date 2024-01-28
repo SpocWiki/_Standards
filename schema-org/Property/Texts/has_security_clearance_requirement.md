@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_security_clearance_requirement.md|has_security_clearance_requirement]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_security_clearance_requirement.internal.md|has_security_clearance_requirement.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_security_clearance_requirement.protect.md|has_security_clearance_requirement.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_security_clearance_requirement.private.md|has_security_clearance_requirement.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_security_clearance_requirement.personal.md|has_security_clearance_requirement.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_security_clearance_requirement.secret.md|has_security_clearance_requirement.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_security_clearance_requirement|has_security_clearance_requirement]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_security_clearance_requirement.public|has_security_clearance_requirement.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_security_clearance_requirement.internal|has_security_clearance_requirement.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_security_clearance_requirement.protect|has_security_clearance_requirement.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_security_clearance_requirement.private|has_security_clearance_requirement.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_security_clearance_requirement.personal|has_security_clearance_requirement.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_security_clearance_requirement.secret|has_security_clearance_requirement.secret]] 

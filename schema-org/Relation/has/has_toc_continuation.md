@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: HyperTocEntry )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_toc_continuation.md|has_toc_continuation]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_toc_continuation.internal.md|has_toc_continuation.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_toc_continuation.protect.md|has_toc_continuation.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_toc_continuation.private.md|has_toc_continuation.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_toc_continuation.personal.md|has_toc_continuation.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_toc_continuation.secret.md|has_toc_continuation.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_toc_continuation|has_toc_continuation]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_toc_continuation.public|has_toc_continuation.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_toc_continuation.internal|has_toc_continuation.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_toc_continuation.protect|has_toc_continuation.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_toc_continuation.private|has_toc_continuation.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_toc_continuation.personal|has_toc_continuation.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_toc_continuation.secret|has_toc_continuation.secret]] 

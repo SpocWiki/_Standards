@@ -56,9 +56,10 @@ Predicate describes that:
 ( #has_/range :: Number, PriceSpecification, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_total_price.md|has_value_for_total_price]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_total_price.internal.md|has_value_for_total_price.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_total_price.protect.md|has_value_for_total_price.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_total_price.private.md|has_value_for_total_price.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_total_price.personal.md|has_value_for_total_price.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_total_price.secret.md|has_value_for_total_price.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_total_price|has_value_for_total_price]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_total_price.public|has_value_for_total_price.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_total_price.internal|has_value_for_total_price.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_total_price.protect|has_value_for_total_price.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_total_price.private|has_value_for_total_price.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_total_price.personal|has_value_for_total_price.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_total_price.secret|has_value_for_total_price.secret]] 

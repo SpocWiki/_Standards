@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: Country, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_return_policy_country.md|has_return_policy_country]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_policy_country.internal.md|has_return_policy_country.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_return_policy_country.protect.md|has_return_policy_country.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_return_policy_country.private.md|has_return_policy_country.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_return_policy_country.personal.md|has_return_policy_country.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_return_policy_country.secret.md|has_return_policy_country.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_return_policy_country|has_return_policy_country]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_return_policy_country.public|has_return_policy_country.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_policy_country.internal|has_return_policy_country.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_return_policy_country.protect|has_return_policy_country.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_return_policy_country.private|has_return_policy_country.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_return_policy_country.personal|has_return_policy_country.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_return_policy_country.secret|has_return_policy_country.secret]] 

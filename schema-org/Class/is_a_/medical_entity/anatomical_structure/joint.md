@@ -43,9 +43,10 @@ The anatomical location at which two or more bones make contact.
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, biomechnicalClass, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, functionalClass, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, structuralClass, study, subStructure, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.md|joint]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.internal.md|joint.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.protect.md|joint.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.private.md|joint.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.personal.md|joint.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.secret.md|joint.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint|joint]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/joint.public|joint.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.internal|joint.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.protect|joint.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.private|joint.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.personal|joint.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/joint.secret|joint.secret]] 

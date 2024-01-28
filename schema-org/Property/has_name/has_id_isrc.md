@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_isrc_code.md|has_id_isrc_code]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_isrc_code.internal.md|has_id_isrc_code.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_isrc_code.protect.md|has_id_isrc_code.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_isrc_code.private.md|has_id_isrc_code.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_isrc_code.personal.md|has_id_isrc_code.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_isrc_code.secret.md|has_id_isrc_code.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_isrc_code|has_id_isrc_code]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_isrc_code.public|has_id_isrc_code.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_isrc_code.internal|has_id_isrc_code.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_isrc_code.protect|has_id_isrc_code.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_isrc_code.private|has_id_isrc_code.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_isrc_code.personal|has_id_isrc_code.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_isrc_code.secret|has_id_isrc_code.secret]] 

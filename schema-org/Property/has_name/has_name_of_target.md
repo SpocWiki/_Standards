@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_target.md|has_name_of_target]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_target.internal.md|has_name_of_target.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_target.protect.md|has_name_of_target.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name_of_target.private.md|has_name_of_target.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name_of_target.personal.md|has_name_of_target.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name_of_target.secret.md|has_name_of_target.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_target|has_name_of_target]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_name_of_target.public|has_name_of_target.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_target.internal|has_name_of_target.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_target.protect|has_name_of_target.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_name_of_target.private|has_name_of_target.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_name_of_target.personal|has_name_of_target.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_name_of_target.secret|has_name_of_target.secret]] 

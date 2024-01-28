@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_print_edition.md|has_print_edition]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_print_edition.internal.md|has_print_edition.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_print_edition.protect.md|has_print_edition.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_print_edition.private.md|has_print_edition.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_print_edition.personal.md|has_print_edition.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_print_edition.secret.md|has_print_edition.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_print_edition|has_print_edition]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_print_edition.public|has_print_edition.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_print_edition.internal|has_print_edition.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_print_edition.protect|has_print_edition.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_print_edition.private|has_print_edition.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_print_edition.personal|has_print_edition.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_print_edition.secret|has_print_edition.secret]] 

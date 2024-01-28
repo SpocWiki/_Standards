@@ -43,9 +43,10 @@ Enumerates common types of measurement for wearables products.
 [ #is_/sub_class_of :: [[../MeasurementTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.md|wearable_measurement_type_enumeration]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.internal.md|wearable_measurement_type_enumeration.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.protect.md|wearable_measurement_type_enumeration.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.private.md|wearable_measurement_type_enumeration.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.personal.md|wearable_measurement_type_enumeration.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.secret.md|wearable_measurement_type_enumeration.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration|wearable_measurement_type_enumeration]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.public|wearable_measurement_type_enumeration.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.internal|wearable_measurement_type_enumeration.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.protect|wearable_measurement_type_enumeration.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.private|wearable_measurement_type_enumeration.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.personal|wearable_measurement_type_enumeration.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/wearable_measurement_type_enumeration.secret|wearable_measurement_type_enumeration.secret]] 

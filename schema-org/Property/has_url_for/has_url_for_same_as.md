@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: [[../../Class/is_a_/data_type/text/URL]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_same_as.md|has_url_for_same_as]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_same_as.internal.md|has_url_for_same_as.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_same_as.protect.md|has_url_for_same_as.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_same_as.private.md|has_url_for_same_as.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_same_as.personal.md|has_url_for_same_as.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_same_as.secret.md|has_url_for_same_as.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_same_as|has_url_for_same_as]] 
+- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_same_as.public|has_url_for_same_as.public]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_same_as.internal|has_url_for_same_as.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_same_as.protect|has_url_for_same_as.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_same_as.private|has_url_for_same_as.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_same_as.personal|has_url_for_same_as.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_same_as.secret|has_url_for_same_as.secret]] 

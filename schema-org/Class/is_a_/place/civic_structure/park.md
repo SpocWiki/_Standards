@@ -43,9 +43,10 @@ A park.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/park.md|park]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/park.internal.md|park.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/park.protect.md|park.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/park.private.md|park.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/park.personal.md|park.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/park.secret.md|park.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/park|park]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/park.public|park.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/park.internal|park.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/park.protect|park.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/park.private|park.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/park.personal|park.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/park.secret|park.secret]] 

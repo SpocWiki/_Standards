@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Product, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_product_supported.md|has_product_supported]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_product_supported.internal.md|has_product_supported.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_product_supported.protect.md|has_product_supported.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_product_supported.private.md|has_product_supported.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_product_supported.personal.md|has_product_supported.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_product_supported.secret.md|has_product_supported.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_product_supported|has_product_supported]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_product_supported.public|has_product_supported.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_product_supported.internal|has_product_supported.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_product_supported.protect|has_product_supported.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_product_supported.private|has_product_supported.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_product_supported.personal|has_product_supported.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_product_supported.secret|has_product_supported.secret]] 

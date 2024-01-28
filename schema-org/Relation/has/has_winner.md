@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_winner.md|has_winner]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_winner.internal.md|has_winner.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_winner.protect.md|has_winner.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_winner.private.md|has_winner.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_winner.personal.md|has_winner.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_winner.secret.md|has_winner.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_winner|has_winner]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_winner.public|has_winner.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_winner.internal|has_winner.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_winner.protect|has_winner.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_winner.private|has_winner.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_winner.personal|has_winner.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_winner.secret|has_winner.secret]] 

@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: BroadcastService)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_published_on.md|is_published_on]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_published_on.internal.md|is_published_on.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_published_on.protect.md|is_published_on.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_published_on.private.md|is_published_on.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_published_on.personal.md|is_published_on.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_published_on.secret.md|is_published_on.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_published_on|is_published_on]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_published_on.public|is_published_on.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_published_on.internal|is_published_on.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_published_on.protect|is_published_on.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_published_on.private|is_published_on.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_published_on.personal|is_published_on.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_published_on.secret|is_published_on.secret]] 

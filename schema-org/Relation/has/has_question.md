@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_question.md|has_question]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_question.internal.md|has_question.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_question.protect.md|has_question.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_question.private.md|has_question.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_question.personal.md|has_question.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_question.secret.md|has_question.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_question|has_question]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_question.public|has_question.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_question.internal|has_question.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_question.protect|has_question.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_question.private|has_question.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_question.personal|has_question.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_question.secret|has_question.secret]] 

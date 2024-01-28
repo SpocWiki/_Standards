@@ -43,9 +43,10 @@ A synagogue.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.md|synagogue]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.internal.md|synagogue.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.protect.md|synagogue.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.private.md|synagogue.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.personal.md|synagogue.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.secret.md|synagogue.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue|synagogue]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.public|synagogue.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.internal|synagogue.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.protect|synagogue.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.private|synagogue.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.personal|synagogue.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/place_of_worship/synagogue.secret|synagogue.secret]] 

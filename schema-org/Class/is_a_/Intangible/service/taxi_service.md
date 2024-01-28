@@ -45,9 +45,10 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, hasOfferCatalog, hoursAvailable, identifier, image, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/taxi_service.md|taxi_service]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/taxi_service.internal.md|taxi_service.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/taxi_service.protect.md|taxi_service.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/taxi_service.private.md|taxi_service.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/taxi_service.personal.md|taxi_service.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/taxi_service.secret.md|taxi_service.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/taxi_service|taxi_service]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/service/taxi_service.public|taxi_service.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/taxi_service.internal|taxi_service.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/taxi_service.protect|taxi_service.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/taxi_service.private|taxi_service.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/taxi_service.personal|taxi_service.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/taxi_service.secret|taxi_service.secret]] 

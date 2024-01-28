@@ -44,9 +44,10 @@ Predicate describes that:
 ( #has_/range :: GeoCoordinates, GeoShape )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_geo.md|has_location_geo]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_geo.internal.md|has_location_geo.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_geo.protect.md|has_location_geo.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_geo.private.md|has_location_geo.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_geo.personal.md|has_location_geo.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_geo.secret.md|has_location_geo.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_geo|has_location_geo]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_geo.public|has_location_geo.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_geo.internal|has_location_geo.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_geo.protect|has_location_geo.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_geo.private|has_location_geo.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_geo.personal|has_location_geo.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_geo.secret|has_location_geo.secret]] 

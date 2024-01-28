@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: AlignmentObject, Course, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_course_prerequisites.md|has_course_prerequisites]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course_prerequisites.internal.md|has_course_prerequisites.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_course_prerequisites.protect.md|has_course_prerequisites.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_course_prerequisites.private.md|has_course_prerequisites.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_course_prerequisites.personal.md|has_course_prerequisites.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_course_prerequisites.secret.md|has_course_prerequisites.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_course_prerequisites|has_course_prerequisites]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_course_prerequisites.public|has_course_prerequisites.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course_prerequisites.internal|has_course_prerequisites.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_course_prerequisites.protect|has_course_prerequisites.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_course_prerequisites.private|has_course_prerequisites.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_course_prerequisites.personal|has_course_prerequisites.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_course_prerequisites.secret|has_course_prerequisites.secret]] 

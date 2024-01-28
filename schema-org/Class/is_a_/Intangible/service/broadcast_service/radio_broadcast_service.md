@@ -45,9 +45,10 @@ A delivery service through which radio content is provided via broadcast over th
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.md|radio_broadcast_service]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.internal.md|radio_broadcast_service.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.protect.md|radio_broadcast_service.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.private.md|radio_broadcast_service.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.personal.md|radio_broadcast_service.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.secret.md|radio_broadcast_service.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service|radio_broadcast_service]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.public|radio_broadcast_service.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.internal|radio_broadcast_service.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.protect|radio_broadcast_service.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.private|radio_broadcast_service.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.personal|radio_broadcast_service.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/broadcast_service/radio_broadcast_service.secret|radio_broadcast_service.secret]] 

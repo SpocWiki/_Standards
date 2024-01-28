@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_credited_to.md|is_credited_to]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_credited_to.internal.md|is_credited_to.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_credited_to.protect.md|is_credited_to.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_credited_to.private.md|is_credited_to.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_credited_to.personal.md|is_credited_to.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_credited_to.secret.md|is_credited_to.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_credited_to|is_credited_to]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_credited_to.public|is_credited_to.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_credited_to.internal|is_credited_to.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_credited_to.protect|is_credited_to.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_credited_to.private|is_credited_to.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_credited_to.personal|is_credited_to.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_credited_to.secret|is_credited_to.secret]] 

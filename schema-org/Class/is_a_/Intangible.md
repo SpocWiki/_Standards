@@ -44,9 +44,10 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Class/is_a_/intangible.md|intangible]] 
-- [[../../../../_internal/schema.org/Class/is_a_/intangible.internal.md|intangible.internal]] 
-- [[../../../../_protect/schema.org/Class/is_a_/intangible.protect.md|intangible.protect]] 
-- [[../../../../_private/schema.org/Class/is_a_/intangible.private.md|intangible.private]] 
-- [[../../../../_personal/schema.org/Class/is_a_/intangible.personal.md|intangible.personal]] 
-- [[../../../../_secret/schema.org/Class/is_a_/intangible.secret.md|intangible.secret]] 
+- [[../../../../_Standards/schema-org/Class/is_a_/intangible|intangible]] 
+- [[../../../../_public/schema-org/Class/is_a_/intangible.public|intangible.public]] 
+- [[../../../../_internal/schema.org/Class/is_a_/intangible.internal|intangible.internal]] 
+- [[../../../../_protect/schema.org/Class/is_a_/intangible.protect|intangible.protect]] 
+- [[../../../../_private/schema.org/Class/is_a_/intangible.private|intangible.private]] 
+- [[../../../../_personal/schema.org/Class/is_a_/intangible.personal|intangible.personal]] 
+- [[../../../../_secret/schema.org/Class/is_a_/intangible.secret|intangible.secret]] 

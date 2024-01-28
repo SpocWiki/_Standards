@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: ItemAvailability )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_availability.md|has_availability]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_availability.internal.md|has_availability.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_availability.protect.md|has_availability.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_availability.private.md|has_availability.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_availability.personal.md|has_availability.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_availability.secret.md|has_availability.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_availability|has_availability]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_availability.public|has_availability.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_availability.internal|has_availability.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_availability.protect|has_availability.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_availability.private|has_availability.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_availability.personal|has_availability.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_availability.secret|has_availability.secret]] 

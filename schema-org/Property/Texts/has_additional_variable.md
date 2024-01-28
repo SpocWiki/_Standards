@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_additional_variable.md|has_additional_variable]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_additional_variable.internal.md|has_additional_variable.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_additional_variable.protect.md|has_additional_variable.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_additional_variable.private.md|has_additional_variable.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_additional_variable.personal.md|has_additional_variable.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_additional_variable.secret.md|has_additional_variable.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_additional_variable|has_additional_variable]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_additional_variable.public|has_additional_variable.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_additional_variable.internal|has_additional_variable.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_additional_variable.protect|has_additional_variable.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_additional_variable.private|has_additional_variable.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_additional_variable.personal|has_additional_variable.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_additional_variable.secret|has_additional_variable.secret]] 

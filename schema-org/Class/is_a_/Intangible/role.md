@@ -47,9 +47,10 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, endDate, identifier, image, mainEntityOfPage, name, namedPosition, potentialAction, roleName, sameAs, startDate, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/role.md|role]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/role.internal.md|role.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/role.protect.md|role.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/role.private.md|role.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/role.personal.md|role.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/role.secret.md|role.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/role|role]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/role.public|role.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/role.internal|role.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/role.protect|role.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/role.private|role.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/role.personal|role.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/role.secret|role.secret]] 

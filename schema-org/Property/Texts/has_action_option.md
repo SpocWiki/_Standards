@@ -49,9 +49,10 @@ Predicated describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_action_option.md|has_action_option]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_action_option.internal.md|has_action_option.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_action_option.protect.md|has_action_option.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_action_option.private.md|has_action_option.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_action_option.personal.md|has_action_option.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_action_option.secret.md|has_action_option.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_action_option|has_action_option]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_action_option.public|has_action_option.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_action_option.internal|has_action_option.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_action_option.protect|has_action_option.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_action_option.private|has_action_option.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_action_option.personal|has_action_option.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_action_option.secret|has_action_option.secret]] 

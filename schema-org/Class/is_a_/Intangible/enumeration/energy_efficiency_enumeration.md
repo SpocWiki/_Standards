@@ -45,9 +45,10 @@ Enumerates energy efficiency levels (also known as "classes" or "ratings") and c
 [ #has_/sub_classes :: [ EUEnergyEfficiencyEnumeration, EnergyStarEnergyEfficiencyEnumeration ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.md|energy_efficiency_enumeration]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.internal.md|energy_efficiency_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.protect.md|energy_efficiency_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.private.md|energy_efficiency_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.personal.md|energy_efficiency_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.secret.md|energy_efficiency_enumeration.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration|energy_efficiency_enumeration]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.public|energy_efficiency_enumeration.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.internal|energy_efficiency_enumeration.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.protect|energy_efficiency_enumeration.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.private|energy_efficiency_enumeration.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.personal|energy_efficiency_enumeration.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/energy_efficiency_enumeration.secret|energy_efficiency_enumeration.secret]] 

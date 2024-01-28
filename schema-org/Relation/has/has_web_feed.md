@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: DataFeed, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_web_feed.md|has_web_feed]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_web_feed.internal.md|has_web_feed.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_web_feed.protect.md|has_web_feed.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_web_feed.private.md|has_web_feed.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_web_feed.personal.md|has_web_feed.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_web_feed.secret.md|has_web_feed.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_web_feed|has_web_feed]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_web_feed.public|has_web_feed.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_web_feed.internal|has_web_feed.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_web_feed.protect|has_web_feed.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_web_feed.private|has_web_feed.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_web_feed.personal|has_web_feed.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_web_feed.secret|has_web_feed.secret]] 

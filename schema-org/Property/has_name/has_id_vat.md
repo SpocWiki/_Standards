@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_vat.md|has_id_vat]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_vat.internal.md|has_id_vat.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_vat.protect.md|has_id_vat.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_vat.private.md|has_id_vat.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_vat.personal.md|has_id_vat.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_vat.secret.md|has_id_vat.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_vat|has_id_vat]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_id_vat.public|has_id_vat.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_id_vat.internal|has_id_vat.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_id_vat.protect|has_id_vat.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_id_vat.private|has_id_vat.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_id_vat.personal|has_id_vat.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_id_vat.secret|has_id_vat.secret]] 

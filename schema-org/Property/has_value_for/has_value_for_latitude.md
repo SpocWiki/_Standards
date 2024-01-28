@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_latitude.md|has_value_for_latitude]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_latitude.internal.md|has_value_for_latitude.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_latitude.protect.md|has_value_for_latitude.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_latitude.private.md|has_value_for_latitude.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_latitude.personal.md|has_value_for_latitude.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_latitude.secret.md|has_value_for_latitude.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_latitude|has_value_for_latitude]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_latitude.public|has_value_for_latitude.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_latitude.internal|has_value_for_latitude.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_latitude.protect|has_value_for_latitude.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_latitude.private|has_value_for_latitude.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_latitude.personal|has_value_for_latitude.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_latitude.secret|has_value_for_latitude.secret]] 

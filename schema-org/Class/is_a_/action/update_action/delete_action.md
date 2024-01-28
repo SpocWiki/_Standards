@@ -43,9 +43,10 @@ The act of editing a recipient by removing one of its objects.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/update_action/delete_action.md|delete_action]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/update_action/delete_action.internal.md|delete_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/update_action/delete_action.protect.md|delete_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/update_action/delete_action.private.md|delete_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/update_action/delete_action.personal.md|delete_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/update_action/delete_action.secret.md|delete_action.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/action/update_action/delete_action|delete_action]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/action/update_action/delete_action.public|delete_action.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/action/update_action/delete_action.internal|delete_action.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/action/update_action/delete_action.protect|delete_action.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/action/update_action/delete_action.private|delete_action.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/action/update_action/delete_action.personal|delete_action.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/action/update_action/delete_action.secret|delete_action.secret]] 

@@ -60,9 +60,10 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_measurement_technique.md|has_measurement_technique]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_measurement_technique.internal.md|has_measurement_technique.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_measurement_technique.protect.md|has_measurement_technique.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_measurement_technique.private.md|has_measurement_technique.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_measurement_technique.personal.md|has_measurement_technique.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_measurement_technique.secret.md|has_measurement_technique.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_measurement_technique|has_measurement_technique]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_measurement_technique.public|has_measurement_technique.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_measurement_technique.internal|has_measurement_technique.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_measurement_technique.protect|has_measurement_technique.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_measurement_technique.private|has_measurement_technique.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_measurement_technique.personal|has_measurement_technique.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_measurement_technique.secret|has_measurement_technique.secret]] 

@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_meeting_emission_standard.md|is_meeting_emission_standard]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_meeting_emission_standard.internal.md|is_meeting_emission_standard.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_meeting_emission_standard.protect.md|is_meeting_emission_standard.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_meeting_emission_standard.private.md|is_meeting_emission_standard.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_meeting_emission_standard.personal.md|is_meeting_emission_standard.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_meeting_emission_standard.secret.md|is_meeting_emission_standard.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_meeting_emission_standard|is_meeting_emission_standard]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/is_meeting_emission_standard.public|is_meeting_emission_standard.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_meeting_emission_standard.internal|is_meeting_emission_standard.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_meeting_emission_standard.protect|is_meeting_emission_standard.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_meeting_emission_standard.private|is_meeting_emission_standard.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_meeting_emission_standard.personal|is_meeting_emission_standard.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_meeting_emission_standard.secret|is_meeting_emission_standard.secret]] 

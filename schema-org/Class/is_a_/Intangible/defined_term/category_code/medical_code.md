@@ -41,9 +41,10 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalType, alternateName, code, codeValue, codingSystem, description, disambiguatingDescription, funding, guideline, identifier, image, inCodeSet, inDefinedTermSet, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, termCode, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/defined_term/category_code/medical_code.md|medical_code]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.internal.md|medical_code.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.protect.md|medical_code.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.private.md|medical_code.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.personal.md|medical_code.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.secret.md|medical_code.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/defined_term/category_code/medical_code|medical_code]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/defined_term/category_code/medical_code.public|medical_code.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.internal|medical_code.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.protect|medical_code.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.private|medical_code.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.personal|medical_code.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/defined_term/category_code/medical_code.secret|medical_code.secret]] 

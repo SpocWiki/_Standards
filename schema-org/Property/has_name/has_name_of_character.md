@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_character.md|has_name_of_character]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_character.internal.md|has_name_of_character.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_character.protect.md|has_name_of_character.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name_of_character.private.md|has_name_of_character.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name_of_character.personal.md|has_name_of_character.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name_of_character.secret.md|has_name_of_character.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_of_character|has_name_of_character]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_name_of_character.public|has_name_of_character.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_name_of_character.internal|has_name_of_character.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_name_of_character.protect|has_name_of_character.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_name_of_character.private|has_name_of_character.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_name_of_character.personal|has_name_of_character.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_name_of_character.secret|has_name_of_character.secret]] 

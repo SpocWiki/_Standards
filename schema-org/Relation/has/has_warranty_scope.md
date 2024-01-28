@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: WarrantyScope )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_warranty_scope.md|has_warranty_scope]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_warranty_scope.internal.md|has_warranty_scope.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_warranty_scope.protect.md|has_warranty_scope.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_warranty_scope.private.md|has_warranty_scope.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_warranty_scope.personal.md|has_warranty_scope.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_warranty_scope.secret.md|has_warranty_scope.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_warranty_scope|has_warranty_scope]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_warranty_scope.public|has_warranty_scope.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_warranty_scope.internal|has_warranty_scope.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_warranty_scope.protect|has_warranty_scope.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_warranty_scope.private|has_warranty_scope.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_warranty_scope.personal|has_warranty_scope.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_warranty_scope.secret|has_warranty_scope.secret]] 

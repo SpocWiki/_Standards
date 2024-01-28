@@ -44,9 +44,10 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_pick_up.md|has_time_to_pick_up]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_pick_up.internal.md|has_time_to_pick_up.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_pick_up.protect.md|has_time_to_pick_up.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_pick_up.private.md|has_time_to_pick_up.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_pick_up.personal.md|has_time_to_pick_up.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_pick_up.secret.md|has_time_to_pick_up.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_to_pick_up|has_time_to_pick_up]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_to_pick_up.public|has_time_to_pick_up.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_to_pick_up.internal|has_time_to_pick_up.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_to_pick_up.protect|has_time_to_pick_up.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_to_pick_up.private|has_time_to_pick_up.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_to_pick_up.personal|has_time_to_pick_up.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_to_pick_up.secret|has_time_to_pick_up.secret]] 

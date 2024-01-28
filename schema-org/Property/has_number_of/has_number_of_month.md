@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_month.md|has_number_of_month]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_month.internal.md|has_number_of_month.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_month.protect.md|has_number_of_month.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_month.private.md|has_number_of_month.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_month.personal.md|has_number_of_month.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_month.secret.md|has_number_of_month.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_month|has_number_of_month]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_month.public|has_number_of_month.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_month.internal|has_number_of_month.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_month.protect|has_number_of_month.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_month.private|has_number_of_month.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_month.personal|has_number_of_month.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_month.secret|has_number_of_month.secret]] 

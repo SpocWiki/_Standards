@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: [Composite](../Composite.md))
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/is_module_of.md|is_module_of]] 
-- [[../../../../_internal/schema.org/Predicate/Relations/is_module_of.internal.md|is_module_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_module_of.protect.md|is_module_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_module_of.private.md|is_module_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_module_of.personal.md|is_module_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_module_of.secret.md|is_module_of.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Relations/is_module_of|is_module_of]] 
+- [[../../../../_public/schema-org/Predicate/Relations/is_module_of.public|is_module_of.public]] 
+- [[../../../../_internal/schema.org/Predicate/Relations/is_module_of.internal|is_module_of.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Relations/is_module_of.protect|is_module_of.protect]] 
+- [[../../../../_private/schema.org/Predicate/Relations/is_module_of.private|is_module_of.private]] 
+- [[../../../../_personal/schema.org/Predicate/Relations/is_module_of.personal|is_module_of.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Relations/is_module_of.secret|is_module_of.secret]] 

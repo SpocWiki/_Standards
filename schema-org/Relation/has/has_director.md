@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_director.md|has_director]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_director.internal.md|has_director.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_director.protect.md|has_director.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_director.private.md|has_director.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_director.personal.md|has_director.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_director.secret.md|has_director.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_director|has_director]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_director.public|has_director.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_director.internal|has_director.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_director.protect|has_director.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_director.private|has_director.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_director.personal|has_director.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_director.secret|has_director.secret]] 

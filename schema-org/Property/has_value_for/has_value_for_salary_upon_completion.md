@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmountDistribution )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_salary_upon_completion.md|has_value_for_salary_upon_completion]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.internal.md|has_value_for_salary_upon_completion.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.protect.md|has_value_for_salary_upon_completion.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.private.md|has_value_for_salary_upon_completion.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.personal.md|has_value_for_salary_upon_completion.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.secret.md|has_value_for_salary_upon_completion.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_salary_upon_completion|has_value_for_salary_upon_completion]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_salary_upon_completion.public|has_value_for_salary_upon_completion.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.internal|has_value_for_salary_upon_completion.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.protect|has_value_for_salary_upon_completion.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.private|has_value_for_salary_upon_completion.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.personal|has_value_for_salary_upon_completion.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_salary_upon_completion.secret|has_value_for_salary_upon_completion.secret]] 

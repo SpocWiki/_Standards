@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_speech_to_text_markup.md|has_speech_to_text_markup]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_speech_to_text_markup.internal.md|has_speech_to_text_markup.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_speech_to_text_markup.protect.md|has_speech_to_text_markup.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_speech_to_text_markup.private.md|has_speech_to_text_markup.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_speech_to_text_markup.personal.md|has_speech_to_text_markup.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_speech_to_text_markup.secret.md|has_speech_to_text_markup.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_speech_to_text_markup|has_speech_to_text_markup]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_speech_to_text_markup.public|has_speech_to_text_markup.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_speech_to_text_markup.internal|has_speech_to_text_markup.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_speech_to_text_markup.protect|has_speech_to_text_markup.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_speech_to_text_markup.private|has_speech_to_text_markup.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_speech_to_text_markup.personal|has_speech_to_text_markup.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_speech_to_text_markup.secret|has_speech_to_text_markup.secret]] 

@@ -49,9 +49,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_mileage_from_odometer.md|has_value_for_mileage_from_odometer]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.internal.md|has_value_for_mileage_from_odometer.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.protect.md|has_value_for_mileage_from_odometer.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.private.md|has_value_for_mileage_from_odometer.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.personal.md|has_value_for_mileage_from_odometer.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.secret.md|has_value_for_mileage_from_odometer.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_mileage_from_odometer|has_value_for_mileage_from_odometer]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_mileage_from_odometer.public|has_value_for_mileage_from_odometer.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.internal|has_value_for_mileage_from_odometer.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.protect|has_value_for_mileage_from_odometer.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.private|has_value_for_mileage_from_odometer.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.personal|has_value_for_mileage_from_odometer.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_mileage_from_odometer.secret|has_value_for_mileage_from_odometer.secret]] 

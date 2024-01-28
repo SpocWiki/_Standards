@@ -45,9 +45,10 @@ An ItemList ordered with higher values listed first.
 [ #is_/enum_of :: [[../ItemListOrderType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.md|item_list_order_descending]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.internal.md|item_list_order_descending.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.protect.md|item_list_order_descending.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.private.md|item_list_order_descending.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.personal.md|item_list_order_descending.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.secret.md|item_list_order_descending.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending|item_list_order_descending]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.public|item_list_order_descending.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.internal|item_list_order_descending.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.protect|item_list_order_descending.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.private|item_list_order_descending.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.personal|item_list_order_descending.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_order_descending.secret|item_list_order_descending.secret]] 

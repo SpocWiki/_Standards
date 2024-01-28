@@ -43,9 +43,10 @@ Use it like this:
 [ #is_/sub_property_of  :: [[../../Composite/has_parts]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_contained_season.md|has_contained_season]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contained_season.internal.md|has_contained_season.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contained_season.protect.md|has_contained_season.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_contained_season.private.md|has_contained_season.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_contained_season.personal.md|has_contained_season.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_contained_season.secret.md|has_contained_season.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_contained_season|has_contained_season]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_contained_season.public|has_contained_season.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contained_season.internal|has_contained_season.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contained_season.protect|has_contained_season.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_contained_season.private|has_contained_season.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_contained_season.personal|has_contained_season.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_contained_season.secret|has_contained_season.secret]] 

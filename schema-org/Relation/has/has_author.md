@@ -44,9 +44,10 @@ Relation describes that:
 #is_/sub_relation_of :: [[has_creator]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_author.md|has_author]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_author.internal.md|has_author.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_author.protect.md|has_author.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_author.private.md|has_author.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_author.personal.md|has_author.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_author.secret.md|has_author.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_author|has_author]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_author.public|has_author.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_author.internal|has_author.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_author.protect|has_author.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_author.private|has_author.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_author.personal|has_author.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_author.secret|has_author.secret]] 

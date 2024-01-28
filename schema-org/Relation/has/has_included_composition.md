@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: MusicComposition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_included_composition.md|has_included_composition]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_included_composition.internal.md|has_included_composition.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_included_composition.protect.md|has_included_composition.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_included_composition.private.md|has_included_composition.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_included_composition.personal.md|has_included_composition.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_included_composition.secret.md|has_included_composition.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_included_composition|has_included_composition]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_included_composition.public|has_included_composition.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_included_composition.internal|has_included_composition.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_included_composition.protect|has_included_composition.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_included_composition.private|has_included_composition.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_included_composition.personal|has_included_composition.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_included_composition.secret|has_included_composition.secret]] 

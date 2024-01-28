@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_transcript.md|has_transcript]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_transcript.internal.md|has_transcript.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_transcript.protect.md|has_transcript.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_transcript.private.md|has_transcript.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_transcript.personal.md|has_transcript.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_transcript.secret.md|has_transcript.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_transcript|has_transcript]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_transcript.public|has_transcript.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_transcript.internal|has_transcript.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_transcript.protect|has_transcript.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_transcript.private|has_transcript.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_transcript.personal|has_transcript.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_transcript.secret|has_transcript.secret]] 

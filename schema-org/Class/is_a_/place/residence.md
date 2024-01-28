@@ -45,9 +45,10 @@ The place where a person lives.
 [ #has_/properties :: [ accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/place/residence.md|residence]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/place/residence.internal.md|residence.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/place/residence.protect.md|residence.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/place/residence.private.md|residence.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/place/residence.personal.md|residence.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/place/residence.secret.md|residence.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/place/residence|residence]] 
+- [[../../../../../_public/schema-org/Class/is_a_/place/residence.public|residence.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/place/residence.internal|residence.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/place/residence.protect|residence.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/place/residence.private|residence.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/place/residence.personal|residence.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/place/residence.secret|residence.secret]] 

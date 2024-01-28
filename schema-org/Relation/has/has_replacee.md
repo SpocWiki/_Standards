@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_replacee.md|has_replacee]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_replacee.internal.md|has_replacee.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_replacee.protect.md|has_replacee.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_replacee.private.md|has_replacee.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_replacee.personal.md|has_replacee.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_replacee.secret.md|has_replacee.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_replacee|has_replacee]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_replacee.public|has_replacee.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_replacee.internal|has_replacee.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_replacee.protect|has_replacee.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_replacee.private|has_replacee.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_replacee.personal|has_replacee.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_replacee.secret|has_replacee.secret]] 

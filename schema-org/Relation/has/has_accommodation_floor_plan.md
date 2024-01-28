@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: FloorPlan )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_accommodation_floor_plan.md|has_accommodation_floor_plan]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.internal.md|has_accommodation_floor_plan.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.protect.md|has_accommodation_floor_plan.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.private.md|has_accommodation_floor_plan.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.personal.md|has_accommodation_floor_plan.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.secret.md|has_accommodation_floor_plan.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_accommodation_floor_plan|has_accommodation_floor_plan]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_accommodation_floor_plan.public|has_accommodation_floor_plan.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.internal|has_accommodation_floor_plan.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.protect|has_accommodation_floor_plan.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.private|has_accommodation_floor_plan.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.personal|has_accommodation_floor_plan.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_accommodation_floor_plan.secret|has_accommodation_floor_plan.secret]] 

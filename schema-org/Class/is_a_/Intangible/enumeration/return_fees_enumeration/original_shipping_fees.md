@@ -47,9 +47,10 @@ Specifies that the customer must pay the original shipping costs when returning 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.md|original_shipping_fees]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.internal.md|original_shipping_fees.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.protect.md|original_shipping_fees.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.private.md|original_shipping_fees.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.personal.md|original_shipping_fees.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.secret.md|original_shipping_fees.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees|original_shipping_fees]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.public|original_shipping_fees.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.internal|original_shipping_fees.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.protect|original_shipping_fees.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.private|original_shipping_fees.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.personal|original_shipping_fees.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/original_shipping_fees.secret|original_shipping_fees.secret]] 

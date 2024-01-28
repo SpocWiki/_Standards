@@ -43,9 +43,10 @@ A radio channel that uses AM.
 [ #has_/properties :: [ additionalType, alternateName, broadcastChannelId, broadcastFrequency, broadcastServiceTier, description, disambiguatingDescription, genre, identifier, image, inBroadcastLineup, mainEntityOfPage, name, potentialAction, providesBroadcastService, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.md|am_radio_channel]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.internal.md|am_radio_channel.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.protect.md|am_radio_channel.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.private.md|am_radio_channel.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.personal.md|am_radio_channel.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.secret.md|am_radio_channel.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel|am_radio_channel]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.public|am_radio_channel.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.internal|am_radio_channel.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.protect|am_radio_channel.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.private|am_radio_channel.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.personal|am_radio_channel.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/broadcast_channel/radio_channel/am_radio_channel.secret|am_radio_channel.secret]] 

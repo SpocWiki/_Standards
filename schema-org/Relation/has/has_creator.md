@@ -50,9 +50,10 @@ it can actually describe any Cardinality e.g. for scientific Papers.
 is_definin
 [[has_defined_term|defined_term]]
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_creator.md|has_creator]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_creator.internal.md|has_creator.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_creator.protect.md|has_creator.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_creator.private.md|has_creator.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_creator.personal.md|has_creator.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_creator.secret.md|has_creator.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_creator|has_creator]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_creator.public|has_creator.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_creator.internal|has_creator.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_creator.protect|has_creator.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_creator.private|has_creator.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_creator.personal|has_creator.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_creator.secret|has_creator.secret]] 

@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_payment_url.md|has_url_for_payment_url]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_payment_url.internal.md|has_url_for_payment_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_payment_url.protect.md|has_url_for_payment_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_payment_url.private.md|has_url_for_payment_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_payment_url.personal.md|has_url_for_payment_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_payment_url.secret.md|has_url_for_payment_url.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_payment_url|has_url_for_payment_url]] 
+- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_payment_url.public|has_url_for_payment_url.public]] 
+- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_payment_url.internal|has_url_for_payment_url.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_payment_url.protect|has_url_for_payment_url.protect]] 
+- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_payment_url.private|has_url_for_payment_url.private]] 
+- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_payment_url.personal|has_url_for_payment_url.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_payment_url.secret|has_url_for_payment_url.secret]] 

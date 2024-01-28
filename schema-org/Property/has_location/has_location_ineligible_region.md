@@ -51,9 +51,10 @@ Predicate describes that:
 ( #has_/range :: GeoShape, Place, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_ineligible_region.md|has_location_ineligible_region]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_ineligible_region.internal.md|has_location_ineligible_region.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_ineligible_region.protect.md|has_location_ineligible_region.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_ineligible_region.private.md|has_location_ineligible_region.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_ineligible_region.personal.md|has_location_ineligible_region.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_ineligible_region.secret.md|has_location_ineligible_region.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_ineligible_region|has_location_ineligible_region]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_ineligible_region.public|has_location_ineligible_region.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_ineligible_region.internal|has_location_ineligible_region.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_ineligible_region.protect|has_location_ineligible_region.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_ineligible_region.private|has_location_ineligible_region.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_ineligible_region.personal|has_location_ineligible_region.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_ineligible_region.secret|has_location_ineligible_region.secret]] 

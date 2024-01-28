@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_pages.md|has_number_of_pages]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_pages.internal.md|has_number_of_pages.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_pages.protect.md|has_number_of_pages.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_pages.private.md|has_number_of_pages.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_pages.personal.md|has_number_of_pages.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_pages.secret.md|has_number_of_pages.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_pages|has_number_of_pages]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_pages.public|has_number_of_pages.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_pages.internal|has_number_of_pages.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_pages.protect|has_number_of_pages.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_pages.private|has_number_of_pages.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_pages.personal|has_number_of_pages.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_pages.secret|has_number_of_pages.secret]] 

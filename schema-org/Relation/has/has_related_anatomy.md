@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_related_anatomy.md|has_related_anatomy]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_related_anatomy.internal.md|has_related_anatomy.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_related_anatomy.protect.md|has_related_anatomy.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_related_anatomy.private.md|has_related_anatomy.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_related_anatomy.personal.md|has_related_anatomy.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_related_anatomy.secret.md|has_related_anatomy.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_related_anatomy|has_related_anatomy]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_related_anatomy.public|has_related_anatomy.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_related_anatomy.internal|has_related_anatomy.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_related_anatomy.protect|has_related_anatomy.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_related_anatomy.private|has_related_anatomy.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_related_anatomy.personal|has_related_anatomy.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_related_anatomy.secret|has_related_anatomy.secret]] 

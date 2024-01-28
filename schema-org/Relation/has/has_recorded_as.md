@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: recordingOf ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_recorded_as.md|has_recorded_as]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recorded_as.internal.md|has_recorded_as.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_recorded_as.protect.md|has_recorded_as.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_recorded_as.private.md|has_recorded_as.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_recorded_as.personal.md|has_recorded_as.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_recorded_as.secret.md|has_recorded_as.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_recorded_as|has_recorded_as]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_recorded_as.public|has_recorded_as.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recorded_as.internal|has_recorded_as.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_recorded_as.protect|has_recorded_as.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_recorded_as.private|has_recorded_as.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_recorded_as.personal|has_recorded_as.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_recorded_as.secret|has_recorded_as.secret]] 

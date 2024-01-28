@@ -37,9 +37,10 @@ Data type: Text.
 [ #has_/sub_classes :: [ CssSelectorType, PronounceableText, URL, XPathType ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/text.md|text]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/data_type/text.internal.md|text.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/data_type/text.protect.md|text.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/data_type/text.private.md|text.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/data_type/text.personal.md|text.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/data_type/text.secret.md|text.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/data_type/text|text]] 
+- [[../../../../../_public/schema-org/Class/is_a_/data_type/text.public|text.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/data_type/text.internal|text.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/data_type/text.protect|text.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/data_type/text.private|text.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/data_type/text.personal|text.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/data_type/text.secret|text.secret]] 

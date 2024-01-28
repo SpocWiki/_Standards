@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_broadcast_timezone.md|has_broadcast_timezone]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_broadcast_timezone.internal.md|has_broadcast_timezone.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_broadcast_timezone.protect.md|has_broadcast_timezone.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_broadcast_timezone.private.md|has_broadcast_timezone.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_broadcast_timezone.personal.md|has_broadcast_timezone.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_broadcast_timezone.secret.md|has_broadcast_timezone.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_broadcast_timezone|has_broadcast_timezone]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_broadcast_timezone.public|has_broadcast_timezone.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_broadcast_timezone.internal|has_broadcast_timezone.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_broadcast_timezone.protect|has_broadcast_timezone.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_broadcast_timezone.private|has_broadcast_timezone.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_broadcast_timezone.personal|has_broadcast_timezone.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_broadcast_timezone.secret|has_broadcast_timezone.secret]] 

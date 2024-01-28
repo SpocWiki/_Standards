@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: [[has_creator]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_legislation_passed_by.md|is_legislation_passed_by]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_passed_by.internal.md|is_legislation_passed_by.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_passed_by.protect.md|is_legislation_passed_by.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_passed_by.private.md|is_legislation_passed_by.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_legislation_passed_by.personal.md|is_legislation_passed_by.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_legislation_passed_by.secret.md|is_legislation_passed_by.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_legislation_passed_by|is_legislation_passed_by]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/is/is_legislation_passed_by.public|is_legislation_passed_by.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_legislation_passed_by.internal|is_legislation_passed_by.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_legislation_passed_by.protect|is_legislation_passed_by.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/is/is_legislation_passed_by.private|is_legislation_passed_by.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_legislation_passed_by.personal|is_legislation_passed_by.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_legislation_passed_by.secret|is_legislation_passed_by.secret]] 

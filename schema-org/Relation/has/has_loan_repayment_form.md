@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: RepaymentSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_loan_repayment_form.md|has_loan_repayment_form]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_loan_repayment_form.internal.md|has_loan_repayment_form.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_loan_repayment_form.protect.md|has_loan_repayment_form.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_loan_repayment_form.private.md|has_loan_repayment_form.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_loan_repayment_form.personal.md|has_loan_repayment_form.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_loan_repayment_form.secret.md|has_loan_repayment_form.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_loan_repayment_form|has_loan_repayment_form]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_loan_repayment_form.public|has_loan_repayment_form.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_loan_repayment_form.internal|has_loan_repayment_form.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_loan_repayment_form.protect|has_loan_repayment_form.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_loan_repayment_form.private|has_loan_repayment_form.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_loan_repayment_form.personal|has_loan_repayment_form.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_loan_repayment_form.secret|has_loan_repayment_form.secret]] 

@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_boarding_group.md|has_boarding_group]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_boarding_group.internal.md|has_boarding_group.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_boarding_group.protect.md|has_boarding_group.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_boarding_group.private.md|has_boarding_group.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_boarding_group.personal.md|has_boarding_group.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_boarding_group.secret.md|has_boarding_group.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_boarding_group|has_boarding_group]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_boarding_group.public|has_boarding_group.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_boarding_group.internal|has_boarding_group.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_boarding_group.protect|has_boarding_group.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_boarding_group.private|has_boarding_group.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_boarding_group.personal|has_boarding_group.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_boarding_group.secret|has_boarding_group.secret]] 

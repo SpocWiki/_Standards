@@ -45,9 +45,10 @@ A Research Organization (e.g. scientific institute, research company).
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/organization/research_organization.md|research_organization]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/organization/research_organization.internal.md|research_organization.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/organization/research_organization.protect.md|research_organization.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/organization/research_organization.private.md|research_organization.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/organization/research_organization.personal.md|research_organization.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/organization/research_organization.secret.md|research_organization.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/organization/research_organization|research_organization]] 
+- [[../../../../../_public/schema-org/Class/is_a_/organization/research_organization.public|research_organization.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/research_organization.internal|research_organization.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/research_organization.protect|research_organization.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/research_organization.private|research_organization.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/research_organization.personal|research_organization.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/research_organization.secret|research_organization.secret]] 

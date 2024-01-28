@@ -45,9 +45,10 @@ Formal Predicate:
 (range::DateTime, Text)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_temporal.md|has_time_of_temporal]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_temporal.internal.md|has_time_of_temporal.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_temporal.protect.md|has_time_of_temporal.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_temporal.private.md|has_time_of_temporal.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_temporal.personal.md|has_time_of_temporal.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_temporal.secret.md|has_time_of_temporal.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_temporal|has_time_of_temporal]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_temporal.public|has_time_of_temporal.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_temporal.internal|has_time_of_temporal.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_temporal.protect|has_time_of_temporal.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_temporal.private|has_time_of_temporal.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_temporal.personal|has_time_of_temporal.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_temporal.secret|has_time_of_temporal.secret]] 

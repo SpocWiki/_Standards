@@ -46,9 +46,10 @@ Tag Instances like this:
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.md|user_plus_ones]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.internal.md|user_plus_ones.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.protect.md|user_plus_ones.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.private.md|user_plus_ones.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.personal.md|user_plus_ones.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.secret.md|user_plus_ones.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/event/user_interaction/user_plus_ones|user_plus_ones]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/event/user_interaction/user_plus_ones.public|user_plus_ones.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.internal|user_plus_ones.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.protect|user_plus_ones.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.private|user_plus_ones.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.personal|user_plus_ones.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_plus_ones.secret|user_plus_ones.secret]] 

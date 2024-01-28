@@ -44,9 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sports_event.md|has_sports_event]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sports_event.internal.md|has_sports_event.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sports_event.protect.md|has_sports_event.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sports_event.private.md|has_sports_event.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sports_event.personal.md|has_sports_event.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sports_event.secret.md|has_sports_event.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sports_event|has_sports_event]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_sports_event.public|has_sports_event.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sports_event.internal|has_sports_event.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sports_event.protect|has_sports_event.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sports_event.private|has_sports_event.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sports_event.personal|has_sports_event.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sports_event.secret|has_sports_event.secret]] 

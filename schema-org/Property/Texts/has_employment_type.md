@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_employment_type.md|has_employment_type]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_employment_type.internal.md|has_employment_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_employment_type.protect.md|has_employment_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_employment_type.private.md|has_employment_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_employment_type.personal.md|has_employment_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_employment_type.secret.md|has_employment_type.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_employment_type|has_employment_type]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_employment_type.public|has_employment_type.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_employment_type.internal|has_employment_type.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_employment_type.protect|has_employment_type.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_employment_type.private|has_employment_type.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_employment_type.personal|has_employment_type.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_employment_type.secret|has_employment_type.secret]] 

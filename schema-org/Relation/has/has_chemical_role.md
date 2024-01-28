@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_chemical_role.md|has_chemical_role]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_chemical_role.internal.md|has_chemical_role.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_chemical_role.protect.md|has_chemical_role.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_chemical_role.private.md|has_chemical_role.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_chemical_role.personal.md|has_chemical_role.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_chemical_role.secret.md|has_chemical_role.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_chemical_role|has_chemical_role]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_chemical_role.public|has_chemical_role.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_chemical_role.internal|has_chemical_role.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_chemical_role.protect|has_chemical_role.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_chemical_role.private|has_chemical_role.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_chemical_role.personal|has_chemical_role.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_chemical_role.secret|has_chemical_role.secret]] 

@@ -45,9 +45,10 @@ Indicates that the item is used.
 [ #is_/enum_of :: [[../OfferItemCondition]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.md|used_condition]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.internal.md|used_condition.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.protect.md|used_condition.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.private.md|used_condition.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.personal.md|used_condition.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.secret.md|used_condition.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition|used_condition]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.public|used_condition.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.internal|used_condition.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.protect|used_condition.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.private|used_condition.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.personal|used_condition.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/offer_item_condition/used_condition.secret|used_condition.secret]] 

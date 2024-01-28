@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_music_composition_form.md|has_music_composition_form]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_music_composition_form.internal.md|has_music_composition_form.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_music_composition_form.protect.md|has_music_composition_form.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_music_composition_form.private.md|has_music_composition_form.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_music_composition_form.personal.md|has_music_composition_form.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_music_composition_form.secret.md|has_music_composition_form.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_music_composition_form|has_music_composition_form]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_music_composition_form.public|has_music_composition_form.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_music_composition_form.internal|has_music_composition_form.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_music_composition_form.protect|has_music_composition_form.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_music_composition_form.private|has_music_composition_form.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_music_composition_form.personal|has_music_composition_form.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_music_composition_form.secret|has_music_composition_form.secret]] 

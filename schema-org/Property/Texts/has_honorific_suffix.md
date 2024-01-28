@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_honorific_suffix.md|has_honorific_suffix]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_honorific_suffix.internal.md|has_honorific_suffix.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_honorific_suffix.protect.md|has_honorific_suffix.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_honorific_suffix.private.md|has_honorific_suffix.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_honorific_suffix.personal.md|has_honorific_suffix.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_honorific_suffix.secret.md|has_honorific_suffix.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_honorific_suffix|has_honorific_suffix]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_honorific_suffix.public|has_honorific_suffix.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_honorific_suffix.internal|has_honorific_suffix.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_honorific_suffix.protect|has_honorific_suffix.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_honorific_suffix.private|has_honorific_suffix.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_honorific_suffix.personal|has_honorific_suffix.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_honorific_suffix.secret|has_honorific_suffix.secret]] 

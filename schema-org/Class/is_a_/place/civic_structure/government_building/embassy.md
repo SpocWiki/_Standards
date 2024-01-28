@@ -43,9 +43,10 @@ An embassy.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.md|embassy]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.internal.md|embassy.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.protect.md|embassy.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.private.md|embassy.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.personal.md|embassy.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.secret.md|embassy.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/government_building/embassy|embassy]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/government_building/embassy.public|embassy.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.internal|embassy.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.protect|embassy.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.private|embassy.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.personal|embassy.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/government_building/embassy.secret|embassy.secret]] 

@@ -80,12 +80,13 @@ The day of the week between Saturday and Monday.
 [ #is_/enum_of :: [[../DayOfWeek]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/sunday.md|sunday]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.internal.md|sunday.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.protect.md|sunday.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.private.md|sunday.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.personal.md|sunday.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.secret.md|sunday.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/day_of_week/sunday|sunday]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/day_of_week/sunday.public|sunday.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.internal|sunday.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.protect|sunday.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.private|sunday.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.personal|sunday.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/day_of_week/sunday.secret|sunday.secret]] 
 
 Tag Instances like this: 
 #is_a_/bed_type
@@ -95,9 +96,10 @@ Tag Instances like this:
 [ #has_/properties :: [ additionalProperty, equal, greater, greaterOrEqual, lesser, lesserOrEqual, nonEqual, valueReference ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.md|bed_type]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.internal.md|bed_type.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.protect.md|bed_type.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.private.md|bed_type.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.personal.md|bed_type.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.secret.md|bed_type.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type|bed_type]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.public|bed_type.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.internal|bed_type.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.protect|bed_type.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.private|bed_type.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.personal|bed_type.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/bed_type.secret|bed_type.secret]] 

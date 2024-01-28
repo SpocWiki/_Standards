@@ -48,9 +48,10 @@ Tag Instances like this:
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/event/user_interaction.md|user_interaction]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/event/user_interaction.internal.md|user_interaction.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/event/user_interaction.protect.md|user_interaction.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/event/user_interaction.private.md|user_interaction.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/event/user_interaction.personal.md|user_interaction.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/event/user_interaction.secret.md|user_interaction.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/event/user_interaction|user_interaction]] 
+- [[../../../../../_public/schema-org/Class/is_a_/event/user_interaction.public|user_interaction.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/event/user_interaction.internal|user_interaction.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/event/user_interaction.protect|user_interaction.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/event/user_interaction.private|user_interaction.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/event/user_interaction.personal|user_interaction.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/event/user_interaction.secret|user_interaction.secret]] 

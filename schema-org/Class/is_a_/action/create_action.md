@@ -45,9 +45,10 @@ The act of deliberately creating/producing/generating/building a result out of t
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/action/create_action.md|create_action]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/action/create_action.internal.md|create_action.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/action/create_action.protect.md|create_action.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/action/create_action.private.md|create_action.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/action/create_action.personal.md|create_action.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/action/create_action.secret.md|create_action.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/action/create_action|create_action]] 
+- [[../../../../../_public/schema-org/Class/is_a_/action/create_action.public|create_action.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/create_action.internal|create_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/create_action.protect|create_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/create_action.private|create_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/create_action.personal|create_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/create_action.secret|create_action.secret]] 

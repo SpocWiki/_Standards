@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_arrival_terminal.md|has_arrival_terminal]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_arrival_terminal.internal.md|has_arrival_terminal.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_arrival_terminal.protect.md|has_arrival_terminal.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_arrival_terminal.private.md|has_arrival_terminal.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_arrival_terminal.personal.md|has_arrival_terminal.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_arrival_terminal.secret.md|has_arrival_terminal.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_arrival_terminal|has_arrival_terminal]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_arrival_terminal.public|has_arrival_terminal.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_arrival_terminal.internal|has_arrival_terminal.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_arrival_terminal.protect|has_arrival_terminal.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_arrival_terminal.private|has_arrival_terminal.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_arrival_terminal.personal|has_arrival_terminal.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_arrival_terminal.secret|has_arrival_terminal.secret]] 

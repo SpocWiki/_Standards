@@ -61,9 +61,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_dateline.md|has_dateline]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_dateline.internal.md|has_dateline.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_dateline.protect.md|has_dateline.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_dateline.private.md|has_dateline.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_dateline.personal.md|has_dateline.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_dateline.secret.md|has_dateline.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_dateline|has_dateline]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_dateline.public|has_dateline.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_dateline.internal|has_dateline.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_dateline.protect|has_dateline.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_dateline.private|has_dateline.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_dateline.personal|has_dateline.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_dateline.secret|has_dateline.secret]] 

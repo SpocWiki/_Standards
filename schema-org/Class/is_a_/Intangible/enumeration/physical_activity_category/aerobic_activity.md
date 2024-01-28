@@ -45,9 +45,10 @@ Physical activity of relatively low intensity that depends primarily on the aero
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.md|aerobic_activity]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.internal.md|aerobic_activity.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.protect.md|aerobic_activity.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.private.md|aerobic_activity.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.personal.md|aerobic_activity.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.secret.md|aerobic_activity.secret]] 
+- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity|aerobic_activity]] 
+- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.public|aerobic_activity.public]] 
+- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.internal|aerobic_activity.internal]] 
+- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.protect|aerobic_activity.protect]] 
+- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.private|aerobic_activity.private]] 
+- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.personal|aerobic_activity.personal]] 
+- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/aerobic_activity.secret|aerobic_activity.secret]] 

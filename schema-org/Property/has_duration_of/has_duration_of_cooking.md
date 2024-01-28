@@ -46,9 +46,10 @@ Formal Predicate:
 Is [sub_property_of::performTime]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_cooking.md|has_duration_of_cooking]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_cooking.internal.md|has_duration_of_cooking.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_cooking.protect.md|has_duration_of_cooking.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_cooking.private.md|has_duration_of_cooking.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_cooking.personal.md|has_duration_of_cooking.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_cooking.secret.md|has_duration_of_cooking.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_cooking|has_duration_of_cooking]] 
+- [[../../../../_public/schema-org/Predicate/Durations/has_duration_of_cooking.public|has_duration_of_cooking.public]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_cooking.internal|has_duration_of_cooking.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_cooking.protect|has_duration_of_cooking.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_cooking.private|has_duration_of_cooking.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_cooking.personal|has_duration_of_cooking.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_cooking.secret|has_duration_of_cooking.secret]] 

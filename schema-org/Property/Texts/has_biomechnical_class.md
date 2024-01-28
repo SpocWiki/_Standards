@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_biomechnical_class.md|has_biomechnical_class]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_biomechnical_class.internal.md|has_biomechnical_class.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_biomechnical_class.protect.md|has_biomechnical_class.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_biomechnical_class.private.md|has_biomechnical_class.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_biomechnical_class.personal.md|has_biomechnical_class.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_biomechnical_class.secret.md|has_biomechnical_class.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_biomechnical_class|has_biomechnical_class]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_biomechnical_class.public|has_biomechnical_class.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_biomechnical_class.internal|has_biomechnical_class.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_biomechnical_class.protect|has_biomechnical_class.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_biomechnical_class.private|has_biomechnical_class.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_biomechnical_class.personal|has_biomechnical_class.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_biomechnical_class.secret|has_biomechnical_class.secret]] 

@@ -43,9 +43,10 @@ An OfferCatalog is an ItemList that contains related Offers and/or further Offer
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, itemListElement, itemListOrder, mainEntityOfPage, name, numberOfItems, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/item_list/offer_catalog.md|offer_catalog]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/item_list/offer_catalog.internal.md|offer_catalog.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/item_list/offer_catalog.protect.md|offer_catalog.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/item_list/offer_catalog.private.md|offer_catalog.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/item_list/offer_catalog.personal.md|offer_catalog.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/item_list/offer_catalog.secret.md|offer_catalog.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/item_list/offer_catalog|offer_catalog]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/item_list/offer_catalog.public|offer_catalog.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/item_list/offer_catalog.internal|offer_catalog.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/item_list/offer_catalog.protect|offer_catalog.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/item_list/offer_catalog.private|offer_catalog.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/item_list/offer_catalog.personal|offer_catalog.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/item_list/offer_catalog.secret|offer_catalog.secret]] 

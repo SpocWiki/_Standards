@@ -44,9 +44,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ borrower, buyer, endorsee, landlord, lender, loser, opponent, realEstateAgent, recipient, seller, sender, sportsTeam, vendor, winner ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_participant.md|has_participant]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_participant.internal.md|has_participant.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_participant.protect.md|has_participant.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_participant.private.md|has_participant.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_participant.personal.md|has_participant.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_participant.secret.md|has_participant.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_participant|has_participant]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_participant.public|has_participant.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_participant.internal|has_participant.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_participant.protect|has_participant.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_participant.private|has_participant.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_participant.personal|has_participant.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_participant.secret|has_participant.secret]] 

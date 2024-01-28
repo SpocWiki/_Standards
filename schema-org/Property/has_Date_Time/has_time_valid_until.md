@@ -44,9 +44,10 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_valid_until.md|has_time_valid_until]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_valid_until.internal.md|has_time_valid_until.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_valid_until.protect.md|has_time_valid_until.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_valid_until.private.md|has_time_valid_until.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_valid_until.personal.md|has_time_valid_until.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_valid_until.secret.md|has_time_valid_until.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_valid_until|has_time_valid_until]] 
+- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_valid_until.public|has_time_valid_until.public]] 
+- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_valid_until.internal|has_time_valid_until.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_valid_until.protect|has_time_valid_until.protect]] 
+- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_valid_until.private|has_time_valid_until.private]] 
+- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_valid_until.personal|has_time_valid_until.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_valid_until.secret|has_time_valid_until.secret]] 

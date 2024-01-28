@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_skills.md|has_skills]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_skills.internal.md|has_skills.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_skills.protect.md|has_skills.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_skills.private.md|has_skills.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_skills.personal.md|has_skills.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_skills.secret.md|has_skills.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_skills|has_skills]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_skills.public|has_skills.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_skills.internal|has_skills.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_skills.protect|has_skills.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_skills.private|has_skills.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_skills.personal|has_skills.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_skills.secret|has_skills.secret]] 

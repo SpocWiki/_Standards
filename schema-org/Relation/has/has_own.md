@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: OwnershipInfo, Product )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_owns.md|has_owns]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_owns.internal.md|has_owns.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_owns.protect.md|has_owns.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_owns.private.md|has_owns.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_owns.personal.md|has_owns.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_owns.secret.md|has_owns.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_owns|has_owns]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_owns.public|has_owns.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_owns.internal|has_owns.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_owns.protect|has_owns.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_owns.private|has_owns.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_owns.personal|has_owns.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_owns.secret|has_owns.secret]] 

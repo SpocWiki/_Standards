@@ -46,9 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: subTrip ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_part_of_trip.md|is_part_of_trip]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_trip.internal.md|is_part_of_trip.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_trip.protect.md|is_part_of_trip.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_trip.private.md|is_part_of_trip.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_part_of_trip.personal.md|is_part_of_trip.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_part_of_trip.secret.md|is_part_of_trip.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_part_of_trip|is_part_of_trip]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/is_part_of_trip.public|is_part_of_trip.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_trip.internal|is_part_of_trip.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_trip.protect|is_part_of_trip.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_trip.private|is_part_of_trip.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_part_of_trip.personal|is_part_of_trip.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_part_of_trip.secret|is_part_of_trip.secret]] 

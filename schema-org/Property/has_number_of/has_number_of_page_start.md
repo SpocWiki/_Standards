@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_page_start.md|has_number_of_page_start]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_page_start.internal.md|has_number_of_page_start.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_page_start.protect.md|has_number_of_page_start.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_page_start.private.md|has_number_of_page_start.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_page_start.personal.md|has_number_of_page_start.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_page_start.secret.md|has_number_of_page_start.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_page_start|has_number_of_page_start]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_page_start.public|has_number_of_page_start.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_page_start.internal|has_number_of_page_start.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_page_start.protect|has_number_of_page_start.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_page_start.private|has_number_of_page_start.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_page_start.personal|has_number_of_page_start.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_page_start.secret|has_number_of_page_start.secret]] 

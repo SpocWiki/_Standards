@@ -49,9 +49,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_of_branch.md|has_code_of_branch]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_code_of_branch.internal.md|has_code_of_branch.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_code_of_branch.protect.md|has_code_of_branch.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_code_of_branch.private.md|has_code_of_branch.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_code_of_branch.personal.md|has_code_of_branch.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_code_of_branch.secret.md|has_code_of_branch.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_of_branch|has_code_of_branch]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_code_of_branch.public|has_code_of_branch.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_code_of_branch.internal|has_code_of_branch.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_code_of_branch.protect|has_code_of_branch.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_code_of_branch.private|has_code_of_branch.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_code_of_branch.personal|has_code_of_branch.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_code_of_branch.secret|has_code_of_branch.secret]] 

@@ -47,9 +47,10 @@ NonprofitANBI: Non-profit type referring to a Public Benefit Organization (NL).
 [ #is_/enum_of :: [[../NLNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.md|nonprofit_anbi]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.internal.md|nonprofit_anbi.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.protect.md|nonprofit_anbi.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.private.md|nonprofit_anbi.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.personal.md|nonprofit_anbi.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.secret.md|nonprofit_anbi.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi|nonprofit_anbi]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.public|nonprofit_anbi.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.internal|nonprofit_anbi.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.protect|nonprofit_anbi.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.private|nonprofit_anbi.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.personal|nonprofit_anbi.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_anbi.secret|nonprofit_anbi.secret]] 

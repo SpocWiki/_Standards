@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_acriss.md|has_code_acriss]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_code_acriss.internal.md|has_code_acriss.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_code_acriss.protect.md|has_code_acriss.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_code_acriss.private.md|has_code_acriss.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_code_acriss.personal.md|has_code_acriss.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_code_acriss.secret.md|has_code_acriss.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_acriss|has_code_acriss]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_code_acriss.public|has_code_acriss.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_code_acriss.internal|has_code_acriss.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_code_acriss.protect|has_code_acriss.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_code_acriss.private|has_code_acriss.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_code_acriss.personal|has_code_acriss.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_code_acriss.secret|has_code_acriss.secret]] 

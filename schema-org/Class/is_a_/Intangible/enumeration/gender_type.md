@@ -41,9 +41,10 @@ An enumeration of genders.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/gender_type.md|gender_type]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type.internal.md|gender_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/gender_type.protect.md|gender_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/gender_type.private.md|gender_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/gender_type.personal.md|gender_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/gender_type.secret.md|gender_type.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/gender_type|gender_type]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/gender_type.public|gender_type.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/gender_type.internal|gender_type.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/gender_type.protect|gender_type.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/gender_type.private|gender_type.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/gender_type.personal|gender_type.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/gender_type.secret|gender_type.secret]] 

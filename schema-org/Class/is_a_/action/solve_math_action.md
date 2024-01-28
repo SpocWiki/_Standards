@@ -45,9 +45,10 @@ The action that takes in a math expression and directs users to a page potential
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, eduQuestionType, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/action/solve_math_action.md|solve_math_action]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/action/solve_math_action.internal.md|solve_math_action.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/action/solve_math_action.protect.md|solve_math_action.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/action/solve_math_action.private.md|solve_math_action.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/action/solve_math_action.personal.md|solve_math_action.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/action/solve_math_action.secret.md|solve_math_action.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/action/solve_math_action|solve_math_action]] 
+- [[../../../../../_public/schema-org/Class/is_a_/action/solve_math_action.public|solve_math_action.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/action/solve_math_action.internal|solve_math_action.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/action/solve_math_action.protect|solve_math_action.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/action/solve_math_action.private|solve_math_action.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/action/solve_math_action.personal|solve_math_action.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/action/solve_math_action.secret|solve_math_action.secret]] 

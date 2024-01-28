@@ -47,9 +47,10 @@ Predicate describes that:
 ( #has_/range :: PostalCodeRangeSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_postal_code_range.md|has_location_postal_code_range]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_postal_code_range.internal.md|has_location_postal_code_range.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_postal_code_range.protect.md|has_location_postal_code_range.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_postal_code_range.private.md|has_location_postal_code_range.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_postal_code_range.personal.md|has_location_postal_code_range.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_postal_code_range.secret.md|has_location_postal_code_range.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_postal_code_range|has_location_postal_code_range]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_postal_code_range.public|has_location_postal_code_range.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_postal_code_range.internal|has_location_postal_code_range.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_postal_code_range.protect|has_location_postal_code_range.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_postal_code_range.private|has_location_postal_code_range.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_postal_code_range.personal|has_location_postal_code_range.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_postal_code_range.secret|has_location_postal_code_range.secret]] 

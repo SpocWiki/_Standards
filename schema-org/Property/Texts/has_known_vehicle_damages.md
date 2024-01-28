@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_known_vehicle_damages.md|has_known_vehicle_damages]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_known_vehicle_damages.internal.md|has_known_vehicle_damages.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_known_vehicle_damages.protect.md|has_known_vehicle_damages.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_known_vehicle_damages.private.md|has_known_vehicle_damages.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_known_vehicle_damages.personal.md|has_known_vehicle_damages.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_known_vehicle_damages.secret.md|has_known_vehicle_damages.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_known_vehicle_damages|has_known_vehicle_damages]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_known_vehicle_damages.public|has_known_vehicle_damages.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_known_vehicle_damages.internal|has_known_vehicle_damages.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_known_vehicle_damages.protect|has_known_vehicle_damages.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_known_vehicle_damages.private|has_known_vehicle_damages.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_known_vehicle_damages.personal|has_known_vehicle_damages.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_known_vehicle_damages.secret|has_known_vehicle_damages.secret]] 

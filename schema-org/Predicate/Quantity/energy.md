@@ -45,9 +45,10 @@ Properties that take Energy as values are of the form '<Number> <Energy unit of 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity/energy.md|energy]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/quantity/energy.internal.md|energy.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/quantity/energy.protect.md|energy.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/quantity/energy.private.md|energy.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/quantity/energy.personal.md|energy.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/quantity/energy.secret.md|energy.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity/energy|energy]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/intangible/quantity/energy.public|energy.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/quantity/energy.internal|energy.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/quantity/energy.protect|energy.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/intangible/quantity/energy.private|energy.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/quantity/energy.personal|energy.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/quantity/energy.secret|energy.secret]] 

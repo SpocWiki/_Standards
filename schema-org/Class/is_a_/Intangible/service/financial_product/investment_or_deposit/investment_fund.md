@@ -45,9 +45,10 @@ A company or fund that gathers capital from a number of investors to create a po
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.md|investment_fund]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.internal.md|investment_fund.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.protect.md|investment_fund.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.private.md|investment_fund.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.personal.md|investment_fund.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.secret.md|investment_fund.secret]] 
+- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund|investment_fund]] 
+- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.public|investment_fund.public]] 
+- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.internal|investment_fund.internal]] 
+- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.protect|investment_fund.protect]] 
+- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.private|investment_fund.private]] 
+- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.personal|investment_fund.personal]] 
+- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit/investment_fund.secret|investment_fund.secret]] 

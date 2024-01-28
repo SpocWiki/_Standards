@@ -44,9 +44,10 @@ Relation describes that:
 ( #has_/range :: EducationalOccupationalCredential, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_qualifications.md|has_qualifications]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_qualifications.internal.md|has_qualifications.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_qualifications.protect.md|has_qualifications.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_qualifications.private.md|has_qualifications.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_qualifications.personal.md|has_qualifications.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_qualifications.secret.md|has_qualifications.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_qualifications|has_qualifications]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_qualifications.public|has_qualifications.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_qualifications.internal|has_qualifications.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_qualifications.protect|has_qualifications.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_qualifications.private|has_qualifications.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_qualifications.personal|has_qualifications.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_qualifications.secret|has_qualifications.secret]] 

@@ -50,9 +50,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ acquireLicensePage ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_usage_info.md|has_usage_info]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_usage_info.internal.md|has_usage_info.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_usage_info.protect.md|has_usage_info.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_usage_info.private.md|has_usage_info.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_usage_info.personal.md|has_usage_info.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_usage_info.secret.md|has_usage_info.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_usage_info|has_usage_info]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_usage_info.public|has_usage_info.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_usage_info.internal|has_usage_info.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_usage_info.protect|has_usage_info.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_usage_info.private|has_usage_info.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_usage_info.personal|has_usage_info.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_usage_info.secret|has_usage_info.secret]] 

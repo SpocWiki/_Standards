@@ -49,9 +49,10 @@ Formal Predicate:
 Has [sub_properties::loanTerm]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration.md|has_duration]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration.internal.md|has_duration.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration.protect.md|has_duration.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration.private.md|has_duration.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration.personal.md|has_duration.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration.secret.md|has_duration.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration|has_duration]] 
+- [[../../../../_public/schema-org/Predicate/Durations/has_duration.public|has_duration.public]] 
+- [[../../../../_internal/schema.org/Predicate/Durations/has_duration.internal|has_duration.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Durations/has_duration.protect|has_duration.protect]] 
+- [[../../../../_private/schema.org/Predicate/Durations/has_duration.private|has_duration.private]] 
+- [[../../../../_personal/schema.org/Predicate/Durations/has_duration.personal|has_duration.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Durations/has_duration.secret|has_duration.secret]] 

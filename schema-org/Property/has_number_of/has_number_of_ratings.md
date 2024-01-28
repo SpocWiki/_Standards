@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_ratings.md|has_number_of_ratings]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_ratings.internal.md|has_number_of_ratings.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_ratings.protect.md|has_number_of_ratings.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_ratings.private.md|has_number_of_ratings.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_ratings.personal.md|has_number_of_ratings.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_ratings.secret.md|has_number_of_ratings.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_ratings|has_number_of_ratings]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_ratings.public|has_number_of_ratings.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_ratings.internal|has_number_of_ratings.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_ratings.protect|has_number_of_ratings.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_ratings.private|has_number_of_ratings.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_ratings.personal|has_number_of_ratings.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_ratings.secret|has_number_of_ratings.secret]] 

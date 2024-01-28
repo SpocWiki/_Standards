@@ -47,9 +47,10 @@ Predicate describes that:
 [ #is_/sub_property_of  :: areaServed ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_available_at_or_from.md|has_location_available_at_or_from]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_available_at_or_from.internal.md|has_location_available_at_or_from.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_available_at_or_from.protect.md|has_location_available_at_or_from.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_available_at_or_from.private.md|has_location_available_at_or_from.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_available_at_or_from.personal.md|has_location_available_at_or_from.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_available_at_or_from.secret.md|has_location_available_at_or_from.secret]] 
+- [[../../../../_Standards/schema-org/Property/has_location/has_location_available_at_or_from|has_location_available_at_or_from]] 
+- [[../../../../_public/schema-org/Property/has_location/has_location_available_at_or_from.public|has_location_available_at_or_from.public]] 
+- [[../../../../_internal/schema-org/Property/has_location/has_location_available_at_or_from.internal|has_location_available_at_or_from.internal]] 
+- [[../../../../_protect/schema-org/Property/has_location/has_location_available_at_or_from.protect|has_location_available_at_or_from.protect]] 
+- [[../../../../_private/schema-org/Property/has_location/has_location_available_at_or_from.private|has_location_available_at_or_from.private]] 
+- [[../../../../_personal/schema-org/Property/has_location/has_location_available_at_or_from.personal|has_location_available_at_or_from.personal]] 
+- [[../../../../_secret/schema-org/Property/has_location/has_location_available_at_or_from.secret|has_location_available_at_or_from.secret]] 

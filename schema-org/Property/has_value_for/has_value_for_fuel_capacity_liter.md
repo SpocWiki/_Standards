@@ -51,9 +51,10 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_fuel_capacity_liter.md|has_value_for_fuel_capacity_liter]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.internal.md|has_value_for_fuel_capacity_liter.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.protect.md|has_value_for_fuel_capacity_liter.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.private.md|has_value_for_fuel_capacity_liter.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.personal.md|has_value_for_fuel_capacity_liter.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.secret.md|has_value_for_fuel_capacity_liter.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_fuel_capacity_liter|has_value_for_fuel_capacity_liter]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_fuel_capacity_liter.public|has_value_for_fuel_capacity_liter.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.internal|has_value_for_fuel_capacity_liter.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.protect|has_value_for_fuel_capacity_liter.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.private|has_value_for_fuel_capacity_liter.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.personal|has_value_for_fuel_capacity_liter.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.secret|has_value_for_fuel_capacity_liter.secret]] 

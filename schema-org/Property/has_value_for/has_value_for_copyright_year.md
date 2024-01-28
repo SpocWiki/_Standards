@@ -45,9 +45,10 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_copyright_year.md|has_value_for_copyright_year]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_copyright_year.internal.md|has_value_for_copyright_year.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_copyright_year.protect.md|has_value_for_copyright_year.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_copyright_year.private.md|has_value_for_copyright_year.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_copyright_year.personal.md|has_value_for_copyright_year.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_copyright_year.secret.md|has_value_for_copyright_year.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_copyright_year|has_value_for_copyright_year]] 
+- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_copyright_year.public|has_value_for_copyright_year.public]] 
+- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_copyright_year.internal|has_value_for_copyright_year.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_copyright_year.protect|has_value_for_copyright_year.protect]] 
+- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_copyright_year.private|has_value_for_copyright_year.private]] 
+- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_copyright_year.personal|has_value_for_copyright_year.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_copyright_year.secret|has_value_for_copyright_year.secret]] 

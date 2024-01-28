@@ -72,9 +72,10 @@ Alternatively use the RDFa-Lite:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/language.md|language]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/language.internal.md|language.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/language.protect.md|language.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/language.private.md|language.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/language.personal.md|language.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/language.secret.md|language.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/language|language]] 
+- [[../../../../../_public/schema-org/Class/is_a_/intangible/language.public|language.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/intangible/language.internal|language.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/intangible/language.protect|language.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/intangible/language.private|language.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/intangible/language.personal|language.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/intangible/language.secret|language.secret]] 

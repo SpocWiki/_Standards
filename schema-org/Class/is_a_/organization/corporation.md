@@ -43,9 +43,10 @@ Organization: A business corporation.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, tickerSymbol, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/organization/corporation.md|corporation]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/organization/corporation.internal.md|corporation.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/organization/corporation.protect.md|corporation.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/organization/corporation.private.md|corporation.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/organization/corporation.personal.md|corporation.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/organization/corporation.secret.md|corporation.secret]] 
+- [[../../../../../_Standards/schema-org/Class/is_a_/organization/corporation|corporation]] 
+- [[../../../../../_public/schema-org/Class/is_a_/organization/corporation.public|corporation.public]] 
+- [[../../../../../_internal/schema.org/Class/is_a_/organization/corporation.internal|corporation.internal]] 
+- [[../../../../../_protect/schema.org/Class/is_a_/organization/corporation.protect|corporation.protect]] 
+- [[../../../../../_private/schema.org/Class/is_a_/organization/corporation.private|corporation.private]] 
+- [[../../../../../_personal/schema.org/Class/is_a_/organization/corporation.personal|corporation.personal]] 
+- [[../../../../../_secret/schema.org/Class/is_a_/organization/corporation.secret|corporation.secret]] 

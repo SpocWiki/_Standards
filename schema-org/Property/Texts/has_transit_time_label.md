@@ -47,9 +47,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_transit_time_label.md|has_transit_time_label]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_transit_time_label.internal.md|has_transit_time_label.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_transit_time_label.protect.md|has_transit_time_label.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_transit_time_label.private.md|has_transit_time_label.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_transit_time_label.personal.md|has_transit_time_label.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_transit_time_label.secret.md|has_transit_time_label.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_transit_time_label|has_transit_time_label]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_transit_time_label.public|has_transit_time_label.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_transit_time_label.internal|has_transit_time_label.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_transit_time_label.protect|has_transit_time_label.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_transit_time_label.private|has_transit_time_label.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_transit_time_label.personal|has_transit_time_label.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_transit_time_label.secret|has_transit_time_label.secret]] 

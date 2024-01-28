@@ -42,9 +42,10 @@ Relation describes that:
 ( #has_/range :: RsvpResponseType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_rsvp_response.md|has_rsvp_response]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_rsvp_response.internal.md|has_rsvp_response.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_rsvp_response.protect.md|has_rsvp_response.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_rsvp_response.private.md|has_rsvp_response.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_rsvp_response.personal.md|has_rsvp_response.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_rsvp_response.secret.md|has_rsvp_response.secret]] 
+- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_rsvp_response|has_rsvp_response]] 
+- [[../../../../../_public/schema-org/Predicate/Relations/has/has_rsvp_response.public|has_rsvp_response.public]] 
+- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_rsvp_response.internal|has_rsvp_response.internal]] 
+- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_rsvp_response.protect|has_rsvp_response.protect]] 
+- [[../../../../../_private/schema.org/Predicate/Relations/has/has_rsvp_response.private|has_rsvp_response.private]] 
+- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_rsvp_response.personal|has_rsvp_response.personal]] 
+- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_rsvp_response.secret|has_rsvp_response.secret]] 

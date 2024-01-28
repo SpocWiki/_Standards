@@ -45,9 +45,10 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_serving_size.md|has_serving_size]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_serving_size.internal.md|has_serving_size.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_serving_size.protect.md|has_serving_size.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_serving_size.private.md|has_serving_size.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_serving_size.personal.md|has_serving_size.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_serving_size.secret.md|has_serving_size.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Texts/has_serving_size|has_serving_size]] 
+- [[../../../../_public/schema-org/Predicate/Texts/has_serving_size.public|has_serving_size.public]] 
+- [[../../../../_internal/schema.org/Predicate/Texts/has_serving_size.internal|has_serving_size.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Texts/has_serving_size.protect|has_serving_size.protect]] 
+- [[../../../../_private/schema.org/Predicate/Texts/has_serving_size.private|has_serving_size.private]] 
+- [[../../../../_personal/schema.org/Predicate/Texts/has_serving_size.personal|has_serving_size.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Texts/has_serving_size.secret|has_serving_size.secret]] 

@@ -41,9 +41,10 @@ Data type: Floating number.
 [ #is_/sub_class_of :: [[../Number]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/number/float.md|float]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/number/float.internal.md|float.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/number/float.protect.md|float.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/data_type/number/float.private.md|float.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/number/float.personal.md|float.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/number/float.secret.md|float.secret]] 
+- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/number/float|float]] 
+- [[../../../../../../_public/schema-org/Class/is_a_/data_type/number/float.public|float.public]] 
+- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/number/float.internal|float.internal]] 
+- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/number/float.protect|float.protect]] 
+- [[../../../../../../_private/schema.org/Class/is_a_/data_type/number/float.private|float.private]] 
+- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/number/float.personal|float.personal]] 
+- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/number/float.secret|float.secret]] 
