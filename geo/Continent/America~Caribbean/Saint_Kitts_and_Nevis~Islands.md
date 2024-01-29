@@ -4,7 +4,7 @@ type: Country
 tags:
 - geo/Country
 
-alias:
+aliases:
 - St._Kitts-Nevis-Anguilla
 
 SpocWebEntityId: 26939

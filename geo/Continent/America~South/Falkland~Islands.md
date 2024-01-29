@@ -4,7 +4,7 @@ type: Country
 tags:
 - geo/Country
 
-alias:
+aliases:
 - Malvinas
 - 
 

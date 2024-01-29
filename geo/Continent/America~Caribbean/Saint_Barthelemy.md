@@ -5,7 +5,7 @@ type: Country
 tags:
 - geo/Country
 
-alias:
+aliases:
 - St._Barthélemy
 - Saint_Barthélemy
 
