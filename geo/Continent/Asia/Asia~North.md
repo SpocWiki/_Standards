@@ -1,6 +1,8 @@
 
 # [[Asia~North]] 
 
+These Regions are part of [[Russia]].
+
 ```leaflet
 id: Russia
 zoomFeatures: true 
