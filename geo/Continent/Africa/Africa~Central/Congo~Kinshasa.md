@@ -9,6 +9,15 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Congo~Kinshasa]] 
+
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Congo-Kinshasa 
+
+[[Congo~Kinshasa/ReadMe]] 
+
 [ISO2::CD]
 [ISO3::COD]
 ```leaflet

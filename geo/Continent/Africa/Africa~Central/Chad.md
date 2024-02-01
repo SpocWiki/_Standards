@@ -37,6 +37,14 @@ Languages:
 - sre
 ---
 
+# [[Chad]] 
+
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Chad 
+
+[[Chad/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: XAF ]
 [	ISO4217-currency_name	 :: CFA Franc BEAC ]

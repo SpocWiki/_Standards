@@ -36,6 +36,14 @@ Languages:
 - fr
 ---
 
+# [[Equatorial_Guinea]] 
+
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Equatorial_Guinea 
+
+[[Equatorial_Guinea/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: XAF ]
 [	ISO4217-currency_name	 :: CFA Franc BEAC ]

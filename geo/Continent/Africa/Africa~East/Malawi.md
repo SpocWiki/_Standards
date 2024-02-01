@@ -36,6 +36,13 @@ Languages:
 - swk
 ---
 
+# [[Malawi]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Malawi 
+
+[[Malawi/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: MWK ]
 [	ISO4217-currency_name	 :: Malawi Kwacha ]

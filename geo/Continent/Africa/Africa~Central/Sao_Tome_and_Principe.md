@@ -9,6 +9,15 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Sao_Tome_and_Principe]] 
+
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sao_Tome_and_Principe 
+
+[[Sao_Tome_and_Principe/ReadMe]] 
+
 [ISO2::ST]
 [ISO3::STP]
 ```leaflet

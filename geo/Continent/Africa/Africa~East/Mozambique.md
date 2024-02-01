@@ -34,6 +34,12 @@ Languages:
 - vmw
 ---
 
+# [[Mozambique]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mozambique 
+
+[[Mozambique/ReadMe]] 
 
 [	ISO4217-currency_alphabetic	 :: MZN ]
 [	ISO4217-currency_name	 :: Mozambique Metical ]

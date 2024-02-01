@@ -39,6 +39,14 @@ Languages:
 - dje
 ---
 
+# [[Niger]] 
+
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Niger 
+
+[[Niger/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: XOF ]
 [	ISO4217-currency_name	 :: CFA Franc BCEAO ]

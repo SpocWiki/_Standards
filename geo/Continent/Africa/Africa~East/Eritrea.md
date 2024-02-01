@@ -38,6 +38,13 @@ Languages:
 - ti-ER
 ---
 
+# [[Eritrea]] 
+
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Eritrea 
+
+[[Eritrea/ReadMe]] 
 
 [	ISO4217-currency_alphabetic	 :: ERN ]
 [	ISO4217-currency_name	 :: Nakfa ]

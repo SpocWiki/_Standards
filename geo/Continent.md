@@ -1,12 +1,13 @@
 # Continent 
 
-Naively described as  contiguous Land-Mass 
-surrounded by Water-Mass 
-or high Barries like Mountain-Ranges 
+Naively described as  contiguous Surface-Land 
+surrounded by Surface-Water 
+or high Barriers like Mountain-Ranges 
 (e.g. [[Ural Mountains]], [[Himalayas]]) 
 on a global-scale 
 (in Opposition to Islands, the largest of which is [[Greenland]]). 
 
+Since geographical Information is voluminous, this Repository only contains Details down to the Country Level (with [[Continent/Antarctica|Antarctica]], [[Continent/Oceania|Oceania]] and [[Continent/America~Caribbean|America~Caribbean]] as exceptions). To add Details below this Level, check out the Repository into the corresponding Folder to obtain consistent Link-Paths. 
 
 They largely coincide with a subset of Tectonic plates, which can also form high Mountain Ranges like the Alps or the Himalayas, but except for the Ural (separating [[Continent/Europe]] from [[Continent/Asia]] , these are not typically used to distinguish Continents. 
 
