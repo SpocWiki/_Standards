@@ -28,7 +28,7 @@ aliases:
 - number_of_accommodation_units
 - number-of-accommodation-units
 - numberOfAccommodationUnits
-- has_number_of_number_of_accommodation_units
+- has_number_of_accommodation_units
 ---
 
 Predicate to describe the Number of ApartmentComplex, FloorPlan.
@@ -37,20 +37,20 @@ Predicate to describe the Number of ApartmentComplex, FloorPlan.
 
 Use it like this: 
 - [ #has_/number_of_/number_of_accommodation_units :: QuantitativeValue ] or 
-- [ has_number_of_number_of_accommodation_units :: QuantitativeValue ] 
+- [ has_number_of_accommodation_units :: QuantitativeValue ] 
 
 Indicates the total (available plus unavailable) number of accommodation units in an [[ApartmentComplex]], or the number of accommodation units for a specific [[FloorPlan]] (within its specific [[ApartmentComplex]]). See also [[numberOfAvailableAccommodationUnits]].
 
 Predicate describes that: 
 [ #has_/domain  :: ApartmentComplex, FloorPlan ]
-( #has_/name :: has_number_of_number_of_accommodation_units )
+( #has_/name :: has_number_of_accommodation_units )
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_accommodation_units|has_number_of_number_of_accommodation_units]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_number_of_accommodation_units.public|has_number_of_number_of_accommodation_units.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_accommodation_units.internal|has_number_of_number_of_accommodation_units.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_accommodation_units.protect|has_number_of_number_of_accommodation_units.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_accommodation_units.private|has_number_of_number_of_accommodation_units.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_accommodation_units.personal|has_number_of_number_of_accommodation_units.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_accommodation_units.secret|has_number_of_number_of_accommodation_units.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_accommodation_units|has_number_of_accommodation_units]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_accommodation_units.public|has_number_of_accommodation_units.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_accommodation_units.internal|has_number_of_accommodation_units.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_accommodation_units.protect|has_number_of_accommodation_units.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_accommodation_units.private|has_number_of_accommodation_units.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_accommodation_units.personal|has_number_of_accommodation_units.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_accommodation_units.secret|has_number_of_accommodation_units.secret]] 

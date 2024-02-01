@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Predi_Count
 
-title: has_number_of_number_of_pages
-linkTitle: has_number_of_number_of_pages
+title: has_number_of_pages
+linkTitle: has_number_of_pages
 
 keywords: [number_of_pages]
 layout: 

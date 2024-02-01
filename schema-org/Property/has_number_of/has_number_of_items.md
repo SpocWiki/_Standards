@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Predi_Count
 
-title: has_number_of_number_of_items
-linkTitle: has_number_of_number_of_items
+title: has_number_of_items
+linkTitle: has_number_of_items
 
 keywords: [number_of_items]
 layout: 

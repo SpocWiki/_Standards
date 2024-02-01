@@ -11,8 +11,8 @@ publish: true
 # Hugo Tags
 type: Predi_Count
 
-title: has_number_of_number_of_bathrooms_total
-linkTitle: has_number_of_number_of_bathrooms_total
+title: has_number_of_bathrooms_total
+linkTitle: has_number_of_bathrooms_total
 
 keywords: [number_of_bathrooms_total]
 layout: 

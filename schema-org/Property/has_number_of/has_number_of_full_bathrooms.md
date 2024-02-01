@@ -28,7 +28,7 @@ aliases:
 - number_of_full_bathrooms
 - number-of-full-bathrooms
 - numberOfFullBathrooms
-- has_number_of_number_of_full_bathrooms
+- has_number_of_full_bathrooms
 ---
 
 Predicate to describe the Number of Accommodation, FloorPlan.
@@ -37,20 +37,20 @@ Predicate to describe the Number of Accommodation, FloorPlan.
 
 Use it like this: 
 - [ #has_/number_of_/number_of_full_bathrooms :: Number ] or 
-- [ has_number_of_number_of_full_bathrooms :: Number ] 
+- [ has_number_of_full_bathrooms :: Number ] 
 
 Number of full bathrooms - The total number of full and � bathrooms in an [[Accommodation]]. This corresponds to the <a href="https://ddwiki.reso.org/display/DDW17/BathroomsFull+Field">BathroomsFull field in RESO</a>.
 
 Predicate describes that: 
 [ #has_/domain  :: Accommodation, FloorPlan ]
-( #has_/name :: has_number_of_number_of_full_bathrooms )
+( #has_/name :: has_number_of_full_bathrooms )
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_number_of_full_bathrooms|has_number_of_number_of_full_bathrooms]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_number_of_full_bathrooms.public|has_number_of_number_of_full_bathrooms.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.internal|has_number_of_number_of_full_bathrooms.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.protect|has_number_of_number_of_full_bathrooms.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.private|has_number_of_number_of_full_bathrooms.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.personal|has_number_of_number_of_full_bathrooms.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_number_of_full_bathrooms.secret|has_number_of_number_of_full_bathrooms.secret]] 
+- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_full_bathrooms|has_number_of_full_bathrooms]] 
+- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_full_bathrooms.public|has_number_of_full_bathrooms.public]] 
+- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_full_bathrooms.internal|has_number_of_full_bathrooms.internal]] 
+- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_full_bathrooms.protect|has_number_of_full_bathrooms.protect]] 
+- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_full_bathrooms.private|has_number_of_full_bathrooms.private]] 
+- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_full_bathrooms.personal|has_number_of_full_bathrooms.personal]] 
+- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_full_bathrooms.secret|has_number_of_full_bathrooms.secret]] 
