@@ -1,4 +1,5 @@
 
+# [[Asia~South]] 
 
 ```leaflet
 id: Asia
@@ -12,3 +13,8 @@ geojsonFolder: ./Asia~South///
 markerFolder: ./Asia~South/
 ```
 
+
+```ccard
+type: folder_brief_live
+```
+ 

@@ -1,4 +1,5 @@
 
+# [[Asia~South~East]] 
 
 ```leaflet
 id: Asia
@@ -8,7 +9,12 @@ maxZoom: 18
 defaultZoom: 3
 long: 99.0
 lat: 40
-geojsonFolder: ./Asia~South~East/
+geojsonFolder: ./Asia~South~East//
 markerFolder: ./Asia~South~East/
 ```
 
+
+```ccard
+type: folder_brief_live
+```
+ 

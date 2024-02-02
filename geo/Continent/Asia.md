@@ -8,6 +8,7 @@ tags:
 isDeleted: false
 ---
 
+# [[Asia]] 
 
 ```leaflet
 id: Asia
