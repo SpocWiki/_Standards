@@ -40,6 +40,13 @@ Languages:
 - gn
 ---
 
+# [[Argentina]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Argentina 
+
+[[Argentina/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: ARS ]
 [	ISO4217-currency_name	 :: Argentine Peso ]

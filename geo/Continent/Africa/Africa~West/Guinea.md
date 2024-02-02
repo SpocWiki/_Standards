@@ -34,6 +34,13 @@ Languages:
 - fr-GN
 ---
 
+# [[Guinea]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Guinea 
+
+[[Guinea/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: GNF ]
 [	ISO4217-currency_name	 :: Guinean Franc ]

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 29.33
 - 48
@@ -34,6 +34,13 @@ Languages:
 - ar-KW
 - en
 ---
+
+# [[Kuwait]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Kuwait 
+
+[[Kuwait/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: KWD ]

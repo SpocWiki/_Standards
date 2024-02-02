@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 1.28
 - 103.85
@@ -38,6 +38,13 @@ Languages:
 - ta-SG
 - zh-SG
 ---
+
+# [[Singapore]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Singapore 
+
+[[Singapore/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: SGD ]

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 27.7
 - 85.3167
@@ -34,6 +34,13 @@ Languages:
 - ne
 - en
 ---
+
+# [[Nepal]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Nepal 
+
+[[Nepal/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: NPR ]

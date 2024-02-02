@@ -36,6 +36,13 @@ Languages:
 - iu
 ---
 
+# [[Canada]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Canada 
+
+[[Canada/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: CAD ]
 [	ISO4217-currency_name	 :: Canadian Dollar ]

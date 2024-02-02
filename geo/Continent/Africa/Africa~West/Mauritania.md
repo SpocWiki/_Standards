@@ -39,6 +39,15 @@ Languages:
 - wo
 ---
 
+# [[Mauritania]] 
+
+
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Mauritania 
+
+[[Mauritania/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: MRU ]
 [	ISO4217-currency_name	 :: Ouguiya ]

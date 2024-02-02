@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 62
 - -6.78333
@@ -34,6 +34,8 @@ Languages:
 - fo
 - da-FO
 ---
+
+# [[Faroe~Islands]] 
 
 
 [	ISO4217-currency_alphabetic	 :: DKK ]

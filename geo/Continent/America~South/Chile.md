@@ -34,6 +34,14 @@ Languages:
 - es-CL
 ---
 
+# [[Chile]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Chile 
+
+[[Chile/ReadMe]] 
+
+
 
 [	ISO4217-currency_alphabetic	 :: CLP ]
 [	ISO4217-currency_name	 :: Chilean Peso ]

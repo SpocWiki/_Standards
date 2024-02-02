@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -22.2758
 - 166.458
@@ -33,6 +33,13 @@ aliases:
 Languages:
 - fr-NC
 ---
+
+# [[New_Caledonia]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Australia-New_Caledonia 
+
+[[New_Caledonia/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: XPF ]

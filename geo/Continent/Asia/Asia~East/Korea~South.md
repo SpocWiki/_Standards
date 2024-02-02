@@ -1,4 +1,4 @@
-﻿---
+---
 location: [37.55,126.97]
 type: Country
 tags:
@@ -12,6 +12,14 @@ aliases:
 - Korea-Republic
 - Südkorea 
 ---
+
+# [[Korea~South]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Korea~South 
+
+[[Korea~South/ReadMe]] 
+
 [ISO2::KR]
 [ISO3::KOR]
 ```leaflet

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 55.6789
 - 10.5
@@ -37,6 +37,13 @@ Languages:
 - fo
 - de-DK
 ---
+
+# [[Denmark]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Denmark 
+
+[[Denmark/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: DKK ]

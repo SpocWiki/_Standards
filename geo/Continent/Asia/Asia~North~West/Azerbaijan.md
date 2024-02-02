@@ -37,6 +37,13 @@ Languages:
 - hy
 ---
 
+# [[Azerbaijan]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Azerbaijan 
+
+[[Azerbaijan/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: AZN ]
 [	ISO4217-currency_name	 :: Azerbaijan Manat ]

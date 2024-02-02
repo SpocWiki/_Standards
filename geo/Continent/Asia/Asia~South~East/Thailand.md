@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 13.73
 - 100.5
@@ -35,6 +35,13 @@ Languages:
 - th
 - en
 ---
+
+# [[Thailand]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Thailand 
+
+[[Thailand/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: THB ]

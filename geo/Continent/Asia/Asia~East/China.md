@@ -39,6 +39,13 @@ Languages:
 - za
 ---
 
+# [[China]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-China 
+
+[[China/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: CNY ]
 [	ISO4217-currency_name	 :: Yuan Renminbi ]

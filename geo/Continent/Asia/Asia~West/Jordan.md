@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 31.95
 - 35.93
@@ -35,6 +35,13 @@ Languages:
 - ar-JO
 - en
 ---
+
+# [[Jordan]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Jordan 
+
+[[Jordan/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: JOD ]

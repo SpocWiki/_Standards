@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 34.335
 - 36.625
@@ -41,6 +41,13 @@ Languages:
 - fr
 - en
 ---
+
+# [[Syria]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Syria 
+
+[[Syria/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: SYP ]

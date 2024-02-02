@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 49.6827
 - 6.07904
@@ -35,6 +35,13 @@ Languages:
 - de-LU
 - fr-LU
 ---
+
+# [[Luxembourg]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Luxembourg 
+
+[[Luxembourg/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]

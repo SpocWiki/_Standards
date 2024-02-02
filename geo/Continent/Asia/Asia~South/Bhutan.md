@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 27.417
 - 90.435
@@ -34,6 +34,13 @@ aliases:
 Languages:
 - dz
 ---
+
+# [[Bhutan]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Bhutan 
+
+[[Bhutan/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: INR,BTN ]

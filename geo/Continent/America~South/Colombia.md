@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 3.525
 - -75.225
@@ -33,6 +33,13 @@ aliases:
 Languages:
 - es-CO
 ---
+
+# [[Colombia]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Colombia 
+
+[[Colombia/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: COP ]

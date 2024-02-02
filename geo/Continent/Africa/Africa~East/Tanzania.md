@@ -42,10 +42,23 @@ Languages:
 
 # [[Tanzania]] 
 
+
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Tanzania 
 
 [[Tanzania/ReadMe]] 
+
+## #has_/abstract 
+
+
+> **Tanzania** ( TAN-zə-NEE-ə; Swahili: [tanzaˈni.a]), officially the United Republic of Tanzania (Swahili: Jamhuri ya Muungano wa Tanzania), is a country in East Africa within the African Great Lakes region. It borders Uganda to the north; Kenya to the northeast; the Indian Ocean to the east; Mozambique and Malawi to the south; Zambia to the southwest; and Rwanda, Burundi, and the Democratic Republic of the Congo to the west. Mount Kilimanjaro, Africa's highest mountain, is in northeastern Tanzania. According to the 2022 national census, Tanzania has a population of nearly 62 million, making it the most populous country located entirely south of the equator.Many important hominid fossils have been found in Tanzania, such as 6-million-year-old Pliocene hominid fossils. In the Stone and Bronze Age, prehistoric migrations into Tanzania included Southern Cushitic speakers who moved south from present-day Ethiopia; Eastern Cushitic people who moved into Tanzania from north of Lake Turkana about 2,000 and 4,000 years ago; and the Southern Nilotes, including the Datoog, who originated from the present-day South Sudan–Ethiopia border region between 2,900 and 2,400 years ago.: page 18  These movements took place at about the same time as the settlement of the Mashariki Bantu from West Africa in the Lake Victoria and Lake Tanganyika areas. 
+> 
+> In the late 19th century, the mainland came under German rule as German East Africa, and this was followed by British rule after World War I when it was governed as [[Tanganyika]], with the [[Zanzibar]] Archipelago remaining a separate colonial jurisdiction. 
+> Following their respective independence in 1961 and 1963, __the two entities merged in 1964 to form the United Republic of Tanzania__. Tanganyika joined the British Commonwealth and Tanzania remains a member of the Commonwealth as a unified republic.Today the country is a presidential constitutional republic with the federal capital located in Dodoma; the former capital, Dar es Salaam, retains most government offices and is the country's largest city, principal port, and leading commercial centre. Tanzania is a de facto one-party state with the democratic socialist Chama Cha Mapinduzi party in power. The country has not experienced major internal strife since independence and is seen as one of the safest and most politically stable on the continent. Tanzania's population comprises about 120 ethnic, linguistic, and religious groups. Christianity is the largest religion in Tanzania, with substantial Muslim and Animist minorities. Over 100 languages are spoken in Tanzania, making it the most linguistically diverse country in East Africa; the country does not have a de jure official language, although the national language is Swahili. English is used in foreign trade, in diplomacy, in higher courts, and as a medium of instruction in secondary and higher education, while Arabic is spoken in Zanzibar.
+>
+> Tanzania is mountainous and densely forested in the north-east, where Mount Kilimanjaro is located. Three of Africa's Great Lakes are partly within Tanzania. To the north and west lie Lake Victoria, Africa's largest lake, and Lake Tanganyika, the continent's deepest lake, known for its unique species of fish. To the south lies Lake Malawi. The eastern shore is hot and humid, with the Zanzibar Archipelago just offshore. The Menai Bay Conservation Area is Zanzibar's largest marine protected area. The Kalambo Falls, located on the Kalambo River at the Zambian border, is the second-highest uninterrupted waterfall in Africa. Tanzania is one of the most visited tourist destinations for safaris.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Tanzania)
 
 
 [	ISO4217-currency_alphabetic	 :: TZS ]

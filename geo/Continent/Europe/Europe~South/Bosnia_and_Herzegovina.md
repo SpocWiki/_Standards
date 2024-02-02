@@ -4,6 +4,14 @@ type: Country
 tags:
 - geo/Country
 ---
+
+# [[Bosnia_and_Herzegovina]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Bosnia_and_Herzegovina 
+
+[[Bosnia_and_Herzegovina/ReadMe]] 
+
 SpocWebEntityId: 26841
 isDeleted: false
 confidential: public

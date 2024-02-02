@@ -35,6 +35,13 @@ Languages:
 - uz
 ---
 
+# [[Turkmenistan]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Turkmenistan 
+
+[[Turkmenistan/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: TMT ]
 [	ISO4217-currency_name	 :: Turkmenistan New Manat ]

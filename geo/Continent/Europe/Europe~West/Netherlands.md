@@ -38,6 +38,13 @@ Languages:
 - fy-NL
 ---
 
+# [[Netherlands]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Netherlands 
+
+[[Netherlands/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]

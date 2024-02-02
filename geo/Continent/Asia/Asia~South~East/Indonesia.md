@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -7.1 , 114 ] 
 type: geo-Region
 title: Indonesia
@@ -27,7 +27,13 @@ publishDate:
 expiryDate: 
 ---
 
-# Indonesia
+# [[Indonesia]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Indonesia 
+
+[[Indonesia/ReadMe]] 
+
  
 ![[Flag_of_Indonesia.svg|350]]
 

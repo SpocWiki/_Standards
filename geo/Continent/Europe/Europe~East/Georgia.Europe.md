@@ -9,6 +9,14 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Georgia.Europe]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Georgia 
+
+[[Georgia.Europe/ReadMe]] 
+
 [ISO2::GE]
 [ISO3::GEO]
 

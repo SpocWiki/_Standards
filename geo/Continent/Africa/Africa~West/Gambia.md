@@ -39,6 +39,14 @@ Languages:
 - ff
 ---
 
+# [[Gambia]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Gambia 
+
+[[Gambia/ReadMe]] 
+
+
 
 [	ISO4217-currency_alphabetic	 :: GMD ]
 [	ISO4217-currency_name	 :: Dalasi ]

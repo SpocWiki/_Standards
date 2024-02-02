@@ -37,6 +37,13 @@ Languages:
 - jv
 ---
 
+# [[Suriname]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Suriname 
+
+[[Suriname/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: SRD ]
 [	ISO4217-currency_name	 :: Surinam Dollar ]

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 23.48
 - 58.55
@@ -36,6 +36,13 @@ Languages:
 - bal
 - ur
 ---
+
+# [[Oman]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Oman 
+
+[[Oman/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: OMR ]

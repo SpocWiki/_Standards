@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 29.2633
 - 70.1033
@@ -39,6 +39,13 @@ Languages:
 - ps
 - brh
 ---
+
+# [[Pakistan]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Pakistan 
+
+[[Pakistan/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: PKR ]

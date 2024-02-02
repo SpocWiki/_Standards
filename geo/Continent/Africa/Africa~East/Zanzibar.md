@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-6.13333,39.3167]
 type: Country
 tags:
@@ -9,6 +9,8 @@ isDeleted: false
 confidential: public
 
 ---
+# [[Zanzibar]] 
+
 [ISO2::]
 [ISO3::]
 ```leaflet

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 18.265
 - 96.135
@@ -32,6 +32,13 @@ aliases:
 Languages:
 - my
 ---
+
+# [[Myanmar]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Myanmar 
+
+[[Myanmar/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: MMK ]

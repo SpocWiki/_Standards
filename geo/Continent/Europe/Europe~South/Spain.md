@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 40.0911
 - -2.86673
@@ -38,6 +38,13 @@ Languages:
 - eu
 - oc
 ---
+
+# [[Spain]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Spain 
+
+[[Spain/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]

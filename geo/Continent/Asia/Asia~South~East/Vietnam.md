@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 15.8917
 - 106.26
@@ -37,6 +37,13 @@ Languages:
 - zh
 - km
 ---
+
+# [[Vietnam]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Vietnam 
+
+[[Vietnam/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: VND ]

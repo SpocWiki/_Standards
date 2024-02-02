@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 19.4
 - -99.15
@@ -34,6 +34,13 @@ aliases:
 Languages:
 - es-MX
 ---
+
+# [[Mexico]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Mexico 
+
+[[Mexico/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: MXN ]

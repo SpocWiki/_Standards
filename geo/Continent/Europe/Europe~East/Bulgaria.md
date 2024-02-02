@@ -35,6 +35,13 @@ Languages:
 - rom
 ---
 
+# [[Bulgaria]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Bulgaria 
+
+[[Bulgaria/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: BGN ]
 [	ISO4217-currency_name	 :: Bulgarian Lev ]

@@ -1,4 +1,12 @@
 
+# [[United_States_of_America]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Benin 
+
+[[United_States_of_America/ReadMe]] 
+
+
 > The United States of America (U.S.A. or **USA**), commonly known as the United States (U.S. or US) or America, is a country primarily located in North America. It consists of 50 states, a federal district, five major unincorporated territories, nine Minor Outlying Islands, and 326 Indian reservations. The United States is the world's third-largest country by both land and total area. It shares land borders with Canada to its north and with Mexico to its south and has maritime borders with the Bahamas, Cuba, Russia, and other nations. With a population of over 333 million, it is the most populous country in the Americas and the third most populous in the world. The national capital of the United States is Washington, D.C. and its most populous city and principal financial center is New York City.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20States)

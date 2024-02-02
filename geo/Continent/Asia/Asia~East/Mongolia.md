@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 47.9167
 - 106.883
@@ -32,6 +32,13 @@ Languages:
 - mn
 - ru
 ---
+
+# [[Mongolia]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Mongolia 
+
+[[Mongolia/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: MNT ]

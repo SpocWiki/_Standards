@@ -9,6 +9,14 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Cote_d'ivoire]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Cote_d-ivoire 
+
+[[Cote_d'ivoire/ReadMe]] 
+
 [ISO2::CI]
 [ISO3::CIV]
 ```leaflet

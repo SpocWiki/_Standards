@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 3.17
 - 101.7
@@ -40,6 +40,13 @@ Languages:
 - pa
 - th
 ---
+
+# [[Malaysia]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Malaysia 
+
+[[Malaysia/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: MYR ]

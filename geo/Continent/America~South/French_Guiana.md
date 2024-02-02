@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 4.92
 - -52.3
@@ -33,6 +33,13 @@ aliases:
 Languages:
 - fr-GF
 ---
+
+# [[French_Guiana]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-French_Guiana 
+
+[[French_Guiana/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]

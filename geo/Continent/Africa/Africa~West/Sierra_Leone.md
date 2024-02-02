@@ -36,6 +36,15 @@ Languages:
 - tem
 ---
 
+# [[Sierra_Leone]] 
+
+
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Sierra_Leone 
+
+[[Sierra_Leone/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: SLL ]
 [	ISO4217-currency_name	 :: Leone ]

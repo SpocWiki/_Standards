@@ -36,6 +36,14 @@ Languages:
 - en-IL
 ---
 
+# [[Israel]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Israel 
+
+[[Israel/ReadMe]] 
+
+
 #has_/time_/created :: 1948-05-14 
 
 [	ISO4217-currency_alphabetic	 :: ILS ]

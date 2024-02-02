@@ -38,6 +38,13 @@ Languages:
 - ur
 ---
 
+# [[Bahrain]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Bahrain 
+
+[[Bahrain/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: BHD ]
 [	ISO4217-currency_name	 :: Bahraini Dinar ]

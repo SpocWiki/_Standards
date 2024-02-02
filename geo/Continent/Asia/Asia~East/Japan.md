@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 36.8617
 - 137.199
@@ -34,6 +34,13 @@ aliases:
 Languages:
 - ja
 ---
+
+# [[Japan]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Japan 
+
+[[Japan/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: JPY ]

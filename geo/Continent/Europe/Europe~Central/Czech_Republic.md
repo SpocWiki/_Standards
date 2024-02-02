@@ -9,6 +9,14 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Czech_Republic]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Czech_Republic 
+
+[[Czech_Republic/ReadMe]] 
+
 [ISO2::CZ]
 [ISO3::CZE]
 

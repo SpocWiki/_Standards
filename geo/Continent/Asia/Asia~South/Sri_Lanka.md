@@ -35,6 +35,13 @@ Languages:
 - en
 ---
 
+# [[Sri_Lanka]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Sri_Lanka 
+
+[[Sri_Lanka/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: LKR ]
 [	ISO4217-currency_name	 :: Sri Lanka Rupee ]

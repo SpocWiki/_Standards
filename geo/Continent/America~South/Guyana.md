@@ -33,6 +33,13 @@ Languages:
 - en-GY
 ---
 
+# [[Guyana]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Guyana 
+
+[[Guyana/ReadMe]] 
+
 
 [	ISO4217-currency_alphabetic	 :: GYD ]
 [	ISO4217-currency_name	 :: Guyana Dollar ]

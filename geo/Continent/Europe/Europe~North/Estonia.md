@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 59.4167
 - 24.75
@@ -34,6 +34,13 @@ Languages:
 - et
 - ru
 ---
+
+# [[Estonia]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Estonia 
+
+[[Estonia/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ -77 , 66 ] 
 type: Continent
 SpocWebEntityId: 27159
@@ -9,6 +9,13 @@ tags:
 isDeleted: false
 isReadOnly: false
 ---
+
+# [[Antarctica]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Antarctica 
+
+[[Antarctica/ReadMe]] 
 
 There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica)
 ```leaflet

@@ -13,6 +13,14 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Falkland~Islands]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Falkland~Islands 
+
+[[Falkland~Islands/ReadMe]] 
+
 [ISO2::FK]
 [ISO3::FLK]
 ```leaflet

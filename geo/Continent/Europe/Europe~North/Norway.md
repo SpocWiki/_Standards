@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 61.8685
 - 11.4588
@@ -38,6 +38,13 @@ Languages:
 - se
 - fi
 ---
+
+# [[Norway]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Norway 
+
+[[Norway/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: NOK ]

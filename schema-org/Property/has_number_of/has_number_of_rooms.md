@@ -36,7 +36,7 @@ aliases:
 Predicate to describe the Number of rooms (excluding bathrooms and closets) of the [[Accommodation]], [[Apartment]], [[../../Class/is_a_/Intangible/floor_plan|FloorPlan]], [[House]], [[../../Class/is_a_/organization/local_business/lodging_business|LodgingBusiness]], [[../../Class/is_a_/place/accommodation/house/single_family_residence|SingleFamilyResidence]], or [[Suite]]. 
 
 Typical unit code(s): ROM for room or C62 for no unit. 
-The type of room can be put in the [[../Texts/has_unit_text|unitText]] property of the [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]].
+The type of room can be put in the [[../Texts/has_unit_text|unitText]] property of the [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]]. 
 
 
 Use it like this: 

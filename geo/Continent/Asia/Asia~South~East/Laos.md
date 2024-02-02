@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 17.9667
 - 102.6
@@ -39,6 +39,13 @@ Languages:
 - fr
 - en
 ---
+
+# [[Laos]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Laos 
+
+[[Laos/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: LAK ]

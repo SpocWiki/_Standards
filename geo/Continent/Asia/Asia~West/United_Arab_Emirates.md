@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 24.47
 - 54.42
@@ -40,6 +40,13 @@ Languages:
 - hi
 - ur
 ---
+
+# [[United_Arab_Emirates]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-United_Arab_Emirates 
+
+[[United_Arab_Emirates/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: AED ]

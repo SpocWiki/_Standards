@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 25.08
 - 121.55
@@ -31,6 +31,13 @@ Languages:
 - nan
 - hak
 ---
+
+# [[Taiwan]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Taiwan 
+
+[[Taiwan/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 ::  ]

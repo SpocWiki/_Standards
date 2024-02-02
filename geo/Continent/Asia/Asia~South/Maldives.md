@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 4.16667
 - 73.5
@@ -34,6 +34,13 @@ Languages:
 - dv
 - en
 ---
+
+# [[Maldives]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Maldives 
+
+[[Maldives/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: MVR ]

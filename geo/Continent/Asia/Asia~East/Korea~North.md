@@ -1,4 +1,4 @@
-﻿---
+---
 location: [39.0333,125.75]
 type: Country
 tags:
@@ -13,6 +13,14 @@ aliases:
 - Nordkorea 
 
 ---
+
+# [[Korea~North]] 
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Korea~North 
+
+[[Korea~North/ReadMe]] 
+
 [ISO2::KP]
 [ISO3::PRK]
 ```leaflet

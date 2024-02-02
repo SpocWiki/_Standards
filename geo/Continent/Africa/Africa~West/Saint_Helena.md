@@ -9,6 +9,15 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Saint_Helena]] 
+
+
+For more Details, check out this Repository into this Subfolder: 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Saint_Helena 
+
+[[Saint_Helena/ReadMe]] 
+
 [ISO2::SH]
 [ISO3::SHN]
 ```leaflet
