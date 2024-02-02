@@ -7,6 +7,7 @@ isDeleted: false
 tags:
   - geo/Continent
 ---
+# [[Australasia]] 
 
 ```leaflet
 id: Australia
@@ -23,7 +24,7 @@ zoomFeatures: true
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/geo/Continent/Australia|Australia]] 
+- [[Australasia|Australasia]] 
 - [[../../../_public/geo/Continent/Australia.public|Australia.public]] 
 - [[../../../_internal/geo/Continent/Australia.internal|Australia.internal]] 
 - [[../../../_protect/geo/Continent/Australia.protect|Australia.protect]] 

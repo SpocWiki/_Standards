@@ -117,7 +117,7 @@ id: Oman
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Oman/
+geojsonFolder: ./Oman//
 markerFolder: ./Oman/
 ```
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [31.8833,35.2]
 type: Country
 tags:
@@ -16,7 +16,7 @@ id: Palestinian Territory, Occupied
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Palestinian_Territory,_Occupied/
+geojsonFolder: ./Palestinian_Territory,_Occupied//
 markerFolder: ./Palestinian_Territory,_Occupied/
 ```
 
