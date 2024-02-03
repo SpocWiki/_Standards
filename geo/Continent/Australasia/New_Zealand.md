@@ -39,7 +39,7 @@ Languages:
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Australia-New_Zealand 
 
-[[Australia/ReadMe]] 
+[[New_Zealand/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: NZD ]
