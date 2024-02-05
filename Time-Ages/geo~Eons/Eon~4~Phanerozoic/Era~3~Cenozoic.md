@@ -46,7 +46,7 @@ A time period from 66.0 million years ago to the present.
 #has_/time_/created/Ma :: -66.0
 #has_/time_/destroyed/Ma :: 0.002 
 
-#has_/text_of_/color :: #F2F91D
+#has_/text_of_/color :: 0xF2F91D
 
 ## All Contents
 

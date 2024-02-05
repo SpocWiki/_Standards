@@ -34,7 +34,7 @@ A time period from> The **Statherian** Period ( ; Ancient Greek: σταθερό�
 
     sh:order 166 
 
-#has_/text_of_/color :: #F875A7
+#has_/text_of_/color :: 0xF875A7
 
 ## All Contents
 

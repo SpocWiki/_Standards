@@ -43,7 +43,7 @@ A time period from
 
     sh:order 64 
 
-#has_/text_of_/color :: #34B2C9
+#has_/text_of_/color :: 0x34B2C9
 
 ## All Contents
 

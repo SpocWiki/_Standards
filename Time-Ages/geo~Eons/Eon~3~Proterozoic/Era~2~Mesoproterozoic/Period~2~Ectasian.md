@@ -40,7 +40,7 @@ A time period from> The **Ectasian** Period (from Ancient Greek: ἔκτασις
 
     sh:order 163 
 
-#has_/text_of_/color :: #FDCC8A
+#has_/text_of_/color :: 0xFDCC8A
 
 ## All Contents
 

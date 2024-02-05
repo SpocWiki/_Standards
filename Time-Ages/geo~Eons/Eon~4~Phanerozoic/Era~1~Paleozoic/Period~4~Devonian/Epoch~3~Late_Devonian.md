@@ -32,7 +32,7 @@ A time period from 382.7 to 358.9 million years ago.
 
     sh:order 110 
 
-#has_/text_of_/color :: #F1E19D
+#has_/text_of_/color :: 0xF1E19D
 
 ## All Contents
 

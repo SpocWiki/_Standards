@@ -1,8 +1,11 @@
 ---
 type: Element
-
 SpocWebEntityId: 21917
+aliases:
+  - Sulphur
 ---
+
+# [[Sulfur]] 
 
 #chemic/Element 
 [GroupName::Group-16-Chalcogene]

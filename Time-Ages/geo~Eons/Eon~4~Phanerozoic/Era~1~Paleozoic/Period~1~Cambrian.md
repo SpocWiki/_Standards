@@ -40,7 +40,7 @@
 
     sh:order 154 
 
-#has_/text_of_/color :: #7FA056
+#has_/text_of_/color :: 0x7FA056
 
 ## All Contents 
 

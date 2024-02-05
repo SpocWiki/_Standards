@@ -43,7 +43,7 @@ A time period from 1600 to 1400 million years ago.
 
     sh:order 164 
 
-#has_/text_of_/color :: #FDC07A
+#has_/text_of_/color :: 0xFDC07A
 
 ## All Contents
 

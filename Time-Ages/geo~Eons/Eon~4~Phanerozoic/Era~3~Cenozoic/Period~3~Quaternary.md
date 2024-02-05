@@ -39,7 +39,7 @@ A time period from 2.58 million years ago to the present.
 
     sh:order 10 
 
-#has_/text_of_/color :: #F9F97F
+#has_/text_of_/color :: 0xF9F97F
 
 ## All Contents
 

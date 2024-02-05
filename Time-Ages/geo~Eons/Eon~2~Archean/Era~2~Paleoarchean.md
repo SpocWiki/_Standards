@@ -36,7 +36,7 @@ A time period from 3600 to 3200 million years ago.
 #has_/time_/created/Ma :: -3600
 #has_/time_/destroyed/Ma :: -3200
 
-#has_/text_of_/color :: #F4449F
+#has_/text_of_/color :: 0xF4449F
 
 ## All Contents
 

@@ -41,7 +41,7 @@ A time period from
 
     sh:order 161 
 
-#has_/text_of_/color :: #FEBF4E
+#has_/text_of_/color :: 0xFEBF4E
 
 ## All Contents
 

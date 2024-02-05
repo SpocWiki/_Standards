@@ -39,7 +39,7 @@ A time period from 538.8 million years ago to the present.
 #has_/time_/created/Ma :: -538.8 
 #has_/time_/destroyed/Ma :: 0
 
-#has_/text_of_/color :: #9AD9DD
+#has_/text_of_/color :: 0x9AD9DD
 
 
 `$=dv.current().has_label_de`

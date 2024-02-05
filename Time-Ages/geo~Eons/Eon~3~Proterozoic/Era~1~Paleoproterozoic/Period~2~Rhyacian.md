@@ -34,7 +34,7 @@ A time period from> The **Rhyacian** Period ( ; Ancient Greek: ῥύαξ, romani
 
     sh:order 168 
 
-#has_/text_of_/color :: #F75B89
+#has_/text_of_/color :: 0xF75B89
 
 ## All Contents
 

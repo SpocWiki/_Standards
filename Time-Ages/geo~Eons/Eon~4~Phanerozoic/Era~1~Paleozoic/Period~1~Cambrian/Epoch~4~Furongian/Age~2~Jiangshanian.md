@@ -17,7 +17,7 @@ A time period from 494 to 489.5 million years ago.
 
     sh:order 143 
 
-#has_/text_of_/color :: #D9F0BB
+#has_/text_of_/color :: 0xD9F0BB
 
 ## All Contents
 

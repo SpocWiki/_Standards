@@ -15,7 +15,7 @@ A time period from 11_700 to 8_200 thousand years ago.
 
     sh:order 3 
 
-#has_/text_of_/color :: #FEECDB
+#has_/text_of_/color :: 0xFEECDB
 
 ## All Contents
 

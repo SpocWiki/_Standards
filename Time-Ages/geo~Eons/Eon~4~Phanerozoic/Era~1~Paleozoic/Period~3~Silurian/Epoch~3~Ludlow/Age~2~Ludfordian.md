@@ -33,7 +33,7 @@ ischart:Ludfordian
 
     sh:order 120 
 
-#has_/text_of_/color :: #D9F0DF
+#has_/text_of_/color :: 0xD9F0DF
 
 ## All Contents
 

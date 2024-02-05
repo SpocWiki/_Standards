@@ -36,7 +36,7 @@
 
     sh:order 147 
 
-#has_/text_of_/color :: #BFD99D
+#has_/text_of_/color :: 0xBFD99D
 
 ## All Contents
 

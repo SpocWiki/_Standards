@@ -36,7 +36,7 @@ A time period from 237 to 227 million years ago.
 
     sh:order 68 
 
-#has_/text_of_/color :: #C99BCB
+#has_/text_of_/color :: 0xC99BCB
 
 ## All Contents
 

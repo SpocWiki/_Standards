@@ -40,7 +40,7 @@ A time period from 2500 to 1600 million years ago.
 #has_/time_/created/Ma :: -2500
 #has_/time_/destroyed/Ma :: -1600
 
-#has_/text_of_/color :: #F74370
+#has_/text_of_/color :: 0xF74370
 
 ## All Contents
 

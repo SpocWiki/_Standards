@@ -45,7 +45,7 @@ A time period from 2050 to 1800 million years ago.
 
     sh:order 167
 
-#has_/text_of_/color :: #F76898
+#has_/text_of_/color :: 0xF76898
 
 ## All Contents
 

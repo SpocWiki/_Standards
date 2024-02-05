@@ -43,7 +43,7 @@ A time period from 720 to 635 million years ago.
 
     sh:order 159 
 
-#has_/text_of_/color :: #FECC5C
+#has_/text_of_/color :: 0xFECC5C
 
 ## All Contents
 

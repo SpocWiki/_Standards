@@ -44,7 +44,7 @@ A time period from 4031 to 2500 million years ago.
 #has_/time_/created/Ma :: -4031 
 #has_/time_/destroyed/Ma :: -2500
 
-#has_/text_of_/color :: #F0047F
+#has_/text_of_/color :: 0xF0047F
 
 ## All Contents
 

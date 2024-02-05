@@ -39,7 +39,7 @@ A time period from 4031 to 3600 million years ago.
 #has_/time_/created/Ma :: -4031 
 #has_/time_/destroyed/Ma :: -3600
 
-#has_/text_of_/color :: #DA037F
+#has_/text_of_/color :: 0xDA037F
 
 ## All Contents
 

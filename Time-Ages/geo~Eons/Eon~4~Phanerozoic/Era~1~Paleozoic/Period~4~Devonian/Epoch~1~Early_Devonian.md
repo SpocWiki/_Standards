@@ -43,7 +43,7 @@ A time period from 419.2 to 393.3 million years ago.
 
     sh:order 118 
 
-#has_/text_of_/color :: #E5AC4D
+#has_/text_of_/color :: 0xE5AC4D
 
 ## All Contents
 

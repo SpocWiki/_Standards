@@ -18,7 +18,7 @@ A time period from 4_200 thousand years ago to the present.
 
     sh:order 1 
 
-#has_/text_of_/color :: #FDEDEC
+#has_/text_of_/color :: 0xFDEDEC
 
 ## All Contents
 

@@ -32,7 +32,7 @@ ischart:Gorstian
 
     sh:order 121 
 
-#has_/text_of_/color :: #CCECDD
+#has_/text_of_/color :: 0xCCECDD
 
 ## All Contents
 

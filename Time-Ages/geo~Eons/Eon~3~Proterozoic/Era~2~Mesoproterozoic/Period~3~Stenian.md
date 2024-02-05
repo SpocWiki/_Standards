@@ -39,7 +39,7 @@ A time period from> The **Stenian** Period ( STEE-nee-É™n, from Ancient Greek: Ï
 
     sh:order 162 
 
-#has_/text_of_/color :: #FED99A
+#has_/text_of_/color :: 0xFED99A
 
 ## All Contents
 

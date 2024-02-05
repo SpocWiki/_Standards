@@ -23,7 +23,7 @@ A time period from 0.774 to 0.129 million years ago.
 
     sh:order 6 
 
-#has_/text_of_/color :: #FFF2C7
+#has_/text_of_/color :: 0xFFF2C7
 
 ## All Contents
 

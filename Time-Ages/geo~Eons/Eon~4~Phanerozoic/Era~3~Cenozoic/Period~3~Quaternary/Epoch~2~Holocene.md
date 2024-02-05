@@ -35,7 +35,7 @@ A time period from 11_650 years ago to the present.
 
     sh:order 4 
 
-#has_/text_of_/color :: #FEEBD2
+#has_/text_of_/color :: 0xFEEBD2
 
 ## All Contents
 

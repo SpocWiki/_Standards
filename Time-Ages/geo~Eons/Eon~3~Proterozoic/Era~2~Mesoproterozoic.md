@@ -38,7 +38,7 @@ A time period from 1600 to 1000 million years ago.
 
     sh:order 165 
 
-#has_/text_of_/color :: #FDB462
+#has_/text_of_/color :: 0xFDB462
 
 ## All Contents
 

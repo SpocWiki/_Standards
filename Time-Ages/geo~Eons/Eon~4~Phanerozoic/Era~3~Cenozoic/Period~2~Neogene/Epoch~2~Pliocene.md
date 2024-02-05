@@ -37,7 +37,7 @@ A time period from 5.333 to 2.58 million years ago.
 
     sh:order 12 
 
-#has_/text_of_/color :: #FFFF99
+#has_/text_of_/color :: 0xFFFF99
 
 ## All Contents
 

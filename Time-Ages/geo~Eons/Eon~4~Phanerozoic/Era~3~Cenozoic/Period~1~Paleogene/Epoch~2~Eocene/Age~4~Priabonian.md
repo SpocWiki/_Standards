@@ -35,7 +35,7 @@ A time period from 37.71 to 33.9 million years ago.
 
     sh:order 25 
 
-#has_/text_of_/color :: #FDCDA1
+#has_/text_of_/color :: 0xFDCDA1
 
 ## All Contents
 

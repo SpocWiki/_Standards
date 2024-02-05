@@ -15,7 +15,7 @@ A time period from 8_200 to 4_200 thousand years ago.
 
     sh:order 2 
 
-#has_/text_of_/color :: #FDECE4
+#has_/text_of_/color :: 0xFDECE4
 
 ## All Contents
 

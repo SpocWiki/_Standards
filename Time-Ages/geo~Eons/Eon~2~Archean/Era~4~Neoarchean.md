@@ -36,7 +36,7 @@ A time period from 2800 to 2500 million years ago.
 #has_/label_/zh  :: 新太古代
 #has_/time_/created/Ma :: -2800
 #has_/time_/destroyed/Ma :: -2500
-#has_/text_of_/color :: #F99BC1
+#has_/text_of_/color :: 0xF99BC1
 
 ## All Contents
 

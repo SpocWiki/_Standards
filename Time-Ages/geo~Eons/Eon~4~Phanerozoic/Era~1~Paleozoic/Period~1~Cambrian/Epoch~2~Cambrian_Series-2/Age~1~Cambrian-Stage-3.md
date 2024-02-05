@@ -40,7 +40,7 @@ A time period from 521 to 514 million years ago.
 
     sh:order 153 
 
-#has_/text_of_/color :: #A6C583
+#has_/text_of_/color :: 0xA6C583
 
 ## All Contents
 
