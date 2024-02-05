@@ -116,7 +116,7 @@ id: Thailand
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Thailand/
+geojsonFolder: ./Thailand//
 markerFolder: ./Thailand/
 ```
 

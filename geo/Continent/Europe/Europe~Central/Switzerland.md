@@ -38,14 +38,13 @@ Languages:
 - rm
 ---
 
-# [[Belarus]] 
+# [[Switzerland]] 
+
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Belarus 
 
 [[Belarus/ReadMe]] 
-
-# [[Switzerland]] 
 
 [	ISO4217-currency_alphabetic	 :: CHF ]
 [	ISO4217-currency_name	 :: Swiss Franc ]

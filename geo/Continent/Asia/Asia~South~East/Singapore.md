@@ -119,7 +119,7 @@ id: Singapore
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Singapore/
+geojsonFolder: ./Singapore//
 markerFolder: ./Singapore/
 ```
 

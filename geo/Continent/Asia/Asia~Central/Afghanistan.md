@@ -118,7 +118,7 @@ id: Afghanistan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Afghanistan/
+geojsonFolder: ./Afghanistan//
 markerFolder: ./Afghanistan/
 ```
 

@@ -119,7 +119,7 @@ id: Israel
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Israel/
+geojsonFolder: ./Israel//
 markerFolder: ./Israel///
 ```
 

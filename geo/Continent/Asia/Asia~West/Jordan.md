@@ -116,7 +116,7 @@ id: Jordan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Jordan/
+geojsonFolder: ./Jordan//
 markerFolder: ./Jordan/
 ```
 
