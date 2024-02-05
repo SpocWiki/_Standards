@@ -1,3 +1,7 @@
+---
+aliases:
+  - USA
+---
 
 # [[United_States_of_America]] 
 

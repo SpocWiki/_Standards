@@ -99,10 +99,10 @@ Sub-region_Name ::  [[Eastern Europe]]
 [	M49	 :: 100 ]
 
 [	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developed ]
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
-[	Least_Developed_Countries_(LDC)	 ::  ]
-[	Small_Island_Developing_States_(SIDS)	 ::  ]
+[	Developed_/Developing_Countries	 :: Developed ]
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_Island_Developing_States	 ::  ]
 
 [	ISO3166-1-numeric	 :: 100 ]
 

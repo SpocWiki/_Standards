@@ -44,7 +44,7 @@ Capital :: [[Mbabane]]
 [geo-lon::31.1333]
 [geo-lat::-26.3167]
 
-## #has_/abstract 
+## #has_/text_of_/abstract 
 
 
 > Eswatini ( ESS-wah-TEE-nee; Swazi: eSwatini [ɛswáˈtʼiːni]), officially the Kingdom of Eswatini and also known by its former official name **Swaziland** ( SWAH-zee-land), is a landlocked country in Southern Africa. It is bordered by Mozambique to its northeast and South Africa to its north, west, south, and southeast. At no more than 200 km (120 mi) north to south and 130 km (81 mi) east to west, Eswatini is one of the smallest countries in Africa; despite this, its climate and topography are diverse, ranging from a cool and mountainous highveld to a hot and dry lowveld.

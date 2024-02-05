@@ -1,12 +1,15 @@
 ---
-location: [52.8829,-2.14482]
+location:
+  - 52.8829
+  - -2.14482
 type: Country
 SpocWebEntityId: 26899
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
-
+  - geo/Country
+aliases:
+  - Great Britain
 ---
 
 # [[United_Kingdom]] 

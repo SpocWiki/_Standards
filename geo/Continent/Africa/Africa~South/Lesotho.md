@@ -100,10 +100,10 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [	M49	 :: 426 ]
 
 [	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries_(LLDC)	 :: x ]
-[	Least_Developed_Countries_(LDC)	 :: x ]
-[	Small_Island_Developing_States_(SIDS)	 ::  ]
+[	Developed_/Developing_Countries	 :: Developing ]
+[	Land_Locked_Developing_Countries	 :: x ]
+[	Least_Developed_Countries	 :: x ]
+[	Small_Island_Developing_States	 ::  ]
 
 [	ISO3166-1-numeric	 :: 426 ]
 

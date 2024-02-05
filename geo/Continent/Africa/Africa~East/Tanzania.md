@@ -48,7 +48,7 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Tanzania/ReadMe]] 
 
-## #has_/abstract 
+## #has_/text_of_/abstract 
 
 
 > **Tanzania** ( TAN-zə-NEE-ə; Swahili: [tanzaˈni.a]), officially the United Republic of Tanzania (Swahili: Jamhuri ya Muungano wa Tanzania), is a country in East Africa within the African Great Lakes region. It borders Uganda to the north; Kenya to the northeast; the Indian Ocean to the east; Mozambique and Malawi to the south; Zambia to the southwest; and Rwanda, Burundi, and the Democratic Republic of the Congo to the west. Mount Kilimanjaro, Africa's highest mountain, is in northeastern Tanzania. According to the 2022 national census, Tanzania has a population of nearly 62 million, making it the most populous country located entirely south of the equator.Many important hominid fossils have been found in Tanzania, such as 6-million-year-old Pliocene hominid fossils. In the Stone and Bronze Age, prehistoric migrations into Tanzania included Southern Cushitic speakers who moved south from present-day Ethiopia; Eastern Cushitic people who moved into Tanzania from north of Lake Turkana about 2,000 and 4,000 years ago; and the Southern Nilotes, including the Datoog, who originated from the present-day South Sudan–Ethiopia border region between 2,900 and 2,400 years ago.: page 18  These movements took place at about the same time as the settlement of the Mashariki Bantu from West Africa in the Lake Victoria and Lake Tanganyika areas. 
@@ -117,10 +117,10 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 [	M49	 :: 834 ]
 
 [	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
-[	Least_Developed_Countries_(LDC)	 :: x ]
-[	Small_Island_Developing_States_(SIDS)	 ::  ]
+[	Developed_/Developing_Countries	 :: Developing ]
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 :: x ]
+[	Small_Island_Developing_States	 ::  ]
 
 [	ISO3166-1-numeric	 :: 834 ]
 

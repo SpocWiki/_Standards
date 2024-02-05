@@ -27,7 +27,7 @@ publishDate:
 expiryDate: 
 ---
 
-## #has_/abstract 
+## #has_/text_of_/abstract 
 
 > **Somaliland**, officially the Republic of Somaliland, is an unrecognised sovereign state in the Horn of Africa, recognised internationally as a de jure autonomous region of Somalia.Its located on the southern coast of the Gulf of Aden.  It is bordered by Djibouti to the northwest, Ethiopia to the south and west, and Somalia to the east. Its claimed territory has an area of 176,120 square kilometres (68,000 sq mi), with approximately 5.7 million residents as of 2021. The capital and largest city is Hargeisa. The government of Somaliland regards itself as the successor state to British Somaliland, which, as the briefly independent State of Somaliland, united from 1960 to 1991 with the Trust Territory of Somaliland (the former Italian Somaliland) to form the Somali Republic.The area of Somaliland was inhabited around 10,000 years ago during the Neolithic age. The ancient shepherds raised cows and other livestock and created vibrant rock art paintings. Throughout the Middle Ages, Arab immigrants arrived in Somaliland, including the Muslim sheikhs Ishaaq bin Ahmed, who founded the Isaaq ethnic group, who travelled from Arabia to Somaliland and married into the local people. Also during the Middle Ages, Somali empires dominated the regional trade, including the Sultanate of Ifat and the Adal Sultanate.
 >

@@ -97,10 +97,10 @@ Sub-region_Name ::  [[Western Europe]]
 [	M49	 :: 438 ]
 
 [	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developed ]
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
-[	Least_Developed_Countries_(LDC)	 ::  ]
-[	Small_Island_Developing_States_(SIDS)	 ::  ]
+[	Developed_/Developing_Countries	 :: Developed ]
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 ::  ]
+[	Small_Island_Developing_States	 ::  ]
 
 [	ISO3166-1-numeric	 :: 438 ]
 

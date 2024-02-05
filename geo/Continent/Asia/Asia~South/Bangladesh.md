@@ -98,10 +98,10 @@ Sub-region_Name ::  [[Southern Asia]]
 [	M49	 :: 50 ]
 
 [	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developing ]
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ]
-[	Least_Developed_Countries_(LDC)	 :: x ]
-[	Small_Island_Developing_States_(SIDS)	 ::  ]
+[	Developed_/Developing_Countries	 :: Developing ]
+[	Land_Locked_Developing_Countries	 ::  ]
+[	Least_Developed_Countries	 :: x ]
+[	Small_Island_Developing_States	 ::  ]
 
 [	ISO3166-1-numeric	 :: 050 ]
 
