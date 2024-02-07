@@ -25,6 +25,10 @@ indicating the License Status for the respective File or all Files in the Folder
 In case of Wikimedia Files, this can e.g. be 
 delegated by a Link to the corresponding Wikimedia Article. 
 
+## Map Licenses 
+
+[GADM](https://gadm.org/license.html)
+[naturalearthdata](https://www.naturalearthdata.com/about/terms-of-use/) 
 # Conventions
 
 ## Avoid Spaces
