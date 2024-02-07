@@ -9,6 +9,9 @@ tags:
 isDeleted: false
 ---
 
+# [[Africa]] 
+
+
 ```leaflet
 id: Africa
 minZoom: 2 
