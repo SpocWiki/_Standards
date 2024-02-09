@@ -6,8 +6,8 @@
 
 ```leaflet
 id: Pacific~East
-minZoom: 2 
-defaultZoom: 3
+minZoom: 1 
+defaultZoom: 2
 maxZoom: 18
 geojsonFolder: ./Pacific~East/
 markerFolder: ./Pacific~East/

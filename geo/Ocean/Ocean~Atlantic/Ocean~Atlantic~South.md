@@ -6,12 +6,12 @@
 ## #has_/map 
 
 ```leaflet
-id: Ocean~America~South
+id: Ocean~Atlantic~South
 minZoom: 2 
 defaultZoom: 3
 maxZoom: 18
-geojsonFolder: ./Ocean~America~South/
-markerFolder: ./Ocean~America~South/
+geojsonFolder: ./Ocean~Atlantic~South/
+markerFolder: ./Ocean~Atlantic~South/
 long: 60
 lat: -10
 

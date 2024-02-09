@@ -15,6 +15,10 @@
 
 ## #has_/map 
 
+
+- [ ] TODO: Split ne_10m_bathymetry_L000South_0_Tropic-African-Indian.geojson at Kap Hoorn into Atlantic and Indian Ocean!
+
+
 ```leaflet
 id: Ocean~Indian
 minZoom: 2 
