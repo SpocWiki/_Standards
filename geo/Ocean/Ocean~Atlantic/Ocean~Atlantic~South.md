@@ -12,7 +12,7 @@ defaultZoom: 3
 maxZoom: 18
 geojsonFolder: ./Ocean~Atlantic~South/
 markerFolder: ./Ocean~Atlantic~South/
-long: 60
+long: -30
 lat: -10
 
 ```
