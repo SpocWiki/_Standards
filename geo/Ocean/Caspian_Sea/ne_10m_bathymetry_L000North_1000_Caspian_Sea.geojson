@@ -1,0 +1,3 @@
+{"type":"FeatureCollection","name":"ne_10m_bathymetry_L000North_1000_Caspian_Sea.geojson","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[
+{"type":"Feature","properties":{"scalerank":0,"featurecla":"Bathymetry","depth":1000},"bbox":[50.570079,38.950141,50.719371,39.121588],"geometry":{"type":"Polygon","coordinates":[[[50.700328,38.987982],[50.656016,38.950141],[50.597667,38.963568],[50.570079,39.021613],[50.583751,39.086737],[50.649303,39.121527],[50.653819,39.121527],[50.655284,39.121588],[50.706676,39.099799],[50.719371,39.046576],[50.700328,38.987982]]]}} 
+],"bbox":[46.680431,36.582709,54.767426,47.120917]}
