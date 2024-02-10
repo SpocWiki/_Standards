@@ -106,8 +106,9 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 
 
-[ISO2::MG]
-[ISO3::MDG]
+[ISO2::MG] 
+[ISO3::MDG] 
+
 ```leaflet
 id: Madagascar
 zoomFeatures: true 

@@ -69,7 +69,7 @@ Languages:
 
 Region_Name ::  [[Oceania]] 
 Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Micronesia]] 
+Sub-region_Name :: [[../Australasia/Micronesia]]] 
 
 [	Region	 :: 9 ]
 [	Intermediate_Region	 ::  ]

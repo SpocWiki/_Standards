@@ -17,7 +17,7 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Antarctica/ReadMe]] 
 
-There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica)
+There is also an (inofficial) [Country~Antarctica](Antarctica/Country~Antarctica) 
 ```leaflet
 id: Antarctica
 zoomFeatures: true 

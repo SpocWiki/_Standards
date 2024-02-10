@@ -109,8 +109,8 @@ Sub-region_Name ::  [[Northern America]]
 
 
 
-[ISO2::GL]
-[ISO3::GRL]
+[ISO2::GL] 
+[ISO3::GRL] 
 ```leaflet
 id: Greenland
 zoomFeatures: true 

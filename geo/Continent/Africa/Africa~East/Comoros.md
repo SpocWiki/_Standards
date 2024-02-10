@@ -136,15 +136,16 @@ Continent :: [[Africa]]
 ![[Anthem-Comoros.mp3]]
 
 ![[Flag_of_the_Comoros.svg|350]]
-[Alcohol-l::0.4]
-[Language-Id::472]
-[geo-lon::-11.7]
-[geo-lat::43.25]
+[Alcohol-l::0.4] 
+[Language-Id::472] 
+[geo-lon :: 43.25] 
+[geo-lat :: -11.7] 
 
 
 
 ## Confidential Links & Embeds: 
 - [[Comoros|Comoros]] 
+- [[../../../../../_public/geo/Continent/Africa/Africa~East/Comoros.public|Comoros.public]] 
 - [[../../../../../_internal/geo/Continent/Africa/Africa~East/Comoros.internal|Comoros.internal]] 
 - [[../../../../../_protect/geo/Continent/Africa/Africa~East/Comoros.protect|Comoros.protect]] 
 - [[../../../../../_private/geo/Continent/Africa/Africa~East/Comoros.private|Comoros.private]] 
