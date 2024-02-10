@@ -17,7 +17,7 @@ minZoom: 2
 maxZoom: 18
 long = 0
 lat = 50
-geojsonFolder: ./Europe/
+geojsonFolder: ./Europe//
 markerFolder: ./Europe/City/
 ```
 

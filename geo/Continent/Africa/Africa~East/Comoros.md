@@ -1,7 +1,7 @@
 ---
 location:
-- 43.25
 - -11.7
+- 43.25
 type: Country
 tags:
 - geo/Country
