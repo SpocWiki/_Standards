@@ -26,8 +26,11 @@ tags:
 ---
 
 
-[ISO2::US]
-[ISO3::USA]
+[ISO2::US] 
+[ISO3::USA] 
+
+## #has_/map 
+
 ```leaflet
 id: United States of America
 zoomFeatures: true 

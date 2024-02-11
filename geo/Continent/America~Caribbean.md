@@ -6,6 +6,7 @@ For more Details, check out this Repository into this Subfolder:
 
 [[America~Caribbean/ReadMe]] 
 
+## #has_/map 
 
 ```leaflet
 id: Puerto Rico

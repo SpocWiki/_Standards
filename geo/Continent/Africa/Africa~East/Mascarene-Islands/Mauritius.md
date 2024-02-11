@@ -109,8 +109,8 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 
 
-[ISO2::MU]
-[ISO3::MUS]
+[ISO2::MU] 
+[ISO3::MUS] 
 ```leaflet
 id: Mauritius
 zoomFeatures: true 

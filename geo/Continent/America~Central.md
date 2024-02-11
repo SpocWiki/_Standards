@@ -1,6 +1,8 @@
 
 # [[America~Central]] 
 
+## #has_/map 
+
 ```leaflet
 id: Puerto Rico
 zoomFeatures: true 
