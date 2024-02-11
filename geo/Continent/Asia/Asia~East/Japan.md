@@ -99,7 +99,7 @@ Sub-region_Name ::  [[Eastern Asia]]
 [	M49	 :: 392 ]
 
 [	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developed ]
+[	Developed_/Developing_Countries	 :: Developed ]
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]

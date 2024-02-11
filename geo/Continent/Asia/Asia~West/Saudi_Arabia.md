@@ -100,7 +100,7 @@ Sub-region_Name ::  [[Western Asia]]
 [	M49	 :: 682 ]
 
 [	is_independent	 :: Yes ]
-[	Developed_/_Developing_Countries	 :: Developing ]
+[	Developed_/Developing_Countries	 :: Developing ]
 [	Land_Locked_Developing_Countries	 ::  ]
 [	Least_Developed_Countries	 ::  ]
 [	Small_Island_Developing_States	 ::  ]
