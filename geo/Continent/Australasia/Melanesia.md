@@ -8,6 +8,20 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Melanesia)
 
 
+## #has_/map 
+
+
+```leaflet
+id: Melanesia
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Melanesia//
+markerFolder: ./Melanesia/
+```
+
+
+
 ```ccard
 type: folder_brief_live
 ```

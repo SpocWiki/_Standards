@@ -92,10 +92,10 @@ Sub-region_Name ::  [[Melanesia]]
 [	M49	 :: 548 ] 
 
 [	is_independent	 :: Yes ] 
-[	Developed_/_Developing_Countries	 :: Developing ] 
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
-[	Least_Developed_Countries_(LDC)	 :: x ] 
-[	Small_Island_Developing_States_(SIDS)	 :: x ] 
+[	Developed_/Developing_Countries	 :: Developing ] 
+[	Land_Locked_Developing_Countries	 ::  ] 
+[	Least_Developed_Countries	 :: x ] 
+[	Small_Island_Developing_States	 :: x ] 
 
 [	ISO3166-1-numeric	 :: 548 ] 
 
