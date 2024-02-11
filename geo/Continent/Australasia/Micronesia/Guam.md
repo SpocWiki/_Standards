@@ -90,10 +90,10 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 [	M49	 :: 316 ] 
 
 [	is_independent	 :: Territory of US ] 
-[	Developed_/_Developing_Countries	 :: Developing ] 
-[	Land_Locked_Developing_Countries_(LLDC)	 ::  ] 
-[	Least_Developed_Countries_(LDC)	 ::  ] 
-[	Small_Island_Developing_States_(SIDS)	 :: x ] 
+[	Developed_/Developing_Countries	 :: Developing ] 
+[	Land_Locked_Developing_Countries	 ::  ] 
+[	Least_Developed_Countries	 ::  ] 
+[	Small_Island_Developing_States	 :: x ] 
 
 [	ISO3166-1-numeric	 :: 316 ] 
 
