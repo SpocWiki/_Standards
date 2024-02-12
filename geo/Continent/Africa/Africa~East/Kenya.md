@@ -34,7 +34,7 @@ Languages:
 - sw-KE
 ---
 
-# [[]] 
+# [[Kenya]] 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Kenya 
@@ -139,7 +139,7 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 
 
 ## Confidential Links & Embeds: 
-- [[]] 
+- [[Kenya]] 
 - [[../../../../../_internal/geo/Continent/Africa/Africa~East/Kenya.internal|Kenya.internal]] 
 - [[../../../../../_protect/geo/Continent/Africa/Africa~East/Kenya.protect|Kenya.protect]] 
 - [[../../../../../_private/geo/Continent/Africa/Africa~East/Kenya.private|Kenya.private]] 

@@ -34,7 +34,7 @@ Languages:
 - fr-SC
 ---
 
-# [[]] 
+# [[Seychelles]] 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Reunion 
@@ -141,7 +141,7 @@ Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]
 
 
 ## Confidential Links & Embeds: 
-- [[]] 
+- [[Seychelles]] 
 - [[../../../../../_internal/geo/Continent/Africa/Africa~East/Seychelles.internal|Seychelles.internal]] 
 - [[../../../../../_protect/geo/Continent/Africa/Africa~East/Seychelles.protect|Seychelles.protect]] 
 - [[../../../../../_private/geo/Continent/Africa/Africa~East/Seychelles.private|Seychelles.private]] 
