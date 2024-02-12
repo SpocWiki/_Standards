@@ -39,7 +39,7 @@ Languages:
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Reunion 
 
-[[Reunion/ReadMe]] 
+[[Mascarene-Islands/Reunion/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: SCR ]
@@ -76,7 +76,7 @@ For more Details, check out this Repository into this Subfolder:
 [	UNTERM_Russian	 :: Сейшельские Острова ]
 [	UNTERM_Russian_Formal	 :: Республика Сейшельские Острова ]
 
-Region_Name ::  [[Africa]] 
+Region_Name ::  [[../../Africa]] 
 Intermediate_Region_Name ::  [[Eastern Africa]] 
 Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
@@ -123,15 +123,15 @@ markerFolder: ./Seychelles//
 [name-de::Seychellen]
 [Area-Total::454]
 [Area-Land::450]
-Continent :: [[Africa]]  
+Continent :: [[../../Africa]]  
 [VehicleCode::SY]
 Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]  
 
-![[Coat_of_arms_of_Seychelles.svg|550]]
+![[Seychelles/Coat_of_arms_of_Seychelles.svg|550]]
 
 ![[Anthem-Seychelles.mp3]]
 
-![[Flag_of_Seychelles.svg|350]]
+![[Seychelles/Flag_of_Seychelles.svg|350]]
 
 [Alcohol-l::10.6]
 [Language-Id::499]
@@ -141,7 +141,7 @@ Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]
 
 
 ## Confidential Links & Embeds: 
-- [[Seychelles|Seychelles]] 
+- [[]] 
 - [[../../../../../_internal/geo/Continent/Africa/Africa~East/Seychelles.internal|Seychelles.internal]] 
 - [[../../../../../_protect/geo/Continent/Africa/Africa~East/Seychelles.protect|Seychelles.protect]] 
 - [[../../../../../_private/geo/Continent/Africa/Africa~East/Seychelles.private|Seychelles.private]] 

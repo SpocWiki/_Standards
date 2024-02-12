@@ -80,9 +80,9 @@ For more Details, check out this Repository into this Subfolder:
 [	UNTERM_Russian	 :: Эритрея ]
 [	UNTERM_Russian_Formal	 :: Государство Эритрея ]
 
-Region_Name ::  [Africa](Africa.md) 
-Intermediate_Region_Name :: [Eastern Africa](Africa~East.md)  
-Sub-region_Name ::  [Sub-Saharan Africa](Sub-Saharan%20Africa) 
+Region_Name ::  [[../../Africa|Africa]] 
+Intermediate_Region_Name :: [[Africa~East.md|Eastern Africa]]  
+Sub-region_Name ::  [[Sub-Saharan_Africa]] 
 
 [	Region	 :: 2 ]
 [	Intermediate_Region	 :: 14 ]

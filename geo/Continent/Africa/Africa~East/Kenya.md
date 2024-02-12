@@ -34,7 +34,7 @@ Languages:
 - sw-KE
 ---
 
-# [[Kenya]] 
+# [[]] 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Kenya 
@@ -76,8 +76,8 @@ For more Details, check out this Repository into this Subfolder:
 [	UNTERM_Russian	 :: Кения ]
 [	UNTERM_Russian_Formal	 :: Республика Кения ]
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Eastern Africa]] 
+Region_Name ::  [[../../Africa]] 
+Intermediate_Region_Name ::  [[../Africa~East|Eastern Africa]] 
 Sub-region_Name ::  [[Sub-Saharan Africa]] 
 
 [	Region	 :: 2 ]
@@ -122,15 +122,15 @@ markerFolder: ./Kenya//
 [name-de::Kenia]
 [Area-Total::582646]
 [Area-Land::569140]
-Continent :: [[Africa]]  
+Continent :: [[../../Africa]]  
 [VehicleCode::EAK]
 Capital :: [[Kenya/Counties/Nairobi.County]] 
 
-![[Coat_of_arms_of_Kenya.svg|550]]
+![[Kenya/Coat_of_arms_of_Kenya.svg|550]]
 
 ![[Anthem-Kenya.mp3]]
 
-![[Flag_of_Kenya.svg|350]]
+![[Kenya/Flag_of_Kenya.svg|350]]
 [Alcohol-l::4.1]
 [Language-Id::499]
 [geo-lon::36.83]
@@ -139,7 +139,7 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 
 
 ## Confidential Links & Embeds: 
-- [[Kenya|Kenya]] 
+- [[]] 
 - [[../../../../../_internal/geo/Continent/Africa/Africa~East/Kenya.internal|Kenya.internal]] 
 - [[../../../../../_protect/geo/Continent/Africa/Africa~East/Kenya.protect|Kenya.protect]] 
 - [[../../../../../_private/geo/Continent/Africa/Africa~East/Kenya.private|Kenya.private]] 

@@ -37,12 +37,12 @@ Languages:
 - en-SO
 ---
 
-# [[]] 
+# [Somalia](.md) 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Africa-Reunion 
 
-[[Reunion/ReadMe]] 
+[ReadMe](Mascarene-Islands/Reunion/ReadMe.md) 
 
 
 [	ISO4217-currency_alphabetic	 :: SOS ]
@@ -79,9 +79,9 @@ For more Details, check out this Repository into this Subfolder:
 [	UNTERM_Russian	 :: Сомали ]
 [	UNTERM_Russian_Formal	 :: Федеративная Республика Сомали ]
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Eastern Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name ::  [Africa](../../Africa.md) 
+Intermediate_Region_Name ::  [Eastern Africa](Eastern%20Africa) 
+Sub-region_Name ::  [Sub-Saharan Africa](Sub-Saharan%20Africa) 
 
 [	Region	 :: 2 ]
 [	Intermediate_Region	 :: 14 ]
@@ -125,15 +125,15 @@ markerFolder: ./Somalia//
 [name-de::Somalia]
 [Area-Total::637657]
 [Area-Land::627340]
-Continent :: [[Africa]]  
+Continent :: [Africa](../../Africa.md)  
 [VehicleCode::SO]
-Capital :: [[Mogadischu=Mogadisho]]  
+Capital :: [Mogadischu=Mogadisho](Somalia/City/Mogadischu=Mogadisho.md)  
 
-![[Coat_of_arms_of_Somalia.svg|550]]
+![550](Somalia/Coat_of_arms_of_Somalia.svg)
 
-![[Anthem-Somalia.mp3]]
+![Anthem-Somalia.mp3](Anthem-Somalia.mp3)
 
-![[Flag_of_Somalia.svg|350]]
+![350](Somalia/Flag_of_Somalia.svg)
 
 [Alcohol-l::0.5]
 [Language-Id::]
@@ -143,9 +143,9 @@ Capital :: [[Mogadischu=Mogadisho]]
 
 
 ## Confidential Links & Embeds: 
-- [[Somalia|Somalia]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Somalia.protect|Somalia.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Somalia.private|Somalia.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]] 
+- [Somalia](.md) 
+- [Somalia.internal](../../../../../_internal/geo/Continent/Africa/Africa~East/Somalia.internal) 
+- [Somalia.protect](../../../../../_protect/geo/Continent/Africa/Africa~East/Somalia.protect) 
+- [Somalia.private](../../../../../_private/geo/Continent/Africa/Africa~East/Somalia.private) 
+- [Somalia.personal](../../../../../_personal/geo/Continent/Africa/Africa~East/Somalia.personal) 
+- [Somalia.secret](../../../../../_secret/geo/Continent/Africa/Africa~East/Somalia.secret) 
