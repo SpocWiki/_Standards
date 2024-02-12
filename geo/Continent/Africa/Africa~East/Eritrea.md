@@ -80,9 +80,9 @@ For more Details, check out this Repository into this Subfolder:
 [	UNTERM_Russian	 :: Эритрея ]
 [	UNTERM_Russian_Formal	 :: Государство Эритрея ]
 
-Region_Name ::  [[Africa]] 
-Intermediate_Region_Name ::  [[Eastern Africa]] 
-Sub-region_Name ::  [[Sub-Saharan Africa]] 
+Region_Name ::  [Africa](Africa.md) 
+Intermediate_Region_Name :: [Eastern Africa](Africa~East.md)  
+Sub-region_Name ::  [Sub-Saharan Africa](Sub-Saharan%20Africa) 
 
 [	Region	 :: 2 ]
 [	Intermediate_Region	 :: 14 ]
@@ -126,7 +126,7 @@ markerFolder: ./Eritrea//
 [name-de::Eritrea]
 [Area-Total::121144]
 [Area-Land::101000]
-Continent :: [[Africa]]  
+Continent :: [[../../Africa|Africa]]  
 [VehicleCode::ER]
 Capital :: [[Asmara]]  
 ![[Coat_of_arms_of_Eritrea.svg|350]]
