@@ -11,12 +11,15 @@ tags:
 
 
 ```leaflet
-id: North America
+id: North-America
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./North-America///
-markerFolder: ./North-America/
+defaultZoom: 4
+geojsonFolder: ./America~North/
+markerFolder: ./America~North/
 zoomFeatures: true 
+long: -100
+lat: 45
 ```
 
 [name-en::North America]

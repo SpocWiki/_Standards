@@ -9,13 +9,27 @@ tags:
 ---
 # [[Australasia]] 
 
+## #has_/text_of_/abstract 
+
+
+Formally [[Australasia]] is a Part of [[Oceania]], 
+together with [[Australasia/Micronesia]], [[Australasia/Melanesia]] and [[Oceania/Polynesia]], 
+but Polynesia largely lies across the [[Anti-Meridian]], 
+so from a Mapping-perspective, it makes sense 
+to separate [[Oceania/Polynesia]] out to the Pacific-based [[Oceania]].  
+
+## #has_/map 
+
 ```leaflet
 id: Australia
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Australia///
-markerFolder: ./Australia//
-zoomFeatures: true 
+defaultZoom: 3
+geojsonFolder: ./Australasia//
+markerFolder: ./Australasia//
+zoomFeatures: false 
+long: 145
+lat: -30
 ```
 
 [name-en::Australia]

@@ -38,7 +38,7 @@ SpocWebEntityId: 21916
 
 Phosphorus naturally occurs as phosphate, the salt of Phosphoric Acid H3PO4. 
 Phosphate is essential as a Fertilizer, but also for Doting Semiconductors and Accumulators. 
-Phosphate occured historically in [[Nauru]] and [[Morocco]], but lately a big Supply has been found in southern Norway. 
+Phosphate occured historically in [[../../../geo/Continent/Oceania/Micronesia/Nauru]] and [[Morocco]], but lately a big Supply has been found in southern Norway. 
 
 ## Confidential Links & Embeds: 
 - [[../../../../_Standards/chemic/Elements/Group-15-Nitrogen/Phosphorus|Phosphorus]] 

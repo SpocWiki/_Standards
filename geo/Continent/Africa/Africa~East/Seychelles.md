@@ -107,8 +107,9 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 
 
-[ISO2::SC]
-[ISO3::SYC]
+[ISO2::SC] 
+[ISO3::SYC] 
+
 ```leaflet
 id: Seychelles
 zoomFeatures: true 

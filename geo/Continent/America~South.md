@@ -8,6 +8,7 @@ tags:
 isDeleted: false
 ---
 
+# [[America~South]] 
 
 ```leaflet
 id: South America
@@ -16,8 +17,8 @@ minZoom: 2
 maxZoom: 18
 long: -65
 lat: -25
-geojsonFolder: ./America~South//
-markerFolder: ./America~South//
+geojsonFolder: ./America~South/
+markerFolder: ./America~South/
 zoomFeatures: false 
 ```
 

@@ -110,7 +110,8 @@ Sub-region_Name ::  [[Northern America]]
 
 
 [ISO2::CA]
-[ISO3::CAN]
+[ISO3::CAN] 
+
 ```leaflet
 id: Canada
 zoomFeatures: true 

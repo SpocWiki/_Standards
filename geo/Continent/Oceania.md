@@ -16,12 +16,13 @@ For more Details, check out this Repository into this Subfolder:
 [[Oceania/ReadMe]] 
 
 
+
 ```leaflet
 id: Oceania
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Oceania/
+geojsonFolder: ./Oceania//
 markerFolder: ./Oceania/
 ```
 
