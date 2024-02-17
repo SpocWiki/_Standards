@@ -31,7 +31,7 @@ delegated by a Link to the corresponding Wikimedia Article.
 [naturalearthdata](https://www.naturalearthdata.com/about/terms-of-use/) 
 # Conventions
 
-## Avoid Spaces
+## Avoid Spaces 
 Although many Wikis support Spaces, we try to avoid them, because they create many Problems, not the least is that URLs and IRIs need to escape them. 
 This increases support for other Platforms like TiddlyWiki etc. that recognize Wiki-Words 
 For Readability we recommend using 'Kebab-Case' or 'Snake_Case'. 
