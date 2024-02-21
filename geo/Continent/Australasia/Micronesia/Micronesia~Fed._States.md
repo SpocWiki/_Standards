@@ -11,13 +11,14 @@ confidential: public
 ---
 [ISO2::FM] 
 [ISO3::FSM] 
+
 ```leaflet
 id: Micronesia, Fed. States
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Micronesia,_Fed._States/
-markerFolder: ./Micronesia,_Fed._States/
+geojsonFolder: ./Micronesia~Fed._States/////
+markerFolder: ./Micronesia~Fed._States/
 ```
 
 [name-en::Micronesia, Fed. States] 
