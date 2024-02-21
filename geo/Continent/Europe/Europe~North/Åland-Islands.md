@@ -102,15 +102,16 @@ Sub-region_Name ::  [[Northern Europe]]
 
 
 
-[ISO2::]
-[ISO3::]
+[ISO2::] 
+[ISO3::] 
+
 ```leaflet
 id: Åland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Åland~Islands//
-markerFolder: ./Åland~Islands//
+geojsonFolder: ./Åland-Islands////
+markerFolder: ./Åland-Islands//
 ```
 
 [name-en::Åland]

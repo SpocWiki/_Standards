@@ -111,13 +111,17 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::AZ]
-[ISO3::AZE]
+[ISO3::AZE] 
+
+## #has_/map 
+
+
 ```leaflet
 id: Azerbaijan
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Azerbaijan//
+geojsonFolder: ./Azerbaijan///
 markerFolder: ./Azerbaijan/
 ```
 

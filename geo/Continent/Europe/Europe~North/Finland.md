@@ -110,15 +110,16 @@ Sub-region_Name ::  [[Northern Europe]]
 
 
 
-[ISO2::FI]
-[ISO3::FIN]
+[ISO2::FI] 
+[ISO3::FIN] 
+
 ```leaflet
 id: Finland
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Finland//
-markerFolder: ./Finland//
+geojsonFolder: ./Finland/////
+markerFolder: ./Finland/
 ```
 
 [name-en::Finland]
@@ -128,6 +129,7 @@ markerFolder: ./Finland//
 Continent :: [[Europe]]  
 [VehicleCode::FIN]
 Capital :: [[Helsingfors]]  
+
 ![[Coat_of_arms_of_Finland.svg|350]]
 ![[Anthem-Finland.mp3]]
 ![[Flag_of_Finland.svg|350]]
