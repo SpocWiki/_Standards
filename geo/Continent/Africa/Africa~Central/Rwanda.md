@@ -126,7 +126,7 @@ markerFolder: ./Rwanda//
 [Area-Land::24670]
 Continent :: [[Africa]]  
 [VehicleCode::RWA]
-Capital :: [[Kigali]]  
+Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]  
 
 ![[Coat_of_arms_of_Rwanda.svg|350]]
 

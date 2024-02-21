@@ -127,7 +127,7 @@ markerFolder: ./Cameroon//
 [Area-Land::465400]
 Continent :: [[Africa]]  
 [VehicleCode::CAM]
-Capital :: [[Duala_Buea_(after_1910)]]  
+Capital :: [[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910)]]  
 
 ![[Coat_of_arms_of_Cameroon.svg|350]]
 
