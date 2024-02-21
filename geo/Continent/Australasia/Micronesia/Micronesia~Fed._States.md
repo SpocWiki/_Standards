@@ -26,7 +26,7 @@ markerFolder: ./Micronesia,_Fed._States/
 [Area-Land::0] 
 Continent :: [[Oceania]]  
 [VehicleCode::FSM] 
-Capital :: [[Palikir]]  
+Capital :: [[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]  
 [Alcohol-l::5.5] 
 [Language-Id::499] 
 [geo-lon::158.15] 

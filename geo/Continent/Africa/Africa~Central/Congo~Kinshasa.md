@@ -18,8 +18,12 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Congo~Kinshasa/ReadMe]] 
 
-[ISO2::CD]
+[ISO2::CD] 
 [ISO3::COD]
+
+## #has_/map 
+
+
 ```leaflet
 id: Congo, Dem. Rep.
 zoomFeatures: true 
@@ -48,11 +52,13 @@ Capital ::  [[Congo~Dem_Rep/City/Kinshasa]] ]
 [geo-lat::-4.3]
 
 
+## Economy 
+Congo has 80% of global [[../../../../chemic/chemic~Elements/Group-09-Cobalt/Cobalt|Cobalt]] Resources! 
 
 ## Confidential Links & Embeds: 
 - [[Congo~Kinshasa|Congo~Kinshasa]] 
 - [[../../../../../_internal/geo/Continent/Africa/Africa~Central/Congo~Kinshasa.internal|Congo~Kinshasa.internal]] 
 - [[../../../../../_protect/geo/Continent/Africa/Africa~Central/Congo~Kinshasa.protect|Congo~Kinshasa.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Congo~Kinshasa.private|Congo~Kinshasa.private]] 
+- [[../../../../../_private/geo/Continent/Africa/Africa~Central/Congo~Kinshasa.private|Congo~Kinshasa.private]]  
 - [[../../../../../_personal/geo/Continent/Africa/Africa~Central/Congo~Kinshasa.personal|Congo~Kinshasa.personal]] 
 - [[../../../../../_secret/geo/Continent/Africa/Africa~Central/Congo~Kinshasa.secret|Congo~Kinshasa.secret]] 
