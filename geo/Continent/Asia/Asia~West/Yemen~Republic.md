@@ -1,13 +1,14 @@
 ---
-location: [14.06,44.61]
+location:
+    - 14.06
+    - 44.61
 type: Country
 tags:
-- geo/Country
-
+    - geo/Country
 SpocWebEntityId: 27059
 isDeleted: false
 confidential: public
-
+icon: flag-ye
 ---
 
 # [[Yemen~Republic]] 
@@ -18,7 +19,12 @@ For more Details, check out this Repository into this Subfolder:
 [[Yemen~Republic/ReadMe]] 
 
 [ISO2::YE]
-[ISO3::YEM]
+[ISO3::YEM] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Yemen, Rep.
 zoomFeatures: true 

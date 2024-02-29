@@ -1,43 +1,44 @@
 ---
 location:
-- 29.2633
-- 70.1033
+    - 29.2633
+    - 70.1033
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26995
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Pakistan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- PK
-- PAK
-- Pakistan
-- Pakistán
-- باكستان
-- 巴基斯坦
-- Пакистан
-- the Islamic Republic of Pakistan
-- la República Islámica del Pakistán
-- Pakistán (el)
+    - PK
+    - PAK
+    - Pakistan
+    - Pakistán
+    - باكستان
+    - 巴基斯坦
+    - Пакистан
+    - the Islamic Republic of Pakistan
+    - la República Islámica del Pakistán
+    - Pakistán (el)
 Languages:
-- ur-PK
-- en-PK
-- pa
-- sd
-- ps
-- brh
+    - ur-PK
+    - en-PK
+    - pa
+    - sd
+    - ps
+    - brh
+icon: flag-pk
 ---
 
 # [[Pakistan]] 
@@ -114,7 +115,12 @@ Sub-region_Name ::  [[Southern Asia]]
 
 
 [ISO2::PK]
-[ISO3::PAK]
+[ISO3::PAK] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Pakistan
 zoomFeatures: true 

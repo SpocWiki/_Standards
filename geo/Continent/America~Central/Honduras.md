@@ -1,38 +1,39 @@
 ---
 location:
-- 14.1
-- -87.2167
+    - 14.1
+    - -87.2167
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26918
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Honduras
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- HN
-- HND
-- Honduras
-- هندوراس
-- 洪都拉斯
-- Гондурас
-- the Republic of Honduras
-- la República de Honduras
+    - HN
+    - HND
+    - Honduras
+    - هندوراس
+    - 洪都拉斯
+    - Гондурас
+    - the Republic of Honduras
+    - la República de Honduras
 Languages:
-- es-HN
-- cab
-- miq
+    - es-HN
+    - cab
+    - miq
+icon: flag-hn
 ---
 
 # [[Honduras]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::HN]
-[ISO3::HND]
+[ISO3::HND] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Honduras

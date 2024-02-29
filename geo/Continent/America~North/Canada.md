@@ -1,39 +1,40 @@
 ---
 location:
-- 50.4137
-- -87.1444
+    - 50.4137
+    - -87.1444
 type: Country
 SpocWebEntityId: 26860
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+    - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Canada
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- CA
-- CAN
-- Canada
-- Canadá
-- كندا
-- 加拿大
-- Канада
-- el Canadá
-- Canadá (el)
+    - CA
+    - CAN
+    - Canada
+    - Canadá
+    - كندا
+    - 加拿大
+    - Канада
+    - el Canadá
+    - Canadá (el)
 Languages:
-- en-CA
-- fr-CA
-- iu
+    - en-CA
+    - fr-CA
+    - iu
+icon: flag-ca
 ---
 
 # [[Canada]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Northern America]]
 
 
 [ISO2::CA]
-[ISO3::CAN] 
+[ISO3::CAN]  
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Canada

@@ -103,7 +103,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::TP] 
-[ISO3::TMP] 
+[ISO3::TMP]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Timor-Leste
 zoomFeatures: true 

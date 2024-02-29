@@ -1,37 +1,38 @@
 ---
 location:
-- 9.95
-- -84.08
+    - 9.95
+    - -84.08
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26872
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Costa Rica
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- CR
-- CRI
-- Costa Rica
-- كوستاريكا
-- 哥斯达黎加
-- Коста-Рика
-- the Republic of Costa Rica
-- la República de Costa Rica
+    - CR
+    - CRI
+    - Costa Rica
+    - كوستاريكا
+    - 哥斯达黎加
+    - Коста-Рика
+    - the Republic of Costa Rica
+    - la República de Costa Rica
 Languages:
-- es-CR
-- en
+    - es-CR
+    - en
+icon: flag-cr
 ---
 
 # [[Costa_Rica]] 
@@ -107,8 +108,13 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 
-[ISO2::CR]
-[ISO3::CRI]
+[ISO2::CR] 
+[ISO3::CRI] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Costa Rica
 zoomFeatures: true 

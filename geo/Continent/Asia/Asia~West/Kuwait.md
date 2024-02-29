@@ -1,38 +1,39 @@
 ---
 location:
-- 29.33
-- 48
+    - 29.33
+    - 48
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26942
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Kuwait
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- KW
-- KWT
-- Kuwait
-- Koweït
-- الكويت
-- 科威特
-- Кувейт
-- the State of Kuwait
-- el Estado de Kuwait
+    - KW
+    - KWT
+    - Kuwait
+    - Koweït
+    - الكويت
+    - 科威特
+    - Кувейт
+    - the State of Kuwait
+    - el Estado de Kuwait
 Languages:
-- ar-KW
-- en
+    - ar-KW
+    - en
+icon: flag-kw
 ---
 
 # [[Kuwait]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::KW]
-[ISO3::KWT]
+[ISO3::KWT] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Kuwait
 zoomFeatures: true 

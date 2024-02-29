@@ -1,37 +1,38 @@
 ---
 location:
-- 4.89028
-- 114.942
+    - 4.89028
+    - 114.942
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26851
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Brunei
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- BN
-- BRN
-- Brunei
-- Brunei Darussalam
-- Brunéi Darussalam
-- بروني دار السلام
-- 文莱达鲁萨兰国
-- Бруней-Даруссалам
+    - BN
+    - BRN
+    - Brunei
+    - Brunei Darussalam
+    - Brunéi Darussalam
+    - بروني دار السلام
+    - 文莱达鲁萨兰国
+    - Бруней-Даруссалам
 Languages:
-- ms-BN
-- en-BN
+    - ms-BN
+    - en-BN
+icon: flag-bn
 ---
 
 
@@ -101,7 +102,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::BN] 
-[ISO3::BRN] 
+[ISO3::BRN]  
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Brunei

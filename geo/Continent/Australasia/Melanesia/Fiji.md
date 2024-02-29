@@ -1,38 +1,39 @@
 ---
 location:
-- -18.1667
-- 178.45
+    - -18.1667
+    - 178.45
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26892
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Fiji
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- FJ
-- FJI
-- Fiji
-- Fidji
-- فيجي
-- 斐济
-- Фиджи
-- the Republic of Fiji
-- la República de Fiji
+    - FJ
+    - FJI
+    - Fiji
+    - Fidji
+    - فيجي
+    - 斐济
+    - Фиджи
+    - the Republic of Fiji
+    - la República de Fiji
 Languages:
-- en-FJ
-- fj
+    - en-FJ
+    - fj
+icon: flag-fj
 ---
 
 
@@ -102,7 +103,12 @@ Sub-region_Name ::  [[../../../../../../Australasia/Melanesia]]
 
 
 [ISO2::FJ] 
-[ISO3::FJI] 
+[ISO3::FJI]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Fiji
 zoomFeatures: true 

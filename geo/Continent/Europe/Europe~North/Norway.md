@@ -1,42 +1,43 @@
 ---
 location:
-- 61.8685
-- 11.4588
+    - 61.8685
+    - 11.4588
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26984
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Norway
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- NO
-- NOR
-- Norway
-- Noruega
-- Norvège
-- النرويج
-- 挪威
-- Норвегия
-- the Kingdom of Norway
-- el Reino de Noruega
+    - 'NO'
+    - NOR
+    - Norway
+    - Noruega
+    - Norvège
+    - النرويج
+    - 挪威
+    - Норвегия
+    - the Kingdom of Norway
+    - el Reino de Noruega
 Languages:
-- no
-- nb
-- nn
-- se
-- fi
+    - 'no'
+    - nb
+    - nn
+    - se
+    - fi
+icon: flag-no
 ---
 
 # [[Norway]] 

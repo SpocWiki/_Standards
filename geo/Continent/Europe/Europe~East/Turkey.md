@@ -1,42 +1,43 @@
 ---
 location:
-- 39.3233
-- 32.37
+    - 39.3233
+    - 32.37
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27039
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Turkey
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- TR
-- TUR
-- Turkey
-- Turquía
-- Turquie
-- تركيا
-- 土耳其
-- Турция
-- the Republic of Turkey
-- la República de Turquía
+    - TR
+    - TUR
+    - Turkey
+    - Turquía
+    - Turquie
+    - تركيا
+    - 土耳其
+    - Турция
+    - the Republic of Turkey
+    - la República de Turquía
 Languages:
-- tr-TR
-- ku
-- diq
-- az
-- av
+    - tr-TR
+    - ku
+    - diq
+    - az
+    - av
+icon: flag-tr
 ---
 
 # [[Turkey]] 
@@ -113,7 +114,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::TR]
-[ISO3::TUR]
+[ISO3::TUR] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Turkey

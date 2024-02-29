@@ -1,37 +1,38 @@
 ---
 location:
-- 1.4
-- 172.967
+    - 1.4
+    - 172.967
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26937
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Kiribati
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- KI
-- KIR
-- Kiribati
-- كيريباس
-- 基里巴斯
-- Кирибати
-- the Republic of Kiribati
-- la República de Kiribati
+    - KI
+    - KIR
+    - Kiribati
+    - كيريباس
+    - 基里巴斯
+    - Кирибати
+    - the Republic of Kiribati
+    - la República de Kiribati
 Languages:
-- en-KI
-- gil
+    - en-KI
+    - gil
+icon: flag-ki
 ---
 
 # [[Kiribati]] 
@@ -104,7 +105,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 
 [ISO2::KI] 
-[ISO3::KIR] 
+[ISO3::KIR]  
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Kiribati

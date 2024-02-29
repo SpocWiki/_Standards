@@ -114,7 +114,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::LA]
-[ISO3::LAO]
+[ISO3::LAO] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Laos
 zoomFeatures: true 

@@ -1,37 +1,38 @@
 ---
 location:
-- -34.91
-- -56.17
+    - -34.91
+    - -56.17
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27048
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Uruguay
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- UY
-- URY
-- Uruguay
-- أوروغواي
-- 乌拉圭
-- Уругвай
-- the Eastern Republic of Uruguay
-- la República Oriental del Uruguay
-- Uruguay (el)
+    - UY
+    - URY
+    - Uruguay
+    - أوروغواي
+    - 乌拉圭
+    - Уругвай
+    - the Eastern Republic of Uruguay
+    - la República Oriental del Uruguay
+    - Uruguay (el)
 Languages:
-- es-UY
+    - es-UY
+icon: flag-uy
 ---
 
 # [[Uruguay]] 
@@ -108,7 +109,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::UY]
-[ISO3::URY]
+[ISO3::URY] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Uruguay
 zoomFeatures: true 

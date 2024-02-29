@@ -2,10 +2,10 @@
 type: Continent
 SpocWebEntityId: 27201
 confidential: public
-
 tags:
-  - geo/Continent
+    - geo/Continent
 isDeleted: false
+icon: fas_earth_oceania
 ---
 
 # [[Oceania]] 

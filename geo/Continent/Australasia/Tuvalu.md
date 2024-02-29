@@ -1,37 +1,38 @@
 ---
 location:
-- -8.51667
-- 179.217
+    - -8.51667
+    - 179.217
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27041
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Tuvalu
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- TV
-- TUV
-- Tuvalu
-- توفالو
-- 图瓦卢
-- Тувалу
+    - TV
+    - TUV
+    - Tuvalu
+    - توفالو
+    - 图瓦卢
+    - Тувалу
 Languages:
-- tvl
-- en
-- sm
-- gil
+    - tvl
+    - en
+    - sm
+    - gil
+icon: flag-tv
 ---
 
 # [[Tuvalu]] 
@@ -106,7 +107,12 @@ Sub-region_Name ::  [[Polynesia]]
 
 
 [ISO2::TV] 
-[ISO3::TUV] 
+[ISO3::TUV]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Tuvalu
 zoomFeatures: true 

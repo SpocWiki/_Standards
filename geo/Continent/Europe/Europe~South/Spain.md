@@ -1,42 +1,43 @@
 ---
 location:
-- 40.0911
-- -2.86673
+    - 40.0911
+    - -2.86673
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26889
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Spain
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- ES
-- ESP
-- Spain
-- España
-- Espagne
-- إسبانيا
-- 西班牙
-- Испания
-- the Kingdom of Spain
-- el Reino de España
+    - ES
+    - ESP
+    - Spain
+    - España
+    - Espagne
+    - إسبانيا
+    - 西班牙
+    - Испания
+    - the Kingdom of Spain
+    - el Reino de España
 Languages:
-- es-ES
-- ca
-- gl
-- eu
-- oc
+    - es-ES
+    - ca
+    - gl
+    - eu
+    - oc
+icon: flag-es
 ---
 
 # [[Spain]] 

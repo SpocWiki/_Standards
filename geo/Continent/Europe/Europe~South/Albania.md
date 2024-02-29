@@ -1,38 +1,39 @@
 ---
 location:
-- 40.793
-- 19.9565
+    - 40.793
+    - 19.9565
 type: Country
 SpocWebEntityId: 26830
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+    - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Albania
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- AL
-- ALB
-- Albania
-- Albanie
-- ألبانيا
-- 阿尔巴尼亚
-- Албания
-- the Republic of Albania
-- la República de Albania
+    - AL
+    - ALB
+    - Albania
+    - Albanie
+    - ألبانيا
+    - 阿尔巴尼亚
+    - Албания
+    - the Republic of Albania
+    - la República de Albania
 Languages:
-- sq
-- el
+    - sq
+    - el
+icon: flag-al
 ---
 
 # [[Albania]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Southern Europe]]
 
 
 [ISO2::AL]
-[ISO3::ALB]
+[ISO3::ALB] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Albania
 zoomFeatures: true 

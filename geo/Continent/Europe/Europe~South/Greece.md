@@ -1,40 +1,41 @@
 ---
 location:
-- 38.6175
-- 23.0356
+    - 38.6175
+    - 23.0356
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26910
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Greece
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- GR
-- GRC
-- Greece
-- Grecia
-- Grèce
-- اليونان
-- 希腊
-- Греция
-- the Hellenic Republic
-- la República Helénica
+    - GR
+    - GRC
+    - Greece
+    - Grecia
+    - Grèce
+    - اليونان
+    - 希腊
+    - Греция
+    - the Hellenic Republic
+    - la República Helénica
 Languages:
-- el-GR
-- en
-- fr
+    - el-GR
+    - en
+    - fr
+icon: flag-gr
 ---
 
 # [[Greece]] 
@@ -110,8 +111,10 @@ Sub-region_Name ::  [[Southern Europe]]
 
 
 
-[ISO2::GR]
-[ISO3::GRC]
+[ISO2::GR] 
+[ISO3::GRC] 
+
+
 ```leaflet
 id: Greece
 zoomFeatures: true 

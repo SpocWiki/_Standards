@@ -1,39 +1,40 @@
 ---
 location:
-- 32.23
-- 35
+    - 32.23
+    - 35
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26924
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Israel
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- IL
-- ISR
-- Israel
-- Israël
-- إسرائيل
-- 以色列
-- Израиль
-- the State of Israel
-- el Estado de Israel
+    - IL
+    - ISR
+    - Israel
+    - Israël
+    - إسرائيل
+    - 以色列
+    - Израиль
+    - the State of Israel
+    - el Estado de Israel
 Languages:
-- he
-- ar-IL
-- en-IL
+    - he
+    - ar-IL
+    - en-IL
+icon: flag-il
 ---
 
 # [[Israel]] 
@@ -112,7 +113,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::IL]
-[ISO3::ISR]
+[ISO3::ISR] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Israel

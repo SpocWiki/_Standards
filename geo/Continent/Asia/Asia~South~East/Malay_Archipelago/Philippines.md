@@ -1,61 +1,62 @@
 ---
 location:
-- 14.59
-- 120.97
+    - 14.59
+    - 120.97
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26994
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Philippines
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- PH
-- PHL
-- Philippines
-- Filipinas
-- الفلبين
-- 菲律宾
-- Филиппины
-- the Republic of the Philippines
-- Philippines (the)
-- la República de Filipinas
+    - PH
+    - PHL
+    - Philippines
+    - Filipinas
+    - الفلبين
+    - 菲律宾
+    - Филиппины
+    - the Republic of the Philippines
+    - Philippines (the)
+    - la República de Filipinas
 Languages:
-- tl
-- en-PH
-- fil
-- ceb
-- tgl
-- ilo
-- hil
-- war
-- pam
-- bik
-- bcl
-- pag
-- mrw
-- tsg
-- mdh
-- cbk
-- krj
-- sgd
-- msb
-- akl
-- ibg
-- yka
-- mta
-- abx
+    - tl
+    - en-PH
+    - fil
+    - ceb
+    - tgl
+    - ilo
+    - hil
+    - war
+    - pam
+    - bik
+    - bcl
+    - pag
+    - mrw
+    - tsg
+    - mdh
+    - cbk
+    - krj
+    - sgd
+    - msb
+    - akl
+    - ibg
+    - yka
+    - mta
+    - abx
+icon: flag-ph
 ---
 
 # [[Philippines]] 
@@ -132,7 +133,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::PH]
-[ISO3::PHL]
+[ISO3::PHL] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Philippines
 zoomFeatures: true 

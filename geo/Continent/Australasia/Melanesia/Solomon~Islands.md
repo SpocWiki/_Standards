@@ -1,39 +1,40 @@
 ---
 location:
-- -9.46667
-- 159.817
+    - -9.46667
+    - 159.817
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27010
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Solomon Islands
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- SB
-- SLB
-- Solomon Islands
-- Islas Salomón
-- Îles Salomon
-- جزر سليمان
-- 所罗门群岛
-- Соломоновы Острова
-- las Islas Salomón
-- Islas Salomón (las)
+    - SB
+    - SLB
+    - Solomon Islands
+    - Islas Salomón
+    - Îles Salomon
+    - جزر سليمان
+    - 所罗门群岛
+    - Соломоновы Острова
+    - las Islas Salomón
+    - Islas Salomón (las)
 Languages:
-- en-SB
-- tpi
+    - en-SB
+    - tpi
+icon: flag-sb
 ---
 
 
@@ -103,7 +104,12 @@ Sub-region_Name ::  [[Melanesia]]
 
 
 [ISO2::SB] 
-[ISO3::SLB] 
+[ISO3::SLB]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Solomon Islands
 zoomFeatures: true 

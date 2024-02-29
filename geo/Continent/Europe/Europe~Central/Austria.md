@@ -1,40 +1,41 @@
 ---
 location:
-- 47.712
-- 14.381
+    - 47.712
+    - 14.381
 type: Country
 SpocWebEntityId: 26837
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+    - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Austria
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- AT
-- AUT
-- Austria
-- Autriche
-- النمسا
-- 奥地利
-- Австрия
-- the Republic of Austria
-- la República de Austria
+    - AT
+    - AUT
+    - Austria
+    - Autriche
+    - النمسا
+    - 奥地利
+    - Австрия
+    - the Republic of Austria
+    - la República de Austria
 Languages:
-- de-AT
-- hr
-- hu
-- sl
+    - de-AT
+    - hr
+    - hu
+    - sl
+icon: flag-at
 ---
 
 # [[Austria]] 
@@ -111,7 +112,12 @@ Sub-region_Name ::  [[Western Europe]]
 
 
 [ISO2::AT]
-[ISO3::AUT]
+[ISO3::AUT] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Austria
 zoomFeatures: true 

@@ -1,37 +1,38 @@
 ---
 location:
-- 3.525
-- -75.225
+    - 3.525
+    - -75.225
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26871
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Colombia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- CO
-- COL
-- Colombia
-- Colombie
-- كولومبيا
-- 哥伦比亚
-- Колумбия
-- the Republic of Colombia
-- la República de Colombia
+    - CO
+    - COL
+    - Colombia
+    - Colombie
+    - كولومبيا
+    - 哥伦比亚
+    - Колумбия
+    - the Republic of Colombia
+    - la República de Colombia
 Languages:
-- es-CO
+    - es-CO
+icon: flag-co
 ---
 
 # [[Colombia]] 
@@ -108,7 +109,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::CO]
-[ISO3::COL]
+[ISO3::COL] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Colombia

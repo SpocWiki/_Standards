@@ -1,41 +1,42 @@
 ---
 location:
-- 9.34833
-- 168.348
+    - 9.34833
+    - 168.348
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26960
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Marshall Islands
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- MH
-- MHL
-- Marshall Islands
-- Islas Marshall
-- Îles Marshall
-- جزر مارشال
-- 马绍尔群岛
-- Маршалловы Острова
-- the Republic of the Marshall Islands
-- Marshall Islands (the)
-- la República de las Islas Marshall
-- Islas Marshall (las)
+    - MH
+    - MHL
+    - Marshall Islands
+    - Islas Marshall
+    - Îles Marshall
+    - جزر مارشال
+    - 马绍尔群岛
+    - Маршалловы Острова
+    - the Republic of the Marshall Islands
+    - Marshall Islands (the)
+    - la República de las Islas Marshall
+    - Islas Marshall (las)
 Languages:
-- mh
-- en-MH
+    - mh
+    - en-MH
+icon: flag-mh
 ---
 
 
@@ -105,7 +106,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 
 [ISO2::MH] 
-[ISO3::MHL] 
+[ISO3::MHL]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Marshall Islands
 zoomFeatures: true 

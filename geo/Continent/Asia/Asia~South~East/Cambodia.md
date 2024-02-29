@@ -1,40 +1,41 @@
 ---
 location:
-- 11.55
-- 104.917
+    - 11.55
+    - 104.917
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26936
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Cambodia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- KH
-- KHM
-- Cambodia
-- Camboya
-- Cambodge
-- كمبوديا
-- 柬埔寨
-- Камбоджа
-- the Kingdom of Cambodia
-- el Reino de Camboya
+    - KH
+    - KHM
+    - Cambodia
+    - Camboya
+    - Cambodge
+    - كمبوديا
+    - 柬埔寨
+    - Камбоджа
+    - the Kingdom of Cambodia
+    - el Reino de Camboya
 Languages:
-- km
-- fr
-- en
+    - km
+    - fr
+    - en
+icon: flag-kh
 ---
 
 # [[Cambodia]] 
@@ -111,7 +112,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::KH]
-[ISO3::KHM]
+[ISO3::KHM] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Cambodia
 zoomFeatures: true 

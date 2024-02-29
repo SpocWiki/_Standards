@@ -1,63 +1,64 @@
 ---
 location:
-- 20.3923
-- 78.9354
+    - 20.3923
+    - 78.9354
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26925
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: India
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- IN
-- IND
-- India
-- Inde
-- الهند
-- 印度
-- Индия
-- the Republic of India
-- la República de la India
-- India (la)
+    - IN
+    - IND
+    - India
+    - Inde
+    - الهند
+    - 印度
+    - Индия
+    - the Republic of India
+    - la República de la India
+    - India (la)
 Languages:
-- en-IN
-- hi
-- bn
-- te
-- mr
-- ta
-- ur
-- gu
-- kn
-- ml
-- or
-- pa
-- as
-- bh
-- sat
-- ks
-- ne
-- sd
-- kok
-- doi
-- mni
-- sit
-- sa
-- fr
-- lus
-- inc
+    - en-IN
+    - hi
+    - bn
+    - te
+    - mr
+    - ta
+    - ur
+    - gu
+    - kn
+    - ml
+    - or
+    - pa
+    - as
+    - bh
+    - sat
+    - ks
+    - ne
+    - sd
+    - kok
+    - doi
+    - mni
+    - sit
+    - sa
+    - fr
+    - lus
+    - inc
+icon: flag-in
 ---
 
 # [[India]] 
@@ -134,7 +135,12 @@ Sub-region_Name ::  [[Southern Asia]]
 
 
 [ISO2::IN]
-[ISO3::IND]
+[ISO3::IND] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: India
 zoomFeatures: true 

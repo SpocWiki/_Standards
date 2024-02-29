@@ -1,41 +1,42 @@
 ---
 location:
-- -12.05
-- -77.05
+    - -12.05
+    - -77.05
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26991
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Peru
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- PE
-- PER
-- Peru
-- Perú
-- Pérou
-- بيرو
-- 秘鲁
-- Перу
-- the Republic of Peru
-- la República del Perú
-- Perú (el)
+    - PE
+    - PER
+    - Peru
+    - Perú
+    - Pérou
+    - بيرو
+    - 秘鲁
+    - Перу
+    - the Republic of Peru
+    - la República del Perú
+    - Perú (el)
 Languages:
-- es-PE
-- qu
-- ay
+    - es-PE
+    - qu
+    - ay
+icon: flag-pe
 ---
 
 # [[Peru]] 
@@ -112,7 +113,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::PE]
-[ISO3::PER]
+[ISO3::PER] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Peru
 zoomFeatures: true 

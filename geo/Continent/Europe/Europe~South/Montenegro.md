@@ -1,40 +1,41 @@
 ---
 location:
-- 42.7833
-- 19.4667
+    - 42.7833
+    - 19.4667
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 4941
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Montenegro
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- ME
-- MNE
-- Montenegro
-- Monténégro
-- الجبل الأسود
-- 黑山
-- Черногория
+    - ME
+    - MNE
+    - Montenegro
+    - Monténégro
+    - الجبل الأسود
+    - 黑山
+    - Черногория
 Languages:
-- sr
-- hu
-- bs
-- sq
-- hr
-- rom
+    - sr
+    - hu
+    - bs
+    - sq
+    - hr
+    - rom
+icon: flag-me
 ---
 
 # [[Montenegro]] 
@@ -111,7 +112,12 @@ Sub-region_Name ::  [[Southern Europe]]
 
 
 [ISO2::ME]
-[ISO3::MNE]
+[ISO3::MNE] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Montenegro
 zoomFeatures: true 

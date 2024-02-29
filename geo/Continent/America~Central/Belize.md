@@ -1,36 +1,37 @@
 ---
 location:
-- 17.25
-- -88.7667
+    - 17.25
+    - -88.7667
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26859
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Belize
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- BZ
-- BLZ
-- Belize
-- Belice
-- بليز
-- 伯利兹
-- Белиз
+    - BZ
+    - BLZ
+    - Belize
+    - Belice
+    - بليز
+    - 伯利兹
+    - Белиз
 Languages:
-- en-BZ
-- es
+    - en-BZ
+    - es
+icon: flag-bz
 ---
 
 # [[Belize]] 
@@ -106,7 +107,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::BZ]
-[ISO3::BLZ]
+[ISO3::BLZ] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Belize
 zoomFeatures: true 

@@ -1,8 +1,11 @@
 ---
-location: [43.87,18.43]
+location:
+    - 43.87
+    - 18.43
 type: Country
 tags:
-- geo/Country
+    - geo/Country
+icon: flag-ba
 ---
 
 # [[Bosnia_and_Herzegovina]] 
@@ -16,7 +19,12 @@ SpocWebEntityId: 26841
 isDeleted: false
 confidential: public
 [ISO2::BA]
-[ISO3::BIH]
+[ISO3::BIH] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Bosnia and Herzegovina
 zoomFeatures: true 
