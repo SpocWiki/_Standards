@@ -1,38 +1,39 @@
 ---
 location:
-- 59.4167
-- 24.75
+    - 59.4167
+    - 24.75
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26885
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Estonia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- EE
-- EST
-- Estonia
-- Estonie
-- إستونيا
-- 爱沙尼亚
-- Эстония
-- the Republic of Estonia
-- la República de Estonia
+    - EE
+    - EST
+    - Estonia
+    - Estonie
+    - إستونيا
+    - 爱沙尼亚
+    - Эстония
+    - the Republic of Estonia
+    - la República de Estonia
 Languages:
-- et
-- ru
+    - et
+    - ru
+icon: flag-ee
 ---
 
 # [[Estonia]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Northern Europe]]
 
 
 [ISO2::EE]
-[ISO3::EST]
+[ISO3::EST] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Estonia
 zoomFeatures: true 

@@ -1,16 +1,22 @@
 ---
-location: [6.91667,158.15] 
+location:
+    - 6.91667
+    - 158.15
 type: Country
 tags:
-- geo/Country
-
+    - geo/Country
 SpocWebEntityId: 26894
 isDeleted: false
 confidential: public
-
+icon: flag-fm
 ---
 [ISO2::FM] 
-[ISO3::FSM] 
+[ISO3::FSM]  
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Micronesia, Fed. States

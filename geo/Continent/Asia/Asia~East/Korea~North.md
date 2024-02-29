@@ -1,17 +1,18 @@
 ---
-location: [39.0333,125.75]
+location:
+    - 39.0333
+    - 125.75
 type: Country
 tags:
-- geo/Country
-
+    - geo/Country
 SpocWebEntityId: 26940
 isDeleted: false
 confidential: public
 aliases:
-- North-Korea
-- Korea~Dem-Rep 
-- Nordkorea 
-
+    - North-Korea
+    - Korea~Dem-Rep
+    - Nordkorea
+icon: flag-kp
 ---
 
 # [[Korea~North]] 
@@ -22,7 +23,12 @@ For more Details, check out this Repository into this Subfolder:
 [[Korea~North/ReadMe]] 
 
 [ISO2::KP]
-[ISO3::PRK]
+[ISO3::PRK] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Korea, Dem. Rep.
 zoomFeatures: true 

@@ -1,39 +1,40 @@
 ---
 location:
-- 23.05
-- 43.27
+    - 23.05
+    - 43.27
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27009
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Saudi Arabia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- SA
-- SAU
-- Saudi Arabia
-- Arabia Saudita
-- Arabie saoudite
-- المملكة العربية السعودية
-- 沙特阿拉伯
-- Саудовская Аравия
-- the Kingdom of Saudi Arabia
-- el Reino de la Arabia Saudita
-- Arabia Saudita (la)
+    - SA
+    - SAU
+    - Saudi Arabia
+    - Arabia Saudita
+    - Arabie saoudite
+    - المملكة العربية السعودية
+    - 沙特阿拉伯
+    - Саудовская Аравия
+    - the Kingdom of Saudi Arabia
+    - el Reino de la Arabia Saudita
+    - Arabia Saudita (la)
 Languages:
-- ar-SA
+    - ar-SA
+icon: flag-sa
 ---
 
 # [[Saudi_Arabia]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::SA]
-[ISO3::SAU]
+[ISO3::SAU] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Saudi Arabia
 zoomFeatures: true 

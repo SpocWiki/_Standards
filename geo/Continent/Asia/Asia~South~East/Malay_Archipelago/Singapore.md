@@ -1,42 +1,43 @@
 ---
 location:
-- 1.28
-- 103.85
+    - 1.28
+    - 103.85
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27014
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Singapore
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- SG
-- SGP
-- Singapore
-- Singapur
-- Singapour
-- سنغافورة
-- 新加坡
-- Сингапур
-- the Republic of Singapore
-- la República de Singapur
+    - SG
+    - SGP
+    - Singapore
+    - Singapur
+    - Singapour
+    - سنغافورة
+    - 新加坡
+    - Сингапур
+    - the Republic of Singapore
+    - la República de Singapur
 Languages:
-- cmn
-- en-SG
-- ms-SG
-- ta-SG
-- zh-SG
+    - cmn
+    - en-SG
+    - ms-SG
+    - ta-SG
+    - zh-SG
+icon: flag-sg
 ---
 
 # [[Singapore]] 
@@ -113,7 +114,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::SG]
-[ISO3::SGP]
+[ISO3::SGP] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Singapore
 zoomFeatures: true 

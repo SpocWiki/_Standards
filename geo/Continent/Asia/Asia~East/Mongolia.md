@@ -1,36 +1,37 @@
 ---
 location:
-- 47.9167
-- 106.883
+    - 47.9167
+    - 106.883
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26964
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Mongolia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- MN
-- MNG
-- Mongolia
-- Mongolie
-- منغوليا
-- 蒙古
-- Монголия
+    - MN
+    - MNG
+    - Mongolia
+    - Mongolie
+    - منغوليا
+    - 蒙古
+    - Монголия
 Languages:
-- mn
-- ru
+    - mn
+    - ru
+icon: flag-mn
 ---
 
 # [[Mongolia]] 
@@ -107,7 +108,12 @@ Sub-region_Name ::  [[Eastern Asia]]
 
 
 [ISO2::MN]
-[ISO3::MNG]
+[ISO3::MNG] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Mongolia
 zoomFeatures: true 

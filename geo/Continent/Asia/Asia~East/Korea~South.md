@@ -1,16 +1,18 @@
 ---
-location: [37.55,126.97]
+location:
+    - 37.55
+    - 126.97
 type: Country
 tags:
-- geo/Country
-
+    - geo/Country
 SpocWebEntityId: 26941
 isDeleted: false
 confidential: public
 aliases:
-- South-Korea
-- Korea-Republic
-- Südkorea 
+    - South-Korea
+    - Korea-Republic
+    - Südkorea
+icon: flag-kr
 ---
 
 # [[Korea~South]] 
@@ -21,7 +23,12 @@ For more Details, check out this Repository into this Subfolder:
 [[Korea~South/ReadMe]] 
 
 [ISO2::KR]
-[ISO3::KOR]
+[ISO3::KOR] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Korea, Rep.
 zoomFeatures: true 

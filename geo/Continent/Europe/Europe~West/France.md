@@ -1,43 +1,44 @@
 ---
 location:
-- 46.8944
-- 2.33663
+    - 46.8944
+    - 2.33663
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26896
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: France
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- FR
-- FRA
-- France
-- Francia
-- فرنسا
-- 法国
-- Франция
-- the French Republic
-- la República Francesa
+    - FR
+    - FRA
+    - France
+    - Francia
+    - فرنسا
+    - 法国
+    - Франция
+    - the French Republic
+    - la República Francesa
 Languages:
-- fr-FR
-- frp
-- br
-- co
-- ca
-- eu
-- oc
+    - fr-FR
+    - frp
+    - br
+    - co
+    - ca
+    - eu
+    - oc
+icon: flag-fr
 ---
 
 # [[France]] 

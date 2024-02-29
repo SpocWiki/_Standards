@@ -1,39 +1,40 @@
 ---
 location:
-- 48.13
-- 17.1
+    - 48.13
+    - 17.1
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27018
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Slovakia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- SK
-- SVK
-- Slovakia
-- Eslovaquia
-- Slovaquie
-- سلوفاكيا
-- 斯洛伐克
-- Словакия
-- the Slovak Republic
-- la República Eslovaca
+    - SK
+    - SVK
+    - Slovakia
+    - Eslovaquia
+    - Slovaquie
+    - سلوفاكيا
+    - 斯洛伐克
+    - Словакия
+    - the Slovak Republic
+    - la República Eslovaca
 Languages:
-- sk
-- hu
+    - sk
+    - hu
+icon: flag-sk
 ---
 
 # [[Slovakia]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 
 [ISO2::SK]
-[ISO3::SVK]
+[ISO3::SVK] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Slovakia

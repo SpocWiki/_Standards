@@ -1,38 +1,39 @@
 ---
 location:
-- 52.0027
-- 17.6996
+    - 52.0027
+    - 17.6996
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26996
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Poland
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- PL
-- POL
-- Poland
-- Polonia
-- Pologne
-- بولندا
-- 波兰
-- Польша
-- the Republic of Poland
-- la República de Polonia
+    - PL
+    - POL
+    - Poland
+    - Polonia
+    - Pologne
+    - بولندا
+    - 波兰
+    - Польша
+    - the Republic of Poland
+    - la República de Polonia
 Languages:
-- pl
+    - pl
+icon: flag-pl
 ---
 
 # [[Poland]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 
 [ISO2::PL]
-[ISO3::POL]
+[ISO3::POL] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Poland

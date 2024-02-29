@@ -1,40 +1,41 @@
 ---
 location:
-- 34.175
-- 51.555
+    - 34.175
+    - 51.555
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26928
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Iran
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- IR
-- IRN
-- Iran
-- Iran (Islamic Republic of)
-- Irán (República Islámica del)
-- Iran (République islamique d')
-- إيران (جمهورية - الإسلامية)
-- 伊朗(伊斯兰共和国)
-- Иран (Исламская Республика)
-- the Islamic Republic of Iran
-- la República Islámica del Irán
+    - IR
+    - IRN
+    - Iran
+    - Iran (Islamic Republic of)
+    - Irán (República Islámica del)
+    - Iran (République islamique d')
+    - إيران (جمهورية - الإسلامية)
+    - 伊朗(伊斯兰共和国)
+    - Иран (Исламская Республика)
+    - the Islamic Republic of Iran
+    - la República Islámica del Irán
 Languages:
-- fa-IR
-- ku
+    - fa-IR
+    - ku
+icon: flag-ir
 ---
 
 # [[Iran]] 
@@ -111,7 +112,12 @@ Sub-region_Name ::  [[Southern Asia]]
 
 
 [ISO2::IR]
-[ISO3::IRN]
+[ISO3::IRN] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Iran
 zoomFeatures: true 

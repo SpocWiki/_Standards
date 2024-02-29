@@ -10,16 +10,16 @@ isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Vanuatu
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
 - VU
 - VUT
@@ -33,6 +33,7 @@ Languages:
 - bi
 - en-VU
 - fr-VU
+icon: flag-vu
 ---
 
 
@@ -103,6 +104,11 @@ Sub-region_Name ::  [[Melanesia]]
 
 [ISO2::VU] 
 [ISO3::VUT] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Vanuatu
 zoomFeatures: true 

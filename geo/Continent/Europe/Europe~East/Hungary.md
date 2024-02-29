@@ -1,36 +1,37 @@
 ---
 location:
-- 47.2796
-- 19.1508
+    - 47.2796
+    - 19.1508
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26921
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Hungary
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- HU
-- HUN
-- Hungary
-- Hungría
-- Hongrie
-- هنغاريا
-- 匈牙利
-- Венгрия
+    - HU
+    - HUN
+    - Hungary
+    - Hungría
+    - Hongrie
+    - هنغاريا
+    - 匈牙利
+    - Венгрия
 Languages:
-- hu-HU
+    - hu-HU
+icon: flag-hu
 ---
 
 # [[Hungary]] 
@@ -107,7 +108,12 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 
 [ISO2::HU]
-[ISO3::HUN]
+[ISO3::HUN] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Hungary
 zoomFeatures: true 

@@ -1,13 +1,14 @@
 ---
-location: [49.7633,15.8734]
+location:
+    - 49.7633
+    - 15.8734
 type: Country
 tags:
-- geo/Country
-
+    - geo/Country
 SpocWebEntityId: 26877
 isDeleted: false
 confidential: public
-
+icon: flag-cz
 ---
 
 # [[Czech_Republic]] 
@@ -18,7 +19,12 @@ For more Details, check out this Repository into this Subfolder:
 [[Czech_Republic/ReadMe]] 
 
 [ISO2::CZ]
-[ISO3::CZE]
+[ISO3::CZE] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Czech Rep.

@@ -1,40 +1,41 @@
 ---
 location:
-- 23.48
-- 58.55
+    - 23.48
+    - 58.55
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26989
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Oman
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- OM
-- OMN
-- Oman
-- Omán
-- عمان
-- 阿曼
-- Оман
-- the Sultanate of Oman
-- la Sultanía de Omán
+    - OM
+    - OMN
+    - Oman
+    - Omán
+    - عمان
+    - 阿曼
+    - Оман
+    - the Sultanate of Oman
+    - la Sultanía de Omán
 Languages:
-- ar-OM
-- en
-- bal
-- ur
+    - ar-OM
+    - en
+    - bal
+    - ur
+icon: flag-om
 ---
 
 # [[Oman]] 
@@ -111,7 +112,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::OM]
-[ISO3::OMN]
+[ISO3::OMN] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Oman
 zoomFeatures: true 

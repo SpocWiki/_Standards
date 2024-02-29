@@ -1,39 +1,40 @@
 ---
 location:
-- 13.73
-- 100.5
+    - 13.73
+    - 100.5
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27032
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Thailand
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- TH
-- THA
-- Thailand
-- Tailandia
-- Thaïlande
-- تايلند
-- 泰国
-- Таиланд
-- the Kingdom of Thailand
-- el Reino de Tailandia
+    - TH
+    - THA
+    - Thailand
+    - Tailandia
+    - Thaïlande
+    - تايلند
+    - 泰国
+    - Таиланд
+    - the Kingdom of Thailand
+    - el Reino de Tailandia
 Languages:
-- th
-- en
+    - th
+    - en
+icon: flag-th
 ---
 
 # [[Thailand]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::TH]
-[ISO3::THA]
+[ISO3::THA] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Thailand
 zoomFeatures: true 

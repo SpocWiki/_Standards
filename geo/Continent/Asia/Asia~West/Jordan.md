@@ -1,39 +1,40 @@
 ---
 location:
-- 31.95
-- 35.93
+    - 31.95
+    - 35.93
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26932
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Jordan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- JO
-- JOR
-- Jordan
-- Jordania
-- Jordanie
-- الأردن
-- 约旦
-- Иордания
-- the Hashemite Kingdom of Jordan
-- el Reino Hachemita de Jordania
+    - JO
+    - JOR
+    - Jordan
+    - Jordania
+    - Jordanie
+    - الأردن
+    - 约旦
+    - Иордания
+    - the Hashemite Kingdom of Jordan
+    - el Reino Hachemita de Jordania
 Languages:
-- ar-JO
-- en
+    - ar-JO
+    - en
+icon: flag-jo
 ---
 
 # [[Jordan]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::JO]
-[ISO3::JOR]
+[ISO3::JOR] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Jordan
 zoomFeatures: true 

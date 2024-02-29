@@ -1,39 +1,40 @@
 ---
 location:
-- 33.34
-- 44.42
+    - 33.34
+    - 44.42
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26927
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Iraq
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- IQ
-- IRQ
-- Iraq
-- العراق
-- 伊拉克
-- Ирак
-- the Republic of Iraq
-- la República del Iraq
-- Iraq (el)
+    - IQ
+    - IRQ
+    - Iraq
+    - العراق
+    - 伊拉克
+    - Ирак
+    - the Republic of Iraq
+    - la República del Iraq
+    - Iraq (el)
 Languages:
-- ar-IQ
-- ku
-- hy
+    - ar-IQ
+    - ku
+    - hy
+icon: flag-iq
 ---
 
 # [[Iraq]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::IQ]
-[ISO3::IRQ]
+[ISO3::IRQ] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Iraq
 zoomFeatures: true 

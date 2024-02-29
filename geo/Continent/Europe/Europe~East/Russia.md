@@ -1,63 +1,64 @@
 ---
 location:
-- 52.6418
-- 47.4574
+    - 52.6418
+    - 47.4574
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27007
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Russia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- RU
-- RUS
-- Russia
-- Russian Federation
-- Federación de Rusia
-- Fédération de Russie
-- الاتحاد الروسي
-- 俄罗斯联邦
-- Российская Федерация
-- the Russian Federation
-- Russian Federation (the)
-- la Federación de Rusia
-- Federación de Rusia (la)
+    - RU
+    - RUS
+    - Russia
+    - Russian Federation
+    - Federación de Rusia
+    - Fédération de Russie
+    - الاتحاد الروسي
+    - 俄罗斯联邦
+    - Российская Федерация
+    - the Russian Federation
+    - Russian Federation (the)
+    - la Federación de Rusia
+    - Federación de Rusia (la)
 Languages:
-- ru
-- tt
-- xal
-- cau
-- ady
-- kv
-- ce
-- tyv
-- cv
-- udm
-- tut
-- mns
-- bua
-- myv
-- mdf
-- chm
-- ba
-- inh
-- kbd
-- krc
-- av
-- sah
-- nog
+    - ru
+    - tt
+    - xal
+    - cau
+    - ady
+    - kv
+    - ce
+    - tyv
+    - cv
+    - udm
+    - tut
+    - mns
+    - bua
+    - myv
+    - mdf
+    - chm
+    - ba
+    - inh
+    - kbd
+    - krc
+    - av
+    - sah
+    - nog
+icon: flag-ru
 ---
 
 # [[Russia]] 
@@ -134,7 +135,12 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 
 [ISO2::RU]
-[ISO3::RUS]
+[ISO3::RUS] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Russia

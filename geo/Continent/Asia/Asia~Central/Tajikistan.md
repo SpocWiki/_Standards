@@ -1,39 +1,40 @@
 ---
 location:
-- 38.55
-- 68.8
+    - 38.55
+    - 68.8
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27033
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Tajikistan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- TJ
-- TJK
-- Tajikistan
-- Tayikistán
-- Tadjikistan
-- طاجيكستان
-- 塔吉克斯坦
-- Таджикистан
-- the Republic of Tajikistan
-- la República de Tayikistán
+    - TJ
+    - TJK
+    - Tajikistan
+    - Tayikistán
+    - Tadjikistan
+    - طاجيكستان
+    - 塔吉克斯坦
+    - Таджикистан
+    - the Republic of Tajikistan
+    - la República de Tayikistán
 Languages:
-- tg
-- ru
+    - tg
+    - ru
+icon: flag-tj
 ---
 
 # [[Tajikistan]] 
@@ -111,7 +112,12 @@ Sub-region_Name ::  [[Central Asia]]
 
 
 [ISO2::TJ]
-[ISO3::TJK]
+[ISO3::TJK] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Tajikistan
 zoomFeatures: true 

@@ -1,39 +1,40 @@
 ---
 location:
-- 64.25
-- -51.67
+    - 64.25
+    - -51.67
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26905
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Greenland
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- GL
-- GRL
-- Greenland
-- Groenlandia
-- Groenland
-- غرينلند
-- 格陵兰
-- Гренландия
-- 
+    - GL
+    - GRL
+    - Greenland
+    - Groenlandia
+    - Groenland
+    - غرينلند
+    - 格陵兰
+    - Гренландия
+    - null
 Languages:
-- kl
-- da-GL
-- en
+    - kl
+    - da-GL
+    - en
+icon: flag-gl
 ---
 
 # [[Greenland]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Northern America]]
 
 
 [ISO2::GL] 
-[ISO3::GRL] 
+[ISO3::GRL]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Greenland
 zoomFeatures: true 
