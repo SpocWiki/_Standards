@@ -115,8 +115,9 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 
-[ISO2::SY]
-[ISO3::SYR]
+[ISO2::SY] 
+[ISO3::SYR] 
+
 ```leaflet
 id: Syria
 zoomFeatures: true 
