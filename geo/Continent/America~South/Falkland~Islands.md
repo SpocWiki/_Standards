@@ -1,17 +1,17 @@
 ---
-location: [-51.7,-57.85]
+location:
+    - -51.7
+    - -57.85
 type: Country
 tags:
-- geo/Country
-
+    - geo/Country
 aliases:
-- Malvinas
-- 
-
+    - Malvinas
+    - null
 SpocWebEntityId: 26893
 isDeleted: false
 confidential: public
-
+icon: flag-fk
 ---
 
 # [[Falkland~Islands]] 
@@ -22,7 +22,12 @@ For more Details, check out this Repository into this Subfolder:
 [[Falkland~Islands/ReadMe]] 
 
 [ISO2::FK]
-[ISO3::FLK]
+[ISO3::FLK] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Falkland Islands (Malvinas)
 zoomFeatures: true 

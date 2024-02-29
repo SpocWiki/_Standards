@@ -1,41 +1,42 @@
 ---
 location:
-- 51.9757
-- 5.08828
+    - 51.9757
+    - 5.08828
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26983
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Netherlands
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- NL
-- NLD
-- Netherlands
-- Países Bajos
-- Pays-Bas
-- هولندا
-- 荷兰
-- Нидерланды
-- the Kingdom of the Netherlands
-- Netherlands (the)
-- el Reino de los Países Bajos
-- Países Bajos (los)
+    - NL
+    - NLD
+    - Netherlands
+    - Países Bajos
+    - Pays-Bas
+    - هولندا
+    - 荷兰
+    - Нидерланды
+    - the Kingdom of the Netherlands
+    - Netherlands (the)
+    - el Reino de los Países Bajos
+    - Países Bajos (los)
 Languages:
-- nl-NL
-- fy-NL
+    - nl-NL
+    - fy-NL
+icon: flag-ne
 ---
 
 # [[Netherlands]] 

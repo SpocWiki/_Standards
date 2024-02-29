@@ -1,39 +1,40 @@
 ---
 location:
-- 10.5
-- -66.93
+    - 10.5
+    - -66.93
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27052
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Venezuela
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- VE
-- VEN
-- Venezuela
-- Venezuela (Bolivarian Republic of)
-- Venezuela (República Bolivariana de)
-- Venezuela (République bolivarienne du)
-- فنزويلا (جمهورية - البوليفارية)
-- 委内瑞拉(玻利瓦尔共和国)
-- Венесуэла (Боливарианская Республика)
-- the Bolivarian Republic of Venezuela
-- la República Bolivariana de Venezuela
+    - VE
+    - VEN
+    - Venezuela
+    - Venezuela (Bolivarian Republic of)
+    - Venezuela (República Bolivariana de)
+    - Venezuela (République bolivarienne du)
+    - فنزويلا (جمهورية - البوليفارية)
+    - 委内瑞拉(玻利瓦尔共和国)
+    - Венесуэла (Боливарианская Республика)
+    - the Bolivarian Republic of Venezuela
+    - la República Bolivariana de Venezuela
 Languages:
-- es-VE
+    - es-VE
+icon: flag-ve
 ---
 
 # [[Venezuela]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::VE]
-[ISO3::VEN]
+[ISO3::VEN] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Venezuela

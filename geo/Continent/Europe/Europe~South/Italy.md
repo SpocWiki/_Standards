@@ -1,44 +1,45 @@
 ---
 location:
-- 43.4809
-- 11.8169
+    - 43.4809
+    - 11.8169
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26930
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Italy
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- IT
-- ITA
-- Italy
-- Italia
-- Italie
-- إيطاليا
-- 意大利
-- Италия
-- the Republic of Italy
-- la República Italiana
+    - IT
+    - ITA
+    - Italy
+    - Italia
+    - Italie
+    - إيطاليا
+    - 意大利
+    - Италия
+    - the Republic of Italy
+    - la República Italiana
 Languages:
-- it-IT
-- de-IT
-- fr-IT
-- sc
-- ca
-- co
-- sl
+    - it-IT
+    - de-IT
+    - fr-IT
+    - sc
+    - ca
+    - co
+    - sl
+icon: flag-it
 ---
 
 # [[Italy]] 

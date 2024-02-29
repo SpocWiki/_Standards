@@ -1,13 +1,14 @@
 ---
-location: [41.98,21.43]
+location:
+    - 41.98
+    - 21.43
 type: Country
 tags:
-- geo/Country
-
+    - geo/Country
 SpocWebEntityId: 26961
 isDeleted: false
 confidential: public
-
+icon: flag-mk
 ---
 
 # [[Macedonia~North]] 
@@ -18,7 +19,12 @@ For more Details, check out this Repository into this Subfolder:
 [[Macedonia~North/ReadMe]] 
 
 [ISO2::MK]
-[ISO3::MKD]
+[ISO3::MKD] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Macedonia, FYR

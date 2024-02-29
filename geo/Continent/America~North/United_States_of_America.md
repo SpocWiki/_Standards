@@ -1,6 +1,7 @@
 ---
 aliases:
-  - USA
+    - USA
+icon: flag-us
 ---
 
 # [[United_States_of_America]] 

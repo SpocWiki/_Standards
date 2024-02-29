@@ -1,37 +1,38 @@
 ---
 location:
-- 25.28
-- 51.53
+    - 25.28
+    - 51.53
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27004
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Qatar
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- QA
-- QAT
-- Qatar
-- قطر
-- 卡塔尔
-- Катар
-- the State of Qatar
-- el Estado de Qatar
+    - QA
+    - QAT
+    - Qatar
+    - قطر
+    - 卡塔尔
+    - Катар
+    - the State of Qatar
+    - el Estado de Qatar
 Languages:
-- ar-QA
-- es
+    - ar-QA
+    - es
+icon: flag-qa
 ---
 
 # [[Qatar]] 
@@ -108,7 +109,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::QA]
-[ISO3::QAT]
+[ISO3::QAT] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Qatar
 zoomFeatures: true 

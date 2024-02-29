@@ -1,43 +1,44 @@
 ---
 location:
-- 7.35
-- 134.467
+    - 7.35
+    - 134.467
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27002
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Palau
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- PW
-- PLW
-- Palau
-- Palaos
-- بالاو
-- 帕劳
-- Палау
-- the Republic of Palau
-- la República de Palau
+    - PW
+    - PLW
+    - Palau
+    - Palaos
+    - بالاو
+    - 帕劳
+    - Палау
+    - the Republic of Palau
+    - la República de Palau
 Languages:
-- pau
-- sov
-- en-PW
-- tox
-- ja
-- fil
-- zh
+    - pau
+    - sov
+    - en-PW
+    - tox
+    - ja
+    - fil
+    - zh
+icon: flag-pw
 ---
 
 
@@ -107,7 +108,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 
 [ISO2::PW] 
-[ISO3::PLW] 
+[ISO3::PLW]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Palau
 zoomFeatures: true 

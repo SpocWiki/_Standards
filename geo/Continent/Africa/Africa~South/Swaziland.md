@@ -1,13 +1,16 @@
 ---
-location: [-26.3167,31.1333]
+location:
+  - -26.3167
+  - 31.1333
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 27027
 isDeleted: false
 confidential: public
-
+aliases:
+  - Eswatini
+  - Swaziland
 ---
 
 # [[Swaziland]] 

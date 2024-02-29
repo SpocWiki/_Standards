@@ -1,40 +1,41 @@
 ---
 location:
-- 5.86
-- -55.17
+    - 5.86
+    - -55.17
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27023
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Suriname
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- SR
-- SUR
-- Suriname
-- سورينام
-- 苏里南
-- Суринам
-- the Republic of Suriname
-- la República de Suriname
+    - SR
+    - SUR
+    - Suriname
+    - سورينام
+    - 苏里南
+    - Суринам
+    - the Republic of Suriname
+    - la República de Suriname
 Languages:
-- nl-SR
-- en
-- srn
-- hns
-- jv
+    - nl-SR
+    - en
+    - srn
+    - hns
+    - jv
+icon: flag-sr
 ---
 
 # [[Suriname]] 
@@ -111,7 +112,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::SR]
-[ISO3::SUR]
+[ISO3::SUR] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Suriname

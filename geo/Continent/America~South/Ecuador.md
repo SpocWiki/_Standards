@@ -1,38 +1,39 @@
 ---
 location:
-- -0.23
-- -78.5
+    - -0.23
+    - -78.5
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26884
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Ecuador
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- EC
-- ECU
-- Ecuador
-- Équateur
-- إكوادور
-- 厄瓜多尔
-- Эквадор
-- the Republic of Ecuador
-- la República del Ecuador
-- Ecuador (el)
+    - EC
+    - ECU
+    - Ecuador
+    - Équateur
+    - إكوادور
+    - 厄瓜多尔
+    - Эквадор
+    - the Republic of Ecuador
+    - la República del Ecuador
+    - Ecuador (el)
 Languages:
-- es-EC
+    - es-EC
+icon: flag-ec
 ---
 
 # [[Ecuador]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::EC]
-[ISO3::ECU]
+[ISO3::ECU] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Ecuador
 zoomFeatures: true 

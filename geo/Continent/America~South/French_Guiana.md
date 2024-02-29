@@ -1,37 +1,38 @@
 ---
 location:
-- 4.92
-- -52.3
+    - 4.92
+    - -52.3
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26902
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: French Guiana
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- GF
-- GUF
-- French Guiana
-- Guayana Francesa
-- Guyane française
-- غيانا الفرنسية
-- 法属圭亚那
-- Французская Гвиана
-- 
+    - GF
+    - GUF
+    - French Guiana
+    - Guayana Francesa
+    - Guyane française
+    - غيانا الفرنسية
+    - 法属圭亚那
+    - Французская Гвиана
+    - null
 Languages:
-- fr-GF
+    - fr-GF
+icon: flag-gf
 ---
 
 # [[French_Guiana]] 
@@ -108,7 +109,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::GF]
-[ISO3::GUF]
+[ISO3::GUF] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: French Guiana
 zoomFeatures: true 

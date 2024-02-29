@@ -1,40 +1,41 @@
 ---
 location:
-- 40.42
-- 49.83
+    - 40.42
+    - 49.83
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26840
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Azerbaijan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- AZ
-- AZE
-- Azerbaijan
-- Azerbaiyán
-- Azerbaïdjan
-- أذربيجان
-- 阿塞拜疆
-- Азербайджан
-- the Republic of Azerbaijan
-- la República de Azerbaiyán
+    - AZ
+    - AZE
+    - Azerbaijan
+    - Azerbaiyán
+    - Azerbaïdjan
+    - أذربيجان
+    - 阿塞拜疆
+    - Азербайджан
+    - the Republic of Azerbaijan
+    - la República de Azerbaiyán
 Languages:
-- az
-- ru
-- hy
+    - az
+    - ru
+    - hy
+icon: flag-az
 ---
 
 # [[Azerbaijan]] 

@@ -1,41 +1,40 @@
 ---
-location: [50.8699,10.1207]
+location:
+    - 50.8699
+    - 10.1207
 type: Country
 title: Deutschland (Germany)
 SpocWebEntityId: 26878
-
 license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country
+    - geo/Country
 aliases:
-- Deutschland
-- DE
-- DEU
-- Germany
-- Alemania
-- Allemagne
-- ألمانيا
-- 德国
-- Германия
-- the Federal Republic of Germany
-- la República Federal de Alemania
-
+    - Deutschland
+    - DE
+    - DEU
+    - Germany
+    - Alemania
+    - Allemagne
+    - ألمانيا
+    - 德国
+    - Германия
+    - the Federal Republic of Germany
+    - la República Federal de Alemania
 Languages:
-- de
-
+    - de
 cssclasses: Country
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle: null
+keywords: null
+layout: null
+publishDate: null
+expiryDate: null
+icon: flag-de
 ---
 
 # [[Germany]] 

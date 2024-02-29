@@ -1,37 +1,38 @@
 ---
 location:
-- 40.18
-- 44.5167
+    - 40.18
+    - 44.5167
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26831
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Armenia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- AM
-- ARM
-- Armenia
-- Arménie
-- أرمينيا
-- 亚美尼亚
-- Армения
-- the Republic of Armenia
-- la República de Armenia
+    - AM
+    - ARM
+    - Armenia
+    - Arménie
+    - أرمينيا
+    - 亚美尼亚
+    - Армения
+    - the Republic of Armenia
+    - la República de Armenia
 Languages:
-- hy
+    - hy
+icon: flag-am
 ---
 
 # [[Armenia]] 
@@ -108,7 +109,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::AM]
-[ISO3::ARM]
+[ISO3::ARM] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Armenia
 zoomFeatures: true 

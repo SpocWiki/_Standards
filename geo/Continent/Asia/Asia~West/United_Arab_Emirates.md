@@ -1,44 +1,45 @@
 ---
 location:
-- 24.47
-- 54.42
+    - 24.47
+    - 54.42
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26826
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: United Arab Emirates
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- AE
-- ARE
-- United Arab Emirates
-- Emiratos Árabes Unidos
-- Émirats arabes unis
-- الإمارات العربية المتحدة
-- 阿拉伯联合酋长国
-- Объединенные Арабские Эмираты
-- the United Arab Emirates
-- United Arab Emirates (the)
-- los Emiratos Árabes Unidos
-- Emiratos Árabes Unidos (los)
+    - AE
+    - ARE
+    - United Arab Emirates
+    - Emiratos Árabes Unidos
+    - Émirats arabes unis
+    - الإمارات العربية المتحدة
+    - 阿拉伯联合酋长国
+    - Объединенные Арабские Эмираты
+    - the United Arab Emirates
+    - United Arab Emirates (the)
+    - los Emiratos Árabes Unidos
+    - Emiratos Árabes Unidos (los)
 Languages:
-- ar-AE
-- fa
-- en
-- hi
-- ur
+    - ar-AE
+    - fa
+    - en
+    - hi
+    - ur
+icon: flag-ae
 ---
 
 # [[United_Arab_Emirates]] 
@@ -115,7 +116,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::AE]
-[ISO3::ARE]
+[ISO3::ARE] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: United Arab Emirates
 zoomFeatures: true 

@@ -1,3 +1,6 @@
+---
+icon: flag-eu
+---
 # [[EU]] 
 
 ## Edit

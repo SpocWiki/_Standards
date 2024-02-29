@@ -10,16 +10,16 @@ isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Syria
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
 - SY
 - SYR
@@ -40,6 +40,7 @@ Languages:
 - arc
 - fr
 - en
+icon: flag-sy
 ---
 
 # [[Syria]] 
@@ -117,6 +118,10 @@ Sub-region_Name ::  [[Western Asia]]
 
 [ISO2::SY] 
 [ISO3::SYR] 
+
+## #has_/map  
+
+
 
 ```leaflet
 id: Syria

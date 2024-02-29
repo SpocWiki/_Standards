@@ -1,43 +1,44 @@
 ---
 location:
-- 47
-- 28.9167
+    - 47
+    - 28.9167
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26958
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Moldova
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- MD
-- MDA
-- Moldova
-- Republic of Moldova
-- República de Moldova
-- République de Moldova
-- جمهورية مولدوفا
-- 摩尔多瓦共和国
-- Республика Молдова
-- the Republic of Moldova
-- Republic of Moldova (the)
-- la República de Moldova
+    - MD
+    - MDA
+    - Moldova
+    - Republic of Moldova
+    - República de Moldova
+    - République de Moldova
+    - جمهورية مولدوفا
+    - 摩尔多瓦共和国
+    - Республика Молдова
+    - the Republic of Moldova
+    - Republic of Moldova (the)
+    - la República de Moldova
 Languages:
-- ro
-- ru
-- gag
-- tr
+    - ro
+    - ru
+    - gag
+    - tr
+icon: flag-md
 ---
 
 # [[Moldova]] 
@@ -114,7 +115,12 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 
 [ISO2::MD]
-[ISO3::MDA]
+[ISO3::MDA] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Moldova
 zoomFeatures: true 

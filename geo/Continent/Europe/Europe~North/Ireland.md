@@ -1,37 +1,38 @@
 ---
 location:
-- 53.0702
-- -7.70895
+    - 53.0702
+    - -7.70895
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26923
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Ireland
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- IE
-- IRL
-- Ireland
-- Irlanda
-- Irlande
-- آيرلندا
-- 爱尔兰
-- Ирландия
+    - IE
+    - IRL
+    - Ireland
+    - Irlanda
+    - Irlande
+    - آيرلندا
+    - 爱尔兰
+    - Ирландия
 Languages:
-- en-IE
-- ga-IE
+    - en-IE
+    - ga-IE
+icon: flag-ie
 ---
 
 # [[Ireland]] 
@@ -107,8 +108,12 @@ Sub-region_Name ::  [[Northern Europe]]
 
 
 
-[ISO2::IE]
-[ISO3::IRL]
+[ISO2::IE] 
+[ISO3::IRL] 
+
+## #has_/map  
+
+
 ```leaflet
 id: Ireland
 zoomFeatures: true 
@@ -117,6 +122,7 @@ maxZoom: 18
 geojsonFolder: ./Ireland//
 markerFolder: ./Ireland//
 ```
+
 
 [name-en::Ireland]
 [name-de::Irland]

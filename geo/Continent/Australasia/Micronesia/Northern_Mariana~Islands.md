@@ -1,41 +1,42 @@
 ---
 location:
-- 15.1833
-- 145.75
+    - 15.1833
+    - 145.75
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26966
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Northern Mariana Islands
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- MP
-- MNP
-- Northern Mariana Islands
-- Islas Marianas Septentrionales
-- Îles Mariannes du Nord
-- جزر ماريانا الشمالية
-- 北马里亚纳群岛
-- Северные Марианские острова
-- 
+    - MP
+    - MNP
+    - Northern Mariana Islands
+    - Islas Marianas Septentrionales
+    - Îles Mariannes du Nord
+    - جزر ماريانا الشمالية
+    - 北马里亚纳群岛
+    - Северные Марианские острова
+    - null
 Languages:
-- fil
-- tl
-- zh
-- ch-MP
-- en-MP
+    - fil
+    - tl
+    - zh
+    - ch-MP
+    - en-MP
+icon: flag-mp
 ---
 
 
@@ -105,7 +106,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 
 [ISO2::MP] 
-[ISO3::MNP] 
+[ISO3::MNP]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Northern Mariana Islands
 zoomFeatures: true 

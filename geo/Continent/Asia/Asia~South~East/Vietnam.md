@@ -1,41 +1,42 @@
 ---
 location:
-- 15.8917
-- 106.26
+    - 15.8917
+    - 106.26
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27055
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Vietnam
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- VN
-- VNM
-- Vietnam
-- Viet Nam
-- فييت نام
-- 越南
-- Вьетнам
-- the Socialist Republic of Viet Nam
-- la República Socialista de Viet Nam
+    - VN
+    - VNM
+    - Vietnam
+    - Viet Nam
+    - فييت نام
+    - 越南
+    - Вьетнам
+    - the Socialist Republic of Viet Nam
+    - la República Socialista de Viet Nam
 Languages:
-- vi
-- en
-- fr
-- zh
-- km
+    - vi
+    - en
+    - fr
+    - zh
+    - km
+icon: flag-vn
 ---
 
 # [[Vietnam]] 
@@ -112,7 +113,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::VN]
-[ISO3::VNM]
+[ISO3::VNM] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Vietnam
 zoomFeatures: true 

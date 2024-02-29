@@ -1,38 +1,39 @@
 ---
 location:
-- 42.9342
-- 25.3029
+    - 42.9342
+    - 25.3029
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Bulgaria
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- BG
-- BGR
-- Bulgaria
-- Bulgarie
-- بلغاريا
-- 保加利亚
-- Болгария
-- the Republic of Bulgaria
-- la República de Bulgaria
+    - BG
+    - BGR
+    - Bulgaria
+    - Bulgarie
+    - بلغاريا
+    - 保加利亚
+    - Болгария
+    - the Republic of Bulgaria
+    - la República de Bulgaria
 Languages:
-- bg
-- tr-BG
-- rom
+    - bg
+    - tr-BG
+    - rom
+icon: flag-bg
 ---
 
 # [[Bulgaria]] 
@@ -112,7 +113,12 @@ SpocWebEntityId: 26846
 isDeleted: false
 confidential: public
 [ISO2::BG]
-[ISO3::BGR]
+[ISO3::BGR] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Bulgaria
 zoomFeatures: true 

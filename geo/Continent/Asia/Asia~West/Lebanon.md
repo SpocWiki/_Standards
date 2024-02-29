@@ -1,42 +1,43 @@
 ---
 location:
-- 33.87
-- 35.5
+    - 33.87
+    - 35.5
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26946
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Lebanon
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- LB
-- LBN
-- Lebanon
-- Líbano
-- Liban
-- لبنان
-- 黎巴嫩
-- Ливан
-- the Lebanese Republic
-- la República Libanesa
-- Líbano (el)
+    - LB
+    - LBN
+    - Lebanon
+    - Líbano
+    - Liban
+    - لبنان
+    - 黎巴嫩
+    - Ливан
+    - the Lebanese Republic
+    - la República Libanesa
+    - Líbano (el)
 Languages:
-- ar-LB
-- fr-LB
-- en
-- hy
+    - ar-LB
+    - fr-LB
+    - en
+    - hy
+icon: flag-lb
 ---
 
 # [[Lebanon]] 
@@ -113,7 +114,12 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 [ISO2::LB]
-[ISO3::LBN]
+[ISO3::LBN] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Lebanon
 zoomFeatures: true 

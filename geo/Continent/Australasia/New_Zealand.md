@@ -1,37 +1,38 @@
 ---
 location:
-- -41.28
-- 174.78
+    - -41.28
+    - 174.78
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26988
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: New Zealand
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- NZ
-- NZL
-- New Zealand
-- Nueva Zelandia
-- Nouvelle-Zélande
-- نيوزيلندا
-- 新西兰
-- Новая Зеландия
+    - NZ
+    - NZL
+    - New Zealand
+    - Nueva Zelandia
+    - Nouvelle-Zélande
+    - نيوزيلندا
+    - 新西兰
+    - Новая Зеландия
 Languages:
-- en-NZ
-- mi
+    - en-NZ
+    - mi
+icon: flag-nz
 ---
 
 # [[New_Zealand]] 
@@ -108,7 +109,12 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 
 
 [ISO2::NZ]
-[ISO3::NZL]
+[ISO3::NZL] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: New Zealand
 zoomFeatures: true 

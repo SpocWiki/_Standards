@@ -1,38 +1,39 @@
 ---
 location:
-- 8.96667
-- -79.5333
+    - 8.96667
+    - -79.5333
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26990
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Panama
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- PA
-- PAN
-- Panama
-- Panamá
-- بنما
-- 巴拿马
-- Панама
-- the Republic of Panama
-- la República de Panamá
+    - PA
+    - PAN
+    - Panama
+    - Panamá
+    - بنما
+    - 巴拿马
+    - Панама
+    - the Republic of Panama
+    - la República de Panamá
 Languages:
-- es-PA
-- en
+    - es-PA
+    - en
+icon: flag-pa
 ---
 
 # [[Panama]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::PA]
-[ISO3::PAN]
+[ISO3::PAN] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Panama
 zoomFeatures: true 

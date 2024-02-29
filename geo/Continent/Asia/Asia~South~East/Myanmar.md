@@ -1,36 +1,37 @@
 ---
 location:
-- 18.265
-- 96.135
+    - 18.265
+    - 96.135
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26963
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Myanmar
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- MM
-- MMR
-- Myanmar
-- ميانمار
-- 缅甸
-- Мьянма
-- the Republic of the Union of Myanmar
-- la República de la Unión de Myanmar
+    - MM
+    - MMR
+    - Myanmar
+    - ميانمار
+    - 缅甸
+    - Мьянма
+    - the Republic of the Union of Myanmar
+    - la República de la Unión de Myanmar
 Languages:
-- my
+    - my
+icon: flag-mm
 ---
 
 # [[Myanmar]] 
@@ -107,7 +108,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::MM]
-[ISO3::MMR]
+[ISO3::MMR] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Myanmar
 zoomFeatures: true 

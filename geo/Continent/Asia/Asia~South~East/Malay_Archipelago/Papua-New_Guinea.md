@@ -1,41 +1,42 @@
 ---
 location:
-- -9.5
-- 147.117
+    - -9.5
+    - 147.117
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26993
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Papua New Guinea
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- PG
-- PNG
-- Papua New Guinea
-- Papua Nueva Guinea
-- Papouasie-Nouvelle-Guinée
-- بابوا غينيا الجديدة
-- 巴布亚新几内亚
-- Папуа-Новая Гвинея
-- Independent State of Papua New Guinea
-- Estado Independiente de Papua Nueva Guinea
+    - PG
+    - PNG
+    - Papua New Guinea
+    - Papua Nueva Guinea
+    - Papouasie-Nouvelle-Guinée
+    - بابوا غينيا الجديدة
+    - 巴布亚新几内亚
+    - Папуа-Новая Гвинея
+    - Independent State of Papua New Guinea
+    - Estado Independiente de Papua Nueva Guinea
 Languages:
-- en-PG
-- ho
-- meu
-- tpi
+    - en-PG
+    - ho
+    - meu
+    - tpi
+icon: flag-pg
 ---
 
 
@@ -105,7 +106,12 @@ Sub-region_Name :: [[../../../Australasia/Melanesia]]]
 
 
 [ISO2::PG] 
-[ISO3::PNG] 
+[ISO3::PNG]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Papua New Guinea
 zoomFeatures: true 

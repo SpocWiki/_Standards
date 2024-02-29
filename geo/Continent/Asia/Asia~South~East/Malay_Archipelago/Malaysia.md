@@ -1,44 +1,45 @@
 ---
 location:
-- 3.17
-- 101.7
+    - 3.17
+    - 101.7
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26975
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Malaysia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- MY
-- MYS
-- Malaysia
-- Malasia
-- Malaisie
-- ماليزيا
-- 马来西亚
-- Малайзия
-- Federación de Malasia
+    - MY
+    - MYS
+    - Malaysia
+    - Malasia
+    - Malaisie
+    - ماليزيا
+    - 马来西亚
+    - Малайзия
+    - Federación de Malasia
 Languages:
-- ms-MY
-- en
-- zh
-- ta
-- te
-- ml
-- pa
-- th
+    - ms-MY
+    - en
+    - zh
+    - ta
+    - te
+    - ml
+    - pa
+    - th
+icon: flag-my
 ---
 
 # [[Malaysia]] 
@@ -115,7 +116,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::MY]
-[ISO3::MYS]
+[ISO3::MYS] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Malaysia
 zoomFeatures: true 

@@ -1,36 +1,37 @@
 ---
 location:
-- 13.4792
-- 144.75
+    - 13.4792
+    - 144.75
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26913
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Guam
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- GU
-- GUM
-- Guam
-- غوام
-- 关岛
-- Гуам
-- 
+    - GU
+    - GUM
+    - Guam
+    - غوام
+    - 关岛
+    - Гуам
+    - null
 Languages:
-- en-GU
-- ch-GU
+    - en-GU
+    - ch-GU
+icon: flag-gu
 ---
 
 
@@ -100,7 +101,12 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 
 
 [ISO2::GU] 
-[ISO3::GUM] 
+[ISO3::GUM]  
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Guam
 zoomFeatures: true 

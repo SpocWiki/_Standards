@@ -1,35 +1,36 @@
 ---
 location:
-- -35.4776
-- 149.027
+    - -35.4776
+    - 149.027
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26838
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Australia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- AU
-- AUS
-- Australia
-- Australie
-- أستراليا
-- 澳大利亚
-- Австралия
+    - AU
+    - AUS
+    - Australia
+    - Australie
+    - أستراليا
+    - 澳大利亚
+    - Австралия
 Languages:
-- en-AU
+    - en-AU
+icon: flag-au
 ---
 
 # [[Australia]] 
@@ -106,7 +107,12 @@ Sub-region_Name ::  [[Australia and New Zealand]]
 
 
 [ISO2::AU]
-[ISO3::AUS]
+[ISO3::AUS] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Australia
 zoomFeatures: true 

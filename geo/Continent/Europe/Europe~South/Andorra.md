@@ -1,36 +1,37 @@
 ---
 location:
-- 42.5167
-- 1.51333
+    - 42.5167
+    - 1.51333
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Andorra
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- AD
-- AND
-- Andorra
-- Andorre
-- أندورا
-- 安道尔
-- Андорра
-- the Principality of Andorra
-- el Principado de Andorra
+    - AD
+    - AND
+    - Andorra
+    - Andorre
+    - أندورا
+    - 安道尔
+    - Андорра
+    - the Principality of Andorra
+    - el Principado de Andorra
 Languages:
-- ca
+    - ca
+icon: flag-ad
 ---
 
 # [[Andorra]] 
@@ -109,8 +110,12 @@ Sub-region_Name ::  [[Southern Europe]]
 SpocWebEntityId: 26825
 isDeleted: false
 confidential: public
-[ISO2::AD]
-[ISO3::AND]
+[ISO2::AD] 
+[ISO3::AND] 
+
+## #has_/map  
+
+
 ```leaflet
 id: Andorra
 zoomFeatures: true 
