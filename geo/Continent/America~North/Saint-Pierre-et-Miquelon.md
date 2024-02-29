@@ -1,13 +1,14 @@
 ---
-location: [46.7833,-56.1667]
+location:
+    - 46.7833
+    - -56.1667
 type: Country
 tags:
-- geo/Country
-
+    - geo/Country
 SpocWebEntityId: 26997
 isDeleted: false
 confidential: public
-
+icon: flag-pm
 ---
 
 # [[Saint-Pierre-et-Miquelon]] 
@@ -18,7 +19,10 @@ For more Details, check out this Repository into this Subfolder:
 [[Saint-Pierre-et-Miquelon/ReadMe]] 
 
 [ISO2::PM]
-[ISO3::SPM]
+[ISO3::SPM] 
+
+## #has_/map  
+
 
 ```leaflet
 id: Saint-Pierre-et-Miquelon

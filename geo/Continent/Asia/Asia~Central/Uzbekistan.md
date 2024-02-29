@@ -1,40 +1,41 @@
 ---
 location:
-- 41.33
-- 69.3
+    - 41.33
+    - 69.3
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27049
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Uzbekistan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- UZ
-- UZB
-- Uzbekistan
-- Uzbekistán
-- Ouzbékistan
-- أوزبكستان
-- 乌兹别克斯坦
-- Узбекистан
-- the Republic of Uzbekistan
-- la República de Uzbekistán
+    - UZ
+    - UZB
+    - Uzbekistan
+    - Uzbekistán
+    - Ouzbékistan
+    - أوزبكستان
+    - 乌兹别克斯坦
+    - Узбекистан
+    - the Republic of Uzbekistan
+    - la República de Uzbekistán
 Languages:
-- uz
-- ru
-- tg
+    - uz
+    - ru
+    - tg
+icon: flag-uz
 ---
 
 # [[Uzbekistan]] 
@@ -111,7 +112,12 @@ Sub-region_Name ::  [[Central Asia]]
 
 
 [ISO2::UZ]
-[ISO3::UZB]
+[ISO3::UZB] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Uzbekistan
 zoomFeatures: true 

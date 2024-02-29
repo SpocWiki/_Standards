@@ -1,38 +1,39 @@
 ---
 location:
-- 45.8
-- 15.97
+    - 45.8
+    - 15.97
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Croatia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- HR
-- HRV
-- Croatia
-- Croacia
-- Croatie
-- كرواتيا
-- 克罗地亚
-- Хорватия
-- the Republic of Croatia
-- la República de Croacia
+    - HR
+    - HRV
+    - Croatia
+    - Croacia
+    - Croatie
+    - كرواتيا
+    - 克罗地亚
+    - Хорватия
+    - the Republic of Croatia
+    - la República de Croacia
 Languages:
-- hr-HR
-- sr
+    - hr-HR
+    - sr
+icon: flag-hr
 ---
 
 # [[Croatia]] 
@@ -112,7 +113,12 @@ SpocWebEntityId: 26919
 isDeleted: false
 confidential: public
 [ISO2::HR]
-[ISO3::HRV]
+[ISO3::HRV] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Croatia

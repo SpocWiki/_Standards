@@ -1,40 +1,41 @@
 ---
 location:
-- 62.3173
-- 25.4668
+    - 62.3173
+    - 25.4668
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26891
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Finland
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- FI
-- FIN
-- Finland
-- Finlandia
-- Finlande
-- فنلندا
-- 芬兰
-- Финляндия
-- the Republic of Finland
-- la República de Finlandia
+    - FI
+    - FIN
+    - Finland
+    - Finlandia
+    - Finlande
+    - فنلندا
+    - 芬兰
+    - Финляндия
+    - the Republic of Finland
+    - la República de Finlandia
 Languages:
-- fi-FI
-- sv-FI
-- smn
+    - fi-FI
+    - sv-FI
+    - smn
+icon: flag-fi
 ---
 
 # [[Finland]] 

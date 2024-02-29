@@ -1,36 +1,37 @@
 ---
 location:
-- 14.6333
-- -90.5
+    - 14.6333
+    - -90.5
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26912
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Guatemala
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- GT
-- GTM
-- Guatemala
-- غواتيمالا
-- 危地马拉
-- Гватемала
-- the Republic of Guatemala
-- la República de Guatemala
+    - GT
+    - GTM
+    - Guatemala
+    - غواتيمالا
+    - 危地马拉
+    - Гватемала
+    - the Republic of Guatemala
+    - la República de Guatemala
 Languages:
-- es-GT
+    - es-GT
+icon: flag-gt
 ---
 
 # [[Guatemala]] 
@@ -107,7 +108,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::GT]
-[ISO3::GTM]
+[ISO3::GTM] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Guatemala

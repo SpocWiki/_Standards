@@ -1,39 +1,40 @@
 ---
 location:
-- 49.6827
-- 6.07904
+    - 49.6827
+    - 6.07904
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26953
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Luxembourg
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- LU
-- LUX
-- Luxembourg
-- Luxemburgo
-- لكسمبرغ
-- 卢森堡
-- Люксембург
-- the Grand Duchy of Luxembourg
-- el Gran Ducado de Luxemburgo
+    - LU
+    - LUX
+    - Luxembourg
+    - Luxemburgo
+    - لكسمبرغ
+    - 卢森堡
+    - Люксембург
+    - the Grand Duchy of Luxembourg
+    - el Gran Ducado de Luxemburgo
 Languages:
-- lb
-- de-LU
-- fr-LU
+    - lb
+    - de-LU
+    - fr-LU
+icon: flag-lu
 ---
 
 # [[Luxembourg]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Western Europe]]
 
 
 [ISO2::LU]
-[ISO3::LUX]
+[ISO3::LUX] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Luxembourg

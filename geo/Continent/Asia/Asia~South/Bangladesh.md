@@ -1,37 +1,38 @@
 ---
 location:
-- 23.7
-- 90.36
+    - 23.7
+    - 90.36
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26843
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Bangladesh
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- BD
-- BGD
-- Bangladesh
-- بنغلاديش
-- 孟加拉国
-- Бангладеш
-- the People's Republic of Bangladesh
-- la República Popular de Bangladesh
+    - BD
+    - BGD
+    - Bangladesh
+    - بنغلاديش
+    - 孟加拉国
+    - Бангладеш
+    - the People's Republic of Bangladesh
+    - la República Popular de Bangladesh
 Languages:
-- bn-BD
-- en
+    - bn-BD
+    - en
+icon: flag-bd
 ---
 
 # [[Bangladesh]] 
@@ -108,7 +109,12 @@ Sub-region_Name ::  [[Southern Asia]]
 
 
 [ISO2::BD]
-[ISO3::BGD]
+[ISO3::BGD] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Bangladesh
 zoomFeatures: true 

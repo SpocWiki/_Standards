@@ -1,39 +1,40 @@
 ---
 location:
-- 43.715
-- 7.41
+    - 43.715
+    - 7.41
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26957
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Monaco
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- MC
-- MCO
-- Monaco
-- Mónaco
-- موناكو
-- 摩纳哥
-- Монако
-- the Principality of Monaco
-- el Principado de Mónaco
+    - MC
+    - MCO
+    - Monaco
+    - Mónaco
+    - موناكو
+    - 摩纳哥
+    - Монако
+    - the Principality of Monaco
+    - el Principado de Mónaco
 Languages:
-- fr-MC
-- en
-- it
+    - fr-MC
+    - en
+    - it
+icon: flag-mc
 ---
 
 # [[Monaco]] 
@@ -114,7 +115,12 @@ There is no geographical distinction between the State and City of Monaco,
 although responsibilities of the government (State~level) and of the municipality (City~level) are different.
 
 [ISO2::MC]
-[ISO3::MCO]
+[ISO3::MCO] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Monaco
 zoomFeatures: true 

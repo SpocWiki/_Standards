@@ -1,38 +1,39 @@
 ---
 location:
-- 51.1667
-- 71.4167
+    - 51.1667
+    - 71.4167
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26944
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Kazakhstan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- KZ
-- KAZ
-- Kazakhstan
-- Kazajstán
-- كازاخستان
-- 哈萨克斯坦
-- Казахстан
-- the Republic of Kazakhstan
-- la República de Kazajstán
+    - KZ
+    - KAZ
+    - Kazakhstan
+    - Kazajstán
+    - كازاخستان
+    - 哈萨克斯坦
+    - Казахстан
+    - the Republic of Kazakhstan
+    - la República de Kazajstán
 Languages:
-- kk
-- ru
+    - kk
+    - ru
+icon: flag-kz
 ---
 
 # [[Kazakhstan]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Central Asia]]
 
 
 [ISO2::KZ]
-[ISO3::KAZ]
+[ISO3::KAZ] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Kazakhstan
 zoomFeatures: true 

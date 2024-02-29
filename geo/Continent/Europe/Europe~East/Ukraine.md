@@ -1,39 +1,40 @@
 ---
 location:
-- 50.45
-- 30.5
+    - 50.45
+    - 30.5
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27044
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Ukraine
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- UA
-- UKR
-- Ukraine
-- Ucrania
-- أوكرانيا
-- 乌克兰
-- Украина
+    - UA
+    - UKR
+    - Ukraine
+    - Ucrania
+    - أوكرانيا
+    - 乌克兰
+    - Украина
 Languages:
-- uk
-- ru-UA
-- rom
-- pl
-- hu
+    - uk
+    - ru-UA
+    - rom
+    - pl
+    - hu
+icon: flag-ua
 ---
 
 # [[Ukraine]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 
 [ISO2::UA]
-[ISO3::UKR]
+[ISO3::UKR] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Ukraine
 zoomFeatures: true 

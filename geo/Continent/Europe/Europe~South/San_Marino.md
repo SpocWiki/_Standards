@@ -1,37 +1,38 @@
 ---
 location:
-- 43.93
-- 12.45
+    - 43.93
+    - 12.45
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27020
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: San Marino
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- SM
-- SMR
-- San Marino
-- Saint-Marin
-- سان مارينو
-- 圣马力诺
-- Сан-Марино
-- the Republic of San Marino
-- la República de San Marino
+    - SM
+    - SMR
+    - San Marino
+    - Saint-Marin
+    - سان مارينو
+    - 圣马力诺
+    - Сан-Марино
+    - the Republic of San Marino
+    - la República de San Marino
 Languages:
-- it-SM
+    - it-SM
+icon: flag-sm
 ---
 
 # [[San_Marino]] 
@@ -108,7 +109,12 @@ Sub-region_Name ::  [[Southern Europe]]
 
 
 [ISO2::SM]
-[ISO3::SMR]
+[ISO3::SMR] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: San Marino

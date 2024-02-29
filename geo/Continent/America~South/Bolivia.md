@@ -1,41 +1,42 @@
 ---
 location:
-- -17.7667
-- -66.7
+    - -17.7667
+    - -66.7
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26852
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Bolivia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- BO
-- BOL
-- Bolivia
-- Bolivia (Plurinational State of)
-- Bolivia (Estado Plurinacional de)
-- Bolivie (État plurinational de)
-- بوليفيا (دولة - المتعددة القوميات)
-- 玻利维亚(多民族国)
-- Боливия (Многонациональное Государство)
-- the Plurinational State of Bolivia
-- Estado Plurinacional de Bolivia
+    - BO
+    - BOL
+    - Bolivia
+    - Bolivia (Plurinational State of)
+    - Bolivia (Estado Plurinacional de)
+    - Bolivie (État plurinational de)
+    - بوليفيا (دولة - المتعددة القوميات)
+    - 玻利维亚(多民族国)
+    - Боливия (Многонациональное Государство)
+    - the Plurinational State of Bolivia
+    - Estado Plurinacional de Bolivia
 Languages:
-- es-BO
-- qu
-- ay
+    - es-BO
+    - qu
+    - ay
+icon: flag-bo
 ---
 
 # [[Bolivia]] 
@@ -112,7 +113,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::BO]
-[ISO3::BOL]
+[ISO3::BOL] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Bolivia

@@ -1,38 +1,39 @@
 ---
 location:
-- 37.9667
-- 58.3333
+    - 37.9667
+    - 58.3333
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27035
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Turkmenistan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- TM
-- TKM
-- Turkmenistan
-- Turkmenistán
-- Turkménistan
-- تركمانستان
-- 土库曼斯坦
-- Туркменистан
+    - TM
+    - TKM
+    - Turkmenistan
+    - Turkmenistán
+    - Turkménistan
+    - تركمانستان
+    - 土库曼斯坦
+    - Туркменистан
 Languages:
-- tk
-- ru
-- uz
+    - tk
+    - ru
+    - uz
+icon: flag-tm
 ---
 
 # [[Turkmenistan]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Central Asia]]
 
 
 [ISO2::TM]
-[ISO3::TKM]
+[ISO3::TKM] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Turkmenistan
 zoomFeatures: true 

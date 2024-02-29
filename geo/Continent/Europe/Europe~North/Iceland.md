@@ -1,43 +1,44 @@
 ---
 location:
-- 64.614
-- -21.718
+    - 64.614
+    - -21.718
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26929
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Iceland
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- IS
-- ISL
-- Iceland
-- Islandia
-- Islande
-- آيسلندا
-- 冰岛
-- Исландия
-- the Republic of Iceland
-- la República de Islandia
+    - IS
+    - ISL
+    - Iceland
+    - Islandia
+    - Islande
+    - آيسلندا
+    - 冰岛
+    - Исландия
+    - the Republic of Iceland
+    - la República de Islandia
 Languages:
-- is
-- en
-- de
-- da
-- sv
-- no
+    - is
+    - en
+    - de
+    - da
+    - sv
+    - 'no'
+icon: flag-is
 ---
 
 # [[Iceland]] 
@@ -114,7 +115,12 @@ Sub-region_Name ::  [[Northern Europe]]
 
 
 [ISO2::IS]
-[ISO3::ISL]
+[ISO3::ISL] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Iceland
 zoomFeatures: true 

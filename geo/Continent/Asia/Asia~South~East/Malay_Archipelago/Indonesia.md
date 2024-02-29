@@ -1,40 +1,41 @@
 ---
 location:
-- -6.695
-- 109.755
+    - -6.695
+    - 109.755
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26922
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Indonesia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- ID
-- IDN
-- Indonesia
-- Indonésie
-- إندونيسيا
-- 印度尼西亚
-- Индонезия
-- the Republic of Indonesia
-- la República de Indonesia
+    - ID
+    - IDN
+    - Indonesia
+    - Indonésie
+    - إندونيسيا
+    - 印度尼西亚
+    - Индонезия
+    - the Republic of Indonesia
+    - la República de Indonesia
 Languages:
-- id
-- en
-- nl
-- jv
+    - id
+    - en
+    - nl
+    - jv
+icon: flag-id
 ---
 
 # [[Indonesia]] 
@@ -115,7 +116,12 @@ Sub-region_Name ::  [[South-eastern Asia]]
 
 
 [ISO2::ID]
-[ISO3::IDN]
+[ISO3::IDN] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Indonesia
 zoomFeatures: true 

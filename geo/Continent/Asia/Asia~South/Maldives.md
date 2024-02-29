@@ -1,38 +1,39 @@
 ---
 location:
-- 4.16667
-- 73.5
+    - 4.16667
+    - 73.5
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26972
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Maldives
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- MV
-- MDV
-- Maldives
-- Maldivas
-- ملديف
-- 马尔代夫
-- Мальдивские Острова
-- the Republic of Maldives
-- la República de Maldivas
+    - MV
+    - MDV
+    - Maldives
+    - Maldivas
+    - ملديف
+    - 马尔代夫
+    - Мальдивские Острова
+    - the Republic of Maldives
+    - la República de Maldivas
 Languages:
-- dv
-- en
+    - dv
+    - en
+icon: flag-mv
 ---
 
 # [[Maldives]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Southern Asia]]
 
 
 [ISO2::MV]
-[ISO3::MDV]
+[ISO3::MDV] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Maldives
 zoomFeatures: true 

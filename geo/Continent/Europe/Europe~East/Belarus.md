@@ -1,39 +1,40 @@
 ---
 location:
-- 53.9
-- 27.57
+    - 53.9
+    - 27.57
 type: Country
 SpocWebEntityId: 26858
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+    - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Belarus
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- BY
-- BLR
-- Belarus
-- Belarús
-- Bélarus
-- بيلاروس
-- 白俄罗斯
-- Беларусь
-- the Republic of Belarus
-- la República de Belarús
+    - BY
+    - BLR
+    - Belarus
+    - Belarús
+    - Bélarus
+    - بيلاروس
+    - 白俄罗斯
+    - Беларусь
+    - the Republic of Belarus
+    - la República de Belarús
 Languages:
-- be
-- ru
+    - be
+    - ru
+icon: flag-by
 ---
 
 # [[Belarus]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 
 [ISO2::BY]
-[ISO3::BLR]
+[ISO3::BLR] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Belarus
 zoomFeatures: true 

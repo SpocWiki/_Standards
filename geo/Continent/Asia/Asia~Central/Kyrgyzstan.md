@@ -1,40 +1,41 @@
 ---
 location:
-- 42.8667
-- 74.6
+    - 42.8667
+    - 74.6
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26935
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Kyrgyzstan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- KG
-- KGZ
-- Kyrgyzstan
-- Kirguistán
-- Kirghizistan
-- قيرغيزستان
-- 吉尔吉斯斯坦
-- Кыргызстан
-- the Kyrgyz Republic
-- la República Kirguisa
+    - KG
+    - KGZ
+    - Kyrgyzstan
+    - Kirguistán
+    - Kirghizistan
+    - قيرغيزستان
+    - 吉尔吉斯斯坦
+    - Кыргызстан
+    - the Kyrgyz Republic
+    - la República Kirguisa
 Languages:
-- ky
-- uz
-- ru
+    - ky
+    - uz
+    - ru
+icon: flag-kg
 ---
 
 # [[Kyrgyzstan]] 
@@ -112,7 +113,12 @@ Sub-region_Name ::  [[Central Asia]]
 
 
 [ISO2::KG]
-[ISO3::KGZ]
+[ISO3::KGZ] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Kyrgyzstan
 zoomFeatures: true 

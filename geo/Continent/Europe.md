@@ -1,12 +1,13 @@
 ---
 type: Continent
 SpocWebEntityId: 1111
-confidential:: public
-aliases: 
-- Europa
+'confidential:': public
+aliases:
+    - Europa
 tags:
-  - geo/Continent
+    - geo/Continent
 isDeleted: false
+icon: fas_earth_europe
 ---
 
 ```leaflet

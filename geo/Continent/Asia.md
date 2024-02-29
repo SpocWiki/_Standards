@@ -2,10 +2,10 @@
 type: Continent
 confidential: public
 SpocWebEntityId: 27161
-
 tags:
-  - geo/Continent
+    - geo/Continent
 isDeleted: false
+icon: earth_asia
 ---
 
 # [[Asia]] 

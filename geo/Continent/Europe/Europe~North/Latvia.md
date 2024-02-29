@@ -1,40 +1,41 @@
 ---
 location:
-- 56.95
-- 24.11
+    - 56.95
+    - 24.11
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26954
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Latvia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- LV
-- LVA
-- Latvia
-- Letonia
-- Lettonie
-- لاتفيا
-- 拉脱维亚
-- Латвия
-- the Republic of Latvia
-- la República de Letonia
+    - LV
+    - LVA
+    - Latvia
+    - Letonia
+    - Lettonie
+    - لاتفيا
+    - 拉脱维亚
+    - Латвия
+    - the Republic of Latvia
+    - la República de Letonia
 Languages:
-- lv
-- ru
-- lt
+    - lv
+    - ru
+    - lt
+icon: flag-lv
 ---
 
 # [[Latvia]] 
@@ -111,7 +112,12 @@ Sub-region_Name ::  [[Northern Europe]]
 
 
 [ISO2::LV]
-[ISO3::LVA]
+[ISO3::LVA] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Latvia

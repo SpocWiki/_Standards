@@ -1,13 +1,14 @@
 ---
-location: [41.7167,44.7833]
+location:
+    - 41.7167
+    - 44.7833
 type: Country
 tags:
-- geo/Country
-
+    - geo/Country
 SpocWebEntityId: 26901
 isDeleted: false
 confidential: public
-
+icon: flag-ge
 ---
 
 # [[Georgia.Europe]] 
@@ -18,7 +19,12 @@ For more Details, check out this Repository into this Subfolder:
 [[Georgia.Europe/ReadMe]] 
 
 [ISO2::GE]
-[ISO3::GEO]
+[ISO3::GEO] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Georgia

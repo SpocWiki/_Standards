@@ -1,42 +1,43 @@
 ---
 location:
-- -20.7333
-- -45.9467
+    - -20.7333
+    - -45.9467
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26853
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Brazil
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- BR
-- BRA
-- Brazil
-- Brasil
-- Brésil
-- البرازيل
-- 巴西
-- Бразилия
-- the Federative Republic of Brazil
-- la República Federativa del Brasil
-- Brasil (el)
+    - BR
+    - BRA
+    - Brazil
+    - Brasil
+    - Brésil
+    - البرازيل
+    - 巴西
+    - Бразилия
+    - the Federative Republic of Brazil
+    - la República Federativa del Brasil
+    - Brasil (el)
 Languages:
-- pt-BR
-- es
-- en
-- fr
+    - pt-BR
+    - es
+    - en
+    - fr
+icon: flag-br
 ---
 
 # [[Brazil]] 
@@ -113,7 +114,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::BR]
-[ISO3::BRA]
+[ISO3::BRA] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Brazil

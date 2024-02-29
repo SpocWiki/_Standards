@@ -1,39 +1,40 @@
 ---
 location:
-- 46.05
-- 14.52
+    - 46.05
+    - 14.52
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27016
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Slovenia
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- SI
-- SVN
-- Slovenia
-- Eslovenia
-- Slovénie
-- سلوفينيا
-- 斯洛文尼亚
-- Словения
-- the Republic of Slovenia
-- la República de Eslovenia
+    - SI
+    - SVN
+    - Slovenia
+    - Eslovenia
+    - Slovénie
+    - سلوفينيا
+    - 斯洛文尼亚
+    - Словения
+    - the Republic of Slovenia
+    - la República de Eslovenia
 Languages:
-- sl
-- sh
+    - sl
+    - sh
+icon: flag-si
 ---
 
 # [[Slovenia]] 
@@ -110,7 +111,12 @@ Sub-region_Name ::  [[Southern Europe]]
 
 
 [ISO2::SI]
-[ISO3::SVN]
+[ISO3::SVN] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Slovenia

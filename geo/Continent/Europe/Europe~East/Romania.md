@@ -1,38 +1,39 @@
 ---
 location:
-- 46.2258
-- 24.9906
+    - 46.2258
+    - 24.9906
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27006
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Romania
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- RO
-- ROU
-- Romania
-- Rumania
-- Roumanie
-- رومانيا
-- 罗马尼亚
-- Румыния
+    - RO
+    - ROU
+    - Romania
+    - Rumania
+    - Roumanie
+    - رومانيا
+    - 罗马尼亚
+    - Румыния
 Languages:
-- ro
-- hu
-- rom
+    - ro
+    - hu
+    - rom
+icon: flag-ro
 ---
 
 # [[Romania]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Eastern Europe]]
 
 
 [ISO2::RO]
-[ISO3::ROM]
+[ISO3::ROM] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Romania

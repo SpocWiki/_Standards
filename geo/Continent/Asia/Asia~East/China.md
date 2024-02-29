@@ -1,42 +1,43 @@
 ---
 location:
-- 35.6637
-- 117.985
+    - 35.6637
+    - 117.985
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26870
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: China
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- CN
-- CHN
-- China
-- Chine
-- الصين
-- 中国
-- Китай
-- the People's Republic of China
-- la República Popular China
+    - CN
+    - CHN
+    - China
+    - Chine
+    - الصين
+    - 中国
+    - Китай
+    - the People's Republic of China
+    - la República Popular China
 Languages:
-- zh-CN
-- yue
-- wuu
-- dta
-- ug
-- za
+    - zh-CN
+    - yue
+    - wuu
+    - dta
+    - ug
+    - za
+icon: flag-cn
 ---
 
 # [[China]] 
@@ -113,7 +114,11 @@ Sub-region_Name ::  [[Eastern Asia]]
 
 
 [ISO2::CN]
-[ISO3::CHN]
+[ISO3::CHN] 
+
+## #has_/map  
+
+
 ```leaflet
 id: China
 zoomFeatures: true 

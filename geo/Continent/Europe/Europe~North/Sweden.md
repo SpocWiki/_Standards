@@ -1,41 +1,42 @@
 ---
 location:
-- 59.7646
-- 16.5434
+    - 59.7646
+    - 16.5434
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27013
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Sweden
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- SE
-- SWE
-- Sweden
-- Suecia
-- Suède
-- السويد
-- 瑞典
-- Швеция
-- the Kingdom of Sweden
-- el Reino de Suecia
+    - SE
+    - SWE
+    - Sweden
+    - Suecia
+    - Suède
+    - السويد
+    - 瑞典
+    - Швеция
+    - the Kingdom of Sweden
+    - el Reino de Suecia
 Languages:
-- sv-SE
-- se
-- sma
-- fi-SE
+    - sv-SE
+    - se
+    - sma
+    - fi-SE
+icon: flag-se
 ---
 
 # [[Sweden]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Northern Europe]]
 
 [	ISO3166-1-numeric	 :: 752 ]
 [ISO2::SE]
-[ISO3::SWE]
+[ISO3::SWE] 
+
+## #has_/map  
+
+
+
 
 ```leaflet
 id: Sweden

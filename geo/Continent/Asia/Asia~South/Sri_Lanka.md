@@ -1,38 +1,39 @@
 ---
 location:
-- 6.86
-- 80.425
+    - 6.86
+    - 80.425
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26949
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Sri Lanka
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- LK
-- LKA
-- Sri Lanka
-- سري لانكا
-- 斯里兰卡
-- Шри-Ланка
-- the Democratic Socialist Republic of Sri Lanka
-- la República Socialista Democrática de Sri Lanka
+    - LK
+    - LKA
+    - Sri Lanka
+    - سري لانكا
+    - 斯里兰卡
+    - Шри-Ланка
+    - the Democratic Socialist Republic of Sri Lanka
+    - la República Socialista Democrática de Sri Lanka
 Languages:
-- si
-- ta
-- en
+    - si
+    - ta
+    - en
+icon: flag-lk
 ---
 
 # [[Sri_Lanka]] 
@@ -110,6 +111,11 @@ Sub-region_Name ::  [[Southern Asia]]
 
 [ISO2::LK]
 [ISO3::LKA]
+ 
+
+## #has_/map  
+
+
 
 ```leaflet
 id: Sri Lanka

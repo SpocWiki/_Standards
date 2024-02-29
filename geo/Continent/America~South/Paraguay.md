@@ -1,38 +1,39 @@
 ---
 location:
-- -25.27
-- -57.67
+    - -25.27
+    - -57.67
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 27003
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Paraguay
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- PY
-- PRY
-- Paraguay
-- باراغواي
-- 巴拉圭
-- Парагвай
-- the Republic of Paraguay
-- la República del Paraguay
-- Paraguay (el)
+    - PY
+    - PRY
+    - Paraguay
+    - باراغواي
+    - 巴拉圭
+    - Парагвай
+    - the Republic of Paraguay
+    - la República del Paraguay
+    - Paraguay (el)
 Languages:
-- es-PY
-- gn
+    - es-PY
+    - gn
+icon: flag-py
 ---
 
 # [[Paraguay]] 
@@ -109,7 +110,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::PY]
-[ISO3::PRY]
+[ISO3::PRY] 
+
+## #has_/map  
+
+
+
 ```leaflet
 id: Paraguay
 zoomFeatures: true 

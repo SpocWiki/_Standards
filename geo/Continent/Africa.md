@@ -1,12 +1,14 @@
 ---
-location: [0,0]
+location:
+    - 0
+    - 0
 type: Continent
 confidential: public
 SpocWebEntityId: 27156
-
 tags:
-  - geo/Continent
+    - geo/Continent
 isDeleted: false
+icon: earth_africa
 ---
 
 # [[Africa]] 

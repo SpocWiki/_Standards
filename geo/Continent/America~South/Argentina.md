@@ -1,43 +1,44 @@
 ---
 location:
-- -34.62
-- -58.41
+    - -34.62
+    - -58.41
 type: Country
 tags:
-- geo/Country
+    - geo/Country
 SpocWebEntityId: 26835
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
 title: Argentina
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-- AR
-- ARG
-- Argentina
-- Argentine
-- الأرجنتين
-- 阿根廷
-- Аргентина
-- the Argentine Republic
-- la República Argentina
-- Argentina (la)
+    - AR
+    - ARG
+    - Argentina
+    - Argentine
+    - الأرجنتين
+    - 阿根廷
+    - Аргентина
+    - the Argentine Republic
+    - la República Argentina
+    - Argentina (la)
 Languages:
-- es-AR
-- en
-- it
-- de
-- fr
-- gn
+    - es-AR
+    - en
+    - it
+    - de
+    - fr
+    - gn
+icon: flag-ar
 ---
 
 # [[Argentina]] 
@@ -114,7 +115,10 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 [ISO2::AR]
-[ISO3::ARG]
+[ISO3::ARG] 
+
+## #has_/map  
+
 
 ```leaflet
 id: Argentina
