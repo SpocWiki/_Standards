@@ -61,6 +61,11 @@ For more Details, check out this Repository into this Subfolder:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tanzania)
 
 
+## #has_/Etymology 
+
+The name "Tanzania" was created as a [clipped compound](https://en.wikipedia.org/wiki/Clipped_compound "Clipped compound") of the names of the two states that unified to create the country: [Tanganyika](https://en.wikipedia.org/wiki/Tanganyika_(1961%E2%80%931964) "Tanganyika (1961–1964)") and [Zanzibar](https://en.wikipedia.org/wiki/People%27s_Republic_of_Zanzibar).
+
+
 [	ISO4217-currency_alphabetic	 :: TZS ]
 [	ISO4217-currency_name	 :: Tanzanian Shilling ]
 [	ISO4217-currency_numeric	 :: 834 ]
