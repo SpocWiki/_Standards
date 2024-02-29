@@ -5,8 +5,8 @@
 workspace
 workspace.json
 
+.obsidian*/**/*
 #.obsidian.mobile/**/*
-#.obsidian/**/*
 #.obsidian.desktop/**/*
 #
 #.obsidian.mobile
