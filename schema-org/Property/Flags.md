@@ -1,7 +1,8 @@
 ---
-aliases: 
-- tags
-- adjectives
+aliases:
+    - tags
+    - adjectives
+icon: luc_flag_triangle_right
 ---
 
 # Flags Overview
