@@ -118,12 +118,11 @@ Sub-region_Name ::  [[South-eastern Asia]]
 ## #has_/map  
 
 
-
 ```leaflet
-id: Vietnam
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+id: Vietnam
 geojsonFolder: ./Vietnam//
 markerFolder: ./Vietnam/
 ```
