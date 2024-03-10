@@ -26,9 +26,14 @@ tags:
 - geo/Country
 ---
 
-
 [ISO2::US] 
 [ISO3::USA] 
+
+
+#has_/telephone_/Prefix_/International :: 011
+#has_/telephone_/Prefix_/Country :: 1 
+
+
 
 ## #has_/map 
 

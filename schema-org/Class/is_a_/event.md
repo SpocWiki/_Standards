@@ -1,36 +1,29 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
 cssclasses: Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_an_event Class
 linkTitle: is_an_event Class
-
-keywords: [event]
-layout: 
+keywords:
+    - event
+layout: null
 draft: false
-publishDate:
-expiryDate: 
-
-equivalent_class: http://purl.org/dc/dcmitype/Event
-
+publishDate: null
+expiryDate: null
+equivalent_class: 'http://purl.org/dc/dcmitype/Event'
 tags:
-- class/Class
-- schema-org/Class
-
+    - class/Class
+    - schema-org/Class
 aliases:
-- event
-- event
-- Event
-- is_an_event
+    - event
+    - event
+    - Event
+    - is_an_event
+icon: fas_bolt_lightning
 ---
 
 Class of all events.

@@ -50,7 +50,9 @@ For more Details, check out this Repository into this Subfolder:
 [	ISO4217-currency_minor_unit	 :: 0 ]
 [	ISO4217-currency_country_name	 :: JAPAN ]
 
-[	Telephone	 :: 81 ]
+#has_/telephone_/Prefix_/International :: 010 
+#has_/telephone_/Prefix_/Country :: 81 
+
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]

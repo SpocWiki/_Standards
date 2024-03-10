@@ -47,7 +47,8 @@ For more Details, check out this Repository into this Subfolder:
 [	ISO4217-currency_minor_unit	 :: 2 ]
 [	ISO4217-currency_country_name	 :: AUSTRALIA ]
 
-[	Telephone	 :: 61 ]
+#has_/telephone_/Prefix_/International :: 0011  
+#has_/telephone_/Prefix_/Country :: 61 
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
