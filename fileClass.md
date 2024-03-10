@@ -8,6 +8,9 @@ The Icons for several Classes have been selected from https://lucide.dev
 ## All Contents
 
 
+```folderv
+```
+
 ```ccard
 type: folder_brief_live
 ```

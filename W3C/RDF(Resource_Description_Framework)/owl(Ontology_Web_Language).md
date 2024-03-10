@@ -6,6 +6,9 @@ is a very expressive Language with more inference and strictness than [[rdfs]]
 
 ## All Contents
 
+```folderv
+```
+
 ```ccard
 type: folder_brief_live
 style : card

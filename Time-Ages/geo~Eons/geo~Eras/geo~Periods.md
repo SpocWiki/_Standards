@@ -2,6 +2,9 @@ A period is equivalent to a chronostratigraphic system. These are millions to te
 
 ## All Contents
 
+```folderv
+```
+
 ```ccard
 type: folder_brief_live
 style : card

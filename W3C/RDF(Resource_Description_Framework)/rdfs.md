@@ -8,6 +8,9 @@ RDF-Schema is a simple Language to describe [[RDF~Classes/rdfs~Class|rdfs~Class]
 
 ## All Contents
 
+```folderv
+```
+
 ```ccard
 type: folder_brief_live
 style : card
