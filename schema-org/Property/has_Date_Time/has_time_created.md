@@ -28,9 +28,14 @@ aliases:
 - date_created
 - dateCreated
 - has_time_created
+- has_time_started
 ---
 
 Predicate to describe the date of CreativeWork, DataFeedItem.
+Analog to [[../../../../Data/Wikipedia/WikiData|WikiData]] [[has_time_to_start]]  and [[has_time_to_end]] 
+which is the moment when an entity begins/ceases to exist or a statement starts/stops being valid.
+
+#has_/url :: https://www.wikidata.org/wiki/Property:P580 
 
 Use it like this: 
 - [has_time_created::P#Y#M#W#DT#H#M#s.fff] or 
