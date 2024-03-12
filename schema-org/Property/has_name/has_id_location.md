@@ -31,13 +31,11 @@ aliases:
 - has_id_location
 ---
 
-Predicate to describe the Text of Organization, Person, Place.
+The [Global Location Number](http://www.gs1.org/gln) (GLN, sometimes also referred to as International Location Number or ILN) of the respective organization, person, or place. The GLN is a 13-digit number used to identify parties and physical locations.
 
 Use it like this: 
 - [ #has_/id_/location :: Text ] or 
 - [ has_id_location :: Text ] 
-
-The [Global Location Number](http://www.gs1.org/gln) (GLN, sometimes also referred to as International Location Number or ILN) of the respective organization, person, or place. The GLN is a 13-digit number used to identify parties and physical locations.
 
 Predicated describes that: 
 [ #has_/domain  :: Organization, Person, Place ]

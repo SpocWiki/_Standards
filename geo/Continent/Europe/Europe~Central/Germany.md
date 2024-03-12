@@ -528,7 +528,7 @@ shares border with:
   - "[[../../../../db/France]]"
   - "[[../../../../db/Czech Republic]]"
 continent: "[[../../../../db/Europe]]"
-capital: "[[../../../../db/Berlin]]"
+has_capital: "[[../../../../db/Berlin]]"
 speed limit:
   - 100
   - 50

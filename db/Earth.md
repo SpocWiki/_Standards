@@ -1,4 +1,5 @@
 ---
+has_id_wikidata: Q2
 has part(s):
   - "[[_Standards/db/hydrosphere]]"
   - "[[_Standards/db/lithosphere]]"
@@ -267,5 +268,150 @@ longitude of ascending node: 348.73936
 bathymetry image: http://commons.wikimedia.org/wiki/Special:FilePath/AYool%20topography%2015min.png
 orbital period: 365.256363004
 Wolfram Language entity code: Entity["Planet", "Earth"]
-wikidata entity id: Q2
+GeoNames ID: "6295630"
+BBC Things ID: dd8bc764-62f3-4f5f-837d-09aa2580f7b9
+Getty Thesaurus of Geographic Names ID: "7030638"
+FAST ID: "1860481"
+YSO ID: "11861"
+BabelNet ID: 00029424n
+Great Russian Encyclopedia Online ID (old version): "5310930"
+NAIF ID: "399"
+Encyclopædia Universalis ID:
+  - terre-la-planete-terre
+  - terre-vue-d-ensemble
+NE.se ID: jorden
+lib.reviews ID: earth
+Quora topic ID: Earth-planet
+Zhihu topic ID: "19560080"
+Cultureel Woordenboek ID: aarde-weer-en-klimaat/aarde
+Peakbagger area ID: "0"
+JSTOR topic ID: earth
+Open Library subject ID:
+  - earth
+  - earth_(planet)
+  - place:earth
+  - place:earth_(planet)
+UNESCO Thesaurus ID: concept4083
+PACTOLS thesaurus ID: pcrtYJe0Kp7hmm
+Store norske leksikon ID: Jorden
+GACS ID: "24817"
+VIAF ID: "6270149919445006650001"
+GND ID: "1135962553"
+Library of Congress authority ID: sh85040427
+Bibliothèque nationale de France ID: 11975911n
+NDL Authority ID: "00573040"
+MeSH descriptor ID: D018534
+BNCF Thesaurus ID: "5175"
+topic's main category:
+  - "[[_Standards/db/Category:Earth]]"
+  - "[[_Standards/db/Category:Earth (planet)]]"
+  - "[[_Standards/db/Category:Earth (astronomical object)]]"
+on focus list of Wikimedia project:
+  - "[[_Standards/db/Wikipedia:List of articles all languages should have]]"
+  - "[[_Standards/db/Wikipedia:Vital articles/Level/4]]"
+epoch: "[[_Standards/db/J2000.0]]"
+Unified Astronomy Thesaurus ID: "439"
+Encyclopedia of Modern Ukraine ID: "15977"
+LoC and MARC vocabularies ID: geographicAreas/x
+Brockhaus Enzyklopädie online ID: erde
+National Library of Korea ID: KSH1998010647
+Interlingual Index ID: i85350
+Römpp online ID: RD-05-01501
+Giant Bomb ID: 3035-65
+Google News topics ID: CAAqIQgKIhtDQkFTRGdvSUwyMHZNREpxTnpFU0FtVnVLQUFQAQ
+The Encyclopedia of Science Fiction ID: terra
+archINFORM location ID: "3070"
+Comic Vine ID: 4020-57183
+Larousse ID:
+  - divers/Terre/96671
+  - images/La_Terre/1008518
+BBC News topic ID: c34p8n88rl6t
+Fandom article ID:
+  - anything:Earth
+  - astronomical:Earth
+  - cryptids12-everything:Earth
+  - earth:Earth
+  - nasa:Earth
+  - neoencyclopedia:Earth
+  - oursolarsystem:Earth
+  - planet:Earth
+  - planets:Earth
+  - solar-system:Earth
+  - solarsystem:Earth
+  - space:Earth
+  - spaceearthandweather:Earth
+  - thesolarsystem:Earth
+  - thestarsabove:Earth
+YSA ID: Y103338
+Klexikon article ID: Erde
+MeSH term ID: T000950539
+MeSH concept ID: M0027785
+De Agostini ID: Tèrra+(astronomia)
+Who's on First ID: "0"
+ProofWiki ID: Definition:Earth
+TV Tropes ID: UsefulNotes/Earth
+NicoNicoPedia ID: 地球
+Australian Educational Vocabulary ID: scot/1917
+National Library of Iceland ID: "000051235"
+Online PWN Encyclopedia ID: "4001456"
+TDV İslam Ansiklopedisi ID: yer
+iNaturalist place ID: "93997"
+Golden ID: Earth
+French Vikidia ID: Terre
+Italian Vikidia ID: Terra
+Spanish Vikidia ID: Tierra
+English Vikidia ID: Earth
+Basque Vikidia ID: Lur
+AGROVOC ID: c_2437
+ToposText person ID: "17814"
+FactGrid item ID: Q176134
+National Library of Israel J9U ID: "987007445644605171"
+iDAI.gazetteer ID: "2042600"
+Den Store Danske ID: Jorden
+KBpedia ID: PlanetEarth
+RKD thesaurus ID: "35597"
+WordNet 3.1 Synset ID: 09293800-n
+Namuwiki ID: 지구
+All the Tropes ID: Earth
+IFLA value vocabularies ID: planet#ea
+Catalan Vikidia ID: Terra
+bashenc.online ID: "85704"
+Cyprus Bibliography ID: "11978"
+France24 topic ID (French): terre
+Encyclopedia of Korean Culture ID: E0054086
+Encyclopedia of China (Second Edition) ID: "198855"
+Bing entity ID: 6ddb3372-4801-5567-321e-e8a53bd774a4
+National Library of Ireland ID: vtls000220975
+Der Spiegel topic ID: erde
+OpenAlex ID: C3019945712
+Wikisimpsons article ID: "188974"
+ScienceDirect topic ID:
+  - earth-and-planetary-sciences/earth
+  - engineering/planet-earth
+Encyclopedia of China (Third Edition) ID:
+  - "580878"
+  - "514491"
+Personality Database profile ID: "51788"
+WorldCat Entities ID: E39PBJB8v443pPTqgvXgPkBtrq
+EU Knowledge Graph item ID: Q481
+Famous Birthdays ID: planets/earth
+Pixiv Encyclopedia ID: 地球
+WikiKids ID: Aarde_(planeet)
+Gran Enciclopèdia Catalana ID: terra-14
+Freebase ID: /m/02j71
+NL CR AUT ID: ph117167
+National Library of Israel ID (old): "003982849"
+National Library of Spain ID: XX453913
+Curlie ID:
+  - Science/Astronomy/Solar_System/Planets/Earth/
+  - World/Deutsch/Wissenschaft/Naturwissenschaften/Astronomie/Sonnensystem/Planeten/Erde/
+  - World/Español/Ciencia_y_tecnología/Astronomía/Sistema_Solar/Planetas/Tierra/
+PSH ID:
+  - "499"
+  - "3769"
+Gran Enciclopèdia Catalana ID (former scheme): "0145903"
+Encyclopædia Britannica Online ID: place/Earth
 ---
+
+`$=dv.current().has_id_wikidata` 
+

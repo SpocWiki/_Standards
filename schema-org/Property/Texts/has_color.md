@@ -26,9 +26,10 @@ tags:
 
 aliases:
 - color
-- color
-- color
+- P462
 - has_text_of_color
+
+
 ---
 
 Predicate to describe the Text of Product.
