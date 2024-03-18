@@ -28,7 +28,7 @@ markerFolder: ./Oceania/
 
 [name-en::Oceania]
 [name-de::Ozeanien]
-[ #has/_code  :: OC ]
+[ #has_/code  :: OC ]
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/geo/Continent/Oceania|Oceania]] 

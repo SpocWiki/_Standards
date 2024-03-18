@@ -29,7 +29,7 @@ markerFolder: ./Antarctica/
 
 [name-en::Antarctica]
 [name-de::Antarktis]
-[ #has/_code  :: AN ]
+[ #has_/code  :: AN ]
 
 
 ## Confidential Links & Embeds: 

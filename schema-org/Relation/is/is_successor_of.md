@@ -38,7 +38,7 @@ A pointer from a newer variant of a product  to its previous,
 often [[../../Class/is_a_/Intangible/enumeration/item_availability/discontinued|discontinued]] predecessor.
 
 Relation describes that: 
-[ #is/domain  :: [[../../Class/is_a_/product/product_model|ProductModel]] ]
+[#has_/domain :: [[../../Class/is_a_/product/product_model|ProductModel]] ]
 ( #has_/name :: is_successor_of )
 ( #has_/range :: [[../../Class/is_a_/product/product_model|ProductModel]] )
 

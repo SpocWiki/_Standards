@@ -28,7 +28,7 @@ long: 10
 
 [name-en::Africa]
 [name-de::Afrika]
-[ #has/_code  :: AF ]
+[ #has_/code  :: AF ]
 
 Confidential Links: 
 [[../../../_internal/geo/Continent/Africa.internal|Africa.internal]] 

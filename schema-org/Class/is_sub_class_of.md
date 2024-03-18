@@ -25,12 +25,13 @@ aliases:
   - subClassOf
   - is_subclass_of
   - is_a_kind_of
+  - is_a
   - are_a_kind_of
   - rdfs~subClassOf
   - 
 ---
 Relates a subclass to its super-class. 
-Alternative, better readable Name: is_a_kind_of similar to #is_a_ 
+Alternative, better readable Name: is_a_kind_of similar to `#is_a_` 
 Could be implemented with dedicated #Tags, 
 but that would create a Tag-Proliferation. 
 
