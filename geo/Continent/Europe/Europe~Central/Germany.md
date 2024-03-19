@@ -539,8 +539,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20B
 official language: "[[../../../../db/German]]"
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Germany.svg
 pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Deutschland.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Natschoba-Deutschland.wav
+  - "[[http: //commons.wikimedia.org/wiki/Special:FilePath/De-Deutschland.ogg]]"
+  - http: //commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Natschoba-Deutschland.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-ENERGY%20ENCHANTED-Deutschland.wav
 satellite view: http://commons.wikimedia.org/wiki/Special:FilePath/Deutschland%20Luftbild.jpg
 relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Deutschland%20topo.jpg
@@ -631,15 +631,25 @@ maritime identification digits:
   - "211"
   - "218"
 
+has_name:
+ _ : Germany 
+ en : Germany 
+ es : Alemania 
+ fr : Allemagne 
+ cn : 德国 
+ ar : ألمانيا 
+ ru : Германия 
+ 
 ---
 
-# [[Germany]] 
+# [[Germany]] (Deutschland)
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
-[[Germany/ReadMe]] 
+Link to the Sub-Repository: [[Germany/ReadMe]] 
 
+## Metadata 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
@@ -652,6 +662,7 @@ For more Details, check out this Repository into this Subfolder:
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
 
+### International Names
 [	name	 :: Germany ]
 [	name-en	 :: Germany ]
 [	name-es	 :: Alemania ]
@@ -662,18 +673,18 @@ For more Details, check out this Repository into this Subfolder:
 
 [	CLDR_display_name	 :: Germany ]
 
-[	UNTERM_English	 :: Germany ]
-[	UNTERM_English_Formal	 :: the Federal Republic of Germany ]
-[	UNTERM_Spanish_Formal	 :: la República Federal de Alemania ]
-[	UNTERM_Spanish	 :: Alemania ]
-[	UNTERM_French	 :: Allemagne (l') [fém.] ]
-[	UNTERM_Arabic	 :: ألمانيا ]
-[	UNTERM_Arabic_Formal	 :: جمهورية ألمانيا الاتحادية ]
-[	UNTERM_Chinese	 :: 德国 ]
-[	UNTERM_Chinese_Formal	 :: 德意志联邦共和国 ]
-[	UNTERM_French_Formal	 :: la République fédérale d'Allemagne ]
-[	UNTERM_Russian	 :: Германия ]
-[	UNTERM_Russian_Formal	 :: Федеративная Республика Германия ]
+[	UNTERM_English	 :: Germany ] 
+[	UNTERM_English_Formal	 :: the Federal Republic of Germany ] 
+[	UNTERM_Spanish_Formal	 :: la República Federal de Alemania ] 
+[	UNTERM_Spanish	 :: Alemania ] 
+[	UNTERM_French	 :: Allemagne (l') [fém.] ] 
+[	UNTERM_Arabic	 :: ألمانيا ] 
+[	UNTERM_Arabic_Formal	 :: جمهورية ألمانيا الاتحادية ] 
+[	UNTERM_Chinese	 :: 德国 ] 
+[	UNTERM_Chinese_Formal	 :: 德意志联邦共和国 ] 
+[	UNTERM_French_Formal	 :: la République fédérale d'Allemagne ]  
+[	UNTERM_Russian	 :: Германия ] 
+[	UNTERM_Russian_Formal	 :: Федеративная Республика Германия ] 
 
 Region_Name ::  [[Europe]] 
 Intermediate_Region_Name ::  [[]] 
@@ -683,31 +694,30 @@ Sub-region_Name ::  [[Western Europe]]
 [	Intermediate_Region	 ::  ]
 [	Sub-region	 :: 155 ]
 
-[	Geoname-ID	 :: 2921044 ]
-[	FIPS	 :: GM ]
-[	FIFA	 :: GER ]
-[	IOC	 :: GER ]
-[	MARC	 :: gw ]
-[	GAUL	 :: 93 ]
-[	WMO	 :: DL ]
-[	ITU	 :: D ]
-[	DS	 :: D ]
-[	TLD	 :: .de ]
-[	EDGAR	 :: 2M ]
-[	M49	 :: 276 ]
+[	Geoname-ID	 :: 2921044 ] 
+[	FIPS	 :: GM ] 
+[	FIFA	 :: GER ] 
+[	IOC	 :: GER ] 
+[	MARC	 :: gw ] 
+[	GAUL	 :: 93 ] 
+[	WMO	 :: DL ] 
+[	ITU	 :: D ] 
+[	DS	 :: D ] 
+[	TLD	 :: .de ] 
+[	EDGAR	 :: 2M ] 
+[	M49	 :: 276 ] 
 
-[	is_independent	 :: Yes ]
-[	Developed_/Developing_Countries	 :: Developed ]
-[	Land_Locked_Developing_Countries	 ::  ]
-[	Least_Developed_Countries	 ::  ]
-[	Small_Island_Developing_States	 ::  ]
+[	is_independent	 :: Yes ] 
+[	Developed_/Developing_Countries	 :: Developed ] 
+[	Land_Locked_Developing_Countries	 ::  ] 
+[	Least_Developed_Countries	 ::  ] 
+[	Small_Island_Developing_States	 ::  ] 
 
-[	ISO3166-1-numeric	 :: 276 ]
-
-
+[	ISO3166-1-numeric	 :: 276 ] 
 
 
-# Germany (Deutschland)
+
+## Maps and Flags 
 
 [ISO2::DE]
 [ISO3::DEU]
