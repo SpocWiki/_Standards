@@ -1,6 +1,10 @@
 
 # [[Unit~Gram]] 
 
+
+#is_an_ :: [[../SI-Unit]] 
+Unit :: #Unit/SI/g
+
 > The **gram** (originally gramme; SI unit symbol g) is a unit of [[Dim~mass]] in the International System of Units (SI) equal to one one thousandth of a kilogram.
 >
 > Originally defined as of 1795 as "the absolute weight of a volume of pure water equal to the cube of the hundredth part of a metre [1 cm³], and at the temperature of melting ice", the defining temperature (~0 °C) was later changed to 4 °C, the temperature of maximum density of water.

@@ -27,7 +27,7 @@ aliases:
 - predecessor-of
 - predecessor_of
 - predecessorOf
-- has_predecessor_of
+- has_successor
 ---
 
 Use it like this: 
@@ -42,7 +42,9 @@ Relation describes that:
 ( #has_/name :: is_predecessor_of )
 ( #has_/range :: [[../../Class/is_a_/product/product_model|ProductModel]] )
 
-#is_/similar_to :: [[../has/has_next_item|has_next_item]]  
+#is_/similar_to :: [[../has/has_next_item]]  
+#is_/inverse_of :: [[../has/has_previous_item]]  
+#is_/inverse_of :: [[is_successor_of]]   
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_predecessor_of|is_predecessor_of]] 

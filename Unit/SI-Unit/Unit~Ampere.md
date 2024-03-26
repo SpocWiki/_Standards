@@ -1,7 +1,9 @@
 
 # [[Unit~Ampere]] 
 
+#is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/A
+
 
 > The **Ampere** ( AM-pair, US:  AM-peer; symbol: A), often shortened to amp, 
 > is the unit of electric current in the International System of Units (SI).  

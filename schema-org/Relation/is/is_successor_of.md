@@ -27,12 +27,15 @@ aliases:
 - successor-of
 - successor_of
 - successorOf
-- has_successor_of
+- has_predecessor 
 ---
 
 Use it like this: 
 - [ #is_/successor_of :: [[../../Class/is_a_/product/product_model|ProductModel]] ] or 
 - [ is_successor_of :: [[../../Class/is_a_/product/product_model|ProductModel]] ] 
+
+
+- [ ] TODO: unify with [[../has/has_previous_item]].  
 
 A pointer from a newer variant of a product  to its previous, 
 often [[../../Class/is_a_/Intangible/enumeration/item_availability/discontinued|discontinued]] predecessor.
@@ -43,6 +46,8 @@ Relation describes that:
 ( #has_/range :: [[../../Class/is_a_/product/product_model|ProductModel]] )
 
 #is_/similar_to :: [[../has/has_previous_item|has_previous_item]] 
+#is_/inverse_of :: [[../has/has_next_item]]    
+#is_/inverse_of :: [[is_predecessor_of]]   
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_successor_of|is_successor_of]] 

@@ -32,7 +32,12 @@ aliases:
 
 A link to the [[../../Collection/list_item|ListItem]] that precedes the current one.
 
-#is_/similar_to :: [[../is/is_predecessor_of]] 
+#is_/similar_to :: [[../is/is_successor_of]] 
+#is_/inverse_of :: [[../has/has_next_item]]    
+#is_/inverse_of :: [[is_predecessor_of]]   
+
+- [ ] TODO: unify with [[../is/is_successor_of]].  
+
 
 Use it like this: 
 - [ #has_/previous_item :: ListItem ] or 
@@ -43,7 +48,6 @@ This Relation describes that:
 ( #has_/name :: is_previous_item )
 ( #has_/range :: ListItem )
 
-#is_/inverse_of :: [[has_next_item|has_next_item]]  
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_previous_item|has_previous_item]] 

@@ -1,6 +1,10 @@
 
 # [[Unit~Mole]] 
 
+#is_an_ :: [[../SI-Unit]] 
+Unit :: #Unit/SI/mol
+
+
 > The mole (symbol mol) is the unit of measurement for amount of substance, a quantity proportional to the number of elementary entities of a substance. 
 > It is a base unit in the International System of Units (SI). 
 > As of 2019 one mole contains exactly 6.02214076×1023 elementary entities (602 sextillion or 602 billion times a trillion), which can be atoms, molecules, ions, or other particles. The number of particles in a mole is the Avogadro number (symbol N0) and the numerical value of the Avogadro constant (symbol NA) expressed in mol-1. The value was chosen based on the historical definition of the mole as the amount of substance that corresponds to the number of atoms in 12 grams of 12C, which made the mass of a mole of a compound expressed in grams numerically equal to the average molecular mass of the compound expressed in daltons. 
