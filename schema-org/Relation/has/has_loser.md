@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_loser|has_loser]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_loser.public|has_loser.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_loser.internal|has_loser.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_loser.protect|has_loser.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_loser.private|has_loser.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_loser.personal|has_loser.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_loser.secret|has_loser.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_loser|has_loser]] 
+- [[../../../../../_public/schema-org/Relation/has/has_loser.public|has_loser.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_loser.internal|has_loser.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_loser.protect|has_loser.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_loser.private|has_loser.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_loser.personal|has_loser.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_loser.secret|has_loser.secret]] 

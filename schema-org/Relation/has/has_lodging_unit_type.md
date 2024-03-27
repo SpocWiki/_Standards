@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_lodging_unit_type|has_lodging_unit_type]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_lodging_unit_type.public|has_lodging_unit_type.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_lodging_unit_type.internal|has_lodging_unit_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_lodging_unit_type.protect|has_lodging_unit_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_lodging_unit_type.private|has_lodging_unit_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_lodging_unit_type.personal|has_lodging_unit_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_lodging_unit_type.secret|has_lodging_unit_type.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_lodging_unit_type|has_lodging_unit_type]] 
+- [[../../../../../_public/schema-org/Relation/has/has_lodging_unit_type.public|has_lodging_unit_type.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_lodging_unit_type.internal|has_lodging_unit_type.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_lodging_unit_type.protect|has_lodging_unit_type.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_lodging_unit_type.private|has_lodging_unit_type.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_lodging_unit_type.personal|has_lodging_unit_type.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_lodging_unit_type.secret|has_lodging_unit_type.secret]] 

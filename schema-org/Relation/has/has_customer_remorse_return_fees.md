@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: ReturnFeesEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_customer_remorse_return_fees|has_customer_remorse_return_fees]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_customer_remorse_return_fees.public|has_customer_remorse_return_fees.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_customer_remorse_return_fees.internal|has_customer_remorse_return_fees.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_customer_remorse_return_fees.protect|has_customer_remorse_return_fees.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_customer_remorse_return_fees.private|has_customer_remorse_return_fees.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_customer_remorse_return_fees.personal|has_customer_remorse_return_fees.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_customer_remorse_return_fees.secret|has_customer_remorse_return_fees.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_customer_remorse_return_fees|has_customer_remorse_return_fees]] 
+- [[../../../../../_public/schema-org/Relation/has/has_customer_remorse_return_fees.public|has_customer_remorse_return_fees.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_customer_remorse_return_fees.internal|has_customer_remorse_return_fees.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_customer_remorse_return_fees.protect|has_customer_remorse_return_fees.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_customer_remorse_return_fees.private|has_customer_remorse_return_fees.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_customer_remorse_return_fees.personal|has_customer_remorse_return_fees.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_customer_remorse_return_fees.secret|has_customer_remorse_return_fees.secret]] 

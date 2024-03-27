@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: DigitalDocumentPermission )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_digital_document_permission|has_digital_document_permission]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_digital_document_permission.public|has_digital_document_permission.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_digital_document_permission.internal|has_digital_document_permission.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_digital_document_permission.protect|has_digital_document_permission.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_digital_document_permission.private|has_digital_document_permission.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_digital_document_permission.personal|has_digital_document_permission.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_digital_document_permission.secret|has_digital_document_permission.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_digital_document_permission|has_digital_document_permission]] 
+- [[../../../../../_public/schema-org/Relation/has/has_digital_document_permission.public|has_digital_document_permission.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_digital_document_permission.internal|has_digital_document_permission.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_digital_document_permission.protect|has_digital_document_permission.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_digital_document_permission.private|has_digital_document_permission.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_digital_document_permission.personal|has_digital_document_permission.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_digital_document_permission.secret|has_digital_document_permission.secret]] 

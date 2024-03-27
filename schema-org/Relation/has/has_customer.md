@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_customer|has_customer]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_customer.public|has_customer.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_customer.internal|has_customer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_customer.protect|has_customer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_customer.private|has_customer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_customer.personal|has_customer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_customer.secret|has_customer.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_customer|has_customer]] 
+- [[../../../../../_public/schema-org/Relation/has/has_customer.public|has_customer.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_customer.internal|has_customer.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_customer.protect|has_customer.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_customer.private|has_customer.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_customer.personal|has_customer.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_customer.secret|has_customer.secret]] 

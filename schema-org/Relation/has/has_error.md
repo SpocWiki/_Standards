@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_error|has_error]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_error.public|has_error.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_error.internal|has_error.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_error.protect|has_error.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_error.private|has_error.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_error.personal|has_error.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_error.secret|has_error.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_error|has_error]] 
+- [[../../../../../_public/schema-org/Relation/has/has_error.public|has_error.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_error.internal|has_error.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_error.protect|has_error.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_error.private|has_error.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_error.personal|has_error.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_error.secret|has_error.secret]] 

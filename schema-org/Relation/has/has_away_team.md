@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: competitor ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_away_team|has_away_team]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_away_team.public|has_away_team.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_away_team.internal|has_away_team.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_away_team.protect|has_away_team.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_away_team.private|has_away_team.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_away_team.personal|has_away_team.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_away_team.secret|has_away_team.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_away_team|has_away_team]] 
+- [[../../../../../_public/schema-org/Relation/has/has_away_team.public|has_away_team.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_away_team.internal|has_away_team.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_away_team.protect|has_away_team.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_away_team.private|has_away_team.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_away_team.personal|has_away_team.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_away_team.secret|has_away_team.secret]] 

@@ -53,10 +53,10 @@ Relation describes that:
 [ #is_/inverse_of  :: itemOffered ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_offering|is_offering]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/is_offering.public|is_offering.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_offering.internal|is_offering.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_offering.protect|is_offering.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_offering.private|is_offering.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_offering.personal|is_offering.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_offering.secret|is_offering.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/is_offering|is_offering]] 
+- [[../../../../../_public/schema-org/Relation/has/is_offering.public|is_offering.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/is_offering.internal|is_offering.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/is_offering.protect|is_offering.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/is_offering.private|is_offering.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/is_offering.personal|is_offering.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/is_offering.secret|is_offering.secret]] 

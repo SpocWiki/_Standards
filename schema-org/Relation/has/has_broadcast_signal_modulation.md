@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_broadcast_signal_modulation|has_broadcast_signal_modulation]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_broadcast_signal_modulation.public|has_broadcast_signal_modulation.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.internal|has_broadcast_signal_modulation.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.protect|has_broadcast_signal_modulation.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.private|has_broadcast_signal_modulation.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.personal|has_broadcast_signal_modulation.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_broadcast_signal_modulation.secret|has_broadcast_signal_modulation.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_broadcast_signal_modulation|has_broadcast_signal_modulation]] 
+- [[../../../../../_public/schema-org/Relation/has/has_broadcast_signal_modulation.public|has_broadcast_signal_modulation.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_broadcast_signal_modulation.internal|has_broadcast_signal_modulation.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_broadcast_signal_modulation.protect|has_broadcast_signal_modulation.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_broadcast_signal_modulation.private|has_broadcast_signal_modulation.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_broadcast_signal_modulation.personal|has_broadcast_signal_modulation.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_broadcast_signal_modulation.secret|has_broadcast_signal_modulation.secret]] 

@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: GovernmentService )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_government_benefits_info|has_government_benefits_info]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_government_benefits_info.public|has_government_benefits_info.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_government_benefits_info.internal|has_government_benefits_info.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_government_benefits_info.protect|has_government_benefits_info.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_government_benefits_info.private|has_government_benefits_info.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_government_benefits_info.personal|has_government_benefits_info.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_government_benefits_info.secret|has_government_benefits_info.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_government_benefits_info|has_government_benefits_info]] 
+- [[../../../../../_public/schema-org/Relation/has/has_government_benefits_info.public|has_government_benefits_info.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_government_benefits_info.internal|has_government_benefits_info.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_government_benefits_info.protect|has_government_benefits_info.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_government_benefits_info.private|has_government_benefits_info.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_government_benefits_info.personal|has_government_benefits_info.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_government_benefits_info.secret|has_government_benefits_info.secret]] 

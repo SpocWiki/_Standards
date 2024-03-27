@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Vessel )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_blood_supply|has_blood_supply]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_blood_supply.public|has_blood_supply.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_blood_supply.internal|has_blood_supply.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_blood_supply.protect|has_blood_supply.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_blood_supply.private|has_blood_supply.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_blood_supply.personal|has_blood_supply.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_blood_supply.secret|has_blood_supply.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_blood_supply|has_blood_supply]] 
+- [[../../../../../_public/schema-org/Relation/has/has_blood_supply.public|has_blood_supply.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_blood_supply.internal|has_blood_supply.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_blood_supply.protect|has_blood_supply.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_blood_supply.private|has_blood_supply.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_blood_supply.personal|has_blood_supply.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_blood_supply.secret|has_blood_supply.secret]] 

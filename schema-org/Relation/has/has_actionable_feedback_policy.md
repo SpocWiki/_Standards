@@ -49,10 +49,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_actionable_feedback_policy|has_actionable_feedback_policy]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_actionable_feedback_policy.public|has_actionable_feedback_policy.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.internal|has_actionable_feedback_policy.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.protect|has_actionable_feedback_policy.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.private|has_actionable_feedback_policy.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.personal|has_actionable_feedback_policy.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_actionable_feedback_policy.secret|has_actionable_feedback_policy.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_actionable_feedback_policy|has_actionable_feedback_policy]] 
+- [[../../../../../_public/schema-org/Relation/has/has_actionable_feedback_policy.public|has_actionable_feedback_policy.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_actionable_feedback_policy.internal|has_actionable_feedback_policy.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_actionable_feedback_policy.protect|has_actionable_feedback_policy.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_actionable_feedback_policy.private|has_actionable_feedback_policy.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_actionable_feedback_policy.personal|has_actionable_feedback_policy.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_actionable_feedback_policy.secret|has_actionable_feedback_policy.secret]] 

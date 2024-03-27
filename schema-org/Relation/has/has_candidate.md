@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_candidate|has_candidate]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_candidate.public|has_candidate.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_candidate.internal|has_candidate.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_candidate.protect|has_candidate.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_candidate.private|has_candidate.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_candidate.personal|has_candidate.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_candidate.secret|has_candidate.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_candidate|has_candidate]] 
+- [[../../../../../_public/schema-org/Relation/has/has_candidate.public|has_candidate.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_candidate.internal|has_candidate.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_candidate.protect|has_candidate.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_candidate.private|has_candidate.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_candidate.personal|has_candidate.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_candidate.secret|has_candidate.secret]] 

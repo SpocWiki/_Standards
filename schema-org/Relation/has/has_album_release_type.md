@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MusicAlbumReleaseType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_album_release_type|has_album_release_type]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_album_release_type.public|has_album_release_type.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_album_release_type.internal|has_album_release_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_album_release_type.protect|has_album_release_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_album_release_type.private|has_album_release_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_album_release_type.personal|has_album_release_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_album_release_type.secret|has_album_release_type.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_album_release_type|has_album_release_type]] 
+- [[../../../../../_public/schema-org/Relation/has/has_album_release_type.public|has_album_release_type.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_album_release_type.internal|has_album_release_type.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_album_release_type.protect|has_album_release_type.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_album_release_type.private|has_album_release_type.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_album_release_type.personal|has_album_release_type.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_album_release_type.secret|has_album_release_type.secret]] 

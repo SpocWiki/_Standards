@@ -46,10 +46,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ hasBioPolymerSequence, inChI, inChIKey, smiles ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_representation|has_representation]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_representation.public|has_representation.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_representation.internal|has_representation.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_representation.protect|has_representation.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_representation.private|has_representation.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_representation.personal|has_representation.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_representation.secret|has_representation.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_representation|has_representation]] 
+- [[../../../../../_public/schema-org/Relation/has/has_representation.public|has_representation.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_representation.internal|has_representation.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_representation.protect|has_representation.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_representation.private|has_representation.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_representation.personal|has_representation.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_representation.secret|has_representation.secret]] 

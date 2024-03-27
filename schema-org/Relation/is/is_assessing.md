@@ -43,10 +43,10 @@ Relation describes that:
 ( #has_/range :: [[../../../Class/is_a_thing/intangible/defined_term]]], [[Text]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_assessing|is_assessing]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_assessing.public|is_assessing.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_assessing.internal|is_assessing.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_assessing.protect|is_assessing.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_assessing.private|is_assessing.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_assessing.personal|is_assessing.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_assessing.secret|is_assessing.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_assessing|is_assessing]] 
+- [[../../../../../_public/schema-org/Relation/is/is_assessing.public|is_assessing.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_assessing.internal|is_assessing.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_assessing.protect|is_assessing.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_assessing.private|is_assessing.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_assessing.personal|is_assessing.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_assessing.secret|is_assessing.secret]] 

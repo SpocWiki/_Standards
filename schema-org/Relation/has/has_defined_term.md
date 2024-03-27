@@ -46,10 +46,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ hasCategoryCode ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_defined_term|has_defined_term]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_defined_term.public|has_defined_term.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_defined_term.internal|has_defined_term.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_defined_term.protect|has_defined_term.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_defined_term.private|has_defined_term.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_defined_term.personal|has_defined_term.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_defined_term.secret|has_defined_term.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_defined_term|has_defined_term]] 
+- [[../../../../../_public/schema-org/Relation/has/has_defined_term.public|has_defined_term.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_defined_term.internal|has_defined_term.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_defined_term.protect|has_defined_term.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_defined_term.private|has_defined_term.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_defined_term.personal|has_defined_term.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_defined_term.secret|has_defined_term.secret]] 

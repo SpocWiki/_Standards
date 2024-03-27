@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_lyrics|has_lyrics]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_lyrics.public|has_lyrics.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_lyrics.internal|has_lyrics.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_lyrics.protect|has_lyrics.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_lyrics.private|has_lyrics.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_lyrics.personal|has_lyrics.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_lyrics.secret|has_lyrics.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_lyrics|has_lyrics]] 
+- [[../../../../../_public/schema-org/Relation/has/has_lyrics.public|has_lyrics.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_lyrics.internal|has_lyrics.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_lyrics.protect|has_lyrics.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_lyrics.private|has_lyrics.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_lyrics.personal|has_lyrics.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_lyrics.secret|has_lyrics.secret]] 

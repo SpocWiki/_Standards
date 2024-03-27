@@ -45,10 +45,10 @@ Relation describes that:
 ( #has_/range :: [[../../Collection/item_list|Item_List]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_access_mode_sufficient|has_access_mode_sufficient]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_access_mode_sufficient.public|has_access_mode_sufficient.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_access_mode_sufficient.internal|has_access_mode_sufficient.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_access_mode_sufficient.protect|has_access_mode_sufficient.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_access_mode_sufficient.private|has_access_mode_sufficient.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_access_mode_sufficient.personal|has_access_mode_sufficient.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_access_mode_sufficient.secret|has_access_mode_sufficient.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_access_mode_sufficient|has_access_mode_sufficient]] 
+- [[../../../../../_public/schema-org/Relation/has/has_access_mode_sufficient.public|has_access_mode_sufficient.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_access_mode_sufficient.internal|has_access_mode_sufficient.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_access_mode_sufficient.protect|has_access_mode_sufficient.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_access_mode_sufficient.private|has_access_mode_sufficient.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_access_mode_sufficient.personal|has_access_mode_sufficient.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_access_mode_sufficient.secret|has_access_mode_sufficient.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_record_label|has_record_label]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_record_label.public|has_record_label.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_record_label.internal|has_record_label.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_record_label.protect|has_record_label.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_record_label.private|has_record_label.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_record_label.personal|has_record_label.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_record_label.secret|has_record_label.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_record_label|has_record_label]] 
+- [[../../../../../_public/schema-org/Relation/has/has_record_label.public|has_record_label.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_record_label.internal|has_record_label.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_record_label.protect|has_record_label.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_record_label.private|has_record_label.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_record_label.personal|has_record_label.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_record_label.secret|has_record_label.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Audience, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_tourist_type|has_tourist_type]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_tourist_type.public|has_tourist_type.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tourist_type.internal|has_tourist_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_tourist_type.protect|has_tourist_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_tourist_type.private|has_tourist_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_tourist_type.personal|has_tourist_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_tourist_type.secret|has_tourist_type.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_tourist_type|has_tourist_type]] 
+- [[../../../../../_public/schema-org/Relation/has/has_tourist_type.public|has_tourist_type.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_tourist_type.internal|has_tourist_type.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_tourist_type.protect|has_tourist_type.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_tourist_type.private|has_tourist_type.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_tourist_type.personal|has_tourist_type.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_tourist_type.secret|has_tourist_type.secret]] 

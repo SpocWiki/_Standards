@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: BlogPosting )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_live_blog_update|has_live_blog_update]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_live_blog_update.public|has_live_blog_update.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_live_blog_update.internal|has_live_blog_update.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_live_blog_update.protect|has_live_blog_update.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_live_blog_update.private|has_live_blog_update.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_live_blog_update.personal|has_live_blog_update.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_live_blog_update.secret|has_live_blog_update.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_live_blog_update|has_live_blog_update]] 
+- [[../../../../../_public/schema-org/Relation/has/has_live_blog_update.public|has_live_blog_update.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_live_blog_update.internal|has_live_blog_update.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_live_blog_update.protect|has_live_blog_update.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_live_blog_update.private|has_live_blog_update.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_live_blog_update.personal|has_live_blog_update.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_live_blog_update.secret|has_live_blog_update.secret]] 

@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: HealthPlanFormulary)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_including_health_plan_formulary|is_including_health_plan_formulary]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_including_health_plan_formulary.public|is_including_health_plan_formulary.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_including_health_plan_formulary.internal|is_including_health_plan_formulary.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_including_health_plan_formulary.protect|is_including_health_plan_formulary.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_including_health_plan_formulary.private|is_including_health_plan_formulary.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_including_health_plan_formulary.personal|is_including_health_plan_formulary.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_including_health_plan_formulary.secret|is_including_health_plan_formulary.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_including_health_plan_formulary|is_including_health_plan_formulary]] 
+- [[../../../../../_public/schema-org/Relation/is/is_including_health_plan_formulary.public|is_including_health_plan_formulary.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_including_health_plan_formulary.internal|is_including_health_plan_formulary.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_including_health_plan_formulary.protect|is_including_health_plan_formulary.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_including_health_plan_formulary.private|is_including_health_plan_formulary.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_including_health_plan_formulary.personal|is_including_health_plan_formulary.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_including_health_plan_formulary.secret|is_including_health_plan_formulary.secret]] 

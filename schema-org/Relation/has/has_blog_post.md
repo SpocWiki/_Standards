@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: BlogPosting )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_blog_post|has_blog_post]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_blog_post.public|has_blog_post.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_blog_post.internal|has_blog_post.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_blog_post.protect|has_blog_post.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_blog_post.private|has_blog_post.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_blog_post.personal|has_blog_post.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_blog_post.secret|has_blog_post.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_blog_post|has_blog_post]] 
+- [[../../../../../_public/schema-org/Relation/has/has_blog_post.public|has_blog_post.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_blog_post.internal|has_blog_post.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_blog_post.protect|has_blog_post.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_blog_post.private|has_blog_post.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_blog_post.personal|has_blog_post.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_blog_post.secret|has_blog_post.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Product)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_accessory_or_spare_part_for|is_accessory_or_spare_part_for]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_accessory_or_spare_part_for.public|is_accessory_or_spare_part_for.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_accessory_or_spare_part_for.internal|is_accessory_or_spare_part_for.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_accessory_or_spare_part_for.protect|is_accessory_or_spare_part_for.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_accessory_or_spare_part_for.private|is_accessory_or_spare_part_for.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_accessory_or_spare_part_for.personal|is_accessory_or_spare_part_for.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_accessory_or_spare_part_for.secret|is_accessory_or_spare_part_for.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_accessory_or_spare_part_for|is_accessory_or_spare_part_for]] 
+- [[../../../../../_public/schema-org/Relation/is/is_accessory_or_spare_part_for.public|is_accessory_or_spare_part_for.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_accessory_or_spare_part_for.internal|is_accessory_or_spare_part_for.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_accessory_or_spare_part_for.protect|is_accessory_or_spare_part_for.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_accessory_or_spare_part_for.private|is_accessory_or_spare_part_for.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_accessory_or_spare_part_for.personal|is_accessory_or_spare_part_for.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_accessory_or_spare_part_for.secret|is_accessory_or_spare_part_for.secret]] 

@@ -13,10 +13,10 @@ Relation describes that:
 #is_/inverse_of :: [[has_employees]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_employer|has_employer]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_employer.public|has_employer.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_employer.internal|has_employer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_employer.protect|has_employer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_employer.private|has_employer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_employer.personal|has_employer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_employer.secret|has_employer.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_employer|has_employer]] 
+- [[../../../../../_public/schema-org/Relation/has/has_employer.public|has_employer.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_employer.internal|has_employer.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_employer.protect|has_employer.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_employer.private|has_employer.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_employer.personal|has_employer.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_employer.secret|has_employer.secret]] 

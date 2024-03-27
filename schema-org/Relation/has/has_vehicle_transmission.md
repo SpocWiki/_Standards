@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_vehicle_transmission|has_vehicle_transmission]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_vehicle_transmission.public|has_vehicle_transmission.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_vehicle_transmission.internal|has_vehicle_transmission.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_vehicle_transmission.protect|has_vehicle_transmission.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_vehicle_transmission.private|has_vehicle_transmission.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_vehicle_transmission.personal|has_vehicle_transmission.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_vehicle_transmission.secret|has_vehicle_transmission.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_vehicle_transmission|has_vehicle_transmission]] 
+- [[../../../../../_public/schema-org/Relation/has/has_vehicle_transmission.public|has_vehicle_transmission.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_vehicle_transmission.internal|has_vehicle_transmission.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_vehicle_transmission.protect|has_vehicle_transmission.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_vehicle_transmission.private|has_vehicle_transmission.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_vehicle_transmission.personal|has_vehicle_transmission.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_vehicle_transmission.secret|has_vehicle_transmission.secret]] 

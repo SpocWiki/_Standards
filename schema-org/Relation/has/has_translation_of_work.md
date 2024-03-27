@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: workTranslation ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_translation_of_work|has_translation_of_work]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_translation_of_work.public|has_translation_of_work.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_translation_of_work.internal|has_translation_of_work.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_translation_of_work.protect|has_translation_of_work.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_translation_of_work.private|has_translation_of_work.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_translation_of_work.personal|has_translation_of_work.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_translation_of_work.secret|has_translation_of_work.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_translation_of_work|has_translation_of_work]] 
+- [[../../../../../_public/schema-org/Relation/has/has_translation_of_work.public|has_translation_of_work.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_translation_of_work.internal|has_translation_of_work.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_translation_of_work.protect|has_translation_of_work.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_translation_of_work.private|has_translation_of_work.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_translation_of_work.personal|has_translation_of_work.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_translation_of_work.secret|has_translation_of_work.secret]] 

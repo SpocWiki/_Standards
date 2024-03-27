@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_tributary|has_tributary]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_tributary.public|has_tributary.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_tributary.internal|has_tributary.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_tributary.protect|has_tributary.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_tributary.private|has_tributary.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_tributary.personal|has_tributary.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_tributary.secret|has_tributary.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_tributary|has_tributary]] 
+- [[../../../../../_public/schema-org/Relation/has/has_tributary.public|has_tributary.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_tributary.internal|has_tributary.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_tributary.protect|has_tributary.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_tributary.private|has_tributary.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_tributary.personal|has_tributary.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_tributary.secret|has_tributary.secret]] 

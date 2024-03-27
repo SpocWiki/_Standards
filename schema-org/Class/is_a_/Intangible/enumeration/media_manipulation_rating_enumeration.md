@@ -38,7 +38,7 @@ Tag Instances like this:
 
 [ #is_/part_of :: https://pending.schema.org ]
 
-Codes for use with the [[../../../../Predicate/Relations/has/has_media_authenticity_category]] property,
+Codes for use with the [[../../../../Relation/has/has_media_authenticity_category]] property,
 indicating the authenticity of a media object (in the context of how it was published or shared).
 
 In general, these codes are not mutually exclusive,

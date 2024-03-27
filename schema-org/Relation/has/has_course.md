@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Course )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_course|has_course]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_course.public|has_course.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_course.internal|has_course.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_course.protect|has_course.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_course.private|has_course.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_course.personal|has_course.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_course.secret|has_course.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_course|has_course]] 
+- [[../../../../../_public/schema-org/Relation/has/has_course.public|has_course.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_course.internal|has_course.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_course.protect|has_course.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_course.private|has_course.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_course.personal|has_course.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_course.secret|has_course.secret]] 

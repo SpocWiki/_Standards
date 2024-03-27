@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: BoardingPolicyType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_boarding_policy|has_boarding_policy]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_boarding_policy.public|has_boarding_policy.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_boarding_policy.internal|has_boarding_policy.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_boarding_policy.protect|has_boarding_policy.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_boarding_policy.private|has_boarding_policy.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_boarding_policy.personal|has_boarding_policy.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_boarding_policy.secret|has_boarding_policy.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_boarding_policy|has_boarding_policy]] 
+- [[../../../../../_public/schema-org/Relation/has/has_boarding_policy.public|has_boarding_policy.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_boarding_policy.internal|has_boarding_policy.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_boarding_policy.protect|has_boarding_policy.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_boarding_policy.private|has_boarding_policy.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_boarding_policy.personal|has_boarding_policy.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_boarding_policy.secret|has_boarding_policy.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: DrugLegalStatus, MedicalEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_legal_status|has_legal_status]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_legal_status.public|has_legal_status.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legal_status.internal|has_legal_status.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_legal_status.protect|has_legal_status.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_legal_status.private|has_legal_status.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_legal_status.personal|has_legal_status.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_legal_status.secret|has_legal_status.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_legal_status|has_legal_status]] 
+- [[../../../../../_public/schema-org/Relation/has/has_legal_status.public|has_legal_status.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_legal_status.internal|has_legal_status.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_legal_status.protect|has_legal_status.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_legal_status.private|has_legal_status.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_legal_status.personal|has_legal_status.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_legal_status.secret|has_legal_status.secret]] 

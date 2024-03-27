@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../is/part_of/is_part_of_bio_chem_entity]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_bio_chem_entity_part|has_bio_chem_entity_part]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_bio_chem_entity_part.public|has_bio_chem_entity_part.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_bio_chem_entity_part.internal|has_bio_chem_entity_part.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_bio_chem_entity_part.protect|has_bio_chem_entity_part.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_bio_chem_entity_part.private|has_bio_chem_entity_part.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_bio_chem_entity_part.personal|has_bio_chem_entity_part.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_bio_chem_entity_part.secret|has_bio_chem_entity_part.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_bio_chem_entity_part|has_bio_chem_entity_part]] 
+- [[../../../../../_public/schema-org/Relation/has/has_bio_chem_entity_part.public|has_bio_chem_entity_part.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_bio_chem_entity_part.internal|has_bio_chem_entity_part.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_bio_chem_entity_part.protect|has_bio_chem_entity_part.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_bio_chem_entity_part.private|has_bio_chem_entity_part.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_bio_chem_entity_part.personal|has_bio_chem_entity_part.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_bio_chem_entity_part.secret|has_bio_chem_entity_part.secret]] 

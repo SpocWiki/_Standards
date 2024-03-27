@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_quest|has_quest]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_quest.public|has_quest.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_quest.internal|has_quest.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_quest.protect|has_quest.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_quest.private|has_quest.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_quest.personal|has_quest.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_quest.secret|has_quest.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_quest|has_quest]] 
+- [[../../../../../_public/schema-org/Relation/has/has_quest.public|has_quest.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_quest.internal|has_quest.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_quest.protect|has_quest.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_quest.private|has_quest.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_quest.personal|has_quest.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_quest.secret|has_quest.secret]] 

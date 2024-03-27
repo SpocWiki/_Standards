@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: DrugStrength )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_available_strength|has_available_strength]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_available_strength.public|has_available_strength.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_strength.internal|has_available_strength.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_available_strength.protect|has_available_strength.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_available_strength.private|has_available_strength.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_available_strength.personal|has_available_strength.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_available_strength.secret|has_available_strength.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_available_strength|has_available_strength]] 
+- [[../../../../../_public/schema-org/Relation/has/has_available_strength.public|has_available_strength.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_available_strength.internal|has_available_strength.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_available_strength.protect|has_available_strength.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_available_strength.private|has_available_strength.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_available_strength.personal|has_available_strength.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_available_strength.secret|has_available_strength.secret]] 

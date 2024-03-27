@@ -39,10 +39,10 @@ Relation describes that:
 ( #has_/range :: DataCatalog )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_included_data_catalog|has_included_data_catalog]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_included_data_catalog.public|has_included_data_catalog.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_included_data_catalog.internal|has_included_data_catalog.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_included_data_catalog.protect|has_included_data_catalog.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_included_data_catalog.private|has_included_data_catalog.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_included_data_catalog.personal|has_included_data_catalog.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_included_data_catalog.secret|has_included_data_catalog.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_included_data_catalog|has_included_data_catalog]] 
+- [[../../../../../_public/schema-org/Relation/has/has_included_data_catalog.public|has_included_data_catalog.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_included_data_catalog.internal|has_included_data_catalog.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_included_data_catalog.protect|has_included_data_catalog.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_included_data_catalog.private|has_included_data_catalog.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_included_data_catalog.personal|has_included_data_catalog.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_included_data_catalog.secret|has_included_data_catalog.secret]] 

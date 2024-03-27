@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: CssSelectorType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_css_selector|has_css_selector]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_css_selector.public|has_css_selector.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_css_selector.internal|has_css_selector.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_css_selector.protect|has_css_selector.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_css_selector.private|has_css_selector.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_css_selector.personal|has_css_selector.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_css_selector.secret|has_css_selector.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_css_selector|has_css_selector]] 
+- [[../../../../../_public/schema-org/Relation/has/has_css_selector.public|has_css_selector.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_css_selector.internal|has_css_selector.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_css_selector.protect|has_css_selector.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_css_selector.private|has_css_selector.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_css_selector.personal|has_css_selector.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_css_selector.secret|has_css_selector.secret]] 

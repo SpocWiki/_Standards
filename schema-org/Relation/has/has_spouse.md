@@ -40,10 +40,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_spouse|has_spouse]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_spouse.public|has_spouse.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_spouse.internal|has_spouse.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_spouse.protect|has_spouse.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_spouse.private|has_spouse.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_spouse.personal|has_spouse.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_spouse.secret|has_spouse.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_spouse|has_spouse]] 
+- [[../../../../../_public/schema-org/Relation/has/has_spouse.public|has_spouse.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_spouse.internal|has_spouse.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_spouse.protect|has_spouse.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_spouse.private|has_spouse.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_spouse.personal|has_spouse.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_spouse.secret|has_spouse.secret]] 

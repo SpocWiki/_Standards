@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_contributor|has_contributor]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_contributor.public|has_contributor.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contributor.internal|has_contributor.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contributor.protect|has_contributor.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_contributor.private|has_contributor.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_contributor.personal|has_contributor.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_contributor.secret|has_contributor.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_contributor|has_contributor]] 
+- [[../../../../../_public/schema-org/Relation/has/has_contributor.public|has_contributor.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_contributor.internal|has_contributor.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_contributor.protect|has_contributor.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_contributor.private|has_contributor.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_contributor.personal|has_contributor.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_contributor.secret|has_contributor.secret]] 

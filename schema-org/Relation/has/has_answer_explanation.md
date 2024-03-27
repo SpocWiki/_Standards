@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Comment, WebContent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_answer_explanation|has_answer_explanation]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_answer_explanation.public|has_answer_explanation.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_answer_explanation.internal|has_answer_explanation.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_answer_explanation.protect|has_answer_explanation.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_answer_explanation.private|has_answer_explanation.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_answer_explanation.personal|has_answer_explanation.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_answer_explanation.secret|has_answer_explanation.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_answer_explanation|has_answer_explanation]] 
+- [[../../../../../_public/schema-org/Relation/has/has_answer_explanation.public|has_answer_explanation.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_answer_explanation.internal|has_answer_explanation.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_answer_explanation.protect|has_answer_explanation.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_answer_explanation.private|has_answer_explanation.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_answer_explanation.personal|has_answer_explanation.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_answer_explanation.secret|has_answer_explanation.secret]] 

@@ -52,10 +52,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_provider|has_provider]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_provider.public|has_provider.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_provider.internal|has_provider.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_provider.protect|has_provider.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_provider.private|has_provider.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_provider.personal|has_provider.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_provider.secret|has_provider.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_provider|has_provider]] 
+- [[../../../../../_public/schema-org/Relation/has/has_provider.public|has_provider.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_provider.internal|has_provider.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_provider.protect|has_provider.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_provider.private|has_provider.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_provider.personal|has_provider.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_provider.secret|has_provider.secret]] 

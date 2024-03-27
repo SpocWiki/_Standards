@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Language, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_knowing_language|is_knowing_language]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_knowing_language.public|is_knowing_language.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_knowing_language.internal|is_knowing_language.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_knowing_language.protect|is_knowing_language.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_knowing_language.private|is_knowing_language.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_knowing_language.personal|is_knowing_language.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_knowing_language.secret|is_knowing_language.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_knowing_language|is_knowing_language]] 
+- [[../../../../../_public/schema-org/Relation/is/is_knowing_language.public|is_knowing_language.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_knowing_language.internal|is_knowing_language.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_knowing_language.protect|is_knowing_language.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_knowing_language.private|is_knowing_language.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_knowing_language.personal|is_knowing_language.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_knowing_language.secret|is_knowing_language.secret]] 

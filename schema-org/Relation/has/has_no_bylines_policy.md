@@ -47,10 +47,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_no_bylines_policy|has_no_bylines_policy]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_no_bylines_policy.public|has_no_bylines_policy.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_no_bylines_policy.internal|has_no_bylines_policy.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_no_bylines_policy.protect|has_no_bylines_policy.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_no_bylines_policy.private|has_no_bylines_policy.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_no_bylines_policy.personal|has_no_bylines_policy.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_no_bylines_policy.secret|has_no_bylines_policy.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_no_bylines_policy|has_no_bylines_policy]] 
+- [[../../../../../_public/schema-org/Relation/has/has_no_bylines_policy.public|has_no_bylines_policy.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_no_bylines_policy.internal|has_no_bylines_policy.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_no_bylines_policy.protect|has_no_bylines_policy.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_no_bylines_policy.private|has_no_bylines_policy.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_no_bylines_policy.personal|has_no_bylines_policy.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_no_bylines_policy.secret|has_no_bylines_policy.secret]] 

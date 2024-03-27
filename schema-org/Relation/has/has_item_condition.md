@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: OfferItemCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_item_condition|has_item_condition]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_item_condition.public|has_item_condition.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_condition.internal|has_item_condition.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_item_condition.protect|has_item_condition.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_item_condition.private|has_item_condition.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_item_condition.personal|has_item_condition.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_item_condition.secret|has_item_condition.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_item_condition|has_item_condition]] 
+- [[../../../../../_public/schema-org/Relation/has/has_item_condition.public|has_item_condition.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_item_condition.internal|has_item_condition.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_item_condition.protect|has_item_condition.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_item_condition.private|has_item_condition.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_item_condition.personal|has_item_condition.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_item_condition.secret|has_item_condition.secret]] 

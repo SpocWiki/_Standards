@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_opponent|has_opponent]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_opponent.public|has_opponent.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_opponent.internal|has_opponent.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_opponent.protect|has_opponent.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_opponent.private|has_opponent.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_opponent.personal|has_opponent.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_opponent.secret|has_opponent.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_opponent|has_opponent]] 
+- [[../../../../../_public/schema-org/Relation/has/has_opponent.public|has_opponent.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_opponent.internal|has_opponent.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_opponent.protect|has_opponent.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_opponent.private|has_opponent.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_opponent.personal|has_opponent.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_opponent.secret|has_opponent.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: [[../../../Class/is_a_thing/intangible/language]], Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_available_in_language|is_available_in_language]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_available_in_language.public|is_available_in_language.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_available_in_language.internal|is_available_in_language.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_available_in_language.protect|is_available_in_language.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_available_in_language.private|is_available_in_language.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_available_in_language.personal|is_available_in_language.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_available_in_language.secret|is_available_in_language.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_available_in_language|is_available_in_language]] 
+- [[../../../../../_public/schema-org/Relation/is/is_available_in_language.public|is_available_in_language.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_available_in_language.internal|is_available_in_language.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_available_in_language.protect|is_available_in_language.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_available_in_language.private|is_available_in_language.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_available_in_language.personal|is_available_in_language.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_available_in_language.secret|is_available_in_language.secret]] 

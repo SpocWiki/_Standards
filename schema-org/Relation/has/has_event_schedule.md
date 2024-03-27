@@ -59,10 +59,10 @@ Relation describes that:
 ( #has_/range :: Schedule )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_event_schedule|has_event_schedule]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_event_schedule.public|has_event_schedule.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_event_schedule.internal|has_event_schedule.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_event_schedule.protect|has_event_schedule.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_event_schedule.private|has_event_schedule.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_event_schedule.personal|has_event_schedule.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_event_schedule.secret|has_event_schedule.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_event_schedule|has_event_schedule]] 
+- [[../../../../../_public/schema-org/Relation/has/has_event_schedule.public|has_event_schedule.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_event_schedule.internal|has_event_schedule.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_event_schedule.protect|has_event_schedule.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_event_schedule.private|has_event_schedule.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_event_schedule.personal|has_event_schedule.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_event_schedule.secret|has_event_schedule.secret]] 
