@@ -40,7 +40,7 @@ but also used to express the [[../../Class/is_sub_class_of|is_subclass_of]] Rela
 
 Enumerating Examples is rarely exact or exhaustive, but very helpful for Humans to illustrate a Concept with already known Instances. 
 
-Therefore the partially inverse Relation is included in the non-standard more generic [[../has_examples]] Relation. 
+Therefore the partially inverse Relation is included in the non-standard more generic [[has_examples]] Relation. 
 
 Use it like this: 
 - [ #has_/work_example :: CreativeWork ] or 
