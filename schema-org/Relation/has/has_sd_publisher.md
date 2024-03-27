@@ -45,10 +45,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sd_publisher|has_sd_publisher]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_sd_publisher.public|has_sd_publisher.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sd_publisher.internal|has_sd_publisher.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sd_publisher.protect|has_sd_publisher.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sd_publisher.private|has_sd_publisher.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sd_publisher.personal|has_sd_publisher.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sd_publisher.secret|has_sd_publisher.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_sd_publisher|has_sd_publisher]] 
+- [[../../../../../_public/schema-org/Relation/has/has_sd_publisher.public|has_sd_publisher.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_sd_publisher.internal|has_sd_publisher.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_sd_publisher.protect|has_sd_publisher.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_sd_publisher.private|has_sd_publisher.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_sd_publisher.personal|has_sd_publisher.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_sd_publisher.secret|has_sd_publisher.secret]] 

@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: result ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_result_comment|has_result_comment]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_result_comment.public|has_result_comment.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_result_comment.internal|has_result_comment.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_result_comment.protect|has_result_comment.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_result_comment.private|has_result_comment.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_result_comment.personal|has_result_comment.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_result_comment.secret|has_result_comment.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_result_comment|has_result_comment]] 
+- [[../../../../../_public/schema-org/Relation/has/has_result_comment.public|has_result_comment.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_result_comment.internal|has_result_comment.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_result_comment.protect|has_result_comment.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_result_comment.private|has_result_comment.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_result_comment.personal|has_result_comment.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_result_comment.secret|has_result_comment.secret]] 

@@ -44,10 +44,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ accommodationCategory ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_category|has_category]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_category.public|has_category.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_category.internal|has_category.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_category.protect|has_category.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_category.private|has_category.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_category.personal|has_category.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_category.secret|has_category.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_category|has_category]] 
+- [[../../../../../_public/schema-org/Relation/has/has_category.public|has_category.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_category.internal|has_category.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_category.protect|has_category.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_category.private|has_category.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_category.personal|has_category.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_category.secret|has_category.secret]] 

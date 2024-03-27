@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: subEvent ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_super_event|has_super_event]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_super_event.public|has_super_event.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_super_event.internal|has_super_event.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_super_event.protect|has_super_event.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_super_event.private|has_super_event.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_super_event.personal|has_super_event.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_super_event.secret|has_super_event.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_super_event|has_super_event]] 
+- [[../../../../../_public/schema-org/Relation/has/has_super_event.public|has_super_event.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_super_event.internal|has_super_event.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_super_event.protect|has_super_event.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_super_event.private|has_super_event.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_super_event.personal|has_super_event.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_super_event.secret|has_super_event.secret]] 

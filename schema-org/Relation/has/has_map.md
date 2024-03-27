@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Map, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_map|has_map]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_map.public|has_map.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_map.internal|has_map.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_map.protect|has_map.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_map.private|has_map.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_map.personal|has_map.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_map.secret|has_map.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_map|has_map]] 
+- [[../../../../../_public/schema-org/Relation/has/has_map.public|has_map.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_map.internal|has_map.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_map.protect|has_map.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_map.private|has_map.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_map.personal|has_map.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_map.secret|has_map.secret]] 

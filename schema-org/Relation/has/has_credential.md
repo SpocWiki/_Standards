@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: EducationalOccupationalCredential )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_credential|has_credential]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_credential.public|has_credential.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_credential.internal|has_credential.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_credential.protect|has_credential.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_credential.private|has_credential.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_credential.personal|has_credential.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_credential.secret|has_credential.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_credential|has_credential]] 
+- [[../../../../../_public/schema-org/Relation/has/has_credential.public|has_credential.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_credential.internal|has_credential.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_credential.protect|has_credential.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_credential.private|has_credential.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_credential.personal|has_credential.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_credential.secret|has_credential.secret]] 

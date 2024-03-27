@@ -46,10 +46,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_legislation_responsible|has_legislation_responsible]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_legislation_responsible.public|has_legislation_responsible.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legislation_responsible.internal|has_legislation_responsible.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_legislation_responsible.protect|has_legislation_responsible.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_legislation_responsible.private|has_legislation_responsible.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_legislation_responsible.personal|has_legislation_responsible.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_legislation_responsible.secret|has_legislation_responsible.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_legislation_responsible|has_legislation_responsible]] 
+- [[../../../../../_public/schema-org/Relation/has/has_legislation_responsible.public|has_legislation_responsible.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_legislation_responsible.internal|has_legislation_responsible.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_legislation_responsible.protect|has_legislation_responsible.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_legislation_responsible.private|has_legislation_responsible.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_legislation_responsible.personal|has_legislation_responsible.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_legislation_responsible.secret|has_legislation_responsible.secret]] 

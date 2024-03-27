@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_diagnosis|has_diagnosis]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_diagnosis.public|has_diagnosis.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_diagnosis.internal|has_diagnosis.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_diagnosis.protect|has_diagnosis.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_diagnosis.private|has_diagnosis.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_diagnosis.personal|has_diagnosis.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_diagnosis.secret|has_diagnosis.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_diagnosis|has_diagnosis]] 
+- [[../../../../../_public/schema-org/Relation/has/has_diagnosis.public|has_diagnosis.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_diagnosis.internal|has_diagnosis.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_diagnosis.protect|has_diagnosis.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_diagnosis.private|has_diagnosis.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_diagnosis.personal|has_diagnosis.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_diagnosis.secret|has_diagnosis.secret]] 

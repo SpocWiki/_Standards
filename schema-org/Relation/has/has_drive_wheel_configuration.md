@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: DriveWheelConfigurationValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_drive_wheel_configuration|has_drive_wheel_configuration]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_drive_wheel_configuration.public|has_drive_wheel_configuration.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.internal|has_drive_wheel_configuration.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.protect|has_drive_wheel_configuration.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.private|has_drive_wheel_configuration.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.personal|has_drive_wheel_configuration.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_drive_wheel_configuration.secret|has_drive_wheel_configuration.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_drive_wheel_configuration|has_drive_wheel_configuration]] 
+- [[../../../../../_public/schema-org/Relation/has/has_drive_wheel_configuration.public|has_drive_wheel_configuration.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_drive_wheel_configuration.internal|has_drive_wheel_configuration.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_drive_wheel_configuration.protect|has_drive_wheel_configuration.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_drive_wheel_configuration.private|has_drive_wheel_configuration.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_drive_wheel_configuration.personal|has_drive_wheel_configuration.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_drive_wheel_configuration.secret|has_drive_wheel_configuration.secret]] 

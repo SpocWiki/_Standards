@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_recognized_by|is_recognized_by]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_recognized_by.public|is_recognized_by.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_recognized_by.internal|is_recognized_by.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_recognized_by.protect|is_recognized_by.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_recognized_by.private|is_recognized_by.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_recognized_by.personal|is_recognized_by.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_recognized_by.secret|is_recognized_by.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_recognized_by|is_recognized_by]] 
+- [[../../../../../_public/schema-org/Relation/is/is_recognized_by.public|is_recognized_by.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_recognized_by.internal|is_recognized_by.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_recognized_by.protect|is_recognized_by.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_recognized_by.private|is_recognized_by.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_recognized_by.personal|is_recognized_by.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_recognized_by.secret|is_recognized_by.secret]] 

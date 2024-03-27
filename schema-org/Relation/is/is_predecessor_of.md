@@ -47,10 +47,10 @@ Relation describes that:
 #is_/inverse_of :: [[is_successor_of]]   
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_predecessor_of|is_predecessor_of]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/is_predecessor_of.public|is_predecessor_of.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_predecessor_of.internal|is_predecessor_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_predecessor_of.protect|is_predecessor_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_predecessor_of.private|is_predecessor_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_predecessor_of.personal|is_predecessor_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_predecessor_of.secret|is_predecessor_of.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/is_predecessor_of|is_predecessor_of]] 
+- [[../../../../../_public/schema-org/Relation/has/is_predecessor_of.public|is_predecessor_of.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/is_predecessor_of.internal|is_predecessor_of.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/is_predecessor_of.protect|is_predecessor_of.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/is_predecessor_of.private|is_predecessor_of.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/is_predecessor_of.personal|is_predecessor_of.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/is_predecessor_of.secret|is_predecessor_of.secret]] 

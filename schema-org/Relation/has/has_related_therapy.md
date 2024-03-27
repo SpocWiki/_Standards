@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalTherapy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_related_therapy|has_related_therapy]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_related_therapy.public|has_related_therapy.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_related_therapy.internal|has_related_therapy.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_related_therapy.protect|has_related_therapy.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_related_therapy.private|has_related_therapy.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_related_therapy.personal|has_related_therapy.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_related_therapy.secret|has_related_therapy.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_related_therapy|has_related_therapy]] 
+- [[../../../../../_public/schema-org/Relation/has/has_related_therapy.public|has_related_therapy.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_related_therapy.internal|has_related_therapy.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_related_therapy.protect|has_related_therapy.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_related_therapy.private|has_related_therapy.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_related_therapy.personal|has_related_therapy.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_related_therapy.secret|has_related_therapy.secret]] 

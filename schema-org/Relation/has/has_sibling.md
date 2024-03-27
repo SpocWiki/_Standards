@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sibling|has_sibling]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_sibling.public|has_sibling.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sibling.internal|has_sibling.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sibling.protect|has_sibling.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sibling.private|has_sibling.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sibling.personal|has_sibling.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sibling.secret|has_sibling.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_sibling|has_sibling]] 
+- [[../../../../../_public/schema-org/Relation/has/has_sibling.public|has_sibling.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_sibling.internal|has_sibling.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_sibling.protect|has_sibling.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_sibling.private|has_sibling.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_sibling.personal|has_sibling.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_sibling.secret|has_sibling.secret]] 

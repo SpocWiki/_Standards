@@ -46,10 +46,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ recipeInstructions ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_step|has_step]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_step.public|has_step.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_step.internal|has_step.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_step.protect|has_step.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_step.private|has_step.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_step.personal|has_step.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_step.secret|has_step.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_step|has_step]] 
+- [[../../../../../_public/schema-org/Relation/has/has_step.public|has_step.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_step.internal|has_step.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_step.protect|has_step.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_step.private|has_step.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_step.personal|has_step.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_step.secret|has_step.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: ContactPoint )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_service_sms_number|has_service_sms_number]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_service_sms_number.public|has_service_sms_number.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_service_sms_number.internal|has_service_sms_number.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_service_sms_number.protect|has_service_sms_number.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_service_sms_number.private|has_service_sms_number.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_service_sms_number.personal|has_service_sms_number.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_service_sms_number.secret|has_service_sms_number.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_service_sms_number|has_service_sms_number]] 
+- [[../../../../../_public/schema-org/Relation/has/has_service_sms_number.public|has_service_sms_number.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_service_sms_number.internal|has_service_sms_number.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_service_sms_number.protect|has_service_sms_number.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_service_sms_number.private|has_service_sms_number.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_service_sms_number.personal|has_service_sms_number.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_service_sms_number.secret|has_service_sms_number.secret]] 

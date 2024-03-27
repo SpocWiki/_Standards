@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: PublicationEvent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_publication|has_publication]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_publication.public|has_publication.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_publication.internal|has_publication.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_publication.protect|has_publication.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_publication.private|has_publication.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_publication.personal|has_publication.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_publication.secret|has_publication.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_publication|has_publication]] 
+- [[../../../../../_public/schema-org/Relation/has/has_publication.public|has_publication.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_publication.internal|has_publication.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_publication.protect|has_publication.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_publication.private|has_publication.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_publication.personal|has_publication.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_publication.secret|has_publication.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_cheat_code|has_cheat_code]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_cheat_code.public|has_cheat_code.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_cheat_code.internal|has_cheat_code.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_cheat_code.protect|has_cheat_code.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_cheat_code.private|has_cheat_code.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_cheat_code.personal|has_cheat_code.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_cheat_code.secret|has_cheat_code.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_cheat_code|has_cheat_code]] 
+- [[../../../../../_public/schema-org/Relation/has/has_cheat_code.public|has_cheat_code.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_cheat_code.internal|has_cheat_code.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_cheat_code.protect|has_cheat_code.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_cheat_code.private|has_cheat_code.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_cheat_code.personal|has_cheat_code.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_cheat_code.secret|has_cheat_code.secret]] 

@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: DeliveryChargeSpecification, MonetaryAmount )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_free_shipping_threshold|has_free_shipping_threshold]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_free_shipping_threshold.public|has_free_shipping_threshold.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_free_shipping_threshold.internal|has_free_shipping_threshold.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_free_shipping_threshold.protect|has_free_shipping_threshold.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_free_shipping_threshold.private|has_free_shipping_threshold.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_free_shipping_threshold.personal|has_free_shipping_threshold.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_free_shipping_threshold.secret|has_free_shipping_threshold.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_free_shipping_threshold|has_free_shipping_threshold]] 
+- [[../../../../../_public/schema-org/Relation/has/has_free_shipping_threshold.public|has_free_shipping_threshold.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_free_shipping_threshold.internal|has_free_shipping_threshold.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_free_shipping_threshold.protect|has_free_shipping_threshold.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_free_shipping_threshold.private|has_free_shipping_threshold.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_free_shipping_threshold.personal|has_free_shipping_threshold.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_free_shipping_threshold.secret|has_free_shipping_threshold.secret]] 

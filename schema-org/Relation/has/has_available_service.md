@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalProcedure, MedicalTest, MedicalTherapy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_available_service|has_available_service]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_available_service.public|has_available_service.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_available_service.internal|has_available_service.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_available_service.protect|has_available_service.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_available_service.private|has_available_service.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_available_service.personal|has_available_service.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_available_service.secret|has_available_service.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_available_service|has_available_service]] 
+- [[../../../../../_public/schema-org/Relation/has/has_available_service.public|has_available_service.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_available_service.internal|has_available_service.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_available_service.protect|has_available_service.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_available_service.private|has_available_service.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_available_service.personal|has_available_service.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_available_service.secret|has_available_service.secret]] 

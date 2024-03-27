@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Language, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_subtitle_language|has_subtitle_language]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_subtitle_language.public|has_subtitle_language.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_subtitle_language.internal|has_subtitle_language.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_subtitle_language.protect|has_subtitle_language.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_subtitle_language.private|has_subtitle_language.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_subtitle_language.personal|has_subtitle_language.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_subtitle_language.secret|has_subtitle_language.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_subtitle_language|has_subtitle_language]] 
+- [[../../../../../_public/schema-org/Relation/has/has_subtitle_language.public|has_subtitle_language.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_subtitle_language.internal|has_subtitle_language.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_subtitle_language.protect|has_subtitle_language.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_subtitle_language.private|has_subtitle_language.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_subtitle_language.personal|has_subtitle_language.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_subtitle_language.secret|has_subtitle_language.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: DataFeed )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_supporting_data|has_supporting_data]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_supporting_data.public|has_supporting_data.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_supporting_data.internal|has_supporting_data.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_supporting_data.protect|has_supporting_data.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_supporting_data.private|has_supporting_data.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_supporting_data.personal|has_supporting_data.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_supporting_data.secret|has_supporting_data.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_supporting_data|has_supporting_data]] 
+- [[../../../../../_public/schema-org/Relation/has/has_supporting_data.public|has_supporting_data.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_supporting_data.internal|has_supporting_data.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_supporting_data.protect|has_supporting_data.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_supporting_data.private|has_supporting_data.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_supporting_data.personal|has_supporting_data.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_supporting_data.secret|has_supporting_data.secret]] 

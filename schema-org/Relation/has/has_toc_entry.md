@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: [[../../Composite/has_parts]] ] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_toc_entry|has_toc_entry]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_toc_entry.public|has_toc_entry.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_toc_entry.internal|has_toc_entry.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_toc_entry.protect|has_toc_entry.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_toc_entry.private|has_toc_entry.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_toc_entry.personal|has_toc_entry.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_toc_entry.secret|has_toc_entry.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_toc_entry|has_toc_entry]] 
+- [[../../../../../_public/schema-org/Relation/has/has_toc_entry.public|has_toc_entry.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_toc_entry.internal|has_toc_entry.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_toc_entry.protect|has_toc_entry.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_toc_entry.private|has_toc_entry.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_toc_entry.personal|has_toc_entry.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_toc_entry.secret|has_toc_entry.secret]] 

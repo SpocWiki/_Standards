@@ -48,10 +48,10 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-class
 #is_/inverse_of  :: [[is_sub_class_of]]   
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sub_classes|has_sub_classes]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_sub_classes.public|has_sub_classes.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_classes.internal|has_sub_classes.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sub_classes.protect|has_sub_classes.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sub_classes.private|has_sub_classes.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sub_classes.personal|has_sub_classes.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sub_classes.secret|has_sub_classes.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_sub_classes|has_sub_classes]] 
+- [[../../../../../_public/schema-org/Relation/has/has_sub_classes.public|has_sub_classes.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_sub_classes.internal|has_sub_classes.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_sub_classes.protect|has_sub_classes.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_sub_classes.private|has_sub_classes.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_sub_classes.personal|has_sub_classes.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_sub_classes.secret|has_sub_classes.secret]] 

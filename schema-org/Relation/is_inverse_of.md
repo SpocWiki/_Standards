@@ -37,7 +37,7 @@ Relates a property to a property that is its inverse.
 #is_/different_from :: [[is_complement_of]]  
 
 Inverse Relations relate the __same pairs__ of items to each other, but __in reversed direction__.
-For example, the [[../../../Predicate/Relations/has/has_alumni]] and [[is/is_alumni_of]] properties are [[inverseOf]] each other. 
+For example, the [[../../../Relation/has/has_alumni]] and [[is/is_alumni_of]] properties are [[inverseOf]] each other. 
 
 [ #is_/part_of :: https://meta.schema.org]
 
@@ -85,10 +85,10 @@ Complement(Converse(`>`)) = Complement(`<`)  = `>=`
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/is_inverse_of.md|is_inverse_of]]
-- [[../../../../_internal/schema.org/Predicate/Relations/is_inverse_of.internal|is_inverse_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_inverse_of.protect|is_inverse_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_inverse_of.private|is_inverse_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_inverse_of.personal|is_inverse_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_inverse_of.secret|is_inverse_of.secret]] 
+- [[../../../../_Standards/schema-org/Relation/is_inverse_of.md|is_inverse_of]]
+- [[../../../../_internal/schema.org/Relation/is_inverse_of.internal|is_inverse_of.internal]] 
+- [[../../../../_protect/schema.org/Relation/is_inverse_of.protect|is_inverse_of.protect]] 
+- [[../../../../_private/schema.org/Relation/is_inverse_of.private|is_inverse_of.private]] 
+- [[../../../../_personal/schema.org/Relation/is_inverse_of.personal|is_inverse_of.personal]] 
+- [[../../../../_secret/schema.org/Relation/is_inverse_of.secret|is_inverse_of.secret]] 
 

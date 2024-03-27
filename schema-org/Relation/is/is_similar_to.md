@@ -45,10 +45,10 @@ Relation describes that:
 ( #has_/range :: Product, Service)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_similar_to|is_similar_to]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_similar_to.public|is_similar_to.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_similar_to.internal|is_similar_to.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_similar_to.protect|is_similar_to.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_similar_to.private|is_similar_to.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_similar_to.personal|is_similar_to.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_similar_to.secret|is_similar_to.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_similar_to|is_similar_to]] 
+- [[../../../../../_public/schema-org/Relation/is/is_similar_to.public|is_similar_to.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_similar_to.internal|is_similar_to.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_similar_to.protect|is_similar_to.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_similar_to.private|is_similar_to.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_similar_to.personal|is_similar_to.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_similar_to.secret|is_similar_to.secret]] 

@@ -49,10 +49,10 @@ Relation describes that:
 ( #has_/range :: ProductModel, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_model|has_model]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_model.public|has_model.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_model.internal|has_model.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_model.protect|has_model.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_model.private|has_model.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_model.personal|has_model.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_model.secret|has_model.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_model|has_model]] 
+- [[../../../../../_public/schema-org/Relation/has/has_model.public|has_model.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_model.internal|has_model.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_model.protect|has_model.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_model.private|has_model.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_model.personal|has_model.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_model.secret|has_model.secret]] 

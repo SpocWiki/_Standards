@@ -46,10 +46,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_founder|has_founder]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_founder.public|has_founder.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_founder.internal|has_founder.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_founder.protect|has_founder.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_founder.private|has_founder.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_founder.personal|has_founder.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_founder.secret|has_founder.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_founder|has_founder]] 
+- [[../../../../../_public/schema-org/Relation/has/has_founder.public|has_founder.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_founder.internal|has_founder.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_founder.protect|has_founder.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_founder.private|has_founder.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_founder.personal|has_founder.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_founder.secret|has_founder.secret]] 

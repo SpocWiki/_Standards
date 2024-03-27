@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MediaObject, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_during-media|has_during-media]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_during-media.public|has_during-media.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_during-media.internal|has_during-media.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_during-media.protect|has_during-media.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_during-media.private|has_during-media.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_during-media.personal|has_during-media.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_during-media.secret|has_during-media.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_during-media|has_during-media]] 
+- [[../../../../../_public/schema-org/Relation/has/has_during-media.public|has_during-media.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_during-media.internal|has_during-media.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_during-media.protect|has_during-media.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_during-media.private|has_during-media.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_during-media.personal|has_during-media.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_during-media.secret|has_during-media.secret]] 

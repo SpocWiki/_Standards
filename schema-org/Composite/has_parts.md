@@ -53,10 +53,10 @@ Relation describes that:
 `$=dv.current().has_sub_properties`
 `$=dv.current().has_sub_properties`
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_parts|has_parts]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_parts.public|has_parts.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parts.internal|has_parts.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_parts.protect|has_parts.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_parts.private|has_parts.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_parts.personal|has_parts.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_parts.secret|has_parts.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_parts|has_parts]] 
+- [[../../../../../_public/schema-org/Relation/has/has_parts.public|has_parts.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_parts.internal|has_parts.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_parts.protect|has_parts.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_parts.private|has_parts.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_parts.personal|has_parts.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_parts.secret|has_parts.secret]] 

@@ -47,10 +47,10 @@ Relation describes that:
 [ #is_/inverse_of  :: dataset ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_included_in_data_catalog|is_included_in_data_catalog]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_included_in_data_catalog.public|is_included_in_data_catalog.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_included_in_data_catalog.internal|is_included_in_data_catalog.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_included_in_data_catalog.protect|is_included_in_data_catalog.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_included_in_data_catalog.private|is_included_in_data_catalog.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_included_in_data_catalog.personal|is_included_in_data_catalog.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_included_in_data_catalog.secret|is_included_in_data_catalog.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_included_in_data_catalog|is_included_in_data_catalog]] 
+- [[../../../../../_public/schema-org/Relation/is/is_included_in_data_catalog.public|is_included_in_data_catalog.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_included_in_data_catalog.internal|is_included_in_data_catalog.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_included_in_data_catalog.protect|is_included_in_data_catalog.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_included_in_data_catalog.private|is_included_in_data_catalog.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_included_in_data_catalog.personal|is_included_in_data_catalog.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_included_in_data_catalog.secret|is_included_in_data_catalog.secret]] 

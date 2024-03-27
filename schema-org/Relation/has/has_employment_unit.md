@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_employment_unit|has_employment_unit]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_employment_unit.public|has_employment_unit.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_employment_unit.internal|has_employment_unit.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_employment_unit.protect|has_employment_unit.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_employment_unit.private|has_employment_unit.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_employment_unit.personal|has_employment_unit.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_employment_unit.secret|has_employment_unit.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_employment_unit|has_employment_unit]] 
+- [[../../../../../_public/schema-org/Relation/has/has_employment_unit.public|has_employment_unit.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_employment_unit.internal|has_employment_unit.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_employment_unit.protect|has_employment_unit.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_employment_unit.private|has_employment_unit.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_employment_unit.personal|has_employment_unit.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_employment_unit.secret|has_employment_unit.secret]] 

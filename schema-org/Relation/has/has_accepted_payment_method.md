@@ -43,10 +43,10 @@ Relation describes that:
 ( #has_/range :: LoanOrCredit, PaymentMethod )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_accepted_payment_method|has_accepted_payment_method]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_accepted_payment_method.public|has_accepted_payment_method.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_accepted_payment_method.internal|has_accepted_payment_method.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_accepted_payment_method.protect|has_accepted_payment_method.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_accepted_payment_method.private|has_accepted_payment_method.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_accepted_payment_method.personal|has_accepted_payment_method.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_accepted_payment_method.secret|has_accepted_payment_method.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_accepted_payment_method|has_accepted_payment_method]] 
+- [[../../../../../_public/schema-org/Relation/has/has_accepted_payment_method.public|has_accepted_payment_method.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_accepted_payment_method.internal|has_accepted_payment_method.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_accepted_payment_method.protect|has_accepted_payment_method.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_accepted_payment_method.private|has_accepted_payment_method.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_accepted_payment_method.personal|has_accepted_payment_method.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_accepted_payment_method.secret|has_accepted_payment_method.secret]] 

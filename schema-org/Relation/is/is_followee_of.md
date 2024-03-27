@@ -42,10 +42,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_followee_of|is_followee_of]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_followee_of.public|is_followee_of.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_followee_of.internal|is_followee_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_followee_of.protect|is_followee_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_followee_of.private|is_followee_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_followee_of.personal|is_followee_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_followee_of.secret|is_followee_of.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_followee_of|is_followee_of]] 
+- [[../../../../../_public/schema-org/Relation/is/is_followee_of.public|is_followee_of.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_followee_of.internal|is_followee_of.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_followee_of.protect|is_followee_of.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_followee_of.private|is_followee_of.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_followee_of.personal|is_followee_of.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_followee_of.secret|is_followee_of.secret]] 

@@ -48,10 +48,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../../Composite/is_part_of]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_comprised_of|is_comprised_of]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_comprised_of.public|is_comprised_of.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_comprised_of.internal|is_comprised_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_comprised_of.protect|is_comprised_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_comprised_of.private|is_comprised_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_comprised_of.personal|is_comprised_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_comprised_of.secret|is_comprised_of.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_comprised_of|is_comprised_of]] 
+- [[../../../../../_public/schema-org/Relation/is/is_comprised_of.public|is_comprised_of.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_comprised_of.internal|is_comprised_of.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_comprised_of.protect|is_comprised_of.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_comprised_of.private|is_comprised_of.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_comprised_of.personal|is_comprised_of.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_comprised_of.secret|is_comprised_of.secret]] 

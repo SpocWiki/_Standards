@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_region_drained|has_region_drained]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_region_drained.public|has_region_drained.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_region_drained.internal|has_region_drained.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_region_drained.protect|has_region_drained.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_region_drained.private|has_region_drained.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_region_drained.personal|has_region_drained.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_region_drained.secret|has_region_drained.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_region_drained|has_region_drained]] 
+- [[../../../../../_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_region_drained.internal|has_region_drained.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_region_drained.protect|has_region_drained.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_region_drained.private|has_region_drained.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_region_drained.personal|has_region_drained.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_region_drained.secret|has_region_drained.secret]] 

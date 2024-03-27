@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: OfferShippingDetails )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_shipping_details|has_shipping_details]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_shipping_details.public|has_shipping_details.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_shipping_details.internal|has_shipping_details.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_shipping_details.protect|has_shipping_details.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_shipping_details.private|has_shipping_details.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_shipping_details.personal|has_shipping_details.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_shipping_details.secret|has_shipping_details.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_shipping_details|has_shipping_details]] 
+- [[../../../../../_public/schema-org/Relation/has/has_shipping_details.public|has_shipping_details.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_shipping_details.internal|has_shipping_details.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_shipping_details.protect|has_shipping_details.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_shipping_details.private|has_shipping_details.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_shipping_details.personal|has_shipping_details.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_shipping_details.secret|has_shipping_details.secret]] 

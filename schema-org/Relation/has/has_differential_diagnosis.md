@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: DDxElement )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_differential_diagnosis|has_differential_diagnosis]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_differential_diagnosis.public|has_differential_diagnosis.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_differential_diagnosis.internal|has_differential_diagnosis.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_differential_diagnosis.protect|has_differential_diagnosis.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_differential_diagnosis.private|has_differential_diagnosis.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_differential_diagnosis.personal|has_differential_diagnosis.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_differential_diagnosis.secret|has_differential_diagnosis.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_differential_diagnosis|has_differential_diagnosis]] 
+- [[../../../../../_public/schema-org/Relation/has/has_differential_diagnosis.public|has_differential_diagnosis.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_differential_diagnosis.internal|has_differential_diagnosis.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_differential_diagnosis.protect|has_differential_diagnosis.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_differential_diagnosis.private|has_differential_diagnosis.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_differential_diagnosis.personal|has_differential_diagnosis.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_differential_diagnosis.secret|has_differential_diagnosis.secret]] 

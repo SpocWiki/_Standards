@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: MusicAlbum )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_album|has_album]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_album.public|has_album.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_album.internal|has_album.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_album.protect|has_album.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_album.private|has_album.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_album.personal|has_album.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_album.secret|has_album.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_album|has_album]] 
+- [[../../../../../_public/schema-org/Relation/has/has_album.public|has_album.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_album.internal|has_album.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_album.protect|has_album.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_album.private|has_album.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_album.personal|has_album.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_album.secret|has_album.secret]] 

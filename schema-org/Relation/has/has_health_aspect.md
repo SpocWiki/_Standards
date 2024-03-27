@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: HealthAspectEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_health_aspect|has_health_aspect]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_health_aspect.public|has_health_aspect.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_health_aspect.internal|has_health_aspect.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_health_aspect.protect|has_health_aspect.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_health_aspect.private|has_health_aspect.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_health_aspect.personal|has_health_aspect.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_health_aspect.secret|has_health_aspect.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_health_aspect|has_health_aspect]] 
+- [[../../../../../_public/schema-org/Relation/has/has_health_aspect.public|has_health_aspect.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_health_aspect.internal|has_health_aspect.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_health_aspect.protect|has_health_aspect.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_health_aspect.private|has_health_aspect.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_health_aspect.personal|has_health_aspect.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_health_aspect.secret|has_health_aspect.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_coach|has_coach]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_coach.public|has_coach.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_coach.internal|has_coach.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_coach.protect|has_coach.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_coach.private|has_coach.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_coach.personal|has_coach.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_coach.secret|has_coach.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_coach|has_coach]] 
+- [[../../../../../_public/schema-org/Relation/has/has_coach.public|has_coach.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_coach.internal|has_coach.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_coach.protect|has_coach.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_coach.private|has_coach.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_coach.personal|has_coach.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_coach.secret|has_coach.secret]] 

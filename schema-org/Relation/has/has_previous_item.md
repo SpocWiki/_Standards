@@ -50,10 +50,10 @@ This Relation describes that:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_previous_item|has_previous_item]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_previous_item.public|has_previous_item.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_previous_item.internal|has_previous_item.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_previous_item.protect|has_previous_item.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_previous_item.private|has_previous_item.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_previous_item.personal|has_previous_item.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_previous_item.secret|has_previous_item.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_previous_item|has_previous_item]] 
+- [[../../../../../_public/schema-org/Relation/has/has_previous_item.public|has_previous_item.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_previous_item.internal|has_previous_item.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_previous_item.protect|has_previous_item.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_previous_item.private|has_previous_item.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_previous_item.personal|has_previous_item.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_previous_item.secret|has_previous_item.secret]] 

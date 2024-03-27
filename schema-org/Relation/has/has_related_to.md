@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_related_to|has_related_to]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_related_to.public|has_related_to.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_related_to.internal|has_related_to.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_related_to.protect|has_related_to.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_related_to.private|has_related_to.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_related_to.personal|has_related_to.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_related_to.secret|has_related_to.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_related_to|has_related_to]] 
+- [[../../../../../_public/schema-org/Relation/has/has_related_to.public|has_related_to.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_related_to.internal|has_related_to.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_related_to.protect|has_related_to.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_related_to.private|has_related_to.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_related_to.personal|has_related_to.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_related_to.secret|has_related_to.secret]] 

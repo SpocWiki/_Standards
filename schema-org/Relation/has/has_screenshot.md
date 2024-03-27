@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: ImageObject, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_screenshot|has_screenshot]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_screenshot.public|has_screenshot.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_screenshot.internal|has_screenshot.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_screenshot.protect|has_screenshot.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_screenshot.private|has_screenshot.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_screenshot.personal|has_screenshot.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_screenshot.secret|has_screenshot.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_screenshot|has_screenshot]] 
+- [[../../../../../_public/schema-org/Relation/has/has_screenshot.public|has_screenshot.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_screenshot.internal|has_screenshot.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_screenshot.protect|has_screenshot.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_screenshot.private|has_screenshot.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_screenshot.personal|has_screenshot.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_screenshot.secret|has_screenshot.secret]] 

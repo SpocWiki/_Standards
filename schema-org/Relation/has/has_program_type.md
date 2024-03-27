@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_program_type|has_program_type]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_program_type.public|has_program_type.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_program_type.internal|has_program_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_program_type.protect|has_program_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_program_type.private|has_program_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_program_type.personal|has_program_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_program_type.secret|has_program_type.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_program_type|has_program_type]] 
+- [[../../../../../_public/schema-org/Relation/has/has_program_type.public|has_program_type.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_program_type.internal|has_program_type.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_program_type.protect|has_program_type.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_program_type.private|has_program_type.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_program_type.personal|has_program_type.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_program_type.secret|has_program_type.secret]] 

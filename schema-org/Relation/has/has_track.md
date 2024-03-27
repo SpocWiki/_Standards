@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: ItemList, MusicRecording )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_track|has_track]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_track.public|has_track.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_track.internal|has_track.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_track.protect|has_track.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_track.private|has_track.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_track.personal|has_track.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_track.secret|has_track.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_track|has_track]] 
+- [[../../../../../_public/schema-org/Relation/has/has_track.public|has_track.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_track.internal|has_track.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_track.protect|has_track.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_track.private|has_track.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_track.personal|has_track.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_track.secret|has_track.secret]] 

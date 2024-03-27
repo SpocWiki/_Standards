@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Brand, Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_brand|has_brand]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_brand.public|has_brand.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_brand.internal|has_brand.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_brand.protect|has_brand.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_brand.private|has_brand.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_brand.personal|has_brand.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_brand.secret|has_brand.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_brand|has_brand]] 
+- [[../../../../../_public/schema-org/Relation/has/has_brand.public|has_brand.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_brand.internal|has_brand.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_brand.protect|has_brand.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_brand.private|has_brand.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_brand.personal|has_brand.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_brand.secret|has_brand.secret]] 

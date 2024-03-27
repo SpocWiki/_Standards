@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MusicPlaylist )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_in_playlist|is_in_playlist]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_in_playlist.public|is_in_playlist.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_playlist.internal|is_in_playlist.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_in_playlist.protect|is_in_playlist.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_in_playlist.private|is_in_playlist.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_in_playlist.personal|is_in_playlist.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_in_playlist.secret|is_in_playlist.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_in_playlist|is_in_playlist]] 
+- [[../../../../../_public/schema-org/Relation/is/is_in_playlist.public|is_in_playlist.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_in_playlist.internal|is_in_playlist.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_in_playlist.protect|is_in_playlist.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_in_playlist.private|is_in_playlist.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_in_playlist.personal|is_in_playlist.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_in_playlist.secret|is_in_playlist.secret]] 

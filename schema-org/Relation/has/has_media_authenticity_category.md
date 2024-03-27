@@ -45,10 +45,10 @@ Relation describes that:
 ( #has_/range :: [[../../../Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_media_authenticity_category|has_media_authenticity_category]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_media_authenticity_category.public|has_media_authenticity_category.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_media_authenticity_category.internal|has_media_authenticity_category.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_media_authenticity_category.protect|has_media_authenticity_category.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_media_authenticity_category.private|has_media_authenticity_category.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_media_authenticity_category.personal|has_media_authenticity_category.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_media_authenticity_category.secret|has_media_authenticity_category.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_media_authenticity_category|has_media_authenticity_category]] 
+- [[../../../../../_public/schema-org/Relation/has/has_media_authenticity_category.public|has_media_authenticity_category.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_media_authenticity_category.internal|has_media_authenticity_category.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_media_authenticity_category.protect|has_media_authenticity_category.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_media_authenticity_category.private|has_media_authenticity_category.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_media_authenticity_category.personal|has_media_authenticity_category.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_media_authenticity_category.secret|has_media_authenticity_category.secret]] 

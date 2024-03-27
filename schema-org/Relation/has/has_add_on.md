@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Offer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_add_on|has_add_on]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_add_on.public|has_add_on.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_add_on.internal|has_add_on.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_add_on.protect|has_add_on.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_add_on.private|has_add_on.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_add_on.personal|has_add_on.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_add_on.secret|has_add_on.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_add_on|has_add_on]] 
+- [[../../../../../_public/schema-org/Relation/has/has_add_on.public|has_add_on.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_add_on.internal|has_add_on.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_add_on.protect|has_add_on.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_add_on.private|has_add_on.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_add_on.personal|has_add_on.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_add_on.secret|has_add_on.secret]] 

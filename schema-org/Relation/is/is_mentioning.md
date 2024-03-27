@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: [[../../../Class/Thing|thing]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_mentioning|is_mentioning]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/is_mentioning.public|is_mentioning.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_mentioning.internal|is_mentioning.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_mentioning.protect|is_mentioning.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_mentioning.private|is_mentioning.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_mentioning.personal|is_mentioning.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_mentioning.secret|is_mentioning.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/is_mentioning|is_mentioning]] 
+- [[../../../../../_public/schema-org/Relation/has/is_mentioning.public|is_mentioning.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/is_mentioning.internal|is_mentioning.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/is_mentioning.protect|is_mentioning.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/is_mentioning.private|is_mentioning.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/is_mentioning.personal|is_mentioning.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/is_mentioning.secret|is_mentioning.secret]] 

@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_buyer|has_buyer]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_buyer.public|has_buyer.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_buyer.internal|has_buyer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_buyer.protect|has_buyer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_buyer.private|has_buyer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_buyer.personal|has_buyer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_buyer.secret|has_buyer.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_buyer|has_buyer]] 
+- [[../../../../../_public/schema-org/Relation/has/has_buyer.public|has_buyer.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_buyer.internal|has_buyer.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_buyer.protect|has_buyer.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_buyer.private|has_buyer.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_buyer.personal|has_buyer.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_buyer.secret|has_buyer.secret]] 
