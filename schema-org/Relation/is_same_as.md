@@ -32,14 +32,15 @@ aliases:
 - has_url_for_same_as
 ---
 
+Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] of a [[../Class/Thing|Thing]].
+
+#is_/complement_of :: [[is_different_from]] 
+#is_/different_from :: [[is_similar_to]]
+#is_/similar_to :: [[is_similar_to]]
+
 URLs of reference Web pages that unambiguously indicate the item's identity. 
 E.g. the URLs of the item's Wikidata entry, 
 Wikipedia page, database-IDs, social media websites, or official website.
-
-Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] of a [[../Class/Thing|Thing]].
-
-#is_/complement_of :: [[is/is_different_from]] 
-#is_/similar_to :: [[is/is_similar_to]]
 
 Use it like this: 
 - [ #has_/url_for_/same_as :: [[../Class/is_a_/data_type/text/URL]] ] or 
