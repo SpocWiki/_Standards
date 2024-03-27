@@ -52,6 +52,8 @@ Complement is all Pairs NOT in the Relation:
 - 1 C,D
 - 2 A,B,C
 
+The Complement is typically much larger than the Relation! 
+That is why it is usually less helpful
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/schema-org/Predicate/Property|Property]] 

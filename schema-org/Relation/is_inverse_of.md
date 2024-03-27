@@ -32,7 +32,7 @@ aliases:
 
 # is_inverse_of 
 
-Relates a property to a property that is its inverse.
+Relates a property to a property that is its inverse / converse.
 
 #is_/different_from :: [[is_complement_of]]  
 

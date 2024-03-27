@@ -33,6 +33,9 @@ aliases:
 #is_/different_from :: [[../is_same_as]] 
 #is_/different_from :: [[../is_same_as]] 
 
+#is_/complement_of :: [[is/is_different_from]] 
+#is_/similar_to :: [[is/is_similar_to]]
+
 Use it like this: 
 - [ #is_/similar_to :: Product, Service] or 
 - [ is_similar_to :: Product, Service] 
