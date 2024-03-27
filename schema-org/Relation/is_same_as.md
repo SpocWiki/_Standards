@@ -28,21 +28,28 @@ aliases:
 - same-as
 - same_as
 - sameAs
+- owl~sameAs 
 - has_url_for_same_as
 ---
-URLs of reference Web pages that unambiguously indicate the item's identity. 
-E.g. the URLs of the item's Wikidata entry, Wikipedia page, database-IDs, social media websites, or official website.
 
-Predicate to specify another [[../../Class/is_a_/data_type/text/URL|url]] of a [[../../Class/Thing|Thing]].
+URLs of reference Web pages that unambiguously indicate the item's identity. 
+E.g. the URLs of the item's Wikidata entry, 
+Wikipedia page, database-IDs, social media websites, or official website.
+
+Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] of a [[../Class/Thing|Thing]].
+
+#is_/complement_of :: [[is/is_different_from]] 
+#is_/similar_to :: [[is/is_similar_to]]
 
 Use it like this: 
-- [ #has_/url_for_/same_as :: [[../../Class/is_a_/data_type/text/URL]] ] or 
+- [ #has_/url_for_/same_as :: [[../Class/is_a_/data_type/text/URL]] ] or 
 - [ has_url_for_same_as :: [[../../Class/is_a_/data_type/text/URLs]] ] 
 
 Predicate describes that: 
-[ #has_/domain  :: [[../../Class/Thing|Thing]] ]
+[ #has_/domain  :: [[../Class/Thing|Thing]] ]
 ( #has_/name :: has_url_for_same_as )
-( #has_/range :: [[../../Class/is_a_/data_type/text/URL]] )
+( #has_/range :: [[../Class/is_a_/data_type/text/URL]] )
+
 
 ## Confidential Links & Embeds: 
 - [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_same_as|has_url_for_same_as]] 

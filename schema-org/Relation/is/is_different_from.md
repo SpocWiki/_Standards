@@ -30,8 +30,8 @@ aliases:
 - is_similar_to
 ---
 
-#is_/different_from :: [[../is_same_as]] 
-#is_/different_from :: [[../is_same_as]] 
+#is_/inverse_of :: [[]]
+#is_/different_from :: [[]]
 
 Use it like this: 
 - [ #is_/similar_to :: Product, Service] or 

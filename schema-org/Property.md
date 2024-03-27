@@ -61,7 +61,7 @@ The Class/Type of all [Properties](../[Properties](Property.md) like this:
 
 [ #is_/sub_class_of :: [[Class/is_a_/Intangible]] ]
 
-#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Property/has_url_for/has_url_for_same_as|sameAs]], subjectOf, supersededBy, url ] ]
+#has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, domainIncludes, identifier, image, inverseOf, mainEntityOfPage, name, potentialAction, rangeIncludes, [[Relation/is_same_as|sameAs]], subjectOf, supersededBy, url ] ]
 
 ## Property-Syntax: 
 RDFa Lite:

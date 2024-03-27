@@ -34,8 +34,10 @@ aliases:
 
 Relates a property to a property that is its inverse.
 
-Inverse Relations relate the same pairs of items to each other, but in reversed direction.
-For example, the 'alumni' and 'alumniOf' properties are [[inverseOf]] each other. 
+#is_/different_from :: [[is_complement_of]]  
+
+Inverse Relations relate the __same pairs__ of items to each other, but __in reversed direction__.
+For example, the [[../../../Predicate/Relations/has/has_alumni]] and [[is/is_alumni_of]] properties are [[inverseOf]] each other. 
 
 [ #is_/part_of :: https://meta.schema.org]
 

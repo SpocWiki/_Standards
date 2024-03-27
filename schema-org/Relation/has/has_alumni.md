@@ -41,7 +41,7 @@ Relation describes that:
 ( #has_/name :: has_alumni )
 ( #has_/range :: Person )
 
-[ #is_/inverse_of  :: [[is_alumni_of]] ]
+[ #is_/inverse_of  :: [[is_alumni_of]] ] 
 
 **
 
