@@ -3,6 +3,7 @@
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/K
+#is_a_/unit_/for_temperature 
 
 
 > The **Kelvin**, symbol K, is a unit of measurement for temperature. The Kelvin scale is an absolute scale, which is defined such that 0 K is absolute zero and a change of thermodynamic temperature T by 1 kelvin corresponds to a change of thermal energy kT by 1.380649×10−23 J. 

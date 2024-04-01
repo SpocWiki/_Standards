@@ -1,10 +1,12 @@
 ---
-limit: 9
+limit: 99
 mapWithTag: true
 excludes: 
 icon: box
-version: "2.167"
-tagNames: 
+version: "2.176"
+tagNames:
+  - is_a_/Tangible
+  - class/Thing/Tangible
 tags:
   - class/FileClass
   - class/Product
@@ -99,7 +101,7 @@ fields:
     options:
       sourceType: ValuesFromDVQuery
       valuesList: {}
-      valuesFromDVQuery: dv.pages("#is_a_unit").map(p => p.name)
+      valuesFromDVQuery: dv.pages("#is_a_/unit_").map(p => p.file.name)
     path: X6B2aN
     id: BRdKtH
   - name: has_value_for_width_
@@ -112,7 +114,7 @@ fields:
     options:
       sourceType: ValuesFromDVQuery
       valuesList: {}
-      valuesFromDVQuery: dv.pages("#is_a_unit_for_length").map(p => p.name)
+      valuesFromDVQuery: dv.pages("#is_a_/unit_/for_length").map(p => p.name)
     path: ""
     id: e6pkYR
   - name: has_value_for_weight_
@@ -135,7 +137,7 @@ fields:
     options:
       sourceType: ValuesFromDVQuery
       valuesList: {}
-      valuesFromDVQuery: dv.pages("#is_a_unit_for_length").map(p => p.name)
+      valuesFromDVQuery: dv.pages("#is_a_/unit_/for_length").map(p => p.file.name)
     path: ""
     id: 53Tjk0
   - name: has_unit_for_height
