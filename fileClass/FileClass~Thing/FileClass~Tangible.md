@@ -3,7 +3,7 @@ limit: 99
 mapWithTag: true
 excludes: 
 icon: box
-version: "2.176"
+version: "2.180"
 tagNames:
   - is_a_/Tangible
   - class/Thing/Tangible
@@ -96,14 +96,6 @@ fields:
     options: {}
     path: X6B2aN
     id: fVnuxT
-  - name: unit
-    type: Select
-    options:
-      sourceType: ValuesFromDVQuery
-      valuesList: {}
-      valuesFromDVQuery: dv.pages("#is_a_/unit_").map(p => p.file.name)
-    path: X6B2aN
-    id: BRdKtH
   - name: has_value_for_width_
     type: Number
     options: {}
@@ -190,6 +182,12 @@ fields:
     options: {}
     path: X6B2aN
     id: fK3y8E
+  - name: unit
+    type: File
+    options:
+      dvQueryString: dv.pages("#is_a_/unit_")
+    path: X6B2aN
+    id: RTmJ2v
 filesPaths: 
 bookmarksGroups: 
 savedViews: []
@@ -208,7 +206,7 @@ fieldsOrder:
   - UQuhOF
   - D8I0o8
   - X6B2aN
-  - BRdKtH
+  - RTmJ2v
   - fVnuxT
   - u3xBU0
   - fK3y8E
