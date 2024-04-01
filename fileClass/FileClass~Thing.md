@@ -2,8 +2,8 @@
 limit: 9
 mapWithTag: true
 excludes: 
-icon: link-2
-version: "2.0"
+icon: cloud
+version: "2.2"
 tagNames:
   - class/Thing
   - class/Thing
@@ -125,6 +125,32 @@ fields:
     options: {}
     type: Input
     path: ""
+filesPaths: 
+bookmarksGroups: 
+extends: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - ju8s3c
+  - 7hDUzU
+  - XTOfSf
+  - pWnIi6
+  - slq0qJ
+  - Jza665
+  - GSMPIa
+  - F26YLd
+  - V6BgOl
+  - Bu0LaZ
+  - HuDmiv
+  - lragLx
+  - CoRJPY
+  - k4Cbhq
+  - jPPe2V
+  - lw8src
+  - Dkb6pX
+  - 0liZzI
+  - VA7ToR
+  - eVmlNP
 ---
 
 # Thing

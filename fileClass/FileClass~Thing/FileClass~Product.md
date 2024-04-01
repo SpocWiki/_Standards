@@ -2,8 +2,8 @@
 limit: 9
 mapWithTag: true
 excludes: 
-icon: link-2
-version: "2.15"
+icon: shopping-basket
+version: "2.20"
 tagNames:
   - class/Product
   - class/Thing/Product
@@ -14,7 +14,7 @@ tags:
   - class/Product
   - is_a_/Product
   - class/Thing/Product
-extends: FileClass~Thing
+extends: FileClass~Thing/FileClass~Tangible
 fields:
   - id: 3m0qb2
     name: AdditionalProperty

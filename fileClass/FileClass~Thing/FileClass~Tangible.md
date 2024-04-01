@@ -2,13 +2,9 @@
 limit: 9
 mapWithTag: true
 excludes: 
-icon: link-2
-version: "2.125"
-tagNames:
-  - class/Product
-  - class/Thing/Product
-  - is_a_/Product
-  - schema-org/Product
+icon: box
+version: "2.167"
+tagNames: 
 tags:
   - class/FileClass
   - class/Product
@@ -46,13 +42,13 @@ fields:
     type: MultiFile
     path: ""
   - id: Y0mKY9
-    name: IsRelatedTo
+    name: is_related_to
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
   - id: R3icE7
-    name: IsSimilarTo
+    name: is_similar_to
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
@@ -106,7 +102,7 @@ fields:
       valuesFromDVQuery: dv.pages("#is_a_unit").map(p => p.name)
     path: X6B2aN
     id: BRdKtH
-  - name: has_value_for_width
+  - name: has_value_for_width_
     type: Number
     options: {}
     path: ""
@@ -119,17 +115,17 @@ fields:
       valuesFromDVQuery: dv.pages("#is_a_unit_for_length").map(p => p.name)
     path: ""
     id: e6pkYR
-  - name: has_value_for_weight
+  - name: has_value_for_weight_
     type: Number
     options: {}
     path: ""
     id: UQuhOF
-  - name: has_value_for_height
+  - name: has_value_for_height_
     type: Number
     options: {}
     path: ""
     id: xY7AOt
-  - name: has_value_for_length
+  - name: has_value_for_length_
     type: Number
     options: {}
     path: ""
@@ -158,22 +154,62 @@ fields:
       valuesFromDVQuery: dv.pages("#is_a_unit_for_weight").map(p => p.name)
     path: ""
     id: D8I0o8
+  - name: has_value_for_length_in_meters
+    type: Number
+    options: {}
+    path: ""
+    id: dycYVt
+  - name: has_value_for_width_in_meters
+    type: Number
+    options: {}
+    path: ""
+    id: X2X8SI
+  - name: has_value_for_height_in_meters
+    type: Number
+    options: {}
+    path: ""
+    id: NCehnC
+  - name: has_value_for_weigt_in_gram
+    type: Number
+    options: {}
+    path: ""
+    id: iGAowJ
+  - name: time
+    type: DateTime
+    options:
+      dateShiftInterval: 1 day
+      dateFormat: YYYY-MM-DD HH:mm
+      defaultInsertAsLink: false
+      linkPath: ""
+    path: X6B2aN
+    id: u3xBU0
+  - name: type
+    type: File
+    options: {}
+    path: X6B2aN
+    id: fK3y8E
 filesPaths: 
 bookmarksGroups: 
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - dycYVt
   - IgyCpw
   - 53Tjk0
+  - X2X8SI
   - vq7qq2
   - e6pkYR
+  - NCehnC
   - xY7AOt
   - KTXdTG
+  - iGAowJ
   - UQuhOF
   - D8I0o8
   - X6B2aN
   - BRdKtH
   - fVnuxT
+  - u3xBU0
+  - fK3y8E
   - QMUCmQ
   - rPvy2g
   - YAZZKN
