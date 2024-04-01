@@ -3,7 +3,7 @@ limit: 99
 mapWithTag: true
 excludes: 
 icon: box
-version: "2.180"
+version: "2.26"
 tagNames:
   - is_a_/Tangible
   - class/Thing/Tangible
@@ -101,14 +101,6 @@ fields:
     options: {}
     path: ""
     id: vq7qq2
-  - name: has_unit_for_width
-    type: Select
-    options:
-      sourceType: ValuesFromDVQuery
-      valuesList: {}
-      valuesFromDVQuery: dv.pages("#is_a_/unit_/for_length").map(p => p.name)
-    path: ""
-    id: e6pkYR
   - name: has_value_for_weight_
     type: Number
     options: {}
@@ -124,30 +116,6 @@ fields:
     options: {}
     path: ""
     id: IgyCpw
-  - name: has_unit_for_length
-    type: Select
-    options:
-      sourceType: ValuesFromDVQuery
-      valuesList: {}
-      valuesFromDVQuery: dv.pages("#is_a_/unit_/for_length").map(p => p.file.name)
-    path: ""
-    id: 53Tjk0
-  - name: has_unit_for_height
-    type: Select
-    options:
-      sourceType: ValuesFromDVQuery
-      valuesList: {}
-      valuesFromDVQuery: dv.pages("#is_a_unit_for_length").map(p => p.name)
-    path: ""
-    id: KTXdTG
-  - name: has_unit_for_weight
-    type: Select
-    options:
-      sourceType: ValuesFromDVQuery
-      valuesList: {}
-      valuesFromDVQuery: dv.pages("#is_a_unit_for_weight").map(p => p.name)
-    path: ""
-    id: D8I0o8
   - name: has_value_for_length_in_meters
     type: Number
     options: {}
@@ -188,6 +156,30 @@ fields:
       dvQueryString: dv.pages("#is_a_/unit_")
     path: X6B2aN
     id: RTmJ2v
+  - name: has_unit_for_weight
+    type: File
+    options:
+      dvQueryString: dv.pages("#is_a_/unit_/for_weight")
+    path: ""
+    id: LR3ydP
+  - name: has_unit_for_width
+    type: File
+    options:
+      dvQueryString: dv.pages("#is_a_/unit_/for_length")
+    path: ""
+    id: pQ67qm
+  - name: has_unit_for_length
+    type: File
+    options:
+      dvQueryString: dv.pages("#is_a_/unit_/for_length")
+    path: ""
+    id: HOl4m7
+  - name: has_unit_for_height
+    type: File
+    options:
+      dvQueryString: dv.pages("#is_a_unit_for_length")
+    path: ""
+    id: Nse4Lv
 filesPaths: 
 bookmarksGroups: 
 savedViews: []
@@ -195,19 +187,19 @@ favoriteView:
 fieldsOrder:
   - dycYVt
   - IgyCpw
-  - 53Tjk0
+  - HOl4m7
   - X2X8SI
   - vq7qq2
-  - e6pkYR
+  - pQ67qm
   - NCehnC
   - xY7AOt
-  - KTXdTG
+  - Nse4Lv
   - iGAowJ
   - UQuhOF
-  - D8I0o8
+  - LR3ydP
   - X6B2aN
-  - RTmJ2v
   - fVnuxT
+  - RTmJ2v
   - u3xBU0
   - fK3y8E
   - QMUCmQ
