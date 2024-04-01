@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,7 +31,8 @@ aliases:
 - is_a_property_value_specification
 ---
 
-Class of all property_value_specifications.
+Class of all [[property_value_specifications]], 
+i.e. Metadata for a Class Property like '[[../../../Property/has_value_for/has_value_for_max_text_length|has_value_for_max_length]]'.
 
 Tag Instances like this: 
 #is_a_/property_value_specification
@@ -40,7 +41,7 @@ A Property value specification.
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 
-[ #has_/properties :: [ additionalType, alternateName, defaultValue, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, multipleValues, name, potentialAction, readonlyValue, sameAs, stepValue, subjectOf, url, valueMaxLength, valueMinLength, valueName, valuePattern, valueRequired ] ]
+[ #has_/properties :: [ [[../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../Property/has_name/has_name_alternate|alternateName]], [[../../../Property/Texts/has_default_value|defaultValue]], [[../../../Property/Texts/has_description|description]], [[../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../Relation/has/has_identifier|identifier]], [[../../../Relation/has/has_image|image]], [[../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../Property/has_value_for/has_value_for_max_value|maxValue]], [[../../../Property/has_value_for/has_value_for_min_value|minValue]], [[../../../Property/Flags/is_multi_valued|multipleValues]], [[../../../Property/has_name/has_name|name]], [[../../../Relation/has/has_potential_action|potentialAction]], [[../../../Property/Flags/is_readonly|readonlyValue]], [[../../../Relation/is_same_as|sameAs]], [[../../../Property/has_value_for/has_value_for_step_value|stepValue]], [[../../../Relation/is/is_subject_of|subjectOf]], [[../../../Property/has_url_for/has_url|url]], [[../../../Property/has_value_for/has_value_for_max_text_length|valueMaxLength]], [[../../../Property/has_value_for/has_value_for_min_text_length|valueMinLength]], [[../../../Property/has_name/has_name_of_value|valueName]], [[../../../Property/Texts/has_value_pattern|valuePattern]], [[../../../Property/Flags/is_value_required|valueRequired]] ] ]
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Class/is_a_/intangible/property_value_specification|property_value_specification]] 

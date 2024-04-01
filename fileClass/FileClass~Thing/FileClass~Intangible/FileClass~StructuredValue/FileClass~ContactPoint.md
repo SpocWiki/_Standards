@@ -65,7 +65,7 @@ fields:
 # ContactPoint
 This is a kind of [[FileClass~StructuredValue]]
 
-A contact point&#x2014;for example, a Customer Complaints department.
+A contact point, for example, a Customer Complaints department.
 
 
 ## Use one of these Tags for Objects of this Type:

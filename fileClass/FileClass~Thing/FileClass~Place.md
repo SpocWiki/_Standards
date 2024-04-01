@@ -2,8 +2,8 @@
 limit: 9
 mapWithTag: true
 excludes: 
-icon: link-2
-version: "2.0"
+icon: globe
+version: "2.2"
 tagNames:
   - class/Place
   - class/Thing/Place
@@ -194,6 +194,43 @@ fields:
       dvQueryString: dv.pages('#class/Thing/Event')
     type: MultiFile
     path: ""
+filesPaths: 
+bookmarksGroups: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - ceZqW2
+  - k0T9oW
+  - x9sihw
+  - mPcr1A
+  - pLPhMF
+  - J5eCFD
+  - bPnNjc
+  - 8QRKWA
+  - zJ4x4m
+  - Q3LHXa
+  - FXWp5z
+  - bQdwq5
+  - ML2S8v
+  - PAXN7M
+  - aYs3i6
+  - EkdxFr
+  - ZY9dJx
+  - JuttB1
+  - dihHaJ
+  - ojuihd
+  - uwnmnP
+  - g4KgNy
+  - akaKB4
+  - b6iLkX
+  - 72bhFw
+  - e87cuQ
+  - PlvZrm
+  - CZ1Yjn
+  - kbfIe4
+  - Kcv5pc
+  - khiDhm
+  - xDT69L
 ---
 
 # Place

@@ -3,7 +3,7 @@ limit: 9
 mapWithTag: true
 excludes: 
 icon: link-2
-version: "2.15"
+version: "2.125"
 tagNames:
   - class/Product
   - class/Thing/Product
@@ -22,263 +22,169 @@ fields:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')
     type: MultiFile
     path: ""
-  - id: dU2Jm4
-    name: AggregateRating
+  - id: SkGSfu
+    name: Color
+    options: {}
+    type: Input
+    path: ""
+  - id: QMUCmQ
+    name: Depth
     options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Rating/AggregateRating')
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: ejZkuP
-    name: Asin
-    options: {}
-    type: Input
-    path: ""
-  - id: hYW63c
-    name: Audience
+  - id: Hi8LfJ
+    name: HasMeasurements
     options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Audience')
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: xcIJre
-    name: Award
-    options: {}
-    type: Input
-    path: ""
-  - id: Ii9fzg
-    name: Brand
+  - id: YAZZKN
+    name: Height
     options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Brand')
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: RxQkmM
-    name: CountryOfAssembly
-    options: {}
-    type: Input
-    path: ""
-  - id: vO8BMR
-    name: CountryOfLastProcessing
-    options: {}
-    type: Input
-    path: ""
-  - id: 593yNg
-    name: CountryOfOrigin
-    options:
-      dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
-    type: MultiFile
-    path: ""
-  - id: 1bTwnH
-    name: Funding
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Grant')
-    type: MultiFile
-    path: ""
-  - id: 6T52ea
-    name: Gtin
-    options: {}
-    type: Input
-    path: ""
-  - id: dpZcB4
-    name: Gtin12
-    options: {}
-    type: Input
-    path: ""
-  - id: I5HcP0
-    name: Gtin13
-    options: {}
-    type: Input
-    path: ""
-  - id: KzSVNA
-    name: Gtin14
-    options: {}
-    type: Input
-    path: ""
-  - id: V47yTl
-    name: Gtin8
-    options: {}
-    type: Input
-    path: ""
-  - id: V1K89U
-    name: HasEnergyConsumptionDetails
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/EnergyConsumptionDetails')
-    type: MultiFile
-    path: ""
-  - id: TFK7P1
-    name: HasMerchantReturnPolicy
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')
-    type: MultiFile
-    path: ""
-  - id: s1OsJ0
-    name: InProductGroupWithID
-    options: {}
-    type: Input
-    path: ""
-  - id: YgvDWW
-    name: IsAccessoryOrSparePartFor
+  - id: Y0mKY9
+    name: IsRelatedTo
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: ubvrO0
-    name: IsConsumableFor
+  - id: R3icE7
+    name: IsSimilarTo
     options:
       dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: BxaI1y
-    name: IsFamilyFriendly
-    options: {}
-    type: Boolean
-    path: ""
-  - id: Fhtkfd
-    name: IsVariantOf
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product/ProductGroup')
-    type: MultiFile
-    path: ""
-  - id: jvmadq
-    name: Logo
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')
-    type: MultiFile
-    path: ""
-  - id: iVQOjU
-    name: Manufacturer
-    options:
-      dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: Ym8LUU
-    name: MobileUrl
-    options: {}
-    type: Input
-    path: ""
-  - id: kie9zD
-    name: Model
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product/ProductModel')
-    type: MultiFile
-    path: ""
-  - id: GkkHsb
-    name: Mpn
-    options: {}
-    type: Input
-    path: ""
-  - id: 4MYvF8
-    name: NegativeNotes
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
-    type: MultiFile
-    path: ""
-  - id: BdnwGL
-    name: Nsn
-    options: {}
-    type: Input
-    path: ""
-  - id: YTg15p
-    name: Offers
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/Demand')
-    type: MultiFile
-    path: ""
-  - id: jS04IB
-    name: Pattern
+  - id: WdmrHl
+    name: Keywords
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
-  - id: mLS54l
-    name: PositiveNotes
+  - id: Tq4Wrq
+    name: Material
     options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
+      dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
-  - id: jmylMc
-    name: ProductID
+  - id: h9U2jV
+    name: Size
     options: {}
     type: Input
     path: ""
-  - id: buZYOZ
-    name: ProductionDate
+  - id: 1LeLMh
+    name: Weight
     options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: Yg3RsO
-    name: PurchaseDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: Mb6rNy
-    name: ReleaseDate
-    options:
-      dateFormat: YYYY-MM-DD
-      defaultInsertAsLink: "false"
-    type: Date
-    path: ""
-  - id: WAqoXE
-    name: Review
-    options:
-      dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
-  - id: Q9mpps
-    name: Sku
-    options: {}
-    type: Input
+  - id: rPvy2g
+    name: Width
+    options:
+      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
+    type: MultiFile
     path: ""
-  - id: dkoYfb
-    name: Slogan
-    options: {}
-    type: Input
+  - name: has_measurements
+    type: ObjectList
+    options:
+      displayTemplate: ""
+      itemDisplayTemplate: ""
     path: ""
+    id: X6B2aN
+  - name: value
+    type: Number
+    options: {}
+    path: X6B2aN
+    id: fVnuxT
+  - name: unit
+    type: Select
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: dv.pages("#is_a_unit").map(p => p.name)
+    path: X6B2aN
+    id: BRdKtH
+  - name: has_value_for_width
+    type: Number
+    options: {}
+    path: ""
+    id: vq7qq2
+  - name: has_unit_for_width
+    type: Select
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: dv.pages("#is_a_unit_for_length").map(p => p.name)
+    path: ""
+    id: e6pkYR
+  - name: has_value_for_weight
+    type: Number
+    options: {}
+    path: ""
+    id: UQuhOF
+  - name: has_value_for_height
+    type: Number
+    options: {}
+    path: ""
+    id: xY7AOt
+  - name: has_value_for_length
+    type: Number
+    options: {}
+    path: ""
+    id: IgyCpw
+  - name: has_unit_for_length
+    type: Select
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: dv.pages("#is_a_unit_for_length").map(p => p.name)
+    path: ""
+    id: 53Tjk0
+  - name: has_unit_for_height
+    type: Select
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: dv.pages("#is_a_unit_for_length").map(p => p.name)
+    path: ""
+    id: KTXdTG
+  - name: has_unit_for_weight
+    type: Select
+    options:
+      sourceType: ValuesFromDVQuery
+      valuesList: {}
+      valuesFromDVQuery: dv.pages("#is_a_unit_for_weight").map(p => p.name)
+    path: ""
+    id: D8I0o8
 filesPaths: 
 bookmarksGroups: 
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - dkoYfb
-  - Q9mpps
-  - Mb6rNy
-  - Yg3RsO
-  - buZYOZ
-  - jmylMc
-  - WAqoXE
-  - mLS54l
-  - 4MYvF8
-  - dU2Jm4
-  - jS04IB
-  - YTg15p
-  - BdnwGL
-  - GkkHsb
-  - kie9zD
-  - Ym8LUU
-  - iVQOjU
-  - jvmadq
-  - Fhtkfd
-  - BxaI1y
-  - YgvDWW
-  - ubvrO0
-  - s1OsJ0
-  - TFK7P1
-  - V1K89U
-  - V47yTl
-  - KzSVNA
-  - I5HcP0
-  - dpZcB4
-  - 6T52ea
-  - 1bTwnH
-  - 593yNg
-  - vO8BMR
-  - RxQkmM
-  - Ii9fzg
-  - xcIJre
-  - hYW63c
-  - ejZkuP
+  - IgyCpw
+  - 53Tjk0
+  - vq7qq2
+  - e6pkYR
+  - xY7AOt
+  - KTXdTG
+  - UQuhOF
+  - D8I0o8
+  - X6B2aN
+  - BRdKtH
+  - fVnuxT
+  - QMUCmQ
+  - rPvy2g
+  - YAZZKN
+  - 1LeLMh
+  - SkGSfu
+  - Tq4Wrq
+  - h9U2jV
+  - WdmrHl
+  - R3icE7
+  - Y0mKY9
+  - Hi8LfJ
   - 3m0qb2
 ---
 
@@ -404,15 +310,10 @@ Defines the energy efficiency Category (also known as "class" or "rating") for a
 
 HasEnergyConsumptionDetails:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/EnergyConsumptionDetails')"}}
 
-### HasMeasurements 
-One or more measurements in the form of a [[../../schema-org/Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] . 
-For example the inseam of pants, 
-the wheel size of a bicycle, or the gauge of a screw. 
-Usually an exact measurement, 
-but can also be a range of measurements for adjustable products, 
-for example belts and ski bindings.  
+### HasMeasurement
+A product measurement, for example the inseam of pants, the wheel size of a bicycle, or the gauge of a screw. Usually an exact measurement, but can also be a range of measurements for adjustable products, for example belts and ski bindings.
 
-HasMeasurements:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+HasMeasurement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 ### HasMerchantReturnPolicy
 Specifies a MerchantReturnPolicy that may be applicable.
@@ -455,20 +356,7 @@ A pointer to another, functionally similar product (or multiple products).
 IsSimilarTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product')"}}
 
 ### IsVariantOf
-Indicates the kind of product that this is a variant of. 
-In the case of [[ProductModel]], this is a pointer (from a ProductModel) 
-to a base product from which this product is a variant. 
-
-It is safe to infer that the variant inherits all product features 
-from the base model, unless defined locally. 
-This is not transitive. 
-In the case of a [[ProductGroup]], the group description also serves as a template, 
-representing a set of Products that vary on explicitly defined, 
-specific dimensions only (so it defines both a set of variants, 
-as well as which values distinguish amongst those variants). 
-
-When used with [[ProductGroup]], this property can 
-apply to any [[Product]] included in the group.
+Indicates the kind of product that this is a variant of. In the case of [[ProductModel]], this is a pointer (from a ProductModel) to a base product from which this product is a variant. It is safe to infer that the variant inherits all product features from the base model, unless defined locally. This is not transitive. In the case of a [[ProductGroup]], the group description also serves as a template, representing a set of Products that vary on explicitly defined, specific dimensions only (so it defines both a set of variants, as well as which values distinguish amongst those variants). When used with [[ProductGroup]], this property can apply to any [[Product]] included in the group.
 
 IsVariantOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product/ProductGroup')"}}
 
@@ -514,19 +402,10 @@ The Manufacturer Part Number (MPN) of the product, or the product to which the o
 Mpn:: {"type":"Input","options":{}}
 
 ### NegativeNotes
-Provides negative considerations regarding something, 
-most typically in pro/con lists for reviews (alongside [[positiveNotes]]). 
-For symmetry  
- In the case of a [[Review]], the property describes the [[itemReviewed]] 
- from the perspective of the review; 
- in the case of a [[Product]], the product itself is being described. 
- 
- Since product descriptions tend to emphasise positive claims, 
- it may be relatively unusual to find [[negativeNotes]] used in this way. 
- Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[Product]].  
- The property values can be expressed either as unstructured text 
- (repeated as necessary), or if ordered, 
- as a list (in which case the most negative is at the beginning of the list).
+Provides negative considerations regarding something, most typically in pro/con lists for reviews (alongside [[positiveNotes]]). For symmetry  
+ In the case of a [[Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described. Since product descriptions  
+ tend to emphasise positive claims, it may be relatively unusual to find [[negativeNotes]] used in this way. Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[Product]].  
+ The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most negative is at the beginning of the list).
 
 NegativeNotes:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}
 
@@ -591,17 +470,17 @@ The Stock Keeping Unit (SKU), i.e. a merchant-specific identifier for a product 
 
 Sku:: {"type":"Input","options":{}}
 
-### Slogan 
+### Slogan
 A slogan or motto associated with the item.
 
 Slogan:: {"type":"Input","options":{}}
 
-### Weight 
+### Weight
 The weight of the product or person.
 
 Weight:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
-### Width 
+### Width
 The width of the item.
 
 Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}

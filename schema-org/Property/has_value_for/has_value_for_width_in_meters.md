@@ -31,17 +31,23 @@ aliases:
 - has_value_for_width_in_meters
 ---
 
+The width of the item in [[../../../Unit/SI-Unit/Unit~Meter|Unit~Meter]]s.
+
+#is_/similar_to :: [[has_value_for_longitude]] 
+#is_/similar_to :: [[has_value_for_latitude]] 
+#is_/similar_to :: [[_altitude]]
+
+To specify an alternative Scale, 
+prefer to use Scientific Notation. 
+Alternatively create a JSON-object with `{"value": 1.1 "unit":"meter"}` Properties, similar to XML Elements 
+as described in [[../../../Unit]]. 
+
+
 [[../../Predicate|Predicate]] to describe the [[../../Predicate/Quantity|Quantity]] of a [[../../Class/is_a_/creative_work/media_object|MediaObject]], [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]], [[../../Class/is_a_/product|Product]], [[../../Class/is_a_/creative_work/visual_artwork|VisualArtwork]].
 
 Use it like this: 
 - [ #has_/value_for_/width_in_meters :: [[../../Predicate/Quantity/distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] or 
 - [ has_value_for_width_in_meters :: Distance, [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] 
-
-The width of the item in [[../../../Unit/SI-Unit/Unit~Meter|Unit~Meter]]s.
-To specify an alternative Scale, 
-prefer to use Scientific Notation. 
-Alternatively create an {object with "value" and "unit" Properties}, similar to XML Elements 
-as described in [[../../../Unit]]. 
 
 [[../../Predicate|Predicate]] describes that: 
 [ #has_/domain  :: [[../../Class/is_a_/creative_work/media_object|MediaObject]], [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]], [[../../Class/is_a_/product|Product]], [[../../Class/is_a_/creative_work/visual_artwork|VisualArtwork]] ]
