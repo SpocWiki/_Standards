@@ -2,7 +2,8 @@
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/s
-
+#is_a_/unit_/for_/time 
+#is_a_/unit_/for_ :: [[../../Dimension/Dim~Time]] 
 
 > The **second** (symbol: s) is the unit of time in the International System of Units (SI), historically defined as 1⁄86400 of a day – this factor derived from the division of the day first into 24 hours, then to 60 minutes and finally to 60 seconds each (24 × 60 × 60 = 86400).
 >

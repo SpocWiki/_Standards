@@ -3,6 +3,8 @@
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/cd
+#is_a_/unit_/for_/intensity 
+
 
 > The **Candela** ( or ; symbol: cd) is the unit of luminous intensity in the International System of Units (SI). It measures luminous power per unit solid angle emitted by a light source in a particular direction. 
 > Luminous intensity is analogous to radiant intensity, but instead of simply adding up the contributions of every wavelength of light in the source's spectrum, the contribution of each wavelength is weighted by the luminosity function, the model of the sensitivity of the human eye to different wavelengths, standardized by the CIE and ISO. 

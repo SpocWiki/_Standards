@@ -3,6 +3,7 @@
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/A
+#is_a_/unit_/for_/current 
 
 
 > The **Ampere** ( AM-pair, US:  AM-peer; symbol: A), often shortened to amp, 

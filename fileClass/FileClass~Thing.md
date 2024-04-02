@@ -2,8 +2,8 @@
 limit: 9
 mapWithTag: true
 excludes: 
-icon: link-2
-version: "2.0"
+icon: cloud
+version: "2.9"
 tagNames:
   - class/Thing
   - class/Thing
@@ -63,11 +63,6 @@ fields:
       dvQueryString: dv.pages('#class/Thing/Action')
     type: MultiFile
     path: ""
-  - id: HuDmiv
-    name: SameAs
-    options: {}
-    type: Input
-    path: ""
   - id: Bu0LaZ
     name: SubjectOf
     options:
@@ -125,6 +120,61 @@ fields:
     options: {}
     type: Input
     path: ""
+  - name: is_similar_to
+    type: File
+    options: {}
+    path: ""
+    id: ij9X2L
+  - name: is_different_from
+    type: File
+    options: {}
+    path: ""
+    id: nKuqCm
+  - name: is_same_as
+    type: File
+    options: {}
+    path: ""
+    id: mEQ8uX
+  - name: is_related_to
+    type: MultiFile
+    options: {}
+    path: ""
+    id: SwAI2c
+  - name: keywords
+    type: Input
+    options: {}
+    path: ""
+    id: HbCFr3
+filesPaths: 
+bookmarksGroups: 
+extends: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - HbCFr3
+  - SwAI2c
+  - mEQ8uX
+  - nKuqCm
+  - ij9X2L
+  - ju8s3c
+  - 7hDUzU
+  - XTOfSf
+  - pWnIi6
+  - slq0qJ
+  - Jza665
+  - GSMPIa
+  - F26YLd
+  - V6BgOl
+  - Bu0LaZ
+  - lragLx
+  - CoRJPY
+  - k4Cbhq
+  - jPPe2V
+  - lw8src
+  - Dkb6pX
+  - 0liZzI
+  - VA7ToR
+  - eVmlNP
 ---
 
 # Thing

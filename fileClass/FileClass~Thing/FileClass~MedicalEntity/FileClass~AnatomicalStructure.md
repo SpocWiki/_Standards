@@ -2,8 +2,8 @@
 limit: 9
 mapWithTag: true
 excludes: 
-icon: link-2
-version: "2.0"
+icon: bone
+version: "2.2"
 tagNames:
   - class/AnatomicalStructure
   - class/Thing/MedicalEntity/AnatomicalStructure
@@ -62,6 +62,19 @@ fields:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure')
     type: MultiFile
     path: ""
+filesPaths: 
+bookmarksGroups: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - 8HP0xc
+  - q851XS
+  - hPoXzG
+  - 2VQnUx
+  - YvF5sx
+  - NGpV1O
+  - o21vKO
+  - FcvT3B
 ---
 
 # AnatomicalStructure

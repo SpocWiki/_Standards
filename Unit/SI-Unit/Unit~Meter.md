@@ -2,6 +2,8 @@
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/m
+#is_a_/unit_/for_ :: [[../../Dimension/Dim~Length|Dim~Length]] 
+#is_a_/unit_/for_/length 
 
 
 > The metre (or **meter** in American spelling; symbol: m) is the base unit of length in the International System of Units (SI).

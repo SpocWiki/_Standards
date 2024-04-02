@@ -2,8 +2,8 @@
 limit: 9
 mapWithTag: true
 excludes: 
-icon: link-2
-version: "2.0"
+icon: pill
+version: "2.2"
 tagNames:
   - class/Substance
   - class/Thing/MedicalEntity/Substance
@@ -27,6 +27,13 @@ fields:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalIntangible/DoseSchedule/MaximumDoseSchedule')
     type: MultiFile
     path: ""
+filesPaths: 
+bookmarksGroups: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - v9ceWj
+  - Gidz9b
 ---
 
 # Substance

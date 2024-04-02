@@ -54,7 +54,6 @@ This is a kind of [[FileClass~ContactPoint]]
 
 The mailing address.
 
-
 ## Use one of these Tags for Objects of this Type:
 
 #is_a_/PostalAddress

@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -31,18 +31,20 @@ aliases:
 - is_a_react_action
 ---
 
-Class of all react_actions.
+Class of all react_actions to an [[../../../../Relation/has/has_object|object]]. 
+The act of responding instinctively 
+and emotionally to the [[../../../../Relation/has/has_object|object]], 
+expressing a sentiment.
+
 
 Tag Instances like this: 
 #is_a_/react_action
 
-The act of responding instinctively and emotionally to an object, expressing a sentiment.
-
 [ #is_/sub_class_of :: [[../AssessAction]] ]
 
-[ #has_/sub_classes :: [ AgreeAction, DisagreeAction, DislikeAction, EndorseAction, LikeAction, WantAction ] ]
+[ #has_/sub_classes :: [ [[react_action/agree_action|AgreeAction]], [[react_action/disagree_action|DisagreeAction]], [[react_action/dislike_action|DislikeAction]], [[react_action/endorse_action|EndorseAction]], [[react_action/like_action|LikeAction]], [[react_action/want_action|WantAction]] ] ]
 
-[ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
+[ #has_/properties :: [ [[../../../../Relation/has/has_action_status|actionStatus]], [[../../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../../Relation/has/has_agent|agent]], [[../../../../Property/has_name/has_name_alternate|alternateName]], [[../../../../Property/Texts/has_description|description]], [[../../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../../Property/has_Date_Time/has_time_to_end|endTime]], [[../../../../Relation/has/has_error|error]], [[../../../../Relation/has/has_identifier|identifier]], [[../../../../Relation/has/has_image|image]], [[../../../../Relation/has/has_instrument|instrument]], [[../../../../Property/has_location/has_location_|location]], [[../../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../../Property/has_name/has_name|name]], [[../../../../Relation/has/has_object|object]], [[../../../../Relation/has/has_participant|participant]], [[../../../../Relation/has/has_potential_action|potentialAction]], [[../../../../Relation/has/has_provider|provider]], [[../../../../Relation/has/has_result|result]], [[../../../../Relation/is_same_as|sameAs]], [[../../../../Property/has_Date_Time/has_time_to_start|startTime]], [[../../../../Relation/is/is_subject_of|subjectOf]], [[../../../../Relation/has/has_target|target]], [[../../../../Property/has_url_for/has_url|url]] ] ] 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../../_Standards/schema-org/Class/is_a_/action/assess_action/react_action|react_action]] 
