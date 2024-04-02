@@ -3,7 +3,7 @@
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/K
-#is_a_/unit_/for_temperature 
+#is_a_/unit_/for_/temperature 
 
 Temperature is a macroscopic, statistical Energy Measurement. 
 Therefore Temperature can be expressed as mean Energy: 

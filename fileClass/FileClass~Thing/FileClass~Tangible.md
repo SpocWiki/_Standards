@@ -3,7 +3,7 @@ limit: 99
 mapWithTag: true
 excludes: 
 icon: box
-version: "2.27"
+version: "2.28"
 tagNames:
   - is_a_/Tangible
   - class/Thing/Tangible
@@ -96,42 +96,42 @@ fields:
     options: {}
     path: X6B2aN
     id: fVnuxT
-  - name: has_value_for_width_
+  - name: has_shape_width_
     type: Number
     options: {}
     path: ""
     id: vq7qq2
-  - name: has_value_for_weight_
+  - name: has_shape_weight_
     type: Number
     options: {}
     path: ""
     id: UQuhOF
-  - name: has_value_for_height_
+  - name: has_shape_height_
     type: Number
     options: {}
     path: ""
     id: xY7AOt
-  - name: has_value_for_length_
+  - name: has_shape_length_
     type: Number
     options: {}
     path: ""
     id: IgyCpw
-  - name: has_value_for_length_in_meters
+  - name: has_shape_length_in_meters
     type: Number
     options: {}
     path: ""
     id: dycYVt
-  - name: has_value_for_width_in_meters
+  - name: has_shape_width_in_meters
     type: Number
     options: {}
     path: ""
     id: X2X8SI
-  - name: has_value_for_height_in_meters
+  - name: has_shape_height_in_meters
     type: Number
     options: {}
     path: ""
     id: NCehnC
-  - name: has_value_for_weight_in_kilogram
+  - name: has_shape_weight_in_kilogram
     type: Number
     options: {}
     path: ""
@@ -156,28 +156,28 @@ fields:
       dvQueryString: dv.pages("#is_a_/unit_")
     path: X6B2aN
     id: RTmJ2v
-  - name: has_unit_for_weight
+  - name: has_shape_weight_unit
     type: File
     options:
-      dvQueryString: dv.pages("#is_a_/unit_/for_weight")
+      dvQueryString: dv.pages("#is_a_/unit_/for_/weight")
     path: ""
     id: LR3ydP
-  - name: has_unit_for_width
+  - name: has_shape_width_unit
     type: File
     options:
-      dvQueryString: dv.pages("#is_a_/unit_/for_length")
+      dvQueryString: dv.pages("#is_a_/unit_/for_/length")
     path: ""
     id: pQ67qm
-  - name: has_unit_for_length
+  - name: has_shape_length_unit
     type: File
     options:
-      dvQueryString: dv.pages("#is_a_/unit_/for_length")
+      dvQueryString: dv.pages("#is_a_/unit_/for_/length")
     path: ""
     id: HOl4m7
-  - name: has_unit_for_height
+  - name: has_shape_height_unit
     type: File
     options:
-      dvQueryString: dv.pages("#is_a_unit_for_length")
+      dvQueryString: dv.pages("#is_a_/unit_/for_/length")
     path: ""
     id: Nse4Lv
 filesPaths: 

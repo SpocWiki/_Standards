@@ -2,6 +2,8 @@
 # [[Planck-Length]] 
 
 #has_/scale :: 1.61625518e−35
+#is_a_/unit_/for_ :: [[../../Dimension/Dim~Length|Dim~Length]] 
+#is_a_/unit_/for_/length 
 
 ## lₚ = √(ℏ G/c³) 
 

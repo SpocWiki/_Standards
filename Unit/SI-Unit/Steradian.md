@@ -1,7 +1,7 @@
 
 # [[Steradian]]
 
-#is_a_/unit_/for_angle3D  
+#is_a_/unit_/for_/angle3D  
 
 > The **Steradian** (symbol: sr) or square radian is the unit of solid angle 
 > in the International System of Units (SI). 

@@ -3,7 +3,7 @@
 
 Abbreviation of 'area' 
 
-#is_a_/unit_/for_area 
+#is_a_/unit_/for_/area 
 
 
 #has_/start_offset :: 0

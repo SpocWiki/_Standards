@@ -2,6 +2,7 @@
 # [[Planck-Energy]] 
 
 #has_/scale :: 1.9561e9
+#is_a_/unit_/for_ :: [[../../Dimension/Derived_Dimension/Dim~Energy|Dim~Energy]] 
 
 This is a very large, macroscopic Energy, 
 which can be one of the reasons why e.g. [[Magnetic_Monopole]]s 

@@ -1,9 +1,9 @@
 
 # [[Unit~kWh]] 
 
-#is_a_/unit_/for :: [[../../../Dimension/Derived_Dimension/Dim~Energy|Dim~Energy]] 
+#is_a_/unit_/for_ :: [[../../../Dimension/Derived_Dimension/Dim~Energy|Dim~Energy]] 
 
-#is_a_/unit_/for_energy 
+#is_a_/unit_/for_/energy 
 
 Used for Heating and electrical Power Supply at the scale of one Houshold. 
 

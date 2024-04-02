@@ -3,7 +3,7 @@
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/mol
-#is_a_/unit_/for_Number 
+#is_a_/unit_/for_/number 
 
 #has_/number_of_/items :: 6.02214076e23
 
