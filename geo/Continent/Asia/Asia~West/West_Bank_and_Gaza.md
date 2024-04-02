@@ -24,13 +24,13 @@ markerFolder: ./West_Bank_and_Gaza/
 [name-de::West Bank und Gaza]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::472]
-[geo-lon::]
-[geo-lat::]
+[has_place_longitude::]
+[has_place_latitude::]
 
 
 

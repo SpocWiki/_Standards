@@ -128,7 +128,7 @@ markerFolder: ./Norway//
 [name-de::Norwegen]
 [Area-Total::323877]
 [Area-Land::306830]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::N]
 Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]  
 ![[Coat_of_arms_of_Norway.svg|350]]
@@ -136,8 +136,10 @@ Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]
 ![[Flag_of_Norway.svg|350]]
 [Alcohol-l::7.8]
 [Language-Id::]
-[geo-lon::11.4588]
-[geo-lat::61.8685]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.4588]
+[has_place_latitude::61.8685]
 
 
 

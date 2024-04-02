@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::171.3667] 
-[geo-lat::7.116667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::171.3667] 
+[has_place_latitude::7.116667] 
 [name::Majuro] 
-State ::  
-Country :: [[Marshall_Islands]]  
+has_place_province::  
+has_place_country:: [[Marshall_Islands]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

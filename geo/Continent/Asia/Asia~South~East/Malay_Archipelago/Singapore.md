@@ -133,7 +133,7 @@ markerFolder: ./Singapore/
 [name-de::Singapur]
 [Area-Total::641]
 [Area-Land::610]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::SGP]
 Capital :: [[Singapore=Singapur]]  
 
@@ -145,8 +145,10 @@ Capital :: [[Singapore=Singapur]]
 
 [Alcohol-l::1.6]
 [Language-Id::499]
-[geo-lon::103.85]
-[geo-lat::1.28]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::103.85]
+[has_place_latitude::1.28]
 
 
 

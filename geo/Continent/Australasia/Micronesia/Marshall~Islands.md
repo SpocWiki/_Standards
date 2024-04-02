@@ -125,13 +125,15 @@ markerFolder: ./Marshall_Islands/
 [name-de::Marshall-Inseln] 
 [Area-Total::181] 
 [Area-Land::0] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::MH] 
 Capital :: [[Majuro]]  
 [Alcohol-l::] 
 [Language-Id::499] 
-[geo-lon::168.348] 
-[geo-lat::9.34833] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::168.348] 
+[has_place_latitude::9.34833] 
 
 
 

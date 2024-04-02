@@ -42,13 +42,15 @@ markerFolder: ./Korea~North/
 [name-de::Nordkorea]
 [Area-Total::120538]
 [Area-Land::120410]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::KP]
 Capital :: [[Korea~North/City/Pyongyang]] ] 
 [Alcohol-l::3.5]
 [Language-Id::459]
-[geo-lon::125.75]
-[geo-lat::39.0333]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::125.75]
+[has_place_latitude::39.0333]
 
 
 

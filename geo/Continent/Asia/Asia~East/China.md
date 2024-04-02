@@ -132,7 +132,7 @@ markerFolder: ./China//
 [name-de::China]
 [Area-Total::9571300]
 [Area-Land::9326410]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::CHN]
 Capital :: [[China/provinces~China/Beijing/City/Beijing=Peking]]  
 ![[Coat_of_arms_of_China.svg|350]]
@@ -140,8 +140,10 @@ Capital :: [[China/provinces~China/Beijing/City/Beijing=Peking]]
 ![[Flag_of_China.svg|350]]
 [Alcohol-l::5.9]
 [Language-Id::485]
-[geo-lon::117.985]
-[geo-lat::35.6637]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::117.985]
+[has_place_latitude::35.6637]
 
 
 

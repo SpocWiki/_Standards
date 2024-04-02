@@ -130,13 +130,15 @@ markerFolder: ./Kiribati/
 
 [Area-Total::811] 
 [Area-Land::730] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::KIR] 
 Capital :: [[South_Tarawa]]  
 [Alcohol-l::3.7] 
 [Language-Id::499] 
-[geo-lon::172.967] 
-[geo-lat::1.4] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::172.967] 
+[has_place_latitude::1.4] 
 
 
 

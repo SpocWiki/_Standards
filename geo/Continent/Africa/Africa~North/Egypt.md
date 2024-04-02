@@ -128,7 +128,7 @@ markerFolder: ./Egypt//
 [name-de::Ägypten]
 [Area-Total::997739]
 [Area-Land::995450]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::ET]
 Capital :: [[Kairo=Cairo]]  
 ![[Coat_of_arms_of_Egypt.svg|350]]
@@ -136,8 +136,10 @@ Capital :: [[Kairo=Cairo]]
 ![[Flag_of_Egypt.svg|350]]
 [Alcohol-l::0.4]
 [Language-Id::472]
-[geo-lon::31.9]
-[geo-lat::30.015]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31.9]
+[has_place_latitude::30.015]
 
 
 

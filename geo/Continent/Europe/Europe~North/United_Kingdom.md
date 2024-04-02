@@ -43,13 +43,13 @@ markerFolder: ./United_Kingdom/City/
 ![[Flag_of_the_United_Kingdom_(3-5).svg|350]]
 [Area-Total::241752]
 [Area-Land::241600]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::GB]
 Capital :: [[United_Kingdom/City~London]]  
 [Alcohol-l::13.4]
 [Language-Id::499]
-[geo-lon::-2.14482]
-[geo-lat::52.8829]
+[has_place_longitude::-2.14482]
+[has_place_latitude::52.8829]
 
 
 

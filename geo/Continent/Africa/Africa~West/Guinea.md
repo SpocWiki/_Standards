@@ -122,7 +122,7 @@ markerFolder: ./Guinea//
 [name-de::Guinea]
 [Area-Total::245857]
 [Area-Land::245720]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RG]
 Capital :: [[Conakry]]  
 
@@ -133,8 +133,8 @@ Capital :: [[Conakry]]
 ![[Flag_of_Guinea.svg|350]]
 [Alcohol-l::0.8]
 [Language-Id::496]
-[geo-lon::-13.7]
-[geo-lat::9.51667]
+[has_place_longitude::-13.7]
+[has_place_latitude::9.51667]
 
 
 

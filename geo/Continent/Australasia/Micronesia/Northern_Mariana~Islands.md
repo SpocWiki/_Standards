@@ -125,13 +125,15 @@ markerFolder: ./Northern_Mariana_Islands/
 [name-de::Nördliche Marianen Inseln] 
 [Area-Total::0] 
 [Area-Land::0] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::] 
 Capital :: [[Saipan]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::145.75] 
-[geo-lat::15.1833] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::145.75] 
+[has_place_latitude::15.1833] 
 
 
 

@@ -129,7 +129,7 @@ markerFolder: ./Estonia//
 [name-de::Estland]
 [Area-Total::45227]
 [Area-Land::42270]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::EST]
 Capital :: [[Tallinn]]  
 ![[Coat_of_arms_of_Estonia.svg|350]]
@@ -137,8 +137,10 @@ Capital :: [[Tallinn]]
 ![[Flag_of_Estonia.svg|350]]
 [Alcohol-l::15.6]
 [Language-Id::]
-[geo-lon::24.75]
-[geo-lat::59.4167]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.75]
+[has_place_latitude::59.4167]
 
 
 

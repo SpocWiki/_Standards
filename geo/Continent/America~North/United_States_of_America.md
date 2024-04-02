@@ -31,7 +31,7 @@ tags:
 
 
 #has_/telephone_/Prefix_/International :: 011
-#has_/telephone_/Prefix_/Country :: 1 
+#has_/telephone_/Prefix_/has_place_country:: 1 
 
 
 
@@ -57,13 +57,13 @@ markerFolder: ./United_States_of_America/
 
 [Area-Total::9809155]
 [Area-Land::9573110]
-Continent :: [[North-America]]  
+has_place_continent:: [[North-America]]  
 [VehicleCode::USA]
 Capital :: [[United_States_of_America/USA~Eastern/District_of_Columbia/City/Washington~City]]  
 [Alcohol-l::9.4]
 [Language-Id::499]
-[geo-lon::-94.8153]
-[geo-lat::39.2641]
+[has_place_longitude::-94.8153]
+[has_place_latitude::39.2641]
 
 
 

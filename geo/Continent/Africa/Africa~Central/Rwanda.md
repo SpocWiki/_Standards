@@ -124,7 +124,7 @@ markerFolder: ./Rwanda//
 [name-de::Rwanda]
 [Area-Total::26338]
 [Area-Land::24670]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RWA]
 Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]  
 
@@ -136,8 +136,10 @@ Capital :: [[Rwanda/Provinces~Rwanda/Kigali_City/City/Kigali-City]]
 
 [Alcohol-l::9.8]
 [Language-Id::499]
-[geo-lon::30.0595]
-[geo-lat::-1.94388]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::30.0595]
+[has_place_latitude::-1.94388]
 
 
 

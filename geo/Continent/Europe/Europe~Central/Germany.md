@@ -742,13 +742,15 @@ markerFolder: ./Germany/
 [name-de::Deutschland]
 [Area-Total::357042]
 [Area-Land::349270]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::D]
 Capital :: [[Berlin]]  
 [Alcohol-l::12.8]
 [Language-Id::497]
-[geo-lon::10.1207]
-[geo-lat::50.8699]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.1207]
+[has_place_latitude::50.8699]
 
 
 

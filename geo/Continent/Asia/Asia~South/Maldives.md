@@ -129,7 +129,7 @@ markerFolder: ./Maldives/
 [name-de::Malediven]
 [Area-Total::298]
 [Area-Land::300]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::MV]
 Capital :: [[Maldives/Counties/Malé/City/Malé]]  
 ![[Maldives/Emblem_of_Maldives.svg|350]]  
@@ -139,8 +139,10 @@ Capital :: [[Maldives/Counties/Malé/City/Malé]]
 
 [Alcohol-l::0.8]
 [Language-Id::]
-[geo-lon::73.5]
-[geo-lat::4.16667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::73.5]
+[has_place_latitude::4.16667]
 
 
 

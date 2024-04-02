@@ -24,13 +24,13 @@ markerFolder: ./France~Metropolitan/
 [name-de::Frankreich, Metropolen]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::F]
 Capital :: [[Paris]]  
 [Alcohol-l::]
 [Language-Id::496]
-[geo-lon::]
-[geo-lat::]
+[has_place_longitude::]
+[has_place_latitude::]
 
 
 

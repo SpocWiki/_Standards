@@ -152,13 +152,15 @@ markerFolder: ./Philippines/
 [name-de::Philippinen]
 [Area-Total::300000]
 [Area-Land::298170]
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::RP]
 Capital :: [[Manila]]  
 [Alcohol-l::6.4]
 [Language-Id::472]
-[geo-lon::120.97]
-[geo-lat::14.59]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::120.97]
+[has_place_latitude::14.59]
 
 
 

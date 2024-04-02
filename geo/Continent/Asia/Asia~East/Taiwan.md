@@ -126,13 +126,15 @@ markerFolder: ./Taiwan/
 [name-de::Taiwan, Province Of China]
 [Area-Total::36000]
 [Area-Land::0]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::RC]
 Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]  
 [Alcohol-l::]
 [Language-Id::485]
-[geo-lon::121.55]
-[geo-lat::25.08]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::121.55]
+[has_place_latitude::25.08]
 
 
 

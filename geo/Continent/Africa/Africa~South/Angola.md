@@ -121,7 +121,7 @@ markerFolder: ./Angola//
 [name-de::Angola]
 [Area-Total::1246700]
 [Area-Land::1246700]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::ANG]
 Capital :: [[../Africa~South/Angola/City/Luanda]]  
 
@@ -133,8 +133,10 @@ Capital :: [[../Africa~South/Angola/City/Luanda]]
 
 [Alcohol-l::5.4]
 [Language-Id::467]
-[geo-lon::13.23]
-[geo-lat::-8.8]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.23]
+[has_place_latitude::-8.8]
 
 
 

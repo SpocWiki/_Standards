@@ -126,7 +126,7 @@ markerFolder: ./Eritrea//
 [name-de::Eritrea]
 [Area-Total::121144]
 [Area-Land::101000]
-Continent :: [[../../Africa|Africa]]  
+has_place_continent:: [[../../Africa|Africa]]  
 [VehicleCode::ER]
 Capital :: [[Asmara]]  
 ![[Coat_of_arms_of_Eritrea.svg|350]]
@@ -134,8 +134,10 @@ Capital :: [[Asmara]]
 ![[Flag_of_Eritrea.svg|350]]
 [Alcohol-l::1.5]
 [Language-Id::472]
-[geo-lon::38.9167]
-[geo-lat::15.3333]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.9167]
+[has_place_latitude::15.3333]
 
 
 

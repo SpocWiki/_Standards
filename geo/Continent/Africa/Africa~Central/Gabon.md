@@ -125,7 +125,7 @@ markerFolder: ./Gabon//
 [name-de::Gabun]
 [Area-Total::267667]
 [Area-Land::257670]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::G]
 Capital :: [[Libreville]]  
 
@@ -136,8 +136,10 @@ Capital :: [[Libreville]]
 ![[Flag_of_Gabon.svg|350]]
 [Alcohol-l::9.3]
 [Language-Id::496]
-[geo-lon::9.45]
-[geo-lat::0.383333]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.45]
+[has_place_latitude::0.383333]
 
 
 

@@ -126,7 +126,7 @@ markerFolder: ./Belize/
 [name-de::Belize]
 [Area-Total::22965]
 [Area-Land::22800]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::BZ]
 Capital :: [[Belize/Counties/Cayo/City/Belmopan]]  
 
@@ -138,8 +138,8 @@ Capital :: [[Belize/Counties/Cayo/City/Belmopan]]
 
 [Alcohol-l::6.1]
 [Language-Id::499]
-[geo-lon::-88.7667]
-[geo-lat::17.25]
+[has_place_longitude::-88.7667]
+[has_place_latitude::17.25]
 
 
 

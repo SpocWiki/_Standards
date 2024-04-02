@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::159.8167] 
-[geo-lat::-9.466666] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::159.8167] 
+[has_place_latitude::-9.466666] 
 [name::Honiara] 
-State ::  
-Country :: [[../_0-New/Solomon~Islands]] 
+has_place_province::  
+has_place_country:: [[../_0-New/Solomon~Islands]] 
 [StateId::] 
 [Population::] 
 [Unknown::] 

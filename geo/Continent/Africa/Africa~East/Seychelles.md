@@ -123,7 +123,7 @@ markerFolder: ./Seychelles//
 [name-de::Seychellen]
 [Area-Total::454]
 [Area-Land::450]
-Continent :: [[../../Africa]]  
+has_place_continent:: [[../../Africa]]  
 [VehicleCode::SY]
 Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]  
 
@@ -135,8 +135,10 @@ Capital :: [[../Seychelles/Counties/English_River/City/Victoria]]
 
 [Alcohol-l::10.6]
 [Language-Id::499]
-[geo-lon::55.45]
-[geo-lat::-4.61667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::55.45]
+[has_place_latitude::-4.61667]
 
 
 

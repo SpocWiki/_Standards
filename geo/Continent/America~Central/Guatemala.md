@@ -128,7 +128,7 @@ markerFolder: ./Guatemala/
 [name-de::Guatemala]
 [Area-Total::108889]
 [Area-Land::108430]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::GT]
 Capital :: [[Guatemala_City]]  
 
@@ -140,8 +140,8 @@ Capital :: [[Guatemala_City]]
 
 [Alcohol-l::4]
 [Language-Id::492]
-[geo-lon::-90.5]
-[geo-lat::14.6333]
+[has_place_longitude::-90.5]
+[has_place_latitude::14.6333]
 
 
 

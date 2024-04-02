@@ -118,13 +118,13 @@ markerFolder: ./Åland-Islands//
 [name-de::Åland Inseln]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::]
-[geo-lat::60.1481]
+[has_place_longitude::]
+[has_place_latitude::60.1481]
 
 
 

@@ -136,13 +136,13 @@ markerFolder: ./Paraguay/
 
 [Area-Total::406752]
 [Area-Land::397300]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::PY]
 Capital :: [[Paraguay/Counties/Presidente_Hayes/City/Asuncion]]  
 [Alcohol-l::7.9]
 [Language-Id::492]
-[geo-lon::-57.67]
-[geo-lat::-25.27]
+[has_place_longitude::-57.67]
+[has_place_latitude::-25.27]
 
 
 

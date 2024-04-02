@@ -118,13 +118,13 @@ markerFolder: ./Faroe~Islands//
 [name-de::Färöer Inseln]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::FO]
 Capital :: [[Tórshavn]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::-6.78333]
-[geo-lat::62]
+[has_place_longitude::-6.78333]
+[has_place_latitude::62]
 
 
 

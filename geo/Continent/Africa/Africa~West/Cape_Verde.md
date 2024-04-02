@@ -122,7 +122,7 @@ markerFolder: ./Cape_Verde//
 [name-de::Kap Verde]
 [Area-Total::4033]
 [Area-Land::4030]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::CV]
 Capital :: [[Cape_Verde/municipalities~Cape_Verde/Praia]]  
 
@@ -133,8 +133,8 @@ Capital :: [[Cape_Verde/municipalities~Cape_Verde/Praia]]
 ![[Flag_of_Cape_Verde.svg|350]]
 [Alcohol-l::5]
 [Language-Id::467]
-[geo-lon::-23.5167]
-[geo-lat::14.9167]
+[has_place_longitude::-23.5167]
+[has_place_latitude::14.9167]
 
 
 

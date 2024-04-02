@@ -125,7 +125,7 @@ markerFolder: ./Equatorial_Guinea//
 [name-de::Äquatorial-Guinea]
 [Area-Total::28051]
 [Area-Land::28050]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::EQ]
 Capital :: [[Malabo]]  
 
@@ -136,8 +136,10 @@ Capital :: [[Malabo]]
 ![[Flag_of_Guinea.svg|350]]
 [Alcohol-l::6.1]
 [Language-Id::492]
-[geo-lon::8.78333]
-[geo-lat::3.75]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.78333]
+[has_place_latitude::3.75]
 
 
 

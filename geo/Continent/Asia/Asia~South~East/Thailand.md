@@ -135,13 +135,15 @@ markerFolder: ./Thailand/
 
 [Area-Total::513115]
 [Area-Land::510890]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::T]
 Capital :: [[Bangkok]]  
 [Alcohol-l::7.1]
 [Language-Id::]
-[geo-lon::100.5]
-[geo-lat::13.73]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::100.5]
+[has_place_latitude::13.73]
 
 
 

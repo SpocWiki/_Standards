@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::19.95] 
-[geo-lat::60.1] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.95] 
+[has_place_latitude::60.1] 
 [name::Maarianhamina] 
-State ::  
-Country :: [[Finland]]  
+has_place_province::  
+has_place_country:: [[Finland]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

@@ -128,7 +128,7 @@ markerFolder: ./Guyana/
 [name-de::Guyana]
 [Area-Total::214969]
 [Area-Land::196850]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::GUY]
 Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]  
 
@@ -139,8 +139,8 @@ Capital :: [[Guyana/Counties/East_Berbice-Corentyne/City/Georgetown]]
 ![[Guyana/Flag_of_Guyana.svg|350]]
 [Alcohol-l::9.5]
 [Language-Id::499]
-[geo-lon::-58.17]
-[geo-lat::6.78]
+[has_place_longitude::-58.17]
+[has_place_latitude::6.78]
 
 
 

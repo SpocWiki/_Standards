@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::114.9422] 
-[geo-lat::4.890283] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::114.9422] 
+[has_place_latitude::4.890283] 
 [name::Bandar Seri Begawan] 
-State ::  
-Country :: [[../../../../Oceania/Micronesia/Brunei]]  
+has_place_province::  
+has_place_country:: [[../../../../Oceania/Micronesia/Brunei]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 

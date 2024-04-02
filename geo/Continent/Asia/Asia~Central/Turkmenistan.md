@@ -129,7 +129,7 @@ markerFolder: ./Turkmenistan/
 [name-de::Turkmenistan]
 [Area-Total::488100]
 [Area-Land::0]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::TM]
 Capital :: [[Turkmenistan/Counties/Ahal/City/Ashgabat]]  
 ![[Turkmenistan/Emblem_of_Turkmenistan.svg|350]]  
@@ -139,8 +139,10 @@ Capital :: [[Turkmenistan/Counties/Ahal/City/Ashgabat]]
 
 [Alcohol-l::4.6]
 [Language-Id::469]
-[geo-lon::58.3333]
-[geo-lat::37.9667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::58.3333]
+[has_place_latitude::37.9667]
 
 
 

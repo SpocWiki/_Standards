@@ -127,7 +127,7 @@ markerFolder: ./Tunisia//
 [name-de::Tunesien]
 [Area-Total::163610]
 [Area-Land::155360]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::TN]
 Capital :: [[Tunis]]  
 
@@ -139,8 +139,10 @@ Capital :: [[Tunis]]
 
 [Alcohol-l::1.3]
 [Language-Id::472]
-[geo-lon::10.18]
-[geo-lat::36.8]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.18]
+[has_place_latitude::36.8]
 
 
 

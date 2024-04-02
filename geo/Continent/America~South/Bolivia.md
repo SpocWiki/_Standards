@@ -133,7 +133,7 @@ markerFolder: ./Bolivia/
 [name-de::Bolivien]
 [Area-Total::1098581]
 [Area-Land::1084380]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::BOL]
 Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]  
 
@@ -145,8 +145,8 @@ Capital :: [[Bolivia/Counties/Chuquisaca/City/Sucre]]
 
 [Alcohol-l::5.1]
 [Language-Id::492]
-[geo-lon::-66.7]
-[geo-lat::-17.7667]
+[has_place_longitude::-66.7]
+[has_place_latitude::-17.7667]
 
 
 

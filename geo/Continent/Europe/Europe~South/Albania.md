@@ -129,7 +129,7 @@ markerFolder: ./Albania//
 [name-de::Albanien]
 [Area-Total::28748]
 [Area-Land::27400]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::AL]
 Capital :: [[Tirana]]  
 ![[Coat_of_arms_of_Albania.svg|350]]
@@ -137,8 +137,10 @@ Capital :: [[Tirana]]
 ![[Flag_of_Albania.svg|350]]
 [Alcohol-l::6.7]
 [Language-Id::]
-[geo-lon::19.9565]
-[geo-lat::40.793]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::19.9565]
+[has_place_latitude::40.793]
 
 
 

@@ -28,13 +28,15 @@ markerFolder: ./Tanganyika//
 [name-de::Tanganjika]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::499]
-[geo-lon::34.854]
-[geo-lat::-6.307]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::34.854]
+[has_place_latitude::-6.307]
 
 
 

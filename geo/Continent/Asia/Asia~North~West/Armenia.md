@@ -128,7 +128,7 @@ markerFolder: ./Armenia/
 [name-de::Armenien]
 [Area-Total::29800]
 [Area-Land::28200]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::ARM]
 Capital :: [[Armenia/Counties/Erevan/City/Yerevan]] 
 ![[Armenia/Coat_of_arms_of_Armenia.svg|350]]  
@@ -136,8 +136,10 @@ Capital :: [[Armenia/Counties/Erevan/City/Yerevan]]
 ![[Armenia/Flag_of_Armenia.svg|350]]  
 [Alcohol-l::11.4]
 [Language-Id::]
-[geo-lon::44.5167]
-[geo-lat::40.18]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.5167]
+[has_place_latitude::40.18]
 
 
 

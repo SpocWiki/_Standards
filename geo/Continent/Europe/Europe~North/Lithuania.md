@@ -132,7 +132,7 @@ markerFolder: ./Lithuania//
 [name-de::Litauen]
 [Area-Total::65300]
 [Area-Land::30080]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::LT]
 Capital :: [[Vilnius]]  
 ![[Coat_of_arms_of_Lithuania.svg|350]]
@@ -140,8 +140,10 @@ Capital :: [[Vilnius]]
 ![[Flag_of_Lithuania.svg|350]]
 [Alcohol-l::15]
 [Language-Id::]
-[geo-lon::25.3167]
-[geo-lat::54.6833]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.3167]
+[has_place_latitude::54.6833]
 
 
 

@@ -17,10 +17,10 @@ aliases:
 location: [{{y}},{{x}}] 
 SpocWebEntityId: {{SpocWebEntityId}}
 
-[geo-lon::{{x}}] 
-[geo-lat::{{y}}] 
+[has_place_longitude::{{x}}] 
+[has_place_latitude::{{y}}] 
 [name::{{City}}] 
-State :: {{State}}] 
+has_place_province:: {{State}}] 
 [CountryId::{{CountryId}}] 
 [StateId::{{StateId}}] 
 [Population::{{Population}}] 

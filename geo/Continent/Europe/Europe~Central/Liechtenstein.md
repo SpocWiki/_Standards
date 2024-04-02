@@ -128,7 +128,7 @@ markerFolder: ./Liechtenstein//
 [name-de::Liechtenstein]
 [Area-Total::160]
 [Area-Land::160]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::FL]
 Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz]]  
 ![[Coat_of_arms_of_Liechtenstein.svg|350]]
@@ -136,8 +136,10 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Liechtenstein/Counties/Vaduz]]
 ![[Flag_of_Liechtenstein.svg|350]]
 [Alcohol-l::]
 [Language-Id::497]
-[geo-lon::9.529]
-[geo-lat::47.158]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::9.529]
+[has_place_latitude::47.158]
 
 
 

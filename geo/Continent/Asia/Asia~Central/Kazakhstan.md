@@ -129,7 +129,7 @@ markerFolder: ./Kazakhstan/
 [name-de::Kasachstan]
 [Area-Total::2717300]
 [Area-Land::0]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::KZ]
 Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]  
 
@@ -141,8 +141,10 @@ Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]
 
 [Alcohol-l::11]
 [Language-Id::469]
-[geo-lon::71.4167]
-[geo-lat::51.1667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::71.4167]
+[has_place_latitude::51.1667]
 
 
 

@@ -48,7 +48,7 @@ For more Details, check out this Repository into this Subfolder:
 [	ISO4217-currency_country_name	 :: AUSTRALIA ]
 
 #has_/telephone_/Prefix_/International :: 0011  
-#has_/telephone_/Prefix_/Country :: 61 
+#has_/telephone_/Prefix_/has_place_country:: 61 
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
@@ -127,7 +127,7 @@ markerFolder: ./Australia/
 [name-de::Australien]
 [Area-Total::7682300]
 [Area-Land::7644440]
-Continent :: Australia
+has_place_continent:: Australia
 [VehicleCode::AUS]
 Capital :: [[Canberra]]  
 
@@ -139,8 +139,10 @@ Capital :: [[Canberra]]
 
 [Alcohol-l::10]
 [Language-Id::499]
-[geo-lon::149.027]
-[geo-lat::-35.4776]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::149.027]
+[has_place_latitude::-35.4776]
 
 
 

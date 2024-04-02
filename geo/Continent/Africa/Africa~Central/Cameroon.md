@@ -125,7 +125,7 @@ markerFolder: ./Cameroon//
 [name-de::Kamerun]
 [Area-Total::475442]
 [Area-Land::465400]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::CAM]
 Capital :: [[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_1910)]]  
 
@@ -136,8 +136,10 @@ Capital :: [[Cameroon/regions~Cameroon/Cameroon~Littoral/City/Duala_Buea_(after_
 ![[Flag_of_Cameroon.svg|350]]
 [Alcohol-l::7.6]
 [Language-Id::499]
-[geo-lon::10.6]
-[geo-lat::3.94]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::10.6]
+[has_place_latitude::3.94]
 
 
 

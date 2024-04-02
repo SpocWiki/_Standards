@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::158.15] 
-[geo-lat::6.916667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::158.15] 
+[has_place_latitude::6.916667] 
 [name::Palikir] 
-State ::  
-Country :: Micronesia,_Fed._States] 
+has_place_province::  
+has_place_country:: Micronesia,_Fed._States] 
 [StateId::] 
 [Population::] 
 [Unknown::] 

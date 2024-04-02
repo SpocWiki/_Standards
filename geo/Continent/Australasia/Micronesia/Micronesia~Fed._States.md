@@ -31,13 +31,15 @@ markerFolder: ./Micronesia~Fed._States/
 [name-de::Mikronesien] 
 [Area-Total::700] 
 [Area-Land::0] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::FSM] 
 Capital :: [[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]  
 [Alcohol-l::5.5] 
 [Language-Id::499] 
-[geo-lon::158.15] 
-[geo-lat::6.91667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::158.15] 
+[has_place_latitude::6.91667] 
 
 
 

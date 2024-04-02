@@ -130,13 +130,15 @@ markerFolder: ./Mongolia/
 
 [Area-Total::1565000]
 [Area-Land::1566500]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::MGL]
 Capital :: [[Mongolia/Counties/Ulaanbaatar/City/Ulan_Bator]]  
 [Alcohol-l::3.2]
 [Language-Id::]
-[geo-lon::106.883]
-[geo-lat::47.9167]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::106.883]
+[has_place_latitude::47.9167]
 
 
 

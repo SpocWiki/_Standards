@@ -131,13 +131,15 @@ markerFolder: ./Myanmar/
 
 [Area-Total::676552]
 [Area-Land::657550]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::MYR]
 Capital :: [[Naypyidaw]]  
 [Alcohol-l::0.6]
 [Language-Id::]
-[geo-lon::96.135]
-[geo-lat::18.265]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::96.135]
+[has_place_latitude::18.265]
 
 
 

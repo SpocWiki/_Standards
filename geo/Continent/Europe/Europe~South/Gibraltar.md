@@ -103,11 +103,11 @@ Sub-region_Name ::  [[Southern Europe]]
 
 [ISO2::GI]
 [ISO3::GIB]
-[geo-lon::-5.35]
-[geo-lat::36.1]
+[has_place_longitude::-5.35]
+[has_place_latitude::36.1]
 [name::Gibraltar]
-State ::  
-Country :: [[United_Kingdom]]  
+has_place_province::  
+has_place_country:: [[United_Kingdom]]  
 [StateId::]
 [Population::]
 [Unknown::]
@@ -127,13 +127,13 @@ coordinates: [[Gibraltar]]
 [name-de::Gibraltar]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::GBZ]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::]
-[geo-lat::36.143]
+[has_place_longitude::]
+[has_place_latitude::36.143]
 
 
 

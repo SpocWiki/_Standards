@@ -202,12 +202,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  geo-lon:
+  has_place_longitude:
     input: number
-    accessorKey: geo-lon
-    label: geo-lon
-    key: geo-lon
-    id: geo-lon
+    accessorKey: has_place_longitude
+    label: has_place_longitude
+    key: has_place_longitude
+    id: has_place_longitude
     position: 4
     skipPersist: false
     isHidden: false
@@ -221,12 +221,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  geo-lat:
+  has_place_latitude:
     input: number
-    accessorKey: geo-lat
-    label: geo-lat
-    key: geo-lat
-    id: geo-lat
+    accessorKey: has_place_latitude
+    label: has_place_latitude
+    key: has_place_latitude
+    id: has_place_latitude
     position: 5
     skipPersist: false
     isHidden: false

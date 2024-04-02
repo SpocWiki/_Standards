@@ -126,7 +126,7 @@ markerFolder: ./Chad//
 [name-de::Tschad]
 [Area-Total::1284000]
 [Area-Land::1259200]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::TD]
 Capital :: [[N'Djamena]]  
 
@@ -138,8 +138,10 @@ Capital :: [[N'Djamena]]
 
 [Alcohol-l::4.4]
 [Language-Id::]
-[geo-lon::16.0333]
-[geo-lat::12.1]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::16.0333]
+[has_place_latitude::12.1]
 
 
 

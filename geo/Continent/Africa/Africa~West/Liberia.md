@@ -122,7 +122,7 @@ markerFolder: ./Liberia//
 [name-de::Liberia]
 [Area-Total::97754]
 [Area-Land::96750]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::LB]
 Capital :: [[Monrovia]]  
 
@@ -134,8 +134,8 @@ Capital :: [[Monrovia]]
 
 [Alcohol-l::5.1]
 [Language-Id::499]
-[geo-lon::-10.8]
-[geo-lat::6.31667]
+[has_place_longitude::-10.8]
+[has_place_latitude::6.31667]
 
 
 
