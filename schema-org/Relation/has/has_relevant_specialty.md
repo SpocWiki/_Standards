@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalSpecialty )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_relevant_specialty|has_relevant_specialty]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_relevant_specialty.public|has_relevant_specialty.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_relevant_specialty.internal|has_relevant_specialty.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_relevant_specialty.protect|has_relevant_specialty.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_relevant_specialty.private|has_relevant_specialty.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_relevant_specialty.personal|has_relevant_specialty.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_relevant_specialty.secret|has_relevant_specialty.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_relevant_specialty|has_relevant_specialty]] 
+- [[../../../../../_public/schema-org/Relation/has/has_relevant_specialty.public|has_relevant_specialty.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_relevant_specialty.internal|has_relevant_specialty.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_relevant_specialty.protect|has_relevant_specialty.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_relevant_specialty.private|has_relevant_specialty.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_relevant_specialty.personal|has_relevant_specialty.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_relevant_specialty.secret|has_relevant_specialty.secret]] 

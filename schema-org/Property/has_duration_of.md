@@ -1,3 +1,6 @@
+---
+icon: luc_timer_reset
+---
 # Duration
 
 The Time-Span an Action takes or that a State is retained. 

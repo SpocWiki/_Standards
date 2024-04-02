@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: recordedAt ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_recorded_in|has_recorded_in]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_recorded_in.public|has_recorded_in.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recorded_in.internal|has_recorded_in.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_recorded_in.protect|has_recorded_in.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_recorded_in.private|has_recorded_in.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_recorded_in.personal|has_recorded_in.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_recorded_in.secret|has_recorded_in.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_recorded_in|has_recorded_in]] 
+- [[../../../../../_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_recorded_in.private|has_recorded_in.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]] 

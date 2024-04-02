@@ -41,13 +41,13 @@ markerFolder: ./Saint_Helena/
 
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::]
 Capital :: [[Jamestown]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::-5.71667]
-[geo-lat::-15.9167]
+[has_place_longitude::-5.71667]
+[has_place_latitude::-15.9167]
 
 
 

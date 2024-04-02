@@ -24,13 +24,15 @@ markerFolder: ./Sabah/
 [name-de::Sabah]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::117]
-[geo-lat::5.25]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::117]
+[has_place_latitude::5.25]
 
 
 

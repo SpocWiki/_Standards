@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Occupation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_occupation|has_occupation]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_occupation.public|has_occupation.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_occupation.internal|has_occupation.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_occupation.protect|has_occupation.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_occupation.private|has_occupation.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_occupation.personal|has_occupation.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_occupation.secret|has_occupation.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_occupation|has_occupation]] 
+- [[../../../../../_public/schema-org/Relation/has/has_occupation.public|has_occupation.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_occupation.internal|has_occupation.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_occupation.protect|has_occupation.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_occupation.private|has_occupation.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_occupation.personal|has_occupation.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_occupation.secret|has_occupation.secret]] 

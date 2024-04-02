@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_keywords|has_keywords]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_keywords.public|has_keywords.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_keywords.internal|has_keywords.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_keywords.protect|has_keywords.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_keywords.private|has_keywords.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_keywords.personal|has_keywords.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_keywords.secret|has_keywords.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_keywords|has_keywords]] 
+- [[../../../../../_public/schema-org/Relation/has/has_keywords.public|has_keywords.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_keywords.internal|has_keywords.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_keywords.protect|has_keywords.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_keywords.private|has_keywords.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_keywords.personal|has_keywords.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_keywords.secret|has_keywords.secret]] 

@@ -46,10 +46,10 @@ Relation describes that:
 ( #has_/range :: [[Person]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_artist|has_artist]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_artist.public|has_artist.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_artist.internal|has_artist.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_artist.protect|has_artist.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_artist.private|has_artist.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_artist.personal|has_artist.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_artist.secret|has_artist.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_artist|has_artist]] 
+- [[../../../../../_public/schema-org/Relation/has/has_artist.public|has_artist.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_artist.internal|has_artist.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_artist.protect|has_artist.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_artist.private|has_artist.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_artist.personal|has_artist.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_artist.secret|has_artist.secret]] 

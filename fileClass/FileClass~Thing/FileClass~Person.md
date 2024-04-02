@@ -3,7 +3,7 @@ limit: 9
 mapWithTag: true
 excludes: 
 icon: person-standing
-version: "2.0"
+version: "2.1"
 tagNames:
   - class/Person
   - class/Thing/Person
@@ -344,9 +344,72 @@ fields:
       dvQueryString: dv.pages('#class/Thing/Organization')
     type: MultiFile
     path: ""
+filesPaths: 
+bookmarksGroups: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - Q3Ehig
+  - shAXv1
+  - EP70pY
+  - 9vpCy6
+  - dHTsXr
+  - Osv7b9
+  - abwTMA
+  - cQcjh8
+  - QRsb3P
+  - yrbcca
+  - AOGLMR
+  - mQ8oMX
+  - bqlueD
+  - jr8JzA
+  - BWJg2D
+  - jCxeSZ
+  - 0208tU
+  - Rv8y6S
+  - Y6ZDi0
+  - OGmNba
+  - 3dYixf
+  - E9Ms20
+  - Wczlz5
+  - ti1qcm
+  - 5igni9
+  - siAMoi
+  - p7Gb59
+  - AKJgTW
+  - NYA4k9
+  - KNfOtJ
+  - PR7Yts
+  - AomonU
+  - ijkHs8
+  - ga73dm
+  - rqYlZR
+  - 24kMuN
+  - EqRT5d
+  - X4dKPx
+  - 0Z1PK0
+  - VrQLJh
+  - lfwii5
+  - rfO6Ft
+  - fwoBm6
+  - HbvPg9
+  - 7Beaqh
+  - 1sfZjc
+  - j6qJ0o
+  - njDT1t
+  - YWDffh
+  - dP79cr
+  - 6Upkr0
+  - SeuyEw
+  - 8LeTgp
+  - BHpvgZ
+  - VlfyNq
+  - voC60o
+  - vFvtfA
 ---
 
-# Person
+# [[FileClass~Person]] 
+
 This is a kind of [[FileClass~Thing]]
 
 A person (alive, dead, undead, or fictional).

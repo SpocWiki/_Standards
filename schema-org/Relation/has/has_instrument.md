@@ -44,10 +44,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ deliveryMethod, diet, exercisePlan, exerciseRelatedDiet, language, query, recipe, supply, tool ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_instrument|has_instrument]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_instrument.public|has_instrument.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_instrument.internal|has_instrument.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_instrument.protect|has_instrument.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_instrument.private|has_instrument.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_instrument.personal|has_instrument.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_instrument.secret|has_instrument.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_instrument|has_instrument]] 
+- [[../../../../../_public/schema-org/Relation/has/has_instrument.public|has_instrument.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_instrument.internal|has_instrument.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_instrument.protect|has_instrument.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_instrument.private|has_instrument.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_instrument.personal|has_instrument.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_instrument.secret|has_instrument.secret]] 

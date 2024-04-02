@@ -37,7 +37,7 @@ markerFolder: ./Congo~Kinshasa//
 [name-de::Republik Kongo]
 [Area-Total::342000]
 [Area-Land::341500]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::CGO]
 Capital ::  [[Congo~Dem_Rep/City/Kinshasa]] ] 
 
@@ -48,8 +48,10 @@ Capital ::  [[Congo~Dem_Rep/City/Kinshasa]] ]
 ![[Flag_of_the_Democratic_Republic_of_the_Congo.svg|350]]
 [Alcohol-l::3.3]
 [Language-Id::496]
-[geo-lon::15.3]
-[geo-lat::-4.3]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.3]
+[has_place_latitude::-4.3]
 
 
 ## Economy 

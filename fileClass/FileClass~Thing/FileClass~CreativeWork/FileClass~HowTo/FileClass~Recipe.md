@@ -78,7 +78,7 @@ A recipe. For dietary restrictions covered by the recipe, a few common restricti
 ## Properties:
 
 ### CookTime
-The time it takes to actually cook the dish, in [ISO 8601 duration format](http://en.wikipedia.org/wiki/ISO\_8601).
+The time it takes to actually cook the dish, in minutes or [ISO 8601 duration format](http://en.wikipedia.org/wiki/ISO\_8601).
 
 CookTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
@@ -113,7 +113,8 @@ A step in making the recipe, in the form of a single item (document, video, etc.
 RecipeInstructions:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
 ### RecipeYield
-The quantity produced by the recipe (for example, number of people served, number of servings, etc).
+The quantity produced by the recipe 
+(for example, number of people served, number of servings, etc).
 
 RecipeYield:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 

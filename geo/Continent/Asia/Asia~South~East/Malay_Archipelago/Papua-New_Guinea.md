@@ -132,13 +132,15 @@ markerFolder: ./Papua_New_Guinea/
 
 [Area-Total::462840] 
 [Area-Land::452860] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::PNG] 
 Capital :: [[Port_Moresby]]  
 [Alcohol-l::3.5] 
 [Language-Id::499] 
-[geo-lon::147.117] 
-[geo-lat::-9.5] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::147.117] 
+[has_place_latitude::-9.5] 
 
 
 

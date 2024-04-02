@@ -128,7 +128,7 @@ markerFolder: ./New_Zealand/
 [name-de::Neuseeland]
 [Area-Total::270534]
 [Area-Land::267990]
-Continent :: [[Australia]]  
+has_place_continent:: [[Australia]]  
 [VehicleCode::NZ]
 Capital :: [[Wellington]]  
 
@@ -140,8 +140,10 @@ Capital :: [[Wellington]]
 
 [Alcohol-l::9.6]
 [Language-Id::499]
-[geo-lon::174.78]
-[geo-lat::-41.28]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::174.78]
+[has_place_latitude::-41.28]
 
 
 

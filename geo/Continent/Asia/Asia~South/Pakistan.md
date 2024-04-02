@@ -134,7 +134,7 @@ markerFolder: ./Pakistan/
 [name-de::Pakistan]
 [Area-Total::796095]
 [Area-Land::770880]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::PK]
 Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]  
 ![[Coat_of_arms_of_Pakistan.svg|350]]
@@ -143,8 +143,10 @@ Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]
 ![[Pakistan/Flag_of_Pakistan.svg|350]]  
 [Alcohol-l::0.1]
 [Language-Id::]
-[geo-lon::70.1033]
-[geo-lat::29.2633]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::70.1033]
+[has_place_latitude::29.2633]
 
 
 

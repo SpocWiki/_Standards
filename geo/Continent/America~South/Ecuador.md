@@ -129,7 +129,7 @@ markerFolder: ./Ecuador/
 [name-de::Ecuador]
 [Area-Total::272045]
 [Area-Land::276840]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::EC]
 Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]  
 
@@ -141,8 +141,8 @@ Capital :: [[Ecuador/Counties/Pichincha/City/Quito]]
 
 [Alcohol-l::9.4]
 [Language-Id::492]
-[geo-lon::-78.5]
-[geo-lat::-0.23]
+[has_place_longitude::-78.5]
+[has_place_latitude::-0.23]
 
 
 

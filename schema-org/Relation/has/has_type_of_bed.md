@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: BedType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_type_of_bed|has_type_of_bed]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_type_of_bed.public|has_type_of_bed.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_type_of_bed.internal|has_type_of_bed.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_type_of_bed.protect|has_type_of_bed.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_type_of_bed.private|has_type_of_bed.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_type_of_bed.personal|has_type_of_bed.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_type_of_bed.secret|has_type_of_bed.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_type_of_bed|has_type_of_bed]] 
+- [[../../../../../_public/schema-org/Relation/has/has_type_of_bed.public|has_type_of_bed.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_type_of_bed.internal|has_type_of_bed.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_type_of_bed.protect|has_type_of_bed.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_type_of_bed.private|has_type_of_bed.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_type_of_bed.personal|has_type_of_bed.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_type_of_bed.secret|has_type_of_bed.secret]] 

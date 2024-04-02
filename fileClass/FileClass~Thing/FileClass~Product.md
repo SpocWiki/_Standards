@@ -2,8 +2,8 @@
 limit: 9
 mapWithTag: true
 excludes: 
-icon: link-2
-version: "2.0"
+icon: shopping-basket
+version: "2.20"
 tagNames:
   - class/Product
   - class/Thing/Product
@@ -14,7 +14,7 @@ tags:
   - class/Product
   - is_a_/Product
   - class/Thing/Product
-extends: FileClass~Thing
+extends: FileClass~Thing/FileClass~Shape
 fields:
   - id: 3m0qb2
     name: AdditionalProperty
@@ -50,11 +50,6 @@ fields:
       dvQueryString: dv.pages('#class/Thing/Intangible/Brand')
     type: MultiFile
     path: ""
-  - id: SkGSfu
-    name: Color
-    options: {}
-    type: Input
-    path: ""
   - id: RxQkmM
     name: CountryOfAssembly
     options: {}
@@ -69,12 +64,6 @@ fields:
     name: CountryOfOrigin
     options:
       dvQueryString: dv.pages('#class/Thing/Place/AdministrativeArea/Country')
-    type: MultiFile
-    path: ""
-  - id: QMUCmQ
-    name: Depth
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
   - id: 1bTwnH
@@ -114,22 +103,10 @@ fields:
       dvQueryString: dv.pages('#class/Thing/Intangible/EnergyConsumptionDetails')
     type: MultiFile
     path: ""
-  - id: Hi8LfJ
-    name: HasMeasurement
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
   - id: TFK7P1
     name: HasMerchantReturnPolicy
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/MerchantReturnPolicy')
-    type: MultiFile
-    path: ""
-  - id: YAZZKN
-    name: Height
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
     type: MultiFile
     path: ""
   - id: s1OsJ0
@@ -154,28 +131,10 @@ fields:
     options: {}
     type: Boolean
     path: ""
-  - id: Y0mKY9
-    name: IsRelatedTo
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product')
-    type: MultiFile
-    path: ""
-  - id: R3icE7
-    name: IsSimilarTo
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product')
-    type: MultiFile
-    path: ""
   - id: Fhtkfd
     name: IsVariantOf
     options:
       dvQueryString: dv.pages('#class/Thing/Product/ProductGroup')
-    type: MultiFile
-    path: ""
-  - id: WdmrHl
-    name: Keywords
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
   - id: jvmadq
@@ -188,12 +147,6 @@ fields:
     name: Manufacturer
     options:
       dvQueryString: dv.pages('#class/Thing/Organization')
-    type: MultiFile
-    path: ""
-  - id: Tq4Wrq
-    name: Material
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product')
     type: MultiFile
     path: ""
   - id: Ym8LUU
@@ -273,11 +226,6 @@ fields:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Review')
     type: MultiFile
     path: ""
-  - id: h9U2jV
-    name: Size
-    options: {}
-    type: Input
-    path: ""
   - id: Q9mpps
     name: Sku
     options: {}
@@ -288,18 +236,50 @@ fields:
     options: {}
     type: Input
     path: ""
-  - id: 1LeLMh
-    name: Weight
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: rPvy2g
-    name: Width
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
+filesPaths: 
+bookmarksGroups: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - dkoYfb
+  - Q9mpps
+  - Mb6rNy
+  - Yg3RsO
+  - buZYOZ
+  - jmylMc
+  - WAqoXE
+  - mLS54l
+  - 4MYvF8
+  - dU2Jm4
+  - jS04IB
+  - YTg15p
+  - BdnwGL
+  - GkkHsb
+  - kie9zD
+  - Ym8LUU
+  - iVQOjU
+  - jvmadq
+  - Fhtkfd
+  - BxaI1y
+  - YgvDWW
+  - ubvrO0
+  - s1OsJ0
+  - TFK7P1
+  - V1K89U
+  - V47yTl
+  - KzSVNA
+  - I5HcP0
+  - dpZcB4
+  - 6T52ea
+  - 1bTwnH
+  - 593yNg
+  - vO8BMR
+  - RxQkmM
+  - Ii9fzg
+  - xcIJre
+  - hYW63c
+  - ejZkuP
+  - 3m0qb2
 ---
 
 # Product
@@ -424,10 +404,15 @@ Defines the energy efficiency Category (also known as "class" or "rating") for a
 
 HasEnergyConsumptionDetails:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/EnergyConsumptionDetails')"}}
 
-### HasMeasurement
-A product measurement, for example the inseam of pants, the wheel size of a bicycle, or the gauge of a screw. Usually an exact measurement, but can also be a range of measurements for adjustable products, for example belts and ski bindings.
+### HasMeasurements 
+One or more measurements in the form of a [[../../schema-org/Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] . 
+For example the inseam of pants, 
+the wheel size of a bicycle, or the gauge of a screw. 
+Usually an exact measurement, 
+but can also be a range of measurements for adjustable products, 
+for example belts and ski bindings.  
 
-HasMeasurement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
+HasMeasurements:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 ### HasMerchantReturnPolicy
 Specifies a MerchantReturnPolicy that may be applicable.
@@ -470,7 +455,20 @@ A pointer to another, functionally similar product (or multiple products).
 IsSimilarTo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product')"}}
 
 ### IsVariantOf
-Indicates the kind of product that this is a variant of. In the case of [[ProductModel]], this is a pointer (from a ProductModel) to a base product from which this product is a variant. It is safe to infer that the variant inherits all product features from the base model, unless defined locally. This is not transitive. In the case of a [[ProductGroup]], the group description also serves as a template, representing a set of Products that vary on explicitly defined, specific dimensions only (so it defines both a set of variants, as well as which values distinguish amongst those variants). When used with [[ProductGroup]], this property can apply to any [[Product]] included in the group.
+Indicates the kind of product that this is a variant of. 
+In the case of [[ProductModel]], this is a pointer (from a ProductModel) 
+to a base product from which this product is a variant. 
+
+It is safe to infer that the variant inherits all product features 
+from the base model, unless defined locally. 
+This is not transitive. 
+In the case of a [[ProductGroup]], the group description also serves as a template, 
+representing a set of Products that vary on explicitly defined, 
+specific dimensions only (so it defines both a set of variants, 
+as well as which values distinguish amongst those variants). 
+
+When used with [[ProductGroup]], this property can 
+apply to any [[Product]] included in the group.
 
 IsVariantOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product/ProductGroup')"}}
 
@@ -516,10 +514,19 @@ The Manufacturer Part Number (MPN) of the product, or the product to which the o
 Mpn:: {"type":"Input","options":{}}
 
 ### NegativeNotes
-Provides negative considerations regarding something, most typically in pro/con lists for reviews (alongside [[positiveNotes]]). For symmetry  
- In the case of a [[Review]], the property describes the [[itemReviewed]] from the perspective of the review; in the case of a [[Product]], the product itself is being described. Since product descriptions  
- tend to emphasise positive claims, it may be relatively unusual to find [[negativeNotes]] used in this way. Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[Product]].  
- The property values can be expressed either as unstructured text (repeated as necessary), or if ordered, as a list (in which case the most negative is at the beginning of the list).
+Provides negative considerations regarding something, 
+most typically in pro/con lists for reviews (alongside [[positiveNotes]]). 
+For symmetry  
+ In the case of a [[Review]], the property describes the [[itemReviewed]] 
+ from the perspective of the review; 
+ in the case of a [[Product]], the product itself is being described. 
+ 
+ Since product descriptions tend to emphasise positive claims, 
+ it may be relatively unusual to find [[negativeNotes]] used in this way. 
+ Nevertheless for the sake of symmetry, [[negativeNotes]] can be used on [[Product]].  
+ The property values can be expressed either as unstructured text 
+ (repeated as necessary), or if ordered, 
+ as a list (in which case the most negative is at the beginning of the list).
 
 NegativeNotes:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}
 
@@ -570,8 +577,12 @@ A review of the item.
 
 Review:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/Review')"}}
 
-### Size
-A standardized size of a product or creative work, specified either through a simple textual string (for example 'XL', '32Wx34L'), a  QuantitativeValue with a unitCode, or a comprehensive and structured [[SizeSpecification]]; in other cases, the [[width]], [[height]], [[depth]] and [[weight]] properties may be more applicable.
+### Size 
+A standardized size of a product or creative work, specified 
+- either through a simple textual string (for example 'XL', '32Wx34L'), 
+- a  QuantitativeValue with a unitCode, 
+- or a comprehensive and structured [[SizeSpecification]]; 
+- in other cases, the [[width]], [[height]], [[depth]] and [[weight]] properties may be more applicable.
 
 Size:: {"type":"Input","options":{}}
 
@@ -580,17 +591,17 @@ The Stock Keeping Unit (SKU), i.e. a merchant-specific identifier for a product 
 
 Sku:: {"type":"Input","options":{}}
 
-### Slogan
+### Slogan 
 A slogan or motto associated with the item.
 
 Slogan:: {"type":"Input","options":{}}
 
-### Weight
+### Weight 
 The weight of the product or person.
 
 Weight:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
-### Width
+### Width 
 The width of the item.
 
 Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}

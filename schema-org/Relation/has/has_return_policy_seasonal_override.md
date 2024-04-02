@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: MerchantReturnPolicySeasonalOverride )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_return_policy_seasonal_override|has_return_policy_seasonal_override]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_return_policy_seasonal_override.public|has_return_policy_seasonal_override.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.internal|has_return_policy_seasonal_override.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.protect|has_return_policy_seasonal_override.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.private|has_return_policy_seasonal_override.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.personal|has_return_policy_seasonal_override.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_return_policy_seasonal_override.secret|has_return_policy_seasonal_override.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_return_policy_seasonal_override|has_return_policy_seasonal_override]] 
+- [[../../../../../_public/schema-org/Relation/has/has_return_policy_seasonal_override.public|has_return_policy_seasonal_override.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_return_policy_seasonal_override.internal|has_return_policy_seasonal_override.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_return_policy_seasonal_override.protect|has_return_policy_seasonal_override.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_return_policy_seasonal_override.private|has_return_policy_seasonal_override.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_return_policy_seasonal_override.personal|has_return_policy_seasonal_override.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_return_policy_seasonal_override.secret|has_return_policy_seasonal_override.secret]] 

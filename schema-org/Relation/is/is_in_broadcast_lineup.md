@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: CableOrSatelliteService )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_in_broadcast_lineup|is_in_broadcast_lineup]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_in_broadcast_lineup.public|is_in_broadcast_lineup.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.internal|is_in_broadcast_lineup.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.protect|is_in_broadcast_lineup.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.private|is_in_broadcast_lineup.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.personal|is_in_broadcast_lineup.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_in_broadcast_lineup.secret|is_in_broadcast_lineup.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_in_broadcast_lineup|is_in_broadcast_lineup]] 
+- [[../../../../../_public/schema-org/Relation/is/is_in_broadcast_lineup.public|is_in_broadcast_lineup.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_in_broadcast_lineup.internal|is_in_broadcast_lineup.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_in_broadcast_lineup.protect|is_in_broadcast_lineup.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_in_broadcast_lineup.private|is_in_broadcast_lineup.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_in_broadcast_lineup.personal|is_in_broadcast_lineup.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_in_broadcast_lineup.secret|is_in_broadcast_lineup.secret]] 

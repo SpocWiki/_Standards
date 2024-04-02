@@ -38,10 +38,10 @@ Relation describes that:
 ( #has_/range :: Menu, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_menu|has_menu]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_menu.public|has_menu.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_menu.internal|has_menu.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_menu.protect|has_menu.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_menu.private|has_menu.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_menu.personal|has_menu.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_menu.secret|has_menu.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_menu|has_menu]] 
+- [[../../../../../_public/schema-org/Relation/has/has_menu.public|has_menu.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_menu.internal|has_menu.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_menu.protect|has_menu.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_menu.private|has_menu.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_menu.personal|has_menu.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_menu.secret|has_menu.secret]] 

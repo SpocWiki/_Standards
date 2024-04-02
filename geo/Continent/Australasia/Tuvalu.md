@@ -131,13 +131,15 @@ markerFolder: ./Tuvalu/
 
 [Area-Total::26] 
 [Area-Land::30] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::TUV] 
 Capital :: [[Funafuti]]  
 [Alcohol-l::2.4] 
 [Language-Id::499] 
-[geo-lon::179.217] 
-[geo-lat::-8.51667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::179.217] 
+[has_place_latitude::-8.51667] 
 
 
 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Order)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_referencing_order|is_referencing_order]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_referencing_order.public|is_referencing_order.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_referencing_order.internal|is_referencing_order.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_referencing_order.protect|is_referencing_order.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_referencing_order.private|is_referencing_order.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_referencing_order.personal|is_referencing_order.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_referencing_order.secret|is_referencing_order.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_referencing_order|is_referencing_order]] 
+- [[../../../../../_public/schema-org/Relation/is/is_referencing_order.public|is_referencing_order.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_referencing_order.internal|is_referencing_order.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_referencing_order.protect|is_referencing_order.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_referencing_order.private|is_referencing_order.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_referencing_order.personal|is_referencing_order.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_referencing_order.secret|is_referencing_order.secret]] 

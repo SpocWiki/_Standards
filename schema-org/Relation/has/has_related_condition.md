@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_related_condition|has_related_condition]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_related_condition.public|has_related_condition.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_related_condition.internal|has_related_condition.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_related_condition.protect|has_related_condition.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_related_condition.private|has_related_condition.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_related_condition.personal|has_related_condition.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_related_condition.secret|has_related_condition.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_related_condition|has_related_condition]] 
+- [[../../../../../_public/schema-org/Relation/has/has_related_condition.public|has_related_condition.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_related_condition.internal|has_related_condition.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_related_condition.protect|has_related_condition.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_related_condition.private|has_related_condition.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_related_condition.personal|has_related_condition.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_related_condition.secret|has_related_condition.secret]] 

@@ -123,7 +123,7 @@ markerFolder: ./Guinea-Bissau//
 [name-de::Guinea-Bissau]
 [Area-Total::36125]
 [Area-Land::28120]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::GUB]
 Capital :: [[Bissau]]  
 
@@ -135,8 +135,8 @@ Capital :: [[Bissau]]
 
 [Alcohol-l::3.7]
 [Language-Id::467]
-[geo-lon::-15.6]
-[geo-lat::11.8667]
+[has_place_longitude::-15.6]
+[has_place_latitude::11.8667]
 
 
 

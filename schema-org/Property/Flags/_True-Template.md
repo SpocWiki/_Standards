@@ -38,7 +38,7 @@ aliases:
 
 Use these simple Tags to mark Instances as True or False: 
 #is_/{{has_label_snail}} 
-#is_not_/{{has_label_snail}} 
+`#is_not_/{{has_label_snail}}`  
 
 Or write it as a Triple: 
 [ is_{{has_label_snail}} :: {{rangeIncludes}} ] 

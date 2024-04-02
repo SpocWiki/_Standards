@@ -2,8 +2,8 @@
 limit: 9
 mapWithTag: true
 excludes: 
-icon: link-2
-version: "2.0"
+icon: globe
+version: "2.71"
 tagNames:
   - class/Place
   - class/Thing/Place
@@ -23,7 +23,7 @@ fields:
     type: MultiFile
     path: ""
   - id: khiDhm
-    name: Address
+    name: has_place_address
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
     type: MultiFile
@@ -57,31 +57,31 @@ fields:
     type: MultiFile
     path: ""
   - id: 72bhFw
-    name: GeoDisjoint
+    name: has_place_disjoint
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: b6iLkX
-    name: GeoEquals
+    name: has_places_equal
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: akaKB4
-    name: GeoOverlaps
+    name: has_place_overlapping
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: g4KgNy
-    name: GeoTouches
+    name: has_place_touching
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: uwnmnP
-    name: GeoWithin
+    name: has_place_within
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
@@ -92,18 +92,18 @@ fields:
     type: Input
     path: ""
   - id: dihHaJ
-    name: HasDriveThroughService
+    name: has_place_drive_through_service
     options: {}
     type: Boolean
     path: ""
   - id: JuttB1
-    name: HasMap
+    name: has_place_map
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Map')
     type: MultiFile
     path: ""
   - id: ZY9dJx
-    name: IsAccessibleForFree
+    name: has_place_access_for_free
     options: {}
     type: Boolean
     path: ""
@@ -119,7 +119,7 @@ fields:
     type: MultiFile
     path: ""
   - id: PAXN7M
-    name: Latitude
+    name: has_place_latitude
     options: {}
     type: Number
     path: ""
@@ -130,7 +130,7 @@ fields:
     type: MultiFile
     path: ""
   - id: bQdwq5
-    name: Longitude
+    name: has_place_longitude
     options: {}
     type: Number
     path: ""
@@ -152,7 +152,7 @@ fields:
     type: MultiFile
     path: ""
   - id: 8QRKWA
-    name: PublicAccess
+    name: has_place_access_public
     options: {}
     type: Boolean
     path: ""
@@ -168,7 +168,7 @@ fields:
     type: Input
     path: ""
   - id: pLPhMF
-    name: SmokingAllowed
+    name: has_place_smoking_allowed
     options: {}
     type: Boolean
     path: ""
@@ -189,11 +189,90 @@ fields:
     type: Input
     path: ""
   - id: ceZqW2
-    name: Events
+    name: has_event
     options:
       dvQueryString: dv.pages('#class/Thing/Event')
     type: MultiFile
     path: ""
+  - name: has_place_country
+    type: File
+    options: {}
+    path: ""
+    id: POdmJM
+  - name: has_place_county
+    type: File
+    options: {}
+    path: ""
+    id: ay2Tgr
+  - name: has_place_province
+    type: File
+    options: {}
+    path: ""
+    id: nV8JQQ
+  - name: has_place_city
+    type: File
+    options: {}
+    path: ""
+    id: nMCnhZ
+  - name: has_place_borough
+    type: File
+    options: {}
+    path: ""
+    id: BVSJ0j
+  - name: has_place_elevation_in_meters
+    type: Number
+    options: {}
+    path: ""
+    id: pUfIqG
+  - name: has_place_postal_code
+    type: Input
+    options: {}
+    path: ""
+    id: zq2d61
+filesPaths: 
+bookmarksGroups: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - zq2d61
+  - BVSJ0j
+  - nMCnhZ
+  - nV8JQQ
+  - ay2Tgr
+  - POdmJM
+  - ceZqW2
+  - k0T9oW
+  - x9sihw
+  - pLPhMF
+  - 8QRKWA
+  - ZY9dJx
+  - J5eCFD
+  - bPnNjc
+  - zJ4x4m
+  - mPcr1A
+  - Q3LHXa
+  - FXWp5z
+  - pUfIqG
+  - bQdwq5
+  - PAXN7M
+  - ML2S8v
+  - aYs3i6
+  - EkdxFr
+  - JuttB1
+  - dihHaJ
+  - ojuihd
+  - uwnmnP
+  - g4KgNy
+  - akaKB4
+  - b6iLkX
+  - 72bhFw
+  - e87cuQ
+  - PlvZrm
+  - CZ1Yjn
+  - kbfIe4
+  - Kcv5pc
+  - khiDhm
+  - xDT69L
 ---
 
 # Place
@@ -212,7 +291,9 @@ Entities that have a somewhat fixed, physical extension.
 ### AdditionalProperty
 A property-value pair representing an additional characteristic of the entity, e.g. a product feature or another characteristic for which there is no matching property in schema.org.
 
-Note: Publishers should be aware that applications designed to use specific schema.org properties (e.g. https://schema.org/width, https://schema.org/color, https://schema.org/gtin13, ...) will typically expect such data to be provided using those properties, rather than using the generic property/value mechanism.
+Note: Publishers should be aware that applications designed to use specific schema.org properties (e.g. https://schema.org/width, https://schema.org/color, https://schema.org/gtin13, ...) 
+will typically expect such data to be provided using those properties, 
+rather than using the generic property/value mechanism.
 
 AdditionalProperty:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
 
@@ -227,12 +308,18 @@ The overall rating, based on a collection of reviews or ratings, of the item.
 AggregateRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Rating/AggregateRating')"}}
 
 ### AmenityFeature
-An amenity feature (e.g. a characteristic or service) of the Accommodation. This generic property does not make a statement about whether the feature is included in an offer for the main accommodation or available at extra costs.
+An amenity feature (e.g. a characteristic or service) of the Accommodation. 
+This generic property does not make a statement about 
+whether the feature is included in an offer for the main accommodation 
+or available at extra costs.
 
 AmenityFeature:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')"}}
 
 ### BranchCode
-A short textual code (also called "store code") that uniquely identifies a place of business. The code is typically assigned by the parentOrganization and used in structured URLs.
+A short textual code (also called "store code") 
+that uniquely identifies a place of business. 
+The code is typically assigned by the [[../../schema-org/Relation/has/has_parent_organization|parent-organization]] 
+and used in structured URLs.
 
 For example, in the URL http://www.starbucks.co.uk/store-locator/etc/detail/3047 the code "3047" is a branchCode for a particular branch.
 
@@ -241,8 +328,11 @@ BranchCode:: {"type":"Input","options":{}}
 ### ContainedInPlace
 The basic containment relation between a place and one that contains it.
 
+Inverse to [[#ContainsPlace]].
+
 ### ContainsPlace
 The basic containment relation between a place and another that it contains.
+Inverse to [[#ContainedInPlace]].
 
 ### FaxNumber
 The fax number.
@@ -250,19 +340,27 @@ The fax number.
 FaxNumber:: {"type":"Input","options":{}}
 
 ### Geo
-The geo coordinates of the place.
+The [[../../schema-org/Class/is_a_/Intangible/structured_value/geo_coordinates|Geo_Coordinates]] of the place.
 
 Geo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')"}}
 
 ### GeoContains
-Represents a relationship between two geometries (or the places they represent), relating a containing geometry to a contained geometry. "a contains b iff no points of b lie in the exterior of a, and at least one point of the interior of b lies in the interior of a". As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
+Represents a relationship between two geometries 
+(or the places they represent), 
+relating a containing geometry to a contained geometry. 
+"a contains b iff no points of b lie in the exterior of a, 
+and at least one point of the interior of b lies in the interior of a". As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
+
+Inverse of [[#GeoWithin]].
 
 ### GeoCoveredBy
 Represents a relationship between two geometries (or the places they represent), relating a geometry to another that covers it. As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
+Inverse of [[#GeoCovers]].
 ### GeoCovers
 Represents a relationship between two geometries (or the places they represent), relating a covering geometry to a covered geometry. "Every point of b is a point of (the interior or boundary of) a". As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
+Inverse of [[#GeoCoveredBy]].
 ### GeoCrosses
 Represents a relationship between two geometries (or the places they represent), relating a geometry to another that crosses it: "a crosses b: they have some but not all interior points in common, and the dimension of the intersection is less than that of at least one of them". As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
@@ -294,13 +392,21 @@ Represents a relationship between two geometries (or the places they represent),
 
 GeoWithin:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/GeospatialGeometry')"}}
 
+Inverse of [[#GeoContains]].
+
 ### GlobalLocationNumber
-The [Global Location Number](http://www.gs1.org/gln) (GLN, sometimes also referred to as International Location Number or ILN) of the respective organization, person, or place. The GLN is a 13-digit number used to identify parties and physical locations.
+The [Global Location Number](http://www.gs1.org/gln) (GLN, sometimes 
+also referred to as International Location Number or ILN) 
+of the respective organization, person, or place. 
+The GLN is a 13-digit number used to identify parties and physical locations.
 
 GlobalLocationNumber:: {"type":"Input","options":{}}
 
 ### HasDriveThroughService
-Indicates whether some facility (e.g. [[FoodEstablishment]], [[CovidTestingFacility]]) offers a service that can be used by driving through in a car. In the case of [[CovidTestingFacility]] such facilities could potentially help with social distancing from other potentially-infected users.
+Indicates whether some facility (e.g. [[FoodEstablishment]], [[CovidTestingFacility]]) 
+offers a service that can be used by driving through in a car. 
+In the case of [[CovidTestingFacility]] such facilities could potentially 
+help with social distancing from other potentially-infected users.
 
 HasDriveThroughService:: {"type":"Boolean","options":{}}
 
@@ -329,15 +435,15 @@ The latitude of a location. For example ```37.42242``` ([WGS 84](https://en.wiki
 
 Latitude:: {"type":"Number","options":{}}
 
-### Logo
-An associated logo.
-
-Logo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
-
 ### Longitude
 The longitude of a location. For example ```-122.08585``` ([WGS 84](https://en.wikipedia.org/wiki/World\_Geodetic\_System)).
 
 Longitude:: {"type":"Number","options":{}}
+
+### Logo
+An associated logo.
+
+Logo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
 
 ### MaximumAttendeeCapacity
 The total number of individuals that may attend an event or venue.

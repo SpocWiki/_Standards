@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: AnatomicalSystem )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_part_of_system|is_part_of_system]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/is_part_of_system.public|is_part_of_system.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_system.internal|is_part_of_system.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_system.protect|is_part_of_system.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_system.private|is_part_of_system.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_part_of_system.personal|is_part_of_system.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_part_of_system.secret|is_part_of_system.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/is_part_of_system|is_part_of_system]] 
+- [[../../../../../_public/schema-org/Relation/has/is_part_of_system.public|is_part_of_system.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/is_part_of_system.internal|is_part_of_system.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/is_part_of_system.protect|is_part_of_system.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/is_part_of_system.private|is_part_of_system.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/is_part_of_system.personal|is_part_of_system.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/is_part_of_system.secret|is_part_of_system.secret]] 

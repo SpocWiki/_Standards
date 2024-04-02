@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: MedicalCondition, PropertyValue, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_associated_disease|has_associated_disease]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_associated_disease.public|has_associated_disease.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_disease.internal|has_associated_disease.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_disease.protect|has_associated_disease.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_disease.private|has_associated_disease.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_associated_disease.personal|has_associated_disease.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_associated_disease.secret|has_associated_disease.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_associated_disease|has_associated_disease]] 
+- [[../../../../../_public/schema-org/Relation/has/has_associated_disease.public|has_associated_disease.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_associated_disease.internal|has_associated_disease.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_associated_disease.protect|has_associated_disease.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_associated_disease.private|has_associated_disease.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_associated_disease.personal|has_associated_disease.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_associated_disease.secret|has_associated_disease.secret]] 

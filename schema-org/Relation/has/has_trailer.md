@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: VideoObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_trailer|has_trailer]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_trailer.public|has_trailer.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_trailer.internal|has_trailer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_trailer.protect|has_trailer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_trailer.private|has_trailer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_trailer.personal|has_trailer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_trailer.secret|has_trailer.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_trailer|has_trailer]] 
+- [[../../../../../_public/schema-org/Relation/has/has_trailer.public|has_trailer.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_trailer.internal|has_trailer.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_trailer.protect|has_trailer.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_trailer.private|has_trailer.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_trailer.personal|has_trailer.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_trailer.secret|has_trailer.secret]] 

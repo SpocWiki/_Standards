@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: associatedReview ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_associated_media_review|has_associated_media_review]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_associated_media_review.public|has_associated_media_review.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_media_review.internal|has_associated_media_review.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_media_review.protect|has_associated_media_review.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_media_review.private|has_associated_media_review.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_associated_media_review.personal|has_associated_media_review.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_associated_media_review.secret|has_associated_media_review.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_associated_media_review|has_associated_media_review]] 
+- [[../../../../../_public/schema-org/Relation/has/has_associated_media_review.public|has_associated_media_review.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_associated_media_review.internal|has_associated_media_review.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_associated_media_review.protect|has_associated_media_review.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_associated_media_review.private|has_associated_media_review.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_associated_media_review.personal|has_associated_media_review.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_associated_media_review.secret|has_associated_media_review.secret]] 

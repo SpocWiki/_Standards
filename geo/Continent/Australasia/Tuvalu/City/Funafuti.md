@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::179.2167] 
-[geo-lat::-8.516666] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::179.2167] 
+[has_place_latitude::-8.516666] 
 [name::Funafuti] 
-State ::  
-Country :: [[Tuvalu]]  
+has_place_province::  
+has_place_country:: [[Tuvalu]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 

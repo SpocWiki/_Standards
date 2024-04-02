@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_source_organization|has_source_organization]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_source_organization.public|has_source_organization.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_source_organization.internal|has_source_organization.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_source_organization.protect|has_source_organization.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_source_organization.private|has_source_organization.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_source_organization.personal|has_source_organization.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_source_organization.secret|has_source_organization.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_source_organization|has_source_organization]] 
+- [[../../../../../_public/schema-org/Relation/has/has_source_organization.public|has_source_organization.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_source_organization.internal|has_source_organization.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_source_organization.protect|has_source_organization.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_source_organization.private|has_source_organization.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_source_organization.personal|has_source_organization.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_source_organization.secret|has_source_organization.secret]] 

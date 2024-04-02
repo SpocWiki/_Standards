@@ -50,10 +50,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_broker|has_broker]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_broker.public|has_broker.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broker.internal|has_broker.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broker.protect|has_broker.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_broker.private|has_broker.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_broker.personal|has_broker.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_broker.secret|has_broker.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_broker|has_broker]] 
+- [[../../../../../_public/schema-org/Relation/has/has_broker.public|has_broker.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_broker.internal|has_broker.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_broker.protect|has_broker.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_broker.private|has_broker.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_broker.personal|has_broker.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_broker.secret|has_broker.secret]] 

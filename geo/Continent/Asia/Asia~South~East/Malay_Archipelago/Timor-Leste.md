@@ -122,13 +122,15 @@ markerFolder: ./Timor-Leste//
 [name-de::Osttimor] 
 [Area-Total::0] 
 [Area-Land::0] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::TL] 
 Capital :: [[Dili]]  
 [Alcohol-l::0.9] 
 [Language-Id::] 
-[geo-lon::125.567] 
-[geo-lat::-8.56667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::125.567] 
+[has_place_latitude::-8.56667] 
 
 
 

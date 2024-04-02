@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, QuantitativeValue, SizeSpecification, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_size|has_size]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_size.public|has_size.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_size.internal|has_size.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_size.protect|has_size.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_size.private|has_size.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_size.personal|has_size.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_size.secret|has_size.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_size|has_size]] 
+- [[../../../../../_public/schema-org/Relation/has/has_size.public|has_size.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_size.internal|has_size.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_size.protect|has_size.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_size.private|has_size.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_size.personal|has_size.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_size.secret|has_size.secret]] 

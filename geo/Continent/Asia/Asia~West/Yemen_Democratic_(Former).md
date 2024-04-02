@@ -24,13 +24,13 @@ markerFolder: ./Yemen_Democratic_(Former)/
 [name-de::Süd Jemen]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::472]
-[geo-lon::]
-[geo-lat::]
+[has_place_longitude::]
+[has_place_latitude::]
 
 
 

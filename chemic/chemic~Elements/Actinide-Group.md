@@ -11,6 +11,9 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Actinide)
  
+```folderv
+```
+
 ```ccard
 type: folder_brief_live
 ```

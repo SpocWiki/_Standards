@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_engine_type|has_engine_type]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_engine_type.public|has_engine_type.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_engine_type.internal|has_engine_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_engine_type.protect|has_engine_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_engine_type.private|has_engine_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_engine_type.personal|has_engine_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_engine_type.secret|has_engine_type.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_engine_type|has_engine_type]] 
+- [[../../../../../_public/schema-org/Relation/has/has_engine_type.public|has_engine_type.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_engine_type.internal|has_engine_type.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_engine_type.protect|has_engine_type.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_engine_type.private|has_engine_type.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_engine_type.personal|has_engine_type.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_engine_type.secret|has_engine_type.secret]] 

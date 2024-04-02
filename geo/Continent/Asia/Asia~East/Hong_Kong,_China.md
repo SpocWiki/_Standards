@@ -24,13 +24,15 @@ markerFolder: ./Hong_Kong,_China/
 [name-de::Hong Kong]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::HK]
 Capital :: [[China/Hong_Kong]]  
 [Alcohol-l::]
 [Language-Id::485]
-[geo-lon::114.159]
-[geo-lat::22.2783]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::114.159]
+[has_place_latitude::22.2783]
 
 
 

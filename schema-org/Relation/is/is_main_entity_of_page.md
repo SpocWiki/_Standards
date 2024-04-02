@@ -43,8 +43,8 @@ publish: true
 # Hugo Tags
 type: Pred_Text
 
-title: has_text_of_isic_v4
-linkTitle: has_text_of_isic_v4
+title: is_main_entity_of_page
+linkTitle: is_main_entity_of_page
 
 keywords: [isic, v4]
 layout: 
@@ -60,31 +60,15 @@ aliases:
 - isic-v4
 - isic_v4
 - isicV4
-- has_text_of_isic_v4
+- is_main_entity_of_page
 ---
 
-Predicate to describe the Text of Organization, Person, Place.
+Indicates a page (or other CreativeWork) for which this thing is the main entity being described. See [background notes](https://schema.org/docs/datamodel.html#mainEntityBackground) for details.
+
+#is_/inverse_of :: [[../has/has_main_entity]] 
+
 
 Use it like this: 
-- [ #has_/text_of_/isic_v4 :: Text ] or 
-- [ has_text_of_isic_v4 :: Text ] 
-
-The International Standard of Industrial Classification of All Economic Activities (ISIC), Revision 4 code for a particular organization, business person, or place.
-
-Predicated describes that: 
-[ #has_/domain  :: Organization, Person, Place ]
-( #has_/name :: has_text_of_isic_v4 )
-( #has_/range :: Text )
-
-## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_isic_v4|has_isic_v4]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_isic_v4.public|has_isic_v4.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_isic_v4.internal|has_isic_v4.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_isic_v4.protect|has_isic_v4.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_isic_v4.private|has_isic_v4.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_isic_v4.personal|has_isic_v4.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_isic_v4.secret|has_isic_v4.secret]] 
-
 - [ #is_/main_entity_of_page :: CreativeWork, URL ] or 
 - [ is_main_entity_of_page :: CreativeWork, URL ] 
 
@@ -100,10 +84,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[has_main_entity]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_main_entity_of_page|is_main_entity_of_page]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/is_main_entity_of_page.public|is_main_entity_of_page.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_main_entity_of_page.internal|is_main_entity_of_page.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_main_entity_of_page.protect|is_main_entity_of_page.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_main_entity_of_page.private|is_main_entity_of_page.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_main_entity_of_page.personal|is_main_entity_of_page.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_main_entity_of_page.secret|is_main_entity_of_page.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/is_main_entity_of_page|is_main_entity_of_page]] 
+- [[../../../../../_public/schema-org/Relation/has/is_main_entity_of_page.public|is_main_entity_of_page.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/is_main_entity_of_page.internal|is_main_entity_of_page.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/is_main_entity_of_page.protect|is_main_entity_of_page.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/is_main_entity_of_page.private|is_main_entity_of_page.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/is_main_entity_of_page.personal|is_main_entity_of_page.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/is_main_entity_of_page.secret|is_main_entity_of_page.secret]] 

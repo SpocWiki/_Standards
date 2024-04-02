@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: AdministrativeArea )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_occupation_location|has_occupation_location]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_occupation_location.public|has_occupation_location.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_occupation_location.internal|has_occupation_location.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_occupation_location.protect|has_occupation_location.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_occupation_location.private|has_occupation_location.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_occupation_location.personal|has_occupation_location.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_occupation_location.secret|has_occupation_location.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_occupation_location|has_occupation_location]] 
+- [[../../../../../_public/schema-org/Relation/has/has_occupation_location.public|has_occupation_location.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_occupation_location.internal|has_occupation_location.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_occupation_location.protect|has_occupation_location.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_occupation_location.private|has_occupation_location.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_occupation_location.personal|has_occupation_location.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_occupation_location.secret|has_occupation_location.secret]] 

@@ -50,7 +50,9 @@ For more Details, check out this Repository into this Subfolder:
 [	ISO4217-currency_minor_unit	 :: 0 ]
 [	ISO4217-currency_country_name	 :: JAPAN ]
 
-[	Telephone	 :: 81 ]
+#has_/telephone_/Prefix_/International :: 010 
+#has_/telephone_/Prefix_/has_place_country:: 81 
+
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
@@ -129,7 +131,7 @@ markerFolder: ./Japan/
 [name-de::Japan]
 [Area-Total::377750]
 [Area-Land::376520]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::J]
 Capital :: [[Japan/Counties/Tokyo/City/Tokio]]  
 ![[Coat_of_arms_of_Japan.svg|350]]
@@ -137,8 +139,10 @@ Capital :: [[Japan/Counties/Tokyo/City/Tokio]]
 ![[Japan/Flag_of_Japan.svg|350]]
 [Alcohol-l::8]
 [Language-Id::466]
-[geo-lon::137.199]
-[geo-lat::36.8617]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::137.199]
+[has_place_latitude::36.8617]
 
 
 

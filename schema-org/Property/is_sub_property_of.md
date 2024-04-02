@@ -33,7 +33,7 @@ aliases:
 # [[../Relation/is_sub_property_of]]
 
 Relates a sub-[[../Property]] to its super-[[../Property]]
-Alternative, better readable Name: is_a_kind_of similar to #is_a_ 
+Alternative, better readable Name: is_a_kind_of similar to `#is_a_`  
 
 Use it like this: 
 - [ #is_/sub_property_of :: [[../Property]]] or 
@@ -48,10 +48,10 @@ Use it like this:
 #is_/inverse_of  :: [[has_sub_properties]]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/is_sub_property_of|is_sub_property_of]] 
-- [[../../../../_public/schema-org/Predicate/Relations/is_sub_property_of.public|is_sub_property_of.public]] 
-- [[../../../../_internal/schema.org/Predicate/Relations/is_sub_property_of.internal|is_sub_property_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_sub_property_of.protect|is_sub_property_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_sub_property_of.private|is_sub_property_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_sub_property_of.personal|is_sub_property_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_sub_property_of.secret|is_sub_property_of.secret]] 
+- [[../../../../_Standards/schema-org/Relation/is_sub_property_of|is_sub_property_of]] 
+- [[../../../../_public/schema-org/Relation/is_sub_property_of.public|is_sub_property_of.public]] 
+- [[../../../../_internal/schema.org/Relation/is_sub_property_of.internal|is_sub_property_of.internal]] 
+- [[../../../../_protect/schema.org/Relation/is_sub_property_of.protect|is_sub_property_of.protect]] 
+- [[../../../../_private/schema.org/Relation/is_sub_property_of.private|is_sub_property_of.private]] 
+- [[../../../../_personal/schema.org/Relation/is_sub_property_of.personal|is_sub_property_of.personal]] 
+- [[../../../../_secret/schema.org/Relation/is_sub_property_of.secret|is_sub_property_of.secret]] 

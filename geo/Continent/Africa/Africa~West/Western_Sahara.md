@@ -125,13 +125,13 @@ markerFolder: ./Western_Sahara//
 [name-de::Western Sahara]
 [Area-Total::267000]
 [Area-Land::0]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::WSA]
 Capital :: [[El_Aaiún_(Laâyoune)]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::-13.2033]
-[geo-lat::27.1536]
+[has_place_longitude::-13.2033]
+[has_place_latitude::27.1536]
 
 
 

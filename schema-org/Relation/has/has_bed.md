@@ -43,10 +43,10 @@ Relation describes that:
 ( #has_/range :: BedDetails, BedType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_bed|has_bed]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_bed.public|has_bed.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_bed.internal|has_bed.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_bed.protect|has_bed.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_bed.private|has_bed.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_bed.personal|has_bed.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_bed.secret|has_bed.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_bed|has_bed]] 
+- [[../../../../../_public/schema-org/Relation/has/has_bed.public|has_bed.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_bed.internal|has_bed.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_bed.protect|has_bed.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_bed.private|has_bed.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_bed.personal|has_bed.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_bed.secret|has_bed.secret]] 

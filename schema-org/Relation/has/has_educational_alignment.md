@@ -46,10 +46,10 @@ Relation describes that:
 ( #has_/range :: AlignmentObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_educational_alignment|has_educational_alignment]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_educational_alignment.public|has_educational_alignment.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_educational_alignment.internal|has_educational_alignment.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_educational_alignment.protect|has_educational_alignment.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_educational_alignment.private|has_educational_alignment.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_educational_alignment.personal|has_educational_alignment.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_educational_alignment.secret|has_educational_alignment.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_educational_alignment|has_educational_alignment]] 
+- [[../../../../../_public/schema-org/Relation/has/has_educational_alignment.public|has_educational_alignment.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_educational_alignment.internal|has_educational_alignment.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_educational_alignment.protect|has_educational_alignment.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_educational_alignment.private|has_educational_alignment.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_educational_alignment.personal|has_educational_alignment.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_educational_alignment.secret|has_educational_alignment.secret]] 

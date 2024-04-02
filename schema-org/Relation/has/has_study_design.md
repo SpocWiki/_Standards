@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalObservationalStudyDesign )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_study_design|has_study_design]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_study_design.public|has_study_design.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_study_design.internal|has_study_design.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_study_design.protect|has_study_design.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_study_design.private|has_study_design.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_study_design.personal|has_study_design.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_study_design.secret|has_study_design.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_study_design|has_study_design]] 
+- [[../../../../../_public/schema-org/Relation/has/has_study_design.public|has_study_design.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_study_design.internal|has_study_design.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_study_design.protect|has_study_design.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_study_design.private|has_study_design.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_study_design.personal|has_study_design.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_study_design.secret|has_study_design.secret]] 

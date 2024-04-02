@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: ShippingDeliveryTime )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_delivery_time|has_delivery_time]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_delivery_time.public|has_delivery_time.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_delivery_time.internal|has_delivery_time.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_delivery_time.protect|has_delivery_time.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_delivery_time.private|has_delivery_time.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_delivery_time.personal|has_delivery_time.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_delivery_time.secret|has_delivery_time.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_delivery_time|has_delivery_time]] 
+- [[../../../../../_public/schema-org/Relation/has/has_delivery_time.public|has_delivery_time.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_delivery_time.internal|has_delivery_time.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_delivery_time.protect|has_delivery_time.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_delivery_time.private|has_delivery_time.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_delivery_time.personal|has_delivery_time.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_delivery_time.secret|has_delivery_time.secret]] 

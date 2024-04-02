@@ -132,7 +132,7 @@ markerFolder: ./Djibouti/
 [name-de::Djibouti]
 [Area-Total::23200]
 [Area-Land::23180]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::DJI]
 Capital :: [[Djibouti]]  
 
@@ -144,8 +144,10 @@ Capital :: [[Djibouti]]
 
 [Alcohol-l::1.9]
 [Language-Id::472]
-[geo-lon::43.1667]
-[geo-lat::11.6]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::43.1667]
+[has_place_latitude::11.6]
 
 
 

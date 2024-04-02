@@ -24,7 +24,7 @@ zoomFeatures: false
 
 [name-en::South America]
 [name-de::Südamerika]
-[ #has/_code  :: SA ]
+[ #has_/code  :: SA ]
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/geo/Continent/America~South|America~South]] 

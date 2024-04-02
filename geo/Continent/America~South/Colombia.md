@@ -129,7 +129,7 @@ markerFolder: ./Colombia/
 [name-de::Kolumbien]
 [Area-Total::1141784]
 [Area-Land::1038700]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::CO]
 Capital :: [[Colombia/Counties/Bogota/City/Bogota]]  
 
@@ -141,8 +141,8 @@ Capital :: [[Colombia/Counties/Bogota/City/Bogota]]
 
 [Alcohol-l::6.2]
 [Language-Id::]
-[geo-lon::-75.225]
-[geo-lat::3.525]
+[has_place_longitude::-75.225]
+[has_place_latitude::3.525]
 
 
 

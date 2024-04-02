@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: parentTaxon ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_child_taxon|has_child_taxon]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_child_taxon.public|has_child_taxon.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_child_taxon.internal|has_child_taxon.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_child_taxon.protect|has_child_taxon.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_child_taxon.private|has_child_taxon.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_child_taxon.personal|has_child_taxon.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_child_taxon.secret|has_child_taxon.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_child_taxon|has_child_taxon]] 
+- [[../../../../../_public/schema-org/Relation/has/has_child_taxon.public|has_child_taxon.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_child_taxon.internal|has_child_taxon.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_child_taxon.protect|has_child_taxon.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_child_taxon.private|has_child_taxon.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_child_taxon.personal|has_child_taxon.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_child_taxon.secret|has_child_taxon.secret]] 

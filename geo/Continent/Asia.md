@@ -24,7 +24,7 @@ markerFolder: ./Asia/
 
 [name-en::Asia]
 [name-de::Asien]
-[ #has/_code  :: AS ]
+[ #has_/code  :: AS ]
 
 
 ## Confidential Links & Embeds: 

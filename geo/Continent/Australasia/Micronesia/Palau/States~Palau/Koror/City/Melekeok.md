@@ -12,10 +12,12 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::134.4667] 
-[geo-lat::7.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::134.4667] 
+[has_place_latitude::7.35] 
 [name::Melekeok] 
-State ::  
+has_place_province::  
 Country ::[[../../../../Micronesia/Palau]]]  
 [StateId::] 
 [Population::] 

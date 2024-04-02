@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../is/is_included_in_data_catalog]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_dataset|has_dataset]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_dataset.public|has_dataset.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_dataset.internal|has_dataset.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_dataset.protect|has_dataset.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_dataset.private|has_dataset.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_dataset.personal|has_dataset.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_dataset.secret|has_dataset.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_dataset|has_dataset]] 
+- [[../../../../../_public/schema-org/Relation/has/has_dataset.public|has_dataset.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_dataset.internal|has_dataset.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_dataset.protect|has_dataset.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_dataset.private|has_dataset.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_dataset.personal|has_dataset.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_dataset.secret|has_dataset.secret]] 

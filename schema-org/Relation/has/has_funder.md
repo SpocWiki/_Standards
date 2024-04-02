@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: sponsor ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_funder|has_funder]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_funder.public|has_funder.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_funder.internal|has_funder.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_funder.protect|has_funder.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_funder.private|has_funder.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_funder.personal|has_funder.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_funder.secret|has_funder.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_funder|has_funder]] 
+- [[../../../../../_public/schema-org/Relation/has/has_funder.public|has_funder.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_funder.internal|has_funder.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_funder.protect|has_funder.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_funder.private|has_funder.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_funder.personal|has_funder.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_funder.secret|has_funder.secret]] 

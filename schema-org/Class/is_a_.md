@@ -5,6 +5,9 @@ The Name is motivated from the [[TRTL]]-Language which abbreviates the [[../../W
 This is also equivalent to the [[is_instance_of|typeof]] Relation. 
 # is_a_ Overview
  
+```folderv
+```
+
 ```ccard
 type: folder_brief_live
 ```

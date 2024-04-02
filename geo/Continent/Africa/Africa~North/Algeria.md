@@ -124,7 +124,7 @@ markerFolder: ./Algeria//
 [name-de::Algerien]
 [Area-Total::2381741]
 [Area-Land::2381740]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::DZ]
 Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]] 
 ![[Africa~North/Algeria/Emblem_of_Algeria.svg|350]]  
@@ -136,8 +136,10 @@ Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]
 
 [Alcohol-l::1]
 [Language-Id::472]
-[geo-lon::3.05]
-[geo-lat::36.78]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::3.05]
+[has_place_latitude::36.78]
 
 
 

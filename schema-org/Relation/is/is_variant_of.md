@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: hasVariant]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_variant_of|is_variant_of]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_variant_of.public|is_variant_of.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_variant_of.internal|is_variant_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_variant_of.protect|is_variant_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_variant_of.private|is_variant_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_variant_of.personal|is_variant_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_variant_of.secret|is_variant_of.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_variant_of|is_variant_of]] 
+- [[../../../../../_public/schema-org/Relation/is/is_variant_of.public|is_variant_of.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_variant_of.internal|is_variant_of.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_variant_of.protect|is_variant_of.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_variant_of.private|is_variant_of.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_variant_of.personal|is_variant_of.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_variant_of.secret|is_variant_of.secret]] 

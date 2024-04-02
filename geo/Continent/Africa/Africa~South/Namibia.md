@@ -126,7 +126,7 @@ markerFolder: ./Namibia//
 [name-de::Namibia]
 [Area-Total::824292]
 [Area-Land::823290]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::NAM]
 Capital :: [[Windhoek]]  
 
@@ -138,8 +138,10 @@ Capital :: [[Windhoek]]
 
 [Alcohol-l::9.6]
 [Language-Id::499]
-[geo-lon::17.1]
-[geo-lat::-22.57]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.1]
+[has_place_latitude::-22.57]
 
 
 

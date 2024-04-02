@@ -46,10 +46,10 @@ Specifies a [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturn
 ( #has_/range :: [[../../Class/is_a_/Intangible/merchant_return_policy|MerchantReturnPolicy]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_merchant_return_policy|has_merchant_return_policy]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_merchant_return_policy.public|has_merchant_return_policy.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_merchant_return_policy.internal|has_merchant_return_policy.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_merchant_return_policy.protect|has_merchant_return_policy.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_merchant_return_policy.private|has_merchant_return_policy.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_merchant_return_policy.personal|has_merchant_return_policy.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_merchant_return_policy.secret|has_merchant_return_policy.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_merchant_return_policy|has_merchant_return_policy]] 
+- [[../../../../../_public/schema-org/Relation/has/has_merchant_return_policy.public|has_merchant_return_policy.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_merchant_return_policy.internal|has_merchant_return_policy.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_merchant_return_policy.protect|has_merchant_return_policy.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_merchant_return_policy.private|has_merchant_return_policy.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_merchant_return_policy.personal|has_merchant_return_policy.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_merchant_return_policy.secret|has_merchant_return_policy.secret]] 

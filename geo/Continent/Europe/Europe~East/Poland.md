@@ -130,7 +130,7 @@ markerFolder: ./Poland//
 [name-de::Polen]
 [Area-Total::312685]
 [Area-Land::304220]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::PL]
 Capital :: [[Warszawa]]  
 
@@ -141,8 +141,10 @@ Capital :: [[Warszawa]]
 ![[Flag_of_Poland.svg|350]]
 [Alcohol-l::13.3]
 [Language-Id::494]
-[geo-lon::17.6996]
-[geo-lat::52.0027]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.6996]
+[has_place_latitude::52.0027]
 
 
 

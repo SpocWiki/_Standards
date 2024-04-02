@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalConditionStage )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_stage|has_stage]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_stage.public|has_stage.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_stage.internal|has_stage.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_stage.protect|has_stage.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_stage.private|has_stage.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_stage.personal|has_stage.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_stage.secret|has_stage.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_stage|has_stage]] 
+- [[../../../../../_public/schema-org/Relation/has/has_stage.public|has_stage.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_stage.internal|has_stage.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_stage.protect|has_stage.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_stage.private|has_stage.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_stage.personal|has_stage.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_stage.secret|has_stage.secret]] 

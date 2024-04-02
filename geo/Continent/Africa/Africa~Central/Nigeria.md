@@ -127,7 +127,7 @@ markerFolder: ./Nigeria//
 [name-de::Nigeria]
 [Area-Total::923768]
 [Area-Land::910770]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::NGR]
 Capital :: [[Abuja]]  
 
@@ -139,8 +139,10 @@ Capital :: [[Abuja]]
 
 [Alcohol-l::12.3]
 [Language-Id::499]
-[geo-lon::6.46778]
-[geo-lat::9.17222]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.46778]
+[has_place_latitude::9.17222]
 
 
 

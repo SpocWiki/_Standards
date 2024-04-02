@@ -128,7 +128,7 @@ markerFolder: ./Costa_Rica/
 [name-de::Costa Rica]
 [Area-Total::51100]
 [Area-Land::51060]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::CR]
 Capital :: [[Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose]]  
 
@@ -140,8 +140,8 @@ Capital :: [[Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose]]
 
 [Alcohol-l::5.6]
 [Language-Id::492]
-[geo-lon::-84.08]
-[geo-lat::9.95]
+[has_place_longitude::-84.08]
+[has_place_latitude::9.95]
 
 
 

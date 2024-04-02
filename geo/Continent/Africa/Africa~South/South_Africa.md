@@ -132,7 +132,7 @@ markerFolder: ./South_Africa//
 [name-de::Südafrika]
 [Area-Total::1221037]
 [Area-Land::1221040]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::ZA]
 Capital :: [[Pretoria]]  
 
@@ -144,8 +144,10 @@ Capital :: [[Pretoria]]
 
 [Alcohol-l::9.5]
 [Language-Id::499]
-[geo-lon::22.87]
-[geo-lat::-28.8175]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::22.87]
+[has_place_latitude::-28.8175]
 
 
 

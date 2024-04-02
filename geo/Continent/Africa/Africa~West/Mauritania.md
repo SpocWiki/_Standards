@@ -129,7 +129,7 @@ markerFolder: ./Mauritania//
 [name-de::Mauretanien]
 [Area-Total::1030700]
 [Area-Land::1025220]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RIM]
 Capital :: [[Nouakchott]]  
 
@@ -141,8 +141,8 @@ Capital :: [[Nouakchott]]
 
 [Alcohol-l::0.1]
 [Language-Id::472]
-[geo-lon::-15.9667]
-[geo-lat::18.15]
+[has_place_longitude::-15.9667]
+[has_place_latitude::18.15]
 
 
 

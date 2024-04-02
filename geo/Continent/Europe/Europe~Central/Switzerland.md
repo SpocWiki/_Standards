@@ -128,7 +128,7 @@ markerFolder: ./Switzerland//
 [name-de::Schweiz]
 [Area-Total::39988]
 [Area-Land::39550]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::CH]
 Capital :: [[geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern]]  
 
@@ -139,8 +139,10 @@ Capital :: [[geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Countie
 ![[Flag_of_Switzerland.svg|350]]
 [Alcohol-l::11.1]
 [Language-Id::497]
-[geo-lon::8.46058]
-[geo-lat::46.8963]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::8.46058]
+[has_place_latitude::46.8963]
 
 
 

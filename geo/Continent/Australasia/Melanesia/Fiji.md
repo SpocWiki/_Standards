@@ -127,13 +127,15 @@ markerFolder: ./Fiji/
 
 [Area-Total::18376] 
 [Area-Land::18270] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::FJI] 
 Capital :: [[Fiji/Cities/Suva]]  
 [Alcohol-l::2.4] 
 [Language-Id::499] 
-[geo-lon::178.45] 
-[geo-lat::-18.1667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::178.45] 
+[has_place_latitude::-18.1667] 
 
 
 

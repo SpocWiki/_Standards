@@ -131,7 +131,7 @@ markerFolder: ./Austria///
 [name-de::Österreich]
 [Area-Total::8273]
 [Area-Land::82730]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::A]
 Capital :: [[Wien=Vienna]]  
 
@@ -142,8 +142,10 @@ Capital :: [[Wien=Vienna]]
 
 [Alcohol-l::13.2]
 [Language-Id::497]
-[geo-lon::14.381]
-[geo-lat::47.712]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.381]
+[has_place_latitude::47.712]
 
 
 

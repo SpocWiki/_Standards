@@ -128,7 +128,7 @@ markerFolder: ./Gambia//
 [name-de::Gambia]
 [Area-Total::11295]
 [Area-Land::10000]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::WAG]
 Capital :: [[Banjul]]  
 
@@ -140,8 +140,8 @@ Capital :: [[Banjul]]
 
 [Alcohol-l::3.4]
 [Language-Id::499]
-[geo-lon::-16.6]
-[geo-lat::13.4667]
+[has_place_longitude::-16.6]
+[has_place_latitude::13.4667]
 
 
 

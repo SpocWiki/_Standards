@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Order )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_part_of_order|is_part_of_order]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/is_part_of_order.public|is_part_of_order.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_order.internal|is_part_of_order.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_order.protect|is_part_of_order.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_order.private|is_part_of_order.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_part_of_order.personal|is_part_of_order.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_part_of_order.secret|is_part_of_order.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/is_part_of_order|is_part_of_order]] 
+- [[../../../../../_public/schema-org/Relation/has/is_part_of_order.public|is_part_of_order.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/is_part_of_order.internal|is_part_of_order.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/is_part_of_order.protect|is_part_of_order.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/is_part_of_order.private|is_part_of_order.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/is_part_of_order.personal|is_part_of_order.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/is_part_of_order.secret|is_part_of_order.secret]] 

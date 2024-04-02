@@ -132,7 +132,7 @@ markerFolder: ./Peru/
 [name-de::Peru]
 [Area-Total::1285216]
 [Area-Land::1280000]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::PE]
 Capital :: [[Peru/Counties/Lima_Province/City/Lima]]  
 ![[Coat_of_arms_of_Peru.svg|350]]
@@ -140,8 +140,8 @@ Capital :: [[Peru/Counties/Lima_Province/City/Lima]]
 ![[Peru/Flag_of_Peru.svg|350]]
 [Alcohol-l::6.9]
 [Language-Id::492]
-[geo-lon::-77.05]
-[geo-lat::-12.05]
+[has_place_longitude::-77.05]
+[has_place_latitude::-12.05]
 
 
 

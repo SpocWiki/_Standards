@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_penciler|has_penciler]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_penciler.public|has_penciler.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_penciler.internal|has_penciler.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_penciler.protect|has_penciler.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_penciler.private|has_penciler.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_penciler.personal|has_penciler.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_penciler.secret|has_penciler.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_penciler|has_penciler]] 
+- [[../../../../../_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_penciler.internal|has_penciler.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_penciler.protect|has_penciler.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_penciler.private|has_penciler.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_penciler.personal|has_penciler.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_penciler.secret|has_penciler.secret]] 

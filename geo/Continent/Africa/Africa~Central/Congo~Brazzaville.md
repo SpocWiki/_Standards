@@ -33,7 +33,7 @@ markerFolder: ./Congo~Brazzaville//
 [name-de::Kongo]
 [Area-Total::342000]
 [Area-Land::0]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RCB]
 Capital ::  [[Congo~Rep/City/Brazzaville]] ] 
 
@@ -44,8 +44,10 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 ![[Flag_of_the_Republic_of_the_Congo.svg|350]]
 [Alcohol-l::4.2]
 [Language-Id::496]
-[geo-lon::15.2833]
-[geo-lat::-4.26667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.2833]
+[has_place_latitude::-4.26667]
 
 
 

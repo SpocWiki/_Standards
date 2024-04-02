@@ -130,7 +130,7 @@ markerFolder: ./Sri_Lanka//
 [name-de::Sri Lanka]
 [Area-Total::65628]
 [Area-Land::64630]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::CL]
 Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]  
 
@@ -142,8 +142,10 @@ Capital :: [[Sri_Lanka/Counties/Kŏḷamba/City/Sri_Jayawardenapura-Kotte]]
 
 [Alcohol-l::0.8]
 [Language-Id::458]
-[geo-lon::80.425]
-[geo-lat::6.86]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::80.425]
+[has_place_latitude::6.86]
 
 
 

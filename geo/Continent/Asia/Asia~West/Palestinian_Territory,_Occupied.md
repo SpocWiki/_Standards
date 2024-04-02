@@ -24,13 +24,15 @@ markerFolder: ./Palestinian_Territory,_Occupied/
 [name-de::Palästina]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::]
 Capital :: [[Israel/Counties/Jerusalem]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::35.2]
-[geo-lat::31.8833]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35.2]
+[has_place_latitude::31.8833]
 
 
 

@@ -46,10 +46,10 @@ Upcoming or past [[../../Class/is_a_/event|Event]] associated with this [[../../
 ( #has_/range :: [[../../Class/is_a_/event|Event]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_event|has_event]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_event.public|has_event.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_event.internal|has_event.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_event.protect|has_event.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_event.private|has_event.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_event.personal|has_event.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_event.secret|has_event.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_event|has_event]] 
+- [[../../../../../_public/schema-org/Relation/has/has_event.public|has_event.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_event.internal|has_event.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_event.protect|has_event.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_event.private|has_event.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_event.personal|has_event.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_event.secret|has_event.secret]] 

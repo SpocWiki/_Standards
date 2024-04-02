@@ -24,7 +24,7 @@ markerFolder: ./Europe/City/
 
 [name-en::Europe]
 [name-de::Europa]
-[ #has/_code  :: EU ]
+[ #has_/code  :: EU ]
 
 Many european Countries have joined the European Union which started out as an the Montan-Union
 after WW2 and developed into the Economic Union. 

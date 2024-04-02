@@ -85,10 +85,10 @@ etc. that can be modeled as both:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/is_part_of|is_part_of]] 
-- [[../../../../_public/schema-org/Predicate/Relations/is_part_of.public|is_part_of.public]] 
-- [[../../../../_internal/schema.org/Predicate/Relations/is_part_of.internal|is_part_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_part_of.protect|is_part_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_part_of.private|is_part_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_part_of.personal|is_part_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_part_of.secret|is_part_of.secret]] 
+- [[../../../../_Standards/schema-org/Relation/is_part_of|is_part_of]] 
+- [[../../../../_public/schema-org/Relation/is_part_of.public|is_part_of.public]] 
+- [[../../../../_internal/schema.org/Relation/is_part_of.internal|is_part_of.internal]] 
+- [[../../../../_protect/schema.org/Relation/is_part_of.protect|is_part_of.protect]] 
+- [[../../../../_private/schema.org/Relation/is_part_of.private|is_part_of.private]] 
+- [[../../../../_personal/schema.org/Relation/is_part_of.personal|is_part_of.personal]] 
+- [[../../../../_secret/schema.org/Relation/is_part_of.secret|is_part_of.secret]] 

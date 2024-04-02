@@ -132,7 +132,7 @@ markerFolder: ./Vietnam/
 [name-de::Vietnam]
 [Area-Total::331114]
 [Area-Land::325490]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::VN]
 Capital :: [[Hanoe]]  
 
@@ -144,8 +144,10 @@ Capital :: [[Hanoe]]
 
 [Alcohol-l::3.8]
 [Language-Id::460]
-[geo-lon::106.26]
-[geo-lat::15.8917]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::106.26]
+[has_place_latitude::15.8917]
 
 
 

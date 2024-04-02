@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_biological_role|has_biological_role]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_biological_role.public|has_biological_role.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_biological_role.internal|has_biological_role.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_biological_role.protect|has_biological_role.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_biological_role.private|has_biological_role.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_biological_role.personal|has_biological_role.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_biological_role.secret|has_biological_role.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_biological_role|has_biological_role]] 
+- [[../../../../../_public/schema-org/Relation/has/has_biological_role.public|has_biological_role.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_biological_role.internal|has_biological_role.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_biological_role.protect|has_biological_role.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_biological_role.private|has_biological_role.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_biological_role.personal|has_biological_role.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_biological_role.secret|has_biological_role.secret]] 

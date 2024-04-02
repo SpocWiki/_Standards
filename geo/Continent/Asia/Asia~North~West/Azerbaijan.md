@@ -130,7 +130,7 @@ markerFolder: ./Azerbaijan/
 [name-de::Aserbaidshan]
 [Area-Total::86600]
 [Area-Land::0]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::AZ]
 Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]  
 
@@ -142,8 +142,10 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 
 [Alcohol-l::10.6]
 [Language-Id::]
-[geo-lon::49.83]
-[geo-lat::40.42]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::49.83]
+[has_place_latitude::40.42]
 
 
 

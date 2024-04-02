@@ -132,7 +132,7 @@ markerFolder: ./Afghanistan/
 [name-de::Afghanistan]
 [Area-Total::652225]
 [Area-Land::652090]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::AFG]
 Capital :: [[Afghanistan/Counties/Kabul/City/Kabul]]  
 ![[Coat_of_arms_of_Afghanistan.svg|350]]
@@ -140,8 +140,10 @@ Capital :: [[Afghanistan/Counties/Kabul/City/Kabul]]
 ![[Flag_of_Afghanistan.svg|350]]
 [Alcohol-l::0]
 [Language-Id::455]
-[geo-lon::69.2]
-[geo-lat::34.5]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::69.2]
+[has_place_latitude::34.5]
 
 
 

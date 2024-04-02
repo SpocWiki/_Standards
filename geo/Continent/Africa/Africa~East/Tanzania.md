@@ -146,7 +146,7 @@ markerFolder: ./Tanzania//
 [name-de::Tansania]
 [Area-Total::945087]
 [Area-Land::883590]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::EAT]
 Capital :: [[Dodoma]]  
 
@@ -158,8 +158,10 @@ Capital :: [[Dodoma]]
 
 [Alcohol-l::6.8]
 [Language-Id::499]
-[geo-lon::35.7419]
-[geo-lat::-6.17306]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35.7419]
+[has_place_latitude::-6.17306]
 
 
 

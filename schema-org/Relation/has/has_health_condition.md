@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_health_condition|has_health_condition]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_health_condition.public|has_health_condition.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_health_condition.internal|has_health_condition.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_health_condition.protect|has_health_condition.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_health_condition.private|has_health_condition.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_health_condition.personal|has_health_condition.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_health_condition.secret|has_health_condition.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_health_condition|has_health_condition]] 
+- [[../../../../../_public/schema-org/Relation/has/has_health_condition.public|has_health_condition.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_health_condition.internal|has_health_condition.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_health_condition.protect|has_health_condition.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_health_condition.private|has_health_condition.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_health_condition.personal|has_health_condition.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_health_condition.secret|has_health_condition.secret]] 

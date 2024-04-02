@@ -134,7 +134,7 @@ markerFolder: ./Iceland////
 [name-de::Island]
 [Area-Total::103000]
 [Area-Land::100250]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::IS]
 Capital :: [[Reykjavik]]  
 ![[Coat_of_arms_of_Iceland.svg|350]]
@@ -142,8 +142,8 @@ Capital :: [[Reykjavik]]
 ![[Flag_of_Iceland.svg|350]]
 [Alcohol-l::6.3]
 [Language-Id::]
-[geo-lon::-21.718]
-[geo-lat::64.614]
+[has_place_longitude::-21.718]
+[has_place_latitude::64.614]
 
 
 

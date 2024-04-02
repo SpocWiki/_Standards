@@ -14,6 +14,9 @@ type: ElementGroup
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lanthanide)
  
+```folderv
+```
+
 ```ccard
 type: folder_brief_live
 ```

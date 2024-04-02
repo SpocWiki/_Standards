@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_educational_level|has_educational_level]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_educational_level.public|has_educational_level.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_educational_level.internal|has_educational_level.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_educational_level.protect|has_educational_level.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_educational_level.private|has_educational_level.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_educational_level.personal|has_educational_level.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_educational_level.secret|has_educational_level.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_educational_level|has_educational_level]] 
+- [[../../../../../_public/schema-org/Relation/has/has_educational_level.public|has_educational_level.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_educational_level.internal|has_educational_level.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_educational_level.protect|has_educational_level.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_educational_level.private|has_educational_level.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_educational_level.personal|has_educational_level.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_educational_level.secret|has_educational_level.secret]] 

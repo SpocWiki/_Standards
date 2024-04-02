@@ -130,7 +130,7 @@ markerFolder: ./Iraq/
 [name-de::Irak]
 [Area-Total::438317]
 [Area-Land::437370]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::IRQ]
 Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]  
 ![[Iraq/Coat_of_arms_of_Iraq.svg|350]]
@@ -138,8 +138,10 @@ Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]
 ![[Iraq/Flag_of_Iraq.svg|350]]
 [Alcohol-l::0.4]
 [Language-Id::472]
-[geo-lon::44.42]
-[geo-lat::33.34]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.42]
+[has_place_latitude::33.34]
 
 
 

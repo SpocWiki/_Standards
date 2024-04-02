@@ -10,7 +10,7 @@ This Description can either be
 - concrete, i.e. concerning actual (usually physical) Instances of Objects 
 - or abstract, i.e. describing a Set of Activities with classes of Objects involved/used  
 
-The [is_using](../../Predicate/Relations/is_using.md) Relation connects the Subject Entity with any number of Objects it uses to perform its primary Activity. 
+The [is_using](../../Relation/is_using.md) Relation connects the Subject Entity with any number of Objects it uses to perform its primary Activity. 
 The [prov~used](../../../prov/prov~used.md) Relation connects the Subject Activity with any number of Objects involved in this Activity. 
 
 The missing distinction between Activity-Class and concrete Activity 

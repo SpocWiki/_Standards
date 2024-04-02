@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_passenger_priority_status|has_passenger_priority_status]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_passenger_priority_status.public|has_passenger_priority_status.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_passenger_priority_status.internal|has_passenger_priority_status.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_passenger_priority_status.protect|has_passenger_priority_status.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_passenger_priority_status.private|has_passenger_priority_status.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_passenger_priority_status.personal|has_passenger_priority_status.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_passenger_priority_status.secret|has_passenger_priority_status.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_passenger_priority_status|has_passenger_priority_status]] 
+- [[../../../../../_public/schema-org/Relation/has/has_passenger_priority_status.public|has_passenger_priority_status.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_passenger_priority_status.internal|has_passenger_priority_status.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_passenger_priority_status.protect|has_passenger_priority_status.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_passenger_priority_status.private|has_passenger_priority_status.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_passenger_priority_status.personal|has_passenger_priority_status.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_passenger_priority_status.secret|has_passenger_priority_status.secret]] 

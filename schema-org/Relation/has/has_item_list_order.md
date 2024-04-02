@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: ItemListOrderType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_item_list_order|has_item_list_order]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_item_list_order.public|has_item_list_order.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_list_order.internal|has_item_list_order.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_item_list_order.protect|has_item_list_order.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_item_list_order.private|has_item_list_order.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_item_list_order.personal|has_item_list_order.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_item_list_order.secret|has_item_list_order.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_item_list_order|has_item_list_order]] 
+- [[../../../../../_public/schema-org/Relation/has/has_item_list_order.public|has_item_list_order.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_item_list_order.internal|has_item_list_order.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_item_list_order.protect|has_item_list_order.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_item_list_order.private|has_item_list_order.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_item_list_order.personal|has_item_list_order.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_item_list_order.secret|has_item_list_order.secret]] 

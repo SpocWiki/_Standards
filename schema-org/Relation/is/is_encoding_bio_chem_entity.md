@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: isEncodedByBioChemEntity]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_encoding_bio_chem_entity|is_encoding_bio_chem_entity]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_encoding_bio_chem_entity.public|is_encoding_bio_chem_entity.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.internal|is_encoding_bio_chem_entity.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.protect|is_encoding_bio_chem_entity.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.private|is_encoding_bio_chem_entity.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.personal|is_encoding_bio_chem_entity.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_encoding_bio_chem_entity.secret|is_encoding_bio_chem_entity.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_encoding_bio_chem_entity|is_encoding_bio_chem_entity]] 
+- [[../../../../../_public/schema-org/Relation/is/is_encoding_bio_chem_entity.public|is_encoding_bio_chem_entity.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_encoding_bio_chem_entity.internal|is_encoding_bio_chem_entity.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_encoding_bio_chem_entity.protect|is_encoding_bio_chem_entity.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_encoding_bio_chem_entity.private|is_encoding_bio_chem_entity.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_encoding_bio_chem_entity.personal|is_encoding_bio_chem_entity.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_encoding_bio_chem_entity.secret|is_encoding_bio_chem_entity.secret]] 

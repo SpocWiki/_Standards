@@ -75,7 +75,9 @@ For more Details, check out this Repository into this Subfolder:
 [	ISO4217-currency_minor_unit	 :: 2 ]
 [	ISO4217-currency_country_name	 :: RUSSIAN FEDERATION ]
 
-[	Telephone	 :: 7 ]
+#has_/telephone_/Prefix_/has_place_country:: 7 
+#has_/telephone_/Prefix_/International :: 8,9,10  
+depending on the Provider 
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
@@ -155,7 +157,7 @@ markerFolder: ./Russia////
 [name-de::Russland]
 [Area-Total::1.71E+07]
 [Area-Land::1.69958E+07]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::]
 Capital :: [[Moskwa]]  
 ![[Coat_of_arms_of_Russia.svg|350]]
@@ -163,8 +165,10 @@ Capital :: [[Moskwa]]
 ![[Flag_of_Russia.svg|350]]
 [Alcohol-l::15.8]
 [Language-Id::469]
-[geo-lon::47.4574]
-[geo-lat::52.6418]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::47.4574]
+[has_place_latitude::52.6418]
 
 
 
@@ -176,3 +180,4 @@ Capital :: [[Moskwa]]
 - [[../../../../../_private/geo/Continent/Europe/Europe~East/Russia.private|Russia.private]] 
 - [[../../../../../_personal/geo/Continent/Europe/Europe~East/Russia.personal|Russia.personal]] 
 - [[../../../../../_secret/geo/Continent/Europe/Europe~East/Russia.secret|Russia.secret]] 
+

@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: GameAvailabilityEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_game_availability_type|has_game_availability_type]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_game_availability_type.public|has_game_availability_type.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_game_availability_type.internal|has_game_availability_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_game_availability_type.protect|has_game_availability_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_game_availability_type.private|has_game_availability_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_game_availability_type.personal|has_game_availability_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_game_availability_type.secret|has_game_availability_type.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_game_availability_type|has_game_availability_type]] 
+- [[../../../../../_public/schema-org/Relation/has/has_game_availability_type.public|has_game_availability_type.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_game_availability_type.internal|has_game_availability_type.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_game_availability_type.protect|has_game_availability_type.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_game_availability_type.private|has_game_availability_type.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_game_availability_type.personal|has_game_availability_type.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_game_availability_type.secret|has_game_availability_type.secret]] 

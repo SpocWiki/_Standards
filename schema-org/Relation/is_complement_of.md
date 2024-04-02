@@ -27,9 +27,12 @@ aliases:
 - complement-of
 - complement_of
 - is_complement_of
+- is_opposite_to
+- is_negation_of 
 ---
 
 [ #is_/part_of :: https://meta.schema.org]
+#is_/different_from :: [[is_inverse_of]] 
 
 Use it like this: 
 - [ #is_/complement_of :: Property] or 
@@ -39,7 +42,10 @@ Complementary Relations are typically Order Relations.
 They relate exactly those pairs of items to each other, 
 that the original Relation does NOT relate.
 
-Don't confuse that with the [[is_inverse_of|inverse_of]] Relation where ARelatesB <=> BInverseA.
+Don't confuse that with the [[is_inverse_of|inverse_of]] Relation 
+where A->Relates->B <=> B->Inverse->A.
+
+Sometimes this is also named "Negative_of", "Negation_of" or "negated".
 
 The Union of any Relation with its Complement is the (trivial) universal Relation, 
 which relates everything to everything. 
@@ -57,11 +63,15 @@ Relation describes that:
 ( #has_/name :: is_complement_of)
 ( #has_/range :: Property)
 
+# #has_/examples 
+
+
+
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Relations/is_complement_of|is_complement_of]] 
-- [[../../../../_public/schema-org/Predicate/Relations/is_complement_of.public|is_complement_of.public]] 
-- [[../../../../_internal/schema.org/Predicate/Relations/is_complement_of.internal|is_complement_of.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Relations/is_complement_of.protect|is_complement_of.protect]] 
-- [[../../../../_private/schema.org/Predicate/Relations/is_complement_of.private|is_complement_of.private]] 
-- [[../../../../_personal/schema.org/Predicate/Relations/is_complement_of.personal|is_complement_of.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Relations/is_complement_of.secret|is_complement_of.secret]] 
+- [[../../../../_Standards/schema-org/Relation/is_complement_of|is_complement_of]] 
+- [[../../../../_public/schema-org/Relation/is_complement_of.public|is_complement_of.public]] 
+- [[../../../../_internal/schema.org/Relation/is_complement_of.internal|is_complement_of.internal]] 
+- [[../../../../_protect/schema.org/Relation/is_complement_of.protect|is_complement_of.protect]] 
+- [[../../../../_private/schema.org/Relation/is_complement_of.private|is_complement_of.private]] 
+- [[../../../../_personal/schema.org/Relation/is_complement_of.personal|is_complement_of.personal]] 
+- [[../../../../_secret/schema.org/Relation/is_complement_of.secret|is_complement_of.secret]] 

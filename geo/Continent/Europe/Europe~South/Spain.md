@@ -129,7 +129,7 @@ markerFolder: ./Spain/
 [name-de::Spanien]
 [Area-Total::505990]
 [Area-Land::499440]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::E]
 Capital :: [[Madrid.Region]] 
 ![[Escudo_de_España_(mazonado).svg|350]]  
@@ -137,8 +137,8 @@ Capital :: [[Madrid.Region]]
 ![[Flag_of_Spain.svg|350]]
 [Alcohol-l::11.6]
 [Language-Id::492]
-[geo-lon::-2.86673]
-[geo-lat::40.0911]
+[has_place_longitude::-2.86673]
+[has_place_latitude::40.0911]
 
 
 

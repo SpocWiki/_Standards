@@ -31,18 +31,16 @@ aliases:
 - has_value_for_height_in_meters
 ---
 
-Predicate to describe the Quantity of MediaObject, OfferShippingDetails, Person, Product, VisualArtwork.
+The height of an item.
 
 Use it like this: 
-- [ #has_/value_for_/height_in_meters :: Distance, QuantitativeValue ] or 
-- [ has_value_for_height_in_meters :: Distance, QuantitativeValue ] 
-
-The height of the item.
+- [ #has_/value_for_/height_in_meters :: [[../../Predicate/Quantity/distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] or 
+- [ has_value_for_height_in_meters :: [[../../Predicate/Quantity/distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] ] 
 
 Predicate describes that: 
-[ #has_/domain  :: MediaObject, OfferShippingDetails, Person, Product, VisualArtwork ]
+[ #has_/domain  :: [[../../Class/is_a_/creative_work/media_object|MediaObject]], [[../../Class/is_a_/Intangible/structured_value/offer_shipping_details|OfferShippingDetails]], [[../../Class/is_a_/person|Person]], [[../../Class/is_a_/product|Product]], [[../../Class/is_a_/creative_work/visual_artwork|VisualArtwork]] ]
 ( #has_/name :: has_value_for_height_in_meters )
-( #has_/range :: Distance, QuantitativeValue )
+( #has_/range :: [[../../Predicate/Quantity/distance|Distance]], [[../../Class/is_a_/Intangible/structured_value/quantitative_value|QuantitativeValue]] )
 
 ## Confidential Links & Embeds: 
 - [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_height_in_meters|has_value_for_height_in_meters]] 

@@ -133,13 +133,13 @@ markerFolder: ./Greenland///
 
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::KN]
 Capital :: [[Godthab]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::-51.67]
-[geo-lat::64.25]
+[has_place_longitude::-51.67]
+[has_place_latitude::64.25]
 
 
 

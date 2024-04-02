@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: ImageObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_diagram|has_diagram]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_diagram.public|has_diagram.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_diagram.internal|has_diagram.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_diagram.protect|has_diagram.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_diagram.private|has_diagram.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_diagram.personal|has_diagram.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_diagram.secret|has_diagram.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_diagram|has_diagram]] 
+- [[../../../../../_public/schema-org/Relation/has/has_diagram.public|has_diagram.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_diagram.internal|has_diagram.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_diagram.protect|has_diagram.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_diagram.private|has_diagram.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_diagram.personal|has_diagram.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_diagram.secret|has_diagram.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalGuideline )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_guideline|has_guideline]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_guideline.public|has_guideline.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_guideline.internal|has_guideline.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_guideline.protect|has_guideline.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_guideline.private|has_guideline.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_guideline.personal|has_guideline.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_guideline.secret|has_guideline.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_guideline|has_guideline]] 
+- [[../../../../../_public/schema-org/Relation/has/has_guideline.public|has_guideline.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_guideline.internal|has_guideline.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_guideline.protect|has_guideline.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_guideline.private|has_guideline.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_guideline.personal|has_guideline.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_guideline.secret|has_guideline.secret]] 

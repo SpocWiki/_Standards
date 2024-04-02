@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: isPartOf ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_part_of_season|is_part_of_season]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/is_part_of_season.public|is_part_of_season.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_part_of_season.internal|is_part_of_season.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_part_of_season.protect|is_part_of_season.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_part_of_season.private|is_part_of_season.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_part_of_season.personal|is_part_of_season.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_part_of_season.secret|is_part_of_season.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/is_part_of_season|is_part_of_season]] 
+- [[../../../../../_public/schema-org/Relation/has/is_part_of_season.public|is_part_of_season.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/is_part_of_season.internal|is_part_of_season.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/is_part_of_season.protect|is_part_of_season.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/is_part_of_season.private|is_part_of_season.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/is_part_of_season.personal|is_part_of_season.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/is_part_of_season.secret|is_part_of_season.secret]] 

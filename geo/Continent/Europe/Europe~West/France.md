@@ -130,7 +130,7 @@ markerFolder: ./France//
 [name-de::Frankreich]
 [Area-Total::543965]
 [Area-Land::550100]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::F]
 Capital :: [[Paris]]  
 [Alcohol-l::13.7]
@@ -138,8 +138,10 @@ Capital :: [[Paris]]
 ![[Anthem-France.mp3]]
 ![[Flag_of_France.svg|350]]
 [Language-Id::496]
-[geo-lon::2.33663]
-[geo-lat::46.8944]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.33663]
+[has_place_latitude::46.8944]
 
 
 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_athlete|has_athlete]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_athlete.public|has_athlete.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_athlete.internal|has_athlete.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_athlete.protect|has_athlete.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_athlete.private|has_athlete.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_athlete.personal|has_athlete.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_athlete.secret|has_athlete.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_athlete|has_athlete]] 
+- [[../../../../../_public/schema-org/Relation/has/has_athlete.public|has_athlete.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_athlete.internal|has_athlete.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_athlete.protect|has_athlete.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_athlete.private|has_athlete.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_athlete.personal|has_athlete.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_athlete.secret|has_athlete.secret]] 

@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: NonprofitType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_nonprofit_status|has_nonprofit_status]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_nonprofit_status.public|has_nonprofit_status.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nonprofit_status.internal|has_nonprofit_status.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nonprofit_status.protect|has_nonprofit_status.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_nonprofit_status.private|has_nonprofit_status.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_nonprofit_status.personal|has_nonprofit_status.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_nonprofit_status.secret|has_nonprofit_status.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_nonprofit_status|has_nonprofit_status]] 
+- [[../../../../../_public/schema-org/Relation/has/has_nonprofit_status.public|has_nonprofit_status.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_nonprofit_status.internal|has_nonprofit_status.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_nonprofit_status.protect|has_nonprofit_status.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_nonprofit_status.private|has_nonprofit_status.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_nonprofit_status.personal|has_nonprofit_status.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_nonprofit_status.secret|has_nonprofit_status.secret]] 

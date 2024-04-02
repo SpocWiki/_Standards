@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: BreadcrumbList, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_breadcrumb|has_breadcrumb]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_breadcrumb.public|has_breadcrumb.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_breadcrumb.internal|has_breadcrumb.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_breadcrumb.protect|has_breadcrumb.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_breadcrumb.private|has_breadcrumb.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_breadcrumb.personal|has_breadcrumb.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_breadcrumb.secret|has_breadcrumb.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_breadcrumb|has_breadcrumb]] 
+- [[../../../../../_public/schema-org/Relation/has/has_breadcrumb.public|has_breadcrumb.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_breadcrumb.internal|has_breadcrumb.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_breadcrumb.protect|has_breadcrumb.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_breadcrumb.private|has_breadcrumb.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_breadcrumb.personal|has_breadcrumb.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_breadcrumb.secret|has_breadcrumb.secret]] 

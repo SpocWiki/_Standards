@@ -154,7 +154,7 @@ markerFolder: ./India/
 [name-de::Indien]
 [Area-Total::3287263]
 [Area-Land::2973190]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::IND]
 Capital :: [[India/Counties/Delhi/City/New_Delhi]]  
 ![[India/Emblem_of_India.svg|350]]  
@@ -164,8 +164,10 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 
 [Alcohol-l::2.6]
 [Language-Id::499]
-[geo-lon::78.9354]
-[geo-lat::20.3923]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::78.9354]
+[has_place_latitude::20.3923]
 
 
 

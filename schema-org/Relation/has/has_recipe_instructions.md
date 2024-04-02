@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: step ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_recipe_instructions|has_recipe_instructions]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_recipe_instructions.public|has_recipe_instructions.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_recipe_instructions.internal|has_recipe_instructions.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_recipe_instructions.protect|has_recipe_instructions.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_recipe_instructions.private|has_recipe_instructions.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_recipe_instructions.personal|has_recipe_instructions.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_recipe_instructions.secret|has_recipe_instructions.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_recipe_instructions|has_recipe_instructions]] 
+- [[../../../../../_public/schema-org/Relation/has/has_recipe_instructions.public|has_recipe_instructions.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_recipe_instructions.internal|has_recipe_instructions.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_recipe_instructions.protect|has_recipe_instructions.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_recipe_instructions.private|has_recipe_instructions.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_recipe_instructions.personal|has_recipe_instructions.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_recipe_instructions.secret|has_recipe_instructions.secret]] 

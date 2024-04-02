@@ -47,10 +47,10 @@ Relation describes that:
 [ #is_/inverse_of  :: workExample ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_example_of_work|has_example_of_work]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_example_of_work.public|has_example_of_work.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_example_of_work.internal|has_example_of_work.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_example_of_work.protect|has_example_of_work.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_example_of_work.private|has_example_of_work.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_example_of_work.personal|has_example_of_work.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_example_of_work.secret|has_example_of_work.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_example_of_work|has_example_of_work]] 
+- [[../../../../../_public/schema-org/Relation/has/has_example_of_work.public|has_example_of_work.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_example_of_work.internal|has_example_of_work.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_example_of_work.protect|has_example_of_work.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_example_of_work.private|has_example_of_work.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_example_of_work.personal|has_example_of_work.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_example_of_work.secret|has_example_of_work.secret]] 

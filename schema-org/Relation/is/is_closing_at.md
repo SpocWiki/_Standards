@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Time )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_closing_at|is_closing_at]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_closing_at.public|is_closing_at.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_closing_at.internal|is_closing_at.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_closing_at.protect|is_closing_at.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_closing_at.private|is_closing_at.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_closing_at.personal|is_closing_at.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_closing_at.secret|is_closing_at.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_closing_at|is_closing_at]] 
+- [[../../../../../_public/schema-org/Relation/is/is_closing_at.public|is_closing_at.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_closing_at.internal|is_closing_at.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_closing_at.protect|is_closing_at.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_closing_at.private|is_closing_at.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_closing_at.personal|is_closing_at.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_closing_at.secret|is_closing_at.secret]] 

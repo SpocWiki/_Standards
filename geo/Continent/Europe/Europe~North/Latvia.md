@@ -132,7 +132,7 @@ markerFolder: ./Latvia//
 [name-de::Lettland]
 [Area-Total::64589]
 [Area-Land::62050]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::LV]
 Capital :: [[./Latvia/Counties/Riga]]  
 ![[Coat_of_arms_of_Latvia.svg|650]]
@@ -140,8 +140,10 @@ Capital :: [[./Latvia/Counties/Riga]]
 ![[Flag_of_Latvia.svg|350]]
 [Alcohol-l::12.5]
 [Language-Id::]
-[geo-lon::24.11]
-[geo-lat::56.95]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.11]
+[has_place_latitude::56.95]
 
 
 

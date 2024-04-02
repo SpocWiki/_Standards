@@ -39,7 +39,7 @@ markerFolder: ./Georgia.Europe//
 [name-de::Georgien]
 [Area-Total::69700]
 [Area-Land::0]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::GEO]
 Capital :: [[Tbilisi]]  
 ![[Coat_of_arms_of_Georgia.svg|350]]
@@ -47,8 +47,10 @@ Capital :: [[Tbilisi]]
 ![[Flag_of_Georgia.svg|350]]
 [Alcohol-l::6.4]
 [Language-Id::]
-[geo-lon::44.7833]
-[geo-lat::41.7167]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.7833]
+[has_place_latitude::41.7167]
 
 
 

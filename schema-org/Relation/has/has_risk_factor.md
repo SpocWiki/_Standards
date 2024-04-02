@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalRiskFactor )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_risk_factor|has_risk_factor]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_risk_factor.public|has_risk_factor.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_risk_factor.internal|has_risk_factor.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_risk_factor.protect|has_risk_factor.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_risk_factor.private|has_risk_factor.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_risk_factor.personal|has_risk_factor.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_risk_factor.secret|has_risk_factor.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_risk_factor|has_risk_factor]] 
+- [[../../../../../_public/schema-org/Relation/has/has_risk_factor.public|has_risk_factor.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_risk_factor.internal|has_risk_factor.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_risk_factor.protect|has_risk_factor.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_risk_factor.private|has_risk_factor.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_risk_factor.personal|has_risk_factor.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_risk_factor.secret|has_risk_factor.secret]] 

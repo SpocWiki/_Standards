@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalContraindication, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_contraindication|has_contraindication]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_contraindication.public|has_contraindication.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_contraindication.internal|has_contraindication.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_contraindication.protect|has_contraindication.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_contraindication.private|has_contraindication.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_contraindication.personal|has_contraindication.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_contraindication.secret|has_contraindication.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_contraindication|has_contraindication]] 
+- [[../../../../../_public/schema-org/Relation/has/has_contraindication.public|has_contraindication.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_contraindication.internal|has_contraindication.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_contraindication.protect|has_contraindication.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_contraindication.private|has_contraindication.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_contraindication.personal|has_contraindication.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_contraindication.secret|has_contraindication.secret]] 
