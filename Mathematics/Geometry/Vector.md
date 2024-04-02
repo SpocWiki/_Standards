@@ -5,6 +5,10 @@ aliases:
 
 # [[Vector]] 
 
+#is_/similar_to :: [[Position-Vector]] 
+#is_/different_from :: [[Position-Vector]] 
+ 
+
 > In mathematics, physics, and engineering, 
 > a **Euclidean vector** or simply a vector 
 > (sometimes called a geometric vector or spatial vector) 

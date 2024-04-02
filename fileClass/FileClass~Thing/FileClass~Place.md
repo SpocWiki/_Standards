@@ -278,8 +278,11 @@ BranchCode:: {"type":"Input","options":{}}
 ### ContainedInPlace
 The basic containment relation between a place and one that contains it.
 
+Inverse to [[#ContainsPlace]].
+
 ### ContainsPlace
 The basic containment relation between a place and another that it contains.
+Inverse to [[#ContainedInPlace]].
 
 ### FaxNumber
 The fax number.
@@ -287,19 +290,27 @@ The fax number.
 FaxNumber:: {"type":"Input","options":{}}
 
 ### Geo
-The geo coordinates of the place.
+The [[../../schema-org/Class/is_a_/Intangible/structured_value/geo_coordinates|Geo_Coordinates]] of the place.
 
 Geo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/GeoCoordinates')"}}
 
 ### GeoContains
-Represents a relationship between two geometries (or the places they represent), relating a containing geometry to a contained geometry. "a contains b iff no points of b lie in the exterior of a, and at least one point of the interior of b lies in the interior of a". As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
+Represents a relationship between two geometries 
+(or the places they represent), 
+relating a containing geometry to a contained geometry. 
+"a contains b iff no points of b lie in the exterior of a, 
+and at least one point of the interior of b lies in the interior of a". As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
+
+Inverse of [[#GeoWithin]].
 
 ### GeoCoveredBy
 Represents a relationship between two geometries (or the places they represent), relating a geometry to another that covers it. As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
+Inverse of [[#GeoCovers]].
 ### GeoCovers
 Represents a relationship between two geometries (or the places they represent), relating a covering geometry to a covered geometry. "Every point of b is a point of (the interior or boundary of) a". As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
+Inverse of [[#GeoCoveredBy]].
 ### GeoCrosses
 Represents a relationship between two geometries (or the places they represent), relating a geometry to another that crosses it: "a crosses b: they have some but not all interior points in common, and the dimension of the intersection is less than that of at least one of them". As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
@@ -330,6 +341,8 @@ GeoTouches:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 Represents a relationship between two geometries (or the places they represent), relating a geometry to one that contains it, i.e. it is inside (i.e. within) its interior. As defined in [DE-9IM](https://en.wikipedia.org/wiki/DE-9IM).
 
 GeoWithin:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/GeospatialGeometry')"}}
+
+Inverse of [[#GeoContains]].
 
 ### GlobalLocationNumber
 The [Global Location Number](http://www.gs1.org/gln) (GLN, sometimes also referred to as International Location Number or ILN) of the respective organization, person, or place. The GLN is a 13-digit number used to identify parties and physical locations.
