@@ -33,8 +33,8 @@ aliases:
 
 The width of the item in [[../../../Unit/SI-Unit/Unit~Meter|Unit~Meter]]s.
 
-#is_/similar_to :: [[has_value_for_longitude]] 
-#is_/similar_to :: [[has_value_for_latitude]] 
+#is_/similar_to :: [[has_place_longitude]] 
+#is_/similar_to :: [[has_place_latitude]] 
 #is_/similar_to :: [[_altitude]]
 
 To specify an alternative Scale, 

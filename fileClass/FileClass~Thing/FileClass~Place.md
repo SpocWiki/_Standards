@@ -3,7 +3,7 @@ limit: 9
 mapWithTag: true
 excludes: 
 icon: globe
-version: "2.2"
+version: "2.15"
 tagNames:
   - class/Place
   - class/Thing/Place
@@ -57,31 +57,31 @@ fields:
     type: MultiFile
     path: ""
   - id: 72bhFw
-    name: GeoDisjoint
+    name: has_geos_disjoint
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: b6iLkX
-    name: GeoEquals
+    name: has_geos_equal
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: akaKB4
-    name: GeoOverlaps
+    name: has_geos_overlapping
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: g4KgNy
-    name: GeoTouches
+    name: has_geos_touching
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: uwnmnP
-    name: GeoWithin
+    name: has_places_within
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
@@ -92,18 +92,18 @@ fields:
     type: Input
     path: ""
   - id: dihHaJ
-    name: HasDriveThroughService
+    name: is_drive_through_service
     options: {}
     type: Boolean
     path: ""
   - id: JuttB1
-    name: HasMap
+    name: has_map
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Map')
     type: MultiFile
     path: ""
   - id: ZY9dJx
-    name: IsAccessibleForFree
+    name: is_accessible_for_free
     options: {}
     type: Boolean
     path: ""
@@ -119,7 +119,7 @@ fields:
     type: MultiFile
     path: ""
   - id: PAXN7M
-    name: Latitude
+    name: has_place_latitude
     options: {}
     type: Number
     path: ""
@@ -130,7 +130,7 @@ fields:
     type: MultiFile
     path: ""
   - id: bQdwq5
-    name: Longitude
+    name: has_place_longitude
     options: {}
     type: Number
     path: ""
@@ -152,7 +152,7 @@ fields:
     type: MultiFile
     path: ""
   - id: 8QRKWA
-    name: PublicAccess
+    name: is_access_public
     options: {}
     type: Boolean
     path: ""
@@ -168,7 +168,7 @@ fields:
     type: Input
     path: ""
   - id: pLPhMF
-    name: SmokingAllowed
+    name: is_smoking_allowed
     options: {}
     type: Boolean
     path: ""
@@ -211,8 +211,8 @@ fieldsOrder:
   - Q3LHXa
   - FXWp5z
   - bQdwq5
-  - ML2S8v
   - PAXN7M
+  - ML2S8v
   - aYs3i6
   - EkdxFr
   - ZY9dJx
@@ -249,7 +249,9 @@ Entities that have a somewhat fixed, physical extension.
 ### AdditionalProperty
 A property-value pair representing an additional characteristic of the entity, e.g. a product feature or another characteristic for which there is no matching property in schema.org.
 
-Note: Publishers should be aware that applications designed to use specific schema.org properties (e.g. https://schema.org/width, https://schema.org/color, https://schema.org/gtin13, ...) will typically expect such data to be provided using those properties, rather than using the generic property/value mechanism.
+Note: Publishers should be aware that applications designed to use specific schema.org properties (e.g. https://schema.org/width, https://schema.org/color, https://schema.org/gtin13, ...) 
+will typically expect such data to be provided using those properties, 
+rather than using the generic property/value mechanism.
 
 AdditionalProperty:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
 
@@ -264,12 +266,18 @@ The overall rating, based on a collection of reviews or ratings, of the item.
 AggregateRating:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Rating/AggregateRating')"}}
 
 ### AmenityFeature
-An amenity feature (e.g. a characteristic or service) of the Accommodation. This generic property does not make a statement about whether the feature is included in an offer for the main accommodation or available at extra costs.
+An amenity feature (e.g. a characteristic or service) of the Accommodation. 
+This generic property does not make a statement about 
+whether the feature is included in an offer for the main accommodation 
+or available at extra costs.
 
 AmenityFeature:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue/LocationFeatureSpecification')"}}
 
 ### BranchCode
-A short textual code (also called "store code") that uniquely identifies a place of business. The code is typically assigned by the parentOrganization and used in structured URLs.
+A short textual code (also called "store code") 
+that uniquely identifies a place of business. 
+The code is typically assigned by the [[../../schema-org/Relation/has/has_parent_organization|parent-organization]] 
+and used in structured URLs.
 
 For example, in the URL http://www.starbucks.co.uk/store-locator/etc/detail/3047 the code "3047" is a branchCode for a particular branch.
 
@@ -345,12 +353,18 @@ GeoWithin:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 Inverse of [[#GeoContains]].
 
 ### GlobalLocationNumber
-The [Global Location Number](http://www.gs1.org/gln) (GLN, sometimes also referred to as International Location Number or ILN) of the respective organization, person, or place. The GLN is a 13-digit number used to identify parties and physical locations.
+The [Global Location Number](http://www.gs1.org/gln) (GLN, sometimes 
+also referred to as International Location Number or ILN) 
+of the respective organization, person, or place. 
+The GLN is a 13-digit number used to identify parties and physical locations.
 
 GlobalLocationNumber:: {"type":"Input","options":{}}
 
 ### HasDriveThroughService
-Indicates whether some facility (e.g. [[FoodEstablishment]], [[CovidTestingFacility]]) offers a service that can be used by driving through in a car. In the case of [[CovidTestingFacility]] such facilities could potentially help with social distancing from other potentially-infected users.
+Indicates whether some facility (e.g. [[FoodEstablishment]], [[CovidTestingFacility]]) 
+offers a service that can be used by driving through in a car. 
+In the case of [[CovidTestingFacility]] such facilities could potentially 
+help with social distancing from other potentially-infected users.
 
 HasDriveThroughService:: {"type":"Boolean","options":{}}
 
@@ -379,15 +393,15 @@ The latitude of a location. For example ```37.42242``` ([WGS 84](https://en.wiki
 
 Latitude:: {"type":"Number","options":{}}
 
-### Logo
-An associated logo.
-
-Logo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
-
 ### Longitude
 The longitude of a location. For example ```-122.08585``` ([WGS 84](https://en.wikipedia.org/wiki/World\_Geodetic\_System)).
 
 Longitude:: {"type":"Number","options":{}}
+
+### Logo
+An associated logo.
+
+Logo:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject/ImageObject')"}}
 
 ### MaximumAttendeeCapacity
 The total number of individuals that may attend an event or venue.

@@ -3,7 +3,7 @@ limit: 99
 mapWithTag: true
 excludes: 
 icon: box
-version: "2.26"
+version: "2.27"
 tagNames:
   - is_a_/Tangible
   - class/Thing/Tangible
@@ -131,7 +131,7 @@ fields:
     options: {}
     path: ""
     id: NCehnC
-  - name: has_value_for_weigt_in_gram
+  - name: has_value_for_weight_in_kilogram
     type: Number
     options: {}
     path: ""

@@ -35,7 +35,7 @@ aliases:
 Altitude of an Object in [[../../../Unit/SI-Unit/Unit~Meter|Unit~Meter]]s __above Ground__, 
 often used in Aviation to describe the vertical Position of [[Airplane]]s.
 
-Unlike [[has_value_for_longitude|longitude]] and [[has_value_for_latitude|latitude]] which are given in Degrees. 
+Unlike [[has_place_longitude|longitude]] and [[has_place_latitude|latitude]] which are given in Degrees. 
 
 #is_/a_ :: [[../../../Mathematics/Geometry/Position-Vector|Position-Vector]] 
 

@@ -35,7 +35,7 @@ Elevation in [[../../../Unit/SI-Unit/Unit~Meter|Unit~Meter]]s __above Sea-Level_
 Values may be of the form 'NUMBER UNIT_OF_MEASUREMENT' (e.g., '1,000 m', '3,200 ft') 
 while numbers alone should be assumed to be a value in meters.
 
-Unlike [[has_value_for_longitude|longitude]] and [[has_value_for_latitude|latitude]] which are given in Degrees. 
+Unlike [[has_place_longitude|longitude]] and [[has_place_latitude|latitude]] which are given in Degrees. 
 
 #is_/similar_to :: [[has_value_for_altitude_in_meters]] 
 #is_/different_from :: [[has_value_for_altitude_in_meters]] 
