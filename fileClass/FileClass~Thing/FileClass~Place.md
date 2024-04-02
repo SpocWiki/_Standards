@@ -3,7 +3,7 @@ limit: 9
 mapWithTag: true
 excludes: 
 icon: globe
-version: "2.15"
+version: "2.71"
 tagNames:
   - class/Place
   - class/Thing/Place
@@ -23,7 +23,7 @@ fields:
     type: MultiFile
     path: ""
   - id: khiDhm
-    name: Address
+    name: has_place_address
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/ContactPoint/PostalAddress')
     type: MultiFile
@@ -57,31 +57,31 @@ fields:
     type: MultiFile
     path: ""
   - id: 72bhFw
-    name: has_geos_disjoint
+    name: has_place_disjoint
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: b6iLkX
-    name: has_geos_equal
+    name: has_places_equal
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: akaKB4
-    name: has_geos_overlapping
+    name: has_place_overlapping
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: g4KgNy
-    name: has_geos_touching
+    name: has_place_touching
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
     path: ""
   - id: uwnmnP
-    name: has_places_within
+    name: has_place_within
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/GeospatialGeometry')
     type: MultiFile
@@ -92,18 +92,18 @@ fields:
     type: Input
     path: ""
   - id: dihHaJ
-    name: is_drive_through_service
+    name: has_place_drive_through_service
     options: {}
     type: Boolean
     path: ""
   - id: JuttB1
-    name: has_map
+    name: has_place_map
     options:
       dvQueryString: dv.pages('#class/Thing/CreativeWork/Map')
     type: MultiFile
     path: ""
   - id: ZY9dJx
-    name: is_accessible_for_free
+    name: has_place_access_for_free
     options: {}
     type: Boolean
     path: ""
@@ -152,7 +152,7 @@ fields:
     type: MultiFile
     path: ""
   - id: 8QRKWA
-    name: is_access_public
+    name: has_place_access_public
     options: {}
     type: Boolean
     path: ""
@@ -168,7 +168,7 @@ fields:
     type: Input
     path: ""
   - id: pLPhMF
-    name: is_smoking_allowed
+    name: has_place_smoking_allowed
     options: {}
     type: Boolean
     path: ""
@@ -189,33 +189,75 @@ fields:
     type: Input
     path: ""
   - id: ceZqW2
-    name: Events
+    name: has_event
     options:
       dvQueryString: dv.pages('#class/Thing/Event')
     type: MultiFile
     path: ""
+  - name: has_place_country
+    type: File
+    options: {}
+    path: ""
+    id: POdmJM
+  - name: has_place_county
+    type: File
+    options: {}
+    path: ""
+    id: ay2Tgr
+  - name: has_place_province
+    type: File
+    options: {}
+    path: ""
+    id: nV8JQQ
+  - name: has_place_city
+    type: File
+    options: {}
+    path: ""
+    id: nMCnhZ
+  - name: has_place_borough
+    type: File
+    options: {}
+    path: ""
+    id: BVSJ0j
+  - name: has_place_elevation_in_meters
+    type: Number
+    options: {}
+    path: ""
+    id: pUfIqG
+  - name: has_place_postal_code
+    type: Input
+    options: {}
+    path: ""
+    id: zq2d61
 filesPaths: 
 bookmarksGroups: 
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - zq2d61
+  - BVSJ0j
+  - nMCnhZ
+  - nV8JQQ
+  - ay2Tgr
+  - POdmJM
   - ceZqW2
   - k0T9oW
   - x9sihw
-  - mPcr1A
   - pLPhMF
+  - 8QRKWA
+  - ZY9dJx
   - J5eCFD
   - bPnNjc
-  - 8QRKWA
   - zJ4x4m
+  - mPcr1A
   - Q3LHXa
   - FXWp5z
+  - pUfIqG
   - bQdwq5
   - PAXN7M
   - ML2S8v
   - aYs3i6
   - EkdxFr
-  - ZY9dJx
   - JuttB1
   - dihHaJ
   - ojuihd
