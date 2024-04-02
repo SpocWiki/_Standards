@@ -14,7 +14,7 @@ tags:
   - class/Product
   - is_a_/Product
   - class/Thing/Product
-extends: FileClass~Thing/FileClass~Tangible
+extends: FileClass~Thing/FileClass~Shape
 fields:
   - id: 3m0qb2
     name: AdditionalProperty

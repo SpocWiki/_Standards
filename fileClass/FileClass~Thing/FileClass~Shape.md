@@ -3,10 +3,10 @@ limit: 99
 mapWithTag: true
 excludes: 
 icon: box
-version: "2.28"
+version: "2.31"
 tagNames:
-  - is_a_/Tangible
-  - class/Thing/Tangible
+  - is_a_/Shape
+  - class/Thing/Shape
 tags:
   - class/FileClass
   - class/Product
@@ -41,24 +41,6 @@ fields:
     name: Height
     options:
       dvQueryString: dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')
-    type: MultiFile
-    path: ""
-  - id: Y0mKY9
-    name: is_related_to
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product')
-    type: MultiFile
-    path: ""
-  - id: R3icE7
-    name: is_similar_to
-    options:
-      dvQueryString: dv.pages('#class/Thing/Product')
-    type: MultiFile
-    path: ""
-  - id: WdmrHl
-    name: Keywords
-    options:
-      dvQueryString: dv.pages('#class/Thing/Intangible/DefinedTerm')
     type: MultiFile
     path: ""
   - id: Tq4Wrq
@@ -209,9 +191,6 @@ fieldsOrder:
   - SkGSfu
   - Tq4Wrq
   - h9U2jV
-  - WdmrHl
-  - R3icE7
-  - Y0mKY9
   - Hi8LfJ
   - 3m0qb2
 ---
