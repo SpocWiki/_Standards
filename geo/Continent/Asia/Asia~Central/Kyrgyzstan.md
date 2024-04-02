@@ -1,40 +1,42 @@
 ---
 location:
-    - 42.8667
-    - 74.6
+  - 42.8667
+  - 74.6
 type: Country
 tags:
-    - geo/Country
+  - geo/Country
 SpocWebEntityId: 26935
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
 title: Kyrgyzstan
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - KG
-    - KGZ
-    - Kyrgyzstan
-    - Kirguistán
-    - Kirghizistan
-    - قيرغيزستان
-    - 吉尔吉斯斯坦
-    - Кыргызстан
-    - the Kyrgyz Republic
-    - la República Kirguisa
+  - KG
+  - KGZ
+  - Kyrgyzstan
+  - Kirguistán
+  - Kirghizistan
+  - قيرغيزستان
+  - 吉尔吉斯斯坦
+  - Кыргызстан
+  - the Kyrgyz Republic
+  - la República Kirguisa
+  - Kirgisistan
 Languages:
-    - ky
-    - uz
-    - ru
+  - ky
+  - uz
+  - ru
 icon: flag-kg
 ---
 
@@ -132,7 +134,7 @@ markerFolder: ./Kyrgyzstan/
 [name-de::Kirgisistan]
 [Area-Total::198500]
 [Area-Land::0]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::KS]
 Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]  
 ![[Kyrgyzstan/Emblem_of_Kyrgyzstan.svg|350]]  
@@ -142,8 +144,10 @@ Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]
 
 [Alcohol-l::5.1]
 [Language-Id::469]
-[geo-lon::74.6]
-[geo-lat::42.8667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::74.6]
+[has_place_latitude::42.8667]
 
 
 

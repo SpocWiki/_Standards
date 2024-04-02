@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalSignOrSymptom )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_distinguishing_sign|has_distinguishing_sign]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_distinguishing_sign.public|has_distinguishing_sign.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_distinguishing_sign.internal|has_distinguishing_sign.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_distinguishing_sign.protect|has_distinguishing_sign.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_distinguishing_sign.private|has_distinguishing_sign.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_distinguishing_sign.personal|has_distinguishing_sign.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_distinguishing_sign.secret|has_distinguishing_sign.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_distinguishing_sign|has_distinguishing_sign]] 
+- [[../../../../../_public/schema-org/Relation/has/has_distinguishing_sign.public|has_distinguishing_sign.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_distinguishing_sign.internal|has_distinguishing_sign.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_distinguishing_sign.protect|has_distinguishing_sign.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_distinguishing_sign.private|has_distinguishing_sign.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_distinguishing_sign.personal|has_distinguishing_sign.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_distinguishing_sign.secret|has_distinguishing_sign.secret]] 

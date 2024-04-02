@@ -131,7 +131,7 @@ markerFolder: ./Uzbekistan///
 [name-de::Usbekistan]
 [Area-Total::447400]
 [Area-Land::0]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::UZ]
 Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]  
 
@@ -143,8 +143,10 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 
 [Alcohol-l::3.5]
 [Language-Id::469]
-[geo-lon::69.3]
-[geo-lat::41.33]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::69.3]
+[has_place_latitude::41.33]
 
 
 

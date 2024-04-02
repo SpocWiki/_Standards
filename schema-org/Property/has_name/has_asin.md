@@ -31,7 +31,7 @@ aliases:
 - has_text_of_asin
 ---
 
-Predicate to describe the Text of Demand, Offer, Product.
+Amazon Standard Identification Number (ASIN) Predicate to describe the Text of Demand, Offer, Product.
 
 [ #is_/part_of :: pending: ]
 

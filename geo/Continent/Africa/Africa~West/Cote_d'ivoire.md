@@ -32,7 +32,7 @@ markerFolder: ./Cote_d'ivoire//
 [name-de::Elfenbeinküste]
 [Area-Total::322462]
 [Area-Land::318000]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::CI]
 Capital :: [[Yamoussoukro]]  
 ![[Coat_of_arms_of_Cote-divoire.svg|350]]
@@ -40,8 +40,8 @@ Capital :: [[Yamoussoukro]]
 ![[Flag_of_Cote-divoire.svg|350]]
 [Alcohol-l::6.5]
 [Language-Id::496]
-[geo-lon::-5.3]
-[geo-lat::6.85]
+[has_place_longitude::-5.3]
+[has_place_latitude::6.85]
 
 
 

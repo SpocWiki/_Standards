@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: AudioObject, Clip, MusicRecording )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_audio|has_audio]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_audio.public|has_audio.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_audio.internal|has_audio.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_audio.protect|has_audio.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_audio.private|has_audio.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_audio.personal|has_audio.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_audio.secret|has_audio.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_audio|has_audio]] 
+- [[../../../../../_public/schema-org/Relation/has/has_audio.public|has_audio.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_audio.internal|has_audio.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_audio.protect|has_audio.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_audio.private|has_audio.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_audio.personal|has_audio.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_audio.secret|has_audio.secret]] 

@@ -130,7 +130,7 @@ markerFolder: ./Chile/
 [name-de::Chile]
 [Area-Total::756626]
 [Area-Land::748800]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::RCH]
 Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]  
 
@@ -142,8 +142,8 @@ Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]
 
 [Alcohol-l::8.6]
 [Language-Id::492]
-[geo-lon::-70.67]
-[geo-lat::-33.45]
+[has_place_longitude::-70.67]
+[has_place_latitude::-33.45]
 
 
 

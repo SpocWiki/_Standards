@@ -131,7 +131,7 @@ markerFolder: ./Slovenia//
 [name-de::Slowenien]
 [Area-Total::20255]
 [Area-Land::20120]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::SLO]
 Capital :: [[Slovenia/Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]  
 ![[Coat_of_arms_of_Slovenia.svg|350]]
@@ -139,8 +139,10 @@ Capital :: [[Slovenia/Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]
 ![[Flag_of_Slovenia.svg|350]]
 [Alcohol-l::15.2]
 [Language-Id::]
-[geo-lon::14.52]
-[geo-lat::46.05]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.52]
+[has_place_latitude::46.05]
 
 
 

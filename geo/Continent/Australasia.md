@@ -34,7 +34,7 @@ lat: -30
 
 [name-en::Australia]
 [name-de::Australien]
-[ #has/_code  :: AU ]
+[ #has_/code  :: AU ]
 
 
 ## Confidential Links & Embeds: 

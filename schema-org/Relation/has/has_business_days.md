@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: OpeningHoursSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_business_days|has_business_days]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_business_days.public|has_business_days.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_business_days.internal|has_business_days.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_business_days.protect|has_business_days.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_business_days.private|has_business_days.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_business_days.personal|has_business_days.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_business_days.secret|has_business_days.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_business_days|has_business_days]] 
+- [[../../../../../_public/schema-org/Relation/has/has_business_days.public|has_business_days.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_business_days.internal|has_business_days.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_business_days.protect|has_business_days.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_business_days.private|has_business_days.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_business_days.personal|has_business_days.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_business_days.secret|has_business_days.secret]] 

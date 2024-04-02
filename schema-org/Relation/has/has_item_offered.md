@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/inverse_of  :: offers ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_item_offered|has_item_offered]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_item_offered.public|has_item_offered.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_item_offered.internal|has_item_offered.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_item_offered.protect|has_item_offered.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_item_offered.private|has_item_offered.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_item_offered.personal|has_item_offered.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_item_offered.secret|has_item_offered.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_item_offered|has_item_offered]] 
+- [[../../../../../_public/schema-org/Relation/has/has_item_offered.public|has_item_offered.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_item_offered.internal|has_item_offered.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_item_offered.protect|has_item_offered.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_item_offered.private|has_item_offered.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_item_offered.personal|has_item_offered.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_item_offered.secret|has_item_offered.secret]] 

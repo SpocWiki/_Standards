@@ -35,8 +35,8 @@ markerFolder: ./{{EnglishName}}/
 [Capital-Id::{{CapitalId}}]
 [Alcohol-l::{{Alcohol-l}}]
 [Language-Id::{{LanguageId}}]
-[geo-lon::{{x}}]
-[geo-lat::{{y}}]
+[has_place_longitude::{{x}}]
+[has_place_latitude::{{y}}]
 
 
 

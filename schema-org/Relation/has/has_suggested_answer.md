@@ -44,10 +44,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ acceptedAnswer ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_suggested_answer|has_suggested_answer]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_suggested_answer.public|has_suggested_answer.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_suggested_answer.internal|has_suggested_answer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_suggested_answer.protect|has_suggested_answer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_suggested_answer.private|has_suggested_answer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_suggested_answer.personal|has_suggested_answer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_suggested_answer.secret|has_suggested_answer.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_suggested_answer|has_suggested_answer]] 
+- [[../../../../../_public/schema-org/Relation/has/has_suggested_answer.public|has_suggested_answer.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_suggested_answer.internal|has_suggested_answer.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_suggested_answer.protect|has_suggested_answer.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_suggested_answer.private|has_suggested_answer.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_suggested_answer.personal|has_suggested_answer.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_suggested_answer.secret|has_suggested_answer.secret]] 

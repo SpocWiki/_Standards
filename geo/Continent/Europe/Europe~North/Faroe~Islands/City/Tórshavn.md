@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-6.783333] 
-[geo-lat::62] 
+[has_place_longitude::-6.783333] 
+[has_place_latitude::62] 
 [name::Tórshavn] 
-State ::  
-Country :: [[../../../Faroe~Islands]] 
+has_place_province::  
+has_place_country:: [[../../../Faroe~Islands]] 
 [StateId::] 
 [Population::] 
 [Unknown::32] 

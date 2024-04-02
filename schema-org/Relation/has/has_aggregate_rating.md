@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: AggregateRating )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_aggregate_rating|has_aggregate_rating]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_aggregate_rating.public|has_aggregate_rating.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_aggregate_rating.internal|has_aggregate_rating.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_aggregate_rating.protect|has_aggregate_rating.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_aggregate_rating.private|has_aggregate_rating.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_aggregate_rating.personal|has_aggregate_rating.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_aggregate_rating.secret|has_aggregate_rating.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_aggregate_rating|has_aggregate_rating]] 
+- [[../../../../../_public/schema-org/Relation/has/has_aggregate_rating.public|has_aggregate_rating.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_aggregate_rating.internal|has_aggregate_rating.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_aggregate_rating.protect|has_aggregate_rating.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_aggregate_rating.private|has_aggregate_rating.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_aggregate_rating.personal|has_aggregate_rating.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_aggregate_rating.secret|has_aggregate_rating.secret]] 

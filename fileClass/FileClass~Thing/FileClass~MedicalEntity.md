@@ -3,7 +3,7 @@ limit: 9
 mapWithTag: true
 excludes: 
 icon: plus-circle
-version: "2.0"
+version: "2.1"
 tagNames:
   - class/MedicalEntity
   - class/Thing/MedicalEntity
@@ -51,6 +51,17 @@ fields:
       dvQueryString: dv.pages('#class/Thing/MedicalEntity/MedicalStudy')
     type: MultiFile
     path: ""
+filesPaths: 
+bookmarksGroups: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - x6wrRG
+  - nVFrsP
+  - CW29vX
+  - 4uA4rQ
+  - mqC9eT
+  - sF7aOM
 ---
 
 # MedicalEntity

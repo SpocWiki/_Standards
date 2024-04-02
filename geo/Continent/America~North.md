@@ -24,7 +24,7 @@ lat: 45
 
 [name-en::North America]
 [name-de::Nordamerika]
-[ #has/_code  :: NA ]
+[ #has_/code  :: NA ]
 
 ## Confidential Links & Embeds: 
 - [[../../../_Standards/geo/Continent/North-America|North-America]] 

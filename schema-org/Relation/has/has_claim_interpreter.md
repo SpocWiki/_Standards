@@ -45,10 +45,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_claim_interpreter|has_claim_interpreter]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_claim_interpreter.public|has_claim_interpreter.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_claim_interpreter.internal|has_claim_interpreter.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_claim_interpreter.protect|has_claim_interpreter.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_claim_interpreter.private|has_claim_interpreter.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_claim_interpreter.personal|has_claim_interpreter.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_claim_interpreter.secret|has_claim_interpreter.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_claim_interpreter|has_claim_interpreter]] 
+- [[../../../../../_public/schema-org/Relation/has/has_claim_interpreter.public|has_claim_interpreter.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_claim_interpreter.internal|has_claim_interpreter.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_claim_interpreter.protect|has_claim_interpreter.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_claim_interpreter.private|has_claim_interpreter.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_claim_interpreter.personal|has_claim_interpreter.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_claim_interpreter.secret|has_claim_interpreter.secret]] 

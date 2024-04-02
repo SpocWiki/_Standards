@@ -128,7 +128,7 @@ markerFolder: ./Nicaragua/
 [name-de::Nicaragua]
 [Area-Total::120254]
 [Area-Land::118750]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::NIC]
 Capital :: [[Nicaragua/Counties/Managua/City/Managua]]  
 
@@ -140,8 +140,8 @@ Capital :: [[Nicaragua/Counties/Managua/City/Managua]]
 
 [Alcohol-l::5.4]
 [Language-Id::492]
-[geo-lon::-86.28]
-[geo-lat::12.15]
+[has_place_longitude::-86.28]
+[has_place_latitude::12.15]
 
 
 

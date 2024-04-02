@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::145.75] 
-[geo-lat::15.18333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::145.75] 
+[has_place_latitude::15.18333] 
 [name::Saipan] 
-State ::  
-Country :: [[../../../Northern_Mariana~Islands]]  
+has_place_province::  
+has_place_country:: [[../../../Northern_Mariana~Islands]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

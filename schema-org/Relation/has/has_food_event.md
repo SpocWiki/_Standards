@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_food_event|has_food_event]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_food_event.public|has_food_event.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_food_event.internal|has_food_event.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_food_event.protect|has_food_event.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_food_event.private|has_food_event.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_food_event.personal|has_food_event.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_food_event.secret|has_food_event.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_food_event|has_food_event]] 
+- [[../../../../../_public/schema-org/Relation/has/has_food_event.public|has_food_event.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_food_event.internal|has_food_event.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_food_event.protect|has_food_event.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_food_event.private|has_food_event.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_food_event.personal|has_food_event.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_food_event.secret|has_food_event.secret]] 

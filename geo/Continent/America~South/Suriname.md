@@ -139,13 +139,13 @@ markerFolder: ./Suriname/
 
 [Area-Total::163265]
 [Area-Land::156000]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::SME]
 Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]  
 [Alcohol-l::6.1]
 [Language-Id::]
-[geo-lon::-55.17]
-[geo-lat::5.86]
+[has_place_longitude::-55.17]
+[has_place_latitude::5.86]
 
 
 

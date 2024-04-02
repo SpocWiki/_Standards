@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_masthead|has_masthead]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_masthead.public|has_masthead.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_masthead.internal|has_masthead.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_masthead.protect|has_masthead.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_masthead.private|has_masthead.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_masthead.personal|has_masthead.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_masthead.secret|has_masthead.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_masthead|has_masthead]] 
+- [[../../../../../_public/schema-org/Relation/has/has_masthead.public|has_masthead.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_masthead.internal|has_masthead.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_masthead.protect|has_masthead.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_masthead.private|has_masthead.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_masthead.personal|has_masthead.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_masthead.secret|has_masthead.secret]] 

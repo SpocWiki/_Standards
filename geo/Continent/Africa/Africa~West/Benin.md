@@ -122,7 +122,7 @@ markerFolder: ./Benin//
 [name-de::Benin]
 [Area-Total::112622]
 [Area-Land::110620]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::BJ]
 Capital :: [[Porto-Novo1]]  
 
@@ -133,8 +133,10 @@ Capital :: [[Porto-Novo1]]
 ![[Flag_of_Benin.svg|350]]
 [Alcohol-l::2.2]
 [Language-Id::496]
-[geo-lon::2.6]
-[geo-lat::6.46667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.6]
+[has_place_latitude::6.46667]
 
 
 

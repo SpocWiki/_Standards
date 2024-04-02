@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Action )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_potential_action|has_potential_action]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_potential_action.public|has_potential_action.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_potential_action.internal|has_potential_action.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_potential_action.protect|has_potential_action.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_potential_action.private|has_potential_action.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_potential_action.personal|has_potential_action.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_potential_action.secret|has_potential_action.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_potential_action|has_potential_action]] 
+- [[../../../../../_public/schema-org/Relation/has/has_potential_action.public|has_potential_action.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_potential_action.internal|has_potential_action.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_potential_action.protect|has_potential_action.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_potential_action.private|has_potential_action.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_potential_action.personal|has_potential_action.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_potential_action.secret|has_potential_action.secret]] 

@@ -124,7 +124,7 @@ markerFolder: ./Malawi//
 [name-de::Malawi]
 [Area-Total::118484]
 [Area-Land::94080]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::MW]
 Capital :: [[Lilongwe]]  
 
@@ -135,8 +135,10 @@ Capital :: [[Lilongwe]]
 ![[Flag_of_Malawi.svg|350]]
 [Alcohol-l::1.7]
 [Language-Id::499]
-[geo-lon::33.7]
-[geo-lat::-13.95]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::33.7]
+[has_place_latitude::-13.95]
 
 
 

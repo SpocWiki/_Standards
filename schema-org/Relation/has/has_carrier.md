@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_carrier|has_carrier]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_carrier.public|has_carrier.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_carrier.internal|has_carrier.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_carrier.protect|has_carrier.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_carrier.private|has_carrier.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_carrier.personal|has_carrier.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_carrier.secret|has_carrier.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_carrier|has_carrier]] 
+- [[../../../../../_public/schema-org/Relation/has/has_carrier.public|has_carrier.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_carrier.internal|has_carrier.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_carrier.protect|has_carrier.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_carrier.private|has_carrier.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_carrier.personal|has_carrier.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_carrier.secret|has_carrier.secret]] 

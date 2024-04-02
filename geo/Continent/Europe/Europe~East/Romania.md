@@ -130,7 +130,7 @@ markerFolder: ./Romania//
 [name-de::Rumänien]
 [Area-Total::238391]
 [Area-Land::230340]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::RO]
 Capital :: [[Bukarest]]  
 ![[Coat_of_arms_of_Romania.svg|350]]
@@ -138,8 +138,10 @@ Capital :: [[Bukarest]]
 ![[Flag_of_Romania.svg|350]]
 [Alcohol-l::15.3]
 [Language-Id::]
-[geo-lon::24.9906]
-[geo-lat::46.2258]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::24.9906]
+[has_place_latitude::46.2258]
 
 
 

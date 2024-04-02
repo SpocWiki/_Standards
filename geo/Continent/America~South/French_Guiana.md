@@ -132,13 +132,13 @@ markerFolder: ./French_Guiana/
 
 [Area-Total::90000]
 [Area-Land::0]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::]
 Capital :: [[French_Guiana/City/Cayenne=Franz.]]  
 [Alcohol-l::]
 [Language-Id::496]
-[geo-lon::-52.3]
-[geo-lat::4.92]
+[has_place_longitude::-52.3]
+[has_place_latitude::4.92]
 
 
 

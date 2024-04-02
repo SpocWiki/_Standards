@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Drug )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_affected_by|is_affected_by]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_affected_by.public|is_affected_by.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_affected_by.internal|is_affected_by.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_affected_by.protect|is_affected_by.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_affected_by.private|is_affected_by.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_affected_by.personal|is_affected_by.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_affected_by.secret|is_affected_by.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_affected_by|is_affected_by]] 
+- [[../../../../../_public/schema-org/Relation/is/is_affected_by.public|is_affected_by.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_affected_by.internal|is_affected_by.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_affected_by.protect|is_affected_by.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_affected_by.private|is_affected_by.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_affected_by.personal|is_affected_by.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_affected_by.secret|is_affected_by.secret]] 

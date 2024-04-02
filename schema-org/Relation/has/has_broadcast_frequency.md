@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: BroadcastFrequencySpecification, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_broadcast_frequency|has_broadcast_frequency]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_broadcast_frequency.public|has_broadcast_frequency.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcast_frequency.internal|has_broadcast_frequency.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcast_frequency.protect|has_broadcast_frequency.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_broadcast_frequency.private|has_broadcast_frequency.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_broadcast_frequency.personal|has_broadcast_frequency.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_broadcast_frequency.secret|has_broadcast_frequency.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_broadcast_frequency|has_broadcast_frequency]] 
+- [[../../../../../_public/schema-org/Relation/has/has_broadcast_frequency.public|has_broadcast_frequency.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_broadcast_frequency.internal|has_broadcast_frequency.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_broadcast_frequency.protect|has_broadcast_frequency.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_broadcast_frequency.private|has_broadcast_frequency.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_broadcast_frequency.personal|has_broadcast_frequency.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_broadcast_frequency.secret|has_broadcast_frequency.secret]] 

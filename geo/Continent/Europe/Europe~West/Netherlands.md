@@ -128,7 +128,7 @@ markerFolder: ./Netherlands/
 [name-de::Niederlande]
 [Area-Total::41865]
 [Area-Land::33920]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::NL]
 Capital :: [[Amsterdam]]  
 ![[Royal_coat_of_arms_of_the_Netherlands.svg|650]]
@@ -139,8 +139,10 @@ Capital :: [[Amsterdam]]
 
 [Alcohol-l::10.1]
 [Language-Id::]
-[geo-lon::5.08828]
-[geo-lat::51.9757]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::5.08828]
+[has_place_latitude::51.9757]
 
 
 

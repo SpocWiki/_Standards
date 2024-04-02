@@ -131,7 +131,7 @@ markerFolder: ./Italy//
 [name-de::Italien]
 [Area-Total::301302]
 [Area-Land::294060]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::I]
 Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]  
 
@@ -143,8 +143,10 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 
 [Alcohol-l::10.7]
 [Language-Id::]
-[geo-lon::11.8169]
-[geo-lat::43.4809]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::11.8169]
+[has_place_latitude::43.4809]
 
 
 

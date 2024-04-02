@@ -126,7 +126,7 @@ markerFolder: ./Libya//
 [name-de::Libyen Libyan Arab. Jamahiriya]
 [Area-Total::1775500]
 [Area-Land::1759540]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::LAR]
 Capital :: [[Tripolis=Tripoli]]  
 
@@ -138,8 +138,10 @@ Capital :: [[Tripolis=Tripoli]]
 
 [Alcohol-l::0.1]
 [Language-Id::472]
-[geo-lon::13.19]
-[geo-lat::32.89]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::13.19]
+[has_place_latitude::32.89]
 
 
 

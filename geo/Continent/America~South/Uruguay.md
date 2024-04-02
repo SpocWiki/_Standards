@@ -128,7 +128,7 @@ markerFolder: ./Uruguay/
 [name-de::Uruguay]
 [Area-Total::176215]
 [Area-Land::174810]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::ROU]
 Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]  
 ![[Uruguay/Coat_of_arms_of_Uruguay.svg|350]]
@@ -139,8 +139,8 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 
 [Alcohol-l::8.1]
 [Language-Id::492]
-[geo-lon::-56.17]
-[geo-lat::-34.91]
+[has_place_longitude::-56.17]
+[has_place_latitude::-34.91]
 
 
 

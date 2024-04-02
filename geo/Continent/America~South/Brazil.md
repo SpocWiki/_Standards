@@ -54,7 +54,9 @@ For more Details, check out this Repository into this Subfolder:
 [	ISO4217-currency_minor_unit	 :: 2 ]
 [	ISO4217-currency_country_name	 :: BRAZIL ]
 
-[	Telephone	 :: 55 ]
+#has_/telephone_/Prefix_/has_place_country:: 55 
+#has_/telephone_/Prefix_/International :: 00 + Provider-Code 
+
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
@@ -134,7 +136,7 @@ markerFolder: ./Brazil/
 [name-de::Brasilien]
 [Area-Total::8511996]
 [Area-Land::8456510]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::BR]
 Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]  
 
@@ -146,8 +148,8 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 
 [Alcohol-l::9.2]
 [Language-Id::467]
-[geo-lon::-45.9467]
-[geo-lat::-20.7333]
+[has_place_longitude::-45.9467]
+[has_place_latitude::-20.7333]
 
 
 

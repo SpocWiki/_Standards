@@ -21,7 +21,7 @@ publishDate:
 expiryDate: 
 
 tags:
-- gs1/Unit
+- gs1_/Unit
 
 aliases:
 - Unit_{{Code}}

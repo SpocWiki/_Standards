@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_associated_anatomy|has_associated_anatomy]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_associated_anatomy.public|has_associated_anatomy.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_anatomy.internal|has_associated_anatomy.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_anatomy.protect|has_associated_anatomy.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_anatomy.private|has_associated_anatomy.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_associated_anatomy.personal|has_associated_anatomy.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_associated_anatomy.secret|has_associated_anatomy.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_associated_anatomy|has_associated_anatomy]] 
+- [[../../../../../_public/schema-org/Relation/has/has_associated_anatomy.public|has_associated_anatomy.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_associated_anatomy.internal|has_associated_anatomy.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_associated_anatomy.protect|has_associated_anatomy.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_associated_anatomy.private|has_associated_anatomy.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_associated_anatomy.personal|has_associated_anatomy.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_associated_anatomy.secret|has_associated_anatomy.secret]] 

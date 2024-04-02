@@ -29,6 +29,8 @@ aliases:
 - dateDeleted
 - has_time_destroyed
 - has_time_deleted
+- has_time_ended
+
 ---
 
 Predicate to describe the date of DataFeedItem.

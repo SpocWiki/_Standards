@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Person, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_colleague|has_colleague]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_colleague.public|has_colleague.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_colleague.internal|has_colleague.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_colleague.protect|has_colleague.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_colleague.private|has_colleague.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_colleague.personal|has_colleague.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_colleague.secret|has_colleague.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_colleague|has_colleague]] 
+- [[../../../../../_public/schema-org/Relation/has/has_colleague.public|has_colleague.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_colleague.internal|has_colleague.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_colleague.protect|has_colleague.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_colleague.private|has_colleague.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_colleague.personal|has_colleague.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_colleague.secret|has_colleague.secret]] 

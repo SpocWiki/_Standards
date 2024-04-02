@@ -45,10 +45,10 @@ Relation describes that:
 ( #has_/range :: [[medical_code]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_code|has_code]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_code.public|has_code.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_code.internal|has_code.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_code.protect|has_code.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_code.private|has_code.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_code.personal|has_code.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_code.secret|has_code.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_code|has_code]] 
+- [[../../../../../_public/schema-org/Relation/has/has_code.public|has_code.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_code.internal|has_code.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_code.protect|has_code.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_code.private|has_code.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_code.personal|has_code.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_code.secret|has_code.secret]] 

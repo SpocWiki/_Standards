@@ -61,6 +61,11 @@ For more Details, check out this Repository into this Subfolder:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tanzania)
 
 
+## #has_/Etymology 
+
+The name "Tanzania" was created as a [clipped compound](https://en.wikipedia.org/wiki/Clipped_compound "Clipped compound") of the names of the two states that unified to create the country: [Tanganyika](https://en.wikipedia.org/wiki/Tanganyika_(1961%E2%80%931964) "Tanganyika (1961–1964)") and [Zanzibar](https://en.wikipedia.org/wiki/People%27s_Republic_of_Zanzibar).
+
+
 [	ISO4217-currency_alphabetic	 :: TZS ]
 [	ISO4217-currency_name	 :: Tanzanian Shilling ]
 [	ISO4217-currency_numeric	 :: 834 ]
@@ -141,7 +146,7 @@ markerFolder: ./Tanzania//
 [name-de::Tansania]
 [Area-Total::945087]
 [Area-Land::883590]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::EAT]
 Capital :: [[Dodoma]]  
 
@@ -153,8 +158,10 @@ Capital :: [[Dodoma]]
 
 [Alcohol-l::6.8]
 [Language-Id::499]
-[geo-lon::35.7419]
-[geo-lat::-6.17306]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35.7419]
+[has_place_latitude::-6.17306]
 
 
 

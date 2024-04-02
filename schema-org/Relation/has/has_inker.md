@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_inker|has_inker]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_inker.public|has_inker.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_inker.internal|has_inker.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_inker.protect|has_inker.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_inker.private|has_inker.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_inker.personal|has_inker.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_inker.secret|has_inker.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_inker|has_inker]] 
+- [[../../../../../_public/schema-org/Relation/has/has_inker.public|has_inker.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_inker.internal|has_inker.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_inker.protect|has_inker.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_inker.private|has_inker.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_inker.personal|has_inker.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_inker.secret|has_inker.secret]] 

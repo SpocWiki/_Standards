@@ -123,13 +123,15 @@ markerFolder: ./Solomon_Islands/
 [name-de::Salomonen] 
 [Area-Total::29785] 
 [Area-Land::27990] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::SOL] 
 Capital :: [[Honiara]]  
 [Alcohol-l::1.7] 
 [Language-Id::499] 
-[geo-lon::159.817] 
-[geo-lat::-9.46667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::159.817] 
+[has_place_latitude::-9.46667] 
 
 
 

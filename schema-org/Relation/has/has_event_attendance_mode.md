@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: EventAttendanceModeEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_event_attendance_mode|has_event_attendance_mode]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_event_attendance_mode.public|has_event_attendance_mode.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_event_attendance_mode.internal|has_event_attendance_mode.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_event_attendance_mode.protect|has_event_attendance_mode.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_event_attendance_mode.private|has_event_attendance_mode.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_event_attendance_mode.personal|has_event_attendance_mode.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_event_attendance_mode.secret|has_event_attendance_mode.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_event_attendance_mode|has_event_attendance_mode]] 
+- [[../../../../../_public/schema-org/Relation/has/has_event_attendance_mode.public|has_event_attendance_mode.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_event_attendance_mode.internal|has_event_attendance_mode.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_event_attendance_mode.protect|has_event_attendance_mode.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_event_attendance_mode.private|has_event_attendance_mode.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_event_attendance_mode.personal|has_event_attendance_mode.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_event_attendance_mode.secret|has_event_attendance_mode.secret]] 

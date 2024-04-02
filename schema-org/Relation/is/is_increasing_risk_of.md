@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalEntity)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_increasing_risk_of|is_increasing_risk_of]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_increasing_risk_of.public|is_increasing_risk_of.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_increasing_risk_of.internal|is_increasing_risk_of.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_increasing_risk_of.protect|is_increasing_risk_of.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_increasing_risk_of.private|is_increasing_risk_of.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_increasing_risk_of.personal|is_increasing_risk_of.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_increasing_risk_of.secret|is_increasing_risk_of.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_increasing_risk_of|is_increasing_risk_of]] 
+- [[../../../../../_public/schema-org/Relation/is/is_increasing_risk_of.public|is_increasing_risk_of.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_increasing_risk_of.internal|is_increasing_risk_of.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_increasing_risk_of.protect|is_increasing_risk_of.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_increasing_risk_of.private|is_increasing_risk_of.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_increasing_risk_of.personal|is_increasing_risk_of.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_increasing_risk_of.secret|is_increasing_risk_of.secret]] 

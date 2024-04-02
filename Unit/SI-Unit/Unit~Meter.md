@@ -1,5 +1,11 @@
 # [[Unit~Meter]] 
 
+#is_an_ :: [[../SI-Unit]] 
+Unit :: #Unit/SI/m
+#is_a_/unit_/for_ :: [[../../Dimension/Dim~Length|Dim~Length]] 
+#is_a_/unit_/for_/length 
+
+
 > The metre (or **meter** in American spelling; symbol: m) is the base unit of length in the International System of Units (SI).
 >
 > The metre was originally defined in 1791 by the French National Assembly as one ten-millionth of the distance from the equator to the North Pole along a great circle, 

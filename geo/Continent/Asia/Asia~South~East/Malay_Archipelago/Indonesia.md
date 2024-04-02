@@ -135,13 +135,15 @@ markerFolder: ./Indonesia/
 [name-de::Indonesien]
 [Area-Total::1904443]
 [Area-Land::1919440]
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::RI]
 Capital :: [[Djakarta]]  
 [Alcohol-l::0.6]
 [Language-Id::]
-[geo-lon::109.755]
-[geo-lat::-6.695]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::109.755]
+[has_place_latitude::-6.695]
 
 
 

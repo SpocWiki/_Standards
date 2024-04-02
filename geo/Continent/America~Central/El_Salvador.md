@@ -128,7 +128,7 @@ markerFolder: ./El_Salvador/
 [name-de::El Salvador]
 [Area-Total::21041]
 [Area-Land::20720]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::ES]
 Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]  
 
@@ -140,8 +140,8 @@ Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]
 
 [Alcohol-l::3.6]
 [Language-Id::492]
-[geo-lon::-89.1667]
-[geo-lat::13.6667]
+[has_place_longitude::-89.1667]
+[has_place_latitude::13.6667]
 
 
 

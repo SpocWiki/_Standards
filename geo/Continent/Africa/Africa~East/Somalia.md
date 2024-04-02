@@ -125,7 +125,7 @@ markerFolder: ./Somalia//
 [name-de::Somalia]
 [Area-Total::637657]
 [Area-Land::627340]
-Continent :: [Africa](../../Africa.md)  
+has_place_continent:: [Africa](../../Africa.md)  
 [VehicleCode::SO]
 Capital :: [Mogadischu=Mogadisho](Somalia/City/Mogadischu=Mogadisho.md)  
 
@@ -137,8 +137,10 @@ Capital :: [Mogadischu=Mogadisho](Somalia/City/Mogadischu=Mogadisho.md)
 
 [Alcohol-l::0.5]
 [Language-Id::]
-[geo-lon::45.33]
-[geo-lat::2.02]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::45.33]
+[has_place_latitude::2.02]
 
 
 

@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_body_type|has_body_type]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_body_type.public|has_body_type.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_body_type.internal|has_body_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_body_type.protect|has_body_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_body_type.private|has_body_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_body_type.personal|has_body_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_body_type.secret|has_body_type.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_body_type|has_body_type]] 
+- [[../../../../../_public/schema-org/Relation/has/has_body_type.public|has_body_type.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_body_type.internal|has_body_type.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_body_type.protect|has_body_type.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_body_type.private|has_body_type.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_body_type.personal|has_body_type.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_body_type.secret|has_body_type.secret]] 

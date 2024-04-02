@@ -127,7 +127,7 @@ markerFolder: ./Finland/
 [name-de::Finnland]
 [Area-Total::338144]
 [Area-Land::304610]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::FIN]
 Capital :: [[Helsingfors]]  
 
@@ -136,8 +136,10 @@ Capital :: [[Helsingfors]]
 ![[Flag_of_Finland.svg|350]]
 [Alcohol-l::12.5]
 [Language-Id::]
-[geo-lon::25.4668]
-[geo-lat::62.3173]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.4668]
+[has_place_latitude::62.3173]
 
 
 

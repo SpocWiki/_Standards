@@ -126,7 +126,7 @@ markerFolder: ./Sierra_Leone//
 [name-de::Sierra Leone]
 [Area-Total::71740]
 [Area-Land::71620]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::SLE]
 Capital :: [[Freetown]]  
 ![[Coat_of_arms_of_Sierra_Leone.svg|550]]
@@ -137,8 +137,8 @@ Capital :: [[Freetown]]
 
 [Alcohol-l::9.7]
 [Language-Id::499]
-[geo-lon::-13.2345]
-[geo-lat::8.48445]
+[has_place_longitude::-13.2345]
+[has_place_latitude::8.48445]
 
 
 

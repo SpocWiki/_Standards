@@ -44,10 +44,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ embeddedTextCaption ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_caption|has_caption]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_caption.public|has_caption.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_caption.internal|has_caption.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_caption.protect|has_caption.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_caption.private|has_caption.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_caption.personal|has_caption.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_caption.secret|has_caption.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_caption|has_caption]] 
+- [[../../../../../_public/schema-org/Relation/has/has_caption.public|has_caption.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_caption.internal|has_caption.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_caption.protect|has_caption.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_caption.private|has_caption.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_caption.personal|has_caption.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_caption.secret|has_caption.secret]] 

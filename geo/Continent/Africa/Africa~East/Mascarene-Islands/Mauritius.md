@@ -124,7 +124,7 @@ markerFolder: ./Mauritius//
 [name-de::Mauritius]
 [Area-Total::2040]
 [Area-Land::2030]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::MS]
 Capital :: [[Port_Louis]]  
 
@@ -136,8 +136,10 @@ Capital :: [[Port_Louis]]
 
 [Alcohol-l::3.7]
 [Language-Id::499]
-[geo-lon::57.5167]
-[geo-lat::-20.1667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::57.5167]
+[has_place_latitude::-20.1667]
 
 
 

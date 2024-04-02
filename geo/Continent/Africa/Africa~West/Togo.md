@@ -129,7 +129,7 @@ markerFolder: ./Togo//
 [name-de::Togo]
 [Area-Total::56785]
 [Area-Land::54390]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::TG]
 Capital :: [[Lomé]]  
 
@@ -141,8 +141,10 @@ Capital :: [[Lomé]]
 
 [Alcohol-l::2]
 [Language-Id::496]
-[geo-lon::1.21667]
-[geo-lat::6.11667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::1.21667]
+[has_place_latitude::6.11667]
 
 
 

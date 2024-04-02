@@ -132,7 +132,7 @@ markerFolder: ./Bahrain/
 [name-de::Bahrain]
 [Area-Total::680]
 [Area-Land::680]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::BRN]
 Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]  
 ![[Bahrain/Emblem_of_Bahrain.svg|350]]  
@@ -142,8 +142,10 @@ Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]
 
 [Alcohol-l::3.7]
 [Language-Id::472]
-[geo-lon::50.58]
-[geo-lat::26.2]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::50.58]
+[has_place_latitude::26.2]
 
 
 

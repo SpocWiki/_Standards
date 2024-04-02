@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: image ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_layout_image|has_layout_image]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_layout_image.public|has_layout_image.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_layout_image.internal|has_layout_image.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_layout_image.protect|has_layout_image.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_layout_image.private|has_layout_image.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_layout_image.personal|has_layout_image.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_layout_image.secret|has_layout_image.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_layout_image|has_layout_image]] 
+- [[../../../../../_public/schema-org/Relation/has/has_layout_image.public|has_layout_image.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_layout_image.internal|has_layout_image.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_layout_image.protect|has_layout_image.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_layout_image.private|has_layout_image.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_layout_image.personal|has_layout_image.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_layout_image.secret|has_layout_image.secret]] 

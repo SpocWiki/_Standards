@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: DayOfWeek )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_day_of_week|has_day_of_week]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_day_of_week.public|has_day_of_week.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_day_of_week.internal|has_day_of_week.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_day_of_week.protect|has_day_of_week.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_day_of_week.private|has_day_of_week.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_day_of_week.personal|has_day_of_week.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_day_of_week.secret|has_day_of_week.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_day_of_week|has_day_of_week]] 
+- [[../../../../../_public/schema-org/Relation/has/has_day_of_week.public|has_day_of_week.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_day_of_week.internal|has_day_of_week.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_day_of_week.protect|has_day_of_week.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_day_of_week.private|has_day_of_week.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_day_of_week.personal|has_day_of_week.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_day_of_week.secret|has_day_of_week.secret]] 

@@ -131,7 +131,7 @@ markerFolder: ./Oman/
 [name-de::Oman]
 [Area-Total::212457]
 [Area-Land::212460]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::OM]
 Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]  
 ![[Coat_of_arms_of_Oman.svg|350]]
@@ -139,8 +139,10 @@ Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]
 ![[Oman/Flag_of_Oman.svg|350]]  
 [Alcohol-l::0.9]
 [Language-Id::472]
-[geo-lon::58.55]
-[geo-lat::23.48]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::58.55]
+[has_place_latitude::23.48]
 
 
 

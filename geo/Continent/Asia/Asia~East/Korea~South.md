@@ -42,7 +42,7 @@ markerFolder: ./Korea~South/
 [name-de::Südkorea]
 [Area-Total::99392]
 [Area-Land::98730]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::ROK]
 Capital ::  [[Korea~South/City/Seoul]] ] 
 ![[Coat_of_arms_of_Korea-south.svg|350]]
@@ -50,8 +50,10 @@ Capital ::  [[Korea~South/City/Seoul]] ]
 ![[Flag_of_Korea-south.svg|350]]
 [Alcohol-l::14.8]
 [Language-Id::459]
-[geo-lon::126.97]
-[geo-lat::37.55]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::126.97]
+[has_place_latitude::37.55]
 
 
 

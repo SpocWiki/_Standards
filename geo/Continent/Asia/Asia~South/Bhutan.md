@@ -133,13 +133,15 @@ markerFolder: ./Bhutan/
 
 [Area-Total::46500]
 [Area-Land::47000]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::BHT]
 Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]  
 [Alcohol-l::0.6]
 [Language-Id::]
-[geo-lon::90.435]
-[geo-lat::27.417]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::90.435]
+[has_place_latitude::27.417]
 
 
 

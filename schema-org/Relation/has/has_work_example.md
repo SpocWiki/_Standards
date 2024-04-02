@@ -40,7 +40,7 @@ but also used to express the [[../../Class/is_sub_class_of|is_subclass_of]] Rela
 
 Enumerating Examples is rarely exact or exhaustive, but very helpful for Humans to illustrate a Concept with already known Instances. 
 
-Therefore the partially inverse Relation is included in the non-standard more generic [[../has_examples]] Relation. 
+Therefore the partially inverse Relation is included in the non-standard more generic [[has_examples]] Relation. 
 
 Use it like this: 
 - [ #has_/work_example :: CreativeWork ] or 
@@ -56,10 +56,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ appearance, firstAppearance ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_work_example|has_work_example]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_work_example.public|has_work_example.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_example.internal|has_work_example.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_work_example.protect|has_work_example.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_work_example.private|has_work_example.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_work_example.personal|has_work_example.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_work_example.secret|has_work_example.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_work_example|has_work_example]] 
+- [[../../../../../_public/schema-org/Relation/has/has_work_example.public|has_work_example.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_work_example.internal|has_work_example.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_work_example.protect|has_work_example.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_work_example.private|has_work_example.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_work_example.personal|has_work_example.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_work_example.secret|has_work_example.secret]] 

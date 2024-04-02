@@ -113,13 +113,13 @@ markerFolder: ./USA_Outlying~Islands/
 [name-de::USA Inseln]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[North-America]]  
+has_place_continent:: [[North-America]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::499]
-[geo-lon::]
-[geo-lat::]
+[has_place_longitude::]
+[has_place_latitude::]
 
 
 

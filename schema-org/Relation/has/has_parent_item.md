@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Comment )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_parent_item|has_parent_item]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_parent_item.public|has_parent_item.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_parent_item.internal|has_parent_item.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_parent_item.protect|has_parent_item.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_parent_item.private|has_parent_item.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_parent_item.personal|has_parent_item.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_parent_item.secret|has_parent_item.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_parent_item|has_parent_item]] 
+- [[../../../../../_public/schema-org/Relation/has/has_parent_item.public|has_parent_item.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_parent_item.internal|has_parent_item.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_parent_item.protect|has_parent_item.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_parent_item.private|has_parent_item.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_parent_item.personal|has_parent_item.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_parent_item.secret|has_parent_item.secret]] 

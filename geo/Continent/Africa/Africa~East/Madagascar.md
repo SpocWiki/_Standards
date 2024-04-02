@@ -122,7 +122,7 @@ markerFolder: ./Madagascar//
 [name-de::Madagaskar]
 [Area-Total::587041]
 [Area-Land::581540]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RM]
 Capital :: [[Antananarivo]]  
 
@@ -134,8 +134,10 @@ Capital :: [[Antananarivo]]
 
 [Alcohol-l::1.3]
 [Language-Id::496]
-[geo-lon::47.5083]
-[geo-lat::-18.8933]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::47.5083]
+[has_place_latitude::-18.8933]
 
 
 

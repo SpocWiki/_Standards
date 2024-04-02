@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MusicComposition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_music_arrangement|has_music_arrangement]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_music_arrangement.public|has_music_arrangement.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_music_arrangement.internal|has_music_arrangement.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_music_arrangement.protect|has_music_arrangement.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_music_arrangement.private|has_music_arrangement.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_music_arrangement.personal|has_music_arrangement.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_music_arrangement.secret|has_music_arrangement.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_music_arrangement|has_music_arrangement]] 
+- [[../../../../../_public/schema-org/Relation/has/has_music_arrangement.public|has_music_arrangement.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_music_arrangement.internal|has_music_arrangement.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_music_arrangement.protect|has_music_arrangement.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_music_arrangement.private|has_music_arrangement.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_music_arrangement.personal|has_music_arrangement.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_music_arrangement.secret|has_music_arrangement.secret]] 

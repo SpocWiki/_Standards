@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_reviewed_by|is_reviewed_by]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_reviewed_by.public|is_reviewed_by.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_reviewed_by.internal|is_reviewed_by.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_reviewed_by.protect|is_reviewed_by.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_reviewed_by.private|is_reviewed_by.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_reviewed_by.personal|is_reviewed_by.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_reviewed_by.secret|is_reviewed_by.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_reviewed_by|is_reviewed_by]] 
+- [[../../../../../_public/schema-org/Relation/is/is_reviewed_by.public|is_reviewed_by.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_reviewed_by.internal|is_reviewed_by.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_reviewed_by.protect|is_reviewed_by.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_reviewed_by.private|is_reviewed_by.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_reviewed_by.personal|is_reviewed_by.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_reviewed_by.secret|is_reviewed_by.secret]] 

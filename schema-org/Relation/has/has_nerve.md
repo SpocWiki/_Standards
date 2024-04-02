@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Nerve )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_nerve|has_nerve]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_nerve.public|has_nerve.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nerve.internal|has_nerve.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nerve.protect|has_nerve.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_nerve.private|has_nerve.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_nerve.personal|has_nerve.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_nerve.secret|has_nerve.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_nerve|has_nerve]] 
+- [[../../../../../_public/schema-org/Relation/has/has_nerve.public|has_nerve.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_nerve.internal|has_nerve.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_nerve.protect|has_nerve.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_nerve.private|has_nerve.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_nerve.personal|has_nerve.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_nerve.secret|has_nerve.secret]] 

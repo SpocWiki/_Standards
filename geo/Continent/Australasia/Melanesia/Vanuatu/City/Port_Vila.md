@@ -12,10 +12,12 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::168.3] 
-[geo-lat::-17.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::168.3] 
+[has_place_latitude::-17.75] 
 [name::Port Vila] 
-State ::  
+has_place_province::  
 Country ::[[../../../Melanesia/Vanuatu]]ronesia/Vanuatu]]]  
 [StateId::] 
 [Population::] 

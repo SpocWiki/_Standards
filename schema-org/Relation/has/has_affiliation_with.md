@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: memberOf ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_affiliation_with|has_affiliation_with]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_affiliation_with.public|has_affiliation_with.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_affiliation_with.internal|has_affiliation_with.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_affiliation_with.protect|has_affiliation_with.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_affiliation_with.private|has_affiliation_with.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_affiliation_with.personal|has_affiliation_with.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_affiliation_with.secret|has_affiliation_with.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_affiliation_with|has_affiliation_with]] 
+- [[../../../../../_public/schema-org/Relation/has/has_affiliation_with.public|has_affiliation_with.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_affiliation_with.internal|has_affiliation_with.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_affiliation_with.protect|has_affiliation_with.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_affiliation_with.private|has_affiliation_with.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_affiliation_with.personal|has_affiliation_with.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_affiliation_with.secret|has_affiliation_with.secret]] 

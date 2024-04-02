@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_used_to_diagnose|is_used_to_diagnose]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_used_to_diagnose.public|is_used_to_diagnose.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_used_to_diagnose.internal|is_used_to_diagnose.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_used_to_diagnose.protect|is_used_to_diagnose.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_used_to_diagnose.private|is_used_to_diagnose.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_used_to_diagnose.personal|is_used_to_diagnose.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_used_to_diagnose.secret|is_used_to_diagnose.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_used_to_diagnose|is_used_to_diagnose]] 
+- [[../../../../../_public/schema-org/Relation/is/is_used_to_diagnose.public|is_used_to_diagnose.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_used_to_diagnose.internal|is_used_to_diagnose.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_used_to_diagnose.protect|is_used_to_diagnose.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_used_to_diagnose.private|is_used_to_diagnose.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_used_to_diagnose.personal|is_used_to_diagnose.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_used_to_diagnose.secret|is_used_to_diagnose.secret]] 

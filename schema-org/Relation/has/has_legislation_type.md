@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: genre ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_legislation_type|has_legislation_type]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_legislation_type.public|has_legislation_type.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legislation_type.internal|has_legislation_type.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_legislation_type.protect|has_legislation_type.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_legislation_type.private|has_legislation_type.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_legislation_type.personal|has_legislation_type.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_legislation_type.secret|has_legislation_type.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_legislation_type|has_legislation_type]] 
+- [[../../../../../_public/schema-org/Relation/has/has_legislation_type.public|has_legislation_type.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_legislation_type.internal|has_legislation_type.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_legislation_type.protect|has_legislation_type.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_legislation_type.private|has_legislation_type.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_legislation_type.personal|has_legislation_type.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_legislation_type.secret|has_legislation_type.secret]] 

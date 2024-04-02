@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: EntryPoint, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_target|has_target]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_target.public|has_target.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_target.internal|has_target.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_target.protect|has_target.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_target.private|has_target.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_target.personal|has_target.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_target.secret|has_target.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_target|has_target]] 
+- [[../../../../../_public/schema-org/Relation/has/has_target.public|has_target.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_target.internal|has_target.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_target.protect|has_target.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_target.private|has_target.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_target.personal|has_target.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_target.secret|has_target.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_broadcaster|has_broadcaster]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_broadcaster.public|has_broadcaster.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_broadcaster.internal|has_broadcaster.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_broadcaster.protect|has_broadcaster.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_broadcaster.private|has_broadcaster.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_broadcaster.personal|has_broadcaster.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_broadcaster.secret|has_broadcaster.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_broadcaster|has_broadcaster]] 
+- [[../../../../../_public/schema-org/Relation/has/has_broadcaster.public|has_broadcaster.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_broadcaster.internal|has_broadcaster.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_broadcaster.protect|has_broadcaster.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_broadcaster.private|has_broadcaster.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_broadcaster.personal|has_broadcaster.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_broadcaster.secret|has_broadcaster.secret]] 

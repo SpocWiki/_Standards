@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_attendee|has_attendee]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_attendee.public|has_attendee.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_attendee.internal|has_attendee.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_attendee.protect|has_attendee.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_attendee.private|has_attendee.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_attendee.personal|has_attendee.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_attendee.secret|has_attendee.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_attendee|has_attendee]] 
+- [[../../../../../_public/schema-org/Relation/has/has_attendee.public|has_attendee.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_attendee.internal|has_attendee.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_attendee.protect|has_attendee.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_attendee.private|has_attendee.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_attendee.personal|has_attendee.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_attendee.secret|has_attendee.secret]] 

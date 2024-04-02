@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: BusinessFunction )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_business_function|has_business_function]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_business_function.public|has_business_function.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_business_function.internal|has_business_function.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_business_function.protect|has_business_function.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_business_function.private|has_business_function.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_business_function.personal|has_business_function.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_business_function.secret|has_business_function.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_business_function|has_business_function]] 
+- [[../../../../../_public/schema-org/Relation/has/has_business_function.public|has_business_function.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_business_function.internal|has_business_function.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_business_function.protect|has_business_function.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_business_function.private|has_business_function.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_business_function.personal|has_business_function.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_business_function.secret|has_business_function.secret]] 

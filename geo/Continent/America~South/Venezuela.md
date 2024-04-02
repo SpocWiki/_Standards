@@ -131,7 +131,7 @@ markerFolder: ./Venezuela/
 [name-de::Venezuela]
 [Area-Total::912050]
 [Area-Land::882050]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::YV]
 Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]  
 
@@ -143,8 +143,8 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 
 [Alcohol-l::8.2]
 [Language-Id::492]
-[geo-lon::-66.93]
-[geo-lat::10.5]
+[has_place_longitude::-66.93]
+[has_place_latitude::10.5]
 
 
 

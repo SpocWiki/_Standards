@@ -120,7 +120,7 @@ markerFolder: ./Burkina_Faso//
 [name-de::Burkina Faso]
 [Area-Total::274200]
 [Area-Land::273600]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::BF]
 Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/City/Ouagadougou]]  
 
@@ -131,8 +131,8 @@ Capital :: [[Burkina_Faso/Regions~Burkina_Faso/Centre/counties~Centre/Kadiogo/Ci
 ![[Flag_of_Burkina_Faso.svg|350]]
 [Alcohol-l::7]
 [Language-Id::496]
-[geo-lon::-1.66667]
-[geo-lat::12.3333]
+[has_place_longitude::-1.66667]
+[has_place_latitude::12.3333]
 
 
 

@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Accommodation)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_plan_for_apartment|is_plan_for_apartment]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_plan_for_apartment.public|is_plan_for_apartment.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_plan_for_apartment.internal|is_plan_for_apartment.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_plan_for_apartment.protect|is_plan_for_apartment.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_plan_for_apartment.private|is_plan_for_apartment.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_plan_for_apartment.personal|is_plan_for_apartment.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_plan_for_apartment.secret|is_plan_for_apartment.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_plan_for_apartment|is_plan_for_apartment]] 
+- [[../../../../../_public/schema-org/Relation/is/is_plan_for_apartment.public|is_plan_for_apartment.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_plan_for_apartment.internal|is_plan_for_apartment.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_plan_for_apartment.protect|is_plan_for_apartment.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_plan_for_apartment.private|is_plan_for_apartment.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_plan_for_apartment.personal|is_plan_for_apartment.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_plan_for_apartment.secret|is_plan_for_apartment.secret]] 

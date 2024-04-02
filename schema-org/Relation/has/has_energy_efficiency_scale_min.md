@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: EUEnergyEfficiencyEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_energy_efficiency_scale_min|has_energy_efficiency_scale_min]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_energy_efficiency_scale_min.public|has_energy_efficiency_scale_min.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_min.internal|has_energy_efficiency_scale_min.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_min.protect|has_energy_efficiency_scale_min.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_min.private|has_energy_efficiency_scale_min.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_min.personal|has_energy_efficiency_scale_min.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_energy_efficiency_scale_min.secret|has_energy_efficiency_scale_min.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_energy_efficiency_scale_min|has_energy_efficiency_scale_min]] 
+- [[../../../../../_public/schema-org/Relation/has/has_energy_efficiency_scale_min.public|has_energy_efficiency_scale_min.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_energy_efficiency_scale_min.internal|has_energy_efficiency_scale_min.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_energy_efficiency_scale_min.protect|has_energy_efficiency_scale_min.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_energy_efficiency_scale_min.private|has_energy_efficiency_scale_min.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_energy_efficiency_scale_min.personal|has_energy_efficiency_scale_min.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_energy_efficiency_scale_min.secret|has_energy_efficiency_scale_min.secret]] 

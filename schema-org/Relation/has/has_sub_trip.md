@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/inverse_of  :: partOfTrip ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sub_trip|has_sub_trip]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_sub_trip.public|has_sub_trip.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sub_trip.internal|has_sub_trip.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sub_trip.protect|has_sub_trip.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sub_trip.private|has_sub_trip.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sub_trip.personal|has_sub_trip.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sub_trip.secret|has_sub_trip.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_sub_trip|has_sub_trip]] 
+- [[../../../../../_public/schema-org/Relation/has/has_sub_trip.public|has_sub_trip.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_sub_trip.internal|has_sub_trip.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_sub_trip.protect|has_sub_trip.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_sub_trip.private|has_sub_trip.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_sub_trip.personal|has_sub_trip.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_sub_trip.secret|has_sub_trip.secret]] 

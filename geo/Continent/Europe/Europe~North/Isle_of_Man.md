@@ -116,13 +116,13 @@ markerFolder: ./Isle_of_Man/
 [name-de::Isle of Man]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::499]
-[geo-lon::-4.5]
-[geo-lat::54.25]
+[has_place_longitude::-4.5]
+[has_place_latitude::54.25]
 
 
 

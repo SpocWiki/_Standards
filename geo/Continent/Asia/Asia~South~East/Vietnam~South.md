@@ -24,7 +24,7 @@ markerFolder: ./Vietnam~South/
 [name-de::Süd Vietnam]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::]
 Capital :: [[Saigon]]  
 ![[Coat_of_arms_of_Vietnam.svg|350]]
@@ -32,8 +32,10 @@ Capital :: [[Saigon]]
 ![[Flag_of_Vietnam.svg|350]]
 [Alcohol-l::]
 [Language-Id::460]
-[geo-lon::106.667]
-[geo-lat::10.75]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::106.667]
+[has_place_latitude::10.75]
 
 
 

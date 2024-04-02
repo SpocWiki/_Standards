@@ -6,6 +6,9 @@ An age is the smallest hierarchical geochronologic unit and is equivalent to a c
 
 ## All Contents
 
+```folderv
+```
+
 ```ccard
 type: folder_brief_live
 style : card

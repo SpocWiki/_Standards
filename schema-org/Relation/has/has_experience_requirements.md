@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: OccupationalExperienceRequirements, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_experience_requirements|has_experience_requirements]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_experience_requirements.public|has_experience_requirements.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_experience_requirements.internal|has_experience_requirements.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_experience_requirements.protect|has_experience_requirements.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_experience_requirements.private|has_experience_requirements.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_experience_requirements.personal|has_experience_requirements.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_experience_requirements.secret|has_experience_requirements.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_experience_requirements|has_experience_requirements]] 
+- [[../../../../../_public/schema-org/Relation/has/has_experience_requirements.public|has_experience_requirements.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_experience_requirements.internal|has_experience_requirements.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_experience_requirements.protect|has_experience_requirements.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_experience_requirements.private|has_experience_requirements.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_experience_requirements.personal|has_experience_requirements.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_experience_requirements.secret|has_experience_requirements.secret]] 

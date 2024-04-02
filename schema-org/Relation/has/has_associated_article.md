@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: NewsArticle )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_associated_article|has_associated_article]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_associated_article.public|has_associated_article.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_associated_article.internal|has_associated_article.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_associated_article.protect|has_associated_article.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_associated_article.private|has_associated_article.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_associated_article.personal|has_associated_article.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_associated_article.secret|has_associated_article.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_associated_article|has_associated_article]] 
+- [[../../../../../_public/schema-org/Relation/has/has_associated_article.public|has_associated_article.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_associated_article.internal|has_associated_article.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_associated_article.protect|has_associated_article.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_associated_article.private|has_associated_article.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_associated_article.personal|has_associated_article.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_associated_article.secret|has_associated_article.secret]] 

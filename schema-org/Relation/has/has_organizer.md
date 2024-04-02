@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_organizer|has_organizer]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_organizer.public|has_organizer.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_organizer.internal|has_organizer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_organizer.protect|has_organizer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_organizer.private|has_organizer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_organizer.personal|has_organizer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_organizer.secret|has_organizer.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_organizer|has_organizer]] 
+- [[../../../../../_public/schema-org/Relation/has/has_organizer.public|has_organizer.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_organizer.internal|has_organizer.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_organizer.protect|has_organizer.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_organizer.private|has_organizer.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_organizer.personal|has_organizer.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_organizer.secret|has_organizer.secret]] 

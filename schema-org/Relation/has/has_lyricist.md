@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_lyricist|has_lyricist]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_lyricist.public|has_lyricist.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_lyricist.internal|has_lyricist.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_lyricist.protect|has_lyricist.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_lyricist.private|has_lyricist.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_lyricist.personal|has_lyricist.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_lyricist.secret|has_lyricist.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_lyricist|has_lyricist]] 
+- [[../../../../../_public/schema-org/Relation/has/has_lyricist.public|has_lyricist.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_lyricist.internal|has_lyricist.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_lyricist.protect|has_lyricist.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_lyricist.private|has_lyricist.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_lyricist.personal|has_lyricist.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_lyricist.secret|has_lyricist.secret]] 

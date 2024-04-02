@@ -122,7 +122,7 @@ markerFolder: ./Botswana//
 [name-de::Botswana]
 [Area-Total::582000]
 [Area-Land::566730]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RB]
 Capital :: [[Gaborone]]  
 
@@ -133,8 +133,10 @@ Capital :: [[Gaborone]]
 ![[Flag_of_Botswana.svg|350]]
 [Alcohol-l::8]
 [Language-Id::499]
-[geo-lon::25.9167]
-[geo-lat::-24.6333]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::25.9167]
+[has_place_latitude::-24.6333]
 
 
 

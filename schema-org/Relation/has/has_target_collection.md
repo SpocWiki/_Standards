@@ -43,10 +43,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_target_collection|has_target_collection]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_target_collection.public|has_target_collection.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_target_collection.internal|has_target_collection.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_target_collection.protect|has_target_collection.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_target_collection.private|has_target_collection.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_target_collection.personal|has_target_collection.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_target_collection.secret|has_target_collection.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_target_collection|has_target_collection]] 
+- [[../../../../../_public/schema-org/Relation/has/has_target_collection.public|has_target_collection.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_target_collection.internal|has_target_collection.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_target_collection.protect|has_target_collection.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_target_collection.private|has_target_collection.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_target_collection.personal|has_target_collection.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_target_collection.secret|has_target_collection.secret]] 

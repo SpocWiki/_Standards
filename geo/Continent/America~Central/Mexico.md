@@ -130,7 +130,7 @@ markerFolder: ./Mexico/
 [name-de::Mexiko]
 [Area-Total::1958201]
 [Area-Land::1908690]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::MEX]
 Capital :: [[Mexico_City]]  
 
@@ -142,8 +142,8 @@ Capital :: [[Mexico_City]]
 
 [Alcohol-l::8.4]
 [Language-Id::492]
-[geo-lon::-99.15]
-[geo-lat::19.4]
+[has_place_longitude::-99.15]
+[has_place_latitude::19.4]
 
 
 

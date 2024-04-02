@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Service)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_providing_service|is_providing_service]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_providing_service.public|is_providing_service.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_providing_service.internal|is_providing_service.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_providing_service.protect|is_providing_service.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_providing_service.private|is_providing_service.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_providing_service.personal|is_providing_service.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_providing_service.secret|is_providing_service.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_providing_service|is_providing_service]] 
+- [[../../../../../_public/schema-org/Relation/is/is_providing_service.public|is_providing_service.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_providing_service.internal|is_providing_service.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_providing_service.protect|is_providing_service.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_providing_service.private|is_providing_service.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_providing_service.personal|is_providing_service.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_providing_service.secret|is_providing_service.secret]] 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: ParcelDelivery )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_order_delivery|has_order_delivery]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_order_delivery.public|has_order_delivery.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_order_delivery.internal|has_order_delivery.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_order_delivery.protect|has_order_delivery.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_order_delivery.private|has_order_delivery.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_order_delivery.personal|has_order_delivery.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_order_delivery.secret|has_order_delivery.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_order_delivery|has_order_delivery]] 
+- [[../../../../../_public/schema-org/Relation/has/has_order_delivery.public|has_order_delivery.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_order_delivery.internal|has_order_delivery.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_order_delivery.protect|has_order_delivery.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_order_delivery.private|has_order_delivery.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_order_delivery.personal|has_order_delivery.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_order_delivery.secret|has_order_delivery.secret]] 

@@ -127,7 +127,7 @@ markerFolder: ./Senegal//
 [name-de::Senegal]
 [Area-Total::196722]
 [Area-Land::192530]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::SN]
 Capital :: [[Dakar]]  
 
@@ -139,8 +139,8 @@ Capital :: [[Dakar]]
 
 [Alcohol-l::0.6]
 [Language-Id::496]
-[geo-lon::-17.125]
-[geo-lat::14.435]
+[has_place_longitude::-17.125]
+[has_place_latitude::14.435]
 
 
 

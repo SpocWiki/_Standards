@@ -123,7 +123,7 @@ markerFolder: ./Portugal//
 [name-de::Portugal]
 [Area-Total::92270]
 [Area-Land::91950]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::P]
 Capital :: [[Lissabon=Lisboa=Lisbon]]  
 ![[Coat_of_arms_of_Portugal.svg|450]]
@@ -131,8 +131,8 @@ Capital :: [[Lissabon=Lisboa=Lisbon]]
 ![[Flag_of_Portugal.svg|350]]
 [Alcohol-l::14.6]
 [Language-Id::467]
-[geo-lon::-5.10879]
-[geo-lat::42.1067]
+[has_place_longitude::-5.10879]
+[has_place_latitude::42.1067]
 
 
 

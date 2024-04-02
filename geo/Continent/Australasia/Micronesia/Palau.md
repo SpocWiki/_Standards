@@ -132,13 +132,15 @@ markerFolder: ./Palau/
 
 [Area-Total::508] 
 [Area-Land::0] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::PAL] 
 Capital :: [[Melekeok]]  
 [Alcohol-l::10.1] 
 [Language-Id::499] 
-[geo-lon::134.467] 
-[geo-lat::7.35] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::134.467] 
+[has_place_latitude::7.35] 
 
 
 

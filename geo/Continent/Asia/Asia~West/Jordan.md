@@ -130,7 +130,7 @@ markerFolder: ./Jordan/
 [name-de::Jordanien]
 [Area-Total::88946]
 [Area-Land::88930]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::JOR]
 Capital :: [[Jordan/Counties/Amman/City/Amman]] 
 ![[Jordan/Coat_of_arms_of_Jordan.svg|350]]  
@@ -138,8 +138,10 @@ Capital :: [[Jordan/Counties/Amman/City/Amman]]
 ![[Jordan/Flag_of_Jordan.svg|350]]  
 [Alcohol-l::0.7]
 [Language-Id::472]
-[geo-lon::35.93]
-[geo-lat::31.95]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35.93]
+[has_place_latitude::31.95]
 
 
 

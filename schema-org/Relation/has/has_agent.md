@@ -43,10 +43,10 @@ Relation describes that:
 ( #has_/range :: [Organization](../../Class/is_a_/organization.md), [Person](../../Class/is_a_/person.md) )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_agent|has_agent]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_agent.public|has_agent.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_agent.internal|has_agent.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_agent.protect|has_agent.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_agent.private|has_agent.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_agent.personal|has_agent.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_agent.secret|has_agent.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_agent|has_agent]] 
+- [[../../../../../_public/schema-org/Relation/has/has_agent.public|has_agent.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_agent.internal|has_agent.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_agent.protect|has_agent.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_agent.private|has_agent.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_agent.personal|has_agent.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_agent.secret|has_agent.secret]] 

@@ -124,7 +124,7 @@ markerFolder: ./Ghana//
 [name-de::Ghana]
 [Area-Total::238537]
 [Area-Land::227540]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::GH]
 Capital :: [[Accra]]  
 
@@ -138,8 +138,8 @@ Capital :: [[Accra]]
 
 [Alcohol-l::3]
 [Language-Id::499]
-[geo-lon::-0.25]
-[geo-lat::5.55]
+[has_place_longitude::-0.25]
+[has_place_latitude::5.55]
 
 
 

@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: Country )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_nationality|has_nationality]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_nationality.public|has_nationality.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_nationality.internal|has_nationality.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_nationality.protect|has_nationality.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_nationality.private|has_nationality.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_nationality.personal|has_nationality.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_nationality.secret|has_nationality.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_nationality|has_nationality]] 
+- [[../../../../../_public/schema-org/Relation/has/has_nationality.public|has_nationality.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_nationality.internal|has_nationality.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_nationality.protect|has_nationality.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_nationality.private|has_nationality.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_nationality.personal|has_nationality.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_nationality.secret|has_nationality.secret]] 

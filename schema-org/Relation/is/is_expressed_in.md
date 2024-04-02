@@ -45,10 +45,10 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, BioChemEntity, DefinedTerm )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_expressed_in|is_expressed_in]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_expressed_in.public|is_expressed_in.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_expressed_in.internal|is_expressed_in.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_expressed_in.protect|is_expressed_in.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_expressed_in.private|is_expressed_in.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_expressed_in.personal|is_expressed_in.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_expressed_in.secret|is_expressed_in.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_expressed_in|is_expressed_in]] 
+- [[../../../../../_public/schema-org/Relation/is/is_expressed_in.public|is_expressed_in.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_expressed_in.internal|is_expressed_in.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_expressed_in.protect|is_expressed_in.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_expressed_in.private|is_expressed_in.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_expressed_in.personal|is_expressed_in.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_expressed_in.secret|is_expressed_in.secret]] 

@@ -130,7 +130,7 @@ markerFolder: ./Ukraine//
 [name-de::Ukraine]
 [Area-Total::603700]
 [Area-Land::579350]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::UA]
 Capital :: [[Kiew]]  
 ![[Coat_of_arms_of_Ukraine.svg|350]]
@@ -138,8 +138,10 @@ Capital :: [[Kiew]]
 ![[Flag_of_Ukraine.svg|350]]
 [Alcohol-l::15.6]
 [Language-Id::469]
-[geo-lon::30.5]
-[geo-lat::50.45]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::30.5]
+[has_place_latitude::50.45]
 
 
 

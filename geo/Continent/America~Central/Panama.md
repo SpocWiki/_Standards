@@ -129,7 +129,7 @@ markerFolder: ./Panama/
 [name-de::Panama]
 [Area-Total::75517]
 [Area-Land::74430]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::PA]
 Capital :: [[Panama_City]]  
 
@@ -141,8 +141,8 @@ Capital :: [[Panama_City]]
 
 [Alcohol-l::6.9]
 [Language-Id::492]
-[geo-lon::-79.5333]
-[geo-lat::8.96667]
+[has_place_longitude::-79.5333]
+[has_place_latitude::8.96667]
 
 
 

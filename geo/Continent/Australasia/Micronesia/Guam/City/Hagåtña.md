@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::144.75] 
-[geo-lat::13.47917] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::144.75] 
+[has_place_latitude::13.47917] 
 [name::Hagåtña] 
-State ::  
-Country :: [[../../../../../Oceania/Guam]]  
+has_place_province::  
+has_place_country:: [[../../../../../Oceania/Guam]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 

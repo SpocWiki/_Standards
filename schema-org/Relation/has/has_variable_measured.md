@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: PropertyValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_variable_measured|has_variable_measured]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_variable_measured.public|has_variable_measured.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_variable_measured.internal|has_variable_measured.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_variable_measured.protect|has_variable_measured.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_variable_measured.private|has_variable_measured.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_variable_measured.personal|has_variable_measured.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_variable_measured.secret|has_variable_measured.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_variable_measured|has_variable_measured]] 
+- [[../../../../../_public/schema-org/Relation/has/has_variable_measured.public|has_variable_measured.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_variable_measured.internal|has_variable_measured.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_variable_measured.protect|has_variable_measured.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_variable_measured.private|has_variable_measured.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_variable_measured.personal|has_variable_measured.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_variable_measured.secret|has_variable_measured.secret]] 

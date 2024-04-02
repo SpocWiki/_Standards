@@ -46,10 +46,10 @@ Relation describes that:
 ( #has_/range :: LegalValueLevel )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_legislation_legal_value|has_legislation_legal_value]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_legislation_legal_value.public|has_legislation_legal_value.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_legislation_legal_value.internal|has_legislation_legal_value.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_legislation_legal_value.protect|has_legislation_legal_value.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_legislation_legal_value.private|has_legislation_legal_value.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_legislation_legal_value.personal|has_legislation_legal_value.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_legislation_legal_value.secret|has_legislation_legal_value.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_legislation_legal_value|has_legislation_legal_value]] 
+- [[../../../../../_public/schema-org/Relation/has/has_legislation_legal_value.public|has_legislation_legal_value.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_legislation_legal_value.internal|has_legislation_legal_value.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_legislation_legal_value.protect|has_legislation_legal_value.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_legislation_legal_value.private|has_legislation_legal_value.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_legislation_legal_value.personal|has_legislation_legal_value.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_legislation_legal_value.secret|has_legislation_legal_value.secret]] 

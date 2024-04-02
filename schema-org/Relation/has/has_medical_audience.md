@@ -42,10 +42,10 @@ Relation describes that:
 ( #has_/range :: MedicalAudience, MedicalAudienceType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_medical_audience|has_medical_audience]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_medical_audience.public|has_medical_audience.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_medical_audience.internal|has_medical_audience.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_medical_audience.protect|has_medical_audience.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_medical_audience.private|has_medical_audience.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_medical_audience.personal|has_medical_audience.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_medical_audience.secret|has_medical_audience.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_medical_audience|has_medical_audience]] 
+- [[../../../../../_public/schema-org/Relation/has/has_medical_audience.public|has_medical_audience.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_medical_audience.internal|has_medical_audience.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_medical_audience.protect|has_medical_audience.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_medical_audience.private|has_medical_audience.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_medical_audience.personal|has_medical_audience.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_medical_audience.secret|has_medical_audience.secret]] 

@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: competitor ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_home_team|has_home_team]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_home_team.public|has_home_team.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_home_team.internal|has_home_team.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_home_team.protect|has_home_team.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_home_team.private|has_home_team.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_home_team.personal|has_home_team.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_home_team.secret|has_home_team.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_home_team|has_home_team]] 
+- [[../../../../../_public/schema-org/Relation/has/has_home_team.public|has_home_team.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_home_team.internal|has_home_team.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_home_team.protect|has_home_team.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_home_team.private|has_home_team.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_home_team.personal|has_home_team.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_home_team.secret|has_home_team.secret]] 

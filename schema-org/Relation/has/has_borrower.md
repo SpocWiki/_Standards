@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_borrower|has_borrower]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_borrower.public|has_borrower.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_borrower.internal|has_borrower.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_borrower.protect|has_borrower.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_borrower.private|has_borrower.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_borrower.personal|has_borrower.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_borrower.secret|has_borrower.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_borrower|has_borrower]] 
+- [[../../../../../_public/schema-org/Relation/has/has_borrower.public|has_borrower.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_borrower.internal|has_borrower.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_borrower.protect|has_borrower.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_borrower.private|has_borrower.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_borrower.personal|has_borrower.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_borrower.secret|has_borrower.secret]] 

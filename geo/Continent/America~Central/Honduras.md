@@ -130,7 +130,7 @@ markerFolder: ./Honduras/
 [name-de::Honduras]
 [Area-Total::112088]
 [Area-Land::111890]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::HN]
 Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]  
 
@@ -142,8 +142,8 @@ Capital :: [[Honduras/Counties/Francisco_Morazán/City/Tegucigalpa]]
 
 [Alcohol-l::4.5]
 [Language-Id::492]
-[geo-lon::-87.2167]
-[geo-lat::14.1]
+[has_place_longitude::-87.2167]
+[has_place_latitude::14.1]
 
 
 

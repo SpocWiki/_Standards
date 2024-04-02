@@ -133,7 +133,7 @@ markerFolder: ./Israel///
 [name-de::Israel]
 [Area-Total::21946]
 [Area-Land::20620]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::IL]
 Capital :: [[Israel/Counties/Jerusalem]]  
 
@@ -145,8 +145,10 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 [Alcohol-l::2.9]
 [Language-Id::]
-[geo-lon::35]
-[geo-lat::32.23]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35]
+[has_place_latitude::32.23]
 
 
 

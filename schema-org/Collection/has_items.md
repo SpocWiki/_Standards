@@ -45,10 +45,10 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_items|has_items]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_items.public|has_items.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_items.internal|has_items.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_items.protect|has_items.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_items.private|has_items.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_items.personal|has_items.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_items.secret|has_items.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_items|has_items]] 
+- [[../../../../../_public/schema-org/Relation/has/has_items.public|has_items.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_items.internal|has_items.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_items.protect|has_items.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_items.private|has_items.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_items.personal|has_items.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_items.secret|has_items.secret]] 

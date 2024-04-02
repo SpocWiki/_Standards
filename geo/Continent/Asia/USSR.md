@@ -28,13 +28,13 @@ markerFolder: ./Russia~Asia//
 [name-de::UdSSR]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::469]
-[geo-lon::]
-[geo-lat::]
+[has_place_longitude::]
+[has_place_latitude::]
 
 
 

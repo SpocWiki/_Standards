@@ -43,10 +43,10 @@ Relation describes that:
 ( #has_/range :: QualitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/is_non_equal|is_non_equal]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/is_non_equal.public|is_non_equal.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/is_non_equal.internal|is_non_equal.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/is_non_equal.protect|is_non_equal.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/is_non_equal.private|is_non_equal.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/is_non_equal.personal|is_non_equal.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/is_non_equal.secret|is_non_equal.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/is_non_equal|is_non_equal]] 
+- [[../../../../../_public/schema-org/Relation/has/is_non_equal.public|is_non_equal.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/is_non_equal.internal|is_non_equal.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/is_non_equal.protect|is_non_equal.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/is_non_equal.private|is_non_equal.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/is_non_equal.personal|is_non_equal.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/is_non_equal.secret|is_non_equal.secret]] 

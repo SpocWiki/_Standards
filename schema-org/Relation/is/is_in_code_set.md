@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: inDefinedTermSet ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_in_code_set|is_in_code_set]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_in_code_set.public|is_in_code_set.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_in_code_set.internal|is_in_code_set.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_in_code_set.protect|is_in_code_set.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_in_code_set.private|is_in_code_set.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_in_code_set.personal|is_in_code_set.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_in_code_set.secret|is_in_code_set.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_in_code_set|is_in_code_set]] 
+- [[../../../../../_public/schema-org/Relation/is/is_in_code_set.public|is_in_code_set.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_in_code_set.internal|is_in_code_set.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_in_code_set.protect|is_in_code_set.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_in_code_set.private|is_in_code_set.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_in_code_set.personal|is_in_code_set.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_in_code_set.secret|is_in_code_set.secret]] 

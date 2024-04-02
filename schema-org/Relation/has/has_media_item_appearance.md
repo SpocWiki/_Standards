@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: MediaObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_media_item_appearance|has_media_item_appearance]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_media_item_appearance.public|has_media_item_appearance.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_media_item_appearance.internal|has_media_item_appearance.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_media_item_appearance.protect|has_media_item_appearance.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_media_item_appearance.private|has_media_item_appearance.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_media_item_appearance.personal|has_media_item_appearance.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_media_item_appearance.secret|has_media_item_appearance.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_media_item_appearance|has_media_item_appearance]] 
+- [[../../../../../_public/schema-org/Relation/has/has_media_item_appearance.public|has_media_item_appearance.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_media_item_appearance.internal|has_media_item_appearance.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_media_item_appearance.protect|has_media_item_appearance.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_media_item_appearance.private|has_media_item_appearance.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_media_item_appearance.personal|has_media_item_appearance.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_media_item_appearance.secret|has_media_item_appearance.secret]] 

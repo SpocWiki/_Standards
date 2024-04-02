@@ -131,7 +131,7 @@ markerFolder: ./Cambodia/
 [name-de::Kambodscha]
 [Area-Total::181035]
 [Area-Land::176520]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::K]
 Capital :: [[Phnom_Penh]]  
 ![[Coat_of_arms_of_Cambodia.svg|350]]
@@ -139,8 +139,10 @@ Capital :: [[Phnom_Penh]]
 ![[Flag_of_Cambodia.svg|350]]
 [Alcohol-l::4.8]
 [Language-Id::]
-[geo-lon::104.917]
-[geo-lat::11.55]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::104.917]
+[has_place_latitude::11.55]
 
 
 

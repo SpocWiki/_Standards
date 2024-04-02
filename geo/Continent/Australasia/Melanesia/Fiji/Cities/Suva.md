@@ -12,10 +12,12 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::178.45] 
-[geo-lat::-18.16667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::178.45] 
+[has_place_latitude::-18.16667] 
 [name::Suva] 
-State ::  
+has_place_province::  
 Country ::[[../../../../Asia/Asia~South~East/Malay_Archipelago/Indonesia/Counties/Aceh/Fiji]]Micronesia/Fiji]]]  
 [StateId::] 
 [Population::] 

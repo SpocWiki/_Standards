@@ -140,13 +140,15 @@ markerFolder: ./Malaysia/
 
 [Area-Total::329758]
 [Area-Land::328550]
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::MAL]
 Capital :: [[Kuala_Lumpur]]  
 [Alcohol-l::0.8]
 [Language-Id::]
-[geo-lon::101.7]
-[geo-lat::3.17]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::101.7]
+[has_place_latitude::3.17]
 
 
 

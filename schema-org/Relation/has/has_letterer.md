@@ -44,10 +44,10 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_letterer|has_letterer]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_letterer.public|has_letterer.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_letterer.internal|has_letterer.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_letterer.protect|has_letterer.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_letterer.private|has_letterer.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_letterer.personal|has_letterer.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_letterer.secret|has_letterer.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_letterer|has_letterer]] 
+- [[../../../../../_public/schema-org/Relation/has/has_letterer.public|has_letterer.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_letterer.internal|has_letterer.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_letterer.protect|has_letterer.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_letterer.private|has_letterer.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_letterer.personal|has_letterer.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_letterer.secret|has_letterer.secret]] 

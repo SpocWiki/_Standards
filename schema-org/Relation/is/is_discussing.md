@@ -40,10 +40,10 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_discussing|is_discussing]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_discussing.public|is_discussing.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_discussing.internal|is_discussing.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_discussing.protect|is_discussing.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_discussing.private|is_discussing.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_discussing.personal|is_discussing.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_discussing.secret|is_discussing.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_discussing|is_discussing]] 
+- [[../../../../../_public/schema-org/Relation/is/is_discussing.public|is_discussing.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_discussing.internal|is_discussing.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_discussing.protect|is_discussing.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_discussing.private|is_discussing.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_discussing.personal|is_discussing.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_discussing.secret|is_discussing.secret]] 

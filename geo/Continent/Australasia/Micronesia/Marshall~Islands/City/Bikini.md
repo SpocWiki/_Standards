@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::165.33] 
-[geo-lat::11.58] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::165.33] 
+[has_place_latitude::11.58] 
 [name::Bikini] 
-State ::  
-Country :: [[../../../Marshall~Islands]]  
+has_place_province::  
+has_place_country:: [[../../../Marshall~Islands]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

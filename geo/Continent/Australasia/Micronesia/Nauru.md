@@ -126,13 +126,15 @@ markerFolder: ./Nauru/
 
 [Area-Total::21] 
 [Area-Land::20] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::NAU] 
 Capital :: [[Yaren]]  
 [Alcohol-l::4.8] 
 [Language-Id::499] 
-[geo-lon::166.921] 
-[geo-lat::-0.547778] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::166.921] 
+[has_place_latitude::-0.547778] 
 
 
 

@@ -130,7 +130,7 @@ markerFolder: ./Saudi_Arabia/
 [name-de::Saudi-Arabien]
 [Area-Total::2240000]
 [Area-Land::2149690]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::KSA]
 Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]  
 ![[Saudi_Arabia/Emblem_of_Saudi_Arabia.svg|350]]  
@@ -140,8 +140,10 @@ Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]
 
 [Alcohol-l::0.3]
 [Language-Id::472]
-[geo-lon::43.27]
-[geo-lat::23.05]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::43.27]
+[has_place_latitude::23.05]
 
 
 

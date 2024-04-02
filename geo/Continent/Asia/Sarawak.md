@@ -29,13 +29,15 @@ markerFolder: ./Sarawak/
 
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::]
 Capital :: [[Kuching]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::110.345]
-[geo-lat::1.56]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::110.345]
+[has_place_latitude::1.56]
 
 
 

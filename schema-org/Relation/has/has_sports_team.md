@@ -44,10 +44,10 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_sports_team|has_sports_team]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_sports_team.public|has_sports_team.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_sports_team.internal|has_sports_team.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_sports_team.protect|has_sports_team.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_sports_team.private|has_sports_team.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_sports_team.personal|has_sports_team.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_sports_team.secret|has_sports_team.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_sports_team|has_sports_team]] 
+- [[../../../../../_public/schema-org/Relation/has/has_sports_team.public|has_sports_team.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_sports_team.internal|has_sports_team.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_sports_team.protect|has_sports_team.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_sports_team.private|has_sports_team.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_sports_team.personal|has_sports_team.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_sports_team.secret|has_sports_team.secret]] 

@@ -45,10 +45,10 @@ Relation describes that:
 [ #has_/sub_properties :: [ workPerformed, workPresented ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/has/has_work_featured|has_work_featured]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/has/has_work_featured.public|has_work_featured.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/has/has_work_featured.internal|has_work_featured.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/has/has_work_featured.protect|has_work_featured.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/has/has_work_featured.private|has_work_featured.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/has/has_work_featured.personal|has_work_featured.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/has/has_work_featured.secret|has_work_featured.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/has/has_work_featured|has_work_featured]] 
+- [[../../../../../_public/schema-org/Relation/has/has_work_featured.public|has_work_featured.public]] 
+- [[../../../../../_internal/schema.org/Relation/has/has_work_featured.internal|has_work_featured.internal]] 
+- [[../../../../../_protect/schema.org/Relation/has/has_work_featured.protect|has_work_featured.protect]] 
+- [[../../../../../_private/schema.org/Relation/has/has_work_featured.private|has_work_featured.private]] 
+- [[../../../../../_personal/schema.org/Relation/has/has_work_featured.personal|has_work_featured.personal]] 
+- [[../../../../../_secret/schema.org/Relation/has/has_work_featured.secret|has_work_featured.secret]] 

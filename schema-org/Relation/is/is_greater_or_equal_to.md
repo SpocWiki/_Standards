@@ -46,10 +46,10 @@ Relation describes that:
 [ #is_/complement_of :: [[is_lesser_than]]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Predicate/Relations/is/is_greater_or_equal_to|is_greater_or_equal_to]] 
-- [[../../../../../_public/schema-org/Predicate/Relations/is/is_greater_or_equal_to.public|is_greater_or_equal_to.public]] 
-- [[../../../../../_internal/schema.org/Predicate/Relations/is/is_greater_or_equal_to.internal|is_greater_or_equal_to.internal]] 
-- [[../../../../../_protect/schema.org/Predicate/Relations/is/is_greater_or_equal_to.protect|is_greater_or_equal_to.protect]] 
-- [[../../../../../_private/schema.org/Predicate/Relations/is/is_greater_or_equal_to.private|is_greater_or_equal_to.private]] 
-- [[../../../../../_personal/schema.org/Predicate/Relations/is/is_greater_or_equal_to.personal|is_greater_or_equal_to.personal]] 
-- [[../../../../../_secret/schema.org/Predicate/Relations/is/is_greater_or_equal_to.secret|is_greater_or_equal_to.secret]] 
+- [[../../../../../_Standards/schema-org/Relation/is/is_greater_or_equal_to|is_greater_or_equal_to]] 
+- [[../../../../../_public/schema-org/Relation/is/is_greater_or_equal_to.public|is_greater_or_equal_to.public]] 
+- [[../../../../../_internal/schema.org/Relation/is/is_greater_or_equal_to.internal|is_greater_or_equal_to.internal]] 
+- [[../../../../../_protect/schema.org/Relation/is/is_greater_or_equal_to.protect|is_greater_or_equal_to.protect]] 
+- [[../../../../../_private/schema.org/Relation/is/is_greater_or_equal_to.private|is_greater_or_equal_to.private]] 
+- [[../../../../../_personal/schema.org/Relation/is/is_greater_or_equal_to.personal|is_greater_or_equal_to.personal]] 
+- [[../../../../../_secret/schema.org/Relation/is/is_greater_or_equal_to.secret|is_greater_or_equal_to.secret]] 

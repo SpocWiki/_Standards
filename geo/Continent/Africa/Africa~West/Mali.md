@@ -125,7 +125,7 @@ markerFolder: ./Mali//
 [name-de::Mali]
 [Area-Total::1240192]
 [Area-Land::1220190]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RMM]
 Capital :: [[Bamako]]  
 
@@ -137,8 +137,8 @@ Capital :: [[Bamako]]
 
 [Alcohol-l::1]
 [Language-Id::496]
-[geo-lon::-8]
-[geo-lat::12.65]
+[has_place_longitude::-8]
+[has_place_latitude::12.65]
 
 
 
