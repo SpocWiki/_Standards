@@ -39,6 +39,7 @@ Languages:
 icon: flag-mh
 ---
 
+# [[Marshall~Islands]] 
 
 [	ISO4217-currency_alphabetic	 :: USD ] 
 [	ISO4217-currency_name	 :: US Dollar ] 
@@ -116,9 +117,10 @@ Sub-region_Name ::  [[../../Australasia/Micronesia]]
 id: Marshall Islands
 zoomFeatures: true 
 minZoom: 2 
+defaultZoom: 11
 maxZoom: 18
-geojsonFolder: ./Marshall_Islands/
-markerFolder: ./Marshall_Islands/
+geojsonFolder: ./Marshall~Islands///
+markerFolder: ./Marshall~Islands////
 ```
 
 [name-en::Marshall Islands] 
@@ -134,8 +136,6 @@ Capital :: [[Majuro]]
 #is_a_ :: [[Place]] 
 [has_place_longitude::168.348] 
 [has_place_latitude::9.34833] 
-
-
 
 ## Confidential Links & Embeds: 
 - [[../../../../_Standards/geo/Continent/Oceania/Marshall~Islands|Marshall~Islands]] 

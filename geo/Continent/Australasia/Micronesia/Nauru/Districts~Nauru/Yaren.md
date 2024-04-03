@@ -1,16 +1,23 @@
 ---
-location: [ -0.54 , 166.92 ] 
-type: geo-Region
+location: [-0.5477778,166.9208] 
+mapzoom: [7,12] 
+mapmarker: city 
+type: 
+- City
+- geo-Region
 title: Yaren
 
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
+
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
+SpocWebEntityId: 36745
 
 tags:
+- geo/City
 - geo/Country/Region
 aliases:
 - Yaren
@@ -26,12 +33,25 @@ layout:
 publishDate: 
 expiryDate: 
 ---
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::166.9208] 
+[has_place_latitude::-0.5477778] 
+[name::Yaren] 
+has_place_province::  
+has_place_country:: [[Nauru]]  
+[StateId::] 
+[Population::] 
+[Unknown::] 
 
 # Yaren
 
 ```leaflet
 id: Yaren
-zoomFeatures: true 
+coordinates: [[Yaren]] 
+markerFile: [[Yaren]] 
+defaultZoom: 11 
+zoomFeatures: false 
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Yaren/
