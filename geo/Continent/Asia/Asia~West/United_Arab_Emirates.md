@@ -135,7 +135,7 @@ markerFolder: ./United_Arab_Emirates/
 [name-de::Vereinigte Arabische Emirate]
 [Area-Total::77700]
 [Area-Land::83600]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::UAE]
 Capital :: [[United_Arab_Emirates/City/Abu_Dhabi]]  
 ![[United_Arab_Emirates/Emblem_of_the_United_Arab_Emirates.svg|350]]  
@@ -145,8 +145,10 @@ Capital :: [[United_Arab_Emirates/City/Abu_Dhabi]]
 
 [Alcohol-l::0.5]
 [Language-Id::472]
-[geo-lon::54.42]
-[geo-lat::24.47]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::54.42]
+[has_place_latitude::24.47]
 
 United_Arab_Emirates (orthographic):
 ![United_Arab_Emirates (orthographic)](https://upload.wikimedia.org/wikipedia/commons/c/cd/United_Arab_Emirates_%28orthographic_projection%29.svg)

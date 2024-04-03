@@ -128,7 +128,7 @@ markerFolder: ./Bangladesh/
 [name-de::Bangladesh]
 [Area-Total::147570]
 [Area-Land::130170]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::BD]
 Capital :: [[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka]]  
 
@@ -139,8 +139,10 @@ Capital :: [[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka]]
 
 [Alcohol-l::0.2]
 [Language-Id::468]
-[geo-lon::90.36]
-[geo-lat::23.7]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::90.36]
+[has_place_latitude::23.7]
 
 
 

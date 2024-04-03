@@ -128,7 +128,7 @@ markerFolder: ./Morocco//
 [name-de::Marokko]
 [Area-Total::458730]
 [Area-Land::446300]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::MA]
 Capital :: [[./Morocco/City/Rabat|Rabat]]  
 
@@ -139,8 +139,8 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 ![[Flag_of_Morocco.svg|350]]
 [Alcohol-l::1.5]
 [Language-Id::472]
-[geo-lon::-7.6125]
-[geo-lat::33.0225]
+[has_place_longitude::-7.6125]
+[has_place_latitude::33.0225]
 
 
 

@@ -131,7 +131,7 @@ markerFolder: ./Tajikistan/
 [name-de::Tadschikistan]
 [Area-Total::143100]
 [Area-Land::140600]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::TJ]
 Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]  
 ![[Tajikistan/Emblem_of_Tajikistan.svg|350]]  
@@ -141,8 +141,10 @@ Capital :: [[Tajikistan/Counties/Dushanbe/City/Dushanbe]]
 
 [Alcohol-l::3.4]
 [Language-Id::469]
-[geo-lon::68.8]
-[geo-lat::38.55]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::68.8]
+[has_place_latitude::38.55]
 
 
 

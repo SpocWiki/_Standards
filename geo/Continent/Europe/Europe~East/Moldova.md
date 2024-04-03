@@ -134,7 +134,7 @@ markerFolder: ./Moldova//
 [name-de::Moldawien, Republic of]
 [Area-Total::33700]
 [Area-Land::32970]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::MD]
 Capital :: [[Chisinau]]  
 ![[Coat_of_arms_of_Moldova.svg|350]]
@@ -142,8 +142,10 @@ Capital :: [[Chisinau]]
 ![[Flag_of_Moldova.svg|350]]
 [Alcohol-l::18.2]
 [Language-Id::]
-[geo-lon::28.9167]
-[geo-lat::47]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.9167]
+[has_place_latitude::47]
 
 
 

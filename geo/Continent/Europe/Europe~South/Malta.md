@@ -129,7 +129,7 @@ markerFolder: ./Malta/
 [name-de::Malta]
 [Area-Total::316]
 [Area-Land::320]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::M]
 Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]  
 ![[Coat_of_arms_of_Malta.svg|350]]
@@ -137,8 +137,10 @@ Capital :: [[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]
 ![[Flag_of_Malta.svg|350]]
 [Alcohol-l::4.3]
 [Language-Id::]
-[geo-lon::14.52]
-[geo-lat::35.9]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::14.52]
+[has_place_latitude::35.9]
 
 
 

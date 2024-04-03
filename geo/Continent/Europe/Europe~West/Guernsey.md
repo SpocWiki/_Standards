@@ -115,13 +115,13 @@ markerFolder: ./Guernsey/
 [name-de::Guernsey]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::-2.55]
-[geo-lat::49.45]
+[has_place_longitude::-2.55]
+[has_place_latitude::49.45]
 
 
 

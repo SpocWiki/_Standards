@@ -127,7 +127,7 @@ markerFolder: ./Comoros//
 [name-de::Komoren]
 [Area-Total::1862]
 [Area-Land::2230]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::COM]
 [Capital-Id::]
 
@@ -138,8 +138,8 @@ Continent :: [[Africa]]
 ![[Flag_of_the_Comoros.svg|350]]
 [Alcohol-l::0.4] 
 [Language-Id::472] 
-[geo-lon :: 43.25] 
-[geo-lat :: -11.7] 
+[has_place_longitude :: 43.25] 
+[has_place_latitude :: -11.7] 
 
 
 

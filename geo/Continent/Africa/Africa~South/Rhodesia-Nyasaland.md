@@ -24,13 +24,15 @@ markerFolder: ./Rhodesia-Nyasaland//
 [name-de::Rhodesien-Nyasaland]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::]
 Capital :: [[Harare]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::31.0297]
-[geo-lat::-17.8639]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31.0297]
+[has_place_latitude::-17.8639]
 
 
 

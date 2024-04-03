@@ -133,7 +133,7 @@ markerFolder: ./Argentina/
 [name-de::Argentinien]
 [Area-Total::2766889]
 [Area-Land::2736690]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::RA]
 Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]  
 
@@ -145,8 +145,8 @@ Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]
 
 [Alcohol-l::10]
 [Language-Id::492]
-[geo-lon::-58.41]
-[geo-lat::-34.62]
+[has_place_longitude::-58.41]
+[has_place_latitude::-34.62]
 
 
 

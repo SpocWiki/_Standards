@@ -122,7 +122,7 @@ markerFolder: ./Kenya//
 [name-de::Kenia]
 [Area-Total::582646]
 [Area-Land::569140]
-Continent :: [[../../Africa]]  
+has_place_continent:: [[../../Africa]]  
 [VehicleCode::EAK]
 Capital :: [[Kenya/Counties/Nairobi.County]] 
 
@@ -133,8 +133,10 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 ![[Kenya/Flag_of_Kenya.svg|350]]
 [Alcohol-l::4.1]
 [Language-Id::499]
-[geo-lon::36.83]
-[geo-lat::-1.28]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::36.83]
+[has_place_latitude::-1.28]
 
 
 

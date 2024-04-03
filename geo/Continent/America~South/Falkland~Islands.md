@@ -41,13 +41,13 @@ markerFolder: ./Falkland~Islands/
 [name-de::Falkland Inseln]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[South-America]]  
+has_place_continent:: [[South-America]]  
 [VehicleCode::]
 Capital :: [[Falkland~Islands/City/Stanley]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::-57.85]
-[geo-lat::-51.7]
+[has_place_longitude::-57.85]
+[has_place_latitude::-51.7]
 
 
 

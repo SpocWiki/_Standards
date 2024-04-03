@@ -51,13 +51,15 @@ markerFolder: ./Serbia//
 [name-de::Jugoslawien]
 [Area-Total::102173]
 [Area-Land::0]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::YU]
 Capital :: [[Beograd]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::17.6905]
-[geo-lat::43.9957]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::17.6905]
+[has_place_latitude::43.9957]
 
 
 

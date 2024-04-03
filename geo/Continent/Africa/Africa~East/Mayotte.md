@@ -122,13 +122,15 @@ markerFolder: ./Mayotte//
 
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::]
 Capital :: [[Mamoudzou]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::45.2278]
-[geo-lat::-12.7806]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::45.2278]
+[has_place_latitude::-12.7806]
 
 
 

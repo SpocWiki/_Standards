@@ -24,13 +24,15 @@ markerFolder: ./Macao,_China/
 [name-de::Macao, China]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::467]
-[geo-lon::113.55]
-[geo-lat::22.1667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::113.55]
+[has_place_latitude::22.1667]
 
 
 

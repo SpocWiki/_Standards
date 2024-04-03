@@ -132,13 +132,15 @@ markerFolder: ./Zimbabwe//
 
 [Area-Total::390757]
 [Area-Land::386850]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::ZW]
 Capital :: [[Harare]]  
 [Alcohol-l::5.1]
 [Language-Id::499]
-[geo-lon::31.05]
-[geo-lat::-17.8333]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::31.05]
+[has_place_latitude::-17.8333]
 
 
 

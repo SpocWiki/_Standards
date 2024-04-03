@@ -121,13 +121,15 @@ markerFolder: ./British_Indian_Ocean_Territory/
 [name-de::Britisches Territorium im indischen Ozean]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::71.5]
-[geo-lat::-6]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::71.5]
+[has_place_latitude::-6]
 
 
 

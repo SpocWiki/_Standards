@@ -127,13 +127,15 @@ markerFolder: ./Vanuatu/
 
 [Area-Total::12190] 
 [Area-Land::12190] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::VAN] 
 Capital :: [[Port_Vila]]  
 [Alcohol-l::0.9] 
 [Language-Id::499] 
-[geo-lon::168.3] 
-[geo-lat::-17.75] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::168.3] 
+[has_place_latitude::-17.75] 
 
 
 

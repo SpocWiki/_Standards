@@ -135,13 +135,15 @@ markerFolder: ./Niger//
 
 [Area-Total::1267000]
 [Area-Land::1266700]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RN]
 Capital :: [[Niamey]]  
 [Alcohol-l::0.3]
 [Language-Id::496]
-[geo-lon::2.08333]
-[geo-lat::13.5333]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::2.08333]
+[has_place_latitude::13.5333]
 
 
 

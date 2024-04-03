@@ -136,13 +136,15 @@ markerFolder: ./Zambia//
 
 [Area-Total::752614]
 [Area-Land::743390]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::Z]
 Capital :: [[Lusaka]]  
 [Alcohol-l::3.9]
 [Language-Id::499]
-[geo-lon::28.2833]
-[geo-lat::-15.4167]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::28.2833]
+[has_place_latitude::-15.4167]
 
 
 

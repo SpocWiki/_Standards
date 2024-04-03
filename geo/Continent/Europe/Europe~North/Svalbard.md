@@ -24,13 +24,13 @@ markerFolder: ./Svalbard/
 [name-de::Spitzbergen]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::]
 [Capital-Id::]
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::]
-[geo-lat::78]
+[has_place_longitude::]
+[has_place_latitude::78]
 
 
 

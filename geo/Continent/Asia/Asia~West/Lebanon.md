@@ -133,7 +133,7 @@ markerFolder: ./Lebanon/
 [name-de::Libanon]
 [Area-Total::10452]
 [Area-Land::10230]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::RL]
 Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]  
 ![[Lebanon/Coat_of_arms_of_Lebanon.svg|350]]  
@@ -143,8 +143,10 @@ Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]
 
 [Alcohol-l::2.2]
 [Language-Id::472]
-[geo-lon::35.5]
-[geo-lat::33.87]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::35.5]
+[has_place_latitude::33.87]
 
 
 

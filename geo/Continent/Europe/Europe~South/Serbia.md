@@ -131,7 +131,7 @@ markerFolder: ./Serbia//
 [name-de::Serbien]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::SRB]
 Capital :: [[Beograd]]  
 ![[Coat_of_arms_of_Serbia.svg|350]]
@@ -139,8 +139,10 @@ Capital :: [[Beograd]]
 ![[Flag_of_Serbia.svg|350]]
 [Alcohol-l::11.1]
 [Language-Id::]
-[geo-lon::20.48]
-[geo-lat::44.82]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::20.48]
+[has_place_latitude::44.82]
 
 
 excluding [[Kosovo]]! 

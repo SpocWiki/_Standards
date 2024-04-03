@@ -16,6 +16,8 @@ icon: flag-ye
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Yemen
 
+I contains the Country's Provinces and Cities, 
+
 [[Yemen~Republic/ReadMe]] 
 
 [ISO2::YE]
@@ -38,13 +40,15 @@ markerFolder: ./Yemen~Republic/
 [name-de::Jemen]
 [Area-Total::536869]
 [Area-Land::527970]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::YEM]
 Capital :: [[Yemen~Republic/City/Sana‘a]] ] 
 [Alcohol-l::0.2]
 [Language-Id::472]
-[geo-lon::44.61]
-[geo-lat::14.06]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.61]
+[has_place_latitude::14.06]
 
 
 

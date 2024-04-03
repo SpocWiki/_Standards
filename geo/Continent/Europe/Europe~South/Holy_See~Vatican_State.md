@@ -24,7 +24,7 @@ markerFolder: ./Holy_See_(Vatican_State)/
 [name-de::Vatikanstadt]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::V]
 Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]  
 ![[Coat_of_arms_of_Holy-see.svg|350]]
@@ -32,8 +32,8 @@ Capital :: [[Italy/Counties/Lazio/Roma/City/Roma]]
 ![[Flag_of_Holy-see.svg|350]]
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::]
-[geo-lat::]
+[has_place_longitude::]
+[has_place_latitude::]
 
 
 

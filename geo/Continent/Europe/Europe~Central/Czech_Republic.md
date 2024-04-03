@@ -39,7 +39,7 @@ markerFolder: ./Czech_Republic//
 [name-de::Tschechische Republik]
 [Area-Total::78860]
 [Area-Land::77280]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::CZ]
 Capital :: [[Praha]]  
 ![[Coat_of_arms_of_Czech-republic.svg|350]]
@@ -47,8 +47,10 @@ Capital :: [[Praha]]
 ![[Flag_of_Czech-republic.svg|350]]
 [Alcohol-l::16.5]
 [Language-Id::]
-[geo-lon::15.8734]
-[geo-lat::49.7633]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::15.8734]
+[has_place_latitude::49.7633]
 
 
 

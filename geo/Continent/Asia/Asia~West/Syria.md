@@ -139,13 +139,15 @@ markerFolder: ./Syria/
 
 [Area-Total::185180]
 [Area-Land::183780]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::SYR]
 Capital :: [[Syria/Counties/Damascus/City/Damascus=Damaskus]]  
 [Alcohol-l::1.4]
 [Language-Id::472]
-[geo-lon::36.625]
-[geo-lat::34.335]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::36.625]
+[has_place_latitude::34.335]
 
 
 

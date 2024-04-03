@@ -136,13 +136,15 @@ markerFolder: ./Cyprus//
 
 [Area-Total::9251]
 [Area-Land::9240]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::CY]
 Capital :: [[Cyprus/districts~Cyprus/Nicosia]]  
 [Alcohol-l::9.3]
 [Language-Id::]
-[geo-lon::33.4667]
-[geo-lat::35.1333]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::33.4667]
+[has_place_latitude::35.1333]
 
 
 

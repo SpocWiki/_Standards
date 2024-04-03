@@ -129,7 +129,7 @@ markerFolder: ./Kuwait/
 [name-de::Kuwait]
 [Area-Total::17818]
 [Area-Land::17820]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::KWT]
 Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]  
 ![[Kuwait/Emblem_of_Kuwait.svg|350]]  
@@ -139,8 +139,10 @@ Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]
 
 [Alcohol-l::0.1]
 [Language-Id::472]
-[geo-lon::48]
-[geo-lat::29.33]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::48]
+[has_place_latitude::29.33]
 
 
 

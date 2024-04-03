@@ -33,7 +33,7 @@ markerFolder: ./Sao_Tome_and_Principe//
 [name-de::São Tomé und Príncipe]
 [Area-Total::1001]
 [Area-Land::960]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 ![[Coat_of_arms_of_Sao-tome-and-principe.svg|350]]
 ![[Anthem-Sao-tome-and-principe.mp3]]
 ![[Flag_of_Sao-tome-and-principe.svg|350]]
@@ -41,8 +41,10 @@ Continent :: [[Africa]]
 [Capital-Id::]
 [Alcohol-l::8.7]
 [Language-Id::467]
-[geo-lon::6.73333]
-[geo-lat::0.333333]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::6.73333]
+[has_place_latitude::0.333333]
 
 
 

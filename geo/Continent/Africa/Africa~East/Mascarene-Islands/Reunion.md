@@ -32,13 +32,15 @@ markerFolder: ./Reunion/
 [name-de::Réunion]
 [Area-Total::0]
 [Area-Land::0]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::]
 Capital :: [[Saint_Denis]]  
 [Alcohol-l::]
 [Language-Id::]
-[geo-lon::55.45]
-[geo-lat::-20.8833]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::55.45]
+[has_place_latitude::-20.8833]
 
 
 

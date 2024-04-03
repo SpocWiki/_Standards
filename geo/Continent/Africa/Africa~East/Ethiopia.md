@@ -129,7 +129,7 @@ markerFolder: ./Ethiopia//
 [name-de::Äthiopien]
 [Area-Total::1133380]
 [Area-Land::1000000]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::ETH]
 Capital :: [[Addis_Abeba]]  
 
@@ -141,8 +141,10 @@ Capital :: [[Addis_Abeba]]
 
 [Alcohol-l::4]
 [Language-Id::]
-[geo-lon::38.7]
-[geo-lat::9.05]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.7]
+[has_place_latitude::9.05]
 
 
 

@@ -128,7 +128,7 @@ markerFolder: ./Belgium//
 [name-de::Belgien]
 [Area-Total::30518]
 [Area-Land::32820]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::B]
 Capital :: [[Belgium/Regions~Belgium/Bruxelles/Brussels/City/Brussels=Bruxelles]]  
 ![[Great_coat_of_arms_of_Belgium.svg|950]]
@@ -136,8 +136,10 @@ Capital :: [[Belgium/Regions~Belgium/Bruxelles/Brussels/City/Brussels=Bruxelles]
 ![[Flag_of_Belgium.svg|350]]
 [Alcohol-l::10.8]
 [Language-Id::496]
-[geo-lon::4.29368]
-[geo-lat::50.8165]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::4.29368]
+[has_place_latitude::50.8165]
 
 
 

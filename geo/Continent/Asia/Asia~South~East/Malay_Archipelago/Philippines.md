@@ -64,7 +64,7 @@ icon: flag-ph
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Philippines 
 
-[[Philippines/ReadMe]] 
+[[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: PHP ]
@@ -144,7 +144,7 @@ id: Philippines
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Philippines//
+geojsonFolder: ./Philippines/
 markerFolder: ./Philippines/
 ```
 
@@ -152,13 +152,15 @@ markerFolder: ./Philippines/
 [name-de::Philippinen]
 [Area-Total::300000]
 [Area-Land::298170]
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::RP]
-Capital :: [[Manila]]  
+Capital :: [[geo/Continent/Asia/Asia~South~East/Malay_Archipelago/Philippines/Regions~Philippines/Manila]]  
 [Alcohol-l::6.4]
 [Language-Id::472]
-[geo-lon::120.97]
-[geo-lat::14.59]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::120.97]
+[has_place_latitude::14.59]
 
 
 

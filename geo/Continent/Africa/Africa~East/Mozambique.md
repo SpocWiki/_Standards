@@ -121,7 +121,7 @@ markerFolder: ./Mozambique//
 [name-de::Mozambique]
 [Area-Total::799380]
 [Area-Land::784090]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::MOC]
 Capital :: [[Maputo]]  
 
@@ -132,8 +132,10 @@ Capital :: [[Maputo]]
 ![[Flag_of_Mozambique.svg|350]]
 [Alcohol-l::2.4]
 [Language-Id::467]
-[geo-lon::33.7917]
-[geo-lat::-22.1]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::33.7917]
+[has_place_latitude::-22.1]
 
 
 

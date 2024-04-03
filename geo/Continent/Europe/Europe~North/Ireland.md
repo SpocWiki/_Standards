@@ -128,7 +128,7 @@ markerFolder: ./Ireland//
 [name-de::Irland]
 [Area-Total::70285]
 [Area-Land::68890]
-Continent :: [[Europe]]  
+has_place_continent:: [[Europe]]  
 [VehicleCode::IRL]
 Capital :: [[./Ireland/Counties/Dublin]]  
 ![[Coat_of_arms_of_Ireland.svg|350]]
@@ -136,8 +136,8 @@ Capital :: [[./Ireland/Counties/Dublin]]
 ![[Flag_of_Ireland.svg|350]]
 [Alcohol-l::14.4]
 [Language-Id::499]
-[geo-lon::-7.70895]
-[geo-lat::53.0702]
+[has_place_longitude::-7.70895]
+[has_place_latitude::53.0702]
 
 
 

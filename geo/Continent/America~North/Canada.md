@@ -52,7 +52,7 @@ For more Details, check out this Repository into this Subfolder:
 [	ISO4217-currency_country_name	 :: CANADA ]
 
 #has_/telephone_/Prefix_/International :: 011
-#has_/telephone_/Prefix_/Country :: 1 
+#has_/telephone_/Prefix_/has_place_country:: 1 
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
@@ -139,13 +139,13 @@ markerFolder: ./Canada/
 
 [Area-Total::9958319]
 [Area-Land::9220970]
-Continent :: [[North-America]]  
+has_place_continent:: [[North-America]]  
 [VehicleCode::CDN]
 Capital :: [[Canada/State/State~Ontario/City/Ottawa]]  
 [Alcohol-l::9.8]
 [Language-Id::499]
-[geo-lon::-87.1444]
-[geo-lat::50.4137]
+[has_place_longitude::-87.1444]
+[has_place_latitude::50.4137]
 
 
 

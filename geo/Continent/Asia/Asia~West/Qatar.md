@@ -128,7 +128,7 @@ markerFolder: ./Qatar/
 [name-de::Katar]
 [Area-Total::11437]
 [Area-Land::11000]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::Q]
 Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]  
 ![[Qatar/Emblem_of_Qatar.svg|350]]  
@@ -138,8 +138,10 @@ Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]
 
 [Alcohol-l::1.3]
 [Language-Id::472]
-[geo-lon::51.53]
-[geo-lat::25.28]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::51.53]
+[has_place_latitude::25.28]
 
 
 

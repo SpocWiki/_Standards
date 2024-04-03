@@ -34,7 +34,7 @@ markerFolder: ./Central_African_Rep//
 [name-de::Zentralafrikanische Republik]
 [Area-Total::622984]
 [Area-Land::622980]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RCA]
 Capital :: [[Bangui]]  
 ![[Coat_of_arms_of_Central-african-republic.svg|350]]
@@ -42,8 +42,10 @@ Capital :: [[Bangui]]
 ![[Flag_of_Central-african-republic.svg|350]]
 [Alcohol-l::3.4]
 [Language-Id::496]
-[geo-lon::18.5833]
-[geo-lat::4.36667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.5833]
+[has_place_latitude::4.36667]
 
 
 

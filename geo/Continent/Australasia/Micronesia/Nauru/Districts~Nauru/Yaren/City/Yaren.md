@@ -12,11 +12,13 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::166.9208] 
-[geo-lat::-0.5477778] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::166.9208] 
+[has_place_latitude::-0.5477778] 
 [name::Yaren] 
-State ::  
-Country :: [[Nauru]]  
+has_place_province::  
+has_place_country:: [[Nauru]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

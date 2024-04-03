@@ -124,7 +124,7 @@ markerFolder: ./Lesotho//
 [name-de::Lesotho]
 [Area-Total::30355]
 [Area-Land::30350]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::LS]
 Capital :: [[Maseru]]  
 
@@ -135,8 +135,10 @@ Capital :: [[Maseru]]
 ![[Flag_of_Lesotho.svg|350]]
 [Alcohol-l::5.6]
 [Language-Id::499]
-[geo-lon::27.9333]
-[geo-lat::-29.4667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::27.9333]
+[has_place_latitude::-29.4667]
 
 
 

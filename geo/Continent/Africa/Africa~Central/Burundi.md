@@ -129,13 +129,15 @@ markerFolder: ./Burundi//
 ![[Burundi/Flag_of_Burundi.svg|350]]
 [Area-Total::27834]
 [Area-Land::25680]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::RU]
 Capital :: [[Bujumbura]]  
 [Alcohol-l::9.5]
 [Language-Id::496]
-[geo-lon::30]
-[geo-lat::-3.5]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::30]
+[has_place_latitude::-3.5]
 
 
 

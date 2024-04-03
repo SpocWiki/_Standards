@@ -125,13 +125,15 @@ markerFolder: ./Guam/
 
 [Area-Total::0] 
 [Area-Land::0] 
-Continent :: [[Oceania]]  
+has_place_continent:: [[Oceania]]  
 [VehicleCode::] 
 Capital :: [[Hagåtña]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::144.75] 
-[geo-lat::13.4792] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::144.75] 
+[has_place_latitude::13.4792] 
 
 
 

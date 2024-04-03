@@ -28,13 +28,15 @@ markerFolder: [./Eritrea/,./Ethiopia/]
 [name-de::Eritrea und Äthiopien]
 [Area-Total::]
 [Area-Land::]
-Continent :: [[Africa]]  
+has_place_continent:: [[Africa]]  
 [VehicleCode::]
 Capital :: [[Addis_Abeba]]  
 [Alcohol-l::]
 [Language-Id::472]
-[geo-lon::38.74]
-[geo-lat::9.03]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::38.74]
+[has_place_latitude::9.03]
 
 
 

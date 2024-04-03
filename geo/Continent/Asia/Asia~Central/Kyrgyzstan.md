@@ -134,7 +134,7 @@ markerFolder: ./Kyrgyzstan/
 [name-de::Kirgisistan]
 [Area-Total::198500]
 [Area-Land::0]
-Continent :: [[Asia]]  
+has_place_continent:: [[Asia]]  
 [VehicleCode::KS]
 Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]  
 ![[Kyrgyzstan/Emblem_of_Kyrgyzstan.svg|350]]  
@@ -144,8 +144,10 @@ Capital :: [[Kyrgyzstan/Counties/Bishkek/City/Bishkek]]
 
 [Alcohol-l::5.1]
 [Language-Id::469]
-[geo-lon::74.6]
-[geo-lat::42.8667]
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::74.6]
+[has_place_latitude::42.8667]
 
 
 
