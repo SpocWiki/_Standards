@@ -39,13 +39,13 @@ Languages:
 icon: flag-ch
 ---
 
-# [[Switzerland]] 
+# [Switzerland](_Standards/geo/Continent/Europe/Europe~Central/Switzerland.md) 
 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Belarus 
 
-[[Belarus/ReadMe]] 
+[ReadMe](_Standards/geo/Continent/Europe/Europe~East/Belarus/ReadMe.md) 
 
 [	ISO4217-currency_alphabetic	 :: CHF ]
 [	ISO4217-currency_name	 :: Swiss Franc ]
@@ -81,9 +81,9 @@ For more Details, check out this Repository into this Subfolder:
 [	UNTERM_Russian	 :: Швейцария ]
 [	UNTERM_Russian_Formal	 :: Швейцарская Конфедерация ]
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Western Europe]] 
+Region_Name ::  [Europe](_Standards/geo/Continent/Europe.md) 
+Intermediate_Region_Name ::  [Switzerland](_Standards/geo/Continent/Europe/Europe~Central/Switzerland.md) 
+Sub-region_Name ::  [Western Europe](Western%20Europe) 
 
 [	Region	 :: 150 ]
 [	Intermediate_Region	 ::  ]
@@ -128,29 +128,29 @@ markerFolder: ./Switzerland//
 [name-de::Schweiz]
 [Area-Total::39988]
 [Area-Land::39550]
-has_place_continent:: [[Europe]]  
+has_place_continent:: [Europe](_Standards/geo/Continent/Europe.md)  
 [VehicleCode::CH]
-Capital :: [[geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern]]  
+Capital :: [Bern](_Standards/geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern.md)  
 
-![[Coat_of_arms_of_Switzerland.svg|350]]
+![350](_Standards/geo/Continent/Europe/Europe~Central/Switzerland/Coat_of_arms_of_Switzerland.svg)
 
-![[Anthem-Switzerland.mp3]]
+![Anthem-Switzerland](_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3)
 
-![[Flag_of_Switzerland.svg|350]]
+![350](_Standards/geo/Continent/Europe/Europe~Central/Switzerland/Flag_of_Switzerland.svg)
 [Alcohol-l::11.1]
 [Language-Id::497]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [place](_Standards/schema-org/Class/is_a_/place.md) 
 [has_place_longitude::8.46058]
 [has_place_latitude::46.8963]
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~Central/Switzerland|Switzerland]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~Central/Switzerland.public|Switzerland.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~Central/Switzerland.internal|Switzerland.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~Central/Switzerland.protect|Switzerland.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~Central/Switzerland.private|Switzerland.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~Central/Switzerland.personal|Switzerland.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~Central/Switzerland.secret|Switzerland.secret]] 
+- [Switzerland](_Standards/geo/Continent/Europe/Europe~Central/Switzerland.md) 
+- [Switzerland.public](_public/geo/Continent/Europe/Europe~Central/Switzerland.public.md) 
+- [Switzerland.internal](../../../../../_internal/geo/Continent/Europe/Europe~Central/Switzerland.internal) 
+- [Switzerland.protect](../../../../../_protect/geo/Continent/Europe/Europe~Central/Switzerland.protect) 
+- [Switzerland.private](../../../../../_private/geo/Continent/Europe/Europe~Central/Switzerland.private) 
+- [Switzerland.personal](../../../../../_personal/geo/Continent/Europe/Europe~Central/Switzerland.personal) 
+- [Switzerland.secret](../../../../../_secret/geo/Continent/Europe/Europe~Central/Switzerland.secret) 
