@@ -1,5 +1,10 @@
 # Set the path to the directory containing the files
-$parent_directory = $PWD
+param (
+    [string]$parent_directory
+)
+if (-not $parent_directory) {
+	$parent_directory = $MyInvocation.MyCommand.Path # or $PWD
+}
 
 git pull
 
