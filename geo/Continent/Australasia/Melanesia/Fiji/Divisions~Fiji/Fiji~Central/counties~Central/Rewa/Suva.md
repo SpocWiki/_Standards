@@ -1,6 +1,5 @@
 ---
-location: [-18.16667,178.45] 
-mapzoom: [7,12] 
+location: [ -18.16667, 178.45 ] 
 mapmarker: city 
 type: City
 tags:
