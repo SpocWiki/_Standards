@@ -20,6 +20,12 @@ tags:
 [Iso3::kor]
 
 
+#has_/name_/ko_/Hang :: 한국어 
+#has_/name_/ko_/Latn :: hangugeo 
+#has_/name_/en_ :: Korean 
+#has_/name_/de_ :: Koreanisch   
+
+
 ## #has_/text_of_/abstract  
 
 

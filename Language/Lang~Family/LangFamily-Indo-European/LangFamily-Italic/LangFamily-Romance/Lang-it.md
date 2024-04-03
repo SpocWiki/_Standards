@@ -17,6 +17,9 @@ tags:
 [Iso3::ita]
 
 
+#has_/name_/it_ :: italiano
+#has_/name_/en_ :: Italian 
+#has_/name_/de_ :: Italienisch  
 
 ## Confidential Links & Embeds: 
 - [[../../_Standards/lang/Lang-it|Lang-it]] 

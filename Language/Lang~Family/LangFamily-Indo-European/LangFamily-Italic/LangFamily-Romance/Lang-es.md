@@ -11,12 +11,14 @@ tags:
 [PropId_Text::692]
 [LangFamilyId::233]
 [IsUnLanguage::1]
-[NumSpeakers::390000000]
-[NumSpeakers_native::329000000]
+[NumSpeakers::390e6] 
+[NumSpeakers_native::329e6] 
 [Iso2::es]
 [Iso3::spa]
 
-
+#has_/name_/es_ ::  español
+#has_/name_/en_ :: Spanish 
+#has_/name_/de_ :: Spanisch  
 
 ## Confidential Links & Embeds: 
 - [[../../_Standards/lang/Lang-es|Lang-es]] 

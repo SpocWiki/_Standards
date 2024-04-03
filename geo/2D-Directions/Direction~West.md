@@ -4,8 +4,8 @@ aliases:
 ---
 
 
-#has_/name_/ar-/Latn :: Al Gharbiyah 
-#has_/name_/ar-/Arab ::  ٱلْـغَـرْبِـيَّـة  
+#has_/name_/ar_/Latn :: Al Gharbiyah 
+#has_/name_/ar_/Arab ::  ٱلْـغَـرْبِـيَّـة  
 
 **Al Gharbiyah** (Arabic: ٱلْـغَـرْبِـيَّـة 'western'), or **Gharb** (غَـرْب 'west'), or variants may refer to:
 

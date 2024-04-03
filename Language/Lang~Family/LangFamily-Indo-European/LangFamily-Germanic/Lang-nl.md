@@ -1,9 +1,10 @@
 ---
 type: Lang
 aliases:
-- Dutch
-tags: 
-- Lang/nl
+  - Dutch
+  - Nederlands
+tags:
+  - Lang/nl
 ---
 [SpocWebEntityId:: 498 ]
 [Name::Dutch]
@@ -16,6 +17,10 @@ tags:
 [Iso2::nl]
 [Iso3::nld]
 
+
+#has_/name_/nl_ :: Nederlands 
+#has_/name_/en_ :: Dutch 
+#has_/name_/de_ :: Holländisch  
 
 
 ## Confidential Links & Embeds: 

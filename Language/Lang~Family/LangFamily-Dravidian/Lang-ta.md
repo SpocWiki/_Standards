@@ -1,9 +1,9 @@
 ---
 type: Lang
 aliases:
-- Tamil
-tags: 
-- Lang/ta
+  - Tamil
+tags:
+  - Lang/ta
 ---
 # [[Lang-ta]] 
 
@@ -17,6 +17,11 @@ tags:
 [NumSpeakers_native::66000000]
 [Iso2::ta]
 [Iso3::tam]
+
+
+#has_/name_/ta_/Taml :: தமிழ் 
+#has_/name_/en_ :: Tamil 
+#has_/name_/de_ :: Tamil  
 
 
 ## #has_/text_of_/abstract  

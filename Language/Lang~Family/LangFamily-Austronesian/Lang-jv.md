@@ -19,6 +19,11 @@ tags:
 [Iso3::jav]
 
 
+#has_/name_/jv_/Java :: ꦧꦱꦗꦮ 
+#has_/name_/jv_/Arab :: بَاسَا جَاوَا 
+#has_/name_/en_ :: Javanese  
+#has_/name_/de_ :: Javanisch   
+
 ## #has_/text_of_/abstract  
 
 

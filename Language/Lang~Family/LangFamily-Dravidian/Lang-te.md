@@ -18,6 +18,11 @@ tags:
 [Iso2::te]
 [Iso3::tel]
 
+#has_/name_/te_/Telu :: తెలుగు 
+#has_/name_/en_ :: Telugu 
+#has_/name_/de_ :: Telugu  
+
+
 ## #has_/text_of_/abstract  
 
 

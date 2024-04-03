@@ -1,7 +1,7 @@
 
 
-#has_/name_/ar-/Latn :: Al Wusta 
-#has_/name_/ar-/Arab ::  الوسطى  
+#has_/name_/ar_/Latn :: Al Wusta 
+#has_/name_/ar_/Arab ::  الوسطى  
 
 
 **Al Wusta** (from Arabic الوسطى, 'central') may refer to:

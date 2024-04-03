@@ -13,10 +13,14 @@ tags:
 [IsUnLanguage::]
 [NumSpeakers::]
 [NumSpeakers_native::]
-[Iso2::gr]
+[Iso2::el]
 [Iso3::gre]
 
 
+#has_/name_/gr_/Latn :: Ellenika 
+#has_/name_/gr_/Grek :: Ελληνικά 
+#has_/name_/en_ :: Greek 
+#has_/name_/de_ :: Griechisch  
 
 ## Confidential Links & Embeds: 
 - [[../../_Standards/lang/Lang-gr|Lang-gr]] 

@@ -20,6 +20,12 @@ tags:
 [Iso3::pan]
 
 
+#has_/name_/pa_/Guru ::  ਪੰਜਾਬੀ 
+#has_/name_/pa_/Arab ::  پنجابی 
+#has_/name_/en_ :: Punjabi 
+#has_/name_/de_ :: Panjabi   
+
+
 ## #has_/text_of_/abstract  
 
 

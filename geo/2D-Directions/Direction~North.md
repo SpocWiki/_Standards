@@ -4,8 +4,8 @@ aliases:
 ---
 
 
-#has_/name_/ar-/Latn :: Ash Shamaliyah 
-#has_/name_/ar-/Arab :: الشمالية 
+#has_/name_/ar_/Latn :: Ash Shamaliyah 
+#has_/name_/ar_/Arab :: الشمالية 
 
 **Ash Shamaliyah** (from Arabic الشمالية, 'northern') or **Shamal** ('north'), or variants, may refer to:
 
