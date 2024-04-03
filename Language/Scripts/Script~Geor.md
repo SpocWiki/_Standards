@@ -9,4 +9,3 @@ Georgian Script is used in [[../../geo/Continent/Europe/Europe~East/Georgia.Euro
     - Georgian Script: ka-Geor
     - Latin Script (Transcription): ka-Latn
 
-
