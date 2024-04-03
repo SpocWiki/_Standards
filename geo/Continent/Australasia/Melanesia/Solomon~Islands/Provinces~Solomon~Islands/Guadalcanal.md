@@ -34,8 +34,9 @@ id: Guadalcanal
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Guadalcanal/
-markerFolder: ./Guadalcanal/
+geojsonFolder: ./Guadalcanal//
+markerFolder: ./Guadalcanal//
+
 ```
 
 

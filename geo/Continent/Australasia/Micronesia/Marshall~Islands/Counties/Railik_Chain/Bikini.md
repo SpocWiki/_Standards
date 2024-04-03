@@ -1,6 +1,5 @@
 ---
-location: [11.58,165.33] 
-mapzoom: [7,12] 
+location: [ 11.58, 165.33 ] 
 mapmarker: city 
 type: City
 tags:

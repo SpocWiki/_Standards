@@ -36,6 +36,7 @@ Languages:
 icon: flag-fj
 ---
 
+# [[Fiji]] 
 
 [	ISO4217-currency_alphabetic	 :: FJD ] 
 [	ISO4217-currency_name	 :: Fiji Dollar ] 
@@ -114,8 +115,8 @@ id: Fiji
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Fiji//
-markerFolder: ./Fiji/
+geojsonFolder: ./Fiji///
+markerFolder: ./Fiji///
 ```
 
 [name-en::Fiji] 
@@ -129,7 +130,7 @@ markerFolder: ./Fiji/
 [Area-Land::18270] 
 has_place_continent:: [[Oceania]]  
 [VehicleCode::FJI] 
-Capital :: [[Fiji/Cities/Suva]]  
+Capital :: [[Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva]]  
 [Alcohol-l::2.4] 
 [Language-Id::499] 
 #is_a_/Place  

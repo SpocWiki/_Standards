@@ -21,6 +21,10 @@ tags:
 [Iso3::eng]
 
 
+#has_/name_/en_ :: English 
+#has_/name_/de_ :: Englisch  
+
+
 ## Abstract  
 
 

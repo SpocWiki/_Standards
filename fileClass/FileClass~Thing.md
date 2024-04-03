@@ -3,7 +3,7 @@ limit: 9
 mapWithTag: true
 excludes: 
 icon: cloud
-version: "2.9"
+version: "2.13"
 tagNames:
   - class/Thing
   - class/Thing
@@ -145,12 +145,26 @@ fields:
     options: {}
     path: ""
     id: HbCFr3
+  - name: aliases
+    type: Input
+    options:
+      template: "[]"
+    path: ""
+    id: t0PUZk
+  - name: has_id_wikidata
+    type: Input
+    options:
+      template: Q###
+    path: ""
+    id: eGgepX
 filesPaths: 
 bookmarksGroups: 
 extends: 
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - eGgepX
+  - t0PUZk
   - HbCFr3
   - SwAI2c
   - mEQ8uX

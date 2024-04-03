@@ -8,7 +8,7 @@ tags:
 ---
 # [[Lang-Latin]]
  
- [[[SpocWebEntityId:: 471 ]
+ [SpocWebEntityId:: 471 ]
 [Name::Latin]
 [PropId_Name::771]
 [PropId_Text::671]
@@ -19,6 +19,9 @@ tags:
 [Iso2::la]
 [Iso3::lat]
 
+#has_/name_/la_ ::  Latinum
+#has_/name_/en_ :: Latin
+#has_/name_/de_ :: Lateinisch  
 
 ## #has_/text_of_/abstract  
 

@@ -19,6 +19,10 @@ tags:
 [Iso3::ara]
 
 
+#has_/name_/ar_/Arab :: عَرَبِيّ 
+#has_/name_/en_ :: Arabic 
+#has_/name_/de_ :: Arabisch   
+
 ## #has_/text_of_/abstract  
 
 

@@ -5,8 +5,8 @@ aliases:
 
 
 
-#has_/name_/ar-/Latn :: Al-Janubiyah  
-#has_/name_/ar-/Arab ::  الجنوبية 
+#has_/name_/ar_/Latn :: Al-Janubiyah  
+#has_/name_/ar_/Arab ::  الجنوبية 
 
 
 **Al-Janubiyah** or **Al Janobiyah** (from Arabic الجنوبية, 'southern') and **Al Janub** ('south'), or variants may refer to:

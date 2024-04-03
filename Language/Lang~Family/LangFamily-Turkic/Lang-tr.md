@@ -18,6 +18,11 @@ tags:
 [Iso2::tr]
 [Iso3::tur]
 
+#has_/name_/tr_ :: Türkçe 
+#has_/name_/en_ :: Turkish 
+#has_/name_/de_ :: Türkisch   
+
+
 ## [[../../../schema-org/Property/Texts/has_abstract]] 
 
 

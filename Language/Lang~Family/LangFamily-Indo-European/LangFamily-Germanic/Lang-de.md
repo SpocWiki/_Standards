@@ -19,6 +19,10 @@ tags:
 [Iso2::de]
 [Iso3::deu]
 
+#has_/name_/en_ :: German 
+#has_/name_/de_ :: Deutsch  
+
+
 ## Abstract 
 
 

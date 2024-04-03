@@ -16,6 +16,9 @@ tags:
 [Iso2::pt]
 [Iso3::por]
 
+#has_/name_/pt_ ::  português
+#has_/name_/en_ :: Portuguese 
+#has_/name_/de_ :: Portugiesisch  
 
 ## #has_/text_of_/abstract 
 

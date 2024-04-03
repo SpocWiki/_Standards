@@ -1,6 +1,12 @@
+---
+aliases:
+  - Latin Script
+  - Roman Script
+---
 
 Used to indicate Latin Script in Web-Pages 
-Several Languages can be written either in their native Script or a Latin Transcription: 
+Many Languages have been Romanized and can therefor be written in 
+either their native Script or a Latin Transcription: 
 
 1. **Serbian:**
     

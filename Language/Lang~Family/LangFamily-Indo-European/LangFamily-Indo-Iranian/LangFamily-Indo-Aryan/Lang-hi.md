@@ -19,6 +19,11 @@ tags:
 [Iso2::hi]
 [Iso3::hin]
 
+#has_/name_/hi_ ::  हिन्दी 
+#has_/name_/en_ :: Hindī 
+#has_/name_/de_ :: Indisch  
+
+
 ## #has_/text_of_/abstract  
 
 
