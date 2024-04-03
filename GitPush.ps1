@@ -3,9 +3,10 @@ param (
     [string]$parent_directory
 )
 if (-not $parent_directory) {
-	$parent_directory = $MyInvocation.MyCommand.Path # or $PWD
+	$parent_directory = Split-Path -Path $MyInvocation.MyCommand.Path -Parent # or $PWD
 }
 
+Set-Location -Path $parent_directory
 git push
 
 Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
