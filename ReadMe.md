@@ -43,8 +43,9 @@ to obtain more Details, you need to check out the Sub-Repository
 
 And even this Repository does not cover individual cities. 
 Instead it is recursively broken up into Repositories for the individual German States 
-like e.g. [Bavaria](Bayern.md) and which can be retrieved from the [corresponding Git-Repository](https://github.com/SpocWiki/Germany-Bayern) 
-into Subfolders of the same Name as the Stub-Article, 
+like e.g. [Bavaria](Bayern) which is only a Stub-Article in this Repository. 
+The Full Information can be retrieved from the [corresponding Git-Repository](https://github.com/SpocWiki/Germany-Bayern) 
+into a Subfolder of the same Name as the Stub-Article, in this case `Bayern`
 # Organizational: How to use this Wiki  
 
 ## How to include this in your own vault:
