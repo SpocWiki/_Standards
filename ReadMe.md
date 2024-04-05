@@ -1,5 +1,7 @@
 # Standards 
 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/_Standards 
+
 This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
 from a broad range of topics 
 as a common basis to be included as a Sub-Repository in local File-Systems. 

@@ -657,27 +657,27 @@ has_name:
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
-For more Details, check out this Repository into a Subfolder named `Germany`: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
+> [!info]
+This Article is only a Stub. 
+For more Details, check out [this 'Germany' Git-Repository](https://github.com/SpocWiki/Europe-Germany)
+into a Subfolder named `Germany` next to this File, 
+so that this Link into the Sub-Repository works: [[Germany/ReadMe]] 
 
-Beware though, that this can considerably increase 
-the total size and depth of your wiki.
-
-Link to the Sub-Repository: [[Germany/ReadMe]] 
+> [!warning] This can considerably increase the total size and depth of your wiki.
 
 ## Maps and Flags 
 
 
 ## #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![<img src="./Germany/Coat_of_arms_of_Germany.svg" width="350"/>|350](./Germany/Coat_of_arms_of_Germany.svg)
+
+#has_/image_for_/coat_of_arms :: ![[./Germany/Coat_of_arms_of_Germany.svg|150]] <img src="./Germany/Coat_of_arms_of_Germany.svg" width="150"/>
 
 #has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
 
 ## #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![<img src="./Germany/Flag_of_Germany.svg" width="200"/>|200](./Germany/Flag_of_Germany.svg) 
-
+#has_/image_for_/flag :: ![[./Germany/Flag_of_Germany.svg|200]] <img src="./Germany/Flag_of_Germany.svg" width="200"/> 
 
 ## #has_/map 
 
