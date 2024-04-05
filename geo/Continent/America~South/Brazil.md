@@ -54,7 +54,7 @@ For more Details, check out this Repository into this Subfolder:
 [	ISO4217-currency_minor_unit	 :: 2 ]
 [	ISO4217-currency_country_name	 :: BRAZIL ]
 
-#has_/telephone_/Prefix_/has_place_country:: 55 
+#has_/telephone_/Prefix_/country:: 55 
 #has_/telephone_/Prefix_/International :: 00 + Provider-Code 
 
 

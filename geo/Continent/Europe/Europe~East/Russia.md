@@ -75,7 +75,7 @@ For more Details, check out this Repository into this Subfolder:
 [	ISO4217-currency_minor_unit	 :: 2 ]
 [	ISO4217-currency_country_name	 :: RUSSIAN FEDERATION ]
 
-#has_/telephone_/Prefix_/has_place_country:: 7 
+#has_/telephone_/Prefix_/country:: 7 
 #has_/telephone_/Prefix_/International :: 8,9,10  
 depending on the Provider 
 
