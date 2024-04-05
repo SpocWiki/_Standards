@@ -5,9 +5,7 @@ mobile country code: "262"
 M49 code: "276"
 ISO 3166-1 numeric code: "276"
 GS1 country code: 400-440
-location:
-  - 50.8699
-  - 10.1207
+location: [50.8699,10.1207] 
 type: Country
 title: Deutschland (Germany)
 SpocWebEntityId: 26878
@@ -654,7 +652,10 @@ has_name:
 [	name-ru	 :: Германия ]
 [	name-de  :: Deutschland]
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Bayern 
+[ISO2::DE]
+[ISO3::DEU]
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
 For more Details, check out this Repository into a Subfolder named `Germany`: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
@@ -666,20 +667,16 @@ Link to the Sub-Repository: [[Germany/ReadMe]]
 
 ## Maps and Flags 
 
-[ISO2::DE]
-[ISO3::DEU]
-
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Bayern 
 
 ## #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![<img src="./Germany/Coat_of_arms_of_Germany.svg" width=350/>|350](./Germany/Coat_of_arms_of_Germany.svg)
+#has_/image_for_/coat_of_arms :: ![<img src="./Germany/Coat_of_arms_of_Germany.svg" width="350"/>|350](./Germany/Coat_of_arms_of_Germany.svg)
 
 #has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
 
 ## #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![<img src="./Germany/Flag_of_Germany.svg" width=200/>|200](./Germany/Flag_of_Germany.svg) 
+#has_/image_for_/flag :: ![<img src="./Germany/Flag_of_Germany.svg" width="200"/>|200](./Germany/Flag_of_Germany.svg) 
 
 
 ## #has_/map 
