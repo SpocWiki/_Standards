@@ -36,7 +36,7 @@ This Repository stops at the Country -Level and has Stub-Articles,
 that contain broad  information 
 but also describe how to add Detail Repositories. 
 
-## Example: [Germany](_Standards/geo/Continent/Europe/Europe~Central/Germany.md) 
+## Example: [Germany](geo/Continent/Europe/Europe~Central/Germany.md) 
 
 This Document contains only basic, aggregate Data, 
 to obtain more Details, you need to check out the Sub-Repository 
@@ -144,7 +144,7 @@ created: Date (and Time) of Creation/Birth
 demised: Date (and Time) of Destruction/Death/Dissolution 
 
 ## Confidential Links & Embeds: 
-- [ReadMe](_Standards/ReadMe.md) 
+- [ReadMe](ReadMe.md) 
 - [ReadMe.public](../_public/ReadMe.public) 
 - [ReadMe.internal](ReadMe.internal.md) 
 - [ReadMe.protect](../_protect/ReadMe.protect) 
