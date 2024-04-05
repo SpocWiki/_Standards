@@ -657,11 +657,9 @@ has_name:
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
-> [!info]
-This Article is only a Stub. 
-For more Details, check out [this 'Germany' Git-Repository](https://github.com/SpocWiki/Europe-Germany)
-into a Subfolder named `Germany` next to this File, 
-so that this Link into the Sub-Repository works: [[Germany/ReadMe]] 
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Germany)
+into a Subfolder named `Germany`, so that this Link into the Sub-Repository works: [[Germany/ReadMe]] 
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
@@ -669,7 +667,6 @@ so that this Link into the Sub-Repository works: [[Germany/ReadMe]]
 
 
 ## #has_/image_for_/coat_of_arms 
-
 
 #has_/image_for_/coat_of_arms :: ![[./Germany/Coat_of_arms_of_Germany.svg|150]] <img src="./Germany/Coat_of_arms_of_Germany.svg" width="150"/>
 
