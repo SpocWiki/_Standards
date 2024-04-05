@@ -39,13 +39,16 @@ but also describe how to add Detail Repositories.
 ## Example: [Germany](_Standards/geo/Continent/Europe/Europe~Central/Germany.md) 
 
 This Document contains only basic, aggregate Data, 
-to obtain more Details, you need to check out the Sub-Repository 
+to obtain more Details, you need to check out one of the Sub-Repositories, 
+e.g. [for Germany](https://github.com/SpocWiki/Europe-Germany) 
+into a Folder named `Germany` next to the corresponding [[geo/Continent/Europe/Europe~Central/Germany|Stub-Article Germany]]. 
 
 And even this Repository does not cover individual cities. 
-Instead it is recursively broken up into Repositories for the individual German States 
-like e.g. [Bayern](geo/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern) which is only a Stub-Article in this Repository. 
-The Full Information can be retrieved from the [corresponding Git-Repository](https://github.com/SpocWiki/Germany-Bayern) 
-into a Subfolder of the same Name as the Stub-Article, in this case `/Bayern/`. 
+Instead it is recursively broken up 
+into Repositories for the individual German States 
+like e.g. [Bayern](geo/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern) which is only a Stub-Article in that Repository. 
+Again, full Information can be retrieved from the [corresponding Git-Repository](https://github.com/SpocWiki/Germany-Bayern) 
+into a Subfolder of the same Name as the Stub-Article, in this case `Bayern`. 
 # Organizational: How to use this Wiki  
 
 ## How to include this in your own vault:

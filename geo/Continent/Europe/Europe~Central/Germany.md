@@ -644,8 +644,11 @@ has_name:
 
 # [[Germany]] (Deutschland)
 
-For more Details, check out this Repository into this Subfolder: 
+For more Details, check out this Repository into a Subfolder named `Germany`: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
+
+Beware though, that this can considerably increase 
+the total size and depth of your wiki.
 
 Link to the Sub-Repository: [[Germany/ReadMe]] 
 
@@ -715,8 +718,6 @@ Sub-region_Name ::  [[Western Europe]]
 
 [	ISO3166-1-numeric	 :: 276 ] 
 
-
-
 ## Maps and Flags 
 
 [ISO2::DE]
@@ -733,10 +734,10 @@ markerFolder: ./Germany/
 
 [name-en::Germany]
 
-![[Coat_of_arms_of_Germany.svg|350]]
+#has_/image_for_/coat_of_arms :: ![[Coat_of_arms_of_Germany.svg|350]]
 
-![[Anthem-Germany.mp3]]
-![[Flag_of_Germany.svg|350]]
+#has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
+#has_/image_for_/flag :: ![[Flag_of_Germany.svg|350]]
 
 
 [name-de::Deutschland]
