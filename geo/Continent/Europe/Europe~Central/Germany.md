@@ -644,6 +644,18 @@ has_name:
 
 # [[Germany]] (Deutschland)
 
+### International Names
+[	name	 :: Germany ]
+[	name-en	 :: Germany ]
+[	name-es	 :: Alemania ]
+[	name-fr	 :: Allemagne ]
+[	name-cn	 :: 德国 ]
+[	name-ar	 :: ألمانيا ]
+[	name-ru	 :: Германия ]
+[	name-de  :: Deutschland]
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Bayern 
+
 For more Details, check out this Repository into a Subfolder named `Germany`: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
 
@@ -651,6 +663,35 @@ Beware though, that this can considerably increase
 the total size and depth of your wiki.
 
 Link to the Sub-Repository: [[Germany/ReadMe]] 
+
+## Maps and Flags 
+
+[ISO2::DE]
+[ISO3::DEU]
+
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Bayern 
+
+## #has_/image_for_/coat_of_arms 
+
+#has_/image_for_/coat_of_arms :: ![<img src="./Germany/Coat_of_arms_of_Germany.svg" width=350/>|350](./Germany/Coat_of_arms_of_Germany.svg)
+
+#has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
+
+## #has_/image_for_/flag 
+
+#has_/image_for_/flag :: ![<img src="./Germany/Flag_of_Germany.svg" width=200/>|200](./Germany/Flag_of_Germany.svg) 
+
+
+## #has_/map 
+
+```leaflet
+id: Germany
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Germany//
+markerFolder: ./Germany/
+```
 
 ## Metadata 
 
@@ -664,15 +705,6 @@ Link to the Sub-Repository: [[Germany/ReadMe]]
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
-
-### International Names
-[	name	 :: Germany ]
-[	name-en	 :: Germany ]
-[	name-es	 :: Alemania ]
-[	name-fr	 :: Allemagne ]
-[	name-cn	 :: 德国 ]
-[	name-ar	 :: ألمانيا ]
-[	name-ru	 :: Германия ]
 
 [	CLDR_display_name	 :: Germany ]
 
@@ -718,29 +750,6 @@ Sub-region_Name ::  [[Western Europe]]
 
 [	ISO3166-1-numeric	 :: 276 ] 
 
-## Maps and Flags 
-
-[ISO2::DE]
-[ISO3::DEU]
-
-```leaflet
-id: Germany
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Germany//
-markerFolder: ./Germany/
-```
-
-[name-en::Germany]
-
-#has_/image_for_/coat_of_arms :: ![[Coat_of_arms_of_Germany.svg|350]]
-
-#has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
-#has_/image_for_/flag :: ![[Flag_of_Germany.svg|350]]
-
-
-[name-de::Deutschland]
 [Area-Total::357042]
 [Area-Land::349270]
 has_place_continent:: [[Europe]]  
