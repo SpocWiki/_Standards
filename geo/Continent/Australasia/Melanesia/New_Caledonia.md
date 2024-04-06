@@ -39,7 +39,7 @@ Languages:
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Australia-New_Caledonia 
 
-Caledonia is the Latin Name for [[../../Europe/Europe~North/United_Kingdom/Scotland|Scotland]]. 
+Caledonia is the Latin Name for [[../../Europe/Europe~North/UK/Scotland|Scotland]]. 
 
 [[New_Caledonia/ReadMe]] 
 

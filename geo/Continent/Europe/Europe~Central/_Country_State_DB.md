@@ -75,7 +75,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "[[United_States_of_America|United_States_of_America]]", backgroundColor: "hsl(157, 95%, 90%)"}
+      - { label: "[[USA|USA]]", backgroundColor: "hsl(157, 95%, 90%)"}
       - { label: "[[Russia|Russia]]", backgroundColor: "hsl(118, 95%, 90%)"}
       - { label: "[[Canada|Canada]]", backgroundColor: "hsl(266, 95%, 90%)"}
       - { label: "[[Germany|Germany]]", backgroundColor: "hsl(280, 95%, 90%)"}

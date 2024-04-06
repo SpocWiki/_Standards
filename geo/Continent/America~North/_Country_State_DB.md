@@ -75,7 +75,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "[[United_States_of_America|United_States_of_America]]", backgroundColor: "hsl(157, 95%, 90%)"}
+      - { label: "[[USA|USA]]", backgroundColor: "hsl(157, 95%, 90%)"}
       - { label: "[[Russia|Russia]]", backgroundColor: "hsl(118, 95%, 90%)"}
       - { label: "[[Canada|Canada]]", backgroundColor: "hsl(266, 95%, 90%)"}
       - { label: "[[Germany|Germany]]", backgroundColor: "hsl(280, 95%, 90%)"}
@@ -319,8 +319,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[_CountryStateDB|_CountryStateDB]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/_CountryStateDB.internal|_CountryStateDB.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/_CountryStateDB.protect|_CountryStateDB.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/_CountryStateDB.private|_CountryStateDB.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/_CountryStateDB.personal|_CountryStateDB.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/_CountryStateDB.secret|_CountryStateDB.secret]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/_CountryStateDB.internal|_CountryStateDB.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/_CountryStateDB.protect|_CountryStateDB.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/_CountryStateDB.private|_CountryStateDB.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/_CountryStateDB.personal|_CountryStateDB.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/_CountryStateDB.secret|_CountryStateDB.secret]] 

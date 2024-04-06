@@ -94,26 +94,26 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~New_York.md|State~New_York]]", backgroundColor: "hsl(228, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Alaska.md|State~Alaska]]", backgroundColor: "hsl(222, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Illinois.md|State~Illinois]]", backgroundColor: "hsl(331, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Georgia.md|State~Georgia]]", backgroundColor: "hsl(104, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Maine.md|State~Maine]]", backgroundColor: "hsl(33, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Maryland.md|State~Maryland]]", backgroundColor: "hsl(219, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Louisiana.md|State~Louisiana]]", backgroundColor: "hsl(300, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Pennsylvania.md|State~Pennsylvania]]", backgroundColor: "hsl(155, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Texas.md|State~Texas]]", backgroundColor: "hsl(319, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~North_Dakota.md|State~North_Dakota]]", backgroundColor: "hsl(324, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State~Missouri.md|State~Missouri]]", backgroundColor: "hsl(116, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Washington.md|State~Washington]]", backgroundColor: "hsl(146, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State~Florida.md|State~Florida]]", backgroundColor: "hsl(14, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State~Illinois.md|State~Illinois]]", backgroundColor: "hsl(258, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State~New_York.md|State~New_York]]", backgroundColor: "hsl(108, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/Alabama.md|Alabama]]", backgroundColor: "hsl(88, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/Alaska.md|Alaska]]", backgroundColor: "hsl(203, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/State/State~Delaware.md|State~Delaware]]", backgroundColor: "hsl(28, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/Arizona.md|Arizona]]", backgroundColor: "hsl(237, 95%, 90%)"}
-      - { label: "[[_public/geo/Continent/America~North/United_States_of_America/Arkansas.md|Arkansas]]", backgroundColor: "hsl(177, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~New_York.md|State~New_York]]", backgroundColor: "hsl(228, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Alaska.md|State~Alaska]]", backgroundColor: "hsl(222, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Illinois.md|State~Illinois]]", backgroundColor: "hsl(331, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Georgia.md|State~Georgia]]", backgroundColor: "hsl(104, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Maine.md|State~Maine]]", backgroundColor: "hsl(33, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Maryland.md|State~Maryland]]", backgroundColor: "hsl(219, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Louisiana.md|State~Louisiana]]", backgroundColor: "hsl(300, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Pennsylvania.md|State~Pennsylvania]]", backgroundColor: "hsl(155, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Texas.md|State~Texas]]", backgroundColor: "hsl(319, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~North_Dakota.md|State~North_Dakota]]", backgroundColor: "hsl(324, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State~Missouri.md|State~Missouri]]", backgroundColor: "hsl(116, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Washington.md|State~Washington]]", backgroundColor: "hsl(146, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State~Florida.md|State~Florida]]", backgroundColor: "hsl(14, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State~Illinois.md|State~Illinois]]", backgroundColor: "hsl(258, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State~New_York.md|State~New_York]]", backgroundColor: "hsl(108, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/Alabama.md|Alabama]]", backgroundColor: "hsl(88, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/Alaska.md|Alaska]]", backgroundColor: "hsl(203, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/State/State~Delaware.md|State~Delaware]]", backgroundColor: "hsl(28, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/Arizona.md|Arizona]]", backgroundColor: "hsl(237, 95%, 90%)"}
+      - { label: "[[_public/geo/Continent/America~North/USA/Arkansas.md|Arkansas]]", backgroundColor: "hsl(177, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -336,8 +336,8 @@ filters:
 
 ## Confidential Links & Embeds: 
 - [[_CityDB|_CityDB]] 
-- [[../../../../../_internal/geo/Continent/America~North/United_States_of_America/_CityDB.internal|_CityDB.internal]] 
-- [[../../../../../_protect/geo/Continent/America~North/United_States_of_America/_CityDB.protect|_CityDB.protect]] 
-- [[../../../../../_private/geo/Continent/America~North/United_States_of_America/_CityDB.private|_CityDB.private]] 
-- [[../../../../../_personal/geo/Continent/America~North/United_States_of_America/_CityDB.personal|_CityDB.personal]] 
-- [[../../../../../_secret/geo/Continent/America~North/United_States_of_America/_CityDB.secret|_CityDB.secret]] 
+- [[../../../../../_internal/geo/Continent/America~North/USA/_CityDB.internal|_CityDB.internal]] 
+- [[../../../../../_protect/geo/Continent/America~North/USA/_CityDB.protect|_CityDB.protect]] 
+- [[../../../../../_private/geo/Continent/America~North/USA/_CityDB.private|_CityDB.private]] 
+- [[../../../../../_personal/geo/Continent/America~North/USA/_CityDB.personal|_CityDB.personal]] 
+- [[../../../../../_secret/geo/Continent/America~North/USA/_CityDB.secret|_CityDB.secret]] 

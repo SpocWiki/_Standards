@@ -107,7 +107,7 @@ Sub-region_Name ::  [[Southern Europe]]
 [has_place_latitude::36.1]
 [name::Gibraltar]
 has_place_province::  
-has_place_country:: [[United_Kingdom]]  
+has_place_country:: [[UK]]  
 [StateId::]
 [Population::]
 [Unknown::]

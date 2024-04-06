@@ -10,15 +10,16 @@ tags:
     - geo/Country
 aliases:
     - Great Britain
+    - United Kingdom
 icon: flag-gb
 ---
 
-# [[United_Kingdom]] 
+# [[UK]] 
 
 For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-United_Kingdom 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-UK 
 
-[[United_Kingdom/ReadMe]] 
+[[UK/ReadMe]] 
 
 [ISO2::GB]
 [ISO3::GBR]
@@ -28,8 +29,8 @@ id: United Kingdom
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./United_Kingdom//
-markerFolder: ./United_Kingdom/City/
+geojsonFolder: ./UK//
+markerFolder: ./UK/City/
 ```
 
 [name-en::United Kingdom]
@@ -45,7 +46,7 @@ markerFolder: ./United_Kingdom/City/
 [Area-Land::241600]
 has_place_continent:: [[Europe]]  
 [VehicleCode::GB]
-Capital :: [[United_Kingdom/City~London]]  
+Capital :: [[UK/City~London]]  
 [Alcohol-l::13.4]
 [Language-Id::499]
 [has_place_longitude::-2.14482]
@@ -54,10 +55,10 @@ Capital :: [[United_Kingdom/City~London]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/United_Kingdom|United_Kingdom]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~North/United_Kingdom.public|United_Kingdom.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~North/United_Kingdom.internal|United_Kingdom.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~North/United_Kingdom.protect|United_Kingdom.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~North/United_Kingdom.private|United_Kingdom.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~North/United_Kingdom.personal|United_Kingdom.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~North/United_Kingdom.secret|United_Kingdom.secret]] 
+- [[../../../../../_Standards/geo/Continent/Europe/Europe~North/UK|UK]] 
+- [[../../../../../_public/geo/Continent/Europe/Europe~North/UK.public|UK.public]] 
+- [[../../../../../_internal/geo/Continent/Europe/Europe~North/UK.internal|UK.internal]] 
+- [[../../../../../_protect/geo/Continent/Europe/Europe~North/UK.protect|UK.protect]] 
+- [[../../../../../_private/geo/Continent/Europe/Europe~North/UK.private|UK.private]] 
+- [[../../../../../_personal/geo/Continent/Europe/Europe~North/UK.personal|UK.personal]] 
+- [[../../../../../_secret/geo/Continent/Europe/Europe~North/UK.secret|UK.secret]] 
