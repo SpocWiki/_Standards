@@ -63,6 +63,10 @@ into a Subfolder named `Canada`, so that this Link into the Sub-Repository works
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
 
+### #has_/image_for_/flag
+
+#has_/image_for_/flag :: ![[./Canada/Flag_of_Canada.svg|200]] <img src="./Canada/Flag_of_Canada.svg" width=200/> 
+
 ## #has_/text_of_/abstract  
 
 > **Canada** is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the world's second-largest country by total area, with the world's longest coastline. Its border with the United States is the world's longest international land border. The country is characterized by a wide range of both meteorologic and geological regions. It is a sparsely inhabited country of 40 million people, the vast majority residing south of the 55th parallel in urban areas. Canada's capital is Ottawa and its three largest metropolitan areas are Toronto, Montreal, and Vancouver.
@@ -83,10 +87,6 @@ into a Subfolder named `Canada`, so that this Link into the Sub-Repository works
 #has_/image_for_/coat_of_arms :: ![[./Canada/Coat_of_arms_of_Canada.svg|250]]<img src="./Canada/Coat_of_arms_of_Canada.svg" width=250/> 
 
 #has_/sound_of_/anthem :: ![[Anthem-Canada.mp3]] 
-
-### #has_/image_for_/flag
-
-#has_/image_for_/flag :: ![[./Canada/Flag_of_Canada.svg|200]] <img src="./Canada/Flag_of_Canada.svg" width=200/> 
 
 ### #has_/map
 

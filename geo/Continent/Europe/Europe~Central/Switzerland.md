@@ -66,6 +66,10 @@ into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
 
+### #has_/image_for_/flag 
+
+#has_/image_for_/flag :: ![[./Switzerland/Flag_of_Switzerland.svg|200]] <img src="./Switzerland/Flag_of_Switzerland.svg" width="200"/> 
+
 ## #has_/text_of_/abstract  
 
 
@@ -82,10 +86,6 @@ into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository 
 
 
 #has_/sound_of_/anthem :: ![[Anthem-Switzerland.mp3]]
-
-### #has_/image_for_/flag 
-
-#has_/image_for_/flag :: ![[./Switzerland/Flag_of_Switzerland.svg|200]] <img src="./Switzerland/Flag_of_Switzerland.svg" width="200"/> 
 
 ### #has_/map  
 
