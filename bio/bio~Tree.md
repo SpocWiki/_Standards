@@ -10,7 +10,7 @@ Each Folder represents a phylogenetic Group.
 It depicts the evolutionary history of species, 
 illustrating how they are related through common ancestors 
 and how they have diversified over time 
-through processes such as speciation and genetic divergence.
+through processes such as genetic divergence and isolation.
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/TreeOfLife)
@@ -18,13 +18,10 @@ into a Subfolder named `bio~Tree`, so that this Link into the Sub-Repository wor
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/TreeOfLife 
 
-> [!warning] This can considerably increase the total size and depth of your wiki.
-
 This Repository/Folder/Wiki/Vault contains shared, public, freely usable Text. 
 Images are copyrighted by their respective owners as indicated for each picture at the end of each file.
 
-
-> [!warning] This is a very deep folder Structure with up to 200 Characters! 
+> [!warning] This is a very deep folder Structure with up to 200-Character-long Paths! 
 > Make sure to check it out into a shallow Location on Windows! 
 > 
 > Due to the Depth of this Tree, some Names had to be abbreviated 
