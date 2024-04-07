@@ -48,7 +48,7 @@ into a Subfolder named `UK`, so that this Link into the Sub-Repository works: [[
 
 ### #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./UK/Flag_of_the_United_Kingdom_(3-5).svg|200]] <img src="./UK/Flag_of_the_United_Kingdom_(3-5).svg" width="200"/> 
+#has_/image_for_/flag :: ![[./UK/Flag_of_the_United_Kingdom.svg|200]] <img src="./UK/Flag_of_the_United_Kingdom.svg" width="200"/> 
 
 ## #has_/text_of_/abstract  
 
@@ -107,7 +107,7 @@ into a Subfolder named `UK`, so that this Link into the Sub-Repository works: [[
 
 ### #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|150]] <img src="./UK/Coat_of_Arms_of_the_United_Kingdom.svg" width="150"/> 
+#has_/image_for_/coat_of_arms :: ![[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|250]] <img src="./UK/Coat_of_Arms_of_the_United_Kingdom.svg" width="250"/> 
 
 
 #has_/sound_of_/anthem :: ![[Anthem-United-kingdom.mp3]]
