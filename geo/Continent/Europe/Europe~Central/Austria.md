@@ -1,4 +1,5 @@
 ---
+has_id_wikidata: Q40
 location:
     - 47.712
     - 14.381
@@ -40,11 +41,49 @@ icon: flag-at
 
 # [[Austria]] 
 
-For more Details, check out this Repository into this Subfolder: 
+## International Names
+
+[name-en::Austria]
+[name-de::Österreich]
+
+
+[ISO2::AT]
+[ISO3::AUT] 
+
+
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Austria 
 
-[[Austria/ReadMe]] 
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Austria)
+into a Subfolder named `Austria`, so that this Link into the Sub-Repository works: [[Austria/ReadMe]] 
 
+> [!warning] This can considerably increase the total size and depth of your wiki.
+
+## Maps and Flags 
+
+## #has_/image_for_/coat_of_arms 
+
+#has_/image_for_/coat_of_arms :: ![[./Austria/Coat_of_arms_of_Austria.svg|150]] <img src="./Austria/Coat_of_arms_of_Austria.svg" width="150"/> 
+
+
+#has_/sound_of_/anthem :: ![[Anthem-Austria.mp3]]
+
+## #has_/image_for_/flag 
+
+#has_/image_for_/flag :: ![[./Austria/Flag_of_Austria.svg|200]] <img src="./Austria/Flag_of_Austria.svg" width="200"/> 
+
+## #has_/map  
+
+
+
+```leaflet
+id: Austria
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Austria//
+markerFolder: ./Austria///
+```
 
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]
@@ -111,34 +150,12 @@ Sub-region_Name ::  [[Western Europe]]
 
 
 
-[ISO2::AT]
-[ISO3::AUT] 
-
-## #has_/map  
-
-
-
-```leaflet
-id: Austria
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Austria//
-markerFolder: ./Austria///
-```
-
-[name-en::Austria]
-[name-de::Österreich]
 [Area-Total::8273]
 [Area-Land::82730]
 has_place_continent:: [[Europe]]  
 [VehicleCode::A]
 Capital :: [[Austria/State/State~Wien/Wien-city]]  
 
-
-![[Coat_of_arms_of_Austria.svg|350]]
-![[Anthem-Austria.mp3]]
-![[Flag_of_Austria.svg|350]]
 
 [Alcohol-l::13.2]
 [Language-Id::497]
