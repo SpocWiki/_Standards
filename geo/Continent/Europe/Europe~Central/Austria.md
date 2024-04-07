@@ -66,6 +66,10 @@ into a Subfolder named `Austria`, so that this Link into the Sub-Repository work
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
 
+### #has_/image_for_/flag 
+
+#has_/image_for_/flag :: ![[./Austria/Flag_of_Austria.svg|200]] <img src="./Austria/Flag_of_Austria.svg" width="200"/> 
+
 ## #has_/text_of_/abstract  
 
 > **Austria**, formally the Republic of Austria, is a landlocked country in Central Europe, lying in the Eastern Alps. It is a federation of nine federal states, one of which is the capital, Vienna, the most populous city and federal state. Austria is bordered by Germany to the northwest, the Czech Republic to the north, Slovakia to the northeast, Hungary to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The country occupies an area of 83,879 km2 (32,386 sq mi) and has a population of around 9 million.Austria emerged from the remnants of the Eastern and Hungarian March at the end of the first millennium. Originally a margraviate of Bavaria, it developed into a duchy of the Holy Roman Empire in 1156 and was later made an archduchy in 1453. In the 16th century, Vienna began serving as the empire's administrative capital and Austria thus became the heartland of the Habsburg monarchy. Before the dissolution of the Holy Roman Empire two years later, in 1804, Austria established its own empire, which became a great power and the dominant member of the German Confederation. The empire's defeat in the Austro-Prussian War of 1866 led to the end of the Confederation and paved the way for the establishment of Austria-Hungary a year later, Austria was its part with the name Cisleithania.
@@ -86,10 +90,6 @@ into a Subfolder named `Austria`, so that this Link into the Sub-Repository work
 
 
 #has_/sound_of_/anthem :: ![[Anthem-Austria.mp3]]
-
-### #has_/image_for_/flag 
-
-#has_/image_for_/flag :: ![[./Austria/Flag_of_Austria.svg|200]] <img src="./Austria/Flag_of_Austria.svg" width="200"/> 
 
 ### #has_/map  
 
