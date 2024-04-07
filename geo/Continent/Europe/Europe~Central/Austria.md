@@ -68,6 +68,16 @@ into a Subfolder named `Austria`, so that this Link into the Sub-Repository work
 
 ## #has_/text_of_/abstract  
 
+> **Austria**, formally the Republic of Austria, is a landlocked country in Central Europe, lying in the Eastern Alps. It is a federation of nine federal states, one of which is the capital, Vienna, the most populous city and federal state. Austria is bordered by Germany to the northwest, the Czech Republic to the north, Slovakia to the northeast, Hungary to the east, Slovenia and Italy to the south, and Switzerland and Liechtenstein to the west. The country occupies an area of 83,879 km2 (32,386 sq mi) and has a population of around 9 million.Austria emerged from the remnants of the Eastern and Hungarian March at the end of the first millennium. Originally a margraviate of Bavaria, it developed into a duchy of the Holy Roman Empire in 1156 and was later made an archduchy in 1453. In the 16th century, Vienna began serving as the empire's administrative capital and Austria thus became the heartland of the Habsburg monarchy. Before the dissolution of the Holy Roman Empire two years later, in 1804, Austria established its own empire, which became a great power and the dominant member of the German Confederation. The empire's defeat in the Austro-Prussian War of 1866 led to the end of the Confederation and paved the way for the establishment of Austria-Hungary a year later, Austria was its part with the name Cisleithania.
+>
+> After the assassination of Archduke Franz Ferdinand in 1914, Emperor Franz Joseph declared war on Serbia, which ultimately escalated into World War I. The empire's defeat and subsequent collapse led to the proclamation of the Republic of German-Austria in 1918 and the First Austrian Republic in 1919. During the interwar period, anti-parliamentarian sentiments culminated in the formation of an Austrofascist dictatorship under Engelbert Dollfuss in 1934. A year before the outbreak of World War II, Austria was annexed into Nazi Germany by Adolf Hitler, and it became a sub-national division. After its liberation in 1945 and a decade of Allied occupation, the country regained its sovereignty and declared its perpetual neutrality in 1955.
+>
+> Austria is a semi-presidential representative democracy with a popularly elected president as head of state and a chancellor as head of government and chief executive. Major cities include Vienna, Graz, Linz, Salzburg, and Innsbruck. Austria has the 17th highest nominal GDP per capita with high standards of living; it was ranked 25th in the world for its Human Development Index in 2021.
+>
+> Austria has been a member of the United Nations since 1955 and of the European Union since 1995. It hosts the Organization for Security and Co-operation in Europe (OSCE) and the Organization of the Petroleum Exporting Countries (OPEC) and is a founding member of the Organisation for Economic Co-operation and Development (OECD) and Interpol. It also signed the Schengen Agreement in 1995, and adopted the euro currency in 1999.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Austria)
+
 ## Maps and Flags 
 
 ### #has_/image_for_/coat_of_arms 

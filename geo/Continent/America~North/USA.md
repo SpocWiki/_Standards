@@ -1,8 +1,9 @@
 ---
 title: United States of America
+type: Country
 
 location: [39.2641,-94.8153]
-type: Country
+has_id_wikidata: Q30
 SpocWebEntityId: 27047
 isDeleted: false
 confidential: public
