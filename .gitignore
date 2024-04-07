@@ -17,7 +17,7 @@ workspace.json
 #.obsidian.desktop/*
 #
 #.obsidian/
-#.trash/
+.trash/
 
 # --- Mac --- #
 
