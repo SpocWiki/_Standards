@@ -24,13 +24,6 @@ This Repository/Folder/Wiki/Vault contains shared, public, freely usable Text.
 Images are copyrighted by their respective owners as indicated for each picture at the end of each file.
 
 
-This Repository is intended to be shared as a common basis, 
-by including it as a Sub-Repository in local File-Systems, 
-specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
-
-Check out this Repository into this Subfolder: 
-\_Standards/bio/bio~Tree
-
 > [!warning] This is a very deep folder Structure with up to 200 Characters! 
 > Make sure to check it out into a shallow Location on Windows! 
 > 
