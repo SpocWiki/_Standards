@@ -20,7 +20,9 @@ into a Subfolder named `bio~Tree`, so that this Link into the Sub-Repository wor
 
 > [!warning] This can considerably increase the total size and depth of your wiki.
 
-This Repository/Folder/Wiki/Vault contains freely usable Text and Data. 
+This Repository/Folder/Wiki/Vault contains shared, public, freely usable Text. 
+Images are copyrighted by their respective owners as indicated for each picture at the end of each file.
+
 
 This Repository is intended to be shared as a common basis, 
 by including it as a Sub-Repository in local File-Systems, 
