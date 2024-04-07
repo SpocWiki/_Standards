@@ -1,5 +1,6 @@
 ---
 title: Deutschland (Germany)
+linkTitle: Germany
 type: Country
 location: [50.8699,10.1207] 
 has_id_wikidata: Q183
@@ -15,8 +16,12 @@ isDeleted: false
 isReadOnly: false
 cssclasses: Country
 publish: true
+keywords: null
+layout: null
 draft: false
 confidential: public
+publishDate: null
+expiryDate: null
 tags:
   - geo/Country
 aliases:
@@ -33,7 +38,6 @@ aliases:
   - la República Federal de Alemania
 Languages:
   - de
-linkTitle: 
 keywords: 
 layout: 
 publishDate: 
@@ -642,6 +646,10 @@ has_name:
 
 # [[Germany]] (Deutschland)
 
+#is_a_/Country 
+#is_a_/Place 
+#is_a_ :: [[Place]] 
+
 ## International Names
 [	name	 :: Germany ]
 [	name-en	 :: Germany ]
@@ -670,13 +678,76 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 
 ## #has_/text_of_/abstract  
 
-> **Germany**, officially the Federal Republic of Germany, is a country in the western region of Central Europe. It is the second-most populous country in Europe after Russia, and the most populous member state of the European Union. Germany lies between the Baltic and North Sea to the north and the Alps to the south. Its 16 constituent states have a total population of over 84 million, covering a combined area of 357,600 km2 (138,100 sq mi) and sharing land borders with Denmark to the north, Poland and the Czech Republic to the east, Austria and Switzerland to the south, and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and most populous city is Berlin and its main financial centre is Frankfurt; the largest urban area is the Ruhr.
+> **Germany**, officially the Federal Republic of Germany, 
+> is a country in the western region of Central Europe. 
+> 
+> It is the second-most populous country in Europe after Russia, 
+> and the most populous member state of the European Union. 
+> 
+> Germany lies between the Baltic and North Sea to the north and the Alps to the south. 
+> 
+> Its 16 constituent states have a total population of over 84 million, 
+> covering a combined area of 357,600 km2 (138,100 sq mi) 
+> and sharing land borders with [[Denmark]] to the north, 
+> [[Poland]] and the Czech Republic to the east, 
+> [[Austria]] and [[Switzerland]] to the south, and [[France]], [[Luxembourg]], [[Belgium]], 
+> and the [[Netherlands]] to the west. 
+> 
+> The nation's capital and most populous city is [[Berlin]] 
+> and its main financial centre is [[Frankfurt]]; the largest urban area is the Ruhr.
 >
-> Settlement in what is now Germany began in the Lower Paleolithic, with various tribes inhabiting it from the Neolithic onward, chiefly the Celts. Various Germanic tribes have inhabited the northern parts of modern Germany since classical antiquity. A region named Germania was documented before AD 100. In 962, the Kingdom of Germany formed the bulk of the Holy Roman Empire. During the 16th century, northern German regions became the centre of the Protestant Reformation. Following the Napoleonic Wars and the dissolution of the Holy Roman Empire in 1806, the German Confederation was formed in 1815.
+> Settlement in what is now Germany began in the Lower Paleolithic, 
+> with various tribes inhabiting it from the Neolithic onward, chiefly the Celts. 
+> 
+> Various Germanic tribes have inhabited the northern parts of modern Germany 
+> since classical antiquity. A region named Germania was documented before AD 100. 
+> 
+> In 962, the Kingdom of Germany formed the bulk of the Holy Roman Empire. 
+> 
+> During the 16th century, 
+> northern German regions became the centre of the Protestant Reformation. 
+> Following the Napoleonic Wars and the dissolution of the Holy Roman Empire in 1806, 
+> the German Confederation was formed in 1815.
 >
-> Formal unification of Germany into the modern nation-state commenced on 18 August 1866 with the North German Confederation Treaty establishing the Prussia-led North German Confederation later transformed in 1871 into the German Empire. After World War I and the German Revolution of 1918–1919, the Empire was in turn transformed into the semi-presidential Weimar Republic. The Nazi seizure of power in 1933 led to the establishment of a totalitarian dictatorship, World War II, and the Holocaust. After the end of World War II in Europe and a period of Allied occupation, in 1949, Germany as a whole was organized into two separate polities with limited sovereignty: the Federal Republic of Germany, generally known as West Germany, and the German Democratic Republic, known as East Germany, while Berlin continued its de jure Four Power status. The Federal Republic of Germany was a founding member of the European Economic Community and the European Union, while the German Democratic Republic was a communist Eastern Bloc state and member of the Warsaw Pact. After the fall of the communist led-government in East Germany, German reunification saw the former East German states join the Federal Republic of Germany on 3 October 1990.
+> Formal unification of Germany into the modern nation-state commenced 
+> on 18 August 1866 with the North German Confederation Treaty 
+> establishing the Prussia-led North German Confederation 
+> later transformed in 1871 into the German Empire. 
+> 
+> After World War I and the German Revolution of 1918–1919, 
+> the Empire was in turn transformed into the semi-presidential Weimar Republic. 
+> 
+> The Nazi seizure of power in 1933 led to the establishment of a totalitarian dictatorship, 
+> World War II, and the Holocaust. 
+> 
+> After the end of World War II in Europe and a period of Allied occupation, in 1949, 
+> Germany as a whole was organized into two separate polities with limited sovereignty: 
+> the Federal Republic of Germany, generally known as West Germany, 
+> and the German Democratic Republic, known as East Germany, 
+> while Berlin continued its de jure Four Power status. 
+> 
+> The Federal Republic of Germany was 
+> a founding member of the European Economic Community and the European Union, 
+> while the German Democratic Republic was a communist Eastern Bloc state 
+> and member of the Warsaw Pact. 
+> 
+> After the fall of the communist led-government in East Germany, 
+> German reunification saw the former East German states 
+> join the Federal Republic of Germany on 3 October 1990.
 >
-> Germany has been described as a great power with a strong economy; it has the largest economy in Europe. As a global power in industrial, scientific and technological sectors, it is both the world's third-largest exporter and importer. As a developed country it offers social security, a universal health care system, and tuition-free university education. Germany is a member of the United Nations, European Union, NATO, Council of Europe, G7, G20, and OECD. It has the third-greatest number of UNESCO World Heritage Sites.
+> Germany has been described as a great power with a strong economy; 
+> it has the largest economy in Europe. 
+> 
+> As a global power in industrial, scientific and technological sectors, 
+> it is both the world's third-largest exporter and importer. 
+> 
+> As a developed country it offers social security, a universal health care system, 
+> and tuition-free university education. 
+> 
+> Germany is a member of the United Nations, European Union, NATO, 
+> Council of Europe, G7, G20, and OECD. 
+> 
+> It has the third-greatest number of UNESCO World Heritage Sites.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Germany)
 
@@ -765,8 +836,6 @@ has_place_continent:: [[Europe]]
 Capital :: [[Berlin]]  
 [Alcohol-l::12.8]
 [Language-Id::497]
-#is_a_/Place  
-#is_a_ :: [[Place]] 
 [has_place_longitude::10.1207]
 [has_place_latitude::50.8699]
 
