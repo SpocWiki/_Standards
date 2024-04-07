@@ -1,11 +1,13 @@
 ---
+title: Switzerland
+type: Country
 location:
     - 46.8963
     - 8.46058
-type: Country
+has_id_wikidata: Q40
+SpocWebEntityId: 26865
 tags:
     - geo/Country
-SpocWebEntityId: 26865
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
@@ -13,7 +15,6 @@ isReadOnly: false
 source: 'https://datahub.io/core/country-codes'
 cssclasses: Country
 publish: true
-title: Switzerland
 linkTitle: null
 keywords: null
 layout: null
@@ -39,13 +40,57 @@ Languages:
 icon: flag-ch
 ---
 
-# [Switzerland](_Standards/geo/Continent/Europe/Europe~Central/Switzerland.md) 
+# [[Switzerland]] 
+
+## International Names
+
+[	name	 :: Switzerland ]
+[	name-en	 :: Switzerland ]
+[	name-es	 :: Suiza ]
+[	name-fr	 :: Suisse ]
+[	name-cn	 :: 瑞士 ]
+[	name-ar	 :: سويسرا ]
+[	name-ru	 :: Швейцария ]
+[name-de::Schweiz]
+
+[ISO2::CH]
+[ISO3::CHE]
 
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Belarus 
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Switzerland)
+into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository works: [[Switzerland/ReadMe]] 
 
-[ReadMe](_Standards/geo/Continent/Europe/Europe~East/Belarus/ReadMe.md) 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Switzerland 
+
+> [!warning] This can considerably increase the total size and depth of your wiki.
+
+
+## #has_/text_of_/abstract  
+
+## Maps and Flags 
+
+### #has_/image_for_/coat_of_arms 
+
+#has_/image_for_/coat_of_arms :: ![[./Switzerland/Coat_of_arms_of_Switzerland.svg|150]] <img src="./Switzerland/Coat_of_arms_of_Switzerland.svg" width="150"/> 
+
+
+#has_/sound_of_/anthem :: ![[Anthem-Switzerland.mp3]]
+
+### #has_/image_for_/flag 
+
+#has_/image_for_/flag :: ![[./Switzerland/Flag_of_Switzerland.svg|200]] <img src="./Switzerland/Flag_of_Switzerland.svg" width="200"/> 
+
+### #has_/map  
+
+```leaflet
+id: Switzerland
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Switzerland//
+markerFolder: ./Switzerland//
+```
 
 [	ISO4217-currency_alphabetic	 :: CHF ]
 [	ISO4217-currency_name	 :: Swiss Franc ]
@@ -57,14 +102,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
-
-[	name	 :: Switzerland ]
-[	name-en	 :: Switzerland ]
-[	name-es	 :: Suiza ]
-[	name-fr	 :: Suisse ]
-[	name-cn	 :: 瑞士 ]
-[	name-ar	 :: سويسرا ]
-[	name-ru	 :: Швейцария ]
 
 [	CLDR_display_name	 :: Switzerland ]
 
@@ -112,31 +149,12 @@ Sub-region_Name ::  [Western Europe](Western%20Europe)
 
 
 
-[ISO2::CH]
-[ISO3::CHE]
-
-```leaflet
-id: Switzerland
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Switzerland//
-markerFolder: ./Switzerland//
-```
-
-[name-en::Switzerland]
-[name-de::Schweiz]
 [Area-Total::39988]
 [Area-Land::39550]
 has_place_continent:: [Europe](_Standards/geo/Continent/Europe.md)  
 [VehicleCode::CH]
 Capital :: [Bern](_Standards/geo/Continent/Europe/Europe~Central/Switzerland/Switzerland~Counties/Bern.md)  
 
-![350](_Standards/geo/Continent/Europe/Europe~Central/Switzerland/Coat_of_arms_of_Switzerland.svg)
-
-![Anthem-Switzerland](_public/xLarge.public/National-Anthem/Anthem-Switzerland.mp3)
-
-![350](_Standards/geo/Continent/Europe/Europe~Central/Switzerland/Flag_of_Switzerland.svg)
 [Alcohol-l::11.1]
 [Language-Id::497]
 #is_a_/Place  

@@ -1,18 +1,20 @@
 ---
+title: Deutschland (Germany)
+type: Country
+location: [50.8699,10.1207] 
 has_id_wikidata: Q183
+SpocWebEntityId: 26878
 WOEID: "23424829"
 mobile country code: "262"
 M49 code: "276"
 ISO 3166-1 numeric code: "276"
 GS1 country code: 400-440
-location: [50.8699,10.1207] 
-type: Country
-title: Deutschland (Germany)
-SpocWebEntityId: 26878
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
+cssclasses: Country
+publish: true
 draft: false
 confidential: public
 tags:
@@ -31,8 +33,6 @@ aliases:
   - la República Federal de Alemania
 Languages:
   - de
-cssclasses: Country
-publish: true
 linkTitle: 
 keywords: 
 layout: 
@@ -643,6 +643,7 @@ has_name:
 # [[Germany]] (Deutschland)
 
 ### International Names
+
 [	name	 :: Germany ]
 [	name-en	 :: Germany ]
 [	name-es	 :: Alemania ]
@@ -655,28 +656,33 @@ has_name:
 [ISO2::DE]
 [ISO3::DEU]
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
-
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Germany)
 into a Subfolder named `Germany`, so that this Link into the Sub-Repository works: [[Germany/ReadMe]] 
 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Germany 
+
 > [!warning] This can considerably increase the total size and depth of your wiki.
+
+
+## #has_/text_of_/abstract  
+
+
 
 ## Maps and Flags 
 
 
-## #has_/image_for_/coat_of_arms 
+### #has_/image_for_/coat_of_arms 
 
 #has_/image_for_/coat_of_arms :: ![[./Germany/Coat_of_arms_of_Germany.svg|150]] <img src="./Germany/Coat_of_arms_of_Germany.svg" width="150"/>
 
 #has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
 
-## #has_/image_for_/flag 
+### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Germany/Flag_of_Germany.svg|200]] <img src="./Germany/Flag_of_Germany.svg" width="200"/> 
 
-## #has_/map 
+### #has_/map 
 
 ```leaflet
 id: Germany

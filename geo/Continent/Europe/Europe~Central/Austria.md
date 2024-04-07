@@ -1,20 +1,20 @@
 ---
-has_id_wikidata: Q40
+title: Austria
+type: Country
 location:
     - 47.712
     - 14.381
-type: Country
+has_id_wikidata: Q39
 SpocWebEntityId: 26837
-isDeleted: false
-confidential: public
 tags:
     - geo/Country
+isDeleted: false
+confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-title: Austria
 linkTitle: 
 keywords: 
 layout: 
@@ -43,7 +43,13 @@ icon: flag-at
 
 ## International Names
 
-[name-en::Austria]
+[	name	 :: Austria ]
+[	name-en	 :: Austria ]
+[	name-es	 :: Austria ]
+[	name-fr	 :: Autriche ]
+[	name-cn	 :: 奥地利 ]
+[	name-ar	 :: النمسا ]
+[	name-ru	 :: Австрия ]
 [name-de::Österreich]
 
 
@@ -51,30 +57,31 @@ icon: flag-at
 [ISO3::AUT] 
 
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Austria 
-
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Austria)
 into a Subfolder named `Austria`, so that this Link into the Sub-Repository works: [[Austria/ReadMe]] 
 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Austria 
+
 > [!warning] This can considerably increase the total size and depth of your wiki.
+
+
+## #has_/text_of_/abstract  
 
 ## Maps and Flags 
 
-## #has_/image_for_/coat_of_arms 
+### #has_/image_for_/coat_of_arms 
 
 #has_/image_for_/coat_of_arms :: ![[./Austria/Coat_of_arms_of_Austria.svg|150]] <img src="./Austria/Coat_of_arms_of_Austria.svg" width="150"/> 
 
 
 #has_/sound_of_/anthem :: ![[Anthem-Austria.mp3]]
 
-## #has_/image_for_/flag 
+### #has_/image_for_/flag 
 
 #has_/image_for_/flag :: ![[./Austria/Flag_of_Austria.svg|200]] <img src="./Austria/Flag_of_Austria.svg" width="200"/> 
 
-## #has_/map  
-
-
+### #has_/map  
 
 ```leaflet
 id: Austria
@@ -95,14 +102,6 @@ markerFolder: ./Austria///
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
-
-[	name	 :: Austria ]
-[	name-en	 :: Austria ]
-[	name-es	 :: Austria ]
-[	name-fr	 :: Autriche ]
-[	name-cn	 :: 奥地利 ]
-[	name-ar	 :: النمسا ]
-[	name-ru	 :: Австрия ]
 
 [	CLDR_display_name	 :: Austria ]
 

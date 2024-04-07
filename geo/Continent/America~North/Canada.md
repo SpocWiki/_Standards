@@ -1,17 +1,18 @@
 ---
 title: Canada
+type: Country
 location:
     - 50.4137
     - -87.1444
-type: Country
+has_id_wikidata: Q40
 SpocWebEntityId: 26860
-isDeleted: false
-confidential: public
 tags:
     - geo/Country
+isDeleted: false
+confidential: public
 license: CC BY-SA 4.0
-isReadOnly: false
 source: 'https://datahub.io/core/country-codes'
+isReadOnly: false
 cssclasses: Country
 publish: true
 linkTitle: null
@@ -39,19 +40,27 @@ icon: flag-ca
 
 # [[Canada]] 
 
-For more Details, [check out this Repository](https://github.com/SpocWiki/America-Canada)
-into a Subfolder named `Canada`, so that this Link can be resolved: [[Canada/ReadMe]]  
+### International Names
 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Canada 
-
-[name-en::Canada]
+[	name	 :: Canada ]
+[	name-en	 :: Canada ]
+[	name-es	 :: Canadá ]
+[	name-fr	 :: Canada ]
+[	name-cn	 :: 加拿大 ]
+[	name-ar	 :: كندا ]
+[	name-ru	 :: Канада ]
 [name-de::Kanada]
 
 [ISO2::CA]
 [ISO3::CAN]  
 
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-Canada)
+into a Subfolder named `Canada`, so that this Link into the Sub-Repository works: [[Canada/ReadMe]] 
 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/America-Canada 
 
+> [!warning] This can considerably increase the total size and depth of your wiki.
 
 
 ## #has_/text_of_/abstract  
@@ -90,6 +99,8 @@ geojsonFolder: ./Canada//
 markerFolder: ./Canada/
 ```
 
+## Metadata 
+
 #has_/telephone_/Prefix_/International :: 011
 #has_/telephone_/Prefix_/country:: 1 
 
@@ -101,14 +112,6 @@ markerFolder: ./Canada/
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
-
-[	name	 :: Canada ]
-[	name-en	 :: Canada ]
-[	name-es	 :: Canadá ]
-[	name-fr	 :: Canada ]
-[	name-cn	 :: 加拿大 ]
-[	name-ar	 :: كندا ]
-[	name-ru	 :: Канада ]
 
 [	CLDR_display_name	 :: Canada ]
 
