@@ -1,5 +1,5 @@
 ---
-wikidata entity id: Q183
+has_id_wikidata: Q183
 WOEID: "23424829"
 mobile country code: "262"
 M49 code: "276"

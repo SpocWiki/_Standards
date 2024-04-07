@@ -10,16 +10,16 @@ tags:
     - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
+source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Austria
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
     - AT
     - AUT
