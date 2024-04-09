@@ -16,12 +16,13 @@ isDeleted: false
 isReadOnly: false
 cssclasses: Country
 publish: true
-keywords: null
-layout: null
+keywords: 
+layout: 
 draft: false
 confidential: public
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
+icon: flag-de
 tags:
   - geo/Country
 aliases:
@@ -38,11 +39,6 @@ aliases:
   - la República Federal de Alemania
 Languages:
   - de
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
-icon: flag-de
 head of state: "[[../../../../db/Frank-Walter Steinmeier]]"
 member of:
   - "[[../../../../db/Organization for Security and Co-operation in Europe]]"
@@ -649,8 +645,11 @@ has_name:
 #is_a_/Country 
 #is_a_/Place 
 #is_a_ :: [[Place]] 
+[has_place_longitude::10.1207]
+[has_place_latitude::50.8699]
 
 ## International Names
+
 [	name	 :: Germany ]
 [	name-en	 :: Germany ]
 [	name-es	 :: Alemania ]
@@ -836,8 +835,6 @@ has_place_continent:: [[Europe]]
 Capital :: [[Berlin]]  
 [Alcohol-l::12.8]
 [Language-Id::497]
-[has_place_longitude::10.1207]
-[has_place_latitude::50.8699]
 
 
 
