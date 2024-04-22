@@ -3,35 +3,32 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_name
 linkTitle: has_name
-
-keywords: [name]
+keywords:
+  - name
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- name
-- name
-- name
-- has_name
+  - name
+  - name_
+  - name_en
+  - has_name
+  - http://dbpedia.org/resource/Name
 ---
 
-Predicate to describe the Text of Thing.
+Predicate to describe the Name of a Thing.
+The Name can be specialized by Language (as any Text)
 
 Use it like this: 
 - [ #has_/name :: Text ] or 
