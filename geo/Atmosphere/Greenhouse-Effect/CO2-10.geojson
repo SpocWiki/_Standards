@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"creator": "svg2geojson v0.7.0",
+"name": "Atmospheric_Transmission-en",
+"features": [
+{ "type": "Feature", 
+"properties": {
+	"id": "1576",
+	"fill": "#770",
+	"title": "CO2-Absorption-10",
+	"name": "CO2-10-Absorption"
+}, 
+"geometry": { "type": "Polygon", "coordinates": [ 
+[ [ 14.102783, 35.038101 ], [ 14.247004, 35.038101 ], [ 14.206255, 35.052102 ], [ 14.196667, 35.071682 ], [ 14.162309, 35.072493 ], [ 14.154319, 35.082436 ], [ 14.146729, 35.082638 ], [ 14.135942, 35.049667 ], [ 14.102783, 35.038101 ] ] ] } }
+]}
