@@ -5,6 +5,7 @@ location:
 type: Country
 tags:
     - geo/Country
+has_id_wikidata: Q17 
 SpocWebEntityId: 26933
 isDeleted: false
 confidential: public
@@ -37,6 +38,7 @@ icon: flag-jp
 ---
 
 # [[Japan]] 
+
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Japan 
