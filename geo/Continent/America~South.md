@@ -1,6 +1,7 @@
 ---
 type: Continent
 confidential: public
+has_id_wikidata: Q18 
 SpocWebEntityId: 27160
 
 tags:

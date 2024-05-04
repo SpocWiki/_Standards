@@ -9,6 +9,7 @@ tags:
     - geo/Continent
 isDeleted: false
 icon: fas_earth_europe
+icon: flag-eu 
 ---
 
 # [[Europe]] 

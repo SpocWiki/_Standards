@@ -4,7 +4,7 @@ type: Country
 location:
     - 50.4137
     - -87.1444
-has_id_wikidata: Q40
+has_id_wikidata: Q16 
 SpocWebEntityId: 26860
 tags:
     - geo/Country
@@ -40,7 +40,7 @@ icon: flag-ca
 
 # [[Canada]] 
 
-### International Names
+## International Names
 
 [	name	 :: Canada ]
 [	name-en	 :: Canada ]
