@@ -2,43 +2,49 @@
 title: Switzerland
 type: Country
 location:
-    - 46.8963
-    - 8.46058
+  - 46.8963
+  - 8.46058
 has_id_wikidata: Q40
 SpocWebEntityId: 26865
 tags:
-    - geo/Country
+  - geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - CH
-    - CHE
-    - Switzerland
-    - Suiza
-    - Suisse
-    - سويسرا
-    - 瑞士
-    - Швейцария
-    - the Swiss Confederation
-    - la Confederación Suiza
+  - CH
+  - CHE
+  - Switzerland
+  - Suiza
+  - Suisse
+  - سويسرا
+  - 瑞士
+  - Швейцария
+  - the Swiss Confederation
+  - la Confederación Suiza
+  - Svizzera
+  - Svizra
+  - Helvetica
 Languages:
-    - de-CH
-    - fr-CH
-    - it-CH
-    - rm
+  - de-CH
+  - fr-CH
+  - it-CH
+  - rm
 icon: flag-ch
 ---
+
+#has_/time_/created :: 1291-08-01 
 
 # [[Switzerland]] 
 
@@ -84,32 +90,32 @@ into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository 
 > which hosts its largest cities and economic centres, 
 > including Zürich, Geneva and Basel. 
 > 
-> Switzerland originates from the Old Swiss Confederacy established in the Late Middle Ages, 
+> Switzerland originates from the Old [[Swiss_Confederacy]] established in the Late Middle Ages, 
 > following a series of military successes against Austria and Burgundy; 
-> the Federal Charter of 1291 is considered the country's founding document. 
+> the [[Federal_Charter_of_1291]] is considered the country's founding document. 
 > 
-> Swiss independence from the Holy Roman Empire was formally recognised 
+> Swiss independence from the Holy Roman Empire was __formally recognized__ 
 > in the [[Peace_of_Westphalia]] in 1648. 
 > 
-> Switzerland has maintained a policy of armed neutrality since the 16th century 
-> and has not fought an international war since 1815. 
-> It joined the United Nations only in 2002 but pursues an active foreign policy 
-> that includes frequent involvement in peace building. 
+> Switzerland has maintained a policy of __armed neutrality since the 16th century__ 
+> and has __not fought an international war since 1815__. 
+> It __joined the United Nations only in 2002__ but pursues an active foreign policy 
+> that includes __frequent involvement in peace building__. 
 > 
-> Switzerland is the birthplace of the Red Cross 
+> Switzerland is the birthplace of the [[Red_Cross]] 
 > and hosts the headquarters or offices of most major international institutions, 
-> including the WTO, the WHO, the ILO, FIFA, and the [[../../../_Standards/UN(United_Nations)]]. 
+> including the [[WTO]], the [[WHO]], the [[ILO]], [[FIFA]], and the [[../../../_Standards/UN(United_Nations)]]. 
 > 
-> It is a founding member of the European Free Trade Association (EFTA), 
-> but not part of the European Union (EU), the European Economic Area, or the eurozone; 
-> however, it participates in the European single market and the Schengen Area. 
+> It is a founding member of the [[EFTA(European Free Trade Association)]], 
+> but not part of the [[../European_Union]], the European Economic Area, or the eurozone; 
+> however, it participates in the European single market and the [[../Schengen-Area]]. 
 > 
 > Switzerland is a federal republic composed of 26 cantons, 
 > with federal authorities based in Bern. 
 > 
 > Switzerland is one of the world's most developed countries, 
-> with the highest nominal wealth per adult 
-> and the eighth-highest gross domestic product (GDP) per capita. 
+> with the __highest nominal wealth per adult__ 
+> and the __eighth-highest gross domestic product (GDP) per capita__. 
 > 
 > Switzerland ranks first in the Human Development Index since 2021 
 > and performs highly also on several international metrics, 
@@ -136,6 +142,27 @@ into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository 
 > On coins and stamps, the Latin name, Confoederatio Helvetica—frequently shortened to "Helvetia"—is used instead of the spoken languages.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Switzerland)
+
+## Government 
+
+[Direct democracy](https://en.wikipedia.org/wiki/Direct_democracy "Direct democracy") and [federalism](https://en.wikipedia.org/wiki/Federalism "Federalism") are hallmarks of the Swiss political system. 
+Three main bodies govern on the federal level:[[86]](https://en.wikipedia.org/wiki/Switzerland#cite_note-94) the [bicameral](https://en.wikipedia.org/wiki/Bicameralism "Bicameralism") parliament (legislative), the [Federal Council](https://en.wikipedia.org/wiki/Swiss_Federal_Council "Swiss Federal Council") (executive) and the [Federal Court](https://en.wikipedia.org/wiki/Federal_Supreme_Court_of_Switzerland "Federal Supreme Court of Switzerland") (judicial).
+the [Council of States](https://en.wikipedia.org/wiki/Swiss_Council_of_States "Swiss Council of States") which has 46 representatives (two from each canton and one from each [half-canton](https://en.wikipedia.org/wiki/Half-canton "Half-canton")) who are elected under a system determined by each canton, and the [National Council](https://en.wikipedia.org/wiki/National_Council_of_Switzerland "National Council of Switzerland"), which consists of 200 members who are elected under a system of [proportional representation](https://en.wikipedia.org/wiki/Proportional_representation "Proportional representation"), reflecting each canton's population.
+
+## Military 
+
+Switzerland has no Navy. 
+The Swiss militia system stipulates that soldiers keep their army-issued equipment, 
+including [fully automatic](https://en.wikipedia.org/wiki/Automatic_firearm "Automatic firearm") personal weapons, at home. Women can serve voluntarily. 
+Men usually receive military conscription orders for training at the age of 18. 
+About two-thirds of young Swiss are found suitable for service; 
+for the others, various forms of alternative service are available.
+
+[Gun politics in Switzerland](https://en.wikipedia.org/wiki/Gun_politics_in_Switzerland "Gun politics in Switzerland") are unique in Europe in that 
+2–3.5 million guns are in the hands of civilians, giving the nation 
+an estimate of 28–41 guns per 100 people. 
+As per the Small Arms Survey, only 324,484 guns are owned by the military. 
+Only 143,372 are in the hands of soldiers. However, ammunition is no longer issued. 
 
 
 ## Maps and Flags 

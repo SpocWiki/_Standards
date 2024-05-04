@@ -72,7 +72,7 @@
 >
 > The original locks are 33.5 meters wide and allow the passage of Panamax ships. 
 > A third, wider lane of locks was constructed between September 2007 and May 2016. 
-> The expanded waterway began commercial operation on June 26, 2016. 
+> The expanded waterway began commercial operation on 2016-06-26. 
 > The new locks allow transit of larger, Neopanamax ships.
 >
 > Annual traffic has risen from about 1,000 ships in 1914, when the canal opened, 

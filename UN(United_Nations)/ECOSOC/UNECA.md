@@ -10,6 +10,6 @@ aliases:
 >
 > The ECA has 54 member states, corresponding to the 54 member states of the United Nations that lie within the continent of Africa or in oceans nearby the continent. The ECA's mandate is to promote the economic and social development of its member states, foster intra-regional integration, and promote international cooperation for Africa's development.[1]
 >
-> On October 6, 2023, The UN Secretary General appointed Rwandan Claver Gatete as the Executive Secretary of UNECA, replacing the Cameroonian Vera Songwe.
+> On 2023-10-6, The UN Secretary General appointed Rwandan Claver Gatete as the Executive Secretary of UNECA, replacing the Cameroonian Vera Songwe.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Africa)

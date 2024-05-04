@@ -52,7 +52,7 @@ has_/sub_classes:
 The Class of all things. Everything you can think about is a 'thing'. 
 AKA AnyThing, EveryThing, SomeThing 
 
-The most generic [[../Class|Class/Type]] of item.
+This is the most generic [[../Class|Class/Type]] of items.
 Each [Thing](Thing.md) has its own Identity.
 
 They are the Subject of the [[is_instance_of]] Relation to their [[../Classes.md|Classes]]. 
@@ -81,8 +81,10 @@ has_/sub_classes:: [ "[[./Class/is_an_/action|Action]]", "[[Class/is_a_/bio_chem
 
 [[Predicate/Urls/has_url_for_additional_type.md| #has_/properties :: [ "[has_url_for_additional_type]]", '[[Predicate/Texts/has_alternate_name.md|has_alternate_name]]', "[[Predicate/Texts/has_description.md|has_description]]", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
-Entities are Objects with an Identity, usually a unique Name and/or URL. 
-The unique Name allows to add Properties and Relations to them
+## RDF-Objects 
+
+Entities are Objects with an Identity, usually a unique Name, (Memory-) Address and/or URL. 
+In RDF the unique URI/Name allows to add Properties and Relations to them 
 in a distributed Fashion by defining and collecting S-P-O Triples. 
 
 This is the broadest, most general Class of all Entities AKA Things. 
@@ -95,6 +97,24 @@ Subject->Relation->Object
 
 Obsidian allows to naturally capture these Triples,
 either in the Frontmatter or anywhere in the Text.
+
+## OO-Programming
+
+OO Objects have at least 3 Compartments in UMS: 
+- Name (unique with Namespace), should be a Noun  
+- State (all Member Variables, as Properties / Attributes) 
+- Behavior (all Methods/Operations , as Verbs, so that Subject.Method reads naturally as SPO) 
+	-  or as Functions to return a derived Property or Object. 
+
+This can be amended by 
+- Responsibilities <=> Roles, Interfaces  
+- Invariants 
+- ...  
+
+Classes / Objects on the [[Heap]] have [[Identity]] (their Address), 
+because they can be shared among threads, 
+unlike Structs / Objects  on the [[Call-Stack]]. 
+
 
 ## Confidential Links & Embeds: 
 - [[../../_Standards/schema-org/Thing|Entity]] 

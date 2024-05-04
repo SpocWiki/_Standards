@@ -43,6 +43,10 @@ icon: flag-at
 
 # [[Austria]] 
 
+#is_/member_of :: [[../European_Union|EU]] 
+
+#has_/treaties :: [[EU-Treaty_of_Lisbon]] 
+
 ## International Names
 
 [	name	 :: Austria ]

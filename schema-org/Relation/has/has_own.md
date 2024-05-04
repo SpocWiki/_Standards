@@ -36,10 +36,15 @@ Use it like this:
 - [ #has_/own :: OwnershipInfo, Product ] or 
 - [ has_own :: OwnershipInfo, Product ] 
 
-Relation describes that: 
+Relation describes [[../../../../Knowledge/Business/Business-Entity/Ownership|Ownership]] from the Side of the [[Owner]]: 
 [ #has_/domain  :: Organization, Person ]
 ( #has_/name :: [[has_own]] )
 ( #has_/range :: OwnershipInfo, Product )
+
+#has_/owner 
+#is_/inverse_of :: [[has_Owner]] 
+#has_/own 
+
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Relation/has/has_owns|has_owns]] 

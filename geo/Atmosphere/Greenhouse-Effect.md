@@ -14,6 +14,24 @@ Higher CO² Levels there would cool the Earth,
 ![[../../../assets/Data/Atmospheric_Transmission-en.svg]]
 
 
+
+
+```leaflet
+id: Germany
+zoomFeatures: true 
+image: [[../../../assets/Pictures/Background/1x1_x00000000-Trans.png]]
+bounds:
+    - [0, 0]
+    - [1, 1]
+minZoom: 2 
+maxZoom: 18
+geojsonColor: '#000000'
+geojsonFolder: ./Greenhouse-Effect//
+markerFolder: ./Greenhouse-Effect/
+```
+
+
+
 ## #has_/text_of_/abstract 
 
 > The greenhouse effect occurs when greenhouse gases in a planet's atmosphere 
@@ -53,23 +71,6 @@ Higher CO² Levels there would cool the Earth,
 > The term greenhouse was first applied to this phenomenon by Nils Gustaf Ekholm in 1901.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greenhouse%20effect)
-
-
-
-
-```leaflet
-id: Germany
-zoomFeatures: true 
-image: [[../../../assets/Pictures/Background/1x1_x00000000-Trans.png]]
-bounds:
-    - [0, 0]
-    - [1, 1]
-minZoom: 2 
-maxZoom: 18
-geojsonColor: '#000000'
-geojsonFolder: ./Greenhouse-Effect//
-markerFolder: ./Greenhouse-Effect/
-```
 
 
 

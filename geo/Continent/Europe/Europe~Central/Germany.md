@@ -648,6 +648,7 @@ has_name:
 [has_place_longitude::10.1207]
 [has_place_latitude::50.8699]
 
+#has_/time_/created :: 1949-05-23 
 ## International Names
 
 [	name	 :: Germany ]
