@@ -36,7 +36,7 @@ Use it like this:
 - [ #has_/energy_efficiency_scale_min :: EUEnergyEfficiencyEnumeration ] or 
 - [ has_energy_efficiency_scale_min :: EUEnergyEfficiencyEnumeration ] 
 
-Specifies the least energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after 2020-01-1 is scaled from D to A+++.
+Specifies the least energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after 2020-01-01 is scaled from D to A+++.
 
 Relation describes that: 
 [ #has_/domain  :: EnergyConsumptionDetails ]
