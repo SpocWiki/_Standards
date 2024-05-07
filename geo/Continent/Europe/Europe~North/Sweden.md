@@ -5,6 +5,7 @@ location:
 type: Country
 tags:
     - geo/Country
+has_id_wikidata: Q34 
 SpocWebEntityId: 27013
 isDeleted: false
 confidential: public
@@ -41,7 +42,7 @@ icon: flag-se
 
 # [[Sweden]] 
 
-#is_/member_of :: [[../European_Union|EU]],1995-01-01
+#is_/member_of :: [[../EU(European_Union)|EU]],1995-01-01
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Sweden 

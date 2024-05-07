@@ -8,7 +8,7 @@ has_member:
 
 #has_/time_/created :: 1960-03-03 
 
-The EFTA is a counterpart to the [[../European_Union]].
+The EFTA is a counterpart to the [[../EU(European_Union)]].
 Its members in 2024 are `$=dv.current().has_member`. 
 
 

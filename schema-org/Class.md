@@ -59,6 +59,29 @@ Tag Instances like this:
 
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, supersededBy, url ] ]
 
+## Classes in [[OO-Design]] 
+
+Techniques to find [[Class]]es are: 
+- Search Nouns in the textual Description 
+- From [[Design-Patterns]] 
+- Domain-Knowledge and Documentation 
+- Analysis of [[BDD~Scenario]]s 
+- [[CRC-Card]]s  
+
+Domain Experts have 'invented' most Classes long ago 
+and use them throughout their Communication and Documentation. 
+
+Re-use these Class-Names and consolidate them into a Directory of well-defined Classes. 
+If different Domains use __alternative Names__, there should be a __mapping__. 
+
+Domain-Classes are often unstructured: Indicate [[Synonym]]s or accidental [[Homonym]]s.
+Also Instances and Classes are usually not distinguished. 
+Different States of the same Object are sometimes modeled as different Objects, 
+but that may well be a concrete instance of the [[Pattern~Strategy|Strategy-Pattern]] or [[Pattern~State|State-Pattern]]
+
+[[Nominalization]] (the process of turning a verb or adjective into a noun) makes this more difficult. 
+
+
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Class/is_a_/intangible/class|class]] 
 - [[../../../../../_public/schema-org/Class/is_a_/intangible/class.public|class.public]] 

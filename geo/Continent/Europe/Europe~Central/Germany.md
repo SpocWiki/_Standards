@@ -3,7 +3,7 @@ title: Deutschland (Germany)
 linkTitle: Germany
 type: Country
 location: [50.8699,10.1207] 
-has_id_wikidata: Q183
+has_id_wikidata: Q183 
 SpocWebEntityId: 26878
 WOEID: "23424829"
 mobile country code: "262"

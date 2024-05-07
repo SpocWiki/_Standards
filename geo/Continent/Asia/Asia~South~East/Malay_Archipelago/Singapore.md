@@ -5,6 +5,7 @@ location:
 type: Country
 tags:
     - geo/Country
+has_id_wikidata: Q334 
 SpocWebEntityId: 27014
 isDeleted: false
 confidential: public

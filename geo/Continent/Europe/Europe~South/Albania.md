@@ -3,6 +3,7 @@ location:
     - 40.793
     - 19.9565
 type: Country
+has_id_wikidata: Q222 
 SpocWebEntityId: 26830
 isDeleted: false
 confidential: public

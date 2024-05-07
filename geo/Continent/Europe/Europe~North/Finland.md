@@ -5,6 +5,7 @@ location:
 type: Country
 tags:
     - geo/Country
+has_id_wikidata: Q33 
 SpocWebEntityId: 26891
 isDeleted: false
 confidential: public
@@ -45,7 +46,7 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Finland/ReadMe]] 
 
-#is_/member_of :: [[../European_Union|EU]],1995-01-01
+#is_/member_of :: [[../EU(European_Union)|EU]],1995-01-01
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]

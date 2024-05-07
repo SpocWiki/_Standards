@@ -4,7 +4,7 @@ type: Country
 location:
   - 46.8963
   - 8.46058
-has_id_wikidata: Q40
+has_id_wikidata: Q39 
 SpocWebEntityId: 26865
 tags:
   - geo/Country
@@ -107,7 +107,7 @@ into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository 
 > including the [[WTO]], the [[WHO]], the [[ILO]], [[FIFA]], and the [[../../../_Standards/UN(United_Nations)]]. 
 > 
 > It is a founding member of the [[EFTA(European Free Trade Association)]], 
-> but not part of the [[../European_Union]], the European Economic Area, or the eurozone; 
+> but not part of the [[../EU(European_Union)]], the European Economic Area, or the eurozone; 
 > however, it participates in the European single market and the [[../Schengen-Area]]. 
 > 
 > Switzerland is a federal republic composed of 26 cantons, 

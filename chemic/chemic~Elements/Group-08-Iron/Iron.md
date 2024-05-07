@@ -37,8 +37,24 @@ SpocWebEntityId: 16528
 > [Wikipedia](https://en.wikipedia.org/wiki/Iron)
 
 
+## Steel 
+Pure  [[Iron]]  is relatively soft and ductile, 
+and it is typically alloyed with 0.2% to 2.1% [[../Group-14-Carbon/Carbon|Carbon]] by weight to produce steel.
 
+Stainless steel is an alloy composed primarily of iron, 
+with a minimum of 10.5% [[../Group-06-Chromium/Chromium|Chromium]] content by mass. 
+This chromium content provides stainless steel with corrosion resistance, 
+making it suitable for a wide range of applications 
+where ordinary steel or iron would corrode or rust. 
 
+The addition of other elements such as [[../Group-10-Nickel/Nickel|Nickel]], [[../Group-06-Chromium/Molybdenum|Molybdenum]], [[../Group-05-Vanadium/Vanadium|Vanadium]] and [[../Group-07-Manganese/Manganese|Manganese]] 
+further enhances its properties, but also contributes to its higher cost.
+
+As of January 2022, the average price of commonly used 
+304 stainless steel was around $3.50 to $4.50 per pound, while the price of 
+carbon steel was approximately $0.55 to $0.65 per pound.
+the average price of iron ore was around $150 to $200 per metric ton.
+the average price of hot-rolled coil steel in the United States was approximately $1,400 to $1,600 per metric ton
 ## Confidential Links & Embeds: 
 - [[../../../../_Standards/chemic/Elements/Group-08-Iron/Iron|Iron]] 
 - [[../../../../_public/chemic/Elements/Group-08-Iron/Iron.public|Iron.public]] 

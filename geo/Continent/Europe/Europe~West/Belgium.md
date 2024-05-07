@@ -7,6 +7,7 @@ tags:
     - geo/Country
 license: CC BY-SA 4.0
 confidential: public
+has_id_wikidata: Q31 
 isDeleted: false
 isReadOnly: false
 source: 'https://datahub.io/core/country-codes'

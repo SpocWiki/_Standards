@@ -6,6 +6,7 @@ has_id_wikidata: Q29
 location:
     - 40.0911
     - -2.86673
+has_id_wikidata: Q29 
 SpocWebEntityId: 26889
 tags:
     - geo/Country

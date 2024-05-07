@@ -48,7 +48,7 @@ dv.paragraph(directoryName)
 
 `$=(dv.currentFilePath)`
 
-Total Number of European Countries: `$=dv.pages(dv.io.normalize('.')).length`
+Total Number of European Countries: `$=dv.pages(dv.io.normalize(".")).length`
 ### ``
 
 #has_/treaties :: [[EU-Treaty_of_Maastricht]] 

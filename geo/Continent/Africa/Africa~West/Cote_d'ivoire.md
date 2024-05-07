@@ -1,13 +1,16 @@
 ---
-location: [6.85,-5.3]
+location:
+  - 6.85
+  - -5.3
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
+has_id_wikidata: Q1008
 SpocWebEntityId: 26866
 isDeleted: false
 confidential: public
-
+aliases:
+  - Ivory Coast
 ---
 
 # [[Cote_d'ivoire]] 

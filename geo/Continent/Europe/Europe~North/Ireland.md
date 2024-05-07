@@ -5,7 +5,8 @@ location:
 type: Country
 tags:
     - geo/Country
-SpocWebEntityId: 26923
+has_id_wikidata: Q27 
+SpocWebEntityId: 26923 
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0

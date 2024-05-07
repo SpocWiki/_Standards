@@ -2,7 +2,7 @@
 title: France
 linkTitle: 
 type: Country
-has_id_wikidata: Q142
+has_id_wikidata: Q142 
 location:
     - 46.8944
     - 2.33663

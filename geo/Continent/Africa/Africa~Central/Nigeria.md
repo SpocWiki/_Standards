@@ -5,6 +5,7 @@ location:
 type: Country
 tags:
 - geo/Country
+has_id_wikidata: Q1033 
 SpocWebEntityId: 26981
 isDeleted: false
 confidential: public
@@ -114,11 +115,13 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 [ISO2::NG]
 [ISO3::NGA]
+
 ```leaflet
 id: Nigeria
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+coordinates: [[Nigeria]]
 geojsonFolder: ./Nigeria//
 markerFolder: ./Nigeria//
 ```

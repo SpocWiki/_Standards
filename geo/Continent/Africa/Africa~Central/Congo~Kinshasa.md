@@ -1,13 +1,16 @@
 ---
-location: [-4.3,15.3]
+location:
+  - -4.3
+  - 15.3
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
+has_id_wikidata: Q974 
 SpocWebEntityId: 26862
 isDeleted: false
 confidential: public
-
+aliases:
+  - Democratic Republic of the Congo
 ---
 
 # [[Congo~Kinshasa]] 
@@ -29,6 +32,7 @@ id: Congo, Dem. Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+coordinates: [[Congo~Kinshasa]]
 geojsonFolder: ./Congo~Kinshasa//
 markerFolder: ./Congo~Kinshasa//
 ```

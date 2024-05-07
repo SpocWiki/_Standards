@@ -38,7 +38,7 @@ has_member:
 > is an area encompassing 29 European countries 
 > that have officially abolished border controls at their mutual borders. 
 > 
-> Being an element within the wider area of freedom, security and justice policy of the  [[European_Union]], it mostly functions as a single jurisdiction 
+> Being an element within the wider area of freedom, security and justice policy of the  [[EU(European_Union)]], it mostly functions as a single jurisdiction 
 > under a common visa policy for international travel purposes. 
 > The area is named after the 1985 Schengen Agreement 
 > and the 1990 Schengen Convention, both signed in [[Schengen]], Luxembourg.

@@ -2,10 +2,10 @@
 title: Italy
 linkTitle: 
 type: Country
-has_id_wikidata: Q38
 location:
     - 43.4809
     - 11.8169
+has_id_wikidata: Q38 
 SpocWebEntityId: 26930
 tags:
     - geo/Country

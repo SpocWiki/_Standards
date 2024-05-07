@@ -4,7 +4,7 @@ type: Country
 location:
     - 52.8829
     - -2.14482
-has_id_wikidata: Q145
+has_id_wikidata: Q145 
 SpocWebEntityId: 26899
 tags:
     - geo/Country
