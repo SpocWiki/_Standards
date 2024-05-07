@@ -42,6 +42,8 @@ icon: flag-se
 
 # [[Sweden]] 
 
+#is_/member_of :: [[../EU(European_Union)|EU]],1995-01-01
+
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Sweden 
 

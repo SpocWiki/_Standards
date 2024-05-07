@@ -10,13 +10,15 @@ tags:
     - geo/Continent
 isDeleted: false
 icon: fas_earth_europe
+icon: flag-eu 
 ---
 
 # [[Europe]] 
 
-Many European Countries have joined the [[European_Union]] 
+Most European Countries have joined the [[Europe/EU(European_Union)]]. 
 which started out as an the [[European_Coal_and_Steel_Community]] (Montan-Union)
-after WW2 and developed into the Economic Union. 
+after WW2 and developed into the Economic Union, which merged with other european Agencies into the [[Europe/EU(European_Union)]], 
+which now largely represents Europe. 
 
 ## #has_/text_of_/abstract 
 

@@ -3,6 +3,7 @@ location:
     - 42.5167
     - 1.51333
 type: Country
+has_id_wikidata: Q228 
 tags:
     - geo/Country
 license: CC BY-SA 4.0

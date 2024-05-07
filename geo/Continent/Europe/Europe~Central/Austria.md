@@ -2,10 +2,10 @@
 title: Austria
 linkTitle: 
 type: Country
-has_id_wikidata: Q40
 location:
     - 47.712
     - 14.381
+has_id_wikidata: Q40 
 SpocWebEntityId: 26837
 tags:
     - geo/Country
@@ -42,6 +42,10 @@ icon: flag-at
 ---
 
 # [[Austria]] 
+
+#is_/member_of :: [[../EU(European_Union)|EU]] 
+
+#has_/treaties :: [[EU-Treaty_of_Lisbon]] 
 
 ## International Names
 

@@ -2,7 +2,7 @@
 title: Poland
 linkTitle: 
 type: Country
-has_id_wikidata: Q36
+has_id_wikidata: Q36 
 SpocWebEntityId: 26996
 location:
     - 52.0027

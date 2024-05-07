@@ -55,25 +55,23 @@ icon: flag-it
 [	name-cn	 :: 意大利 ]
 [	name-ar	 :: إيطاليا ]
 [	name-ru	 :: Италия ]
-
-[name-en::Italy]
 [name-de::Italien]
 
 [ISO2::IT]
 [ISO3::ITA]
 
-For more Details, check out this Repository into this Subfolder: 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Italy 
+> [!info] This Article is only a Stub. 
+For more Details, check out [this Git-Repository](https://github.com/SpocWiki/Europe-France)
+into a Subfolder named `France`, so that this Link into the Sub-Repository works: [[France/ReadMe]] 
 
-[[Italy/ReadMe]] 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-France 
+
+> [!warning] This can considerably increase the total size and depth of your wiki.
 
 
+### #has_/image_for_/flag 
 
-![[Emblem_of_Italy.svg|350]]
-
-![[Anthem-Italy.mp3]]
-
-![[Flag_of_Italy.svg|350]]
+#has_/image_for_/flag :: ![[./Flag_of_Italy.svg|200]] <img src="./Flag_of_Italy.svg" width="200"/> 
 
 ## #has_/text_of_/abstract  
 

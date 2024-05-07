@@ -5,6 +5,7 @@ location:
 type: Country
 tags:
 - geo/Country
+has_id_wikidata: Q1032 
 SpocWebEntityId: 26979
 isDeleted: false
 confidential: public
@@ -120,6 +121,7 @@ id: Niger
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+coordinates: [[Niger]]
 geojsonFolder: ./Niger//
 markerFolder: ./Niger//
 ```

@@ -38,12 +38,12 @@ EnergyConsumptionDetails represents information related to the energy efficiency
 ## Properties:
 
 ### EnergyEfficiencyScaleMax
-Specifies the most energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after January 1, 2020 is scaled from D to A+++.
+Specifies the most energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after 2020-01-01 is scaled from D to A+++.
 
 EnergyEfficiencyScaleMax:: {"type":"Select","options":{"valuesList":{"EUEnergyEfficiencyCategoryA","EUEnergyEfficiencyCategoryA1Plus","EUEnergyEfficiencyCategoryA2Plus","EUEnergyEfficiencyCategoryA3Plus","EUEnergyEfficiencyCategoryB","EUEnergyEfficiencyCategoryC","EUEnergyEfficiencyCategoryD","EUEnergyEfficiencyCategoryE","EUEnergyEfficiencyCategoryF","EUEnergyEfficiencyCategoryG"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 ### EnergyEfficiencyScaleMin
-Specifies the least energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after January 1, 2020 is scaled from D to A+++.
+Specifies the least energy efficient class on the regulated EU energy consumption scale for the product category a product belongs to. For example, energy consumption for televisions placed on the market after 2020-01-01 is scaled from D to A+++.
 
 EnergyEfficiencyScaleMin:: {"type":"Select","options":{"valuesList":{"EUEnergyEfficiencyCategoryA","EUEnergyEfficiencyCategoryA1Plus","EUEnergyEfficiencyCategoryA2Plus","EUEnergyEfficiencyCategoryA3Plus","EUEnergyEfficiencyCategoryB","EUEnergyEfficiencyCategoryC","EUEnergyEfficiencyCategoryD","EUEnergyEfficiencyCategoryE","EUEnergyEfficiencyCategoryF","EUEnergyEfficiencyCategoryG"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 

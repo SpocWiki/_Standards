@@ -410,7 +410,8 @@ fieldsOrder:
 
 # [[FileClass~Person]] 
 
-This is a kind of [[FileClass~Thing]]
+This is a kind of [[FileClass~Thing]]. 
+It is also an Agent, together with [[FileClass~Organization]]. 
 
 A person (alive, dead, undead, or fictional).
 

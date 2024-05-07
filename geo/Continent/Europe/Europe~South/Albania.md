@@ -3,6 +3,7 @@ location:
     - 40.793
     - 19.9565
 type: Country
+has_id_wikidata: Q222 
 SpocWebEntityId: 26830
 isDeleted: false
 confidential: public
@@ -86,9 +87,11 @@ Sub-region_Name ::  [[Southern Europe]]
 [	Intermediate_Region	 ::  ]
 [	Sub-region	 :: 39 ]
 
+#has_/id_/wikidata :: Q222 
 [	Geoname-ID	 :: 783754 ]
-[	FIPS	 :: AL ]
-[	FIFA	 :: ALB ]
+[Unicode :: 🇦🇱] 
+[	FIPS	 :: AL ] 
+[	FIFA	 :: ALB ] 
 [	IOC	 :: ALB ]
 [	MARC	 :: aa ]
 [	GAUL	 :: 3 ]
@@ -106,7 +109,6 @@ Sub-region_Name ::  [[Southern Europe]]
 [	Small_Island_Developing_States	 ::  ]
 
 [	ISO3166-1-numeric	 :: 008 ]
-
 
 
 [ISO2::AL]

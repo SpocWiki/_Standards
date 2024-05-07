@@ -46,6 +46,8 @@ For more Details, check out this Repository into this Subfolder:
 
 [[Finland/ReadMe]] 
 
+#is_/member_of :: [[../EU(European_Union)|EU]],1995-01-01
+
 
 [	ISO4217-currency_alphabetic	 :: EUR ]
 [	ISO4217-currency_name	 :: Euro ]

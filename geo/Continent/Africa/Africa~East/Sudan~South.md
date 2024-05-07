@@ -1,4 +1,7 @@
 ---
+title: South Sudan
+type: Country
+has_id_wikidata: Q958 
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -11,8 +14,6 @@ cssclasses: Country
 publish: true
 
 # Hugo Tags
-type: Country
-title: South Sudan
 
 linkTitle: 
 keywords: 

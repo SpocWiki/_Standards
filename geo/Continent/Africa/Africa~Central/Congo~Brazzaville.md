@@ -1,13 +1,16 @@
 ---
-location: [-4.26667,15.2833]
+location:
+  - -4.26667
+  - 15.2833
 type: Country
 tags:
   - geo/Country
-
+has_id_wikidata: Q971
 SpocWebEntityId: 26864
 isDeleted: false
 confidential: public
-
+aliases:
+  - Republic of the Congo
 ---
 
 # [[Congo~Brazzaville]] 
@@ -25,6 +28,7 @@ id: Congo, Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+coordinates: [[Congo~Brazzaville]]
 geojsonFolder: ./Congo~Brazzaville//
 markerFolder: ./Congo~Brazzaville//
 ```

@@ -4,6 +4,7 @@ location:
     - 0
 type: Continent
 confidential: public
+has_id_wikidata: Q15 
 SpocWebEntityId: 27156
 tags:
     - geo/Continent

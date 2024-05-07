@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"creator": "svg2geojson v0.7.0",
+"name": "Atmospheric_Transmission-en",
+"features": [
+{ "type": "Feature", 
+"properties": {
+	"id": "1576",
+	"fill": "#0FF",
+	"title": "H20-Absorption-10",
+	"name": "H20-10-Absorption"
+}, 
+"geometry": { "type": "Polygon", "coordinates": [ 
+[ [ 10.175827, 35.501677 ], [ 10.150968, 35.514447 ], [ 10.088255, 35.513587 ], [ 10.06848, 35.500101 ], [ 10.025541, 35.492886 ] ] ] } }
+]}

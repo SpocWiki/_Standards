@@ -1,4 +1,4 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -36,16 +36,23 @@ Class of all business_entity_types.
 Tag Instances like this: 
 #is_a_/business_entity_type
 
-A business entity type is a conceptual entity representing the legal form, the size, the main line of business, the position in the value chain, or any combination thereof, of an organization or business person.
+A business entity type is a conceptual entity representing 
+the legal form, the size, the main line of business, the position in the value chain 
+of an organization or business person.
 
 Commonly used values:
 
-<ul>
-<li>http://purl.org/goodrelations/v1#Business</li>
-<li>http://purl.org/goodrelations/v1#Enduser</li>
-<li>http://purl.org/goodrelations/v1#PublicInstitution</li>
-<li>http://purl.org/goodrelations/v1#Reseller</li>
-</ul>
+- [gr:Business](http://www.heppnetz.de/ontologies/goodrelations/v1.html#Business) with http://purl.org/goodrelations/v1#Business  
+- [gr:Enduser](http://www.heppnetz.de/ontologies/goodrelations/v1.html#Enduser) with http://purl.org/goodrelations/v1#Enduser 
+- [gr:PublicInstitution](http://www.heppnetz.de/ontologies/goodrelations/v1.html#PublicInstitution) with http://purl.org/goodrelations/v1#PublicInstitution 
+- [gr:Reseller](http://www.heppnetz.de/ontologies/goodrelations/v1.html#Reseller) with http://purl.org/goodrelations/v1#Reseller  
+
+Businesses are also distinguished by Ownership:: 
+- [[../../../../../../Knowledge/Business/Business-Entity/Sole_Proprietor|Sole_Proprietor]] 
+- [[../../../../../../Knowledge/Business/Business-Entity/Partnership]] 
+- [[../../organization/Corporation]]  
+- [[../../../../../../Knowledge/Business/Business-Entity/LLC(Limited_Liability_Company)]] 
+ 
 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
