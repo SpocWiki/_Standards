@@ -1,6 +1,7 @@
 ---
 location: [ -77 , 66 ] 
 type: Continent
+has_id_wikidata: Q51 
 SpocWebEntityId: 27159
 confidential: public
 

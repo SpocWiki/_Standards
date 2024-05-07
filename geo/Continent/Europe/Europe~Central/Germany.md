@@ -759,6 +759,21 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 #has_/image_for_/coat_of_arms :: ![[./Germany/Coat_of_arms_of_Germany.svg|150]] <img src="./Germany/Coat_of_arms_of_Germany.svg" width="150"/>
 
 #has_/sound_of_/anthem :: ![[Anthem-Germany.mp3]]
+```audio-player
+[[Anthem-Germany.mp3]]```
+00:00:00 --- Einigkeit und Recht und Freiheit 
+00:00:07 --- für das deutsche Vaterland 
+00:00:14 --- danach lasst uns alle streben, 
+00:00:21 --- brüderlich mit Herz und Hand! 
+00:00:28 --- Einigkeit und Recht und Freiheit 
+00:00:35 --- sind des Glückes Unterpfand.
+00:00:42 --- Blüh im Glanze dieses Glückes.
+00:00:49 --- Blühe deutsches Vaterland!
+00:00:56 --- Blüh im Glanze dieses Glückes.
+00:01:03 --- Blühe deutsches Vaterland!
+```
+
+
 
 ### #has_/map 
 

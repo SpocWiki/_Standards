@@ -5,6 +5,10 @@ location:
 type: Country
 tags:
     - geo/Country
+has_id_wikidata: Q31 
+SpocWebEntityId: 26844
+isDeleted: false
+confidential: public
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,6 +43,28 @@ icon: flag-be
 
 # [[Belgium]] 
 
+[	name	 :: Belgium ]
+[	name-en	 :: Belgium ]
+[	name-es	 :: Bélgica ]
+[	name-fr	 :: Belgique ]
+[	name-cn	 :: 比利时 ]
+[	name-ar	 :: بلجيكا ]
+[	name-ru	 :: Бельгия ]
+[name-de::Belgien]
+
+
+[ISO2::BE]
+[ISO3::BEL]
+```leaflet
+id: Belgium
+zoomFeatures: true 
+minZoom: 2 
+maxZoom: 18
+geojsonFolder: ./Belgium//
+markerFolder: ./Belgium//
+```
+
+
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Belgium 
 
@@ -55,14 +81,6 @@ For more Details, check out this Repository into this Subfolder:
 
 [	Global	 :: True ]
 [	Global_Name	 :: World ]
-
-[	name	 :: Belgium ]
-[	name-en	 :: Belgium ]
-[	name-es	 :: Bélgica ]
-[	name-fr	 :: Belgique ]
-[	name-cn	 :: 比利时 ]
-[	name-ar	 :: بلجيكا ]
-[	name-ru	 :: Бельгия ]
 
 [	CLDR_display_name	 :: Belgium ]
 
@@ -110,22 +128,6 @@ Sub-region_Name ::  [[Western Europe]]
 
 
 
-SpocWebEntityId: 26844
-isDeleted: false
-confidential: public
-[ISO2::BE]
-[ISO3::BEL]
-```leaflet
-id: Belgium
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-geojsonFolder: ./Belgium//
-markerFolder: ./Belgium//
-```
-
-[name-en::Belgium]
-[name-de::Belgien]
 [Area-Total::30518]
 [Area-Land::32820]
 has_place_continent:: [[Europe]]  

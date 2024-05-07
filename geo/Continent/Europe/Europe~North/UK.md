@@ -133,6 +133,17 @@ into a Subfolder named `UK`, so that this Link into the Sub-Repository works: [[
 
 #has_/sound_of_/anthem :: ![[Anthem-United-kingdom.mp3]]
 
+```audio-player
+[[Anthem-United-kingdom.mp3]]```
+00:00:11 --- God save our gracious King
+00:00:18 --- Long live our noble King
+00:00:25 --- God save the King!
+00:00:32 --- Happy and glorious
+00:00:39 --- Send him victorious
+00:00:46 --- Long to reign over us
+00:00:53 --- God save the King!
+```
+
 ### #has_/map  
 
 ```leaflet

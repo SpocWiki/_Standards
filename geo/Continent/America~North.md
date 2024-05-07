@@ -3,6 +3,7 @@ type: Continent
 
 confidential: public
 isDeleted: false
+has_id_wikidata: Q49 
 SpocWebEntityId: 27158
 
 tags:

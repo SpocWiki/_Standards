@@ -1,6 +1,7 @@
 ---
 type: Continent
 icon: flag-eu
+has_id_wikidata: Q46 
 SpocWebEntityId: 1111
 'confidential:': public
 aliases:

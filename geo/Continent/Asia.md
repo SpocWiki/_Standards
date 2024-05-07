@@ -1,6 +1,7 @@
 ---
 type: Continent
 confidential: public
+has_id_wikidata: Q48 
 SpocWebEntityId: 27161
 tags:
     - geo/Continent

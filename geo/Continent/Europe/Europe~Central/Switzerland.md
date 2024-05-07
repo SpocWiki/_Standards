@@ -4,7 +4,7 @@ type: Country
 location:
     - 46.8963
     - 8.46058
-has_id_wikidata: Q40
+has_id_wikidata: Q39
 SpocWebEntityId: 26865
 tags:
     - geo/Country
@@ -12,15 +12,15 @@ isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
+source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
     - CH
     - CHE
