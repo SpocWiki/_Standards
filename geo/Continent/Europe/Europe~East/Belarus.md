@@ -32,6 +32,7 @@ aliases:
     - Беларусь
     - the Republic of Belarus
     - la República de Belarús
+    - Byelorussia 
 Languages:
     - be
     - ru

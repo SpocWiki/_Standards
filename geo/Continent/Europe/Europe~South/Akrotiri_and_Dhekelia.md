@@ -1,16 +1,16 @@
-﻿---
-
+---
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 76719
 isDeleted: false
 confidential: public
-
+aliases:
+  - Akrotiri & Dhekelia
 ---
 [ISO2::]
 [ISO3::]
+
 ```leaflet
 id: Akrotiri and Dhekelia
 zoomFeatures: true 

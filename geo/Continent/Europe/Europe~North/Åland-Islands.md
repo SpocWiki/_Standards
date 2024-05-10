@@ -1,17 +1,18 @@
 ---
 location:
-- 60.1481
-- 20.3741
+  - 60.1481
+  - 20.3741
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 76728
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Åland Islands
 linkTitle: 
@@ -21,17 +22,17 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- AX
-- ALA
-- Åland Islands
-- Islas Åland
-- Îles d'Åland
-- جزر ألاند
-- 奥兰群岛
-- Аландские острова
-- 
+  - AX
+  - ALA
+  - Åland Islands
+  - Islas Åland
+  - Îles d'Åland
+  - جزر ألاند
+  - 奥兰群岛
+  - Аландские острова
+  - Aland islands
 Languages:
-- sv-AX
+  - sv-AX
 ---
 
 # [[Åland-Islands]] 

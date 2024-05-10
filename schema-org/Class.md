@@ -65,7 +65,7 @@ Techniques to find [[Class]]es are:
 - Search Nouns in the textual Description 
 - From [[Design-Patterns]] 
 - Domain-Knowledge and Documentation 
-- Analysis of [[BDD~Scenario]]s 
+- Analysis of [[../../IT/Programming/Prog~Process/BDD(Behavior-Driven_Design)/BDD~Scenario]]s 
 - [[CRC-Card]]s  
 
 Domain Experts have 'invented' most Classes long ago 

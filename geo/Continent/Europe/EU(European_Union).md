@@ -1,5 +1,6 @@
 ---
 icon: flag-eu
+has_id_wikidata: Q458 
 has_member:
   - "[[Europe~Central/Germany|Germany]]"
   - "[[Europe~West/France|France]]"
@@ -34,6 +35,7 @@ aliases:
   - European_Union
 ---
 
+
 ```dataviewjs
 const path = require('path');
 const directoryName = path.dirname(dv.currentFilePath);
@@ -43,18 +45,16 @@ dv.paragraph(directoryName)
 #has_/time_/created :: 1993-11-01 
 #has_/event_/created :: [[EU-Treaty_of_Maastricht]] 
 #has_/member_/count :: `$=dv.current().has_member.length` 
+Total Number of European Countries: `$=dv.pages().where(p => p.file.path.includes("/Europe") && p.type=='Country').limit(999).length` 
+but some are counted separately like [[Europe~West/France~Metropolitan|France~Metropolitan]], [[Europe~West/Channel-Islands|Channel-Islands]], [[Åland-Islands]] or are only Enclaves like [[Europe~South/Akrotiri_and_Dhekelia|Akrotiri_and_Dhekelia]] or don't exist anymore like [[Europe~Central/Czechoslovakia|Czechoslovakia]]. 
 
-`$=dv.io.normalize("./test")`
+`$=(dv.currentFilePath)` 
 
-`$=(dv.currentFilePath)`
-
-Total Number of European Countries: `$=dv.pages(dv.io.normalize(".")).length`
-### ``
+### 
 
 #has_/treaties :: [[EU-Treaty_of_Maastricht]] 
-#has_/treaties :: [[Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]] 
+#has_/treaties :: [[Europe~Central/EU-Treaty_of_Lisbon]] 
 
-#has_/id_/wikidata :: Q458 
 
 ## #has_/text_of_/abstract 
 

@@ -1,10 +1,21 @@
-﻿---
+---
 
 type: Country
 tags:
 - geo/Country
----
+
+has_id_wikidata: Q33946 
 SpocWebEntityId: 59062
+---
+
+#has_/time_/created :: 1918-10-28 
+Czechoslovakia was created on `$=dv.current().has_time_created`, 
+following the collapse of the Austro-Hungarian Empire after World War I.
+
+The dissolution of Czechoslovakia occurred peacefully on (#has_/time_/destroyed  :: 1993-01-01) , 
+through the process known as the "Velvet Divorce." 
+This led to the creation of two independent states: the Czech Republic and Slovakia.
+
 isDeleted: false
 confidential: public
 [ISO2::CZ]

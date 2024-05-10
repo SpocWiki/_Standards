@@ -31,8 +31,8 @@ aliases:
 ---
 
 Use it like this: 
-- [ #has_/license :: CreativeWork, URL ] or 
-- [ has_license :: CreativeWork, URL ] 
+- [ #has_/license_ :: CreativeWork, URL ] or 
+- [ has_license_ :: CreativeWork, URL ] 
 
 A license document that applies to this content, typically indicated by URL.
 
