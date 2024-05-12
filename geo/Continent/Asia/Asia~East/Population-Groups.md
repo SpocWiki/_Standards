@@ -29,7 +29,7 @@ aliases:
 - 
 
 # Thing-Facts
-has_/time_/created: 2024-02-04
+has_time_created: 2024-02-04
 
 # any other Data:
 Key: Value

@@ -4,6 +4,27 @@ aliases:
 ---
 # [[UUID]] 
 
+Better Alternatives are: 
+#is_/worse_than :: [[Snowflake-ID]] 
+#is_/worse_than :: [[Cuid2]]
+NanoID 
+
+#has_/url_for_/description :: https://uuid.ramsey.dev 
+## Types of UUIDs 
+
+
+|   V | Year | Character                                                                                     |
+| --: | ---- | --------------------------------------------------------------------------------------------- |
+|   1 |      | timestamp, node MAC address from the local computer’s network interface, and a clock sequence |
+|   2 |      | _local domain_ and the `time_low` field is replaced with a _local identifier_.                |
+|   3 |      | MD5-Hash of namespace and a name                                                              |
+|   4 |      | Random                                                                                        |
+|   5 |      | SHA-1 Hash of namespace and a name                                                            |
+|   6 |      | Reordered Time                                                                                |
+|   7 |      | Unix Epoch Time                                                                               |
+|   8 |      | custom identifiers in an RFC-compatible format                                                |
+
+## #has_/text_of_/abstract 
 > A Universally Unique Identifier (**UUID**) is a 128-bit label 
 > used for information in computer systems. 
 > The term Globally Unique Identifier (GUID) is also used, mostly in Microsoft systems.
@@ -11,8 +32,8 @@ aliases:
 > When generated according to the standard methods, 
 > UUIDs are, for practical purposes, unique. 
 > 
-> Their uniqueness does not depend on a central registration authority 
-> or coordination between the parties generating them, 
+> Their uniqueness does not depend on a __central registration authority__ 
+> or __coordination__ between the parties generating them, 
 > unlike most other numbering schemes. 
 > 
 > While the probability that a UUID will be duplicated is not zero, 

@@ -3,34 +3,36 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_positive_notes
-
 linkTitle: has_positive_notes
-keywords: [positive, notes]
+keywords:
+  - positive
+  - notes
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- positive-notes
-- positive_notes
-- positiveNotes
-- has_positive_notes
+  - positive-notes
+  - positive_notes
+  - positiveNotes
+  - has_positive_notes
+  - has pros
+  - has_pros
 ---
 
 [ #is_/part_of :: pending: ]
+
+#is_/similar_to :: #has_/Pros 
+#has_/dual_/property  :: [[has_negative_notes]] 
 
 Use it like this: 
 - [ #has_/positive_notes :: ItemList, ListItem, Text, WebContent ] or 

@@ -24,6 +24,7 @@ expiryDate:
 aliases:
     - Great Britain
     - United Kingdom
+    - Britain
 icon: flag-gb
 ---
 

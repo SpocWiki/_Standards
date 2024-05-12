@@ -74,15 +74,76 @@ into a Subfolder named `Poland`, so that this Link into the Sub-Repository works
 
 ## #has_/text_of_/abstract  
 
-> **Poland**, officially the Republic of Poland, is a country in Central Europe. It is divided into 16 administrative voivodeship provinces, covering an area of 312,696 km2 (120,733 sq mi). Poland has a population of over 38 million and is the fifth-most populous member state of the European Union. Warsaw is the nation's capital and largest metropolis. Other major cities include Kraków, Wrocław, Łódź, Poznań, and Gdańsk.
+> **Poland**, officially the Republic of Poland, is a country in Central Europe. 
+> It is divided into 16 administrative voivodeship provinces, covering an area of 312_696km². 
+> Poland has a population of over 38 million 
+> and is the fifth-most populous member state of the European Union. 
+> 
+> [[Warsaw]] is the nation's capital and largest metropolis. 
+> Other major cities include [[Kraków]], [[Wrocław]], [[Łódź]], [[Poznań]], and [[Gdańsk]].
 >
-> Poland has a temperate transitional climate, and its territory traverses the Central European Plain, extending from the Baltic Sea in the north to the Sudetes and Carpathian Mountains in the south. The longest Polish river is the Vistula, and Poland's highest point is Mount Rysy, situated in the Tatra mountain range of the Carpathians. The country is bordered by Lithuania and Russia to the northeast, Belarus and Ukraine to the east, Slovakia and the Czech Republic to the south, and Germany to the west. It also shares maritime boundaries with Denmark and Sweden.
+> Poland has a temperate transitional climate, 
+> and its territory traverses the Central European Plain, 
+> extending from the Baltic Sea in the north 
+> to the Sudetes and Carpathian Mountains in the south. 
+> 
+> The longest Polish river is the Vistula, and Poland's highest point is Mount Rysy, 
+> situated in the Tatra mountain range of the Carpathians. 
+> 
+> The country is bordered by Lithuania and Russia to the northeast, 
+> Belarus and Ukraine to the east, Slovakia and the Czech Republic to the south, 
+> and Germany to the west. 
+> It also shares maritime boundaries with Denmark and Sweden.
 >
-> Prehistoric human activity on Polish soil dates to the Lower Paleolithic, with continuous settlement since the end of the Last Glacial Period. Culturally diverse throughout late antiquity, in the early medieval period the region became inhabited by the tribal Polans, who gave Poland its name. The process of establishing proper statehood, which began in 966, coincided with the conversion of a pagan ruler of the Polans to Christianity, under the auspices of the Roman Catholic Church. The Kingdom of Poland emerged in 1025, and in 1569 cemented its long-standing association with Lithuania, thus forming the Polish–Lithuanian Commonwealth. At the time, the Commonwealth was one of the great powers of Europe, with a uniquely liberal political system which adopted Europe's first modern constitution in 1791.
+> Prehistoric human activity on Polish soil dates to the Lower Paleolithic, 
+> with continuous settlement since the end of the Last Glacial Period. 
+> 
+> Culturally diverse throughout late antiquity, 
+> in the early medieval period the region became inhabited by the tribal Polans, 
+> who gave Poland its name. 
+> 
+> The process of establishing proper statehood, which began in 966, 
+> coincided with the conversion of a pagan ruler of the Polans to Christianity, 
+> under the auspices of the Roman Catholic Church. 
+> 
+> The Kingdom of Poland emerged in 1025, 
+> and in 1569 cemented its long-standing association with Lithuania, 
+> thus forming the [[Polish–Lithuanian_Commonwealth]]. 
+> 
+> At the time, the Commonwealth was one of the great powers of Europe, 
+> with a uniquely liberal political system 
+> which adopted Europe's first modern constitution in 1791.
 >
-> With the passing of the prosperous Polish Golden Age, the country was partitioned by neighbouring states at the end of the 18th century. Poland regained its independence in 1918 as the Second Polish Republic and successfully defended it in the Polish–Soviet War from 1919 to 1921. In September 1939, the invasion of Poland by Germany and the Soviet Union marked the beginning of World War II, which resulted in the Holocaust and millions of Polish casualties. Forced into the Eastern Bloc in the global Cold War, the Polish People's Republic was a founding signatory of the Warsaw Pact. Through the emergence and contributions of the Solidarity movement, the communist government was dissolved and Poland re-established itself as a democratic state in 1989.
+> With the passing of the prosperous Polish Golden Age, 
+> the country was partitioned by neighboring states at the end of the 18th century. 
+> 
+> Poland regained its independence in 1918 as the Second Polish Republic 
+> and successfully defended it in the Polish–Soviet War from 1919 to 1921. 
+> 
+> In September 1939, the invasion of Poland by Germany and the Soviet Union marked the 
+> beginning of World War II, which resulted in the Holocaust and millions of Polish casualties. 
+> 
+> Forced into the Eastern Bloc in the global Cold War, 
+> the Polish People's Republic was a founding signatory of the [[Warsaw Pact]]. 
+> Through the emergence and contributions of the [[Solidarity movement]], 
+> the communist government was dissolved 
+> and Poland re-established itself as a democratic state in 1989.
 >
-> Poland is a parliamentary republic, with its bicameral legislature comprising the Sejm and the Senate. It is a developed market and a high-income economy. Considered a middle power, Poland has the sixth-largest economy in the European Union by GDP (nominal) and the fifth-largest by GDP (PPP). It provides a very high standard of living, safety, and economic freedom, as well as free university education and a universal health care system. The country has 17 UNESCO World Heritage Sites, 15 of which are cultural. Poland is a founding member state of the United Nations, as well as a member of the World Trade Organization, OECD, NATO, and the European Union (including the Schengen Area).
+> Poland is a parliamentary republic, 
+> with its bicameral legislature comprising the Sejm and the Senate. 
+> 
+> It is a developed market and a high-income economy. 
+> Considered a middle power, 
+> Poland has the sixth-largest economy in the European Union by GDP (nominal) 
+> and the fifth-largest by GDP (PPP). 
+> 
+> It provides a very high standard of living, safety, and economic freedom, 
+> as well as free university education and a universal health care system. 
+> 
+> The country has 17 UNESCO World Heritage Sites, 15 of which are cultural. 
+> Poland is a founding member state of the United Nations, 
+> as well as a member of the [[../../../../db/World Trade Organization]], [[OECD]], [[NATO]], 
+> and the [[../EU(European_Union)|European Union]] (including the [[../Schengen-Area]]).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poland)
 

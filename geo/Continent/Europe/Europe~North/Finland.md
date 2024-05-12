@@ -43,10 +43,13 @@ icon: flag-fi
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Finland 
+#see ::  [[Finland/ReadMe]] 
 
-[[Finland/ReadMe]] 
+## Memberships 
 
-#is_/member_of :: [[../EU(European_Union)|EU]],1995-01-01
+- [#is_/member_/of :: [[../EU(European_Union)|EU]]] [#is_/member_/since ::  1995-01-01] 
+- [ #is_/member_/of :: [[Eurozone]] ] [#is_/member_/since ::  1999-01-01] 
+- [ #is_/member_/of :: [[NATO]] ] [#is_/member_/since ::  2023-04-04]
 
 
 [	ISO4217-currency_alphabetic	 :: EUR ]
@@ -144,6 +147,60 @@ Capital :: [[Helsingfors]]
 [has_place_longitude::25.4668]
 [has_place_latitude::62.3173]
 
+## #has_/text_of_/abstract 
+
+
+> **Finland**, officially the Republic of Finland, is a Nordic country in Northern Europe. 
+> It borders Sweden to the northwest, Norway to the north, and Russia to the east, 
+> with the Gulf of Bothnia to the west and the Gulf of Finland to the south, opposite Estonia. 
+> 
+> Finland covers an area of 338,145 square kilometres (130,559 sq mi) 
+> and has a population of 5.6 million. 
+> [[Helsinki]] is the capital and largest city. The vast majority of the population are ethnic Finns. 
+> Finnish and Swedish are the official languages, 
+> with Swedish being the native language of 5.1% of the population. 
+> Finland's climate varies from humid continental in the south to boreal in the north. 
+> The land cover is predominantly boreal forest biome, with more than 180,000 recorded lakes.
+>
+> Finland was first settled around 9000 BC after the last Ice Age. 
+> During the Stone Age, various cultures emerged, distinguished by different styles of ceramics. 
+> The Bronze Age and Iron Ages were marked 
+> by contacts with other cultures in Fennoscandia and the Baltic region. 
+> 
+> From the late 13th century, Finland became part of the Swedish Empire 
+> as a result of the Northern Crusades. 
+> 
+> In 1809, as a result of the Finnish War, Finland was captured from Sweden 
+> and became a Grand Duchy of Finland, an autonomous state ruled by the Russian Empire. 
+> During this period, Finnish art flourished 
+> and the idea of full independence began to take hold. 
+> 
+> In 1906, Finland became the first European state to grant universal suffrage, 
+> and the first in the world to give all adult citizens the right to run for public office. 
+> 
+> Following the Russian Revolution of 1917, Finland declared its full independence. 
+> In 1918 the young nation was divided by the Finnish Civil War. 
+> During World War II, Finland fought against the Soviet Union in the [[Winter War]] 
+> and the [[Continuation War]], and later against Nazi Germany in the [[Lapland War]]. 
+> As a result, it lost parts of its territory but retained its independence.
+>
+> Finland remained a largely agricultural country until the 1950s. 
+> After World War II, it industrialised quickly and established an advanced economy, 
+> with a welfare state built on the Nordic model. 
+> This allowed the country to experience overall prosperity and high per capita income. 
+> During the Cold War, Finland officially embraced a policy of neutrality. 
+> 
+> Since then, it has become a member of the [[../EU(European_Union)]] in 1995, 
+> the   [[Eurozone]] in 1999, and [[NATO]] in 2023. 
+> 
+> Finland is a member of various international organisations, such as the United Nations, 
+> the Nordic Council, the Schengen Area, the Council of Europe, the World Trade Organization, 
+> and the Organisation for Economic Co-operation and Development (OECD). 
+> 
+> The nation performs exceedingly well in national performance metrics, including education, 
+> economic competitiveness, civil liberties, quality of life, and human development.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Finland)
 
 
 ## Confidential Links & Embeds: 
