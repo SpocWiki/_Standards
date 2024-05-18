@@ -154,8 +154,8 @@ public holiday:
 central bank: "[[../../../../db/Deutsche Bundesbank]]"
 different from:
   - "[[../../../../db/Deutschland]]"
-  - "[[../../../../db/WD~Germany]]"
-  - "[[../../../../db/WD~Germany]]"
+  - "[[../../../../WD/WD~Germany]]"
+  - "[[../../../../WD/WD~Germany]]"
 described by source:
   - "[[../../../../db/Catholic Encyclopedia]]"
   - "[[../../../../db/Brockhaus and Efron Encyclopedic Dictionary]]"
@@ -182,7 +182,7 @@ electrical plug type:
   - "[[../../../../db/Schuko]]"
   - "[[../../../../db/Europlug]]"
 item operated: "[[../../../../db/Embassy of Germany, Riga]]"
-coextensive with: "[[../../../../db/WD~Germany]]"
+coextensive with: "[[../../../../WD/WD~Germany]]"
 drainage basin:
   - "[[../../../../db/Rhine basin]]"
   - "[[../../../../db/Oder Basin]]"
@@ -192,7 +192,7 @@ drainage basin:
 culture: "[[../../../../db/culture of Germany]]"
 significant event:
   - "[[../../../../db/Economic, Monetary and Social Union]]"
-  - "[[../../../../db/WD~Saarland]]"
+  - "[[../../../../WD/WD~Saarland]]"
   - "[[../../../../db/Berlin Wall]]"
   - "[[../../../../db/Basic Law for the Federal Republic of Germany]]"
 has characteristic: "[[../../../../db/free country]]"
@@ -369,21 +369,21 @@ diplomatic relation:
   - "[[../../../../db/Trinidad and Tobago]]"
 contains the administrative territorial entity:
   - "[[../../../../db/Baden-Württemberg]]"
-  - "[[../../../../db/WD~Bavaria]]"
-  - "[[../../../../db/WD~Berlin]]"
-  - "[[../../../../db/WD~Brandenburg]]"
-  - "[[../../../../db/WD~Bremen]]"
-  - "[[../../../../db/WD~Hamburg]]"
-  - "[[../../../../db/WD~Hesse]]"
-  - "[[../../../../db/WD~Lower Saxony]]"
-  - "[[../../../../db/WD~Mecklenburg-Western Pomerania]]"
-  - "[[../../../../db/WD~North Rhine-Westphalia]]"
-  - "[[../../../../db/WD~Rhineland-Palatinate]]"
-  - "[[../../../../db/WD~Saarland]]"
-  - "[[../../../../db/WD~Saxony]]"
-  - "[[../../../../db/WD~Saxony-Anhalt]]"
-  - "[[../../../../db/WD~Schleswig-Holstein]]"
-  - "[[../../../../db/WD~Thuringia]]"
+  - "[[../../../../WD/WD~Bavaria]]"
+  - "[[../../../../WD/WD~Berlin]]"
+  - "[[../../../../WD/WD~Brandenburg]]"
+  - "[[../../../../WD/WD~Bremen]]"
+  - "[[../../../../WD/WD~Hamburg]]"
+  - "[[../../../../WD/WD~Hesse]]"
+  - "[[../../../../WD/WD~Lower Saxony]]"
+  - "[[../../../../WD/WD~Mecklenburg-Western Pomerania]]"
+  - "[[../../../../WD/WD~North Rhine-Westphalia]]"
+  - "[[../../../../WD/WD~Rhineland-Palatinate]]"
+  - "[[../../../../WD/WD~Saarland]]"
+  - "[[../../../../WD/WD~Saxony]]"
+  - "[[../../../../WD/WD~Saxony-Anhalt]]"
+  - "[[../../../../WD/WD~Schleswig-Holstein]]"
+  - "[[../../../../WD/WD~Thuringia]]"
 located in or next to body of water:
   - "[[../../../../db/North Sea]]"
   - "[[../../../../db/Baltic Sea]]"
@@ -528,13 +528,13 @@ shares border with:
   - "[[../../../../db/France]]"
   - "[[../../../../db/Czech Republic]]"
 continent: "[[../../../../db/Europe]]"
-has_capital: "[[../../../../db/WD~Berlin]]"
+has_capital: "[[../../../../WD/WD~Berlin]]"
 speed limit:
   - 100
   - 50
 geoshape: http://commons.wikimedia.org/data/main/Data:Germany.map
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%96tlingen%20-%20Panoramaansicht%20klein%20banner.jpg
-country: "[[../../../../db/WD~Germany]]"
+country: "[[../../../../WD/WD~Germany]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20Berlin%20%2832881394137%29.jpg
 official language: "[[../../../../db/German]]"
 coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Germany.svg
@@ -693,7 +693,7 @@ into a Subfolder named `Germany`, so that this Link into the Sub-Repository work
 > [[Austria]] and [[Switzerland]] to the south, and [[France]], [[Luxembourg]], [[Belgium]], 
 > and the [[Netherlands]] to the west. 
 > 
-> The nation's capital and most populous city is [[../../../../db/WD~Berlin]] 
+> The nation's capital and most populous city is [[../../../../WD/WD~Berlin]] 
 > and its main financial centre is [[Frankfurt]]; the largest urban area is the Ruhr.
 >
 > Settlement in what is now Germany began in the Lower Paleolithic, 
@@ -848,7 +848,7 @@ Sub-region_Name ::  [[Western Europe]]
 [Area-Land::349270]
 has_place_continent:: [[Europe]]  
 [VehicleCode::D]
-Capital :: [[../../../../db/WD~Berlin]]  
+Capital :: [[../../../../WD/WD~Berlin]]  
 [Alcohol-l::12.8]
 [Language-Id::497]
 
