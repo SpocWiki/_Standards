@@ -43,35 +43,6 @@ Use a Line-Item/Bullet Point or Task to group these Attributes.
 Alternatively uses the well-known Time attributes for [[Tasks]]: 
 - [ ] text  [created:: 2024-05-11]  [cancelled:: 2025-05-11] 
 - [-] text  [createdw:: 2022-01-11]  [cancelled:: 2029-02-11] 
-#created 
-#cancelled
-#scheduled
-
-➕ "created" Date 
-❌ Cancelled Date 
-✅ "completion" Date 
-
-"fullyCompleted" also considers 
-"children"
-"parent"
-
-⏳ "scheduled" Date 
-🛫 "start" Date (earliest)
-📅 "due" Date (latest)
-
-#has_/time_/created/ka 
-#has_/time_/scheduled 
-#has_/time_/of_payment_due 
-#has_/time_/to_start 
-#hastimescompletion
-[[../../Property/has_Date_Time/has_time_created|has_time_started]] 
-[[../../Property/has_Date_Time/has_time_scheduled|has_time_scheduled]] 
-[[../../Property/has_Date_Time/has_time_of_payment_due|has_time_of_payment_due]] 
-[[has time completion]]
-[[has time ]]
-
-✅ "completion" Date 
-
 
 
 An [organization](../../../Class/is_a_/organization) (or [program_membership](../../../Class/is_a_/intangible/program_membership)) to which this Person or Organization belongs.
