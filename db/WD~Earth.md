@@ -165,7 +165,7 @@ different from:
   - "[[_Standards/db/land]]"
   - "[[_Standards/db/terrain]]"
   - "[[_Standards/db/Wikivoyage:Joke articles/Earth]]"
-  - "[[_Standards/db/Earth]]"
+  - "[[WD~Earth]]"
   - "[[_Standards/db/Earth in Adventure Time]]"
   - "[[_Standards/db/soil]]"
 geography of topic: "[[_Standards/db/world geography]]"
@@ -173,7 +173,7 @@ part of:
   - "[[_Standards/db/Earth-Moon system]]"
   - "[[_Standards/db/Solar System]]"
 permanent duplicated item:
-  - "[[_Standards/db/Earth]]"
+  - "[[WD~Earth]]"
   - "[[_Standards/db/Q110087470]]"
 Wikimedia outline: "[[_Standards/db/outline of Earth]]"
 area: 510064472
