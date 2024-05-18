@@ -92,16 +92,16 @@ manifestation of: "[[_Standards/db/open system]]"
 flag: "[[_Standards/db/flag of the Earth]]"
 topic's main template: "[[_Standards/db/Template:Earth]]"
 pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6.ogg
+  - http: //commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-terre-ca-Montr%C3%A9al.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%A7%E0%A8%B0%E0%A8%A4%E0%A9%80.wav
   - http://commons.wikimedia.org/wiki/Special:FilePath/Prononci%20%C2%ABtero%C2%BB.opus
 spoken text audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Es-tierra%201of4-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Jorden.ogg
+  - http: //commons.wikimedia.org/wiki/Special:FilePath/Jorden.ogg
 astronomic symbol image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Globus%20cruciger%20%28fixed%20width%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20symbol%20%28fixed%20width%29.svg
+  - http: //commons.wikimedia.org/wiki/Special:FilePath/Earth%20symbol%20%28fixed%20width%29.svg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Jordens%20inre.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lurraren%20ilargiak.webm
 WordLift URL: http://data.thenextweb.com/tnw/entity/earth
@@ -186,17 +186,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20
 time of periapsis: 2459218.90577274
 population: 8028504258
 coordinates of southernmost point: Point(0.0 -90.0)
+coordinates of northernmost point: Point(0.0 90.0)
+longitude of ascending node: 348.73936
 inception: -4540000000-01-01T00:00:00Z
 highest point: "[[_Standards/db/Mount Everest]]"
 opposite of: "[[_Standards/db/sky]]"
 parent astronomical body: "[[_Standards/db/Sun]]"
 minimum temperature record: -89.2
+maximum temperature record: 56.7
+temperature: 15
 said to be the same as: "[[_Standards/db/world]]"
 distance from Earth: 0
 semi-major axis of an orbit:
   - 1
   - 149598023
-temperature: 15
 rotation period: 24
 number of out-of-school children:
   - 360000000
@@ -224,10 +227,10 @@ Dewey Decimal Classification:
   - "525"
   - "550"
   - "910.02"
-maximum temperature record: 56.7
 magnetic moment: 7.84e+22
 speed: 107200
 density: 5514
+diameter: 12742
 radius:
   - 6371
   - 6356.8
@@ -236,7 +239,6 @@ orbital inclination:
   - 7.155
   - 1.57869
 surface gravity: 9.798
-diameter: 12742
 OmegaWiki Defined Meaning: "7401"
 perimeter:
   - 24901
@@ -263,8 +265,6 @@ U.S. National Archives Identifier:
 argument of periapsis: 114.20783
 name in kana: ちきゅう
 orbital eccentricity: 0.016710219
-coordinates of northernmost point: Point(0.0 90.0)
-longitude of ascending node: 348.73936
 bathymetry image: http://commons.wikimedia.org/wiki/Special:FilePath/AYool%20topography%2015min.png
 orbital period: 365.256363004
 Wolfram Language entity code: Entity["Planet", "Earth"]
@@ -413,5 +413,91 @@ Gran Enciclopèdia Catalana ID (former scheme): "0145903"
 Encyclopædia Britannica Online ID: place/Earth
 ---
 
-`$=dv.current().has_id_wikidata` 
+Radius_geo_stationary:: 35786.
+angle: 0° to Equator 
+above Equator, otherwise 
+
+## ISS
+Orbit_ISS :: 420
+Radius_ISS :: `$=dv.current().Orbit_ISS + dv.current().Radius_Earth`
+28,000 kilometers per hour
+angle: 51.6° to Equator  => 75.0392811 total 
+Inclination_ISS:: 75.0392811 
+near-circular
+so it covers most inhabited Areas 
+
+Moon_Orbit
+elliptical 
+average: 384.400Mm 
+5.14° to ecliptic Plane 
+
+Sun-Lagrange Point: 1.5 million km = 1%AU roughly on all 4 sides of the Earth (away, towards, ahead and behind) and 60° apart on the Moon's Orbit. 
+
+Moon-Lagrange-Points: 61,500 kilometers from the Center of the Moon and 60° apart on the Moon's Orbit. 
+
+Earth ecliptic Plane is inclined by 23.43472° (23.5°) which results in the seasons 
+between northern and southern 2609 km zum Äquator
+between [[../geo/Continent/Asia/Asia~South/India|India]] and [[../geo/Continent/Australasia/Australia|Australia]] resp. [[../geo/Continent/America~Central|America~Central]] and [[../geo/Continent/America~South/Brazil|Brazil]] 
+
+Due to [[Precession]] the Location of the Equinoxe moves by a few Meters every year 
+with a Period of 28000 years. 
+
+
+Radius_Earth :: 6371.0
+Radius_Moon :: 1737.4
+Distance_Moon :: 384399
+Inclination_Earth:: 23.4392811 
+Inclination_Moon:: 5.145 
+Degree_per_Radian :: 57.296 
+
+Axis_Length :: 7500
+Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_Earth_x :: `$=6371 - 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_Earth_y :: `$=7500*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+
+Axis_geo_x :: `$=6371 + dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_geo_x :: `$=6371 - dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_geo_y :: `$=dv.current().Radius_geo_stationary*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+
+Axis_iss_x :: `$=6371 + 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
+Axis_iss_x :: `$=6371 - 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
+Axis_iss_y :: `$=6791*Math.sin(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
+
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3500 10500 400000 5" width="800" height="110">
+<!-- VB_min_X  VB_min_Y  VB_width  VB_height Iso-Scale, therefore VB_height does not matter here!-->
+
+  <!-- Earth's Ecliptic line -->
+  <line x1="-7000" y1="0" x2="400000" y2="0" stroke="gray" stroke-width="200" />
+  <text x ="340000" y ="4000" fill="red" font-size="16000">Sun ></text>
+  
+  <!-- Earth Radius 6371.0 km -->
+  <circle cx="6371" cy="0" r="6371" fill="lightBlue" />
+  <text x ="16000" y ="0" fill="black" font-size="16000">Ecliptic Plane</text>
+  <!-- Earth's axis (inclined by 23.4392811°) -->
+  <line x2="3387" y1="-6881" x1="9354" y2="6881" stroke="black" stroke-width="200" />
+  
+  <!-- Geo-stationary orbit  -->
+  <line x1="-26462" y1="-14234" x2="39204" y2="14234" stroke="green" stroke-width="200" />
+  <text x ="39204" y ="14234" fill="green" font-size="16000">Geo-stationary</text>
+  
+  <!-- ISS orbit  -->
+  <line x1="4617" y1="-6561" x2="8124" y2="6561" stroke="red" stroke-width="200" />
+  <text x ="4617" y ="-6881" fill="red" font-size="16000">ISS</text>
+
+
+  <!-- Sun 149,600,000km away 696,300 km Radius -->
+  <circle cx="600" cy="200" r="40" fill="yellow" />
+  <!-- Sun's axis (tilted by 7.25°) -->
+  <line x1="600" y1="200" x2="600" y2="144" stroke="black" stroke-width="200" />
+  
+  <!-- Moon Radius 1737.4 km -->
+  <circle cx="384399" cy="34471" r="1737" fill="gray" />
+  <text x ="344399" y ="36471" fill="black" font-size="16000">Moon</text>
+  <!-- Moon's Distance 384399 km Orbit (inclined by 5.145°) -->
+  <line x1="-384399" y1="-34471" x2="384399" y2="34471" stroke="gray" stroke-width="200" />
+</svg>
 
