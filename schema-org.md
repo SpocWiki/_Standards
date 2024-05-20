@@ -1,4 +1,28 @@
-Most OpenId Claims are mapped to the http://schemas.xmlsoap.org/ws/2005/05/identity/claims/ Namespace. 
+
+
+
+#has_/url :: https://schema.org/  
+
+
+## #has_/text_of_/abstract 
+
+
+> **Schema.org** is a reference website that publishes documentation and guidelines 
+> for using structured data mark-up on web-pages (called microdata). 
+> 
+> Its main objective is to standardize HTML tags 
+> to be used by webmasters for creating rich results 
+> (displayed as visual data or infographic tables on search engine results) 
+> about a certain topic of interest. 
+> 
+> It is a part of the semantic web project, 
+> which aims to make document mark-up codes more readable and meaningful 
+> to both humans and machines.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Schema.org)
+
+
+Most [[OpenId]] Claims are mapped to the http://schemas.xmlsoap.org/ws/2005/05/identity/claims/ Namespace. 
 
 WS-Trust and WS-Federation are used to authorize SOAP Web-Service Calls and share the Namespace
 http://schemas.xmlsoap.org/ws/2005/05/identity/claims/ 

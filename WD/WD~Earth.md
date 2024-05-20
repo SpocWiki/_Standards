@@ -1,97 +1,100 @@
 ---
 has_id_wikidata: Q2
 has part(s):
-  - "[[_Standards/db/hydrosphere]]"
-  - "[[_Standards/db/lithosphere]]"
-  - "[[_Standards/db/mantle]]"
-  - "[[_Standards/db/Earth's core]]"
-  - "[[_Standards/db/hemisphere of the Earth]]"
-  - "[[_Standards/db/Earth's surface]]"
-  - "[[_Standards/db/Earth's magnetic field]]"
-  - "[[_Standards/db/Americas]]"
-  - "[[_Standards/db/atmosphere of Earth]]"
-  - "[[_Standards/db/Australian continent]]"
-  - "[[_Standards/db/continent]]"
-  - "[[_Standards/db/Eurasia]]"
-  - "[[_Standards/db/Earth's crust]]"
-  - "[[_Standards/db/Africa]]"
-  - "[[_Standards/db/Europe]]"
-  - "[[_Standards/db/Antarctica]]"
-  - "[[_Standards/db/Asia]]"
-  - "[[_Standards/db/biosphere]]"
+  - "[[_Standards/WD/WD~hydrosphere,83169]]"
+  - "[[_Standards/WD/WD~lithosphere,83296]]"
+  - "[[_Standards/WD/WD~mantle,101949]]"
+  - "[[_Standards/WD/WD~Earth's_core,193927]]"
+  - "[[_Standards/WD/WD~hemisphere_of_the_Earth,399984]]"
+  - "[[_Standards/WD/WD~Earth's_surface,1349417]]"
+  - "[[_Standards/WD/WD~Earth's_magnetic_field,6500960]]"
+  - "[[_Standards/WD/WD~Americas,828]]"
+  - "[[_Standards/WD/WD~atmosphere_of_Earth,3230]]"
+  - "[[_Standards/WD/WD~Australian_continent,3960]]"
+  - "[[_Standards/WD/WD~continent,5107]]"
+  - "[[_Standards/WD/WD~Eurasia,5401]]"
+  - "[[_Standards/WD/WD~Earth's_crust,15316]]"
+  - "[[_Standards/WD/WD~Africa,15]]"
+  - "[[_Standards/WD/WD~Europe,46]]"
+  - "[[_Standards/WD/WD~Antarctica,51]]"
+  - "[[_Standards/WD/WD~Asia,48]]"
+  - "[[_Standards/WD/WD~biospherel,42762]]"
 studied in:
-  - "[[_Standards/db/planetary science]]"
-  - "[[_Standards/db/geology]]"
-  - "[[_Standards/db/Earth science]]"
-  - "[[_Standards/db/geophysics]]"
+  - "[[_Standards/WD/WD~planetary_science,104499]]"
+  - "[[_Standards/WD/WD~geology,1069]]"
+  - "[[_Standards/WD/WD~Earth_science,8008]]"
+  - "[[_Standards/WD/WD~geophysics,46255]]"
 instance of:
-  - "[[_Standards/db/terrestrial planet]]"
-  - "[[_Standards/db/inner planet of the Solar System]]"
+  - "[[_Standards/WD/WD~narrative_location,105115142]]"
+  - "[[_Standards/WD/WD~terrestrial_planet,128207]]"
+  - "[[_Standards/WD/WD~inner_planet_of_the_Solar_System,3504248]]"
 history of topic:
-  - "[[_Standards/db/history of Earth]]"
-  - "[[_Standards/db/geological history of Earth]]"
-shape: "[[_Standards/db/geoid]]"
+  - "[[_Standards/WD/WD~history_of_Earth,156312]]"
+  - "[[_Standards/WD/WD~geological_history_of_Earth,2389585]]"
+shape: "[[_Standards/WD/WD~geoid,185969]]"
 location:
-  - "[[_Standards/db/circumstellar habitable zone]]"
-  - "[[_Standards/db/inner Solar System]]"
-  - "[[_Standards/db/Milky Way]]"
-  - "[[_Standards/db/Local Group]]"
-notation: "[[_Standards/db/Earth symbol]]"
-lowest point: "[[_Standards/db/Challenger Deep]]"
+  - "[[_Standards/WD/WD~circumstellar_habitable_zone,215913]]"
+  - "[[_Standards/WD/WD~inner_Solar_System,7879772]]"
+  - "[[_Standards/WD/WD~Milky_Way,321]]"
+  - "[[_Standards/WD/WD~Local_Group,3944]]"
+notation: "[[_Standards/WD/WD~Earth_symbol,426529]]"
+lowest point: "[[_Standards/WD/WD~Challenger_Deep,459173]]"
 described by source:
-  - "[[_Standards/db/Brockhaus and Efron Encyclopedic Dictionary]]"
-  - "[[_Standards/db/Encyclopædia Britannica 11th edition]]"
-  - "[[_Standards/db/Gujin Tushu Jicheng]]"
-  - "[[_Standards/db/Explanatory Dictionary of the Living Great Russian Language]]"
-  - "[[_Standards/db/Bible Encyclopedia of Archimandrite Nicephorus]]"
-  - "[[_Standards/db/Jewish Encyclopedia of Brockhaus and Efron]]"
-  - "[[_Standards/db/Small Brockhaus and Efron Encyclopedic Dictionary]]"
-  - "[[_Standards/db/Meyers Konversations-Lexikon, 4th edition (1885–1890)]]"
-  - "[[_Standards/db/Der Volks-Brockhaus]]"
-  - "[[_Standards/db/Dictionary of Common Goods]]"
+  - "[[_Standards/WD/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WD/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WD/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WD/WD~Der_Volks-Brockhaus,107433072]]"
+  - "[[_Standards/WD/WD~Dictionary_of_Common_Goods,120799836]]"
+  - "[[_Standards/WD/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WD/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WD/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WD/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WD/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WD/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
 child astronomical body:
-  - "[[_Standards/db/TerraSAR-X]]"
-  - "[[_Standards/db/Transiting Exoplanet Survey Satellite]]"
-  - "[[_Standards/db/Kordylewski cloud]]"
-  - "[[_Standards/db/Libertad 1]]"
-  - "[[_Standards/db/Soil Moisture Active Passive]]"
-  - "[[_Standards/db/SPOT 1]]"
-  - "[[_Standards/db/Rings of Earth]]"
-  - "[[_Standards/db/Black Knight satellite conspiracy theory]]"
-  - "[[_Standards/db/GSAT-18]]"
-  - "[[_Standards/db/QUESS]]"
-  - "[[_Standards/db/Telstar 18V]]"
-  - "[[_Standards/db/Van Allen Probe A]]"
-  - "[[_Standards/db/Van Allen Probe B]]"
-  - "[[_Standards/db/Sentinel-2B]]"
-  - "[[_Standards/db/GRACE-1]]"
-  - "[[_Standards/db/GRACE-2]]"
-  - "[[_Standards/db/GRACE-FO 1]]"
-  - "[[_Standards/db/GRACE-FO 2]]"
-  - "[[_Standards/db/Seeker]]"
-  - "[[_Standards/db/Sentinel-6 Michael Freilich]]"
-  - "[[_Standards/db/Sentinel-6B]]"
-  - "[[_Standards/db/Enxaneta]]"
-  - "[[_Standards/db/SAMPAN I]]"
-  - "[[_Standards/db/Moon]]"
-  - "[[_Standards/db/Hubble Space Telescope]]"
-  - "[[_Standards/db/other moons of Earth]]"
-  - "[[_Standards/db/International Space Station]]"
-  - "[[_Standards/db/Mir]]"
-type of orbit: "[[_Standards/db/heliocentric orbit]]"
+  - "[[_Standards/WD/WD~Black_Knight_satellite_conspiracy_theory,17005165]]"
+  - "[[_Standards/WD/WD~GSAT-18,20055945]]"
+  - "[[_Standards/WD/WD~QUESS,25382402]]"
+  - "[[_Standards/WD/WD~Telstar_18V,25426699]]"
+  - "[[_Standards/WD/WD~Van_Allen_Probe_A,28473093]]"
+  - "[[_Standards/WD/WD~Van_Allen_Probe_B,28473100]]"
+  - "[[_Standards/WD/WD~Sentinel-2B,28857865]]"
+  - "[[_Standards/WD/WD~GRACE-1,46539410]]"
+  - "[[_Standards/WD/WD~GRACE-2,46539486]]"
+  - "[[_Standards/WD/WD~GRACE-FO_1,61040416]]"
+  - "[[_Standards/WD/WD~GRACE-FO_2,61040417]]"
+  - "[[_Standards/WD/WD~Seeker,73389119]]"
+  - "[[_Standards/WD/WD~Sentinel-6_Michael_Freilich,102424477]]"
+  - "[[_Standards/WD/WD~Sentinel-6B,102424501]]"
+  - "[[_Standards/WD/WD~Enxaneta,106073481]]"
+  - "[[_Standards/WD/WD~SAMPAN_I,108104224]]"
+  - "[[_Standards/WD/WD~TerraSAR-X,705882]]"
+  - "[[_Standards/WD/WD~Transiting_Exoplanet_Survey_Satellite,1323537]]"
+  - "[[_Standards/WD/WD~Kordylewski_cloud,1430362]]"
+  - "[[_Standards/WD/WD~Libertad_1,3270674]]"
+  - "[[_Standards/WD/WD~Soil_Moisture_Active_Passive,3459718]]"
+  - "[[_Standards/WD/WD~SPOT_1,3459966]]"
+  - "[[_Standards/WD/WD~Rings_of_Earth,4228961]]"
+  - "[[_Standards/WD/WD~Moon,405]]"
+  - "[[_Standards/WD/WD~Hubble_Space_Telescope,2513]]"
+  - "[[_Standards/WD/WD~other_moons_of_Earth,11176]]"
+  - "[[_Standards/WD/WD~International_Space_Station,25271]]"
+  - "[[_Standards/WD/WD~Mir,48604]]"
+type of orbit: "[[_Standards/WD/WD~heliocentric_orbit,737809]]"
 named after:
-  - "[[_Standards/db/ball]]"
-  - "[[_Standards/db/land]]"
-  - "[[_Standards/db/soil]]"
+  - "[[_Standards/WD/WD~land,11081619]]"
+  - "[[_Standards/WD/WD~ball,838611]]"
+  - "[[_Standards/WD/WD~soil,36133]]"
 has characteristic:
-  - "[[_Standards/db/planetary habitability]]"
-  - "[[_Standards/db/Earth's magnetic field]]"
-  - "[[_Standards/db/mass of the Earth]]"
-  - "[[_Standards/db/geologic activity]]"
-manifestation of: "[[_Standards/db/open system]]"
-flag: "[[_Standards/db/flag of the Earth]]"
-topic's main template: "[[_Standards/db/Template:Earth]]"
+  - "[[_Standards/WD/WD~mass_of_the_Earth,25935139]]"
+  - "[[_Standards/WD/WD~geologic_activity,108156638]]"
+  - "[[_Standards/WD/WD~planetary_habitability,846030]]"
+  - "[[_Standards/WD/WD~Earth's_magnetic_field,6500960]]"
+manifestation of: "[[_Standards/WD/WD~open_system,898312]]"
+flag: "[[_Standards/WD/WD~flag_of_the_Earth,2293672]]"
+topic's main template: "[[_Standards/WD/WD~Template_Earth,8084930]]"
 pronunciation audio:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-earth.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-terre-ca-Montr%C3%A9al.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%A7%E0%A8%B0%E0%A8%A4%E0%A9%80.wav
@@ -106,10 +109,10 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Jordens%20inre.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lurraren%20ilargiak.webm
 WordLift URL: http://data.thenextweb.com/tnw/entity/earth
 exact match:
+  - https://www.newworldencyclopedia.org/entry/Earth
   - http://dbpedia.org/resource/Earth
   - http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/16260
   - https://global.dbpedia.org/id/1u1Br
-  - https://www.newworldencyclopedia.org/entry/Earth
 Stack Exchange tag:
   - https://astronomy.stackexchange.com/tags/earth
   - https://physics.stackexchange.com/tags/earth
@@ -142,8 +145,6 @@ demonym:
   - পৃথিবীবাসি
   - terrícola
   - Zemljan
-  - Terran
-  - زمین
   - Terrestre
   - 지구인
   - землянин
@@ -161,21 +162,24 @@ demonym:
   - землянка
   - pozemšťan
   - Terrien
+  - jordboer
+  - Terran
+  - زمین
 different from:
-  - "[[_Standards/db/land]]"
-  - "[[_Standards/db/terrain]]"
-  - "[[_Standards/db/Wikivoyage:Joke articles/Earth]]"
-  - "[[WD~Earth]]"
-  - "[[_Standards/db/Earth in Adventure Time]]"
-  - "[[_Standards/db/soil]]"
-geography of topic: "[[_Standards/db/world geography]]"
+  - "[[_Standards/WD/WD~land,11081619]]"
+  - "[[_Standards/WD/WD~terrain,14524493]]"
+  - "[[_Standards/WD/WD~Wikivoyage_Joke_articles_Earth,17579785]]"
+  - "[[_Standards/WD/WD~Earth,23048336]]"
+  - "[[_Standards/WD/WD~Earth_in_Adventure_Time,106540863]]"
+  - "[[_Standards/WD/WD~soil,36133]]"
+geography of topic: "[[_Standards/WD/WD~world_geography,11362158]]"
 part of:
-  - "[[_Standards/db/Earth-Moon system]]"
-  - "[[_Standards/db/Solar System]]"
+  - "[[_Standards/WD/WD~Earth-Moon_system,18589965]]"
+  - "[[_Standards/WD/WD~inner_Solar_System,7879772]]"
 permanent duplicated item:
-  - "[[WD~Earth]]"
-  - "[[_Standards/db/Q110087470]]"
-Wikimedia outline: "[[_Standards/db/outline of Earth]]"
+  - "[[_Standards/WD/WD~Earth,22828183]]"
+  - "[[_Standards/WD/WD~Q110087470,110087470]]"
+Wikimedia outline: "[[_Standards/WD/WD~outline_of_Earth,28231576]]"
 area: 510064472
 UMLS CUI: C0242744
 apoapsis:
@@ -189,52 +193,35 @@ coordinates of southernmost point: Point(0.0 -90.0)
 coordinates of northernmost point: Point(0.0 90.0)
 longitude of ascending node: 348.73936
 inception: -4540000000-01-01T00:00:00Z
-highest point: "[[_Standards/db/Mount Everest]]"
-opposite of: "[[_Standards/db/sky]]"
-parent astronomical body: "[[_Standards/db/Sun]]"
+highest point: "[[_Standards/WD/WD~Mount_Everest,513]]"
+opposite of: "[[_Standards/WD/WD~sky,527]]"
+parent astronomical body: "[[_Standards/WD/WD~Sun,525]]"
 minimum temperature record: -89.2
 maximum temperature record: 56.7
 temperature: 15
-said to be the same as: "[[_Standards/db/world]]"
+said to be the same as: "[[_Standards/WD/WD~world,16502]]"
 distance from Earth: 0
 semi-major axis of an orbit:
-  - 1
   - 149598023
+  - 1
 rotation period: 24
-number of out-of-school children:
-  - 360000000
-  - 263000000
-  - 264000000
-  - 265000000
-  - 266000000
-  - 274000000
-  - 281000000
-  - 291000000
-  - 294000000
-  - 305000000
-  - 324000000
-  - 333000000
-  - 336000000
-  - 343000000
-  - 371000000
-  - 374000000
-  - 379000000
+number of out-of-school children: 264000000
 albedo:
   - 0.306
   - 0.434
 WOEID: "1"
 Dewey Decimal Classification:
+  - "910.02"
   - "525"
   - "550"
-  - "910.02"
 magnetic moment: 7.84e+22
 speed: 107200
 density: 5514
 diameter: 12742
 radius:
+  - 6378.137
   - 6371
   - 6356.8
-  - 6378.137
 orbital inclination:
   - 7.155
   - 1.57869
@@ -411,6 +398,7 @@ PSH ID:
   - "3769"
 Gran Enciclopèdia Catalana ID (former scheme): "0145903"
 Encyclopædia Britannica Online ID: place/Earth
+Iconclass notation: "25"
 ---
 
 Radius_geo_stationary:: 35786.
