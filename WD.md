@@ -1,0 +1,1 @@
+This Folder contains Copies of Core-[[../Data/Wikipedia/WikiData|WikiData]] Entities. 
