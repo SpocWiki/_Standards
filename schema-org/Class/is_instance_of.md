@@ -33,8 +33,10 @@ aliases:
   - is_an_instance_of
 fileClass:
   - FileClass-Relation
+has_id_wikidata: P31
 ---
 # [Class](../../Classes.md)-[Thing](Thing.md) Relationship 
+
 Relates an Object/Thing/Entity to its Class. 
 Can be implemented with a dedicated #Tag for each Class 
 to enable Tools to restrict the Range to defined Classes.
@@ -58,8 +60,9 @@ Verbs:
 -  
 
 ## Other hierarchical Relations: 
-- [is_part_of](../Composite/is_part_of.md)
-- [is_item_in](../Collection/is_item_in.md) 
+- [is_part_of](../Composite/is_part_of)
+- [is_item_in](../Collection/is_item_in) 
+- [[../Relation/is/is_member_of|is_member_of]] 
 
 ## Use it like this: 
 - [ #is_/instance_of :: Class] or 

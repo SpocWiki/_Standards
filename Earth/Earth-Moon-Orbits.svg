@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3500 10500 400000 5" width="800" height="110">
+<!-- VB_min_X  VB_min_Y  VB_width  VB_height Iso-Scale, therefore VB_height does not matter here!-->
+
+  <!-- Earth's Ecliptic line -->
+  <line x1="-7000" y1="0" x2="400000" y2="0" stroke="gray" stroke-width="200" />
+  <text x ="340000" y ="4000" fill="red" font-size="16000">Sun ></text>
+  
+  <!-- Earth Radius 6371.0 km -->
+  <circle cx="6371" cy="0" r="6371" fill="lightBlue" />
+  <text x ="16000" y ="0" fill="black" font-size="16000">Ecliptic Plane</text>
+  <!-- Earth's axis (inclined by 23.4392811°) -->
+  <line x2="3387" y1="-6881" x1="9354" y2="6881" stroke="black" stroke-width="200" />
+  
+  <!-- Geo-stationary orbit  -->
+  <line x1="-26462" y1="-14234" x2="39204" y2="14234" stroke="green" stroke-width="200" />
+  <text x ="39204" y ="14234" fill="green" font-size="16000">Geo-stationary</text>
+  
+  <!-- ISS orbit  -->
+  <line x1="4617" y1="-6561" x2="8124" y2="6561" stroke="red" stroke-width="200" />
+  <text x ="4617" y ="-6881" fill="red" font-size="16000">ISS</text>
+
+
+  <!-- Sun 149,600,000km away 696,300 km Radius -->
+  <circle cx="600" cy="200" r="40" fill="yellow" />
+  <!-- Sun's axis (tilted by 7.25°) -->
+  <line x1="600" y1="200" x2="600" y2="144" stroke="black" stroke-width="200" />
+  
+  <!-- Moon Radius 1737.4 km -->
+  <circle cx="384399" cy="34471" r="1737" fill="gray" />
+  <text x ="344399" y ="36471" fill="black" font-size="16000">Moon</text>
+  <!-- Moon's Distance 384399 km Orbit (inclined by 5.145°) -->
+  <line x1="-384399" y1="-34471" x2="384399" y2="34471" stroke="gray" stroke-width="200" />
+</svg>

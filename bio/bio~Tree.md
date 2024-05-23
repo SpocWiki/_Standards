@@ -18,6 +18,8 @@ into a Subfolder named `bio~Tree`, so that this Link into the Sub-Repository wor
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/TreeOfLife 
 
+This should be aligned to the [WikiSpecies Project](https://species.wikimedia.org). 
+
 This Repository/Folder/Wiki/Vault contains shared, public, freely usable Text. 
 Images are copyrighted by their respective owners as indicated for each picture at the end of each file.
 

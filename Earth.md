@@ -1,16 +1,70 @@
 ---
+has_id_wikidata: Q2 
 icon: earth_americas
 aliases:
   - Earth
   - geo
+
+area: 510064472
+UMLS CUI: C0242744
+periapsis: 147095000
+time of periapsis: 2459218.90577274
+argument of periapsis: 114.20783
+apoapsis:
+  - 1.00000261
+  - 1.01671388
+  - 151930000
+image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20%285052124705%29.jpg
+distance from Earth: 0
+semi-major axis of an orbit:
+  - 149598023
+  - 1
+rotation period: 24
+coordinates of southernmost point: Point(0.0 -90.0)
+coordinates of northernmost point: Point(0.0 90.0)
+longitude of ascending node: 348.73936
+inception: -4540000000-01-01T00:00:00Z
+highest point: "[[_Standards/WD/WD~Mount_Everest,513]]"
+lowest point: "[[_Standards/WD/WD~Challenger_Deep,459173]]"
+opposite of: "[[_Standards/WD/WD~sky,527]]"
+parent astronomical body: "[[_Standards/WD/WD~Sun,525]]"
+minimum temperature record: -89.2
+maximum temperature record: 56.7
+temperature: 15
+said to be the same as: "[[_Standards/WD/WD~world,16502]]"
+population: 8028504258
+number of out-of-school children: 264000000
+albedo:
+  - 0.306
+  - 0.434
+magnetic moment: 7.84e+22
+speed: 107200
+density: 5514
+diameter: 12742
+radius:
+  - 6378.137
+  - 6371
+  - 6356.8
+orbital inclination:
+  - 7.155
+  - 1.57869
+surface gravity: 9.798
+perimeter:
+  - 24901
+  - 40075
+flattening: 0.0033528
+volume as quantity: 1083210000000
+mean anomaly: 358.617
+mass: 5972.37
+
+
 ---
-# [[geo]] 
+# [[Earth]] 
 
-
+#is_/same_as :: [[WD/WD~Earth,2|WD~Earth,2]] 
 
 
 ## #has_/text_of_/abstract 
-
 
 
 > **Earth** is the third planet from the Sun 
@@ -76,7 +130,7 @@ aliases:
 > During the first billion years of Earth's history, the ocean formed 
 > and then life developed within it. 
 > Life spread globally and has been altering Earth's atmosphere and surface, 
-> leading to the Great Oxidation Event two billion years ago. 
+> leading to the [[Great_Oxidation_Event]] two billion years ago. 
 > Humans emerged 300,000 years ago in Africa 
 > and have spread across every continent on Earth. 
 > 
@@ -87,6 +141,65 @@ aliases:
 > and causing widespread extinctions.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth)
+
+
+## Orbits 
+
+![[Earth/Earth-Moon-Orbits.svg]] 
+
+
+Radius_geo_stationary:: 35786.
+angle: 0° to Equator 
+above Equator, otherwise 
+
+## ISS
+Orbit_ISS :: 420
+Radius_ISS :: `$=dv.current().Orbit_ISS + dv.current().Radius_Earth`
+28,000 kilometers per hour
+angle: 51.6° to Equator  => 75.0392811 total 
+Inclination_ISS:: 75.0392811 
+near-circular
+so it covers most inhabited Areas 
+
+Moon_Orbit
+elliptical 
+average: 384.400Mm 
+5.14° to ecliptic Plane 
+
+Sun-Lagrange Point: 1.5 million km = 1%AU roughly on all 4 sides of the Earth (away, towards, ahead and behind) and 60° apart on the Moon's Orbit. 
+
+Moon-Lagrange-Points: 61,500 kilometers from the Center of the Moon and 60° apart on the Moon's Orbit. 
+
+Earth ecliptic Plane is inclined by 23.43472° (23.5°) which results in the seasons 
+between northern and southern 2609 km zum Äquator
+between [[../geo/Continent/Asia/Asia~South/India|India]] and [[../geo/Continent/Australasia/Australia|Australia]] resp. [[../geo/Continent/America~Central|America~Central]] and [[../geo/Continent/America~South/Brazil|Brazil]] 
+
+Due to [[Precession]] the Location of the Equinoxe moves by a few Meters every year 
+with a Period of 28000 years. 
+
+
+Radius_Earth :: 6371.0
+Radius_Moon :: 1737.4
+Distance_Moon :: 384399
+Inclination_Earth:: 23.4392811 
+Inclination_Moon:: 5.145 
+Degree_per_Radian :: 57.296 
+
+Axis_Length :: 7500
+Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_Earth_x :: `$=6371 - 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_Earth_y :: `$=7500*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+
+Axis_geo_x :: `$=6371 + dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_geo_x :: `$=6371 - dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_geo_y :: `$=dv.current().Radius_geo_stationary*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+
+Axis_iss_x :: `$=6371 + 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
+Axis_iss_x :: `$=6371 - 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
+Axis_iss_y :: `$=6791*Math.sin(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
+
+
 
 
 
