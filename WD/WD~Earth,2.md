@@ -1,5 +1,58 @@
 ---
 has_id_wikidata: Q2
+area: 510064472
+UMLS CUI: C0242744
+periapsis: 147095000
+time of periapsis: 2459218.90577274
+argument of periapsis: 114.20783
+apoapsis:
+  - 1.00000261
+  - 1.01671388
+  - 151930000
+image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20%285052124705%29.jpg
+distance from Earth: 0
+semi-major axis of an orbit:
+  - 149598023
+  - 1
+rotation period: 24
+coordinates of southernmost point: Point(0.0 -90.0)
+coordinates of northernmost point: Point(0.0 90.0)
+longitude of ascending node: 348.73936
+inception: -4540000000-01-01T00:00:00Z
+highest point: "[[_Standards/WD/WD~Mount_Everest,513]]"
+lowest point: "[[_Standards/WD/WD~Challenger_Deep,459173]]"
+opposite of: "[[_Standards/WD/WD~sky,527]]"
+parent astronomical body: "[[_Standards/WD/WD~Sun,525]]"
+minimum temperature record: -89.2
+maximum temperature record: 56.7
+temperature: 15
+said to be the same as: "[[_Standards/WD/WD~world,16502]]"
+population: 8028504258
+number of out-of-school children: 264000000
+albedo:
+  - 0.306
+  - 0.434
+magnetic moment: 7.84e+22
+speed: 107200
+density: 5514
+diameter: 12742
+radius:
+  - 6378.137
+  - 6371
+  - 6356.8
+orbital inclination:
+  - 7.155
+  - 1.57869
+surface gravity: 9.798
+perimeter:
+  - 24901
+  - 40075
+flattening: 0.0033528
+volume as quantity: 1083210000000
+mean anomaly: 358.617
+mass: 5972.37
+
+
 has part(s):
   - "[[_Standards/WD/WD~hydrosphere,83169]]"
   - "[[_Standards/WD/WD~lithosphere,83296]]"
@@ -38,7 +91,6 @@ location:
   - "[[_Standards/WD/WD~Milky_Way,321]]"
   - "[[_Standards/WD/WD~Local_Group,3944]]"
 notation: "[[_Standards/WD/WD~Earth_symbol,426529]]"
-lowest point: "[[_Standards/WD/WD~Challenger_Deep,459173]]"
 described by source:
   - "[[_Standards/WD/WD~The_New_Student's_Reference_Work,16082057]]"
   - "[[_Standards/WD/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -180,68 +232,21 @@ permanent duplicated item:
   - "[[_Standards/WD/WD~Earth,22828183]]"
   - "[[_Standards/WD/WD~Q110087470,110087470]]"
 Wikimedia outline: "[[_Standards/WD/WD~outline_of_Earth,28231576]]"
-area: 510064472
-UMLS CUI: C0242744
-apoapsis:
-  - 1.00000261
-  - 1.01671388
-  - 151930000
-image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Blue%20Marble%20%285052124705%29.jpg
-time of periapsis: 2459218.90577274
-population: 8028504258
-coordinates of southernmost point: Point(0.0 -90.0)
-coordinates of northernmost point: Point(0.0 90.0)
-longitude of ascending node: 348.73936
-inception: -4540000000-01-01T00:00:00Z
-highest point: "[[_Standards/WD/WD~Mount_Everest,513]]"
-opposite of: "[[_Standards/WD/WD~sky,527]]"
-parent astronomical body: "[[_Standards/WD/WD~Sun,525]]"
-minimum temperature record: -89.2
-maximum temperature record: 56.7
-temperature: 15
-said to be the same as: "[[_Standards/WD/WD~world,16502]]"
-distance from Earth: 0
-semi-major axis of an orbit:
-  - 149598023
-  - 1
-rotation period: 24
-number of out-of-school children: 264000000
-albedo:
-  - 0.306
-  - 0.434
+
+
+subreddit: Earth
+hashtag: Earth
+Commons category: Earth
+OmegaWiki Defined Meaning: "7401"
+Archive of Our Own tag: Earth
+Commons gallery: Earth
 WOEID: "1"
 Dewey Decimal Classification:
   - "910.02"
   - "525"
   - "550"
-magnetic moment: 7.84e+22
-speed: 107200
-density: 5514
-diameter: 12742
-radius:
-  - 6378.137
-  - 6371
-  - 6356.8
-orbital inclination:
-  - 7.155
-  - 1.57869
-surface gravity: 9.798
-OmegaWiki Defined Meaning: "7401"
-perimeter:
-  - 24901
-  - 40075
-flattening: 0.0033528
-volume as quantity: 1083210000000
-periapsis: 147095000
-mean anomaly: 358.617
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg
-mass: 5972.37
-subreddit: Earth
-hashtag: Earth
-Commons category: Earth
-Archive of Our Own tag: Earth
-Commons gallery: Earth
 3D model: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%20dry%20elevation.stl
+nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg
 Unicode character:
   - 🜨
   - ♁
@@ -249,7 +254,6 @@ U.S. National Archives Identifier:
   - "10637787"
   - "10046628"
 "dissolved, abolished or demolished date": http://www.wikidata.org/.well-known/genid/e39d2a834262fbd171919ab2c038c9fb
-argument of periapsis: 114.20783
 name in kana: ちきゅう
 orbital eccentricity: 0.016710219
 bathymetry image: http://commons.wikimedia.org/wiki/Special:FilePath/AYool%20topography%2015min.png
@@ -401,91 +405,8 @@ Encyclopædia Britannica Online ID: place/Earth
 Iconclass notation: "25"
 ---
 
-Radius_geo_stationary:: 35786.
-angle: 0° to Equator 
-above Equator, otherwise 
-
-## ISS
-Orbit_ISS :: 420
-Radius_ISS :: `$=dv.current().Orbit_ISS + dv.current().Radius_Earth`
-28,000 kilometers per hour
-angle: 51.6° to Equator  => 75.0392811 total 
-Inclination_ISS:: 75.0392811 
-near-circular
-so it covers most inhabited Areas 
-
-Moon_Orbit
-elliptical 
-average: 384.400Mm 
-5.14° to ecliptic Plane 
-
-Sun-Lagrange Point: 1.5 million km = 1%AU roughly on all 4 sides of the Earth (away, towards, ahead and behind) and 60° apart on the Moon's Orbit. 
-
-Moon-Lagrange-Points: 61,500 kilometers from the Center of the Moon and 60° apart on the Moon's Orbit. 
-
-Earth ecliptic Plane is inclined by 23.43472° (23.5°) which results in the seasons 
-between northern and southern 2609 km zum Äquator
-between [[../geo/Continent/Asia/Asia~South/India|India]] and [[../geo/Continent/Australasia/Australia|Australia]] resp. [[../geo/Continent/America~Central|America~Central]] and [[../geo/Continent/America~South/Brazil|Brazil]] 
-
-Due to [[Precession]] the Location of the Equinoxe moves by a few Meters every year 
-with a Period of 28000 years. 
+# [[WD~Earth,2]] 
 
 
-Radius_Earth :: 6371.0
-Radius_Moon :: 1737.4
-Distance_Moon :: 384399
-Inclination_Earth:: 23.4392811 
-Inclination_Moon:: 5.145 
-Degree_per_Radian :: 57.296 
-
-Axis_Length :: 7500
-Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_Earth_x :: `$=6371 - 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_Earth_y :: `$=7500*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-
-Axis_geo_x :: `$=6371 + dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_geo_x :: `$=6371 - dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_geo_y :: `$=dv.current().Radius_geo_stationary*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-
-Axis_iss_x :: `$=6371 + 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
-Axis_iss_x :: `$=6371 - 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
-Axis_iss_y :: `$=6791*Math.sin(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
-
-
-
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-3500 10500 400000 5" width="800" height="110">
-<!-- VB_min_X  VB_min_Y  VB_width  VB_height Iso-Scale, therefore VB_height does not matter here!-->
-
-  <!-- Earth's Ecliptic line -->
-  <line x1="-7000" y1="0" x2="400000" y2="0" stroke="gray" stroke-width="200" />
-  <text x ="340000" y ="4000" fill="red" font-size="16000">Sun ></text>
-  
-  <!-- Earth Radius 6371.0 km -->
-  <circle cx="6371" cy="0" r="6371" fill="lightBlue" />
-  <text x ="16000" y ="0" fill="black" font-size="16000">Ecliptic Plane</text>
-  <!-- Earth's axis (inclined by 23.4392811°) -->
-  <line x2="3387" y1="-6881" x1="9354" y2="6881" stroke="black" stroke-width="200" />
-  
-  <!-- Geo-stationary orbit  -->
-  <line x1="-26462" y1="-14234" x2="39204" y2="14234" stroke="green" stroke-width="200" />
-  <text x ="39204" y ="14234" fill="green" font-size="16000">Geo-stationary</text>
-  
-  <!-- ISS orbit  -->
-  <line x1="4617" y1="-6561" x2="8124" y2="6561" stroke="red" stroke-width="200" />
-  <text x ="4617" y ="-6881" fill="red" font-size="16000">ISS</text>
-
-
-  <!-- Sun 149,600,000km away 696,300 km Radius -->
-  <circle cx="600" cy="200" r="40" fill="yellow" />
-  <!-- Sun's axis (tilted by 7.25°) -->
-  <line x1="600" y1="200" x2="600" y2="144" stroke="black" stroke-width="200" />
-  
-  <!-- Moon Radius 1737.4 km -->
-  <circle cx="384399" cy="34471" r="1737" fill="gray" />
-  <text x ="344399" y ="36471" fill="black" font-size="16000">Moon</text>
-  <!-- Moon's Distance 384399 km Orbit (inclined by 5.145°) -->
-  <line x1="-384399" y1="-34471" x2="384399" y2="34471" stroke="gray" stroke-width="200" />
-</svg>
+![[../Earth]] 
 
