@@ -116,7 +116,7 @@ mass: 5972.37
 > Earth's axis of rotation is tilted with respect to its orbital plane around the Sun, 
 > producing seasons. 
 > 
-> Earth is orbited by one permanent natural satellite, the Moon, 
+> Earth is orbited by one permanent natural satellite, the [[Earth/Moon|Moon]], 
 > which orbits Earth at 384,400 km (1.28 light seconds) 
 > and is roughly a quarter as wide as Earth. 
 > 
@@ -152,6 +152,20 @@ Radius_geo_stationary:: 35786.
 angle: 0° to Equator 
 above Equator, otherwise 
 
+
+Radius_Earth :: 6371.0
+Radius_Moon :: 1737.4
+Distance_Moon :: 384399
+Inclination_Earth:: 23.4392811 
+Inclination_Moon:: 5.145 
+Degree_per_Radian :: 57.296 
+
+Axis_Length :: 7500
+Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_Earth_x :: `$=6371 - 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_Earth_y :: `$=7500*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+
 ## ISS
 Orbit_ISS :: 420
 Radius_ISS :: `$=dv.current().Orbit_ISS + dv.current().Radius_Earth`
@@ -160,6 +174,24 @@ angle: 51.6° to Equator  => 75.0392811 total
 Inclination_ISS:: 75.0392811 
 near-circular
 so it covers most inhabited Areas 
+
+
+Axis_iss_x :: `$=6371 + 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
+Axis_iss_x :: `$=6371 - 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
+Axis_iss_y :: `$=6791*Math.sin(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
+
+
+
+## Geo-Stationary_Orbit
+
+
+
+Axis_geo_x :: `$=6371 + dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_geo_x :: `$=6371 - dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+Axis_geo_y :: `$=dv.current().Radius_geo_stationary*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
+
+
+## Moon 
 
 Moon_Orbit
 elliptical 
@@ -176,30 +208,6 @@ between [[../geo/Continent/Asia/Asia~South/India|India]] and [[../geo/Continent/
 
 Due to [[Precession]] the Location of the Equinoxe moves by a few Meters every year 
 with a Period of 28000 years. 
-
-
-Radius_Earth :: 6371.0
-Radius_Moon :: 1737.4
-Distance_Moon :: 384399
-Inclination_Earth:: 23.4392811 
-Inclination_Moon:: 5.145 
-Degree_per_Radian :: 57.296 
-
-Axis_Length :: 7500
-Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_Earth_x :: `$=6371 + 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_Earth_x :: `$=6371 - 7500*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_Earth_y :: `$=7500*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-
-Axis_geo_x :: `$=6371 + dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_geo_x :: `$=6371 - dv.current().Radius_geo_stationary*Math.cos(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-Axis_geo_y :: `$=dv.current().Radius_geo_stationary*Math.sin(dv.current().Inclination_Earth/dv.current().Degree_per_Radian)`
-
-Axis_iss_x :: `$=6371 + 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
-Axis_iss_x :: `$=6371 - 6791*Math.cos(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
-Axis_iss_y :: `$=6791*Math.sin(dv.current().Inclination_ISS/dv.current().Degree_per_Radian)`
-
-
 
 
 
