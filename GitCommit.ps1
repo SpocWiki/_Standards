@@ -12,8 +12,6 @@ if (-not $message) {
 }
 
 Set-Location -Path $parent_directory
-git add .
-git commit -a -m $message
 
 Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
     $directory = $_.FullName
@@ -26,3 +24,5 @@ Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
 }
 
 Set-Location -Path $parent_directory
+git add .
+git commit -a -m $message
