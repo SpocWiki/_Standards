@@ -28,7 +28,6 @@ tags:
 
 aliases:
 - otc
-- otc
 - OTC
 - is_an_otc
 ---
