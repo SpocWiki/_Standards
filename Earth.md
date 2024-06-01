@@ -61,7 +61,7 @@ mass: 5972.37
 ---
 # [[Earth]] 
 
-#is_/same_as :: [[WD/WD~Earth,2|WD~Earth,2]] 
+#is_/same_as :: [[WD~Earth,2]] 
 
 
 ## #has_/text_of_/abstract 
