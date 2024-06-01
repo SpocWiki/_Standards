@@ -21,8 +21,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - PA
-    - PAN
     - Panama
     - Panamá
     - بنما

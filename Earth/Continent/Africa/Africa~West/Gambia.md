@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GM
-- GMB
 - Gambia
 - Gambie
 - غامبيا

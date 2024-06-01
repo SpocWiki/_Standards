@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - PT
-    - PRT
     - Portugal
     - البرتغال
     - 葡萄牙

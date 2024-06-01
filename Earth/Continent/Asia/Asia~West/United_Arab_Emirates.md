@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - AE
-    - ARE
     - United Arab Emirates
     - Emiratos Árabes Unidos
     - Émirats arabes unis

@@ -21,8 +21,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - SR
-    - SUR
     - Suriname
     - سورينام
     - 苏里南

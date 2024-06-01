@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - IR
-    - IRN
     - Iran
     - Iran (Islamic Republic of)
     - Irán (República Islámica del)

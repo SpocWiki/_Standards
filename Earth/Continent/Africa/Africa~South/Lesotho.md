@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- LS
-- LSO
 - Lesotho
 - ليسوتو
 - 莱索托

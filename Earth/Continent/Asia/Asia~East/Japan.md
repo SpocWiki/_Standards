@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - JP
-    - JPN
     - Japan
     - Japón
     - Japon

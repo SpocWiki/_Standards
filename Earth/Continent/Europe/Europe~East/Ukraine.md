@@ -21,8 +21,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - UA
-    - UKR
     - Ukraine
     - Ucrania
     - أوكرانيا

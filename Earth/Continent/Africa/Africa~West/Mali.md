@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ML
-- MLI
 - Mali
 - Malí
 - مالي

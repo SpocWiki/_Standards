@@ -23,8 +23,6 @@ icon: flag-pl
 tags:
     - geo/Country
 aliases:
-    - PL
-    - POL
     - Poland
     - Polonia
     - Pologne

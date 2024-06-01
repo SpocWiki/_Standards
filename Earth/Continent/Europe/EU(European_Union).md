@@ -30,7 +30,6 @@ has_member:
   - "[[Europe~South/Spain|Spain]]"
   - "[[Europe~North/Sweden|Sweden]]"
 aliases:
-  - EU
   - European Union
   - European_Union
 ---

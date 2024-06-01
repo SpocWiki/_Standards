@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - TW
-    - TWN
     - Taiwan
     - null
 Languages:

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- YT
-- MYT
 - Mayotte
 - جزيرة مايوت
 - 马约特

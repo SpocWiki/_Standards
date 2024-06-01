@@ -21,8 +21,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - HN
-    - HND
     - Honduras
     - هندوراس
     - 洪都拉斯

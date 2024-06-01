@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - PG
-    - PNG
     - Papua New Guinea
     - Papua Nueva Guinea
     - Papouasie-Nouvelle-Guinée

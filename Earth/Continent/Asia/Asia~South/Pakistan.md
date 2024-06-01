@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - PK
-    - PAK
     - Pakistan
     - Pakistán
     - باكستان

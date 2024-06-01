@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - MH
-    - MHL
     - Marshall Islands
     - Islas Marshall
     - Îles Marshall

@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - NI
-    - NIC
     - Nicaragua
     - نيكاراغوا
     - 尼加拉瓜

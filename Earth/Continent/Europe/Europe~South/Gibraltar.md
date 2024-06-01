@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GI
-- GIB
 - Gibraltar
 - جبل طارق
 - 直布罗陀

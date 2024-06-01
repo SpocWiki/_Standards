@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- IM
-- IMN
 - Isle of Man
 - Isla de Man
 - Île de Man

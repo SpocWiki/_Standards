@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- NA
-- NAM
 - Namibia
 - Namibie
 - ناميبيا

@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GG
-- GGY
 - Guernsey
 - Guernesey
 - غيرنزي

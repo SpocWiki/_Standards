@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CM
-- CMR
 - Cameroon
 - Camerún
 - Cameroun

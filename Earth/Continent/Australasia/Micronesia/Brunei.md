@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - BN
-    - BRN
     - Brunei
     - Brunei Darussalam
     - Brunéi Darussalam

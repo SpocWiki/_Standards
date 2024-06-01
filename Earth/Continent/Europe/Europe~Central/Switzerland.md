@@ -23,8 +23,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - CH
-    - CHE
     - Switzerland
     - Suiza
     - Suisse

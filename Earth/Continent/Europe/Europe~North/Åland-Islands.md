@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - AX
-  - ALA
   - Åland Islands
   - Islas Åland
   - Îles d'Åland
