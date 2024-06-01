@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - NL
-    - NLD
     - Netherlands
     - Países Bajos
     - Pays-Bas

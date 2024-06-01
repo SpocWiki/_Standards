@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - LI
-    - LIE
     - Liechtenstein
     - ليختنشتاين
     - 列支敦士登

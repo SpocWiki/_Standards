@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- NC
-- NCL
 - New Caledonia
 - Nueva Caledonia
 - Nouvelle-Calédonie

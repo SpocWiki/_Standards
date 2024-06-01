@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - CR
-    - CRI
     - Costa Rica
     - كوستاريكا
     - 哥斯达黎加

@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ZM
-- ZMB
 - Zambia
 - Zambie
 - زامبيا

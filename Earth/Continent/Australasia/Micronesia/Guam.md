@@ -21,8 +21,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - GU
-    - GUM
     - Guam
     - غوام
     - 关岛

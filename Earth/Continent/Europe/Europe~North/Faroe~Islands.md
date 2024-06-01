@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- FO
-- FRO
 - Faroe Islands
 - Islas Feroe
 - Îles Féroé

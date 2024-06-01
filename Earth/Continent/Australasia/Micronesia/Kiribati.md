@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - KI
-    - KIR
     - Kiribati
     - كيريباس
     - 基里巴斯

@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - IT
-    - ITA
     - Italy
     - Italia
     - Italie

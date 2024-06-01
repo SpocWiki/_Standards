@@ -18,8 +18,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MO
-- MAC
 - Macau
 - China, Macao Special Administrative Region
 - China, región administrativa especial de Macao

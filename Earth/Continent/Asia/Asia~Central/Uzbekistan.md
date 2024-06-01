@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - UZ
-    - UZB
     - Uzbekistan
     - Uzbekistán
     - Ouzbékistan

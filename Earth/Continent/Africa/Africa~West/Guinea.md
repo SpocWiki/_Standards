@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GN
-- GIN
 - Guinea
 - Guinée
 - غينيا

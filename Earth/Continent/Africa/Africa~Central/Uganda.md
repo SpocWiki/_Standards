@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- UG
-- UGA
 - Uganda
 - Ouganda
 - أوغندا

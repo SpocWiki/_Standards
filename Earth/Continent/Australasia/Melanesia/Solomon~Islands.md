@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - SB
-    - SLB
     - Solomon Islands
     - Islas Salomón
     - Îles Salomon

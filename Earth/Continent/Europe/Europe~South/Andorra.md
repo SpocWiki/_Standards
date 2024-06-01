@@ -21,8 +21,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - AD
-    - AND
     - Andorra
     - Andorre
     - أندورا

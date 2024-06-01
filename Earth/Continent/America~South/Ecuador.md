@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - EC
-    - ECU
     - Ecuador
     - Équateur
     - إكوادور

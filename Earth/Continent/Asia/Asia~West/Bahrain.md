@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - BH
-    - BHR
     - Bahrain
     - Bahrein
     - Bahreïn

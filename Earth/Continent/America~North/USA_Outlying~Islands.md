@@ -18,8 +18,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- UM
-- UMI
 - U.S. Outlying Islands
 - United States Minor Outlying Islands
 - Islas menores alejadas de Estados Unidos

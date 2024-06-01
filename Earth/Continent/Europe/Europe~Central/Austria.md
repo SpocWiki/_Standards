@@ -24,8 +24,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - AT
-    - AUT
     - Austria
     - Autriche
     - النمسا

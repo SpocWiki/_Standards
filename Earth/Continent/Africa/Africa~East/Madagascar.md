@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- MG
-- MDG
 - Madagascar
 - مدغشقر
 - 马达加斯加

@@ -3,7 +3,7 @@ has_id_wikidata: Q405
 ---
 
 
-#is_/same_as :: [[../WD/WD~Moon,405|WD~Moon,405]] 
+#is_/same_as :: [[WD~Moon,405]] 
 
 ## #has_/text_of_/abstract 
 

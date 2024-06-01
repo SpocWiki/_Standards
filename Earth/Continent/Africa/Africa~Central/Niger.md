@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- NE
-- NER
 - Niger
 - Níger
 - النيجر

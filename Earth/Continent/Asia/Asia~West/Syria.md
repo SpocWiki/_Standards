@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-- SY
-- SYR
 - Syria
 - Syrian Arab Republic
 - República Árabe Siria

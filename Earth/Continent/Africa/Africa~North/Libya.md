@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- LY
-- LBY
 - Libya
 - Libia
 - Libye

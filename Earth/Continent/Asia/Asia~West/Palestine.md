@@ -25,8 +25,6 @@ tags:
 - geo/Country
 
 aliases:
-- PS
-- PSE
 - Palestine
 - State of Palestine
 - Estado de Palestina

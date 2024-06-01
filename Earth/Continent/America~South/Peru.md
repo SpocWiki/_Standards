@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - PE
-    - PER
     - Peru
     - Perú
     - Pérou

@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-    - FR
-    - FRA
     - France
     - Francia
     - فرنسا

@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- LA
-- LAO
 - Laos
 - Lao People's Democratic Republic
 - República Democrática Popular Lao

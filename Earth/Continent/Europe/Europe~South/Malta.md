@@ -22,8 +22,6 @@ draft: false
 publishDate: null
 expiryDate: null
 aliases:
-    - MT
-    - MLT
     - Malta
     - Malte
     - مالطة
