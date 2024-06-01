@@ -3,7 +3,7 @@ aliases:
   - ischart:UpperPennsylvanian
 ---
 
-# [[Epoch~3~Late Pennsylvanian]] 
+# [[Epoch~3~Late_Pennsylvanian]] 
 
 #is_a_/time_/Epoch 
 

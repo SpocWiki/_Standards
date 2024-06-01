@@ -1,34 +1,30 @@
-﻿---
+---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_music_group Class
 linkTitle: is_a_music_group Class
-
-keywords: [music_group]
+keywords:
+  - music_group
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
 aliases:
-- music-group
-- music_group
-- MusicGroup
-- is_a_music_group
+  - music-group
+  - music_group
+  - MusicGroup
+  - is_a_music_group
+  - band
+  - music act
 ---
 
 Class of all music_groups.

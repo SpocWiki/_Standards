@@ -53,7 +53,7 @@ has_member:
 > while Ireland maintains an opt-out and operates its own visa policy. 
 >
 > In addition to the member states of the European Union, 
-> all member states of the [[EFTA(European Free Trade Association)]],  
+> all member states of the [[Europe~Central/EFTA(European_Free_Trade_Association)]],  
 > namely Iceland, Liechtenstein, Norway and Switzerland, 
 > have signed association agreements with the EU to be part of the Schengen Area. 
 > Moreover, three microstates, Monaco, San Marino and Vatican City, 

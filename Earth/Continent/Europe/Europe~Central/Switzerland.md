@@ -106,7 +106,7 @@ into a Subfolder named `Switzerland`, so that this Link into the Sub-Repository 
 > and hosts the headquarters or offices of most major international institutions, 
 > including the [[WTO]], the [[WHO]], the [[ILO]], [[FIFA]], and the [[../../../_Standards/UN(United_Nations)]]. 
 > 
-> It is a founding member of the [[EFTA(European Free Trade Association)]], 
+> It is a founding member of the [[EFTA(European_Free_Trade_Association)]], 
 > but not part of the [[../EU(European_Union)]], the European Economic Area, or the eurozone; 
 > however, it participates in the European single market and the [[../Schengen-Area]]. 
 > 

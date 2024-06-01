@@ -3,7 +3,7 @@ limit: 9
 mapWithTag: true
 excludes: 
 icon: music
-version: "2.0"
+version: "2.1"
 tagNames:
   - class/MusicGroup
   - class/Thing/Organization/PerformingGroup/MusicGroup
@@ -33,6 +33,14 @@ fields:
       dvQueryString: dv.pages('#class/Thing/Intangible/ItemList')
     type: MultiFile
     path: ""
+filesPaths: 
+bookmarksGroups: 
+savedViews: []
+favoriteView: 
+fieldsOrder:
+  - KTnAtL
+  - N8Scii
+  - 7KritP
 ---
 
 # MusicGroup
