@@ -36,6 +36,8 @@ aliases:
 The latitude of a location in Degrees with decimal Fractions. 
 For example <code>37.42242</code> (<a href="https://en.wikipedia.org/wiki/World_Geodetic_System">WGS 84</a>).
 
+- #is_/different_from :: #has_/location which is a Relation to a [[Place]] with Latitude 
+
 Predicate to describe the Quantity of [[../../Class/is_a_/place|Places]] and [[../../Class/is_a_/Intangible/structured_value/geo_coordinates|GeoCoordinates]], 
 together with [[has_place_longitude|longitude]] and [[has_place_elevation_in_meters|elevation]].
 but not [[has_place_altitude_in_meters|altitude]], which is typically used for flying or diving Objects.
