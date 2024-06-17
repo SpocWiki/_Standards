@@ -40,6 +40,7 @@ Use it like this:
 
 Alternatively use the equivalent #cancelled  , because the is supported in [[../../../../Tasks/Tasks|Tasks]]: 
 #is_/similar_to :: #cancelled  
+#is_/similar_to :: #has_/time_/stopped 
 
 The date and time an item was removed from a [[../../Class/is_a_/creative_work/dataset/data_feed|DataFeed]].
 

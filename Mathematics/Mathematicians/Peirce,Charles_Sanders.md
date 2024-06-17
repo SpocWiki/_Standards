@@ -1,3 +1,7 @@
+---
+aliases:
+  - Charles Sanders Peirce
+---
 
 #has_/time_/created :: 1839-09-10 
 #has_/time_/destroyed :: 1914-04-19 
