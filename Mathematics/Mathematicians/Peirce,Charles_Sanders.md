@@ -3,8 +3,8 @@ aliases:
   - Charles Sanders Peirce
 ---
 
-#has_/time_/created :: 1839-09-10 
-#has_/time_/destroyed :: 1914-04-19 
+#has_/time_/started :: 1839-09-10 
+#has_/time_/stopped  :: 1914-04-19 
 
 > **Charles Sanders Peirce** (1839-09-10 – 1914-04-19) 
 > was an American scientist, mathematician,  logician, and philosopher 

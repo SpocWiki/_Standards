@@ -12,8 +12,8 @@ A time period from 494 to 489.5 million years ago.
 #has_/label_/zh  :: 江山期 
 
 #has_/abbreviation :: ep9
-#has_/time_/created/Ma :: -494 
-#has_/time_/destroyed/Ma :: -489.5 
+#has_/time_/started /Ma :: -494 
+#has_/time_/stopped /Ma :: -489.5 
 
     sh:order 143 
 

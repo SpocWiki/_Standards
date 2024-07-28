@@ -33,8 +33,8 @@ A time period from 0.129 to 0.0117 million years ago.
 
 #has_/abbreviation :: q4
 
-#has_/time_/created/Ma :: -0.129
-#has_/time_/destroyed/Ma :: -0.0117
+#has_/time_/started /Ma :: -0.129
+#has_/time_/stopped /Ma :: -0.0117
 
     sh:order 5 
 

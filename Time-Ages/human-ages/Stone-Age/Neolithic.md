@@ -8,8 +8,8 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neolithic)
 
-#has_/time_/created/ka :: -8 
-#has_/time_/destroyed/ka :: -3.3 
+#has_/time_/started /ka :: -8 
+#has_/time_/stopped /ka :: -3.3 
 
 ## Edit
 

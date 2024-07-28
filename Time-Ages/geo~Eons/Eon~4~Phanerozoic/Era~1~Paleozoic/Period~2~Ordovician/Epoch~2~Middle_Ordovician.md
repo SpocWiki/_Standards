@@ -28,8 +28,8 @@ A time period from 470.0 to 458.4 million years ago.
 
 #has_/abbreviation :: O2
 
-#has_/time_/created/Ma :: -470.0 
-#has_/time_/destroyed/Ma :: -458.4 
+#has_/time_/started /Ma :: -470.0 
+#has_/time_/stopped /Ma :: -458.4 
 
     sh:order 137 
 

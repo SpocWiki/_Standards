@@ -9,4 +9,4 @@ In [[../../../Knowledge/Physics/Quantum-Physics|Quantum-Physics]] the [[Waveleng
 given by its inverse [[Dim~Momentum]]:  ___λ = h / p___ 
 
 A change in Momentum is also called Impulse, 
-a Distinction similar to that between [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] and [[../../Mathematics/Geometry/Vector|Vector]] 
+a Distinction similar to that between [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] and [[../../../Knowledge/Math/Geometry/Tensor/Vector|Vector]] 

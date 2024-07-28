@@ -32,7 +32,7 @@ icon: flag-us
 
 # [[USA]] 
 
-#has_/time_/created :: 1776-07-04 
+#has_/time_/started :: 1776-07-04 
 However,  the process of establishing the United States as a sovereign nation 
 continued through the Revolutionary War 
 and the subsequent drafting and ratification of the U.S. Constitution in 1787.

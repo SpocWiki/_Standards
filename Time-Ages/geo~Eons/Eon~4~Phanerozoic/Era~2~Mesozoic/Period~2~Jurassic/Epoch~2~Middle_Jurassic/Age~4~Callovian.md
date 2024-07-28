@@ -31,8 +31,8 @@ A time period from 165.3 to 161.5 million years ago.
 
 #has_/abbreviation :: j4
 
-#has_/time_/created/Ma :: -165.3 
-#has_/time_/destroyed/Ma :: -161.5 
+#has_/time_/started /Ma :: -165.3 
+#has_/time_/stopped /Ma :: -161.5 
 
     sh:order 55 
 

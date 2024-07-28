@@ -32,7 +32,7 @@ has_member:
 ---
 
 
-#has_/time_/created :: 1985 
+#has_/time_/started :: 1985 
 
 > The **Schengen Area** (English:  SHENG-ən, Luxembourgish: [ˈʃæŋən] ) 
 > is an area encompassing 29 European countries 

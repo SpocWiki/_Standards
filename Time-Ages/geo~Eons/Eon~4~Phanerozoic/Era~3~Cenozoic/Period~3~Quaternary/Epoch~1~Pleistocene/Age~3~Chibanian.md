@@ -18,8 +18,8 @@ A time period from 0.774 to 0.129 million years ago.
 
 #has_/abbreviation :: q3
 
-#has_/time_/created/Ma :: -0.774
-#has_/time_/destroyed/Ma :: -0.129
+#has_/time_/started /Ma :: -0.774
+#has_/time_/stopped /Ma :: -0.129
 
     sh:order 6 
 

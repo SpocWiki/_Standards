@@ -28,8 +28,8 @@ A time period from 307.0 to 298.9 million years ago.
 
 #has_/abbreviation :: C2c6c7
 
-#has_/time_/created/Ma :: -307.0 
-#has_/time_/destroyed/Ma :: -298.9 
+#has_/time_/started /Ma :: -307.0 
+#has_/time_/stopped /Ma :: -298.9 
 
     sh:order 94 
 

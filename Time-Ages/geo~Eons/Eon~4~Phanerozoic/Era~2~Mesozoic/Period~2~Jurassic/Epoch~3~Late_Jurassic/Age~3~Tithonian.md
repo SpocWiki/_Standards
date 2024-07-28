@@ -31,8 +31,8 @@ A time period from 149.2 to 145 million years ago.
 
 #has_/abbreviation :: j7
 
-#has_/time_/created/Ma :: -149.2 
-#has_/time_/destroyed/Ma :: -145 
+#has_/time_/started /Ma :: -149.2 
+#has_/time_/stopped /Ma :: -145 
 
     sh:order 51 
 

@@ -29,8 +29,8 @@ A time period from> The **Statherian** Period ( ; Ancient Greek: σταθερό�
 
 #has_/abbreviation :: PP4
 
-#has_/time_/created/Ma :: -1800
-#has_/time_/destroyed/Ma :: -1600
+#has_/time_/started /Ma :: -1800
+#has_/time_/stopped /Ma :: -1600
 
     sh:order 166 
 

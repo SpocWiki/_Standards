@@ -40,8 +40,8 @@ A time period from 382.7 to 372.2 million years ago.
 
 #has_/abbreviation :: d6
 
-#has_/time_/created/Ma :: -382.7 
-#has_/time_/destroyed/Ma :: -372.2 
+#has_/time_/started /Ma :: -382.7 
+#has_/time_/stopped /Ma :: -372.2 
 
     sh:order 109 
 

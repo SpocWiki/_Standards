@@ -38,8 +38,8 @@ A time period from 1600 to 1400 million years ago.
 
 #has_/abbreviation :: MP1
 
-#has_/time_/created/Ma :: -1600
-#has_/time_/destroyed/Ma :: -1400
+#has_/time_/started /Ma :: -1600
+#has_/time_/stopped /Ma :: -1400
 
     sh:order 164 
 

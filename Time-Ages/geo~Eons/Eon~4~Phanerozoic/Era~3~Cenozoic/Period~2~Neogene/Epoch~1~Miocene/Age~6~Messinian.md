@@ -35,8 +35,8 @@ A time period from 7.246 to 5.333 million years ago.
 
 #has_/abbreviation :: n6
 
-#has_/time_/created/Ma :: -7.246
-#has_/time_/destroyed/Ma :: -5.333
+#has_/time_/started /Ma :: -7.246
+#has_/time_/stopped /Ma :: -5.333
 
     sh:order 14 
 

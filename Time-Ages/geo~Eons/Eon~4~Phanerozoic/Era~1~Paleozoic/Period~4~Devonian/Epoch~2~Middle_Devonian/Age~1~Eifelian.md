@@ -32,8 +32,8 @@ A time period from 393.3 to 387.7 million years ago.
 #has_/label_/zh  :: 艾菲尔期
 
 #has_/abbreviation :: d4
-#has_/time_/created/Ma :: -393.3 
-#has_/time_/destroyed/Ma :: -387.7 
+#has_/time_/started /Ma :: -393.3 
+#has_/time_/stopped /Ma :: -387.7 
 
     sh:order 112 
 

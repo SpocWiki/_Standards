@@ -10,8 +10,8 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mesolithic)
 
-#has_/time_/created/ka :: -13 
-#has_/time_/destroyed/ka :: -8 
+#has_/time_/started /ka :: -13 
+#has_/time_/stopped /ka :: -8 
 
 ## Edit
 

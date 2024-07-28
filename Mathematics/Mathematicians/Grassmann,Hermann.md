@@ -6,8 +6,8 @@ aliases:
 
 # [[Grassmann,Hermann]] 
 
-#has_/time_/created :: 1809-04-15
-#has_/time_/destroyed :: 1877-09-26
+#has_/time_/started :: 1809-04-15
+#has_/time_/stopped  :: 1877-09-26
 
 > Hermann Günther Grassmann (German: Graßmann, 
 > pronounced [ˈhɛʁman ˈɡʏntɐ ˈɡʁasman]; 15 April 1809 – 26 September 1877) 

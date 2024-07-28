@@ -27,8 +27,8 @@ ischart:Gorstian
 #has_/label_/zh  :: 格斯特期
 
 #has_/abbreviation :: s6
-#has_/time_/created/Ma :: -427.4 
-#has_/time_/destroyed/Ma :: -425.6 
+#has_/time_/started /Ma :: -427.4 
+#has_/time_/stopped /Ma :: -425.6 
 
     sh:order 121 
 

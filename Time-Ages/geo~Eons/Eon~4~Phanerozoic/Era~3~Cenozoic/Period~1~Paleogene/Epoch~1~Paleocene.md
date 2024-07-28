@@ -41,8 +41,8 @@ A time period from 66.0 to 56.0 million years ago.
 
 #has_/abbreviation :: E1
 
-#has_/time_/created/Ma :: -66.0
-#has_/time_/destroyed/Ma :: -56.0
+#has_/time_/started /Ma :: -66.0
+#has_/time_/stopped /Ma :: -56.0
 
     sh:order 34 
 

@@ -31,8 +31,8 @@ A time period from 538.8 to 521 million years ago.
 #has_/label_/zh  :: 纽芬兰世
 
 #has_/abbreviation :: Ep1
-#has_/time_/created/Ma :: -538.8 
-#has_/time_/destroyed/Ma :: -521 
+#has_/time_/started /Ma :: -538.8 
+#has_/time_/stopped /Ma :: -521 
 
     sh:order 157 
 

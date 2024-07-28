@@ -32,8 +32,8 @@ A time period from 419.2 to 410.8 million years ago.
 #has_/label_/zh  :: 洛赫科夫期
 
 #has_/abbreviation :: d1
-#has_/time_/created/Ma :: -419.2 
-#has_/time_/destroyed/Ma :: -410.8 
+#has_/time_/started /Ma :: -419.2 
+#has_/time_/stopped /Ma :: -410.8 
 
     sh:order 117 
 

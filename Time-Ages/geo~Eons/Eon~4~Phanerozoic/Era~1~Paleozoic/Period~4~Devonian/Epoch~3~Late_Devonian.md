@@ -27,8 +27,8 @@ A time period from 382.7 to 358.9 million years ago.
 #has_/label_/zh  :: 晚泥盆世
 #has_/abbreviation :: D3
 
-#has_/time_/created/Ma :: -382.7 
-#has_/time_/destroyed/Ma :: -358.9 
+#has_/time_/started /Ma :: -382.7 
+#has_/time_/stopped /Ma :: -358.9 
 
     sh:order 110 
 

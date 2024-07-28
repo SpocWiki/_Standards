@@ -34,8 +34,8 @@ A time period from 445.2 to 443.8 million years ago.
 
 #has_/abbreviation :: o7
 
-#has_/time_/created/Ma :: -445.2 
-#has_/time_/destroyed/Ma :: -443.8 
+#has_/time_/started /Ma :: -445.2 
+#has_/time_/stopped /Ma :: -443.8 
 
     sh:order 131 
 

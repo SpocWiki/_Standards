@@ -12,5 +12,5 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Paleolithic)
 
-#has_/time_/created/ka :: -3300  
-#has_/time_/destroyed/ka :: -10  
+#has_/time_/started /ka :: -3300  
+#has_/time_/stopped /ka :: -10  

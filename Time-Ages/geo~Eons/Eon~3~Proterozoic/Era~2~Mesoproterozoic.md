@@ -33,8 +33,8 @@ A time period from 1600 to 1000 million years ago.
 
 #has_/abbreviation :: MP
 
-#has_/time_/created/Ma :: -1600
-#has_/time_/destroyed/Ma :: -1000
+#has_/time_/started /Ma :: -1600
+#has_/time_/stopped /Ma :: -1000
 
     sh:order 165 
 

@@ -9,6 +9,6 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Lower%20Paleolithic)
 
 
-#has_/time_/created/ka :: -3300  
-#has_/time_/destroyed/ka :: -300  
+#has_/time_/started /ka :: -3300  
+#has_/time_/stopped /ka :: -300  
 

@@ -33,8 +33,8 @@ A time period from 251.902 to 251.2 million years ago.
 
 #has_/abbreviation :: t1
 
-#has_/time_/created/Ma :: -251.902 
-#has_/time_/destroyed/Ma :: -251.2
+#has_/time_/started /Ma :: -251.902 
+#has_/time_/stopped /Ma :: -251.2
 
     sh:order 74 
 

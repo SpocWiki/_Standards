@@ -13,13 +13,22 @@ aliases: []
 
 # [[Relation]] 
 
-A Relation is a Set of Tuples (Pairs in the simplest case). 
-A binary Relation {sRo} has the Subject/Key and the Object/Value which can come from different Sets. 
-A binary Relation RI #is_/inverse_of  R, with all the Pairs of R but with Subject and Object Position switched: {oRIs}
-A binary Relation #is_/complement_of  R, with all the Pairs from the Cross Product of S and O minus the of A but with Subject and Object Position switched. 
+A Relation is a Set of Tuples with the same [[Arity]] (Pairs in the simplest case). 
+A binary Relation {sRo} has the Subject/Key and the Object/Value 
+which can come from different Sets. 
+A binary Relation RI #is_/inverse_of  R, 
+with all the Pairs of R but with Subject and Object Position switched: {oRIs}
+A binary Relation #is_/complement_of  R, 
+with all the Pairs from the Cross Product of S and O minus the of A 
+but with Subject and Object Position switched. 
 
-In RDF the Relation-Instance/Type is Part of the Notation, because you handle multiple Relations. 
-Therefore you end up with the Triple: Subject-Predicate->Object
+In RDF the Relation-Instance/Type is Part of the Notation, 
+because you handle many binary Relation Types. 
+Therefore you end up with the Triple: 
+```mermaid
+graph LR
+Subject--Predicate-->Object
+```
 
 #is_a_/class  . 
 has_range:: [[Class/Thing]]

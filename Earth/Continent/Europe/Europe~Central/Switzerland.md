@@ -42,7 +42,7 @@ Languages:
 icon: flag-ch
 ---
 
-#has_/time_/created :: 1291-08-01 
+#has_/time_/started :: 1291-08-01 
 
 # [[Switzerland]] 
 

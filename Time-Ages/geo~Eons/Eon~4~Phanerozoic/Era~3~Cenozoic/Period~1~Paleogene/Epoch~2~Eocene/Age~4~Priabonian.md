@@ -30,8 +30,8 @@ A time period from 37.71 to 33.9 million years ago.
 #has_/label_/zh  :: 普里阿邦期
 
 #has_/abbreviation :: e7
-#has_/time_/created/Ma :: -37.71
-#has_/time_/destroyed/Ma :: -33.9
+#has_/time_/started /Ma :: -37.71
+#has_/time_/stopped /Ma :: -33.9
 
     sh:order 25 
 

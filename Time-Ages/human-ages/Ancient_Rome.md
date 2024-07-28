@@ -9,8 +9,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ancient%20Rome)
 
 
-#has_/time_/created/ka :: -0.1 
-#has_/time_/destroyed/ka :: 0.4 
+#has_/time_/started /ka :: -0.1 
+#has_/time_/stopped /ka :: 0.4 
 
 
 ## Edit

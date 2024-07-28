@@ -40,8 +40,8 @@ A time period from 251.902 to 247.2 million years ago.
 #has_/label_/zh  :: 早三叠世
 
 #has_/abbreviation :: T1
-#has_/time_/created/Ma :: -251.902 
-#has_/time_/destroyed/Ma :: -247.2
+#has_/time_/started /Ma :: -251.902 
+#has_/time_/stopped /Ma :: -247.2
 
     sh:order 75 
 

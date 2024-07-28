@@ -34,6 +34,10 @@ aliases:
 #is_/different_from :: [[is_same_as]] 
 #is_/complement_of :: [[is_different_from]] 
 
+If possible, use the more specific 
+#is_/sub_class_of  or #has_/sub_classes 
+or specify [[because :: reason for the difference]]. 
+
 Additionally use the Standard [[../../W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language)|owl(Ontology_Web_Language)]] Relation 
  [[is_different_from]], to express the same as [[is_similar_to]]. 
 

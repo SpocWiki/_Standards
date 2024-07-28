@@ -44,7 +44,7 @@ For more Details, check out this Repository into this Subfolder:
 [[Israel/ReadMe]] 
 
 
-#has_/time_/created :: 1948-05-14 
+#has_/time_/started :: 1948-05-14 
 
 [	ISO4217-currency_alphabetic	 :: ILS ]
 [	ISO4217-currency_name	 :: New Israeli Sheqel ]

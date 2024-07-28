@@ -9,5 +9,5 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Paleolithic)
 
 
-#has_/time_/created/ka :: -300  
-#has_/time_/destroyed/ka :: -50  
+#has_/time_/started /ka :: -300  
+#has_/time_/stopped /ka :: -50  

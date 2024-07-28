@@ -14,8 +14,8 @@ A time period from 358.9 to 346.7 million years ago.
 
 #has_/abbreviation :: C1c1
 
-#has_/time_/created/Ma :: -358.9 
-#has_/time_/destroyed/Ma :: -346.7 
+#has_/time_/started /Ma :: -358.9 
+#has_/time_/stopped /Ma :: -346.7 
 
     sh:order 105 
 

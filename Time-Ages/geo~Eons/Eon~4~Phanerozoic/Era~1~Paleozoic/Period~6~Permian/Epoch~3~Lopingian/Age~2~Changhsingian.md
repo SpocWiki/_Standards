@@ -31,8 +31,8 @@ A time period from 254.14 to 251.902 million years ago.
 
 #has_/abbreviation :: p9
 
-#has_/time_/created/Ma :: -254.14 
-#has_/time_/destroyed/Ma :: -251.902 
+#has_/time_/started /Ma :: -254.14 
+#has_/time_/stopped /Ma :: -251.902 
 
     sh:order 79 
 

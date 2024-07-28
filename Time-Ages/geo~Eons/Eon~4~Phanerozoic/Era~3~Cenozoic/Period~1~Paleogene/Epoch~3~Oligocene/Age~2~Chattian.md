@@ -31,8 +31,8 @@ A time period from 27.82 to 23.03 million years ago.
 
 #has_/abbreviation :: e9
 
-#has_/time_/created/Ma :: -27.82
-#has_/time_/destroyed/Ma :: -23.03
+#has_/time_/started /Ma :: -27.82
+#has_/time_/stopped /Ma :: -23.03
 
     sh:order 22 
 

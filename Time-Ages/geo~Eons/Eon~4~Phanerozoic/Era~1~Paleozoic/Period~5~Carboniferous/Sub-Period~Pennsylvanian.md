@@ -33,8 +33,8 @@ A time period from 323.2 to 298.9 million years ago.
 
 #has_/abbreviation :: C2
 
-#has_/time_/created/Ma :: -323.2 
-#has_/time_/destroyed/Ma :: -298.9 
+#has_/time_/started /Ma :: -323.2 
+#has_/time_/stopped /Ma :: -298.9 
 
     sh:order 99 
 

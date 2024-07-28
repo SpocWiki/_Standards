@@ -38,8 +38,8 @@ A time period from 4567 to 4031 million years ago.
 
 #has_/abbreviation :: HA
 
-#has_/time_/created/Ma :: -4567
-#has_/time_/destroyed/Ma :: -4031 
+#has_/time_/started /Ma :: -4567
+#has_/time_/stopped /Ma :: -4031 
 
 #has_/text_of_/color :: 0xAE027E
 

@@ -37,8 +37,8 @@ A time period from 2500 to 1600 million years ago.
 #has_/label_/sv  :: paleoproterozoikum
 #has_/label_/zh  :: 古元古代
 
-#has_/time_/created/Ma :: -2500
-#has_/time_/destroyed/Ma :: -1600
+#has_/time_/started /Ma :: -2500
+#has_/time_/stopped /Ma :: -1600
 
 #has_/text_of_/color :: 0xF74370
 

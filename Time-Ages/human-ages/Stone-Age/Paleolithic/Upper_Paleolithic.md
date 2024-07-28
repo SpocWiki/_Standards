@@ -19,5 +19,5 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Upper%20Paleolithic)
 
 
-#has_/time_/created/ka :: -50  
-#has_/time_/destroyed/ka :: -13  
+#has_/time_/started /ka :: -50  
+#has_/time_/stopped /ka :: -13  

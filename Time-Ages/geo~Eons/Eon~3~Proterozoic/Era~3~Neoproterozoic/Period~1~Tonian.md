@@ -36,8 +36,8 @@ A time period from
 #has_/label_/zh  :: 拉伸纪
 
 #has_/abbreviation :: NP1
-#has_/time_/created/Ma :: -1000
-#has_/time_/destroyed/Ma :: -720
+#has_/time_/started /Ma :: -1000
+#has_/time_/stopped /Ma :: -720
 
     sh:order 161 
 

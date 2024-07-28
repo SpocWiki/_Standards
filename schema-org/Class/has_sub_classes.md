@@ -3,32 +3,33 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_sub_classes
-
 linkTitle: has_sub_classes
-keywords: [part]
+keywords:
+  - part
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- has-sub-classes
-- sub-classes
-- hassub-classes
-- has_sub_classes
+  - has-sub-classes
+  - sub-classes
+  - has_sub_classes
+  - has_subclasses
+  - is_super-class
+  - Class-Generalization
 ---
+
+#is_/better_than :: [[../Relation/is_similar_to|is_similar_to]] 
+#is_/similar_to :: [[../../../Knowledge/Engineer/Engineer~Generalization|Engineer~Generalization]] 
 
 # [[has_sub_classes]] 
 

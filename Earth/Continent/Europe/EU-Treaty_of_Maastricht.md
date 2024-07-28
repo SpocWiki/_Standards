@@ -1,5 +1,5 @@
 
-#has_/time_/created :: 1993-11-01  
+#has_/time_/started :: 1993-11-01  
 
 > The Treaty on European Union, commonly known as the Maastricht Treaty, is the foundation treaty of the European Union (EU). 
 > Concluded in 1992 between the then-twelve member states of the European Communities, 

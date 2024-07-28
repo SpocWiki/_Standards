@@ -38,8 +38,8 @@ A time period from 443.8 to 433.4 million years ago.
 
 #has_/abbreviation :: S1
 
-#has_/time_/created/Ma :: -443.8 
-#has_/time_/destroyed/Ma :: -433.4 
+#has_/time_/started /Ma :: -443.8 
+#has_/time_/stopped /Ma :: -433.4 
 
     sh:order 128 
 

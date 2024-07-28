@@ -10,8 +10,8 @@ confidential: public
 
 ---
 
-#has_/time_/created :: 1918-12-01 
-#has_/time_/destroyed :: 1992-04-27 
+#has_/time_/started :: 1918-12-01 
+#has_/time_/stopped  :: 1992-04-27 
 
 > **Yugoslavia** (; Serbo-Croatian: Jugoslavija / Југославија [juɡǒslaːʋija]; Slovene: Jugoslavija [juɡɔˈslàːʋija]; Macedonian: Југославија [juɡɔˈsɫavija]; lit. 'Land of the South Slavs') was a country in Southeast and Central Europe for most of the 20th century. 
 > It came into existence in 1918 following World War I, under the name of the Kingdom of Serbs, Croats and Slovenes from the merger of Kingdom of Serbia with the provisional State of Slovenes, Croats and Serbs (which was formed from territories of the former Austria-Hungary), 

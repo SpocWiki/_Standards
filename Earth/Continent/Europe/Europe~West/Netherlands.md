@@ -1,7 +1,7 @@
 ---
 location:
-    - 51.9757
-    - 5.08828
+    - 52.1525
+    - 5.386944
 type: Country
 tags:
     - geo/Country
@@ -116,9 +116,11 @@ Sub-region_Name ::  [[Western Europe]]
 
 ```leaflet
 id: Netherlands
+coordinates: [[Netherlands]]
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 7
 geojsonFolder: ./Netherlands//
 markerFolder: ./Netherlands/
 ```

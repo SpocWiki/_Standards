@@ -34,8 +34,8 @@ A time period from 2800 to 2500 million years ago.
 #has_/label_/sl  :: neoarhaik
 #has_/label_/sv  :: neoarkeikum
 #has_/label_/zh  :: 新太古代
-#has_/time_/created/Ma :: -2800
-#has_/time_/destroyed/Ma :: -2500
+#has_/time_/started /Ma :: -2800
+#has_/time_/stopped /Ma :: -2500
 #has_/text_of_/color :: 0xF99BC1
 
 ## All Contents

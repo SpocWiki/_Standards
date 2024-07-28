@@ -30,8 +30,8 @@ A time period from 485.4 to 477.7 million years ago.
 #has_/label_/zh  :: 特马豆克期
 
 #has_/abbreviation :: o1
-#has_/time_/created/Ma :: -485.4 
-#has_/time_/destroyed/Ma :: -477.7 
+#has_/time_/started /Ma :: -485.4 
+#has_/time_/stopped /Ma :: -477.7 
 
     sh:order 141 
 

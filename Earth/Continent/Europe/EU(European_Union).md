@@ -41,7 +41,7 @@ const directoryName = path.dirname(dv.currentFilePath);
 dv.paragraph(directoryName)
 ```
 
-#has_/time_/created :: 1993-11-01 
+#has_/time_/started :: 1993-11-01 
 #has_/event_/created :: [[EU-Treaty_of_Maastricht]] 
 #has_/member_/count :: `$=dv.current().has_member.length` 
 Total Number of European Countries: `$=dv.pages().where(p => p.file.path.includes("/Europe") && p.type=='Country').limit(999).length` 

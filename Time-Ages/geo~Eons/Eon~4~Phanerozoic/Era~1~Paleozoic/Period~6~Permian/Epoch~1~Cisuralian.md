@@ -32,8 +32,8 @@ A time period from 298.9 to 273.01 million years ago.
 
 #has_/abbreviation :: P1
 
-#has_/time_/created/Ma :: -298.9 
-#has_/time_/destroyed/Ma :: -273.01 
+#has_/time_/started /Ma :: -298.9 
+#has_/time_/stopped /Ma :: -273.01 
 
     sh:order 90 
 

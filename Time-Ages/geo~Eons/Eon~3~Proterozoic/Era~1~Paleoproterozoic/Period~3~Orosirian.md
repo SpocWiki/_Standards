@@ -40,8 +40,8 @@ A time period from 2050 to 1800 million years ago.
 
 #has_/abbreviation :: PP3
 
-#has_/time_/created/Ma :: -2050
-#has_/time_/destroyed/Ma :: -1800
+#has_/time_/started /Ma :: -2050
+#has_/time_/stopped /Ma :: -1800
 
     sh:order 167
 

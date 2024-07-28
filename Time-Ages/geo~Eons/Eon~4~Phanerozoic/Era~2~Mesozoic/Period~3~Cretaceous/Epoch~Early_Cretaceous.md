@@ -34,8 +34,8 @@ A time period from 145.0 to 100.5 million years ago.
 
 #has_/abbreviation :: K1
 
-#has_/time_/created/Ma :: -145.0 
-#has_/time_/destroyed/Ma :: -100.5
+#has_/time_/started /Ma :: -145.0 
+#has_/time_/stopped /Ma :: -100.5
 
     sh:order 50 
 

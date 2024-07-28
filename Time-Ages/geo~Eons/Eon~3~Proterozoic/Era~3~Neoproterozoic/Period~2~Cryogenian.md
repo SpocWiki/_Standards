@@ -38,8 +38,8 @@ A time period from 720 to 635 million years ago.
 
 #has_/abbreviation :: NP2
 
-#has_/time_/created/Ma :: -720 
-#has_/time_/destroyed/Ma :: -635 
+#has_/time_/started /Ma :: -720 
+#has_/time_/stopped /Ma :: -635 
 
     sh:order 159 
 

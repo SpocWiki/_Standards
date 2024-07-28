@@ -1,5 +1,5 @@
 
-#has_/time_/created :: 2009-12-01 
+#has_/time_/started :: 2009-12-01 
 #has_/time_/incepted :: 2007-01-01 
 
 > The Treaty of Lisbon (initially known as the Reform Treaty) 
