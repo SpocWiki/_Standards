@@ -43,6 +43,9 @@ lang: en
 
 JSON-Linked Data 
 
+#is_/using :: [[../Knowledge/Languages/Data~Languages/Json-Format|Json-Format]] 
+
+
 #is_/similar_to :: [[YAML-LD]] 
 #has_/url_for_/best_practices:: https://w3c.github.io/json-ld-bp/ 
 #has_/url_for_/discussion :: https://json-ld.org/ 
