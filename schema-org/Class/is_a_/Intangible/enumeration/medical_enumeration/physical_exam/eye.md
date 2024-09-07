@@ -28,7 +28,6 @@ tags:
 
 aliases:
 - eye
-- eye
 - Eye
 - is_an_eye
 ---

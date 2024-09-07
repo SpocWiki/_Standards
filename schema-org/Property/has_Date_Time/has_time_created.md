@@ -43,6 +43,7 @@ Use it like this:
 
 Alternatively use the equivalent #created , because the is supported in [[../../../../Tasks/Tasks|Tasks]]: 
 #is_/similar_to :: #created 
+#is_/similar_to :: #has_/time_/started  
 
 The date on which the CreativeWork was created or the item was added to a DataFeed.
 

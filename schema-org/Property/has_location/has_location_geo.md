@@ -21,8 +21,6 @@ tags:
   - schema-org/Property/geo
 aliases:
   - geo
-  - geo
-  - geo
   - has_location_
 ---
 

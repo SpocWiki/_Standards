@@ -26,8 +26,6 @@ tags:
 
 aliases:
 - url
-- url
-- url
 - has_url_for_url
 ---
 

@@ -26,7 +26,6 @@ tags:
 
 aliases:
 - zoo
-- zoo
 - Zoo
 - is_a_zoo
 ---

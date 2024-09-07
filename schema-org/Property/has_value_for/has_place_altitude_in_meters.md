@@ -38,7 +38,7 @@ often used in Aviation to describe the vertical Position of [[Airplane]]s.
 
 Unlike [[has_place_longitude|longitude]] and [[has_place_latitude|latitude]] which are given in Degrees. 
 
-#is_/a_ :: [[../../../Mathematics/Geometry/Position-Vector|Position-Vector]] 
+#is_a_ :: [[../../../Mathematics/Geometry/Position-Vector|Position-Vector]] 
 
 
 #is_/similar_to :: [[has_place_elevation_in_meters]] 

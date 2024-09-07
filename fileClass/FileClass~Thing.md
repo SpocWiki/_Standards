@@ -11,7 +11,6 @@ tagNames:
 tags:
   - class/FileClass
   - class/Thing
-  - "#is_/a_/Thing"
   - class/Thing
 fields:
   - id: eVmlNP

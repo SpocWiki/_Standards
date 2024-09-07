@@ -26,8 +26,6 @@ tags:
 
 aliases:
 - sku
-- sku
-- sku
 - has_text_of_sku
 ---
 
