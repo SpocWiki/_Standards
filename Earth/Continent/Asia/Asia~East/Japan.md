@@ -1,39 +1,37 @@
 ---
 location:
-  - 36.8617
-  - 137.199
+    - 36.8617
+    - 137.199
 type: Country
 tags:
-  - geo/Country
-has_id_wikidata: Q17
+    - geo/Country
+has_id_wikidata: Q17 
 SpocWebEntityId: 26933
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
+source: 'https://datahub.io/core/country-codes'
+cssclasses: Country
 publish: true
 title: Japan
-linkTitle: 
-keywords: 
-layout: 
+linkTitle: null
+keywords: null
+layout: null
 draft: false
-publishDate: 
-expiryDate: 
+publishDate: null
+expiryDate: null
 aliases:
-  - Japan
-  - Japón
-  - Japon
-  - اليابان
-  - 日本
-  - Япония
-  - el Japón
-  - Japón (el)
-  - Japanese
+    - Japan
+    - Japón
+    - Japon
+    - اليابان
+    - 日本
+    - Япония
+    - el Japón
+    - Japón (el)
 Languages:
-  - ja
+    - ja
 icon: flag-jp
 ---
 

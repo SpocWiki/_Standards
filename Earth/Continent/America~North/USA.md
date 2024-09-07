@@ -1,20 +1,18 @@
 ---
 title: United States of America
 type: Country
-location:
-  - 39.2641
-  - -94.8153
+
+location: [39.2641,-94.8153]
 has_id_wikidata: Q30
 SpocWebEntityId: 27047
 isDeleted: false
 confidential: public
 tags:
-  - geo/Country
+- geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses:
-  - Country
+cssclasses: Country
 publish: true
 linkTitle: 
 keywords: 
@@ -23,11 +21,10 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - United States
-  - United States of America
 Languages:
-  - en-US
+- en-US
 icon: flag-us
+
 ---
 
 # [[USA]] 
@@ -58,8 +55,8 @@ into the Subfolder `USA` so this Link can be resolved: [[USA/ReadMe]]
 > nine Minor Outlying Islands, and 326 Indian reservations. 
 > 
 > The United States is the world's third-largest country by both land and total area. 
-> It shares land borders with [[Canada]] to its north and with [[../America~Central/Mexico|Mexico]] to its south 
-> and has maritime borders with the Bahamas, Cuba, [[../Europe/Europe~East/Russia|Russia]], and other nations. 
+> It shares land borders with Canada to its north and with Mexico to its south 
+> and has maritime borders with the Bahamas, Cuba, Russia, and other nations. 
 > 
 > With a population of over 333 million, it is the most populous country in the Americas 
 > and the third most populous in the world. 
