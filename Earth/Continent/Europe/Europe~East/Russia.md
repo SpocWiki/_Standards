@@ -60,12 +60,12 @@ Languages:
 icon: flag-ru
 ---
 
-# [[Russia]] 
+# [Russia](Russia.md) 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Russia 
 
-[[Russia/ReadMe]] 
+[Russia/ReadMe](Russia/ReadMe) 
 
 
 [	ISO4217-currency_alphabetic	 :: RUB ]
@@ -104,9 +104,9 @@ depending on the Provider
 [	UNTERM_Russian	 :: Российская Федерация ]
 [	UNTERM_Russian_Formal	 :: Российская Федерация ]
 
-Region_Name ::  [[Europe]] 
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Eastern Europe]] 
+Region_Name ::  [Europe](Europe.md) 
+Intermediate_Region_Name ::  [Russia](.md) 
+Sub-region_Name ::  [Eastern Europe](Eastern%20Europe) 
 
 [	Region	 :: 150 ]
 [	Intermediate_Region	 ::  ]
@@ -156,27 +156,27 @@ markerFolder: ./Russia////
 [name-de::Russland]
 [Area-Total::1.71E+07]
 [Area-Land::1.69958E+07]
-has_place_continent:: [[Europe]]  
+has_place_continent:: [Europe](Europe.md)  
 [VehicleCode::]
-Capital :: [[Moskwa]]  
-![[Coat_of_arms_of_Russia.svg|350]]
-![[Anthem-Russia.mp3]]
-![[Flag_of_Russia.svg|350]]
+Capital :: [Moskwa](Moskwa)  
+![350](Coat_of_arms_of_Russia.svg)
+![Anthem-Russia.mp3](Anthem-Russia.mp3)
+![350](Flag_of_Russia.svg)
 [Alcohol-l::15.8]
 [Language-Id::469]
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [place](Place.md) 
 [has_place_longitude::47.4574]
 [has_place_latitude::52.6418]
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~East/Russia.protect|Russia.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~East/Russia.private|Russia.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]] 
+- [Russia](../../../../../_Standards/Earth/Continent/Europe/Europe~East/Russia.md) 
+- [Russia.public](../../../../../_public/Earth/Continent/Europe/Europe~East/Russia.public) 
+- [Russia.internal](../../../../../_internal/Earth/Continent/Europe/Europe~East/Russia.internal) 
+- [Russia.protect](../../../../../_protect/Earth/Continent/Europe/Europe~East/Russia.protect) 
+- [Russia.private](../../../../../_private/Earth/Continent/Europe/Europe~East/Russia.private.md) 
+- [Russia.personal](../../../../../_personal/Earth/Continent/Europe/Europe~East/Russia.personal) 
+- [Russia.secret](../../../../../_secret/Earth/Continent/Europe/Europe~East/Russia.secret) 
 

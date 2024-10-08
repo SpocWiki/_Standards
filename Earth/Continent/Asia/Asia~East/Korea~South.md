@@ -13,6 +13,7 @@ aliases:
     - South-Korea
     - Korea-Republic
     - Südkorea
+    - South Korea 
 icon: flag-kr
 ---
 
