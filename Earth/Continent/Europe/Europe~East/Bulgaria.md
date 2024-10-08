@@ -37,11 +37,12 @@ icon: flag-bg
 
 # [[Bulgaria]] 
 
+Population :: shrank from 9mio in the 1990 down to 5mio in 2020. 
+
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Europe-Bulgaria 
 
 [[Bulgaria/ReadMe]] 
-
 
 [	ISO4217-currency_alphabetic	 :: BGN ]
 [	ISO4217-currency_name	 :: Bulgarian Lev ]

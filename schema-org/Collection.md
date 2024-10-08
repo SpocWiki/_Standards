@@ -25,6 +25,7 @@ aliases:
   - container
 ---
 # [[Collection]]
+
 #is_a_/class  . 
 #class/Collection is the Base-Class of all (mutable, finite, at most countable) collections with untyped [Items](../../../Collection/Item.md).
 It is the Object of the [[Collection/is_item_in|is_item_in]] Relation from the [[Collection/Item|Item]] to the  [[Collection]]
@@ -49,6 +50,88 @@ Tag Instances like this:
 [ #has_/sub_classes :: [ ProductCollection ] ]
 
 [ #has_/properties :: [ [], [[is_about]], [[has_abstract]], [[has_access_Mode]], [has_access_mode_sufficient](../../../Relation/has/has_access_mode_sufficient.md), accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, collectionSize, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
+
+## Heap Management with Collections 
+
+In C++ Collections the [[../../IT/Programming/Prog~Language/Prog~Functional/Prog~Rust/Rust~Lifetime|Rust~Lifetime]] Management/Ownership is 
+usually transferred to the Collection on adding items, 
+and resumed on removing them. 
+
+This includes Mutation, which can lead to corrupted Structures, violating e.g.
+- Sort Order for sorted Lists or sorted Heaps 
+- Hashcode for Dictionaries / Hashtables 
+- ... 
+
+[[Turbo-C++]] and [[Borland-C++]] Collections 
+define their own `theErrorObject` Singleton to avoid returning `null`. 
+The static `Zero` Reference points to this. 
+
+Operators don't need to be overwritten, 
+because the use virtual Member Methods like `isEqual`. 
+
+### virtual Functions of `object` 
+
+#### `uint isA()`  
+
+#### `char* nameOf()` 
+
+
+#### `bool isEqual(object that)` 
+
+returns 0 or 1 
+#### `int hashValue()` 
+
+The HashValue is a fast Proxy for the Value/Identity, that can/must be cached 
+and  allows to defer the more expensive application of `isEqual`. 
+
+### `bool isSortable()` 
+
+### `isAssociation()` 
+
+implies the existence of the Functions
+-  `key()` and
+-  `value()`  
+
+Associations and Dictionaries do NOT own these References, 
+to allow for multiple Indices on the same Set, they still require Immutability. 
+
+
+### `printOn(TextWriter )` 
+
+
+## Collection Hierarchy 
+
+### virtual Functions 
+
+#### `forEach(Action<T>)` 
+
+#### `firstThat(Func<T,bool>)` 
+
+#### `lastThat(Func<T,bool>)` 
+
+#### `printHeader(Writer)`,  `printSeparator(Writer)`,  `printTrailer(Writer)`, 
+
+#### 
+
+### Set => Dictionary => Bag = Dictionary{int}
+
+There is no Term for Dictionary{float}, but you could use `Accounts` or `Aggregates`. 
+For grouping Instances you use `Grouping`, 
+which maintains Lists with Instances that are in the same Group 
+
+### LinkedList and DoubleList 
+
+Allow for O(1) Insertion and Deletion 
+
+### Array and SortedArray 
+
+define the `[int]` Index Operator 
+
+### GetIterator() 
+
+Returns a new Iterator Instance, because you can run multiple concurrently. 
+Iterators allow the minimum Access to all elements of a Collection, no matter which Type. 
+
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/collection|collection]] 
