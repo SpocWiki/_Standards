@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ But typically it is an example [[../Collection/item_list|item_list]] with sub-se
 #is_/inverse_of  :: [[is_sub_set_of]]   
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sub_sets|has_sub_sets]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sub_sets.public|has_sub_sets.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sub_sets.internal|has_sub_sets.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sub_sets.protect|has_sub_sets.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sub_sets.private|has_sub_sets.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sub_sets.personal|has_sub_sets.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sub_sets.secret|has_sub_sets.secret]] 
+
+### [has_sub_sets](/_public/schema-org/Collection/has_sub_sets.md) 
+
+### [has_sub_sets.internal](/_internal/schema-org/Collection/has_sub_sets.internal.md) 
+
+### [has_sub_sets.protect](/_protect/schema-org/Collection/has_sub_sets.protect.md) 
+
+### [has_sub_sets.private](/_private/schema-org/Collection/has_sub_sets.private.md) 
+
+### [has_sub_sets.personal](/_personal/schema-org/Collection/has_sub_sets.personal.md) 
+
+### [has_sub_sets.secret](/_secret/schema-org/Collection/has_sub_sets.secret.md) 

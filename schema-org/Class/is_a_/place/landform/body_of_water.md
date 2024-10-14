@@ -45,10 +45,15 @@ A body of water, such as a sea, ocean, or lake.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/landform/body_of_water|body_of_water]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/place/landform/body_of_water.public|body_of_water.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/landform/body_of_water.internal|body_of_water.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/landform/body_of_water.protect|body_of_water.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/landform/body_of_water.private|body_of_water.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/landform/body_of_water.personal|body_of_water.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/landform/body_of_water.secret|body_of_water.secret]] 
+
+### [body_of_water](/_public/schema-org/Class/is_a_/place/landform/body_of_water.md) 
+
+### [body_of_water.internal](/_internal/schema-org/Class/is_a_/place/landform/body_of_water.internal.md) 
+
+### [body_of_water.protect](/_protect/schema-org/Class/is_a_/place/landform/body_of_water.protect.md) 
+
+### [body_of_water.private](/_private/schema-org/Class/is_a_/place/landform/body_of_water.private.md) 
+
+### [body_of_water.personal](/_personal/schema-org/Class/is_a_/place/landform/body_of_water.personal.md) 
+
+### [body_of_water.secret](/_secret/schema-org/Class/is_a_/place/landform/body_of_water.secret.md) 

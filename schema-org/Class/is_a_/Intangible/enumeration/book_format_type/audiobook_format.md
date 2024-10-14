@@ -45,10 +45,15 @@ Book format: Audiobook. This is an enumerated value for use with the bookFormat 
 [ #is_/enum_of :: [[../BookFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format|audiobook_format]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.public|audiobook_format.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.internal|audiobook_format.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.protect|audiobook_format.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.private|audiobook_format.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.personal|audiobook_format.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/book_format_type/audiobook_format.secret|audiobook_format.secret]] 
+
+### [audiobook_format](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.md) 
+
+### [audiobook_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.internal.md) 
+
+### [audiobook_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.protect.md) 
+
+### [audiobook_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.private.md) 
+
+### [audiobook_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.personal.md) 
+
+### [audiobook_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type/audiobook_format.secret.md) 

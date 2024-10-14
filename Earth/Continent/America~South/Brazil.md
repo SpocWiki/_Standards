@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -20.7333
     - -45.9467
@@ -153,9 +153,15 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 
 
 ## Confidential Links & Embeds: 
-- [[Brazil|Brazil]] 
-- [[../../../../_internal/Earth/Continent/America~South/Brazil.internal|Brazil.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Brazil.protect|Brazil.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Brazil.private|Brazil.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Brazil.personal|Brazil.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Brazil.secret|Brazil.secret]] 
+
+### [Brazil](/_public/Earth/Continent/America~South/Brazil.md) 
+
+### [Brazil.internal](/_internal/Earth/Continent/America~South/Brazil.internal.md) 
+
+### [Brazil.protect](/_protect/Earth/Continent/America~South/Brazil.protect.md) 
+
+### [Brazil.private](/_private/Earth/Continent/America~South/Brazil.private.md) 
+
+### [Brazil.personal](/_personal/Earth/Continent/America~South/Brazil.personal.md) 
+
+### [Brazil.secret](/_secret/Earth/Continent/America~South/Brazil.secret.md) 

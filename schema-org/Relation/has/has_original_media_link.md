@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: MediaObject, URL, WebPage )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_original_media_link|has_original_media_link]] 
-- [[../../../../../_public/schema-org/Relation/has/has_original_media_link.public|has_original_media_link.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_original_media_link.internal|has_original_media_link.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_original_media_link.protect|has_original_media_link.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_original_media_link.private|has_original_media_link.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_original_media_link.personal|has_original_media_link.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_original_media_link.secret|has_original_media_link.secret]] 
+
+### [has_original_media_link](/_public/schema-org/Relation/has/has_original_media_link.md) 
+
+### [has_original_media_link.internal](/_internal/schema-org/Relation/has/has_original_media_link.internal.md) 
+
+### [has_original_media_link.protect](/_protect/schema-org/Relation/has/has_original_media_link.protect.md) 
+
+### [has_original_media_link.private](/_private/schema-org/Relation/has/has_original_media_link.private.md) 
+
+### [has_original_media_link.personal](/_personal/schema-org/Relation/has/has_original_media_link.personal.md) 
+
+### [has_original_media_link.secret](/_secret/schema-org/Relation/has/has_original_media_link.secret.md) 

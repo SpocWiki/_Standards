@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Service )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_issued_through|is_issued_through]] 
-- [[../../../../../_public/schema-org/Relation/is/is_issued_through.public|is_issued_through.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_issued_through.internal|is_issued_through.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_issued_through.protect|is_issued_through.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_issued_through.private|is_issued_through.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_issued_through.personal|is_issued_through.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_issued_through.secret|is_issued_through.secret]] 
+
+### [is_issued_through](/_public/schema-org/Relation/is/is_issued_through.md) 
+
+### [is_issued_through.internal](/_internal/schema-org/Relation/is/is_issued_through.internal.md) 
+
+### [is_issued_through.protect](/_protect/schema-org/Relation/is/is_issued_through.protect.md) 
+
+### [is_issued_through.private](/_private/schema-org/Relation/is/is_issued_through.private.md) 
+
+### [is_issued_through.personal](/_personal/schema-org/Relation/is/is_issued_through.personal.md) 
+
+### [is_issued_through.secret](/_secret/schema-org/Relation/is/is_issued_through.secret.md) 

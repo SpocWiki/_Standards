@@ -1,4 +1,4 @@
----
+﻿---
 has_id_wikidata: Q405
 ---
 
@@ -65,3 +65,17 @@ has_id_wikidata: Q405
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Moon](/_public/Earth/Moon.md) 
+
+### [Moon.internal](/_internal/Earth/Moon.internal.md) 
+
+### [Moon.protect](/_protect/Earth/Moon.protect.md) 
+
+### [Moon.private](/_private/Earth/Moon.private.md) 
+
+### [Moon.personal](/_personal/Earth/Moon.personal.md) 
+
+### [Moon.secret](/_secret/Earth/Moon.secret.md) 

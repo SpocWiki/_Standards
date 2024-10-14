@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Muscle )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_nerve_motor|has_nerve_motor]] 
-- [[../../../../../_public/schema-org/Relation/has/has_nerve_motor.public|has_nerve_motor.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_nerve_motor.internal|has_nerve_motor.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_nerve_motor.protect|has_nerve_motor.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_nerve_motor.private|has_nerve_motor.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_nerve_motor.personal|has_nerve_motor.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_nerve_motor.secret|has_nerve_motor.secret]] 
+
+### [has_nerve_motor](/_public/schema-org/Relation/has/has_nerve_motor.md) 
+
+### [has_nerve_motor.internal](/_internal/schema-org/Relation/has/has_nerve_motor.internal.md) 
+
+### [has_nerve_motor.protect](/_protect/schema-org/Relation/has/has_nerve_motor.protect.md) 
+
+### [has_nerve_motor.private](/_private/schema-org/Relation/has/has_nerve_motor.private.md) 
+
+### [has_nerve_motor.personal](/_personal/schema-org/Relation/has/has_nerve_motor.personal.md) 
+
+### [has_nerve_motor.secret](/_secret/schema-org/Relation/has/has_nerve_motor.secret.md) 

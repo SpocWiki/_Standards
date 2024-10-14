@@ -1,4 +1,4 @@
----
+﻿---
 location: [0.333333,6.73333]
 type: Country
 tags:
@@ -50,9 +50,15 @@ has_place_continent:: [[Africa]]
 
 
 ## Confidential Links & Embeds: 
-- [[Sao_Tome_and_Principe|Sao_Tome_and_Principe]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.internal|Sao_Tome_And_Principe.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.protect|Sao_Tome_And_Principe.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.private|Sao_Tome_And_Principe.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.personal|Sao_Tome_And_Principe.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_And_Principe.secret|Sao_Tome_And_Principe.secret]] 
+
+### [Sao_Tome_and_Principe](/_public/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.md) 
+
+### [Sao_Tome_and_Principe.internal](/_internal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.internal.md) 
+
+### [Sao_Tome_and_Principe.protect](/_protect/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.protect.md) 
+
+### [Sao_Tome_and_Principe.private](/_private/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.private.md) 
+
+### [Sao_Tome_and_Principe.personal](/_personal/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.personal.md) 
+
+### [Sao_Tome_and_Principe.secret](/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret.md) 

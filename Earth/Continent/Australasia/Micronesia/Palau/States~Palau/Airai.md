@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.39 , 134.56 ] 
 type: geo-Region
 title: Airai
@@ -40,11 +40,15 @@ markerFolder: ./Airai/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Airai|Airai]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Airai.public|Airai.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Airai.internal|Airai.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Airai.protect|Airai.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Airai.private|Airai.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Airai.personal|Airai.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Airai.secret|Airai.secret]] 
 
+### [Airai](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.md) 
+
+### [Airai.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.internal.md) 
+
+### [Airai.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.protect.md) 
+
+### [Airai.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.private.md) 
+
+### [Airai.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.personal.md) 
+
+### [Airai.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Airai.secret.md) 

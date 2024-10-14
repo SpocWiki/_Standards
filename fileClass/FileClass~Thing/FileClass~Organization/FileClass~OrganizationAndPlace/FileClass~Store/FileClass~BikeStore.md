@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -31,3 +31,17 @@ A bike store.
 
 ## Properties:
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BikeStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.md) 
+
+### [FileClass~BikeStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.internal.md) 
+
+### [FileClass~BikeStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.protect.md) 
+
+### [FileClass~BikeStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.private.md) 
+
+### [FileClass~BikeStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.personal.md) 
+
+### [FileClass~BikeStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~BikeStore.secret.md) 

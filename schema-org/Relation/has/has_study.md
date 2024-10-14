@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalStudy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_study|has_study]] 
-- [[../../../../../_public/schema-org/Relation/has/has_study.public|has_study.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_study.internal|has_study.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_study.protect|has_study.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_study.private|has_study.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_study.personal|has_study.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_study.secret|has_study.secret]] 
+
+### [has_study](/_public/schema-org/Relation/has/has_study.md) 
+
+### [has_study.internal](/_internal/schema-org/Relation/has/has_study.internal.md) 
+
+### [has_study.protect](/_protect/schema-org/Relation/has/has_study.protect.md) 
+
+### [has_study.private](/_private/schema-org/Relation/has/has_study.private.md) 
+
+### [has_study.personal](/_personal/schema-org/Relation/has/has_study.personal.md) 
+
+### [has_study.secret](/_secret/schema-org/Relation/has/has_study.secret.md) 

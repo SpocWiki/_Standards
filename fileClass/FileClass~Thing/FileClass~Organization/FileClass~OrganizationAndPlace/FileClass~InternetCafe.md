@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An internet cafe.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~InternetCafe](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.md) 
+
+### [FileClass~InternetCafe.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.internal.md) 
+
+### [FileClass~InternetCafe.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.protect.md) 
+
+### [FileClass~InternetCafe.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.private.md) 
+
+### [FileClass~InternetCafe.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.personal.md) 
+
+### [FileClass~InternetCafe.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~InternetCafe.secret.md) 

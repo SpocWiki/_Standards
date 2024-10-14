@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_epidemiology|has_epidemiology]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_epidemiology.public|has_epidemiology.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_epidemiology.internal|has_epidemiology.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_epidemiology.protect|has_epidemiology.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_epidemiology.private|has_epidemiology.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_epidemiology.personal|has_epidemiology.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_epidemiology.secret|has_epidemiology.secret]] 
+
+### [has_epidemiology](/_public/schema-org/Property/Texts/has_epidemiology.md) 
+
+### [has_epidemiology.internal](/_internal/schema-org/Property/Texts/has_epidemiology.internal.md) 
+
+### [has_epidemiology.protect](/_protect/schema-org/Property/Texts/has_epidemiology.protect.md) 
+
+### [has_epidemiology.private](/_private/schema-org/Property/Texts/has_epidemiology.private.md) 
+
+### [has_epidemiology.personal](/_personal/schema-org/Property/Texts/has_epidemiology.personal.md) 
+
+### [has_epidemiology.secret](/_secret/schema-org/Property/Texts/has_epidemiology.secret.md) 

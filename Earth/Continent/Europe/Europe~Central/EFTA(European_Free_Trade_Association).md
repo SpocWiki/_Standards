@@ -1,4 +1,4 @@
----
+﻿---
 has_member:
   - "[[../Europe~North/Norway|Norway]]"
   - "[[Switzerland]]"
@@ -55,3 +55,17 @@ Its members in 2024 are `$=dv.current().has_member`.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/European%20Free%20Trade%20Association)
 
+
+## Confidential Links & Embeds: 
+
+### [EFTA(European_Free_Trade_Association)](/_public/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).md) 
+
+### [EFTA(European_Free_Trade_Association).internal](/_internal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).internal.md) 
+
+### [EFTA(European_Free_Trade_Association).protect](/_protect/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).protect.md) 
+
+### [EFTA(European_Free_Trade_Association).private](/_private/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).private.md) 
+
+### [EFTA(European_Free_Trade_Association).personal](/_personal/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).personal.md) 
+
+### [EFTA(European_Free_Trade_Association).secret](/_secret/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).secret.md) 

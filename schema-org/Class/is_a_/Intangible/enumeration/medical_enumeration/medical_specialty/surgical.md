@@ -45,10 +45,15 @@ A specific branch of medical science that pertains to treating diseases, injurie
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical|surgical]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.public|surgical.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.internal|surgical.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.protect|surgical.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.private|surgical.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.personal|surgical.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/surgical.secret|surgical.secret]] 
+
+### [surgical](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.md) 
+
+### [surgical.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.internal.md) 
+
+### [surgical.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.protect.md) 
+
+### [surgical.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.private.md) 
+
+### [surgical.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.personal.md) 
+
+### [surgical.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/surgical.secret.md) 

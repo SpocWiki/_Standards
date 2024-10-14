@@ -1,4 +1,4 @@
----
+﻿---
 location: [5.25,117]
 type: Country
 tags:
@@ -37,10 +37,15 @@ has_place_continent:: [[Asia]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Asia/Sabah|Sabah]] 
-- [[../../../../_public/Earth/Continent/Asia/Sabah.public|Sabah.public]] 
-- [[../../../../_internal/Earth/Continent/Asia/Sabah.internal|Sabah.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/Sabah.protect|Sabah.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/Sabah.private|Sabah.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/Sabah.personal|Sabah.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/Sabah.secret|Sabah.secret]] 
+
+### [Sabah](/_public/Earth/Continent/Asia/Sabah.md) 
+
+### [Sabah.internal](/_internal/Earth/Continent/Asia/Sabah.internal.md) 
+
+### [Sabah.protect](/_protect/Earth/Continent/Asia/Sabah.protect.md) 
+
+### [Sabah.private](/_private/Earth/Continent/Asia/Sabah.private.md) 
+
+### [Sabah.personal](/_personal/Earth/Continent/Asia/Sabah.personal.md) 
+
+### [Sabah.secret](/_secret/Earth/Continent/Asia/Sabah.secret.md) 

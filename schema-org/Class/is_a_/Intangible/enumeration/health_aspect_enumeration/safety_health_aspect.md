@@ -47,10 +47,15 @@ Content about the safety-related aspects of a health topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/safety_health_aspect|safety_health_aspect]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/safety_health_aspect.public|safety_health_aspect.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/safety_health_aspect.internal|safety_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/safety_health_aspect.protect|safety_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/safety_health_aspect.private|safety_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/safety_health_aspect.personal|safety_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/safety_health_aspect.secret|safety_health_aspect.secret]] 
+
+### [safety_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/safety_health_aspect.md) 
+
+### [safety_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/safety_health_aspect.internal.md) 
+
+### [safety_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/safety_health_aspect.protect.md) 
+
+### [safety_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/safety_health_aspect.private.md) 
+
+### [safety_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/safety_health_aspect.personal.md) 
+
+### [safety_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/safety_health_aspect.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MapCategoryType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_map_type|has_map_type]] 
-- [[../../../../../_public/schema-org/Relation/has/has_map_type.public|has_map_type.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_map_type.internal|has_map_type.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_map_type.protect|has_map_type.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_map_type.private|has_map_type.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_map_type.personal|has_map_type.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_map_type.secret|has_map_type.secret]] 
+
+### [has_map_type](/_public/schema-org/Relation/has/has_map_type.md) 
+
+### [has_map_type.internal](/_internal/schema-org/Relation/has/has_map_type.internal.md) 
+
+### [has_map_type.protect](/_protect/schema-org/Relation/has/has_map_type.protect.md) 
+
+### [has_map_type.private](/_private/schema-org/Relation/has/has_map_type.private.md) 
+
+### [has_map_type.personal](/_personal/schema-org/Relation/has/has_map_type.personal.md) 
+
+### [has_map_type.secret](/_secret/schema-org/Relation/has/has_map_type.secret.md) 

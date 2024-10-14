@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -62,3 +62,17 @@ Link to the page containing an original version of the content, or directly to a
 OriginalMediaLink:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MediaObject')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MediaReview](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~MediaReview.md) 
+
+### [FileClass~MediaReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~MediaReview.internal.md) 
+
+### [FileClass~MediaReview.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~MediaReview.protect.md) 
+
+### [FileClass~MediaReview.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~MediaReview.private.md) 
+
+### [FileClass~MediaReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~MediaReview.personal.md) 
+
+### [FileClass~MediaReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~MediaReview.secret.md) 

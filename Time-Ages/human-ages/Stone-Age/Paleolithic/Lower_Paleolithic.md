@@ -1,4 +1,4 @@
-# [[Lower_Paleolithic]] 
+﻿# [[Lower_Paleolithic]] 
 
 #is_a_/time_/Culture 
 
@@ -12,3 +12,17 @@
 #has_/time_/started /ka :: -3300  
 #has_/time_/stopped /ka :: -300  
 
+
+## Confidential Links & Embeds: 
+
+### [Lower_Paleolithic](/_public/Time-Ages/human-ages/Stone-Age/Paleolithic/Lower_Paleolithic.md) 
+
+### [Lower_Paleolithic.internal](/_internal/Time-Ages/human-ages/Stone-Age/Paleolithic/Lower_Paleolithic.internal.md) 
+
+### [Lower_Paleolithic.protect](/_protect/Time-Ages/human-ages/Stone-Age/Paleolithic/Lower_Paleolithic.protect.md) 
+
+### [Lower_Paleolithic.private](/_private/Time-Ages/human-ages/Stone-Age/Paleolithic/Lower_Paleolithic.private.md) 
+
+### [Lower_Paleolithic.personal](/_personal/Time-Ages/human-ages/Stone-Age/Paleolithic/Lower_Paleolithic.personal.md) 
+
+### [Lower_Paleolithic.secret](/_secret/Time-Ages/human-ages/Stone-Age/Paleolithic/Lower_Paleolithic.secret.md) 

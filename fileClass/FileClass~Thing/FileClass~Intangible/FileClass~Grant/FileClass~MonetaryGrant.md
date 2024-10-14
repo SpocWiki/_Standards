@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ The amount of money.
 Amount:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MonetaryGrant](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.md) 
+
+### [FileClass~MonetaryGrant.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.internal.md) 
+
+### [FileClass~MonetaryGrant.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.protect.md) 
+
+### [FileClass~MonetaryGrant.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.private.md) 
+
+### [FileClass~MonetaryGrant.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.personal.md) 
+
+### [FileClass~MonetaryGrant.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Grant/FileClass~MonetaryGrant.secret.md) 

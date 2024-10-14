@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_items_in_collection|has_number_of_items_in_collection]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_items_in_collection.public|has_number_of_items_in_collection.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_items_in_collection.internal|has_number_of_items_in_collection.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_items_in_collection.protect|has_number_of_items_in_collection.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_items_in_collection.private|has_number_of_items_in_collection.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_items_in_collection.personal|has_number_of_items_in_collection.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_items_in_collection.secret|has_number_of_items_in_collection.secret]] 
+
+### [has_number_of_items_in_collection](/_public/schema-org/Property/has_number_of/has_number_of_items_in_collection.md) 
+
+### [has_number_of_items_in_collection.internal](/_internal/schema-org/Property/has_number_of/has_number_of_items_in_collection.internal.md) 
+
+### [has_number_of_items_in_collection.protect](/_protect/schema-org/Property/has_number_of/has_number_of_items_in_collection.protect.md) 
+
+### [has_number_of_items_in_collection.private](/_private/schema-org/Property/has_number_of/has_number_of_items_in_collection.private.md) 
+
+### [has_number_of_items_in_collection.personal](/_personal/schema-org/Property/has_number_of/has_number_of_items_in_collection.personal.md) 
+
+### [has_number_of_items_in_collection.secret](/_secret/schema-org/Property/has_number_of/has_number_of_items_in_collection.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_connected_to|is_connected_to]] 
-- [[../../../../../_public/schema-org/Relation/is/is_connected_to.public|is_connected_to.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_connected_to.internal|is_connected_to.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_connected_to.protect|is_connected_to.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_connected_to.private|is_connected_to.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_connected_to.personal|is_connected_to.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_connected_to.secret|is_connected_to.secret]] 
+
+### [is_connected_to](/_public/schema-org/Relation/is/is_connected_to.md) 
+
+### [is_connected_to.internal](/_internal/schema-org/Relation/is/is_connected_to.internal.md) 
+
+### [is_connected_to.protect](/_protect/schema-org/Relation/is/is_connected_to.protect.md) 
+
+### [is_connected_to.private](/_private/schema-org/Relation/is/is_connected_to.private.md) 
+
+### [is_connected_to.personal](/_personal/schema-org/Relation/is/is_connected_to.personal.md) 
+
+### [is_connected_to.secret](/_secret/schema-org/Relation/is/is_connected_to.secret.md) 

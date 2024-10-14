@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 0.313611
 - 32.5811
@@ -145,9 +145,15 @@ Capital :: [[Kampala]]
 
 
 ## Confidential Links & Embeds: 
-- [[Uganda|Uganda]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Uganda.internal|Uganda.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Uganda.protect|Uganda.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Uganda.private|Uganda.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Uganda.personal|Uganda.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret|Uganda.secret]] 
+
+### [Uganda](/_public/Earth/Continent/Africa/Africa~Central/Uganda.md) 
+
+### [Uganda.internal](/_internal/Earth/Continent/Africa/Africa~Central/Uganda.internal.md) 
+
+### [Uganda.protect](/_protect/Earth/Continent/Africa/Africa~Central/Uganda.protect.md) 
+
+### [Uganda.private](/_private/Earth/Continent/Africa/Africa~Central/Uganda.private.md) 
+
+### [Uganda.personal](/_personal/Earth/Continent/Africa/Africa~Central/Uganda.personal.md) 
+
+### [Uganda.secret](/_secret/Earth/Continent/Africa/Africa~Central/Uganda.secret.md) 

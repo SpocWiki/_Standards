@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -57,10 +57,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/_Date_Time-Template|_Date_Time-Template]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/_Date_Time-Template.public|_Date_Time-Template.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/_Date_Time-Template.internal|_Date_Time-Template.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/_Date_Time-Template.protect|_Date_Time-Template.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/_Date_Time-Template.private|_Date_Time-Template.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/_Date_Time-Template.personal|_Date_Time-Template.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/_Date_Time-Template.secret|_Date_Time-Template.secret]] 
+
+### [_Date_Time-Template](/_public/schema-org/Property/has_Date_Time/_Date_Time-Template.md) 
+
+### [_Date_Time-Template.internal](/_internal/schema-org/Property/has_Date_Time/_Date_Time-Template.internal.md) 
+
+### [_Date_Time-Template.protect](/_protect/schema-org/Property/has_Date_Time/_Date_Time-Template.protect.md) 
+
+### [_Date_Time-Template.private](/_private/schema-org/Property/has_Date_Time/_Date_Time-Template.private.md) 
+
+### [_Date_Time-Template.personal](/_personal/schema-org/Property/has_Date_Time/_Date_Time-Template.personal.md) 
+
+### [_Date_Time-Template.secret](/_secret/schema-org/Property/has_Date_Time/_Date_Time-Template.secret.md) 

@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~1~Cisuralian]] 
 
 #is_a_/time_/Epoch 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~1~Cisuralian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian.md) 
+
+### [Epoch~1~Cisuralian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian.internal.md) 
+
+### [Epoch~1~Cisuralian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian.protect.md) 
+
+### [Epoch~1~Cisuralian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian.private.md) 
+
+### [Epoch~1~Cisuralian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian.personal.md) 
+
+### [Epoch~1~Cisuralian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian.secret.md) 

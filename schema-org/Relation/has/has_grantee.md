@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Audience, ContactPoint, Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_grantee|has_grantee]] 
-- [[../../../../../_public/schema-org/Relation/has/has_grantee.public|has_grantee.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_grantee.internal|has_grantee.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_grantee.protect|has_grantee.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_grantee.private|has_grantee.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_grantee.personal|has_grantee.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_grantee.secret|has_grantee.secret]] 
+
+### [has_grantee](/_public/schema-org/Relation/has/has_grantee.md) 
+
+### [has_grantee.internal](/_internal/schema-org/Relation/has/has_grantee.internal.md) 
+
+### [has_grantee.protect](/_protect/schema-org/Relation/has/has_grantee.protect.md) 
+
+### [has_grantee.private](/_private/schema-org/Relation/has/has_grantee.private.md) 
+
+### [has_grantee.personal](/_personal/schema-org/Relation/has/has_grantee.personal.md) 
+
+### [has_grantee.secret](/_secret/schema-org/Relation/has/has_grantee.secret.md) 

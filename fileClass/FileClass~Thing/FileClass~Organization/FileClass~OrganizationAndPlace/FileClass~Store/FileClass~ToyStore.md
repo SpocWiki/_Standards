@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A toy store.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ToyStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.md) 
+
+### [FileClass~ToyStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.internal.md) 
+
+### [FileClass~ToyStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.protect.md) 
+
+### [FileClass~ToyStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.private.md) 
+
+### [FileClass~ToyStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.personal.md) 
+
+### [FileClass~ToyStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~ToyStore.secret.md) 

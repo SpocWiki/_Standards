@@ -1,4 +1,4 @@
----
+﻿---
 icon: flag-un
 ---
 
@@ -30,3 +30,17 @@ icon: flag-un
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations)
 
 
+
+## Confidential Links & Embeds: 
+
+### [UN(United_Nations)](/_public/UN(United_Nations).md) 
+
+### [UN(United_Nations).internal](/_internal/UN(United_Nations).internal.md) 
+
+### [UN(United_Nations).protect](/_protect/UN(United_Nations).protect.md) 
+
+### [UN(United_Nations).private](/_private/UN(United_Nations).private.md) 
+
+### [UN(United_Nations).personal](/_personal/UN(United_Nations).personal.md) 
+
+### [UN(United_Nations).secret](/_secret/UN(United_Nations).secret.md) 

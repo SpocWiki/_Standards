@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: workFeatured ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_work_presented|has_work_presented]] 
-- [[../../../../../_public/schema-org/Relation/has/has_work_presented.public|has_work_presented.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_work_presented.internal|has_work_presented.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_work_presented.protect|has_work_presented.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_work_presented.private|has_work_presented.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_work_presented.personal|has_work_presented.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_work_presented.secret|has_work_presented.secret]] 
+
+### [has_work_presented](/_public/schema-org/Relation/has/has_work_presented.md) 
+
+### [has_work_presented.internal](/_internal/schema-org/Relation/has/has_work_presented.internal.md) 
+
+### [has_work_presented.protect](/_protect/schema-org/Relation/has/has_work_presented.protect.md) 
+
+### [has_work_presented.private](/_private/schema-org/Relation/has/has_work_presented.private.md) 
+
+### [has_work_presented.personal](/_personal/schema-org/Relation/has/has_work_presented.personal.md) 
+
+### [has_work_presented.secret](/_secret/schema-org/Relation/has/has_work_presented.secret.md) 

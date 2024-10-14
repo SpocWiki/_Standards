@@ -45,10 +45,15 @@ A media episode (e.g. TV, radio, video game) which can be part of a series or se
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, actor, actors, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, director, directors, disambiguatingDescription, discussionUrl, duration, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, episodeNumber, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, musicBy, name, offers, partOfSeason, partOfSeries, pattern, position, potentialAction, producer, productionCompany, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, trailer, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/episode|episode]] 
-- [[../../../../../_public/schema-org/Class/is_a_/creative_work/episode.public|episode.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/episode.internal|episode.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/episode.protect|episode.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/episode.private|episode.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/episode.personal|episode.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/episode.secret|episode.secret]] 
+
+### [episode](/_public/schema-org/Class/is_a_/creative_work/episode.md) 
+
+### [episode.internal](/_internal/schema-org/Class/is_a_/creative_work/episode.internal.md) 
+
+### [episode.protect](/_protect/schema-org/Class/is_a_/creative_work/episode.protect.md) 
+
+### [episode.private](/_private/schema-org/Class/is_a_/creative_work/episode.private.md) 
+
+### [episode.personal](/_personal/schema-org/Class/is_a_/creative_work/episode.personal.md) 
+
+### [episode.secret](/_secret/schema-org/Class/is_a_/creative_work/episode.secret.md) 

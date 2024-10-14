@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ legislationJurisdiction ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_jurisdiction|has_jurisdiction]] 
-- [[../../../../../_public/schema-org/Relation/has/has_jurisdiction.public|has_jurisdiction.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_jurisdiction.internal|has_jurisdiction.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_jurisdiction.protect|has_jurisdiction.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_jurisdiction.private|has_jurisdiction.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_jurisdiction.personal|has_jurisdiction.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_jurisdiction.secret|has_jurisdiction.secret]] 
+
+### [has_jurisdiction](/_public/schema-org/Relation/has/has_jurisdiction.md) 
+
+### [has_jurisdiction.internal](/_internal/schema-org/Relation/has/has_jurisdiction.internal.md) 
+
+### [has_jurisdiction.protect](/_protect/schema-org/Relation/has/has_jurisdiction.protect.md) 
+
+### [has_jurisdiction.private](/_private/schema-org/Relation/has/has_jurisdiction.private.md) 
+
+### [has_jurisdiction.personal](/_personal/schema-org/Relation/has/has_jurisdiction.personal.md) 
+
+### [has_jurisdiction.secret](/_secret/schema-org/Relation/has/has_jurisdiction.secret.md) 

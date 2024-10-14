@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 3.17
     - 101.7
@@ -152,9 +152,15 @@ Capital :: [[Kuala_Lumpur]]
 
 
 ## Confidential Links & Embeds: 
-- [[Malaysia|Malaysia]]  
-- [[../../../../_internal/Earth/Continent/Oceania/Malaysia.internal|Malaysia.internal]]  
-- [[../../../../_protect/Earth/Continent/Oceania/Malaysia.protect|Malaysia.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Malaysia.private|Malaysia.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Malaysia.personal|Malaysia.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Malaysia.secret|Malaysia.secret]] 
+
+### [Malaysia](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.md) 
+
+### [Malaysia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.internal.md) 
+
+### [Malaysia.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.protect.md) 
+
+### [Malaysia.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.private.md) 
+
+### [Malaysia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.personal.md) 
+
+### [Malaysia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Malaysia.secret.md) 

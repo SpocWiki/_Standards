@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_overdosage|has_overdosage]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_overdosage.public|has_overdosage.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_overdosage.internal|has_overdosage.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_overdosage.protect|has_overdosage.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_overdosage.private|has_overdosage.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_overdosage.personal|has_overdosage.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_overdosage.secret|has_overdosage.secret]] 
+
+### [has_overdosage](/_public/schema-org/Property/Texts/has_overdosage.md) 
+
+### [has_overdosage.internal](/_internal/schema-org/Property/Texts/has_overdosage.internal.md) 
+
+### [has_overdosage.protect](/_protect/schema-org/Property/Texts/has_overdosage.protect.md) 
+
+### [has_overdosage.private](/_private/schema-org/Property/Texts/has_overdosage.private.md) 
+
+### [has_overdosage.personal](/_personal/schema-org/Property/Texts/has_overdosage.personal.md) 
+
+### [has_overdosage.secret](/_secret/schema-org/Property/Texts/has_overdosage.secret.md) 

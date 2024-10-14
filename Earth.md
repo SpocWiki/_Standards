@@ -1,4 +1,4 @@
----
+﻿---
 has_id_wikidata: Q2 
 icon: earth_americas
 aliases:
@@ -204,7 +204,7 @@ Moon-Lagrange-Points: 61,500 kilometers from the Center of the Moon and 60° apa
 
 Earth ecliptic Plane is inclined by 23.43472° (23.5°) which results in the seasons 
 between northern and southern 2609 km zum Äquator
-between [[../geo/Continent/Asia/Asia~South/India|India]] and [[../geo/Continent/Australasia/Australia|Australia]] resp. [[../geo/Continent/America~Central|America~Central]] and [[../geo/Continent/America~South/Brazil|Brazil]] 
+between [[../Earth/Continent/Asia/Asia~South/India|India]] and [[../Earth/Continent/Australasia/Australia|Australia]] resp. [[../Earth/Continent/America~Central|America~Central]] and [[../Earth/Continent/America~South/Brazil|Brazil]] 
 
 Due to [[Precession]] the Location of the Equinoxe moves by a few Meters every year 
 with a Period of 28000 years. 
@@ -226,3 +226,17 @@ col: 2
 briefMax: 128
 noteOnly: true
 ```
+
+## Confidential Links & Embeds: 
+
+### [Earth](/_public/Earth.md) 
+
+### [Earth.internal](/_internal/Earth.internal.md) 
+
+### [Earth.protect](/_protect/Earth.protect.md) 
+
+### [Earth.private](/_private/Earth.private.md) 
+
+### [Earth.personal](/_personal/Earth.personal.md) 
+
+### [Earth.secret](/_secret/Earth.secret.md) 

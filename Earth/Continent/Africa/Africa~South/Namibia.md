@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -22.57
 - 17.1
@@ -145,9 +145,15 @@ Capital :: [[Windhoek]]
 
 
 ## Confidential Links & Embeds: 
-- [[Namibia|Namibia]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~South/Namibia.internal|Namibia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~South/Namibia.protect|Namibia.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~South/Namibia.private|Namibia.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~South/Namibia.personal|Namibia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~South/Namibia.secret|Namibia.secret]] 
+
+### [Namibia](/_public/Earth/Continent/Africa/Africa~South/Namibia.md) 
+
+### [Namibia.internal](/_internal/Earth/Continent/Africa/Africa~South/Namibia.internal.md) 
+
+### [Namibia.protect](/_protect/Earth/Continent/Africa/Africa~South/Namibia.protect.md) 
+
+### [Namibia.private](/_private/Earth/Continent/Africa/Africa~South/Namibia.private.md) 
+
+### [Namibia.personal](/_personal/Earth/Continent/Africa/Africa~South/Namibia.personal.md) 
+
+### [Namibia.secret](/_secret/Earth/Continent/Africa/Africa~South/Namibia.secret.md) 

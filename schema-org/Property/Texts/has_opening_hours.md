@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -54,10 +54,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_opening_hours|has_opening_hours]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_opening_hours.public|has_opening_hours.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_opening_hours.internal|has_opening_hours.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_opening_hours.protect|has_opening_hours.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_opening_hours.private|has_opening_hours.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_opening_hours.personal|has_opening_hours.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_opening_hours.secret|has_opening_hours.secret]] 
+
+### [has_opening_hours](/_public/schema-org/Property/Texts/has_opening_hours.md) 
+
+### [has_opening_hours.internal](/_internal/schema-org/Property/Texts/has_opening_hours.internal.md) 
+
+### [has_opening_hours.protect](/_protect/schema-org/Property/Texts/has_opening_hours.protect.md) 
+
+### [has_opening_hours.private](/_private/schema-org/Property/Texts/has_opening_hours.private.md) 
+
+### [has_opening_hours.personal](/_personal/schema-org/Property/Texts/has_opening_hours.personal.md) 
+
+### [has_opening_hours.secret](/_secret/schema-org/Property/Texts/has_opening_hours.secret.md) 

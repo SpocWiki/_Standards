@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: releaseOf ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_album_release|has_album_release]] 
-- [[../../../../../_public/schema-org/Relation/has/has_album_release.public|has_album_release.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_album_release.internal|has_album_release.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_album_release.protect|has_album_release.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_album_release.private|has_album_release.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_album_release.personal|has_album_release.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_album_release.secret|has_album_release.secret]] 
+
+### [has_album_release](/_public/schema-org/Relation/has/has_album_release.md) 
+
+### [has_album_release.internal](/_internal/schema-org/Relation/has/has_album_release.internal.md) 
+
+### [has_album_release.protect](/_protect/schema-org/Relation/has/has_album_release.protect.md) 
+
+### [has_album_release.private](/_private/schema-org/Relation/has/has_album_release.private.md) 
+
+### [has_album_release.personal](/_personal/schema-org/Relation/has/has_album_release.personal.md) 
+
+### [has_album_release.secret](/_secret/schema-org/Relation/has/has_album_release.secret.md) 

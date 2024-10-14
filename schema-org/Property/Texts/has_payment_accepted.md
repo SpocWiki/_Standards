@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_payment_accepted|has_payment_accepted]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_payment_accepted.public|has_payment_accepted.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_payment_accepted.internal|has_payment_accepted.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_payment_accepted.protect|has_payment_accepted.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_payment_accepted.private|has_payment_accepted.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_payment_accepted.personal|has_payment_accepted.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_payment_accepted.secret|has_payment_accepted.secret]] 
+
+### [has_payment_accepted](/_public/schema-org/Property/Texts/has_payment_accepted.md) 
+
+### [has_payment_accepted.internal](/_internal/schema-org/Property/Texts/has_payment_accepted.internal.md) 
+
+### [has_payment_accepted.protect](/_protect/schema-org/Property/Texts/has_payment_accepted.protect.md) 
+
+### [has_payment_accepted.private](/_private/schema-org/Property/Texts/has_payment_accepted.private.md) 
+
+### [has_payment_accepted.personal](/_personal/schema-org/Property/Texts/has_payment_accepted.personal.md) 
+
+### [has_payment_accepted.secret](/_secret/schema-org/Property/Texts/has_payment_accepted.secret.md) 

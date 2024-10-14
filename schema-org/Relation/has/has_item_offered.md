@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: offers ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_item_offered|has_item_offered]] 
-- [[../../../../../_public/schema-org/Relation/has/has_item_offered.public|has_item_offered.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_item_offered.internal|has_item_offered.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_item_offered.protect|has_item_offered.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_item_offered.private|has_item_offered.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_item_offered.personal|has_item_offered.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_item_offered.secret|has_item_offered.secret]] 
+
+### [has_item_offered](/_public/schema-org/Relation/has/has_item_offered.md) 
+
+### [has_item_offered.internal](/_internal/schema-org/Relation/has/has_item_offered.internal.md) 
+
+### [has_item_offered.protect](/_protect/schema-org/Relation/has/has_item_offered.protect.md) 
+
+### [has_item_offered.private](/_private/schema-org/Relation/has/has_item_offered.private.md) 
+
+### [has_item_offered.personal](/_personal/schema-org/Relation/has/has_item_offered.personal.md) 
+
+### [has_item_offered.secret](/_secret/schema-org/Relation/has/has_item_offered.secret.md) 

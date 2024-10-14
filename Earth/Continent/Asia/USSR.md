@@ -1,4 +1,4 @@
----
+﻿---
 
 type: Country
 created:
@@ -39,10 +39,15 @@ has_place_continent:: [[Asia]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Asia/USSR|USSR]] 
-- [[../../../../_public/Earth/Continent/Asia/USSR.public|USSR.public]] 
-- [[../../../../_internal/Earth/Continent/Asia/USSR.internal|USSR.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/USSR.protect|USSR.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/USSR.private|USSR.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/USSR.personal|USSR.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/USSR.secret|USSR.secret]] 
+
+### [USSR](/_public/Earth/Continent/Asia/USSR.md) 
+
+### [USSR.internal](/_internal/Earth/Continent/Asia/USSR.internal.md) 
+
+### [USSR.protect](/_protect/Earth/Continent/Asia/USSR.protect.md) 
+
+### [USSR.private](/_private/Earth/Continent/Asia/USSR.private.md) 
+
+### [USSR.personal](/_personal/Earth/Continent/Asia/USSR.personal.md) 
+
+### [USSR.secret](/_secret/Earth/Continent/Asia/USSR.secret.md) 

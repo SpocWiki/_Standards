@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~3~Orosirian]] 
 
 #is_a_/time_/Period 
@@ -61,3 +61,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~3~Orosirian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.md) 
+
+### [Period~3~Orosirian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.internal.md) 
+
+### [Period~3~Orosirian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.protect.md) 
+
+### [Period~3~Orosirian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.private.md) 
+
+### [Period~3~Orosirian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.personal.md) 
+
+### [Period~3~Orosirian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.secret.md) 

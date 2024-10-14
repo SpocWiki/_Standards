@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.504 , 166.929 ] 
 type: geo-Region
 title: Baiti
@@ -40,11 +40,15 @@ markerFolder: ./Baiti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Baiti|Baiti]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Baiti.public|Baiti.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Baiti.internal|Baiti.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Baiti.protect|Baiti.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Baiti.private|Baiti.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Baiti.personal|Baiti.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Baiti.secret|Baiti.secret]] 
 
+### [Baiti](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.md) 
+
+### [Baiti.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.internal.md) 
+
+### [Baiti.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.protect.md) 
+
+### [Baiti.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.private.md) 
+
+### [Baiti.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.personal.md) 
+
+### [Baiti.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.secret.md) 

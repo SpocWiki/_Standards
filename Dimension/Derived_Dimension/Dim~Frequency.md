@@ -1,4 +1,4 @@
-
+﻿
 # [[Dim~Frequency]] 
 
 The Frequency is the number of Events within a [[../Dim~Time|Dim~Time]]- Interval. 
@@ -33,3 +33,17 @@ because the Events are often completed Circles of 2*[[Pi]].
 | **Bass Voice**       | Voice    |        82.41 |          392 |
 
 
+
+## Confidential Links & Embeds: 
+
+### [Dim~Frequency](/_public/Dimension/Derived_Dimension/Dim~Frequency.md) 
+
+### [Dim~Frequency.internal](/_internal/Dimension/Derived_Dimension/Dim~Frequency.internal.md) 
+
+### [Dim~Frequency.protect](/_protect/Dimension/Derived_Dimension/Dim~Frequency.protect.md) 
+
+### [Dim~Frequency.private](/_private/Dimension/Derived_Dimension/Dim~Frequency.private.md) 
+
+### [Dim~Frequency.personal](/_personal/Dimension/Derived_Dimension/Dim~Frequency.personal.md) 
+
+### [Dim~Frequency.secret](/_secret/Dimension/Derived_Dimension/Dim~Frequency.secret.md) 

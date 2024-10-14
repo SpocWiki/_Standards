@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A city hall.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CityHall](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.md) 
+
+### [FileClass~CityHall.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.internal.md) 
+
+### [FileClass~CityHall.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.protect.md) 
+
+### [FileClass~CityHall.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.private.md) 
+
+### [FileClass~CityHall.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.personal.md) 
+
+### [FileClass~CityHall.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~CityHall.secret.md) 

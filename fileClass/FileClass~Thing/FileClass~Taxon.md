@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -77,3 +77,17 @@ The taxonomic rank of this taxon given preferably as a URI from a controlled voc
 TaxonRank:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/PropertyValue')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Taxon](/_public/fileClass/FileClass~Thing/FileClass~Taxon.md) 
+
+### [FileClass~Taxon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Taxon.internal.md) 
+
+### [FileClass~Taxon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Taxon.protect.md) 
+
+### [FileClass~Taxon.private](/_private/fileClass/FileClass~Thing/FileClass~Taxon.private.md) 
+
+### [FileClass~Taxon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Taxon.personal.md) 
+
+### [FileClass~Taxon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Taxon.secret.md) 

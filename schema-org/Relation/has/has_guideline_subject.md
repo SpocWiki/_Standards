@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalEntity )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_guideline_subject|has_guideline_subject]] 
-- [[../../../../../_public/schema-org/Relation/has/has_guideline_subject.public|has_guideline_subject.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_guideline_subject.internal|has_guideline_subject.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_guideline_subject.protect|has_guideline_subject.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_guideline_subject.private|has_guideline_subject.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_guideline_subject.personal|has_guideline_subject.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_guideline_subject.secret|has_guideline_subject.secret]] 
+
+### [has_guideline_subject](/_public/schema-org/Relation/has/has_guideline_subject.md) 
+
+### [has_guideline_subject.internal](/_internal/schema-org/Relation/has/has_guideline_subject.internal.md) 
+
+### [has_guideline_subject.protect](/_protect/schema-org/Relation/has/has_guideline_subject.protect.md) 
+
+### [has_guideline_subject.private](/_private/schema-org/Relation/has/has_guideline_subject.private.md) 
+
+### [has_guideline_subject.personal](/_personal/schema-org/Relation/has/has_guideline_subject.personal.md) 
+
+### [has_guideline_subject.secret](/_secret/schema-org/Relation/has/has_guideline_subject.secret.md) 

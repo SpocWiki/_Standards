@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_legislation_responsible|has_legislation_responsible]] 
-- [[../../../../../_public/schema-org/Relation/has/has_legislation_responsible.public|has_legislation_responsible.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_legislation_responsible.internal|has_legislation_responsible.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_legislation_responsible.protect|has_legislation_responsible.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_legislation_responsible.private|has_legislation_responsible.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_legislation_responsible.personal|has_legislation_responsible.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_legislation_responsible.secret|has_legislation_responsible.secret]] 
+
+### [has_legislation_responsible](/_public/schema-org/Relation/has/has_legislation_responsible.md) 
+
+### [has_legislation_responsible.internal](/_internal/schema-org/Relation/has/has_legislation_responsible.internal.md) 
+
+### [has_legislation_responsible.protect](/_protect/schema-org/Relation/has/has_legislation_responsible.protect.md) 
+
+### [has_legislation_responsible.private](/_private/schema-org/Relation/has/has_legislation_responsible.private.md) 
+
+### [has_legislation_responsible.personal](/_personal/schema-org/Relation/has/has_legislation_responsible.personal.md) 
+
+### [has_legislation_responsible.secret](/_secret/schema-org/Relation/has/has_legislation_responsible.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ ingredients, recipeIngredient ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_supply|has_supply]] 
-- [[../../../../../_public/schema-org/Relation/has/has_supply.public|has_supply.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_supply.internal|has_supply.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_supply.protect|has_supply.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_supply.private|has_supply.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_supply.personal|has_supply.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_supply.secret|has_supply.secret]] 
+
+### [has_supply](/_public/schema-org/Relation/has/has_supply.md) 
+
+### [has_supply.internal](/_internal/schema-org/Relation/has/has_supply.internal.md) 
+
+### [has_supply.protect](/_protect/schema-org/Relation/has/has_supply.protect.md) 
+
+### [has_supply.private](/_private/schema-org/Relation/has/has_supply.private.md) 
+
+### [has_supply.personal](/_personal/schema-org/Relation/has/has_supply.personal.md) 
+
+### [has_supply.secret](/_secret/schema-org/Relation/has/has_supply.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -6.19 , 71.35 ] 
 type: Country
 tags:
@@ -132,10 +132,15 @@ has_place_continent:: [[Africa]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory|British_Indian_Ocean_Territory]] 
-- [[../../../../../_public/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.public|British_Indian_Ocean_Territory.public]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.internal|British_Indian_Ocean_Territory.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.protect|British_Indian_Ocean_Territory.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.private|British_Indian_Ocean_Territory.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.personal|British_Indian_Ocean_Territory.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.secret|British_Indian_Ocean_Territory.secret]] 
+
+### [British_Indian_Ocean_Territory](/_public/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.md) 
+
+### [British_Indian_Ocean_Territory.internal](/_internal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.internal.md) 
+
+### [British_Indian_Ocean_Territory.protect](/_protect/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.protect.md) 
+
+### [British_Indian_Ocean_Territory.private](/_private/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.private.md) 
+
+### [British_Indian_Ocean_Territory.personal](/_personal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.personal.md) 
+
+### [British_Indian_Ocean_Territory.secret](/_secret/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.secret.md) 

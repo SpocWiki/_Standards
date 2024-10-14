@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21985
@@ -34,10 +34,15 @@ SpocWebEntityId: 21985
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Thorium|Thorium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Thorium.public|Thorium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Thorium.internal|Thorium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Thorium.protect|Thorium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Thorium.private|Thorium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Thorium.personal|Thorium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Thorium.secret|Thorium.secret]] 
+
+### [Thorium](/_public/chemic/chemic~Elements/Actinide-Group/Thorium.md) 
+
+### [Thorium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Thorium.internal.md) 
+
+### [Thorium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Thorium.protect.md) 
+
+### [Thorium.private](/_private/chemic/chemic~Elements/Actinide-Group/Thorium.private.md) 
+
+### [Thorium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Thorium.personal.md) 
+
+### [Thorium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Thorium.secret.md) 

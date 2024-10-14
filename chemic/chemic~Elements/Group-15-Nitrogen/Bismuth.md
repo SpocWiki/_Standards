@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21978
@@ -35,10 +35,15 @@ SpocWebEntityId: 21978
 > [Wikipedia](https://en.wikipedia.org/wiki/Bismuth)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-15-Nitrogen/Bismuth|Bismuth]] 
-- [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Bismuth.public|Bismuth.public]] 
-- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Bismuth.internal|Bismuth.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Bismuth.protect|Bismuth.protect]] 
-- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Bismuth.private|Bismuth.private]] 
-- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Bismuth.personal|Bismuth.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Bismuth.secret|Bismuth.secret]] 
+
+### [Bismuth](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.md) 
+
+### [Bismuth.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.internal.md) 
+
+### [Bismuth.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.protect.md) 
+
+### [Bismuth.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.private.md) 
+
+### [Bismuth.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.personal.md) 
+
+### [Bismuth.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Bismuth.secret.md) 

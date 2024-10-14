@@ -1,4 +1,4 @@
----
+﻿---
 location: [-28.8175,22.87]
 type: Country
 tags:
@@ -151,9 +151,15 @@ Capital :: [[Pretoria]]
 
 
 ## Confidential Links & Embeds: 
-- [[South_Africa|South_Africa]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~South/South_Africa.internal|South_Africa.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~South/South_Africa.protect|South_Africa.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~South/South_Africa.private|South_Africa.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal|South_Africa.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret|South_Africa.secret]] 
+
+### [South_Africa](/_public/Earth/Continent/Africa/Africa~South/South_Africa.md) 
+
+### [South_Africa.internal](/_internal/Earth/Continent/Africa/Africa~South/South_Africa.internal.md) 
+
+### [South_Africa.protect](/_protect/Earth/Continent/Africa/Africa~South/South_Africa.protect.md) 
+
+### [South_Africa.private](/_private/Earth/Continent/Africa/Africa~South/South_Africa.private.md) 
+
+### [South_Africa.personal](/_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal.md) 
+
+### [South_Africa.secret](/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret.md) 

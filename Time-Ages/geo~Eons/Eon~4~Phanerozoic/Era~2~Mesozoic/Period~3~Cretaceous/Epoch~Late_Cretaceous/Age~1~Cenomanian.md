@@ -1,4 +1,4 @@
-# [[Age~1~Cenomanian]] 
+﻿# [[Age~1~Cenomanian]] 
 
 #is_a_/time_/Age 
 
@@ -56,3 +56,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Cenomanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~1~Cenomanian.md) 
+
+### [Age~1~Cenomanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~1~Cenomanian.internal.md) 
+
+### [Age~1~Cenomanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~1~Cenomanian.protect.md) 
+
+### [Age~1~Cenomanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~1~Cenomanian.private.md) 
+
+### [Age~1~Cenomanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~1~Cenomanian.personal.md) 
+
+### [Age~1~Cenomanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~1~Cenomanian.secret.md) 

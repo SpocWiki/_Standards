@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_Covid_vent_use|has_number_of_Covid_vent_use]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_Covid_vent_use.public|has_number_of_Covid_vent_use.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_Covid_vent_use.internal|has_number_of_Covid_vent_use.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_Covid_vent_use.protect|has_number_of_Covid_vent_use.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_Covid_vent_use.private|has_number_of_Covid_vent_use.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_Covid_vent_use.personal|has_number_of_Covid_vent_use.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_Covid_vent_use.secret|has_number_of_Covid_vent_use.secret]] 
+
+### [has_number_of_Covid_vent_use](/_public/schema-org/Property/has_number_of/has_number_of_Covid_vent_use.md) 
+
+### [has_number_of_Covid_vent_use.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_vent_use.internal.md) 
+
+### [has_number_of_Covid_vent_use.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_vent_use.protect.md) 
+
+### [has_number_of_Covid_vent_use.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_vent_use.private.md) 
+
+### [has_number_of_Covid_vent_use.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_vent_use.personal.md) 
+
+### [has_number_of_Covid_vent_use.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_vent_use.secret.md) 

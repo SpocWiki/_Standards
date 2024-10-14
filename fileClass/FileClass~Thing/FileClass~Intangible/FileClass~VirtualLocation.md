@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An online or virtual location for attending events. For example, one may attend 
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~VirtualLocation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.md) 
+
+### [FileClass~VirtualLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.internal.md) 
+
+### [FileClass~VirtualLocation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.protect.md) 
+
+### [FileClass~VirtualLocation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.private.md) 
+
+### [FileClass~VirtualLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.personal.md) 
+
+### [FileClass~VirtualLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~VirtualLocation.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21976
 
@@ -36,10 +36,15 @@ SpocWebEntityId: 21976
 > [Wikipedia](https://en.wikipedia.org/wiki/Thallium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-13-Boron/Thallium|Thallium]] 
-- [[../../../../_public/chemic/Elements/Group-13-Boron/Thallium.public|Thallium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-13-Boron/Thallium.internal|Thallium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-13-Boron/Thallium.protect|Thallium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-13-Boron/Thallium.private|Thallium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-13-Boron/Thallium.personal|Thallium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-13-Boron/Thallium.secret|Thallium.secret]] 
+
+### [Thallium](/_public/chemic/chemic~Elements/Group-13-Boron/Thallium.md) 
+
+### [Thallium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Thallium.internal.md) 
+
+### [Thallium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Thallium.protect.md) 
+
+### [Thallium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Thallium.private.md) 
+
+### [Thallium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Thallium.personal.md) 
+
+### [Thallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Thallium.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_application_suite|has_application_suite]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_application_suite.public|has_application_suite.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_application_suite.internal|has_application_suite.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_application_suite.protect|has_application_suite.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_application_suite.private|has_application_suite.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_application_suite.personal|has_application_suite.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_application_suite.secret|has_application_suite.secret]] 
+
+### [has_application_suite](/_public/schema-org/Property/Texts/has_application_suite.md) 
+
+### [has_application_suite.internal](/_internal/schema-org/Property/Texts/has_application_suite.internal.md) 
+
+### [has_application_suite.protect](/_protect/schema-org/Property/Texts/has_application_suite.protect.md) 
+
+### [has_application_suite.private](/_private/schema-org/Property/Texts/has_application_suite.private.md) 
+
+### [has_application_suite.personal](/_personal/schema-org/Property/Texts/has_application_suite.personal.md) 
+
+### [has_application_suite.secret](/_secret/schema-org/Property/Texts/has_application_suite.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A posting to a discussion forum.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DiscussionForumPosting](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.md) 
+
+### [FileClass~DiscussionForumPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.internal.md) 
+
+### [FileClass~DiscussionForumPosting.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.protect.md) 
+
+### [FileClass~DiscussionForumPosting.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.private.md) 
+
+### [FileClass~DiscussionForumPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.personal.md) 
+
+### [FileClass~DiscussionForumPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SocialMediaPosting/FileClass~DiscussionForumPosting.secret.md) 

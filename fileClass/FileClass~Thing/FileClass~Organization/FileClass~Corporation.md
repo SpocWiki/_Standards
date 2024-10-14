@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ The exchange traded instrument associated with a Corporation object. The tickerS
 TickerSymbol:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Corporation](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.md) 
+
+### [FileClass~Corporation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.internal.md) 
+
+### [FileClass~Corporation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.protect.md) 
+
+### [FileClass~Corporation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.private.md) 
+
+### [FileClass~Corporation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.personal.md) 
+
+### [FileClass~Corporation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Corporation.secret.md) 

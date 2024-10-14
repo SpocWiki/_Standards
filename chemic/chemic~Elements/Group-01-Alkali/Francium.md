@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21982
@@ -36,10 +36,15 @@ SpocWebEntityId: 21982
 > [Wikipedia](https://en.wikipedia.org/wiki/Francium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-01-Alkali/Francium|Francium]] 
-- [[../../../../_public/chemic/Elements/Group-01-Alkali/Francium.public|Francium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Francium.internal|Francium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Francium.protect|Francium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Francium.private|Francium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Francium.personal|Francium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Francium.secret|Francium.secret]] 
+
+### [Francium](/_public/chemic/chemic~Elements/Group-01-Alkali/Francium.md) 
+
+### [Francium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Francium.internal.md) 
+
+### [Francium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Francium.protect.md) 
+
+### [Francium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Francium.private.md) 
+
+### [Francium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Francium.personal.md) 
+
+### [Francium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Francium.secret.md) 

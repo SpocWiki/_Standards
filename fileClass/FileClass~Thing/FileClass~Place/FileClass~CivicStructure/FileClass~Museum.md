@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A museum.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Museum](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.md) 
+
+### [FileClass~Museum.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.internal.md) 
+
+### [FileClass~Museum.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.protect.md) 
+
+### [FileClass~Museum.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.private.md) 
+
+### [FileClass~Museum.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.personal.md) 
+
+### [FileClass~Museum.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Museum.secret.md) 

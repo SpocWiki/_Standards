@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Relation describes [[../../../../Knowledge/Business/Business-Entity/Ownership|Ow
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_owns|has_owns]] 
-- [[../../../../../_public/schema-org/Relation/has/has_owns.public|has_owns.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_owns.internal|has_owns.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_owns.protect|has_owns.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_owns.private|has_owns.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_owns.personal|has_owns.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_owns.secret|has_owns.secret]] 
+
+### [has_own](/_public/schema-org/Relation/has/has_own.md) 
+
+### [has_own.internal](/_internal/schema-org/Relation/has/has_own.internal.md) 
+
+### [has_own.protect](/_protect/schema-org/Relation/has/has_own.protect.md) 
+
+### [has_own.private](/_private/schema-org/Relation/has/has_own.private.md) 
+
+### [has_own.personal](/_personal/schema-org/Relation/has/has_own.personal.md) 
+
+### [has_own.secret](/_secret/schema-org/Relation/has/has_own.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalEntity, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_preparation|has_preparation]] 
-- [[../../../../../_public/schema-org/Relation/has/has_preparation.public|has_preparation.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_preparation.internal|has_preparation.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_preparation.protect|has_preparation.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_preparation.private|has_preparation.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_preparation.personal|has_preparation.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_preparation.secret|has_preparation.secret]] 
+
+### [has_preparation](/_public/schema-org/Relation/has/has_preparation.md) 
+
+### [has_preparation.internal](/_internal/schema-org/Relation/has/has_preparation.internal.md) 
+
+### [has_preparation.protect](/_protect/schema-org/Relation/has/has_preparation.protect.md) 
+
+### [has_preparation.private](/_private/schema-org/Relation/has/has_preparation.private.md) 
+
+### [has_preparation.personal](/_personal/schema-org/Relation/has/has_preparation.personal.md) 
+
+### [has_preparation.secret](/_secret/schema-org/Relation/has/has_preparation.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_corrections_policy|has_corrections_policy]] 
-- [[../../../../../_public/schema-org/Relation/has/has_corrections_policy.public|has_corrections_policy.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_corrections_policy.internal|has_corrections_policy.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_corrections_policy.protect|has_corrections_policy.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_corrections_policy.private|has_corrections_policy.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_corrections_policy.personal|has_corrections_policy.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_corrections_policy.secret|has_corrections_policy.secret]] 
+
+### [has_corrections_policy](/_public/schema-org/Relation/has/has_corrections_policy.md) 
+
+### [has_corrections_policy.internal](/_internal/schema-org/Relation/has/has_corrections_policy.internal.md) 
+
+### [has_corrections_policy.protect](/_protect/schema-org/Relation/has/has_corrections_policy.protect.md) 
+
+### [has_corrections_policy.private](/_private/schema-org/Relation/has/has_corrections_policy.private.md) 
+
+### [has_corrections_policy.personal](/_personal/schema-org/Relation/has/has_corrections_policy.personal.md) 
+
+### [has_corrections_policy.secret](/_secret/schema-org/Relation/has/has_corrections_policy.secret.md) 

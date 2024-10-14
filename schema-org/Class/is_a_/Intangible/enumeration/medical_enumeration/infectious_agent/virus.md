@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -40,10 +40,15 @@ Pathogenic virus that causes viral infection.
 [ #is_/enum_of :: [[../InfectiousAgentClass]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus|virus]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.public|virus.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.internal|virus.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.protect|virus.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.private|virus.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.personal|virus.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class/virus.secret|virus.secret]] 
+
+### [virus](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.md) 
+
+### [virus.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.internal.md) 
+
+### [virus.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.protect.md) 
+
+### [virus.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.private.md) 
+
+### [virus.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.personal.md) 
+
+### [virus.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent/virus.secret.md) 

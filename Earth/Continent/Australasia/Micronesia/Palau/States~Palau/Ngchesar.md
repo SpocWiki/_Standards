@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.46 , 134.59 ] 
 type: geo-Region
 title: Ngchesar
@@ -40,11 +40,15 @@ markerFolder: ./Ngchesar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Ngchesar|Ngchesar]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Ngchesar.public|Ngchesar.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Ngchesar.internal|Ngchesar.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Ngchesar.protect|Ngchesar.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Ngchesar.private|Ngchesar.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Ngchesar.personal|Ngchesar.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Ngchesar.secret|Ngchesar.secret]] 
 
+### [Ngchesar](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.md) 
+
+### [Ngchesar.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.internal.md) 
+
+### [Ngchesar.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.protect.md) 
+
+### [Ngchesar.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.private.md) 
+
+### [Ngchesar.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.personal.md) 
+
+### [Ngchesar.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngchesar.secret.md) 

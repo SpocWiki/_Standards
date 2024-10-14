@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 51.1667
     - 71.4167
@@ -148,9 +148,15 @@ Capital :: [[Kazakhstan/Counties/Astana/City/Astana-City]]
 
 
 ## Confidential Links & Embeds: 
-- [[Kazakhstan|Kazakhstan]] 
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan.internal|Kazakhstan.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan.protect|Kazakhstan.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/Asia~Central/Kazakhstan.private|Kazakhstan.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan.personal|Kazakhstan.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan.secret|Kazakhstan.secret]] 
+
+### [Kazakhstan](/_public/Earth/Continent/Asia/Asia~Central/Kazakhstan.md) 
+
+### [Kazakhstan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Kazakhstan.internal.md) 
+
+### [Kazakhstan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Kazakhstan.protect.md) 
+
+### [Kazakhstan.private](/_private/Earth/Continent/Asia/Asia~Central/Kazakhstan.private.md) 
+
+### [Kazakhstan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Kazakhstan.personal.md) 
+
+### [Kazakhstan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Kazakhstan.secret.md) 

@@ -45,10 +45,15 @@ A vehicle is a device that is designed or used to transport people or cargo over
 [ #has_/properties :: [ accelerationTime, additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, bodyType, brand, callSign, cargoVolume, category, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, dateVehicleFirstRegistered, depth, description, disambiguatingDescription, driveWheelConfiguration, emissionsCO2, fuelCapacity, fuelConsumption, fuelEfficiency, fuelType, funding, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, knownVehicleDamages, logo, mainEntityOfPage, manufacturer, material, meetsEmissionStandard, mileageFromOdometer, mobileUrl, model, modelDate, mpn, name, negativeNotes, nsn, numberOfAirbags, numberOfAxles, numberOfDoors, numberOfForwardGears, numberOfPreviousOwners, offers, pattern, payload, positiveNotes, potentialAction, productID, productionDate, purchaseDate, releaseDate, review, reviews, sameAs, seatingCapacity, size, sku, slogan, speed, steeringPosition, stupidProperty, subjectOf, tongueWeight, trailerWeight, url, vehicleConfiguration, vehicleEngine, vehicleIdentificationNumber, vehicleInteriorColor, vehicleInteriorType, vehicleModelDate, vehicleSeatingCapacity, vehicleSpecialUsage, vehicleTransmission, weight, weightTotal, wheelbase, width ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/product/vehicle|vehicle]] 
-- [[../../../../../_public/schema-org/Class/is_a_/product/vehicle.public|vehicle.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/product/vehicle.internal|vehicle.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/product/vehicle.protect|vehicle.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/product/vehicle.private|vehicle.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/product/vehicle.personal|vehicle.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/product/vehicle.secret|vehicle.secret]] 
+
+### [vehicle](/_public/schema-org/Class/is_a_/product/vehicle.md) 
+
+### [vehicle.internal](/_internal/schema-org/Class/is_a_/product/vehicle.internal.md) 
+
+### [vehicle.protect](/_protect/schema-org/Class/is_a_/product/vehicle.protect.md) 
+
+### [vehicle.private](/_private/schema-org/Class/is_a_/product/vehicle.private.md) 
+
+### [vehicle.personal](/_personal/schema-org/Class/is_a_/product/vehicle.personal.md) 
+
+### [vehicle.secret](/_secret/schema-org/Class/is_a_/product/vehicle.secret.md) 

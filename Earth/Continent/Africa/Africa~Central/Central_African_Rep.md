@@ -1,4 +1,4 @@
----
+﻿---
 location: [4.36667,18.5833]
 type: Country
 tags:
@@ -51,9 +51,15 @@ Capital :: [[Bangui]]
 
 
 ## Confidential Links & Embeds: 
-- [[Central_African_Rep|Central_African_Rep]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.internal|Central_African_Rep.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep.protect|Central_African_Rep.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep.private|Central_African_Rep.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.personal|Central_African_Rep.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep.secret|Central_African_Rep.secret]] 
+
+### [Central_African_Rep](/_public/Earth/Continent/Africa/Africa~Central/Central_African_Rep.md) 
+
+### [Central_African_Rep.internal](/_internal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.internal.md) 
+
+### [Central_African_Rep.protect](/_protect/Earth/Continent/Africa/Africa~Central/Central_African_Rep.protect.md) 
+
+### [Central_African_Rep.private](/_private/Earth/Continent/Africa/Africa~Central/Central_African_Rep.private.md) 
+
+### [Central_African_Rep.personal](/_personal/Earth/Continent/Africa/Africa~Central/Central_African_Rep.personal.md) 
+
+### [Central_African_Rep.secret](/_secret/Earth/Continent/Africa/Africa~Central/Central_African_Rep.secret.md) 

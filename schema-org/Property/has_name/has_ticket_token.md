@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_ticket_token|has_ticket_token]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_ticket_token.public|has_ticket_token.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_ticket_token.internal|has_ticket_token.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_ticket_token.protect|has_ticket_token.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_ticket_token.private|has_ticket_token.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_ticket_token.personal|has_ticket_token.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_ticket_token.secret|has_ticket_token.secret]] 
+
+### [has_ticket_token](/_public/schema-org/Property/has_name/has_ticket_token.md) 
+
+### [has_ticket_token.internal](/_internal/schema-org/Property/has_name/has_ticket_token.internal.md) 
+
+### [has_ticket_token.protect](/_protect/schema-org/Property/has_name/has_ticket_token.protect.md) 
+
+### [has_ticket_token.private](/_private/schema-org/Property/has_name/has_ticket_token.private.md) 
+
+### [has_ticket_token.personal](/_personal/schema-org/Property/has_name/has_ticket_token.personal.md) 
+
+### [has_ticket_token.secret](/_secret/schema-org/Property/has_name/has_ticket_token.secret.md) 

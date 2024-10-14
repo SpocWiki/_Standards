@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Duration)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_validity|has_duration_of_validity]] 
-- [[../../../../_public/schema-org/Predicate/Durations/has_duration_of_validity.public|has_duration_of_validity.public]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_validity.internal|has_duration_of_validity.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_validity.protect|has_duration_of_validity.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_validity.private|has_duration_of_validity.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_validity.personal|has_duration_of_validity.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_validity.secret|has_duration_of_validity.secret]] 
+
+### [has_duration_of_validity](/_public/schema-org/Property/has_duration_of/has_duration_of_validity.md) 
+
+### [has_duration_of_validity.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_validity.internal.md) 
+
+### [has_duration_of_validity.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_validity.protect.md) 
+
+### [has_duration_of_validity.private](/_private/schema-org/Property/has_duration_of/has_duration_of_validity.private.md) 
+
+### [has_duration_of_validity.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_validity.personal.md) 
+
+### [has_duration_of_validity.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_validity.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,10 +52,15 @@ Predicate describes that:
 ( #has_/range :: [[../../Class/is_a_/data_type/number|Number]], [[../../Class/is_a_/data_type/text|Text]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_place_latitude|has_place_latitude]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_place_latitude.public|has_place_latitude.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_place_latitude.internal|has_place_latitude.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_place_latitude.protect|has_place_latitude.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_place_latitude.private|has_place_latitude.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_place_latitude.personal|has_place_latitude.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_place_latitude.secret|has_place_latitude.secret]] 
+
+### [has_place_latitude](/_public/schema-org/Property/has_value_for/has_place_latitude.md) 
+
+### [has_place_latitude.internal](/_internal/schema-org/Property/has_value_for/has_place_latitude.internal.md) 
+
+### [has_place_latitude.protect](/_protect/schema-org/Property/has_value_for/has_place_latitude.protect.md) 
+
+### [has_place_latitude.private](/_private/schema-org/Property/has_value_for/has_place_latitude.private.md) 
+
+### [has_place_latitude.personal](/_personal/schema-org/Property/has_value_for/has_place_latitude.personal.md) 
+
+### [has_place_latitude.secret](/_secret/schema-org/Property/has_value_for/has_place_latitude.secret.md) 

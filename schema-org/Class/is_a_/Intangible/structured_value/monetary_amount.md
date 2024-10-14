@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -51,10 +51,15 @@ to describe the price of an Offer, Invoice, etc.
 [ #has_/properties :: [ additionalType, alternateName, currency, description, disambiguatingDescription, identifier, image, mainEntityOfPage, maxValue, minValue, name, potentialAction, sameAs, subjectOf, url, validFrom, validThrough, value ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/monetary_amount|monetary_amount]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/monetary_amount.public|monetary_amount.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.internal|monetary_amount.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.protect|monetary_amount.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.private|monetary_amount.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.personal|monetary_amount.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/monetary_amount.secret|monetary_amount.secret]] 
+
+### [monetary_amount](/_public/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.md) 
+
+### [monetary_amount.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.internal.md) 
+
+### [monetary_amount.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.protect.md) 
+
+### [monetary_amount.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.private.md) 
+
+### [monetary_amount.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.personal.md) 
+
+### [monetary_amount.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/monetary_amount.secret.md) 

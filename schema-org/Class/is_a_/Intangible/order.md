@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ An order is a confirmation of a transaction (a receipt), which can contain multi
 [ #has_/properties :: [ acceptedOffer, additionalType, alternateName, billingAddress, broker, confirmationNumber, customer, description, disambiguatingDescription, discount, discountCode, discountCurrency, identifier, image, isGift, mainEntityOfPage, merchant, name, orderDate, orderDelivery, orderNumber, orderStatus, orderedItem, partOfInvoice, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentUrl, potentialAction, sameAs, seller, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/order|order]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/order.public|order.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/order.internal|order.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/order.protect|order.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/order.private|order.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/order.personal|order.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/order.secret|order.secret]] 
+
+### [order](/_public/schema-org/Class/is_a_/Intangible/order.md) 
+
+### [order.internal](/_internal/schema-org/Class/is_a_/Intangible/order.internal.md) 
+
+### [order.protect](/_protect/schema-org/Class/is_a_/Intangible/order.protect.md) 
+
+### [order.private](/_private/schema-org/Class/is_a_/Intangible/order.private.md) 
+
+### [order.personal](/_personal/schema-org/Class/is_a_/Intangible/order.personal.md) 
+
+### [order.secret](/_secret/schema-org/Class/is_a_/Intangible/order.secret.md) 

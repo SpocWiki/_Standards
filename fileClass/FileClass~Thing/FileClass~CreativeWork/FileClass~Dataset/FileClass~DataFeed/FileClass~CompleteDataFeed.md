@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -34,3 +34,17 @@ A [[CompleteDataFeed]] is a [[DataFeed]] whose standard representation includes 
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CompleteDataFeed](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.md) 
+
+### [FileClass~CompleteDataFeed.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.internal.md) 
+
+### [FileClass~CompleteDataFeed.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.protect.md) 
+
+### [FileClass~CompleteDataFeed.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.private.md) 
+
+### [FileClass~CompleteDataFeed.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.personal.md) 
+
+### [FileClass~CompleteDataFeed.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed/FileClass~CompleteDataFeed.secret.md) 

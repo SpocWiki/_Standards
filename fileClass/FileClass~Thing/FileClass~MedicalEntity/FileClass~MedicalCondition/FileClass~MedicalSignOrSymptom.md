@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalSignOrSymptom](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.md) 
+
+### [FileClass~MedicalSignOrSymptom.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.internal.md) 
+
+### [FileClass~MedicalSignOrSymptom.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.protect.md) 
+
+### [FileClass~MedicalSignOrSymptom.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.private.md) 
+
+### [FileClass~MedicalSignOrSymptom.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.personal.md) 
+
+### [FileClass~MedicalSignOrSymptom.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~MedicalSignOrSymptom.secret.md) 

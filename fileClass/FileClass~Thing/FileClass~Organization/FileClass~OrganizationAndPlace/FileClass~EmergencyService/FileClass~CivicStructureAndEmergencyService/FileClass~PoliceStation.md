@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A police station.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PoliceStation](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~PoliceStation.md) 
+
+### [FileClass~PoliceStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~PoliceStation.internal.md) 
+
+### [FileClass~PoliceStation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~PoliceStation.protect.md) 
+
+### [FileClass~PoliceStation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~PoliceStation.private.md) 
+
+### [FileClass~PoliceStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~PoliceStation.personal.md) 
+
+### [FileClass~PoliceStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService/FileClass~PoliceStation.secret.md) 

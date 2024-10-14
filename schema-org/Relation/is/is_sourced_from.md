@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: BrainStructure )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_sourced_from|is_sourced_from]] 
-- [[../../../../../_public/schema-org/Relation/is/is_sourced_from.public|is_sourced_from.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_sourced_from.internal|is_sourced_from.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_sourced_from.protect|is_sourced_from.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_sourced_from.private|is_sourced_from.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_sourced_from.personal|is_sourced_from.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_sourced_from.secret|is_sourced_from.secret]] 
+
+### [is_sourced_from](/_public/schema-org/Relation/is/is_sourced_from.md) 
+
+### [is_sourced_from.internal](/_internal/schema-org/Relation/is/is_sourced_from.internal.md) 
+
+### [is_sourced_from.protect](/_protect/schema-org/Relation/is/is_sourced_from.protect.md) 
+
+### [is_sourced_from.private](/_private/schema-org/Relation/is/is_sourced_from.private.md) 
+
+### [is_sourced_from.personal](/_personal/schema-org/Relation/is/is_sourced_from.personal.md) 
+
+### [is_sourced_from.secret](/_secret/schema-org/Relation/is/is_sourced_from.secret.md) 

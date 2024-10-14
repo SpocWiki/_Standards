@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21937
@@ -35,10 +35,15 @@ SpocWebEntityId: 21937
 > [Wikipedia](https://en.wikipedia.org/wiki/Yttrium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-03-Scandium/Yttrium|Yttrium]] 
-- [[../../../../_public/chemic/Elements/Group-03-Scandium/Yttrium.public|Yttrium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-03-Scandium/Yttrium.internal|Yttrium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-03-Scandium/Yttrium.protect|Yttrium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-03-Scandium/Yttrium.private|Yttrium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-03-Scandium/Yttrium.personal|Yttrium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-03-Scandium/Yttrium.secret|Yttrium.secret]] 
+
+### [Yttrium](/_public/chemic/chemic~Elements/Group-03-Scandium/Yttrium.md) 
+
+### [Yttrium.internal](/_internal/chemic/chemic~Elements/Group-03-Scandium/Yttrium.internal.md) 
+
+### [Yttrium.protect](/_protect/chemic/chemic~Elements/Group-03-Scandium/Yttrium.protect.md) 
+
+### [Yttrium.private](/_private/chemic/chemic~Elements/Group-03-Scandium/Yttrium.private.md) 
+
+### [Yttrium.personal](/_personal/chemic/chemic~Elements/Group-03-Scandium/Yttrium.personal.md) 
+
+### [Yttrium.secret](/_secret/chemic/chemic~Elements/Group-03-Scandium/Yttrium.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_birth|has_time_of_birth]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_birth.public|has_time_of_birth.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_birth.internal|has_time_of_birth.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_birth.protect|has_time_of_birth.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_birth.private|has_time_of_birth.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_birth.personal|has_time_of_birth.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_birth.secret|has_time_of_birth.secret]] 
+
+### [has_time_of_birth](/_public/schema-org/Property/has_Date_Time/has_time_of_birth.md) 
+
+### [has_time_of_birth.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_birth.internal.md) 
+
+### [has_time_of_birth.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_birth.protect.md) 
+
+### [has_time_of_birth.private](/_private/schema-org/Property/has_Date_Time/has_time_of_birth.private.md) 
+
+### [has_time_of_birth.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_birth.personal.md) 
+
+### [has_time_of_birth.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_birth.secret.md) 

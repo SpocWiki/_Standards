@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: OfferCatalog )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_offer_catalog|has_offer_catalog]] 
-- [[../../../../../_public/schema-org/Relation/has/has_offer_catalog.public|has_offer_catalog.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_offer_catalog.internal|has_offer_catalog.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_offer_catalog.protect|has_offer_catalog.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_offer_catalog.private|has_offer_catalog.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_offer_catalog.personal|has_offer_catalog.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_offer_catalog.secret|has_offer_catalog.secret]] 
+
+### [has_offer_catalog](/_public/schema-org/Relation/has/has_offer_catalog.md) 
+
+### [has_offer_catalog.internal](/_internal/schema-org/Relation/has/has_offer_catalog.internal.md) 
+
+### [has_offer_catalog.protect](/_protect/schema-org/Relation/has/has_offer_catalog.protect.md) 
+
+### [has_offer_catalog.private](/_private/schema-org/Relation/has/has_offer_catalog.private.md) 
+
+### [has_offer_catalog.personal](/_personal/schema-org/Relation/has/has_offer_catalog.personal.md) 
+
+### [has_offer_catalog.secret](/_secret/schema-org/Relation/has/has_offer_catalog.secret.md) 

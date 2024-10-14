@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Nerve )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_nerve|has_nerve]] 
-- [[../../../../../_public/schema-org/Relation/has/has_nerve.public|has_nerve.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_nerve.internal|has_nerve.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_nerve.protect|has_nerve.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_nerve.private|has_nerve.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_nerve.personal|has_nerve.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_nerve.secret|has_nerve.secret]] 
+
+### [has_nerve](/_public/schema-org/Relation/has/has_nerve.md) 
+
+### [has_nerve.internal](/_internal/schema-org/Relation/has/has_nerve.internal.md) 
+
+### [has_nerve.protect](/_protect/schema-org/Relation/has/has_nerve.protect.md) 
+
+### [has_nerve.private](/_private/schema-org/Relation/has/has_nerve.private.md) 
+
+### [has_nerve.personal](/_personal/schema-org/Relation/has/has_nerve.personal.md) 
+
+### [has_nerve.secret](/_secret/schema-org/Relation/has/has_nerve.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DataFeedItem, Text, Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_data_feed_element|has_data_feed_element]] 
-- [[../../../../../_public/schema-org/Relation/has/has_data_feed_element.public|has_data_feed_element.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_data_feed_element.internal|has_data_feed_element.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_data_feed_element.protect|has_data_feed_element.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_data_feed_element.private|has_data_feed_element.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_data_feed_element.personal|has_data_feed_element.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_data_feed_element.secret|has_data_feed_element.secret]] 
+
+### [has_data_feed_element](/_public/schema-org/Relation/has/has_data_feed_element.md) 
+
+### [has_data_feed_element.internal](/_internal/schema-org/Relation/has/has_data_feed_element.internal.md) 
+
+### [has_data_feed_element.protect](/_protect/schema-org/Relation/has/has_data_feed_element.protect.md) 
+
+### [has_data_feed_element.private](/_private/schema-org/Relation/has/has_data_feed_element.private.md) 
+
+### [has_data_feed_element.personal](/_personal/schema-org/Relation/has/has_data_feed_element.personal.md) 
+
+### [has_data_feed_element.secret](/_secret/schema-org/Relation/has/has_data_feed_element.secret.md) 

@@ -43,10 +43,15 @@ Lists or enumerations dealing with status types.
 [ #has_/sub_classes :: [ ActionStatusType, EventStatusType, GameServerStatus, LegalForceStatus, OrderStatus, PaymentStatusType, ReservationStatusType ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration|status_enumeration]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration.public|status_enumeration.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.internal|status_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.protect|status_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.private|status_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.personal|status_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration.secret|status_enumeration.secret]] 
+
+### [status_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.md) 
+
+### [status_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.internal.md) 
+
+### [status_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.protect.md) 
+
+### [status_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.private.md) 
+
+### [status_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.personal.md) 
+
+### [status_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration.secret.md) 

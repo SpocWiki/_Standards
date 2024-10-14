@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 43.87
     - 18.43
@@ -54,10 +54,15 @@ Capital :: [[geo/Continent/Europe/Europe~South/Bosnia_and_Herzegovina/Counties/S
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina|Bosnia_and_Herzegovina]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.public|Bosnia_and_Herzegovina.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.internal|Bosnia_and_Herzegovina.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.protect|Bosnia_and_Herzegovina.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.private|Bosnia_and_Herzegovina.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.personal|Bosnia_and_Herzegovina.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.secret|Bosnia_and_Herzegovina.secret]] 
+
+### [Bosnia_and_Herzegovina](/_public/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.md) 
+
+### [Bosnia_and_Herzegovina.internal](/_internal/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.internal.md) 
+
+### [Bosnia_and_Herzegovina.protect](/_protect/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.protect.md) 
+
+### [Bosnia_and_Herzegovina.private](/_private/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.private.md) 
+
+### [Bosnia_and_Herzegovina.personal](/_personal/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.personal.md) 
+
+### [Bosnia_and_Herzegovina.secret](/_secret/Earth/Continent/Europe/Europe~South/Bosnia_and_Herzegovina.secret.md) 

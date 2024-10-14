@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -50,3 +50,17 @@ The general opening hours for a business. Opening hours can be specified as a we
 
 OpeningHours:: {"type":"Input","options":{}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CivicStructureAndEmergencyService](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService.md) 
+
+### [FileClass~CivicStructureAndEmergencyService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService.internal.md) 
+
+### [FileClass~CivicStructureAndEmergencyService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService.protect.md) 
+
+### [FileClass~CivicStructureAndEmergencyService.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService.private.md) 
+
+### [FileClass~CivicStructureAndEmergencyService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService.personal.md) 
+
+### [FileClass~CivicStructureAndEmergencyService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureAndEmergencyService.secret.md) 

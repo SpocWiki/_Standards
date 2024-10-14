@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_item_reviewed|has_item_reviewed]] 
-- [[../../../../../_public/schema-org/Relation/has/has_item_reviewed.public|has_item_reviewed.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_item_reviewed.internal|has_item_reviewed.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_item_reviewed.protect|has_item_reviewed.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_item_reviewed.private|has_item_reviewed.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_item_reviewed.personal|has_item_reviewed.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_item_reviewed.secret|has_item_reviewed.secret]] 
+
+### [has_item_reviewed](/_public/schema-org/Relation/has/has_item_reviewed.md) 
+
+### [has_item_reviewed.internal](/_internal/schema-org/Relation/has/has_item_reviewed.internal.md) 
+
+### [has_item_reviewed.protect](/_protect/schema-org/Relation/has/has_item_reviewed.protect.md) 
+
+### [has_item_reviewed.private](/_private/schema-org/Relation/has/has_item_reviewed.private.md) 
+
+### [has_item_reviewed.personal](/_personal/schema-org/Relation/has/has_item_reviewed.personal.md) 
+
+### [has_item_reviewed.secret](/_secret/schema-org/Relation/has/has_item_reviewed.secret.md) 

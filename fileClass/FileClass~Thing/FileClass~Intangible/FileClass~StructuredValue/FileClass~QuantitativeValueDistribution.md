@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -95,3 +95,17 @@ The 90th percentile value.
 Percentile90:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~QuantitativeValueDistribution](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.md) 
+
+### [FileClass~QuantitativeValueDistribution.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.internal.md) 
+
+### [FileClass~QuantitativeValueDistribution.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.protect.md) 
+
+### [FileClass~QuantitativeValueDistribution.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.private.md) 
+
+### [FileClass~QuantitativeValueDistribution.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.personal.md) 
+
+### [FileClass~QuantitativeValueDistribution.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.secret.md) 

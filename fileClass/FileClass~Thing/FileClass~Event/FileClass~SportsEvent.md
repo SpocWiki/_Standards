@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -76,3 +76,17 @@ A type of sport (e.g. Baseball).
 Sport:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SportsEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.md) 
+
+### [FileClass~SportsEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.internal.md) 
+
+### [FileClass~SportsEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.protect.md) 
+
+### [FileClass~SportsEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.private.md) 
+
+### [FileClass~SportsEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.personal.md) 
+
+### [FileClass~SportsEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.secret.md) 

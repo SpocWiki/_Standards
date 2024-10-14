@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sports_event|has_sports_event]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sports_event.public|has_sports_event.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sports_event.internal|has_sports_event.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sports_event.protect|has_sports_event.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sports_event.private|has_sports_event.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sports_event.personal|has_sports_event.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sports_event.secret|has_sports_event.secret]] 
+
+### [has_sports_event](/_public/schema-org/Relation/has/has_sports_event.md) 
+
+### [has_sports_event.internal](/_internal/schema-org/Relation/has/has_sports_event.internal.md) 
+
+### [has_sports_event.protect](/_protect/schema-org/Relation/has/has_sports_event.protect.md) 
+
+### [has_sports_event.private](/_private/schema-org/Relation/has/has_sports_event.private.md) 
+
+### [has_sports_event.personal](/_personal/schema-org/Relation/has/has_sports_event.personal.md) 
+
+### [has_sports_event.secret](/_secret/schema-org/Relation/has/has_sports_event.secret.md) 

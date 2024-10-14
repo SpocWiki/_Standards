@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 40.18
     - 44.5167
@@ -143,9 +143,15 @@ Capital :: [[Armenia/Counties/Erevan/City/Yerevan]]
 
 
 ## Confidential Links & Embeds: 
-- [[Armenia|Armenia]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~West/Armenia.internal|Armenia.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~West/Armenia.protect|Armenia.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~West/Armenia.private|Armenia.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~West/Armenia.personal|Armenia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~West/Armenia.secret|Armenia.secret]] 
+
+### [Armenia](/_public/Earth/Continent/Asia/Asia~North~West/Armenia.md) 
+
+### [Armenia.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia.internal.md) 
+
+### [Armenia.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia.protect.md) 
+
+### [Armenia.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia.private.md) 
+
+### [Armenia.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia.personal.md) 
+
+### [Armenia.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia.secret.md) 

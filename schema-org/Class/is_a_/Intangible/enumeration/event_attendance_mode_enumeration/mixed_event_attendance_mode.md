@@ -47,10 +47,15 @@ MixedEventAttendanceMode - an event that is conducted as a combination of both o
 [ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode|mixed_event_attendance_mode]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.public|mixed_event_attendance_mode.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.internal|mixed_event_attendance_mode.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.protect|mixed_event_attendance_mode.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.private|mixed_event_attendance_mode.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.personal|mixed_event_attendance_mode.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.secret|mixed_event_attendance_mode.secret]] 
+
+### [mixed_event_attendance_mode](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.md) 
+
+### [mixed_event_attendance_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.internal.md) 
+
+### [mixed_event_attendance_mode.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.protect.md) 
+
+### [mixed_event_attendance_mode.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.private.md) 
+
+### [mixed_event_attendance_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.personal.md) 
+
+### [mixed_event_attendance_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/mixed_event_attendance_mode.secret.md) 

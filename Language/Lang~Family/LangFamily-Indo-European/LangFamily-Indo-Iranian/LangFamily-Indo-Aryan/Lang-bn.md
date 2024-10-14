@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Bengali
@@ -87,11 +87,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-bn|Lang-bn]] 
-- [[../../_public/lang/Lang-bn.public|Lang-bn.public]] 
-- [[../../../../../../_internal/lang/Lang-bn.internal|Lang-bn.internal]] 
-- [[../../_protect/lang/Lang-bn.protect|Lang-bn.protect]] 
-- [[../../_private/lang/Lang-bn.private|Lang-bn.private]] 
-- [[../../_personal/lang/Lang-bn.personal|Lang-bn.personal]] 
-- [[../../_secret/lang/Lang-bn.secret|Lang-bn.secret]]
 
+### [Lang-bn](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.md) 
+
+### [Lang-bn.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.internal.md) 
+
+### [Lang-bn.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.protect.md) 
+
+### [Lang-bn.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.private.md) 
+
+### [Lang-bn.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.personal.md) 
+
+### [Lang-bn.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-bn.secret.md) 

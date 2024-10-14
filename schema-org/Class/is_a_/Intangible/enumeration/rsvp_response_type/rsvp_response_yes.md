@@ -45,10 +45,15 @@ The invitee will attend.
 [ #is_/enum_of :: [[../RsvpResponseType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes|rsvp_response_yes]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.public|rsvp_response_yes.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.internal|rsvp_response_yes.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.protect|rsvp_response_yes.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.private|rsvp_response_yes.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.personal|rsvp_response_yes.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type/rsvp_response_yes.secret|rsvp_response_yes.secret]] 
+
+### [rsvp_response_yes](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.md) 
+
+### [rsvp_response_yes.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.internal.md) 
+
+### [rsvp_response_yes.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.protect.md) 
+
+### [rsvp_response_yes.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.private.md) 
+
+### [rsvp_response_yes.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.personal.md) 
+
+### [rsvp_response_yes.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type/rsvp_response_yes.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Hindi-Urdu
@@ -42,11 +42,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-hi|Lang-hi]] 
-- [[../../_public/lang/Lang-hi.public|Lang-hi.public]] 
-- [[../../../../../../_internal/lang/Lang-hi.internal|Lang-hi.internal]] 
-- [[../../_protect/lang/Lang-hi.protect|Lang-hi.protect]] 
-- [[../../_private/lang/Lang-hi.private|Lang-hi.private]] 
-- [[../../_personal/lang/Lang-hi.personal|Lang-hi.personal]] 
-- [[../../_secret/lang/Lang-hi.secret|Lang-hi.secret]]
 
+### [Lang-hi](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.md) 
+
+### [Lang-hi.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.internal.md) 
+
+### [Lang-hi.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.protect.md) 
+
+### [Lang-hi.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.private.md) 
+
+### [Lang-hi.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.personal.md) 
+
+### [Lang-hi.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/LangFamily-Indo-Aryan/Lang-hi.secret.md) 

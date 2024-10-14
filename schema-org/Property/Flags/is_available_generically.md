@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_available_generically|is_available_generically]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_available_generically.public|is_available_generically.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_available_generically.internal|is_available_generically.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_available_generically.protect|is_available_generically.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_available_generically.private|is_available_generically.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_available_generically.personal|is_available_generically.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_available_generically.secret|is_available_generically.secret]] 
+
+### [is_available_generically](/_public/schema-org/Property/Flags/is_available_generically.md) 
+
+### [is_available_generically.internal](/_internal/schema-org/Property/Flags/is_available_generically.internal.md) 
+
+### [is_available_generically.protect](/_protect/schema-org/Property/Flags/is_available_generically.protect.md) 
+
+### [is_available_generically.private](/_private/schema-org/Property/Flags/is_available_generically.private.md) 
+
+### [is_available_generically.personal](/_personal/schema-org/Property/Flags/is_available_generically.personal.md) 
+
+### [is_available_generically.secret](/_secret/schema-org/Property/Flags/is_available_generically.secret.md) 

@@ -43,10 +43,15 @@ A product taken by mouth that contains a dietary ingredient intended to suppleme
 [ #has_/properties :: [ activeIngredient, additionalProperty, additionalType, aggregateRating, alternateName, asin, audience, award, awards, brand, category, code, color, countryOfAssembly, countryOfLastProcessing, countryOfOrigin, depth, description, disambiguatingDescription, funding, gtin, gtin12, gtin13, gtin14, gtin8, guideline, hasAdultConsideration, hasEnergyConsumptionDetails, hasMeasurement, hasMerchantReturnPolicy, hasProductReturnPolicy, height, identifier, image, inProductGroupWithID, isAccessoryOrSparePartFor, isConsumableFor, isFamilyFriendly, isProprietary, isRelatedTo, isSimilarTo, isVariantOf, itemCondition, keywords, legalStatus, logo, mainEntityOfPage, manufacturer, material, maximumIntake, mechanismOfAction, medicineSystem, mobileUrl, model, mpn, name, negativeNotes, nonProprietaryName, nsn, offers, pattern, positiveNotes, potentialAction, productID, productionDate, proprietaryName, purchaseDate, recognizingAuthority, recommendedIntake, releaseDate, relevantSpecialty, review, reviews, safetyConsideration, sameAs, size, sku, slogan, study, subjectOf, targetPopulation, url, weight, width ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/product/dietary_supplement|dietary_supplement]] 
-- [[../../../../../_public/schema-org/Class/is_a_/product/dietary_supplement.public|dietary_supplement.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/product/dietary_supplement.internal|dietary_supplement.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/product/dietary_supplement.protect|dietary_supplement.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/product/dietary_supplement.private|dietary_supplement.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/product/dietary_supplement.personal|dietary_supplement.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/product/dietary_supplement.secret|dietary_supplement.secret]] 
+
+### [dietary_supplement](/_public/schema-org/Class/is_a_/product/dietary_supplement.md) 
+
+### [dietary_supplement.internal](/_internal/schema-org/Class/is_a_/product/dietary_supplement.internal.md) 
+
+### [dietary_supplement.protect](/_protect/schema-org/Class/is_a_/product/dietary_supplement.protect.md) 
+
+### [dietary_supplement.private](/_private/schema-org/Class/is_a_/product/dietary_supplement.private.md) 
+
+### [dietary_supplement.personal](/_personal/schema-org/Class/is_a_/product/dietary_supplement.personal.md) 
+
+### [dietary_supplement.secret](/_secret/schema-org/Class/is_a_/product/dietary_supplement.secret.md) 

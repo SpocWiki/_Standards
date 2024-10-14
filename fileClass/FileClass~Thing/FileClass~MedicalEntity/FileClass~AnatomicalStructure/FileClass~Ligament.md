@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A short band of tough, flexible, fibrous connective tissue that functions to con
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Ligament](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Ligament.md) 
+
+### [FileClass~Ligament.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Ligament.internal.md) 
+
+### [FileClass~Ligament.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Ligament.protect.md) 
+
+### [FileClass~Ligament.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Ligament.private.md) 
+
+### [FileClass~Ligament.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Ligament.personal.md) 
+
+### [FileClass~Ligament.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Ligament.secret.md) 

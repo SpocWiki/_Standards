@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A School District is an administrative area for the administration of schools.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SchoolDistrict](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.md) 
+
+### [FileClass~SchoolDistrict.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.internal.md) 
+
+### [FileClass~SchoolDistrict.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.protect.md) 
+
+### [FileClass~SchoolDistrict.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.private.md) 
+
+### [FileClass~SchoolDistrict.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.personal.md) 
+
+### [FileClass~SchoolDistrict.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~SchoolDistrict.secret.md) 

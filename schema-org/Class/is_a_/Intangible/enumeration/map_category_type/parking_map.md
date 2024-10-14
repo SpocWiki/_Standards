@@ -45,10 +45,15 @@ A parking map.
 [ #is_/enum_of :: [[../MapCategoryType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/map_category_type/parking_map|parking_map]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/map_category_type/parking_map.public|parking_map.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/map_category_type/parking_map.internal|parking_map.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/map_category_type/parking_map.protect|parking_map.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/map_category_type/parking_map.private|parking_map.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/map_category_type/parking_map.personal|parking_map.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/map_category_type/parking_map.secret|parking_map.secret]] 
+
+### [parking_map](/_public/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.md) 
+
+### [parking_map.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.internal.md) 
+
+### [parking_map.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.protect.md) 
+
+### [parking_map.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.private.md) 
+
+### [parking_map.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.personal.md) 
+
+### [parking_map.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/map_category_type/parking_map.secret.md) 

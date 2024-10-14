@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_health_plan_pharmacy_category|has_health_plan_pharmacy_category]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_health_plan_pharmacy_category.public|has_health_plan_pharmacy_category.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_health_plan_pharmacy_category.internal|has_health_plan_pharmacy_category.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_health_plan_pharmacy_category.protect|has_health_plan_pharmacy_category.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_health_plan_pharmacy_category.private|has_health_plan_pharmacy_category.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_health_plan_pharmacy_category.personal|has_health_plan_pharmacy_category.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_health_plan_pharmacy_category.secret|has_health_plan_pharmacy_category.secret]] 
+
+### [has_health_plan_pharmacy_category](/_public/schema-org/Property/Texts/has_health_plan_pharmacy_category.md) 
+
+### [has_health_plan_pharmacy_category.internal](/_internal/schema-org/Property/Texts/has_health_plan_pharmacy_category.internal.md) 
+
+### [has_health_plan_pharmacy_category.protect](/_protect/schema-org/Property/Texts/has_health_plan_pharmacy_category.protect.md) 
+
+### [has_health_plan_pharmacy_category.private](/_private/schema-org/Property/Texts/has_health_plan_pharmacy_category.private.md) 
+
+### [has_health_plan_pharmacy_category.personal](/_personal/schema-org/Property/Texts/has_health_plan_pharmacy_category.personal.md) 
+
+### [has_health_plan_pharmacy_category.secret](/_secret/schema-org/Property/Texts/has_health_plan_pharmacy_category.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A single episode of a podcast series.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PodcastEpisode](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.md) 
+
+### [FileClass~PodcastEpisode.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.internal.md) 
+
+### [FileClass~PodcastEpisode.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.protect.md) 
+
+### [FileClass~PodcastEpisode.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.private.md) 
+
+### [FileClass~PodcastEpisode.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.personal.md) 
+
+### [FileClass~PodcastEpisode.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Episode/FileClass~PodcastEpisode.secret.md) 

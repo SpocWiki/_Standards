@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,3 +55,17 @@ A pointer from a newer variant of a product  to its previous, often discontinued
 SuccessorOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Product/ProductModel')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ProductModel](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.md) 
+
+### [FileClass~ProductModel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.internal.md) 
+
+### [FileClass~ProductModel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.protect.md) 
+
+### [FileClass~ProductModel.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.private.md) 
+
+### [FileClass~ProductModel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.personal.md) 
+
+### [FileClass~ProductModel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~ProductModel.secret.md) 

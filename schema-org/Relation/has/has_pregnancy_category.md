@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DrugPregnancyCategory )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_pregnancy_category|has_pregnancy_category]] 
-- [[../../../../../_public/schema-org/Relation/has/has_pregnancy_category.public|has_pregnancy_category.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_pregnancy_category.internal|has_pregnancy_category.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_pregnancy_category.protect|has_pregnancy_category.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_pregnancy_category.private|has_pregnancy_category.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_pregnancy_category.personal|has_pregnancy_category.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_pregnancy_category.secret|has_pregnancy_category.secret]] 
+
+### [has_pregnancy_category](/_public/schema-org/Relation/has/has_pregnancy_category.md) 
+
+### [has_pregnancy_category.internal](/_internal/schema-org/Relation/has/has_pregnancy_category.internal.md) 
+
+### [has_pregnancy_category.protect](/_protect/schema-org/Relation/has/has_pregnancy_category.protect.md) 
+
+### [has_pregnancy_category.private](/_private/schema-org/Relation/has/has_pregnancy_category.private.md) 
+
+### [has_pregnancy_category.personal](/_personal/schema-org/Relation/has/has_pregnancy_category.personal.md) 
+
+### [has_pregnancy_category.secret](/_secret/schema-org/Relation/has/has_pregnancy_category.secret.md) 

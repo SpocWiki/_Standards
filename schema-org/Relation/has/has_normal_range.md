@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_normal_range|has_normal_range]] 
-- [[../../../../../_public/schema-org/Relation/has/has_normal_range.public|has_normal_range.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_normal_range.internal|has_normal_range.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_normal_range.protect|has_normal_range.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_normal_range.private|has_normal_range.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_normal_range.personal|has_normal_range.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_normal_range.secret|has_normal_range.secret]] 
+
+### [has_normal_range](/_public/schema-org/Relation/has/has_normal_range.md) 
+
+### [has_normal_range.internal](/_internal/schema-org/Relation/has/has_normal_range.internal.md) 
+
+### [has_normal_range.protect](/_protect/schema-org/Relation/has/has_normal_range.protect.md) 
+
+### [has_normal_range.private](/_private/schema-org/Relation/has/has_normal_range.private.md) 
+
+### [has_normal_range.personal](/_personal/schema-org/Relation/has/has_normal_range.personal.md) 
+
+### [has_normal_range.secret](/_secret/schema-org/Relation/has/has_normal_range.secret.md) 

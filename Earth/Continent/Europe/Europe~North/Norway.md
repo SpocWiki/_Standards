@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 61.8685
     - 11.4588
@@ -143,10 +143,15 @@ Capital :: [[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Norway|Norway]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Norway.public|Norway.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Norway.internal|Norway.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Norway.protect|Norway.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Norway.private|Norway.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Norway.personal|Norway.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Norway.secret|Norway.secret]] 
+
+### [Norway](/_public/Earth/Continent/Europe/Europe~North/Norway.md) 
+
+### [Norway.internal](/_internal/Earth/Continent/Europe/Europe~North/Norway.internal.md) 
+
+### [Norway.protect](/_protect/Earth/Continent/Europe/Europe~North/Norway.protect.md) 
+
+### [Norway.private](/_private/Earth/Continent/Europe/Europe~North/Norway.private.md) 
+
+### [Norway.personal](/_personal/Earth/Continent/Europe/Europe~North/Norway.personal.md) 
+
+### [Norway.secret](/_secret/Earth/Continent/Europe/Europe~North/Norway.secret.md) 

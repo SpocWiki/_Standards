@@ -1,4 +1,4 @@
----
+﻿---
 
 type: Country
 tags:
@@ -34,10 +34,15 @@ has_place_continent:: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
-- [[Channel-Islands|Channel-Islands]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~West/Channel~Islands.public|Channel~Islands.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~West/Channel~Islands.internal|Channel~Islands.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~West/Channel~Islands.protect|Channel~Islands.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~West/Channel~Islands.private|Channel~Islands.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~West/Channel~Islands.personal|Channel~Islands.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~West/Channel~Islands.secret|Channel~Islands.secret]] 
+
+### [Channel-Islands](/_public/Earth/Continent/Europe/Europe~West/Channel-Islands.md) 
+
+### [Channel-Islands.internal](/_internal/Earth/Continent/Europe/Europe~West/Channel-Islands.internal.md) 
+
+### [Channel-Islands.protect](/_protect/Earth/Continent/Europe/Europe~West/Channel-Islands.protect.md) 
+
+### [Channel-Islands.private](/_private/Earth/Continent/Europe/Europe~West/Channel-Islands.private.md) 
+
+### [Channel-Islands.personal](/_personal/Earth/Continent/Europe/Europe~West/Channel-Islands.personal.md) 
+
+### [Channel-Islands.secret](/_secret/Earth/Continent/Europe/Europe~West/Channel-Islands.secret.md) 

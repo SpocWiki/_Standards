@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 6.46667
 - 2.6
@@ -140,9 +140,15 @@ Capital :: [[Porto-Novo1]]
 
 
 ## Confidential Links & Embeds: 
-- [[Benin|Benin]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Benin.internal|Benin.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Benin.protect|Benin.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Benin.private|Benin.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Benin.personal|Benin.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Benin.secret|Benin.secret]] 
+
+### [Benin](/_public/Earth/Continent/Africa/Africa~West/Benin.md) 
+
+### [Benin.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin.internal.md) 
+
+### [Benin.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin.protect.md) 
+
+### [Benin.private](/_private/Earth/Continent/Africa/Africa~West/Benin.private.md) 
+
+### [Benin.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin.personal.md) 
+
+### [Benin.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin.secret.md) 

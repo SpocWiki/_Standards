@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A church.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Church](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church.md) 
+
+### [FileClass~Church.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church.internal.md) 
+
+### [FileClass~Church.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church.protect.md) 
+
+### [FileClass~Church.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church.private.md) 
+
+### [FileClass~Church.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church.personal.md) 
+
+### [FileClass~Church.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~Church.secret.md) 

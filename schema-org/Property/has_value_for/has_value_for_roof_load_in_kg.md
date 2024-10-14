@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -59,10 +59,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_roof_load_in_kg|has_value_for_roof_load_in_kg]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_roof_load_in_kg.public|has_value_for_roof_load_in_kg.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.internal|has_value_for_roof_load_in_kg.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.protect|has_value_for_roof_load_in_kg.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.private|has_value_for_roof_load_in_kg.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.personal|has_value_for_roof_load_in_kg.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_roof_load_in_kg.secret|has_value_for_roof_load_in_kg.secret]] 
+
+### [has_value_for_roof_load_in_kg](/_public/schema-org/Property/has_value_for/has_value_for_roof_load_in_kg.md) 
+
+### [has_value_for_roof_load_in_kg.internal](/_internal/schema-org/Property/has_value_for/has_value_for_roof_load_in_kg.internal.md) 
+
+### [has_value_for_roof_load_in_kg.protect](/_protect/schema-org/Property/has_value_for/has_value_for_roof_load_in_kg.protect.md) 
+
+### [has_value_for_roof_load_in_kg.private](/_private/schema-org/Property/has_value_for/has_value_for_roof_load_in_kg.private.md) 
+
+### [has_value_for_roof_load_in_kg.personal](/_personal/schema-org/Property/has_value_for/has_value_for_roof_load_in_kg.personal.md) 
+
+### [has_value_for_roof_load_in_kg.secret](/_secret/schema-org/Property/has_value_for/has_value_for_roof_load_in_kg.secret.md) 

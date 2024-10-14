@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: NutritionInformation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_nutrition|has_nutrition]] 
-- [[../../../../../_public/schema-org/Relation/has/has_nutrition.public|has_nutrition.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_nutrition.internal|has_nutrition.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_nutrition.protect|has_nutrition.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_nutrition.private|has_nutrition.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_nutrition.personal|has_nutrition.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_nutrition.secret|has_nutrition.secret]] 
+
+### [has_nutrition](/_public/schema-org/Relation/has/has_nutrition.md) 
+
+### [has_nutrition.internal](/_internal/schema-org/Relation/has/has_nutrition.internal.md) 
+
+### [has_nutrition.protect](/_protect/schema-org/Relation/has/has_nutrition.protect.md) 
+
+### [has_nutrition.private](/_private/schema-org/Relation/has/has_nutrition.private.md) 
+
+### [has_nutrition.personal](/_personal/schema-org/Relation/has/has_nutrition.personal.md) 
+
+### [has_nutrition.secret](/_secret/schema-org/Relation/has/has_nutrition.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -52,10 +52,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_of_sample_type|has_code_of_sample_type]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_code_of_sample_type.public|has_code_of_sample_type.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_code_of_sample_type.internal|has_code_of_sample_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_code_of_sample_type.protect|has_code_of_sample_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_code_of_sample_type.private|has_code_of_sample_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_code_of_sample_type.personal|has_code_of_sample_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_code_of_sample_type.secret|has_code_of_sample_type.secret]] 
+
+### [has_code_sample_type](/_public/schema-org/Property/has_name/has_code_sample_type.md) 
+
+### [has_code_sample_type.internal](/_internal/schema-org/Property/has_name/has_code_sample_type.internal.md) 
+
+### [has_code_sample_type.protect](/_protect/schema-org/Property/has_name/has_code_sample_type.protect.md) 
+
+### [has_code_sample_type.private](/_private/schema-org/Property/has_name/has_code_sample_type.private.md) 
+
+### [has_code_sample_type.personal](/_personal/schema-org/Property/has_name/has_code_sample_type.personal.md) 
+
+### [has_code_sample_type.secret](/_secret/schema-org/Property/has_name/has_code_sample_type.secret.md) 

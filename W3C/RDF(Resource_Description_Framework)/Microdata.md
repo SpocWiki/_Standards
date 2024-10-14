@@ -1,4 +1,4 @@
-
+﻿
 > Microdata is a WHATWG HTML specification used to nest metadata within existing content on web pages. 
 > Search engines, web crawlers, and browsers can extract and process Microdata from a web page and use it to provide a richer browsing experience for users. 
 > Search engines benefit greatly from direct access to this structured data, 
@@ -31,3 +31,16 @@ Attributes of Microdata are:
   can be associated with the item using this attribute. 
   Provides a list of element ids (not `itemid`s) with additional properties elsewhere in the document.
 - `datetime` - Indicates date or duration
+## Confidential Links & Embeds: 
+
+### [Microdata](/_public/W3C/RDF(Resource_Description_Framework)/Microdata.md) 
+
+### [Microdata.internal](/_internal/W3C/RDF(Resource_Description_Framework)/Microdata.internal.md) 
+
+### [Microdata.protect](/_protect/W3C/RDF(Resource_Description_Framework)/Microdata.protect.md) 
+
+### [Microdata.private](/_private/W3C/RDF(Resource_Description_Framework)/Microdata.private.md) 
+
+### [Microdata.personal](/_personal/W3C/RDF(Resource_Description_Framework)/Microdata.personal.md) 
+
+### [Microdata.secret](/_secret/W3C/RDF(Resource_Description_Framework)/Microdata.secret.md) 

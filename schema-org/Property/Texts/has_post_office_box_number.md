@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_post_office_box_number|has_post_office_box_number]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_post_office_box_number.public|has_post_office_box_number.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_post_office_box_number.internal|has_post_office_box_number.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_post_office_box_number.protect|has_post_office_box_number.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_post_office_box_number.private|has_post_office_box_number.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_post_office_box_number.personal|has_post_office_box_number.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_post_office_box_number.secret|has_post_office_box_number.secret]] 
+
+### [has_post_office_box_number](/_public/schema-org/Property/Texts/has_post_office_box_number.md) 
+
+### [has_post_office_box_number.internal](/_internal/schema-org/Property/Texts/has_post_office_box_number.internal.md) 
+
+### [has_post_office_box_number.protect](/_protect/schema-org/Property/Texts/has_post_office_box_number.protect.md) 
+
+### [has_post_office_box_number.private](/_private/schema-org/Property/Texts/has_post_office_box_number.private.md) 
+
+### [has_post_office_box_number.personal](/_personal/schema-org/Property/Texts/has_post_office_box_number.personal.md) 
+
+### [has_post_office_box_number.secret](/_secret/schema-org/Property/Texts/has_post_office_box_number.secret.md) 

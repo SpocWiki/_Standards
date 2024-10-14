@@ -1,4 +1,4 @@
-# [[skos~broader]] 
+﻿# [[skos~broader]] 
 
 
 #is_/inverse_of :: [[skos~narrower]] 
@@ -12,3 +12,17 @@ This can mean different Things like
 - 
 
 `$=dv.current().is_similar_to` 
+
+## Confidential Links & Embeds: 
+
+### [skos~broader](/_public/W3C/RDF(Resource_Description_Framework)/skos/skos~broader.md) 
+
+### [skos~broader.internal](/_internal/W3C/RDF(Resource_Description_Framework)/skos/skos~broader.internal.md) 
+
+### [skos~broader.protect](/_protect/W3C/RDF(Resource_Description_Framework)/skos/skos~broader.protect.md) 
+
+### [skos~broader.private](/_private/W3C/RDF(Resource_Description_Framework)/skos/skos~broader.private.md) 
+
+### [skos~broader.personal](/_personal/W3C/RDF(Resource_Description_Framework)/skos/skos~broader.personal.md) 
+
+### [skos~broader.secret](/_secret/W3C/RDF(Resource_Description_Framework)/skos/skos~broader.secret.md) 

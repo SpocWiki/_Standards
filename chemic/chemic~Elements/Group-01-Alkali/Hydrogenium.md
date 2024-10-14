@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21904
@@ -37,10 +37,15 @@ SpocWebEntityId: 21904
 > [Wikipedia](https://en.wikipedia.org/wiki/Trihydrogen%20cation)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-01-Alkali/Hydrogenium|Hydrogenium]] 
-- [[../../../../_public/chemic/Elements/Group-01-Alkali/Hydrogenium.public|Hydrogenium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Hydrogenium.internal|Hydrogenium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Hydrogenium.protect|Hydrogenium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Hydrogenium.private|Hydrogenium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Hydrogenium.personal|Hydrogenium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Hydrogenium.secret|Hydrogenium.secret]] 
+
+### [Hydrogenium](/_public/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.md) 
+
+### [Hydrogenium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.internal.md) 
+
+### [Hydrogenium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.protect.md) 
+
+### [Hydrogenium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.private.md) 
+
+### [Hydrogenium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.personal.md) 
+
+### [Hydrogenium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Hydrogenium.secret.md) 

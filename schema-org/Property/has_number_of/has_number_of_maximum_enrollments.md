@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_maximum_enrollments|has_number_of_maximum_enrollments]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_maximum_enrollments.public|has_number_of_maximum_enrollments.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.internal|has_number_of_maximum_enrollments.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.protect|has_number_of_maximum_enrollments.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.private|has_number_of_maximum_enrollments.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.personal|has_number_of_maximum_enrollments.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_maximum_enrollments.secret|has_number_of_maximum_enrollments.secret]] 
+
+### [has_number_of_maximum_enrollments](/_public/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.md) 
+
+### [has_number_of_maximum_enrollments.internal](/_internal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.internal.md) 
+
+### [has_number_of_maximum_enrollments.protect](/_protect/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.protect.md) 
+
+### [has_number_of_maximum_enrollments.private](/_private/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.private.md) 
+
+### [has_number_of_maximum_enrollments.personal](/_personal/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.personal.md) 
+
+### [has_number_of_maximum_enrollments.secret](/_secret/schema-org/Property/has_number_of/has_number_of_maximum_enrollments.secret.md) 

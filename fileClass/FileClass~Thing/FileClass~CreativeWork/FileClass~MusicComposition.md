@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -140,3 +140,17 @@ An audio recording of the work.
 RecordedAs:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicRecording')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MusicComposition](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.md) 
+
+### [FileClass~MusicComposition.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.internal.md) 
+
+### [FileClass~MusicComposition.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.protect.md) 
+
+### [FileClass~MusicComposition.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.private.md) 
+
+### [FileClass~MusicComposition.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.personal.md) 
+
+### [FileClass~MusicComposition.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.secret.md) 

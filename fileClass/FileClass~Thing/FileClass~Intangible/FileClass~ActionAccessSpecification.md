@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -109,3 +109,17 @@ Indicates if use of the media require a subscription  (either paid or free). All
 RequiresSubscription:: {"type":"Boolean","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ActionAccessSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.md) 
+
+### [FileClass~ActionAccessSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.internal.md) 
+
+### [FileClass~ActionAccessSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.protect.md) 
+
+### [FileClass~ActionAccessSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.private.md) 
+
+### [FileClass~ActionAccessSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.personal.md) 
+
+### [FileClass~ActionAccessSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ActionAccessSpecification.secret.md) 

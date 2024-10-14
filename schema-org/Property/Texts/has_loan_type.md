@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_loan_type|has_loan_type]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_loan_type.public|has_loan_type.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_loan_type.internal|has_loan_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_loan_type.protect|has_loan_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_loan_type.private|has_loan_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_loan_type.personal|has_loan_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_loan_type.secret|has_loan_type.secret]] 
+
+### [has_loan_type](/_public/schema-org/Property/Texts/has_loan_type.md) 
+
+### [has_loan_type.internal](/_internal/schema-org/Property/Texts/has_loan_type.internal.md) 
+
+### [has_loan_type.protect](/_protect/schema-org/Property/Texts/has_loan_type.protect.md) 
+
+### [has_loan_type.private](/_private/schema-org/Property/Texts/has_loan_type.private.md) 
+
+### [has_loan_type.personal](/_personal/schema-org/Property/Texts/has_loan_type.personal.md) 
+
+### [has_loan_type.secret](/_secret/schema-org/Property/Texts/has_loan_type.secret.md) 

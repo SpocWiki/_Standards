@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 9.7 , 46.1 ] 
 type: geo-Region
 title: Somaliland
@@ -127,10 +127,15 @@ markerFile: [[Somaliland]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Somaliland)
 
 ## Confidential Links & Embeds: 
-- [[Somaliland|Somaliland]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal|Somaliland.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect|Somaliland.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Somaliland.private|Somaliland.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal|Somaliland.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret|Somaliland.secret]] 
 
+### [Somaliland](/_public/Earth/Continent/Africa/Africa~East/Somaliland.md) 
+
+### [Somaliland.internal](/_internal/Earth/Continent/Africa/Africa~East/Somaliland.internal.md) 
+
+### [Somaliland.protect](/_protect/Earth/Continent/Africa/Africa~East/Somaliland.protect.md) 
+
+### [Somaliland.private](/_private/Earth/Continent/Africa/Africa~East/Somaliland.private.md) 
+
+### [Somaliland.personal](/_personal/Earth/Continent/Africa/Africa~East/Somaliland.personal.md) 
+
+### [Somaliland.secret](/_secret/Earth/Continent/Africa/Africa~East/Somaliland.secret.md) 

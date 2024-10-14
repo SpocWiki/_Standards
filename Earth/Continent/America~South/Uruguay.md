@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -34.91
     - -56.17
@@ -144,9 +144,15 @@ Capital :: [[Uruguay/Counties/Montevideo/City/Montevideo]]
 
 
 ## Confidential Links & Embeds: 
-- [[Uruguay|Uruguay]] 
-- [[../../../../_internal/Earth/Continent/America~South/Uruguay.internal|Uruguay.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Uruguay.protect|Uruguay.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Uruguay.private|Uruguay.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Uruguay.personal|Uruguay.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Uruguay.secret|Uruguay.secret]] 
+
+### [Uruguay](/_public/Earth/Continent/America~South/Uruguay.md) 
+
+### [Uruguay.internal](/_internal/Earth/Continent/America~South/Uruguay.internal.md) 
+
+### [Uruguay.protect](/_protect/Earth/Continent/America~South/Uruguay.protect.md) 
+
+### [Uruguay.private](/_private/Earth/Continent/America~South/Uruguay.private.md) 
+
+### [Uruguay.personal](/_personal/Earth/Continent/America~South/Uruguay.personal.md) 
+
+### [Uruguay.secret](/_secret/Earth/Continent/America~South/Uruguay.secret.md) 

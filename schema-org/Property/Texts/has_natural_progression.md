@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_natural_progression|has_natural_progression]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_natural_progression.public|has_natural_progression.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_natural_progression.internal|has_natural_progression.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_natural_progression.protect|has_natural_progression.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_natural_progression.private|has_natural_progression.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_natural_progression.personal|has_natural_progression.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_natural_progression.secret|has_natural_progression.secret]] 
+
+### [has_natural_progression](/_public/schema-org/Property/Texts/has_natural_progression.md) 
+
+### [has_natural_progression.internal](/_internal/schema-org/Property/Texts/has_natural_progression.internal.md) 
+
+### [has_natural_progression.protect](/_protect/schema-org/Property/Texts/has_natural_progression.protect.md) 
+
+### [has_natural_progression.private](/_private/schema-org/Property/Texts/has_natural_progression.private.md) 
+
+### [has_natural_progression.personal](/_personal/schema-org/Property/Texts/has_natural_progression.personal.md) 
+
+### [has_natural_progression.secret](/_secret/schema-org/Property/Texts/has_natural_progression.secret.md) 

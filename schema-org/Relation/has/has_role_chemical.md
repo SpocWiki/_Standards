@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_role_chemical|has_role_chemical]] 
-- [[../../../../../_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_role_chemical.private|has_role_chemical.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]] 
+
+### [has_role_chemical](/_public/schema-org/Relation/has/has_role_chemical.md) 
+
+### [has_role_chemical.internal](/_internal/schema-org/Relation/has/has_role_chemical.internal.md) 
+
+### [has_role_chemical.protect](/_protect/schema-org/Relation/has/has_role_chemical.protect.md) 
+
+### [has_role_chemical.private](/_private/schema-org/Relation/has/has_role_chemical.private.md) 
+
+### [has_role_chemical.personal](/_personal/schema-org/Relation/has/has_role_chemical.personal.md) 
+
+### [has_role_chemical.secret](/_secret/schema-org/Relation/has/has_role_chemical.secret.md) 

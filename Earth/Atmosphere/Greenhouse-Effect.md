@@ -1,4 +1,4 @@
-
+﻿
 # [[Greenhouse-Effect]] 
 
 Greenhouses work, because Glass is transparent to visible Light and opaque to IR. 
@@ -102,3 +102,17 @@ options:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Greenhouse-Effect](/_public/Earth/Atmosphere/Greenhouse-Effect.md) 
+
+### [Greenhouse-Effect.internal](/_internal/Earth/Atmosphere/Greenhouse-Effect.internal.md) 
+
+### [Greenhouse-Effect.protect](/_protect/Earth/Atmosphere/Greenhouse-Effect.protect.md) 
+
+### [Greenhouse-Effect.private](/_private/Earth/Atmosphere/Greenhouse-Effect.private.md) 
+
+### [Greenhouse-Effect.personal](/_personal/Earth/Atmosphere/Greenhouse-Effect.personal.md) 
+
+### [Greenhouse-Effect.secret](/_secret/Earth/Atmosphere/Greenhouse-Effect.secret.md) 

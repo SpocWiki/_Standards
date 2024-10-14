@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: EducationalOccupationalCredential, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_education_requirements|has_education_requirements]] 
-- [[../../../../../_public/schema-org/Relation/has/has_education_requirements.public|has_education_requirements.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_education_requirements.internal|has_education_requirements.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_education_requirements.protect|has_education_requirements.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_education_requirements.private|has_education_requirements.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_education_requirements.personal|has_education_requirements.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_education_requirements.secret|has_education_requirements.secret]] 
+
+### [has_education_requirements](/_public/schema-org/Relation/has/has_education_requirements.md) 
+
+### [has_education_requirements.internal](/_internal/schema-org/Relation/has/has_education_requirements.internal.md) 
+
+### [has_education_requirements.protect](/_protect/schema-org/Relation/has/has_education_requirements.protect.md) 
+
+### [has_education_requirements.private](/_private/schema-org/Relation/has/has_education_requirements.private.md) 
+
+### [has_education_requirements.personal](/_personal/schema-org/Relation/has/has_education_requirements.personal.md) 
+
+### [has_education_requirements.secret](/_secret/schema-org/Relation/has/has_education_requirements.secret.md) 

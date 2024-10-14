@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -58,3 +58,17 @@ A medical specialty of the provider.
 MedicalSpecialty:: {"type":"Select","options":{"valuesList":{"Anesthesia","Cardiovascular","CommunityHealth","Dentistry","Dermatology","DietNutrition","Emergency","Endocrine","Gastroenterologic","Genetic","Geriatric","Gynecologic","Hematologic","Infectious","LaboratoryScience","Midwifery","Musculoskeletal","Neurologic","Nursing","Obstetric","Oncologic","Optometric","Otolaryngologic","Pathology","Pediatric","PharmacySpecialty","Physiotherapy","PlasticSurgery","Podiatric","PrimaryCare","Psychiatric","PublicHealth","Pulmonary","Radiography","Renal","RespiratoryTherapy","Rheumatologic","SpeechPathology","Surgical","Toxicologic","Urologic"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalOrganization](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.md) 
+
+### [FileClass~MedicalOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.internal.md) 
+
+### [FileClass~MedicalOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.protect.md) 
+
+### [FileClass~MedicalOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.private.md) 
+
+### [FileClass~MedicalOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.personal.md) 
+
+### [FileClass~MedicalOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization.secret.md) 

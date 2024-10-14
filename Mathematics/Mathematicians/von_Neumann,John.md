@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - John von Neumann
 ---
@@ -49,3 +49,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [von_Neumann,John](/_public/Mathematics/Mathematicians/von_Neumann,John.md) 
+
+### [von_Neumann,John.internal](/_internal/Mathematics/Mathematicians/von_Neumann,John.internal.md) 
+
+### [von_Neumann,John.protect](/_protect/Mathematics/Mathematicians/von_Neumann,John.protect.md) 
+
+### [von_Neumann,John.private](/_private/Mathematics/Mathematicians/von_Neumann,John.private.md) 
+
+### [von_Neumann,John.personal](/_personal/Mathematics/Mathematicians/von_Neumann,John.personal.md) 
+
+### [von_Neumann,John.secret](/_secret/Mathematics/Mathematicians/von_Neumann,John.secret.md) 

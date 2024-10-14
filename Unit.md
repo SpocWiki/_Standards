@@ -1,4 +1,4 @@
-# [[Unit]] 
+﻿# [[Unit]] 
 
 ## Edit
 
@@ -29,3 +29,17 @@ In XML-Syntax, the value can be specified either as an Attribute or as the Node'
 type: folder_brief_live
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Unit](/_public/Unit.md) 
+
+### [Unit.internal](/_internal/Unit.internal.md) 
+
+### [Unit.protect](/_protect/Unit.protect.md) 
+
+### [Unit.private](/_private/Unit.private.md) 
+
+### [Unit.personal](/_personal/Unit.personal.md) 
+
+### [Unit.secret](/_secret/Unit.secret.md) 

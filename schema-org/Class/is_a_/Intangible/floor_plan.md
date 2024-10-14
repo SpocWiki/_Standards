@@ -54,10 +54,15 @@ can be indicated using [[image]].
 [ #has_/properties :: [ additionalType, alternateName, amenityFeature, description, disambiguatingDescription, floorSize, identifier, image, isPlanForApartment, layoutImage, mainEntityOfPage, name, numberOfAccommodationUnits, numberOfAvailableAccommodationUnits, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, petsAllowed, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/floor_plan|floor_plan]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/floor_plan.public|floor_plan.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/floor_plan.internal|floor_plan.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/floor_plan.protect|floor_plan.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/floor_plan.private|floor_plan.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/floor_plan.personal|floor_plan.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/floor_plan.secret|floor_plan.secret]] 
+
+### [floor_plan](/_public/schema-org/Class/is_a_/Intangible/floor_plan.md) 
+
+### [floor_plan.internal](/_internal/schema-org/Class/is_a_/Intangible/floor_plan.internal.md) 
+
+### [floor_plan.protect](/_protect/schema-org/Class/is_a_/Intangible/floor_plan.protect.md) 
+
+### [floor_plan.private](/_private/schema-org/Class/is_a_/Intangible/floor_plan.private.md) 
+
+### [floor_plan.personal](/_personal/schema-org/Class/is_a_/Intangible/floor_plan.personal.md) 
+
+### [floor_plan.secret](/_secret/schema-org/Class/is_a_/Intangible/floor_plan.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 36.8
   - 10.18
@@ -148,9 +148,15 @@ Capital :: [[Tunis]]
 
 
 ## Confidential Links & Embeds: 
-- [[Tunisia|Tunisia]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~North/Tunisia.internal|Tunisia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~North/Tunisia.protect|Tunisia.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~North/Tunisia.private|Tunisia.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~North/Tunisia.personal|Tunisia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~North/Tunisia.secret|Tunisia.secret]] 
+
+### [Tunisia](/_public/Earth/Continent/Africa/Africa~North/Tunisia.md) 
+
+### [Tunisia.internal](/_internal/Earth/Continent/Africa/Africa~North/Tunisia.internal.md) 
+
+### [Tunisia.protect](/_protect/Earth/Continent/Africa/Africa~North/Tunisia.protect.md) 
+
+### [Tunisia.private](/_private/Earth/Continent/Africa/Africa~North/Tunisia.private.md) 
+
+### [Tunisia.personal](/_personal/Earth/Continent/Africa/Africa~North/Tunisia.personal.md) 
+
+### [Tunisia.secret](/_secret/Earth/Continent/Africa/Africa~North/Tunisia.secret.md) 

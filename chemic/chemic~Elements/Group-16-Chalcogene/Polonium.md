@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21979
@@ -36,10 +36,15 @@ SpocWebEntityId: 21979
 > [Wikipedia](https://en.wikipedia.org/wiki/Polonium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-16-Chalcogene/Polonium|Polonium]] 
-- [[../../../../_public/chemic/Elements/Group-16-Chalcogene/Polonium.public|Polonium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-16-Chalcogene/Polonium.internal|Polonium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-16-Chalcogene/Polonium.protect|Polonium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-16-Chalcogene/Polonium.private|Polonium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-16-Chalcogene/Polonium.personal|Polonium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-16-Chalcogene/Polonium.secret|Polonium.secret]] 
+
+### [Polonium](/_public/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.md) 
+
+### [Polonium.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.internal.md) 
+
+### [Polonium.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.protect.md) 
+
+### [Polonium.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.private.md) 
+
+### [Polonium.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.personal.md) 
+
+### [Polonium.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene/Polonium.secret.md) 

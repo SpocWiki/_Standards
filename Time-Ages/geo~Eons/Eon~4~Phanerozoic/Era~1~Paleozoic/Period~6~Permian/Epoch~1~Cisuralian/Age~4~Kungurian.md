@@ -1,4 +1,4 @@
-# [[Age~4~Kungurian]] 
+﻿# [[Age~4~Kungurian]] 
 
 #is_a_/time_/Age 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~4~Kungurian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~4~Kungurian.md) 
+
+### [Age~4~Kungurian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~4~Kungurian.internal.md) 
+
+### [Age~4~Kungurian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~4~Kungurian.protect.md) 
+
+### [Age~4~Kungurian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~4~Kungurian.private.md) 
+
+### [Age~4~Kungurian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~4~Kungurian.personal.md) 
+
+### [Age~4~Kungurian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~4~Kungurian.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_order_number|has_order_number]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_order_number.public|has_order_number.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_order_number.internal|has_order_number.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_order_number.protect|has_order_number.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_order_number.private|has_order_number.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_order_number.personal|has_order_number.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_order_number.secret|has_order_number.secret]] 
+
+### [has_order_number](/_public/schema-org/Property/Texts/has_order_number.md) 
+
+### [has_order_number.internal](/_internal/schema-org/Property/Texts/has_order_number.internal.md) 
+
+### [has_order_number.protect](/_protect/schema-org/Property/Texts/has_order_number.protect.md) 
+
+### [has_order_number.private](/_private/schema-org/Property/Texts/has_order_number.private.md) 
+
+### [has_order_number.personal](/_personal/schema-org/Property/Texts/has_order_number.personal.md) 
+
+### [has_order_number.secret](/_secret/schema-org/Property/Texts/has_order_number.secret.md) 

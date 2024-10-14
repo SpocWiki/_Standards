@@ -41,10 +41,15 @@ Any medical imaging modality typically used for diagnostic purposes. Enumerated 
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique|medical_imaging_technique]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.public|medical_imaging_technique.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.internal|medical_imaging_technique.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.protect|medical_imaging_technique.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.private|medical_imaging_technique.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.personal|medical_imaging_technique.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_imaging_technique.secret|medical_imaging_technique.secret]] 
+
+### [medical_imaging_technique](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.md) 
+
+### [medical_imaging_technique.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.internal.md) 
+
+### [medical_imaging_technique.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.protect.md) 
+
+### [medical_imaging_technique.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.private.md) 
+
+### [medical_imaging_technique.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.personal.md) 
+
+### [medical_imaging_technique.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_imaging_technique.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 is_sub_class_of: '[[../Thing|Thing]]'
 license: CC BY-SA 4.0
 confidential: public
@@ -54,10 +54,15 @@ while `schema:Activity` is used for broader, ongoing processes or events that ma
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Class/is_a_/action|action]] 
-- [[../../../../_public/schema-org/Class/is_a_/action.public|action.public]] 
-- [[../../../../_internal/schema.org/Class/is_a_/action.internal|action.internal]] 
-- [[../../../../_protect/schema.org/Class/is_a_/action.protect|action.protect]] 
-- [[../../../../_private/schema.org/Class/is_a_/action.private|action.private]] 
-- [[../../../../_personal/schema.org/Class/is_a_/action.personal|action.personal]] 
-- [[../../../../_secret/schema.org/Class/is_a_/action.secret|action.secret]] 
+
+### [action](/_public/schema-org/Class/is_a_/action.md) 
+
+### [action.internal](/_internal/schema-org/Class/is_a_/action.internal.md) 
+
+### [action.protect](/_protect/schema-org/Class/is_a_/action.protect.md) 
+
+### [action.private](/_private/schema-org/Class/is_a_/action.private.md) 
+
+### [action.personal](/_personal/schema-org/Class/is_a_/action.personal.md) 
+
+### [action.secret](/_secret/schema-org/Class/is_a_/action.secret.md) 

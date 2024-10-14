@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
   - Latin
@@ -41,11 +41,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Latin)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-la|Lang-la]] 
-- [[../../_public/lang/Lang-la.public|Lang-la.public]] 
-- [[../../../../../../_internal/lang/Lang-la.internal|Lang-la.internal]] 
-- [[../../_protect/lang/Lang-la.protect|Lang-la.protect]] 
-- [[../../_private/lang/Lang-la.private|Lang-la.private]] 
-- [[../../_personal/lang/Lang-la.personal|Lang-la.personal]] 
-- [[../../_secret/lang/Lang-la.secret|Lang-la.secret]]
 
+### [Lang-la](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.md) 
+
+### [Lang-la.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.internal.md) 
+
+### [Lang-la.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.protect.md) 
+
+### [Lang-la.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.private.md) 
+
+### [Lang-la.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.personal.md) 
+
+### [Lang-la.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/Lang-la.secret.md) 

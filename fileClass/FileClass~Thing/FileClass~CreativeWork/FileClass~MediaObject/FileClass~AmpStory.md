@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A creative work with a visual storytelling format intended to be viewed online, 
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~AmpStory](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.md) 
+
+### [FileClass~AmpStory.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.internal.md) 
+
+### [FileClass~AmpStory.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.protect.md) 
+
+### [FileClass~AmpStory.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.private.md) 
+
+### [FileClass~AmpStory.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.personal.md) 
+
+### [FileClass~AmpStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AmpStory.secret.md) 

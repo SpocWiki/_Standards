@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: ReturnLabelSourceEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_return_label_source|has_return_label_source]] 
-- [[../../../../../_public/schema-org/Relation/has/has_return_label_source.public|has_return_label_source.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_return_label_source.internal|has_return_label_source.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_return_label_source.protect|has_return_label_source.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_return_label_source.private|has_return_label_source.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_return_label_source.personal|has_return_label_source.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_return_label_source.secret|has_return_label_source.secret]] 
+
+### [has_return_label_source](/_public/schema-org/Relation/has/has_return_label_source.md) 
+
+### [has_return_label_source.internal](/_internal/schema-org/Relation/has/has_return_label_source.internal.md) 
+
+### [has_return_label_source.protect](/_protect/schema-org/Relation/has/has_return_label_source.protect.md) 
+
+### [has_return_label_source.private](/_private/schema-org/Relation/has/has_return_label_source.private.md) 
+
+### [has_return_label_source.personal](/_personal/schema-org/Relation/has/has_return_label_source.personal.md) 
+
+### [has_return_label_source.secret](/_secret/schema-org/Relation/has/has_return_label_source.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_service_output|has_service_output]] 
-- [[../../../../../_public/schema-org/Relation/has/has_service_output.public|has_service_output.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_service_output.internal|has_service_output.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_service_output.protect|has_service_output.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_service_output.private|has_service_output.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_service_output.personal|has_service_output.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_service_output.secret|has_service_output.secret]] 
+
+### [has_service_output](/_public/schema-org/Relation/has/has_service_output.md) 
+
+### [has_service_output.internal](/_internal/schema-org/Relation/has/has_service_output.internal.md) 
+
+### [has_service_output.protect](/_protect/schema-org/Relation/has/has_service_output.protect.md) 
+
+### [has_service_output.private](/_private/schema-org/Relation/has/has_service_output.private.md) 
+
+### [has_service_output.personal](/_personal/schema-org/Relation/has/has_service_output.personal.md) 
+
+### [has_service_output.secret](/_secret/schema-org/Relation/has/has_service_output.secret.md) 

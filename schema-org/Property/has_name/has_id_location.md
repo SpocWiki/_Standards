@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_location|has_id_location]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_location.public|has_id_location.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_location.internal|has_id_location.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_location.protect|has_id_location.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_location.private|has_id_location.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_location.personal|has_id_location.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_location.secret|has_id_location.secret]] 
+
+### [has_id_location](/_public/schema-org/Property/has_name/has_id_location.md) 
+
+### [has_id_location.internal](/_internal/schema-org/Property/has_name/has_id_location.internal.md) 
+
+### [has_id_location.protect](/_protect/schema-org/Property/has_name/has_id_location.protect.md) 
+
+### [has_id_location.private](/_private/schema-org/Property/has_name/has_id_location.private.md) 
+
+### [has_id_location.personal](/_personal/schema-org/Property/has_name/has_id_location.personal.md) 
+
+### [has_id_location.secret](/_secret/schema-org/Property/has_name/has_id_location.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -45,3 +45,17 @@ The time the object is scheduled to.
 ScheduledTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PlanAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction.md) 
+
+### [FileClass~PlanAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction.internal.md) 
+
+### [FileClass~PlanAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction.protect.md) 
+
+### [FileClass~PlanAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction.private.md) 
+
+### [FileClass~PlanAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction.personal.md) 
+
+### [FileClass~PlanAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction.secret.md) 

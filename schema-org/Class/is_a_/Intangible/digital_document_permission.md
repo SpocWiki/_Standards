@@ -43,10 +43,15 @@ A permission for a particular person or group to access a particular file.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, grantee, identifier, image, mainEntityOfPage, name, permissionType, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/digital_document_permission|digital_document_permission]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/digital_document_permission.public|digital_document_permission.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/digital_document_permission.internal|digital_document_permission.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/digital_document_permission.protect|digital_document_permission.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/digital_document_permission.private|digital_document_permission.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/digital_document_permission.personal|digital_document_permission.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/digital_document_permission.secret|digital_document_permission.secret]] 
+
+### [digital_document_permission](/_public/schema-org/Class/is_a_/Intangible/digital_document_permission.md) 
+
+### [digital_document_permission.internal](/_internal/schema-org/Class/is_a_/Intangible/digital_document_permission.internal.md) 
+
+### [digital_document_permission.protect](/_protect/schema-org/Class/is_a_/Intangible/digital_document_permission.protect.md) 
+
+### [digital_document_permission.private](/_private/schema-org/Class/is_a_/Intangible/digital_document_permission.private.md) 
+
+### [digital_document_permission.personal](/_personal/schema-org/Class/is_a_/Intangible/digital_document_permission.personal.md) 
+
+### [digital_document_permission.secret](/_secret/schema-org/Class/is_a_/Intangible/digital_document_permission.secret.md) 

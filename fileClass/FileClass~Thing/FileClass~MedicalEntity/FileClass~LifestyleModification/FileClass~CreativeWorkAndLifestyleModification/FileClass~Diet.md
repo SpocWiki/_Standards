@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -84,3 +84,17 @@ Specific physiologic risks associated to the diet plan.
 Risks:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Diet](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification/FileClass~Diet.md) 
+
+### [FileClass~Diet.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification/FileClass~Diet.internal.md) 
+
+### [FileClass~Diet.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification/FileClass~Diet.protect.md) 
+
+### [FileClass~Diet.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification/FileClass~Diet.private.md) 
+
+### [FileClass~Diet.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification/FileClass~Diet.personal.md) 
+
+### [FileClass~Diet.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~CreativeWorkAndLifestyleModification/FileClass~Diet.secret.md) 

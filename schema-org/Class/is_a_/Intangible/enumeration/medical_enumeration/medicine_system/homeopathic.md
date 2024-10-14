@@ -45,10 +45,15 @@ A system of medicine based on the principle that a disease can be cured by a sub
 [ #is_/enum_of :: [[../MedicineSystem]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic|homeopathic]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.public|homeopathic.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.internal|homeopathic.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.protect|homeopathic.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.private|homeopathic.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.personal|homeopathic.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system/homeopathic.secret|homeopathic.secret]] 
+
+### [homeopathic](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.md) 
+
+### [homeopathic.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.internal.md) 
+
+### [homeopathic.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.protect.md) 
+
+### [homeopathic.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.private.md) 
+
+### [homeopathic.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.personal.md) 
+
+### [homeopathic.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system/homeopathic.secret.md) 

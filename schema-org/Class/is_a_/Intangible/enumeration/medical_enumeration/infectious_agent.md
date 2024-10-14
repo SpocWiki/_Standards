@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,10 +39,15 @@ Classes of agents or pathogens that transmit infectious diseases. Enumerated typ
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class|infectious_agent_class]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.public|infectious_agent_class.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.internal|infectious_agent_class.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.protect|infectious_agent_class.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.private|infectious_agent_class.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.personal|infectious_agent_class.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/infectious_agent_class.secret|infectious_agent_class.secret]] 
+
+### [infectious_agent](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.md) 
+
+### [infectious_agent.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.internal.md) 
+
+### [infectious_agent.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.protect.md) 
+
+### [infectious_agent.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.private.md) 
+
+### [infectious_agent.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.personal.md) 
+
+### [infectious_agent.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/infectious_agent.secret.md) 

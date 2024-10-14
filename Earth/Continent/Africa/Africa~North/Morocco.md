@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 33.0225
 - -7.6125
@@ -144,9 +144,15 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 
 
 ## Confidential Links & Embeds: 
-- [[Morocco|Morocco]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~North/Morocco.internal|Morocco.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~North/Morocco.protect|Morocco.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~North/Morocco.private|Morocco.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~North/Morocco.personal|Morocco.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~North/Morocco.secret|Morocco.secret]] 
+
+### [Morocco](/_public/Earth/Continent/Africa/Africa~North/Morocco.md) 
+
+### [Morocco.internal](/_internal/Earth/Continent/Africa/Africa~North/Morocco.internal.md) 
+
+### [Morocco.protect](/_protect/Earth/Continent/Africa/Africa~North/Morocco.protect.md) 
+
+### [Morocco.private](/_private/Earth/Continent/Africa/Africa~North/Morocco.private.md) 
+
+### [Morocco.personal](/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal.md) 
+
+### [Morocco.secret](/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret.md) 

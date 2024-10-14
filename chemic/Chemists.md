@@ -1,4 +1,4 @@
-# [[Chemists]] 
+﻿# [[Chemists]] 
 
 > A chemist (from Greek chēm(ía) alchemy; 
 > replacing chymist from Medieval Latin alchemist) 
@@ -37,3 +37,17 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chemist)
 
+
+## Confidential Links & Embeds: 
+
+### [Chemists](/_public/chemic/Chemists.md) 
+
+### [Chemists.internal](/_internal/chemic/Chemists.internal.md) 
+
+### [Chemists.protect](/_protect/chemic/Chemists.protect.md) 
+
+### [Chemists.private](/_private/chemic/Chemists.private.md) 
+
+### [Chemists.personal](/_personal/chemic/Chemists.personal.md) 
+
+### [Chemists.secret](/_secret/chemic/Chemists.secret.md) 

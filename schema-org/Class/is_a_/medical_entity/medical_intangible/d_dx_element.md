@@ -43,10 +43,15 @@ An alternative, closely-related condition typically considered later in the diff
 [ #has_/properties :: [ additionalType, alternateName, code, description, diagnosis, disambiguatingDescription, distinguishingSign, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element|d_dx_element]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.public|d_dx_element.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.internal|d_dx_element.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.protect|d_dx_element.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.private|d_dx_element.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.personal|d_dx_element.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.secret|d_dx_element.secret]] 
+
+### [d_dx_element](/_public/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.md) 
+
+### [d_dx_element.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.internal.md) 
+
+### [d_dx_element.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.protect.md) 
+
+### [d_dx_element.private](/_private/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.private.md) 
+
+### [d_dx_element.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.personal.md) 
+
+### [d_dx_element.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_intangible/d_dx_element.secret.md) 

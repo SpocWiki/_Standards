@@ -45,10 +45,15 @@ A blog post.
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, articleBody, articleSection, assesses, associatedMedia, audience, audio, author, award, awards, backstory, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pageEnd, pageStart, pagination, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, sharedContent, size, sourceOrganization, spatial, spatialCoverage, speakable, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, wordCount, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting|blog_posting]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.public|blog_posting.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.internal|blog_posting.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.protect|blog_posting.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.private|blog_posting.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.personal|blog_posting.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.secret|blog_posting.secret]] 
+
+### [blog_posting](/_public/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.md) 
+
+### [blog_posting.internal](/_internal/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.internal.md) 
+
+### [blog_posting.protect](/_protect/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.protect.md) 
+
+### [blog_posting.private](/_private/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.private.md) 
+
+### [blog_posting.personal](/_personal/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.personal.md) 
+
+### [blog_posting.secret](/_secret/schema-org/Class/is_a_/creative_work/article/social_media_posting/blog_posting.secret.md) 

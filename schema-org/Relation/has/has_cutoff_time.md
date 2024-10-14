@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Time )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_cutoff_time|has_cutoff_time]] 
-- [[../../../../../_public/schema-org/Relation/has/has_cutoff_time.public|has_cutoff_time.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_cutoff_time.internal|has_cutoff_time.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_cutoff_time.protect|has_cutoff_time.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_cutoff_time.private|has_cutoff_time.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_cutoff_time.personal|has_cutoff_time.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_cutoff_time.secret|has_cutoff_time.secret]] 
+
+### [has_cutoff_time](/_public/schema-org/Relation/has/has_cutoff_time.md) 
+
+### [has_cutoff_time.internal](/_internal/schema-org/Relation/has/has_cutoff_time.internal.md) 
+
+### [has_cutoff_time.protect](/_protect/schema-org/Relation/has/has_cutoff_time.protect.md) 
+
+### [has_cutoff_time.private](/_private/schema-org/Relation/has/has_cutoff_time.private.md) 
+
+### [has_cutoff_time.personal](/_personal/schema-org/Relation/has/has_cutoff_time.personal.md) 
+
+### [has_cutoff_time.secret](/_secret/schema-org/Relation/has/has_cutoff_time.secret.md) 

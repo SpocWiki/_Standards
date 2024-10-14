@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A sporting goods store.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SportingGoodsStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.md) 
+
+### [FileClass~SportingGoodsStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.internal.md) 
+
+### [FileClass~SportingGoodsStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.protect.md) 
+
+### [FileClass~SportingGoodsStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.private.md) 
+
+### [FileClass~SportingGoodsStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.personal.md) 
+
+### [FileClass~SportingGoodsStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~SportingGoodsStore.secret.md) 

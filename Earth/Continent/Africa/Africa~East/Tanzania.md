@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -6.17306
 - 35.7419
@@ -165,9 +165,15 @@ Capital :: [[Dodoma]]
 
 
 ## Confidential Links & Embeds: 
-- [[Tanzania|Tanzania]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Tanzania.internal|Tanzania.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Tanzania.protect|Tanzania.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Tanzania.private|Tanzania.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal|Tanzania.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret|Tanzania.secret]] 
+
+### [Tanzania](/_public/Earth/Continent/Africa/Africa~East/Tanzania.md) 
+
+### [Tanzania.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanzania.internal.md) 
+
+### [Tanzania.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanzania.protect.md) 
+
+### [Tanzania.private](/_private/Earth/Continent/Africa/Africa~East/Tanzania.private.md) 
+
+### [Tanzania.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal.md) 
+
+### [Tanzania.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret.md) 

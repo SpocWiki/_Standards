@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/inverse_of  :: [[is_funding_item]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_funding|has_funding]] 
-- [[../../../../../_public/schema-org/Relation/has/has_funding.public|has_funding.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_funding.internal|has_funding.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_funding.protect|has_funding.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_funding.private|has_funding.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_funding.personal|has_funding.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_funding.secret|has_funding.secret]] 
+
+### [has_funding](/_public/schema-org/Relation/has/has_funding.md) 
+
+### [has_funding.internal](/_internal/schema-org/Relation/has/has_funding.internal.md) 
+
+### [has_funding.protect](/_protect/schema-org/Relation/has/has_funding.protect.md) 
+
+### [has_funding.private](/_private/schema-org/Relation/has/has_funding.private.md) 
+
+### [has_funding.personal](/_personal/schema-org/Relation/has/has_funding.personal.md) 
+
+### [has_funding.secret](/_secret/schema-org/Relation/has/has_funding.secret.md) 

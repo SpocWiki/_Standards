@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of interacting with another person or organization.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~InteractAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.md) 
+
+### [FileClass~InteractAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.internal.md) 
+
+### [FileClass~InteractAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.protect.md) 
+
+### [FileClass~InteractAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.private.md) 
+
+### [FileClass~InteractAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.personal.md) 
+
+### [FileClass~InteractAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction.secret.md) 

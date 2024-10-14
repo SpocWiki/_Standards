@@ -1,4 +1,4 @@
-# [[Age~2~Burdigalian]] 
+﻿# [[Age~2~Burdigalian]] 
 
 #is_a_/time_/Age 
 
@@ -51,3 +51,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Burdigalian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.md) 
+
+### [Age~2~Burdigalian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.internal.md) 
+
+### [Age~2~Burdigalian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.protect.md) 
+
+### [Age~2~Burdigalian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.private.md) 
+
+### [Age~2~Burdigalian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.personal.md) 
+
+### [Age~2~Burdigalian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~2~Burdigalian.secret.md) 

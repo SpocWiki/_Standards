@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -17.9 , 181.7 ] 
 type: geo-Region
 title: Fiji~Eastern
@@ -40,11 +40,15 @@ markerFolder: ./Fiji~Eastern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Fiji/Counties/Fiji~Eastern|Fiji~Eastern]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Fiji/Counties/Fiji~Eastern.public|Fiji~Eastern.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Fiji/Counties/Fiji~Eastern.internal|Fiji~Eastern.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Fiji/Counties/Fiji~Eastern.protect|Fiji~Eastern.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Fiji/Counties/Fiji~Eastern.private|Fiji~Eastern.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Fiji/Counties/Fiji~Eastern.personal|Fiji~Eastern.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Fiji/Counties/Fiji~Eastern.secret|Fiji~Eastern.secret]] 
 
+### [Fiji~Eastern](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.md) 
+
+### [Fiji~Eastern.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.internal.md) 
+
+### [Fiji~Eastern.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.protect.md) 
+
+### [Fiji~Eastern.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.private.md) 
+
+### [Fiji~Eastern.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.personal.md) 
+
+### [Fiji~Eastern.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21933
@@ -40,10 +40,15 @@ SpocWebEntityId: 21933
 > [Wikipedia](https://en.wikipedia.org/wiki/Bromine)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-17-Halogene/Bromine|Bromine]] 
-- [[../../../../_public/chemic/Elements/Group-17-Halogene/Bromine.public|Bromine.public]] 
-- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Bromine.internal|Bromine.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Bromine.protect|Bromine.protect]] 
-- [[../../../../_private/chemic/Elements/Group-17-Halogene/Bromine.private|Bromine.private]] 
-- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Bromine.personal|Bromine.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Bromine.secret|Bromine.secret]] 
+
+### [Bromine](/_public/chemic/chemic~Elements/Group-17-Halogene/Bromine.md) 
+
+### [Bromine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Bromine.internal.md) 
+
+### [Bromine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Bromine.protect.md) 
+
+### [Bromine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Bromine.private.md) 
+
+### [Bromine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Bromine.personal.md) 
+
+### [Bromine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Bromine.secret.md) 

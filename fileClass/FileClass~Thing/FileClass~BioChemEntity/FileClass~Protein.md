@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ A symbolic representation of a BioChemEntity. For example, a nucleotide sequence
 HasBioPolymerSequence:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Protein](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.md) 
+
+### [FileClass~Protein.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.internal.md) 
+
+### [FileClass~Protein.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.protect.md) 
+
+### [FileClass~Protein.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.private.md) 
+
+### [FileClass~Protein.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.personal.md) 
+
+### [FileClass~Protein.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.secret.md) 

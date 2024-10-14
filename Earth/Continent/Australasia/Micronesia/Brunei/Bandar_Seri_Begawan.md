@@ -1,4 +1,4 @@
----
+﻿---
 location: [4.890283,114.9422] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Oceania/Brunei/Bandar_Seri_Begawan|Bandar_Seri_Begawan]] 
-- [[../../../../../_public/Earth/Continent/Oceania/Brunei/Bandar_Seri_Begawan.public|Bandar_Seri_Begawan.public]] 
-- [[../../../../../_internal/Earth/Continent/Oceania/Brunei/Bandar_Seri_Begawan.internal|Bandar_Seri_Begawan.internal]] 
-- [[../../../../../_protect/Earth/Continent/Oceania/Brunei/Bandar_Seri_Begawan.protect|Bandar_Seri_Begawan.protect]] 
-- [[../../../../../_private/Earth/Continent/Oceania/Brunei/Bandar_Seri_Begawan.private|Bandar_Seri_Begawan.private]] 
-- [[../../../../../_personal/Earth/Continent/Oceania/Brunei/Bandar_Seri_Begawan.personal|Bandar_Seri_Begawan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Oceania/Brunei/Bandar_Seri_Begawan.secret|Bandar_Seri_Begawan.secret]] 
+
+### [Bandar_Seri_Begawan](/_public/Earth/Continent/Australasia/Micronesia/Brunei/Bandar_Seri_Begawan.md) 
+
+### [Bandar_Seri_Begawan.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/Bandar_Seri_Begawan.internal.md) 
+
+### [Bandar_Seri_Begawan.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/Bandar_Seri_Begawan.protect.md) 
+
+### [Bandar_Seri_Begawan.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/Bandar_Seri_Begawan.private.md) 
+
+### [Bandar_Seri_Begawan.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/Bandar_Seri_Begawan.personal.md) 
+
+### [Bandar_Seri_Begawan.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/Bandar_Seri_Begawan.secret.md) 

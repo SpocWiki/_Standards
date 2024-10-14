@@ -1,4 +1,4 @@
----
+﻿---
 location: [-9.43,159.96] 
 mapmarker: city 
 type: City
@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Solomon~Islands/City/Honiara|Honiara]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Solomon~Islands/City/Honiara.public|Honiara.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Solomon~Islands/City/Honiara.internal|Honiara.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Solomon~Islands/City/Honiara.protect|Honiara.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Solomon~Islands/City/Honiara.private|Honiara.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Solomon~Islands/City/Honiara.personal|Honiara.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Solomon~Islands/City/Honiara.secret|Honiara.secret]] 
+
+### [Honiara](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.md) 
+
+### [Honiara.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.internal.md) 
+
+### [Honiara.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.protect.md) 
+
+### [Honiara.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.private.md) 
+
+### [Honiara.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.personal.md) 
+
+### [Honiara.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guadalcanal/Honiara.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: MerchantReturnEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_return_policy_category|has_return_policy_category]] 
-- [[../../../../../_public/schema-org/Relation/has/has_return_policy_category.public|has_return_policy_category.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_return_policy_category.internal|has_return_policy_category.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_return_policy_category.protect|has_return_policy_category.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_return_policy_category.private|has_return_policy_category.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_return_policy_category.personal|has_return_policy_category.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_return_policy_category.secret|has_return_policy_category.secret]] 
+
+### [has_return_policy_category](/_public/schema-org/Relation/has/has_return_policy_category.md) 
+
+### [has_return_policy_category.internal](/_internal/schema-org/Relation/has/has_return_policy_category.internal.md) 
+
+### [has_return_policy_category.protect](/_protect/schema-org/Relation/has/has_return_policy_category.protect.md) 
+
+### [has_return_policy_category.private](/_private/schema-org/Relation/has/has_return_policy_category.private.md) 
+
+### [has_return_policy_category.personal](/_personal/schema-org/Relation/has/has_return_policy_category.personal.md) 
+
+### [has_return_policy_category.secret](/_secret/schema-org/Relation/has/has_return_policy_category.secret.md) 

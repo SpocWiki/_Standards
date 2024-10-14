@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 6.31667
 - -10.8
@@ -139,9 +139,15 @@ Capital :: [[Monrovia]]
 
 
 ## Confidential Links & Embeds: 
-- [[Liberia|Liberia]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Liberia.internal|Liberia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Liberia.protect|Liberia.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Liberia.private|Liberia.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Liberia.personal|Liberia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Liberia.secret|Liberia.secret]] 
+
+### [Liberia](/_public/Earth/Continent/Africa/Africa~West/Liberia.md) 
+
+### [Liberia.internal](/_internal/Earth/Continent/Africa/Africa~West/Liberia.internal.md) 
+
+### [Liberia.protect](/_protect/Earth/Continent/Africa/Africa~West/Liberia.protect.md) 
+
+### [Liberia.private](/_private/Earth/Continent/Africa/Africa~West/Liberia.private.md) 
+
+### [Liberia.personal](/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal.md) 
+
+### [Liberia.secret](/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret.md) 

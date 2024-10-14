@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Predicate describes that:
 [ #has_/sub_properties :: [ course, entertainmentBusiness, exerciseCourse, foodEstablishment, foodEvent, fromLocation, homeLocation, itemLocation, sportsActivityLocation, sportsEvent, toLocation, workLocation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_|has_location_]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_.public|has_location_.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_.internal|has_location_.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_.protect|has_location_.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_.private|has_location_.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_.personal|has_location_.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_.secret|has_location_.secret]] 
+
+### [has_location_](/_public/schema-org/Property/has_location/has_location_.md) 
+
+### [has_location_.internal](/_internal/schema-org/Property/has_location/has_location_.internal.md) 
+
+### [has_location_.protect](/_protect/schema-org/Property/has_location/has_location_.protect.md) 
+
+### [has_location_.private](/_private/schema-org/Property/has_location/has_location_.private.md) 
+
+### [has_location_.personal](/_personal/schema-org/Property/has_location/has_location_.personal.md) 
+
+### [has_location_.secret](/_secret/schema-org/Property/has_location/has_location_.secret.md) 

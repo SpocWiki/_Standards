@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 16.36 , 145.67 ] 
 type: geo-Region
 title: Northern_Islands
@@ -40,11 +40,15 @@ markerFolder: ./Northern_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands|Northern_Islands]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.public|Northern_Islands.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.internal|Northern_Islands.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.protect|Northern_Islands.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.private|Northern_Islands.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.personal|Northern_Islands.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Northern_Mariana~Islands/Counties/Northern_Islands.secret|Northern_Islands.secret]] 
 
+### [Northern_Islands](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.md) 
+
+### [Northern_Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.internal.md) 
+
+### [Northern_Islands.protect](/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.protect.md) 
+
+### [Northern_Islands.private](/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.private.md) 
+
+### [Northern_Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.personal.md) 
+
+### [Northern_Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands/Municipalities~Mariana-Islands/Northern_Islands.secret.md) 

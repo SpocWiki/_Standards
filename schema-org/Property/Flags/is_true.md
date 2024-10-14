@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicate describes that:
 ( #has_/range :: Boolean, Number, StructuredValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_true|is_true]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_true.public|is_true.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_true.internal|is_true.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_true.protect|is_true.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_true.private|is_true.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_true.personal|is_true.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_true.secret|is_true.secret]] 
+
+### [is_true](/_public/schema-org/Property/Flags/is_true.md) 
+
+### [is_true.internal](/_internal/schema-org/Property/Flags/is_true.internal.md) 
+
+### [is_true.protect](/_protect/schema-org/Property/Flags/is_true.protect.md) 
+
+### [is_true.private](/_private/schema-org/Property/Flags/is_true.private.md) 
+
+### [is_true.personal](/_personal/schema-org/Property/Flags/is_true.personal.md) 
+
+### [is_true.secret](/_secret/schema-org/Property/Flags/is_true.secret.md) 

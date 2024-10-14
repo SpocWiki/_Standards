@@ -49,10 +49,15 @@ Related actions:
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action|confirm_action]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.public|confirm_action.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.internal|confirm_action.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.protect|confirm_action.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.private|confirm_action.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.personal|confirm_action.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.secret|confirm_action.secret]] 
+
+### [confirm_action](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.md) 
+
+### [confirm_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.internal.md) 
+
+### [confirm_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.protect.md) 
+
+### [confirm_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.private.md) 
+
+### [confirm_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.personal.md) 
+
+### [confirm_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action/inform_action/confirm_action.secret.md) 

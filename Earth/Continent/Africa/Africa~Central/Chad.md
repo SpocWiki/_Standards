@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 12.1
 - 16.0333
@@ -145,9 +145,15 @@ Capital :: [[N'Djamena]]
 
 
 ## Confidential Links & Embeds: 
-- [[Chad|Chad]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Chad.internal|Chad.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Chad.protect|Chad.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Chad.private|Chad.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Chad.personal|Chad.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Chad.secret|Chad.secret]] 
+
+### [Chad](/_public/Earth/Continent/Africa/Africa~Central/Chad.md) 
+
+### [Chad.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad.internal.md) 
+
+### [Chad.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad.protect.md) 
+
+### [Chad.private](/_private/Earth/Continent/Africa/Africa~Central/Chad.private.md) 
+
+### [Chad.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad.personal.md) 
+
+### [Chad.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad.secret.md) 

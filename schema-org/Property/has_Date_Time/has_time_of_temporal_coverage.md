@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -58,10 +58,15 @@ Formal Predicate:
 (range::DateTime, Text, URL)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_temporal_coverage|has_time_of_temporal_coverage]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_temporal_coverage.public|has_time_of_temporal_coverage.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.internal|has_time_of_temporal_coverage.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.protect|has_time_of_temporal_coverage.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.private|has_time_of_temporal_coverage.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.personal|has_time_of_temporal_coverage.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_temporal_coverage.secret|has_time_of_temporal_coverage.secret]] 
+
+### [has_time_of_temporal_coverage](/_public/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.md) 
+
+### [has_time_of_temporal_coverage.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.internal.md) 
+
+### [has_time_of_temporal_coverage.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.protect.md) 
+
+### [has_time_of_temporal_coverage.private](/_private/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.private.md) 
+
+### [has_time_of_temporal_coverage.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.personal.md) 
+
+### [has_time_of_temporal_coverage.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_temporal_coverage.secret.md) 

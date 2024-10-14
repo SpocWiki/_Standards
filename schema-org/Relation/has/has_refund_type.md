@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: RefundTypeEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_refund_type|has_refund_type]] 
-- [[../../../../../_public/schema-org/Relation/has/has_refund_type.public|has_refund_type.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_refund_type.internal|has_refund_type.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_refund_type.protect|has_refund_type.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_refund_type.private|has_refund_type.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_refund_type.personal|has_refund_type.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_refund_type.secret|has_refund_type.secret]] 
+
+### [has_refund_type](/_public/schema-org/Relation/has/has_refund_type.md) 
+
+### [has_refund_type.internal](/_internal/schema-org/Relation/has/has_refund_type.internal.md) 
+
+### [has_refund_type.protect](/_protect/schema-org/Relation/has/has_refund_type.protect.md) 
+
+### [has_refund_type.private](/_private/schema-org/Relation/has/has_refund_type.private.md) 
+
+### [has_refund_type.personal](/_personal/schema-org/Relation/has/has_refund_type.personal.md) 
+
+### [has_refund_type.secret](/_secret/schema-org/Relation/has/has_refund_type.secret.md) 

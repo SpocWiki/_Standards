@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ awayTeam, homeTeam ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_competitor|has_competitor]] 
-- [[../../../../../_public/schema-org/Relation/has/has_competitor.public|has_competitor.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_competitor.internal|has_competitor.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_competitor.protect|has_competitor.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_competitor.private|has_competitor.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_competitor.personal|has_competitor.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_competitor.secret|has_competitor.secret]] 
+
+### [has_competitor](/_public/schema-org/Relation/has/has_competitor.md) 
+
+### [has_competitor.internal](/_internal/schema-org/Relation/has/has_competitor.internal.md) 
+
+### [has_competitor.protect](/_protect/schema-org/Relation/has/has_competitor.protect.md) 
+
+### [has_competitor.private](/_private/schema-org/Relation/has/has_competitor.private.md) 
+
+### [has_competitor.personal](/_personal/schema-org/Relation/has/has_competitor.personal.md) 
+
+### [has_competitor.secret](/_secret/schema-org/Relation/has/has_competitor.secret.md) 

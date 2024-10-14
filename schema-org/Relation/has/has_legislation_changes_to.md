@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,10 +53,15 @@ Relation describes that:
 ( #has_/range :: Legislation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_legislation_changes_to|has_legislation_changes_to]] 
-- [[../../../../../_public/schema-org/Relation/has/has_legislation_changes_to.public|has_legislation_changes_to.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_legislation_changes_to.internal|has_legislation_changes_to.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_legislation_changes_to.protect|has_legislation_changes_to.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_legislation_changes_to.private|has_legislation_changes_to.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_legislation_changes_to.personal|has_legislation_changes_to.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_legislation_changes_to.secret|has_legislation_changes_to.secret]] 
+
+### [has_legislation_changes_to](/_public/schema-org/Relation/has/has_legislation_changes_to.md) 
+
+### [has_legislation_changes_to.internal](/_internal/schema-org/Relation/has/has_legislation_changes_to.internal.md) 
+
+### [has_legislation_changes_to.protect](/_protect/schema-org/Relation/has/has_legislation_changes_to.protect.md) 
+
+### [has_legislation_changes_to.private](/_private/schema-org/Relation/has/has_legislation_changes_to.private.md) 
+
+### [has_legislation_changes_to.personal](/_personal/schema-org/Relation/has/has_legislation_changes_to.personal.md) 
+
+### [has_legislation_changes_to.secret](/_secret/schema-org/Relation/has/has_legislation_changes_to.secret.md) 

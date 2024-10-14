@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Russian
@@ -66,11 +66,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Russian%20language)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-ru|Lang-ru]] 
-- [[../../_public/lang/Lang-ru.public|Lang-ru.public]] 
-- [[../../../../../_internal/lang/Lang-ru.internal|Lang-ru.internal]] 
-- [[../../_protect/lang/Lang-ru.protect|Lang-ru.protect]] 
-- [[../../_private/lang/Lang-ru.private|Lang-ru.private]] 
-- [[../../_personal/lang/Lang-ru.personal|Lang-ru.personal]] 
-- [[../../_secret/lang/Lang-ru.secret|Lang-ru.secret]]
 
+### [Lang-ru](/_public/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-ru.md) 
+
+### [Lang-ru.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-ru.internal.md) 
+
+### [Lang-ru.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-ru.protect.md) 
+
+### [Lang-ru.private](/_private/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-ru.private.md) 
+
+### [Lang-ru.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-ru.personal.md) 
+
+### [Lang-ru.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-ru.secret.md) 

@@ -43,10 +43,15 @@ Information about the engine of the vehicle. A vehicle can have multiple engines
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, engineDisplacement, enginePower, engineType, fuelType, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, torque, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/engine_specification|engine_specification]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/engine_specification.public|engine_specification.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/engine_specification.internal|engine_specification.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/engine_specification.protect|engine_specification.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/engine_specification.private|engine_specification.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/engine_specification.personal|engine_specification.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/engine_specification.secret|engine_specification.secret]] 
+
+### [engine_specification](/_public/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.md) 
+
+### [engine_specification.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.internal.md) 
+
+### [engine_specification.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.protect.md) 
+
+### [engine_specification.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.private.md) 
+
+### [engine_specification.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.personal.md) 
+
+### [engine_specification.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/engine_specification.secret.md) 

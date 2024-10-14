@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_associated_pathophysiology|has_associated_pathophysiology]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_associated_pathophysiology.public|has_associated_pathophysiology.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_associated_pathophysiology.internal|has_associated_pathophysiology.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_associated_pathophysiology.protect|has_associated_pathophysiology.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_associated_pathophysiology.private|has_associated_pathophysiology.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_associated_pathophysiology.personal|has_associated_pathophysiology.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_associated_pathophysiology.secret|has_associated_pathophysiology.secret]] 
+
+### [has_associated_pathophysiology](/_public/schema-org/Property/Texts/has_associated_pathophysiology.md) 
+
+### [has_associated_pathophysiology.internal](/_internal/schema-org/Property/Texts/has_associated_pathophysiology.internal.md) 
+
+### [has_associated_pathophysiology.protect](/_protect/schema-org/Property/Texts/has_associated_pathophysiology.protect.md) 
+
+### [has_associated_pathophysiology.private](/_private/schema-org/Property/Texts/has_associated_pathophysiology.private.md) 
+
+### [has_associated_pathophysiology.personal](/_personal/schema-org/Property/Texts/has_associated_pathophysiology.personal.md) 
+
+### [has_associated_pathophysiology.secret](/_secret/schema-org/Property/Texts/has_associated_pathophysiology.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_keywords|has_keywords]] 
-- [[../../../../../_public/schema-org/Relation/has/has_keywords.public|has_keywords.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_keywords.internal|has_keywords.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_keywords.protect|has_keywords.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_keywords.private|has_keywords.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_keywords.personal|has_keywords.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_keywords.secret|has_keywords.secret]] 
+
+### [has_keywords](/_public/schema-org/Relation/has/has_keywords.md) 
+
+### [has_keywords.internal](/_internal/schema-org/Relation/has/has_keywords.internal.md) 
+
+### [has_keywords.protect](/_protect/schema-org/Relation/has/has_keywords.protect.md) 
+
+### [has_keywords.private](/_private/schema-org/Relation/has/has_keywords.private.md) 
+
+### [has_keywords.personal](/_personal/schema-org/Relation/has/has_keywords.personal.md) 
+
+### [has_keywords.secret](/_secret/schema-org/Relation/has/has_keywords.secret.md) 

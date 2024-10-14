@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: BoardingPolicyType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_boarding_policy|has_boarding_policy]] 
-- [[../../../../../_public/schema-org/Relation/has/has_boarding_policy.public|has_boarding_policy.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_boarding_policy.internal|has_boarding_policy.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_boarding_policy.protect|has_boarding_policy.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_boarding_policy.private|has_boarding_policy.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_boarding_policy.personal|has_boarding_policy.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_boarding_policy.secret|has_boarding_policy.secret]] 
+
+### [has_boarding_policy](/_public/schema-org/Relation/has/has_boarding_policy.md) 
+
+### [has_boarding_policy.internal](/_internal/schema-org/Relation/has/has_boarding_policy.internal.md) 
+
+### [has_boarding_policy.protect](/_protect/schema-org/Relation/has/has_boarding_policy.protect.md) 
+
+### [has_boarding_policy.private](/_private/schema-org/Relation/has/has_boarding_policy.private.md) 
+
+### [has_boarding_policy.personal](/_personal/schema-org/Relation/has/has_boarding_policy.personal.md) 
+
+### [has_boarding_policy.secret](/_secret/schema-org/Relation/has/has_boarding_policy.secret.md) 

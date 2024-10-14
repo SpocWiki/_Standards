@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ A number associated with a role in an organization, for example, the number on a
 NumberedPosition:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~OrganizationRole](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.md) 
+
+### [FileClass~OrganizationRole.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.internal.md) 
+
+### [FileClass~OrganizationRole.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.protect.md) 
+
+### [FileClass~OrganizationRole.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.private.md) 
+
+### [FileClass~OrganizationRole.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.personal.md) 
+
+### [FileClass~OrganizationRole.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~OrganizationRole.secret.md) 

@@ -45,10 +45,15 @@ Physical activity that is engaged to help maintain posture and balance.
 [ #is_/enum_of :: [[../PhysicalActivityCategory]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/balance|balance]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/physical_activity_category/balance.public|balance.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/balance.internal|balance.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/balance.protect|balance.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/balance.private|balance.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/balance.personal|balance.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/physical_activity_category/balance.secret|balance.secret]] 
+
+### [balance](/_public/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.md) 
+
+### [balance.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.internal.md) 
+
+### [balance.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.protect.md) 
+
+### [balance.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.private.md) 
+
+### [balance.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.personal.md) 
+
+### [balance.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/physical_activity_category/balance.secret.md) 

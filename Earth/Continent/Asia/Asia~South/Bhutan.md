@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 27.417
     - 90.435
@@ -145,9 +145,15 @@ Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]
 
 
 ## Confidential Links & Embeds: 
-- [[Bhutan|Bhutan]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South/Bhutan.internal|Bhutan.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South/Bhutan.protect|Bhutan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South/Bhutan.private|Bhutan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South/Bhutan.personal|Bhutan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South/Bhutan.secret|Bhutan.secret]] 
+
+### [Bhutan](/_public/Earth/Continent/Asia/Asia~South/Bhutan.md) 
+
+### [Bhutan.internal](/_internal/Earth/Continent/Asia/Asia~South/Bhutan.internal.md) 
+
+### [Bhutan.protect](/_protect/Earth/Continent/Asia/Asia~South/Bhutan.protect.md) 
+
+### [Bhutan.private](/_private/Earth/Continent/Asia/Asia~South/Bhutan.private.md) 
+
+### [Bhutan.personal](/_personal/Earth/Continent/Asia/Asia~South/Bhutan.personal.md) 
+
+### [Bhutan.secret](/_secret/Earth/Continent/Asia/Asia~South/Bhutan.secret.md) 

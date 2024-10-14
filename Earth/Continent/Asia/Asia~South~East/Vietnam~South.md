@@ -1,4 +1,4 @@
----
+﻿---
 location: [10.75,106.667]
 type: Country
 tags:
@@ -40,9 +40,15 @@ Capital :: [[Saigon]]
 
 
 ## Confidential Links & Embeds: 
-- [[Vietnam~South|Vietnam~South]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.internal|Vietnam~South.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~East/Vietnam~South.protect|Vietnam~South.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~East/Vietnam~South.private|Vietnam~South.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.personal|Vietnam~South.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~East/Vietnam~South.secret|Vietnam~South.secret]] 
+
+### [Vietnam~South](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam~South.md) 
+
+### [Vietnam~South.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.internal.md) 
+
+### [Vietnam~South.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam~South.protect.md) 
+
+### [Vietnam~South.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam~South.private.md) 
+
+### [Vietnam~South.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.personal.md) 
+
+### [Vietnam~South.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam~South.secret.md) 

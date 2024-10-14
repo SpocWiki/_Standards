@@ -47,10 +47,15 @@ Specifies that product returns must be made at a kiosk.
 [ #is_/enum_of :: [[../ReturnMethodEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk|return_at_kiosk]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.public|return_at_kiosk.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.internal|return_at_kiosk.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.protect|return_at_kiosk.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.private|return_at_kiosk.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.personal|return_at_kiosk.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_method_enumeration/return_at_kiosk.secret|return_at_kiosk.secret]] 
+
+### [return_at_kiosk](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.md) 
+
+### [return_at_kiosk.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.internal.md) 
+
+### [return_at_kiosk.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.protect.md) 
+
+### [return_at_kiosk.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.private.md) 
+
+### [return_at_kiosk.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.personal.md) 
+
+### [return_at_kiosk.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_method_enumeration/return_at_kiosk.secret.md) 

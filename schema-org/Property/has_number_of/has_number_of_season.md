@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 [ #is_/sub_property_of  :: position ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_season|has_number_of_season]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_season.public|has_number_of_season.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_season.internal|has_number_of_season.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_season.protect|has_number_of_season.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_season.private|has_number_of_season.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_season.personal|has_number_of_season.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_season.secret|has_number_of_season.secret]] 
+
+### [has_number_of_season](/_public/schema-org/Property/has_number_of/has_number_of_season.md) 
+
+### [has_number_of_season.internal](/_internal/schema-org/Property/has_number_of/has_number_of_season.internal.md) 
+
+### [has_number_of_season.protect](/_protect/schema-org/Property/has_number_of/has_number_of_season.protect.md) 
+
+### [has_number_of_season.private](/_private/schema-org/Property/has_number_of/has_number_of_season.private.md) 
+
+### [has_number_of_season.personal](/_personal/schema-org/Property/has_number_of/has_number_of_season.personal.md) 
+
+### [has_number_of_season.secret](/_secret/schema-org/Property/has_number_of/has_number_of_season.secret.md) 

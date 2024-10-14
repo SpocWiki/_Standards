@@ -1,4 +1,4 @@
-
+﻿
 # [[Mesolithic]] 
 
 #is_a_/time_/Culture 
@@ -28,3 +28,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Mesolithic](/_public/Time-Ages/human-ages/Stone-Age/Mesolithic.md) 
+
+### [Mesolithic.internal](/_internal/Time-Ages/human-ages/Stone-Age/Mesolithic.internal.md) 
+
+### [Mesolithic.protect](/_protect/Time-Ages/human-ages/Stone-Age/Mesolithic.protect.md) 
+
+### [Mesolithic.private](/_private/Time-Ages/human-ages/Stone-Age/Mesolithic.private.md) 
+
+### [Mesolithic.personal](/_personal/Time-Ages/human-ages/Stone-Age/Mesolithic.personal.md) 
+
+### [Mesolithic.secret](/_secret/Time-Ages/human-ages/Stone-Age/Mesolithic.secret.md) 

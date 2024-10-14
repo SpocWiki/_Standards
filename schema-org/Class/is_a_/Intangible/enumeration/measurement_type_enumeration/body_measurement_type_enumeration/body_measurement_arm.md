@@ -47,10 +47,15 @@ Arm length (measured between arms/shoulder line intersection and the prominent w
 [ #is_/enum_of :: [[../BodyMeasurementTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm|body_measurement_arm]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.public|body_measurement_arm.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.internal|body_measurement_arm.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.protect|body_measurement_arm.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.private|body_measurement_arm.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.personal|body_measurement_arm.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.secret|body_measurement_arm.secret]] 
+
+### [body_measurement_arm](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.md) 
+
+### [body_measurement_arm.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.internal.md) 
+
+### [body_measurement_arm.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.protect.md) 
+
+### [body_measurement_arm.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.private.md) 
+
+### [body_measurement_arm.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.personal.md) 
+
+### [body_measurement_arm.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration/body_measurement_type_enumeration/body_measurement_arm.secret.md) 

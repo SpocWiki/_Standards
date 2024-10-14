@@ -43,10 +43,15 @@ A wholesale store.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/store/wholesale_store|wholesale_store]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.public|wholesale_store.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.internal|wholesale_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.protect|wholesale_store.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.private|wholesale_store.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.personal|wholesale_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/wholesale_store.secret|wholesale_store.secret]] 
+
+### [wholesale_store](/_public/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.md) 
+
+### [wholesale_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.internal.md) 
+
+### [wholesale_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.protect.md) 
+
+### [wholesale_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.private.md) 
+
+### [wholesale_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.personal.md) 
+
+### [wholesale_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/wholesale_store.secret.md) 

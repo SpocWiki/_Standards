@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_experience_in_place_of_education|is_experience_in_place_of_education]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_experience_in_place_of_education.public|is_experience_in_place_of_education.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_experience_in_place_of_education.internal|is_experience_in_place_of_education.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_experience_in_place_of_education.protect|is_experience_in_place_of_education.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_experience_in_place_of_education.private|is_experience_in_place_of_education.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_experience_in_place_of_education.personal|is_experience_in_place_of_education.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_experience_in_place_of_education.secret|is_experience_in_place_of_education.secret]] 
+
+### [is_experience_in_place_of_education](/_public/schema-org/Property/Flags/is_experience_in_place_of_education.md) 
+
+### [is_experience_in_place_of_education.internal](/_internal/schema-org/Property/Flags/is_experience_in_place_of_education.internal.md) 
+
+### [is_experience_in_place_of_education.protect](/_protect/schema-org/Property/Flags/is_experience_in_place_of_education.protect.md) 
+
+### [is_experience_in_place_of_education.private](/_private/schema-org/Property/Flags/is_experience_in_place_of_education.private.md) 
+
+### [is_experience_in_place_of_education.personal](/_personal/schema-org/Property/Flags/is_experience_in_place_of_education.personal.md) 
+
+### [is_experience_in_place_of_education.secret](/_secret/schema-org/Property/Flags/is_experience_in_place_of_education.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 56.95
     - 24.11
@@ -147,10 +147,15 @@ Capital :: [[./Latvia/Counties/Riga]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Latvia|Latvia]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Latvia.public|Latvia.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Latvia.internal|Latvia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Latvia.protect|Latvia.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Latvia.private|Latvia.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Latvia.personal|Latvia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Latvia.secret|Latvia.secret]] 
+
+### [Latvia](/_public/Earth/Continent/Europe/Europe~North/Latvia.md) 
+
+### [Latvia.internal](/_internal/Earth/Continent/Europe/Europe~North/Latvia.internal.md) 
+
+### [Latvia.protect](/_protect/Earth/Continent/Europe/Europe~North/Latvia.protect.md) 
+
+### [Latvia.private](/_private/Earth/Continent/Europe/Europe~North/Latvia.private.md) 
+
+### [Latvia.personal](/_personal/Earth/Continent/Europe/Europe~North/Latvia.personal.md) 
+
+### [Latvia.secret](/_secret/Earth/Continent/Europe/Europe~North/Latvia.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ [has_main_entity](../has/has_main_entity.md) ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_about|is_about]] 
-- [[../../../../../_public/schema-org/Relation/is/is_about.public|is_about.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_about.internal|is_about.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_about.protect|is_about.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_about.private|is_about.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_about.personal|is_about.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_about.secret|is_about.secret]] 
+
+### [is_about](/_public/schema-org/Relation/is/is_about.md) 
+
+### [is_about.internal](/_internal/schema-org/Relation/is/is_about.internal.md) 
+
+### [is_about.protect](/_protect/schema-org/Relation/is/is_about.protect.md) 
+
+### [is_about.private](/_private/schema-org/Relation/is/is_about.private.md) 
+
+### [is_about.personal](/_personal/schema-org/Relation/is/is_about.personal.md) 
+
+### [is_about.secret](/_secret/schema-org/Relation/is/is_about.secret.md) 

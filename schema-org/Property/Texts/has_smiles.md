@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -50,10 +50,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: hasRepresentation ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_smiles|has_smiles]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_smiles.public|has_smiles.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_smiles.internal|has_smiles.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_smiles.protect|has_smiles.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_smiles.private|has_smiles.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_smiles.personal|has_smiles.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_smiles.secret|has_smiles.secret]] 
+
+### [has_smiles](/_public/schema-org/Property/Texts/has_smiles.md) 
+
+### [has_smiles.internal](/_internal/schema-org/Property/Texts/has_smiles.internal.md) 
+
+### [has_smiles.protect](/_protect/schema-org/Property/Texts/has_smiles.protect.md) 
+
+### [has_smiles.private](/_private/schema-org/Property/Texts/has_smiles.private.md) 
+
+### [has_smiles.personal](/_personal/schema-org/Property/Texts/has_smiles.personal.md) 
+
+### [has_smiles.secret](/_secret/schema-org/Property/Texts/has_smiles.secret.md) 

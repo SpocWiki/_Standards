@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -68,3 +68,17 @@ The date after when the item is not valid. For example the end of an offer, sala
 ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LocationFeatureSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.md) 
+
+### [FileClass~LocationFeatureSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.internal.md) 
+
+### [FileClass~LocationFeatureSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.protect.md) 
+
+### [FileClass~LocationFeatureSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.private.md) 
+
+### [FileClass~LocationFeatureSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.personal.md) 
+
+### [FileClass~LocationFeatureSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PropertyValue/FileClass~LocationFeatureSpecification.secret.md) 

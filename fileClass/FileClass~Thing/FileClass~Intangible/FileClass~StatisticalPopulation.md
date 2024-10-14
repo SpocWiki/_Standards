@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,3 +35,17 @@ A StatisticalPopulation is a set of instances of a certain given type that satis
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~StatisticalPopulation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.md) 
+
+### [FileClass~StatisticalPopulation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.internal.md) 
+
+### [FileClass~StatisticalPopulation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.protect.md) 
+
+### [FileClass~StatisticalPopulation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.private.md) 
+
+### [FileClass~StatisticalPopulation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.personal.md) 
+
+### [FileClass~StatisticalPopulation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.secret.md) 

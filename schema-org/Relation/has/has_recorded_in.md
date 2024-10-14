@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: recordedAt ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_recorded_in|has_recorded_in]] 
-- [[../../../../../_public/schema-org/Relation/has/has_recorded_in.public|has_recorded_in.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_recorded_in.internal|has_recorded_in.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_recorded_in.protect|has_recorded_in.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_recorded_in.private|has_recorded_in.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_recorded_in.personal|has_recorded_in.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_recorded_in.secret|has_recorded_in.secret]] 
+
+### [has_recorded_in](/_public/schema-org/Relation/has/has_recorded_in.md) 
+
+### [has_recorded_in.internal](/_internal/schema-org/Relation/has/has_recorded_in.internal.md) 
+
+### [has_recorded_in.protect](/_protect/schema-org/Relation/has/has_recorded_in.protect.md) 
+
+### [has_recorded_in.private](/_private/schema-org/Relation/has/has_recorded_in.private.md) 
+
+### [has_recorded_in.personal](/_personal/schema-org/Relation/has/has_recorded_in.personal.md) 
+
+### [has_recorded_in.secret](/_secret/schema-org/Relation/has/has_recorded_in.secret.md) 

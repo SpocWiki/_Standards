@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~1~Paleogene]] 
 
 #is_a_/time_/Period 
@@ -55,3 +55,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~1~Paleogene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.md) 
+
+### [Period~1~Paleogene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.internal.md) 
+
+### [Period~1~Paleogene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.protect.md) 
+
+### [Period~1~Paleogene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.private.md) 
+
+### [Period~1~Paleogene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.personal.md) 
+
+### [Period~1~Paleogene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.secret.md) 

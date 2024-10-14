@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight|has_value_for_monoisotopic_molecular_weight]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.public|has_value_for_monoisotopic_molecular_weight.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.internal|has_value_for_monoisotopic_molecular_weight.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.protect|has_value_for_monoisotopic_molecular_weight.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.private|has_value_for_monoisotopic_molecular_weight.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.personal|has_value_for_monoisotopic_molecular_weight.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_monoisotopic_molecular_weight.secret|has_value_for_monoisotopic_molecular_weight.secret]] 
+
+### [has_value_for_monoisotopic_molecular_weight](/_public/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.md) 
+
+### [has_value_for_monoisotopic_molecular_weight.internal](/_internal/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.internal.md) 
+
+### [has_value_for_monoisotopic_molecular_weight.protect](/_protect/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.protect.md) 
+
+### [has_value_for_monoisotopic_molecular_weight.private](/_private/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.private.md) 
+
+### [has_value_for_monoisotopic_molecular_weight.personal](/_personal/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.personal.md) 
+
+### [has_value_for_monoisotopic_molecular_weight.secret](/_secret/schema-org/Property/has_value_for/has_value_for_monoisotopic_molecular_weight.secret.md) 

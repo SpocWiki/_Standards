@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Relation describes that:
 ( #has_/range :: Legislation )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_legislation_consolidated_from|is_legislation_consolidated_from]] 
-- [[../../../../../_public/schema-org/Relation/is/is_legislation_consolidated_from.public|is_legislation_consolidated_from.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_legislation_consolidated_from.internal|is_legislation_consolidated_from.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_legislation_consolidated_from.protect|is_legislation_consolidated_from.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_legislation_consolidated_from.private|is_legislation_consolidated_from.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_legislation_consolidated_from.personal|is_legislation_consolidated_from.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_legislation_consolidated_from.secret|is_legislation_consolidated_from.secret]] 
+
+### [is_legislation_consolidated_from](/_public/schema-org/Relation/is/is_legislation_consolidated_from.md) 
+
+### [is_legislation_consolidated_from.internal](/_internal/schema-org/Relation/is/is_legislation_consolidated_from.internal.md) 
+
+### [is_legislation_consolidated_from.protect](/_protect/schema-org/Relation/is/is_legislation_consolidated_from.protect.md) 
+
+### [is_legislation_consolidated_from.private](/_private/schema-org/Relation/is/is_legislation_consolidated_from.private.md) 
+
+### [is_legislation_consolidated_from.personal](/_personal/schema-org/Relation/is/is_legislation_consolidated_from.personal.md) 
+
+### [is_legislation_consolidated_from.secret](/_secret/schema-org/Relation/is/is_legislation_consolidated_from.secret.md) 

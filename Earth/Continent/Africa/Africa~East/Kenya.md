@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -1.28
 - 36.83
@@ -140,9 +140,15 @@ Capital :: [[Kenya/Counties/Nairobi.County]]
 
 
 ## Confidential Links & Embeds: 
-- [[Kenya]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Kenya.internal|Kenya.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Kenya.protect|Kenya.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Kenya.private|Kenya.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Kenya.personal|Kenya.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Kenya.secret|Kenya.secret]] 
+
+### [Kenya](/_public/Earth/Continent/Africa/Africa~East/Kenya.md) 
+
+### [Kenya.internal](/_internal/Earth/Continent/Africa/Africa~East/Kenya.internal.md) 
+
+### [Kenya.protect](/_protect/Earth/Continent/Africa/Africa~East/Kenya.protect.md) 
+
+### [Kenya.private](/_private/Earth/Continent/Africa/Africa~East/Kenya.private.md) 
+
+### [Kenya.personal](/_personal/Earth/Continent/Africa/Africa~East/Kenya.personal.md) 
+
+### [Kenya.secret](/_secret/Earth/Continent/Africa/Africa~East/Kenya.secret.md) 

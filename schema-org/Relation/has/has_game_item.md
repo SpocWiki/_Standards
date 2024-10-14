@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_game_item|has_game_item]] 
-- [[../../../../../_public/schema-org/Relation/has/has_game_item.public|has_game_item.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_game_item.internal|has_game_item.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_game_item.protect|has_game_item.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_game_item.private|has_game_item.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_game_item.personal|has_game_item.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_game_item.secret|has_game_item.secret]] 
+
+### [has_game_item](/_public/schema-org/Relation/has/has_game_item.md) 
+
+### [has_game_item.internal](/_internal/schema-org/Relation/has/has_game_item.internal.md) 
+
+### [has_game_item.protect](/_protect/schema-org/Relation/has/has_game_item.protect.md) 
+
+### [has_game_item.private](/_private/schema-org/Relation/has/has_game_item.private.md) 
+
+### [has_game_item.personal](/_personal/schema-org/Relation/has/has_game_item.personal.md) 
+
+### [has_game_item.secret](/_secret/schema-org/Relation/has/has_game_item.secret.md) 

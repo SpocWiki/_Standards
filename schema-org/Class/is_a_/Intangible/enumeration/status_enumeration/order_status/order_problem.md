@@ -45,10 +45,15 @@ OrderStatus representing that there is a problem with the order.
 [ #is_/enum_of :: [[../OrderStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem|order_problem]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.public|order_problem.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.internal|order_problem.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.protect|order_problem.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.private|order_problem.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.personal|order_problem.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/order_status/order_problem.secret|order_problem.secret]] 
+
+### [order_problem](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.md) 
+
+### [order_problem.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.internal.md) 
+
+### [order_problem.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.protect.md) 
+
+### [order_problem.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.private.md) 
+
+### [order_problem.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.personal.md) 
+
+### [order_problem.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/order_status/order_problem.secret.md) 

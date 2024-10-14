@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21990
@@ -34,10 +34,15 @@ SpocWebEntityId: 21990
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Americium|Americium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Americium.public|Americium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Americium.internal|Americium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Americium.protect|Americium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Americium.private|Americium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Americium.personal|Americium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Americium.secret|Americium.secret]] 
+
+### [Americium](/_public/chemic/chemic~Elements/Actinide-Group/Americium.md) 
+
+### [Americium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Americium.internal.md) 
+
+### [Americium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Americium.protect.md) 
+
+### [Americium.private](/_private/chemic/chemic~Elements/Actinide-Group/Americium.private.md) 
+
+### [Americium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Americium.personal.md) 
+
+### [Americium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Americium.secret.md) 

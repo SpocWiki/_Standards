@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Austronesian|LangFamily-Austronesian]] 
-- [[../../../_public/lang/Family/LangFamily-Austronesian.public|LangFamily-Austronesian.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Austronesian.internal|LangFamily-Austronesian.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Austronesian.protect|LangFamily-Austronesian.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Austronesian.private|LangFamily-Austronesian.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Austronesian.personal|LangFamily-Austronesian.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Austronesian.secret|LangFamily-Austronesian.secret]] 
+
+### [LangFamily-Austronesian](/_public/Language/Lang~Family/LangFamily-Austronesian.md) 
+
+### [LangFamily-Austronesian.internal](/_internal/Language/Lang~Family/LangFamily-Austronesian.internal.md) 
+
+### [LangFamily-Austronesian.protect](/_protect/Language/Lang~Family/LangFamily-Austronesian.protect.md) 
+
+### [LangFamily-Austronesian.private](/_private/Language/Lang~Family/LangFamily-Austronesian.private.md) 
+
+### [LangFamily-Austronesian.personal](/_personal/Language/Lang~Family/LangFamily-Austronesian.personal.md) 
+
+### [LangFamily-Austronesian.secret](/_secret/Language/Lang~Family/LangFamily-Austronesian.secret.md) 

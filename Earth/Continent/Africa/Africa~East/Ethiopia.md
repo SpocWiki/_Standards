@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 9.05
 - 38.7
@@ -148,9 +148,15 @@ Capital :: [[Addis_Abeba]]
 
 
 ## Confidential Links & Embeds: 
-- [[Ethiopia|Ethiopia]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Ethiopia.internal|Ethiopia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Ethiopia.protect|Ethiopia.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Ethiopia.private|Ethiopia.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Ethiopia.personal|Ethiopia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Ethiopia.secret|Ethiopia.secret]] 
+
+### [Ethiopia](/_public/Earth/Continent/Africa/Africa~East/Ethiopia.md) 
+
+### [Ethiopia.internal](/_internal/Earth/Continent/Africa/Africa~East/Ethiopia.internal.md) 
+
+### [Ethiopia.protect](/_protect/Earth/Continent/Africa/Africa~East/Ethiopia.protect.md) 
+
+### [Ethiopia.private](/_private/Earth/Continent/Africa/Africa~East/Ethiopia.private.md) 
+
+### [Ethiopia.personal](/_personal/Earth/Continent/Africa/Africa~East/Ethiopia.personal.md) 
+
+### [Ethiopia.secret](/_secret/Earth/Continent/Africa/Africa~East/Ethiopia.secret.md) 

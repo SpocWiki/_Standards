@@ -45,10 +45,15 @@ A Series in schema.org is a group of related items, typically but not necessaril
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/series|series]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/series.public|series.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/series.internal|series.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/series.protect|series.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/series.private|series.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/series.personal|series.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/series.secret|series.secret]] 
+
+### [series](/_public/schema-org/Class/is_a_/Intangible/series.md) 
+
+### [series.internal](/_internal/schema-org/Class/is_a_/Intangible/series.internal.md) 
+
+### [series.protect](/_protect/schema-org/Class/is_a_/Intangible/series.protect.md) 
+
+### [series.private](/_private/schema-org/Class/is_a_/Intangible/series.private.md) 
+
+### [series.personal](/_personal/schema-org/Class/is_a_/Intangible/series.personal.md) 
+
+### [series.secret](/_secret/schema-org/Class/is_a_/Intangible/series.secret.md) 

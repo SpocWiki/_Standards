@@ -41,10 +41,15 @@ Status of a game server.
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status|game_server_status]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status.public|game_server_status.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status.internal|game_server_status.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status.protect|game_server_status.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status.private|game_server_status.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status.personal|game_server_status.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status.secret|game_server_status.secret]] 
+
+### [game_server_status](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.md) 
+
+### [game_server_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.internal.md) 
+
+### [game_server_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.protect.md) 
+
+### [game_server_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.private.md) 
+
+### [game_server_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.personal.md) 
+
+### [game_server_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status.secret.md) 

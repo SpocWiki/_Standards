@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 33.87
     - 35.5
@@ -150,9 +150,15 @@ Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]
 
 
 ## Confidential Links & Embeds: 
-- [[Lebanon|Lebanon]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Lebanon.internal|Lebanon.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Lebanon.protect|Lebanon.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Lebanon.private|Lebanon.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal|Lebanon.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret|Lebanon.secret]] 
+
+### [Lebanon](/_public/Earth/Continent/Asia/Asia~West/Lebanon.md) 
+
+### [Lebanon.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon.internal.md) 
+
+### [Lebanon.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon.protect.md) 
+
+### [Lebanon.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon.private.md) 
+
+### [Lebanon.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal.md) 
+
+### [Lebanon.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: object ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_replacer|has_replacer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_replacer.public|has_replacer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_replacer.internal|has_replacer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_replacer.protect|has_replacer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_replacer.private|has_replacer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_replacer.personal|has_replacer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_replacer.secret|has_replacer.secret]] 
+
+### [has_replacer](/_public/schema-org/Relation/has/has_replacer.md) 
+
+### [has_replacer.internal](/_internal/schema-org/Relation/has/has_replacer.internal.md) 
+
+### [has_replacer.protect](/_protect/schema-org/Relation/has/has_replacer.protect.md) 
+
+### [has_replacer.private](/_private/schema-org/Relation/has/has_replacer.private.md) 
+
+### [has_replacer.personal](/_personal/schema-org/Relation/has/has_replacer.personal.md) 
+
+### [has_replacer.secret](/_secret/schema-org/Relation/has/has_replacer.secret.md) 

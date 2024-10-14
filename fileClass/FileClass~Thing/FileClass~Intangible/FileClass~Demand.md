@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -389,3 +389,17 @@ The warranty promise(s) included in the offer.
 Warranty:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/WarrantyPromise')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Demand](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.md) 
+
+### [FileClass~Demand.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.internal.md) 
+
+### [FileClass~Demand.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.protect.md) 
+
+### [FileClass~Demand.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.private.md) 
+
+### [FileClass~Demand.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.personal.md) 
+
+### [FileClass~Demand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Demand.secret.md) 

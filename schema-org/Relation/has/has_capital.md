@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Relation describes that:
 ( #has_/range :: [[../../Class/is_a_/place/administrative_area/city|city]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_capital|has_capital]] 
-- [[../../../../../_public/schema-org/Relation/has/has_capital.public|has_capital.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_capital.internal|has_capital.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_capital.protect|has_capital.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_capital.private|has_capital.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_capital.personal|has_capital.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_capital.secret|has_capital.secret]] 
+
+### [has_capital](/_public/schema-org/Relation/has/has_capital.md) 
+
+### [has_capital.internal](/_internal/schema-org/Relation/has/has_capital.internal.md) 
+
+### [has_capital.protect](/_protect/schema-org/Relation/has/has_capital.protect.md) 
+
+### [has_capital.private](/_private/schema-org/Relation/has/has_capital.private.md) 
+
+### [has_capital.personal](/_personal/schema-org/Relation/has/has_capital.personal.md) 
+
+### [has_capital.secret](/_secret/schema-org/Relation/has/has_capital.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -9.5
     - 147.117
@@ -144,10 +144,15 @@ Capital :: [[Port_Moresby]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Papua_New_Guinea|Papua_New_Guinea]] 
-- [[../../../../_public/Earth/Continent/Oceania/Papua_New_Guinea.public|Papua_New_Guinea.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Papua_New_Guinea.internal|Papua_New_Guinea.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Papua_New_Guinea.protect|Papua_New_Guinea.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Papua_New_Guinea.private|Papua_New_Guinea.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Papua_New_Guinea.personal|Papua_New_Guinea.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Papua_New_Guinea.secret|Papua_New_Guinea.secret]] 
+
+### [Papua-New_Guinea](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.md) 
+
+### [Papua-New_Guinea.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.internal.md) 
+
+### [Papua-New_Guinea.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.protect.md) 
+
+### [Papua-New_Guinea.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.private.md) 
+
+### [Papua-New_Guinea.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.personal.md) 
+
+### [Papua-New_Guinea.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea.secret.md) 

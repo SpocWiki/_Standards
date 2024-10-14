@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -16.2 , 168.1 ] 
 type: geo-Region
 title: Malampa
@@ -40,11 +40,15 @@ markerFolder: ./Malampa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Vanuatu/Counties/Malampa|Malampa]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Vanuatu/Counties/Malampa.public|Malampa.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Vanuatu/Counties/Malampa.internal|Malampa.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Vanuatu/Counties/Malampa.protect|Malampa.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Vanuatu/Counties/Malampa.private|Malampa.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Vanuatu/Counties/Malampa.personal|Malampa.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Vanuatu/Counties/Malampa.secret|Malampa.secret]] 
 
+### [Malampa](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.md) 
+
+### [Malampa.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.internal.md) 
+
+### [Malampa.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.protect.md) 
+
+### [Malampa.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.private.md) 
+
+### [Malampa.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.personal.md) 
+
+### [Malampa.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.secret.md) 

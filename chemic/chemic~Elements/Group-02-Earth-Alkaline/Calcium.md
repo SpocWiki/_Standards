@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -35,10 +35,15 @@ SpocWebEntityId: 21921
 > [Wikipedia](https://en.wikipedia.org/wiki/Calcium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-02-Earth-Alkaline/Calcium|Calcium]] 
-- [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Calcium.public|Calcium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.internal|Calcium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Calcium.protect|Calcium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Calcium.private|Calcium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Calcium.personal|Calcium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Calcium.secret|Calcium.secret]] 
+
+### [Calcium](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.md) 
+
+### [Calcium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.internal.md) 
+
+### [Calcium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.protect.md) 
+
+### [Calcium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.private.md) 
+
+### [Calcium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.personal.md) 
+
+### [Calcium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Calcium.secret.md) 

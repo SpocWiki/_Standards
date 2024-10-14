@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Enumeration, MeasurementTypeEnumeration, PropertyValue, QualitativeValue, QuantitativeValue, StructuredValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_value_reference|has_value_reference]] 
-- [[../../../../../_public/schema-org/Relation/has/has_value_reference.public|has_value_reference.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_value_reference.internal|has_value_reference.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_value_reference.protect|has_value_reference.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_value_reference.private|has_value_reference.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_value_reference.personal|has_value_reference.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_value_reference.secret|has_value_reference.secret]] 
+
+### [has_value_reference](/_public/schema-org/Relation/has/has_value_reference.md) 
+
+### [has_value_reference.internal](/_internal/schema-org/Relation/has/has_value_reference.internal.md) 
+
+### [has_value_reference.protect](/_protect/schema-org/Relation/has/has_value_reference.protect.md) 
+
+### [has_value_reference.private](/_private/schema-org/Relation/has/has_value_reference.private.md) 
+
+### [has_value_reference.personal](/_personal/schema-org/Relation/has/has_value_reference.personal.md) 
+
+### [has_value_reference.secret](/_secret/schema-org/Relation/has/has_value_reference.secret.md) 

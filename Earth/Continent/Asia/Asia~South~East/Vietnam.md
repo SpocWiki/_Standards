@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 15.8917
     - 106.26
@@ -150,9 +150,15 @@ Capital :: [[Hanoe]]
 
 
 ## Confidential Links & Embeds: 
-- [[Vietnam|Vietnam]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~East/Vietnam.internal|Vietnam.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~East/Vietnam.protect|Vietnam.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~East/Vietnam.private|Vietnam.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~East/Vietnam.personal|Vietnam.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~East/Vietnam.secret|Vietnam.secret]] 
+
+### [Vietnam](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam.md) 
+
+### [Vietnam.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam.internal.md) 
+
+### [Vietnam.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam.protect.md) 
+
+### [Vietnam.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam.private.md) 
+
+### [Vietnam.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam.personal.md) 
+
+### [Vietnam.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam.secret.md) 

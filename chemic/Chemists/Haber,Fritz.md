@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Fritz Haber
 ---
@@ -38,3 +38,17 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Fritz%20Haber)
 
+
+## Confidential Links & Embeds: 
+
+### [Haber,Fritz](/_public/chemic/Chemists/Haber,Fritz.md) 
+
+### [Haber,Fritz.internal](/_internal/chemic/Chemists/Haber,Fritz.internal.md) 
+
+### [Haber,Fritz.protect](/_protect/chemic/Chemists/Haber,Fritz.protect.md) 
+
+### [Haber,Fritz.private](/_private/chemic/Chemists/Haber,Fritz.private.md) 
+
+### [Haber,Fritz.personal](/_personal/chemic/Chemists/Haber,Fritz.personal.md) 
+
+### [Haber,Fritz.secret](/_secret/chemic/Chemists/Haber,Fritz.secret.md) 

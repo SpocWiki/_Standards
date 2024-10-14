@@ -1,4 +1,4 @@
-# [[Age~1~Danian]] 
+﻿# [[Age~1~Danian]] 
 
 #is_a_/time_/Age 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Danian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.md) 
+
+### [Age~1~Danian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.internal.md) 
+
+### [Age~1~Danian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.protect.md) 
+
+### [Age~1~Danian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.private.md) 
+
+### [Age~1~Danian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.personal.md) 
+
+### [Age~1~Danian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.secret.md) 

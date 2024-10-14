@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_comment|has_time_of_comment]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_comment.public|has_time_of_comment.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_comment.internal|has_time_of_comment.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_comment.protect|has_time_of_comment.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_comment.private|has_time_of_comment.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_comment.personal|has_time_of_comment.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_comment.secret|has_time_of_comment.secret]] 
+
+### [has_time_of_comment](/_public/schema-org/Property/has_Date_Time/has_time_of_comment.md) 
+
+### [has_time_of_comment.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_comment.internal.md) 
+
+### [has_time_of_comment.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_comment.protect.md) 
+
+### [has_time_of_comment.private](/_private/schema-org/Property/has_Date_Time/has_time_of_comment.private.md) 
+
+### [has_time_of_comment.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_comment.personal.md) 
+
+### [has_time_of_comment.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_comment.secret.md) 

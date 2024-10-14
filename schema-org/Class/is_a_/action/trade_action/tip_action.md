@@ -43,10 +43,15 @@ The act of giving money voluntarily to a beneficiary in recognition of services 
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/trade_action/tip_action|tip_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/trade_action/tip_action.public|tip_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/tip_action.internal|tip_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/tip_action.protect|tip_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/tip_action.private|tip_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/trade_action/tip_action.personal|tip_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/trade_action/tip_action.secret|tip_action.secret]] 
+
+### [tip_action](/_public/schema-org/Class/is_a_/action/trade_action/tip_action.md) 
+
+### [tip_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/tip_action.internal.md) 
+
+### [tip_action.protect](/_protect/schema-org/Class/is_a_/action/trade_action/tip_action.protect.md) 
+
+### [tip_action.private](/_private/schema-org/Class/is_a_/action/trade_action/tip_action.private.md) 
+
+### [tip_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/tip_action.personal.md) 
+
+### [tip_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/tip_action.secret.md) 

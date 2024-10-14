@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -42,3 +42,17 @@ A floorplan of some [[Accommodation]].
 
 AccommodationFloorPlan:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/FloorPlan')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Residence](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.md) 
+
+### [FileClass~Residence.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.internal.md) 
+
+### [FileClass~Residence.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.protect.md) 
+
+### [FileClass~Residence.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.private.md) 
+
+### [FileClass~Residence.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.personal.md) 
+
+### [FileClass~Residence.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.secret.md) 

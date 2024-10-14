@@ -1,4 +1,4 @@
-# [[Era~3~Neoproterozoic]] 
+﻿# [[Era~3~Neoproterozoic]] 
 
 #is_a_/time_/Era 
 
@@ -58,3 +58,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Era~3~Neoproterozoic](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.md) 
+
+### [Era~3~Neoproterozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.internal.md) 
+
+### [Era~3~Neoproterozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.protect.md) 
+
+### [Era~3~Neoproterozoic.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.private.md) 
+
+### [Era~3~Neoproterozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.personal.md) 
+
+### [Era~3~Neoproterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic.secret.md) 

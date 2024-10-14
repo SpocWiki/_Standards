@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_last_review|has_time_of_last_review]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_last_review.public|has_time_of_last_review.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_last_review.internal|has_time_of_last_review.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_last_review.protect|has_time_of_last_review.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_last_review.private|has_time_of_last_review.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_last_review.personal|has_time_of_last_review.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_last_review.secret|has_time_of_last_review.secret]] 
+
+### [has_time_of_last_review](/_public/schema-org/Property/has_Date_Time/has_time_of_last_review.md) 
+
+### [has_time_of_last_review.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_last_review.internal.md) 
+
+### [has_time_of_last_review.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_last_review.protect.md) 
+
+### [has_time_of_last_review.private](/_private/schema-org/Property/has_Date_Time/has_time_of_last_review.private.md) 
+
+### [has_time_of_last_review.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_last_review.personal.md) 
+
+### [has_time_of_last_review.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_last_review.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sibling|has_sibling]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sibling.public|has_sibling.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sibling.internal|has_sibling.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sibling.protect|has_sibling.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sibling.private|has_sibling.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sibling.personal|has_sibling.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sibling.secret|has_sibling.secret]] 
+
+### [has_sibling](/_public/schema-org/Relation/has/has_sibling.md) 
+
+### [has_sibling.internal](/_internal/schema-org/Relation/has/has_sibling.internal.md) 
+
+### [has_sibling.protect](/_protect/schema-org/Relation/has/has_sibling.protect.md) 
+
+### [has_sibling.private](/_private/schema-org/Relation/has/has_sibling.private.md) 
+
+### [has_sibling.personal](/_personal/schema-org/Relation/has/has_sibling.personal.md) 
+
+### [has_sibling.secret](/_secret/schema-org/Relation/has/has_sibling.secret.md) 

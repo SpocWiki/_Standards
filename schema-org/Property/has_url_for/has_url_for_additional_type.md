@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Predicate describes that:
 [is_instance_of](../../Class/is_instance_of.md) 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_additional_type|has_url_for_additional_type]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_additional_type.public|has_url_for_additional_type.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_additional_type.internal|has_url_for_additional_type.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_additional_type.protect|has_url_for_additional_type.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_additional_type.private|has_url_for_additional_type.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_additional_type.personal|has_url_for_additional_type.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_additional_type.secret|has_url_for_additional_type.secret]] 
+
+### [has_url_for_additional_type](/_public/schema-org/Property/has_url_for/has_url_for_additional_type.md) 
+
+### [has_url_for_additional_type.internal](/_internal/schema-org/Property/has_url_for/has_url_for_additional_type.internal.md) 
+
+### [has_url_for_additional_type.protect](/_protect/schema-org/Property/has_url_for/has_url_for_additional_type.protect.md) 
+
+### [has_url_for_additional_type.private](/_private/schema-org/Property/has_url_for/has_url_for_additional_type.private.md) 
+
+### [has_url_for_additional_type.personal](/_personal/schema-org/Property/has_url_for/has_url_for_additional_type.personal.md) 
+
+### [has_url_for_additional_type.secret](/_secret/schema-org/Property/has_url_for/has_url_for_additional_type.secret.md) 

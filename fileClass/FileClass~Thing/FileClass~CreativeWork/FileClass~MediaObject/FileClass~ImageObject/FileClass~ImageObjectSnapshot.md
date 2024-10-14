@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A specific and exact (byte-for-byte) version of an [[ImageObject]]. Two byte-for
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ImageObjectSnapshot](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.md) 
+
+### [FileClass~ImageObjectSnapshot.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.internal.md) 
+
+### [FileClass~ImageObjectSnapshot.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.protect.md) 
+
+### [FileClass~ImageObjectSnapshot.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.private.md) 
+
+### [FileClass~ImageObjectSnapshot.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.personal.md) 
+
+### [FileClass~ImageObjectSnapshot.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject/FileClass~ImageObjectSnapshot.secret.md) 

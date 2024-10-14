@@ -1,4 +1,4 @@
-
+﻿
 ## #has_/text_of_/abstract 
 
 > Douglas Richard Hofstadter (born February 15, 1945) 
@@ -16,3 +16,17 @@
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Douglas Hofstadter](/_public/Mathematics/Mathematicians/Douglas Hofstadter.md) 
+
+### [Douglas Hofstadter.internal](/_internal/Mathematics/Mathematicians/Douglas Hofstadter.internal.md) 
+
+### [Douglas Hofstadter.protect](/_protect/Mathematics/Mathematicians/Douglas Hofstadter.protect.md) 
+
+### [Douglas Hofstadter.private](/_private/Mathematics/Mathematicians/Douglas Hofstadter.private.md) 
+
+### [Douglas Hofstadter.personal](/_personal/Mathematics/Mathematicians/Douglas Hofstadter.personal.md) 
+
+### [Douglas Hofstadter.secret](/_secret/Mathematics/Mathematicians/Douglas Hofstadter.secret.md) 

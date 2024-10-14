@@ -45,10 +45,15 @@ An educational or occupational credential. A diploma, academic degree, certifica
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, competencyRequired, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, credentialCategory, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recognizedBy, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, validFor, validIn, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/educational_occupational_credential|educational_occupational_credential]] 
-- [[../../../../../_public/schema-org/Class/is_a_/creative_work/educational_occupational_credential.public|educational_occupational_credential.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/educational_occupational_credential.internal|educational_occupational_credential.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/educational_occupational_credential.protect|educational_occupational_credential.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/educational_occupational_credential.private|educational_occupational_credential.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/educational_occupational_credential.personal|educational_occupational_credential.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/educational_occupational_credential.secret|educational_occupational_credential.secret]] 
+
+### [educational_occupational_credential](/_public/schema-org/Class/is_a_/creative_work/educational_occupational_credential.md) 
+
+### [educational_occupational_credential.internal](/_internal/schema-org/Class/is_a_/creative_work/educational_occupational_credential.internal.md) 
+
+### [educational_occupational_credential.protect](/_protect/schema-org/Class/is_a_/creative_work/educational_occupational_credential.protect.md) 
+
+### [educational_occupational_credential.private](/_private/schema-org/Class/is_a_/creative_work/educational_occupational_credential.private.md) 
+
+### [educational_occupational_credential.personal](/_personal/schema-org/Class/is_a_/creative_work/educational_occupational_credential.personal.md) 
+
+### [educational_occupational_credential.secret](/_secret/schema-org/Class/is_a_/creative_work/educational_occupational_credential.secret.md) 

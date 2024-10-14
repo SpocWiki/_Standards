@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../has/has_encoding]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_encoding_creative_work|is_encoding_creative_work]] 
-- [[../../../../../_public/schema-org/Relation/is/is_encoding_creative_work.public|is_encoding_creative_work.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_encoding_creative_work.internal|is_encoding_creative_work.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_encoding_creative_work.protect|is_encoding_creative_work.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_encoding_creative_work.private|is_encoding_creative_work.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_encoding_creative_work.personal|is_encoding_creative_work.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_encoding_creative_work.secret|is_encoding_creative_work.secret]] 
+
+### [is_encoding_creative_work](/_public/schema-org/Relation/is/is_encoding_creative_work.md) 
+
+### [is_encoding_creative_work.internal](/_internal/schema-org/Relation/is/is_encoding_creative_work.internal.md) 
+
+### [is_encoding_creative_work.protect](/_protect/schema-org/Relation/is/is_encoding_creative_work.protect.md) 
+
+### [is_encoding_creative_work.private](/_private/schema-org/Relation/is/is_encoding_creative_work.private.md) 
+
+### [is_encoding_creative_work.personal](/_personal/schema-org/Relation/is/is_encoding_creative_work.personal.md) 
+
+### [is_encoding_creative_work.secret](/_secret/schema-org/Relation/is/is_encoding_creative_work.secret.md) 

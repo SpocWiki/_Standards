@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Relation describes that:
 [ #is_/inverse_of  :: workExample ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_example_of_work|has_example_of_work]] 
-- [[../../../../../_public/schema-org/Relation/has/has_example_of_work.public|has_example_of_work.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_example_of_work.internal|has_example_of_work.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_example_of_work.protect|has_example_of_work.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_example_of_work.private|has_example_of_work.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_example_of_work.personal|has_example_of_work.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_example_of_work.secret|has_example_of_work.secret]] 
+
+### [is_example_of_work](/_public/schema-org/Relation/is/is_example_of_work.md) 
+
+### [is_example_of_work.internal](/_internal/schema-org/Relation/is/is_example_of_work.internal.md) 
+
+### [is_example_of_work.protect](/_protect/schema-org/Relation/is/is_example_of_work.protect.md) 
+
+### [is_example_of_work.private](/_private/schema-org/Relation/is/is_example_of_work.private.md) 
+
+### [is_example_of_work.personal](/_personal/schema-org/Relation/is/is_example_of_work.personal.md) 
+
+### [is_example_of_work.secret](/_secret/schema-org/Relation/is/is_example_of_work.secret.md) 

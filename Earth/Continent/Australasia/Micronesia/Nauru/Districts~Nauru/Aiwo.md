@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.53 , 166.91 ] 
 type: geo-Region
 title: Aiwo
@@ -40,11 +40,15 @@ markerFolder: ./Aiwo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Aiwo|Aiwo]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Aiwo.public|Aiwo.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Aiwo.internal|Aiwo.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Aiwo.protect|Aiwo.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Aiwo.private|Aiwo.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Aiwo.personal|Aiwo.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Aiwo.secret|Aiwo.secret]] 
 
+### [Aiwo](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.md) 
+
+### [Aiwo.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.internal.md) 
+
+### [Aiwo.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.protect.md) 
+
+### [Aiwo.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.private.md) 
+
+### [Aiwo.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.personal.md) 
+
+### [Aiwo.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Aiwo.secret.md) 

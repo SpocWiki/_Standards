@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 37.9667
     - 58.3333
@@ -146,9 +146,15 @@ Capital :: [[Turkmenistan/Counties/Ahal/City/Ashgabat]]
 
 
 ## Confidential Links & Embeds: 
-- [[Turkmenistan|Turkmenistan]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan.internal|Turkmenistan.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan.protect|Turkmenistan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~Central/Turkmenistan.private|Turkmenistan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan.personal|Turkmenistan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan.secret|Turkmenistan.secret]] 
+
+### [Turkmenistan](/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan.md) 
+
+### [Turkmenistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan.internal.md) 
+
+### [Turkmenistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan.protect.md) 
+
+### [Turkmenistan.private](/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan.private.md) 
+
+### [Turkmenistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan.personal.md) 
+
+### [Turkmenistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan.secret.md) 

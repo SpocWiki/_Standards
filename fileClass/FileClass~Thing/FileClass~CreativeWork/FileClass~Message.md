@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -135,3 +135,17 @@ A sub property of recipient. The recipient who was directly sent the message.
 ToRecipient:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Message](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.md) 
+
+### [FileClass~Message.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.internal.md) 
+
+### [FileClass~Message.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.protect.md) 
+
+### [FileClass~Message.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.private.md) 
+
+### [FileClass~Message.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.personal.md) 
+
+### [FileClass~Message.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Message.secret.md) 

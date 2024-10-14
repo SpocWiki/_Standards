@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Relation describes that:
 ( #has_/range :: [[../../../Class/is_a_/action/solve_math_action]], Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_math_expression|has_math_expression]] 
-- [[../../../../../_public/schema-org/Relation/has/has_math_expression.public|has_math_expression.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_math_expression.internal|has_math_expression.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_math_expression.protect|has_math_expression.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_math_expression.private|has_math_expression.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_math_expression.personal|has_math_expression.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_math_expression.secret|has_math_expression.secret]] 
+
+### [has_math_expression](/_public/schema-org/Relation/has/has_math_expression.md) 
+
+### [has_math_expression.internal](/_internal/schema-org/Relation/has/has_math_expression.internal.md) 
+
+### [has_math_expression.protect](/_protect/schema-org/Relation/has/has_math_expression.protect.md) 
+
+### [has_math_expression.private](/_private/schema-org/Relation/has/has_math_expression.private.md) 
+
+### [has_math_expression.personal](/_personal/schema-org/Relation/has/has_math_expression.personal.md) 
+
+### [has_math_expression.secret](/_secret/schema-org/Relation/has/has_math_expression.secret.md) 

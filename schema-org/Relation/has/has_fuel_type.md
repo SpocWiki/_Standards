@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: QualitativeValue, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_fuel_type|has_fuel_type]] 
-- [[../../../../../_public/schema-org/Relation/has/has_fuel_type.public|has_fuel_type.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_fuel_type.internal|has_fuel_type.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_fuel_type.protect|has_fuel_type.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_fuel_type.private|has_fuel_type.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_fuel_type.personal|has_fuel_type.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_fuel_type.secret|has_fuel_type.secret]] 
+
+### [has_fuel_type](/_public/schema-org/Relation/has/has_fuel_type.md) 
+
+### [has_fuel_type.internal](/_internal/schema-org/Relation/has/has_fuel_type.internal.md) 
+
+### [has_fuel_type.protect](/_protect/schema-org/Relation/has/has_fuel_type.protect.md) 
+
+### [has_fuel_type.private](/_private/schema-org/Relation/has/has_fuel_type.private.md) 
+
+### [has_fuel_type.personal](/_personal/schema-org/Relation/has/has_fuel_type.personal.md) 
+
+### [has_fuel_type.secret](/_secret/schema-org/Relation/has/has_fuel_type.secret.md) 

@@ -45,10 +45,15 @@ The event has been postponed and no new date has been set. The event's previousS
 [ #is_/enum_of :: [[../EventStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed|event_postponed]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.public|event_postponed.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.internal|event_postponed.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.protect|event_postponed.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.private|event_postponed.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.personal|event_postponed.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/event_status_type/event_postponed.secret|event_postponed.secret]] 
+
+### [event_postponed](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.md) 
+
+### [event_postponed.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.internal.md) 
+
+### [event_postponed.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.protect.md) 
+
+### [event_postponed.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.private.md) 
+
+### [event_postponed.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.personal.md) 
+
+### [event_postponed.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/event_status_type/event_postponed.secret.md) 

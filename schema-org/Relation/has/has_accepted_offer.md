@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: [[Offer]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_accepted_offer|has_accepted_offer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_accepted_offer.public|has_accepted_offer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_accepted_offer.internal|has_accepted_offer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_accepted_offer.protect|has_accepted_offer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_accepted_offer.private|has_accepted_offer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_accepted_offer.personal|has_accepted_offer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_accepted_offer.secret|has_accepted_offer.secret]] 
+
+### [has_accepted_offer](/_public/schema-org/Relation/has/has_accepted_offer.md) 
+
+### [has_accepted_offer.internal](/_internal/schema-org/Relation/has/has_accepted_offer.internal.md) 
+
+### [has_accepted_offer.protect](/_protect/schema-org/Relation/has/has_accepted_offer.protect.md) 
+
+### [has_accepted_offer.private](/_private/schema-org/Relation/has/has_accepted_offer.private.md) 
+
+### [has_accepted_offer.personal](/_personal/schema-org/Relation/has/has_accepted_offer.personal.md) 
+
+### [has_accepted_offer.secret](/_secret/schema-org/Relation/has/has_accepted_offer.secret.md) 

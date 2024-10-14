@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 52.6418
     - 47.4574
@@ -172,11 +172,15 @@ Capital :: [Moskwa](Moskwa)
 
 
 ## Confidential Links & Embeds: 
-- [Russia](../../../../../_Standards/Earth/Continent/Europe/Europe~East/Russia.md) 
-- [Russia.public](../../../../../_public/Earth/Continent/Europe/Europe~East/Russia.public) 
-- [Russia.internal](../../../../../_internal/Earth/Continent/Europe/Europe~East/Russia.internal) 
-- [Russia.protect](../../../../../_protect/Earth/Continent/Europe/Europe~East/Russia.protect) 
-- [Russia.private](../../../../../_private/Earth/Continent/Europe/Europe~East/Russia.private.md) 
-- [Russia.personal](../../../../../_personal/Earth/Continent/Europe/Europe~East/Russia.personal) 
-- [Russia.secret](../../../../../_secret/Earth/Continent/Europe/Europe~East/Russia.secret) 
 
+### [Russia](/_public/Earth/Continent/Europe/Europe~East/Russia.md) 
+
+### [Russia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia.internal.md) 
+
+### [Russia.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia.protect.md) 
+
+### [Russia.private](/_private/Earth/Continent/Europe/Europe~East/Russia.private.md) 
+
+### [Russia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia.personal.md) 
+
+### [Russia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia.secret.md) 

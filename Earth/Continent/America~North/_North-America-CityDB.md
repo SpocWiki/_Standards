@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -349,9 +349,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[_North-America-CityDB|_North-America-CityDB]] 
-- [[../../../../_internal/Earth/Continent/America~North/_North-America-CityDB.internal|_North-America-CityDB.internal]] 
-- [[../../../../_protect/Earth/Continent/America~North/_North-America-CityDB.protect|_North-America-CityDB.protect]] 
-- [[../../../../_private/Earth/Continent/America~North/_North-America-CityDB.private|_North-America-CityDB.private]] 
-- [[../../../../_personal/Earth/Continent/America~North/_North-America-CityDB.personal|_North-America-CityDB.personal]] 
-- [[../../../../_secret/Earth/Continent/America~North/_North-America-CityDB.secret|_North-America-CityDB.secret]] 
+
+### [_North-America-CityDB](/_public/Earth/Continent/America~North/_North-America-CityDB.md) 
+
+### [_North-America-CityDB.internal](/_internal/Earth/Continent/America~North/_North-America-CityDB.internal.md) 
+
+### [_North-America-CityDB.protect](/_protect/Earth/Continent/America~North/_North-America-CityDB.protect.md) 
+
+### [_North-America-CityDB.private](/_private/Earth/Continent/America~North/_North-America-CityDB.private.md) 
+
+### [_North-America-CityDB.personal](/_personal/Earth/Continent/America~North/_North-America-CityDB.personal.md) 
+
+### [_North-America-CityDB.secret](/_secret/Earth/Continent/America~North/_North-America-CityDB.secret.md) 

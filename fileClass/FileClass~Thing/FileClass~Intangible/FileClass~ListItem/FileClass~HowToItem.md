@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ The required quantity of the item(s).
 RequiredQuantity:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~HowToItem](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.md) 
+
+### [FileClass~HowToItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.internal.md) 
+
+### [FileClass~HowToItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.protect.md) 
+
+### [FileClass~HowToItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.private.md) 
+
+### [FileClass~HowToItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.personal.md) 
+
+### [FileClass~HowToItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem/FileClass~HowToItem.secret.md) 

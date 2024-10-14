@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -43,10 +43,15 @@ SpocWebEntityId: 21908
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-13-Boron/Boron|Boron]] 
-- [[../../../../_public/chemic/Elements/Group-13-Boron/Boron.public|Boron.public]] 
-- [[../../../../_internal/chemic/Elements/Group-13-Boron/Boron.internal|Boron.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-13-Boron/Boron.protect|Boron.protect]] 
-- [[../../../../_private/chemic/Elements/Group-13-Boron/Boron.private|Boron.private]] 
-- [[../../../../_personal/chemic/Elements/Group-13-Boron/Boron.personal|Boron.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-13-Boron/Boron.secret|Boron.secret]] 
+
+### [Boron](/_public/chemic/chemic~Elements/Group-13-Boron/Boron.md) 
+
+### [Boron.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Boron.internal.md) 
+
+### [Boron.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Boron.protect.md) 
+
+### [Boron.private](/_private/chemic/chemic~Elements/Group-13-Boron/Boron.private.md) 
+
+### [Boron.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Boron.personal.md) 
+
+### [Boron.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Boron.secret.md) 

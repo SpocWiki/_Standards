@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21480
@@ -35,10 +35,15 @@ SpocWebEntityId: 21480
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-14-Carbon/Carbon|Carbon]] 
-- [[../../../../_public/chemic/Elements/Group-14-Carbon/Carbon.public|Carbon.public]] 
-- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Carbon.internal|Carbon.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Carbon.protect|Carbon.protect]] 
-- [[../../../../_private/chemic/Elements/Group-14-Carbon/Carbon.private|Carbon.private]] 
-- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Carbon.personal|Carbon.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Carbon.secret|Carbon.secret]] 
+
+### [Carbon](/_public/chemic/chemic~Elements/Group-14-Carbon/Carbon.md) 
+
+### [Carbon.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Carbon.internal.md) 
+
+### [Carbon.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Carbon.protect.md) 
+
+### [Carbon.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Carbon.private.md) 
+
+### [Carbon.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Carbon.personal.md) 
+
+### [Carbon.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Carbon.secret.md) 

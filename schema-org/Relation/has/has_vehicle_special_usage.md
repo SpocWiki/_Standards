@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: CarUsageType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_vehicle_special_usage|has_vehicle_special_usage]] 
-- [[../../../../../_public/schema-org/Relation/has/has_vehicle_special_usage.public|has_vehicle_special_usage.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_vehicle_special_usage.internal|has_vehicle_special_usage.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_vehicle_special_usage.protect|has_vehicle_special_usage.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_vehicle_special_usage.private|has_vehicle_special_usage.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_vehicle_special_usage.personal|has_vehicle_special_usage.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_vehicle_special_usage.secret|has_vehicle_special_usage.secret]] 
+
+### [has_vehicle_special_usage](/_public/schema-org/Relation/has/has_vehicle_special_usage.md) 
+
+### [has_vehicle_special_usage.internal](/_internal/schema-org/Relation/has/has_vehicle_special_usage.internal.md) 
+
+### [has_vehicle_special_usage.protect](/_protect/schema-org/Relation/has/has_vehicle_special_usage.protect.md) 
+
+### [has_vehicle_special_usage.private](/_private/schema-org/Relation/has/has_vehicle_special_usage.private.md) 
+
+### [has_vehicle_special_usage.personal](/_personal/schema-org/Relation/has/has_vehicle_special_usage.personal.md) 
+
+### [has_vehicle_special_usage.secret](/_secret/schema-org/Relation/has/has_vehicle_special_usage.secret.md) 

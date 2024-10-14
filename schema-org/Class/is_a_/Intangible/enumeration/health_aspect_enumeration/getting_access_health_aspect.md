@@ -47,10 +47,15 @@ Content that discusses practical and policy aspects for getting access to specif
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect|getting_access_health_aspect]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.public|getting_access_health_aspect.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.internal|getting_access_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.protect|getting_access_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.private|getting_access_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.personal|getting_access_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.secret|getting_access_health_aspect.secret]] 
+
+### [getting_access_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.md) 
+
+### [getting_access_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.internal.md) 
+
+### [getting_access_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.protect.md) 
+
+### [getting_access_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.private.md) 
+
+### [getting_access_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.personal.md) 
+
+### [getting_access_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/getting_access_health_aspect.secret.md) 

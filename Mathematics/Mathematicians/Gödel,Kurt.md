@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Kurt Gödel
 ---
@@ -46,3 +46,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Gödel,Kurt](/_public/Mathematics/Mathematicians/Gödel,Kurt.md) 
+
+### [Gödel,Kurt.internal](/_internal/Mathematics/Mathematicians/Gödel,Kurt.internal.md) 
+
+### [Gödel,Kurt.protect](/_protect/Mathematics/Mathematicians/Gödel,Kurt.protect.md) 
+
+### [Gödel,Kurt.private](/_private/Mathematics/Mathematicians/Gödel,Kurt.private.md) 
+
+### [Gödel,Kurt.personal](/_personal/Mathematics/Mathematicians/Gödel,Kurt.personal.md) 
+
+### [Gödel,Kurt.secret](/_secret/Mathematics/Mathematicians/Gödel,Kurt.secret.md) 

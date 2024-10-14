@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Dim~Jerk
   - Dim~Jolt
@@ -22,3 +22,17 @@ To minimize the jerk, curves along roads are designed to be [clothoids](https://
 
 Jump-discontinuity in acceleration can be modeled using a [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta "Dirac delta") in jerk, scaled to the height of the jump.
 
+
+## Confidential Links & Embeds: 
+
+### [Dim~Jerk](/_public/Dimension/Linear_Dimension/Dim~Jerk.md) 
+
+### [Dim~Jerk.internal](/_internal/Dimension/Linear_Dimension/Dim~Jerk.internal.md) 
+
+### [Dim~Jerk.protect](/_protect/Dimension/Linear_Dimension/Dim~Jerk.protect.md) 
+
+### [Dim~Jerk.private](/_private/Dimension/Linear_Dimension/Dim~Jerk.private.md) 
+
+### [Dim~Jerk.personal](/_personal/Dimension/Linear_Dimension/Dim~Jerk.personal.md) 
+
+### [Dim~Jerk.secret](/_secret/Dimension/Linear_Dimension/Dim~Jerk.secret.md) 

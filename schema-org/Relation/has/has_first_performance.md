@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Event )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_first_performance|has_first_performance]] 
-- [[../../../../../_public/schema-org/Relation/has/has_first_performance.public|has_first_performance.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_first_performance.internal|has_first_performance.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_first_performance.protect|has_first_performance.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_first_performance.private|has_first_performance.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_first_performance.personal|has_first_performance.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_first_performance.secret|has_first_performance.secret]] 
+
+### [has_first_performance](/_public/schema-org/Relation/has/has_first_performance.md) 
+
+### [has_first_performance.internal](/_internal/schema-org/Relation/has/has_first_performance.internal.md) 
+
+### [has_first_performance.protect](/_protect/schema-org/Relation/has/has_first_performance.protect.md) 
+
+### [has_first_performance.private](/_private/schema-org/Relation/has/has_first_performance.private.md) 
+
+### [has_first_performance.personal](/_personal/schema-org/Relation/has/has_first_performance.personal.md) 
+
+### [has_first_performance.secret](/_secret/schema-org/Relation/has/has_first_performance.secret.md) 

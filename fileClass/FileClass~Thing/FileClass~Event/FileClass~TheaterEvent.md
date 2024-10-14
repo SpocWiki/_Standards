@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Event type: Theater performance.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TheaterEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.md) 
+
+### [FileClass~TheaterEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.internal.md) 
+
+### [FileClass~TheaterEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.protect.md) 
+
+### [FileClass~TheaterEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.private.md) 
+
+### [FileClass~TheaterEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.personal.md) 
+
+### [FileClass~TheaterEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [-17.8639,31.0297]
 type: Country
 tags:
@@ -37,9 +37,15 @@ Capital :: [[Harare]]
 
 
 ## Confidential Links & Embeds: 
-- [[Rhodesia-Nyasaland|Rhodesia-Nyasaland]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.internal|Rhodesia-Nyasaland.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.protect|Rhodesia-Nyasaland.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.private|Rhodesia-Nyasaland.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.personal|Rhodesia-Nyasaland.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.secret|Rhodesia-Nyasaland.secret]] 
+
+### [Rhodesia-Nyasaland](/_public/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.md) 
+
+### [Rhodesia-Nyasaland.internal](/_internal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.internal.md) 
+
+### [Rhodesia-Nyasaland.protect](/_protect/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.protect.md) 
+
+### [Rhodesia-Nyasaland.private](/_private/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.private.md) 
+
+### [Rhodesia-Nyasaland.personal](/_personal/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.personal.md) 
+
+### [Rhodesia-Nyasaland.secret](/_secret/Earth/Continent/Africa/Africa~South/Rhodesia-Nyasaland.secret.md) 

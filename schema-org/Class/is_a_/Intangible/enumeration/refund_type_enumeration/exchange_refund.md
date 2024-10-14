@@ -47,10 +47,15 @@ Specifies that a refund can be done as an exchange for the same product.
 [ #is_/enum_of :: [[../RefundTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund|exchange_refund]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.public|exchange_refund.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.internal|exchange_refund.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.protect|exchange_refund.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.private|exchange_refund.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.personal|exchange_refund.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/refund_type_enumeration/exchange_refund.secret|exchange_refund.secret]] 
+
+### [exchange_refund](/_public/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.md) 
+
+### [exchange_refund.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.internal.md) 
+
+### [exchange_refund.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.protect.md) 
+
+### [exchange_refund.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.private.md) 
+
+### [exchange_refund.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.personal.md) 
+
+### [exchange_refund.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/refund_type_enumeration/exchange_refund.secret.md) 

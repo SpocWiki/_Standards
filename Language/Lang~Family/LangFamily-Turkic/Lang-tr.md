@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Turkish
@@ -35,11 +35,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Turkish%20language)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-tr|Lang-tr]] 
-- [[../../_public/lang/Lang-tr.public|Lang-tr.public]] 
-- [[../../../../_internal/lang/Lang-tr.internal|Lang-tr.internal]] 
-- [[../../_protect/lang/Lang-tr.protect|Lang-tr.protect]] 
-- [[../../_private/lang/Lang-tr.private|Lang-tr.private]] 
-- [[../../_personal/lang/Lang-tr.personal|Lang-tr.personal]] 
-- [[../../_secret/lang/Lang-tr.secret|Lang-tr.secret]]
 
+### [Lang-tr](/_public/Language/Lang~Family/LangFamily-Turkic/Lang-tr.md) 
+
+### [Lang-tr.internal](/_internal/Language/Lang~Family/LangFamily-Turkic/Lang-tr.internal.md) 
+
+### [Lang-tr.protect](/_protect/Language/Lang~Family/LangFamily-Turkic/Lang-tr.protect.md) 
+
+### [Lang-tr.private](/_private/Language/Lang~Family/LangFamily-Turkic/Lang-tr.private.md) 
+
+### [Lang-tr.personal](/_personal/Language/Lang~Family/LangFamily-Turkic/Lang-tr.personal.md) 
+
+### [Lang-tr.secret](/_secret/Language/Lang~Family/LangFamily-Turkic/Lang-tr.secret.md) 

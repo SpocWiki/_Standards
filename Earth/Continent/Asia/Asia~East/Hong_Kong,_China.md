@@ -1,4 +1,4 @@
----
+﻿---
 location: [22.2783,114.159]
 type: Country
 tags:
@@ -37,9 +37,15 @@ Capital :: [[China/Hong_Kong]]
 
 
 ## Confidential Links & Embeds: 
-- [[Hong_Kong,_China|Hong_Kong,_China]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.internal|Hong_Kong,_China.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.protect|Hong_Kong,_China.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.private|Hong_Kong,_China.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.personal|Hong_Kong,_China.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.secret|Hong_Kong,_China.secret]] 
+
+### [Hong_Kong,_China](/_public/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.md) 
+
+### [Hong_Kong,_China.internal](/_internal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.internal.md) 
+
+### [Hong_Kong,_China.protect](/_protect/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.protect.md) 
+
+### [Hong_Kong,_China.private](/_private/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.private.md) 
+
+### [Hong_Kong,_China.personal](/_personal/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.personal.md) 
+
+### [Hong_Kong,_China.secret](/_secret/Earth/Continent/Asia/Asia~East/Hong_Kong,_China.secret.md) 

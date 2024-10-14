@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Property )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_measured_property|has_measured_property]] 
-- [[../../../../../_public/schema-org/Relation/has/has_measured_property.public|has_measured_property.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_measured_property.internal|has_measured_property.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_measured_property.protect|has_measured_property.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_measured_property.private|has_measured_property.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_measured_property.personal|has_measured_property.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_measured_property.secret|has_measured_property.secret]] 
+
+### [has_measured_property](/_public/schema-org/Relation/has/has_measured_property.md) 
+
+### [has_measured_property.internal](/_internal/schema-org/Relation/has/has_measured_property.internal.md) 
+
+### [has_measured_property.protect](/_protect/schema-org/Relation/has/has_measured_property.protect.md) 
+
+### [has_measured_property.private](/_private/schema-org/Relation/has/has_measured_property.private.md) 
+
+### [has_measured_property.personal](/_personal/schema-org/Relation/has/has_measured_property.personal.md) 
+
+### [has_measured_property.secret](/_secret/schema-org/Relation/has/has_measured_property.secret.md) 

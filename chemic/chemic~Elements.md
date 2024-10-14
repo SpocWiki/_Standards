@@ -1,4 +1,4 @@
----
+﻿---
 icon: atom_symbol
 ---
 
@@ -64,11 +64,15 @@ as of Period 4, the [metallic Groups](#Metallic%20Groups) appear here
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/chemic/Elements|Elements]] 
-- [[../../_public/chemic/Elements.public|Elements.public]] 
-- [[../../_internal/chemic/Elements.internal|Elements.internal]] 
-- [[../../_protect/chemic/Elements.protect|Elements.protect]] 
-- [[../../_private/chemic/Elements.private|Elements.private]] 
-- [[../../_personal/chemic/Elements.personal|Elements.personal]] 
-- [[../../_secret/chemic/Elements.secret|Elements.secret]]
 
+### [chemic~Elements](/_public/chemic/chemic~Elements.md) 
+
+### [chemic~Elements.internal](/_internal/chemic/chemic~Elements.internal.md) 
+
+### [chemic~Elements.protect](/_protect/chemic/chemic~Elements.protect.md) 
+
+### [chemic~Elements.private](/_private/chemic/chemic~Elements.private.md) 
+
+### [chemic~Elements.personal](/_personal/chemic/chemic~Elements.personal.md) 
+
+### [chemic~Elements.secret](/_secret/chemic/chemic~Elements.secret.md) 

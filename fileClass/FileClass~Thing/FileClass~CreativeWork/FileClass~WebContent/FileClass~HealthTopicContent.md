@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -38,3 +38,17 @@ Indicates the aspect or aspects specifically addressed in some [[HealthTopicCont
 HasHealthAspect:: {"type":"Select","options":{"valuesList":{"AllergiesHealthAspect","BenefitsHealthAspect","CausesHealthAspect","ContagiousnessHealthAspect","EffectivenessHealthAspect","GettingAccessHealthAspect","HowItWorksHealthAspect","HowOrWhereHealthAspect","IngredientsHealthAspect","LivingWithHealthAspect","MayTreatHealthAspect","MisconceptionsHealthAspect","OverviewHealthAspect","PatientExperienceHealthAspect","PregnancyHealthAspect","PreventionHealthAspect","PrognosisHealthAspect","RelatedTopicsHealthAspect","RisksOrComplicationsHealthAspect","SafetyHealthAspect","ScreeningHealthAspect","SeeDoctorHealthAspect","SelfCareHealthAspect","SideEffectsHealthAspect","StagesHealthAspect","SymptomsHealthAspect","TreatmentsHealthAspect","TypesHealthAspect","UsageOrScheduleHealthAspect"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~HealthTopicContent](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.md) 
+
+### [FileClass~HealthTopicContent.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.internal.md) 
+
+### [FileClass~HealthTopicContent.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.protect.md) 
+
+### [FileClass~HealthTopicContent.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.private.md) 
+
+### [FileClass~HealthTopicContent.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.personal.md) 
+
+### [FileClass~HealthTopicContent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.secret.md) 

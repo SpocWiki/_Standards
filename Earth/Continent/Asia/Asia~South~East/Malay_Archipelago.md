@@ -1,4 +1,4 @@
-
+﻿
 # [[Malay_Archipelago]] 
  
 
@@ -16,3 +16,17 @@
 type: folder_brief_live
 ```
  
+
+## Confidential Links & Embeds: 
+
+### [Malay_Archipelago](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.md) 
+
+### [Malay_Archipelago.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.internal.md) 
+
+### [Malay_Archipelago.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.protect.md) 
+
+### [Malay_Archipelago.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.private.md) 
+
+### [Malay_Archipelago.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.personal.md) 
+
+### [Malay_Archipelago.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago.secret.md) 

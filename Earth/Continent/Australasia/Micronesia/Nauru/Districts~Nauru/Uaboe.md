@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.51 , 166.93 ] 
 type: geo-Region
 title: Uaboe
@@ -40,11 +40,15 @@ markerFolder: ./Uaboe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Uaboe|Uaboe]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Uaboe.public|Uaboe.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Uaboe.internal|Uaboe.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Uaboe.protect|Uaboe.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Uaboe.private|Uaboe.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Uaboe.personal|Uaboe.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Uaboe.secret|Uaboe.secret]] 
 
+### [Uaboe](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.md) 
+
+### [Uaboe.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.internal.md) 
+
+### [Uaboe.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.protect.md) 
+
+### [Uaboe.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.private.md) 
+
+### [Uaboe.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.personal.md) 
+
+### [Uaboe.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.secret.md) 

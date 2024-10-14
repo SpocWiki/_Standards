@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ The type of tissue sample required for the test.
 TissueSample:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PathologyTest](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.md) 
+
+### [FileClass~PathologyTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.internal.md) 
+
+### [FileClass~PathologyTest.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.protect.md) 
+
+### [FileClass~PathologyTest.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.private.md) 
+
+### [FileClass~PathologyTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.personal.md) 
+
+### [FileClass~PathologyTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.secret.md) 

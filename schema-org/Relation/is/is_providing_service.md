@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Service)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_providing_service|is_providing_service]] 
-- [[../../../../../_public/schema-org/Relation/is/is_providing_service.public|is_providing_service.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_providing_service.internal|is_providing_service.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_providing_service.protect|is_providing_service.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_providing_service.private|is_providing_service.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_providing_service.personal|is_providing_service.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_providing_service.secret|is_providing_service.secret]] 
+
+### [is_providing_service](/_public/schema-org/Relation/is/is_providing_service.md) 
+
+### [is_providing_service.internal](/_internal/schema-org/Relation/is/is_providing_service.internal.md) 
+
+### [is_providing_service.protect](/_protect/schema-org/Relation/is/is_providing_service.protect.md) 
+
+### [is_providing_service.private](/_private/schema-org/Relation/is/is_providing_service.private.md) 
+
+### [is_providing_service.personal](/_personal/schema-org/Relation/is/is_providing_service.personal.md) 
+
+### [is_providing_service.secret](/_secret/schema-org/Relation/is/is_providing_service.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
   - Tamil
@@ -34,11 +34,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Tamil%20language)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-ta|Lang-ta]] 
-- [[../../_public/lang/Lang-ta.public|Lang-ta.public]] 
-- [[../../../../_internal/lang/Lang-ta.internal|Lang-ta.internal]] 
-- [[../../_protect/lang/Lang-ta.protect|Lang-ta.protect]] 
-- [[../../_private/lang/Lang-ta.private|Lang-ta.private]] 
-- [[../../_personal/lang/Lang-ta.personal|Lang-ta.personal]] 
-- [[../../_secret/lang/Lang-ta.secret|Lang-ta.secret]]
 
+### [Lang-ta](/_public/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.md) 
+
+### [Lang-ta.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.internal.md) 
+
+### [Lang-ta.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.protect.md) 
+
+### [Lang-ta.private](/_private/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.private.md) 
+
+### [Lang-ta.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.personal.md) 
+
+### [Lang-ta.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian/Lang-ta.secret.md) 

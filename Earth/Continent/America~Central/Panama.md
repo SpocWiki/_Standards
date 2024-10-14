@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 8.96667
     - -79.5333
@@ -145,9 +145,15 @@ Capital :: [[Panama_City]]
 
 
 ## Confidential Links & Embeds: 
-- [[Panama|Panama]] 
-- [[../../../../_internal/Earth/Continent/America~Central/Panama.internal|Panama.internal]] 
-- [[../../../../_protect/Earth/Continent/America~Central/Panama.protect|Panama.protect]] 
-- [[../../../../_private/Earth/Continent/America~Central/Panama.private|Panama.private]] 
-- [[../../../../_personal/Earth/Continent/America~Central/Panama.personal|Panama.personal]] 
-- [[../../../../_secret/Earth/Continent/America~Central/Panama.secret|Panama.secret]] 
+
+### [Panama](/_public/Earth/Continent/America~Central/Panama.md) 
+
+### [Panama.internal](/_internal/Earth/Continent/America~Central/Panama.internal.md) 
+
+### [Panama.protect](/_protect/Earth/Continent/America~Central/Panama.protect.md) 
+
+### [Panama.private](/_private/Earth/Continent/America~Central/Panama.private.md) 
+
+### [Panama.personal](/_personal/Earth/Continent/America~Central/Panama.personal.md) 
+
+### [Panama.secret](/_secret/Earth/Continent/America~Central/Panama.secret.md) 

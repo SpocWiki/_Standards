@@ -45,10 +45,15 @@ Dietetics and nutrition as a medical specialty.
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition|diet_nutrition]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.public|diet_nutrition.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.internal|diet_nutrition.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.protect|diet_nutrition.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.private|diet_nutrition.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.personal|diet_nutrition.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.secret|diet_nutrition.secret]] 
+
+### [diet_nutrition](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.md) 
+
+### [diet_nutrition.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.internal.md) 
+
+### [diet_nutrition.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.protect.md) 
+
+### [diet_nutrition.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.private.md) 
+
+### [diet_nutrition.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.personal.md) 
+
+### [diet_nutrition.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/diet_nutrition.secret.md) 

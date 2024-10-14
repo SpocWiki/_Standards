@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_cvd_facility_county|has_cvd_facility_county]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_cvd_facility_county.public|has_cvd_facility_county.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_cvd_facility_county.internal|has_cvd_facility_county.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_cvd_facility_county.protect|has_cvd_facility_county.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_cvd_facility_county.private|has_cvd_facility_county.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_cvd_facility_county.personal|has_cvd_facility_county.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_cvd_facility_county.secret|has_cvd_facility_county.secret]] 
+
+### [has_cvd_facility_county](/_public/schema-org/Property/Texts/has_cvd_facility_county.md) 
+
+### [has_cvd_facility_county.internal](/_internal/schema-org/Property/Texts/has_cvd_facility_county.internal.md) 
+
+### [has_cvd_facility_county.protect](/_protect/schema-org/Property/Texts/has_cvd_facility_county.protect.md) 
+
+### [has_cvd_facility_county.private](/_private/schema-org/Property/Texts/has_cvd_facility_county.private.md) 
+
+### [has_cvd_facility_county.personal](/_personal/schema-org/Property/Texts/has_cvd_facility_county.personal.md) 
+
+### [has_cvd_facility_county.secret](/_secret/schema-org/Property/Texts/has_cvd_facility_county.secret.md) 

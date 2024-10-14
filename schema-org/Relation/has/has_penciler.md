@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_penciler|has_penciler]] 
-- [[../../../../../_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_penciler.internal|has_penciler.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_penciler.protect|has_penciler.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_penciler.private|has_penciler.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_penciler.personal|has_penciler.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_penciler.secret|has_penciler.secret]] 
+
+### [has_penciler](/_public/schema-org/Relation/has/has_penciler.md) 
+
+### [has_penciler.internal](/_internal/schema-org/Relation/has/has_penciler.internal.md) 
+
+### [has_penciler.protect](/_protect/schema-org/Relation/has/has_penciler.protect.md) 
+
+### [has_penciler.private](/_private/schema-org/Relation/has/has_penciler.private.md) 
+
+### [has_penciler.personal](/_personal/schema-org/Relation/has/has_penciler.personal.md) 
+
+### [has_penciler.secret](/_secret/schema-org/Relation/has/has_penciler.secret.md) 

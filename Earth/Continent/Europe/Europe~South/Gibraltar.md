@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 36.1
 - -5.35
@@ -136,10 +136,15 @@ has_place_continent:: [[Europe]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Gibraltar|Gibraltar]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Gibraltar.public|Gibraltar.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Gibraltar.internal|Gibraltar.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Gibraltar.protect|Gibraltar.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Gibraltar.private|Gibraltar.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Gibraltar.personal|Gibraltar.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Gibraltar.secret|Gibraltar.secret]] 
+
+### [Gibraltar](/_public/Earth/Continent/Europe/Europe~South/Gibraltar.md) 
+
+### [Gibraltar.internal](/_internal/Earth/Continent/Europe/Europe~South/Gibraltar.internal.md) 
+
+### [Gibraltar.protect](/_protect/Earth/Continent/Europe/Europe~South/Gibraltar.protect.md) 
+
+### [Gibraltar.private](/_private/Earth/Continent/Europe/Europe~South/Gibraltar.private.md) 
+
+### [Gibraltar.personal](/_personal/Earth/Continent/Europe/Europe~South/Gibraltar.personal.md) 
+
+### [Gibraltar.secret](/_secret/Earth/Continent/Europe/Europe~South/Gibraltar.secret.md) 

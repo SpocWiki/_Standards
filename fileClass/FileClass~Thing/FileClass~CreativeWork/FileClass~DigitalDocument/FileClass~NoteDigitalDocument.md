@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A file containing a note, primarily for the author.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~NoteDigitalDocument](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.md) 
+
+### [FileClass~NoteDigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.internal.md) 
+
+### [FileClass~NoteDigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.protect.md) 
+
+### [FileClass~NoteDigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.private.md) 
+
+### [FileClass~NoteDigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.personal.md) 
+
+### [FileClass~NoteDigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~NoteDigitalDocument.secret.md) 

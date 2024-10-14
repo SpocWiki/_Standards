@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,3 +35,17 @@ An [[OfferForPurchase]] in Schema.org represents an [[Offer]] to sell something,
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~OfferForPurchase](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForPurchase.md) 
+
+### [FileClass~OfferForPurchase.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForPurchase.internal.md) 
+
+### [FileClass~OfferForPurchase.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForPurchase.protect.md) 
+
+### [FileClass~OfferForPurchase.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForPurchase.private.md) 
+
+### [FileClass~OfferForPurchase.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForPurchase.personal.md) 
+
+### [FileClass~OfferForPurchase.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Offer/FileClass~OfferForPurchase.secret.md) 

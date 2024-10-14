@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text, Thing, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_game_platform|has_game_platform]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_game_platform.public|has_game_platform.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_game_platform.internal|has_game_platform.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_game_platform.protect|has_game_platform.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_game_platform.private|has_game_platform.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_game_platform.personal|has_game_platform.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_game_platform.secret|has_game_platform.secret]] 
+
+### [has_game_platform](/_public/schema-org/Property/Texts/has_game_platform.md) 
+
+### [has_game_platform.internal](/_internal/schema-org/Property/Texts/has_game_platform.internal.md) 
+
+### [has_game_platform.protect](/_protect/schema-org/Property/Texts/has_game_platform.protect.md) 
+
+### [has_game_platform.private](/_private/schema-org/Property/Texts/has_game_platform.private.md) 
+
+### [has_game_platform.personal](/_personal/schema-org/Property/Texts/has_game_platform.personal.md) 
+
+### [has_game_platform.secret](/_secret/schema-org/Property/Texts/has_game_platform.secret.md) 

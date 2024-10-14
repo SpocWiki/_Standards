@@ -47,10 +47,15 @@ Content about the benefits and advantages of usage or utilization of topic.
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/benefits_health_aspect|benefits_health_aspect]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.public|benefits_health_aspect.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.internal|benefits_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.protect|benefits_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.private|benefits_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.personal|benefits_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.secret|benefits_health_aspect.secret]] 
+
+### [benefits_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.md) 
+
+### [benefits_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.internal.md) 
+
+### [benefits_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.protect.md) 
+
+### [benefits_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.private.md) 
+
+### [benefits_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.personal.md) 
+
+### [benefits_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/benefits_health_aspect.secret.md) 

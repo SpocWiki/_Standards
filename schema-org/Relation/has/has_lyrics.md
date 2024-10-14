@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_lyrics|has_lyrics]] 
-- [[../../../../../_public/schema-org/Relation/has/has_lyrics.public|has_lyrics.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_lyrics.internal|has_lyrics.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_lyrics.protect|has_lyrics.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_lyrics.private|has_lyrics.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_lyrics.personal|has_lyrics.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_lyrics.secret|has_lyrics.secret]] 
+
+### [has_lyrics](/_public/schema-org/Relation/has/has_lyrics.md) 
+
+### [has_lyrics.internal](/_internal/schema-org/Relation/has/has_lyrics.internal.md) 
+
+### [has_lyrics.protect](/_protect/schema-org/Relation/has/has_lyrics.protect.md) 
+
+### [has_lyrics.private](/_private/schema-org/Relation/has/has_lyrics.private.md) 
+
+### [has_lyrics.personal](/_personal/schema-org/Relation/has/has_lyrics.personal.md) 
+
+### [has_lyrics.secret](/_secret/schema-org/Relation/has/has_lyrics.secret.md) 

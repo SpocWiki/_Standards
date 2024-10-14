@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -124,3 +124,17 @@ The total time required to perform instructions or a direction (including time t
 TotalTime:: {"type":"Number","options":{"min":"0","max":"2359"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~HowToDirection](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.md) 
+
+### [FileClass~HowToDirection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.internal.md) 
+
+### [FileClass~HowToDirection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.protect.md) 
+
+### [FileClass~HowToDirection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.private.md) 
+
+### [FileClass~HowToDirection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.personal.md) 
+
+### [FileClass~HowToDirection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndListItem/FileClass~HowToDirection.secret.md) 

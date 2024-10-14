@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -84,10 +84,15 @@ Relation describes that:
 [ #is_/inverse_of  :: [[has_main_entity]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_main_entity_of_page|is_main_entity_of_page]] 
-- [[../../../../../_public/schema-org/Relation/has/is_main_entity_of_page.public|is_main_entity_of_page.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_main_entity_of_page.internal|is_main_entity_of_page.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_main_entity_of_page.protect|is_main_entity_of_page.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_main_entity_of_page.private|is_main_entity_of_page.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_main_entity_of_page.personal|is_main_entity_of_page.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_main_entity_of_page.secret|is_main_entity_of_page.secret]] 
+
+### [is_main_entity_of_page](/_public/schema-org/Relation/is/is_main_entity_of_page.md) 
+
+### [is_main_entity_of_page.internal](/_internal/schema-org/Relation/is/is_main_entity_of_page.internal.md) 
+
+### [is_main_entity_of_page.protect](/_protect/schema-org/Relation/is/is_main_entity_of_page.protect.md) 
+
+### [is_main_entity_of_page.private](/_private/schema-org/Relation/is/is_main_entity_of_page.private.md) 
+
+### [is_main_entity_of_page.personal](/_personal/schema-org/Relation/is/is_main_entity_of_page.personal.md) 
+
+### [is_main_entity_of_page.secret](/_secret/schema-org/Relation/is/is_main_entity_of_page.secret.md) 

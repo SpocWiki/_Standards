@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: MonetaryAmount )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_shipping_rate|has_value_for_shipping_rate]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_shipping_rate.public|has_value_for_shipping_rate.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_shipping_rate.internal|has_value_for_shipping_rate.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_shipping_rate.protect|has_value_for_shipping_rate.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_shipping_rate.private|has_value_for_shipping_rate.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_shipping_rate.personal|has_value_for_shipping_rate.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_shipping_rate.secret|has_value_for_shipping_rate.secret]] 
+
+### [has_value_for_shipping_rate](/_public/schema-org/Property/has_value_for/has_value_for_shipping_rate.md) 
+
+### [has_value_for_shipping_rate.internal](/_internal/schema-org/Property/has_value_for/has_value_for_shipping_rate.internal.md) 
+
+### [has_value_for_shipping_rate.protect](/_protect/schema-org/Property/has_value_for/has_value_for_shipping_rate.protect.md) 
+
+### [has_value_for_shipping_rate.private](/_private/schema-org/Property/has_value_for/has_value_for_shipping_rate.private.md) 
+
+### [has_value_for_shipping_rate.personal](/_personal/schema-org/Property/has_value_for/has_value_for_shipping_rate.personal.md) 
+
+### [has_value_for_shipping_rate.secret](/_secret/schema-org/Property/has_value_for/has_value_for_shipping_rate.secret.md) 

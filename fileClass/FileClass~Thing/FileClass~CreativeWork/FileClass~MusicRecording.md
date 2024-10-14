@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -99,3 +99,17 @@ The composition this track is a recording of.
 RecordingOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/MusicComposition')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MusicRecording](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.md) 
+
+### [FileClass~MusicRecording.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.internal.md) 
+
+### [FileClass~MusicRecording.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.protect.md) 
+
+### [FileClass~MusicRecording.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.private.md) 
+
+### [FileClass~MusicRecording.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.personal.md) 
+
+### [FileClass~MusicRecording.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.secret.md) 

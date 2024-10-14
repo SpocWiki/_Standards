@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_contained_in|has_location_contained_in]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_contained_in.public|has_location_contained_in.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_contained_in.internal|has_location_contained_in.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_contained_in.protect|has_location_contained_in.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_contained_in.private|has_location_contained_in.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_contained_in.personal|has_location_contained_in.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_contained_in.secret|has_location_contained_in.secret]] 
+
+### [has_location_contained_in](/_public/schema-org/Property/has_location/has_location_contained_in.md) 
+
+### [has_location_contained_in.internal](/_internal/schema-org/Property/has_location/has_location_contained_in.internal.md) 
+
+### [has_location_contained_in.protect](/_protect/schema-org/Property/has_location/has_location_contained_in.protect.md) 
+
+### [has_location_contained_in.private](/_private/schema-org/Property/has_location/has_location_contained_in.private.md) 
+
+### [has_location_contained_in.personal](/_personal/schema-org/Property/has_location/has_location_contained_in.personal.md) 
+
+### [has_location_contained_in.secret](/_secret/schema-org/Property/has_location/has_location_contained_in.secret.md) 

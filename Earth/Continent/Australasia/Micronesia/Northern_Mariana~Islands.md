@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 15.1833
     - 145.75
@@ -137,10 +137,15 @@ Capital :: [[Saipan]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Northern_Mariana~Islands|Northern_Mariana~Islands]] 
-- [[../../../../_public/Earth/Continent/Oceania/Northern_Mariana~Islands.public|Northern_Mariana~Islands.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Northern_Mariana~Islands.internal|Northern_Mariana~Islands.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Northern_Mariana~Islands.protect|Northern_Mariana~Islands.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Northern_Mariana~Islands.private|Northern_Mariana~Islands.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Northern_Mariana~Islands.personal|Northern_Mariana~Islands.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Northern_Mariana~Islands.secret|Northern_Mariana~Islands.secret]] 
+
+### [Northern_Mariana~Islands](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.md) 
+
+### [Northern_Mariana~Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.internal.md) 
+
+### [Northern_Mariana~Islands.protect](/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.protect.md) 
+
+### [Northern_Mariana~Islands.private](/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.private.md) 
+
+### [Northern_Mariana~Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.personal.md) 
+
+### [Northern_Mariana~Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.secret.md) 

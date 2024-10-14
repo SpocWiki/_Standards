@@ -1,4 +1,4 @@
-# [[Antarctic~Australasian]] 
+﻿# [[Antarctic~Australasian]] 
 
 ## Edit
 
@@ -31,3 +31,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Antarctic~Australasian](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.md) 
+
+### [Antarctic~Australasian.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.internal.md) 
+
+### [Antarctic~Australasian.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.protect.md) 
+
+### [Antarctic~Australasian.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.private.md) 
+
+### [Antarctic~Australasian.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.personal.md) 
+
+### [Antarctic~Australasian.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Australasian.secret.md) 

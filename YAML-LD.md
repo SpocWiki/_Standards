@@ -1,4 +1,4 @@
-
+﻿
 # [[YAML-LD]] 
 
 #has_/url_for_/description :: https://www.w3.org/community/reports/json-ld/CG-FINAL-yaml-ld-20231206/ 
@@ -25,3 +25,17 @@
 | \&aliases     | ❌                                                                                                                                                          | [✅](https://yaml.org/spec/1.2.2/#3222-anchors-and-aliases)                                                                                    |
 | Map-keys      | `string`                                                                                                                                                   | [Any type representable in YAML](https://yaml.org/spec/1.2.2/#3211-nodes), from strings to mappings                                           |
 
+
+## Confidential Links & Embeds: 
+
+### [YAML-LD](/_public/YAML-LD.md) 
+
+### [YAML-LD.internal](/_internal/YAML-LD.internal.md) 
+
+### [YAML-LD.protect](/_protect/YAML-LD.protect.md) 
+
+### [YAML-LD.private](/_private/YAML-LD.private.md) 
+
+### [YAML-LD.personal](/_personal/YAML-LD.personal.md) 
+
+### [YAML-LD.secret](/_secret/YAML-LD.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 8.48445
 - -13.2345
@@ -142,9 +142,15 @@ Capital :: [[Freetown]]
 
 
 ## Confidential Links & Embeds: 
-- [[Sierra_Leone|Sierra_Leone]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone.internal|Sierra_Leone.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone.protect|Sierra_Leone.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Sierra_Leone.private|Sierra_Leone.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal|Sierra_Leone.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret|Sierra_Leone.secret]] 
+
+### [Sierra_Leone](/_public/Earth/Continent/Africa/Africa~West/Sierra_Leone.md) 
+
+### [Sierra_Leone.internal](/_internal/Earth/Continent/Africa/Africa~West/Sierra_Leone.internal.md) 
+
+### [Sierra_Leone.protect](/_protect/Earth/Continent/Africa/Africa~West/Sierra_Leone.protect.md) 
+
+### [Sierra_Leone.private](/_private/Earth/Continent/Africa/Africa~West/Sierra_Leone.private.md) 
+
+### [Sierra_Leone.personal](/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal.md) 
+
+### [Sierra_Leone.secret](/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret.md) 

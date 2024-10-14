@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: CreativeWork, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_backstory|has_backstory]] 
-- [[../../../../../_public/schema-org/Relation/has/has_backstory.public|has_backstory.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_backstory.internal|has_backstory.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_backstory.protect|has_backstory.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_backstory.private|has_backstory.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_backstory.personal|has_backstory.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_backstory.secret|has_backstory.secret]] 
+
+### [has_backstory](/_public/schema-org/Relation/has/has_backstory.md) 
+
+### [has_backstory.internal](/_internal/schema-org/Relation/has/has_backstory.internal.md) 
+
+### [has_backstory.protect](/_protect/schema-org/Relation/has/has_backstory.protect.md) 
+
+### [has_backstory.private](/_private/schema-org/Relation/has/has_backstory.private.md) 
+
+### [has_backstory.personal](/_personal/schema-org/Relation/has/has_backstory.personal.md) 
+
+### [has_backstory.secret](/_secret/schema-org/Relation/has/has_backstory.secret.md) 

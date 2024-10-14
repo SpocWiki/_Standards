@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -444,10 +444,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Africa/_Africa-CountryDb|_Africa-CountryDb]] 
-- [[../../../../_public/Earth/Continent/Africa/_Africa-CountryDb.public|_Africa-CountryDb.public]] 
-- [[../../../../_internal/Earth/Continent/Africa/_Africa-CountryDb.internal|_Africa-CountryDb.internal]] 
-- [[../../../../_protect/Earth/Continent/Africa/_Africa-CountryDb.protect|_Africa-CountryDb.protect]] 
-- [[../../../../_private/Earth/Continent/Africa/_Africa-CountryDb.private|_Africa-CountryDb.private]] 
-- [[../../../../_personal/Earth/Continent/Africa/_Africa-CountryDb.personal|_Africa-CountryDb.personal]] 
-- [[../../../../_secret/Earth/Continent/Africa/_Africa-CountryDb.secret|_Africa-CountryDb.secret]] 
+
+### [_Africa-CountryDb](/_public/Earth/Continent/Africa/_Africa-CountryDb.md) 
+
+### [_Africa-CountryDb.internal](/_internal/Earth/Continent/Africa/_Africa-CountryDb.internal.md) 
+
+### [_Africa-CountryDb.protect](/_protect/Earth/Continent/Africa/_Africa-CountryDb.protect.md) 
+
+### [_Africa-CountryDb.private](/_private/Earth/Continent/Africa/_Africa-CountryDb.private.md) 
+
+### [_Africa-CountryDb.personal](/_personal/Earth/Continent/Africa/_Africa-CountryDb.personal.md) 
+
+### [_Africa-CountryDb.secret](/_secret/Earth/Continent/Africa/_Africa-CountryDb.secret.md) 

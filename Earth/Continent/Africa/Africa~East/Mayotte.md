@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -12.7806
 - 45.2278
@@ -133,9 +133,15 @@ Capital :: [[Mamoudzou]]
 
 
 ## Confidential Links & Embeds: 
-- [[Mayotte|Mayotte]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Mayotte.internal|Mayotte.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Mayotte.protect|Mayotte.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Mayotte.private|Mayotte.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Mayotte.personal|Mayotte.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Mayotte.secret|Mayotte.secret]] 
+
+### [Mayotte](/_public/Earth/Continent/Africa/Africa~East/Mayotte.md) 
+
+### [Mayotte.internal](/_internal/Earth/Continent/Africa/Africa~East/Mayotte.internal.md) 
+
+### [Mayotte.protect](/_protect/Earth/Continent/Africa/Africa~East/Mayotte.protect.md) 
+
+### [Mayotte.private](/_private/Earth/Continent/Africa/Africa~East/Mayotte.private.md) 
+
+### [Mayotte.personal](/_personal/Earth/Continent/Africa/Africa~East/Mayotte.personal.md) 
+
+### [Mayotte.secret](/_secret/Earth/Continent/Africa/Africa~East/Mayotte.secret.md) 

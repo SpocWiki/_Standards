@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -50,3 +50,17 @@ The general opening hours for a business. Opening hours can be specified as a we
 
 OpeningHours:: {"type":"Input","options":{}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CivicStructureAndLodgingBusiness](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.md) 
+
+### [FileClass~CivicStructureAndLodgingBusiness.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.internal.md) 
+
+### [FileClass~CivicStructureAndLodgingBusiness.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.protect.md) 
+
+### [FileClass~CivicStructureAndLodgingBusiness.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.private.md) 
+
+### [FileClass~CivicStructureAndLodgingBusiness.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.personal.md) 
+
+### [FileClass~CivicStructureAndLodgingBusiness.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LodgingBusiness/FileClass~CivicStructureAndLodgingBusiness.secret.md) 

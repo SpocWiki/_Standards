@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A shop that will buy, or lend money against the security of, personal possession
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PawnShop](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PawnShop.md) 
+
+### [FileClass~PawnShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PawnShop.internal.md) 
+
+### [FileClass~PawnShop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PawnShop.protect.md) 
+
+### [FileClass~PawnShop.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PawnShop.private.md) 
+
+### [FileClass~PawnShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PawnShop.personal.md) 
+
+### [FileClass~PawnShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~PawnShop.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,3 +55,17 @@ The terminal or port from which the boat departs.
 DepartureBoatTerminal:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/CivicStructure/BoatTerminal')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BoatTrip](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.md) 
+
+### [FileClass~BoatTrip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.internal.md) 
+
+### [FileClass~BoatTrip.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.protect.md) 
+
+### [FileClass~BoatTrip.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.private.md) 
+
+### [FileClass~BoatTrip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.personal.md) 
+
+### [FileClass~BoatTrip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.secret.md) 

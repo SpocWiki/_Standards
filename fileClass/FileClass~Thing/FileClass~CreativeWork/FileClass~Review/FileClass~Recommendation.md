@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -38,3 +38,17 @@ A category for the item. Greater signs or slashes can be used to informally indi
 Category:: {"type":"Select","options":{"valuesList":{"AerobicActivity","AnaerobicActivity","Balance","Flexibility","LeisureTimeActivity","OccupationalActivity","StrengthTraining"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Recommendation](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.md) 
+
+### [FileClass~Recommendation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.internal.md) 
+
+### [FileClass~Recommendation.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.protect.md) 
+
+### [FileClass~Recommendation.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.private.md) 
+
+### [FileClass~Recommendation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.personal.md) 
+
+### [FileClass~Recommendation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~Recommendation.secret.md) 

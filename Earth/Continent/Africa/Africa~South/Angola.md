@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -8.8
 - 13.23
@@ -140,9 +140,15 @@ Capital :: [[../Africa~South/Angola/City/Luanda]]
 
 
 ## Confidential Links & Embeds: 
-- [[Angola|Angola]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~North/Angola.internal|Angola.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~North/Angola.protect|Angola.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~North/Angola.private|Angola.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~North/Angola.personal|Angola.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~North/Angola.secret|Angola.secret]] 
+
+### [Angola](/_public/Earth/Continent/Africa/Africa~South/Angola.md) 
+
+### [Angola.internal](/_internal/Earth/Continent/Africa/Africa~South/Angola.internal.md) 
+
+### [Angola.protect](/_protect/Earth/Continent/Africa/Africa~South/Angola.protect.md) 
+
+### [Angola.private](/_private/Earth/Continent/Africa/Africa~South/Angola.private.md) 
+
+### [Angola.personal](/_personal/Earth/Continent/Africa/Africa~South/Angola.personal.md) 
+
+### [Angola.secret](/_secret/Earth/Continent/Africa/Africa~South/Angola.secret.md) 

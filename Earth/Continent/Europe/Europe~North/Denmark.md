@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 55.6789
     - 10.5
@@ -143,10 +143,15 @@ Capital :: [[Copenhagen]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Denmark|Denmark]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Denmark.public|Denmark.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Denmark.internal|Denmark.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Denmark.protect|Denmark.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Denmark.private|Denmark.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Denmark.personal|Denmark.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Denmark.secret|Denmark.secret]] 
+
+### [Denmark](/_public/Earth/Continent/Europe/Europe~North/Denmark.md) 
+
+### [Denmark.internal](/_internal/Earth/Continent/Europe/Europe~North/Denmark.internal.md) 
+
+### [Denmark.protect](/_protect/Earth/Continent/Europe/Europe~North/Denmark.protect.md) 
+
+### [Denmark.private](/_private/Earth/Continent/Europe/Europe~North/Denmark.private.md) 
+
+### [Denmark.personal](/_personal/Earth/Continent/Europe/Europe~North/Denmark.personal.md) 
+
+### [Denmark.secret](/_secret/Earth/Continent/Europe/Europe~North/Denmark.secret.md) 

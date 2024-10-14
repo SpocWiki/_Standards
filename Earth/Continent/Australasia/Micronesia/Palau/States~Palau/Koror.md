@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.27 , 134.44 ] 
 type: geo-Region
 title: Koror
@@ -40,11 +40,15 @@ markerFolder: ./Koror/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Koror|Koror]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Koror.public|Koror.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Koror.internal|Koror.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Koror.protect|Koror.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Koror.private|Koror.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Koror.personal|Koror.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Koror.secret|Koror.secret]] 
 
+### [Koror](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.md) 
+
+### [Koror.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.internal.md) 
+
+### [Koror.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.protect.md) 
+
+### [Koror.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.private.md) 
+
+### [Koror.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.personal.md) 
+
+### [Koror.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Koror.secret.md) 

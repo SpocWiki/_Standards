@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: ContactPointOption )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_contact_option|has_contact_option]] 
-- [[../../../../../_public/schema-org/Relation/has/has_contact_option.public|has_contact_option.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_contact_option.internal|has_contact_option.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_contact_option.protect|has_contact_option.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_contact_option.private|has_contact_option.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_contact_option.personal|has_contact_option.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_contact_option.secret|has_contact_option.secret]] 
+
+### [has_contact_option](/_public/schema-org/Relation/has/has_contact_option.md) 
+
+### [has_contact_option.internal](/_internal/schema-org/Relation/has/has_contact_option.internal.md) 
+
+### [has_contact_option.protect](/_protect/schema-org/Relation/has/has_contact_option.protect.md) 
+
+### [has_contact_option.private](/_private/schema-org/Relation/has/has_contact_option.private.md) 
+
+### [has_contact_option.personal](/_personal/schema-org/Relation/has/has_contact_option.personal.md) 
+
+### [has_contact_option.secret](/_secret/schema-org/Relation/has/has_contact_option.secret.md) 

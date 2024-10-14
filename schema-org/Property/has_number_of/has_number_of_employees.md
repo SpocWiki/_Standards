@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_employees|has_number_of_employees]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_employees.public|has_number_of_employees.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_employees.internal|has_number_of_employees.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_employees.protect|has_number_of_employees.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_employees.private|has_number_of_employees.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_employees.personal|has_number_of_employees.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_employees.secret|has_number_of_employees.secret]] 
+
+### [has_number_of_employees](/_public/schema-org/Property/has_number_of/has_number_of_employees.md) 
+
+### [has_number_of_employees.internal](/_internal/schema-org/Property/has_number_of/has_number_of_employees.internal.md) 
+
+### [has_number_of_employees.protect](/_protect/schema-org/Property/has_number_of/has_number_of_employees.protect.md) 
+
+### [has_number_of_employees.private](/_private/schema-org/Property/has_number_of/has_number_of_employees.private.md) 
+
+### [has_number_of_employees.personal](/_personal/schema-org/Property/has_number_of/has_number_of_employees.personal.md) 
+
+### [has_number_of_employees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_employees.secret.md) 

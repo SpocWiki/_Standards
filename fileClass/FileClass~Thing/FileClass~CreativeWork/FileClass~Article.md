@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -123,3 +123,17 @@ The number of words in the text of the Article.
 WordCount:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Article](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.md) 
+
+### [FileClass~Article.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.internal.md) 
+
+### [FileClass~Article.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.protect.md) 
+
+### [FileClass~Article.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.private.md) 
+
+### [FileClass~Article.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.personal.md) 
+
+### [FileClass~Article.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article.secret.md) 

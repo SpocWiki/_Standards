@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: SizeSystemEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_size_system|has_size_system]] 
-- [[../../../../../_public/schema-org/Relation/has/has_size_system.public|has_size_system.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_size_system.internal|has_size_system.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_size_system.protect|has_size_system.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_size_system.private|has_size_system.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_size_system.personal|has_size_system.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_size_system.secret|has_size_system.secret]] 
+
+### [has_size_system](/_public/schema-org/Relation/has/has_size_system.md) 
+
+### [has_size_system.internal](/_internal/schema-org/Relation/has/has_size_system.internal.md) 
+
+### [has_size_system.protect](/_protect/schema-org/Relation/has/has_size_system.protect.md) 
+
+### [has_size_system.private](/_private/schema-org/Relation/has/has_size_system.private.md) 
+
+### [has_size_system.personal](/_personal/schema-org/Relation/has/has_size_system.personal.md) 
+
+### [has_size_system.secret](/_secret/schema-org/Relation/has/has_size_system.secret.md) 

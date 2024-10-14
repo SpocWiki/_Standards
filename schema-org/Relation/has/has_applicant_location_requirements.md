@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: AdministrativeArea )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_applicant_location_requirements|has_applicant_location_requirements]] 
-- [[../../../../../_public/schema-org/Relation/has/has_applicant_location_requirements.public|has_applicant_location_requirements.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_applicant_location_requirements.internal|has_applicant_location_requirements.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_applicant_location_requirements.protect|has_applicant_location_requirements.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_applicant_location_requirements.private|has_applicant_location_requirements.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_applicant_location_requirements.personal|has_applicant_location_requirements.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_applicant_location_requirements.secret|has_applicant_location_requirements.secret]] 
+
+### [has_applicant_location_requirements](/_public/schema-org/Relation/has/has_applicant_location_requirements.md) 
+
+### [has_applicant_location_requirements.internal](/_internal/schema-org/Relation/has/has_applicant_location_requirements.internal.md) 
+
+### [has_applicant_location_requirements.protect](/_protect/schema-org/Relation/has/has_applicant_location_requirements.protect.md) 
+
+### [has_applicant_location_requirements.private](/_private/schema-org/Relation/has/has_applicant_location_requirements.private.md) 
+
+### [has_applicant_location_requirements.personal](/_personal/schema-org/Relation/has/has_applicant_location_requirements.personal.md) 
+
+### [has_applicant_location_requirements.secret](/_secret/schema-org/Relation/has/has_applicant_location_requirements.secret.md) 

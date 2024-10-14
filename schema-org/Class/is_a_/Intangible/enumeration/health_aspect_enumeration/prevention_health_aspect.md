@@ -47,10 +47,15 @@ Information about actions or measures that can be taken to avoid getting the top
 [ #is_/enum_of :: [[../HealthAspectEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect|prevention_health_aspect]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.public|prevention_health_aspect.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.internal|prevention_health_aspect.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.protect|prevention_health_aspect.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.private|prevention_health_aspect.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.personal|prevention_health_aspect.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.secret|prevention_health_aspect.secret]] 
+
+### [prevention_health_aspect](/_public/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.md) 
+
+### [prevention_health_aspect.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.internal.md) 
+
+### [prevention_health_aspect.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.protect.md) 
+
+### [prevention_health_aspect.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.private.md) 
+
+### [prevention_health_aspect.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.personal.md) 
+
+### [prevention_health_aspect.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/health_aspect_enumeration/prevention_health_aspect.secret.md) 

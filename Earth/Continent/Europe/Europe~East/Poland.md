@@ -1,4 +1,4 @@
----
+﻿---
 title: Poland
 linkTitle: 
 type: Country
@@ -237,10 +237,15 @@ Capital :: [[Warszawa]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~East/Poland|Poland]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~East/Poland.public|Poland.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~East/Poland.internal|Poland.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~East/Poland.protect|Poland.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~East/Poland.private|Poland.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~East/Poland.personal|Poland.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~East/Poland.secret|Poland.secret]] 
+
+### [Poland](/_public/Earth/Continent/Europe/Europe~East/Poland.md) 
+
+### [Poland.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland.internal.md) 
+
+### [Poland.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland.protect.md) 
+
+### [Poland.private](/_private/Earth/Continent/Europe/Europe~East/Poland.private.md) 
+
+### [Poland.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland.personal.md) 
+
+### [Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland.secret.md) 

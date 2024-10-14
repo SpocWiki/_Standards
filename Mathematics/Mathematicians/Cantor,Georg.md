@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Georg Cantor
 ---
@@ -60,3 +60,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Cantor,Georg](/_public/Mathematics/Mathematicians/Cantor,Georg.md) 
+
+### [Cantor,Georg.internal](/_internal/Mathematics/Mathematicians/Cantor,Georg.internal.md) 
+
+### [Cantor,Georg.protect](/_protect/Mathematics/Mathematicians/Cantor,Georg.protect.md) 
+
+### [Cantor,Georg.private](/_private/Mathematics/Mathematicians/Cantor,Georg.private.md) 
+
+### [Cantor,Georg.personal](/_personal/Mathematics/Mathematicians/Cantor,Georg.personal.md) 
+
+### [Cantor,Georg.secret](/_secret/Mathematics/Mathematicians/Cantor,Georg.secret.md) 

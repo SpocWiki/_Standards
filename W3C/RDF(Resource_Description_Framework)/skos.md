@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Simple Knowledge Organization System
 ---
@@ -24,3 +24,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [skos](/_public/W3C/RDF(Resource_Description_Framework)/skos.md) 
+
+### [skos.internal](/_internal/W3C/RDF(Resource_Description_Framework)/skos.internal.md) 
+
+### [skos.protect](/_protect/W3C/RDF(Resource_Description_Framework)/skos.protect.md) 
+
+### [skos.private](/_private/W3C/RDF(Resource_Description_Framework)/skos.private.md) 
+
+### [skos.personal](/_personal/W3C/RDF(Resource_Description_Framework)/skos.personal.md) 
+
+### [skos.secret](/_secret/W3C/RDF(Resource_Description_Framework)/skos.secret.md) 

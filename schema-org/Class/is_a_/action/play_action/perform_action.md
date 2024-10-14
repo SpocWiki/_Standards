@@ -43,10 +43,15 @@ The act of participating in performance arts.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, audience, description, disambiguatingDescription, endTime, entertainmentBusiness, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/play_action/perform_action|perform_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/play_action/perform_action.public|perform_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/play_action/perform_action.internal|perform_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/play_action/perform_action.protect|perform_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/play_action/perform_action.private|perform_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/play_action/perform_action.personal|perform_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/play_action/perform_action.secret|perform_action.secret]] 
+
+### [perform_action](/_public/schema-org/Class/is_a_/action/play_action/perform_action.md) 
+
+### [perform_action.internal](/_internal/schema-org/Class/is_a_/action/play_action/perform_action.internal.md) 
+
+### [perform_action.protect](/_protect/schema-org/Class/is_a_/action/play_action/perform_action.protect.md) 
+
+### [perform_action.private](/_private/schema-org/Class/is_a_/action/play_action/perform_action.private.md) 
+
+### [perform_action.personal](/_personal/schema-org/Class/is_a_/action/play_action/perform_action.personal.md) 
+
+### [perform_action.secret](/_secret/schema-org/Class/is_a_/action/play_action/perform_action.secret.md) 

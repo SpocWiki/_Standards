@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 60.08 , 19.94 ] 
 type: geo-Region
 title: Mariehamn
@@ -40,11 +40,15 @@ markerFolder: ./Mariehamn/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Mariehamn|Mariehamn]] 
-- [[../../../../../../../_public/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Mariehamn.public|Mariehamn.public]] 
-- [[../../../../../../../_internal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Mariehamn.internal|Mariehamn.internal]] 
-- [[../../../../../../../_protect/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Mariehamn.protect|Mariehamn.protect]] 
-- [[../../../../../../../_private/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Mariehamn.private|Mariehamn.private]] 
-- [[../../../../../../../_personal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Mariehamn.personal|Mariehamn.personal]] 
-- [[../../../../../../../_secret/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Mariehamn.secret|Mariehamn.secret]] 
 
+### [Mariehamn](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.md) 
+
+### [Mariehamn.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.internal.md) 
+
+### [Mariehamn.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.protect.md) 
+
+### [Mariehamn.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.private.md) 
+
+### [Mariehamn.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.personal.md) 
+
+### [Mariehamn.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Mariehamn-county/Mariehamn.secret.md) 

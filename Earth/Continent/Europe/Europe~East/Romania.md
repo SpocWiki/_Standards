@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 46.2258
     - 24.9906
@@ -145,10 +145,15 @@ Capital :: [[Bukarest]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~East/Romania|Romania]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~East/Romania.public|Romania.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~East/Romania.internal|Romania.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~East/Romania.protect|Romania.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~East/Romania.private|Romania.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~East/Romania.personal|Romania.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~East/Romania.secret|Romania.secret]] 
+
+### [Romania](/_public/Earth/Continent/Europe/Europe~East/Romania.md) 
+
+### [Romania.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania.internal.md) 
+
+### [Romania.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania.protect.md) 
+
+### [Romania.private](/_private/Earth/Continent/Europe/Europe~East/Romania.private.md) 
+
+### [Romania.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania.personal.md) 
+
+### [Romania.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -20,10 +20,15 @@ type: ElementGroup
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/chemic/Elements/Group-16-Chalcogene|Group-16-Chalcogene]] 
-- [[../../../_public/chemic/Elements/Group-16-Chalcogene.public|Group-16-Chalcogene.public]] 
-- [[../../../_internal/chemic/Elements/Group-16-Chalcogene.internal|Group-16-Chalcogene.internal]] 
-- [[../../../_protect/chemic/Elements/Group-16-Chalcogene.protect|Group-16-Chalcogene.protect]] 
-- [[../../../_private/chemic/Elements/Group-16-Chalcogene.private|Group-16-Chalcogene.private]] 
-- [[../../../_personal/chemic/Elements/Group-16-Chalcogene.personal|Group-16-Chalcogene.personal]] 
-- [[../../../_secret/chemic/Elements/Group-16-Chalcogene.secret|Group-16-Chalcogene.secret]] 
+
+### [Group-16-Chalcogene](/_public/chemic/chemic~Elements/Group-16-Chalcogene.md) 
+
+### [Group-16-Chalcogene.internal](/_internal/chemic/chemic~Elements/Group-16-Chalcogene.internal.md) 
+
+### [Group-16-Chalcogene.protect](/_protect/chemic/chemic~Elements/Group-16-Chalcogene.protect.md) 
+
+### [Group-16-Chalcogene.private](/_private/chemic/chemic~Elements/Group-16-Chalcogene.private.md) 
+
+### [Group-16-Chalcogene.personal](/_personal/chemic/chemic~Elements/Group-16-Chalcogene.personal.md) 
+
+### [Group-16-Chalcogene.secret](/_secret/chemic/chemic~Elements/Group-16-Chalcogene.secret.md) 

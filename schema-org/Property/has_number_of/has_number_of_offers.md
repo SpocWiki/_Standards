@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_offers|has_number_of_offers]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_offers.public|has_number_of_offers.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_offers.internal|has_number_of_offers.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_offers.protect|has_number_of_offers.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_offers.private|has_number_of_offers.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_offers.personal|has_number_of_offers.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_offers.secret|has_number_of_offers.secret]] 
+
+### [has_number_of_offers](/_public/schema-org/Property/has_number_of/has_number_of_offers.md) 
+
+### [has_number_of_offers.internal](/_internal/schema-org/Property/has_number_of/has_number_of_offers.internal.md) 
+
+### [has_number_of_offers.protect](/_protect/schema-org/Property/has_number_of/has_number_of_offers.protect.md) 
+
+### [has_number_of_offers.private](/_private/schema-org/Property/has_number_of/has_number_of_offers.private.md) 
+
+### [has_number_of_offers.personal](/_personal/schema-org/Property/has_number_of/has_number_of_offers.personal.md) 
+
+### [has_number_of_offers.secret](/_secret/schema-org/Property/has_number_of/has_number_of_offers.secret.md) 

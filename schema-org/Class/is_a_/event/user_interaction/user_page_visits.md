@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Tag Instances like this:
 [ #has_/properties :: [ about, actor, additionalType, aggregateRating, alternateName, attendee, attendees, audience, composer, contributor, description, director, disambiguatingDescription, doorTime, duration, endDate, eventAttendanceMode, eventSchedule, eventStatus, funder, funding, identifier, image, inLanguage, isAccessibleForFree, keywords, location, mainEntityOfPage, maximumAttendeeCapacity, maximumPhysicalAttendeeCapacity, maximumVirtualAttendeeCapacity, name, offers, organizer, performer, performers, potentialAction, previousStartDate, recordedIn, remainingAttendeeCapacity, review, sameAs, sponsor, startDate, subEvent, subEvents, subjectOf, superEvent, translator, typicalAgeRange, url, workFeatured, workPerformed ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/event/user_interaction/user_page_visits|user_page_visits]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/event/user_interaction/user_page_visits.public|user_page_visits.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/event/user_interaction/user_page_visits.internal|user_page_visits.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/event/user_interaction/user_page_visits.protect|user_page_visits.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/event/user_interaction/user_page_visits.private|user_page_visits.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/event/user_interaction/user_page_visits.personal|user_page_visits.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/event/user_interaction/user_page_visits.secret|user_page_visits.secret]] 
+
+### [user_page_visits](/_public/schema-org/Class/is_a_/event/user_interaction/user_page_visits.md) 
+
+### [user_page_visits.internal](/_internal/schema-org/Class/is_a_/event/user_interaction/user_page_visits.internal.md) 
+
+### [user_page_visits.protect](/_protect/schema-org/Class/is_a_/event/user_interaction/user_page_visits.protect.md) 
+
+### [user_page_visits.private](/_private/schema-org/Class/is_a_/event/user_interaction/user_page_visits.private.md) 
+
+### [user_page_visits.personal](/_personal/schema-org/Class/is_a_/event/user_interaction/user_page_visits.personal.md) 
+
+### [user_page_visits.secret](/_secret/schema-org/Class/is_a_/event/user_interaction/user_page_visits.secret.md) 

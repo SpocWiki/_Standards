@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -11.7
 - 43.25
@@ -143,10 +143,15 @@ has_place_continent:: [[Africa]]
 
 
 ## Confidential Links & Embeds: 
-- [[Comoros|Comoros]] 
-- [[../../../../../_public/Earth/Continent/Africa/Africa~East/Comoros.public|Comoros.public]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Comoros.internal|Comoros.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Comoros.protect|Comoros.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Comoros.private|Comoros.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Comoros.personal|Comoros.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Comoros.secret|Comoros.secret]] 
+
+### [Comoros](/_public/Earth/Continent/Africa/Africa~East/Comoros.md) 
+
+### [Comoros.internal](/_internal/Earth/Continent/Africa/Africa~East/Comoros.internal.md) 
+
+### [Comoros.protect](/_protect/Earth/Continent/Africa/Africa~East/Comoros.protect.md) 
+
+### [Comoros.private](/_private/Earth/Continent/Africa/Africa~East/Comoros.private.md) 
+
+### [Comoros.personal](/_personal/Earth/Continent/Africa/Africa~East/Comoros.personal.md) 
+
+### [Comoros.secret](/_secret/Earth/Continent/Africa/Africa~East/Comoros.secret.md) 

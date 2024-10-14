@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: game ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_game_server|has_game_server]] 
-- [[../../../../../_public/schema-org/Relation/has/has_game_server.public|has_game_server.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_game_server.internal|has_game_server.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_game_server.protect|has_game_server.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_game_server.private|has_game_server.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_game_server.personal|has_game_server.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_game_server.secret|has_game_server.secret]] 
+
+### [has_game_server](/_public/schema-org/Relation/has/has_game_server.md) 
+
+### [has_game_server.internal](/_internal/schema-org/Relation/has/has_game_server.internal.md) 
+
+### [has_game_server.protect](/_protect/schema-org/Relation/has/has_game_server.protect.md) 
+
+### [has_game_server.private](/_private/schema-org/Relation/has/has_game_server.private.md) 
+
+### [has_game_server.personal](/_personal/schema-org/Relation/has/has_game_server.personal.md) 
+
+### [has_game_server.secret](/_secret/schema-org/Relation/has/has_game_server.secret.md) 

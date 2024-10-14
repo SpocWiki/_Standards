@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_material_extent|has_value_for_material_extent]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_material_extent.public|has_value_for_material_extent.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_material_extent.internal|has_value_for_material_extent.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_material_extent.protect|has_value_for_material_extent.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_material_extent.private|has_value_for_material_extent.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_material_extent.personal|has_value_for_material_extent.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_material_extent.secret|has_value_for_material_extent.secret]] 
+
+### [has_value_for_material_extent](/_public/schema-org/Property/has_value_for/has_value_for_material_extent.md) 
+
+### [has_value_for_material_extent.internal](/_internal/schema-org/Property/has_value_for/has_value_for_material_extent.internal.md) 
+
+### [has_value_for_material_extent.protect](/_protect/schema-org/Property/has_value_for/has_value_for_material_extent.protect.md) 
+
+### [has_value_for_material_extent.private](/_private/schema-org/Property/has_value_for/has_value_for_material_extent.private.md) 
+
+### [has_value_for_material_extent.personal](/_personal/schema-org/Property/has_value_for/has_value_for_material_extent.personal.md) 
+
+### [has_value_for_material_extent.secret](/_secret/schema-org/Property/has_value_for/has_value_for_material_extent.secret.md) 

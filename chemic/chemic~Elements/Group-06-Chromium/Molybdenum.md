@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -33,10 +33,15 @@ SpocWebEntityId: 21940
 > [Wikipedia](https://en.wikipedia.org/wiki/Molybdenum)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-06-Chromium/Molybdenum|Molybdenum]] 
-- [[../../../../_public/chemic/Elements/Group-06-Chromium/Molybdenum.public|Molybdenum.public]] 
-- [[../../../../_internal/chemic/Elements/Group-06-Chromium/Molybdenum.internal|Molybdenum.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-06-Chromium/Molybdenum.protect|Molybdenum.protect]] 
-- [[../../../../_private/chemic/Elements/Group-06-Chromium/Molybdenum.private|Molybdenum.private]] 
-- [[../../../../_personal/chemic/Elements/Group-06-Chromium/Molybdenum.personal|Molybdenum.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-06-Chromium/Molybdenum.secret|Molybdenum.secret]] 
+
+### [Molybdenum](/_public/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.md) 
+
+### [Molybdenum.internal](/_internal/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.internal.md) 
+
+### [Molybdenum.protect](/_protect/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.protect.md) 
+
+### [Molybdenum.private](/_private/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.private.md) 
+
+### [Molybdenum.personal](/_personal/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.personal.md) 
+
+### [Molybdenum.secret](/_secret/chemic/chemic~Elements/Group-06-Chromium/Molybdenum.secret.md) 

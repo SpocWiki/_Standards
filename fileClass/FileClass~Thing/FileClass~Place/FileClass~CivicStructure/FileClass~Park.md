@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A park.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Park](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Park.md) 
+
+### [FileClass~Park.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Park.internal.md) 
+
+### [FileClass~Park.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Park.protect.md) 
+
+### [FileClass~Park.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Park.private.md) 
+
+### [FileClass~Park.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Park.personal.md) 
+
+### [FileClass~Park.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Park.secret.md) 

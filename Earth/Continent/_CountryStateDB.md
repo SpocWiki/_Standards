@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -372,10 +372,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/Earth/Continent/_CountryStateDB|_CountryStateDB]] 
-- [[../../../_public/Earth/Continent/_CountryStateDB.public|_CountryStateDB.public]] 
-- [[../../../_internal/Earth/Continent/_CountryStateDB.internal|_CountryStateDB.internal]] 
-- [[../../../_protect/Earth/Continent/_CountryStateDB.protect|_CountryStateDB.protect]] 
-- [[../../../_private/Earth/Continent/_CountryStateDB.private|_CountryStateDB.private]] 
-- [[../../../_personal/Earth/Continent/_CountryStateDB.personal|_CountryStateDB.personal]] 
-- [[../../../_secret/Earth/Continent/_CountryStateDB.secret|_CountryStateDB.secret]] 
+
+### [_CountryStateDB](/_public/Earth/Continent/_CountryStateDB.md) 
+
+### [_CountryStateDB.internal](/_internal/Earth/Continent/_CountryStateDB.internal.md) 
+
+### [_CountryStateDB.protect](/_protect/Earth/Continent/_CountryStateDB.protect.md) 
+
+### [_CountryStateDB.private](/_private/Earth/Continent/_CountryStateDB.private.md) 
+
+### [_CountryStateDB.personal](/_personal/Earth/Continent/_CountryStateDB.personal.md) 
+
+### [_CountryStateDB.secret](/_secret/Earth/Continent/_CountryStateDB.secret.md) 

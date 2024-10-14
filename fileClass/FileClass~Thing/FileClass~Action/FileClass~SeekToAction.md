@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ The start time of the clip expressed as the number of seconds from the beginning
 StartOffset:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SeekToAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.md) 
+
+### [FileClass~SeekToAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.internal.md) 
+
+### [FileClass~SeekToAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.protect.md) 
+
+### [FileClass~SeekToAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.private.md) 
+
+### [FileClass~SeekToAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.personal.md) 
+
+### [FileClass~SeekToAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SeekToAction.secret.md) 

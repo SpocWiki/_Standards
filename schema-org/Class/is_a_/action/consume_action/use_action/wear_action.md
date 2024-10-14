@@ -43,10 +43,15 @@ The act of dressing oneself in clothing.
 [ #has_/properties :: [ actionAccessibilityRequirement, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, expectsAcceptanceOf, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/consume_action/use_action/wear_action|wear_action]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/action/consume_action/use_action/wear_action.public|wear_action.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.internal|wear_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.protect|wear_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.private|wear_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.personal|wear_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/consume_action/use_action/wear_action.secret|wear_action.secret]] 
+
+### [wear_action](/_public/schema-org/Class/is_a_/action/consume_action/use_action/wear_action.md) 
+
+### [wear_action.internal](/_internal/schema-org/Class/is_a_/action/consume_action/use_action/wear_action.internal.md) 
+
+### [wear_action.protect](/_protect/schema-org/Class/is_a_/action/consume_action/use_action/wear_action.protect.md) 
+
+### [wear_action.private](/_private/schema-org/Class/is_a_/action/consume_action/use_action/wear_action.private.md) 
+
+### [wear_action.personal](/_personal/schema-org/Class/is_a_/action/consume_action/use_action/wear_action.personal.md) 
+
+### [wear_action.secret](/_secret/schema-org/Class/is_a_/action/consume_action/use_action/wear_action.secret.md) 

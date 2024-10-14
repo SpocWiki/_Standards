@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -119,3 +119,17 @@ Quantitative measure of the physiologic output of the exercise; also referred to
 Workload:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ExercisePlan](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.md) 
+
+### [FileClass~ExercisePlan.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.internal.md) 
+
+### [FileClass~ExercisePlan.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.protect.md) 
+
+### [FileClass~ExercisePlan.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.private.md) 
+
+### [FileClass~ExercisePlan.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.personal.md) 
+
+### [FileClass~ExercisePlan.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity/FileClass~ExercisePlan.secret.md) 

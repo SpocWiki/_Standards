@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -3.5
 - 30
@@ -141,12 +141,15 @@ Capital :: [[Bujumbura]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Africa/Africa~Central/Burundi|Burundi]] 
-- [[../../../../../_public/Earth/Continent/Africa/Africa~Central/Burundi.public|Burundi.public]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Burundi.internal|Burundi.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Burundi.protect|Burundi.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Burundi.private|Burundi.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Burundi.personal|Burundi.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret|Burundi.secret]] 
 
+### [Burundi](/_public/Earth/Continent/Africa/Africa~Central/Burundi.md) 
 
+### [Burundi.internal](/_internal/Earth/Continent/Africa/Africa~Central/Burundi.internal.md) 
+
+### [Burundi.protect](/_protect/Earth/Continent/Africa/Africa~Central/Burundi.protect.md) 
+
+### [Burundi.private](/_private/Earth/Continent/Africa/Africa~Central/Burundi.private.md) 
+
+### [Burundi.personal](/_personal/Earth/Continent/Africa/Africa~Central/Burundi.personal.md) 
+
+### [Burundi.secret](/_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret.md) 

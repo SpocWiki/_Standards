@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, SuperficialAnatomy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sensory_unit|has_sensory_unit]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sensory_unit.public|has_sensory_unit.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sensory_unit.internal|has_sensory_unit.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sensory_unit.protect|has_sensory_unit.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sensory_unit.private|has_sensory_unit.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sensory_unit.personal|has_sensory_unit.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sensory_unit.secret|has_sensory_unit.secret]] 
+
+### [has_sensory_unit](/_public/schema-org/Relation/has/has_sensory_unit.md) 
+
+### [has_sensory_unit.internal](/_internal/schema-org/Relation/has/has_sensory_unit.internal.md) 
+
+### [has_sensory_unit.protect](/_protect/schema-org/Relation/has/has_sensory_unit.protect.md) 
+
+### [has_sensory_unit.private](/_private/schema-org/Relation/has/has_sensory_unit.private.md) 
+
+### [has_sensory_unit.personal](/_personal/schema-org/Relation/has/has_sensory_unit.personal.md) 
+
+### [has_sensory_unit.secret](/_secret/schema-org/Relation/has/has_sensory_unit.secret.md) 

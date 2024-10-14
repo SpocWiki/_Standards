@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -134,10 +134,15 @@ Iterators allow the minimum Access to all elements of a Collection, no matter wh
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/collection|collection]] 
-- [[../../../../../_public/schema-org/Class/is_a_/creative_work/collection.public|collection.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/collection.internal|collection.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/collection.protect|collection.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/collection.private|collection.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/collection.personal|collection.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/collection.secret|collection.secret]] 
+
+### [Collection](/_public/schema-org/Collection.md) 
+
+### [Collection.internal](/_internal/schema-org/Collection.internal.md) 
+
+### [Collection.protect](/_protect/schema-org/Collection.protect.md) 
+
+### [Collection.private](/_private/schema-org/Collection.private.md) 
+
+### [Collection.personal](/_personal/schema-org/Collection.personal.md) 
+
+### [Collection.secret](/_secret/schema-org/Collection.secret.md) 

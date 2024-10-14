@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: isPartOf ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_part_of_episode|is_part_of_episode]] 
-- [[../../../../../_public/schema-org/Relation/has/is_part_of_episode.public|is_part_of_episode.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_part_of_episode.internal|is_part_of_episode.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_part_of_episode.protect|is_part_of_episode.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_part_of_episode.private|is_part_of_episode.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_part_of_episode.personal|is_part_of_episode.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_part_of_episode.secret|is_part_of_episode.secret]] 
+
+### [is_part_of_episode](/_public/schema-org/Relation/is/part_of/is_part_of_episode.md) 
+
+### [is_part_of_episode.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_episode.internal.md) 
+
+### [is_part_of_episode.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_episode.protect.md) 
+
+### [is_part_of_episode.private](/_private/schema-org/Relation/is/part_of/is_part_of_episode.private.md) 
+
+### [is_part_of_episode.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_episode.personal.md) 
+
+### [is_part_of_episode.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_episode.secret.md) 

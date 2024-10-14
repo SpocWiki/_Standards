@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -107,9 +107,15 @@ Sub-region_Name ::  [[Western Asia]]
 
 
 ## Confidential Links & Embeds: 
-- [[Palestine|Palestine]] 
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Palestine.internal|Palestine.internal]] 
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Palestine.protect|Palestine.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Palestine.private|Palestine.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Palestine.personal|Palestine.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Palestine.secret|Palestine.secret]] 
+
+### [Palestine](/_public/Earth/Continent/Asia/Asia~West/Palestine.md) 
+
+### [Palestine.internal](/_internal/Earth/Continent/Asia/Asia~West/Palestine.internal.md) 
+
+### [Palestine.protect](/_protect/Earth/Continent/Asia/Asia~West/Palestine.protect.md) 
+
+### [Palestine.private](/_private/Earth/Continent/Asia/Asia~West/Palestine.private.md) 
+
+### [Palestine.personal](/_personal/Earth/Continent/Asia/Asia~West/Palestine.personal.md) 
+
+### [Palestine.secret](/_secret/Earth/Continent/Asia/Asia~West/Palestine.secret.md) 

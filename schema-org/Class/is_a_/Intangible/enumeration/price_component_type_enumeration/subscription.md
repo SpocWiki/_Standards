@@ -47,10 +47,15 @@ Represents the subscription pricing component of the total price for an offered 
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription|subscription]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.public|subscription.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.internal|subscription.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.protect|subscription.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.private|subscription.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.personal|subscription.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/subscription.secret|subscription.secret]] 
+
+### [subscription](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.md) 
+
+### [subscription.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.internal.md) 
+
+### [subscription.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.protect.md) 
+
+### [subscription.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.private.md) 
+
+### [subscription.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.personal.md) 
+
+### [subscription.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/subscription.secret.md) 

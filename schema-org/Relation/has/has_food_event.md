@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_food_event|has_food_event]] 
-- [[../../../../../_public/schema-org/Relation/has/has_food_event.public|has_food_event.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_food_event.internal|has_food_event.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_food_event.protect|has_food_event.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_food_event.private|has_food_event.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_food_event.personal|has_food_event.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_food_event.secret|has_food_event.secret]] 
+
+### [has_food_event](/_public/schema-org/Relation/has/has_food_event.md) 
+
+### [has_food_event.internal](/_internal/schema-org/Relation/has/has_food_event.internal.md) 
+
+### [has_food_event.protect](/_protect/schema-org/Relation/has/has_food_event.protect.md) 
+
+### [has_food_event.private](/_private/schema-org/Relation/has/has_food_event.private.md) 
+
+### [has_food_event.personal](/_personal/schema-org/Relation/has/has_food_event.personal.md) 
+
+### [has_food_event.secret](/_secret/schema-org/Relation/has/has_food_event.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 20.3923
     - 78.9354
@@ -171,9 +171,15 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 
 
 ## Confidential Links & Embeds: 
-- [[India|India]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South/India.internal|India.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South/India.protect|India.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South/India.private|India.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South/India.personal|India.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South/India.secret|India.secret]] 
+
+### [India](/_public/Earth/Continent/Asia/Asia~South/India.md) 
+
+### [India.internal](/_internal/Earth/Continent/Asia/Asia~South/India.internal.md) 
+
+### [India.protect](/_protect/Earth/Continent/Asia/Asia~South/India.protect.md) 
+
+### [India.private](/_private/Earth/Continent/Asia/Asia~South/India.private.md) 
+
+### [India.personal](/_personal/Earth/Continent/Asia/Asia~South/India.personal.md) 
+
+### [India.secret](/_secret/Earth/Continent/Asia/Asia~South/India.secret.md) 

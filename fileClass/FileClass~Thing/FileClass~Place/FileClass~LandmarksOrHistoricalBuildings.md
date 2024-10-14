@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -31,3 +31,17 @@ An historical landmark or building.
 
 ## Properties:
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LandmarksOrHistoricalBuildings](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.md) 
+
+### [FileClass~LandmarksOrHistoricalBuildings.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.internal.md) 
+
+### [FileClass~LandmarksOrHistoricalBuildings.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.protect.md) 
+
+### [FileClass~LandmarksOrHistoricalBuildings.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.private.md) 
+
+### [FileClass~LandmarksOrHistoricalBuildings.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.personal.md) 
+
+### [FileClass~LandmarksOrHistoricalBuildings.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~LandmarksOrHistoricalBuildings.secret.md) 

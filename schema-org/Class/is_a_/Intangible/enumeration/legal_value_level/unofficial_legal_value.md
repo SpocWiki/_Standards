@@ -47,10 +47,15 @@ Indicates that a document has no particular or special standing (e.g. a republic
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value|unofficial_legal_value]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.public|unofficial_legal_value.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.internal|unofficial_legal_value.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.protect|unofficial_legal_value.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.private|unofficial_legal_value.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.personal|unofficial_legal_value.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/unofficial_legal_value.secret|unofficial_legal_value.secret]] 
+
+### [unofficial_legal_value](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.md) 
+
+### [unofficial_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.internal.md) 
+
+### [unofficial_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.protect.md) 
+
+### [unofficial_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.private.md) 
+
+### [unofficial_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.personal.md) 
+
+### [unofficial_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/unofficial_legal_value.secret.md) 

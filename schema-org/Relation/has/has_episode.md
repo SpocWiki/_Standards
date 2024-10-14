@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Use it like this:
 [ #is_/sub_property_of  :: [[../../Composite/has_parts]] ] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_episode|has_episode]] 
-- [[../../../../../_public/schema-org/Relation/has/has_episode.public|has_episode.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_episode.internal|has_episode.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_episode.protect|has_episode.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_episode.private|has_episode.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_episode.personal|has_episode.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_episode.secret|has_episode.secret]] 
+
+### [has_episode](/_public/schema-org/Relation/has/has_episode.md) 
+
+### [has_episode.internal](/_internal/schema-org/Relation/has/has_episode.internal.md) 
+
+### [has_episode.protect](/_protect/schema-org/Relation/has/has_episode.protect.md) 
+
+### [has_episode.private](/_private/schema-org/Relation/has/has_episode.private.md) 
+
+### [has_episode.personal](/_personal/schema-org/Relation/has/has_episode.personal.md) 
+
+### [has_episode.secret](/_secret/schema-org/Relation/has/has_episode.secret.md) 

@@ -45,10 +45,15 @@ The status of a reservation when a request has been sent, but not confirmed.
 [ #is_/enum_of :: [[../ReservationStatusType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending|reservation_pending]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.public|reservation_pending.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.internal|reservation_pending.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.protect|reservation_pending.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.private|reservation_pending.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.personal|reservation_pending.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.secret|reservation_pending.secret]] 
+
+### [reservation_pending](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.md) 
+
+### [reservation_pending.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.internal.md) 
+
+### [reservation_pending.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.protect.md) 
+
+### [reservation_pending.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.private.md) 
+
+### [reservation_pending.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.personal.md) 
+
+### [reservation_pending.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/reservation_status_type/reservation_pending.secret.md) 

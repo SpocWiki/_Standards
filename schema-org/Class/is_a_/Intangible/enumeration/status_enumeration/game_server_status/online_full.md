@@ -45,10 +45,15 @@ Game server status: OnlineFull. Server is online but unavailable. The maximum nu
 [ #is_/enum_of :: [[../GameServerStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/online_full|online_full]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/online_full.public|online_full.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/online_full.internal|online_full.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/online_full.protect|online_full.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/online_full.private|online_full.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/online_full.personal|online_full.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/game_server_status/online_full.secret|online_full.secret]] 
+
+### [online_full](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.md) 
+
+### [online_full.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.internal.md) 
+
+### [online_full.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.protect.md) 
+
+### [online_full.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.private.md) 
+
+### [online_full.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.personal.md) 
+
+### [online_full.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/game_server_status/online_full.secret.md) 

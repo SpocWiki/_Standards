@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_account|has_id_account]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_account.public|has_id_account.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_account.internal|has_id_account.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_account.protect|has_id_account.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_account.private|has_id_account.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_account.personal|has_id_account.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_account.secret|has_id_account.secret]] 
+
+### [has_id_account](/_public/schema-org/Property/has_name/has_id_account.md) 
+
+### [has_id_account.internal](/_internal/schema-org/Property/has_name/has_id_account.internal.md) 
+
+### [has_id_account.protect](/_protect/schema-org/Property/has_name/has_id_account.protect.md) 
+
+### [has_id_account.private](/_private/schema-org/Property/has_name/has_id_account.private.md) 
+
+### [has_id_account.personal](/_personal/schema-org/Property/has_name/has_id_account.personal.md) 
+
+### [has_id_account.secret](/_secret/schema-org/Property/has_name/has_id_account.secret.md) 

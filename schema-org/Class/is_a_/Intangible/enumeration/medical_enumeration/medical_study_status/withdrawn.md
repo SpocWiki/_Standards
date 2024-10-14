@@ -45,10 +45,15 @@ Withdrawn.
 [ #is_/enum_of :: [[../MedicalStudyStatus]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn|withdrawn]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.public|withdrawn.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.internal|withdrawn.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.protect|withdrawn.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.private|withdrawn.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.personal|withdrawn.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.secret|withdrawn.secret]] 
+
+### [withdrawn](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.md) 
+
+### [withdrawn.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.internal.md) 
+
+### [withdrawn.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.protect.md) 
+
+### [withdrawn.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.private.md) 
+
+### [withdrawn.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.personal.md) 
+
+### [withdrawn.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_study_status/withdrawn.secret.md) 

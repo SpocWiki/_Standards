@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Formal Predicate:
 (range::Duration, QuantitativeValue)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_lease|has_duration_of_lease]] 
-- [[../../../../_public/schema-org/Predicate/Durations/has_duration_of_lease.public|has_duration_of_lease.public]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_lease.internal|has_duration_of_lease.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_lease.protect|has_duration_of_lease.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_lease.private|has_duration_of_lease.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_lease.personal|has_duration_of_lease.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_lease.secret|has_duration_of_lease.secret]] 
+
+### [has_duration_of_lease](/_public/schema-org/Property/has_duration_of/has_duration_of_lease.md) 
+
+### [has_duration_of_lease.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_lease.internal.md) 
+
+### [has_duration_of_lease.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_lease.protect.md) 
+
+### [has_duration_of_lease.private](/_private/schema-org/Property/has_duration_of/has_duration_of_lease.private.md) 
+
+### [has_duration_of_lease.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_lease.personal.md) 
+
+### [has_duration_of_lease.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_lease.secret.md) 

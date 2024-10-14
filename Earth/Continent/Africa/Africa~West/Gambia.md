@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 13.4667
 - -16.6
@@ -145,9 +145,15 @@ Capital :: [[Banjul]]
 
 
 ## Confidential Links & Embeds: 
-- [[Gambia|Gambia]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Gambia.internal|Gambia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Gambia.protect|Gambia.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Gambia.private|Gambia.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Gambia.personal|Gambia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Gambia.secret|Gambia.secret]] 
+
+### [Gambia](/_public/Earth/Continent/Africa/Africa~West/Gambia.md) 
+
+### [Gambia.internal](/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal.md) 
+
+### [Gambia.protect](/_protect/Earth/Continent/Africa/Africa~West/Gambia.protect.md) 
+
+### [Gambia.private](/_private/Earth/Continent/Africa/Africa~West/Gambia.private.md) 
+
+### [Gambia.personal](/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal.md) 
+
+### [Gambia.secret](/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret.md) 

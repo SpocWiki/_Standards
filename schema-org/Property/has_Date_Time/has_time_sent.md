@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_sent|has_time_sent]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_sent.public|has_time_sent.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_sent.internal|has_time_sent.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_sent.protect|has_time_sent.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_sent.private|has_time_sent.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_sent.personal|has_time_sent.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_sent.secret|has_time_sent.secret]] 
+
+### [has_time_sent](/_public/schema-org/Property/has_Date_Time/has_time_sent.md) 
+
+### [has_time_sent.internal](/_internal/schema-org/Property/has_Date_Time/has_time_sent.internal.md) 
+
+### [has_time_sent.protect](/_protect/schema-org/Property/has_Date_Time/has_time_sent.protect.md) 
+
+### [has_time_sent.private](/_private/schema-org/Property/has_Date_Time/has_time_sent.private.md) 
+
+### [has_time_sent.personal](/_personal/schema-org/Property/has_Date_Time/has_time_sent.personal.md) 
+
+### [has_time_sent.secret](/_secret/schema-org/Property/has_Date_Time/has_time_sent.secret.md) 

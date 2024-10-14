@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -17.75
 - 168.3
@@ -139,10 +139,15 @@ Capital :: [[Port_Vila]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Vanuatu|Vanuatu]] 
-- [[../../../../_public/Earth/Continent/Oceania/Vanuatu.public|Vanuatu.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Vanuatu.internal|Vanuatu.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Vanuatu.protect|Vanuatu.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Vanuatu.private|Vanuatu.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Vanuatu.personal|Vanuatu.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Vanuatu.secret|Vanuatu.secret]] 
+
+### [Vanuatu](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu.md) 
+
+### [Vanuatu.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu.internal.md) 
+
+### [Vanuatu.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu.protect.md) 
+
+### [Vanuatu.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu.private.md) 
+
+### [Vanuatu.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu.personal.md) 
+
+### [Vanuatu.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_vehicle_first_registered|has_time_vehicle_first_registered]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_vehicle_first_registered.public|has_time_vehicle_first_registered.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_vehicle_first_registered.internal|has_time_vehicle_first_registered.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_vehicle_first_registered.protect|has_time_vehicle_first_registered.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_vehicle_first_registered.private|has_time_vehicle_first_registered.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_vehicle_first_registered.personal|has_time_vehicle_first_registered.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_vehicle_first_registered.secret|has_time_vehicle_first_registered.secret]] 
+
+### [has_time_vehicle_first_registered](/_public/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.md) 
+
+### [has_time_vehicle_first_registered.internal](/_internal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.internal.md) 
+
+### [has_time_vehicle_first_registered.protect](/_protect/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.protect.md) 
+
+### [has_time_vehicle_first_registered.private](/_private/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.private.md) 
+
+### [has_time_vehicle_first_registered.personal](/_personal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.personal.md) 
+
+### [has_time_vehicle_first_registered.secret](/_secret/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 60 , 20.4 ] 
 type: geo-Region
 title: Föglö
@@ -40,11 +40,15 @@ markerFolder: ./Föglö/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Föglö|Föglö]] 
-- [[../../../../../../../_public/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Föglö.public|Föglö.public]] 
-- [[../../../../../../../_internal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Föglö.internal|Föglö.internal]] 
-- [[../../../../../../../_protect/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Föglö.protect|Föglö.protect]] 
-- [[../../../../../../../_private/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Föglö.private|Föglö.private]] 
-- [[../../../../../../../_personal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Föglö.personal|Föglö.personal]] 
-- [[../../../../../../../_secret/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Föglö.secret|Föglö.secret]] 
 
+### [Föglö](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.md) 
+
+### [Föglö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.internal.md) 
+
+### [Föglö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.protect.md) 
+
+### [Föglö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.private.md) 
+
+### [Föglö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.personal.md) 
+
+### [Föglö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Föglö.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: LocationFeatureSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_amenity_feature|has_amenity_feature]] 
-- [[../../../../../_public/schema-org/Relation/has/has_amenity_feature.public|has_amenity_feature.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_amenity_feature.internal|has_amenity_feature.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_amenity_feature.protect|has_amenity_feature.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_amenity_feature.private|has_amenity_feature.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_amenity_feature.personal|has_amenity_feature.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_amenity_feature.secret|has_amenity_feature.secret]] 
+
+### [has_amenity_feature](/_public/schema-org/Relation/has/has_amenity_feature.md) 
+
+### [has_amenity_feature.internal](/_internal/schema-org/Relation/has/has_amenity_feature.internal.md) 
+
+### [has_amenity_feature.protect](/_protect/schema-org/Relation/has/has_amenity_feature.protect.md) 
+
+### [has_amenity_feature.private](/_private/schema-org/Relation/has/has_amenity_feature.private.md) 
+
+### [has_amenity_feature.personal](/_personal/schema-org/Relation/has/has_amenity_feature.personal.md) 
+
+### [has_amenity_feature.secret](/_secret/schema-org/Relation/has/has_amenity_feature.secret.md) 

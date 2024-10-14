@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_teaches|has_teaches]] 
-- [[../../../../../_public/schema-org/Relation/has/has_teaches.public|has_teaches.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_teaches.internal|has_teaches.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_teaches.protect|has_teaches.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_teaches.private|has_teaches.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_teaches.personal|has_teaches.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_teaches.secret|has_teaches.secret]] 
+
+### [has_teaches](/_public/schema-org/Relation/has/has_teaches.md) 
+
+### [has_teaches.internal](/_internal/schema-org/Relation/has/has_teaches.internal.md) 
+
+### [has_teaches.protect](/_protect/schema-org/Relation/has/has_teaches.protect.md) 
+
+### [has_teaches.private](/_private/schema-org/Relation/has/has_teaches.private.md) 
+
+### [has_teaches.personal](/_personal/schema-org/Relation/has/has_teaches.personal.md) 
+
+### [has_teaches.secret](/_secret/schema-org/Relation/has/has_teaches.secret.md) 

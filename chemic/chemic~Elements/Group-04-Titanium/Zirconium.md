@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -32,10 +32,15 @@ SpocWebEntityId: 21938
 > [Wikipedia](https://en.wikipedia.org/wiki/Zirconium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-04-Titanium/Zirconium|Zirconium]] 
-- [[../../../../_public/chemic/Elements/Group-04-Titanium/Zirconium.public|Zirconium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-04-Titanium/Zirconium.internal|Zirconium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-04-Titanium/Zirconium.protect|Zirconium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-04-Titanium/Zirconium.private|Zirconium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-04-Titanium/Zirconium.personal|Zirconium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-04-Titanium/Zirconium.secret|Zirconium.secret]] 
+
+### [Zirconium](/_public/chemic/chemic~Elements/Group-04-Titanium/Zirconium.md) 
+
+### [Zirconium.internal](/_internal/chemic/chemic~Elements/Group-04-Titanium/Zirconium.internal.md) 
+
+### [Zirconium.protect](/_protect/chemic/chemic~Elements/Group-04-Titanium/Zirconium.protect.md) 
+
+### [Zirconium.private](/_private/chemic/chemic~Elements/Group-04-Titanium/Zirconium.private.md) 
+
+### [Zirconium.personal](/_personal/chemic/chemic~Elements/Group-04-Titanium/Zirconium.personal.md) 
+
+### [Zirconium.secret](/_secret/chemic/chemic~Elements/Group-04-Titanium/Zirconium.secret.md) 

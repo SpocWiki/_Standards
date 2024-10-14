@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_diet|has_diet]] 
-- [[../../../../../_public/schema-org/Relation/has/has_diet.public|has_diet.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_diet.internal|has_diet.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_diet.protect|has_diet.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_diet.private|has_diet.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_diet.personal|has_diet.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_diet.secret|has_diet.secret]] 
+
+### [has_diet](/_public/schema-org/Relation/has/has_diet.md) 
+
+### [has_diet.internal](/_internal/schema-org/Relation/has/has_diet.internal.md) 
+
+### [has_diet.protect](/_protect/schema-org/Relation/has/has_diet.protect.md) 
+
+### [has_diet.private](/_private/schema-org/Relation/has/has_diet.private.md) 
+
+### [has_diet.personal](/_personal/schema-org/Relation/has/has_diet.personal.md) 
+
+### [has_diet.secret](/_secret/schema-org/Relation/has/has_diet.secret.md) 

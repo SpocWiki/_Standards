@@ -47,10 +47,15 @@ Item is a narcotic as defined by the <a href="https://www.incb.org/incb/en/narco
 [ #is_/enum_of :: [[../AdultOrientedEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration|narcotic_consideration]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.public|narcotic_consideration.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.internal|narcotic_consideration.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.protect|narcotic_consideration.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.private|narcotic_consideration.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.personal|narcotic_consideration.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.secret|narcotic_consideration.secret]] 
+
+### [narcotic_consideration](/_public/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.md) 
+
+### [narcotic_consideration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.internal.md) 
+
+### [narcotic_consideration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.protect.md) 
+
+### [narcotic_consideration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.private.md) 
+
+### [narcotic_consideration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.personal.md) 
+
+### [narcotic_consideration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/adult_oriented_enumeration/narcotic_consideration.secret.md) 

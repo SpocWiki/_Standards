@@ -47,10 +47,15 @@ Indicates the usage of the car as a taxi.
 [ #is_/enum_of :: [[../CarUsageType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage|taxi_vehicle_usage]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.public|taxi_vehicle_usage.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.internal|taxi_vehicle_usage.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.protect|taxi_vehicle_usage.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.private|taxi_vehicle_usage.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.personal|taxi_vehicle_usage.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/car_usage_type/taxi_vehicle_usage.secret|taxi_vehicle_usage.secret]] 
+
+### [taxi_vehicle_usage](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.md) 
+
+### [taxi_vehicle_usage.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.internal.md) 
+
+### [taxi_vehicle_usage.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.protect.md) 
+
+### [taxi_vehicle_usage.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.private.md) 
+
+### [taxi_vehicle_usage.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.personal.md) 
+
+### [taxi_vehicle_usage.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type/taxi_vehicle_usage.secret.md) 

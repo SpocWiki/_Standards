@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Language, Text)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_in_language|is_in_language]] 
-- [[../../../../../_public/schema-org/Relation/is/is_in_language.public|is_in_language.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_in_language.internal|is_in_language.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_in_language.protect|is_in_language.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_in_language.private|is_in_language.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_in_language.personal|is_in_language.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_in_language.secret|is_in_language.secret]] 
+
+### [is_in_language](/_public/schema-org/Relation/is/is_in_language.md) 
+
+### [is_in_language.internal](/_internal/schema-org/Relation/is/is_in_language.internal.md) 
+
+### [is_in_language.protect](/_protect/schema-org/Relation/is/is_in_language.protect.md) 
+
+### [is_in_language.private](/_private/schema-org/Relation/is/is_in_language.private.md) 
+
+### [is_in_language.personal](/_personal/schema-org/Relation/is/is_in_language.personal.md) 
+
+### [is_in_language.secret](/_secret/schema-org/Relation/is/is_in_language.secret.md) 

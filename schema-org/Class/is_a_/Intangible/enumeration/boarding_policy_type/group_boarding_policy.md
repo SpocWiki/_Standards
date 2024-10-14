@@ -45,10 +45,15 @@ The airline boards by groups based on check-in time, priority, etc.
 [ #is_/enum_of :: [[../BoardingPolicyType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy|group_boarding_policy]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.public|group_boarding_policy.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.internal|group_boarding_policy.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.protect|group_boarding_policy.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.private|group_boarding_policy.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.personal|group_boarding_policy.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/boarding_policy_type/group_boarding_policy.secret|group_boarding_policy.secret]] 
+
+### [group_boarding_policy](/_public/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.md) 
+
+### [group_boarding_policy.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.internal.md) 
+
+### [group_boarding_policy.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.protect.md) 
+
+### [group_boarding_policy.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.private.md) 
+
+### [group_boarding_policy.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.personal.md) 
+
+### [group_boarding_policy.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/boarding_policy_type/group_boarding_policy.secret.md) 

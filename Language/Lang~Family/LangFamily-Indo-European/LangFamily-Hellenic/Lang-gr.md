@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Greek
@@ -23,10 +23,15 @@ tags:
 #has_/name_/de_ :: Griechisch  
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-gr|Lang-gr]] 
-- [[../../_public/lang/Lang-gr.public|Lang-gr.public]] [[../../../../../_internal/lang/Lang-gr.internal|Lang-gr.internal]]l]] 
-- [[../../_protect/lang/Lang-gr.protect|Lang-gr.protect]] 
-- [[../../_private/lang/Lang-gr.private|Lang-gr.private]] 
-- [[../../_personal/lang/Lang-gr.personal|Lang-gr.personal]] 
-- [[../../_secret/lang/Lang-gr.secret|Lang-gr.secret]]
 
+### [Lang-gr](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.md) 
+
+### [Lang-gr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.internal.md) 
+
+### [Lang-gr.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.protect.md) 
+
+### [Lang-gr.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.private.md) 
+
+### [Lang-gr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.personal.md) 
+
+### [Lang-gr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Hellenic/Lang-gr.secret.md) 

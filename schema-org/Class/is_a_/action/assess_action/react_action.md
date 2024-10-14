@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Tag Instances like this:
 [ #has_/properties :: [ [[../../../../Relation/has/has_action_status|actionStatus]], [[../../../../Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../../Relation/has/has_agent|agent]], [[../../../../Property/has_name/has_name_alternate|alternateName]], [[../../../../Property/Texts/has_description|description]], [[../../../../Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../../Property/has_Date_Time/has_time_to_end|endTime]], [[../../../../Relation/has/has_error|error]], [[../../../../Relation/has/has_identifier|identifier]], [[../../../../Relation/has/has_image|image]], [[../../../../Relation/has/has_instrument|instrument]], [[../../../../Property/has_location/has_location_|location]], [[../../../../Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../../Property/has_name/has_name|name]], [[../../../../Relation/has/has_object|object]], [[../../../../Relation/has/has_participant|participant]], [[../../../../Relation/has/has_potential_action|potentialAction]], [[../../../../Relation/has/has_provider|provider]], [[../../../../Relation/has/has_result|result]], [[../../../../Relation/is_same_as|sameAs]], [[../../../../Property/has_Date_Time/has_time_to_start|startTime]], [[../../../../Relation/is/is_subject_of|subjectOf]], [[../../../../Relation/has/has_target|target]], [[../../../../Property/has_url_for/has_url|url]] ] ] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/assess_action/react_action|react_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/assess_action/react_action.public|react_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/assess_action/react_action.internal|react_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/assess_action/react_action.protect|react_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/assess_action/react_action.private|react_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/assess_action/react_action.personal|react_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/assess_action/react_action.secret|react_action.secret]] 
+
+### [react_action](/_public/schema-org/Class/is_a_/action/assess_action/react_action.md) 
+
+### [react_action.internal](/_internal/schema-org/Class/is_a_/action/assess_action/react_action.internal.md) 
+
+### [react_action.protect](/_protect/schema-org/Class/is_a_/action/assess_action/react_action.protect.md) 
+
+### [react_action.private](/_private/schema-org/Class/is_a_/action/assess_action/react_action.private.md) 
+
+### [react_action.personal](/_personal/schema-org/Class/is_a_/action/assess_action/react_action.personal.md) 
+
+### [react_action.secret](/_secret/schema-org/Class/is_a_/action/assess_action/react_action.secret.md) 

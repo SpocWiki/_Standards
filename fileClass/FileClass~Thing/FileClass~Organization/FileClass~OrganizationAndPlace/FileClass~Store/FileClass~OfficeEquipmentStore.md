@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ An office equipment store.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~OfficeEquipmentStore](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.md) 
+
+### [FileClass~OfficeEquipmentStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.internal.md) 
+
+### [FileClass~OfficeEquipmentStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.protect.md) 
+
+### [FileClass~OfficeEquipmentStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.private.md) 
+
+### [FileClass~OfficeEquipmentStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.personal.md) 
+
+### [FileClass~OfficeEquipmentStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~OfficeEquipmentStore.secret.md) 

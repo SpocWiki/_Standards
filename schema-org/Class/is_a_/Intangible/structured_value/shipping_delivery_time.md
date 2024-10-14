@@ -45,10 +45,15 @@ ShippingDeliveryTime provides various pieces of information about delivery times
 [ #has_/properties :: [ additionalType, alternateName, businessDays, cutoffTime, description, disambiguatingDescription, handlingTime, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, transitTime, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/shipping_delivery_time|shipping_delivery_time]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/shipping_delivery_time.public|shipping_delivery_time.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.internal|shipping_delivery_time.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.protect|shipping_delivery_time.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.private|shipping_delivery_time.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.personal|shipping_delivery_time.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/shipping_delivery_time.secret|shipping_delivery_time.secret]] 
+
+### [shipping_delivery_time](/_public/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.md) 
+
+### [shipping_delivery_time.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.internal.md) 
+
+### [shipping_delivery_time.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.protect.md) 
+
+### [shipping_delivery_time.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.private.md) 
+
+### [shipping_delivery_time.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.personal.md) 
+
+### [shipping_delivery_time.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/shipping_delivery_time.secret.md) 

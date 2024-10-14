@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - -26.3167
   - 31.1333
@@ -63,9 +63,15 @@ Capital :: [[Mbabane]]
 
 
 ## Confidential Links & Embeds: 
-- [[Swaziland|Swaziland]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~South/Swaziland.internal|Swaziland.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~South/Swaziland.protect|Swaziland.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~South/Swaziland.private|Swaziland.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal|Swaziland.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret|Swaziland.secret]] 
+
+### [Swaziland](/_public/Earth/Continent/Africa/Africa~South/Swaziland.md) 
+
+### [Swaziland.internal](/_internal/Earth/Continent/Africa/Africa~South/Swaziland.internal.md) 
+
+### [Swaziland.protect](/_protect/Earth/Continent/Africa/Africa~South/Swaziland.protect.md) 
+
+### [Swaziland.private](/_private/Earth/Continent/Africa/Africa~South/Swaziland.private.md) 
+
+### [Swaziland.personal](/_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal.md) 
+
+### [Swaziland.secret](/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret.md) 

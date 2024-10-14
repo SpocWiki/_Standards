@@ -43,10 +43,15 @@ A list of possible statuses for the legal force of a legislation.
 [ #is_/sub_class_of :: [[../StatusEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status|legal_force_status]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status.public|legal_force_status.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status.internal|legal_force_status.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status.protect|legal_force_status.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status.private|legal_force_status.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status.personal|legal_force_status.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/status_enumeration/legal_force_status.secret|legal_force_status.secret]] 
+
+### [legal_force_status](/_public/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.md) 
+
+### [legal_force_status.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.internal.md) 
+
+### [legal_force_status.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.protect.md) 
+
+### [legal_force_status.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.private.md) 
+
+### [legal_force_status.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.personal.md) 
+
+### [legal_force_status.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/status_enumeration/legal_force_status.secret.md) 

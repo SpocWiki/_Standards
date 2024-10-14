@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 59.94 , 20.95 ] 
 type: geo-Region
 title: Kökar
@@ -40,11 +40,15 @@ markerFolder: ./Kökar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Kökar|Kökar]] 
-- [[../../../../../../../_public/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Kökar.public|Kökar.public]] 
-- [[../../../../../../../_internal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Kökar.internal|Kökar.internal]] 
-- [[../../../../../../../_protect/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Kökar.protect|Kökar.protect]] 
-- [[../../../../../../../_private/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Kökar.private|Kökar.private]] 
-- [[../../../../../../../_personal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Kökar.personal|Kökar.personal]] 
-- [[../../../../../../../_secret/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Kökar.secret|Kökar.secret]] 
 
+### [Kökar](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.md) 
+
+### [Kökar.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.internal.md) 
+
+### [Kökar.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.protect.md) 
+
+### [Kökar.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.private.md) 
+
+### [Kökar.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.personal.md) 
+
+### [Kökar.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Archipelago/counties~Archipelago/Kökar.secret.md) 

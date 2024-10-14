@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_axles|has_number_of_axles]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_axles.public|has_number_of_axles.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_axles.internal|has_number_of_axles.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_axles.protect|has_number_of_axles.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_axles.private|has_number_of_axles.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_axles.personal|has_number_of_axles.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_axles.secret|has_number_of_axles.secret]] 
+
+### [has_number_of_axles](/_public/schema-org/Property/has_number_of/has_number_of_axles.md) 
+
+### [has_number_of_axles.internal](/_internal/schema-org/Property/has_number_of/has_number_of_axles.internal.md) 
+
+### [has_number_of_axles.protect](/_protect/schema-org/Property/has_number_of/has_number_of_axles.protect.md) 
+
+### [has_number_of_axles.private](/_private/schema-org/Property/has_number_of/has_number_of_axles.private.md) 
+
+### [has_number_of_axles.personal](/_personal/schema-org/Property/has_number_of/has_number_of_axles.personal.md) 
+
+### [has_number_of_axles.secret](/_secret/schema-org/Property/has_number_of/has_number_of_axles.secret.md) 

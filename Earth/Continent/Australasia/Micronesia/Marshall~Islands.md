@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 9.34833
     - 168.348
@@ -137,10 +137,15 @@ Capital :: [[Majuro]]
 [has_place_latitude::9.34833] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Marshall~Islands|Marshall~Islands]] 
-- [[../../../../_public/Earth/Continent/Oceania/Marshall~Islands.public|Marshall~Islands.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Marshall~Islands.internal|Marshall~Islands.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Marshall~Islands.protect|Marshall~Islands.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Marshall~Islands.private|Marshall~Islands.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Marshall~Islands.personal|Marshall~Islands.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Marshall~Islands.secret|Marshall~Islands.secret]] 
+
+### [Marshall~Islands](/_public/Earth/Continent/Australasia/Micronesia/Marshall~Islands.md) 
+
+### [Marshall~Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall~Islands.internal.md) 
+
+### [Marshall~Islands.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall~Islands.protect.md) 
+
+### [Marshall~Islands.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall~Islands.private.md) 
+
+### [Marshall~Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall~Islands.personal.md) 
+
+### [Marshall~Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall~Islands.secret.md) 

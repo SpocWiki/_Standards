@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: BusStation, BusStop )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_arrival_bus_stop|has_arrival_bus_stop]] 
-- [[../../../../../_public/schema-org/Relation/has/has_arrival_bus_stop.public|has_arrival_bus_stop.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_arrival_bus_stop.internal|has_arrival_bus_stop.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_arrival_bus_stop.protect|has_arrival_bus_stop.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_arrival_bus_stop.private|has_arrival_bus_stop.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_arrival_bus_stop.personal|has_arrival_bus_stop.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_arrival_bus_stop.secret|has_arrival_bus_stop.secret]] 
+
+### [has_arrival_bus_stop](/_public/schema-org/Relation/has/has_arrival_bus_stop.md) 
+
+### [has_arrival_bus_stop.internal](/_internal/schema-org/Relation/has/has_arrival_bus_stop.internal.md) 
+
+### [has_arrival_bus_stop.protect](/_protect/schema-org/Relation/has/has_arrival_bus_stop.protect.md) 
+
+### [has_arrival_bus_stop.private](/_private/schema-org/Relation/has/has_arrival_bus_stop.private.md) 
+
+### [has_arrival_bus_stop.personal](/_personal/schema-org/Relation/has/has_arrival_bus_stop.personal.md) 
+
+### [has_arrival_bus_stop.secret](/_secret/schema-org/Relation/has/has_arrival_bus_stop.secret.md) 

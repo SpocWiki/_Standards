@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Event type: Children's event.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ChildrensEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.md) 
+
+### [FileClass~ChildrensEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.internal.md) 
+
+### [FileClass~ChildrensEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.protect.md) 
+
+### [FileClass~ChildrensEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.private.md) 
+
+### [FileClass~ChildrensEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.personal.md) 
+
+### [FileClass~ChildrensEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ChildrensEvent.secret.md) 

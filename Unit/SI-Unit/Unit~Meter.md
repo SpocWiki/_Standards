@@ -1,4 +1,4 @@
-# [[Unit~Meter]] 
+﻿# [[Unit~Meter]] 
 
 #is_an_ :: [[../SI-Unit]] 
 Unit :: #Unit/SI/m
@@ -17,3 +17,17 @@ Unit :: #Unit/SI/m
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Metre)
 
+
+## Confidential Links & Embeds: 
+
+### [Unit~Meter](/_public/Unit/SI-Unit/Unit~Meter.md) 
+
+### [Unit~Meter.internal](/_internal/Unit/SI-Unit/Unit~Meter.internal.md) 
+
+### [Unit~Meter.protect](/_protect/Unit/SI-Unit/Unit~Meter.protect.md) 
+
+### [Unit~Meter.private](/_private/Unit/SI-Unit/Unit~Meter.private.md) 
+
+### [Unit~Meter.personal](/_personal/Unit/SI-Unit/Unit~Meter.personal.md) 
+
+### [Unit~Meter.secret](/_secret/Unit/SI-Unit/Unit~Meter.secret.md) 

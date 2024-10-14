@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_credit_text|has_credit_text]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_credit_text.public|has_credit_text.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_credit_text.internal|has_credit_text.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_credit_text.protect|has_credit_text.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_credit_text.private|has_credit_text.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_credit_text.personal|has_credit_text.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_credit_text.secret|has_credit_text.secret]] 
+
+### [has_credit_text](/_public/schema-org/Property/Texts/has_credit_text.md) 
+
+### [has_credit_text.internal](/_internal/schema-org/Property/Texts/has_credit_text.internal.md) 
+
+### [has_credit_text.protect](/_protect/schema-org/Property/Texts/has_credit_text.protect.md) 
+
+### [has_credit_text.private](/_private/schema-org/Property/Texts/has_credit_text.private.md) 
+
+### [has_credit_text.personal](/_personal/schema-org/Property/Texts/has_credit_text.personal.md) 
+
+### [has_credit_text.secret](/_secret/schema-org/Property/Texts/has_credit_text.secret.md) 

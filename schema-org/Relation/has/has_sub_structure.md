@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sub_structure|has_sub_structure]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sub_structure.public|has_sub_structure.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sub_structure.internal|has_sub_structure.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sub_structure.protect|has_sub_structure.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sub_structure.private|has_sub_structure.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sub_structure.personal|has_sub_structure.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sub_structure.secret|has_sub_structure.secret]] 
+
+### [has_sub_structure](/_public/schema-org/Relation/has/has_sub_structure.md) 
+
+### [has_sub_structure.internal](/_internal/schema-org/Relation/has/has_sub_structure.internal.md) 
+
+### [has_sub_structure.protect](/_protect/schema-org/Relation/has/has_sub_structure.protect.md) 
+
+### [has_sub_structure.private](/_private/schema-org/Relation/has/has_sub_structure.private.md) 
+
+### [has_sub_structure.personal](/_personal/schema-org/Relation/has/has_sub_structure.personal.md) 
+
+### [has_sub_structure.secret](/_secret/schema-org/Relation/has/has_sub_structure.secret.md) 

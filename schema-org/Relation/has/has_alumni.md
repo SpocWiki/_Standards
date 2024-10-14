@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 **
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_alumni|has_alumni]] 
-- [[../../../../../_public/schema-org/Relation/has/has_alumni.public|has_alumni.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_alumni.internal|has_alumni.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_alumni.protect|has_alumni.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_alumni.private|has_alumni.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_alumni.personal|has_alumni.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_alumni.secret|has_alumni.secret]] 
+
+### [has_alumni](/_public/schema-org/Relation/has/has_alumni.md) 
+
+### [has_alumni.internal](/_internal/schema-org/Relation/has/has_alumni.internal.md) 
+
+### [has_alumni.protect](/_protect/schema-org/Relation/has/has_alumni.protect.md) 
+
+### [has_alumni.private](/_private/schema-org/Relation/has/has_alumni.private.md) 
+
+### [has_alumni.personal](/_personal/schema-org/Relation/has/has_alumni.personal.md) 
+
+### [has_alumni.secret](/_secret/schema-org/Relation/has/has_alumni.secret.md) 

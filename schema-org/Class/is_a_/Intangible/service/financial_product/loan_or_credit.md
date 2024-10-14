@@ -45,10 +45,15 @@ A financial product for the loaning of an amount of money, or line of credit, un
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, currency, description, disambiguatingDescription, feesAndCommissionsSpecification, gracePeriod, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, loanRepaymentForm, loanTerm, loanType, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, recourseLoan, renegotiableLoan, requiredCollateral, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/loan_or_credit|loan_or_credit]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/service/financial_product/loan_or_credit.public|loan_or_credit.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.internal|loan_or_credit.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.protect|loan_or_credit.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.private|loan_or_credit.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.personal|loan_or_credit.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product/loan_or_credit.secret|loan_or_credit.secret]] 
+
+### [loan_or_credit](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.md) 
+
+### [loan_or_credit.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.internal.md) 
+
+### [loan_or_credit.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.protect.md) 
+
+### [loan_or_credit.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.private.md) 
+
+### [loan_or_credit.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.personal.md) 
+
+### [loan_or_credit.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/loan_or_credit.secret.md) 

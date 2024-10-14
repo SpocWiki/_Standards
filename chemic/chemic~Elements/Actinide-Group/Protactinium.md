@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21986
@@ -34,10 +34,15 @@ SpocWebEntityId: 21986
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Protactinium|Protactinium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Protactinium.public|Protactinium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Protactinium.internal|Protactinium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Protactinium.protect|Protactinium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Protactinium.private|Protactinium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Protactinium.personal|Protactinium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Protactinium.secret|Protactinium.secret]] 
+
+### [Protactinium](/_public/chemic/chemic~Elements/Actinide-Group/Protactinium.md) 
+
+### [Protactinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Protactinium.internal.md) 
+
+### [Protactinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Protactinium.protect.md) 
+
+### [Protactinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Protactinium.private.md) 
+
+### [Protactinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Protactinium.personal.md) 
+
+### [Protactinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Protactinium.secret.md) 

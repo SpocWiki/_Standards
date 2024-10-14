@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - nullary
   - Unary
@@ -151,3 +151,17 @@ aliases:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Arity](/_public/schema-org/Arity.md) 
+
+### [Arity.internal](/_internal/schema-org/Arity.internal.md) 
+
+### [Arity.protect](/_protect/schema-org/Arity.protect.md) 
+
+### [Arity.private](/_private/schema-org/Arity.private.md) 
+
+### [Arity.personal](/_personal/schema-org/Arity.personal.md) 
+
+### [Arity.secret](/_secret/schema-org/Arity.secret.md) 

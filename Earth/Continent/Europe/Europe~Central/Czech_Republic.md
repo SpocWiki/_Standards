@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 49.7633
     - 15.8734
@@ -56,10 +56,15 @@ Capital :: [[Praha]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic|Czech_Republic]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.public|Czech_Republic.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic.internal|Czech_Republic.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic.protect|Czech_Republic.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~Central/Czech_Republic.private|Czech_Republic.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic.personal|Czech_Republic.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic.secret|Czech_Republic.secret]] 
+
+### [Czech_Republic](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.md) 
+
+### [Czech_Republic.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic.internal.md) 
+
+### [Czech_Republic.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic.protect.md) 
+
+### [Czech_Republic.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic.private.md) 
+
+### [Czech_Republic.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic.personal.md) 
+
+### [Czech_Republic.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic.secret.md) 

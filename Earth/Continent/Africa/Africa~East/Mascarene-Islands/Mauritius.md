@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -20.1667
 - 57.5167
@@ -143,9 +143,15 @@ Capital :: [[Port_Louis]]
 
 
 ## Confidential Links & Embeds: 
-- [[Mauritius|Mauritius]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Mauritius.internal|Mauritius.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Mauritius.protect|Mauritius.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Mauritius.private|Mauritius.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Mauritius.personal|Mauritius.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Mauritius.secret|Mauritius.secret]] 
+
+### [Mauritius](/_public/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.md) 
+
+### [Mauritius.internal](/_internal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.internal.md) 
+
+### [Mauritius.protect](/_protect/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.protect.md) 
+
+### [Mauritius.private](/_private/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.private.md) 
+
+### [Mauritius.personal](/_personal/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.personal.md) 
+
+### [Mauritius.secret](/_secret/Earth/Continent/Africa/Africa~East/Mascarene-Islands/Mauritius.secret.md) 

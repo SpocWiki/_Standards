@@ -1,4 +1,4 @@
-# [[Early_Middle-Ages]] 
+﻿# [[Early_Middle-Ages]] 
 
 #is_a_/time_/Culture 
 
@@ -29,3 +29,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Early_Middle-Ages](/_public/Time-Ages/human-ages/Medieval/Early_Middle-Ages.md) 
+
+### [Early_Middle-Ages.internal](/_internal/Time-Ages/human-ages/Medieval/Early_Middle-Ages.internal.md) 
+
+### [Early_Middle-Ages.protect](/_protect/Time-Ages/human-ages/Medieval/Early_Middle-Ages.protect.md) 
+
+### [Early_Middle-Ages.private](/_private/Time-Ages/human-ages/Medieval/Early_Middle-Ages.private.md) 
+
+### [Early_Middle-Ages.personal](/_personal/Time-Ages/human-ages/Medieval/Early_Middle-Ages.personal.md) 
+
+### [Early_Middle-Ages.secret](/_secret/Time-Ages/human-ages/Medieval/Early_Middle-Ages.secret.md) 

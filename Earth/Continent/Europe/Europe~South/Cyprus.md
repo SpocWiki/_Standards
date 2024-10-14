@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 35.1333
     - 33.4667
@@ -148,10 +148,15 @@ Capital :: [[Cyprus/districts~Cyprus/Nicosia]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Cyprus|Cyprus]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Cyprus.public|Cyprus.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Cyprus.internal|Cyprus.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Cyprus.protect|Cyprus.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Cyprus.private|Cyprus.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Cyprus.personal|Cyprus.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Cyprus.secret|Cyprus.secret]] 
+
+### [Cyprus](/_public/Earth/Continent/Europe/Europe~South/Cyprus.md) 
+
+### [Cyprus.internal](/_internal/Earth/Continent/Europe/Europe~South/Cyprus.internal.md) 
+
+### [Cyprus.protect](/_protect/Earth/Continent/Europe/Europe~South/Cyprus.protect.md) 
+
+### [Cyprus.private](/_private/Earth/Continent/Europe/Europe~South/Cyprus.private.md) 
+
+### [Cyprus.personal](/_personal/Earth/Continent/Europe/Europe~South/Cyprus.personal.md) 
+
+### [Cyprus.secret](/_secret/Earth/Continent/Europe/Europe~South/Cyprus.secret.md) 

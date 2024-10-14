@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Integer, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_children|has_number_of_children]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_children.public|has_number_of_children.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_children.internal|has_number_of_children.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_children.protect|has_number_of_children.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_children.private|has_number_of_children.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_children.personal|has_number_of_children.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_children.secret|has_number_of_children.secret]] 
+
+### [has_number_of_children](/_public/schema-org/Property/has_number_of/has_number_of_children.md) 
+
+### [has_number_of_children.internal](/_internal/schema-org/Property/has_number_of/has_number_of_children.internal.md) 
+
+### [has_number_of_children.protect](/_protect/schema-org/Property/has_number_of/has_number_of_children.protect.md) 
+
+### [has_number_of_children.private](/_private/schema-org/Property/has_number_of/has_number_of_children.private.md) 
+
+### [has_number_of_children.personal](/_personal/schema-org/Property/has_number_of/has_number_of_children.personal.md) 
+
+### [has_number_of_children.secret](/_secret/schema-org/Property/has_number_of/has_number_of_children.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Beauty salon.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BeautySalon](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.md) 
+
+### [FileClass~BeautySalon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.internal.md) 
+
+### [FileClass~BeautySalon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.protect.md) 
+
+### [FileClass~BeautySalon.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.private.md) 
+
+### [FileClass~BeautySalon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.personal.md) 
+
+### [FileClass~BeautySalon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~BeautySalon.secret.md) 

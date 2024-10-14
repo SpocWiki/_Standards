@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_tracking_number|has_tracking_number]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_tracking_number.public|has_tracking_number.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_tracking_number.internal|has_tracking_number.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_tracking_number.protect|has_tracking_number.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_tracking_number.private|has_tracking_number.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_tracking_number.personal|has_tracking_number.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_tracking_number.secret|has_tracking_number.secret]] 
+
+### [has_tracking_number](/_public/schema-org/Property/Texts/has_tracking_number.md) 
+
+### [has_tracking_number.internal](/_internal/schema-org/Property/Texts/has_tracking_number.internal.md) 
+
+### [has_tracking_number.protect](/_protect/schema-org/Property/Texts/has_tracking_number.protect.md) 
+
+### [has_tracking_number.private](/_private/schema-org/Property/Texts/has_tracking_number.private.md) 
+
+### [has_tracking_number.personal](/_personal/schema-org/Property/Texts/has_tracking_number.personal.md) 
+
+### [has_tracking_number.secret](/_secret/schema-org/Property/Texts/has_tracking_number.secret.md) 

@@ -1,4 +1,4 @@
-# [[Ocean]] 
+﻿# [[Ocean]] 
 
 Oceans are not as well-bounded as Continents, 
 because they cover a larger Globe Area than Continents. 
@@ -20,3 +20,17 @@ long: 10
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Ocean](/_public/Earth/Ocean.md) 
+
+### [Ocean.internal](/_internal/Earth/Ocean.internal.md) 
+
+### [Ocean.protect](/_protect/Earth/Ocean.protect.md) 
+
+### [Ocean.private](/_private/Earth/Ocean.private.md) 
+
+### [Ocean.personal](/_personal/Earth/Ocean.personal.md) 
+
+### [Ocean.secret](/_secret/Earth/Ocean.secret.md) 

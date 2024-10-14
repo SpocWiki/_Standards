@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -444,10 +444,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Asia/_Asia-CountryDb|_Asia-CountryDb]] 
-- [[../../../../_public/Earth/Continent/Asia/_Asia-CountryDb.public|_Asia-CountryDb.public]] 
-- [[../../../../_internal/Earth/Continent/Asia/_Asia-CountryDb.internal|_Asia-CountryDb.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/_Asia-CountryDb.protect|_Asia-CountryDb.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/_Asia-CountryDb.private|_Asia-CountryDb.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/_Asia-CountryDb.personal|_Asia-CountryDb.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/_Asia-CountryDb.secret|_Asia-CountryDb.secret]] 
+
+### [_Asia-CountryDb](/_public/Earth/Continent/Asia/_Asia-CountryDb.md) 
+
+### [_Asia-CountryDb.internal](/_internal/Earth/Continent/Asia/_Asia-CountryDb.internal.md) 
+
+### [_Asia-CountryDb.protect](/_protect/Earth/Continent/Asia/_Asia-CountryDb.protect.md) 
+
+### [_Asia-CountryDb.private](/_private/Earth/Continent/Asia/_Asia-CountryDb.private.md) 
+
+### [_Asia-CountryDb.personal](/_personal/Earth/Continent/Asia/_Asia-CountryDb.personal.md) 
+
+### [_Asia-CountryDb.secret](/_secret/Earth/Continent/Asia/_Asia-CountryDb.secret.md) 

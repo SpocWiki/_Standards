@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -80,3 +80,17 @@ The item ordered.
 OrderedItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/OrderItem')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~OrderItem](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.md) 
+
+### [FileClass~OrderItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.internal.md) 
+
+### [FileClass~OrderItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.protect.md) 
+
+### [FileClass~OrderItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.private.md) 
+
+### [FileClass~OrderItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.personal.md) 
+
+### [FileClass~OrderItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.secret.md) 

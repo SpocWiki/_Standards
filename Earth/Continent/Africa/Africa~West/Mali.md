@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 12.65
 - -8
@@ -142,9 +142,15 @@ Capital :: [[Bamako]]
 
 
 ## Confidential Links & Embeds: 
-- [[Mali|Mali]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Mali.internal|Mali.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Mali.protect|Mali.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Mali.private|Mali.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Mali.personal|Mali.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Mali.secret|Mali.secret]] 
+
+### [Mali](/_public/Earth/Continent/Africa/Africa~West/Mali.md) 
+
+### [Mali.internal](/_internal/Earth/Continent/Africa/Africa~West/Mali.internal.md) 
+
+### [Mali.protect](/_protect/Earth/Continent/Africa/Africa~West/Mali.protect.md) 
+
+### [Mali.private](/_private/Earth/Continent/Africa/Africa~West/Mali.private.md) 
+
+### [Mali.personal](/_personal/Earth/Continent/Africa/Africa~West/Mali.personal.md) 
+
+### [Mali.secret](/_secret/Earth/Continent/Africa/Africa~West/Mali.secret.md) 

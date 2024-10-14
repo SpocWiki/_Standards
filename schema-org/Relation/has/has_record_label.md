@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_record_label|has_record_label]] 
-- [[../../../../../_public/schema-org/Relation/has/has_record_label.public|has_record_label.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_record_label.internal|has_record_label.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_record_label.protect|has_record_label.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_record_label.private|has_record_label.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_record_label.personal|has_record_label.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_record_label.secret|has_record_label.secret]] 
+
+### [has_record_label](/_public/schema-org/Relation/has/has_record_label.md) 
+
+### [has_record_label.internal](/_internal/schema-org/Relation/has/has_record_label.internal.md) 
+
+### [has_record_label.protect](/_protect/schema-org/Relation/has/has_record_label.protect.md) 
+
+### [has_record_label.private](/_private/schema-org/Relation/has/has_record_label.private.md) 
+
+### [has_record_label.personal](/_personal/schema-org/Relation/has/has_record_label.personal.md) 
+
+### [has_record_label.secret](/_secret/schema-org/Relation/has/has_record_label.secret.md) 

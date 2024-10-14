@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_full_bathrooms|has_number_of_full_bathrooms]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_full_bathrooms.public|has_number_of_full_bathrooms.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_full_bathrooms.internal|has_number_of_full_bathrooms.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_full_bathrooms.protect|has_number_of_full_bathrooms.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_full_bathrooms.private|has_number_of_full_bathrooms.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_full_bathrooms.personal|has_number_of_full_bathrooms.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_full_bathrooms.secret|has_number_of_full_bathrooms.secret]] 
+
+### [has_number_of_full_bathrooms](/_public/schema-org/Property/has_number_of/has_number_of_full_bathrooms.md) 
+
+### [has_number_of_full_bathrooms.internal](/_internal/schema-org/Property/has_number_of/has_number_of_full_bathrooms.internal.md) 
+
+### [has_number_of_full_bathrooms.protect](/_protect/schema-org/Property/has_number_of/has_number_of_full_bathrooms.protect.md) 
+
+### [has_number_of_full_bathrooms.private](/_private/schema-org/Property/has_number_of/has_number_of_full_bathrooms.private.md) 
+
+### [has_number_of_full_bathrooms.personal](/_personal/schema-org/Property/has_number_of/has_number_of_full_bathrooms.personal.md) 
+
+### [has_number_of_full_bathrooms.secret](/_secret/schema-org/Property/has_number_of/has_number_of_full_bathrooms.secret.md) 

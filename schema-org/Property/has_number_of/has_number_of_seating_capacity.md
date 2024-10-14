@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -51,10 +51,15 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_seating_capacity|has_number_of_seating_capacity]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_seating_capacity.public|has_number_of_seating_capacity.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_seating_capacity.internal|has_number_of_seating_capacity.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_seating_capacity.protect|has_number_of_seating_capacity.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_seating_capacity.private|has_number_of_seating_capacity.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_seating_capacity.personal|has_number_of_seating_capacity.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_seating_capacity.secret|has_number_of_seating_capacity.secret]] 
+
+### [has_number_of_seating_capacity](/_public/schema-org/Property/has_number_of/has_number_of_seating_capacity.md) 
+
+### [has_number_of_seating_capacity.internal](/_internal/schema-org/Property/has_number_of/has_number_of_seating_capacity.internal.md) 
+
+### [has_number_of_seating_capacity.protect](/_protect/schema-org/Property/has_number_of/has_number_of_seating_capacity.protect.md) 
+
+### [has_number_of_seating_capacity.private](/_private/schema-org/Property/has_number_of/has_number_of_seating_capacity.private.md) 
+
+### [has_number_of_seating_capacity.personal](/_personal/schema-org/Property/has_number_of/has_number_of_seating_capacity.personal.md) 
+
+### [has_number_of_seating_capacity.secret](/_secret/schema-org/Property/has_number_of/has_number_of_seating_capacity.secret.md) 

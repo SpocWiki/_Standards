@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 62.3173
     - 25.4668
@@ -202,10 +202,15 @@ Capital :: [[Helsingfors]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Finland|Finland]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Finland.public|Finland.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Finland.internal|Finland.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Finland.protect|Finland.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Finland.private|Finland.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Finland.personal|Finland.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Finland.secret|Finland.secret]] 
+
+### [Finland](/_public/Earth/Continent/Europe/Europe~North/Finland.md) 
+
+### [Finland.internal](/_internal/Earth/Continent/Europe/Europe~North/Finland.internal.md) 
+
+### [Finland.protect](/_protect/Earth/Continent/Europe/Europe~North/Finland.protect.md) 
+
+### [Finland.private](/_private/Earth/Continent/Europe/Europe~North/Finland.private.md) 
+
+### [Finland.personal](/_personal/Earth/Continent/Europe/Europe~North/Finland.personal.md) 
+
+### [Finland.secret](/_secret/Earth/Continent/Europe/Europe~North/Finland.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: DoseSchedule )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_dose_schedule|has_value_for_dose_schedule]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_dose_schedule.public|has_value_for_dose_schedule.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_dose_schedule.internal|has_value_for_dose_schedule.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_dose_schedule.protect|has_value_for_dose_schedule.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_dose_schedule.private|has_value_for_dose_schedule.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_dose_schedule.personal|has_value_for_dose_schedule.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_dose_schedule.secret|has_value_for_dose_schedule.secret]] 
+
+### [has_value_for_dose_schedule](/_public/schema-org/Property/has_value_for/has_value_for_dose_schedule.md) 
+
+### [has_value_for_dose_schedule.internal](/_internal/schema-org/Property/has_value_for/has_value_for_dose_schedule.internal.md) 
+
+### [has_value_for_dose_schedule.protect](/_protect/schema-org/Property/has_value_for/has_value_for_dose_schedule.protect.md) 
+
+### [has_value_for_dose_schedule.private](/_private/schema-org/Property/has_value_for/has_value_for_dose_schedule.private.md) 
+
+### [has_value_for_dose_schedule.personal](/_personal/schema-org/Property/has_value_for/has_value_for_dose_schedule.personal.md) 
+
+### [has_value_for_dose_schedule.secret](/_secret/schema-org/Property/has_value_for/has_value_for_dose_schedule.secret.md) 

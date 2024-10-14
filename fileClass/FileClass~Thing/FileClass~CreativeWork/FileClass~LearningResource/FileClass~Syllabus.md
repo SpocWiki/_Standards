@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A syllabus that describes the material covered in a course, often with several s
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Syllabus](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.md) 
+
+### [FileClass~Syllabus.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.internal.md) 
+
+### [FileClass~Syllabus.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.protect.md) 
+
+### [FileClass~Syllabus.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.private.md) 
+
+### [FileClass~Syllabus.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.personal.md) 
+
+### [FileClass~Syllabus.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource/FileClass~Syllabus.secret.md) 

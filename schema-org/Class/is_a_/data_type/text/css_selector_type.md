@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,10 +39,15 @@ Text representing a CSS selector.
 [ #is_/sub_class_of :: [[../Text]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/data_type/text/css_selector_type|css_selector_type]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/data_type/text/css_selector_type.public|css_selector_type.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/data_type/text/css_selector_type.internal|css_selector_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/data_type/text/css_selector_type.protect|css_selector_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/data_type/text/css_selector_type.private|css_selector_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/data_type/text/css_selector_type.personal|css_selector_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/data_type/text/css_selector_type.secret|css_selector_type.secret]] 
+
+### [css_selector_type](/_public/schema-org/Class/is_a_/data_type/text/css_selector_type.md) 
+
+### [css_selector_type.internal](/_internal/schema-org/Class/is_a_/data_type/text/css_selector_type.internal.md) 
+
+### [css_selector_type.protect](/_protect/schema-org/Class/is_a_/data_type/text/css_selector_type.protect.md) 
+
+### [css_selector_type.private](/_private/schema-org/Class/is_a_/data_type/text/css_selector_type.private.md) 
+
+### [css_selector_type.personal](/_personal/schema-org/Class/is_a_/data_type/text/css_selector_type.personal.md) 
+
+### [css_selector_type.secret](/_secret/schema-org/Class/is_a_/data_type/text/css_selector_type.secret.md) 

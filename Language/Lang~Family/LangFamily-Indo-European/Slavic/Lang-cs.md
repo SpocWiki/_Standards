@@ -1,4 +1,4 @@
-
+﻿
 #has_/name_/cs_ :: čeština
 #has_/name_/en_ :: Czech
 #has_/name_/de_ :: Tschechisch 
@@ -44,3 +44,17 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Czech%20language)
 
+
+## Confidential Links & Embeds: 
+
+### [Lang-cs](/_public/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-cs.md) 
+
+### [Lang-cs.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-cs.internal.md) 
+
+### [Lang-cs.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-cs.protect.md) 
+
+### [Lang-cs.private](/_private/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-cs.private.md) 
+
+### [Lang-cs.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-cs.personal.md) 
+
+### [Lang-cs.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/Slavic/Lang-cs.secret.md) 

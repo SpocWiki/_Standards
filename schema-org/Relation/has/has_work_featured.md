@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ workPerformed, workPresented ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_work_featured|has_work_featured]] 
-- [[../../../../../_public/schema-org/Relation/has/has_work_featured.public|has_work_featured.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_work_featured.internal|has_work_featured.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_work_featured.protect|has_work_featured.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_work_featured.private|has_work_featured.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_work_featured.personal|has_work_featured.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_work_featured.secret|has_work_featured.secret]] 
+
+### [has_work_featured](/_public/schema-org/Relation/has/has_work_featured.md) 
+
+### [has_work_featured.internal](/_internal/schema-org/Relation/has/has_work_featured.internal.md) 
+
+### [has_work_featured.protect](/_protect/schema-org/Relation/has/has_work_featured.protect.md) 
+
+### [has_work_featured.private](/_private/schema-org/Relation/has/has_work_featured.private.md) 
+
+### [has_work_featured.personal](/_personal/schema-org/Relation/has/has_work_featured.personal.md) 
+
+### [has_work_featured.secret](/_secret/schema-org/Relation/has/has_work_featured.secret.md) 

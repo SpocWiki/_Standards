@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -22.1
 - 33.7917
@@ -139,9 +139,15 @@ Capital :: [[Maputo]]
 
 
 ## Confidential Links & Embeds: 
-- [[Mozambique|Mozambique]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Mozambique.internal|Mozambique.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Mozambique.protect|Mozambique.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Mozambique.private|Mozambique.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Mozambique.personal|Mozambique.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Mozambique.secret|Mozambique.secret]] 
+
+### [Mozambique](/_public/Earth/Continent/Africa/Africa~East/Mozambique.md) 
+
+### [Mozambique.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique.internal.md) 
+
+### [Mozambique.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique.protect.md) 
+
+### [Mozambique.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique.private.md) 
+
+### [Mozambique.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique.personal.md) 
+
+### [Mozambique.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique.secret.md) 

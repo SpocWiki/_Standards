@@ -1,4 +1,4 @@
----
+﻿---
 
 type: Country
 tags:
@@ -35,10 +35,15 @@ Capital :: [[Paris]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~West/France~Metropolitan|France~Metropolitan]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~West/France~Metropolitan.public|France~Metropolitan.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~West/France~Metropolitan.internal|France~Metropolitan.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~West/France~Metropolitan.protect|France~Metropolitan.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~West/France~Metropolitan.private|France~Metropolitan.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~West/France~Metropolitan.personal|France~Metropolitan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~West/France~Metropolitan.secret|France~Metropolitan.secret]] 
+
+### [France~Metropolitan](/_public/Earth/Continent/Europe/Europe~West/France~Metropolitan.md) 
+
+### [France~Metropolitan.internal](/_internal/Earth/Continent/Europe/Europe~West/France~Metropolitan.internal.md) 
+
+### [France~Metropolitan.protect](/_protect/Earth/Continent/Europe/Europe~West/France~Metropolitan.protect.md) 
+
+### [France~Metropolitan.private](/_private/Earth/Continent/Europe/Europe~West/France~Metropolitan.private.md) 
+
+### [France~Metropolitan.personal](/_personal/Earth/Continent/Europe/Europe~West/France~Metropolitan.personal.md) 
+
+### [France~Metropolitan.secret](/_secret/Earth/Continent/Europe/Europe~West/France~Metropolitan.secret.md) 

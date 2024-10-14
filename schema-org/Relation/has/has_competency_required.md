@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_competency_required|has_competency_required]] 
-- [[../../../../../_public/schema-org/Relation/has/has_competency_required.public|has_competency_required.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_competency_required.internal|has_competency_required.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_competency_required.protect|has_competency_required.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_competency_required.private|has_competency_required.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_competency_required.personal|has_competency_required.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_competency_required.secret|has_competency_required.secret]] 
+
+### [has_competency_required](/_public/schema-org/Relation/has/has_competency_required.md) 
+
+### [has_competency_required.internal](/_internal/schema-org/Relation/has/has_competency_required.internal.md) 
+
+### [has_competency_required.protect](/_protect/schema-org/Relation/has/has_competency_required.protect.md) 
+
+### [has_competency_required.private](/_private/schema-org/Relation/has/has_competency_required.private.md) 
+
+### [has_competency_required.personal](/_personal/schema-org/Relation/has/has_competency_required.personal.md) 
+
+### [has_competency_required.secret](/_secret/schema-org/Relation/has/has_competency_required.secret.md) 

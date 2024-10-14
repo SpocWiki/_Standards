@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_administration_route|has_administration_route]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_administration_route.public|has_administration_route.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_administration_route.internal|has_administration_route.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_administration_route.protect|has_administration_route.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_administration_route.private|has_administration_route.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_administration_route.personal|has_administration_route.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_administration_route.secret|has_administration_route.secret]] 
+
+### [has_administration_route](/_public/schema-org/Property/Texts/has_administration_route.md) 
+
+### [has_administration_route.internal](/_internal/schema-org/Property/Texts/has_administration_route.internal.md) 
+
+### [has_administration_route.protect](/_protect/schema-org/Property/Texts/has_administration_route.protect.md) 
+
+### [has_administration_route.private](/_private/schema-org/Property/Texts/has_administration_route.private.md) 
+
+### [has_administration_route.personal](/_personal/schema-org/Property/Texts/has_administration_route.personal.md) 
+
+### [has_administration_route.secret](/_secret/schema-org/Property/Texts/has_administration_route.secret.md) 

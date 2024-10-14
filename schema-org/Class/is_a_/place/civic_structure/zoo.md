@@ -42,10 +42,15 @@ A zoo.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/zoo|zoo]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/zoo.public|zoo.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/zoo.internal|zoo.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/zoo.protect|zoo.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/zoo.private|zoo.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/zoo.personal|zoo.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/zoo.secret|zoo.secret]] 
+
+### [zoo](/_public/schema-org/Class/is_a_/place/civic_structure/zoo.md) 
+
+### [zoo.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/zoo.internal.md) 
+
+### [zoo.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/zoo.protect.md) 
+
+### [zoo.private](/_private/schema-org/Class/is_a_/place/civic_structure/zoo.private.md) 
+
+### [zoo.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/zoo.personal.md) 
+
+### [zoo.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/zoo.secret.md) 

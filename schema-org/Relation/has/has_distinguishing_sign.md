@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalSignOrSymptom )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_distinguishing_sign|has_distinguishing_sign]] 
-- [[../../../../../_public/schema-org/Relation/has/has_distinguishing_sign.public|has_distinguishing_sign.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_distinguishing_sign.internal|has_distinguishing_sign.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_distinguishing_sign.protect|has_distinguishing_sign.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_distinguishing_sign.private|has_distinguishing_sign.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_distinguishing_sign.personal|has_distinguishing_sign.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_distinguishing_sign.secret|has_distinguishing_sign.secret]] 
+
+### [has_distinguishing_sign](/_public/schema-org/Relation/has/has_distinguishing_sign.md) 
+
+### [has_distinguishing_sign.internal](/_internal/schema-org/Relation/has/has_distinguishing_sign.internal.md) 
+
+### [has_distinguishing_sign.protect](/_protect/schema-org/Relation/has/has_distinguishing_sign.protect.md) 
+
+### [has_distinguishing_sign.private](/_private/schema-org/Relation/has/has_distinguishing_sign.private.md) 
+
+### [has_distinguishing_sign.personal](/_personal/schema-org/Relation/has/has_distinguishing_sign.personal.md) 
+
+### [has_distinguishing_sign.secret](/_secret/schema-org/Relation/has/has_distinguishing_sign.secret.md) 

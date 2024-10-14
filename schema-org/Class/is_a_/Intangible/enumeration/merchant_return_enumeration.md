@@ -45,10 +45,15 @@ Enumerates several kinds of product return policies.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/merchant_return_enumeration|merchant_return_enumeration]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.public|merchant_return_enumeration.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.internal|merchant_return_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.protect|merchant_return_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.private|merchant_return_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.personal|merchant_return_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration.secret|merchant_return_enumeration.secret]] 
+
+### [merchant_return_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.md) 
+
+### [merchant_return_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.internal.md) 
+
+### [merchant_return_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.protect.md) 
+
+### [merchant_return_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.private.md) 
+
+### [merchant_return_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.personal.md) 
+
+### [merchant_return_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration.secret.md) 

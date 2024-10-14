@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Austro-Asiatic|LangFamily-Austro-Asiatic]] 
-- [[../../../_public/lang/Family/LangFamily-Austro-Asiatic.public|LangFamily-Austro-Asiatic.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Austro-Asiatic.internal|LangFamily-Austro-Asiatic.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Austro-Asiatic.protect|LangFamily-Austro-Asiatic.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Austro-Asiatic.private|LangFamily-Austro-Asiatic.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Austro-Asiatic.personal|LangFamily-Austro-Asiatic.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Austro-Asiatic.secret|LangFamily-Austro-Asiatic.secret]] 
+
+### [LangFamily-Austro-Asiatic](/_public/Language/Lang~Family/LangFamily-Austro-Asiatic.md) 
+
+### [LangFamily-Austro-Asiatic.internal](/_internal/Language/Lang~Family/LangFamily-Austro-Asiatic.internal.md) 
+
+### [LangFamily-Austro-Asiatic.protect](/_protect/Language/Lang~Family/LangFamily-Austro-Asiatic.protect.md) 
+
+### [LangFamily-Austro-Asiatic.private](/_private/Language/Lang~Family/LangFamily-Austro-Asiatic.private.md) 
+
+### [LangFamily-Austro-Asiatic.personal](/_personal/Language/Lang~Family/LangFamily-Austro-Asiatic.personal.md) 
+
+### [LangFamily-Austro-Asiatic.secret](/_secret/Language/Lang~Family/LangFamily-Austro-Asiatic.secret.md) 

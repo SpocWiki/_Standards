@@ -1,4 +1,4 @@
----
+﻿---
 
 type: Country
 tags:
@@ -35,10 +35,15 @@ has_place_continent:: [[Asia]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN|EAST_&_WEST_PAKISTAN]] 
-- [[../../../../_public/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.public|EAST_&_WEST_PAKISTAN.public]] 
-- [[../../../../_internal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.internal|EAST_&_WEST_PAKISTAN.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.protect|EAST_&_WEST_PAKISTAN.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.private|EAST_&_WEST_PAKISTAN.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.personal|EAST_&_WEST_PAKISTAN.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.secret|EAST_&_WEST_PAKISTAN.secret]] 
+
+### [EAST_&_WEST_PAKISTAN](/_public/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.md) 
+
+### [EAST_&_WEST_PAKISTAN.internal](/_internal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.internal.md) 
+
+### [EAST_&_WEST_PAKISTAN.protect](/_protect/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.protect.md) 
+
+### [EAST_&_WEST_PAKISTAN.private](/_private/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.private.md) 
+
+### [EAST_&_WEST_PAKISTAN.personal](/_personal/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.personal.md) 
+
+### [EAST_&_WEST_PAKISTAN.secret](/_secret/Earth/Continent/Asia/EAST_&_WEST_PAKISTAN.secret.md) 

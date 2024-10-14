@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-class
 #is_/inverse_of  :: [[is_sub_class_of]]   
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sub_classes|has_sub_classes]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sub_classes.public|has_sub_classes.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sub_classes.internal|has_sub_classes.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sub_classes.protect|has_sub_classes.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sub_classes.private|has_sub_classes.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sub_classes.personal|has_sub_classes.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sub_classes.secret|has_sub_classes.secret]] 
+
+### [has_sub_classes](/_public/schema-org/Class/has_sub_classes.md) 
+
+### [has_sub_classes.internal](/_internal/schema-org/Class/has_sub_classes.internal.md) 
+
+### [has_sub_classes.protect](/_protect/schema-org/Class/has_sub_classes.protect.md) 
+
+### [has_sub_classes.private](/_private/schema-org/Class/has_sub_classes.private.md) 
+
+### [has_sub_classes.personal](/_personal/schema-org/Class/has_sub_classes.personal.md) 
+
+### [has_sub_classes.secret](/_secret/schema-org/Class/has_sub_classes.secret.md) 

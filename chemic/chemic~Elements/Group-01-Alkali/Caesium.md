@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21951
@@ -38,10 +38,15 @@ SpocWebEntityId: 21951
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-01-Alkali/Caesium|Caesium]] 
-- [[../../../../_public/chemic/Elements/Group-01-Alkali/Caesium.public|Caesium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Caesium.internal|Caesium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Caesium.protect|Caesium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Caesium.private|Caesium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Caesium.personal|Caesium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Caesium.secret|Caesium.secret]] 
+
+### [Caesium](/_public/chemic/chemic~Elements/Group-01-Alkali/Caesium.md) 
+
+### [Caesium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Caesium.internal.md) 
+
+### [Caesium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Caesium.protect.md) 
+
+### [Caesium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Caesium.private.md) 
+
+### [Caesium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Caesium.personal.md) 
+
+### [Caesium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Caesium.secret.md) 

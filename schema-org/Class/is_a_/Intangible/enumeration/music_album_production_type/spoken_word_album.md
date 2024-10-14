@@ -45,10 +45,15 @@ SpokenWordAlbum.
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album|spoken_word_album]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.public|spoken_word_album.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.internal|spoken_word_album.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.protect|spoken_word_album.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.private|spoken_word_album.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.personal|spoken_word_album.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/spoken_word_album.secret|spoken_word_album.secret]] 
+
+### [spoken_word_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.md) 
+
+### [spoken_word_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.internal.md) 
+
+### [spoken_word_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.protect.md) 
+
+### [spoken_word_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.private.md) 
+
+### [spoken_word_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.personal.md) 
+
+### [spoken_word_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/spoken_word_album.secret.md) 

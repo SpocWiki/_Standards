@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -54,3 +54,17 @@ The geographic area associated with the audience.
 GeographicArea:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place/AdministrativeArea')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Audience](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience.md) 
+
+### [FileClass~Audience.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience.internal.md) 
+
+### [FileClass~Audience.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience.protect.md) 
+
+### [FileClass~Audience.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience.private.md) 
+
+### [FileClass~Audience.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience.personal.md) 
+
+### [FileClass~Audience.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience.secret.md) 

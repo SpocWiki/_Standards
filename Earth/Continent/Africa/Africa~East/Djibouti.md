@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 11.6
 - 43.1667
@@ -151,9 +151,15 @@ Capital :: [[Djibouti]]
 
 
 ## Confidential Links & Embeds: 
-- [[Djibouti|Djibouti]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Djibouti.internal|Djibouti.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Djibouti.protect|Djibouti.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Djibouti.private|Djibouti.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Djibouti.personal|Djibouti.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Djibouti.secret|Djibouti.secret]] 
+
+### [Djibouti](/_public/Earth/Continent/Africa/Africa~East/Djibouti.md) 
+
+### [Djibouti.internal](/_internal/Earth/Continent/Africa/Africa~East/Djibouti.internal.md) 
+
+### [Djibouti.protect](/_protect/Earth/Continent/Africa/Africa~East/Djibouti.protect.md) 
+
+### [Djibouti.private](/_private/Earth/Continent/Africa/Africa~East/Djibouti.private.md) 
+
+### [Djibouti.personal](/_personal/Earth/Continent/Africa/Africa~East/Djibouti.personal.md) 
+
+### [Djibouti.secret](/_secret/Earth/Continent/Africa/Africa~East/Djibouti.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -139,3 +139,17 @@ The type of screening or video broadcast used (e.g. IMAX, 3D, SD, HD, etc.).
 VideoFormat:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BroadcastService](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.md) 
+
+### [FileClass~BroadcastService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.internal.md) 
+
+### [FileClass~BroadcastService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.protect.md) 
+
+### [FileClass~BroadcastService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.private.md) 
+
+### [FileClass~BroadcastService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.personal.md) 
+
+### [FileClass~BroadcastService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.secret.md) 

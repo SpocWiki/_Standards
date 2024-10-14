@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,10 +53,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_fuel_efficiency|has_value_for_fuel_efficiency]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_fuel_efficiency.public|has_value_for_fuel_efficiency.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.internal|has_value_for_fuel_efficiency.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.protect|has_value_for_fuel_efficiency.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.private|has_value_for_fuel_efficiency.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.personal|has_value_for_fuel_efficiency.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_fuel_efficiency.secret|has_value_for_fuel_efficiency.secret]] 
+
+### [has_value_for_fuel_efficiency](/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.md) 
+
+### [has_value_for_fuel_efficiency.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.internal.md) 
+
+### [has_value_for_fuel_efficiency.protect](/_protect/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.protect.md) 
+
+### [has_value_for_fuel_efficiency.private](/_private/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.private.md) 
+
+### [has_value_for_fuel_efficiency.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal.md) 
+
+### [has_value_for_fuel_efficiency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.63 , 134.65 ] 
 type: geo-Region
 title: Ngaraard
@@ -40,11 +40,15 @@ markerFolder: ./Ngaraard/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Ngaraard|Ngaraard]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Ngaraard.public|Ngaraard.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Ngaraard.internal|Ngaraard.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Ngaraard.protect|Ngaraard.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Ngaraard.private|Ngaraard.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Ngaraard.personal|Ngaraard.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Ngaraard.secret|Ngaraard.secret]] 
 
+### [Ngaraard](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.md) 
+
+### [Ngaraard.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.internal.md) 
+
+### [Ngaraard.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.protect.md) 
+
+### [Ngaraard.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.private.md) 
+
+### [Ngaraard.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.personal.md) 
+
+### [Ngaraard.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngaraard.secret.md) 

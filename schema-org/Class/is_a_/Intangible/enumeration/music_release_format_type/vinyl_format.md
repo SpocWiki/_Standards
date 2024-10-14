@@ -45,10 +45,15 @@ VinylFormat.
 [ #is_/enum_of :: [[../MusicReleaseFormatType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format|vinyl_format]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.public|vinyl_format.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.internal|vinyl_format.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.protect|vinyl_format.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.private|vinyl_format.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.personal|vinyl_format.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_release_format_type/vinyl_format.secret|vinyl_format.secret]] 
+
+### [vinyl_format](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.md) 
+
+### [vinyl_format.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.internal.md) 
+
+### [vinyl_format.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.protect.md) 
+
+### [vinyl_format.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.private.md) 
+
+### [vinyl_format.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.personal.md) 
+
+### [vinyl_format.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_release_format_type/vinyl_format.secret.md) 

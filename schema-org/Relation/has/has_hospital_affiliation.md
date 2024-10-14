@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Hospital )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_hospital_affiliation|has_hospital_affiliation]] 
-- [[../../../../../_public/schema-org/Relation/has/has_hospital_affiliation.public|has_hospital_affiliation.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_hospital_affiliation.internal|has_hospital_affiliation.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_hospital_affiliation.protect|has_hospital_affiliation.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_hospital_affiliation.private|has_hospital_affiliation.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_hospital_affiliation.personal|has_hospital_affiliation.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_hospital_affiliation.secret|has_hospital_affiliation.secret]] 
+
+### [has_hospital_affiliation](/_public/schema-org/Relation/has/has_hospital_affiliation.md) 
+
+### [has_hospital_affiliation.internal](/_internal/schema-org/Relation/has/has_hospital_affiliation.internal.md) 
+
+### [has_hospital_affiliation.protect](/_protect/schema-org/Relation/has/has_hospital_affiliation.protect.md) 
+
+### [has_hospital_affiliation.private](/_private/schema-org/Relation/has/has_hospital_affiliation.private.md) 
+
+### [has_hospital_affiliation.personal](/_personal/schema-org/Relation/has/has_hospital_affiliation.personal.md) 
+
+### [has_hospital_affiliation.secret](/_secret/schema-org/Relation/has/has_hospital_affiliation.secret.md) 

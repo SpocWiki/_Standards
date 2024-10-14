@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,3 +53,17 @@ Proficiency needed for this content; expected values: 'Beginner', 'Expert'.
 ProficiencyLevel:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TechArticle](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.md) 
+
+### [FileClass~TechArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.internal.md) 
+
+### [FileClass~TechArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.protect.md) 
+
+### [FileClass~TechArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.private.md) 
+
+### [FileClass~TechArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.personal.md) 
+
+### [FileClass~TechArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle.secret.md) 

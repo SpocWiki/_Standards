@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Formal Predicate:
 (range::DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_observation|has_time_of_observation]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_observation.public|has_time_of_observation.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_observation.internal|has_time_of_observation.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_observation.protect|has_time_of_observation.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_observation.private|has_time_of_observation.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_observation.personal|has_time_of_observation.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_observation.secret|has_time_of_observation.secret]] 
+
+### [has_time_of_observation](/_public/schema-org/Property/has_Date_Time/has_time_of_observation.md) 
+
+### [has_time_of_observation.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_observation.internal.md) 
+
+### [has_time_of_observation.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_observation.protect.md) 
+
+### [has_time_of_observation.private](/_private/schema-org/Property/has_Date_Time/has_time_of_observation.private.md) 
+
+### [has_time_of_observation.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_observation.personal.md) 
+
+### [has_time_of_observation.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_observation.secret.md) 

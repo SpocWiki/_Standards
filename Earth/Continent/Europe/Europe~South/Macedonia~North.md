@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 41.98
     - 21.43
@@ -56,10 +56,15 @@ Capital :: [[./Macedonia~North/Counties/Skopje]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Macedonia~North|Macedonia~North]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Macedonia~North.public|Macedonia~North.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Macedonia~North.internal|Macedonia~North.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Macedonia~North.protect|Macedonia~North.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Macedonia~North.private|Macedonia~North.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Macedonia~North.personal|Macedonia~North.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Macedonia~North.secret|Macedonia~North.secret]] 
+
+### [Macedonia~North](/_public/Earth/Continent/Europe/Europe~South/Macedonia~North.md) 
+
+### [Macedonia~North.internal](/_internal/Earth/Continent/Europe/Europe~South/Macedonia~North.internal.md) 
+
+### [Macedonia~North.protect](/_protect/Earth/Continent/Europe/Europe~South/Macedonia~North.protect.md) 
+
+### [Macedonia~North.private](/_private/Earth/Continent/Europe/Europe~South/Macedonia~North.private.md) 
+
+### [Macedonia~North.personal](/_personal/Earth/Continent/Europe/Europe~South/Macedonia~North.personal.md) 
+
+### [Macedonia~North.secret](/_secret/Earth/Continent/Europe/Europe~South/Macedonia~North.secret.md) 

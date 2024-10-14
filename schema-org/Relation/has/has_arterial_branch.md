@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_arterial_branch|has_arterial_branch]] 
-- [[../../../../../_public/schema-org/Relation/has/has_arterial_branch.public|has_arterial_branch.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_arterial_branch.internal|has_arterial_branch.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_arterial_branch.protect|has_arterial_branch.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_arterial_branch.private|has_arterial_branch.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_arterial_branch.personal|has_arterial_branch.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_arterial_branch.secret|has_arterial_branch.secret]] 
+
+### [has_arterial_branch](/_public/schema-org/Relation/has/has_arterial_branch.md) 
+
+### [has_arterial_branch.internal](/_internal/schema-org/Relation/has/has_arterial_branch.internal.md) 
+
+### [has_arterial_branch.protect](/_protect/schema-org/Relation/has/has_arterial_branch.protect.md) 
+
+### [has_arterial_branch.private](/_private/schema-org/Relation/has/has_arterial_branch.private.md) 
+
+### [has_arterial_branch.personal](/_personal/schema-org/Relation/has/has_arterial_branch.personal.md) 
+
+### [has_arterial_branch.secret](/_secret/schema-org/Relation/has/has_arterial_branch.secret.md) 

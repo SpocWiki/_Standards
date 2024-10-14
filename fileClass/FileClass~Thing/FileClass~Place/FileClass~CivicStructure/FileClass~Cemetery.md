@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A graveyard.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Cemetery](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.md) 
+
+### [FileClass~Cemetery.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.internal.md) 
+
+### [FileClass~Cemetery.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.protect.md) 
+
+### [FileClass~Cemetery.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.private.md) 
+
+### [FileClass~Cemetery.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.personal.md) 
+
+### [FileClass~Cemetery.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Cemetery.secret.md) 

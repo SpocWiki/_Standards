@@ -49,10 +49,15 @@ for background on the underlying concepts.
 [ #has_/properties :: [ acceptedPaymentMethod, addOn, additionalType, advanceBookingRequirement, aggregateRating, alternateName, areaServed, asin, availability, availabilityEnds, availabilityStarts, availableAtOrFrom, availableDeliveryMethod, businessFunction, category, checkoutPageURLTemplate, deliveryLeadTime, description, disambiguatingDescription, eligibleCustomerType, eligibleDuration, eligibleQuantity, eligibleRegion, eligibleTransactionVolume, gtin, gtin12, gtin13, gtin14, gtin8, hasAdultConsideration, hasMeasurement, hasMerchantReturnPolicy, identifier, image, includesObject, ineligibleRegion, inventoryLevel, isFamilyFriendly, itemCondition, itemOffered, leaseLength, mainEntityOfPage, mobileUrl, mpn, name, offeredBy, potentialAction, price, priceCurrency, priceSpecification, priceValidUntil, review, reviews, sameAs, seller, serialNumber, shippingDetails, sku, subjectOf, url, validFrom, validThrough, warranty ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/offer/offer_for_lease|offer_for_lease]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/offer/offer_for_lease.public|offer_for_lease.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/offer/offer_for_lease.internal|offer_for_lease.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/offer/offer_for_lease.protect|offer_for_lease.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/offer/offer_for_lease.private|offer_for_lease.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/offer/offer_for_lease.personal|offer_for_lease.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/offer/offer_for_lease.secret|offer_for_lease.secret]] 
+
+### [offer_for_lease](/_public/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.md) 
+
+### [offer_for_lease.internal](/_internal/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.internal.md) 
+
+### [offer_for_lease.protect](/_protect/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.protect.md) 
+
+### [offer_for_lease.private](/_private/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.private.md) 
+
+### [offer_for_lease.personal](/_personal/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.personal.md) 
+
+### [offer_for_lease.secret](/_secret/schema-org/Class/is_a_/Intangible/offer/offer_for_lease.secret.md) 

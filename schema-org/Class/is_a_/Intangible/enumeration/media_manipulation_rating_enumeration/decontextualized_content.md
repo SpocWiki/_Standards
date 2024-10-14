@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -64,10 +64,15 @@ For example, using incorrect dates or locations, or sharing brief clips from a l
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content|decontextualized_content]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.public|decontextualized_content.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.internal|decontextualized_content.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.protect|decontextualized_content.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.private|decontextualized_content.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.personal|decontextualized_content.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.secret|decontextualized_content.secret]] 
+
+### [decontextualized_content](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.md) 
+
+### [decontextualized_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.internal.md) 
+
+### [decontextualized_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.protect.md) 
+
+### [decontextualized_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.private.md) 
+
+### [decontextualized_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.personal.md) 
+
+### [decontextualized_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/decontextualized_content.secret.md) 

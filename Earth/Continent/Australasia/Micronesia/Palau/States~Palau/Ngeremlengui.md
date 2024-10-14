@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.53 , 134.56 ] 
 type: geo-Region
 title: Ngeremlengui
@@ -40,11 +40,15 @@ markerFolder: ./Ngeremlengui/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Ngeremlengui|Ngeremlengui]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Ngeremlengui.public|Ngeremlengui.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Ngeremlengui.internal|Ngeremlengui.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Ngeremlengui.protect|Ngeremlengui.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Ngeremlengui.private|Ngeremlengui.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Ngeremlengui.personal|Ngeremlengui.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Ngeremlengui.secret|Ngeremlengui.secret]] 
 
+### [Ngeremlengui](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.md) 
+
+### [Ngeremlengui.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.internal.md) 
+
+### [Ngeremlengui.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.protect.md) 
+
+### [Ngeremlengui.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.private.md) 
+
+### [Ngeremlengui.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.personal.md) 
+
+### [Ngeremlengui.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -54,3 +54,17 @@ A [[CategoryCodeSet]] that contains this category code.
 InCodeSet:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork/DefinedTermSet/CategoryCodeSet')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CategoryCode](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode.md) 
+
+### [FileClass~CategoryCode.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode.internal.md) 
+
+### [FileClass~CategoryCode.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode.protect.md) 
+
+### [FileClass~CategoryCode.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode.private.md) 
+
+### [FileClass~CategoryCode.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode.personal.md) 
+
+### [FileClass~CategoryCode.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode.secret.md) 

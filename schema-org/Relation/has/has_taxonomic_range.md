@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Taxon, Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_taxonomic_range|has_taxonomic_range]] 
-- [[../../../../../_public/schema-org/Relation/has/has_taxonomic_range.public|has_taxonomic_range.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_taxonomic_range.internal|has_taxonomic_range.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_taxonomic_range.protect|has_taxonomic_range.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_taxonomic_range.private|has_taxonomic_range.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_taxonomic_range.personal|has_taxonomic_range.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_taxonomic_range.secret|has_taxonomic_range.secret]] 
+
+### [has_taxonomic_range](/_public/schema-org/Relation/has/has_taxonomic_range.md) 
+
+### [has_taxonomic_range.internal](/_internal/schema-org/Relation/has/has_taxonomic_range.internal.md) 
+
+### [has_taxonomic_range.protect](/_protect/schema-org/Relation/has/has_taxonomic_range.protect.md) 
+
+### [has_taxonomic_range.private](/_private/schema-org/Relation/has/has_taxonomic_range.private.md) 
+
+### [has_taxonomic_range.personal](/_personal/schema-org/Relation/has/has_taxonomic_range.personal.md) 
+
+### [has_taxonomic_range.secret](/_secret/schema-org/Relation/has/has_taxonomic_range.secret.md) 

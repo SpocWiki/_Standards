@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalEntity, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_functional_class|has_functional_class]] 
-- [[../../../../../_public/schema-org/Relation/has/has_functional_class.public|has_functional_class.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_functional_class.internal|has_functional_class.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_functional_class.protect|has_functional_class.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_functional_class.private|has_functional_class.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_functional_class.personal|has_functional_class.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_functional_class.secret|has_functional_class.secret]] 
+
+### [has_functional_class](/_public/schema-org/Relation/has/has_functional_class.md) 
+
+### [has_functional_class.internal](/_internal/schema-org/Relation/has/has_functional_class.internal.md) 
+
+### [has_functional_class.protect](/_protect/schema-org/Relation/has/has_functional_class.protect.md) 
+
+### [has_functional_class.private](/_private/schema-org/Relation/has/has_functional_class.private.md) 
+
+### [has_functional_class.personal](/_personal/schema-org/Relation/has/has_functional_class.personal.md) 
+
+### [has_functional_class.secret](/_secret/schema-org/Relation/has/has_functional_class.secret.md) 

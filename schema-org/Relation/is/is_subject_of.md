@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: [is_about](../is/is_about.md) ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_subject_of|is_subject_of]] 
-- [[../../../../../_public/schema-org/Relation/has/is_subject_of.public|is_subject_of.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_subject_of.internal|is_subject_of.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_subject_of.protect|is_subject_of.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_subject_of.private|is_subject_of.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_subject_of.personal|is_subject_of.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_subject_of.secret|is_subject_of.secret]] 
+
+### [is_subject_of](/_public/schema-org/Relation/is/is_subject_of.md) 
+
+### [is_subject_of.internal](/_internal/schema-org/Relation/is/is_subject_of.internal.md) 
+
+### [is_subject_of.protect](/_protect/schema-org/Relation/is/is_subject_of.protect.md) 
+
+### [is_subject_of.private](/_private/schema-org/Relation/is/is_subject_of.private.md) 
+
+### [is_subject_of.personal](/_personal/schema-org/Relation/is/is_subject_of.personal.md) 
+
+### [is_subject_of.secret](/_secret/schema-org/Relation/is/is_subject_of.secret.md) 

@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~1~Cambrian]] 
 
 #is_a_/time_/Period 
@@ -56,3 +56,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~1~Cambrian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.md) 
+
+### [Period~1~Cambrian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.internal.md) 
+
+### [Period~1~Cambrian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.protect.md) 
+
+### [Period~1~Cambrian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.private.md) 
+
+### [Period~1~Cambrian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.personal.md) 
+
+### [Period~1~Cambrian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian.secret.md) 

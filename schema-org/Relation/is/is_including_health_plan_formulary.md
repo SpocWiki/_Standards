@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: HealthPlanFormulary)
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_including_health_plan_formulary|is_including_health_plan_formulary]] 
-- [[../../../../../_public/schema-org/Relation/is/is_including_health_plan_formulary.public|is_including_health_plan_formulary.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_including_health_plan_formulary.internal|is_including_health_plan_formulary.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_including_health_plan_formulary.protect|is_including_health_plan_formulary.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_including_health_plan_formulary.private|is_including_health_plan_formulary.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_including_health_plan_formulary.personal|is_including_health_plan_formulary.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_including_health_plan_formulary.secret|is_including_health_plan_formulary.secret]] 
+
+### [is_including_health_plan_formulary](/_public/schema-org/Relation/is/is_including_health_plan_formulary.md) 
+
+### [is_including_health_plan_formulary.internal](/_internal/schema-org/Relation/is/is_including_health_plan_formulary.internal.md) 
+
+### [is_including_health_plan_formulary.protect](/_protect/schema-org/Relation/is/is_including_health_plan_formulary.protect.md) 
+
+### [is_including_health_plan_formulary.private](/_private/schema-org/Relation/is/is_including_health_plan_formulary.private.md) 
+
+### [is_including_health_plan_formulary.personal](/_personal/schema-org/Relation/is/is_including_health_plan_formulary.personal.md) 
+
+### [is_including_health_plan_formulary.secret](/_secret/schema-org/Relation/is/is_including_health_plan_formulary.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ but these are too granular and create unnecessary Redundancy.
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_that_overlaps|has_location_that_overlaps]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_that_overlaps.public|has_location_that_overlaps.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_that_overlaps.internal|has_location_that_overlaps.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_that_overlaps.protect|has_location_that_overlaps.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_that_overlaps.private|has_location_that_overlaps.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_that_overlaps.personal|has_location_that_overlaps.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_that_overlaps.secret|has_location_that_overlaps.secret]] 
+
+### [has_location_that_overlaps_with](/_public/schema-org/Property/has_location/has_location_that_overlaps_with.md) 
+
+### [has_location_that_overlaps_with.internal](/_internal/schema-org/Property/has_location/has_location_that_overlaps_with.internal.md) 
+
+### [has_location_that_overlaps_with.protect](/_protect/schema-org/Property/has_location/has_location_that_overlaps_with.protect.md) 
+
+### [has_location_that_overlaps_with.private](/_private/schema-org/Property/has_location/has_location_that_overlaps_with.private.md) 
+
+### [has_location_that_overlaps_with.personal](/_personal/schema-org/Property/has_location/has_location_that_overlaps_with.personal.md) 
+
+### [has_location_that_overlaps_with.secret](/_secret/schema-org/Property/has_location/has_location_that_overlaps_with.secret.md) 

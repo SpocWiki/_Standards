@@ -45,10 +45,15 @@ A designation by the US FDA signifying that there is positive evidence of human 
 [ #is_/enum_of :: [[../DrugPregnancyCategory]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d|fd_acategory_d]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.public|fd_acategory_d.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.internal|fd_acategory_d.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.protect|fd_acategory_d.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.private|fd_acategory_d.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.personal|fd_acategory_d.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.secret|fd_acategory_d.secret]] 
+
+### [fd_acategory_d](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.md) 
+
+### [fd_acategory_d.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.internal.md) 
+
+### [fd_acategory_d.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.protect.md) 
+
+### [fd_acategory_d.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.private.md) 
+
+### [fd_acategory_d.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.personal.md) 
+
+### [fd_acategory_d.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_pregnancy_category/fd_acategory_d.secret.md) 

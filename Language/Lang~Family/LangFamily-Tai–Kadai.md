@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Tai–Kadai|LangFamily-Tai–Kadai]] 
-- [[../../../_public/lang/Family/LangFamily-Tai–Kadai.public|LangFamily-Tai–Kadai.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Tai–Kadai.internal|LangFamily-Tai–Kadai.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Tai–Kadai.protect|LangFamily-Tai–Kadai.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Tai–Kadai.private|LangFamily-Tai–Kadai.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Tai–Kadai.personal|LangFamily-Tai–Kadai.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Tai–Kadai.secret|LangFamily-Tai–Kadai.secret]] 
+
+### [LangFamily-Tai–Kadai](/_public/Language/Lang~Family/LangFamily-Tai–Kadai.md) 
+
+### [LangFamily-Tai–Kadai.internal](/_internal/Language/Lang~Family/LangFamily-Tai–Kadai.internal.md) 
+
+### [LangFamily-Tai–Kadai.protect](/_protect/Language/Lang~Family/LangFamily-Tai–Kadai.protect.md) 
+
+### [LangFamily-Tai–Kadai.private](/_private/Language/Lang~Family/LangFamily-Tai–Kadai.private.md) 
+
+### [LangFamily-Tai–Kadai.personal](/_personal/Language/Lang~Family/LangFamily-Tai–Kadai.personal.md) 
+
+### [LangFamily-Tai–Kadai.secret](/_secret/Language/Lang~Family/LangFamily-Tai–Kadai.secret.md) 

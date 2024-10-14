@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Quantity: Duration (use <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO 8601
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity/duration|duration]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/quantity/duration.public|duration.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/quantity/duration.internal|duration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/quantity/duration.protect|duration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/quantity/duration.private|duration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/quantity/duration.personal|duration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/quantity/duration.secret|duration.secret]] 
+
+### [duration](/_public/schema-org/Predicate/Quantity/duration.md) 
+
+### [duration.internal](/_internal/schema-org/Predicate/Quantity/duration.internal.md) 
+
+### [duration.protect](/_protect/schema-org/Predicate/Quantity/duration.protect.md) 
+
+### [duration.private](/_private/schema-org/Predicate/Quantity/duration.private.md) 
+
+### [duration.personal](/_personal/schema-org/Predicate/Quantity/duration.personal.md) 
+
+### [duration.secret](/_secret/schema-org/Predicate/Quantity/duration.secret.md) 

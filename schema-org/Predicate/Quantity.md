@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -74,10 +74,15 @@ Tag Instances like this:
 #is_a_/quantity
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity|quantity]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/quantity.public|quantity.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/quantity.internal|quantity.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/quantity.protect|quantity.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/quantity.private|quantity.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/quantity.personal|quantity.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/quantity.secret|quantity.secret]] 
+
+### [Quantity](/_public/schema-org/Predicate/Quantity.md) 
+
+### [Quantity.internal](/_internal/schema-org/Predicate/Quantity.internal.md) 
+
+### [Quantity.protect](/_protect/schema-org/Predicate/Quantity.protect.md) 
+
+### [Quantity.private](/_private/schema-org/Predicate/Quantity.private.md) 
+
+### [Quantity.personal](/_personal/schema-org/Predicate/Quantity.personal.md) 
+
+### [Quantity.secret](/_secret/schema-org/Predicate/Quantity.secret.md) 

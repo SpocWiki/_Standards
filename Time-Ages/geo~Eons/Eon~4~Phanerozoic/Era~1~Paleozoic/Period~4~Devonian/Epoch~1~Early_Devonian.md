@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:LowerDevonian
 ---
@@ -59,3 +59,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~1~Early_Devonian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian.md) 
+
+### [Epoch~1~Early_Devonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian.internal.md) 
+
+### [Epoch~1~Early_Devonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian.protect.md) 
+
+### [Epoch~1~Early_Devonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian.private.md) 
+
+### [Epoch~1~Early_Devonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian.personal.md) 
+
+### [Epoch~1~Early_Devonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian.secret.md) 

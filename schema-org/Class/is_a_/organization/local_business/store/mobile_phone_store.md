@@ -43,10 +43,15 @@ A store that sells mobile phones and related accessories.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/store/mobile_phone_store|mobile_phone_store]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/store/mobile_phone_store.public|mobile_phone_store.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.internal|mobile_phone_store.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.protect|mobile_phone_store.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.private|mobile_phone_store.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.personal|mobile_phone_store.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/store/mobile_phone_store.secret|mobile_phone_store.secret]] 
+
+### [mobile_phone_store](/_public/schema-org/Class/is_a_/organization/local_business/store/mobile_phone_store.md) 
+
+### [mobile_phone_store.internal](/_internal/schema-org/Class/is_a_/organization/local_business/store/mobile_phone_store.internal.md) 
+
+### [mobile_phone_store.protect](/_protect/schema-org/Class/is_a_/organization/local_business/store/mobile_phone_store.protect.md) 
+
+### [mobile_phone_store.private](/_private/schema-org/Class/is_a_/organization/local_business/store/mobile_phone_store.private.md) 
+
+### [mobile_phone_store.personal](/_personal/schema-org/Class/is_a_/organization/local_business/store/mobile_phone_store.personal.md) 
+
+### [mobile_phone_store.secret](/_secret/schema-org/Class/is_a_/organization/local_business/store/mobile_phone_store.secret.md) 

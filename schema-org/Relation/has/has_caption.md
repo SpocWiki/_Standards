@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ embeddedTextCaption ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_caption|has_caption]] 
-- [[../../../../../_public/schema-org/Relation/has/has_caption.public|has_caption.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_caption.internal|has_caption.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_caption.protect|has_caption.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_caption.private|has_caption.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_caption.personal|has_caption.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_caption.secret|has_caption.secret]] 
+
+### [has_caption](/_public/schema-org/Relation/has/has_caption.md) 
+
+### [has_caption.internal](/_internal/schema-org/Relation/has/has_caption.internal.md) 
+
+### [has_caption.protect](/_protect/schema-org/Relation/has/has_caption.protect.md) 
+
+### [has_caption.private](/_private/schema-org/Relation/has/has_caption.private.md) 
+
+### [has_caption.personal](/_personal/schema-org/Relation/has/has_caption.personal.md) 
+
+### [has_caption.secret](/_secret/schema-org/Relation/has/has_caption.secret.md) 

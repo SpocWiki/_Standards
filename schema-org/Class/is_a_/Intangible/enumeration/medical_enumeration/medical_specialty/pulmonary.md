@@ -45,10 +45,15 @@ A specific branch of medical science that pertains to the study of the respirato
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary|pulmonary]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.public|pulmonary.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.internal|pulmonary.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.protect|pulmonary.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.private|pulmonary.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.personal|pulmonary.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.secret|pulmonary.secret]] 
+
+### [pulmonary](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.md) 
+
+### [pulmonary.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.internal.md) 
+
+### [pulmonary.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.protect.md) 
+
+### [pulmonary.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.private.md) 
+
+### [pulmonary.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.personal.md) 
+
+### [pulmonary.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_specialty/pulmonary.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_cooking_method|has_cooking_method]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_cooking_method.public|has_cooking_method.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_cooking_method.internal|has_cooking_method.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_cooking_method.protect|has_cooking_method.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_cooking_method.private|has_cooking_method.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_cooking_method.personal|has_cooking_method.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_cooking_method.secret|has_cooking_method.secret]] 
+
+### [has_cooking_method](/_public/schema-org/Property/Texts/has_cooking_method.md) 
+
+### [has_cooking_method.internal](/_internal/schema-org/Property/Texts/has_cooking_method.internal.md) 
+
+### [has_cooking_method.protect](/_protect/schema-org/Property/Texts/has_cooking_method.protect.md) 
+
+### [has_cooking_method.private](/_private/schema-org/Property/Texts/has_cooking_method.private.md) 
+
+### [has_cooking_method.personal](/_personal/schema-org/Property/Texts/has_cooking_method.personal.md) 
+
+### [has_cooking_method.secret](/_secret/schema-org/Property/Texts/has_cooking_method.secret.md) 

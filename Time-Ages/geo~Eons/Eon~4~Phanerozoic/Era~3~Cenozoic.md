@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:Cenozoic
 ---
@@ -62,3 +62,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Era~3~Cenozoic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.md) 
+
+### [Era~3~Cenozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.internal.md) 
+
+### [Era~3~Cenozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.protect.md) 
+
+### [Era~3~Cenozoic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.private.md) 
+
+### [Era~3~Cenozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.personal.md) 
+
+### [Era~3~Cenozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.secret.md) 

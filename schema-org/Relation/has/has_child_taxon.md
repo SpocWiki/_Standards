@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/inverse_of  :: parentTaxon ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_child_taxon|has_child_taxon]] 
-- [[../../../../../_public/schema-org/Relation/has/has_child_taxon.public|has_child_taxon.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_child_taxon.internal|has_child_taxon.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_child_taxon.protect|has_child_taxon.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_child_taxon.private|has_child_taxon.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_child_taxon.personal|has_child_taxon.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_child_taxon.secret|has_child_taxon.secret]] 
+
+### [has_child_taxon](/_public/schema-org/Relation/has/has_child_taxon.md) 
+
+### [has_child_taxon.internal](/_internal/schema-org/Relation/has/has_child_taxon.internal.md) 
+
+### [has_child_taxon.protect](/_protect/schema-org/Relation/has/has_child_taxon.protect.md) 
+
+### [has_child_taxon.private](/_private/schema-org/Relation/has/has_child_taxon.private.md) 
+
+### [has_child_taxon.personal](/_personal/schema-org/Relation/has/has_child_taxon.personal.md) 
+
+### [has_child_taxon.secret](/_secret/schema-org/Relation/has/has_child_taxon.secret.md) 

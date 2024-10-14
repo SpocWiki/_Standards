@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Dravidian|LangFamily-Dravidian]] 
-- [[../../../_public/lang/Family/LangFamily-Dravidian.public|LangFamily-Dravidian.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Dravidian.internal|LangFamily-Dravidian.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Dravidian.protect|LangFamily-Dravidian.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Dravidian.private|LangFamily-Dravidian.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Dravidian.personal|LangFamily-Dravidian.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Dravidian.secret|LangFamily-Dravidian.secret]] 
+
+### [LangFamily-Dravidian](/_public/Language/Lang~Family/LangFamily-Dravidian.md) 
+
+### [LangFamily-Dravidian.internal](/_internal/Language/Lang~Family/LangFamily-Dravidian.internal.md) 
+
+### [LangFamily-Dravidian.protect](/_protect/Language/Lang~Family/LangFamily-Dravidian.protect.md) 
+
+### [LangFamily-Dravidian.private](/_private/Language/Lang~Family/LangFamily-Dravidian.private.md) 
+
+### [LangFamily-Dravidian.personal](/_personal/Language/Lang~Family/LangFamily-Dravidian.personal.md) 
+
+### [LangFamily-Dravidian.secret](/_secret/Language/Lang~Family/LangFamily-Dravidian.secret.md) 

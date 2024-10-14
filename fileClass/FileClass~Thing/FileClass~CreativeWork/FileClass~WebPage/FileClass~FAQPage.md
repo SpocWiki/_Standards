@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A [[FAQPage]] is a [[WebPage]] presenting one or more "[Frequently asked questio
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~FAQPage](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.md) 
+
+### [FileClass~FAQPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.internal.md) 
+
+### [FileClass~FAQPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.protect.md) 
+
+### [FileClass~FAQPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.private.md) 
+
+### [FileClass~FAQPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.personal.md) 
+
+### [FileClass~FAQPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.secret.md) 

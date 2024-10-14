@@ -45,10 +45,15 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 [ #has_/properties :: [ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/place/accommodation/room/meeting_room|meeting_room]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/place/accommodation/room/meeting_room.public|meeting_room.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/room/meeting_room.internal|meeting_room.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/room/meeting_room.protect|meeting_room.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/place/accommodation/room/meeting_room.private|meeting_room.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/room/meeting_room.personal|meeting_room.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/room/meeting_room.secret|meeting_room.secret]] 
+
+### [meeting_room](/_public/schema-org/Class/is_a_/place/accommodation/room/meeting_room.md) 
+
+### [meeting_room.internal](/_internal/schema-org/Class/is_a_/place/accommodation/room/meeting_room.internal.md) 
+
+### [meeting_room.protect](/_protect/schema-org/Class/is_a_/place/accommodation/room/meeting_room.protect.md) 
+
+### [meeting_room.private](/_private/schema-org/Class/is_a_/place/accommodation/room/meeting_room.private.md) 
+
+### [meeting_room.personal](/_personal/schema-org/Class/is_a_/place/accommodation/room/meeting_room.personal.md) 
+
+### [meeting_room.secret](/_secret/schema-org/Class/is_a_/place/accommodation/room/meeting_room.secret.md) 

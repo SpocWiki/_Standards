@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 50.45
     - 30.5
@@ -144,10 +144,15 @@ Capital :: [[Kiew]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~East/Ukraine|Ukraine]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~East/Ukraine.public|Ukraine.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~East/Ukraine.internal|Ukraine.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~East/Ukraine.protect|Ukraine.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~East/Ukraine.private|Ukraine.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~East/Ukraine.personal|Ukraine.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~East/Ukraine.secret|Ukraine.secret]] 
+
+### [Ukraine](/_public/Earth/Continent/Europe/Europe~East/Ukraine.md) 
+
+### [Ukraine.internal](/_internal/Earth/Continent/Europe/Europe~East/Ukraine.internal.md) 
+
+### [Ukraine.protect](/_protect/Earth/Continent/Europe/Europe~East/Ukraine.protect.md) 
+
+### [Ukraine.private](/_private/Earth/Continent/Europe/Europe~East/Ukraine.private.md) 
+
+### [Ukraine.personal](/_personal/Earth/Continent/Europe/Europe~East/Ukraine.personal.md) 
+
+### [Ukraine.secret](/_secret/Earth/Continent/Europe/Europe~East/Ukraine.secret.md) 

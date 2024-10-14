@@ -1,4 +1,4 @@
-
+﻿
 # [[Unit~Kelvin]] 
 
 #is_an_ :: [[../SI-Unit]] 
@@ -28,3 +28,17 @@ The kelvin is the primary unit of temperature for engineering and the physical s
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kelvin)
 
+
+## Confidential Links & Embeds: 
+
+### [Unit~Kelvin](/_public/Unit/SI-Unit/Unit~Kelvin.md) 
+
+### [Unit~Kelvin.internal](/_internal/Unit/SI-Unit/Unit~Kelvin.internal.md) 
+
+### [Unit~Kelvin.protect](/_protect/Unit/SI-Unit/Unit~Kelvin.protect.md) 
+
+### [Unit~Kelvin.private](/_private/Unit/SI-Unit/Unit~Kelvin.private.md) 
+
+### [Unit~Kelvin.personal](/_personal/Unit/SI-Unit/Unit~Kelvin.personal.md) 
+
+### [Unit~Kelvin.secret](/_secret/Unit/SI-Unit/Unit~Kelvin.secret.md) 

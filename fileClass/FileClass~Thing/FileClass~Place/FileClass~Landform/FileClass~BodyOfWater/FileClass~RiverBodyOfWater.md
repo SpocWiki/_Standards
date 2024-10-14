@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A river (for example, the broad majestic Shannon).
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~RiverBodyOfWater](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.md) 
+
+### [FileClass~RiverBodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.internal.md) 
+
+### [FileClass~RiverBodyOfWater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.protect.md) 
+
+### [FileClass~RiverBodyOfWater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.private.md) 
+
+### [FileClass~RiverBodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.personal.md) 
+
+### [FileClass~RiverBodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.secret.md) 

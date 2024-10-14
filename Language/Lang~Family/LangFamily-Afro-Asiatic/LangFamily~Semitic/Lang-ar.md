@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Arabic
@@ -35,11 +35,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-ar|Lang-ar]] 
-- [[../../_public/lang/Lang-ar.public|Lang-ar.public]] 
-- [[../../../../../_internal/lang/Lang-ar.internal|Lang-ar.internal]] 
-- [[../../_protect/lang/Lang-ar.protect|Lang-ar.protect]] 
-- [[../../_private/lang/Lang-ar.private|Lang-ar.private]] 
-- [[../../_personal/lang/Lang-ar.personal|Lang-ar.personal]] 
-- [[../../_secret/lang/Lang-ar.secret|Lang-ar.secret]]
 
+### [Lang-ar](/_public/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.md) 
+
+### [Lang-ar.internal](/_internal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.internal.md) 
+
+### [Lang-ar.protect](/_protect/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.protect.md) 
+
+### [Lang-ar.private](/_private/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.private.md) 
+
+### [Lang-ar.personal](/_personal/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.personal.md) 
+
+### [Lang-ar.secret](/_secret/Language/Lang~Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/Lang-ar.secret.md) 
