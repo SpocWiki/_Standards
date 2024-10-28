@@ -1,3 +1,31 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - Type
+publish: true
+type: Type
+title: is_a_city Class
+linkTitle: is_a_city Class
+keywords:
+  - city
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+aliases:
+  - city
+  - city
+  - City
+  - is_a_city
+  - dbo:City
+  - schema:City
+---
 ﻿---
 license: CC BY-SA 4.0
 confidential: public

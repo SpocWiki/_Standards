@@ -25,6 +25,8 @@ aliases:
   - name_en
   - has_name
   - http://dbpedia.org/resource/Name
+  - schema:name
+  - dbo:name
 ---
 
 Predicate to describe the Name of a Thing.

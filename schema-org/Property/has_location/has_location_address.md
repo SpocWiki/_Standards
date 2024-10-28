@@ -22,6 +22,8 @@ aliases:
   - address
   - has_location_address
   - schema:address
+  - dbo:address
+  - wdt:P6375
 ---
 
 Predicate to describe the geo of [[geo_coordinates]], [[Geo_Shape]], [[Organization]], [[Person]], [[Place]].

@@ -3,32 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_text_of_genre
 linkTitle: has_text_of_genre
-
-keywords: [genre]
+keywords:
+  - genre
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- genre
-- genre
-- genre
-- has_text_of_genre
+  - genre
+  - genre
+  - genre
+  - has_text_of_genre
+  - schema:genre
+  - dbo:genre
+  - wdt:P136
 ---
 
 Predicate to describe the Text of BroadcastChannel, CreativeWork, MusicGroup.

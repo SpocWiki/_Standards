@@ -3,26 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-cssclasses: Type
+cssclasses:
+  - Type
 publish: true
 type: Type
 title: is_an_event Class
 linkTitle: is_an_event Class
 keywords:
-    - event
-layout: null
+  - event
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
-equivalent_class: 'http://purl.org/dc/dcmitype/Event'
+publishDate: 
+expiryDate: 
+equivalent_class: http://purl.org/dc/dcmitype/Event
 tags:
-    - class/Class
-    - schema-org/Class
+  - class/Class
+  - schema-org/Class
 aliases:
-    - event
-    - event
-    - Event
-    - is_an_event
+  - event
+  - event
+  - Event
+  - is_an_event
+  - dbo:Event
+  - schema:Event
 icon: fas_bolt_lightning
 ---
 

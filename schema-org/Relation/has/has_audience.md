@@ -3,33 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_audience
-
 linkTitle: has_audience
-keywords: [audience]
+keywords:
+  - audience
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: serviceAudience
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- audience
-- audience
-- audience
-- has_audience
+  - audience
+  - has_audience
+  - schema:audience
+  - dbo:audience
+  - wdt:P2360
 ---
 
 Use it like this: 

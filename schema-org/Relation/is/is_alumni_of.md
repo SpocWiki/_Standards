@@ -3,31 +3,31 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: is_alumni_of
-
 linkTitle: is_alumni_of
-keywords: [alumni, of]
+keywords:
+  - alumni
+  - of
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- alumni-of
-- alumni_of
-- alumniOf
-- is_alumni_of
+  - alumni-of
+  - alumni_of
+  - alumniOf
+  - is_alumni_of
+  - schema:alumniOf
+  - dbo:almaMater
+  - wdt:P69
 ---
 
 Use it like this: 

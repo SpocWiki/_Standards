@@ -3,31 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_author
-
 linkTitle: has_author
-keywords: [author]
+keywords:
+  - author
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- author
-- author
-- author
-- has_author
+  - author
+  - author
+  - author
+  - has_author
+  - schema:author
+  - dbo:author
+  - wdt:P50
 ---
 
 Use it like this: 

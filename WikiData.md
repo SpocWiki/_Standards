@@ -5,6 +5,17 @@ To this purpose configure the [obsidian-wikidata-importer](https://github.com/sa
 so they point to this directory.
 
 WikiData has Entries: 110e6 
+These Entries are edited directly in the Database, but most is imported from other Sources. 
+
+#is_/similar_to :: [[../Data/Wikipedia/DbPedia|DbPedia]]  
+#is_/different_from :: [[DbPedia]]
+DbPedia reads and writes the Infoboxes of the Wikipedia. 
+
+
+#has_/url :: https://www.wikidata.org/entity/ 
+#has_/url_/prefix :: wd 
+
+
 Wikipedia has: 6.8e6 Articles 5.5% of which are Orphans and ca. 7000 are Dead Ends. 
 The average Distance between 2 random Nodes (ignoring Orphans & Dead Ends) is 4.8 Links. 
 92% = 5.85e6 Articles can be reached in 10 Links, the rest are Orphans, Orphan-Groups & Dead Ends. 

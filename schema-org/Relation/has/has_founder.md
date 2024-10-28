@@ -3,33 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_founder
-
 linkTitle: has_founder
-keywords: [founder]
+keywords:
+  - founder
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: founders
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- founder
-- founder
-- founder
-- has_founder
+  - founder
+  - has_founder
+  - schema:founder
+  - dbo:founder
+  - wdt:P112
 ---
 
 A person who founded this organization.

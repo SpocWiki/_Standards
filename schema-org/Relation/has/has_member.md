@@ -26,6 +26,9 @@ aliases:
   - member
   - has_member
   - has_music_group_member
+  - schema:member
+  - dbo:member
+  - P527
 ---
 
 Use it like this: 

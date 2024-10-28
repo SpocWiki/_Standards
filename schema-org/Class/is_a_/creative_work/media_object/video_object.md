@@ -1,3 +1,31 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - Type
+publish: true
+type: Type
+title: is_a_video_object Class
+linkTitle: is_a_video_object Class
+keywords:
+  - video_object
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+aliases:
+  - video-object
+  - video_object
+  - VideoObject
+  - is_a_video_object
+  - schema:VideoObject
+  - dbo:Video
+---
 ﻿---
 license: CC BY-SA 4.0
 confidential: public

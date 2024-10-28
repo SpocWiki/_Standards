@@ -3,32 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
+cssclasses:
+  - Predicate
+  - Url
 publish: true
-
-# Hugo Tags
 type: Predi_Url
-
 title: has_url_for_thumbnail_url
 linkTitle: has_url_for_thumbnail_url
-
-keywords: [thumbnail_url]
+keywords:
+  - thumbnail_url
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Url
-
+  - class/Property
+  - schema-org/Property/Url
 aliases:
-- thumbnail-url
-- thumbnail_url
-- thumbnailUrl
-- has_url_for_thumbnail_url
+  - thumbnail-url
+  - thumbnail_url
+  - thumbnailUrl
+  - has_url_for_thumbnail_url
+  - schema:thumbnailUrl
+  - dbo:thumbnail
+  - wdt:P18
 ---
 
 Predicate to specify the Url of CreativeWork.

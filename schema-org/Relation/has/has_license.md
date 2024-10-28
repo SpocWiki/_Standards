@@ -3,31 +3,28 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_license
-
 linkTitle: has_license
-keywords: [license]
+keywords:
+  - license
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- license
-- license
-- license
-- has_license
+  - license
+  - has_license
+  - schema:license
+  - dbo:license
+  - wdt:P275
 ---
 
 Use it like this: 

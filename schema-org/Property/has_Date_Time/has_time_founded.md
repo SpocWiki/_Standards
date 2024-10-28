@@ -3,31 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
+cssclasses:
+  - Predicate
+  - Date_Time
 publish: true
-
-# Hugo Tags
 type: Predi_Date_Time
 title: has_time_of_founding
-
 linkTitle: 
 keywords: 
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Date
-
+  - class/Property
+  - schema-org/Property/Date
 aliases:
-- founding-date
-- founding_date
-- foundingDate
-- has_time_of_founding
+  - founding-date
+  - founding_date
+  - foundingDate
+  - has_time_of_founding
+  - schema:founded
+  - dbo:foundingDate
+  - wdt:P571
 ---
 
 Predicate to describe the date of Organization.

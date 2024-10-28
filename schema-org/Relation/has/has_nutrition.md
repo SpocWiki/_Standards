@@ -3,31 +3,28 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_nutrition
-
 linkTitle: has_nutrition
-keywords: [nutrition]
+keywords:
+  - nutrition
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- nutrition
-- nutrition
-- nutrition
-- has_nutrition
+  - nutrition
+  - has_nutrition
+  - schema:nutrition
+  - dbo:nutrition
+  - wdt:P4224
 ---
 
 Use it like this: 

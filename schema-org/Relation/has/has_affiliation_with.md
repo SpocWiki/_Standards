@@ -3,32 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_affiliation_with
-
 linkTitle: has_affiliation_with
-keywords: [affiliation]
+keywords:
+  - affiliation
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- affiliation
-- affiliation
-- affiliation
-- has_affiliation_with
-- is_affiliated_with
+  - affiliation
+  - has_affiliation_with
+  - is_affiliated_with
+  - schema:affiliation
+  - dbo:affiliation
+  - wdt:P1416
 ---
 
 Use it like this: 

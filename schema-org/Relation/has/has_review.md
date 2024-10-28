@@ -3,33 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_review
-
 linkTitle: has_review
-keywords: [review]
+keywords:
+  - review
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: reviews
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- review
-- review
-- review
-- has_review
+  - review
+  - has_review
+  - schema:review
+  - dbo:review
+  - wdt:P447
 ---
 
 Use it like this: 

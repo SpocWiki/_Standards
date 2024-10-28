@@ -3,31 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_illustrator
-
 linkTitle: has_illustrator
-keywords: [illustrator]
+keywords:
+  - illustrator
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- illustrator
-- illustrator
-- illustrator
-- has_illustrator
+  - illustrator
+  - illustrator
+  - illustrator
+  - has_illustrator
+  - schema:illustrator
+  - dbo:illustrator
+  - wdt:P14
 ---
 
 Use it like this: 

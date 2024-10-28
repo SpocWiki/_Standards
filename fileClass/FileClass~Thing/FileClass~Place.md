@@ -219,7 +219,7 @@ fields:
     options: {}
     path: ""
     id: BVSJ0j
-  - name: has_place_elevation_in_meters
+  - name: has_place_elevation_meters
     type: Number
     options: {}
     path: ""

@@ -3,33 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_actor
-
 linkTitle: has_actor
-keywords: [actor]
+keywords:
+  - actor
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: actors
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- actor
-- actor
-- actor
-- has_actor
+  - actor
+  - has_actor
+  - schema:actor
+  - dbo:starring
+  - wdt:P161
 ---
 
 Use it like this: 

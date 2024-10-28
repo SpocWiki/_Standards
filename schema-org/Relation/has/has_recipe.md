@@ -3,31 +3,28 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_recipe
-
 linkTitle: has_recipe
-keywords: [recipe]
+keywords:
+  - recipe
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- recipe
-- recipe
-- recipe
-- has_recipe
+  - recipe
+  - has_recipe
+  - schema:recipe
+  - dbo:recipe
+  - wdt:P348
 ---
 
 Use it like this: 

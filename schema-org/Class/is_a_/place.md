@@ -22,8 +22,9 @@ aliases:
   - place
   - Place
   - is_a_place
-  - schema:place
+  - schema:Place
   - places
+  - dbo:Place
 ---
 
 Class of all places.

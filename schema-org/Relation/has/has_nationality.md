@@ -3,31 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_nationality
-
 linkTitle: has_nationality
-keywords: [nationality]
+keywords:
+  - nationality
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- nationality
-- nationality
-- nationality
-- has_nationality
+  - nationality
+  - nationality
+  - nationality
+  - has_nationality
+  - schema:nationality
+  - dbo:nationality
+  - wdt:P27
 ---
 
 Use it like this: 

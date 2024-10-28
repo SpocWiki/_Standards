@@ -3,31 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
+cssclasses:
+  - Predicate
+  - Date_Time
 publish: true
-
-# Hugo Tags
 type: Predi_Date_Time
 title: has_time_of_death
-
 linkTitle: 
 keywords: 
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Date
-
+  - class/Property
+  - schema-org/Property/Date
 aliases:
-- death-date
-- death_date
-- deathDate
-- has_time_of_death
+  - death-date
+  - death_date
+  - deathDate
+  - has_time_of_death
+  - schema:deathDate
+  - dbo:deathDate
+  - wdt:P570
 ---
 
 Predicate to describe the date of Person.

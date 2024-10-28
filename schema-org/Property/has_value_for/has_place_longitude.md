@@ -3,33 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Quantity
+cssclasses:
+  - Predicate
+  - Quantity
 publish: true
-
-# Hugo Tags
 type: Predi_Quantity
-
 title: has_longitude
 linkTitle: has_longitude
-
-keywords: [longitude]
+keywords:
+  - longitude
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Quantity
-
+  - class/Property
+  - schema-org/Property/Quantity
 aliases:
-- "schema:longitude"
-- longitude
-- longitude
-- has_value_for_longitude
-- has_place_longitude
+  - schema:longitude
+  - longitude
+  - longitude
+  - has_value_for_longitude
+  - has_place_longitude
+  - geo:long
 ---
 
 Predicate to describe the Quantity of GeoCoordinates, Place.

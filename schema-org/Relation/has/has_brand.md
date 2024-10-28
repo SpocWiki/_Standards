@@ -3,31 +3,28 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_brand
-
 linkTitle: has_brand
-keywords: [brand]
+keywords:
+  - brand
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- brand
-- brand
-- brand
-- has_brand
+  - brand
+  - has_brand
+  - schema:brand
+  - dbo:brand
+  - wdt:P176
 ---
 
 Use it like this: 

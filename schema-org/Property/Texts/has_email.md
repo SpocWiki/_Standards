@@ -3,32 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_text_of_email
 linkTitle: has_text_of_email
-
-keywords: [email]
+keywords:
+  - email
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- email
-- email
-- email
-- has_text_of_email
+  - email
+  - email
+  - email
+  - has_text_of_email
+  - schema:email
+  - dbo:email
+  - wdt:P968
 ---
 
 Predicate to describe the Text of ContactPoint, Organization, Person.

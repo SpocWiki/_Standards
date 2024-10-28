@@ -3,34 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_a_person Class
 linkTitle: is_a_person Class
-
-keywords: [person]
+keywords:
+  - person
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 equivalent_class: http://xmlns.com/foaf/0.1/Person
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
 aliases:
-- person
-- person
-- Person
-- is_a_person
+  - person
+  - person
+  - Person
+  - is_a_person
+  - dbo:Person
+  - schema:Person
 ---
 
 Class of all persons.

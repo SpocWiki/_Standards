@@ -3,33 +3,31 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
+cssclasses:
+  - Predicate
+  - Url
 publish: true
-
-# Hugo Tags
 type: Predi_Url
-
 title: has_url_for_same_as
 linkTitle: has_url_for_same_as
-
-keywords: [same_as]
+keywords:
+  - same_as
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Url
-
+  - class/Property
+  - schema-org/Property/Url
 aliases:
-- same-as
-- same_as
-- sameAs
-- owl~sameAs 
-- has_url_for_same_as
+  - same-as
+  - same_as
+  - sameAs
+  - owl~sameAs
+  - has_url_for_same_as
+  - schema:sameAs
+  - owl:sameAs
+  - wdt:P2888
 ---
 
 Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] of a [[../Class/Thing|Thing]].

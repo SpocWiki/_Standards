@@ -1,3 +1,31 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - Type
+publish: true
+type: Type
+title: is_a_tv_series Class
+linkTitle: is_a_tv_series Class
+keywords:
+  - tv_series
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+aliases:
+  - tv-series
+  - tv_series
+  - TVSeries
+  - is_a_tv_series
+  - schema:TVSeries
+  - dbo:TelevisionShow
+---
 ﻿---
 license: CC BY-SA 4.0
 confidential: public

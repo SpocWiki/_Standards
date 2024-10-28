@@ -3,40 +3,38 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_teaches
-
 linkTitle: has_teaches
-keywords: [teaches]
+keywords:
+  - teaches
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- teaches
-- teaches
-- teaches
-- has_teaches
+  - teaches
+  - is_teaching 
+  - schema:teaches
+  - dbo:teaches
+  - wdt:P800
 ---
 
 [ #is_/part_of :: pending: ]
 
 Use it like this: 
-- [ #has_/teaches :: DefinedTerm, Text ] or 
-- [ has_teaches :: DefinedTerm, Text ] 
+- [ #is_/teaching :: DefinedTerm, Text ] or 
+- [ is_teaching :: DefinedTerm, Text ] 
 
-The item being described is intended to help a person learn the competency or learning outcome defined by the referenced term.
+The Subject/item being described is intended 
+to help a person learn the competency or learning outcome defined by the referenced term.
 
 Relation describes that: 
 [ #has_/domain  :: CreativeWork, EducationEvent, LearningResource ]
@@ -44,7 +42,7 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_teaches|has_teaches]] 
+- [[is_teaching|has_teaches]] 
 - [[../../../../../_public/schema-org/Relation/has/has_teaches.public|has_teaches.public]] 
 - [[../../../../../_internal/schema.org/Relation/has/has_teaches.internal|has_teaches.internal]] 
 - [[../../../../../_protect/schema.org/Relation/has/has_teaches.protect|has_teaches.protect]] 

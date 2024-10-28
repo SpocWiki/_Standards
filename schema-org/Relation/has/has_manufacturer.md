@@ -3,31 +3,28 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_manufacturer
-
 linkTitle: has_manufacturer
-keywords: [manufacturer]
+keywords:
+  - manufacturer
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- manufacturer
-- manufacturer
-- manufacturer
-- has_manufacturer
+  - manufacturer
+  - has_manufacturer
+  - schema:manufacturer
+  - dbo:manufacturer
+  - wdt:P176
 ---
 
 Use it like this: 

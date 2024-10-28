@@ -3,31 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: is_part_of
-
 linkTitle: is_part_of
 keywords: 
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- is-part-of
-- part_of
-- isPartOf
-- is_part_of
+  - is-part-of
+  - part_of
+  - isPartOf
+  - is_part_of
+  - schema: isPartOf
+  - dbo:isPartOf
+  - wdt:P361
 ---
 
 # [Composite](../Composite.md)-[Part](Part.md) Relationship, 

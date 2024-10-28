@@ -3,32 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
+cssclasses:
+  - Predicate
+  - geo
 publish: true
-
-# Hugo Tags
 type: Pred_geo
-
 title: has_location_created
 linkTitle: has_location_created
-
-keywords: [location_created]
+keywords:
+  - location_created
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/geo
-
+  - class/Property
+  - schema-org/Property/geo
 aliases:
-- location-created
-- location_created
-- locationCreated
-- has_location_created
+  - location-created
+  - location_created
+  - locationCreated
+  - has_location_created
+  - schema:locationCreated
+  - dbo:placeOfOrigin
+  - wdt:P1071
 ---
 
 Predicate to describe the geo of CreativeWork.

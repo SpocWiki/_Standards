@@ -3,31 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_translator
-
 linkTitle: has_translator
-keywords: [translator]
+keywords:
+  - translator
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- translator
-- translator
-- translator
-- has_translator
+  - translator
+  - translator
+  - translator
+  - has_translator
+  - schema:translator
+  - dbo:translator
+  - wdt:P655
 ---
 
 Use it like this: 

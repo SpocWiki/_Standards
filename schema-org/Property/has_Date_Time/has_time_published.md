@@ -3,31 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
+cssclasses:
+  - Predicate
+  - Date_Time
 publish: true
-
-# Hugo Tags
 type: Predi_Date_Time
 title: has_time_published
-
 linkTitle: 
 keywords: 
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Date
-
+  - class/Property
+  - schema-org/Property/Date
 aliases:
-- date-published
-- date_published
-- datePublished
-- has_time_published
+  - date-published
+  - date_published
+  - datePublished
+  - has_time_published
+  - dbo:releaseDate
+  - wdt:P577
+  - schema:datePublished
 ---
 
 Predicate to describe the date of CreativeWork.

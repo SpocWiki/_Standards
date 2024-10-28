@@ -3,31 +3,31 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: is_member_of
-
 linkTitle: is_member_of
-keywords: [member, of]
+keywords:
+  - member
+  - of
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- member-of
-- member_of
-- memberOf
-- is_member_of
+  - member-of
+  - member_of
+  - memberOf
+  - is_member_of
+  - schema:memberOf
+  - dbo:memberOf
+  - wdt:P463
 ---
 
 

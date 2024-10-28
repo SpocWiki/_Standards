@@ -3,31 +3,31 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_aggregate_rating
-
 linkTitle: has_aggregate_rating
-keywords: [aggregate, rating]
+keywords:
+  - aggregate
+  - rating
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- aggregate-rating
-- aggregate_rating
-- aggregateRating
-- has_aggregate_rating
+  - aggregate-rating
+  - aggregate_rating
+  - aggregateRating
+  - has_aggregate_rating
+  - schema:aggregateRating
+  - dbo:rating
+  - wdt:P4586
 ---
 
 Use it like this: 

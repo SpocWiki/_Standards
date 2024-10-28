@@ -25,6 +25,8 @@ aliases:
   - is_a_music_group
   - band
   - music act
+  - dbo:Band
+  - schema:MusicGroup
 ---
 
 Class of all music_groups.

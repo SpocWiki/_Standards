@@ -3,32 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_parent
-
 linkTitle: has_parent
-keywords: [parent]
+keywords:
+  - parent
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: parents
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- has_father
-- has_mother
-- has_parent
+  - has_father
+  - has_mother
+  - has_parent
+  - schema:parent
+  - dbo:parent
+  - wdt:P40
 ---
 
 Use it like this: 
@@ -42,7 +40,8 @@ Relation describes that:
 ( #has_/name :: has_parent )
 ( #has_/range :: Person )
 
-#is_/sub_relation_of :: [[has_creator]]
+#is_/sub_relation_of :: [[has_creator]] 
+#is_/inverse_of :: [[has_children]] 
 
 ## Confidential Links & Embeds: 
 - [[../../../../../_Standards/schema-org/Relation/has/has_parent|has_parent]] 

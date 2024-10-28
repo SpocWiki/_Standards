@@ -3,32 +3,31 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_text_of_opening_hours
 linkTitle: has_text_of_opening_hours
-
-keywords: [opening, hours]
+keywords:
+  - opening
+  - hours
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- opening-hours
-- opening_hours
-- openingHours
-- has_text_of_opening_hours
+  - opening-hours
+  - opening_hours
+  - openingHours
+  - has_text_of_opening_hours
+  - schema:openingHours
+  - dbo:openingHours
+  - wdt:P862
 ---
 
 Predicate to describe the Text of CivicStructure, LocalBusiness.

@@ -3,38 +3,37 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_sports_team
-
 linkTitle: has_sports_team
-keywords: [sports, team]
+keywords:
+  - sports
+  - team
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- sports-team
-- sports_team
-- sportsTeam
-- has_sports_team
+  - sports-team
+  - sports_team
+  - sportsTeam
+  - has_sports_team
+  - schema:SportsTeam
+  - dbo:SportsTeam
 ---
 
 Use it like this: 
 - [ #has_/sports_team :: SportsTeam ] or 
 - [ has_sports_team :: SportsTeam ] 
 
-A sub property of participant. The sports team that participated on this action.
+A sub property of [[has_participant]]. The sports team that participated on this action.
 
 Relation describes that: 
 [ #has_/domain  :: ExerciseAction ]

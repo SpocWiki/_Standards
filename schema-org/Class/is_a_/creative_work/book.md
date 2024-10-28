@@ -1,3 +1,31 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - Type
+publish: true
+type: Type
+title: is_a_book Class
+linkTitle: is_a_book Class
+keywords:
+  - book
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+aliases:
+  - book
+  - book
+  - Book
+  - is_a_book
+  - dbo:Book
+  - schema:Book
+---
 ﻿---
 license: CC BY-SA 4.0
 confidential: public

@@ -3,29 +3,28 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_spouse
-
 linkTitle: has_spouse
-keywords: [spouse]
+keywords:
+  - spouse
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- spouse
-- has_spouse
+  - spouse
+  - has_spouse
+  - schema:spouse
+  - dbo:spouse
+  - wdt:P26
 ---
 
 Use it like this: 

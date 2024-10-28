@@ -3,31 +3,30 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_children
-
 linkTitle: has_children
-keywords: [children]
+keywords:
+  - children
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- children
-- children
-- children
-- has_children
+  - children
+  - children
+  - children
+  - has_children
+  - schema:child
+  - dbo:child
+  - wdt:P40
 ---
 
 Use it like this: 

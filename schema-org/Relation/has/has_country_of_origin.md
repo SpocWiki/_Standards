@@ -3,31 +3,32 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_country_of_origin
-
 linkTitle: has_country_of_origin
-keywords: [country, of, origin]
+keywords:
+  - country
+  - of
+  - origin
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- country-of-origin
-- country_of_origin
-- countryOfOrigin
-- has_country_of_origin
+  - country-of-origin
+  - country_of_origin
+  - countryOfOrigin
+  - has_country_of_origin
+  - schema:countryOfOrigin
+  - dbo:country
+  - wdt:P495
 ---
 
 Use it like this: 

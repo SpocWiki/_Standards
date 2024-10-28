@@ -1,5 +1,5 @@
 ---
-is_sub_class_of: '[Thing](../Thing.md)'
+is_sub_class_of: "[Thing](../Thing.md)"
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -24,6 +24,7 @@ aliases:
   - CreativeWork
   - is_a_creative_work
   - creative_works
+  - dbo:Work
 fileClass:
 ---
 

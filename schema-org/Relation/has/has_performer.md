@@ -3,31 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_performer
-
 linkTitle: has_performer
-keywords: [performer]
+keywords:
+  - performer
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: performers
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- performer
-- has_performer
+  - performer
+  - has_performer
+  - schema:performer
+  - dbo:performer
+  - wdt:P175
 ---
 
 Use it like this: 

@@ -3,39 +3,36 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Type
+cssclasses:
+  - Type
 publish: true
-
-# Hugo Tags
 type: Type
-
 title: is_an_audience Class
 linkTitle: is_an_audience Class
-
-keywords: [audience]
+keywords:
+  - audience
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Class
-- schema-org/Class
-
+  - class/Class
+  - schema-org/Class
 aliases:
-- audience
-- audience
-- Audience
-- is_an_audience
+  - audience
+  - audience
+  - Audience
+  - is_an_audience
+  - schema:audience
+  - dbo:audience
+  - wdt:P2360
 ---
 
 Class of all intended audiences for an item, 
 i.e. the groups for whom an item was created.
 
 Tag Instances like this: 
-#is_an_/audience
+#has_/audience
 
 [ #is_/sub_class_of :: [[../Intangible]] ]
 

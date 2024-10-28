@@ -3,40 +3,39 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_director
-
 linkTitle: has_director
-keywords: [director]
+keywords:
+  - director
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: directors
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- director
-- director
-- director
-- has_director
+  - director
+  - director
+  - director
+  - has_director
+  - schema:director
+  - dbo:director
+  - wdt:P57
 ---
 
 Use it like this: 
 - [ #has_/director :: Person ] or 
 - [ has_director :: Person ] 
 
-A director of e.g. TV, radio, movie, video gaming etc. content, or of an event. Directors can be associated with individual items or with a series, episode, clip.
+A director of e.g. Company,TV, radio, movie, video gaming etc. content, or of an event. 
+Directors can be associated with individual items or with a series, episode, clip.
 
 Relation describes that: 
 [ #has_/domain  :: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject ]

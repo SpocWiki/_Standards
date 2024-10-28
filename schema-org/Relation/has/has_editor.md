@@ -3,31 +3,28 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_editor
-
 linkTitle: has_editor
-keywords: [editor]
+keywords:
+  - editor
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- editor
-- editor
-- editor
-- has_editor
+  - editor
+  - has_editor
+  - schema:editor
+  - dbo:editor
+  - wdt:P98
 ---
 
 Use it like this: 

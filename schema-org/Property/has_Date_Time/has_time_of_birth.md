@@ -3,31 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Date_Time
+cssclasses:
+  - Predicate
+  - Date_Time
 publish: true
-
-# Hugo Tags
 type: Predi_Date_Time
 title: has_time_of_birth
-
 linkTitle: 
 keywords: 
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Date
-
+  - class/Property
+  - schema-org/Property/Date
 aliases:
-- birth-date
-- birth_date
-- birthDate
-- has_time_of_birth
+  - birth-date
+  - birth_date
+  - birthDate
+  - has_time_of_birth
+  - schema:birthDate
+  - dbo:birthDate
+  - wdt:P569
 ---
 
 Predicate to describe the date of Person.

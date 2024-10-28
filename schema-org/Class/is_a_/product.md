@@ -1,3 +1,31 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - Type
+publish: true
+type: Type
+title: is_a_product Class
+linkTitle: is_a_product Class
+keywords:
+  - product
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+aliases:
+  - product
+  - product
+  - Product
+  - is_a_product
+  - dbo:Product
+  - schema:Product
+---
 ﻿---
 license: CC BY-SA 4.0
 confidential: public

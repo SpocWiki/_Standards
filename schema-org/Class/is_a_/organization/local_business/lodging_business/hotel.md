@@ -1,3 +1,31 @@
+---
+license: CC BY-SA 4.0
+confidential: public
+isDeleted: false
+isReadOnly: false
+cssclasses:
+  - Type
+publish: true
+type: Type
+title: is_a_hotel Class
+linkTitle: is_a_hotel Class
+keywords:
+  - hotel
+layout: 
+draft: false
+publishDate: 
+expiryDate: 
+tags:
+  - class/Class
+  - schema-org/Class
+aliases:
+  - hotel
+  - hotel
+  - Hotel
+  - is_a_hotel
+  - dbo:Hotel
+  - schema:Hotel
+---
 ﻿---
 license: CC BY-SA 4.0
 confidential: public

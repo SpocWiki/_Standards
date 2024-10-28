@@ -3,34 +3,31 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_text_of_award
 linkTitle: has_text_of_award
-
-keywords: [award]
+keywords:
+  - award
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: awards
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- award
-- award
-- award
-- has_text_of_award
+  - award
+  - award
+  - award
+  - has_text_of_award
+  - schema:award
+  - dbo:award
+  - wdt:P166
 ---
 
 Predicate to describe the Text of CreativeWork, Organization, Person, Product, Service.

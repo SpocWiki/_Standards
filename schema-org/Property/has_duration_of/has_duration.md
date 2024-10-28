@@ -3,31 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Duration
+cssclasses:
+  - Predicate
+  - Duration
 publish: true
-
-# Hugo Tags
 type: Predi_Duration
 title: has_duration
-
 linkTitle: 
 keywords: 
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Durations
-
+  - class/Property
+  - schema-org/Property/Durations
 aliases:
-- duration
-- duration
-- duration
-- has_duration
+  - duration
+  - duration
+  - duration
+  - has_duration
+  - schema:duration
+  - dbo:runtime
+  - wdt:P2047
 ---
 
 Predicate to describe the Duration of Audiobook, Episode, Event, MediaObject, 

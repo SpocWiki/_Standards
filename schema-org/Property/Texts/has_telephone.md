@@ -3,32 +3,29 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_text_of_telephone
 linkTitle: has_text_of_telephone
-
-keywords: [telephone]
+keywords:
+  - telephone
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- telephone 
-- telephone/Mobile 
-- telephone
-- has_text_of_telephone
+  - telephone
+  - telephone/Mobile
+  - telephone
+  - has_text_of_telephone
+  - schema:telephone
+  - wdt:P1329
 ---
 
 Predicate to describe the Text of ContactPoint, Organization, Person, Place.

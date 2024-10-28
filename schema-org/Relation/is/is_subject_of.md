@@ -3,31 +3,31 @@ license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: is_subject_of
-
 linkTitle: is_subject_of
-keywords: [subject, of]
+keywords:
+  - subject
+  - of
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- subject-of
-- subject_of
-- subjectOf
-- is_subject_of
+  - subject-of
+  - subject_of
+  - subjectOf
+  - is_subject_of
+  - wdt:P921
+  - schema:subjectOf
+  - dbo:subject
 ---
 
 Use it like this: 
