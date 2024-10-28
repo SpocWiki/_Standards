@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,3 +53,17 @@ The substage, e.g. 'a' for Stage IIIa.
 SubStageSuffix:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalConditionStage](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.md) 
+
+### [FileClass~MedicalConditionStage.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.internal.md) 
+
+### [FileClass~MedicalConditionStage.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.protect.md) 
+
+### [FileClass~MedicalConditionStage.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.private.md) 
+
+### [FileClass~MedicalConditionStage.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.personal.md) 
+
+### [FileClass~MedicalConditionStage.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~MedicalConditionStage.secret.md) 

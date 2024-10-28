@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - location vector
   - radius vector
@@ -6,8 +6,8 @@ aliases:
 
 # [[Position-Vector]] 
 
-#is_/similar_to :: [[Vector]] 
-#is_/different_from :: [[Vector]] 
+#is_/similar_to :: [[../../../Knowledge/Math/Geometry/Tensor/Vector]] 
+#is_/different_from :: [[../../../Knowledge/Math/Geometry/Tensor/Vector]] 
 
 > In geometry, a position 
 > or position vector, also known as location vector or radius vector, 
@@ -34,3 +34,17 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Position%20(geometry))
 
 
+
+## Confidential Links & Embeds: 
+
+### [Position-Vector](/_public/Mathematics/Geometry/Position-Vector.md) 
+
+### [Position-Vector.internal](/_internal/Mathematics/Geometry/Position-Vector.internal.md) 
+
+### [Position-Vector.protect](/_protect/Mathematics/Geometry/Position-Vector.protect.md) 
+
+### [Position-Vector.private](/_private/Mathematics/Geometry/Position-Vector.private.md) 
+
+### [Position-Vector.personal](/_personal/Mathematics/Geometry/Position-Vector.personal.md) 
+
+### [Position-Vector.secret](/_secret/Mathematics/Geometry/Position-Vector.secret.md) 

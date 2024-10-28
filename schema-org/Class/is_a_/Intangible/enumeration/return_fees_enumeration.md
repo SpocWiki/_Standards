@@ -43,10 +43,15 @@ Enumerates several kinds of policies for product return fees.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration|return_fees_enumeration]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration.public|return_fees_enumeration.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration.internal|return_fees_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration.protect|return_fees_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration.private|return_fees_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration.personal|return_fees_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration.secret|return_fees_enumeration.secret]] 
+
+### [return_fees_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.md) 
+
+### [return_fees_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.internal.md) 
+
+### [return_fees_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.protect.md) 
+
+### [return_fees_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.private.md) 
+
+### [return_fees_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.personal.md) 
+
+### [return_fees_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration.secret.md) 

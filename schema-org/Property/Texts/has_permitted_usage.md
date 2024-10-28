@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_permitted_usage|has_permitted_usage]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_permitted_usage.public|has_permitted_usage.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_permitted_usage.internal|has_permitted_usage.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_permitted_usage.protect|has_permitted_usage.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_permitted_usage.private|has_permitted_usage.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_permitted_usage.personal|has_permitted_usage.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_permitted_usage.secret|has_permitted_usage.secret]] 
+
+### [has_permitted_usage](/_public/schema-org/Property/Texts/has_permitted_usage.md) 
+
+### [has_permitted_usage.internal](/_internal/schema-org/Property/Texts/has_permitted_usage.internal.md) 
+
+### [has_permitted_usage.protect](/_protect/schema-org/Property/Texts/has_permitted_usage.protect.md) 
+
+### [has_permitted_usage.private](/_private/schema-org/Property/Texts/has_permitted_usage.private.md) 
+
+### [has_permitted_usage.personal](/_personal/schema-org/Property/Texts/has_permitted_usage.personal.md) 
+
+### [has_permitted_usage.secret](/_secret/schema-org/Property/Texts/has_permitted_usage.secret.md) 

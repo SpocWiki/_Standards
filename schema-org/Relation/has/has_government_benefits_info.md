@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: GovernmentService )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_government_benefits_info|has_government_benefits_info]] 
-- [[../../../../../_public/schema-org/Relation/has/has_government_benefits_info.public|has_government_benefits_info.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_government_benefits_info.internal|has_government_benefits_info.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_government_benefits_info.protect|has_government_benefits_info.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_government_benefits_info.private|has_government_benefits_info.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_government_benefits_info.personal|has_government_benefits_info.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_government_benefits_info.secret|has_government_benefits_info.secret]] 
+
+### [has_government_benefits_info](/_public/schema-org/Relation/has/has_government_benefits_info.md) 
+
+### [has_government_benefits_info.internal](/_internal/schema-org/Relation/has/has_government_benefits_info.internal.md) 
+
+### [has_government_benefits_info.protect](/_protect/schema-org/Relation/has/has_government_benefits_info.protect.md) 
+
+### [has_government_benefits_info.private](/_private/schema-org/Relation/has/has_government_benefits_info.private.md) 
+
+### [has_government_benefits_info.personal](/_personal/schema-org/Relation/has/has_government_benefits_info.personal.md) 
+
+### [has_government_benefits_info.secret](/_secret/schema-org/Relation/has/has_government_benefits_info.secret.md) 

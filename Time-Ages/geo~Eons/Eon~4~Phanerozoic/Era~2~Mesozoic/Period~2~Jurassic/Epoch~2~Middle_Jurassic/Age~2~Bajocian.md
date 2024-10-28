@@ -1,4 +1,4 @@
-# [[Age~2~Bajocian]] 
+﻿# [[Age~2~Bajocian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 170.9 to 168.2 million years ago.
 
 #has_/abbreviation :: j2
 
-#has_/time_/created/Ma :: -170.9 
-#has_/time_/destroyed/Ma :: -168.2 
+#has_/time_/started /Ma :: -170.9 
+#has_/time_/stopped /Ma :: -168.2 
 
     sh:order 57 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Bajocian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.md) 
+
+### [Age~2~Bajocian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.internal.md) 
+
+### [Age~2~Bajocian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.protect.md) 
+
+### [Age~2~Bajocian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.private.md) 
+
+### [Age~2~Bajocian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.personal.md) 
+
+### [Age~2~Bajocian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~2~Bajocian.secret.md) 

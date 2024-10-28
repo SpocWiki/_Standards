@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A piece of sculpture.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Sculpture](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.md) 
+
+### [FileClass~Sculpture.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.internal.md) 
+
+### [FileClass~Sculpture.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.protect.md) 
+
+### [FileClass~Sculpture.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.private.md) 
+
+### [FileClass~Sculpture.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.personal.md) 
+
+### [FileClass~Sculpture.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Sculpture.secret.md) 

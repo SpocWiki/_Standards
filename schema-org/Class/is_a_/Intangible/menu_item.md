@@ -43,10 +43,15 @@ A food or drink item listed in a menu or menu section.
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, menuAddOn, name, nutrition, offers, potentialAction, sameAs, subjectOf, suitableForDiet, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/menu_item|menu_item]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/menu_item.public|menu_item.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/menu_item.internal|menu_item.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/menu_item.protect|menu_item.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/menu_item.private|menu_item.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/menu_item.personal|menu_item.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/menu_item.secret|menu_item.secret]] 
+
+### [menu_item](/_public/schema-org/Class/is_a_/Intangible/menu_item.md) 
+
+### [menu_item.internal](/_internal/schema-org/Class/is_a_/Intangible/menu_item.internal.md) 
+
+### [menu_item.protect](/_protect/schema-org/Class/is_a_/Intangible/menu_item.protect.md) 
+
+### [menu_item.private](/_private/schema-org/Class/is_a_/Intangible/menu_item.private.md) 
+
+### [menu_item.personal](/_personal/schema-org/Class/is_a_/Intangible/menu_item.personal.md) 
+
+### [menu_item.secret](/_secret/schema-org/Class/is_a_/Intangible/menu_item.secret.md) 

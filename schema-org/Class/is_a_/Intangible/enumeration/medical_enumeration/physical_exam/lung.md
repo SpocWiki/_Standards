@@ -45,10 +45,15 @@ Lung and respiratory system clinical examination.
 [ #is_/enum_of :: [[../PhysicalExam]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung|lung]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.public|lung.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.internal|lung.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.protect|lung.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.private|lung.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.personal|lung.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/physical_exam/lung.secret|lung.secret]] 
+
+### [lung](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.md) 
+
+### [lung.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.internal.md) 
+
+### [lung.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.protect.md) 
+
+### [lung.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.private.md) 
+
+### [lung.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.personal.md) 
+
+### [lung.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/physical_exam/lung.secret.md) 

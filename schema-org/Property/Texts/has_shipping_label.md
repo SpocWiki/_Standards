@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_shipping_label|has_shipping_label]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_shipping_label.public|has_shipping_label.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_shipping_label.internal|has_shipping_label.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_shipping_label.protect|has_shipping_label.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_shipping_label.private|has_shipping_label.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_shipping_label.personal|has_shipping_label.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_shipping_label.secret|has_shipping_label.secret]] 
+
+### [has_shipping_label](/_public/schema-org/Property/Texts/has_shipping_label.md) 
+
+### [has_shipping_label.internal](/_internal/schema-org/Property/Texts/has_shipping_label.internal.md) 
+
+### [has_shipping_label.protect](/_protect/schema-org/Property/Texts/has_shipping_label.protect.md) 
+
+### [has_shipping_label.private](/_private/schema-org/Property/Texts/has_shipping_label.private.md) 
+
+### [has_shipping_label.personal](/_personal/schema-org/Property/Texts/has_shipping_label.personal.md) 
+
+### [has_shipping_label.secret](/_secret/schema-org/Property/Texts/has_shipping_label.secret.md) 

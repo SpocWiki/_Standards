@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -34,6 +34,10 @@ aliases:
 #is_/different_from :: [[is_same_as]] 
 #is_/complement_of :: [[is_different_from]] 
 
+If possible, use the more specific 
+#is_/sub_class_of  or #has_/sub_classes 
+or specify [[because :: reason for the difference]]. 
+
 Additionally use the Standard [[../../W3C/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language)|owl(Ontology_Web_Language)]] Relation 
  [[is_different_from]], to express the same as [[is_similar_to]]. 
 
@@ -49,10 +53,15 @@ Relation describes that:
 ( #has_/range :: Product, Service)
 
 ## Confidential Links & Embeds: 
-- [[is_similar_to]] 
-- [[../../../../../_public/schema-org/Relation/is_similar_to.public|is_similar_to.public]] 
-- [[../../../../../_internal/schema.org/Relation/is_similar_to.internal|is_similar_to.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is_similar_to.protect|is_similar_to.protect]] 
-- [[../../../../../_private/schema.org/Relation/is_similar_to.private|is_similar_to.private]] 
-- [[../../../../../_personal/schema.org/Relation/is_similar_to.personal|is_similar_to.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is_similar_to.secret|is_similar_to.secret]] 
+
+### [is_similar_to](/_public/schema-org/Relation/is_similar_to.md) 
+
+### [is_similar_to.internal](/_internal/schema-org/Relation/is_similar_to.internal.md) 
+
+### [is_similar_to.protect](/_protect/schema-org/Relation/is_similar_to.protect.md) 
+
+### [is_similar_to.private](/_private/schema-org/Relation/is_similar_to.private.md) 
+
+### [is_similar_to.personal](/_personal/schema-org/Relation/is_similar_to.personal.md) 
+
+### [is_similar_to.secret](/_secret/schema-org/Relation/is_similar_to.secret.md) 

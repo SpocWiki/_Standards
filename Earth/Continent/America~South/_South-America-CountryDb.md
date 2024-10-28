@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -444,9 +444,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[_South-America-CountryDb|_South-America-CountryDb]] 
-- [[../../../../_internal/Earth/Continent/South-America/_South-America-CountryDb.internal|_South-America-CountryDb.internal]] 
-- [[../../../../_protect/Earth/Continent/South-America/_South-America-CountryDb.protect|_South-America-CountryDb.protect]] 
-- [[../../../../_private/Earth/Continent/South-America/_South-America-CountryDb.private|_South-America-CountryDb.private]] 
-- [[../../../../_personal/Earth/Continent/South-America/_South-America-CountryDb.personal|_South-America-CountryDb.personal]] 
-- [[../../../../_secret/Earth/Continent/South-America/_South-America-CountryDb.secret|_South-America-CountryDb.secret]] 
+
+### [_South-America-CountryDb](/_public/Earth/Continent/America~South/_South-America-CountryDb.md) 
+
+### [_South-America-CountryDb.internal](/_internal/Earth/Continent/America~South/_South-America-CountryDb.internal.md) 
+
+### [_South-America-CountryDb.protect](/_protect/Earth/Continent/America~South/_South-America-CountryDb.protect.md) 
+
+### [_South-America-CountryDb.private](/_private/Earth/Continent/America~South/_South-America-CountryDb.private.md) 
+
+### [_South-America-CountryDb.personal](/_personal/Earth/Continent/America~South/_South-America-CountryDb.personal.md) 
+
+### [_South-America-CountryDb.secret](/_secret/Earth/Continent/America~South/_South-America-CountryDb.secret.md) 

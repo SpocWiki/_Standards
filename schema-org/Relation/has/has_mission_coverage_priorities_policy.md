@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_mission_coverage_priorities_policy|has_mission_coverage_priorities_policy]] 
-- [[../../../../../_public/schema-org/Relation/has/has_mission_coverage_priorities_policy.public|has_mission_coverage_priorities_policy.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_mission_coverage_priorities_policy.internal|has_mission_coverage_priorities_policy.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_mission_coverage_priorities_policy.protect|has_mission_coverage_priorities_policy.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_mission_coverage_priorities_policy.private|has_mission_coverage_priorities_policy.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_mission_coverage_priorities_policy.personal|has_mission_coverage_priorities_policy.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_mission_coverage_priorities_policy.secret|has_mission_coverage_priorities_policy.secret]] 
+
+### [has_mission_coverage_priorities_policy](/_public/schema-org/Relation/has/has_mission_coverage_priorities_policy.md) 
+
+### [has_mission_coverage_priorities_policy.internal](/_internal/schema-org/Relation/has/has_mission_coverage_priorities_policy.internal.md) 
+
+### [has_mission_coverage_priorities_policy.protect](/_protect/schema-org/Relation/has/has_mission_coverage_priorities_policy.protect.md) 
+
+### [has_mission_coverage_priorities_policy.private](/_private/schema-org/Relation/has/has_mission_coverage_priorities_policy.private.md) 
+
+### [has_mission_coverage_priorities_policy.personal](/_personal/schema-org/Relation/has/has_mission_coverage_priorities_policy.personal.md) 
+
+### [has_mission_coverage_priorities_policy.secret](/_secret/schema-org/Relation/has/has_mission_coverage_priorities_policy.secret.md) 

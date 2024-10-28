@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 47
     - 28.9167
@@ -148,10 +148,15 @@ Capital :: [[Chisinau]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~East/Moldova|Moldova]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~East/Moldova.public|Moldova.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~East/Moldova.internal|Moldova.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~East/Moldova.protect|Moldova.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~East/Moldova.private|Moldova.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~East/Moldova.personal|Moldova.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~East/Moldova.secret|Moldova.secret]] 
+
+### [Moldova](/_public/Earth/Continent/Europe/Europe~East/Moldova.md) 
+
+### [Moldova.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova.internal.md) 
+
+### [Moldova.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova.protect.md) 
+
+### [Moldova.private](/_private/Earth/Continent/Europe/Europe~East/Moldova.private.md) 
+
+### [Moldova.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova.personal.md) 
+
+### [Moldova.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova.secret.md) 

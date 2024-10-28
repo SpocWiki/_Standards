@@ -1,4 +1,4 @@
-# [[Age~3~Pliensbachian]] 
+﻿# [[Age~3~Pliensbachian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 192.9 to 184.2 million years ago.
 
 #has_/abbreviation :: I3
 
-#has_/time_/created/Ma :: -192.9 
-#has_/time_/destroyed/Ma :: -184.2 
+#has_/time_/started /Ma :: -192.9 
+#has_/time_/stopped /Ma :: -184.2 
 
     sh:order 61 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Pliensbachian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.md) 
+
+### [Age~3~Pliensbachian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.internal.md) 
+
+### [Age~3~Pliensbachian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.protect.md) 
+
+### [Age~3~Pliensbachian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.private.md) 
+
+### [Age~3~Pliensbachian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.personal.md) 
+
+### [Age~3~Pliensbachian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~3~Pliensbachian.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_additional_variable|has_additional_variable]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_additional_variable.public|has_additional_variable.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_additional_variable.internal|has_additional_variable.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_additional_variable.protect|has_additional_variable.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_additional_variable.private|has_additional_variable.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_additional_variable.personal|has_additional_variable.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_additional_variable.secret|has_additional_variable.secret]] 
+
+### [has_additional_variable](/_public/schema-org/Property/Texts/has_additional_variable.md) 
+
+### [has_additional_variable.internal](/_internal/schema-org/Property/Texts/has_additional_variable.internal.md) 
+
+### [has_additional_variable.protect](/_protect/schema-org/Property/Texts/has_additional_variable.protect.md) 
+
+### [has_additional_variable.private](/_private/schema-org/Property/Texts/has_additional_variable.private.md) 
+
+### [has_additional_variable.personal](/_personal/schema-org/Property/Texts/has_additional_variable.personal.md) 
+
+### [has_additional_variable.secret](/_secret/schema-org/Property/Texts/has_additional_variable.secret.md) 

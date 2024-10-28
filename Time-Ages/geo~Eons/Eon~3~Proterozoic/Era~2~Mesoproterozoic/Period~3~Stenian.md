@@ -1,4 +1,4 @@
-
+﻿
 #is_a_/time_/Period 
 
 A time period from> The **Stenian** Period ( STEE-nee-ən, from Ancient Greek: στενός, romanized: stenós, meaning "narrow") is the final geologic period in the Mesoproterozoic Era and lasted from 1200 Mya to 1000 Mya (million years ago). Instead of being based on stratigraphy, these dates are defined chronometrically. The name derives from narrow polymetamorphic belts formed over this period.
@@ -34,8 +34,8 @@ A time period from> The **Stenian** Period ( STEE-nee-ən, from Ancient Greek: �
 
 #has_/abbreviation :: MP3
 
-#has_/time_/created/Ma :: -1200
-#has_/time_/destroyed/Ma :: -1000
+#has_/time_/started /Ma :: -1200
+#has_/time_/stopped /Ma :: -1000
 
     sh:order 162 
 
@@ -55,3 +55,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~3~Stenian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.md) 
+
+### [Period~3~Stenian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.internal.md) 
+
+### [Period~3~Stenian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.protect.md) 
+
+### [Period~3~Stenian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.private.md) 
+
+### [Period~3~Stenian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.personal.md) 
+
+### [Period~3~Stenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~3~Stenian.secret.md) 

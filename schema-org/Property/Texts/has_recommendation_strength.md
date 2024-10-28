@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_recommendation_strength|has_recommendation_strength]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_recommendation_strength.public|has_recommendation_strength.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_recommendation_strength.internal|has_recommendation_strength.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_recommendation_strength.protect|has_recommendation_strength.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_recommendation_strength.private|has_recommendation_strength.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_recommendation_strength.personal|has_recommendation_strength.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_recommendation_strength.secret|has_recommendation_strength.secret]] 
+
+### [has_recommendation_strength](/_public/schema-org/Property/Texts/has_recommendation_strength.md) 
+
+### [has_recommendation_strength.internal](/_internal/schema-org/Property/Texts/has_recommendation_strength.internal.md) 
+
+### [has_recommendation_strength.protect](/_protect/schema-org/Property/Texts/has_recommendation_strength.protect.md) 
+
+### [has_recommendation_strength.private](/_private/schema-org/Property/Texts/has_recommendation_strength.private.md) 
+
+### [has_recommendation_strength.personal](/_personal/schema-org/Property/Texts/has_recommendation_strength.personal.md) 
+
+### [has_recommendation_strength.secret](/_secret/schema-org/Property/Texts/has_recommendation_strength.secret.md) 

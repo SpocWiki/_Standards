@@ -45,10 +45,15 @@ The geographic shape of a place. A GeoShape can be described using several prope
 [ #has_/properties :: [ additionalType, address, addressCountry, alternateName, box, circle, description, disambiguatingDescription, elevation, identifier, image, line, mainEntityOfPage, name, polygon, postalCode, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/structured_value/geo_shape|geo_shape]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/structured_value/geo_shape.public|geo_shape.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/structured_value/geo_shape.internal|geo_shape.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/structured_value/geo_shape.protect|geo_shape.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/structured_value/geo_shape.private|geo_shape.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/structured_value/geo_shape.personal|geo_shape.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/structured_value/geo_shape.secret|geo_shape.secret]] 
+
+### [geo_shape](/_public/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.md) 
+
+### [geo_shape.internal](/_internal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.internal.md) 
+
+### [geo_shape.protect](/_protect/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.protect.md) 
+
+### [geo_shape.private](/_private/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.private.md) 
+
+### [geo_shape.personal](/_personal/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.personal.md) 
+
+### [geo_shape.secret](/_secret/schema-org/Class/is_a_/Intangible/structured_value/geo_shape.secret.md) 

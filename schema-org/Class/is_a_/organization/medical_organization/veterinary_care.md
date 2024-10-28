@@ -43,10 +43,15 @@ A vet's office.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, healthPlanNetworkId, identifier, image, interactionStatistic, isAcceptingNewPatients, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, medicalSpecialty, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/medical_organization/veterinary_care|veterinary_care]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.public|veterinary_care.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/organization/medical_organization/veterinary_care.internal|veterinary_care.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/organization/medical_organization/veterinary_care.protect|veterinary_care.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/organization/medical_organization/veterinary_care.private|veterinary_care.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/organization/medical_organization/veterinary_care.personal|veterinary_care.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/organization/medical_organization/veterinary_care.secret|veterinary_care.secret]] 
+
+### [veterinary_care](/_public/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.md) 
+
+### [veterinary_care.internal](/_internal/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.internal.md) 
+
+### [veterinary_care.protect](/_protect/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.protect.md) 
+
+### [veterinary_care.private](/_private/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.private.md) 
+
+### [veterinary_care.personal](/_personal/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.personal.md) 
+
+### [veterinary_care.secret](/_secret/schema-org/Class/is_a_/organization/medical_organization/veterinary_care.secret.md) 

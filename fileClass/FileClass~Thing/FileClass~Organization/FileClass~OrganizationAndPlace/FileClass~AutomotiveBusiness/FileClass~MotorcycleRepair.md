@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A motorcycle repair shop.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MotorcycleRepair](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleRepair.md) 
+
+### [FileClass~MotorcycleRepair.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleRepair.internal.md) 
+
+### [FileClass~MotorcycleRepair.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleRepair.protect.md) 
+
+### [FileClass~MotorcycleRepair.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleRepair.private.md) 
+
+### [FileClass~MotorcycleRepair.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleRepair.personal.md) 
+
+### [FileClass~MotorcycleRepair.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~AutomotiveBusiness/FileClass~MotorcycleRepair.secret.md) 

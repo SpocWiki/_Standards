@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Visibility
 ---
@@ -49,3 +49,17 @@ Common among most Governments are these Levels:
 type: folder_brief_live
 ```
  
+
+## Confidential Links & Embeds: 
+
+### [Confidentiality](/_public/Confidentiality.md) 
+
+### [Confidentiality.internal](/_internal/Confidentiality.internal.md) 
+
+### [Confidentiality.protect](/_protect/Confidentiality.protect.md) 
+
+### [Confidentiality.private](/_private/Confidentiality.private.md) 
+
+### [Confidentiality.personal](/_personal/Confidentiality.personal.md) 
+
+### [Confidentiality.secret](/_secret/Confidentiality.secret.md) 

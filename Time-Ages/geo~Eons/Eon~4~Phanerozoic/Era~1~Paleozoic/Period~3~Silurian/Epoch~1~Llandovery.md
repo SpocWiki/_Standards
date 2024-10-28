@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~1~Llandovery]] 
 
 #is_a_/time_/Epoch 
@@ -38,8 +38,8 @@ A time period from 443.8 to 433.4 million years ago.
 
 #has_/abbreviation :: S1
 
-#has_/time_/created/Ma :: -443.8 
-#has_/time_/destroyed/Ma :: -433.4 
+#has_/time_/started /Ma :: -443.8 
+#has_/time_/stopped /Ma :: -433.4 
 
     sh:order 128 
 
@@ -59,3 +59,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~1~Llandovery](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery.md) 
+
+### [Epoch~1~Llandovery.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery.internal.md) 
+
+### [Epoch~1~Llandovery.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery.protect.md) 
+
+### [Epoch~1~Llandovery.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery.private.md) 
+
+### [Epoch~1~Llandovery.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery.personal.md) 
+
+### [Epoch~1~Llandovery.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery.secret.md) 

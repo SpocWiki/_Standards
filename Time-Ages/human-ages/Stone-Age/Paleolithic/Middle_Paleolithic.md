@@ -1,4 +1,4 @@
-# [[Middle_Paleolithic]] 
+﻿# [[Middle_Paleolithic]] 
 
 #is_a_/time_/Culture 
 
@@ -9,5 +9,19 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Paleolithic)
 
 
-#has_/time_/created/ka :: -300  
-#has_/time_/destroyed/ka :: -50  
+#has_/time_/started /ka :: -300  
+#has_/time_/stopped /ka :: -50  
+
+## Confidential Links & Embeds: 
+
+### [Middle_Paleolithic](/_public/Time-Ages/human-ages/Stone-Age/Paleolithic/Middle_Paleolithic.md) 
+
+### [Middle_Paleolithic.internal](/_internal/Time-Ages/human-ages/Stone-Age/Paleolithic/Middle_Paleolithic.internal.md) 
+
+### [Middle_Paleolithic.protect](/_protect/Time-Ages/human-ages/Stone-Age/Paleolithic/Middle_Paleolithic.protect.md) 
+
+### [Middle_Paleolithic.private](/_private/Time-Ages/human-ages/Stone-Age/Paleolithic/Middle_Paleolithic.private.md) 
+
+### [Middle_Paleolithic.personal](/_personal/Time-Ages/human-ages/Stone-Age/Paleolithic/Middle_Paleolithic.personal.md) 
+
+### [Middle_Paleolithic.secret](/_secret/Time-Ages/human-ages/Stone-Age/Paleolithic/Middle_Paleolithic.secret.md) 

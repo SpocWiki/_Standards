@@ -1,35 +1,33 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Url
+cssclasses:
+  - Predicate
+  - Url
 publish: true
-
-# Hugo Tags
 type: Predi_Url
-
 title: has_url_for_same_as
 linkTitle: has_url_for_same_as
-
-keywords: [same_as]
+keywords:
+  - same_as
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Url
-
+  - class/Property
+  - schema-org/Property/Url
 aliases:
-- same-as
-- same_as
-- sameAs
-- owl~sameAs 
-- has_url_for_same_as
+  - same-as
+  - same_as
+  - sameAs
+  - owl~sameAs
+  - has_url_for_same_as
+  - schema:sameAs
+  - owl:sameAs
+  - wdt:P2888
 ---
 
 Predicate to specify another [[../Class/is_a_/data_type/text/URL|url]] of a [[../Class/Thing|Thing]].
@@ -53,10 +51,15 @@ Predicate describes that:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_same_as|has_url_for_same_as]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_same_as.public|has_url_for_same_as.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_same_as.internal|has_url_for_same_as.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_same_as.protect|has_url_for_same_as.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_same_as.private|has_url_for_same_as.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_same_as.personal|has_url_for_same_as.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_same_as.secret|has_url_for_same_as.secret]] 
+
+### [is_same_as](/_public/schema-org/Relation/is_same_as.md) 
+
+### [is_same_as.internal](/_internal/schema-org/Relation/is_same_as.internal.md) 
+
+### [is_same_as.protect](/_protect/schema-org/Relation/is_same_as.protect.md) 
+
+### [is_same_as.private](/_private/schema-org/Relation/is_same_as.private.md) 
+
+### [is_same_as.personal](/_personal/schema-org/Relation/is_same_as.personal.md) 
+
+### [is_same_as.secret](/_secret/schema-org/Relation/is_same_as.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of dressing oneself in clothing.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~WearAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.md) 
+
+### [FileClass~WearAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.internal.md) 
+
+### [FileClass~WearAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.protect.md) 
+
+### [FileClass~WearAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.private.md) 
+
+### [FileClass~WearAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.personal.md) 
+
+### [FileClass~WearAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~UseAction/FileClass~WearAction.secret.md) 

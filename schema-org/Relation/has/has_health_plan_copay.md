@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: PriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_health_plan_copay|has_health_plan_copay]] 
-- [[../../../../../_public/schema-org/Relation/has/has_health_plan_copay.public|has_health_plan_copay.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_health_plan_copay.internal|has_health_plan_copay.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_health_plan_copay.protect|has_health_plan_copay.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_health_plan_copay.private|has_health_plan_copay.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_health_plan_copay.personal|has_health_plan_copay.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_health_plan_copay.secret|has_health_plan_copay.secret]] 
+
+### [has_health_plan_copay](/_public/schema-org/Relation/has/has_health_plan_copay.md) 
+
+### [has_health_plan_copay.internal](/_internal/schema-org/Relation/has/has_health_plan_copay.internal.md) 
+
+### [has_health_plan_copay.protect](/_protect/schema-org/Relation/has/has_health_plan_copay.protect.md) 
+
+### [has_health_plan_copay.private](/_private/schema-org/Relation/has/has_health_plan_copay.private.md) 
+
+### [has_health_plan_copay.personal](/_personal/schema-org/Relation/has/has_health_plan_copay.personal.md) 
+
+### [has_health_plan_copay.secret](/_secret/schema-org/Relation/has/has_health_plan_copay.secret.md) 

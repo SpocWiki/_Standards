@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -78,3 +78,17 @@ The typical delay the order has been sent for delivery and the goods reach the f
 TransitTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/StructuredValue/QuantitativeValue')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ShippingDeliveryTime](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.md) 
+
+### [FileClass~ShippingDeliveryTime.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.internal.md) 
+
+### [FileClass~ShippingDeliveryTime.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.protect.md) 
+
+### [FileClass~ShippingDeliveryTime.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.private.md) 
+
+### [FileClass~ShippingDeliveryTime.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.personal.md) 
+
+### [FileClass~ShippingDeliveryTime.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.secret.md) 

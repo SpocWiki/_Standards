@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of consuming dynamic/moving visual content.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~WatchAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.md) 
+
+### [FileClass~WatchAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.internal.md) 
+
+### [FileClass~WatchAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.protect.md) 
+
+### [FileClass~WatchAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.private.md) 
+
+### [FileClass~WatchAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.personal.md) 
+
+### [FileClass~WatchAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~WatchAction.secret.md) 

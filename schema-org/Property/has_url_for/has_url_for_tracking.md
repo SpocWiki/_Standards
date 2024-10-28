@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_tracking_url|has_url_for_tracking_url]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_tracking_url.public|has_url_for_tracking_url.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_tracking_url.internal|has_url_for_tracking_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_tracking_url.protect|has_url_for_tracking_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_tracking_url.private|has_url_for_tracking_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_tracking_url.personal|has_url_for_tracking_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_tracking_url.secret|has_url_for_tracking_url.secret]] 
+
+### [has_url_for_tracking](/_public/schema-org/Property/has_url_for/has_url_for_tracking.md) 
+
+### [has_url_for_tracking.internal](/_internal/schema-org/Property/has_url_for/has_url_for_tracking.internal.md) 
+
+### [has_url_for_tracking.protect](/_protect/schema-org/Property/has_url_for/has_url_for_tracking.protect.md) 
+
+### [has_url_for_tracking.private](/_private/schema-org/Property/has_url_for/has_url_for_tracking.private.md) 
+
+### [has_url_for_tracking.personal](/_personal/schema-org/Property/has_url_for/has_url_for_tracking.personal.md) 
+
+### [has_url_for_tracking.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret.md) 

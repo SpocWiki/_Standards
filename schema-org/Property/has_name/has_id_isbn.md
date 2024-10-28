@@ -1,34 +1,30 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Text
+cssclasses:
+  - Predicate
+  - Text
 publish: true
-
-# Hugo Tags
 type: Pred_Text
-
 title: has_id_isbn
 linkTitle: has_id_isbn
-
-keywords: [id_isbn]
+keywords:
+  - id_isbn
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/Text
-
+  - class/Property
+  - schema-org/Property/Text
 aliases:
-- id_isbn
-- id_isbn
-- id_isbn
-- has_id_isbn
+  - id_isbn
+  - has_id_isbn
+  - schema:isbn
+  - dbo:isbn
+  - wdt:P212
 ---
 
 Predicate to describe the Text of Book.
@@ -47,10 +43,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_isbn|has_id_isbn]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_isbn.public|has_id_isbn.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_isbn.internal|has_id_isbn.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_isbn.protect|has_id_isbn.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_isbn.private|has_id_isbn.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_isbn.personal|has_id_isbn.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_isbn.secret|has_id_isbn.secret]] 
+
+### [has_id_isbn](/_public/schema-org/Property/has_name/has_id_isbn.md) 
+
+### [has_id_isbn.internal](/_internal/schema-org/Property/has_name/has_id_isbn.internal.md) 
+
+### [has_id_isbn.protect](/_protect/schema-org/Property/has_name/has_id_isbn.protect.md) 
+
+### [has_id_isbn.private](/_private/schema-org/Property/has_name/has_id_isbn.private.md) 
+
+### [has_id_isbn.personal](/_personal/schema-org/Property/has_name/has_id_isbn.personal.md) 
+
+### [has_id_isbn.secret](/_secret/schema-org/Property/has_name/has_id_isbn.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_print_column|has_print_column]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_print_column.public|has_print_column.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_print_column.internal|has_print_column.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_print_column.protect|has_print_column.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_print_column.private|has_print_column.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_print_column.personal|has_print_column.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_print_column.secret|has_print_column.secret]] 
+
+### [has_print_column](/_public/schema-org/Property/Texts/has_print_column.md) 
+
+### [has_print_column.internal](/_internal/schema-org/Property/Texts/has_print_column.internal.md) 
+
+### [has_print_column.protect](/_protect/schema-org/Property/Texts/has_print_column.protect.md) 
+
+### [has_print_column.private](/_private/schema-org/Property/Texts/has_print_column.private.md) 
+
+### [has_print_column.personal](/_personal/schema-org/Property/Texts/has_print_column.personal.md) 
+
+### [has_print_column.secret](/_secret/schema-org/Property/Texts/has_print_column.secret.md) 

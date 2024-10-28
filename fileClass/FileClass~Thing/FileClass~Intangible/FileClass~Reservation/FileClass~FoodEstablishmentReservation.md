@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -73,3 +73,17 @@ Note that Event uses startDate/endDate instead of startTime/endTime, even when d
 StartTime:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~FoodEstablishmentReservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.md) 
+
+### [FileClass~FoodEstablishmentReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.internal.md) 
+
+### [FileClass~FoodEstablishmentReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.protect.md) 
+
+### [FileClass~FoodEstablishmentReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.private.md) 
+
+### [FileClass~FoodEstablishmentReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.personal.md) 
+
+### [FileClass~FoodEstablishmentReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~FoodEstablishmentReservation.secret.md) 

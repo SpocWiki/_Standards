@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_rxcui|has_id_rxcui]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_rxcui.public|has_id_rxcui.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_rxcui.internal|has_id_rxcui.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_rxcui.protect|has_id_rxcui.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_rxcui.private|has_id_rxcui.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_rxcui.personal|has_id_rxcui.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_rxcui.secret|has_id_rxcui.secret]] 
+
+### [has_id_rxcui](/_public/schema-org/Property/has_name/has_id_rxcui.md) 
+
+### [has_id_rxcui.internal](/_internal/schema-org/Property/has_name/has_id_rxcui.internal.md) 
+
+### [has_id_rxcui.protect](/_protect/schema-org/Property/has_name/has_id_rxcui.protect.md) 
+
+### [has_id_rxcui.private](/_private/schema-org/Property/has_name/has_id_rxcui.private.md) 
+
+### [has_id_rxcui.personal](/_personal/schema-org/Property/has_name/has_id_rxcui.personal.md) 
+
+### [has_id_rxcui.secret](/_secret/schema-org/Property/has_name/has_id_rxcui.secret.md) 

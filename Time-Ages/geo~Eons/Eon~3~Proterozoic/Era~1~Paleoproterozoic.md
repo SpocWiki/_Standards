@@ -1,4 +1,4 @@
-# [[Era~1~Paleoproterozoic]] 
+﻿# [[Era~1~Paleoproterozoic]] 
 
 #is_a_/time_/Era 
 
@@ -37,8 +37,8 @@ A time period from 2500 to 1600 million years ago.
 #has_/label_/sv  :: paleoproterozoikum
 #has_/label_/zh  :: 古元古代
 
-#has_/time_/created/Ma :: -2500
-#has_/time_/destroyed/Ma :: -1600
+#has_/time_/started /Ma :: -2500
+#has_/time_/stopped /Ma :: -1600
 
 #has_/text_of_/color :: 0xF74370
 
@@ -56,3 +56,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Era~1~Paleoproterozoic](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.md) 
+
+### [Era~1~Paleoproterozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.internal.md) 
+
+### [Era~1~Paleoproterozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.protect.md) 
+
+### [Era~1~Paleoproterozoic.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.private.md) 
+
+### [Era~1~Paleoproterozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.personal.md) 
+
+### [Era~1~Paleoproterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic.secret.md) 

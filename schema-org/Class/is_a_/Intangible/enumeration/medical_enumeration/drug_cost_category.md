@@ -41,10 +41,15 @@ Enumerated categories of medical drug costs.
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category|drug_cost_category]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.public|drug_cost_category.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.internal|drug_cost_category.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.protect|drug_cost_category.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.private|drug_cost_category.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.personal|drug_cost_category.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category.secret|drug_cost_category.secret]] 
+
+### [drug_cost_category](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.md) 
+
+### [drug_cost_category.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.internal.md) 
+
+### [drug_cost_category.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.protect.md) 
+
+### [drug_cost_category.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.private.md) 
+
+### [drug_cost_category.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.personal.md) 
+
+### [drug_cost_category.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category.secret.md) 

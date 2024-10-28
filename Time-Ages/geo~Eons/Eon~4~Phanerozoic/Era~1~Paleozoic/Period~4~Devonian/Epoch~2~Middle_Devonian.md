@@ -1,4 +1,4 @@
-# [[Epoch~2~Middle_Devonian]] 
+﻿# [[Epoch~2~Middle_Devonian]] 
 
 #is_a_/time_/Epoch 
 
@@ -33,8 +33,8 @@ A time period from 393.3 to 382.7 million years ago.
 
 #has_/abbreviation :: D2
 
-#has_/time_/created/Ma :: -393.3 
-#has_/time_/destroyed/Ma :: -382.7 
+#has_/time_/started /Ma :: -393.3 
+#has_/time_/stopped /Ma :: -382.7 
 
     sh:order 113 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~2~Middle_Devonian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.md) 
+
+### [Epoch~2~Middle_Devonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.internal.md) 
+
+### [Epoch~2~Middle_Devonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.protect.md) 
+
+### [Epoch~2~Middle_Devonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.private.md) 
+
+### [Epoch~2~Middle_Devonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.personal.md) 
+
+### [Epoch~2~Middle_Devonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian.secret.md) 

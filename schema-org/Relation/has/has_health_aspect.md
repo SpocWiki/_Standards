@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: HealthAspectEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_health_aspect|has_health_aspect]] 
-- [[../../../../../_public/schema-org/Relation/has/has_health_aspect.public|has_health_aspect.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_health_aspect.internal|has_health_aspect.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_health_aspect.protect|has_health_aspect.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_health_aspect.private|has_health_aspect.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_health_aspect.personal|has_health_aspect.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_health_aspect.secret|has_health_aspect.secret]] 
+
+### [has_health_aspect](/_public/schema-org/Relation/has/has_health_aspect.md) 
+
+### [has_health_aspect.internal](/_internal/schema-org/Relation/has/has_health_aspect.internal.md) 
+
+### [has_health_aspect.protect](/_protect/schema-org/Relation/has/has_health_aspect.protect.md) 
+
+### [has_health_aspect.private](/_private/schema-org/Relation/has/has_health_aspect.private.md) 
+
+### [has_health_aspect.personal](/_personal/schema-org/Relation/has/has_health_aspect.personal.md) 
+
+### [has_health_aspect.secret](/_secret/schema-org/Relation/has/has_health_aspect.secret.md) 

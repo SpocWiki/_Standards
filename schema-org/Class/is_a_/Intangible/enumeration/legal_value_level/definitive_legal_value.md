@@ -48,10 +48,15 @@ Indicates a document for which the text is conclusively what the law says and is
 [ #is_/enum_of :: [[../LegalValueLevel]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value|definitive_legal_value]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.public|definitive_legal_value.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.internal|definitive_legal_value.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.protect|definitive_legal_value.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.private|definitive_legal_value.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.personal|definitive_legal_value.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/legal_value_level/definitive_legal_value.secret|definitive_legal_value.secret]] 
+
+### [definitive_legal_value](/_public/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.md) 
+
+### [definitive_legal_value.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.internal.md) 
+
+### [definitive_legal_value.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.protect.md) 
+
+### [definitive_legal_value.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.private.md) 
+
+### [definitive_legal_value.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.personal.md) 
+
+### [definitive_legal_value.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/legal_value_level/definitive_legal_value.secret.md) 

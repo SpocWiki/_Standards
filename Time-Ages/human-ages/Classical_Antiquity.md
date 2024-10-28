@@ -1,4 +1,4 @@
----
+﻿---
 
 ClassicalAntiquity:
 - ["Event and Year of...","Start","End"]
@@ -241,3 +241,17 @@ col: 2
 briefMax: 128
 noteOnly: true
 ```
+
+## Confidential Links & Embeds: 
+
+### [Classical_Antiquity](/_public/Time-Ages/human-ages/Classical_Antiquity.md) 
+
+### [Classical_Antiquity.internal](/_internal/Time-Ages/human-ages/Classical_Antiquity.internal.md) 
+
+### [Classical_Antiquity.protect](/_protect/Time-Ages/human-ages/Classical_Antiquity.protect.md) 
+
+### [Classical_Antiquity.private](/_private/Time-Ages/human-ages/Classical_Antiquity.private.md) 
+
+### [Classical_Antiquity.personal](/_personal/Time-Ages/human-ages/Classical_Antiquity.personal.md) 
+
+### [Classical_Antiquity.secret](/_secret/Time-Ages/human-ages/Classical_Antiquity.secret.md) 

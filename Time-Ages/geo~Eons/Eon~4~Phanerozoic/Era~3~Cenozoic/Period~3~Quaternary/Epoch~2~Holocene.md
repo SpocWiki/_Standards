@@ -1,4 +1,4 @@
-# [[Epoch~2~Holocene]] 
+﻿# [[Epoch~2~Holocene]] 
 
 #is_a_/time_/Epoch 
 
@@ -30,8 +30,8 @@ A time period from 11_650 years ago to the present.
 #has_/label_/zh  :: 全新世
 
 #has_/abbreviation :: Q2
-#has_/time_/created/Ma :: -0.0117
-#has_/time_/destroyed/Ma :: 0.002 
+#has_/time_/started /Ma :: -0.0117
+#has_/time_/stopped /Ma :: 0.002 
 
     sh:order 4 
 
@@ -51,3 +51,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~2~Holocene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene.md) 
+
+### [Epoch~2~Holocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene.internal.md) 
+
+### [Epoch~2~Holocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene.protect.md) 
+
+### [Epoch~2~Holocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene.private.md) 
+
+### [Epoch~2~Holocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene.personal.md) 
+
+### [Epoch~2~Holocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene.secret.md) 

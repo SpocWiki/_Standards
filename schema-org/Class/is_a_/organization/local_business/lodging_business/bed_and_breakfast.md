@@ -45,10 +45,15 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, audience, availableLanguage, award, awards, branchCode, branchOf, brand, checkinTime, checkoutTime, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, numberOfRooms, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, petsAllowed, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, starRating, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast|bed_and_breakfast]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.public|bed_and_breakfast.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.internal|bed_and_breakfast.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.protect|bed_and_breakfast.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.private|bed_and_breakfast.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.personal|bed_and_breakfast.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.secret|bed_and_breakfast.secret]] 
+
+### [bed_and_breakfast](/_public/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.md) 
+
+### [bed_and_breakfast.internal](/_internal/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.internal.md) 
+
+### [bed_and_breakfast.protect](/_protect/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.protect.md) 
+
+### [bed_and_breakfast.private](/_private/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.private.md) 
+
+### [bed_and_breakfast.personal](/_personal/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.personal.md) 
+
+### [bed_and_breakfast.secret](/_secret/schema-org/Class/is_a_/organization/local_business/lodging_business/bed_and_breakfast.secret.md) 

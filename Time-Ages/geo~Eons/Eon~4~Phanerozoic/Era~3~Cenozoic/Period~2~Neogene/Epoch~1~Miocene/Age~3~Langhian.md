@@ -1,4 +1,4 @@
-# [[Age~3~Langhian]] 
+﻿# [[Age~3~Langhian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 15.98 to 13.82 million years ago.
 
 #has_/abbreviation :: n3
 
-#has_/time_/created/Ma :: -15.98
-#has_/time_/destroyed/Ma :: -13.82
+#has_/time_/started /Ma :: -15.98
+#has_/time_/stopped /Ma :: -13.82
 
     sh:order 17 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Langhian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.md) 
+
+### [Age~3~Langhian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.internal.md) 
+
+### [Age~3~Langhian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.protect.md) 
+
+### [Age~3~Langhian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.private.md) 
+
+### [Age~3~Langhian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.personal.md) 
+
+### [Age~3~Langhian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~3~Langhian.secret.md) 

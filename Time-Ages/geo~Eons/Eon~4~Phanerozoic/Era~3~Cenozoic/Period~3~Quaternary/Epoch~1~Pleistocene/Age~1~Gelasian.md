@@ -1,4 +1,4 @@
-# [[Age~1~Gelasian]] 
+﻿# [[Age~1~Gelasian]] 
 
 #is_a_/time_/Age 
 
@@ -30,8 +30,8 @@ A time period from 2.58 to 1.8 million years ago.
 
 #has_/abbreviation :: q1
 
-#has_/time_/created/Ma :: -2.58
-#has_/time_/destroyed/Ma :: -1.8
+#has_/time_/started /Ma :: -2.58
+#has_/time_/stopped /Ma :: -1.8
 
     sh:order 8 
 
@@ -51,3 +51,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Gelasian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.md) 
+
+### [Age~1~Gelasian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.internal.md) 
+
+### [Age~1~Gelasian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.protect.md) 
+
+### [Age~1~Gelasian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.private.md) 
+
+### [Age~1~Gelasian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.personal.md) 
+
+### [Age~1~Gelasian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~1~Gelasian.secret.md) 

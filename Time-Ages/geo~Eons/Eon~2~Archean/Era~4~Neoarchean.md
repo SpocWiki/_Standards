@@ -1,4 +1,4 @@
-# [[Era~4~Neoarchean]] 
+﻿# [[Era~4~Neoarchean]] 
 
 #is_a_/time_/Era 
 
@@ -34,8 +34,8 @@ A time period from 2800 to 2500 million years ago.
 #has_/label_/sl  :: neoarhaik
 #has_/label_/sv  :: neoarkeikum
 #has_/label_/zh  :: 新太古代
-#has_/time_/created/Ma :: -2800
-#has_/time_/destroyed/Ma :: -2500
+#has_/time_/started /Ma :: -2800
+#has_/time_/stopped /Ma :: -2500
 #has_/text_of_/color :: 0xF99BC1
 
 ## All Contents
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Era~4~Neoarchean](/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~4~Neoarchean.md) 
+
+### [Era~4~Neoarchean.internal](/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~4~Neoarchean.internal.md) 
+
+### [Era~4~Neoarchean.protect](/_protect/Time-Ages/geo~Eons/Eon~2~Archean/Era~4~Neoarchean.protect.md) 
+
+### [Era~4~Neoarchean.private](/_private/Time-Ages/geo~Eons/Eon~2~Archean/Era~4~Neoarchean.private.md) 
+
+### [Era~4~Neoarchean.personal](/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~4~Neoarchean.personal.md) 
+
+### [Era~4~Neoarchean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~4~Neoarchean.secret.md) 

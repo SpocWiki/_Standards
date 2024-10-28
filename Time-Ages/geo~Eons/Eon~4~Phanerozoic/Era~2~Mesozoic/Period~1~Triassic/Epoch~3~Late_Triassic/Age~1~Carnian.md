@@ -1,4 +1,4 @@
-# [[Age~1~Carnian]] 
+﻿# [[Age~1~Carnian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 237 to 227 million years ago.
 
 #has_/abbreviation :: t5
 
-#has_/time_/created/Ma :: -237 
-#has_/time_/destroyed/Ma :: -227 
+#has_/time_/started /Ma :: -237 
+#has_/time_/stopped /Ma :: -227 
 
     sh:order 68 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Carnian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.md) 
+
+### [Age~1~Carnian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.internal.md) 
+
+### [Age~1~Carnian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.protect.md) 
+
+### [Age~1~Carnian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.private.md) 
+
+### [Age~1~Carnian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.personal.md) 
+
+### [Age~1~Carnian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~1~Carnian.secret.md) 

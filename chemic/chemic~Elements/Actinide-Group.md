@@ -1,4 +1,4 @@
----
+﻿---
 type: ElementGroup
 ---
 #chemic/Group 
@@ -21,10 +21,15 @@ type: folder_brief_live
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/chemic/Elements/Actinide-Group|Actinide-Group]] 
-- [[../../../_public/chemic/Elements/Actinide-Group.public|Actinide-Group.public]] 
-- [[../../../_internal/chemic/Elements/Actinide-Group.internal|Actinide-Group.internal]] 
-- [[../../../_protect/chemic/Elements/Actinide-Group.protect|Actinide-Group.protect]] 
-- [[../../../_private/chemic/Elements/Actinide-Group.private|Actinide-Group.private]] 
-- [[../../../_personal/chemic/Elements/Actinide-Group.personal|Actinide-Group.personal]] 
-- [[../../../_secret/chemic/Elements/Actinide-Group.secret|Actinide-Group.secret]] 
+
+### [Actinide-Group](/_public/chemic/chemic~Elements/Actinide-Group.md) 
+
+### [Actinide-Group.internal](/_internal/chemic/chemic~Elements/Actinide-Group.internal.md) 
+
+### [Actinide-Group.protect](/_protect/chemic/chemic~Elements/Actinide-Group.protect.md) 
+
+### [Actinide-Group.private](/_private/chemic/chemic~Elements/Actinide-Group.private.md) 
+
+### [Actinide-Group.personal](/_personal/chemic/chemic~Elements/Actinide-Group.personal.md) 
+
+### [Actinide-Group.secret](/_secret/chemic/chemic~Elements/Actinide-Group.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -35,3 +35,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TrainReservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.md) 
+
+### [FileClass~TrainReservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.internal.md) 
+
+### [FileClass~TrainReservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.protect.md) 
+
+### [FileClass~TrainReservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.private.md) 
+
+### [FileClass~TrainReservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.personal.md) 
+
+### [FileClass~TrainReservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation/FileClass~TrainReservation.secret.md) 

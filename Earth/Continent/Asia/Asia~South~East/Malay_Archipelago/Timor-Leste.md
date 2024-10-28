@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - -8.56667
   - 125.567
@@ -137,10 +137,15 @@ Capital :: [[Dili]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Timor-Leste|Timor-Leste]] 
-- [[../../../../_public/Earth/Continent/Oceania/Timor-Leste.public|Timor-Leste.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Timor-Leste.internal|Timor-Leste.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Timor-Leste.protect|Timor-Leste.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Timor-Leste.private|Timor-Leste.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Timor-Leste.personal|Timor-Leste.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Timor-Leste.secret|Timor-Leste.secret]] 
+
+### [Timor-Leste](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.md) 
+
+### [Timor-Leste.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.internal.md) 
+
+### [Timor-Leste.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.protect.md) 
+
+### [Timor-Leste.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.private.md) 
+
+### [Timor-Leste.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.personal.md) 
+
+### [Timor-Leste.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor-Leste.secret.md) 

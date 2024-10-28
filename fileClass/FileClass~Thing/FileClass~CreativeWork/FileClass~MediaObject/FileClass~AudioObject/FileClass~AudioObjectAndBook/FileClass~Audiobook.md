@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,3 +44,17 @@ A person who reads (performs) the audiobook.
 ReadBy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Person')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Audiobook](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectAndBook/FileClass~Audiobook.md) 
+
+### [FileClass~Audiobook.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectAndBook/FileClass~Audiobook.internal.md) 
+
+### [FileClass~Audiobook.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectAndBook/FileClass~Audiobook.protect.md) 
+
+### [FileClass~Audiobook.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectAndBook/FileClass~Audiobook.private.md) 
+
+### [FileClass~Audiobook.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectAndBook/FileClass~Audiobook.personal.md) 
+
+### [FileClass~Audiobook.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~AudioObject/FileClass~AudioObjectAndBook/FileClass~Audiobook.secret.md) 

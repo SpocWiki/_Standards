@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
   - Chinese
@@ -119,11 +119,15 @@ Huizhou: czh
 > [Wikipedia](https://en.wikipedia.org/wiki/Chinese%20language)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-zh|Lang-zh]] 
-- [[../../_public/lang/Lang-zh.public|Lang-zh.public]] 
-- [[../../../../../_internal/lang/Lang-zh.internal|Lang-zh.internal]] 
-- [[../../_protect/lang/Lang-zh.protect|Lang-zh.protect]] 
-- [[../../_private/lang/Lang-zh.private|Lang-zh.private]] 
-- [[../../_personal/lang/Lang-zh.personal|Lang-zh.personal]] 
-- [[../../_secret/lang/Lang-zh.secret|Lang-zh.secret]]
 
+### [Lang-zh-cmn](/_public/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.md) 
+
+### [Lang-zh-cmn.internal](/_internal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.internal.md) 
+
+### [Lang-zh-cmn.protect](/_protect/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.protect.md) 
+
+### [Lang-zh-cmn.private](/_private/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.private.md) 
+
+### [Lang-zh-cmn.personal](/_personal/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.personal.md) 
+
+### [Lang-zh-cmn.secret](/_secret/Language/Lang~Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.secret.md) 

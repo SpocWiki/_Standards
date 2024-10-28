@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:UpperDevonian
 ---
@@ -27,8 +27,8 @@ A time period from 382.7 to 358.9 million years ago.
 #has_/label_/zh  :: 晚泥盆世
 #has_/abbreviation :: D3
 
-#has_/time_/created/Ma :: -382.7 
-#has_/time_/destroyed/Ma :: -358.9 
+#has_/time_/started /Ma :: -382.7 
+#has_/time_/stopped /Ma :: -358.9 
 
     sh:order 110 
 
@@ -48,3 +48,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~3~Late_Devonian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian.md) 
+
+### [Epoch~3~Late_Devonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian.internal.md) 
+
+### [Epoch~3~Late_Devonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian.protect.md) 
+
+### [Epoch~3~Late_Devonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian.private.md) 
+
+### [Epoch~3~Late_Devonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian.personal.md) 
+
+### [Epoch~3~Late_Devonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian.secret.md) 

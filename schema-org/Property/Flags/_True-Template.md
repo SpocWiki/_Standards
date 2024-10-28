@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -57,10 +57,15 @@ Predicate describes that:
 [ #has_/sub_properties :: [ {{subproperties}} ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/_True-Template|_True-Template]] 
-- [[../../../../_public/schema-org/Predicate/Flags/_True-Template.public|_True-Template.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/_True-Template.internal|_True-Template.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/_True-Template.protect|_True-Template.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/_True-Template.private|_True-Template.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/_True-Template.personal|_True-Template.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/_True-Template.secret|_True-Template.secret]] 
+
+### [_True-Template](/_public/schema-org/Property/Flags/_True-Template.md) 
+
+### [_True-Template.internal](/_internal/schema-org/Property/Flags/_True-Template.internal.md) 
+
+### [_True-Template.protect](/_protect/schema-org/Property/Flags/_True-Template.protect.md) 
+
+### [_True-Template.private](/_private/schema-org/Property/Flags/_True-Template.private.md) 
+
+### [_True-Template.personal](/_personal/schema-org/Property/Flags/_True-Template.personal.md) 
+
+### [_True-Template.secret](/_secret/schema-org/Property/Flags/_True-Template.secret.md) 

@@ -45,10 +45,15 @@ DemoAlbum.
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type/demo_album|demo_album]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type/demo_album.public|demo_album.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/demo_album.internal|demo_album.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/demo_album.protect|demo_album.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/demo_album.private|demo_album.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/demo_album.personal|demo_album.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/demo_album.secret|demo_album.secret]] 
+
+### [demo_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.md) 
+
+### [demo_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.internal.md) 
+
+### [demo_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.protect.md) 
+
+### [demo_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.private.md) 
+
+### [demo_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.personal.md) 
+
+### [demo_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/demo_album.secret.md) 

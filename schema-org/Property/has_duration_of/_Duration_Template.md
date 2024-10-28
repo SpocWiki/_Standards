@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,10 +53,15 @@ Is [sub_property_of::{{subPropertyOf}}]
 Has [sub_properties::{{subproperties}}]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/_Duration_Template|_Duration_Template]] 
-- [[../../../../_public/schema-org/Predicate/Durations/_Duration_Template.public|_Duration_Template.public]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/_Duration_Template.internal|_Duration_Template.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/_Duration_Template.protect|_Duration_Template.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/_Duration_Template.private|_Duration_Template.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/_Duration_Template.personal|_Duration_Template.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/_Duration_Template.secret|_Duration_Template.secret]] 
+
+### [_Duration_Template](/_public/schema-org/Property/has_duration_of/_Duration_Template.md) 
+
+### [_Duration_Template.internal](/_internal/schema-org/Property/has_duration_of/_Duration_Template.internal.md) 
+
+### [_Duration_Template.protect](/_protect/schema-org/Property/has_duration_of/_Duration_Template.protect.md) 
+
+### [_Duration_Template.private](/_private/schema-org/Property/has_duration_of/_Duration_Template.private.md) 
+
+### [_Duration_Template.personal](/_personal/schema-org/Property/has_duration_of/_Duration_Template.personal.md) 
+
+### [_Duration_Template.secret](/_secret/schema-org/Property/has_duration_of/_Duration_Template.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 33.34
     - 44.42
@@ -145,9 +145,15 @@ Capital :: [[Iraq/Counties/Baghdad/City/Baghdad]]
 
 
 ## Confidential Links & Embeds: 
-- [[Iraq|Iraq]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Iraq.internal|Iraq.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Iraq.protect|Iraq.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Iraq.private|Iraq.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Iraq.personal|Iraq.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Iraq.secret|Iraq.secret]] 
+
+### [Iraq](/_public/Earth/Continent/Asia/Asia~West/Iraq.md) 
+
+### [Iraq.internal](/_internal/Earth/Continent/Asia/Asia~West/Iraq.internal.md) 
+
+### [Iraq.protect](/_protect/Earth/Continent/Asia/Asia~West/Iraq.protect.md) 
+
+### [Iraq.private](/_private/Earth/Continent/Asia/Asia~West/Iraq.private.md) 
+
+### [Iraq.personal](/_personal/Earth/Continent/Asia/Asia~West/Iraq.personal.md) 
+
+### [Iraq.secret](/_secret/Earth/Continent/Asia/Asia~West/Iraq.secret.md) 

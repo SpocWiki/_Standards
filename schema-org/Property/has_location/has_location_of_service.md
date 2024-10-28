@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_of_service|has_location_of_service]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_of_service.public|has_location_of_service.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_of_service.internal|has_location_of_service.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_of_service.protect|has_location_of_service.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_of_service.private|has_location_of_service.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_of_service.personal|has_location_of_service.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_of_service.secret|has_location_of_service.secret]] 
+
+### [has_location_of_service](/_public/schema-org/Property/has_location/has_location_of_service.md) 
+
+### [has_location_of_service.internal](/_internal/schema-org/Property/has_location/has_location_of_service.internal.md) 
+
+### [has_location_of_service.protect](/_protect/schema-org/Property/has_location/has_location_of_service.protect.md) 
+
+### [has_location_of_service.private](/_private/schema-org/Property/has_location/has_location_of_service.private.md) 
+
+### [has_location_of_service.personal](/_personal/schema-org/Property/has_location/has_location_of_service.personal.md) 
+
+### [has_location_of_service.secret](/_secret/schema-org/Property/has_location/has_location_of_service.secret.md) 

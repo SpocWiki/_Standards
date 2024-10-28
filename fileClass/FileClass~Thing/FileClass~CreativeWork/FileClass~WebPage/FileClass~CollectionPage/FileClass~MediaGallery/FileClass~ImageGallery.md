@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Web page type: Image gallery page.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ImageGallery](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~ImageGallery.md) 
+
+### [FileClass~ImageGallery.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~ImageGallery.internal.md) 
+
+### [FileClass~ImageGallery.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~ImageGallery.protect.md) 
+
+### [FileClass~ImageGallery.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~ImageGallery.private.md) 
+
+### [FileClass~ImageGallery.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~ImageGallery.personal.md) 
+
+### [FileClass~ImageGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~ImageGallery.secret.md) 

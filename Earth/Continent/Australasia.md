@@ -1,4 +1,4 @@
----
+﻿---
 type: Continent
 SpocWebEntityId: 27157
 confidential: public
@@ -38,10 +38,15 @@ lat: -30
 
 
 ## Confidential Links & Embeds: 
-- [[Australasia|Australasia]] 
-- [[../../../_public/Earth/Continent/Australia.public|Australia.public]] 
-- [[../../../_internal/Earth/Continent/Australia.internal|Australia.internal]] 
-- [[../../../_protect/Earth/Continent/Australia.protect|Australia.protect]] 
-- [[../../../_private/Earth/Continent/Australia.private|Australia.private]] 
-- [[../../../_personal/Earth/Continent/Australia.personal|Australia.personal]] 
-- [[../../../_secret/Earth/Continent/Australia.secret|Australia.secret]] 
+
+### [Australasia](/_public/Earth/Continent/Australasia.md) 
+
+### [Australasia.internal](/_internal/Earth/Continent/Australasia.internal.md) 
+
+### [Australasia.protect](/_protect/Earth/Continent/Australasia.protect.md) 
+
+### [Australasia.private](/_private/Earth/Continent/Australasia.private.md) 
+
+### [Australasia.personal](/_personal/Earth/Continent/Australasia.personal.md) 
+
+### [Australasia.secret](/_secret/Earth/Continent/Australasia.secret.md) 

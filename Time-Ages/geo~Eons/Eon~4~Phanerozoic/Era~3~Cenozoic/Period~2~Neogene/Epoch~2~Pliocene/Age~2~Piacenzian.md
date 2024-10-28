@@ -1,4 +1,4 @@
-# [[Age~2~Piacenzian]]
+﻿# [[Age~2~Piacenzian]]
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 3.60 to 2.58 million years ago.
 
 #has_/abbreviation :: n8
 
-#has_/time_/created/Ma :: -3.6
-#has_/time_/destroyed/Ma :: -2.58
+#has_/time_/started /Ma :: -3.6
+#has_/time_/stopped /Ma :: -2.58
 
     sh:order 11 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Piacenzian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.md) 
+
+### [Age~2~Piacenzian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.internal.md) 
+
+### [Age~2~Piacenzian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.protect.md) 
+
+### [Age~2~Piacenzian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.private.md) 
+
+### [Age~2~Piacenzian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.personal.md) 
+
+### [Age~2~Piacenzian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~2~Piacenzian.secret.md) 

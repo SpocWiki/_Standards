@@ -1,4 +1,4 @@
-# [[Period~3~Ediacaran]] 
+﻿# [[Period~3~Ediacaran]] 
 
 #is_a_/time_/Period 
 
@@ -38,8 +38,8 @@ A time period from 635 to 538.8 million years ago
 
 #has_/abbreviation :: NP3
 
-#has_/time_/created/Ma :: -635 
-#has_/time_/destroyed/Ma :: -538.8 
+#has_/time_/started /Ma :: -635 
+#has_/time_/stopped /Ma :: -538.8 
 
     sh:order 158 
 
@@ -59,3 +59,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~3~Ediacaran](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.md) 
+
+### [Period~3~Ediacaran.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.internal.md) 
+
+### [Period~3~Ediacaran.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.protect.md) 
+
+### [Period~3~Ediacaran.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.private.md) 
+
+### [Period~3~Ediacaran.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.personal.md) 
+
+### [Period~3~Ediacaran.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~3~Ediacaran.secret.md) 

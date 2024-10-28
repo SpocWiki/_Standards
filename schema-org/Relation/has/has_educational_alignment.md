@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 ( #has_/range :: AlignmentObject )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_educational_alignment|has_educational_alignment]] 
-- [[../../../../../_public/schema-org/Relation/has/has_educational_alignment.public|has_educational_alignment.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_educational_alignment.internal|has_educational_alignment.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_educational_alignment.protect|has_educational_alignment.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_educational_alignment.private|has_educational_alignment.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_educational_alignment.personal|has_educational_alignment.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_educational_alignment.secret|has_educational_alignment.secret]] 
+
+### [has_educational_alignment](/_public/schema-org/Relation/has/has_educational_alignment.md) 
+
+### [has_educational_alignment.internal](/_internal/schema-org/Relation/has/has_educational_alignment.internal.md) 
+
+### [has_educational_alignment.protect](/_protect/schema-org/Relation/has/has_educational_alignment.protect.md) 
+
+### [has_educational_alignment.private](/_private/schema-org/Relation/has/has_educational_alignment.private.md) 
+
+### [has_educational_alignment.personal](/_personal/schema-org/Relation/has/has_educational_alignment.personal.md) 
+
+### [has_educational_alignment.secret](/_secret/schema-org/Relation/has/has_educational_alignment.secret.md) 

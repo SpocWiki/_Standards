@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/inverse_of  :: archiveHeld]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_holding_archive|is_holding_archive]] 
-- [[../../../../../_public/schema-org/Relation/is/is_holding_archive.public|is_holding_archive.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_holding_archive.internal|is_holding_archive.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_holding_archive.protect|is_holding_archive.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_holding_archive.private|is_holding_archive.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_holding_archive.personal|is_holding_archive.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_holding_archive.secret|is_holding_archive.secret]] 
+
+### [is_holding_archive](/_public/schema-org/Relation/is/is_holding_archive.md) 
+
+### [is_holding_archive.internal](/_internal/schema-org/Relation/is/is_holding_archive.internal.md) 
+
+### [is_holding_archive.protect](/_protect/schema-org/Relation/is/is_holding_archive.protect.md) 
+
+### [is_holding_archive.private](/_private/schema-org/Relation/is/is_holding_archive.private.md) 
+
+### [is_holding_archive.personal](/_personal/schema-org/Relation/is/is_holding_archive.personal.md) 
+
+### [is_holding_archive.secret](/_secret/schema-org/Relation/is/is_holding_archive.secret.md) 

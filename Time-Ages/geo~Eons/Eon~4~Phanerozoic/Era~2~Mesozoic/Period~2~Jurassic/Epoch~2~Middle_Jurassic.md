@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~2~Middle_Jurassic]] 
 
 #is_a_/time_/Epoch 
@@ -32,8 +32,8 @@ A time period from 174.7 to 161.5 million years ago.
 
 #has_/abbreviation :: J2
 
-#has_/time_/created/Ma :: -174.7 
-#has_/time_/destroyed/Ma :: -161.5 
+#has_/time_/started /Ma :: -174.7 
+#has_/time_/stopped /Ma :: -161.5 
 
     sh:order 59 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~2~Middle_Jurassic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic.md) 
+
+### [Epoch~2~Middle_Jurassic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic.internal.md) 
+
+### [Epoch~2~Middle_Jurassic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic.protect.md) 
+
+### [Epoch~2~Middle_Jurassic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic.private.md) 
+
+### [Epoch~2~Middle_Jurassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic.personal.md) 
+
+### [Epoch~2~Middle_Jurassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_display_broadcast|has_name_display_broadcast]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_name_display_broadcast.public|has_name_display_broadcast.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name_display_broadcast.internal|has_name_display_broadcast.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name_display_broadcast.protect|has_name_display_broadcast.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name_display_broadcast.private|has_name_display_broadcast.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name_display_broadcast.personal|has_name_display_broadcast.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name_display_broadcast.secret|has_name_display_broadcast.secret]] 
+
+### [has_name_display_broadcast](/_public/schema-org/Property/has_name/has_name_display_broadcast.md) 
+
+### [has_name_display_broadcast.internal](/_internal/schema-org/Property/has_name/has_name_display_broadcast.internal.md) 
+
+### [has_name_display_broadcast.protect](/_protect/schema-org/Property/has_name/has_name_display_broadcast.protect.md) 
+
+### [has_name_display_broadcast.private](/_private/schema-org/Property/has_name/has_name_display_broadcast.private.md) 
+
+### [has_name_display_broadcast.personal](/_personal/schema-org/Property/has_name/has_name_display_broadcast.personal.md) 
+
+### [has_name_display_broadcast.secret](/_secret/schema-org/Property/has_name/has_name_display_broadcast.secret.md) 

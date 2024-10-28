@@ -1,4 +1,4 @@
-# [[Age~1~Sandbian]] 
+﻿# [[Age~1~Sandbian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 458.4 to 453.0 million years ago.
 
 #has_/abbreviation :: o5
 
-#has_/time_/created/Ma :: -458.4 
-#has_/time_/destroyed/Ma :: -453.0 
+#has_/time_/started /Ma :: -458.4 
+#has_/time_/stopped /Ma :: -453.0 
 
     sh:order 133 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Sandbian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.md) 
+
+### [Age~1~Sandbian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.internal.md) 
+
+### [Age~1~Sandbian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.protect.md) 
+
+### [Age~1~Sandbian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.private.md) 
+
+### [Age~1~Sandbian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.personal.md) 
+
+### [Age~1~Sandbian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~3~Late_Ordovician/Age~1~Sandbian.secret.md) 

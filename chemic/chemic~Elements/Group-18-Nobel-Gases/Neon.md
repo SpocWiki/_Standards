@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21912
@@ -37,10 +37,15 @@ SpocWebEntityId: 21912
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-18-Nobel-Gases/Neon|Neon]] 
-- [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Neon.public|Neon.public]] 
-- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Neon.internal|Neon.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Neon.protect|Neon.protect]] 
-- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Neon.private|Neon.private]] 
-- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Neon.personal|Neon.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Neon.secret|Neon.secret]] 
+
+### [Neon](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.md) 
+
+### [Neon.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.internal.md) 
+
+### [Neon.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.protect.md) 
+
+### [Neon.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.private.md) 
+
+### [Neon.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.personal.md) 
+
+### [Neon.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Neon.secret.md) 

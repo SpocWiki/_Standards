@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -51.7
     - -57.85
@@ -52,9 +52,15 @@ Capital :: [[Falkland~Islands/City/Stanley]]
 
 
 ## Confidential Links & Embeds: 
-- [[Falkland~Islands|Falkland~Islands]] 
-- [[../../../../_internal/Earth/Continent/America~South/Falkland~Islands.internal|Falkland~Islands.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Falkland~Islands.protect|Falkland~Islands.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Falkland~Islands.private|Falkland~Islands.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Falkland~Islands.personal|Falkland~Islands.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Falkland~Islands.secret|Falkland~Islands.secret]] 
+
+### [Falkland~Islands](/_public/Earth/Continent/America~South/Falkland~Islands.md) 
+
+### [Falkland~Islands.internal](/_internal/Earth/Continent/America~South/Falkland~Islands.internal.md) 
+
+### [Falkland~Islands.protect](/_protect/Earth/Continent/America~South/Falkland~Islands.protect.md) 
+
+### [Falkland~Islands.private](/_private/Earth/Continent/America~South/Falkland~Islands.private.md) 
+
+### [Falkland~Islands.personal](/_personal/Earth/Continent/America~South/Falkland~Islands.personal.md) 
+
+### [Falkland~Islands.secret](/_secret/Earth/Continent/America~South/Falkland~Islands.secret.md) 

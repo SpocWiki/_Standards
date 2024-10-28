@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~3~Cretaceous]] 
 
 #is_a_/time_/Period 
@@ -36,8 +36,8 @@ A time period from 145.0 to 66.0 million years ago.
 
 #has_/abbreviation :: K
 
-#has_/time_/created/Ma :: -145.0 
-#has_/time_/destroyed/Ma :: -66.0
+#has_/time_/started /Ma :: -145.0 
+#has_/time_/stopped /Ma :: -66.0
 
     sh:order 49 
 
@@ -57,3 +57,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~3~Cretaceous](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous.md) 
+
+### [Period~3~Cretaceous.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous.internal.md) 
+
+### [Period~3~Cretaceous.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous.protect.md) 
+
+### [Period~3~Cretaceous.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous.private.md) 
+
+### [Period~3~Cretaceous.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous.personal.md) 
+
+### [Period~3~Cretaceous.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous.secret.md) 

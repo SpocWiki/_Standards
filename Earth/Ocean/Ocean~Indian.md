@@ -1,4 +1,4 @@
-
+﻿
 # [[Ocean~Indian]] 
 
 ## #has_/text_of_/abstract 
@@ -46,3 +46,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Ocean~Indian](/_public/Earth/Ocean/Ocean~Indian.md) 
+
+### [Ocean~Indian.internal](/_internal/Earth/Ocean/Ocean~Indian.internal.md) 
+
+### [Ocean~Indian.protect](/_protect/Earth/Ocean/Ocean~Indian.protect.md) 
+
+### [Ocean~Indian.private](/_private/Earth/Ocean/Ocean~Indian.private.md) 
+
+### [Ocean~Indian.personal](/_personal/Earth/Ocean/Ocean~Indian.personal.md) 
+
+### [Ocean~Indian.secret](/_secret/Earth/Ocean/Ocean~Indian.secret.md) 

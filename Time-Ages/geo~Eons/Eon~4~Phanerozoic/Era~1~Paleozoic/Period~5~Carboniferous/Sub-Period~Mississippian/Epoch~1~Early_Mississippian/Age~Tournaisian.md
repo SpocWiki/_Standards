@@ -1,4 +1,4 @@
-# [[Age~Tournaisian]] 
+﻿# [[Age~Tournaisian]] 
 
 #is_a_/time_/Age 
 
@@ -32,8 +32,8 @@ A time period from 358.9 to 346.7 million years ago.
 #has_/label_/zh  :: 杜内期
 
 #has_/abbreviation :: c1
-#has_/time_/created/Ma :: -358.9 
-#has_/time_/destroyed/Ma :: -346.7 
+#has_/time_/started /Ma :: -358.9 
+#has_/time_/stopped /Ma :: -346.7 
 
     sh:order 107 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~Tournaisian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.md) 
+
+### [Age~Tournaisian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.internal.md) 
+
+### [Age~Tournaisian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.protect.md) 
+
+### [Age~Tournaisian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.private.md) 
+
+### [Age~Tournaisian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.personal.md) 
+
+### [Age~Tournaisian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian.secret.md) 

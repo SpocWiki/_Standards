@@ -45,10 +45,15 @@ Enumerates common size groups for various product categories.
 [ #has_/sub_classes :: [ WearableSizeGroupEnumeration ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/size_group_enumeration|size_group_enumeration]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/size_group_enumeration.public|size_group_enumeration.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration.internal|size_group_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration.protect|size_group_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration.private|size_group_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration.personal|size_group_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/size_group_enumeration.secret|size_group_enumeration.secret]] 
+
+### [size_group_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.md) 
+
+### [size_group_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.internal.md) 
+
+### [size_group_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.protect.md) 
+
+### [size_group_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.private.md) 
+
+### [size_group_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.personal.md) 
+
+### [size_group_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/size_group_enumeration.secret.md) 

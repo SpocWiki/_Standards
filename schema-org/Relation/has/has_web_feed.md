@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DataFeed, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_web_feed|has_web_feed]] 
-- [[../../../../../_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_web_feed.internal|has_web_feed.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_web_feed.protect|has_web_feed.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_web_feed.private|has_web_feed.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_web_feed.personal|has_web_feed.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_web_feed.secret|has_web_feed.secret]] 
+
+### [has_web_feed](/_public/schema-org/Relation/has/has_web_feed.md) 
+
+### [has_web_feed.internal](/_internal/schema-org/Relation/has/has_web_feed.internal.md) 
+
+### [has_web_feed.protect](/_protect/schema-org/Relation/has/has_web_feed.protect.md) 
+
+### [has_web_feed.private](/_private/schema-org/Relation/has/has_web_feed.private.md) 
+
+### [has_web_feed.personal](/_personal/schema-org/Relation/has/has_web_feed.personal.md) 
+
+### [has_web_feed.secret](/_secret/schema-org/Relation/has/has_web_feed.secret.md) 

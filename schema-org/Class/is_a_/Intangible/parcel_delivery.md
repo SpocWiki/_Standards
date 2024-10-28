@@ -43,10 +43,15 @@ The delivery of a parcel either via the postal service or a commercial service.
 [ #has_/properties :: [ additionalType, alternateName, carrier, deliveryAddress, deliveryStatus, description, disambiguatingDescription, expectedArrivalFrom, expectedArrivalUntil, hasDeliveryMethod, identifier, image, itemShipped, mainEntityOfPage, name, originAddress, partOfOrder, potentialAction, provider, sameAs, subjectOf, trackingNumber, trackingUrl, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/parcel_delivery|parcel_delivery]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/parcel_delivery.public|parcel_delivery.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/parcel_delivery.internal|parcel_delivery.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/parcel_delivery.protect|parcel_delivery.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/parcel_delivery.private|parcel_delivery.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/parcel_delivery.personal|parcel_delivery.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/parcel_delivery.secret|parcel_delivery.secret]] 
+
+### [parcel_delivery](/_public/schema-org/Class/is_a_/Intangible/parcel_delivery.md) 
+
+### [parcel_delivery.internal](/_internal/schema-org/Class/is_a_/Intangible/parcel_delivery.internal.md) 
+
+### [parcel_delivery.protect](/_protect/schema-org/Class/is_a_/Intangible/parcel_delivery.protect.md) 
+
+### [parcel_delivery.private](/_private/schema-org/Class/is_a_/Intangible/parcel_delivery.private.md) 
+
+### [parcel_delivery.personal](/_personal/schema-org/Class/is_a_/Intangible/parcel_delivery.personal.md) 
+
+### [parcel_delivery.secret](/_secret/schema-org/Class/is_a_/Intangible/parcel_delivery.secret.md) 

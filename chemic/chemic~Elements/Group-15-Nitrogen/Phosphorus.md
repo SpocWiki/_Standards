@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21916
@@ -38,13 +38,18 @@ SpocWebEntityId: 21916
 
 Phosphorus naturally occurs as phosphate, the salt of Phosphoric Acid H3PO4. 
 Phosphate is essential as a Fertilizer, but also for Doting Semiconductors and Accumulators. 
-Phosphate occured historically in [[../../../geo/Continent/Oceania/Micronesia/Nauru]] and [[Morocco]], but lately a big Supply has been found in southern Norway. 
+Phosphate occured historically in [[../../../Earth/Continent/Oceania/Micronesia/Nauru]] and [[Morocco]], but lately a big Supply has been found in southern Norway. 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-15-Nitrogen/Phosphorus|Phosphorus]] 
-- [[../../../../_public/chemic/Elements/Group-15-Nitrogen/Phosphorus.public|Phosphorus.public]] 
-- [[../../../../_internal/chemic/Elements/Group-15-Nitrogen/Phosphorus.internal|Phosphorus.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-15-Nitrogen/Phosphorus.protect|Phosphorus.protect]] 
-- [[../../../../_private/chemic/Elements/Group-15-Nitrogen/Phosphorus.private|Phosphorus.private]] 
-- [[../../../../_personal/chemic/Elements/Group-15-Nitrogen/Phosphorus.personal|Phosphorus.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-15-Nitrogen/Phosphorus.secret|Phosphorus.secret]] 
+
+### [Phosphorus](/_public/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.md) 
+
+### [Phosphorus.internal](/_internal/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.internal.md) 
+
+### [Phosphorus.protect](/_protect/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.protect.md) 
+
+### [Phosphorus.private](/_private/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.private.md) 
+
+### [Phosphorus.personal](/_personal/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.personal.md) 
+
+### [Phosphorus.secret](/_secret/chemic/chemic~Elements/Group-15-Nitrogen/Phosphorus.secret.md) 

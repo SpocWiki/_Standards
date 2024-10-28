@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - Japanese
@@ -93,11 +93,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Japanese%20language)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-ja|Lang-ja]] 
-- [[../../_public/lang/Lang-ja.public|Lang-ja.public]] 
-- [[../../../../_internal/lang/Lang-ja.internal|Lang-ja.internal]] 
-- [[../../_protect/lang/Lang-ja.protect|Lang-ja.protect]] 
-- [[../../_private/lang/Lang-ja.private|Lang-ja.private]] 
-- [[../../_personal/lang/Lang-ja.personal|Lang-ja.personal]] 
-- [[../../_secret/lang/Lang-ja.secret|Lang-ja.secret]]
 
+### [Lang-ja](/_public/Language/Lang~Family/LangFamily-Japonic/Lang-ja.md) 
+
+### [Lang-ja.internal](/_internal/Language/Lang~Family/LangFamily-Japonic/Lang-ja.internal.md) 
+
+### [Lang-ja.protect](/_protect/Language/Lang~Family/LangFamily-Japonic/Lang-ja.protect.md) 
+
+### [Lang-ja.private](/_private/Language/Lang~Family/LangFamily-Japonic/Lang-ja.private.md) 
+
+### [Lang-ja.personal](/_personal/Language/Lang~Family/LangFamily-Japonic/Lang-ja.personal.md) 
+
+### [Lang-ja.secret](/_secret/Language/Lang~Family/LangFamily-Japonic/Lang-ja.secret.md) 

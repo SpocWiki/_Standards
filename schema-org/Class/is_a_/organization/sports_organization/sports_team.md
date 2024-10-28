@@ -43,10 +43,15 @@ Organization: Sports team.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, athlete, award, awards, brand, coach, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, gender, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, sport, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/sports_organization/sports_team|sports_team]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/organization/sports_organization/sports_team.public|sports_team.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/organization/sports_organization/sports_team.internal|sports_team.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/organization/sports_organization/sports_team.protect|sports_team.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/organization/sports_organization/sports_team.private|sports_team.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/organization/sports_organization/sports_team.personal|sports_team.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/organization/sports_organization/sports_team.secret|sports_team.secret]] 
+
+### [sports_team](/_public/schema-org/Class/is_a_/organization/sports_organization/sports_team.md) 
+
+### [sports_team.internal](/_internal/schema-org/Class/is_a_/organization/sports_organization/sports_team.internal.md) 
+
+### [sports_team.protect](/_protect/schema-org/Class/is_a_/organization/sports_organization/sports_team.protect.md) 
+
+### [sports_team.private](/_private/schema-org/Class/is_a_/organization/sports_organization/sports_team.private.md) 
+
+### [sports_team.personal](/_personal/schema-org/Class/is_a_/organization/sports_organization/sports_team.personal.md) 
+
+### [sports_team.secret](/_secret/schema-org/Class/is_a_/organization/sports_organization/sports_team.secret.md) 

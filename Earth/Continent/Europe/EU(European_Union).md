@@ -1,4 +1,4 @@
----
+﻿---
 icon: flag-eu
 has_id_wikidata: Q458 
 has_member:
@@ -41,7 +41,8 @@ const directoryName = path.dirname(dv.currentFilePath);
 dv.paragraph(directoryName)
 ```
 
-#has_/time_/created :: 1993-11-01 
+#has_/time_/started :: 1993-11-01 
+#has_/previous_item :: [[European_Communities(EC)]] 
 #has_/event_/created :: [[EU-Treaty_of_Maastricht]] 
 #has_/member_/count :: `$=dv.current().has_member.length` 
 Total Number of European Countries: `$=dv.pages().where(p => p.file.path.includes("/Europe") && p.type=='Country').limit(999).length` 
@@ -176,3 +177,17 @@ but some are counted separately like [[Europe~West/France~Metropolitan|France~Me
 | [[Europe~North/UK\|United Kingdom]]                             | https://en.wikipedia.org/wiki/Brexit                                                                                                                                          | 2020-01-31        | Exited                             |
 
 
+
+## Confidential Links & Embeds: 
+
+### [EU(European_Union)](/_public/Earth/Continent/Europe/EU(European_Union).md) 
+
+### [EU(European_Union).internal](/_internal/Earth/Continent/Europe/EU(European_Union).internal.md) 
+
+### [EU(European_Union).protect](/_protect/Earth/Continent/Europe/EU(European_Union).protect.md) 
+
+### [EU(European_Union).private](/_private/Earth/Continent/Europe/EU(European_Union).private.md) 
+
+### [EU(European_Union).personal](/_personal/Earth/Continent/Europe/EU(European_Union).personal.md) 
+
+### [EU(European_Union).secret](/_secret/Earth/Continent/Europe/EU(European_Union).secret.md) 

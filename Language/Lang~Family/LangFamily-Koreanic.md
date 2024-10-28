@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-Koreanic|LangFamily-Koreanic]] 
-- [[../../../_public/lang/Family/LangFamily-Koreanic.public|LangFamily-Koreanic.public]] 
-- [[../../../_internal/lang/Family/LangFamily-Koreanic.internal|LangFamily-Koreanic.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-Koreanic.protect|LangFamily-Koreanic.protect]] 
-- [[../../../_private/lang/Family/LangFamily-Koreanic.private|LangFamily-Koreanic.private]] 
-- [[../../../_personal/lang/Family/LangFamily-Koreanic.personal|LangFamily-Koreanic.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-Koreanic.secret|LangFamily-Koreanic.secret]] 
+
+### [LangFamily-Koreanic](/_public/Language/Lang~Family/LangFamily-Koreanic.md) 
+
+### [LangFamily-Koreanic.internal](/_internal/Language/Lang~Family/LangFamily-Koreanic.internal.md) 
+
+### [LangFamily-Koreanic.protect](/_protect/Language/Lang~Family/LangFamily-Koreanic.protect.md) 
+
+### [LangFamily-Koreanic.private](/_private/Language/Lang~Family/LangFamily-Koreanic.private.md) 
+
+### [LangFamily-Koreanic.personal](/_personal/Language/Lang~Family/LangFamily-Koreanic.personal.md) 
+
+### [LangFamily-Koreanic.secret](/_secret/Language/Lang~Family/LangFamily-Koreanic.secret.md) 

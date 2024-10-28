@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -34.62
     - -58.41
@@ -150,9 +150,15 @@ Capital :: [[Argentina/Counties/Ciudad_de_Buenos_Aires/City/Buenos_Aires]]
 
 
 ## Confidential Links & Embeds: 
-- [[Argentina|Argentina]] 
-- [[../../../../_internal/Earth/Continent/America~South/Argentina.internal|Argentina.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Argentina.protect|Argentina.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Argentina.private|Argentina.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Argentina.personal|Argentina.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Argentina.secret|Argentina.secret]] 
+
+### [Argentina](/_public/Earth/Continent/America~South/Argentina.md) 
+
+### [Argentina.internal](/_internal/Earth/Continent/America~South/Argentina.internal.md) 
+
+### [Argentina.protect](/_protect/Earth/Continent/America~South/Argentina.protect.md) 
+
+### [Argentina.private](/_private/Earth/Continent/America~South/Argentina.private.md) 
+
+### [Argentina.personal](/_personal/Earth/Continent/America~South/Argentina.personal.md) 
+
+### [Argentina.secret](/_secret/Earth/Continent/America~South/Argentina.secret.md) 

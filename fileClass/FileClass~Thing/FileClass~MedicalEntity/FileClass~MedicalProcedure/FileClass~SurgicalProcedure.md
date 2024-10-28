@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A medical procedure involving an incision with instruments; performed for diagno
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SurgicalProcedure](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.md) 
+
+### [FileClass~SurgicalProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.internal.md) 
+
+### [FileClass~SurgicalProcedure.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.protect.md) 
+
+### [FileClass~SurgicalProcedure.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.private.md) 
+
+### [FileClass~SurgicalProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.personal.md) 
+
+### [FileClass~SurgicalProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~SurgicalProcedure.secret.md) 

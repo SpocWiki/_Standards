@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_discussion_url|has_url_for_discussion_url]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_discussion_url.public|has_url_for_discussion_url.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_discussion_url.internal|has_url_for_discussion_url.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_discussion_url.protect|has_url_for_discussion_url.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_discussion_url.private|has_url_for_discussion_url.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_discussion_url.personal|has_url_for_discussion_url.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_discussion_url.secret|has_url_for_discussion_url.secret]] 
+
+### [has_url_for_discussion](/_public/schema-org/Property/has_url_for/has_url_for_discussion.md) 
+
+### [has_url_for_discussion.internal](/_internal/schema-org/Property/has_url_for/has_url_for_discussion.internal.md) 
+
+### [has_url_for_discussion.protect](/_protect/schema-org/Property/has_url_for/has_url_for_discussion.protect.md) 
+
+### [has_url_for_discussion.private](/_private/schema-org/Property/has_url_for/has_url_for_discussion.private.md) 
+
+### [has_url_for_discussion.personal](/_personal/schema-org/Property/has_url_for/has_url_for_discussion.personal.md) 
+
+### [has_url_for_discussion.secret](/_secret/schema-org/Property/has_url_for/has_url_for_discussion.secret.md) 

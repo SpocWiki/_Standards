@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Specialty )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_specialty|has_specialty]] 
-- [[../../../../../_public/schema-org/Relation/has/has_specialty.public|has_specialty.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_specialty.internal|has_specialty.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_specialty.protect|has_specialty.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_specialty.private|has_specialty.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_specialty.personal|has_specialty.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_specialty.secret|has_specialty.secret]] 
+
+### [has_specialty](/_public/schema-org/Relation/has/has_specialty.md) 
+
+### [has_specialty.internal](/_internal/schema-org/Relation/has/has_specialty.internal.md) 
+
+### [has_specialty.protect](/_protect/schema-org/Relation/has/has_specialty.protect.md) 
+
+### [has_specialty.private](/_private/schema-org/Relation/has/has_specialty.private.md) 
+
+### [has_specialty.personal](/_personal/schema-org/Relation/has/has_specialty.personal.md) 
+
+### [has_specialty.secret](/_secret/schema-org/Relation/has/has_specialty.secret.md) 

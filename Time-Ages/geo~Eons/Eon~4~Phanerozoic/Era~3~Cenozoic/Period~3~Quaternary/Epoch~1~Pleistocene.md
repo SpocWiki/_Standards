@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~1~Pleistocene]] 
 
 #is_a_/time_/Epoch 
@@ -36,8 +36,8 @@ A time period from 2.58 to 0.0117 million years ago.
 
 #has_/abbreviation :: Q1
 
-#has_/time_/created/Ma :: -2.58
-#has_/time_/destroyed/Ma :: -0.0117
+#has_/time_/started /Ma :: -2.58
+#has_/time_/stopped /Ma :: -0.0117
 
     sh:order 9 
 
@@ -57,3 +57,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~1~Pleistocene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.md) 
+
+### [Epoch~1~Pleistocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.internal.md) 
+
+### [Epoch~1~Pleistocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.protect.md) 
+
+### [Epoch~1~Pleistocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.private.md) 
+
+### [Epoch~1~Pleistocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.personal.md) 
+
+### [Epoch~1~Pleistocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene.secret.md) 

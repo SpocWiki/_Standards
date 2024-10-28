@@ -1,4 +1,4 @@
-# [[Age~5~Aptian]] 
+﻿# [[Age~5~Aptian]] 
 
 #is_a_/time_/Age 
 
@@ -32,8 +32,8 @@ A time period from 121.4 to 113.0 million years ago.
 #has_/label_/zh  :: 阿普弟期
 
 #has_/abbreviation :: b5
-#has_/time_/created/Ma :: -121.4 
-#has_/time_/destroyed/Ma :: -113.0 
+#has_/time_/started /Ma :: -121.4 
+#has_/time_/stopped /Ma :: -113.0 
 
     sh:order 44 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~5~Aptian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~5~Aptian.md) 
+
+### [Age~5~Aptian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~5~Aptian.internal.md) 
+
+### [Age~5~Aptian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~5~Aptian.protect.md) 
+
+### [Age~5~Aptian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~5~Aptian.private.md) 
+
+### [Age~5~Aptian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~5~Aptian.personal.md) 
+
+### [Age~5~Aptian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~5~Aptian.secret.md) 

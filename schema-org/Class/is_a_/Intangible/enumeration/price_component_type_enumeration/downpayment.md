@@ -47,10 +47,15 @@ Represents the downpayment (up-front payment) price component of the total price
 [ #is_/enum_of :: [[../PriceComponentTypeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment|downpayment]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.public|downpayment.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.internal|downpayment.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.protect|downpayment.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.private|downpayment.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.personal|downpayment.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/price_component_type_enumeration/downpayment.secret|downpayment.secret]] 
+
+### [downpayment](/_public/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.md) 
+
+### [downpayment.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.internal.md) 
+
+### [downpayment.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.protect.md) 
+
+### [downpayment.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.private.md) 
+
+### [downpayment.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.personal.md) 
+
+### [downpayment.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/price_component_type_enumeration/downpayment.secret.md) 

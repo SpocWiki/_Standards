@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_financial_aid_eligible|has_financial_aid_eligible]] 
-- [[../../../../../_public/schema-org/Relation/has/has_financial_aid_eligible.public|has_financial_aid_eligible.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_financial_aid_eligible.internal|has_financial_aid_eligible.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_financial_aid_eligible.protect|has_financial_aid_eligible.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_financial_aid_eligible.private|has_financial_aid_eligible.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_financial_aid_eligible.personal|has_financial_aid_eligible.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_financial_aid_eligible.secret|has_financial_aid_eligible.secret]] 
+
+### [has_financial_aid_eligible](/_public/schema-org/Relation/has/has_financial_aid_eligible.md) 
+
+### [has_financial_aid_eligible.internal](/_internal/schema-org/Relation/has/has_financial_aid_eligible.internal.md) 
+
+### [has_financial_aid_eligible.protect](/_protect/schema-org/Relation/has/has_financial_aid_eligible.protect.md) 
+
+### [has_financial_aid_eligible.private](/_private/schema-org/Relation/has/has_financial_aid_eligible.private.md) 
+
+### [has_financial_aid_eligible.personal](/_personal/schema-org/Relation/has/has_financial_aid_eligible.personal.md) 
+
+### [has_financial_aid_eligible.secret](/_secret/schema-org/Relation/has/has_financial_aid_eligible.secret.md) 

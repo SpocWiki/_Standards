@@ -41,10 +41,15 @@ The publication format of the book.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/book_format_type|book_format_type]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/book_format_type.public|book_format_type.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/book_format_type.internal|book_format_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/book_format_type.protect|book_format_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/book_format_type.private|book_format_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/book_format_type.personal|book_format_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/book_format_type.secret|book_format_type.secret]] 
+
+### [book_format_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.md) 
+
+### [book_format_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.internal.md) 
+
+### [book_format_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.protect.md) 
+
+### [book_format_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.private.md) 
+
+### [book_format_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.personal.md) 
+
+### [book_format_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/book_format_type.secret.md) 

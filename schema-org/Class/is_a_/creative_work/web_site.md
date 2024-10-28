@@ -43,10 +43,15 @@ A WebSite is a set of related web pages and other items typically served from a 
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, issn, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/web_site|web_site]] 
-- [[../../../../../_public/schema-org/Class/is_a_/creative_work/web_site.public|web_site.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/web_site.internal|web_site.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/web_site.protect|web_site.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/web_site.private|web_site.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/web_site.personal|web_site.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/web_site.secret|web_site.secret]] 
+
+### [web_site](/_public/schema-org/Class/is_a_/creative_work/web_site.md) 
+
+### [web_site.internal](/_internal/schema-org/Class/is_a_/creative_work/web_site.internal.md) 
+
+### [web_site.protect](/_protect/schema-org/Class/is_a_/creative_work/web_site.protect.md) 
+
+### [web_site.private](/_private/schema-org/Class/is_a_/creative_work/web_site.private.md) 
+
+### [web_site.personal](/_personal/schema-org/Class/is_a_/creative_work/web_site.personal.md) 
+
+### [web_site.secret](/_secret/schema-org/Class/is_a_/creative_work/web_site.secret.md) 

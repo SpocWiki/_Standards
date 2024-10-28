@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of responding instinctively and emotionally to an object, expressing a s
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ReactAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction.md) 
+
+### [FileClass~ReactAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction.internal.md) 
+
+### [FileClass~ReactAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction.protect.md) 
+
+### [FileClass~ReactAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction.private.md) 
+
+### [FileClass~ReactAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction.personal.md) 
+
+### [FileClass~ReactAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction.secret.md) 

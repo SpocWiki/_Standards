@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_responsibilities|has_responsibilities]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_responsibilities.public|has_responsibilities.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_responsibilities.internal|has_responsibilities.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_responsibilities.protect|has_responsibilities.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_responsibilities.private|has_responsibilities.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_responsibilities.personal|has_responsibilities.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_responsibilities.secret|has_responsibilities.secret]] 
+
+### [has_responsibilities](/_public/schema-org/Property/Texts/has_responsibilities.md) 
+
+### [has_responsibilities.internal](/_internal/schema-org/Property/Texts/has_responsibilities.internal.md) 
+
+### [has_responsibilities.protect](/_protect/schema-org/Property/Texts/has_responsibilities.protect.md) 
+
+### [has_responsibilities.private](/_private/schema-org/Property/Texts/has_responsibilities.private.md) 
+
+### [has_responsibilities.personal](/_personal/schema-org/Property/Texts/has_responsibilities.personal.md) 
+
+### [has_responsibilities.secret](/_secret/schema-org/Property/Texts/has_responsibilities.secret.md) 

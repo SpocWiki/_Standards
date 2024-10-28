@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -0.547778
     - 166.921
@@ -138,10 +138,15 @@ Capital :: [[Yaren]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Nauru|Nauru]] 
-- [[../../../../_public/Earth/Continent/Oceania/Nauru.public|Nauru.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Nauru.internal|Nauru.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Nauru.protect|Nauru.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Nauru.private|Nauru.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Nauru.personal|Nauru.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Nauru.secret|Nauru.secret]] 
+
+### [Nauru](/_public/Earth/Continent/Australasia/Micronesia/Nauru.md) 
+
+### [Nauru.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru.internal.md) 
+
+### [Nauru.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru.protect.md) 
+
+### [Nauru.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru.private.md) 
+
+### [Nauru.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru.personal.md) 
+
+### [Nauru.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru.secret.md) 

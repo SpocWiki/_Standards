@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 42.5167
     - 1.51333
@@ -143,10 +143,15 @@ Capital :: [[Andorra]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Andorra|Andorra]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Andorra.public|Andorra.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Andorra.internal|Andorra.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Andorra.protect|Andorra.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Andorra.private|Andorra.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Andorra.personal|Andorra.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Andorra.secret|Andorra.secret]] 
+
+### [Andorra](/_public/Earth/Continent/Europe/Europe~South/Andorra.md) 
+
+### [Andorra.internal](/_internal/Earth/Continent/Europe/Europe~South/Andorra.internal.md) 
+
+### [Andorra.protect](/_protect/Earth/Continent/Europe/Europe~South/Andorra.protect.md) 
+
+### [Andorra.private](/_private/Earth/Continent/Europe/Europe~South/Andorra.private.md) 
+
+### [Andorra.personal](/_personal/Earth/Continent/Europe/Europe~South/Andorra.personal.md) 
+
+### [Andorra.secret](/_secret/Earth/Continent/Europe/Europe~South/Andorra.secret.md) 

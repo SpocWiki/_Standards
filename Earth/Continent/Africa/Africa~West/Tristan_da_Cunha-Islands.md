@@ -1,4 +1,4 @@
----
+﻿---
 location: [-15.9167,-5.71667]
 type: Country
 tags:
@@ -52,9 +52,15 @@ Capital :: [[Jamestown]]
 
 
 ## Confidential Links & Embeds: 
-- [[Saint_Helena|Saint_Helena]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Saint_Helena.internal|Saint_Helena.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Saint_Helena.protect|Saint_Helena.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Saint_Helena.private|Saint_Helena.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Saint_Helena.personal|Saint_Helena.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Saint_Helena.secret|Saint_Helena.secret]] 
+
+### [Tristan_da_Cunha-Islands](/_public/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.md) 
+
+### [Tristan_da_Cunha-Islands.internal](/_internal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.internal.md) 
+
+### [Tristan_da_Cunha-Islands.protect](/_protect/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.protect.md) 
+
+### [Tristan_da_Cunha-Islands.private](/_private/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.private.md) 
+
+### [Tristan_da_Cunha-Islands.personal](/_personal/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.personal.md) 
+
+### [Tristan_da_Cunha-Islands.secret](/_secret/Earth/Continent/Africa/Africa~West/Tristan_da_Cunha-Islands.secret.md) 

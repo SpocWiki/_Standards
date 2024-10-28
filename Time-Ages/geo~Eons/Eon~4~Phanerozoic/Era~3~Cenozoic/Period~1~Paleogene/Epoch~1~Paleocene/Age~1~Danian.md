@@ -1,4 +1,4 @@
-# [[Age~1~Danian]] 
+﻿# [[Age~1~Danian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 66.0 to 61.6 million years ago.
 
 #has_/abbreviation :: e1
 
-#has_/time_/created/Ma :: -66.0
-#has_/time_/destroyed/Ma :: -61.6
+#has_/time_/started /Ma :: -66.0
+#has_/time_/stopped /Ma :: -61.6
 
     sh:order 33 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Danian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.md) 
+
+### [Age~1~Danian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.internal.md) 
+
+### [Age~1~Danian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.protect.md) 
+
+### [Age~1~Danian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.private.md) 
+
+### [Age~1~Danian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.personal.md) 
+
+### [Age~1~Danian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~1~Danian.secret.md) 

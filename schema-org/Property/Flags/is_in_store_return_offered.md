@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_in_store_return_offered|is_in_store_return_offered]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_in_store_return_offered.public|is_in_store_return_offered.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_in_store_return_offered.internal|is_in_store_return_offered.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_in_store_return_offered.protect|is_in_store_return_offered.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_in_store_return_offered.private|is_in_store_return_offered.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_in_store_return_offered.personal|is_in_store_return_offered.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_in_store_return_offered.secret|is_in_store_return_offered.secret]] 
+
+### [is_in_store_return_offered](/_public/schema-org/Property/Flags/is_in_store_return_offered.md) 
+
+### [is_in_store_return_offered.internal](/_internal/schema-org/Property/Flags/is_in_store_return_offered.internal.md) 
+
+### [is_in_store_return_offered.protect](/_protect/schema-org/Property/Flags/is_in_store_return_offered.protect.md) 
+
+### [is_in_store_return_offered.private](/_private/schema-org/Property/Flags/is_in_store_return_offered.private.md) 
+
+### [is_in_store_return_offered.personal](/_personal/schema-org/Property/Flags/is_in_store_return_offered.personal.md) 
+
+### [is_in_store_return_offered.secret](/_secret/schema-org/Property/Flags/is_in_store_return_offered.secret.md) 

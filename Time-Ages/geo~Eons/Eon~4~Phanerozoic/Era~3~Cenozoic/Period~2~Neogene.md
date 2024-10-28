@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~2~Neogene]] 
 
 #is_a_/time_/Period 
@@ -31,8 +31,8 @@ A time period from 23.03 to 2.58 million years ago.
 #has_/label_/zh  :: 晚第三纪
 
 #has_/abbreviation :: N
-#has_/time_/created/Ma :: -23.03
-#has_/time_/destroyed/Ma :: -2.58
+#has_/time_/started /Ma :: -23.03
+#has_/time_/stopped /Ma :: -2.58
 
     sh:order 21 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~2~Neogene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene.md) 
+
+### [Period~2~Neogene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene.internal.md) 
+
+### [Period~2~Neogene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene.protect.md) 
+
+### [Period~2~Neogene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene.private.md) 
+
+### [Period~2~Neogene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene.personal.md) 
+
+### [Period~2~Neogene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene.secret.md) 

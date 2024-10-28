@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: RecommendedDoseSchedule )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_recommended_intake|has_recommended_intake]] 
-- [[../../../../../_public/schema-org/Relation/has/has_recommended_intake.public|has_recommended_intake.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_recommended_intake.internal|has_recommended_intake.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_recommended_intake.protect|has_recommended_intake.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_recommended_intake.private|has_recommended_intake.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_recommended_intake.personal|has_recommended_intake.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_recommended_intake.secret|has_recommended_intake.secret]] 
+
+### [has_recommended_intake](/_public/schema-org/Relation/has/has_recommended_intake.md) 
+
+### [has_recommended_intake.internal](/_internal/schema-org/Relation/has/has_recommended_intake.internal.md) 
+
+### [has_recommended_intake.protect](/_protect/schema-org/Relation/has/has_recommended_intake.protect.md) 
+
+### [has_recommended_intake.private](/_private/schema-org/Relation/has/has_recommended_intake.private.md) 
+
+### [has_recommended_intake.personal](/_personal/schema-org/Relation/has/has_recommended_intake.personal.md) 
+
+### [has_recommended_intake.secret](/_secret/schema-org/Relation/has/has_recommended_intake.secret.md) 

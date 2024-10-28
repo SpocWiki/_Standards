@@ -1,4 +1,4 @@
----
+﻿---
 type: Property
 license: CC BY-SA 4.0
 publish: true
@@ -13,13 +13,22 @@ aliases: []
 
 # [[Relation]] 
 
-A Relation is a Set of Tuples (Pairs in the simplest case). 
-A binary Relation {sRo} has the Subject/Key and the Object/Value which can come from different Sets. 
-A binary Relation RI #is_/inverse_of  R, with all the Pairs of R but with Subject and Object Position switched: {oRIs}
-A binary Relation #is_/complement_of  R, with all the Pairs from the Cross Product of S and O minus the of A but with Subject and Object Position switched. 
+A Relation is a Set of Tuples with the same [[Arity]] (Pairs in the simplest case). 
+A binary Relation {sRo} has the Subject/Key and the Object/Value 
+which can come from different Sets. 
+A binary Relation RI #is_/inverse_of  R, 
+with all the Pairs of R but with Subject and Object Position switched: {oRIs}
+A binary Relation #is_/complement_of  R, 
+with all the Pairs from the Cross Product of S and O minus the of A 
+but with Subject and Object Position switched. 
 
-In RDF the Relation-Instance/Type is Part of the Notation, because you handle multiple Relations. 
-Therefore you end up with the Triple: Subject-Predicate->Object
+In RDF the Relation-Instance/Type is Part of the Notation, 
+because you handle many binary Relation Types. 
+Therefore you end up with the Triple: 
+```mermaid
+graph LR
+Subject--Predicate-->Object
+```
 
 #is_a_/class  . 
 has_range:: [[Class/Thing]]
@@ -56,10 +65,15 @@ The Complement is typically much larger than the Relation!
 That is why it is usually less helpful
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/schema-org/Predicate/Property|Property]] 
-- [[../../../_public/schema-org/Predicate/Property.public|Property.public]] 
-- [[../../../_internal/schema.org/Predicate/Property.internal|Property.internal]] 
-- [[../../../_protect/schema.org/Predicate/Property.protect|Property.protect]] 
-- [[../../../_private/schema.org/Predicate/Property.private|Property.private]] 
-- [[../../../_personal/schema.org/Predicate/Property.personal|Property.personal]] 
-- [[../../../_secret/schema.org/Predicate/Property.secret|Property.secret]] 
+
+### [Relation](/_public/schema-org/Relation.md) 
+
+### [Relation.internal](/_internal/schema-org/Relation.internal.md) 
+
+### [Relation.protect](/_protect/schema-org/Relation.protect.md) 
+
+### [Relation.private](/_private/schema-org/Relation.private.md) 
+
+### [Relation.personal](/_personal/schema-org/Relation.personal.md) 
+
+### [Relation.secret](/_secret/schema-org/Relation.secret.md) 

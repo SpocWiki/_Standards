@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 ( #has_/range :: Dataset, Observation, URL, WebContent )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_disease_spread_statistics|has_disease_spread_statistics]] 
-- [[../../../../../_public/schema-org/Relation/has/has_disease_spread_statistics.public|has_disease_spread_statistics.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_disease_spread_statistics.internal|has_disease_spread_statistics.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_disease_spread_statistics.protect|has_disease_spread_statistics.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_disease_spread_statistics.private|has_disease_spread_statistics.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_disease_spread_statistics.personal|has_disease_spread_statistics.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_disease_spread_statistics.secret|has_disease_spread_statistics.secret]] 
+
+### [has_disease_spread_statistics](/_public/schema-org/Relation/has/has_disease_spread_statistics.md) 
+
+### [has_disease_spread_statistics.internal](/_internal/schema-org/Relation/has/has_disease_spread_statistics.internal.md) 
+
+### [has_disease_spread_statistics.protect](/_protect/schema-org/Relation/has/has_disease_spread_statistics.protect.md) 
+
+### [has_disease_spread_statistics.private](/_private/schema-org/Relation/has/has_disease_spread_statistics.private.md) 
+
+### [has_disease_spread_statistics.personal](/_personal/schema-org/Relation/has/has_disease_spread_statistics.personal.md) 
+
+### [has_disease_spread_statistics.secret](/_secret/schema-org/Relation/has/has_disease_spread_statistics.secret.md) 

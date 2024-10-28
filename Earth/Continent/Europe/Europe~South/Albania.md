@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 40.793
     - 19.9565
@@ -145,10 +145,15 @@ Capital :: [[Tirana]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Albania|Albania]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Albania.public|Albania.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Albania.internal|Albania.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Albania.protect|Albania.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Albania.private|Albania.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Albania.personal|Albania.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Albania.secret|Albania.secret]] 
+
+### [Albania](/_public/Earth/Continent/Europe/Europe~South/Albania.md) 
+
+### [Albania.internal](/_internal/Earth/Continent/Europe/Europe~South/Albania.internal.md) 
+
+### [Albania.protect](/_protect/Earth/Continent/Europe/Europe~South/Albania.protect.md) 
+
+### [Albania.private](/_private/Earth/Continent/Europe/Europe~South/Albania.private.md) 
+
+### [Albania.personal](/_personal/Earth/Continent/Europe/Europe~South/Albania.personal.md) 
+
+### [Albania.secret](/_secret/Earth/Continent/Europe/Europe~South/Albania.secret.md) 

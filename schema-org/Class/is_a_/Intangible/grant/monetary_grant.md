@@ -45,10 +45,15 @@ A monetary grant.
 [ #has_/properties :: [ additionalType, alternateName, amount, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/grant/monetary_grant|monetary_grant]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/grant/monetary_grant.public|monetary_grant.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/grant/monetary_grant.internal|monetary_grant.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/grant/monetary_grant.protect|monetary_grant.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/grant/monetary_grant.private|monetary_grant.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/grant/monetary_grant.personal|monetary_grant.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/grant/monetary_grant.secret|monetary_grant.secret]] 
+
+### [monetary_grant](/_public/schema-org/Class/is_a_/Intangible/grant/monetary_grant.md) 
+
+### [monetary_grant.internal](/_internal/schema-org/Class/is_a_/Intangible/grant/monetary_grant.internal.md) 
+
+### [monetary_grant.protect](/_protect/schema-org/Class/is_a_/Intangible/grant/monetary_grant.protect.md) 
+
+### [monetary_grant.private](/_private/schema-org/Class/is_a_/Intangible/grant/monetary_grant.private.md) 
+
+### [monetary_grant.personal](/_personal/schema-org/Class/is_a_/Intangible/grant/monetary_grant.personal.md) 
+
+### [monetary_grant.secret](/_secret/schema-org/Class/is_a_/Intangible/grant/monetary_grant.secret.md) 

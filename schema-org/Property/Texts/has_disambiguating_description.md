@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: description ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_disambiguating_description|has_disambiguating_description]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_disambiguating_description.public|has_disambiguating_description.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_disambiguating_description.internal|has_disambiguating_description.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_disambiguating_description.protect|has_disambiguating_description.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_disambiguating_description.private|has_disambiguating_description.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_disambiguating_description.personal|has_disambiguating_description.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_disambiguating_description.secret|has_disambiguating_description.secret]] 
+
+### [has_disambiguating_description](/_public/schema-org/Property/Texts/has_disambiguating_description.md) 
+
+### [has_disambiguating_description.internal](/_internal/schema-org/Property/Texts/has_disambiguating_description.internal.md) 
+
+### [has_disambiguating_description.protect](/_protect/schema-org/Property/Texts/has_disambiguating_description.protect.md) 
+
+### [has_disambiguating_description.private](/_private/schema-org/Property/Texts/has_disambiguating_description.private.md) 
+
+### [has_disambiguating_description.personal](/_personal/schema-org/Property/Texts/has_disambiguating_description.personal.md) 
+
+### [has_disambiguating_description.secret](/_secret/schema-org/Property/Texts/has_disambiguating_description.secret.md) 

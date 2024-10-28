@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 0.383333
 - 9.45
@@ -143,9 +143,15 @@ Capital :: [[Libreville]]
 
 
 ## Confidential Links & Embeds: 
-- [[Gabon|Gabon]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Gabon.internal|Gabon.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Gabon.protect|Gabon.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Gabon.private|Gabon.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Gabon.personal|Gabon.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret|Gabon.secret]] 
+
+### [Gabon](/_public/Earth/Continent/Africa/Africa~Central/Gabon.md) 
+
+### [Gabon.internal](/_internal/Earth/Continent/Africa/Africa~Central/Gabon.internal.md) 
+
+### [Gabon.protect](/_protect/Earth/Continent/Africa/Africa~Central/Gabon.protect.md) 
+
+### [Gabon.private](/_private/Earth/Continent/Africa/Africa~Central/Gabon.private.md) 
+
+### [Gabon.personal](/_personal/Earth/Continent/Africa/Africa~Central/Gabon.personal.md) 
+
+### [Gabon.secret](/_secret/Earth/Continent/Africa/Africa~Central/Gabon.secret.md) 

@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~5~Carboniferous]] 
 
 #is_a_/time_/Period 
@@ -37,8 +37,8 @@ A time period from 358.9 to 298.9 million years ago.
 
 #has_/abbreviation :: C
 
-#has_/time_/created/Ma :: -358.9 
-#has_/time_/destroyed/Ma :: -298.9 
+#has_/time_/started /Ma :: -358.9 
+#has_/time_/stopped /Ma :: -298.9 
 
     sh:order 104 
 
@@ -58,3 +58,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~5~Carboniferous](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.md) 
+
+### [Period~5~Carboniferous.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.internal.md) 
+
+### [Period~5~Carboniferous.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.protect.md) 
+
+### [Period~5~Carboniferous.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.private.md) 
+
+### [Period~5~Carboniferous.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.personal.md) 
+
+### [Period~5~Carboniferous.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous.secret.md) 

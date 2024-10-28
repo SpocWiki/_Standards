@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -6.695
     - 109.755
@@ -147,9 +147,15 @@ Capital :: [[Djakarta]]
 
 
 ## Confidential Links & Embeds: 
-- [[Indonesia|Indonesia]] 
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~East/Indonesia.internal|Indonesia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~East/Indonesia.protect|Indonesia.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~East/Indonesia.private|Indonesia.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~East/Indonesia.personal|Indonesia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~East/Indonesia.secret|Indonesia.secret]] 
+
+### [Indonesia](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.md) 
+
+### [Indonesia.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.internal.md) 
+
+### [Indonesia.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.protect.md) 
+
+### [Indonesia.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.private.md) 
+
+### [Indonesia.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.personal.md) 
+
+### [Indonesia.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.secret.md) 

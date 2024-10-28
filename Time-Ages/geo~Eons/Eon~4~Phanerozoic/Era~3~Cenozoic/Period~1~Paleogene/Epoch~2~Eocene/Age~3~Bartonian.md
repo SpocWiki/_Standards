@@ -1,4 +1,4 @@
-# [[Age~3~Bartonian]] 
+﻿# [[Age~3~Bartonian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 41.2 to 37.71 million years ago.
 
 #has_/abbreviation :: e6
 
-#has_/time_/created/Ma :: -41.2
-#has_/time_/destroyed/Ma :: -37.71
+#has_/time_/started /Ma :: -41.2
+#has_/time_/stopped /Ma :: -37.71
 
     sh:order 26 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Bartonian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.md) 
+
+### [Age~3~Bartonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.internal.md) 
+
+### [Age~3~Bartonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.protect.md) 
+
+### [Age~3~Bartonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.private.md) 
+
+### [Age~3~Bartonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.personal.md) 
+
+### [Age~3~Bartonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~3~Bartonian.secret.md) 

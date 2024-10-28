@@ -1,4 +1,4 @@
-# [[Age~Serpukhovian]] 
+﻿# [[Age~Serpukhovian]] 
 
 #is_a_/time_/Age 
 
@@ -32,8 +32,8 @@ A time period from 330.9 to 323.2 million years ago.
 #has_/label_/zh  :: 谢尔普霍夫期
 
 #has_/abbreviation :: c3
-#has_/time_/created/Ma :: -330.9 
-#has_/time_/destroyed/Ma :: -323.2 
+#has_/time_/started /Ma :: -330.9 
+#has_/time_/stopped /Ma :: -323.2 
 
     sh:order 100 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~Serpukhovian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.md) 
+
+### [Age~Serpukhovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.internal.md) 
+
+### [Age~Serpukhovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.protect.md) 
+
+### [Age~Serpukhovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.private.md) 
+
+### [Age~Serpukhovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.personal.md) 
+
+### [Age~Serpukhovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.secret.md) 

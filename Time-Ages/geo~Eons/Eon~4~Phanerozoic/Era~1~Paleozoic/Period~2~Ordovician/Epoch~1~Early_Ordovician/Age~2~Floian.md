@@ -1,4 +1,4 @@
-# [[Age~2~Floian]] 
+﻿# [[Age~2~Floian]] 
 
 #is_a_/time_/Age 
 
@@ -29,8 +29,8 @@ A time period from 477.7 to 470.0 million years ago.
 #has_/label_/zh  :: 弗洛期
 
 #has_/abbreviation :: o2
-#has_/time_/created/Ma :: -477.7 
-#has_/time_/destroyed/Ma :: -470.0 
+#has_/time_/started /Ma :: -477.7 
+#has_/time_/stopped /Ma :: -470.0 
 
     sh:order 138 
 
@@ -50,3 +50,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Floian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~2~Floian.md) 
+
+### [Age~2~Floian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~2~Floian.internal.md) 
+
+### [Age~2~Floian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~2~Floian.protect.md) 
+
+### [Age~2~Floian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~2~Floian.private.md) 
+
+### [Age~2~Floian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~2~Floian.personal.md) 
+
+### [Age~2~Floian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~2~Floian.secret.md) 

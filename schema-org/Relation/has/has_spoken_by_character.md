@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_spoken_by_character|has_spoken_by_character]] 
-- [[../../../../../_public/schema-org/Relation/has/has_spoken_by_character.public|has_spoken_by_character.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_spoken_by_character.internal|has_spoken_by_character.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_spoken_by_character.protect|has_spoken_by_character.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_spoken_by_character.private|has_spoken_by_character.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_spoken_by_character.personal|has_spoken_by_character.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_spoken_by_character.secret|has_spoken_by_character.secret]] 
+
+### [has_spoken_by_character](/_public/schema-org/Relation/has/has_spoken_by_character.md) 
+
+### [has_spoken_by_character.internal](/_internal/schema-org/Relation/has/has_spoken_by_character.internal.md) 
+
+### [has_spoken_by_character.protect](/_protect/schema-org/Relation/has/has_spoken_by_character.protect.md) 
+
+### [has_spoken_by_character.private](/_private/schema-org/Relation/has/has_spoken_by_character.private.md) 
+
+### [has_spoken_by_character.personal](/_personal/schema-org/Relation/has/has_spoken_by_character.personal.md) 
+
+### [has_spoken_by_character.secret](/_secret/schema-org/Relation/has/has_spoken_by_character.secret.md) 

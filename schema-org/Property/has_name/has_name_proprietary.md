@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_name_proprietary|has_name_proprietary]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_name_proprietary.public|has_name_proprietary.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_name_proprietary.internal|has_name_proprietary.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_name_proprietary.protect|has_name_proprietary.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_name_proprietary.private|has_name_proprietary.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_name_proprietary.personal|has_name_proprietary.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_name_proprietary.secret|has_name_proprietary.secret]] 
+
+### [has_name_proprietary](/_public/schema-org/Property/has_name/has_name_proprietary.md) 
+
+### [has_name_proprietary.internal](/_internal/schema-org/Property/has_name/has_name_proprietary.internal.md) 
+
+### [has_name_proprietary.protect](/_protect/schema-org/Property/has_name/has_name_proprietary.protect.md) 
+
+### [has_name_proprietary.private](/_private/schema-org/Property/has_name/has_name_proprietary.private.md) 
+
+### [has_name_proprietary.personal](/_personal/schema-org/Property/has_name/has_name_proprietary.personal.md) 
+
+### [has_name_proprietary.secret](/_secret/schema-org/Property/has_name/has_name_proprietary.secret.md) 

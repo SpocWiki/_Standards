@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: hasDefinedTerm ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_category_code|has_category_code]] 
-- [[../../../../../_public/schema-org/Relation/has/has_category_code.public|has_category_code.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_category_code.internal|has_category_code.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_category_code.protect|has_category_code.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_category_code.private|has_category_code.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_category_code.personal|has_category_code.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_category_code.secret|has_category_code.secret]] 
+
+### [has_category_code](/_public/schema-org/Relation/has/has_category_code.md) 
+
+### [has_category_code.internal](/_internal/schema-org/Relation/has/has_category_code.internal.md) 
+
+### [has_category_code.protect](/_protect/schema-org/Relation/has/has_category_code.protect.md) 
+
+### [has_category_code.private](/_private/schema-org/Relation/has/has_category_code.private.md) 
+
+### [has_category_code.personal](/_personal/schema-org/Relation/has/has_category_code.personal.md) 
+
+### [has_category_code.secret](/_secret/schema-org/Relation/has/has_category_code.secret.md) 

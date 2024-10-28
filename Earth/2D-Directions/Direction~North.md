@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Ash Shamaliyah
 ---
@@ -17,3 +17,16 @@ aliases:
     - [Madinat ash Shamal](https://en.wikipedia.org/wiki/Madinat_ash_Shamal "Madinat ash Shamal")
 - [Shamal District](https://en.wikipedia.org/wiki/Shamal_District "Shamal District"), Afghanistan
     - [Shamal, Khost Province](https://en.wikipedia.org/wiki/Shamal,_Khost_Province "Shamal, Khost Province")
+## Confidential Links & Embeds: 
+
+### [Direction~North](/_public/Earth/2D-Directions/Direction~North.md) 
+
+### [Direction~North.internal](/_internal/Earth/2D-Directions/Direction~North.internal.md) 
+
+### [Direction~North.protect](/_protect/Earth/2D-Directions/Direction~North.protect.md) 
+
+### [Direction~North.private](/_private/Earth/2D-Directions/Direction~North.private.md) 
+
+### [Direction~North.personal](/_personal/Earth/2D-Directions/Direction~North.personal.md) 
+
+### [Direction~North.secret](/_secret/Earth/2D-Directions/Direction~North.secret.md) 

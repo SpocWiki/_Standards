@@ -1,4 +1,4 @@
-Enumerates negative, inhibiting Reasons for this Statement. 
+﻿Enumerates negative, inhibiting Reasons for this Statement. 
 Plural Form chosen to indicate the [[../../Collection]]-Nature. 
 
 Therefore this partially(incomplete) inverse Relation is included in the non-standard more generic [[has_Cons]] Relation. 
@@ -19,3 +19,17 @@ Relation describes that:
 
 The Name is derived from the [[../../../../Knowledge/Languages/Natural~Languages/Latin|Latin]] word 
 'contra'. 
+
+## Confidential Links & Embeds: 
+
+### [has_Cons](/_public/schema-org/Relation/has/has_Cons.md) 
+
+### [has_Cons.internal](/_internal/schema-org/Relation/has/has_Cons.internal.md) 
+
+### [has_Cons.protect](/_protect/schema-org/Relation/has/has_Cons.protect.md) 
+
+### [has_Cons.private](/_private/schema-org/Relation/has/has_Cons.private.md) 
+
+### [has_Cons.personal](/_personal/schema-org/Relation/has/has_Cons.personal.md) 
+
+### [has_Cons.secret](/_secret/schema-org/Relation/has/has_Cons.secret.md) 

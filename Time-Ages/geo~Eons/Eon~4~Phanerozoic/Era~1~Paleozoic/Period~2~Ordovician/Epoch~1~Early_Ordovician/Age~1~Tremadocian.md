@@ -1,4 +1,4 @@
-# [[Age~1~Tremadocian]] 
+﻿# [[Age~1~Tremadocian]] 
 
 #is_a_/time_/Age 
 
@@ -30,8 +30,8 @@ A time period from 485.4 to 477.7 million years ago.
 #has_/label_/zh  :: 特马豆克期
 
 #has_/abbreviation :: o1
-#has_/time_/created/Ma :: -485.4 
-#has_/time_/destroyed/Ma :: -477.7 
+#has_/time_/started /Ma :: -485.4 
+#has_/time_/stopped /Ma :: -477.7 
 
     sh:order 141 
 
@@ -51,3 +51,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Tremadocian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.md) 
+
+### [Age~1~Tremadocian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.internal.md) 
+
+### [Age~1~Tremadocian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.protect.md) 
+
+### [Age~1~Tremadocian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.private.md) 
+
+### [Age~1~Tremadocian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.personal.md) 
+
+### [Age~1~Tremadocian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician/Age~1~Tremadocian.secret.md) 

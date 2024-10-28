@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -38,3 +38,17 @@ Indicates the availability type of the game content associated with this action,
 GameAvailabilityType:: {"type":"Select","options":{"valuesList":{"DemoGameAvailability","FullGameAvailability"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PlayGameAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.md) 
+
+### [FileClass~PlayGameAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.internal.md) 
+
+### [FileClass~PlayGameAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.protect.md) 
+
+### [FileClass~PlayGameAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.private.md) 
+
+### [FileClass~PlayGameAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.personal.md) 
+
+### [FileClass~PlayGameAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.secret.md) 

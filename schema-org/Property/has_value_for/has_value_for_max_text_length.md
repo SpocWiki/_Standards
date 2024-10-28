@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_max_text_length|has_value_for_max_text_length]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_max_text_length.public|has_value_for_max_text_length.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_max_text_length.internal|has_value_for_max_text_length.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_max_text_length.protect|has_value_for_max_text_length.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_max_text_length.private|has_value_for_max_text_length.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_max_text_length.personal|has_value_for_max_text_length.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_max_text_length.secret|has_value_for_max_text_length.secret]] 
+
+### [has_value_for_max_text_length](/_public/schema-org/Property/has_value_for/has_value_for_max_text_length.md) 
+
+### [has_value_for_max_text_length.internal](/_internal/schema-org/Property/has_value_for/has_value_for_max_text_length.internal.md) 
+
+### [has_value_for_max_text_length.protect](/_protect/schema-org/Property/has_value_for/has_value_for_max_text_length.protect.md) 
+
+### [has_value_for_max_text_length.private](/_private/schema-org/Property/has_value_for/has_value_for_max_text_length.private.md) 
+
+### [has_value_for_max_text_length.personal](/_personal/schema-org/Property/has_value_for/has_value_for_max_text_length.personal.md) 
+
+### [has_value_for_max_text_length.secret](/_secret/schema-org/Property/has_value_for/has_value_for_max_text_length.secret.md) 

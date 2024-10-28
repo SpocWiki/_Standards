@@ -52,10 +52,15 @@ The amount of a [[Grant]] is represented using [[amount]] as a [[MonetaryAmount]
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, fundedItem, funder, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, sponsor, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/grant|grant]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/grant.public|grant.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/grant.internal|grant.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/grant.protect|grant.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/grant.private|grant.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/grant.personal|grant.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/grant.secret|grant.secret]] 
+
+### [grant](/_public/schema-org/Class/is_a_/Intangible/grant.md) 
+
+### [grant.internal](/_internal/schema-org/Class/is_a_/Intangible/grant.internal.md) 
+
+### [grant.protect](/_protect/schema-org/Class/is_a_/Intangible/grant.protect.md) 
+
+### [grant.private](/_private/schema-org/Class/is_a_/Intangible/grant.private.md) 
+
+### [grant.personal](/_personal/schema-org/Class/is_a_/Intangible/grant.personal.md) 
+
+### [grant.secret](/_secret/schema-org/Class/is_a_/Intangible/grant.secret.md) 

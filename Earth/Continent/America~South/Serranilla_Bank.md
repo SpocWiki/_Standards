@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 15.866 , -78.638 ] 
 type: geo-Region
 title: Serranilla_Bank
@@ -52,11 +52,15 @@ markerFolder: ./Serranilla_Bank/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/America~South/Serranilla_Bank|Serranilla_Bank]] 
-- [[../../../../_public/Earth/Continent/America~South/Serranilla_Bank.public|Serranilla_Bank.public]] 
-- [[../../../../_internal/Earth/Continent/America~South/Serranilla_Bank.internal|Serranilla_Bank.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Serranilla_Bank.protect|Serranilla_Bank.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Serranilla_Bank.private|Serranilla_Bank.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Serranilla_Bank.personal|Serranilla_Bank.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Serranilla_Bank.secret|Serranilla_Bank.secret]] 
 
+### [Serranilla_Bank](/_public/Earth/Continent/America~South/Serranilla_Bank.md) 
+
+### [Serranilla_Bank.internal](/_internal/Earth/Continent/America~South/Serranilla_Bank.internal.md) 
+
+### [Serranilla_Bank.protect](/_protect/Earth/Continent/America~South/Serranilla_Bank.protect.md) 
+
+### [Serranilla_Bank.private](/_private/Earth/Continent/America~South/Serranilla_Bank.private.md) 
+
+### [Serranilla_Bank.personal](/_personal/Earth/Continent/America~South/Serranilla_Bank.personal.md) 
+
+### [Serranilla_Bank.secret](/_secret/Earth/Continent/America~South/Serranilla_Bank.secret.md) 

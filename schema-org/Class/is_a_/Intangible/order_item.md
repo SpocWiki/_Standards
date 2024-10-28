@@ -43,10 +43,15 @@ An order item is a line of an order. It includes the quantity and shipping detai
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, orderDelivery, orderItemNumber, orderItemStatus, orderQuantity, orderedItem, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/order_item|order_item]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/order_item.public|order_item.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/order_item.internal|order_item.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/order_item.protect|order_item.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/order_item.private|order_item.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/order_item.personal|order_item.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/order_item.secret|order_item.secret]] 
+
+### [order_item](/_public/schema-org/Class/is_a_/Intangible/order_item.md) 
+
+### [order_item.internal](/_internal/schema-org/Class/is_a_/Intangible/order_item.internal.md) 
+
+### [order_item.protect](/_protect/schema-org/Class/is_a_/Intangible/order_item.protect.md) 
+
+### [order_item.private](/_private/schema-org/Class/is_a_/Intangible/order_item.private.md) 
+
+### [order_item.personal](/_personal/schema-org/Class/is_a_/Intangible/order_item.personal.md) 
+
+### [order_item.secret](/_secret/schema-org/Class/is_a_/Intangible/order_item.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -87,3 +87,17 @@ A medical therapy related to this anatomy.
 RelatedTherapy:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalProcedure/TherapeuticProcedure/MedicalTherapy')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~AnatomicalSystem](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.md) 
+
+### [FileClass~AnatomicalSystem.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.internal.md) 
+
+### [FileClass~AnatomicalSystem.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.protect.md) 
+
+### [FileClass~AnatomicalSystem.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.private.md) 
+
+### [FileClass~AnatomicalSystem.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.personal.md) 
+
+### [FileClass~AnatomicalSystem.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalSystem.secret.md) 

@@ -45,10 +45,15 @@ A specific branch of medical science that is concerned with the ear, nose and th
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic|otolaryngologic]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.public|otolaryngologic.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.internal|otolaryngologic.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.protect|otolaryngologic.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.private|otolaryngologic.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.personal|otolaryngologic.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.secret|otolaryngologic.secret]] 
+
+### [otolaryngologic](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.md) 
+
+### [otolaryngologic.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.internal.md) 
+
+### [otolaryngologic.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.protect.md) 
+
+### [otolaryngologic.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.private.md) 
+
+### [otolaryngologic.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.personal.md) 
+
+### [otolaryngologic.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/otolaryngologic.secret.md) 

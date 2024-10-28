@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -9.6 , 160.1 ] 
 type: geo-Region
 title: Guadalcanal
@@ -41,11 +41,15 @@ markerFolder: ./Guadalcanal//
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal|Guadalcanal]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.public|Guadalcanal.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.internal|Guadalcanal.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.protect|Guadalcanal.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.private|Guadalcanal.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.personal|Guadalcanal.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Solomon~Islands/Counties/Guadalcanal.secret|Guadalcanal.secret]] 
 
+### [Guadalcanal](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.md) 
+
+### [Guadalcanal.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.internal.md) 
+
+### [Guadalcanal.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.protect.md) 
+
+### [Guadalcanal.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.private.md) 
+
+### [Guadalcanal.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.personal.md) 
+
+### [Guadalcanal.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Guadalcanal.secret.md) 

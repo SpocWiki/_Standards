@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sports_activity_location|has_sports_activity_location]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sports_activity_location.public|has_sports_activity_location.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sports_activity_location.internal|has_sports_activity_location.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sports_activity_location.protect|has_sports_activity_location.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sports_activity_location.private|has_sports_activity_location.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sports_activity_location.personal|has_sports_activity_location.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sports_activity_location.secret|has_sports_activity_location.secret]] 
+
+### [has_sports_activity_location](/_public/schema-org/Relation/has/has_sports_activity_location.md) 
+
+### [has_sports_activity_location.internal](/_internal/schema-org/Relation/has/has_sports_activity_location.internal.md) 
+
+### [has_sports_activity_location.protect](/_protect/schema-org/Relation/has/has_sports_activity_location.protect.md) 
+
+### [has_sports_activity_location.private](/_private/schema-org/Relation/has/has_sports_activity_location.private.md) 
+
+### [has_sports_activity_location.personal](/_personal/schema-org/Relation/has/has_sports_activity_location.personal.md) 
+
+### [has_sports_activity_location.secret](/_secret/schema-org/Relation/has/has_sports_activity_location.secret.md) 

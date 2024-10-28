@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 46.7833
     - -56.1667
@@ -48,9 +48,15 @@ has_place_continent:: [[North-America]]
 
 
 ## Confidential Links & Embeds: 
-- [[Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]] 
-- [[../../../../_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]] 
-- [[../../../../_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]] 
-- [[../../../../_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]] 
-- [[../../../../_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]] 
-- [[../../../../_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]] 
+
+### [Saint-Pierre-et-Miquelon](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.md) 
+
+### [Saint-Pierre-et-Miquelon.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal.md) 
+
+### [Saint-Pierre-et-Miquelon.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect.md) 
+
+### [Saint-Pierre-et-Miquelon.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private.md) 
+
+### [Saint-Pierre-et-Miquelon.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal.md) 
+
+### [Saint-Pierre-et-Miquelon.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret.md) 

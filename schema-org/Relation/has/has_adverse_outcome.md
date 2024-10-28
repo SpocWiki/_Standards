@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Relation describes that:
 ( #has_/range :: [[Medical_Entity]] )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_adverse_outcome|has_adverse_outcome]] 
-- [[../../../../../_public/schema-org/Relation/has/has_adverse_outcome.public|has_adverse_outcome.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_adverse_outcome.internal|has_adverse_outcome.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_adverse_outcome.protect|has_adverse_outcome.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_adverse_outcome.private|has_adverse_outcome.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_adverse_outcome.personal|has_adverse_outcome.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_adverse_outcome.secret|has_adverse_outcome.secret]] 
+
+### [has_adverse_outcome](/_public/schema-org/Relation/has/has_adverse_outcome.md) 
+
+### [has_adverse_outcome.internal](/_internal/schema-org/Relation/has/has_adverse_outcome.internal.md) 
+
+### [has_adverse_outcome.protect](/_protect/schema-org/Relation/has/has_adverse_outcome.protect.md) 
+
+### [has_adverse_outcome.private](/_private/schema-org/Relation/has/has_adverse_outcome.private.md) 
+
+### [has_adverse_outcome.personal](/_personal/schema-org/Relation/has/has_adverse_outcome.personal.md) 
+
+### [has_adverse_outcome.secret](/_secret/schema-org/Relation/has/has_adverse_outcome.secret.md) 

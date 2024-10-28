@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MenuItem )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_menu_item|has_menu_item]] 
-- [[../../../../../_public/schema-org/Relation/has/has_menu_item.public|has_menu_item.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_menu_item.internal|has_menu_item.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_menu_item.protect|has_menu_item.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_menu_item.private|has_menu_item.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_menu_item.personal|has_menu_item.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_menu_item.secret|has_menu_item.secret]] 
+
+### [has_menu_item](/_public/schema-org/Relation/has/has_menu_item.md) 
+
+### [has_menu_item.internal](/_internal/schema-org/Relation/has/has_menu_item.internal.md) 
+
+### [has_menu_item.protect](/_protect/schema-org/Relation/has/has_menu_item.protect.md) 
+
+### [has_menu_item.private](/_private/schema-org/Relation/has/has_menu_item.private.md) 
+
+### [has_menu_item.personal](/_personal/schema-org/Relation/has/has_menu_item.personal.md) 
+
+### [has_menu_item.secret](/_secret/schema-org/Relation/has/has_menu_item.secret.md) 

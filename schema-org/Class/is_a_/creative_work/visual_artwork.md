@@ -45,10 +45,15 @@ A work of art that is primarily visual in character.
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, artEdition, artMedium, artform, artist, artworkSurface, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, colorist, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, depth, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, height, identifier, image, inLanguage, inker, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, letterer, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, penciler, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, surface, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, width, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/visual_artwork|visual_artwork]] 
-- [[../../../../../_public/schema-org/Class/is_a_/creative_work/visual_artwork.public|visual_artwork.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/visual_artwork.internal|visual_artwork.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/visual_artwork.protect|visual_artwork.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/visual_artwork.private|visual_artwork.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/visual_artwork.personal|visual_artwork.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/visual_artwork.secret|visual_artwork.secret]] 
+
+### [visual_artwork](/_public/schema-org/Class/is_a_/creative_work/visual_artwork.md) 
+
+### [visual_artwork.internal](/_internal/schema-org/Class/is_a_/creative_work/visual_artwork.internal.md) 
+
+### [visual_artwork.protect](/_protect/schema-org/Class/is_a_/creative_work/visual_artwork.protect.md) 
+
+### [visual_artwork.private](/_private/schema-org/Class/is_a_/creative_work/visual_artwork.private.md) 
+
+### [visual_artwork.personal](/_personal/schema-org/Class/is_a_/creative_work/visual_artwork.personal.md) 
+
+### [visual_artwork.secret](/_secret/schema-org/Class/is_a_/creative_work/visual_artwork.secret.md) 

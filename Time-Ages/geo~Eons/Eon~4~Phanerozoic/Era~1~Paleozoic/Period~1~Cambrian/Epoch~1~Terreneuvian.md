@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~1~Terreneuvian]] 
 
 #is_a_/time_/Epoch 
@@ -31,8 +31,8 @@ A time period from 538.8 to 521 million years ago.
 #has_/label_/zh  :: 纽芬兰世
 
 #has_/abbreviation :: Ep1
-#has_/time_/created/Ma :: -538.8 
-#has_/time_/destroyed/Ma :: -521 
+#has_/time_/started /Ma :: -538.8 
+#has_/time_/stopped /Ma :: -521 
 
     sh:order 157 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~1~Terreneuvian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.md) 
+
+### [Epoch~1~Terreneuvian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.internal.md) 
+
+### [Epoch~1~Terreneuvian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.protect.md) 
+
+### [Epoch~1~Terreneuvian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.private.md) 
+
+### [Epoch~1~Terreneuvian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.personal.md) 
+
+### [Epoch~1~Terreneuvian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian.secret.md) 

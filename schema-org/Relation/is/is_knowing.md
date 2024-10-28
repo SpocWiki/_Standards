@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_knowing|is_knowing]] 
-- [[../../../../../_public/schema-org/Relation/is/is_knowing.public|is_knowing.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_knowing.internal|is_knowing.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_knowing.protect|is_knowing.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_knowing.private|is_knowing.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_knowing.personal|is_knowing.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_knowing.secret|is_knowing.secret]] 
+
+### [is_knowing](/_public/schema-org/Relation/is/is_knowing.md) 
+
+### [is_knowing.internal](/_internal/schema-org/Relation/is/is_knowing.internal.md) 
+
+### [is_knowing.protect](/_protect/schema-org/Relation/is/is_knowing.protect.md) 
+
+### [is_knowing.private](/_private/schema-org/Relation/is/is_knowing.private.md) 
+
+### [is_knowing.personal](/_personal/schema-org/Relation/is/is_knowing.personal.md) 
+
+### [is_knowing.secret](/_secret/schema-org/Relation/is/is_knowing.secret.md) 

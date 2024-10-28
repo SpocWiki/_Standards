@@ -1,4 +1,4 @@
-# [[Neolithic]] 
+﻿# [[Neolithic]] 
 
 #is_a_/time_/Culture 
 
@@ -8,8 +8,8 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Neolithic)
 
-#has_/time_/created/ka :: -8 
-#has_/time_/destroyed/ka :: -3.3 
+#has_/time_/started /ka :: -8 
+#has_/time_/stopped /ka :: -3.3 
 
 ## Edit
 
@@ -26,3 +26,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Neolithic](/_public/Time-Ages/human-ages/Stone-Age/Neolithic.md) 
+
+### [Neolithic.internal](/_internal/Time-Ages/human-ages/Stone-Age/Neolithic.internal.md) 
+
+### [Neolithic.protect](/_protect/Time-Ages/human-ages/Stone-Age/Neolithic.protect.md) 
+
+### [Neolithic.private](/_private/Time-Ages/human-ages/Stone-Age/Neolithic.private.md) 
+
+### [Neolithic.personal](/_personal/Time-Ages/human-ages/Stone-Age/Neolithic.personal.md) 
+
+### [Neolithic.secret](/_secret/Time-Ages/human-ages/Stone-Age/Neolithic.secret.md) 

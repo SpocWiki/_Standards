@@ -43,10 +43,15 @@ A movie.
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, actor, actors, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, director, directors, disambiguatingDescription, discussionUrl, duration, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, musicBy, name, offers, pattern, position, potentialAction, producer, productionCompany, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, subtitleLanguage, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, titleEIDR, trailer, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/movie|movie]] 
-- [[../../../../../_public/schema-org/Class/is_a_/creative_work/movie.public|movie.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/movie.internal|movie.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/movie.protect|movie.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/movie.private|movie.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/movie.personal|movie.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/movie.secret|movie.secret]] 
+
+### [movie](/_public/schema-org/Class/is_a_/creative_work/movie.md) 
+
+### [movie.internal](/_internal/schema-org/Class/is_a_/creative_work/movie.internal.md) 
+
+### [movie.protect](/_protect/schema-org/Class/is_a_/creative_work/movie.protect.md) 
+
+### [movie.private](/_private/schema-org/Class/is_a_/creative_work/movie.private.md) 
+
+### [movie.personal](/_personal/schema-org/Class/is_a_/creative_work/movie.personal.md) 
+
+### [movie.secret](/_secret/schema-org/Class/is_a_/creative_work/movie.secret.md) 

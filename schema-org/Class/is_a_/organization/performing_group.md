@@ -45,10 +45,15 @@ A performance group, such as a band, an orchestra, or a circus.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/organization/performing_group|performing_group]] 
-- [[../../../../../_public/schema-org/Class/is_a_/organization/performing_group.public|performing_group.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/organization/performing_group.internal|performing_group.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/organization/performing_group.protect|performing_group.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/organization/performing_group.private|performing_group.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/organization/performing_group.personal|performing_group.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/organization/performing_group.secret|performing_group.secret]] 
+
+### [performing_group](/_public/schema-org/Class/is_a_/organization/performing_group.md) 
+
+### [performing_group.internal](/_internal/schema-org/Class/is_a_/organization/performing_group.internal.md) 
+
+### [performing_group.protect](/_protect/schema-org/Class/is_a_/organization/performing_group.protect.md) 
+
+### [performing_group.private](/_private/schema-org/Class/is_a_/organization/performing_group.private.md) 
+
+### [performing_group.personal](/_personal/schema-org/Class/is_a_/organization/performing_group.personal.md) 
+
+### [performing_group.secret](/_secret/schema-org/Class/is_a_/organization/performing_group.secret.md) 

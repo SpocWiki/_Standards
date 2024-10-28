@@ -1,4 +1,4 @@
-# [[Age~1~Wuliuan]] 
+﻿# [[Age~1~Wuliuan]] 
 
 #is_a_/time_/Age 
 
@@ -13,8 +13,8 @@ A time period from 509 to 504.5 million years ago.
 
 #has_/abbreviation :: ep5
 
-#has_/time_/created/Ma :: -509 
-#has_/time_/destroyed/Ma :: -504.5 
+#has_/time_/started /Ma :: -509 
+#has_/time_/stopped /Ma :: -504.5 
 
     sh:order 149 
 
@@ -34,3 +34,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Wuliuan](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.md) 
+
+### [Age~1~Wuliuan.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.internal.md) 
+
+### [Age~1~Wuliuan.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.protect.md) 
+
+### [Age~1~Wuliuan.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.private.md) 
+
+### [Age~1~Wuliuan.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.personal.md) 
+
+### [Age~1~Wuliuan.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~1~Wuliuan.secret.md) 

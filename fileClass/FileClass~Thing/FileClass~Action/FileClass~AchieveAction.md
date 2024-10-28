@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -31,3 +31,17 @@ The act of accomplishing something via previous efforts. It is an instantaneous 
 
 ## Properties:
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~AchieveAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.md) 
+
+### [FileClass~AchieveAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.internal.md) 
+
+### [FileClass~AchieveAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.protect.md) 
+
+### [FileClass~AchieveAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.private.md) 
+
+### [FileClass~AchieveAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.personal.md) 
+
+### [FileClass~AchieveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction.secret.md) 

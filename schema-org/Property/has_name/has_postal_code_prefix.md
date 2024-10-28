@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_postal_code_prefix|has_postal_code_prefix]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_postal_code_prefix.public|has_postal_code_prefix.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_postal_code_prefix.internal|has_postal_code_prefix.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_postal_code_prefix.protect|has_postal_code_prefix.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_postal_code_prefix.private|has_postal_code_prefix.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_postal_code_prefix.personal|has_postal_code_prefix.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_postal_code_prefix.secret|has_postal_code_prefix.secret]] 
+
+### [has_postal_code_prefix](/_public/schema-org/Property/has_name/has_postal_code_prefix.md) 
+
+### [has_postal_code_prefix.internal](/_internal/schema-org/Property/has_name/has_postal_code_prefix.internal.md) 
+
+### [has_postal_code_prefix.protect](/_protect/schema-org/Property/has_name/has_postal_code_prefix.protect.md) 
+
+### [has_postal_code_prefix.private](/_private/schema-org/Property/has_name/has_postal_code_prefix.private.md) 
+
+### [has_postal_code_prefix.personal](/_personal/schema-org/Property/has_name/has_postal_code_prefix.personal.md) 
+
+### [has_postal_code_prefix.secret](/_secret/schema-org/Property/has_name/has_postal_code_prefix.secret.md) 

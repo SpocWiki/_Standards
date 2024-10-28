@@ -1,4 +1,4 @@
-# [[Age~2~Northgrippian]]
+﻿# [[Age~2~Northgrippian]]
 
 #is_a_/time_/Age 
 
@@ -10,8 +10,8 @@ A time period from 8_200 to 4_200 thousand years ago.
 
 #has_/abbreviation :: q6
 
-#has_/time_/created/Ma :: -0.0082
-#has_/time_/destroyed/Ma :: -0.0042
+#has_/time_/started /Ma :: -0.0082
+#has_/time_/stopped /Ma :: -0.0042
 
     sh:order 2 
 
@@ -31,3 +31,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Northgrippian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~2~Northgrippian.md) 
+
+### [Age~2~Northgrippian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~2~Northgrippian.internal.md) 
+
+### [Age~2~Northgrippian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~2~Northgrippian.protect.md) 
+
+### [Age~2~Northgrippian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~2~Northgrippian.private.md) 
+
+### [Age~2~Northgrippian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~2~Northgrippian.personal.md) 
+
+### [Age~2~Northgrippian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/Age~2~Northgrippian.secret.md) 

@@ -1,39 +1,42 @@
----
+﻿---
 location:
-    - 34.175
-    - 51.555
+  - 34.175
+  - 51.555
 type: Country
 tags:
-    - geo/Country
-has_id_wikidata: Q794 
+  - geo/Country
+has_id_wikidata: Q794
 SpocWebEntityId: 26928
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
-source: 'https://datahub.io/core/country-codes'
-cssclasses: Country
+source: https://datahub.io/core/country-codes
+cssclasses:
+  - Country
 publish: true
 title: Iran
-linkTitle: null
-keywords: null
-layout: null
+linkTitle: 
+keywords: 
+layout: 
 draft: false
-publishDate: null
-expiryDate: null
+publishDate: 
+expiryDate: 
 aliases:
-    - Iran
-    - Iran (Islamic Republic of)
-    - Irán (República Islámica del)
-    - Iran (République islamique d')
-    - إيران (جمهورية - الإسلامية)
-    - 伊朗(伊斯兰共和国)
-    - Иран (Исламская Республика)
-    - the Islamic Republic of Iran
-    - la República Islámica del Irán
+  - Iran
+  - Iran (Islamic Republic of)
+  - Irán (República Islámica del)
+  - Iran (République islamique d')
+  - إيران (جمهورية - الإسلامية)
+  - 伊朗(伊斯兰共和国)
+  - Иран (Исламская Республика)
+  - the Islamic Republic of Iran
+  - la República Islámica del Irán
+  - Persia
+  - Persien
 Languages:
-    - fa-IR
-    - ku
+  - fa-IR
+  - ku
 icon: flag-ir
 ---
 
@@ -42,7 +45,7 @@ icon: flag-ir
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Asia-Iran 
 
-[[Iran/ReadMe]] 
+![[Iran/ReadMe]] 
 
 
 [	ISO4217-currency_alphabetic	 :: IRR ]
@@ -145,11 +148,89 @@ Capital :: [[Iran/Counties/Tehran/City/Teheran=Tehran]]
 [has_place_latitude::34.175]
 
 
+## #has_/text_of_/abstract 
+
+> **Iran**, officially the Islamic Republic of Iran (IRI), 
+> also known as Persia, is a country in West Asia. 
+> It borders Turkey to the northwest and Iraq to the west, Azerbaijan, Armenia, 
+> the Caspian Sea, and Turkmenistan to the north, Afghanistan to the east, 
+> Pakistan to the southeast, the Gulf of Oman and the Persian Gulf to the south. 
+> 
+> With a mostly Persian-ethnic population of almost 90 million in an area of 1,648,195 km2, 
+> Iran ranks 17th globally in both geographic size and population. 
+> It is the sixth-largest country entirely in Asia 
+> and one of the world's most mountainous countries. 
+> 
+> Officially an Islamic republic, Iran has a Muslim-majority population. 
+> The country is divided into five regions with 31 provinces. 
+> Tehran is the nation's capital, largest city and financial center.
+>
+> A cradle of civilization, Iran has been inhabited since the Lower Palaeolithic. 
+> It was first unified as a state by Deioces in the seventh century BC, 
+> and reached its territorial height in the sixth century BC, 
+> when Cyrus the Great founded the Achaemenid Empire, 
+> one of the largest in ancient history. 
+> 
+> Alexander the Great conquered the empire in the fourth century BC. 
+> An Iranian rebellion established the Parthian Empire in the third century BC 
+> and liberated the country, 
+> which was succeeded by the Sasanian Empire in the third century AD. 
+> 
+> Ancient Iran saw some of the earliest developments of writing, 
+> agriculture, urbanization, religion and central government. 
+> 
+> Muslims conquered the region in the seventh century AD, leading to Iran's Islamization. 
+> The blossoming literature, philosophy, mathematics, medicine, astronomy 
+> and art became major elements for Iranian civilization during the Islamic Golden Age. 
+> A series of Iranian Muslim dynasties ended Arab rule, revived the Persian language and 
+> ruled the country until the Seljuk and Mongol conquests of the 11th to 14th centuries.
+>
+> In the 16th century, the native Safavids re-established a unified Iranian state 
+> with Twelver Shi'ism as the official religion. 
+> During the Afsharid Empire in the 18th century, Iran was a leading world power, 
+> though by the 19th century, it had lost significant territory 
+> through conflicts with the Russian Empire. 
+> 
+> The early 20th century saw the Persian Constitutional Revolution 
+> and the establishment of the Pahlavi dynasty. 
+> Attempts by [[Mohammad Mosaddegh]] to nationalize the oil industry 
+> led to an Anglo-American coup in 1953. 
+> After the Iranian Revolution, the monarchy was overthrown in 1979 
+> and the Islamic Republic of Iran was established by Ruhollah Khomeini, 
+> who became the country's first Supreme Leader. 
+> In 1980, Iraq invaded Iran, sparking the eight-year-long Iran–Iraq War, 
+> which ended in stalemate.
+>
+> Iran is officially governed as a unitary Islamic Republic with a Presidential system, 
+> with ultimate authority vested in a Supreme Leader. 
+> The government is authoritarian and has attracted widespread 
+> criticism for its significant violations of human rights and civil liberties. 
+> 
+> Iran is a major regional power, due to its large reserves of fossil fuels, 
+> including the world's second largest natural gas supply, 
+> third largest proven oil reserves, its geopolitically significant location, 
+> military capabilities, cultural hegemony, regional influence, 
+> and role as the world's focal point of Shia Islam. 
+> 
+> The Iranian economy is the world's 19th-largest by PPP. 
+> Iran is an active and founding member of the United Nations, 
+> OIC, OPEC, ECO, NAM, SCO and BRICS. 
+> Iran is home to 28 UNESCO World Heritage Sites, the 10th highest in the world, 
+> and ranks 5th in Intangible Cultural Heritage, or human treasures.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Iran) 
+
 
 ## Confidential Links & Embeds: 
-- [[Iran|Iran]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Iran.internal|Iran.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Iran.protect|Iran.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Iran.private|Iran.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Iran.personal|Iran.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Iran.secret|Iran.secret]] 
+
+### [Iran](/_public/Earth/Continent/Asia/Asia~West/Iran.md) 
+
+### [Iran.internal](/_internal/Earth/Continent/Asia/Asia~West/Iran.internal.md) 
+
+### [Iran.protect](/_protect/Earth/Continent/Asia/Asia~West/Iran.protect.md) 
+
+### [Iran.private](/_private/Earth/Continent/Asia/Asia~West/Iran.private.md) 
+
+### [Iran.personal](/_personal/Earth/Continent/Asia/Asia~West/Iran.personal.md) 
+
+### [Iran.secret](/_secret/Earth/Continent/Asia/Asia~West/Iran.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Tarantian Age
 ---
@@ -33,8 +33,8 @@ A time period from 0.129 to 0.0117 million years ago.
 
 #has_/abbreviation :: q4
 
-#has_/time_/created/Ma :: -0.129
-#has_/time_/destroyed/Ma :: -0.0117
+#has_/time_/started /Ma :: -0.129
+#has_/time_/stopped /Ma :: -0.0117
 
     sh:order 5 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~4~Late_Pleistocene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.md) 
+
+### [Age~4~Late_Pleistocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.internal.md) 
+
+### [Age~4~Late_Pleistocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.protect.md) 
+
+### [Age~4~Late_Pleistocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.private.md) 
+
+### [Age~4~Late_Pleistocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.personal.md) 
+
+### [Age~4~Late_Pleistocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene.secret.md) 

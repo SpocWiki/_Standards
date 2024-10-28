@@ -43,10 +43,15 @@ A means for accessing a service, e.g. a government office location, web site, or
 [ #has_/properties :: [ additionalType, alternateName, availableLanguage, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, processingTime, providesService, sameAs, serviceLocation, servicePhone, servicePostalAddress, serviceSmsNumber, serviceUrl, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/service_channel|service_channel]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/service_channel.public|service_channel.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/service_channel.internal|service_channel.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/service_channel.protect|service_channel.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/service_channel.private|service_channel.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/service_channel.personal|service_channel.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/service_channel.secret|service_channel.secret]] 
+
+### [service_channel](/_public/schema-org/Class/is_a_/Intangible/service_channel.md) 
+
+### [service_channel.internal](/_internal/schema-org/Class/is_a_/Intangible/service_channel.internal.md) 
+
+### [service_channel.protect](/_protect/schema-org/Class/is_a_/Intangible/service_channel.protect.md) 
+
+### [service_channel.private](/_private/schema-org/Class/is_a_/Intangible/service_channel.private.md) 
+
+### [service_channel.personal](/_personal/schema-org/Class/is_a_/Intangible/service_channel.personal.md) 
+
+### [service_channel.secret](/_secret/schema-org/Class/is_a_/Intangible/service_channel.secret.md) 

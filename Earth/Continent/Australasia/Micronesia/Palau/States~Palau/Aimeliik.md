@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 7.44 , 134.53 ] 
 type: geo-Region
 title: Aimeliik
@@ -40,11 +40,15 @@ markerFolder: ./Aimeliik/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Aimeliik|Aimeliik]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Aimeliik.public|Aimeliik.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Aimeliik.internal|Aimeliik.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Aimeliik.protect|Aimeliik.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Aimeliik.private|Aimeliik.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Aimeliik.personal|Aimeliik.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Aimeliik.secret|Aimeliik.secret]] 
 
+### [Aimeliik](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.md) 
+
+### [Aimeliik.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.internal.md) 
+
+### [Aimeliik.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.protect.md) 
+
+### [Aimeliik.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.private.md) 
+
+### [Aimeliik.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.personal.md) 
+
+### [Aimeliik.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Aimeliik.secret.md) 

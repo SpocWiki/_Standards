@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_ticker_symbol|has_ticker_symbol]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_ticker_symbol.public|has_ticker_symbol.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_ticker_symbol.internal|has_ticker_symbol.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_ticker_symbol.protect|has_ticker_symbol.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_ticker_symbol.private|has_ticker_symbol.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_ticker_symbol.personal|has_ticker_symbol.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_ticker_symbol.secret|has_ticker_symbol.secret]] 
+
+### [has_ticker_symbol](/_public/schema-org/Property/has_name/has_ticker_symbol.md) 
+
+### [has_ticker_symbol.internal](/_internal/schema-org/Property/has_name/has_ticker_symbol.internal.md) 
+
+### [has_ticker_symbol.protect](/_protect/schema-org/Property/has_name/has_ticker_symbol.protect.md) 
+
+### [has_ticker_symbol.private](/_private/schema-org/Property/has_name/has_ticker_symbol.private.md) 
+
+### [has_ticker_symbol.personal](/_personal/schema-org/Property/has_name/has_ticker_symbol.personal.md) 
+
+### [has_ticker_symbol.secret](/_secret/schema-org/Property/has_name/has_ticker_symbol.secret.md) 

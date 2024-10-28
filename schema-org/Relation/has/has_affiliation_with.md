@@ -1,34 +1,31 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_affiliation_with
-
 linkTitle: has_affiliation_with
-keywords: [affiliation]
+keywords:
+  - affiliation
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- affiliation
-- affiliation
-- affiliation
-- has_affiliation_with
-- is_affiliated_with
+  - affiliation
+  - has_affiliation_with
+  - is_affiliated_with
+  - schema:affiliation
+  - dbo:affiliation
+  - wdt:P1416
 ---
 
 Use it like this: 
@@ -46,10 +43,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: memberOf ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_affiliation_with|has_affiliation_with]] 
-- [[../../../../../_public/schema-org/Relation/has/has_affiliation_with.public|has_affiliation_with.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_affiliation_with.internal|has_affiliation_with.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_affiliation_with.protect|has_affiliation_with.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_affiliation_with.private|has_affiliation_with.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_affiliation_with.personal|has_affiliation_with.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_affiliation_with.secret|has_affiliation_with.secret]] 
+
+### [has_affiliation_with](/_public/schema-org/Relation/has/has_affiliation_with.md) 
+
+### [has_affiliation_with.internal](/_internal/schema-org/Relation/has/has_affiliation_with.internal.md) 
+
+### [has_affiliation_with.protect](/_protect/schema-org/Relation/has/has_affiliation_with.protect.md) 
+
+### [has_affiliation_with.private](/_private/schema-org/Relation/has/has_affiliation_with.private.md) 
+
+### [has_affiliation_with.personal](/_personal/schema-org/Relation/has/has_affiliation_with.personal.md) 
+
+### [has_affiliation_with.secret](/_secret/schema-org/Relation/has/has_affiliation_with.secret.md) 

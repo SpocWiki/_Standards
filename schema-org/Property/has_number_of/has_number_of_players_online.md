@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_players_online|has_number_of_players_online]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_players_online.public|has_number_of_players_online.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_players_online.internal|has_number_of_players_online.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_players_online.protect|has_number_of_players_online.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_players_online.private|has_number_of_players_online.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_players_online.personal|has_number_of_players_online.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_players_online.secret|has_number_of_players_online.secret]] 
+
+### [has_number_of_players_online](/_public/schema-org/Property/has_number_of/has_number_of_players_online.md) 
+
+### [has_number_of_players_online.internal](/_internal/schema-org/Property/has_number_of/has_number_of_players_online.internal.md) 
+
+### [has_number_of_players_online.protect](/_protect/schema-org/Property/has_number_of/has_number_of_players_online.protect.md) 
+
+### [has_number_of_players_online.private](/_private/schema-org/Property/has_number_of/has_number_of_players_online.private.md) 
+
+### [has_number_of_players_online.personal](/_personal/schema-org/Property/has_number_of/has_number_of_players_online.personal.md) 
+
+### [has_number_of_players_online.secret](/_secret/schema-org/Property/has_number_of/has_number_of_players_online.secret.md) 

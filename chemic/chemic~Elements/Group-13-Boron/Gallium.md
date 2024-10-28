@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21929
@@ -40,10 +40,15 @@ SpocWebEntityId: 21929
 > [Wikipedia](https://en.wikipedia.org/wiki/Gallium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-13-Boron/Gallium|Gallium]] 
-- [[../../../../_public/chemic/Elements/Group-13-Boron/Gallium.public|Gallium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-13-Boron/Gallium.internal|Gallium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-13-Boron/Gallium.protect|Gallium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-13-Boron/Gallium.private|Gallium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-13-Boron/Gallium.personal|Gallium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-13-Boron/Gallium.secret|Gallium.secret]] 
+
+### [Gallium](/_public/chemic/chemic~Elements/Group-13-Boron/Gallium.md) 
+
+### [Gallium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Gallium.internal.md) 
+
+### [Gallium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Gallium.protect.md) 
+
+### [Gallium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Gallium.private.md) 
+
+### [Gallium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Gallium.personal.md) 
+
+### [Gallium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Gallium.secret.md) 

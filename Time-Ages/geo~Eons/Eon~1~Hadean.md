@@ -1,4 +1,4 @@
-# [[Eon~1~Hadean]] 
+﻿# [[Eon~1~Hadean]] 
 
 #is_a_/time_/Eon
 
@@ -38,8 +38,8 @@ A time period from 4567 to 4031 million years ago.
 
 #has_/abbreviation :: HA
 
-#has_/time_/created/Ma :: -4567
-#has_/time_/destroyed/Ma :: -4031 
+#has_/time_/started /Ma :: -4567
+#has_/time_/stopped /Ma :: -4031 
 
 #has_/text_of_/color :: 0xAE027E
 
@@ -57,3 +57,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Eon~1~Hadean](/_public/Time-Ages/geo~Eons/Eon~1~Hadean.md) 
+
+### [Eon~1~Hadean.internal](/_internal/Time-Ages/geo~Eons/Eon~1~Hadean.internal.md) 
+
+### [Eon~1~Hadean.protect](/_protect/Time-Ages/geo~Eons/Eon~1~Hadean.protect.md) 
+
+### [Eon~1~Hadean.private](/_private/Time-Ages/geo~Eons/Eon~1~Hadean.private.md) 
+
+### [Eon~1~Hadean.personal](/_personal/Time-Ages/geo~Eons/Eon~1~Hadean.personal.md) 
+
+### [Eon~1~Hadean.secret](/_secret/Time-Ages/geo~Eons/Eon~1~Hadean.secret.md) 

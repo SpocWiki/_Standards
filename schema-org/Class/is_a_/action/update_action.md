@@ -45,10 +45,15 @@ The act of managing by changing/editing the state of the object.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, collection, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, targetCollection, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/action/update_action|update_action]] 
-- [[../../../../../_public/schema-org/Class/is_a_/action/update_action.public|update_action.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/action/update_action.internal|update_action.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/action/update_action.protect|update_action.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/action/update_action.private|update_action.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/action/update_action.personal|update_action.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/action/update_action.secret|update_action.secret]] 
+
+### [update_action](/_public/schema-org/Class/is_a_/action/update_action.md) 
+
+### [update_action.internal](/_internal/schema-org/Class/is_a_/action/update_action.internal.md) 
+
+### [update_action.protect](/_protect/schema-org/Class/is_a_/action/update_action.protect.md) 
+
+### [update_action.private](/_private/schema-org/Class/is_a_/action/update_action.private.md) 
+
+### [update_action.personal](/_personal/schema-org/Class/is_a_/action/update_action.personal.md) 
+
+### [update_action.secret](/_secret/schema-org/Class/is_a_/action/update_action.secret.md) 

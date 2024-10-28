@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -33,10 +33,15 @@ SpocWebEntityId: 21969
 > [Wikipedia](https://en.wikipedia.org/wiki/Tantalum)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-05-Vanadium/Tantalum|Tantalum]] 
-- [[../../../../_public/chemic/Elements/Group-05-Vanadium/Tantalum.public|Tantalum.public]] 
-- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Tantalum.internal|Tantalum.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Tantalum.protect|Tantalum.protect]] 
-- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Tantalum.private|Tantalum.private]] 
-- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Tantalum.personal|Tantalum.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Tantalum.secret|Tantalum.secret]] 
+
+### [Tantalum](/_public/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.md) 
+
+### [Tantalum.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.internal.md) 
+
+### [Tantalum.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.protect.md) 
+
+### [Tantalum.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.private.md) 
+
+### [Tantalum.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.personal.md) 
+
+### [Tantalum.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Tantalum.secret.md) 

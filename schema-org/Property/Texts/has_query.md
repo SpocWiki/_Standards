@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_query|has_query]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_query.public|has_query.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_query.internal|has_query.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_query.protect|has_query.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_query.private|has_query.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_query.personal|has_query.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_query.secret|has_query.secret]] 
+
+### [has_query](/_public/schema-org/Property/Texts/has_query.md) 
+
+### [has_query.internal](/_internal/schema-org/Property/Texts/has_query.internal.md) 
+
+### [has_query.protect](/_protect/schema-org/Property/Texts/has_query.protect.md) 
+
+### [has_query.private](/_private/schema-org/Property/Texts/has_query.private.md) 
+
+### [has_query.personal](/_personal/schema-org/Property/Texts/has_query.personal.md) 
+
+### [has_query.secret](/_secret/schema-org/Property/Texts/has_query.secret.md) 

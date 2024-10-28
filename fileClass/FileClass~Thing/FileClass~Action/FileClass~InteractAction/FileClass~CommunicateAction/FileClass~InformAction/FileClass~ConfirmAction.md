@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,3 +37,17 @@ Related actions:
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ConfirmAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.md) 
+
+### [FileClass~ConfirmAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.internal.md) 
+
+### [FileClass~ConfirmAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.protect.md) 
+
+### [FileClass~ConfirmAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.private.md) 
+
+### [FileClass~ConfirmAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.personal.md) 
+
+### [FileClass~ConfirmAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~ConfirmAction.secret.md) 

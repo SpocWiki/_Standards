@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -68,10 +68,15 @@ Relation describes that:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Relation/is_complement_of|is_complement_of]] 
-- [[../../../../_public/schema-org/Relation/is_complement_of.public|is_complement_of.public]] 
-- [[../../../../_internal/schema.org/Relation/is_complement_of.internal|is_complement_of.internal]] 
-- [[../../../../_protect/schema.org/Relation/is_complement_of.protect|is_complement_of.protect]] 
-- [[../../../../_private/schema.org/Relation/is_complement_of.private|is_complement_of.private]] 
-- [[../../../../_personal/schema.org/Relation/is_complement_of.personal|is_complement_of.personal]] 
-- [[../../../../_secret/schema.org/Relation/is_complement_of.secret|is_complement_of.secret]] 
+
+### [is_complement_of](/_public/schema-org/Relation/is_complement_of.md) 
+
+### [is_complement_of.internal](/_internal/schema-org/Relation/is_complement_of.internal.md) 
+
+### [is_complement_of.protect](/_protect/schema-org/Relation/is_complement_of.protect.md) 
+
+### [is_complement_of.private](/_private/schema-org/Relation/is_complement_of.private.md) 
+
+### [is_complement_of.personal](/_personal/schema-org/Relation/is_complement_of.personal.md) 
+
+### [is_complement_of.secret](/_secret/schema-org/Relation/is_complement_of.secret.md) 

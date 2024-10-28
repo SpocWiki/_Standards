@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~3~Quaternary]] 
 
 #is_a_/time_/Period 
@@ -34,8 +34,8 @@ A time period from 2.58 million years ago to the present.
 
 #has_/abbreviation :: Q
 
-#has_/time_/created/Ma :: -2.58 
-#has_/time_/destroyed/Ma :: 0.002 
+#has_/time_/started /Ma :: -2.58 
+#has_/time_/stopped /Ma :: 0.002 
 
     sh:order 10 
 
@@ -55,3 +55,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~3~Quaternary](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary.md) 
+
+### [Period~3~Quaternary.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary.internal.md) 
+
+### [Period~3~Quaternary.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary.protect.md) 
+
+### [Period~3~Quaternary.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary.private.md) 
+
+### [Period~3~Quaternary.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary.personal.md) 
+
+### [Period~3~Quaternary.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary.secret.md) 

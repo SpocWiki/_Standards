@@ -1,4 +1,4 @@
-# [[Age~2~Ladinian]] 
+﻿# [[Age~2~Ladinian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 242 to 237 million years ago.
 
 #has_/abbreviation :: t4
 
-#has_/time_/created/Ma :: -242 
-#has_/time_/destroyed/Ma :: -237 
+#has_/time_/started /Ma :: -242 
+#has_/time_/stopped /Ma :: -237 
 
     sh:order 70 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Ladinian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.md) 
+
+### [Age~2~Ladinian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.internal.md) 
+
+### [Age~2~Ladinian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.protect.md) 
+
+### [Age~2~Ladinian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.private.md) 
+
+### [Age~2~Ladinian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.personal.md) 
+
+### [Age~2~Ladinian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~2~Ladinian.secret.md) 

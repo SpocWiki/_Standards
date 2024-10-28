@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: PriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_eligible_transaction_volume|has_eligible_transaction_volume]] 
-- [[../../../../../_public/schema-org/Relation/has/has_eligible_transaction_volume.public|has_eligible_transaction_volume.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_eligible_transaction_volume.internal|has_eligible_transaction_volume.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_eligible_transaction_volume.protect|has_eligible_transaction_volume.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_eligible_transaction_volume.private|has_eligible_transaction_volume.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_eligible_transaction_volume.personal|has_eligible_transaction_volume.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_eligible_transaction_volume.secret|has_eligible_transaction_volume.secret]] 
+
+### [has_eligible_transaction_volume](/_public/schema-org/Relation/has/has_eligible_transaction_volume.md) 
+
+### [has_eligible_transaction_volume.internal](/_internal/schema-org/Relation/has/has_eligible_transaction_volume.internal.md) 
+
+### [has_eligible_transaction_volume.protect](/_protect/schema-org/Relation/has/has_eligible_transaction_volume.protect.md) 
+
+### [has_eligible_transaction_volume.private](/_private/schema-org/Relation/has/has_eligible_transaction_volume.private.md) 
+
+### [has_eligible_transaction_volume.personal](/_personal/schema-org/Relation/has/has_eligible_transaction_volume.personal.md) 
+
+### [has_eligible_transaction_volume.secret](/_secret/schema-org/Relation/has/has_eligible_transaction_volume.secret.md) 

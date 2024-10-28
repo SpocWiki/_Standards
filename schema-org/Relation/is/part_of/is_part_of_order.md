@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Order )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_part_of_order|is_part_of_order]] 
-- [[../../../../../_public/schema-org/Relation/has/is_part_of_order.public|is_part_of_order.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_part_of_order.internal|is_part_of_order.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_part_of_order.protect|is_part_of_order.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_part_of_order.private|is_part_of_order.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_part_of_order.personal|is_part_of_order.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_part_of_order.secret|is_part_of_order.secret]] 
+
+### [is_part_of_order](/_public/schema-org/Relation/is/part_of/is_part_of_order.md) 
+
+### [is_part_of_order.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_order.internal.md) 
+
+### [is_part_of_order.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_order.protect.md) 
+
+### [is_part_of_order.private](/_private/schema-org/Relation/is/part_of/is_part_of_order.private.md) 
+
+### [is_part_of_order.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_order.personal.md) 
+
+### [is_part_of_order.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_order.secret.md) 

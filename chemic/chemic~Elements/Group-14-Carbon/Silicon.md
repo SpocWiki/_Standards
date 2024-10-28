@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21915
@@ -41,10 +41,15 @@ SpocWebEntityId: 21915
 > [Wikipedia](https://en.wikipedia.org/wiki/Silicon)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-14-Carbon/Silicon|Silicon]] 
-- [[../../../../_public/chemic/Elements/Group-14-Carbon/Silicon.public|Silicon.public]] 
-- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Silicon.internal|Silicon.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Silicon.protect|Silicon.protect]] 
-- [[../../../../_private/chemic/Elements/Group-14-Carbon/Silicon.private|Silicon.private]] 
-- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Silicon.personal|Silicon.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Silicon.secret|Silicon.secret]] 
+
+### [Silicon](/_public/chemic/chemic~Elements/Group-14-Carbon/Silicon.md) 
+
+### [Silicon.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Silicon.internal.md) 
+
+### [Silicon.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Silicon.protect.md) 
+
+### [Silicon.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Silicon.private.md) 
+
+### [Silicon.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Silicon.personal.md) 
+
+### [Silicon.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Silicon.secret.md) 

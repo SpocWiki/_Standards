@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: ContactPoint )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_application_contact|has_application_contact]] 
-- [[../../../../../_public/schema-org/Relation/has/has_application_contact.public|has_application_contact.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_application_contact.internal|has_application_contact.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_application_contact.protect|has_application_contact.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_application_contact.private|has_application_contact.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_application_contact.personal|has_application_contact.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_application_contact.secret|has_application_contact.secret]] 
+
+### [has_application_contact](/_public/schema-org/Relation/has/has_application_contact.md) 
+
+### [has_application_contact.internal](/_internal/schema-org/Relation/has/has_application_contact.internal.md) 
+
+### [has_application_contact.protect](/_protect/schema-org/Relation/has/has_application_contact.protect.md) 
+
+### [has_application_contact.private](/_private/schema-org/Relation/has/has_application_contact.private.md) 
+
+### [has_application_contact.personal](/_personal/schema-org/Relation/has/has_application_contact.personal.md) 
+
+### [has_application_contact.secret](/_secret/schema-org/Relation/has/has_application_contact.secret.md) 

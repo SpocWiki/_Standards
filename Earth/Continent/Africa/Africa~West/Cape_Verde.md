@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 14.9167
 - -23.5167
@@ -138,9 +138,15 @@ Capital :: [[Cape_Verde/municipalities~Cape_Verde/Praia]]
 
 
 ## Confidential Links & Embeds: 
-- [[Cape_Verde|Cape_Verde]]  
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Cape_Verde.internal|Cape_Verde.internal]]  
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Cape_Verde.protect|Cape_Verde.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Cape_Verde.private|Cape_Verde.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Cape_Verde.personal|Cape_Verde.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret|Cape_Verde.secret]] 
+
+### [Cape_Verde](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde.md) 
+
+### [Cape_Verde.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde.internal.md) 
+
+### [Cape_Verde.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde.protect.md) 
+
+### [Cape_Verde.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde.private.md) 
+
+### [Cape_Verde.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde.personal.md) 
+
+### [Cape_Verde.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret.md) 

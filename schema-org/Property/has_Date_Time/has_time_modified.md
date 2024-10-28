@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Formal Predicate:
 (range::Date, DateTime)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_modified|has_time_modified]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_modified.public|has_time_modified.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_modified.internal|has_time_modified.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_modified.protect|has_time_modified.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_modified.private|has_time_modified.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_modified.personal|has_time_modified.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_modified.secret|has_time_modified.secret]] 
+
+### [has_time_modified](/_public/schema-org/Property/has_Date_Time/has_time_modified.md) 
+
+### [has_time_modified.internal](/_internal/schema-org/Property/has_Date_Time/has_time_modified.internal.md) 
+
+### [has_time_modified.protect](/_protect/schema-org/Property/has_Date_Time/has_time_modified.protect.md) 
+
+### [has_time_modified.private](/_private/schema-org/Property/has_Date_Time/has_time_modified.private.md) 
+
+### [has_time_modified.personal](/_personal/schema-org/Property/has_Date_Time/has_time_modified.personal.md) 
+
+### [has_time_modified.secret](/_secret/schema-org/Property/has_Date_Time/has_time_modified.secret.md) 

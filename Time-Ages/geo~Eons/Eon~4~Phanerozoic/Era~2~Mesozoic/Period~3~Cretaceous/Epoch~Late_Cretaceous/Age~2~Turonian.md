@@ -1,4 +1,4 @@
-# [[Age~2~Turonian]] 
+﻿# [[Age~2~Turonian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 93.9 to 89.8 million years ago.
 
 #has_/abbreviation :: k2
 
-#has_/time_/created/Ma :: -93.9
-#has_/time_/destroyed/Ma :: -89.8 
+#has_/time_/started /Ma :: -93.9
+#has_/time_/stopped /Ma :: -89.8 
 
     sh:order 40 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Turonian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~2~Turonian.md) 
+
+### [Age~2~Turonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~2~Turonian.internal.md) 
+
+### [Age~2~Turonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~2~Turonian.protect.md) 
+
+### [Age~2~Turonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~2~Turonian.private.md) 
+
+### [Age~2~Turonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~2~Turonian.personal.md) 
+
+### [Age~2~Turonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~2~Turonian.secret.md) 

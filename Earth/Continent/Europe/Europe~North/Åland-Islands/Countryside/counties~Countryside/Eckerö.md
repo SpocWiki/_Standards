@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 60.2 , 19.6 ] 
 type: geo-Region
 title: Eckerö
@@ -40,11 +40,15 @@ markerFolder: ./Eckerö/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Eckerö|Eckerö]] 
-- [[../../../../../../../_public/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Eckerö.public|Eckerö.public]] 
-- [[../../../../../../../_internal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Eckerö.internal|Eckerö.internal]] 
-- [[../../../../../../../_protect/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Eckerö.protect|Eckerö.protect]] 
-- [[../../../../../../../_private/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Eckerö.private|Eckerö.private]] 
-- [[../../../../../../../_personal/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Eckerö.personal|Eckerö.personal]] 
-- [[../../../../../../../_secret/Earth/Continent/Europe/Europe~North/Åland~Islands/Counties/Eckerö.secret|Eckerö.secret]] 
 
+### [Eckerö](/_public/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.md) 
+
+### [Eckerö.internal](/_internal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.internal.md) 
+
+### [Eckerö.protect](/_protect/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.protect.md) 
+
+### [Eckerö.private](/_private/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.private.md) 
+
+### [Eckerö.personal](/_personal/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.personal.md) 
+
+### [Eckerö.secret](/_secret/Earth/Continent/Europe/Europe~North/Åland-Islands/Countryside/counties~Countryside/Eckerö.secret.md) 

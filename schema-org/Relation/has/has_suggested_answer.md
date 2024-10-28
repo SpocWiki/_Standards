@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ acceptedAnswer ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_suggested_answer|has_suggested_answer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_suggested_answer.public|has_suggested_answer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_suggested_answer.internal|has_suggested_answer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_suggested_answer.protect|has_suggested_answer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_suggested_answer.private|has_suggested_answer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_suggested_answer.personal|has_suggested_answer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_suggested_answer.secret|has_suggested_answer.secret]] 
+
+### [has_suggested_answer](/_public/schema-org/Relation/has/has_suggested_answer.md) 
+
+### [has_suggested_answer.internal](/_internal/schema-org/Relation/has/has_suggested_answer.internal.md) 
+
+### [has_suggested_answer.protect](/_protect/schema-org/Relation/has/has_suggested_answer.protect.md) 
+
+### [has_suggested_answer.private](/_private/schema-org/Relation/has/has_suggested_answer.private.md) 
+
+### [has_suggested_answer.personal](/_personal/schema-org/Relation/has/has_suggested_answer.personal.md) 
+
+### [has_suggested_answer.secret](/_secret/schema-org/Relation/has/has_suggested_answer.secret.md) 

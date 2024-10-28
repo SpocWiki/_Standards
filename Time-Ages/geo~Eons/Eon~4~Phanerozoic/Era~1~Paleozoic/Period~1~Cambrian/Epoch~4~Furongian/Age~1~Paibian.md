@@ -1,4 +1,4 @@
-# [[Age~1~Paibian]] 
+﻿# [[Age~1~Paibian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 497 to 494 million years ago.
 
 #has_/abbreviation :: ep8
 
-#has_/time_/created/Ma :: -497 
-#has_/time_/destroyed/Ma :: -494 
+#has_/time_/started /Ma :: -497 
+#has_/time_/stopped /Ma :: -494 
 
     sh:order 145 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Paibian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.md) 
+
+### [Age~1~Paibian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.internal.md) 
+
+### [Age~1~Paibian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.protect.md) 
+
+### [Age~1~Paibian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.private.md) 
+
+### [Age~1~Paibian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.personal.md) 
+
+### [Age~1~Paibian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.secret.md) 

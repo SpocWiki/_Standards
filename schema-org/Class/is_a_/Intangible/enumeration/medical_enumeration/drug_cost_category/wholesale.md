@@ -45,10 +45,15 @@ The drug's cost represents the wholesale acquisition cost of the drug.
 [ #is_/enum_of :: [[../DrugCostCategory]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale|wholesale]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.public|wholesale.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.internal|wholesale.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.protect|wholesale.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.private|wholesale.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.personal|wholesale.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.secret|wholesale.secret]] 
+
+### [wholesale](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.md) 
+
+### [wholesale.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.internal.md) 
+
+### [wholesale.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.protect.md) 
+
+### [wholesale.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.private.md) 
+
+### [wholesale.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.personal.md) 
+
+### [wholesale.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/drug_cost_category/wholesale.secret.md) 

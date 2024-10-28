@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -84,3 +84,17 @@ The category or type of pharmacy associated with this cost sharing.
 HealthPlanPharmacyCategory:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~HealthPlanCostSharingSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.md) 
+
+### [FileClass~HealthPlanCostSharingSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.internal.md) 
+
+### [FileClass~HealthPlanCostSharingSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.protect.md) 
+
+### [FileClass~HealthPlanCostSharingSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.private.md) 
+
+### [FileClass~HealthPlanCostSharingSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.personal.md) 
+
+### [FileClass~HealthPlanCostSharingSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanCostSharingSpecification.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: PaymentStatusType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_payment_status|has_payment_status]] 
-- [[../../../../../_public/schema-org/Relation/has/has_payment_status.public|has_payment_status.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_payment_status.internal|has_payment_status.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_payment_status.protect|has_payment_status.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_payment_status.private|has_payment_status.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_payment_status.personal|has_payment_status.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_payment_status.secret|has_payment_status.secret]] 
+
+### [has_payment_status](/_public/schema-org/Relation/has/has_payment_status.md) 
+
+### [has_payment_status.internal](/_internal/schema-org/Relation/has/has_payment_status.internal.md) 
+
+### [has_payment_status.protect](/_protect/schema-org/Relation/has/has_payment_status.protect.md) 
+
+### [has_payment_status.private](/_private/schema-org/Relation/has/has_payment_status.private.md) 
+
+### [has_payment_status.personal](/_personal/schema-org/Relation/has/has_payment_status.personal.md) 
+
+### [has_payment_status.secret](/_secret/schema-org/Relation/has/has_payment_status.secret.md) 

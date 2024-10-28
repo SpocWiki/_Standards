@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,3 +53,17 @@ Defines the energy efficiency Category (which could be either a rating out of ra
 HasEnergyEfficiencyCategory:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~EnergyConsumptionDetails](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.md) 
+
+### [FileClass~EnergyConsumptionDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.internal.md) 
+
+### [FileClass~EnergyConsumptionDetails.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.protect.md) 
+
+### [FileClass~EnergyConsumptionDetails.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.private.md) 
+
+### [FileClass~EnergyConsumptionDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.personal.md) 
+
+### [FileClass~EnergyConsumptionDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~EnergyConsumptionDetails.secret.md) 

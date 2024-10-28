@@ -1,4 +1,4 @@
-
+﻿
 
 
 > The United Nations Economic Commission for Europe (ECE or **UNECE**) is one of the five regional commissions under the jurisdiction of the ECOSOC(United Nations Economic and Social Council). 
@@ -12,3 +12,17 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20Nations%20Economic%20Commission%20for%20Europe)
 
 
+
+## Confidential Links & Embeds: 
+
+### [UNECE](/_public/UN(United_Nations)/ECOSOC/UNECE.md) 
+
+### [UNECE.internal](/_internal/UN(United_Nations)/ECOSOC/UNECE.internal.md) 
+
+### [UNECE.protect](/_protect/UN(United_Nations)/ECOSOC/UNECE.protect.md) 
+
+### [UNECE.private](/_private/UN(United_Nations)/ECOSOC/UNECE.private.md) 
+
+### [UNECE.personal](/_personal/UN(United_Nations)/ECOSOC/UNECE.personal.md) 
+
+### [UNECE.secret](/_secret/UN(United_Nations)/ECOSOC/UNECE.secret.md) 

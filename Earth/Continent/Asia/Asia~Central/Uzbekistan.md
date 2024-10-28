@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 41.33
     - 69.3
@@ -150,9 +150,15 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 
 
 ## Confidential Links & Embeds: 
-- [[Uzbekistan|Uzbekistan]] 
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan.internal|Uzbekistan.internal]] 
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan.protect|Uzbekistan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~Central/Uzbekistan.private|Uzbekistan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan.personal|Uzbekistan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan.secret|Uzbekistan.secret]] 
+
+### [Uzbekistan](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan.md) 
+
+### [Uzbekistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan.internal.md) 
+
+### [Uzbekistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan.protect.md) 
+
+### [Uzbekistan.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan.private.md) 
+
+### [Uzbekistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan.personal.md) 
+
+### [Uzbekistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan.secret.md) 

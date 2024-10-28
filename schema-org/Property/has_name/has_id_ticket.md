@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_ticket|has_id_ticket]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_ticket.public|has_id_ticket.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_ticket.internal|has_id_ticket.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_ticket.protect|has_id_ticket.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_ticket.private|has_id_ticket.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_ticket.personal|has_id_ticket.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_ticket.secret|has_id_ticket.secret]] 
+
+### [has_id_ticket](/_public/schema-org/Property/has_name/has_id_ticket.md) 
+
+### [has_id_ticket.internal](/_internal/schema-org/Property/has_name/has_id_ticket.internal.md) 
+
+### [has_id_ticket.protect](/_protect/schema-org/Property/has_name/has_id_ticket.protect.md) 
+
+### [has_id_ticket.private](/_private/schema-org/Property/has_name/has_id_ticket.private.md) 
+
+### [has_id_ticket.personal](/_personal/schema-org/Property/has_name/has_id_ticket.personal.md) 
+
+### [has_id_ticket.secret](/_secret/schema-org/Property/has_name/has_id_ticket.secret.md) 

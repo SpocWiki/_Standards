@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21996
@@ -34,10 +34,15 @@ SpocWebEntityId: 21996
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Mendelevium|Mendelevium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Mendelevium.public|Mendelevium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Mendelevium.internal|Mendelevium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Mendelevium.protect|Mendelevium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Mendelevium.private|Mendelevium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Mendelevium.personal|Mendelevium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Mendelevium.secret|Mendelevium.secret]] 
+
+### [Mendelevium](/_public/chemic/chemic~Elements/Actinide-Group/Mendelevium.md) 
+
+### [Mendelevium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Mendelevium.internal.md) 
+
+### [Mendelevium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Mendelevium.protect.md) 
+
+### [Mendelevium.private](/_private/chemic/chemic~Elements/Actinide-Group/Mendelevium.private.md) 
+
+### [Mendelevium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Mendelevium.personal.md) 
+
+### [Mendelevium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Mendelevium.secret.md) 

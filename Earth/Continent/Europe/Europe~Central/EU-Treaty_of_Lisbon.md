@@ -1,5 +1,5 @@
-
-#has_/time_/created :: 2009-12-01 
+﻿
+#has_/time_/started :: 2009-12-01 
 #has_/time_/incepted :: 2007-01-01 
 
 > The Treaty of Lisbon (initially known as the Reform Treaty) 
@@ -68,3 +68,17 @@
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [EU-Treaty_of_Lisbon](/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.md) 
+
+### [EU-Treaty_of_Lisbon.internal](/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal.md) 
+
+### [EU-Treaty_of_Lisbon.protect](/_protect/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.protect.md) 
+
+### [EU-Treaty_of_Lisbon.private](/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private.md) 
+
+### [EU-Treaty_of_Lisbon.personal](/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal.md) 
+
+### [EU-Treaty_of_Lisbon.secret](/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret.md) 

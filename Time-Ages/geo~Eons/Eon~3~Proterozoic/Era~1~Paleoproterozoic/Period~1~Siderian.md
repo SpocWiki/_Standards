@@ -1,4 +1,4 @@
-# [[Period~1~Siderian]] 
+﻿# [[Period~1~Siderian]] 
 
 #is_a_/time_/Period 
 
@@ -31,8 +31,8 @@ A time period from> The **Siderian** Period ( ; Ancient Greek: σίδηρος, r
 
 #has_/abbreviation :: PP1
 
-#has_/time_/created/Ma :: -2500
-#has_/time_/destroyed/Ma :: -2300
+#has_/time_/started /Ma :: -2500
+#has_/time_/stopped /Ma :: -2300
 
     sh:order 171 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~1~Siderian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.md) 
+
+### [Period~1~Siderian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.internal.md) 
+
+### [Period~1~Siderian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.protect.md) 
+
+### [Period~1~Siderian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.private.md) 
+
+### [Period~1~Siderian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.personal.md) 
+
+### [Period~1~Siderian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~1~Siderian.secret.md) 

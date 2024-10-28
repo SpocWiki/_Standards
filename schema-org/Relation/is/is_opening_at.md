@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Time )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_opening_at|is_opening_at]] 
-- [[../../../../../_public/schema-org/Relation/has/is_opening_at.public|is_opening_at.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_opening_at.internal|is_opening_at.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_opening_at.protect|is_opening_at.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_opening_at.private|is_opening_at.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_opening_at.personal|is_opening_at.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_opening_at.secret|is_opening_at.secret]] 
+
+### [is_opening_at](/_public/schema-org/Relation/is/is_opening_at.md) 
+
+### [is_opening_at.internal](/_internal/schema-org/Relation/is/is_opening_at.internal.md) 
+
+### [is_opening_at.protect](/_protect/schema-org/Relation/is/is_opening_at.protect.md) 
+
+### [is_opening_at.private](/_private/schema-org/Relation/is/is_opening_at.private.md) 
+
+### [is_opening_at.personal](/_personal/schema-org/Relation/is/is_opening_at.personal.md) 
+
+### [is_opening_at.secret](/_secret/schema-org/Relation/is/is_opening_at.secret.md) 

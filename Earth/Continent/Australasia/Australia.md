@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -35.4776
     - 149.027
@@ -146,10 +146,15 @@ Capital :: [[Canberra]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Australia/Australia|Australia]] 
-- [[../../../../_public/Earth/Continent/Australia/Australia.public|Australia.public]] 
-- [[../../../../_internal/Earth/Continent/Australia/Australia.internal|Australia.internal]] 
-- [[../../../../_protect/Earth/Continent/Australia/Australia.protect|Australia.protect]] 
-- [[../../../../_private/Earth/Continent/Australia/Australia.private|Australia.private]] 
-- [[../../../../_personal/Earth/Continent/Australia/Australia.personal|Australia.personal]] 
-- [[../../../../_secret/Earth/Continent/Australia/Australia.secret|Australia.secret]] 
+
+### [Australia](/_public/Earth/Continent/Australasia/Australia.md) 
+
+### [Australia.internal](/_internal/Earth/Continent/Australasia/Australia.internal.md) 
+
+### [Australia.protect](/_protect/Earth/Continent/Australasia/Australia.protect.md) 
+
+### [Australia.private](/_private/Earth/Continent/Australasia/Australia.private.md) 
+
+### [Australia.personal](/_personal/Earth/Continent/Australasia/Australia.personal.md) 
+
+### [Australia.secret](/_secret/Earth/Continent/Australasia/Australia.secret.md) 

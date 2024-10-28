@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - English
@@ -42,10 +42,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-en|Lang-en]] 
-- [[../../_public/lang/Lang-en.public|Lang-en.public]] [[../../../../../_internal/lang/Lang-en.internal|Lang-en.internal]]l]] 
-- [[../../_protect/lang/Lang-en.protect|Lang-en.protect]] 
-- [[../../_private/lang/Lang-en.private|Lang-en.private]] 
-- [[../../_personal/lang/Lang-en.personal|Lang-en.personal]] 
-- [[../../_secret/lang/Lang-en.secret|Lang-en.secret]]
 
+### [Lang-en](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.md) 
+
+### [Lang-en.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.internal.md) 
+
+### [Lang-en.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.protect.md) 
+
+### [Lang-en.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.private.md) 
+
+### [Lang-en.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.personal.md) 
+
+### [Lang-en.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en.secret.md) 

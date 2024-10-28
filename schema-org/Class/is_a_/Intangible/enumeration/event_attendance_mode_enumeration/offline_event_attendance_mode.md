@@ -47,10 +47,15 @@ OfflineEventAttendanceMode - an event that is primarily conducted offline.
 [ #is_/enum_of :: [[../EventAttendanceModeEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode|offline_event_attendance_mode]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.public|offline_event_attendance_mode.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.internal|offline_event_attendance_mode.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.protect|offline_event_attendance_mode.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.private|offline_event_attendance_mode.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.personal|offline_event_attendance_mode.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.secret|offline_event_attendance_mode.secret]] 
+
+### [offline_event_attendance_mode](/_public/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.md) 
+
+### [offline_event_attendance_mode.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.internal.md) 
+
+### [offline_event_attendance_mode.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.protect.md) 
+
+### [offline_event_attendance_mode.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.private.md) 
+
+### [offline_event_attendance_mode.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.personal.md) 
+
+### [offline_event_attendance_mode.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/event_attendance_mode_enumeration/offline_event_attendance_mode.secret.md) 

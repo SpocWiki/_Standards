@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DeliveryMethod )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_delivery_method|has_delivery_method]] 
-- [[../../../../../_public/schema-org/Relation/has/has_delivery_method.public|has_delivery_method.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_delivery_method.internal|has_delivery_method.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_delivery_method.protect|has_delivery_method.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_delivery_method.private|has_delivery_method.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_delivery_method.personal|has_delivery_method.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_delivery_method.secret|has_delivery_method.secret]] 
+
+### [has_delivery_method](/_public/schema-org/Relation/has/has_delivery_method.md) 
+
+### [has_delivery_method.internal](/_internal/schema-org/Relation/has/has_delivery_method.internal.md) 
+
+### [has_delivery_method.protect](/_protect/schema-org/Relation/has/has_delivery_method.protect.md) 
+
+### [has_delivery_method.private](/_private/schema-org/Relation/has/has_delivery_method.private.md) 
+
+### [has_delivery_method.personal](/_personal/schema-org/Relation/has/has_delivery_method.personal.md) 
+
+### [has_delivery_method.secret](/_secret/schema-org/Relation/has/has_delivery_method.secret.md) 

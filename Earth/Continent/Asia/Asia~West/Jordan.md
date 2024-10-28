@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 31.95
     - 35.93
@@ -145,9 +145,15 @@ Capital :: [[Jordan/Counties/Amman/City/Amman]]
 
 
 ## Confidential Links & Embeds: 
-- [[Jordan|Jordan]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Jordan.internal|Jordan.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Jordan.protect|Jordan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Jordan.private|Jordan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Jordan.personal|Jordan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Jordan.secret|Jordan.secret]] 
+
+### [Jordan](/_public/Earth/Continent/Asia/Asia~West/Jordan.md) 
+
+### [Jordan.internal](/_internal/Earth/Continent/Asia/Asia~West/Jordan.internal.md) 
+
+### [Jordan.protect](/_protect/Earth/Continent/Asia/Asia~West/Jordan.protect.md) 
+
+### [Jordan.private](/_private/Earth/Continent/Asia/Asia~West/Jordan.private.md) 
+
+### [Jordan.personal](/_personal/Earth/Continent/Asia/Asia~West/Jordan.personal.md) 
+
+### [Jordan.secret](/_secret/Earth/Continent/Asia/Asia~West/Jordan.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_unlabelled_fallback|is_unlabelled_fallback]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_unlabelled_fallback.public|is_unlabelled_fallback.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_unlabelled_fallback.internal|is_unlabelled_fallback.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_unlabelled_fallback.protect|is_unlabelled_fallback.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_unlabelled_fallback.private|is_unlabelled_fallback.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_unlabelled_fallback.personal|is_unlabelled_fallback.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_unlabelled_fallback.secret|is_unlabelled_fallback.secret]] 
+
+### [is_unlabelled_fallback](/_public/schema-org/Property/Flags/is_unlabelled_fallback.md) 
+
+### [is_unlabelled_fallback.internal](/_internal/schema-org/Property/Flags/is_unlabelled_fallback.internal.md) 
+
+### [is_unlabelled_fallback.protect](/_protect/schema-org/Property/Flags/is_unlabelled_fallback.protect.md) 
+
+### [is_unlabelled_fallback.private](/_private/schema-org/Property/Flags/is_unlabelled_fallback.private.md) 
+
+### [is_unlabelled_fallback.personal](/_personal/schema-org/Property/Flags/is_unlabelled_fallback.personal.md) 
+
+### [is_unlabelled_fallback.secret](/_secret/schema-org/Property/Flags/is_unlabelled_fallback.secret.md) 

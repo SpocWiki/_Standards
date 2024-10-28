@@ -1,7 +1,7 @@
----
+﻿---
 location:
-    - 51.9757
-    - 5.08828
+    - 52.1525
+    - 5.386944
 type: Country
 tags:
     - geo/Country
@@ -116,9 +116,11 @@ Sub-region_Name ::  [[Western Europe]]
 
 ```leaflet
 id: Netherlands
+coordinates: [[Netherlands]]
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
+defaultZoom: 7
 geojsonFolder: ./Netherlands//
 markerFolder: ./Netherlands/
 ```
@@ -146,10 +148,15 @@ Capital :: [[Amsterdam]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~West/Netherlands|Netherlands]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~West/Netherlands.public|Netherlands.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~West/Netherlands.internal|Netherlands.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~West/Netherlands.protect|Netherlands.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~West/Netherlands.private|Netherlands.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~West/Netherlands.personal|Netherlands.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~West/Netherlands.secret|Netherlands.secret]] 
+
+### [Netherlands](/_public/Earth/Continent/Europe/Europe~West/Netherlands.md) 
+
+### [Netherlands.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands.internal.md) 
+
+### [Netherlands.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands.protect.md) 
+
+### [Netherlands.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands.private.md) 
+
+### [Netherlands.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands.personal.md) 
+
+### [Netherlands.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands.secret.md) 

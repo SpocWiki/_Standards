@@ -1,4 +1,4 @@
-# [[Age~2~Famennian]] 
+﻿# [[Age~2~Famennian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 372.2 to 358.9 million years ago.
 
 #has_/abbreviation :: d7
 
-#has_/time_/created/Ma :: -372.2 
-#has_/time_/destroyed/Ma :: -358.9 
+#has_/time_/started /Ma :: -372.2 
+#has_/time_/stopped /Ma :: -358.9 
 
     sh:order 108 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Famennian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.md) 
+
+### [Age~2~Famennian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.internal.md) 
+
+### [Age~2~Famennian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.protect.md) 
+
+### [Age~2~Famennian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.private.md) 
+
+### [Age~2~Famennian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.personal.md) 
+
+### [Age~2~Famennian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~2~Famennian.secret.md) 

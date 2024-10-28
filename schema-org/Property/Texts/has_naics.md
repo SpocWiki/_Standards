@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_naics|has_naics]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_naics.public|has_naics.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_naics.internal|has_naics.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_naics.protect|has_naics.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_naics.private|has_naics.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_naics.personal|has_naics.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_naics.secret|has_naics.secret]] 
+
+### [has_naics](/_public/schema-org/Property/Texts/has_naics.md) 
+
+### [has_naics.internal](/_internal/schema-org/Property/Texts/has_naics.internal.md) 
+
+### [has_naics.protect](/_protect/schema-org/Property/Texts/has_naics.protect.md) 
+
+### [has_naics.private](/_private/schema-org/Property/Texts/has_naics.private.md) 
+
+### [has_naics.personal](/_personal/schema-org/Property/Texts/has_naics.personal.md) 
+
+### [has_naics.secret](/_secret/schema-org/Property/Texts/has_naics.secret.md) 

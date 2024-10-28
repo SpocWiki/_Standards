@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:Mesozoic
 ---
@@ -32,8 +32,8 @@ A time period from 251.902 to 66.0 million years ago.
 
 #has_/abbreviation :: MZ
 
-#has_/time_/created/Ma :: -251.902 
-#has_/time_/destroyed/Ma :: -66.0
+#has_/time_/started /Ma :: -251.902 
+#has_/time_/stopped /Ma :: -66.0
 
     sh:order 76 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Era~2~Mesozoic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic.md) 
+
+### [Era~2~Mesozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic.internal.md) 
+
+### [Era~2~Mesozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic.protect.md) 
+
+### [Era~2~Mesozoic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic.private.md) 
+
+### [Era~2~Mesozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic.personal.md) 
+
+### [Era~2~Mesozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic.secret.md) 

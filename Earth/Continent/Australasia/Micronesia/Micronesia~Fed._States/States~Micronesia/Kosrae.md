@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 5.3 , 163 ] 
 type: geo-Region
 title: Kosrae
@@ -40,11 +40,15 @@ markerFolder: ./Kosrae/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae|Kosrae]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.public|Kosrae.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.internal|Kosrae.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.protect|Kosrae.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.private|Kosrae.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.personal|Kosrae.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Micronesia~Fed._States/Counties/Kosrae.secret|Kosrae.secret]] 
 
+### [Kosrae](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.md) 
+
+### [Kosrae.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.internal.md) 
+
+### [Kosrae.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.protect.md) 
+
+### [Kosrae.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.private.md) 
+
+### [Kosrae.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.personal.md) 
+
+### [Kosrae.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.secret.md) 

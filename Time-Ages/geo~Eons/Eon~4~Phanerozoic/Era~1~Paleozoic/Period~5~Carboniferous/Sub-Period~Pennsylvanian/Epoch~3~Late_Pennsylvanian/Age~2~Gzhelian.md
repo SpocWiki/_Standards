@@ -1,4 +1,4 @@
-# [[Age~2~Gzhelian]] 
+﻿# [[Age~2~Gzhelian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 303.7 to 298.9 million years ago.
 
 #has_/abbreviation :: c7
 
-#has_/time_/created/Ma :: -303.7 
-#has_/time_/destroyed/Ma :: -298.9 
+#has_/time_/started /Ma :: -303.7 
+#has_/time_/stopped /Ma :: -298.9 
 
     sh:order 92 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Gzhelian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian.md) 
+
+### [Age~2~Gzhelian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian.internal.md) 
+
+### [Age~2~Gzhelian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian.protect.md) 
+
+### [Age~2~Gzhelian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian.private.md) 
+
+### [Age~2~Gzhelian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian.personal.md) 
+
+### [Age~2~Gzhelian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian.secret.md) 

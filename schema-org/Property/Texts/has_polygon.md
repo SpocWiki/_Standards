@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_polygon|has_polygon]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_polygon.public|has_polygon.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_polygon.internal|has_polygon.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_polygon.protect|has_polygon.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_polygon.private|has_polygon.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_polygon.personal|has_polygon.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_polygon.secret|has_polygon.secret]] 
+
+### [has_polygon](/_public/schema-org/Property/Texts/has_polygon.md) 
+
+### [has_polygon.internal](/_internal/schema-org/Property/Texts/has_polygon.internal.md) 
+
+### [has_polygon.protect](/_protect/schema-org/Property/Texts/has_polygon.protect.md) 
+
+### [has_polygon.private](/_private/schema-org/Property/Texts/has_polygon.private.md) 
+
+### [has_polygon.personal](/_personal/schema-org/Property/Texts/has_polygon.personal.md) 
+
+### [has_polygon.secret](/_secret/schema-org/Property/Texts/has_polygon.secret.md) 

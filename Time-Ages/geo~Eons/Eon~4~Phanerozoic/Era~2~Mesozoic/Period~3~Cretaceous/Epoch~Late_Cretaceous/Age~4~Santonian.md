@@ -1,4 +1,4 @@
-# [[Age~4~Santonian]] 
+﻿# [[Age~4~Santonian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 86.3 to 83.6 million years ago.
 
 #has_/abbreviation :: k4
 
-#has_/time_/created/Ma :: -86.3 
-#has_/time_/destroyed/Ma :: -83.6 
+#has_/time_/started /Ma :: -86.3 
+#has_/time_/stopped /Ma :: -83.6 
 
     sh:order 38 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~4~Santonian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~4~Santonian.md) 
+
+### [Age~4~Santonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~4~Santonian.internal.md) 
+
+### [Age~4~Santonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~4~Santonian.protect.md) 
+
+### [Age~4~Santonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~4~Santonian.private.md) 
+
+### [Age~4~Santonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~4~Santonian.personal.md) 
+
+### [Age~4~Santonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~4~Santonian.secret.md) 

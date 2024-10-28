@@ -1,4 +1,4 @@
-# [[Age~3~Chibanian]]
+﻿# [[Age~3~Chibanian]]
 
 #is_a_/time_/Age 
 
@@ -18,8 +18,8 @@ A time period from 0.774 to 0.129 million years ago.
 
 #has_/abbreviation :: q3
 
-#has_/time_/created/Ma :: -0.774
-#has_/time_/destroyed/Ma :: -0.129
+#has_/time_/started /Ma :: -0.774
+#has_/time_/stopped /Ma :: -0.129
 
     sh:order 6 
 
@@ -39,3 +39,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Chibanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.md) 
+
+### [Age~3~Chibanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.internal.md) 
+
+### [Age~3~Chibanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.protect.md) 
+
+### [Age~3~Chibanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.private.md) 
+
+### [Age~3~Chibanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.personal.md) 
+
+### [Age~3~Chibanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~3~Chibanian.secret.md) 

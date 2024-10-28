@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: DeliveryChargeSpecification, MonetaryAmount )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_free_shipping_threshold|has_free_shipping_threshold]] 
-- [[../../../../../_public/schema-org/Relation/has/has_free_shipping_threshold.public|has_free_shipping_threshold.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_free_shipping_threshold.internal|has_free_shipping_threshold.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_free_shipping_threshold.protect|has_free_shipping_threshold.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_free_shipping_threshold.private|has_free_shipping_threshold.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_free_shipping_threshold.personal|has_free_shipping_threshold.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_free_shipping_threshold.secret|has_free_shipping_threshold.secret]] 
+
+### [has_free_shipping_threshold](/_public/schema-org/Relation/has/has_free_shipping_threshold.md) 
+
+### [has_free_shipping_threshold.internal](/_internal/schema-org/Relation/has/has_free_shipping_threshold.internal.md) 
+
+### [has_free_shipping_threshold.protect](/_protect/schema-org/Relation/has/has_free_shipping_threshold.protect.md) 
+
+### [has_free_shipping_threshold.private](/_private/schema-org/Relation/has/has_free_shipping_threshold.private.md) 
+
+### [has_free_shipping_threshold.personal](/_personal/schema-org/Relation/has/has_free_shipping_threshold.personal.md) 
+
+### [has_free_shipping_threshold.secret](/_secret/schema-org/Relation/has/has_free_shipping_threshold.secret.md) 

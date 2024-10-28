@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 64.25
     - -51.67
@@ -142,10 +142,15 @@ Capital :: [[Godthab]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Greenland|Greenland]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Greenland.public|Greenland.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Greenland.internal|Greenland.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Greenland.protect|Greenland.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Greenland.private|Greenland.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]] 
+
+### [Greenland](/_public/Earth/Continent/Europe/Europe~North/Greenland.md) 
+
+### [Greenland.internal](/_internal/Earth/Continent/Europe/Europe~North/Greenland.internal.md) 
+
+### [Greenland.protect](/_protect/Earth/Continent/Europe/Europe~North/Greenland.protect.md) 
+
+### [Greenland.private](/_private/Earth/Continent/Europe/Europe~North/Greenland.private.md) 
+
+### [Greenland.personal](/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal.md) 
+
+### [Greenland.secret](/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret.md) 

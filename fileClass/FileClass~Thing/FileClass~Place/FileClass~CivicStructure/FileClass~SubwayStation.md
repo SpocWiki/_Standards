@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A subway station.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SubwayStation](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.md) 
+
+### [FileClass~SubwayStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.internal.md) 
+
+### [FileClass~SubwayStation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.protect.md) 
+
+### [FileClass~SubwayStation.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.private.md) 
+
+### [FileClass~SubwayStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.personal.md) 
+
+### [FileClass~SubwayStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~SubwayStation.secret.md) 

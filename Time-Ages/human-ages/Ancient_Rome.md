@@ -1,4 +1,4 @@
-# [[Ancient_Rome]] 
+﻿# [[Ancient_Rome]] 
 
 #is_a_/time_/Culture 
 
@@ -9,8 +9,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Ancient%20Rome)
 
 
-#has_/time_/created/ka :: -0.1 
-#has_/time_/destroyed/ka :: 0.4 
+#has_/time_/started /ka :: -0.1 
+#has_/time_/stopped /ka :: 0.4 
 
 
 ## Edit
@@ -28,3 +28,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Ancient_Rome](/_public/Time-Ages/human-ages/Ancient_Rome.md) 
+
+### [Ancient_Rome.internal](/_internal/Time-Ages/human-ages/Ancient_Rome.internal.md) 
+
+### [Ancient_Rome.protect](/_protect/Time-Ages/human-ages/Ancient_Rome.protect.md) 
+
+### [Ancient_Rome.private](/_private/Time-Ages/human-ages/Ancient_Rome.private.md) 
+
+### [Ancient_Rome.personal](/_personal/Time-Ages/human-ages/Ancient_Rome.personal.md) 
+
+### [Ancient_Rome.secret](/_secret/Time-Ages/human-ages/Ancient_Rome.secret.md) 

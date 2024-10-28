@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 25.28
     - 51.53
@@ -145,9 +145,15 @@ Capital :: [[Qatar/Counties/Ad_Dawhah/City/Doha]]
 
 
 ## Confidential Links & Embeds: 
-- [[Qatar|Qatar]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Qatar.internal|Qatar.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Qatar.protect|Qatar.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Qatar.private|Qatar.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Qatar.personal|Qatar.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Qatar.secret|Qatar.secret]] 
+
+### [Qatar](/_public/Earth/Continent/Asia/Asia~West/Qatar.md) 
+
+### [Qatar.internal](/_internal/Earth/Continent/Asia/Asia~West/Qatar.internal.md) 
+
+### [Qatar.protect](/_protect/Earth/Continent/Asia/Asia~West/Qatar.protect.md) 
+
+### [Qatar.private](/_private/Earth/Continent/Asia/Asia~West/Qatar.private.md) 
+
+### [Qatar.personal](/_personal/Earth/Continent/Asia/Asia~West/Qatar.personal.md) 
+
+### [Qatar.secret](/_secret/Earth/Continent/Asia/Asia~West/Qatar.secret.md) 

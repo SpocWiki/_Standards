@@ -49,10 +49,15 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, scheduledTime, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action|reserve_action]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.public|reserve_action.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/action/organize_action/plan_action/reserve_action.internal|reserve_action.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/action/organize_action/plan_action/reserve_action.protect|reserve_action.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/action/organize_action/plan_action/reserve_action.private|reserve_action.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/action/organize_action/plan_action/reserve_action.personal|reserve_action.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/action/organize_action/plan_action/reserve_action.secret|reserve_action.secret]] 
+
+### [reserve_action](/_public/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.md) 
+
+### [reserve_action.internal](/_internal/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.internal.md) 
+
+### [reserve_action.protect](/_protect/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.protect.md) 
+
+### [reserve_action.private](/_private/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.private.md) 
+
+### [reserve_action.personal](/_personal/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.personal.md) 
+
+### [reserve_action.secret](/_secret/schema-org/Class/is_a_/action/organize_action/plan_action/reserve_action.secret.md) 

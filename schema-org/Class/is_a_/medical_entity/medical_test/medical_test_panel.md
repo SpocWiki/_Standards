@@ -43,10 +43,15 @@ Any collection of tests commonly ordered together.
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subTest, subjectOf, url, usedToDiagnose, usesDevice ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel|medical_test_panel]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.public|medical_test_panel.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.internal|medical_test_panel.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.protect|medical_test_panel.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.private|medical_test_panel.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.personal|medical_test_panel.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_test/medical_test_panel.secret|medical_test_panel.secret]] 
+
+### [medical_test_panel](/_public/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.md) 
+
+### [medical_test_panel.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.internal.md) 
+
+### [medical_test_panel.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.protect.md) 
+
+### [medical_test_panel.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.private.md) 
+
+### [medical_test_panel.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.personal.md) 
+
+### [medical_test_panel.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test/medical_test_panel.secret.md) 

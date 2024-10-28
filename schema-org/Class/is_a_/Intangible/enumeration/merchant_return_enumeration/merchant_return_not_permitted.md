@@ -49,10 +49,15 @@ Specifies that product returns are not permitted.
 [ #is_/enum_of :: [[../MerchantReturnEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted|merchant_return_not_permitted]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.public|merchant_return_not_permitted.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.internal|merchant_return_not_permitted.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.protect|merchant_return_not_permitted.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.private|merchant_return_not_permitted.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.personal|merchant_return_not_permitted.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.secret|merchant_return_not_permitted.secret]] 
+
+### [merchant_return_not_permitted](/_public/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.md) 
+
+### [merchant_return_not_permitted.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.internal.md) 
+
+### [merchant_return_not_permitted.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.protect.md) 
+
+### [merchant_return_not_permitted.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.private.md) 
+
+### [merchant_return_not_permitted.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.personal.md) 
+
+### [merchant_return_not_permitted.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/merchant_return_enumeration/merchant_return_not_permitted.secret.md) 

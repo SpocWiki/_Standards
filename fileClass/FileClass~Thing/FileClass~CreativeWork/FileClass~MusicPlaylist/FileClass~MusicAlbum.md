@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -65,3 +65,17 @@ The artist that performed this album or recording.
 ByArtist:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization/PerformingGroup/MusicGroup')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MusicAlbum](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.md) 
+
+### [FileClass~MusicAlbum.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.internal.md) 
+
+### [FileClass~MusicAlbum.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.protect.md) 
+
+### [FileClass~MusicAlbum.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.private.md) 
+
+### [FileClass~MusicAlbum.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.personal.md) 
+
+### [FileClass~MusicAlbum.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicPlaylist/FileClass~MusicAlbum.secret.md) 

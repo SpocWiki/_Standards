@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_available_on_device|has_available_on_device]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_available_on_device.public|has_available_on_device.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_available_on_device.internal|has_available_on_device.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_available_on_device.protect|has_available_on_device.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_available_on_device.private|has_available_on_device.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_available_on_device.personal|has_available_on_device.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_available_on_device.secret|has_available_on_device.secret]] 
+
+### [is_available_on_device](/_public/schema-org/Property/Texts/is_available_on_device.md) 
+
+### [is_available_on_device.internal](/_internal/schema-org/Property/Texts/is_available_on_device.internal.md) 
+
+### [is_available_on_device.protect](/_protect/schema-org/Property/Texts/is_available_on_device.protect.md) 
+
+### [is_available_on_device.private](/_private/schema-org/Property/Texts/is_available_on_device.private.md) 
+
+### [is_available_on_device.personal](/_personal/schema-org/Property/Texts/is_available_on_device.personal.md) 
+
+### [is_available_on_device.secret](/_secret/schema-org/Property/Texts/is_available_on_device.secret.md) 

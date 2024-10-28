@@ -1,4 +1,4 @@
----
+﻿---
 database-plugin: basic
 
 
@@ -335,9 +335,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[_CityDB|_CityDB]] 
-- [[../../../../../_internal/Earth/Continent/America~North/USA/_CityDB.internal|_CityDB.internal]] 
-- [[../../../../../_protect/Earth/Continent/America~North/USA/_CityDB.protect|_CityDB.protect]] 
-- [[../../../../../_private/Earth/Continent/America~North/USA/_CityDB.private|_CityDB.private]] 
-- [[../../../../../_personal/Earth/Continent/America~North/USA/_CityDB.personal|_CityDB.personal]] 
-- [[../../../../../_secret/Earth/Continent/America~North/USA/_CityDB.secret|_CityDB.secret]] 
+
+### [_City_DB](/_public/Earth/Continent/America~North/_City_DB.md) 
+
+### [_City_DB.internal](/_internal/Earth/Continent/America~North/_City_DB.internal.md) 
+
+### [_City_DB.protect](/_protect/Earth/Continent/America~North/_City_DB.protect.md) 
+
+### [_City_DB.private](/_private/Earth/Continent/America~North/_City_DB.private.md) 
+
+### [_City_DB.personal](/_personal/Earth/Continent/America~North/_City_DB.personal.md) 
+
+### [_City_DB.secret](/_secret/Earth/Continent/America~North/_City_DB.secret.md) 

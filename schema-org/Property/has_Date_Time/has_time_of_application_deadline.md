@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_application_deadline|has_time_of_application_deadline]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_application_deadline.public|has_time_of_application_deadline.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_application_deadline.internal|has_time_of_application_deadline.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_application_deadline.protect|has_time_of_application_deadline.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_application_deadline.private|has_time_of_application_deadline.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_application_deadline.personal|has_time_of_application_deadline.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_application_deadline.secret|has_time_of_application_deadline.secret]] 
+
+### [has_time_of_application_deadline](/_public/schema-org/Property/has_Date_Time/has_time_of_application_deadline.md) 
+
+### [has_time_of_application_deadline.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_application_deadline.internal.md) 
+
+### [has_time_of_application_deadline.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_application_deadline.protect.md) 
+
+### [has_time_of_application_deadline.private](/_private/schema-org/Property/has_Date_Time/has_time_of_application_deadline.private.md) 
+
+### [has_time_of_application_deadline.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_application_deadline.personal.md) 
+
+### [has_time_of_application_deadline.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_application_deadline.secret.md) 

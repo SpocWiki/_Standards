@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_code_icao|has_code_icao]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_code_icao.public|has_code_icao.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_code_icao.internal|has_code_icao.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_code_icao.protect|has_code_icao.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_code_icao.private|has_code_icao.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_code_icao.personal|has_code_icao.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_code_icao.secret|has_code_icao.secret]] 
+
+### [has_code_icao](/_public/schema-org/Property/has_name/has_code_icao.md) 
+
+### [has_code_icao.internal](/_internal/schema-org/Property/has_name/has_code_icao.internal.md) 
+
+### [has_code_icao.protect](/_protect/schema-org/Property/has_name/has_code_icao.protect.md) 
+
+### [has_code_icao.private](/_private/schema-org/Property/has_name/has_code_icao.private.md) 
+
+### [has_code_icao.personal](/_personal/schema-org/Property/has_name/has_code_icao.personal.md) 
+
+### [has_code_icao.secret](/_secret/schema-org/Property/has_name/has_code_icao.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:MiddlePennsylvanian
 ---
@@ -14,8 +14,8 @@ A time period from 315.2 to 307.0 million years ago.
 
 #has_/abbreviation :: C2c5
 
-#has_/time_/created/Ma :: -315.2 
-#has_/time_/destroyed/Ma :: -307.0 
+#has_/time_/started /Ma :: -315.2 
+#has_/time_/stopped /Ma :: -307.0 
 
     sh:order 95 
 
@@ -35,3 +35,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~2~Middle_Pennsylvanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.md) 
+
+### [Epoch~2~Middle_Pennsylvanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.internal.md) 
+
+### [Epoch~2~Middle_Pennsylvanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.protect.md) 
+
+### [Epoch~2~Middle_Pennsylvanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.private.md) 
+
+### [Epoch~2~Middle_Pennsylvanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.personal.md) 
+
+### [Epoch~2~Middle_Pennsylvanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian.secret.md) 

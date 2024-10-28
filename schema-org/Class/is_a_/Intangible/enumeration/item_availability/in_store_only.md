@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Indicates that the item is available only at physical locations.
 [ #is_/enum_of :: [[../ItemAvailability]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_availability/in_store_only|in_store_only]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.public|in_store_only.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.internal|in_store_only.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.protect|in_store_only.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.private|in_store_only.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.personal|in_store_only.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_availability/in_store_only.secret|in_store_only.secret]] 
+
+### [in_store_only](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.md) 
+
+### [in_store_only.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.internal.md) 
+
+### [in_store_only.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.protect.md) 
+
+### [in_store_only.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.private.md) 
+
+### [in_store_only.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.personal.md) 
+
+### [in_store_only.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_availability/in_store_only.secret.md) 

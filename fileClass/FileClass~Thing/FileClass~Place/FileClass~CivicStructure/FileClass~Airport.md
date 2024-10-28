@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -50,3 +50,17 @@ ICAO identifier for an airport.
 
 IcaoCode:: {"type":"Input","options":{}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Airport](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.md) 
+
+### [FileClass~Airport.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.internal.md) 
+
+### [FileClass~Airport.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.protect.md) 
+
+### [FileClass~Airport.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.private.md) 
+
+### [FileClass~Airport.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.personal.md) 
+
+### [FileClass~Airport.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Airport.secret.md) 

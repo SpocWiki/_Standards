@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 [ #is_/sub_property_of  :: position ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_issue|has_number_of_issue]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_issue.public|has_number_of_issue.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_issue.internal|has_number_of_issue.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_issue.protect|has_number_of_issue.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_issue.private|has_number_of_issue.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_issue.personal|has_number_of_issue.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_issue.secret|has_number_of_issue.secret]] 
+
+### [has_number_of_issue](/_public/schema-org/Property/has_number_of/has_number_of_issue.md) 
+
+### [has_number_of_issue.internal](/_internal/schema-org/Property/has_number_of/has_number_of_issue.internal.md) 
+
+### [has_number_of_issue.protect](/_protect/schema-org/Property/has_number_of/has_number_of_issue.protect.md) 
+
+### [has_number_of_issue.private](/_private/schema-org/Property/has_number_of/has_number_of_issue.private.md) 
+
+### [has_number_of_issue.personal](/_personal/schema-org/Property/has_number_of/has_number_of_issue.personal.md) 
+
+### [has_number_of_issue.secret](/_secret/schema-org/Property/has_number_of/has_number_of_issue.secret.md) 

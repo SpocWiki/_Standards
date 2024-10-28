@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Viséan
   - Visian
@@ -36,8 +36,8 @@ A time period from 346.7 to 330.9 million years ago.
 
 #has_/abbreviation :: c2
 
-#has_/time_/created/Ma :: -346.7 
-#has_/time_/destroyed/Ma :: -330.9 
+#has_/time_/started /Ma :: -346.7 
+#has_/time_/stopped /Ma :: -330.9 
 
     sh:order 103 
 
@@ -57,3 +57,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~Visean](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.md) 
+
+### [Age~Visean.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.internal.md) 
+
+### [Age~Visean.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.protect.md) 
+
+### [Age~Visean.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.private.md) 
+
+### [Age~Visean.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.personal.md) 
+
+### [Age~Visean.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.secret.md) 

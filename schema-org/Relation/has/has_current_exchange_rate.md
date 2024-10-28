@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: UnitPriceSpecification )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_current_exchange_rate|has_current_exchange_rate]] 
-- [[../../../../../_public/schema-org/Relation/has/has_current_exchange_rate.public|has_current_exchange_rate.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_current_exchange_rate.internal|has_current_exchange_rate.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_current_exchange_rate.protect|has_current_exchange_rate.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_current_exchange_rate.private|has_current_exchange_rate.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_current_exchange_rate.personal|has_current_exchange_rate.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_current_exchange_rate.secret|has_current_exchange_rate.secret]] 
+
+### [has_current_exchange_rate](/_public/schema-org/Relation/has/has_current_exchange_rate.md) 
+
+### [has_current_exchange_rate.internal](/_internal/schema-org/Relation/has/has_current_exchange_rate.internal.md) 
+
+### [has_current_exchange_rate.protect](/_protect/schema-org/Relation/has/has_current_exchange_rate.protect.md) 
+
+### [has_current_exchange_rate.private](/_private/schema-org/Relation/has/has_current_exchange_rate.private.md) 
+
+### [has_current_exchange_rate.personal](/_personal/schema-org/Relation/has/has_current_exchange_rate.personal.md) 
+
+### [has_current_exchange_rate.secret](/_secret/schema-org/Relation/has/has_current_exchange_rate.secret.md) 

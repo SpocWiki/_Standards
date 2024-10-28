@@ -1,4 +1,4 @@
----
+﻿---
 
 type: Country
 tags:
@@ -35,10 +35,15 @@ has_place_continent:: [[Asia]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Asia/FRENCH_INDO-CHINA|FRENCH_INDO-CHINA]] 
-- [[../../../../_public/Earth/Continent/Asia/FRENCH_INDO-CHINA.public|FRENCH_INDO-CHINA.public]] 
-- [[../../../../_internal/Earth/Continent/Asia/FRENCH_INDO-CHINA.internal|FRENCH_INDO-CHINA.internal]] 
-- [[../../../../_protect/Earth/Continent/Asia/FRENCH_INDO-CHINA.protect|FRENCH_INDO-CHINA.protect]] 
-- [[../../../../_private/Earth/Continent/Asia/FRENCH_INDO-CHINA.private|FRENCH_INDO-CHINA.private]] 
-- [[../../../../_personal/Earth/Continent/Asia/FRENCH_INDO-CHINA.personal|FRENCH_INDO-CHINA.personal]] 
-- [[../../../../_secret/Earth/Continent/Asia/FRENCH_INDO-CHINA.secret|FRENCH_INDO-CHINA.secret]] 
+
+### [FRENCH_INDO-CHINA](/_public/Earth/Continent/Asia/FRENCH_INDO-CHINA.md) 
+
+### [FRENCH_INDO-CHINA.internal](/_internal/Earth/Continent/Asia/FRENCH_INDO-CHINA.internal.md) 
+
+### [FRENCH_INDO-CHINA.protect](/_protect/Earth/Continent/Asia/FRENCH_INDO-CHINA.protect.md) 
+
+### [FRENCH_INDO-CHINA.private](/_private/Earth/Continent/Asia/FRENCH_INDO-CHINA.private.md) 
+
+### [FRENCH_INDO-CHINA.personal](/_personal/Earth/Continent/Asia/FRENCH_INDO-CHINA.personal.md) 
+
+### [FRENCH_INDO-CHINA.secret](/_secret/Earth/Continent/Asia/FRENCH_INDO-CHINA.secret.md) 

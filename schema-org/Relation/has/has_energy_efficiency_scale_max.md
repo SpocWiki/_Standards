@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: EUEnergyEfficiencyEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_energy_efficiency_scale_max|has_energy_efficiency_scale_max]] 
-- [[../../../../../_public/schema-org/Relation/has/has_energy_efficiency_scale_max.public|has_energy_efficiency_scale_max.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_energy_efficiency_scale_max.internal|has_energy_efficiency_scale_max.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_energy_efficiency_scale_max.protect|has_energy_efficiency_scale_max.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_energy_efficiency_scale_max.private|has_energy_efficiency_scale_max.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_energy_efficiency_scale_max.personal|has_energy_efficiency_scale_max.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_energy_efficiency_scale_max.secret|has_energy_efficiency_scale_max.secret]] 
+
+### [has_energy_efficiency_scale_max](/_public/schema-org/Relation/has/has_energy_efficiency_scale_max.md) 
+
+### [has_energy_efficiency_scale_max.internal](/_internal/schema-org/Relation/has/has_energy_efficiency_scale_max.internal.md) 
+
+### [has_energy_efficiency_scale_max.protect](/_protect/schema-org/Relation/has/has_energy_efficiency_scale_max.protect.md) 
+
+### [has_energy_efficiency_scale_max.private](/_private/schema-org/Relation/has/has_energy_efficiency_scale_max.private.md) 
+
+### [has_energy_efficiency_scale_max.personal](/_personal/schema-org/Relation/has/has_energy_efficiency_scale_max.personal.md) 
+
+### [has_energy_efficiency_scale_max.secret](/_secret/schema-org/Relation/has/has_energy_efficiency_scale_max.secret.md) 

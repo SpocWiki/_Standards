@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -38,10 +38,15 @@ SpocWebEntityId: 21923
 > [Wikipedia](https://en.wikipedia.org/wiki/Vanadium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-05-Vanadium/Vanadium|Vanadium]] 
-- [[../../../../_public/chemic/Elements/Group-05-Vanadium/Vanadium.public|Vanadium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-05-Vanadium/Vanadium.internal|Vanadium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-05-Vanadium/Vanadium.protect|Vanadium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-05-Vanadium/Vanadium.private|Vanadium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-05-Vanadium/Vanadium.personal|Vanadium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-05-Vanadium/Vanadium.secret|Vanadium.secret]] 
+
+### [Vanadium](/_public/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.md) 
+
+### [Vanadium.internal](/_internal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.internal.md) 
+
+### [Vanadium.protect](/_protect/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.protect.md) 
+
+### [Vanadium.private](/_private/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.private.md) 
+
+### [Vanadium.personal](/_personal/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.personal.md) 
+
+### [Vanadium.secret](/_secret/chemic/chemic~Elements/Group-05-Vanadium/Vanadium.secret.md) 

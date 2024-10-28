@@ -1,4 +1,4 @@
----
+﻿---
 title: Tree of Life
 ---
 # Tree_of_Life   
@@ -33,3 +33,17 @@ Images are copyrighted by their respective owners as indicated for each picture 
 > because Changes may break Links or at least require every User 
 > to update their local Repos! 
 
+
+## Confidential Links & Embeds: 
+
+### [bio~Tree](/_public/bio/bio~Tree.md) 
+
+### [bio~Tree.internal](/_internal/bio/bio~Tree.internal.md) 
+
+### [bio~Tree.protect](/_protect/bio/bio~Tree.protect.md) 
+
+### [bio~Tree.private](/_private/bio/bio~Tree.private.md) 
+
+### [bio~Tree.personal](/_personal/bio/bio~Tree.personal.md) 
+
+### [bio~Tree.secret](/_secret/bio/bio~Tree.secret.md) 

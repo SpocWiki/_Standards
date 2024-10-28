@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -41,10 +41,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_wikidata|has_id_wikidata]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_wikidata.public|has_id_wikidata.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_wikidata.internal|has_id_wikidata.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_wikidata.protect|has_id_wikidata.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_wikidata.private|has_id_wikidata.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_wikidata.personal|has_id_wikidata.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_wikidata.secret|has_id_wikidata.secret]] 
+
+### [has_id_wikidata](/_public/schema-org/Property/has_name/has_id_wikidata.md) 
+
+### [has_id_wikidata.internal](/_internal/schema-org/Property/has_name/has_id_wikidata.internal.md) 
+
+### [has_id_wikidata.protect](/_protect/schema-org/Property/has_name/has_id_wikidata.protect.md) 
+
+### [has_id_wikidata.private](/_private/schema-org/Property/has_name/has_id_wikidata.private.md) 
+
+### [has_id_wikidata.personal](/_personal/schema-org/Property/has_name/has_id_wikidata.personal.md) 
+
+### [has_id_wikidata.secret](/_secret/schema-org/Property/has_name/has_id_wikidata.secret.md) 

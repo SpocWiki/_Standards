@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: ItemAvailability )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_availability|has_availability]] 
-- [[../../../../../_public/schema-org/Relation/has/has_availability.public|has_availability.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_availability.internal|has_availability.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_availability.protect|has_availability.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_availability.private|has_availability.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_availability.personal|has_availability.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_availability.secret|has_availability.secret]] 
+
+### [has_availability](/_public/schema-org/Relation/has/has_availability.md) 
+
+### [has_availability.internal](/_internal/schema-org/Relation/has/has_availability.internal.md) 
+
+### [has_availability.protect](/_protect/schema-org/Relation/has/has_availability.protect.md) 
+
+### [has_availability.private](/_private/schema-org/Relation/has/has_availability.private.md) 
+
+### [has_availability.personal](/_personal/schema-org/Relation/has/has_availability.personal.md) 
+
+### [has_availability.secret](/_secret/schema-org/Relation/has/has_availability.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -11.65 , 160.33 ] 
 type: geo-Region
 title: Rennell_and_Bellona
@@ -40,11 +40,15 @@ markerFolder: ./Rennell_and_Bellona/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona|Rennell_and_Bellona]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.public|Rennell_and_Bellona.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.internal|Rennell_and_Bellona.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.protect|Rennell_and_Bellona.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.private|Rennell_and_Bellona.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.personal|Rennell_and_Bellona.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Solomon~Islands/Counties/Rennell_and_Bellona.secret|Rennell_and_Bellona.secret]] 
 
+### [Rennell_and_Bellona](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.md) 
+
+### [Rennell_and_Bellona.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.internal.md) 
+
+### [Rennell_and_Bellona.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.protect.md) 
+
+### [Rennell_and_Bellona.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.private.md) 
+
+### [Rennell_and_Bellona.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.personal.md) 
+
+### [Rennell_and_Bellona.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Rennell_and_Bellona.secret.md) 

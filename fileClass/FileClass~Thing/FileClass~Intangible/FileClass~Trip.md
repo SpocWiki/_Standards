@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -112,3 +112,17 @@ Identifies a [[Trip]] that is a subTrip of this Trip.  For example Day 1, Day 2,
 SubTrip:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Trip')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Trip](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.md) 
+
+### [FileClass~Trip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.internal.md) 
+
+### [FileClass~Trip.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.protect.md) 
+
+### [FileClass~Trip.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.private.md) 
+
+### [FileClass~Trip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.personal.md) 
+
+### [FileClass~Trip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip.secret.md) 

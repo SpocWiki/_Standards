@@ -41,10 +41,15 @@ RsvpResponseType is an enumeration type whose instances represent responding to 
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type|rsvp_response_type]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/rsvp_response_type.public|rsvp_response_type.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type.internal|rsvp_response_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type.protect|rsvp_response_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type.private|rsvp_response_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type.personal|rsvp_response_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/rsvp_response_type.secret|rsvp_response_type.secret]] 
+
+### [rsvp_response_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.md) 
+
+### [rsvp_response_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.internal.md) 
+
+### [rsvp_response_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.protect.md) 
+
+### [rsvp_response_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.private.md) 
+
+### [rsvp_response_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.personal.md) 
+
+### [rsvp_response_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/rsvp_response_type.secret.md) 

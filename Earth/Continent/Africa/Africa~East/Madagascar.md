@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -18.8933
 - 47.5083
@@ -141,9 +141,15 @@ Capital :: [[Antananarivo]]
 
 
 ## Confidential Links & Embeds: 
-- [[Madagascar|Madagascar]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Madagascar.internal|Madagascar.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Madagascar.protect|Madagascar.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Madagascar.private|Madagascar.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal|Madagascar.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret|Madagascar.secret]] 
+
+### [Madagascar](/_public/Earth/Continent/Africa/Africa~East/Madagascar.md) 
+
+### [Madagascar.internal](/_internal/Earth/Continent/Africa/Africa~East/Madagascar.internal.md) 
+
+### [Madagascar.protect](/_protect/Earth/Continent/Africa/Africa~East/Madagascar.protect.md) 
+
+### [Madagascar.private](/_private/Earth/Continent/Africa/Africa~East/Madagascar.private.md) 
+
+### [Madagascar.personal](/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal.md) 
+
+### [Madagascar.secret](/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret.md) 

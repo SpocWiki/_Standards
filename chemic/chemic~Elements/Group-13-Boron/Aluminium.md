@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -40,10 +40,15 @@ SpocWebEntityId: 9523
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-13-Boron/Aluminium|Aluminium]] 
-- [[../../../../_public/chemic/Elements/Group-13-Boron/Aluminium.public|Aluminium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-13-Boron/Aluminium.internal|Aluminium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-13-Boron/Aluminium.protect|Aluminium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-13-Boron/Aluminium.private|Aluminium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-13-Boron/Aluminium.personal|Aluminium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-13-Boron/Aluminium.secret|Aluminium.secret]] 
+
+### [Aluminium](/_public/chemic/chemic~Elements/Group-13-Boron/Aluminium.md) 
+
+### [Aluminium.internal](/_internal/chemic/chemic~Elements/Group-13-Boron/Aluminium.internal.md) 
+
+### [Aluminium.protect](/_protect/chemic/chemic~Elements/Group-13-Boron/Aluminium.protect.md) 
+
+### [Aluminium.private](/_private/chemic/chemic~Elements/Group-13-Boron/Aluminium.private.md) 
+
+### [Aluminium.personal](/_personal/chemic/chemic~Elements/Group-13-Boron/Aluminium.personal.md) 
+
+### [Aluminium.secret](/_secret/chemic/chemic~Elements/Group-13-Boron/Aluminium.secret.md) 

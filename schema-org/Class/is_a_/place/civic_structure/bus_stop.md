@@ -43,10 +43,15 @@ A bus stop.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/bus_stop|bus_stop]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/bus_stop.public|bus_stop.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/bus_stop.internal|bus_stop.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/bus_stop.protect|bus_stop.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/bus_stop.private|bus_stop.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/bus_stop.personal|bus_stop.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/bus_stop.secret|bus_stop.secret]] 
+
+### [bus_stop](/_public/schema-org/Class/is_a_/place/civic_structure/bus_stop.md) 
+
+### [bus_stop.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/bus_stop.internal.md) 
+
+### [bus_stop.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/bus_stop.protect.md) 
+
+### [bus_stop.private](/_private/schema-org/Class/is_a_/place/civic_structure/bus_stop.private.md) 
+
+### [bus_stop.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/bus_stop.personal.md) 
+
+### [bus_stop.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/bus_stop.secret.md) 

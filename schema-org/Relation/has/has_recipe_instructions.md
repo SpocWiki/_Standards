@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: step ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_recipe_instructions|has_recipe_instructions]] 
-- [[../../../../../_public/schema-org/Relation/has/has_recipe_instructions.public|has_recipe_instructions.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_recipe_instructions.internal|has_recipe_instructions.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_recipe_instructions.protect|has_recipe_instructions.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_recipe_instructions.private|has_recipe_instructions.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_recipe_instructions.personal|has_recipe_instructions.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_recipe_instructions.secret|has_recipe_instructions.secret]] 
+
+### [has_recipe_instructions](/_public/schema-org/Relation/has/has_recipe_instructions.md) 
+
+### [has_recipe_instructions.internal](/_internal/schema-org/Relation/has/has_recipe_instructions.internal.md) 
+
+### [has_recipe_instructions.protect](/_protect/schema-org/Relation/has/has_recipe_instructions.protect.md) 
+
+### [has_recipe_instructions.private](/_private/schema-org/Relation/has/has_recipe_instructions.private.md) 
+
+### [has_recipe_instructions.personal](/_personal/schema-org/Relation/has/has_recipe_instructions.personal.md) 
+
+### [has_recipe_instructions.secret](/_secret/schema-org/Relation/has/has_recipe_instructions.secret.md) 

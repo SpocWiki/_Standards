@@ -1,4 +1,4 @@
-# [[Age~2~Homerian]] 
+﻿# [[Age~2~Homerian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 430.5 to 427.4 million years ago.
 
 #has_/abbreviation :: s5
 
-#has_/time_/created/Ma :: -430.5 
-#has_/time_/destroyed/Ma :: -427.4 
+#has_/time_/started /Ma :: -430.5 
+#has_/time_/stopped /Ma :: -427.4 
 
     sh:order 123 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Homerian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.md) 
+
+### [Age~2~Homerian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.internal.md) 
+
+### [Age~2~Homerian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.protect.md) 
+
+### [Age~2~Homerian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.private.md) 
+
+### [Age~2~Homerian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.personal.md) 
+
+### [Age~2~Homerian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~2~Wenlock/Age~2~Homerian.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,3 +55,17 @@ The operating organization, if different from the provider.  This enables the re
 ServiceOperator:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~GovernmentService](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.md) 
+
+### [FileClass~GovernmentService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.internal.md) 
+
+### [FileClass~GovernmentService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.protect.md) 
+
+### [FileClass~GovernmentService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.private.md) 
+
+### [FileClass~GovernmentService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.personal.md) 
+
+### [FileClass~GovernmentService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.secret.md) 

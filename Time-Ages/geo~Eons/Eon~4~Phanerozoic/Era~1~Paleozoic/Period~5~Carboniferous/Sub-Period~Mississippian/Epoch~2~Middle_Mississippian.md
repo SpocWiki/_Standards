@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:MiddleMississippian
 ---
@@ -14,8 +14,8 @@ A time period from 346.7 to 330.9 million years ago.
 
 #has_/abbreviation :: C1c2
 
-#has_/time_/created/Ma :: -346.7 
-#has_/time_/destroyed/Ma :: -330.9 
+#has_/time_/started /Ma :: -346.7 
+#has_/time_/stopped /Ma :: -330.9 
 
     sh:order 102 
 
@@ -35,3 +35,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~2~Middle_Mississippian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian.md) 
+
+### [Epoch~2~Middle_Mississippian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian.internal.md) 
+
+### [Epoch~2~Middle_Mississippian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian.protect.md) 
+
+### [Epoch~2~Middle_Mississippian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian.private.md) 
+
+### [Epoch~2~Middle_Mississippian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian.personal.md) 
+
+### [Epoch~2~Middle_Mississippian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian.secret.md) 

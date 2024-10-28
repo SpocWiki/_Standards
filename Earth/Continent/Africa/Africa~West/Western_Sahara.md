@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 27.1536
 - -13.2033
@@ -134,9 +134,15 @@ Capital :: [[El_Aaiún_(Laâyoune)]]
 
 
 ## Confidential Links & Embeds: 
-- [[Western_Sahara|Western_Sahara]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal|Western_Sahara.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect|Western_Sahara.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private|Western_Sahara.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]] 
+
+### [Western_Sahara](/_public/Earth/Continent/Africa/Africa~West/Western_Sahara.md) 
+
+### [Western_Sahara.internal](/_internal/Earth/Continent/Africa/Africa~West/Western_Sahara.internal.md) 
+
+### [Western_Sahara.protect](/_protect/Earth/Continent/Africa/Africa~West/Western_Sahara.protect.md) 
+
+### [Western_Sahara.private](/_private/Earth/Continent/Africa/Africa~West/Western_Sahara.private.md) 
+
+### [Western_Sahara.personal](/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal.md) 
+
+### [Western_Sahara.secret](/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret.md) 

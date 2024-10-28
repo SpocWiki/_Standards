@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 14.06
     - 44.61
@@ -54,9 +54,15 @@ Capital :: [[Yemen~Republic/City/Sana‘a]] ]
 
 
 ## Confidential Links & Embeds: 
-- [[Yemen~Republic|Yemen~Republic]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal|Yemen~Republic.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic.protect|Yemen~Republic.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Yemen~Republic.private|Yemen~Republic.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic.personal|Yemen~Republic.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic.secret|Yemen~Republic.secret]] 
+
+### [Yemen~Republic](/_public/Earth/Continent/Asia/Asia~West/Yemen~Republic.md) 
+
+### [Yemen~Republic.internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen~Republic.internal.md) 
+
+### [Yemen~Republic.protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen~Republic.protect.md) 
+
+### [Yemen~Republic.private](/_private/Earth/Continent/Asia/Asia~West/Yemen~Republic.private.md) 
+
+### [Yemen~Republic.personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen~Republic.personal.md) 
+
+### [Yemen~Republic.secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen~Republic.secret.md) 

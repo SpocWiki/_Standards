@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -104,3 +104,17 @@ Characteristics of the population for which this is intended, or which typically
 TargetPopulation:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DietarySupplement](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.md) 
+
+### [FileClass~DietarySupplement.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.internal.md) 
+
+### [FileClass~DietarySupplement.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.protect.md) 
+
+### [FileClass~DietarySupplement.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.private.md) 
+
+### [FileClass~DietarySupplement.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.personal.md) 
+
+### [FileClass~DietarySupplement.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~Substance/FileClass~ProductAndSubstance/FileClass~DietarySupplement.secret.md) 

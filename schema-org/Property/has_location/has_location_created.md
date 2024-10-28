@@ -1,34 +1,32 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate geo
+cssclasses:
+  - Predicate
+  - geo
 publish: true
-
-# Hugo Tags
 type: Pred_geo
-
 title: has_location_created
 linkTitle: has_location_created
-
-keywords: [location_created]
+keywords:
+  - location_created
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Property
-- schema-org/Property/geo
-
+  - class/Property
+  - schema-org/Property/geo
 aliases:
-- location-created
-- location_created
-- locationCreated
-- has_location_created
+  - location-created
+  - location_created
+  - locationCreated
+  - has_location_created
+  - schema:locationCreated
+  - dbo:placeOfOrigin
+  - wdt:P1071
 ---
 
 Predicate to describe the geo of CreativeWork.
@@ -45,10 +43,15 @@ Predicate describes that:
 ( #has_/range :: Place )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_created|has_location_created]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_created.public|has_location_created.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_created.internal|has_location_created.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_created.protect|has_location_created.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_created.private|has_location_created.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_created.personal|has_location_created.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_created.secret|has_location_created.secret]] 
+
+### [has_location_created](/_public/schema-org/Property/has_location/has_location_created.md) 
+
+### [has_location_created.internal](/_internal/schema-org/Property/has_location/has_location_created.internal.md) 
+
+### [has_location_created.protect](/_protect/schema-org/Property/has_location/has_location_created.protect.md) 
+
+### [has_location_created.private](/_private/schema-org/Property/has_location/has_location_created.private.md) 
+
+### [has_location_created.personal](/_personal/schema-org/Property/has_location/has_location_created.personal.md) 
+
+### [has_location_created.secret](/_secret/schema-org/Property/has_location/has_location_created.secret.md) 

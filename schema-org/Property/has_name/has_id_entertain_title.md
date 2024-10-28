@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -57,10 +57,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: identifier ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_entertain_title|has_id_entertain_title]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_entertain_title.public|has_id_entertain_title.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_entertain_title.internal|has_id_entertain_title.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_entertain_title.protect|has_id_entertain_title.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_entertain_title.private|has_id_entertain_title.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_entertain_title.personal|has_id_entertain_title.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_entertain_title.secret|has_id_entertain_title.secret]] 
+
+### [has_id_entertain_title](/_public/schema-org/Property/has_name/has_id_entertain_title.md) 
+
+### [has_id_entertain_title.internal](/_internal/schema-org/Property/has_name/has_id_entertain_title.internal.md) 
+
+### [has_id_entertain_title.protect](/_protect/schema-org/Property/has_name/has_id_entertain_title.protect.md) 
+
+### [has_id_entertain_title.private](/_private/schema-org/Property/has_name/has_id_entertain_title.private.md) 
+
+### [has_id_entertain_title.personal](/_personal/schema-org/Property/has_name/has_id_entertain_title.personal.md) 
+
+### [has_id_entertain_title.secret](/_secret/schema-org/Property/has_name/has_id_entertain_title.secret.md) 

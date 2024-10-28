@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -35,3 +35,17 @@ to be occupied for habitation by humans or other creatures
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~House](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House.md) 
+
+### [FileClass~House.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House.internal.md) 
+
+### [FileClass~House.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House.protect.md) 
+
+### [FileClass~House.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House.private.md) 
+
+### [FileClass~House.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House.personal.md) 
+
+### [FileClass~House.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~House.secret.md) 

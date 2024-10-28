@@ -1,4 +1,4 @@
----
+﻿---
 type: Continent
 SpocWebEntityId: 27201
 confidential: public
@@ -31,10 +31,15 @@ markerFolder: ./Oceania/
 [ #has_/code  :: OC ]
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/Earth/Continent/Oceania|Oceania]] 
-- [[../../../_public/Earth/Continent/Oceania.public|Oceania.public]] 
-- [[../../../_internal/Earth/Continent/Oceania.internal|Oceania.internal]] 
-- [[../../../_protect/Earth/Continent/Oceania.protect|Oceania.protect]] 
-- [[../../../_private/Earth/Continent/Oceania.private|Oceania.private]] 
-- [[../../../_personal/Earth/Continent/Oceania.personal|Oceania.personal]] 
-- [[../../../_secret/Earth/Continent/Oceania.secret|Oceania.secret]] 
+
+### [Oceania](/_public/Earth/Continent/Oceania.md) 
+
+### [Oceania.internal](/_internal/Earth/Continent/Oceania.internal.md) 
+
+### [Oceania.protect](/_protect/Earth/Continent/Oceania.protect.md) 
+
+### [Oceania.private](/_private/Earth/Continent/Oceania.private.md) 
+
+### [Oceania.personal](/_personal/Earth/Continent/Oceania.personal.md) 
+
+### [Oceania.secret](/_secret/Earth/Continent/Oceania.secret.md) 

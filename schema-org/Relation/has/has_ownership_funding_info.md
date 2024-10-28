@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: publishingPrinciples ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_ownership_funding_info|has_ownership_funding_info]] 
-- [[../../../../../_public/schema-org/Relation/has/has_ownership_funding_info.public|has_ownership_funding_info.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_ownership_funding_info.internal|has_ownership_funding_info.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_ownership_funding_info.protect|has_ownership_funding_info.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_ownership_funding_info.private|has_ownership_funding_info.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_ownership_funding_info.personal|has_ownership_funding_info.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_ownership_funding_info.secret|has_ownership_funding_info.secret]] 
+
+### [has_ownership_funding_info](/_public/schema-org/Relation/has/has_ownership_funding_info.md) 
+
+### [has_ownership_funding_info.internal](/_internal/schema-org/Relation/has/has_ownership_funding_info.internal.md) 
+
+### [has_ownership_funding_info.protect](/_protect/schema-org/Relation/has/has_ownership_funding_info.protect.md) 
+
+### [has_ownership_funding_info.private](/_private/schema-org/Relation/has/has_ownership_funding_info.private.md) 
+
+### [has_ownership_funding_info.personal](/_personal/schema-org/Relation/has/has_ownership_funding_info.personal.md) 
+
+### [has_ownership_funding_info.secret](/_secret/schema-org/Relation/has/has_ownership_funding_info.secret.md) 

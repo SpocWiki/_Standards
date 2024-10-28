@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21962
@@ -35,10 +35,15 @@ SpocWebEntityId: 21962
 > [Wikipedia](https://en.wikipedia.org/wiki/Dysprosium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Dysprosium|Dysprosium]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Dysprosium.public|Dysprosium.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Dysprosium.internal|Dysprosium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Dysprosium.protect|Dysprosium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Dysprosium.private|Dysprosium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Dysprosium.personal|Dysprosium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Dysprosium.secret|Dysprosium.secret]] 
+
+### [Dysprosium](/_public/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.md) 
+
+### [Dysprosium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.internal.md) 
+
+### [Dysprosium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.protect.md) 
+
+### [Dysprosium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.private.md) 
+
+### [Dysprosium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.personal.md) 
+
+### [Dysprosium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Dysprosium.secret.md) 

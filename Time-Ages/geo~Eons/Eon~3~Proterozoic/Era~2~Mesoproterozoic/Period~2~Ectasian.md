@@ -1,4 +1,4 @@
-# [[Period~2~Ectasian]]
+﻿# [[Period~2~Ectasian]]
 
 #is_a_/time_/Period 
 
@@ -35,8 +35,8 @@ A time period from> The **Ectasian** Period (from Ancient Greek: ἔκτασις
 
 #has_/abbreviation :: MP2
 
-#has_/time_/created/Ma :: -1400
-#has_/time_/destroyed/Ma :: -1200
+#has_/time_/started /Ma :: -1400
+#has_/time_/stopped /Ma :: -1200
 
     sh:order 163 
 
@@ -56,3 +56,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~2~Ectasian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.md) 
+
+### [Period~2~Ectasian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.internal.md) 
+
+### [Period~2~Ectasian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.protect.md) 
+
+### [Period~2~Ectasian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.private.md) 
+
+### [Period~2~Ectasian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.personal.md) 
+
+### [Period~2~Ectasian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~2~Ectasian.secret.md) 

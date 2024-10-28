@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicate describes that:
 ( #has_/range :: Integer )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_week_in_month|has_number_of_week_in_month]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_week_in_month.public|has_number_of_week_in_month.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_week_in_month.internal|has_number_of_week_in_month.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_week_in_month.protect|has_number_of_week_in_month.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_week_in_month.private|has_number_of_week_in_month.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_week_in_month.personal|has_number_of_week_in_month.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_week_in_month.secret|has_number_of_week_in_month.secret]] 
+
+### [has_number_of_week_in_month](/_public/schema-org/Property/has_number_of/has_number_of_week_in_month.md) 
+
+### [has_number_of_week_in_month.internal](/_internal/schema-org/Property/has_number_of/has_number_of_week_in_month.internal.md) 
+
+### [has_number_of_week_in_month.protect](/_protect/schema-org/Property/has_number_of/has_number_of_week_in_month.protect.md) 
+
+### [has_number_of_week_in_month.private](/_private/schema-org/Property/has_number_of/has_number_of_week_in_month.private.md) 
+
+### [has_number_of_week_in_month.personal](/_personal/schema-org/Property/has_number_of/has_number_of_week_in_month.personal.md) 
+
+### [has_number_of_week_in_month.secret](/_secret/schema-org/Property/has_number_of/has_number_of_week_in_month.secret.md) 

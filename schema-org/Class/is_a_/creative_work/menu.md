@@ -43,10 +43,15 @@ A structured representation of food or drink items available from a FoodEstablis
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasMenuItem, hasMenuSection, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/menu|menu]] 
-- [[../../../../../_public/schema-org/Class/is_a_/creative_work/menu.public|menu.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/menu.internal|menu.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/menu.protect|menu.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/menu.private|menu.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/menu.personal|menu.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/menu.secret|menu.secret]] 
+
+### [menu](/_public/schema-org/Class/is_a_/creative_work/menu.md) 
+
+### [menu.internal](/_internal/schema-org/Class/is_a_/creative_work/menu.internal.md) 
+
+### [menu.protect](/_protect/schema-org/Class/is_a_/creative_work/menu.protect.md) 
+
+### [menu.private](/_private/schema-org/Class/is_a_/creative_work/menu.private.md) 
+
+### [menu.personal](/_personal/schema-org/Class/is_a_/creative_work/menu.personal.md) 
+
+### [menu.secret](/_secret/schema-org/Class/is_a_/creative_work/menu.secret.md) 

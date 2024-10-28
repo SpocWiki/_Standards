@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DrugStrength )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_available_strength|has_available_strength]] 
-- [[../../../../../_public/schema-org/Relation/has/has_available_strength.public|has_available_strength.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_available_strength.internal|has_available_strength.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_available_strength.protect|has_available_strength.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_available_strength.private|has_available_strength.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_available_strength.personal|has_available_strength.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_available_strength.secret|has_available_strength.secret]] 
+
+### [has_available_strength](/_public/schema-org/Relation/has/has_available_strength.md) 
+
+### [has_available_strength.internal](/_internal/schema-org/Relation/has/has_available_strength.internal.md) 
+
+### [has_available_strength.protect](/_protect/schema-org/Relation/has/has_available_strength.protect.md) 
+
+### [has_available_strength.private](/_private/schema-org/Relation/has/has_available_strength.private.md) 
+
+### [has_available_strength.personal](/_personal/schema-org/Relation/has/has_available_strength.personal.md) 
+
+### [has_available_strength.secret](/_secret/schema-org/Relation/has/has_available_strength.secret.md) 

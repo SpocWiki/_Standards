@@ -1,4 +1,4 @@
----
+﻿---
 location: [-17.75,168.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Vanuatu/City/Port_Vila|Port_Vila]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Vanuatu/City/Port_Vila.public|Port_Vila.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Vanuatu/City/Port_Vila.internal|Port_Vila.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Vanuatu/City/Port_Vila.protect|Port_Vila.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Vanuatu/City/Port_Vila.private|Port_Vila.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Vanuatu/City/Port_Vila.personal|Port_Vila.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Vanuatu/City/Port_Vila.secret|Port_Vila.secret]] 
+
+### [Port_Vila](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.md) 
+
+### [Port_Vila.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.internal.md) 
+
+### [Port_Vila.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.protect.md) 
+
+### [Port_Vila.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.private.md) 
+
+### [Port_Vila.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.personal.md) 
+
+### [Port_Vila.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.secret.md) 

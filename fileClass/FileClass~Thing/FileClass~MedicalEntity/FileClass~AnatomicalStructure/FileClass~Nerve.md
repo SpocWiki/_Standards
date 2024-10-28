@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -66,3 +66,17 @@ The neurological pathway that originates the neurons.
 SourcedFrom:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/AnatomicalStructure/BrainStructure')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Nerve](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.md) 
+
+### [FileClass~Nerve.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.internal.md) 
+
+### [FileClass~Nerve.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.protect.md) 
+
+### [FileClass~Nerve.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.private.md) 
+
+### [FileClass~Nerve.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.personal.md) 
+
+### [FileClass~Nerve.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~AnatomicalStructure/FileClass~Nerve.secret.md) 

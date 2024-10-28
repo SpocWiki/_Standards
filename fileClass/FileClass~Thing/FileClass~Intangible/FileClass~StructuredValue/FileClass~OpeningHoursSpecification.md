@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -91,3 +91,17 @@ The date after when the item is not valid. For example the end of an offer, sala
 ValidThrough:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~OpeningHoursSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.md) 
+
+### [FileClass~OpeningHoursSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.internal.md) 
+
+### [FileClass~OpeningHoursSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.protect.md) 
+
+### [FileClass~OpeningHoursSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.private.md) 
+
+### [FileClass~OpeningHoursSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.personal.md) 
+
+### [FileClass~OpeningHoursSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~OpeningHoursSpecification.secret.md) 

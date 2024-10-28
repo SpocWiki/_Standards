@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-prope
 #is_/inverse_of  :: [[../Property/is_sub_property_of]]   
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sub_properties|has_sub_properties]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sub_properties.public|has_sub_properties.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sub_properties.internal|has_sub_properties.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sub_properties.protect|has_sub_properties.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sub_properties.private|has_sub_properties.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sub_properties.personal|has_sub_properties.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sub_properties.secret|has_sub_properties.secret]] 
+
+### [has_sub_properties](/_public/schema-org/Property/has_sub_properties.md) 
+
+### [has_sub_properties.internal](/_internal/schema-org/Property/has_sub_properties.internal.md) 
+
+### [has_sub_properties.protect](/_protect/schema-org/Property/has_sub_properties.protect.md) 
+
+### [has_sub_properties.private](/_private/schema-org/Property/has_sub_properties.private.md) 
+
+### [has_sub_properties.personal](/_personal/schema-org/Property/has_sub_properties.personal.md) 
+
+### [has_sub_properties.secret](/_secret/schema-org/Property/has_sub_properties.secret.md) 

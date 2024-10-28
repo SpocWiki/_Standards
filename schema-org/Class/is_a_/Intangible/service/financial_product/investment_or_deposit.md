@@ -45,10 +45,15 @@ A type of financial product that typically requires the client to transfer funds
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, amount, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product/investment_or_deposit|investment_or_deposit]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/service/financial_product/investment_or_deposit.public|investment_or_deposit.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit.internal|investment_or_deposit.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit.protect|investment_or_deposit.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit.private|investment_or_deposit.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit.personal|investment_or_deposit.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product/investment_or_deposit.secret|investment_or_deposit.secret]] 
+
+### [investment_or_deposit](/_public/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.md) 
+
+### [investment_or_deposit.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.internal.md) 
+
+### [investment_or_deposit.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.protect.md) 
+
+### [investment_or_deposit.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.private.md) 
+
+### [investment_or_deposit.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.personal.md) 
+
+### [investment_or_deposit.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product/investment_or_deposit.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -51,10 +51,15 @@ They can be imagined, synthetic, hypothetical or naturally occurring.
 [ #has_/properties :: [ additionalType, alternateName, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, funding, hasBioChemEntityPart, hasBioPolymerSequence, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/bio_chem_entity/protein|protein]] 
-- [[../../../../../_public/schema-org/Class/is_a_/bio_chem_entity/protein.public|protein.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/bio_chem_entity/protein.internal|protein.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/bio_chem_entity/protein.protect|protein.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/bio_chem_entity/protein.private|protein.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/bio_chem_entity/protein.personal|protein.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/bio_chem_entity/protein.secret|protein.secret]] 
+
+### [protein](/_public/schema-org/Class/is_a_/bio_chem_entity/protein.md) 
+
+### [protein.internal](/_internal/schema-org/Class/is_a_/bio_chem_entity/protein.internal.md) 
+
+### [protein.protect](/_protect/schema-org/Class/is_a_/bio_chem_entity/protein.protect.md) 
+
+### [protein.private](/_private/schema-org/Class/is_a_/bio_chem_entity/protein.private.md) 
+
+### [protein.personal](/_personal/schema-org/Class/is_a_/bio_chem_entity/protein.personal.md) 
+
+### [protein.secret](/_secret/schema-org/Class/is_a_/bio_chem_entity/protein.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: EntryPoint, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_target|has_target]] 
-- [[../../../../../_public/schema-org/Relation/has/has_target.public|has_target.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_target.internal|has_target.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_target.protect|has_target.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_target.private|has_target.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_target.personal|has_target.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_target.secret|has_target.secret]] 
+
+### [has_target](/_public/schema-org/Relation/has/has_target.md) 
+
+### [has_target.internal](/_internal/schema-org/Relation/has/has_target.internal.md) 
+
+### [has_target.protect](/_protect/schema-org/Relation/has/has_target.protect.md) 
+
+### [has_target.private](/_private/schema-org/Relation/has/has_target.private.md) 
+
+### [has_target.personal](/_personal/schema-org/Relation/has/has_target.personal.md) 
+
+### [has_target.secret](/_secret/schema-org/Relation/has/has_target.secret.md) 

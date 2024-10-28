@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -10.8 , 165.9 ] 
 type: geo-Region
 title: Temotu
@@ -40,11 +40,15 @@ markerFolder: ./Temotu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Solomon~Islands/Counties/Temotu|Temotu]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Solomon~Islands/Counties/Temotu.public|Temotu.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Solomon~Islands/Counties/Temotu.internal|Temotu.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Solomon~Islands/Counties/Temotu.protect|Temotu.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Solomon~Islands/Counties/Temotu.private|Temotu.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Solomon~Islands/Counties/Temotu.personal|Temotu.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Solomon~Islands/Counties/Temotu.secret|Temotu.secret]] 
 
+### [Temotu](/_public/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.md) 
+
+### [Temotu.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.internal.md) 
+
+### [Temotu.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.protect.md) 
+
+### [Temotu.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.private.md) 
+
+### [Temotu.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.personal.md) 
+
+### [Temotu.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon~Islands/Provinces~Solomon~Islands/Temotu.secret.md) 

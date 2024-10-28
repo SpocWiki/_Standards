@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -110,3 +110,17 @@ A medical study or trial related to this entity.
 
 Study:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalStudy')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CategoryCodeAndMedicalIntangible](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible.md) 
+
+### [FileClass~CategoryCodeAndMedicalIntangible.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible.internal.md) 
+
+### [FileClass~CategoryCodeAndMedicalIntangible.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible.protect.md) 
+
+### [FileClass~CategoryCodeAndMedicalIntangible.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible.private.md) 
+
+### [FileClass~CategoryCodeAndMedicalIntangible.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible.personal.md) 
+
+### [FileClass~CategoryCodeAndMedicalIntangible.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~CategoryCode/FileClass~CategoryCodeAndMedicalIntangible.secret.md) 

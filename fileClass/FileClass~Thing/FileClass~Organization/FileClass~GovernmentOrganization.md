@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A governmental organization or agency.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~GovernmentOrganization](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.md) 
+
+### [FileClass~GovernmentOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.internal.md) 
+
+### [FileClass~GovernmentOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.protect.md) 
+
+### [FileClass~GovernmentOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.private.md) 
+
+### [FileClass~GovernmentOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.personal.md) 
+
+### [FileClass~GovernmentOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~GovernmentOrganization.secret.md) 

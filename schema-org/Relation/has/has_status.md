@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: EventStatusType, MedicalStudyStatus, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_status|has_status]] 
-- [[../../../../../_public/schema-org/Relation/has/has_status.public|has_status.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_status.internal|has_status.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_status.protect|has_status.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_status.private|has_status.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_status.personal|has_status.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_status.secret|has_status.secret]] 
+
+### [has_status](/_public/schema-org/Relation/has/has_status.md) 
+
+### [has_status.internal](/_internal/schema-org/Relation/has/has_status.internal.md) 
+
+### [has_status.protect](/_protect/schema-org/Relation/has/has_status.protect.md) 
+
+### [has_status.private](/_private/schema-org/Relation/has/has_status.private.md) 
+
+### [has_status.personal](/_personal/schema-org/Relation/has/has_status.personal.md) 
+
+### [has_status.secret](/_secret/schema-org/Relation/has/has_status.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: [[../has/is_offered_by]]]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/is/is_making_offer|is_making_offer]] 
-- [[../../../../../_public/schema-org/Relation/is/is_making_offer.public|is_making_offer.public]] 
-- [[../../../../../_internal/schema.org/Relation/is/is_making_offer.internal|is_making_offer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/is/is_making_offer.protect|is_making_offer.protect]] 
-- [[../../../../../_private/schema.org/Relation/is/is_making_offer.private|is_making_offer.private]] 
-- [[../../../../../_personal/schema.org/Relation/is/is_making_offer.personal|is_making_offer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/is/is_making_offer.secret|is_making_offer.secret]] 
+
+### [is_making_offer](/_public/schema-org/Relation/is/is_making_offer.md) 
+
+### [is_making_offer.internal](/_internal/schema-org/Relation/is/is_making_offer.internal.md) 
+
+### [is_making_offer.protect](/_protect/schema-org/Relation/is/is_making_offer.protect.md) 
+
+### [is_making_offer.private](/_private/schema-org/Relation/is/is_making_offer.private.md) 
+
+### [is_making_offer.personal](/_personal/schema-org/Relation/is/is_making_offer.personal.md) 
+
+### [is_making_offer.secret](/_secret/schema-org/Relation/is/is_making_offer.secret.md) 

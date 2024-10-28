@@ -1,4 +1,4 @@
-
+﻿
 # [[Age~2~Aeronian]] 
 
 #is_a_/time_/Age 
@@ -34,8 +34,8 @@ A time period from 440.8 to 438.5 million years ago.
 
 #has_/abbreviation :: s2
 
-#has_/time_/created/Ma :: -440.8 
-#has_/time_/destroyed/Ma :: -438.5 
+#has_/time_/started /Ma :: -440.8 
+#has_/time_/stopped /Ma :: -438.5 
 
     sh:order 127 
 
@@ -55,3 +55,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Aeronian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.md) 
+
+### [Age~2~Aeronian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.internal.md) 
+
+### [Age~2~Aeronian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.protect.md) 
+
+### [Age~2~Aeronian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.private.md) 
+
+### [Age~2~Aeronian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.personal.md) 
+
+### [Age~2~Aeronian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.secret.md) 

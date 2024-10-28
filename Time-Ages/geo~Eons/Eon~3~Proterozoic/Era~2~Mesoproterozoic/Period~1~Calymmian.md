@@ -1,4 +1,4 @@
-# [[Period~1~Calymmian]] 
+﻿# [[Period~1~Calymmian]] 
 
 #is_a_/time_/Period 
 
@@ -38,8 +38,8 @@ A time period from 1600 to 1400 million years ago.
 
 #has_/abbreviation :: MP1
 
-#has_/time_/created/Ma :: -1600
-#has_/time_/destroyed/Ma :: -1400
+#has_/time_/started /Ma :: -1600
+#has_/time_/stopped /Ma :: -1400
 
     sh:order 164 
 
@@ -59,3 +59,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~1~Calymmian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.md) 
+
+### [Period~1~Calymmian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.internal.md) 
+
+### [Period~1~Calymmian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.protect.md) 
+
+### [Period~1~Calymmian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.private.md) 
+
+### [Period~1~Calymmian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.personal.md) 
+
+### [Period~1~Calymmian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~2~Mesoproterozoic/Period~1~Calymmian.secret.md) 

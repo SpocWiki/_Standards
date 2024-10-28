@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21958
@@ -35,10 +35,15 @@ SpocWebEntityId: 21958
 > [Wikipedia](https://en.wikipedia.org/wiki/Samarium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Samarium|Samarium]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Samarium.public|Samarium.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Samarium.internal|Samarium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Samarium.protect|Samarium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Samarium.private|Samarium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Samarium.personal|Samarium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Samarium.secret|Samarium.secret]] 
+
+### [Samarium](/_public/chemic/chemic~Elements/Lanthanide-Group/Samarium.md) 
+
+### [Samarium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Samarium.internal.md) 
+
+### [Samarium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Samarium.protect.md) 
+
+### [Samarium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Samarium.private.md) 
+
+### [Samarium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Samarium.personal.md) 
+
+### [Samarium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Samarium.secret.md) 

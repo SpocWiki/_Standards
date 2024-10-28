@@ -1,4 +1,4 @@
-
+﻿
 # [[Era~1~Paleozoic]] 
 
 #is_a_/time_/Era 
@@ -31,8 +31,8 @@ A time period from 251.902 to 538.8 million years ago
 
 #has_/abbreviation :: PZ
 
-#has_/time_/created/Ma :: -538.8 
-#has_/time_/destroyed/Ma :: -251.902 
+#has_/time_/started /Ma :: -538.8 
+#has_/time_/stopped /Ma :: -251.902 
 
     sh:order 77 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Era~1~Paleozoic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.md) 
+
+### [Era~1~Paleozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.internal.md) 
+
+### [Era~1~Paleozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.protect.md) 
+
+### [Era~1~Paleozoic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.private.md) 
+
+### [Era~1~Paleozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.personal.md) 
+
+### [Era~1~Paleozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic.secret.md) 

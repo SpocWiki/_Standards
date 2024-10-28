@@ -1,4 +1,4 @@
-# [[Age~1~Rupelian]] 
+﻿# [[Age~1~Rupelian]] 
 
 #is_a_/time_/Age 
   
@@ -31,8 +31,8 @@ A time period from 33.9 to 27.82 million years ago.
 
 #has_/abbreviation :: e8
 
-#has_/time_/created/Ma :: -33.9
-#has_/time_/destroyed/Ma :: -27.82
+#has_/time_/started /Ma :: -33.9
+#has_/time_/stopped /Ma :: -27.82
 
     sh:order 24 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Rupelian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~1~Rupelian.md) 
+
+### [Age~1~Rupelian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~1~Rupelian.internal.md) 
+
+### [Age~1~Rupelian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~1~Rupelian.protect.md) 
+
+### [Age~1~Rupelian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~1~Rupelian.private.md) 
+
+### [Age~1~Rupelian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~1~Rupelian.personal.md) 
+
+### [Age~1~Rupelian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~1~Rupelian.secret.md) 

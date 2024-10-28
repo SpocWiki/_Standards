@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_hosting_organization|has_hosting_organization]] 
-- [[../../../../../_public/schema-org/Relation/has/has_hosting_organization.public|has_hosting_organization.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_hosting_organization.internal|has_hosting_organization.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_hosting_organization.protect|has_hosting_organization.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_hosting_organization.private|has_hosting_organization.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_hosting_organization.personal|has_hosting_organization.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_hosting_organization.secret|has_hosting_organization.secret]] 
+
+### [has_hosting_organization](/_public/schema-org/Relation/has/has_hosting_organization.md) 
+
+### [has_hosting_organization.internal](/_internal/schema-org/Relation/has/has_hosting_organization.internal.md) 
+
+### [has_hosting_organization.protect](/_protect/schema-org/Relation/has/has_hosting_organization.protect.md) 
+
+### [has_hosting_organization.private](/_private/schema-org/Relation/has/has_hosting_organization.private.md) 
+
+### [has_hosting_organization.personal](/_personal/schema-org/Relation/has/has_hosting_organization.personal.md) 
+
+### [has_hosting_organization.secret](/_secret/schema-org/Relation/has/has_hosting_organization.secret.md) 

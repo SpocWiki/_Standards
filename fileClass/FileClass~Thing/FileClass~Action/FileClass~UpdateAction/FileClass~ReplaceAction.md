@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,3 +55,17 @@ A sub property of object. The object that replaces.
 Replacer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ReplaceAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.md) 
+
+### [FileClass~ReplaceAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.internal.md) 
+
+### [FileClass~ReplaceAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.protect.md) 
+
+### [FileClass~ReplaceAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.private.md) 
+
+### [FileClass~ReplaceAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.personal.md) 
+
+### [FileClass~ReplaceAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction/FileClass~ReplaceAction.secret.md) 

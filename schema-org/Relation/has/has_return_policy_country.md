@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: Country, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_return_policy_country|has_return_policy_country]] 
-- [[../../../../../_public/schema-org/Relation/has/has_return_policy_country.public|has_return_policy_country.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_return_policy_country.internal|has_return_policy_country.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_return_policy_country.protect|has_return_policy_country.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_return_policy_country.private|has_return_policy_country.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_return_policy_country.personal|has_return_policy_country.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_return_policy_country.secret|has_return_policy_country.secret]] 
+
+### [has_return_policy_country](/_public/schema-org/Relation/has/has_return_policy_country.md) 
+
+### [has_return_policy_country.internal](/_internal/schema-org/Relation/has/has_return_policy_country.internal.md) 
+
+### [has_return_policy_country.protect](/_protect/schema-org/Relation/has/has_return_policy_country.protect.md) 
+
+### [has_return_policy_country.private](/_private/schema-org/Relation/has/has_return_policy_country.private.md) 
+
+### [has_return_policy_country.personal](/_personal/schema-org/Relation/has/has_return_policy_country.personal.md) 
+
+### [has_return_policy_country.secret](/_secret/schema-org/Relation/has/has_return_policy_country.secret.md) 

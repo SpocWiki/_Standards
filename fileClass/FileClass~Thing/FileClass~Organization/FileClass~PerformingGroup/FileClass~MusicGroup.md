@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -73,3 +73,17 @@ A music recording (track)&#x2014;usually a single song. If an ItemList is given,
 Track:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ItemList')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MusicGroup](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.md) 
+
+### [FileClass~MusicGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.internal.md) 
+
+### [FileClass~MusicGroup.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.protect.md) 
+
+### [FileClass~MusicGroup.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.private.md) 
+
+### [FileClass~MusicGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.personal.md) 
+
+### [FileClass~MusicGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup/FileClass~MusicGroup.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -39,10 +39,11 @@ which is the moment when an entity begins/ceases to exist or a statement starts/
 
 Use it like this: 
 - [has_time_created::P#Y#M#W#DT#H#M#s.fff] or 
-- [ #has_/time_/created::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
+- [ #has_/time_/started ::P#Y#M#W#DT#H#M#s.fff] with the [ISO_8601-date Format](../../../ISO/ISO_8601-Date_Time) .
 
 Alternatively use the equivalent #created , because the is supported in [[../../../../Tasks/Tasks|Tasks]]: 
 #is_/similar_to :: #created 
+#is_/similar_to :: #has_/time_/started  
 
 The date on which the CreativeWork was created or the item was added to a DataFeed.
 
@@ -54,10 +55,15 @@ Formal Predicate:
 Has [sub_properties::legislationDate]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_created|has_time_created]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_created.public|has_time_created.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_created.internal|has_time_created.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_created.protect|has_time_created.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_created.private|has_time_created.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_created.personal|has_time_created.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_created.secret|has_time_created.secret]] 
+
+### [has_time_created](/_public/schema-org/Property/has_Date_Time/has_time_created.md) 
+
+### [has_time_created.internal](/_internal/schema-org/Property/has_Date_Time/has_time_created.internal.md) 
+
+### [has_time_created.protect](/_protect/schema-org/Property/has_Date_Time/has_time_created.protect.md) 
+
+### [has_time_created.private](/_private/schema-org/Property/has_Date_Time/has_time_created.private.md) 
+
+### [has_time_created.personal](/_personal/schema-org/Property/has_Date_Time/has_time_created.personal.md) 
+
+### [has_time_created.secret](/_secret/schema-org/Property/has_Date_Time/has_time_created.secret.md) 

@@ -1,4 +1,4 @@
-
+﻿
 # [[Age~3~Cambrian-Stage-10]] 
 
 #is_a_/time_/Age 
@@ -28,8 +28,8 @@ A time period from 489.5 to 485.4 million years ago.
 
 #has_/abbreviation :: ep10
 
-#has_/time_/created/Ma :: -489.5 
-#has_/time_/destroyed/Ma :: -485.4 
+#has_/time_/started /Ma :: -489.5 
+#has_/time_/stopped /Ma :: -485.4 
 
     sh:order 142 
 
@@ -49,3 +49,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Cambrian-Stage-10](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.md) 
+
+### [Age~3~Cambrian-Stage-10.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.internal.md) 
+
+### [Age~3~Cambrian-Stage-10.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.protect.md) 
+
+### [Age~3~Cambrian-Stage-10.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.private.md) 
+
+### [Age~3~Cambrian-Stage-10.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.personal.md) 
+
+### [Age~3~Cambrian-Stage-10.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~3~Cambrian-Stage-10.secret.md) 

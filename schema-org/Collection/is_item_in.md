@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -61,10 +61,15 @@ Relation describes that:
 ( #has_/range :: Collection)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Relation/is_element_of|is_element_of]] 
-- [[../../../../_public/schema-org/Relation/is_element_of.public|is_element_of.public]] 
-- [[../../../../_internal/schema.org/Relation/is_element_of.internal|is_element_of.internal]] 
-- [[../../../../_protect/schema.org/Relation/is_element_of.protect|is_element_of.protect]] 
-- [[../../../../_private/schema.org/Relation/is_element_of.private|is_element_of.private]] 
-- [[../../../../_personal/schema.org/Relation/is_element_of.personal|is_element_of.personal]] 
-- [[../../../../_secret/schema.org/Relation/is_element_of.secret|is_element_of.secret]] 
+
+### [is_item_in](/_public/schema-org/Collection/is_item_in.md) 
+
+### [is_item_in.internal](/_internal/schema-org/Collection/is_item_in.internal.md) 
+
+### [is_item_in.protect](/_protect/schema-org/Collection/is_item_in.protect.md) 
+
+### [is_item_in.private](/_private/schema-org/Collection/is_item_in.private.md) 
+
+### [is_item_in.personal](/_personal/schema-org/Collection/is_item_in.personal.md) 
+
+### [is_item_in.secret](/_secret/schema-org/Collection/is_item_in.secret.md) 

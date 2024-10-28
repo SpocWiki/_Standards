@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: location ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_work_location|has_work_location]] 
-- [[../../../../../_public/schema-org/Relation/has/has_work_location.public|has_work_location.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_work_location.internal|has_work_location.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_work_location.protect|has_work_location.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_work_location.private|has_work_location.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_work_location.personal|has_work_location.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_work_location.secret|has_work_location.secret]] 
+
+### [has_work_location](/_public/schema-org/Relation/has/has_work_location.md) 
+
+### [has_work_location.internal](/_internal/schema-org/Relation/has/has_work_location.internal.md) 
+
+### [has_work_location.protect](/_protect/schema-org/Relation/has/has_work_location.protect.md) 
+
+### [has_work_location.private](/_private/schema-org/Relation/has/has_work_location.private.md) 
+
+### [has_work_location.personal](/_personal/schema-org/Relation/has/has_work_location.personal.md) 
+
+### [has_work_location.secret](/_secret/schema-org/Relation/has/has_work_location.secret.md) 

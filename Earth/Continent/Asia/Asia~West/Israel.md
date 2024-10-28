@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 32.23
     - 35
@@ -44,7 +44,7 @@ For more Details, check out this Repository into this Subfolder:
 [[Israel/ReadMe]] 
 
 
-#has_/time_/created :: 1948-05-14 
+#has_/time_/started :: 1948-05-14 
 
 [	ISO4217-currency_alphabetic	 :: ILS ]
 [	ISO4217-currency_name	 :: New Israeli Sheqel ]
@@ -152,9 +152,15 @@ Capital :: [[Israel/Counties/Jerusalem]]
 
 
 ## Confidential Links & Embeds: 
-- [[Israel|Israel]] 
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Israel.internal|Israel.internal]] 
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Israel.protect|Israel.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Israel.private|Israel.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Israel.personal|Israel.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Israel.secret|Israel.secret]] 
+
+### [Israel](/_public/Earth/Continent/Asia/Asia~West/Israel.md) 
+
+### [Israel.internal](/_internal/Earth/Continent/Asia/Asia~West/Israel.internal.md) 
+
+### [Israel.protect](/_protect/Earth/Continent/Asia/Asia~West/Israel.protect.md) 
+
+### [Israel.private](/_private/Earth/Continent/Asia/Asia~West/Israel.private.md) 
+
+### [Israel.personal](/_personal/Earth/Continent/Asia/Asia~West/Israel.personal.md) 
+
+### [Israel.secret](/_secret/Earth/Continent/Asia/Asia~West/Israel.secret.md) 

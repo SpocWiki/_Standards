@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Season dedicated to TV broadcast and associated online delivery.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TVSeason](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~TVSeason.md) 
+
+### [FileClass~TVSeason.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~TVSeason.internal.md) 
+
+### [FileClass~TVSeason.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~TVSeason.protect.md) 
+
+### [FileClass~TVSeason.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~TVSeason.private.md) 
+
+### [FileClass~TVSeason.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~TVSeason.personal.md) 
+
+### [FileClass~TVSeason.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~TVSeason.secret.md) 

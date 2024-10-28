@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21906
@@ -37,10 +37,15 @@ SpocWebEntityId: 21906
 > [Wikipedia](https://en.wikipedia.org/wiki/Lithium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-01-Alkali/Lithium|Lithium]] 
-- [[../../../../_public/chemic/Elements/Group-01-Alkali/Lithium.public|Lithium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-01-Alkali/Lithium.internal|Lithium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-01-Alkali/Lithium.protect|Lithium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-01-Alkali/Lithium.private|Lithium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-01-Alkali/Lithium.personal|Lithium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-01-Alkali/Lithium.secret|Lithium.secret]] 
+
+### [Lithium](/_public/chemic/chemic~Elements/Group-01-Alkali/Lithium.md) 
+
+### [Lithium.internal](/_internal/chemic/chemic~Elements/Group-01-Alkali/Lithium.internal.md) 
+
+### [Lithium.protect](/_protect/chemic/chemic~Elements/Group-01-Alkali/Lithium.protect.md) 
+
+### [Lithium.private](/_private/chemic/chemic~Elements/Group-01-Alkali/Lithium.private.md) 
+
+### [Lithium.personal](/_personal/chemic/chemic~Elements/Group-01-Alkali/Lithium.personal.md) 
+
+### [Lithium.secret](/_secret/chemic/chemic~Elements/Group-01-Alkali/Lithium.secret.md) 

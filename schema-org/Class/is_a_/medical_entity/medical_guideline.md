@@ -45,10 +45,15 @@ Any recommendation made by a standard society (e.g. ACC/AHA) or consensus statem
 [ #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, evidenceLevel, evidenceOrigin, funding, guideline, guidelineDate, guidelineSubject, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_guideline|medical_guideline]] 
-- [[../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_guideline.public|medical_guideline.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_guideline.internal|medical_guideline.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_guideline.protect|medical_guideline.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_guideline.private|medical_guideline.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_guideline.personal|medical_guideline.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_guideline.secret|medical_guideline.secret]] 
+
+### [medical_guideline](/_public/schema-org/Class/is_a_/medical_entity/medical_guideline.md) 
+
+### [medical_guideline.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_guideline.internal.md) 
+
+### [medical_guideline.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_guideline.protect.md) 
+
+### [medical_guideline.private](/_private/schema-org/Class/is_a_/medical_entity/medical_guideline.private.md) 
+
+### [medical_guideline.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_guideline.personal.md) 
+
+### [medical_guideline.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_guideline.secret.md) 

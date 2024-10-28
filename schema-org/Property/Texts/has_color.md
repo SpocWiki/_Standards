@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_color|has_color]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_color.public|has_color.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_color.internal|has_color.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_color.protect|has_color.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_color.private|has_color.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_color.personal|has_color.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_color.secret|has_color.secret]] 
+
+### [has_color](/_public/schema-org/Property/Texts/has_color.md) 
+
+### [has_color.internal](/_internal/schema-org/Property/Texts/has_color.internal.md) 
+
+### [has_color.protect](/_protect/schema-org/Property/Texts/has_color.protect.md) 
+
+### [has_color.private](/_private/schema-org/Property/Texts/has_color.private.md) 
+
+### [has_color.personal](/_personal/schema-org/Property/Texts/has_color.personal.md) 
+
+### [has_color.secret](/_secret/schema-org/Property/Texts/has_color.secret.md) 

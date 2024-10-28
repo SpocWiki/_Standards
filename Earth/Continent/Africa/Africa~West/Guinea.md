@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 9.51667
 - -13.7
@@ -138,9 +138,15 @@ Capital :: [[Conakry]]
 
 
 ## Confidential Links & Embeds: 
-- [[Guinea|Guinea]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Guinea.internal|Guinea.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Guinea.protect|Guinea.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Guinea.private|Guinea.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Guinea.personal|Guinea.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Guinea.secret|Guinea.secret]] 
+
+### [Guinea](/_public/Earth/Continent/Africa/Africa~West/Guinea.md) 
+
+### [Guinea.internal](/_internal/Earth/Continent/Africa/Africa~West/Guinea.internal.md) 
+
+### [Guinea.protect](/_protect/Earth/Continent/Africa/Africa~West/Guinea.protect.md) 
+
+### [Guinea.private](/_private/Earth/Continent/Africa/Africa~West/Guinea.private.md) 
+
+### [Guinea.personal](/_personal/Earth/Continent/Africa/Africa~West/Guinea.personal.md) 
+
+### [Guinea.secret](/_secret/Earth/Continent/Africa/Africa~West/Guinea.secret.md) 

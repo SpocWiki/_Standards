@@ -1,34 +1,35 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_sub_classes
-
 linkTitle: has_sub_classes
-keywords: [part]
+keywords:
+  - part
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- has-sub-classes
-- sub-classes
-- hassub-classes
-- has_sub_classes
+  - has-sub-classes
+  - sub-classes
+  - has_sub_classes
+  - has_subclasses
+  - is_super-class
+  - Class-Generalization
 ---
+
+#is_/better_than :: [[../Relation/is_similar_to|is_similar_to]] 
+#is_/similar_to :: [[../../../Knowledge/Engineer/Engineer~Generalization|Engineer~Generalization]] 
 
 # [[has_sub_classes]] 
 
@@ -48,10 +49,15 @@ But typically it is a typed [[../Collection/item_list|item_list]] with sub-class
 #is_/inverse_of  :: [[is_sub_class_of]]   
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sub_classes|has_sub_classes]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sub_classes.public|has_sub_classes.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sub_classes.internal|has_sub_classes.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sub_classes.protect|has_sub_classes.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sub_classes.private|has_sub_classes.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sub_classes.personal|has_sub_classes.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sub_classes.secret|has_sub_classes.secret]] 
+
+### [has_sub_classes](/_public/schema-org/Class/has_sub_classes.md) 
+
+### [has_sub_classes.internal](/_internal/schema-org/Class/has_sub_classes.internal.md) 
+
+### [has_sub_classes.protect](/_protect/schema-org/Class/has_sub_classes.protect.md) 
+
+### [has_sub_classes.private](/_private/schema-org/Class/has_sub_classes.private.md) 
+
+### [has_sub_classes.personal](/_personal/schema-org/Class/has_sub_classes.personal.md) 
+
+### [has_sub_classes.secret](/_secret/schema-org/Class/has_sub_classes.secret.md) 

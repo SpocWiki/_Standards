@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 4.92
     - -52.3
@@ -141,9 +141,15 @@ Capital :: [[French_Guiana/City/Cayenne=Franz.]]
 
 
 ## Confidential Links & Embeds: 
-- [[French_Guiana|French_Guiana]] 
-- [[../../../../_internal/Earth/Continent/America~South/French_Guiana.internal|French_Guiana.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/French_Guiana.protect|French_Guiana.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/French_Guiana.private|French_Guiana.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/French_Guiana.personal|French_Guiana.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/French_Guiana.secret|French_Guiana.secret]] 
+
+### [French_Guiana](/_public/Earth/Continent/America~South/French_Guiana.md) 
+
+### [French_Guiana.internal](/_internal/Earth/Continent/America~South/French_Guiana.internal.md) 
+
+### [French_Guiana.protect](/_protect/Earth/Continent/America~South/French_Guiana.protect.md) 
+
+### [French_Guiana.private](/_private/Earth/Continent/America~South/French_Guiana.private.md) 
+
+### [French_Guiana.personal](/_personal/Earth/Continent/America~South/French_Guiana.personal.md) 
+
+### [French_Guiana.secret](/_secret/Earth/Continent/America~South/French_Guiana.secret.md) 

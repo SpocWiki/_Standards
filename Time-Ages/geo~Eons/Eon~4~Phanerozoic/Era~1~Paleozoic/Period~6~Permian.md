@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~6~Permian]] 
 
 #is_a_/time_/Period 
@@ -36,8 +36,8 @@ A time period from 298.9 to 251.902 million years ago.
 
 #has_/abbreviation :: P
 
-#has_/time_/created/Ma :: -298.9 
-#has_/time_/destroyed/Ma :: -251.902 
+#has_/time_/started /Ma :: -298.9 
+#has_/time_/stopped /Ma :: -251.902 
 
     sh:order 91 
 
@@ -57,3 +57,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~6~Permian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.md) 
+
+### [Period~6~Permian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.internal.md) 
+
+### [Period~6~Permian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.protect.md) 
+
+### [Period~6~Permian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.private.md) 
+
+### [Period~6~Permian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.personal.md) 
+
+### [Period~6~Permian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian.secret.md) 

@@ -49,10 +49,15 @@ The term "story" is any indivisible, re-printable
 [ #has_/properties :: [ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, artist, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, colorist, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, inker, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, letterer, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, penciler, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/creative_work/comic_story|comic_story]] 
-- [[../../../../../_public/schema-org/Class/is_a_/creative_work/comic_story.public|comic_story.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/creative_work/comic_story.internal|comic_story.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/creative_work/comic_story.protect|comic_story.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/creative_work/comic_story.private|comic_story.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/creative_work/comic_story.personal|comic_story.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/creative_work/comic_story.secret|comic_story.secret]] 
+
+### [comic_story](/_public/schema-org/Class/is_a_/creative_work/comic_story.md) 
+
+### [comic_story.internal](/_internal/schema-org/Class/is_a_/creative_work/comic_story.internal.md) 
+
+### [comic_story.protect](/_protect/schema-org/Class/is_a_/creative_work/comic_story.protect.md) 
+
+### [comic_story.private](/_private/schema-org/Class/is_a_/creative_work/comic_story.private.md) 
+
+### [comic_story.personal](/_personal/schema-org/Class/is_a_/creative_work/comic_story.personal.md) 
+
+### [comic_story.secret](/_secret/schema-org/Class/is_a_/creative_work/comic_story.secret.md) 

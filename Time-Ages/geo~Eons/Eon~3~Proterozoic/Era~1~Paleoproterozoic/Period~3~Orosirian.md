@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~3~Orosirian]] 
 
 #is_a_/time_/Period 
@@ -40,8 +40,8 @@ A time period from 2050 to 1800 million years ago.
 
 #has_/abbreviation :: PP3
 
-#has_/time_/created/Ma :: -2050
-#has_/time_/destroyed/Ma :: -1800
+#has_/time_/started /Ma :: -2050
+#has_/time_/stopped /Ma :: -1800
 
     sh:order 167
 
@@ -61,3 +61,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~3~Orosirian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.md) 
+
+### [Period~3~Orosirian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.internal.md) 
+
+### [Period~3~Orosirian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.protect.md) 
+
+### [Period~3~Orosirian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.private.md) 
+
+### [Period~3~Orosirian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.personal.md) 
+
+### [Period~3~Orosirian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~1~Paleoproterozoic/Period~3~Orosirian.secret.md) 

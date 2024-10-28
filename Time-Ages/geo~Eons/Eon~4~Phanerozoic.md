@@ -1,4 +1,4 @@
----
+﻿---
 has_/label_/ts: sdfsdf
 ---
 
@@ -36,8 +36,8 @@ A time period from 538.8 million years ago to the present.
 #has_/label_/sv  :: fanerozoikum
 #has_/label_/zh  :: 显生宙 
 
-#has_/time_/created/Ma :: -538.8 
-#has_/time_/destroyed/Ma :: 0
+#has_/time_/started /Ma :: -538.8 
+#has_/time_/stopped /Ma :: 0
 
 #has_/text_of_/color :: 0x9AD9DD
 
@@ -58,3 +58,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Eon~4~Phanerozoic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic.md) 
+
+### [Eon~4~Phanerozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.internal.md) 
+
+### [Eon~4~Phanerozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic.protect.md) 
+
+### [Eon~4~Phanerozoic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic.private.md) 
+
+### [Eon~4~Phanerozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.personal.md) 
+
+### [Eon~4~Phanerozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic.secret.md) 

@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~1~Paleocene]] 
 
 #is_a_/time_/Epoch 
@@ -41,8 +41,8 @@ A time period from 66.0 to 56.0 million years ago.
 
 #has_/abbreviation :: E1
 
-#has_/time_/created/Ma :: -66.0
-#has_/time_/destroyed/Ma :: -56.0
+#has_/time_/started /Ma :: -66.0
+#has_/time_/stopped /Ma :: -56.0
 
     sh:order 34 
 
@@ -62,3 +62,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~1~Paleocene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene.md) 
+
+### [Epoch~1~Paleocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene.internal.md) 
+
+### [Epoch~1~Paleocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene.protect.md) 
+
+### [Epoch~1~Paleocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene.private.md) 
+
+### [Epoch~1~Paleocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene.personal.md) 
+
+### [Epoch~1~Paleocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene.secret.md) 

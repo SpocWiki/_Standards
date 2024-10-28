@@ -1,33 +1,33 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_aggregate_rating
-
 linkTitle: has_aggregate_rating
-keywords: [aggregate, rating]
+keywords:
+  - aggregate
+  - rating
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- aggregate-rating
-- aggregate_rating
-- aggregateRating
-- has_aggregate_rating
+  - aggregate-rating
+  - aggregate_rating
+  - aggregateRating
+  - has_aggregate_rating
+  - schema:aggregateRating
+  - dbo:rating
+  - wdt:P4586
 ---
 
 Use it like this: 
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: AggregateRating )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_aggregate_rating|has_aggregate_rating]] 
-- [[../../../../../_public/schema-org/Relation/has/has_aggregate_rating.public|has_aggregate_rating.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_aggregate_rating.internal|has_aggregate_rating.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_aggregate_rating.protect|has_aggregate_rating.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_aggregate_rating.private|has_aggregate_rating.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_aggregate_rating.personal|has_aggregate_rating.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_aggregate_rating.secret|has_aggregate_rating.secret]] 
+
+### [has_aggregate_rating](/_public/schema-org/Relation/has/has_aggregate_rating.md) 
+
+### [has_aggregate_rating.internal](/_internal/schema-org/Relation/has/has_aggregate_rating.internal.md) 
+
+### [has_aggregate_rating.protect](/_protect/schema-org/Relation/has/has_aggregate_rating.protect.md) 
+
+### [has_aggregate_rating.private](/_private/schema-org/Relation/has/has_aggregate_rating.private.md) 
+
+### [has_aggregate_rating.personal](/_personal/schema-org/Relation/has/has_aggregate_rating.personal.md) 
+
+### [has_aggregate_rating.secret](/_secret/schema-org/Relation/has/has_aggregate_rating.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -16.6 , 179.2 ] 
 type: geo-Region
 title: Fiji~Northern
@@ -40,11 +40,15 @@ markerFolder: ./Fiji~Northern/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Fiji/Counties/Fiji~Northern|Fiji~Northern]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Fiji/Counties/Fiji~Northern.public|Fiji~Northern.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Fiji/Counties/Fiji~Northern.internal|Fiji~Northern.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Fiji/Counties/Fiji~Northern.protect|Fiji~Northern.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Fiji/Counties/Fiji~Northern.private|Fiji~Northern.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Fiji/Counties/Fiji~Northern.personal|Fiji~Northern.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Fiji/Counties/Fiji~Northern.secret|Fiji~Northern.secret]] 
 
+### [Fiji~Northern](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Northern.md) 
+
+### [Fiji~Northern.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Northern.internal.md) 
+
+### [Fiji~Northern.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Northern.protect.md) 
+
+### [Fiji~Northern.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Northern.private.md) 
+
+### [Fiji~Northern.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Northern.personal.md) 
+
+### [Fiji~Northern.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Northern.secret.md) 

@@ -43,10 +43,15 @@ An agent orders an object/product/service to be delivered/sent.
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, deliveryMethod, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/trade_action/order_action|order_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/trade_action/order_action.public|order_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/order_action.internal|order_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/order_action.protect|order_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/order_action.private|order_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/trade_action/order_action.personal|order_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/trade_action/order_action.secret|order_action.secret]] 
+
+### [order_action](/_public/schema-org/Class/is_a_/action/trade_action/order_action.md) 
+
+### [order_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/order_action.internal.md) 
+
+### [order_action.protect](/_protect/schema-org/Class/is_a_/action/trade_action/order_action.protect.md) 
+
+### [order_action.private](/_private/schema-org/Class/is_a_/action/trade_action/order_action.private.md) 
+
+### [order_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/order_action.personal.md) 
+
+### [order_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/order_action.secret.md) 

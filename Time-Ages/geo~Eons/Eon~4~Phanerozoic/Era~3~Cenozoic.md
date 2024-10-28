@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:Cenozoic
 ---
@@ -43,8 +43,8 @@ A time period from 66.0 million years ago to the present.
         
 #has_/abbreviation :: CZ
 
-#has_/time_/created/Ma :: -66.0
-#has_/time_/destroyed/Ma :: 0.002 
+#has_/time_/started /Ma :: -66.0
+#has_/time_/stopped /Ma :: 0.002 
 
 #has_/text_of_/color :: 0xF2F91D
 
@@ -62,3 +62,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Era~3~Cenozoic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.md) 
+
+### [Era~3~Cenozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.internal.md) 
+
+### [Era~3~Cenozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.protect.md) 
+
+### [Era~3~Cenozoic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.private.md) 
+
+### [Era~3~Cenozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.personal.md) 
+
+### [Era~3~Cenozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic.secret.md) 

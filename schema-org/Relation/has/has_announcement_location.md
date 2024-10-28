@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: spatialCoverage ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_announcement_location|has_announcement_location]] 
-- [[../../../../../_public/schema-org/Relation/has/has_announcement_location.public|has_announcement_location.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_announcement_location.internal|has_announcement_location.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_announcement_location.protect|has_announcement_location.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_announcement_location.private|has_announcement_location.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_announcement_location.personal|has_announcement_location.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_announcement_location.secret|has_announcement_location.secret]] 
+
+### [has_announcement_location](/_public/schema-org/Relation/has/has_announcement_location.md) 
+
+### [has_announcement_location.internal](/_internal/schema-org/Relation/has/has_announcement_location.internal.md) 
+
+### [has_announcement_location.protect](/_protect/schema-org/Relation/has/has_announcement_location.protect.md) 
+
+### [has_announcement_location.private](/_private/schema-org/Relation/has/has_announcement_location.private.md) 
+
+### [has_announcement_location.personal](/_personal/schema-org/Relation/has/has_announcement_location.personal.md) 
+
+### [has_announcement_location.secret](/_secret/schema-org/Relation/has/has_announcement_location.secret.md) 

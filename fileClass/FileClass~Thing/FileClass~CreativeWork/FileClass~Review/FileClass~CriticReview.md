@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A [[CriticReview]] is a more specialized form of Review written or published by 
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CriticReview](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.md) 
+
+### [FileClass~CriticReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.internal.md) 
+
+### [FileClass~CriticReview.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.protect.md) 
+
+### [FileClass~CriticReview.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.private.md) 
+
+### [FileClass~CriticReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.personal.md) 
+
+### [FileClass~CriticReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview.secret.md) 

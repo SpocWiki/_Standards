@@ -47,10 +47,15 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 [ #has_/properties :: [ accommodationCategory, accommodationFloorPlan, additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, floorLevel, floorSize, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, leaseLength, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, numberOfBathroomsTotal, numberOfBedrooms, numberOfFullBathrooms, numberOfPartialBathrooms, numberOfRooms, openingHoursSpecification, permittedUsage, petsAllowed, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url, yearBuilt ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/accommodation/room|room]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/place/accommodation/room.public|room.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/accommodation/room.internal|room.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/accommodation/room.protect|room.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/accommodation/room.private|room.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/accommodation/room.personal|room.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/accommodation/room.secret|room.secret]] 
+
+### [room](/_public/schema-org/Class/is_a_/place/accommodation/room.md) 
+
+### [room.internal](/_internal/schema-org/Class/is_a_/place/accommodation/room.internal.md) 
+
+### [room.protect](/_protect/schema-org/Class/is_a_/place/accommodation/room.protect.md) 
+
+### [room.private](/_private/schema-org/Class/is_a_/place/accommodation/room.private.md) 
+
+### [room.personal](/_personal/schema-org/Class/is_a_/place/accommodation/room.personal.md) 
+
+### [room.secret](/_secret/schema-org/Class/is_a_/place/accommodation/room.secret.md) 

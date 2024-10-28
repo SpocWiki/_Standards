@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 46.05
     - 14.52
@@ -146,12 +146,15 @@ Capital :: [[Slovenia/Counties/Osrednje_slovenska/Ljubljana/City/Ljubliana]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Slovenia|Slovenia]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~Central/Slovenia.public|Slovenia.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal|Slovenia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect|Slovenia.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~Central/Slovenia.private|Slovenia.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal|Slovenia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret|Slovenia.secret]] 
 
+### [Slovenia](/_public/Earth/Continent/Europe/Europe~Central/Slovenia.md) 
 
+### [Slovenia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal.md) 
+
+### [Slovenia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect.md) 
+
+### [Slovenia.private](/_private/Earth/Continent/Europe/Europe~Central/Slovenia.private.md) 
+
+### [Slovenia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal.md) 
+
+### [Slovenia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret.md) 

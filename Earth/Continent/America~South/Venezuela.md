@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 10.5
     - -66.93
@@ -148,9 +148,15 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 
 
 ## Confidential Links & Embeds: 
-- [[Venezuela|Venezuela]] 
-- [[../../../../_internal/Earth/Continent/America~South/Venezuela.internal|Venezuela.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Venezuela.protect|Venezuela.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Venezuela.private|Venezuela.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Venezuela.personal|Venezuela.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Venezuela.secret|Venezuela.secret]] 
+
+### [Venezuela](/_public/Earth/Continent/America~South/Venezuela.md) 
+
+### [Venezuela.internal](/_internal/Earth/Continent/America~South/Venezuela.internal.md) 
+
+### [Venezuela.protect](/_protect/Earth/Continent/America~South/Venezuela.protect.md) 
+
+### [Venezuela.private](/_private/Earth/Continent/America~South/Venezuela.private.md) 
+
+### [Venezuela.personal](/_personal/Earth/Continent/America~South/Venezuela.personal.md) 
+
+### [Venezuela.secret](/_secret/Earth/Continent/America~South/Venezuela.secret.md) 

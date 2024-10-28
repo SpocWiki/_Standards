@@ -1,4 +1,4 @@
-
+﻿
 # [[Age~3~Guzhangian]] 
 
 #is_a_/time_/Age 
@@ -35,8 +35,8 @@ A time period from 500.5 to 497 million years ago.
 
 #has_/abbreviation :: ep7
 
-#has_/time_/created/Ma :: -500.5 
-#has_/time_/destroyed/Ma :: -497 
+#has_/time_/started /Ma :: -500.5 
+#has_/time_/stopped /Ma :: -497 
 
     sh:order 146 
 
@@ -56,3 +56,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Guzhangian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.md) 
+
+### [Age~3~Guzhangian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.internal.md) 
+
+### [Age~3~Guzhangian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.protect.md) 
+
+### [Age~3~Guzhangian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.private.md) 
+
+### [Age~3~Guzhangian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.personal.md) 
+
+### [Age~3~Guzhangian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.secret.md) 

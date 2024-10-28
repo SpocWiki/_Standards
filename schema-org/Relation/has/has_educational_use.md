@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DefinedTerm, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_educational_use|has_educational_use]] 
-- [[../../../../../_public/schema-org/Relation/has/has_educational_use.public|has_educational_use.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_educational_use.internal|has_educational_use.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_educational_use.protect|has_educational_use.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_educational_use.private|has_educational_use.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_educational_use.personal|has_educational_use.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_educational_use.secret|has_educational_use.secret]] 
+
+### [has_educational_use](/_public/schema-org/Relation/has/has_educational_use.md) 
+
+### [has_educational_use.internal](/_internal/schema-org/Relation/has/has_educational_use.internal.md) 
+
+### [has_educational_use.protect](/_protect/schema-org/Relation/has/has_educational_use.protect.md) 
+
+### [has_educational_use.private](/_private/schema-org/Relation/has/has_educational_use.private.md) 
+
+### [has_educational_use.personal](/_personal/schema-org/Relation/has/has_educational_use.personal.md) 
+
+### [has_educational_use.secret](/_secret/schema-org/Relation/has/has_educational_use.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -17.8333
 - 31.05
@@ -144,9 +144,15 @@ Capital :: [[Harare]]
 
 
 ## Confidential Links & Embeds: 
-- [[Zimbabwe|Zimbabwe]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~South/Zimbabwe.internal|Zimbabwe.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~South/Zimbabwe.protect|Zimbabwe.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~South/Zimbabwe.private|Zimbabwe.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~South/Zimbabwe.personal|Zimbabwe.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret|Zimbabwe.secret]] 
+
+### [Zimbabwe](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe.md) 
+
+### [Zimbabwe.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe.internal.md) 
+
+### [Zimbabwe.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe.protect.md) 
+
+### [Zimbabwe.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe.private.md) 
+
+### [Zimbabwe.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe.personal.md) 
+
+### [Zimbabwe.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret.md) 

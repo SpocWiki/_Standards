@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ The name of a character played in some acting or performing role, i.e. in a Perf
 CharacterName:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PerformanceRole](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~PerformanceRole.md) 
+
+### [FileClass~PerformanceRole.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~PerformanceRole.internal.md) 
+
+### [FileClass~PerformanceRole.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~PerformanceRole.protect.md) 
+
+### [FileClass~PerformanceRole.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~PerformanceRole.private.md) 
+
+### [FileClass~PerformanceRole.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~PerformanceRole.personal.md) 
+
+### [FileClass~PerformanceRole.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~PerformanceRole.secret.md) 

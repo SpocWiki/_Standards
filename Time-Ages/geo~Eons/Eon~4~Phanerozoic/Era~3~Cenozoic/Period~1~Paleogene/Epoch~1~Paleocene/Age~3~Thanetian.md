@@ -1,4 +1,4 @@
-# [[Age~3~Thanetian]] 
+﻿# [[Age~3~Thanetian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 59.2 to 56.0 million years ago.
 
 #has_/abbreviation :: e3
 
-#has_/time_/created/Ma :: -59.2
-#has_/time_/destroyed/Ma :: -56.0
+#has_/time_/started /Ma :: -59.2
+#has_/time_/stopped /Ma :: -56.0
 
     sh:order 30 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Thanetian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.md) 
+
+### [Age~3~Thanetian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.internal.md) 
+
+### [Age~3~Thanetian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.protect.md) 
+
+### [Age~3~Thanetian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.private.md) 
+
+### [Age~3~Thanetian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.personal.md) 
+
+### [Age~3~Thanetian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~3~Thanetian.secret.md) 

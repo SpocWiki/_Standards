@@ -1,4 +1,4 @@
-# [[Age~2~Givetian]] 
+﻿# [[Age~2~Givetian]] 
 
 #is_a_/time_/Age 
 
@@ -30,8 +30,8 @@ A time period from 387.7 to 382.7 million years ago.
 #has_/label_/zh  :: 吉维特期
 
 #has_/abbreviation :: d5
-#has_/time_/created/Ma :: -387.7 
-#has_/time_/destroyed/Ma :: -382.7 
+#has_/time_/started /Ma :: -387.7 
+#has_/time_/stopped /Ma :: -382.7 
 
     sh:order 111 
 
@@ -51,3 +51,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Givetian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.md) 
+
+### [Age~2~Givetian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.internal.md) 
+
+### [Age~2~Givetian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.protect.md) 
+
+### [Age~2~Givetian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.private.md) 
+
+### [Age~2~Givetian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.personal.md) 
+
+### [Age~2~Givetian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.secret.md) 

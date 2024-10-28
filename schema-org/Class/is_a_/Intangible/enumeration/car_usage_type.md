@@ -43,10 +43,15 @@ A value indicating a special usage of a car, e.g. commercial rental, driving sch
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/car_usage_type|car_usage_type]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/car_usage_type.public|car_usage_type.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type.internal|car_usage_type.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/car_usage_type.protect|car_usage_type.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/car_usage_type.private|car_usage_type.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/car_usage_type.personal|car_usage_type.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/car_usage_type.secret|car_usage_type.secret]] 
+
+### [car_usage_type](/_public/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.md) 
+
+### [car_usage_type.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.internal.md) 
+
+### [car_usage_type.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.protect.md) 
+
+### [car_usage_type.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.private.md) 
+
+### [car_usage_type.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.personal.md) 
+
+### [car_usage_type.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/car_usage_type.secret.md) 

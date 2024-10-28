@@ -45,10 +45,15 @@ A set of characteristics belonging to people, e.g. who compose an item's target 
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, healthCondition, identifier, image, mainEntityOfPage, name, potentialAction, requiredGender, requiredMaxAge, requiredMinAge, sameAs, subjectOf, suggestedAge, suggestedGender, suggestedMaxAge, suggestedMeasurement, suggestedMinAge, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/audience/people_audience|people_audience]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/audience/people_audience.public|people_audience.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/people_audience.internal|people_audience.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/people_audience.protect|people_audience.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/audience/people_audience.private|people_audience.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/audience/people_audience.personal|people_audience.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/audience/people_audience.secret|people_audience.secret]] 
+
+### [people_audience](/_public/schema-org/Class/is_a_/Intangible/audience/people_audience.md) 
+
+### [people_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/people_audience.internal.md) 
+
+### [people_audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/people_audience.protect.md) 
+
+### [people_audience.private](/_private/schema-org/Class/is_a_/Intangible/audience/people_audience.private.md) 
+
+### [people_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/people_audience.personal.md) 
+
+### [people_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/people_audience.secret.md) 

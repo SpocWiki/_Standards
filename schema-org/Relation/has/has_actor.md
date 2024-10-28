@@ -1,35 +1,31 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_actor
-
 linkTitle: has_actor
-keywords: [actor]
+keywords:
+  - actor
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: actors
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- actor
-- actor
-- actor
-- has_actor
+  - actor
+  - has_actor
+  - schema:actor
+  - dbo:starring
+  - wdt:P161
 ---
 
 Use it like this: 
@@ -46,10 +42,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ readBy ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_actor|has_actor]] 
-- [[../../../../../_public/schema-org/Relation/has/has_actor.public|has_actor.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_actor.internal|has_actor.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_actor.protect|has_actor.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_actor.private|has_actor.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_actor.personal|has_actor.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_actor.secret|has_actor.secret]] 
+
+### [has_actor](/_public/schema-org/Relation/has/has_actor.md) 
+
+### [has_actor.internal](/_internal/schema-org/Relation/has/has_actor.internal.md) 
+
+### [has_actor.protect](/_protect/schema-org/Relation/has/has_actor.protect.md) 
+
+### [has_actor.private](/_private/schema-org/Relation/has/has_actor.private.md) 
+
+### [has_actor.personal](/_personal/schema-org/Relation/has/has_actor.personal.md) 
+
+### [has_actor.secret](/_secret/schema-org/Relation/has/has_actor.secret.md) 

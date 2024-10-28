@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Al Gharbiyah
 ---
@@ -17,3 +17,17 @@ aliases:
 - [Gharb-Chrarda-Béni Hssen](https://en.wikipedia.org/wiki/Gharb-Chrarda-B%C3%A9ni_Hssen "Gharb-Chrarda-Béni Hssen"), or Gharb, a former region of Morocco
     - [Gharb Basin](https://en.wikipedia.org/wiki/Gharb_Basin "Gharb Basin")
 - [Gharbia, Algeria](https://en.wikipedia.org/wiki/Gharbia,_Algeria "Gharbia, Algeria")
+
+## Confidential Links & Embeds: 
+
+### [Direction~West](/_public/Earth/2D-Directions/Direction~West.md) 
+
+### [Direction~West.internal](/_internal/Earth/2D-Directions/Direction~West.internal.md) 
+
+### [Direction~West.protect](/_protect/Earth/2D-Directions/Direction~West.protect.md) 
+
+### [Direction~West.private](/_private/Earth/2D-Directions/Direction~West.private.md) 
+
+### [Direction~West.personal](/_personal/Earth/2D-Directions/Direction~West.personal.md) 
+
+### [Direction~West.secret](/_secret/Earth/2D-Directions/Direction~West.secret.md) 

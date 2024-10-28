@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DrugPrescriptionStatus, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_prescription_status|has_prescription_status]] 
-- [[../../../../../_public/schema-org/Relation/has/has_prescription_status.public|has_prescription_status.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_prescription_status.internal|has_prescription_status.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_prescription_status.protect|has_prescription_status.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_prescription_status.private|has_prescription_status.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_prescription_status.personal|has_prescription_status.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_prescription_status.secret|has_prescription_status.secret]] 
+
+### [has_prescription_status](/_public/schema-org/Relation/has/has_prescription_status.md) 
+
+### [has_prescription_status.internal](/_internal/schema-org/Relation/has/has_prescription_status.internal.md) 
+
+### [has_prescription_status.protect](/_protect/schema-org/Relation/has/has_prescription_status.protect.md) 
+
+### [has_prescription_status.private](/_private/schema-org/Relation/has/has_prescription_status.private.md) 
+
+### [has_prescription_status.personal](/_personal/schema-org/Relation/has/has_prescription_status.personal.md) 
+
+### [has_prescription_status.secret](/_secret/schema-org/Relation/has/has_prescription_status.secret.md) 

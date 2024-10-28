@@ -45,10 +45,15 @@ A nurse-like health profession that deals with pregnancy, childbirth, and the po
 [ #is_/enum_of :: [[../MedicalSpecialty]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery|midwifery]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.public|midwifery.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/medical_business/midwifery.internal|midwifery.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/medical_business/midwifery.protect|midwifery.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/medical_business/midwifery.private|midwifery.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/medical_business/midwifery.personal|midwifery.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/medical_business/midwifery.secret|midwifery.secret]] 
+
+### [midwifery](/_public/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.md) 
+
+### [midwifery.internal](/_internal/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.internal.md) 
+
+### [midwifery.protect](/_protect/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.protect.md) 
+
+### [midwifery.private](/_private/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.private.md) 
+
+### [midwifery.personal](/_personal/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.personal.md) 
+
+### [midwifery.secret](/_secret/schema-org/Class/is_a_/organization/local_business/medical_business/midwifery.secret.md) 

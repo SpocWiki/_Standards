@@ -1,4 +1,4 @@
-# [[Era~2~Paleoarchean]] 
+﻿# [[Era~2~Paleoarchean]] 
 
 #is_a_/time_/Era 
 
@@ -33,8 +33,8 @@ A time period from 3600 to 3200 million years ago.
 #has_/label_/sv  :: paleoarkeikum
 #has_/label_/zh  :: 古太古代
 
-#has_/time_/created/Ma :: -3600
-#has_/time_/destroyed/Ma :: -3200
+#has_/time_/started /Ma :: -3600
+#has_/time_/stopped /Ma :: -3200
 
 #has_/text_of_/color :: 0xF4449F
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Era~2~Paleoarchean](/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.md) 
+
+### [Era~2~Paleoarchean.internal](/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.internal.md) 
+
+### [Era~2~Paleoarchean.protect](/_protect/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.protect.md) 
+
+### [Era~2~Paleoarchean.private](/_private/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.private.md) 
+
+### [Era~2~Paleoarchean.personal](/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.personal.md) 
+
+### [Era~2~Paleoarchean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.secret.md) 

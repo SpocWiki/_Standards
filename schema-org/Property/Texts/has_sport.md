@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 ( #has_/range :: Text, URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_sport|has_sport]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_sport.public|has_sport.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_sport.internal|has_sport.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_sport.protect|has_sport.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_sport.private|has_sport.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_sport.personal|has_sport.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_sport.secret|has_sport.secret]] 
+
+### [has_sport](/_public/schema-org/Property/Texts/has_sport.md) 
+
+### [has_sport.internal](/_internal/schema-org/Property/Texts/has_sport.internal.md) 
+
+### [has_sport.protect](/_protect/schema-org/Property/Texts/has_sport.protect.md) 
+
+### [has_sport.private](/_private/schema-org/Property/Texts/has_sport.private.md) 
+
+### [has_sport.personal](/_personal/schema-org/Property/Texts/has_sport.personal.md) 
+
+### [has_sport.secret](/_secret/schema-org/Property/Texts/has_sport.secret.md) 

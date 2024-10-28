@@ -1,4 +1,4 @@
-
+﻿
 
 | Fahrerlaubnisklasse (2013-) | Fahrzeugdefinition | (-2013) |
 | --------------------------- | ------------------ | ------- |
@@ -207,3 +207,17 @@ die jeweils nach ihrer Bauart zur Verwendung für land- oder forstwirtschaftlich
 - **selbstfahrende Arbeitsmaschinen**, **selbstfahrende Futtermischwagen, Stapler** und andere **Flurförderzeuge** jeweils mit einer durch die Bauart bestimmten Höchstgeschwindigkeit von nicht mehr als 25 km/h und
 - **Kombinationen** aus diesen Fahrzeugen und Anhängern
 
+
+## Confidential Links & Embeds: 
+
+### [Fahrerlaubnisklassen](/_public/EU/Fahrerlaubnisklassen.md) 
+
+### [Fahrerlaubnisklassen.internal](/_internal/EU/Fahrerlaubnisklassen.internal.md) 
+
+### [Fahrerlaubnisklassen.protect](/_protect/EU/Fahrerlaubnisklassen.protect.md) 
+
+### [Fahrerlaubnisklassen.private](/_private/EU/Fahrerlaubnisklassen.private.md) 
+
+### [Fahrerlaubnisklassen.personal](/_personal/EU/Fahrerlaubnisklassen.personal.md) 
+
+### [Fahrerlaubnisklassen.secret](/_secret/EU/Fahrerlaubnisklassen.secret.md) 

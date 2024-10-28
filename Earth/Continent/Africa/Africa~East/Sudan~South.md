@@ -1,4 +1,4 @@
----
+﻿---
 title: South Sudan
 type: Country
 has_id_wikidata: Q958 
@@ -127,9 +127,15 @@ Sub-region_Name ::  [[Sub-Saharan Africa]]
 
 
 ## Confidential Links & Embeds: 
-- [[Sudan~South|Sudan~South]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Sudan~South.internal|Sudan~South.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Sudan~South.protect|Sudan~South.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Sudan~South.private|Sudan~South.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Sudan~South.personal|Sudan~South.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Sudan~South.secret|Sudan~South.secret]] 
+
+### [Sudan~South](/_public/Earth/Continent/Africa/Africa~East/Sudan~South.md) 
+
+### [Sudan~South.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~South.internal.md) 
+
+### [Sudan~South.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~South.protect.md) 
+
+### [Sudan~South.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~South.private.md) 
+
+### [Sudan~South.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~South.personal.md) 
+
+### [Sudan~South.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~South.secret.md) 

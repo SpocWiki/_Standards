@@ -1,4 +1,4 @@
-# [[Age~1~Aalenian]] 
+﻿# [[Age~1~Aalenian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 174.7 to 170.9 million years ago.
 
 #has_/abbreviation :: j1
 
-#has_/time_/created/Ma :: -174.7 
-#has_/time_/destroyed/Ma :: -170.9 
+#has_/time_/started /Ma :: -174.7 
+#has_/time_/stopped /Ma :: -170.9 
 
     sh:order 58 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Aalenian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~1~Aalenian.md) 
+
+### [Age~1~Aalenian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~1~Aalenian.internal.md) 
+
+### [Age~1~Aalenian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~1~Aalenian.protect.md) 
+
+### [Age~1~Aalenian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~1~Aalenian.private.md) 
+
+### [Age~1~Aalenian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~1~Aalenian.personal.md) 
+
+### [Age~1~Aalenian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~1~Aalenian.secret.md) 

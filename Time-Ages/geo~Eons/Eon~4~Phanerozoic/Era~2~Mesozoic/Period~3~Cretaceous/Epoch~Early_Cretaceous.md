@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:LowerCretaceous
 ---
@@ -34,8 +34,8 @@ A time period from 145.0 to 100.5 million years ago.
 
 #has_/abbreviation :: K1
 
-#has_/time_/created/Ma :: -145.0 
-#has_/time_/destroyed/Ma :: -100.5
+#has_/time_/started /Ma :: -145.0 
+#has_/time_/stopped /Ma :: -100.5
 
     sh:order 50 
 
@@ -55,3 +55,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~Early_Cretaceous](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous.md) 
+
+### [Epoch~Early_Cretaceous.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous.internal.md) 
+
+### [Epoch~Early_Cretaceous.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous.protect.md) 
+
+### [Epoch~Early_Cretaceous.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous.private.md) 
+
+### [Epoch~Early_Cretaceous.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous.personal.md) 
+
+### [Epoch~Early_Cretaceous.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous.secret.md) 

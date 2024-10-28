@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_id_iswc|has_id_iswc]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_id_iswc.public|has_id_iswc.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_id_iswc.internal|has_id_iswc.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_id_iswc.protect|has_id_iswc.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_id_iswc.private|has_id_iswc.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_id_iswc.personal|has_id_iswc.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_id_iswc.secret|has_id_iswc.secret]] 
+
+### [has_id_iswc](/_public/schema-org/Property/has_name/has_id_iswc.md) 
+
+### [has_id_iswc.internal](/_internal/schema-org/Property/has_name/has_id_iswc.internal.md) 
+
+### [has_id_iswc.protect](/_protect/schema-org/Property/has_name/has_id_iswc.protect.md) 
+
+### [has_id_iswc.private](/_private/schema-org/Property/has_name/has_id_iswc.private.md) 
+
+### [has_id_iswc.personal](/_personal/schema-org/Property/has_name/has_id_iswc.personal.md) 
+
+### [has_id_iswc.secret](/_secret/schema-org/Property/has_name/has_id_iswc.secret.md) 

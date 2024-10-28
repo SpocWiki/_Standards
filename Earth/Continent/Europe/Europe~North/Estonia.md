@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 59.4167
     - 24.75
@@ -144,10 +144,15 @@ Capital :: [[Tallinn]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Estonia|Estonia]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Estonia.public|Estonia.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Estonia.internal|Estonia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Estonia.protect|Estonia.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Estonia.private|Estonia.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Estonia.personal|Estonia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Estonia.secret|Estonia.secret]] 
+
+### [Estonia](/_public/Earth/Continent/Europe/Europe~North/Estonia.md) 
+
+### [Estonia.internal](/_internal/Earth/Continent/Europe/Europe~North/Estonia.internal.md) 
+
+### [Estonia.protect](/_protect/Earth/Continent/Europe/Europe~North/Estonia.protect.md) 
+
+### [Estonia.private](/_private/Earth/Continent/Europe/Europe~North/Estonia.private.md) 
+
+### [Estonia.personal](/_personal/Earth/Continent/Europe/Europe~North/Estonia.personal.md) 
+
+### [Estonia.secret](/_secret/Earth/Continent/Europe/Europe~North/Estonia.secret.md) 

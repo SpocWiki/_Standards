@@ -1,4 +1,4 @@
-# [[Era~1~Eoarchean]] 
+﻿# [[Era~1~Eoarchean]] 
 
 #is_a_/time_/Era 
 
@@ -36,8 +36,8 @@ A time period from 4031 to 3600 million years ago.
 #has_/label_/sv  :: eoarkeikum
 #has_/label_/zh  :: 始太古代
 
-#has_/time_/created/Ma :: -4031 
-#has_/time_/destroyed/Ma :: -3600
+#has_/time_/started /Ma :: -4031 
+#has_/time_/stopped /Ma :: -3600
 
 #has_/text_of_/color :: 0xDA037F
 
@@ -55,3 +55,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Era~1~Eoarchean](/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.md) 
+
+### [Era~1~Eoarchean.internal](/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.internal.md) 
+
+### [Era~1~Eoarchean.protect](/_protect/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.protect.md) 
+
+### [Era~1~Eoarchean.private](/_private/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.private.md) 
+
+### [Era~1~Eoarchean.personal](/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.personal.md) 
+
+### [Era~1~Eoarchean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~1~Eoarchean.secret.md) 

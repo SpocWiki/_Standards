@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalCondition )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_related_condition|has_related_condition]] 
-- [[../../../../../_public/schema-org/Relation/has/has_related_condition.public|has_related_condition.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_related_condition.internal|has_related_condition.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_related_condition.protect|has_related_condition.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_related_condition.private|has_related_condition.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_related_condition.personal|has_related_condition.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_related_condition.secret|has_related_condition.secret]] 
+
+### [has_related_condition](/_public/schema-org/Relation/has/has_related_condition.md) 
+
+### [has_related_condition.internal](/_internal/schema-org/Relation/has/has_related_condition.internal.md) 
+
+### [has_related_condition.protect](/_protect/schema-org/Relation/has/has_related_condition.protect.md) 
+
+### [has_related_condition.private](/_private/schema-org/Relation/has/has_related_condition.private.md) 
+
+### [has_related_condition.personal](/_personal/schema-org/Relation/has/has_related_condition.personal.md) 
+
+### [has_related_condition.secret](/_secret/schema-org/Relation/has/has_related_condition.secret.md) 

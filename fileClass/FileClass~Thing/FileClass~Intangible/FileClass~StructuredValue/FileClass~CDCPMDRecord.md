@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -209,3 +209,17 @@ Publication date of an online listing.
 DatePosted:: {"type":"Date","options":{"dateFormat":"YYYY-MM-DD","defaultInsertAsLink":"false"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CDCPMDRecord](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.md) 
+
+### [FileClass~CDCPMDRecord.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.internal.md) 
+
+### [FileClass~CDCPMDRecord.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.protect.md) 
+
+### [FileClass~CDCPMDRecord.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.private.md) 
+
+### [FileClass~CDCPMDRecord.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.personal.md) 
+
+### [FileClass~CDCPMDRecord.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~CDCPMDRecord.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Integer, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_art_edition|has_number_of_art_edition]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_art_edition.public|has_number_of_art_edition.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_art_edition.internal|has_number_of_art_edition.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_art_edition.protect|has_number_of_art_edition.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_art_edition.private|has_number_of_art_edition.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_art_edition.personal|has_number_of_art_edition.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_art_edition.secret|has_number_of_art_edition.secret]] 
+
+### [has_number_of_art_edition](/_public/schema-org/Property/has_number_of/has_number_of_art_edition.md) 
+
+### [has_number_of_art_edition.internal](/_internal/schema-org/Property/has_number_of/has_number_of_art_edition.internal.md) 
+
+### [has_number_of_art_edition.protect](/_protect/schema-org/Property/has_number_of/has_number_of_art_edition.protect.md) 
+
+### [has_number_of_art_edition.private](/_private/schema-org/Property/has_number_of/has_number_of_art_edition.private.md) 
+
+### [has_number_of_art_edition.personal](/_personal/schema-org/Property/has_number_of/has_number_of_art_edition.personal.md) 
+
+### [has_number_of_art_edition.secret](/_secret/schema-org/Property/has_number_of/has_number_of_art_edition.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -76,3 +76,17 @@ A link to the ListItem that precedes the current one.
 PreviousItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/ListItem')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ListItem](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.md) 
+
+### [FileClass~ListItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.internal.md) 
+
+### [FileClass~ListItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.protect.md) 
+
+### [FileClass~ListItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.private.md) 
+
+### [FileClass~ListItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.personal.md) 
+
+### [FileClass~ListItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ListItem.secret.md) 

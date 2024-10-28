@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: PriceTypeEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_price_type|has_price_type]] 
-- [[../../../../../_public/schema-org/Relation/has/has_price_type.public|has_price_type.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_price_type.internal|has_price_type.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_price_type.protect|has_price_type.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_price_type.private|has_price_type.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_price_type.personal|has_price_type.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_price_type.secret|has_price_type.secret]] 
+
+### [has_price_type](/_public/schema-org/Relation/has/has_price_type.md) 
+
+### [has_price_type.internal](/_internal/schema-org/Relation/has/has_price_type.internal.md) 
+
+### [has_price_type.protect](/_protect/schema-org/Relation/has/has_price_type.protect.md) 
+
+### [has_price_type.private](/_private/schema-org/Relation/has/has_price_type.private.md) 
+
+### [has_price_type.personal](/_personal/schema-org/Relation/has/has_price_type.personal.md) 
+
+### [has_price_type.secret](/_secret/schema-org/Relation/has/has_price_type.secret.md) 

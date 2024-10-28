@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalTherapy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_related_therapy|has_related_therapy]] 
-- [[../../../../../_public/schema-org/Relation/has/has_related_therapy.public|has_related_therapy.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_related_therapy.internal|has_related_therapy.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_related_therapy.protect|has_related_therapy.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_related_therapy.private|has_related_therapy.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_related_therapy.personal|has_related_therapy.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_related_therapy.secret|has_related_therapy.secret]] 
+
+### [has_related_therapy](/_public/schema-org/Relation/has/has_related_therapy.md) 
+
+### [has_related_therapy.internal](/_internal/schema-org/Relation/has/has_related_therapy.internal.md) 
+
+### [has_related_therapy.protect](/_protect/schema-org/Relation/has/has_related_therapy.protect.md) 
+
+### [has_related_therapy.private](/_private/schema-org/Relation/has/has_related_therapy.private.md) 
+
+### [has_related_therapy.personal](/_personal/schema-org/Relation/has/has_related_therapy.personal.md) 
+
+### [has_related_therapy.secret](/_secret/schema-org/Relation/has/has_related_therapy.secret.md) 

@@ -1,4 +1,4 @@
-# [[Age~1~Dapingian]]
+﻿# [[Age~1~Dapingian]]
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 470.0 to 467.3 million years ago.
 
 #has_/abbreviation :: o3
 
-#has_/time_/created/Ma :: -470.0 
-#has_/time_/destroyed/Ma :: -467.3 
+#has_/time_/started /Ma :: -470.0 
+#has_/time_/stopped /Ma :: -467.3 
 
     sh:order 136 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Dapingian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.md) 
+
+### [Age~1~Dapingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.internal.md) 
+
+### [Age~1~Dapingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.protect.md) 
+
+### [Age~1~Dapingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.private.md) 
+
+### [Age~1~Dapingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.personal.md) 
+
+### [Age~1~Dapingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~1~Dapingian.secret.md) 

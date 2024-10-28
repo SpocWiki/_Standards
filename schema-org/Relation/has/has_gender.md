@@ -1,31 +1,30 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_gender
-
 linkTitle: has_gender
-keywords: [gender]
+keywords:
+  - gender
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- gender
-- has_gender
+  - gender
+  - has_gender
+  - schema:gender
+  - dbo:gender
+  - wdt:P21
 ---
 
 [ #is_/part_of :: pending: ]
@@ -42,10 +41,15 @@ Relation describes that:
 ( #has_/range :: GenderType, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_gender|has_gender]] 
-- [[../../../../../_public/schema-org/Relation/has/has_gender.public|has_gender.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_gender.internal|has_gender.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_gender.protect|has_gender.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_gender.private|has_gender.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_gender.personal|has_gender.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_gender.secret|has_gender.secret]] 
+
+### [has_gender](/_public/schema-org/Relation/has/has_gender.md) 
+
+### [has_gender.internal](/_internal/schema-org/Relation/has/has_gender.internal.md) 
+
+### [has_gender.protect](/_protect/schema-org/Relation/has/has_gender.protect.md) 
+
+### [has_gender.private](/_private/schema-org/Relation/has/has_gender.private.md) 
+
+### [has_gender.personal](/_personal/schema-org/Relation/has/has_gender.personal.md) 
+
+### [has_gender.secret](/_secret/schema-org/Relation/has/has_gender.secret.md) 

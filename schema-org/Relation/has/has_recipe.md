@@ -1,33 +1,30 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_recipe
-
 linkTitle: has_recipe
-keywords: [recipe]
+keywords:
+  - recipe
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- recipe
-- recipe
-- recipe
-- has_recipe
+  - recipe
+  - has_recipe
+  - schema:recipe
+  - dbo:recipe
+  - wdt:P348
 ---
 
 Use it like this: 
@@ -44,10 +41,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: instrument ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_recipe|has_recipe]] 
-- [[../../../../../_public/schema-org/Relation/has/has_recipe.public|has_recipe.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_recipe.internal|has_recipe.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_recipe.protect|has_recipe.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_recipe.private|has_recipe.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_recipe.personal|has_recipe.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_recipe.secret|has_recipe.secret]] 
+
+### [has_recipe](/_public/schema-org/Relation/has/has_recipe.md) 
+
+### [has_recipe.internal](/_internal/schema-org/Relation/has/has_recipe.internal.md) 
+
+### [has_recipe.protect](/_protect/schema-org/Relation/has/has_recipe.protect.md) 
+
+### [has_recipe.private](/_private/schema-org/Relation/has/has_recipe.private.md) 
+
+### [has_recipe.personal](/_personal/schema-org/Relation/has/has_recipe.personal.md) 
+
+### [has_recipe.secret](/_secret/schema-org/Relation/has/has_recipe.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_valid_until|has_time_valid_until]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_valid_until.public|has_time_valid_until.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_valid_until.internal|has_time_valid_until.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_valid_until.protect|has_time_valid_until.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_valid_until.private|has_time_valid_until.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_valid_until.personal|has_time_valid_until.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_valid_until.secret|has_time_valid_until.secret]] 
+
+### [has_time_valid_until](/_public/schema-org/Property/has_Date_Time/has_time_valid_until.md) 
+
+### [has_time_valid_until.internal](/_internal/schema-org/Property/has_Date_Time/has_time_valid_until.internal.md) 
+
+### [has_time_valid_until.protect](/_protect/schema-org/Property/has_Date_Time/has_time_valid_until.protect.md) 
+
+### [has_time_valid_until.private](/_private/schema-org/Property/has_Date_Time/has_time_valid_until.private.md) 
+
+### [has_time_valid_until.personal](/_personal/schema-org/Property/has_Date_Time/has_time_valid_until.personal.md) 
+
+### [has_time_valid_until.secret](/_secret/schema-org/Property/has_Date_Time/has_time_valid_until.secret.md) 

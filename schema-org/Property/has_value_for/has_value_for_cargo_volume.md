@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -53,10 +53,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_cargo_volume|has_value_for_cargo_volume]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_cargo_volume.public|has_value_for_cargo_volume.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_cargo_volume.internal|has_value_for_cargo_volume.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_cargo_volume.protect|has_value_for_cargo_volume.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_cargo_volume.private|has_value_for_cargo_volume.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_cargo_volume.personal|has_value_for_cargo_volume.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_cargo_volume.secret|has_value_for_cargo_volume.secret]] 
+
+### [has_value_for_cargo_volume](/_public/schema-org/Property/has_value_for/has_value_for_cargo_volume.md) 
+
+### [has_value_for_cargo_volume.internal](/_internal/schema-org/Property/has_value_for/has_value_for_cargo_volume.internal.md) 
+
+### [has_value_for_cargo_volume.protect](/_protect/schema-org/Property/has_value_for/has_value_for_cargo_volume.protect.md) 
+
+### [has_value_for_cargo_volume.private](/_private/schema-org/Property/has_value_for/has_value_for_cargo_volume.private.md) 
+
+### [has_value_for_cargo_volume.personal](/_personal/schema-org/Property/has_value_for/has_value_for_cargo_volume.personal.md) 
+
+### [has_value_for_cargo_volume.secret](/_secret/schema-org/Property/has_value_for/has_value_for_cargo_volume.secret.md) 

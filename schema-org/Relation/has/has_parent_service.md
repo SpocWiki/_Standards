@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -43,10 +43,15 @@ Relation describes that:
 ( #has_/range :: BroadcastService )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_parent_service|has_parent_service]] 
-- [[../../../../../_public/schema-org/Relation/has/has_parent_service.public|has_parent_service.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_parent_service.internal|has_parent_service.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_parent_service.protect|has_parent_service.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_parent_service.private|has_parent_service.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_parent_service.personal|has_parent_service.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_parent_service.secret|has_parent_service.secret]] 
+
+### [has_parent_service](/_public/schema-org/Relation/has/has_parent_service.md) 
+
+### [has_parent_service.internal](/_internal/schema-org/Relation/has/has_parent_service.internal.md) 
+
+### [has_parent_service.protect](/_protect/schema-org/Relation/has/has_parent_service.protect.md) 
+
+### [has_parent_service.private](/_private/schema-org/Relation/has/has_parent_service.private.md) 
+
+### [has_parent_service.personal](/_personal/schema-org/Relation/has/has_parent_service.personal.md) 
+
+### [has_parent_service.secret](/_secret/schema-org/Relation/has/has_parent_service.secret.md) 

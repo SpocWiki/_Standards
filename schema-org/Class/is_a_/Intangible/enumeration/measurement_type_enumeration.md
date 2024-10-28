@@ -1,4 +1,4 @@
-h---
+﻿h---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Enumeration of common measurement types (or dimensions), for example "chest" for
 [ #has_/sub_classes :: [ BodyMeasurementTypeEnumeration, WearableMeasurementTypeEnumeration ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration|measurement_type_enumeration]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/measurement_type_enumeration.public|measurement_type_enumeration.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration.internal|measurement_type_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration.protect|measurement_type_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration.private|measurement_type_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration.personal|measurement_type_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/measurement_type_enumeration.secret|measurement_type_enumeration.secret]] 
+
+### [measurement_type_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.md) 
+
+### [measurement_type_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.internal.md) 
+
+### [measurement_type_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.protect.md) 
+
+### [measurement_type_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.private.md) 
+
+### [measurement_type_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.personal.md) 
+
+### [measurement_type_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/measurement_type_enumeration.secret.md) 

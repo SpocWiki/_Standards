@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21905
@@ -40,10 +40,15 @@ SpocWebEntityId: 21905
 > [Wikipedia](https://en.wikipedia.org/wiki/Helium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-18-Nobel-Gases/Helium|Helium]] 
-- [[../../../../_public/chemic/Elements/Group-18-Nobel-Gases/Helium.public|Helium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-18-Nobel-Gases/Helium.internal|Helium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-18-Nobel-Gases/Helium.protect|Helium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-18-Nobel-Gases/Helium.private|Helium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-18-Nobel-Gases/Helium.personal|Helium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-18-Nobel-Gases/Helium.secret|Helium.secret]] 
+
+### [Helium](/_public/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.md) 
+
+### [Helium.internal](/_internal/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.internal.md) 
+
+### [Helium.protect](/_protect/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.protect.md) 
+
+### [Helium.private](/_private/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.private.md) 
+
+### [Helium.personal](/_personal/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.personal.md) 
+
+### [Helium.secret](/_secret/chemic/chemic~Elements/Group-18-Nobel-Gases/Helium.secret.md) 

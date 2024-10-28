@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 25.08
     - 121.55
@@ -138,9 +138,15 @@ Capital :: [[Taiwan/Counties/Taipei_City/City/Taipei]]
 
 
 ## Confidential Links & Embeds: 
-- [[Taiwan|Taiwan]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect|Taiwan.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~East/Taiwan.private|Taiwan.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]] 
+
+### [Taiwan](/_public/Earth/Continent/Asia/Asia~East/Taiwan.md) 
+
+### [Taiwan.internal](/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal.md) 
+
+### [Taiwan.protect](/_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect.md) 
+
+### [Taiwan.private](/_private/Earth/Continent/Asia/Asia~East/Taiwan.private.md) 
+
+### [Taiwan.personal](/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal.md) 
+
+### [Taiwan.secret](/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret.md) 

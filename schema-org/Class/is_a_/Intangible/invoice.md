@@ -43,10 +43,15 @@ A statement of the money due for goods or services; a bill.
 [ #has_/properties :: [ accountId, additionalType, alternateName, billingPeriod, broker, category, confirmationNumber, customer, description, disambiguatingDescription, identifier, image, mainEntityOfPage, minimumPaymentDue, name, paymentDue, paymentDueDate, paymentMethod, paymentMethodId, paymentStatus, potentialAction, provider, referencesOrder, sameAs, scheduledPaymentDate, subjectOf, totalPaymentDue, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/invoice|invoice]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/invoice.public|invoice.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/invoice.internal|invoice.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/invoice.protect|invoice.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/invoice.private|invoice.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/invoice.personal|invoice.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/invoice.secret|invoice.secret]] 
+
+### [invoice](/_public/schema-org/Class/is_a_/Intangible/invoice.md) 
+
+### [invoice.internal](/_internal/schema-org/Class/is_a_/Intangible/invoice.internal.md) 
+
+### [invoice.protect](/_protect/schema-org/Class/is_a_/Intangible/invoice.protect.md) 
+
+### [invoice.private](/_private/schema-org/Class/is_a_/Intangible/invoice.private.md) 
+
+### [invoice.personal](/_personal/schema-org/Class/is_a_/Intangible/invoice.personal.md) 
+
+### [invoice.secret](/_secret/schema-org/Class/is_a_/Intangible/invoice.secret.md) 

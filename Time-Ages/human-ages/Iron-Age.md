@@ -1,4 +1,4 @@
-# [[Iron-Age]] 
+﻿# [[Iron-Age]] 
 
 #is_a_/time_/Culture 
 
@@ -12,8 +12,8 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iron%20Age)
 
-#has_/time_/created/ka :: -1.2 
-#has_/time_/destroyed/ka :: -0.1 
+#has_/time_/started /ka :: -1.2 
+#has_/time_/stopped /ka :: -0.1 
 
 
 ## Edit
@@ -31,3 +31,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Iron-Age](/_public/Time-Ages/human-ages/Iron-Age.md) 
+
+### [Iron-Age.internal](/_internal/Time-Ages/human-ages/Iron-Age.internal.md) 
+
+### [Iron-Age.protect](/_protect/Time-Ages/human-ages/Iron-Age.protect.md) 
+
+### [Iron-Age.private](/_private/Time-Ages/human-ages/Iron-Age.private.md) 
+
+### [Iron-Age.personal](/_personal/Time-Ages/human-ages/Iron-Age.personal.md) 
+
+### [Iron-Age.secret](/_secret/Time-Ages/human-ages/Iron-Age.secret.md) 

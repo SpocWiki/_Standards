@@ -1,4 +1,4 @@
-# [[Post-Middle-Ages]] 
+﻿# [[Post-Middle-Ages]] 
 
 #is_a_/time_/Culture 
 
@@ -16,8 +16,8 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Post-medieval%20archaeology)
 
-#has_/time_/created/ka :: 1.5 
-#has_/time_/destroyed/ka :: 1.8 
+#has_/time_/started /ka :: 1.5 
+#has_/time_/stopped /ka :: 1.8 
 
 
 ## Edit
@@ -35,3 +35,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Post-Middle-Ages](/_public/Time-Ages/human-ages/Medieval/Post-Middle-Ages.md) 
+
+### [Post-Middle-Ages.internal](/_internal/Time-Ages/human-ages/Medieval/Post-Middle-Ages.internal.md) 
+
+### [Post-Middle-Ages.protect](/_protect/Time-Ages/human-ages/Medieval/Post-Middle-Ages.protect.md) 
+
+### [Post-Middle-Ages.private](/_private/Time-Ages/human-ages/Medieval/Post-Middle-Ages.private.md) 
+
+### [Post-Middle-Ages.personal](/_personal/Time-Ages/human-ages/Medieval/Post-Middle-Ages.personal.md) 
+
+### [Post-Middle-Ages.secret](/_secret/Time-Ages/human-ages/Medieval/Post-Middle-Ages.secret.md) 

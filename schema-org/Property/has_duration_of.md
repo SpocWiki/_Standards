@@ -1,4 +1,4 @@
----
+﻿---
 icon: luc_timer_reset
 ---
 # Duration
@@ -9,10 +9,15 @@ Time-Span can also be used to measure the Time between (unrelated) Events,
 but Duration specifically measures the Time of a (continuous) Activity or State. 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/schema-org/Predicate/Durations|Durations]] 
-- [[../../../_public/schema-org/Predicate/Durations.public|Durations.public]] 
-- [[../../../_internal/schema.org/Predicate/Durations.internal|Durations.internal]] 
-- [[../../../_protect/schema.org/Predicate/Durations.protect|Durations.protect]] 
-- [[../../../_private/schema.org/Predicate/Durations.private|Durations.private]] 
-- [[../../../_personal/schema.org/Predicate/Durations.personal|Durations.personal]] 
-- [[../../../_secret/schema.org/Predicate/Durations.secret|Durations.secret]] 
+
+### [has_duration_of](/_public/schema-org/Property/has_duration_of.md) 
+
+### [has_duration_of.internal](/_internal/schema-org/Property/has_duration_of.internal.md) 
+
+### [has_duration_of.protect](/_protect/schema-org/Property/has_duration_of.protect.md) 
+
+### [has_duration_of.private](/_private/schema-org/Property/has_duration_of.private.md) 
+
+### [has_duration_of.personal](/_personal/schema-org/Property/has_duration_of.personal.md) 
+
+### [has_duration_of.secret](/_secret/schema-org/Property/has_duration_of.secret.md) 

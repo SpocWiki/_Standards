@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: PriceComponentTypeEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_price_component_type|has_price_component_type]] 
-- [[../../../../../_public/schema-org/Relation/has/has_price_component_type.public|has_price_component_type.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_price_component_type.internal|has_price_component_type.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_price_component_type.protect|has_price_component_type.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_price_component_type.private|has_price_component_type.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_price_component_type.personal|has_price_component_type.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_price_component_type.secret|has_price_component_type.secret]] 
+
+### [has_price_component_type](/_public/schema-org/Relation/has/has_price_component_type.md) 
+
+### [has_price_component_type.internal](/_internal/schema-org/Relation/has/has_price_component_type.internal.md) 
+
+### [has_price_component_type.protect](/_protect/schema-org/Relation/has/has_price_component_type.protect.md) 
+
+### [has_price_component_type.private](/_private/schema-org/Relation/has/has_price_component_type.private.md) 
+
+### [has_price_component_type.personal](/_personal/schema-org/Relation/has/has_price_component_type.personal.md) 
+
+### [has_price_component_type.secret](/_secret/schema-org/Relation/has/has_price_component_type.secret.md) 

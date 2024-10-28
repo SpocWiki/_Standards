@@ -1,4 +1,4 @@
-# [[Age~1~Hettangian]] 
+﻿# [[Age~1~Hettangian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 201.4 to 199.5 million years ago.
 
 #has_/abbreviation :: I1
 
-#has_/time_/created/Ma :: -201.4 
-#has_/time_/destroyed/Ma :: -199.5 
+#has_/time_/started /Ma :: -201.4 
+#has_/time_/stopped /Ma :: -199.5 
 
     sh:order 63 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Hettangian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian.md) 
+
+### [Age~1~Hettangian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian.internal.md) 
+
+### [Age~1~Hettangian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian.protect.md) 
+
+### [Age~1~Hettangian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian.private.md) 
+
+### [Age~1~Hettangian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian.personal.md) 
+
+### [Age~1~Hettangian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic/Age~1~Hettangian.secret.md) 

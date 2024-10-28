@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: AlignmentObject, Course, EducationalOccupationalCredential, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_program_prerequisites|has_program_prerequisites]] 
-- [[../../../../../_public/schema-org/Relation/has/has_program_prerequisites.public|has_program_prerequisites.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_program_prerequisites.internal|has_program_prerequisites.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_program_prerequisites.protect|has_program_prerequisites.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_program_prerequisites.private|has_program_prerequisites.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_program_prerequisites.personal|has_program_prerequisites.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_program_prerequisites.secret|has_program_prerequisites.secret]] 
+
+### [has_program_prerequisites](/_public/schema-org/Relation/has/has_program_prerequisites.md) 
+
+### [has_program_prerequisites.internal](/_internal/schema-org/Relation/has/has_program_prerequisites.internal.md) 
+
+### [has_program_prerequisites.protect](/_protect/schema-org/Relation/has/has_program_prerequisites.protect.md) 
+
+### [has_program_prerequisites.private](/_private/schema-org/Relation/has/has_program_prerequisites.private.md) 
+
+### [has_program_prerequisites.personal](/_personal/schema-org/Relation/has/has_program_prerequisites.personal.md) 
+
+### [has_program_prerequisites.secret](/_secret/schema-org/Relation/has/has_program_prerequisites.secret.md) 

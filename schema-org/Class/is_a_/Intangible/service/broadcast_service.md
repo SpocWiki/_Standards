@@ -45,10 +45,15 @@ A delivery service through which content is provided via broadcast over the air 
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, area, areaServed, audience, availableChannel, award, brand, broadcastAffiliateOf, broadcastDisplayName, broadcastFrequency, broadcastTimezone, broadcaster, broker, callSign, category, description, disambiguatingDescription, hasBroadcastChannel, hasOfferCatalog, hoursAvailable, identifier, image, inLanguage, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, parentService, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url, videoFormat ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/broadcast_service|broadcast_service]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/service/broadcast_service.public|broadcast_service.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/broadcast_service.internal|broadcast_service.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/broadcast_service.protect|broadcast_service.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/broadcast_service.private|broadcast_service.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/broadcast_service.personal|broadcast_service.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/broadcast_service.secret|broadcast_service.secret]] 
+
+### [broadcast_service](/_public/schema-org/Class/is_a_/Intangible/service/broadcast_service.md) 
+
+### [broadcast_service.internal](/_internal/schema-org/Class/is_a_/Intangible/service/broadcast_service.internal.md) 
+
+### [broadcast_service.protect](/_protect/schema-org/Class/is_a_/Intangible/service/broadcast_service.protect.md) 
+
+### [broadcast_service.private](/_private/schema-org/Class/is_a_/Intangible/service/broadcast_service.private.md) 
+
+### [broadcast_service.personal](/_personal/schema-org/Class/is_a_/Intangible/service/broadcast_service.personal.md) 
+
+### [broadcast_service.secret](/_secret/schema-org/Class/is_a_/Intangible/service/broadcast_service.secret.md) 

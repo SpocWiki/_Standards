@@ -1,4 +1,4 @@
-# [[Age~3~Tithonian]] 
+﻿# [[Age~3~Tithonian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 149.2 to 145 million years ago.
 
 #has_/abbreviation :: j7
 
-#has_/time_/created/Ma :: -149.2 
-#has_/time_/destroyed/Ma :: -145 
+#has_/time_/started /Ma :: -149.2 
+#has_/time_/stopped /Ma :: -145 
 
     sh:order 51 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Tithonian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.md) 
+
+### [Age~3~Tithonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.internal.md) 
+
+### [Age~3~Tithonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.protect.md) 
+
+### [Age~3~Tithonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.private.md) 
+
+### [Age~3~Tithonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.personal.md) 
+
+### [Age~3~Tithonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~3~Tithonian.secret.md) 

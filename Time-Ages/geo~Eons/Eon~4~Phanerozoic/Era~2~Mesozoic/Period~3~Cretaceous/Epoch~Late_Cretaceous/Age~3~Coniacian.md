@@ -1,4 +1,4 @@
-# [[Age~3~Coniacian]] 
+﻿# [[Age~3~Coniacian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 89.8 to 86.3 million years ago.
 
 #has_/abbreviation :: k3
 
-#has_/time_/created/Ma :: -89.8 
-#has_/time_/destroyed/Ma :: -86.3 
+#has_/time_/started /Ma :: -89.8 
+#has_/time_/stopped /Ma :: -86.3 
 
     sh:order 39 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Coniacian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~3~Coniacian.md) 
+
+### [Age~3~Coniacian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~3~Coniacian.internal.md) 
+
+### [Age~3~Coniacian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~3~Coniacian.protect.md) 
+
+### [Age~3~Coniacian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~3~Coniacian.private.md) 
+
+### [Age~3~Coniacian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~3~Coniacian.personal.md) 
+
+### [Age~3~Coniacian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~3~Coniacian.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -51,10 +51,15 @@ Predicate describes that:
 ( #has_/range :: QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_fuel_capacity_liter|has_value_for_fuel_capacity_liter]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_fuel_capacity_liter.public|has_value_for_fuel_capacity_liter.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.internal|has_value_for_fuel_capacity_liter.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.protect|has_value_for_fuel_capacity_liter.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.private|has_value_for_fuel_capacity_liter.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.personal|has_value_for_fuel_capacity_liter.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_fuel_capacity_liter.secret|has_value_for_fuel_capacity_liter.secret]] 
+
+### [has_value_for_fuel_capacity_liter](/_public/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.md) 
+
+### [has_value_for_fuel_capacity_liter.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.internal.md) 
+
+### [has_value_for_fuel_capacity_liter.protect](/_protect/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.protect.md) 
+
+### [has_value_for_fuel_capacity_liter.private](/_private/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.private.md) 
+
+### [has_value_for_fuel_capacity_liter.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.personal.md) 
+
+### [has_value_for_fuel_capacity_liter.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_capacity_liter.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 26.2
     - 50.58
@@ -149,9 +149,15 @@ Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]
 
 
 ## Confidential Links & Embeds: 
-- [[Bahrain|Bahrain]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Bahrain.internal|Bahrain.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Bahrain.protect|Bahrain.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Bahrain.private|Bahrain.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Bahrain.personal|Bahrain.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Bahrain.secret|Bahrain.secret]] 
+
+### [Bahrain](/_public/Earth/Continent/Asia/Asia~West/Bahrain.md) 
+
+### [Bahrain.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain.internal.md) 
+
+### [Bahrain.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain.protect.md) 
+
+### [Bahrain.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain.private.md) 
+
+### [Bahrain.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain.personal.md) 
+
+### [Bahrain.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain.secret.md) 

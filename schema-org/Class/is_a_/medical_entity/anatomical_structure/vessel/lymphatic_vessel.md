@@ -43,10 +43,15 @@ A type of blood vessel that specifically carries lymph fluid unidirectionally to
 [ #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, originatesFrom, partOfSystem, potentialAction, recognizingAuthority, regionDrained, relatedCondition, relatedTherapy, relevantSpecialty, runsTo, sameAs, study, subStructure, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel|lymphatic_vessel]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.public|lymphatic_vessel.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.internal|lymphatic_vessel.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.protect|lymphatic_vessel.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.private|lymphatic_vessel.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.personal|lymphatic_vessel.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.secret|lymphatic_vessel.secret]] 
+
+### [lymphatic_vessel](/_public/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.md) 
+
+### [lymphatic_vessel.internal](/_internal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.internal.md) 
+
+### [lymphatic_vessel.protect](/_protect/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.protect.md) 
+
+### [lymphatic_vessel.private](/_private/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.private.md) 
+
+### [lymphatic_vessel.personal](/_personal/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.personal.md) 
+
+### [lymphatic_vessel.secret](/_secret/schema-org/Class/is_a_/medical_entity/anatomical_structure/vessel/lymphatic_vessel.secret.md) 

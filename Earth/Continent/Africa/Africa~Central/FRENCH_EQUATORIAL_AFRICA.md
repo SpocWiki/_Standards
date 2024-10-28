@@ -1,4 +1,4 @@
----
+﻿---
 
 type: Country
 tags:
@@ -35,10 +35,15 @@ has_place_continent:: [[Africa]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA|FRENCH_EQUATORIAL_AFRICA]] 
-- [[../../../../../_public/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.public|FRENCH_EQUATORIAL_AFRICA.public]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.internal|FRENCH_EQUATORIAL_AFRICA.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.protect|FRENCH_EQUATORIAL_AFRICA.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.private|FRENCH_EQUATORIAL_AFRICA.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.personal|FRENCH_EQUATORIAL_AFRICA.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.secret|FRENCH_EQUATORIAL_AFRICA.secret]] 
+
+### [FRENCH_EQUATORIAL_AFRICA](/_public/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.md) 
+
+### [FRENCH_EQUATORIAL_AFRICA.internal](/_internal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.internal.md) 
+
+### [FRENCH_EQUATORIAL_AFRICA.protect](/_protect/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.protect.md) 
+
+### [FRENCH_EQUATORIAL_AFRICA.private](/_private/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.private.md) 
+
+### [FRENCH_EQUATORIAL_AFRICA.personal](/_personal/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.personal.md) 
+
+### [FRENCH_EQUATORIAL_AFRICA.secret](/_secret/Earth/Continent/Africa/Africa~Central/FRENCH_EQUATORIAL_AFRICA.secret.md) 

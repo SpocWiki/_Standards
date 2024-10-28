@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,10 +56,15 @@ Relation describes that:
 [ #has_/sub_properties :: [ appearance, firstAppearance ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_work_example|has_work_example]] 
-- [[../../../../../_public/schema-org/Relation/has/has_work_example.public|has_work_example.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_work_example.internal|has_work_example.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_work_example.protect|has_work_example.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_work_example.private|has_work_example.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_work_example.personal|has_work_example.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_work_example.secret|has_work_example.secret]] 
+
+### [has_work_example](/_public/schema-org/Relation/has/has_work_example.md) 
+
+### [has_work_example.internal](/_internal/schema-org/Relation/has/has_work_example.internal.md) 
+
+### [has_work_example.protect](/_protect/schema-org/Relation/has/has_work_example.protect.md) 
+
+### [has_work_example.private](/_private/schema-org/Relation/has/has_work_example.private.md) 
+
+### [has_work_example.personal](/_personal/schema-org/Relation/has/has_work_example.personal.md) 
+
+### [has_work_example.secret](/_secret/schema-org/Relation/has/has_work_example.secret.md) 

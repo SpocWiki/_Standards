@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~1~Paleogene]] 
 
 #is_a_/time_/Period 
@@ -34,8 +34,8 @@ A time period from 66.0 to 23.03 million years ago.
 
 #has_/abbreviation :: E
 
-#has_/time_/created/Ma :: -66.0
-#has_/time_/destroyed/Ma :: -23.03
+#has_/time_/started /Ma :: -66.0
+#has_/time_/stopped /Ma :: -23.03
 
     sh:order 35 
 
@@ -55,3 +55,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~1~Paleogene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.md) 
+
+### [Period~1~Paleogene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.internal.md) 
+
+### [Period~1~Paleogene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.protect.md) 
+
+### [Period~1~Paleogene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.private.md) 
+
+### [Period~1~Paleogene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.personal.md) 
+
+### [Period~1~Paleogene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene.secret.md) 

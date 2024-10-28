@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -56,10 +56,15 @@ Audio that has been created using actors or similarly contrived.
 [ #is_/enum_of :: [[../media_manipulation_rating_enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content|staged_content]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.public|staged_content.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.internal|staged_content.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.protect|staged_content.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.private|staged_content.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.personal|staged_content.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/media_manipulation_rating_enumeration/staged_content.secret|staged_content.secret]] 
+
+### [staged_content](/_public/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.md) 
+
+### [staged_content.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.internal.md) 
+
+### [staged_content.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.protect.md) 
+
+### [staged_content.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.private.md) 
+
+### [staged_content.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.personal.md) 
+
+### [staged_content.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/media_manipulation_rating_enumeration/staged_content.secret.md) 

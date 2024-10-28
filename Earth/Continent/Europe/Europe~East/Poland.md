@@ -1,4 +1,4 @@
----
+﻿---
 title: Poland
 linkTitle: 
 type: Country
@@ -140,7 +140,7 @@ into a Subfolder named `Poland`, so that this Link into the Sub-Repository works
 > 
 > The country has 17 UNESCO World Heritage Sites, 15 of which are cultural. 
 > Poland is a founding member state of the United Nations, 
-> as well as a member of the [[../../../../db/World Trade Organization]], [[OECD]], [[NATO]], 
+> as well as a member of the [[../../../../db/World Trade Organization]], [[../../../../../Knowledge/Literature/Workshop-Tactics/Ideation-Workshop/OECD]], [[NATO]], 
 > and the [[../EU(European_Union)|European Union]] (including the [[../Schengen-Area]]).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poland)
@@ -237,10 +237,15 @@ Capital :: [[Warszawa]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~East/Poland|Poland]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~East/Poland.public|Poland.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~East/Poland.internal|Poland.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~East/Poland.protect|Poland.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~East/Poland.private|Poland.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~East/Poland.personal|Poland.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~East/Poland.secret|Poland.secret]] 
+
+### [Poland](/_public/Earth/Continent/Europe/Europe~East/Poland.md) 
+
+### [Poland.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland.internal.md) 
+
+### [Poland.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland.protect.md) 
+
+### [Poland.private](/_private/Earth/Continent/Europe/Europe~East/Poland.private.md) 
+
+### [Poland.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland.personal.md) 
+
+### [Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland.secret.md) 

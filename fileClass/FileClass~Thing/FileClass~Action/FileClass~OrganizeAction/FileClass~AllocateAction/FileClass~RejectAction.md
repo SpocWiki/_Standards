@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,3 +37,17 @@ Related actions:
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~RejectAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~RejectAction.md) 
+
+### [FileClass~RejectAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~RejectAction.internal.md) 
+
+### [FileClass~RejectAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~RejectAction.protect.md) 
+
+### [FileClass~RejectAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~RejectAction.private.md) 
+
+### [FileClass~RejectAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~RejectAction.personal.md) 
+
+### [FileClass~RejectAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~RejectAction.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -44,3 +44,17 @@ Specifying a drug or medicine used in a medication procedure.
 Drug:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/Substance/ProductAndSubstance/Drug')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DrugClass](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugClass.md) 
+
+### [FileClass~DrugClass.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugClass.internal.md) 
+
+### [FileClass~DrugClass.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugClass.protect.md) 
+
+### [FileClass~DrugClass.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugClass.private.md) 
+
+### [FileClass~DrugClass.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugClass.personal.md) 
+
+### [FileClass~DrugClass.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugClass.secret.md) 

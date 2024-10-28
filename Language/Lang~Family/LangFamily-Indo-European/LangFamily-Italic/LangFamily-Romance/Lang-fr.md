@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 aliases:
 - French
@@ -116,10 +116,15 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/French%20language)
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/Lang-fr|Lang-fr]] 
-- [[../../_public/lang/Lang-fr.public|Lang-fr.public]] [[../../../../../../_internal/lang/Lang-fr.internal|Lang-fr.internal]]l]] 
-- [[../../_protect/lang/Lang-fr.protect|Lang-fr.protect]] 
-- [[../../_private/lang/Lang-fr.private|Lang-fr.private]] 
-- [[../../_personal/lang/Lang-fr.personal|Lang-fr.personal]] 
-- [[../../_secret/lang/Lang-fr.secret|Lang-fr.secret]]
 
+### [Lang-fr](/_public/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.md) 
+
+### [Lang-fr.internal](/_internal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.internal.md) 
+
+### [Lang-fr.protect](/_protect/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.protect.md) 
+
+### [Lang-fr.private](/_private/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.private.md) 
+
+### [Lang-fr.personal](/_personal/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.personal.md) 
+
+### [Lang-fr.secret](/_secret/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-fr.secret.md) 

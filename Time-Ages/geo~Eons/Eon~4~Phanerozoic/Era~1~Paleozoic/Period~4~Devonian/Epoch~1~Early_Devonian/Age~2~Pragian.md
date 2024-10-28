@@ -1,4 +1,4 @@
-# [[Age~2~Pragian]] 
+﻿# [[Age~2~Pragian]] 
 
 #is_a_/time_/Age 
 
@@ -35,8 +35,8 @@ A time period from 410.8 to 407.6 million years ago.
 #has_/label_/zh  :: 布拉格期
 
 #has_/abbreviation :: d2
-#has_/time_/created/Ma :: -410.8 
-#has_/time_/destroyed/Ma :: -407.6 
+#has_/time_/started /Ma :: -410.8 
+#has_/time_/stopped /Ma :: -407.6 
 
     sh:order 115 
 
@@ -56,3 +56,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Pragian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~2~Pragian.md) 
+
+### [Age~2~Pragian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~2~Pragian.internal.md) 
+
+### [Age~2~Pragian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~2~Pragian.protect.md) 
+
+### [Age~2~Pragian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~2~Pragian.private.md) 
+
+### [Age~2~Pragian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~2~Pragian.personal.md) 
+
+### [Age~2~Pragian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~2~Pragian.secret.md) 

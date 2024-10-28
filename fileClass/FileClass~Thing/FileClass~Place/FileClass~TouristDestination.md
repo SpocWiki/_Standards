@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -54,3 +54,17 @@ Attraction suitable for type(s) of tourist. E.g. children, visitors from a parti
 
 TouristType:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~TouristDestination](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.md) 
+
+### [FileClass~TouristDestination.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.internal.md) 
+
+### [FileClass~TouristDestination.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.protect.md) 
+
+### [FileClass~TouristDestination.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.private.md) 
+
+### [FileClass~TouristDestination.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.personal.md) 
+
+### [FileClass~TouristDestination.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~TouristDestination.secret.md) 

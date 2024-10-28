@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Hermann Grassmann
   - Hermann Graßmann
@@ -6,8 +6,8 @@ aliases:
 
 # [[Grassmann,Hermann]] 
 
-#has_/time_/created :: 1809-04-15
-#has_/time_/destroyed :: 1877-09-26
+#has_/time_/started :: 1809-04-15
+#has_/time_/stopped  :: 1877-09-26
 
 > Hermann Günther Grassmann (German: Graßmann, 
 > pronounced [ˈhɛʁman ˈɡʏntɐ ˈɡʁasman]; 15 April 1809 – 26 September 1877) 
@@ -25,3 +25,17 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hermann%20Grassmann)
 
+
+## Confidential Links & Embeds: 
+
+### [Grassmann,Hermann](/_public/Mathematics/Mathematicians/Grassmann,Hermann.md) 
+
+### [Grassmann,Hermann.internal](/_internal/Mathematics/Mathematicians/Grassmann,Hermann.internal.md) 
+
+### [Grassmann,Hermann.protect](/_protect/Mathematics/Mathematicians/Grassmann,Hermann.protect.md) 
+
+### [Grassmann,Hermann.private](/_private/Mathematics/Mathematicians/Grassmann,Hermann.private.md) 
+
+### [Grassmann,Hermann.personal](/_personal/Mathematics/Mathematicians/Grassmann,Hermann.personal.md) 
+
+### [Grassmann,Hermann.secret](/_secret/Mathematics/Mathematicians/Grassmann,Hermann.secret.md) 

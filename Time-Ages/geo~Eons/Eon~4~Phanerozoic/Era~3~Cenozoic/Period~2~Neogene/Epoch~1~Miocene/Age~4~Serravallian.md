@@ -1,4 +1,4 @@
-# [[Age~4~Serravallian]] 
+﻿# [[Age~4~Serravallian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 13.82 to 11.63 million years ago.
 
 #has_/abbreviation :: n4
 
-#has_/time_/created/Ma :: -13.82
-#has_/time_/destroyed/Ma :: -11.63
+#has_/time_/started /Ma :: -13.82
+#has_/time_/stopped /Ma :: -11.63
 
     sh:order 16 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~4~Serravallian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~4~Serravallian.md) 
+
+### [Age~4~Serravallian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~4~Serravallian.internal.md) 
+
+### [Age~4~Serravallian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~4~Serravallian.protect.md) 
+
+### [Age~4~Serravallian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~4~Serravallian.private.md) 
+
+### [Age~4~Serravallian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~4~Serravallian.personal.md) 
+
+### [Age~4~Serravallian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~4~Serravallian.secret.md) 

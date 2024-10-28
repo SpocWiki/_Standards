@@ -1,4 +1,4 @@
-# [[Age~6~Maastrichtian]]
+﻿# [[Age~6~Maastrichtian]]
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 72.1 to 66.0 million years ago.
 
 #has_/abbreviation :: k6
 
-#has_/time_/created/Ma :: -72.1 
-#has_/time_/destroyed/Ma :: -66.0
+#has_/time_/started /Ma :: -72.1 
+#has_/time_/stopped /Ma :: -66.0
 
     sh:order 36 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~6~Maastrichtian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~6~Maastrichtian.md) 
+
+### [Age~6~Maastrichtian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~6~Maastrichtian.internal.md) 
+
+### [Age~6~Maastrichtian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~6~Maastrichtian.protect.md) 
+
+### [Age~6~Maastrichtian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~6~Maastrichtian.private.md) 
+
+### [Age~6~Maastrichtian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~6~Maastrichtian.personal.md) 
+
+### [Age~6~Maastrichtian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Late_Cretaceous/Age~6~Maastrichtian.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -18.8 , 169.1 ] 
 type: geo-Region
 title: Tafea
@@ -40,11 +40,15 @@ markerFolder: ./Tafea/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Vanuatu/Counties/Tafea|Tafea]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Vanuatu/Counties/Tafea.public|Tafea.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Vanuatu/Counties/Tafea.internal|Tafea.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Vanuatu/Counties/Tafea.protect|Tafea.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Vanuatu/Counties/Tafea.private|Tafea.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Vanuatu/Counties/Tafea.personal|Tafea.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Vanuatu/Counties/Tafea.secret|Tafea.secret]] 
 
+### [Tafea](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.md) 
+
+### [Tafea.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.internal.md) 
+
+### [Tafea.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.protect.md) 
+
+### [Tafea.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.private.md) 
+
+### [Tafea.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.personal.md) 
+
+### [Tafea.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Tafea.secret.md) 

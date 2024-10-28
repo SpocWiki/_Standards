@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -46,3 +46,17 @@ The general opening hours for a business. Opening hours can be specified as a we
 
 OpeningHours:: {"type":"Input","options":{}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CivicStructure](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.md) 
+
+### [FileClass~CivicStructure.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.internal.md) 
+
+### [FileClass~CivicStructure.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.protect.md) 
+
+### [FileClass~CivicStructure.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.private.md) 
+
+### [FileClass~CivicStructure.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.personal.md) 
+
+### [FileClass~CivicStructure.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure.secret.md) 

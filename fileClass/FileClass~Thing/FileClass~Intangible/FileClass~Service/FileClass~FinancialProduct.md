@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -63,3 +63,17 @@ The interest rate, charged or paid, applicable to the financial product. Note: T
 InterestRate:: {"type":"Number","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~FinancialProduct](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.md) 
+
+### [FileClass~FinancialProduct.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.internal.md) 
+
+### [FileClass~FinancialProduct.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.protect.md) 
+
+### [FileClass~FinancialProduct.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.private.md) 
+
+### [FileClass~FinancialProduct.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.personal.md) 
+
+### [FileClass~FinancialProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct.secret.md) 

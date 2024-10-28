@@ -1,6 +1,6 @@
----
+﻿---
 aliases:
-  - GUID
+  - GUID 
 ---
 # [[UUID]] 
 
@@ -53,3 +53,17 @@ NanoID
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Universally%20unique%20identifier)
 
+
+## Confidential Links & Embeds: 
+
+### [UUID](/_public/schema-org/Class/is_a_/data_type/text/UUID.md) 
+
+### [UUID.internal](/_internal/schema-org/Class/is_a_/data_type/text/UUID.internal.md) 
+
+### [UUID.protect](/_protect/schema-org/Class/is_a_/data_type/text/UUID.protect.md) 
+
+### [UUID.private](/_private/schema-org/Class/is_a_/data_type/text/UUID.private.md) 
+
+### [UUID.personal](/_personal/schema-org/Class/is_a_/data_type/text/UUID.personal.md) 
+
+### [UUID.secret](/_secret/schema-org/Class/is_a_/data_type/text/UUID.secret.md) 

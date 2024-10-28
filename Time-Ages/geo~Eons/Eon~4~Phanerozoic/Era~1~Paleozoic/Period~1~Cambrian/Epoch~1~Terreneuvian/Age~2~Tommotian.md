@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - Cambrian Stage 2
 ---
@@ -41,8 +41,8 @@ A time period from 521 to 509 million years ago.
 
 #has_/abbreviation :: ep3
 
-#has_/time_/created/Ma :: -521 
-#has_/time_/destroyed/Ma :: -509 
+#has_/time_/started /Ma :: -521 
+#has_/time_/stopped /Ma :: -509 
 
     sh:order 152 
 
@@ -62,3 +62,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Tommotian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.md) 
+
+### [Age~2~Tommotian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.internal.md) 
+
+### [Age~2~Tommotian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.protect.md) 
+
+### [Age~2~Tommotian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.private.md) 
+
+### [Age~2~Tommotian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.personal.md) 
+
+### [Age~2~Tommotian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~1~Terreneuvian/Age~2~Tommotian.secret.md) 

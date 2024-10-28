@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.54 , 166.94 ] 
 type: geo-Region
 title: Meneng
@@ -40,11 +40,15 @@ markerFolder: ./Meneng/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Meneng|Meneng]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Meneng.public|Meneng.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Meneng.internal|Meneng.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Meneng.protect|Meneng.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Meneng.private|Meneng.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Meneng.personal|Meneng.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Meneng.secret|Meneng.secret]] 
 
+### [Meneng](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.md) 
+
+### [Meneng.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.internal.md) 
+
+### [Meneng.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.protect.md) 
+
+### [Meneng.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.private.md) 
+
+### [Meneng.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.personal.md) 
+
+### [Meneng.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.secret.md) 

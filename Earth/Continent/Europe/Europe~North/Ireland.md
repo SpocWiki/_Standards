@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 53.0702
     - -7.70895
@@ -141,10 +141,15 @@ Capital :: [[./Ireland/Counties/Dublin]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~North/Ireland|Ireland]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~North/Ireland.public|Ireland.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~North/Ireland.internal|Ireland.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~North/Ireland.protect|Ireland.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~North/Ireland.private|Ireland.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~North/Ireland.personal|Ireland.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~North/Ireland.secret|Ireland.secret]] 
+
+### [Ireland](/_public/Earth/Continent/Europe/Europe~North/Ireland.md) 
+
+### [Ireland.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland.internal.md) 
+
+### [Ireland.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland.protect.md) 
+
+### [Ireland.private](/_private/Earth/Continent/Europe/Europe~North/Ireland.private.md) 
+
+### [Ireland.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland.personal.md) 
+
+### [Ireland.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland.secret.md) 

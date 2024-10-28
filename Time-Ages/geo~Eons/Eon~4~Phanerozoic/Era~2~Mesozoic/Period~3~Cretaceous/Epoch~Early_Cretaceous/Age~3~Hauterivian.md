@@ -1,4 +1,4 @@
-# [[Age~3~Hauterivian]] 
+﻿# [[Age~3~Hauterivian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 132.6 to 125.77 million years ago.
 
 #has_/abbreviation :: b3
 
-#has_/time_/created/Ma :: -132.6 
-#has_/time_/destroyed/Ma :: -125.77
+#has_/time_/started /Ma :: -132.6 
+#has_/time_/stopped /Ma :: -125.77
 
     sh:order 46 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Hauterivian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~3~Hauterivian.md) 
+
+### [Age~3~Hauterivian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~3~Hauterivian.internal.md) 
+
+### [Age~3~Hauterivian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~3~Hauterivian.protect.md) 
+
+### [Age~3~Hauterivian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~3~Hauterivian.private.md) 
+
+### [Age~3~Hauterivian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~3~Hauterivian.personal.md) 
+
+### [Age~3~Hauterivian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~3~Hauterivian.secret.md) 

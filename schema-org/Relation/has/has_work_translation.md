@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Relation describes that:
 [ #is_/inverse_of  :: translationOfWork ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_work_translation|has_work_translation]] 
-- [[../../../../../_public/schema-org/Relation/has/has_work_translation.public|has_work_translation.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_work_translation.internal|has_work_translation.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_work_translation.protect|has_work_translation.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_work_translation.private|has_work_translation.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_work_translation.personal|has_work_translation.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_work_translation.secret|has_work_translation.secret]] 
+
+### [has_work_translation](/_public/schema-org/Relation/has/has_work_translation.md) 
+
+### [has_work_translation.internal](/_internal/schema-org/Relation/has/has_work_translation.internal.md) 
+
+### [has_work_translation.protect](/_protect/schema-org/Relation/has/has_work_translation.protect.md) 
+
+### [has_work_translation.private](/_private/schema-org/Relation/has/has_work_translation.private.md) 
+
+### [has_work_translation.personal](/_personal/schema-org/Relation/has/has_work_translation.personal.md) 
+
+### [has_work_translation.secret](/_secret/schema-org/Relation/has/has_work_translation.secret.md) 

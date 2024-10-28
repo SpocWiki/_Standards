@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: XPathType )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_xpath|has_xpath]] 
-- [[../../../../../_public/schema-org/Relation/has/has_xpath.public|has_xpath.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_xpath.internal|has_xpath.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_xpath.protect|has_xpath.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_xpath.private|has_xpath.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_xpath.personal|has_xpath.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_xpath.secret|has_xpath.secret]] 
+
+### [has_xpath](/_public/schema-org/Relation/has/has_xpath.md) 
+
+### [has_xpath.internal](/_internal/schema-org/Relation/has/has_xpath.internal.md) 
+
+### [has_xpath.protect](/_protect/schema-org/Relation/has/has_xpath.protect.md) 
+
+### [has_xpath.private](/_private/schema-org/Relation/has/has_xpath.private.md) 
+
+### [has_xpath.personal](/_personal/schema-org/Relation/has/has_xpath.personal.md) 
+
+### [has_xpath.secret](/_secret/schema-org/Relation/has/has_xpath.secret.md) 

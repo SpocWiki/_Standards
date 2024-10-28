@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.5 , 166.93 ] 
 type: geo-Region
 title: Ewa
@@ -39,11 +39,15 @@ markerFolder: ./Ewa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Ewa|Ewa]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Ewa.public|Ewa.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Ewa.internal|Ewa.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Ewa.protect|Ewa.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Ewa.private|Ewa.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Ewa.personal|Ewa.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Ewa.secret|Ewa.secret]] 
 
+### [Ewa](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.md) 
+
+### [Ewa.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.internal.md) 
+
+### [Ewa.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.protect.md) 
+
+### [Ewa.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.private.md) 
+
+### [Ewa.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.personal.md) 
+
+### [Ewa.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Ewa.secret.md) 

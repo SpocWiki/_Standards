@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Predicate describes that:
 ( #has_/range :: Boolean, MediaSubscription )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_subscription_required|is_subscription_required]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_subscription_required.public|is_subscription_required.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_subscription_required.internal|is_subscription_required.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_subscription_required.protect|is_subscription_required.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_subscription_required.private|is_subscription_required.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_subscription_required.personal|is_subscription_required.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_subscription_required.secret|is_subscription_required.secret]] 
+
+### [is_subscription_required](/_public/schema-org/Property/Flags/is_subscription_required.md) 
+
+### [is_subscription_required.internal](/_internal/schema-org/Property/Flags/is_subscription_required.internal.md) 
+
+### [is_subscription_required.protect](/_protect/schema-org/Property/Flags/is_subscription_required.protect.md) 
+
+### [is_subscription_required.private](/_private/schema-org/Property/Flags/is_subscription_required.private.md) 
+
+### [is_subscription_required.personal](/_personal/schema-org/Property/Flags/is_subscription_required.personal.md) 
+
+### [is_subscription_required.secret](/_secret/schema-org/Property/Flags/is_subscription_required.secret.md) 

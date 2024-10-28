@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21991
@@ -34,10 +34,15 @@ SpocWebEntityId: 21991
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Curium|Curium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Curium.public|Curium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Curium.internal|Curium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Curium.protect|Curium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Curium.private|Curium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Curium.personal|Curium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Curium.secret|Curium.secret]] 
+
+### [Curium](/_public/chemic/chemic~Elements/Actinide-Group/Curium.md) 
+
+### [Curium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Curium.internal.md) 
+
+### [Curium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Curium.protect.md) 
+
+### [Curium.private](/_private/chemic/chemic~Elements/Actinide-Group/Curium.private.md) 
+
+### [Curium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Curium.personal.md) 
+
+### [Curium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Curium.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: URL )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Urls/has_url_for_code_repository|has_url_for_code_repository]] 
-- [[../../../../_public/schema-org/Predicate/Urls/has_url_for_code_repository.public|has_url_for_code_repository.public]] 
-- [[../../../../_internal/schema.org/Predicate/Urls/has_url_for_code_repository.internal|has_url_for_code_repository.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Urls/has_url_for_code_repository.protect|has_url_for_code_repository.protect]] 
-- [[../../../../_private/schema.org/Predicate/Urls/has_url_for_code_repository.private|has_url_for_code_repository.private]] 
-- [[../../../../_personal/schema.org/Predicate/Urls/has_url_for_code_repository.personal|has_url_for_code_repository.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Urls/has_url_for_code_repository.secret|has_url_for_code_repository.secret]] 
+
+### [has_url_for_code_repository](/_public/schema-org/Property/has_url_for/has_url_for_code_repository.md) 
+
+### [has_url_for_code_repository.internal](/_internal/schema-org/Property/has_url_for/has_url_for_code_repository.internal.md) 
+
+### [has_url_for_code_repository.protect](/_protect/schema-org/Property/has_url_for/has_url_for_code_repository.protect.md) 
+
+### [has_url_for_code_repository.private](/_private/schema-org/Property/has_url_for/has_url_for_code_repository.private.md) 
+
+### [has_url_for_code_repository.personal](/_personal/schema-org/Property/has_url_for/has_url_for_code_repository.personal.md) 
+
+### [has_url_for_code_repository.secret](/_secret/schema-org/Property/has_url_for/has_url_for_code_repository.secret.md) 

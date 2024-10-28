@@ -1,4 +1,4 @@
----
+﻿---
 title: Switzerland
 type: Country
 location:
@@ -42,7 +42,7 @@ Languages:
 icon: flag-ch
 ---
 
-#has_/time_/created :: 1291-08-01 
+#has_/time_/started :: 1291-08-01 
 
 # [[Switzerland]] 
 
@@ -256,10 +256,15 @@ Capital :: [Bern](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland/S
 
 
 ## Confidential Links & Embeds: 
-- [Switzerland](_Standards/Earth/Continent/Europe/Europe~Central/Switzerland.md) 
-- [Switzerland.public](_public/Earth/Continent/Europe/Europe~Central/Switzerland.public.md) 
-- [Switzerland.internal](../../../../../_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal) 
-- [Switzerland.protect](../../../../../_protect/Earth/Continent/Europe/Europe~Central/Switzerland.protect) 
-- [Switzerland.private](../../../../../_private/Earth/Continent/Europe/Europe~Central/Switzerland.private) 
-- [Switzerland.personal](../../../../../_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal) 
-- [Switzerland.secret](../../../../../_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret) 
+
+### [Switzerland](/_public/Earth/Continent/Europe/Europe~Central/Switzerland.md) 
+
+### [Switzerland.internal](/_internal/Earth/Continent/Europe/Europe~Central/Switzerland.internal.md) 
+
+### [Switzerland.protect](/_protect/Earth/Continent/Europe/Europe~Central/Switzerland.protect.md) 
+
+### [Switzerland.private](/_private/Earth/Continent/Europe/Europe~Central/Switzerland.private.md) 
+
+### [Switzerland.personal](/_personal/Earth/Continent/Europe/Europe~Central/Switzerland.personal.md) 
+
+### [Switzerland.secret](/_secret/Earth/Continent/Europe/Europe~Central/Switzerland.secret.md) 

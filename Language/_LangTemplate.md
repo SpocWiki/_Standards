@@ -1,4 +1,4 @@
----
+﻿---
 type: Lang
 license: CC BY-SA 4.0
 publish: true
@@ -26,11 +26,15 @@ SpocWebEntityId: {{Id}}
 
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/lang/_LangTemplate|_LangTemplate]] 
-- [[../../_public/lang/_LangTemplate.public|_LangTemplate.public]] 
-- [[../../_internal/lang/_LangTemplate.internal|_LangTemplate.internal]] 
-- [[../../_protect/lang/_LangTemplate.protect|_LangTemplate.protect]] 
-- [[../../_private/lang/_LangTemplate.private|_LangTemplate.private]] 
-- [[../../_personal/lang/_LangTemplate.personal|_LangTemplate.personal]] 
-- [[../../_secret/lang/_LangTemplate.secret|_LangTemplate.secret]]
 
+### [_LangTemplate](/_public/Language/_LangTemplate.md) 
+
+### [_LangTemplate.internal](/_internal/Language/_LangTemplate.internal.md) 
+
+### [_LangTemplate.protect](/_protect/Language/_LangTemplate.protect.md) 
+
+### [_LangTemplate.private](/_private/Language/_LangTemplate.private.md) 
+
+### [_LangTemplate.personal](/_personal/Language/_LangTemplate.personal.md) 
+
+### [_LangTemplate.secret](/_secret/Language/_LangTemplate.secret.md) 

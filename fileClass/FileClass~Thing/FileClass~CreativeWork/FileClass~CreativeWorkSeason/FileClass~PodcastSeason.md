@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A single season of a podcast. Many podcasts do not break down into separate seas
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PodcastSeason](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.md) 
+
+### [FileClass~PodcastSeason.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.internal.md) 
+
+### [FileClass~PodcastSeason.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.protect.md) 
+
+### [FileClass~PodcastSeason.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.private.md) 
+
+### [FileClass~PodcastSeason.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.personal.md) 
+
+### [FileClass~PodcastSeason.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.secret.md) 

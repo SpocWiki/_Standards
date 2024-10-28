@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -54,3 +54,17 @@ A sub property of participant. The participant who is at the sending end of the 
 Sender:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/Audience')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ReceiveAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~ReceiveAction.md) 
+
+### [FileClass~ReceiveAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~ReceiveAction.internal.md) 
+
+### [FileClass~ReceiveAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~ReceiveAction.protect.md) 
+
+### [FileClass~ReceiveAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~ReceiveAction.private.md) 
+
+### [FileClass~ReceiveAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~ReceiveAction.personal.md) 
+
+### [FileClass~ReceiveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~ReceiveAction.secret.md) 

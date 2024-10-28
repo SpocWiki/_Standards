@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -1219,3 +1219,17 @@ A work that is a translation of the content of this work. E.g. 西遊記 has an 
 
 WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CreativeWork](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork.md) 
+
+### [FileClass~CreativeWork.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork.internal.md) 
+
+### [FileClass~CreativeWork.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork.protect.md) 
+
+### [FileClass~CreativeWork.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork.private.md) 
+
+### [FileClass~CreativeWork.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork.personal.md) 
+
+### [FileClass~CreativeWork.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork.secret.md) 

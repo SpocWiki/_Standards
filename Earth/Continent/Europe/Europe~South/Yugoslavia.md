@@ -1,4 +1,4 @@
----
+﻿---
 location: [43.9957,17.6905]
 type: Country
 tags:
@@ -10,8 +10,8 @@ confidential: public
 
 ---
 
-#has_/time_/created :: 1918-12-01 
-#has_/time_/destroyed :: 1992-04-27 
+#has_/time_/started :: 1918-12-01 
+#has_/time_/stopped  :: 1992-04-27 
 
 > **Yugoslavia** (; Serbo-Croatian: Jugoslavija / Југославија [juɡǒslaːʋija]; Slovene: Jugoslavija [juɡɔˈslàːʋija]; Macedonian: Југославија [juɡɔˈsɫavija]; lit. 'Land of the South Slavs') was a country in Southeast and Central Europe for most of the 20th century. 
 > It came into existence in 1918 following World War I, under the name of the Kingdom of Serbs, Croats and Slovenes from the merger of Kingdom of Serbia with the provisional State of Slovenes, Croats and Serbs (which was formed from territories of the former Austria-Hungary), 
@@ -64,10 +64,15 @@ Capital :: [[Beograd]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~South/Yugoslavia|Yugoslavia]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~South/Yugoslavia.public|Yugoslavia.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~South/Yugoslavia.internal|Yugoslavia.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~South/Yugoslavia.protect|Yugoslavia.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~South/Yugoslavia.private|Yugoslavia.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~South/Yugoslavia.personal|Yugoslavia.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret|Yugoslavia.secret]] 
+
+### [Yugoslavia](/_public/Earth/Continent/Europe/Europe~South/Yugoslavia.md) 
+
+### [Yugoslavia.internal](/_internal/Earth/Continent/Europe/Europe~South/Yugoslavia.internal.md) 
+
+### [Yugoslavia.protect](/_protect/Earth/Continent/Europe/Europe~South/Yugoslavia.protect.md) 
+
+### [Yugoslavia.private](/_private/Earth/Continent/Europe/Europe~South/Yugoslavia.private.md) 
+
+### [Yugoslavia.personal](/_personal/Earth/Continent/Europe/Europe~South/Yugoslavia.personal.md) 
+
+### [Yugoslavia.secret](/_secret/Earth/Continent/Europe/Europe~South/Yugoslavia.secret.md) 

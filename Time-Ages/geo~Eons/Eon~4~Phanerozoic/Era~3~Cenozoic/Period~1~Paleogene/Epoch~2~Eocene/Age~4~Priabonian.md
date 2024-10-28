@@ -1,4 +1,4 @@
-# [[Age~4~Priabonian]] 
+﻿# [[Age~4~Priabonian]] 
 
 #is_a_/time_/Age 
 
@@ -30,8 +30,8 @@ A time period from 37.71 to 33.9 million years ago.
 #has_/label_/zh  :: 普里阿邦期
 
 #has_/abbreviation :: e7
-#has_/time_/created/Ma :: -37.71
-#has_/time_/destroyed/Ma :: -33.9
+#has_/time_/started /Ma :: -37.71
+#has_/time_/stopped /Ma :: -33.9
 
     sh:order 25 
 
@@ -51,3 +51,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~4~Priabonian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.md) 
+
+### [Age~4~Priabonian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.internal.md) 
+
+### [Age~4~Priabonian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.protect.md) 
+
+### [Age~4~Priabonian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.private.md) 
+
+### [Age~4~Priabonian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.personal.md) 
+
+### [Age~4~Priabonian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~4~Priabonian.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21963
@@ -38,10 +38,15 @@ SpocWebEntityId: 21963
 > [Wikipedia](https://en.wikipedia.org/wiki/Holmium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Holmium|Holmium]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Holmium.public|Holmium.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Holmium.internal|Holmium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Holmium.protect|Holmium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Holmium.private|Holmium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Holmium.personal|Holmium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Holmium.secret|Holmium.secret]] 
+
+### [Holmium](/_public/chemic/chemic~Elements/Lanthanide-Group/Holmium.md) 
+
+### [Holmium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Holmium.internal.md) 
+
+### [Holmium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Holmium.protect.md) 
+
+### [Holmium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Holmium.private.md) 
+
+### [Holmium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Holmium.personal.md) 
+
+### [Holmium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Holmium.secret.md) 

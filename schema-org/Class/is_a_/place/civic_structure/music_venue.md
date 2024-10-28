@@ -43,10 +43,15 @@ A music venue.
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/place/civic_structure/music_venue|music_venue]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/place/civic_structure/music_venue.public|music_venue.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/place/civic_structure/music_venue.internal|music_venue.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/place/civic_structure/music_venue.protect|music_venue.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/place/civic_structure/music_venue.private|music_venue.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/place/civic_structure/music_venue.personal|music_venue.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/place/civic_structure/music_venue.secret|music_venue.secret]] 
+
+### [music_venue](/_public/schema-org/Class/is_a_/place/civic_structure/music_venue.md) 
+
+### [music_venue.internal](/_internal/schema-org/Class/is_a_/place/civic_structure/music_venue.internal.md) 
+
+### [music_venue.protect](/_protect/schema-org/Class/is_a_/place/civic_structure/music_venue.protect.md) 
+
+### [music_venue.private](/_private/schema-org/Class/is_a_/place/civic_structure/music_venue.private.md) 
+
+### [music_venue.personal](/_personal/schema-org/Class/is_a_/place/civic_structure/music_venue.personal.md) 
+
+### [music_venue.secret](/_secret/schema-org/Class/is_a_/place/civic_structure/music_venue.secret.md) 

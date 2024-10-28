@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: SoftwareApplication, WebSite )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_interaction_service|has_interaction_service]] 
-- [[../../../../../_public/schema-org/Relation/has/has_interaction_service.public|has_interaction_service.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_interaction_service.internal|has_interaction_service.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_interaction_service.protect|has_interaction_service.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_interaction_service.private|has_interaction_service.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_interaction_service.personal|has_interaction_service.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_interaction_service.secret|has_interaction_service.secret]] 
+
+### [has_interaction_service](/_public/schema-org/Relation/has/has_interaction_service.md) 
+
+### [has_interaction_service.internal](/_internal/schema-org/Relation/has/has_interaction_service.internal.md) 
+
+### [has_interaction_service.protect](/_protect/schema-org/Relation/has/has_interaction_service.protect.md) 
+
+### [has_interaction_service.private](/_private/schema-org/Relation/has/has_interaction_service.private.md) 
+
+### [has_interaction_service.personal](/_personal/schema-org/Relation/has/has_interaction_service.personal.md) 
+
+### [has_interaction_service.secret](/_secret/schema-org/Relation/has/has_interaction_service.secret.md) 

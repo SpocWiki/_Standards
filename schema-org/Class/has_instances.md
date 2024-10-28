@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ But typically it is a typed [[../Collection/item_list|Item_list]] with Instances
 #is_/inverse_of  :: [[is_instance_of]]   
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_instances|has_instances]] 
-- [[../../../../../_public/schema-org/Relation/has/has_instances.public|has_instances.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_instances.internal|has_instances.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_instances.protect|has_instances.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_instances.private|has_instances.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_instances.personal|has_instances.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_instances.secret|has_instances.secret]] 
+
+### [has_instances](/_public/schema-org/Class/has_instances.md) 
+
+### [has_instances.internal](/_internal/schema-org/Class/has_instances.internal.md) 
+
+### [has_instances.protect](/_protect/schema-org/Class/has_instances.protect.md) 
+
+### [has_instances.private](/_private/schema-org/Class/has_instances.private.md) 
+
+### [has_instances.personal](/_personal/schema-org/Class/has_instances.personal.md) 
+
+### [has_instances.secret](/_secret/schema-org/Class/has_instances.secret.md) 

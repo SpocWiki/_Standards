@@ -1,4 +1,4 @@
-# [[Period~2~Cryogenian]] 
+﻿# [[Period~2~Cryogenian]] 
 
 #is_a_/time_/Period 
 
@@ -38,8 +38,8 @@ A time period from 720 to 635 million years ago.
 
 #has_/abbreviation :: NP2
 
-#has_/time_/created/Ma :: -720 
-#has_/time_/destroyed/Ma :: -635 
+#has_/time_/started /Ma :: -720 
+#has_/time_/stopped /Ma :: -635 
 
     sh:order 159 
 
@@ -59,3 +59,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~2~Cryogenian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.md) 
+
+### [Period~2~Cryogenian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.internal.md) 
+
+### [Period~2~Cryogenian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.protect.md) 
+
+### [Period~2~Cryogenian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.private.md) 
+
+### [Period~2~Cryogenian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.personal.md) 
+
+### [Period~2~Cryogenian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~2~Cryogenian.secret.md) 

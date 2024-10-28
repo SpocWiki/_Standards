@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -77 , 66 ] 
 type: Continent
 has_id_wikidata: Q51 
@@ -34,10 +34,15 @@ markerFolder: ./Antarctica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/Earth/Continent/Antarctica|Antarctica]] 
-- [[../../../_public/Earth/Continent/Antarctica.public|Antarctica.public]] 
-- [[../../../_internal/Earth/Continent/Antarctica.internal|Antarctica.internal]] 
-- [[../../../_protect/Earth/Continent/Antarctica.protect|Antarctica.protect]] 
-- [[../../../_private/Earth/Continent/Antarctica.private|Antarctica.private]] 
-- [[../../../_personal/Earth/Continent/Antarctica.personal|Antarctica.personal]] 
-- [[../../../_secret/Earth/Continent/Antarctica.secret|Antarctica.secret]] 
+
+### [Antarctica](/_public/Earth/Continent/Antarctica.md) 
+
+### [Antarctica.internal](/_internal/Earth/Continent/Antarctica.internal.md) 
+
+### [Antarctica.protect](/_protect/Earth/Continent/Antarctica.protect.md) 
+
+### [Antarctica.private](/_private/Earth/Continent/Antarctica.private.md) 
+
+### [Antarctica.personal](/_personal/Earth/Continent/Antarctica.personal.md) 
+
+### [Antarctica.secret](/_secret/Earth/Continent/Antarctica.secret.md) 

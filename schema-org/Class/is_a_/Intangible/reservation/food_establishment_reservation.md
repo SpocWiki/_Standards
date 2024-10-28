@@ -45,10 +45,15 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 [ #has_/properties :: [ additionalType, alternateName, bookingAgent, bookingTime, broker, description, disambiguatingDescription, endTime, identifier, image, mainEntityOfPage, modifiedTime, name, partySize, potentialAction, priceCurrency, programMembershipUsed, provider, reservationFor, reservationId, reservationStatus, reservedTicket, sameAs, startTime, subjectOf, totalPrice, underName, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/reservation/food_establishment_reservation|food_establishment_reservation]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/reservation/food_establishment_reservation.public|food_establishment_reservation.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/reservation/food_establishment_reservation.internal|food_establishment_reservation.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/reservation/food_establishment_reservation.protect|food_establishment_reservation.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/reservation/food_establishment_reservation.private|food_establishment_reservation.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/reservation/food_establishment_reservation.personal|food_establishment_reservation.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/reservation/food_establishment_reservation.secret|food_establishment_reservation.secret]] 
+
+### [food_establishment_reservation](/_public/schema-org/Class/is_a_/Intangible/reservation/food_establishment_reservation.md) 
+
+### [food_establishment_reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/reservation/food_establishment_reservation.internal.md) 
+
+### [food_establishment_reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/reservation/food_establishment_reservation.protect.md) 
+
+### [food_establishment_reservation.private](/_private/schema-org/Class/is_a_/Intangible/reservation/food_establishment_reservation.private.md) 
+
+### [food_establishment_reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/reservation/food_establishment_reservation.personal.md) 
+
+### [food_establishment_reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/reservation/food_establishment_reservation.secret.md) 

@@ -1,33 +1,33 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: is_member_of
-
 linkTitle: is_member_of
-keywords: [member, of]
+keywords:
+  - member
+  - of
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- member-of
-- member_of
-- memberOf
-- is_member_of
+  - member-of
+  - member_of
+  - memberOf
+  - is_member_of
+  - schema:memberOf
+  - dbo:memberOf
+  - wdt:P463
 ---
 
 
@@ -57,10 +57,15 @@ Relation describes that:
 [ #has_/sub_properties :: [[has_affiliation_with]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/is_member_of|is_member_of]] 
-- [[../../../../../_public/schema-org/Relation/has/is_member_of.public|is_member_of.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/is_member_of.internal|is_member_of.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/is_member_of.protect|is_member_of.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/is_member_of.private|is_member_of.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/is_member_of.personal|is_member_of.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/is_member_of.secret|is_member_of.secret]] 
+
+### [is_member_of](/_public/schema-org/Relation/is/is_member_of.md) 
+
+### [is_member_of.internal](/_internal/schema-org/Relation/is/is_member_of.internal.md) 
+
+### [is_member_of.protect](/_protect/schema-org/Relation/is/is_member_of.protect.md) 
+
+### [is_member_of.private](/_private/schema-org/Relation/is/is_member_of.private.md) 
+
+### [is_member_of.personal](/_personal/schema-org/Relation/is/is_member_of.personal.md) 
+
+### [is_member_of.secret](/_secret/schema-org/Relation/is/is_member_of.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::DateTime, Time)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_arrival|has_time_of_arrival]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_arrival.public|has_time_of_arrival.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_arrival.internal|has_time_of_arrival.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_arrival.protect|has_time_of_arrival.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_arrival.private|has_time_of_arrival.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_arrival.personal|has_time_of_arrival.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_arrival.secret|has_time_of_arrival.secret]] 
+
+### [has_time_of_arrival](/_public/schema-org/Property/has_Date_Time/has_time_of_arrival.md) 
+
+### [has_time_of_arrival.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_arrival.internal.md) 
+
+### [has_time_of_arrival.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_arrival.protect.md) 
+
+### [has_time_of_arrival.private](/_private/schema-org/Property/has_Date_Time/has_time_of_arrival.private.md) 
+
+### [has_time_of_arrival.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_arrival.personal.md) 
+
+### [has_time_of_arrival.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_arrival.secret.md) 

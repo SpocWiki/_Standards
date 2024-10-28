@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text, Thing )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_default_value|has_default_value]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_default_value.public|has_default_value.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_default_value.internal|has_default_value.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_default_value.protect|has_default_value.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_default_value.private|has_default_value.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_default_value.personal|has_default_value.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_default_value.secret|has_default_value.secret]] 
+
+### [has_default_value](/_public/schema-org/Property/Texts/has_default_value.md) 
+
+### [has_default_value.internal](/_internal/schema-org/Property/Texts/has_default_value.internal.md) 
+
+### [has_default_value.protect](/_protect/schema-org/Property/Texts/has_default_value.protect.md) 
+
+### [has_default_value.private](/_private/schema-org/Property/Texts/has_default_value.private.md) 
+
+### [has_default_value.personal](/_personal/schema-org/Property/Texts/has_default_value.personal.md) 
+
+### [has_default_value.secret](/_secret/schema-org/Property/Texts/has_default_value.secret.md) 

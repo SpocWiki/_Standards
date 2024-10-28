@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.52 , 166.92 ] 
 type: geo-Region
 title: Nibok
@@ -40,11 +40,15 @@ markerFolder: ./Nibok/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Nibok|Nibok]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Nibok.public|Nibok.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Nibok.internal|Nibok.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Nibok.protect|Nibok.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Nibok.private|Nibok.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Nibok.personal|Nibok.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Nibok.secret|Nibok.secret]] 
 
+### [Nibok](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.md) 
+
+### [Nibok.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.internal.md) 
+
+### [Nibok.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.protect.md) 
+
+### [Nibok.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.private.md) 
+
+### [Nibok.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.personal.md) 
+
+### [Nibok.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.secret.md) 

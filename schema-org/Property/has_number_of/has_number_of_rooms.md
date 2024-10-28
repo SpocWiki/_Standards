@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -49,10 +49,15 @@ Predicate describes that:
 ( #has_/range :: Number, QuantitativeValue )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Counts/has_number_of_rooms|has_number_of_rooms]] 
-- [[../../../../_public/schema-org/Predicate/Counts/has_number_of_rooms.public|has_number_of_rooms.public]] 
-- [[../../../../_internal/schema.org/Predicate/Counts/has_number_of_rooms.internal|has_number_of_rooms.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Counts/has_number_of_rooms.protect|has_number_of_rooms.protect]] 
-- [[../../../../_private/schema.org/Predicate/Counts/has_number_of_rooms.private|has_number_of_rooms.private]] 
-- [[../../../../_personal/schema.org/Predicate/Counts/has_number_of_rooms.personal|has_number_of_rooms.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Counts/has_number_of_rooms.secret|has_number_of_rooms.secret]] 
+
+### [has_number_of_rooms](/_public/schema-org/Property/has_number_of/has_number_of_rooms.md) 
+
+### [has_number_of_rooms.internal](/_internal/schema-org/Property/has_number_of/has_number_of_rooms.internal.md) 
+
+### [has_number_of_rooms.protect](/_protect/schema-org/Property/has_number_of/has_number_of_rooms.protect.md) 
+
+### [has_number_of_rooms.private](/_private/schema-org/Property/has_number_of/has_number_of_rooms.private.md) 
+
+### [has_number_of_rooms.personal](/_personal/schema-org/Property/has_number_of/has_number_of_rooms.personal.md) 
+
+### [has_number_of_rooms.secret](/_secret/schema-org/Property/has_number_of/has_number_of_rooms.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 15.3333
 - 38.9167
@@ -141,9 +141,15 @@ Capital :: [[Asmara]]
 
 
 ## Confidential Links & Embeds: 
-- [[Eritrea|Eritrea]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Eritrea.internal|Eritrea.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Eritrea.protect|Eritrea.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Eritrea.private|Eritrea.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Eritrea.personal|Eritrea.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Eritrea.secret|Eritrea.secret]] 
+
+### [Eritrea](/_public/Earth/Continent/Africa/Africa~East/Eritrea.md) 
+
+### [Eritrea.internal](/_internal/Earth/Continent/Africa/Africa~East/Eritrea.internal.md) 
+
+### [Eritrea.protect](/_protect/Earth/Continent/Africa/Africa~East/Eritrea.protect.md) 
+
+### [Eritrea.private](/_private/Earth/Continent/Africa/Africa~East/Eritrea.private.md) 
+
+### [Eritrea.personal](/_personal/Earth/Continent/Africa/Africa~East/Eritrea.personal.md) 
+
+### [Eritrea.secret](/_secret/Earth/Continent/Africa/Africa~East/Eritrea.secret.md) 

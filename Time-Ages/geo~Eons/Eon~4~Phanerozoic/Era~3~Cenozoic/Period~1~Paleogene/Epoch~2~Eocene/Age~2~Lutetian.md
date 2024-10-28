@@ -1,4 +1,4 @@
-# [[Age~2~Lutetian]] 
+﻿# [[Age~2~Lutetian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 47.8 to 41.2 million years ago.
 
 #has_/abbreviation :: e5
 
-#has_/time_/created/Ma :: -47.8
-#has_/time_/destroyed/Ma :: -41.2
+#has_/time_/started /Ma :: -47.8
+#has_/time_/stopped /Ma :: -41.2
 
     sh:order 27 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Lutetian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~2~Lutetian.md) 
+
+### [Age~2~Lutetian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~2~Lutetian.internal.md) 
+
+### [Age~2~Lutetian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~2~Lutetian.protect.md) 
+
+### [Age~2~Lutetian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~2~Lutetian.private.md) 
+
+### [Age~2~Lutetian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~2~Lutetian.personal.md) 
+
+### [Age~2~Lutetian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~2~Lutetian.secret.md) 

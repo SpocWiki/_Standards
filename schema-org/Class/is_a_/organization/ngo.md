@@ -43,10 +43,15 @@ Organization: Non-governmental Organization.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/organization/ngo|ngo]] 
-- [[../../../../../_public/schema-org/Class/is_a_/organization/ngo.public|ngo.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/organization/ngo.internal|ngo.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/organization/ngo.protect|ngo.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/organization/ngo.private|ngo.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/organization/ngo.personal|ngo.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/organization/ngo.secret|ngo.secret]] 
+
+### [ngo](/_public/schema-org/Class/is_a_/organization/ngo.md) 
+
+### [ngo.internal](/_internal/schema-org/Class/is_a_/organization/ngo.internal.md) 
+
+### [ngo.protect](/_protect/schema-org/Class/is_a_/organization/ngo.protect.md) 
+
+### [ngo.private](/_private/schema-org/Class/is_a_/organization/ngo.private.md) 
+
+### [ngo.personal](/_personal/schema-org/Class/is_a_/organization/ngo.personal.md) 
+
+### [ngo.secret](/_secret/schema-org/Class/is_a_/organization/ngo.secret.md) 

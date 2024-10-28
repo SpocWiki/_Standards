@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -73,3 +73,17 @@ Type of app development: phone, Metro style, desktop, XBox, etc.
 TargetPlatform:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~APIReference](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.md) 
+
+### [FileClass~APIReference.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.internal.md) 
+
+### [FileClass~APIReference.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.protect.md) 
+
+### [FileClass~APIReference.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.private.md) 
+
+### [FileClass~APIReference.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.personal.md) 
+
+### [FileClass~APIReference.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~TechArticle/FileClass~APIReference.secret.md) 

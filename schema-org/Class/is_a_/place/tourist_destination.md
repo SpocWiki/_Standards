@@ -46,10 +46,15 @@ A tourist destination. In principle any [[Place]] can be a [[TouristDestination]
 [ #has_/properties :: [ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, includesAttraction, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, touristType, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/place/tourist_destination|tourist_destination]] 
-- [[../../../../../_public/schema-org/Class/is_a_/place/tourist_destination.public|tourist_destination.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/place/tourist_destination.internal|tourist_destination.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/place/tourist_destination.protect|tourist_destination.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/place/tourist_destination.private|tourist_destination.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/place/tourist_destination.personal|tourist_destination.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/place/tourist_destination.secret|tourist_destination.secret]] 
+
+### [tourist_destination](/_public/schema-org/Class/is_a_/place/tourist_destination.md) 
+
+### [tourist_destination.internal](/_internal/schema-org/Class/is_a_/place/tourist_destination.internal.md) 
+
+### [tourist_destination.protect](/_protect/schema-org/Class/is_a_/place/tourist_destination.protect.md) 
+
+### [tourist_destination.private](/_private/schema-org/Class/is_a_/place/tourist_destination.private.md) 
+
+### [tourist_destination.personal](/_personal/schema-org/Class/is_a_/place/tourist_destination.personal.md) 
+
+### [tourist_destination.secret](/_secret/schema-org/Class/is_a_/place/tourist_destination.secret.md) 

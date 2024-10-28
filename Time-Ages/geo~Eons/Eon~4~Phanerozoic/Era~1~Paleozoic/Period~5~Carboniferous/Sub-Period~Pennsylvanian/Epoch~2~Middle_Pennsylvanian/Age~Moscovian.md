@@ -1,4 +1,4 @@
-# [[Age~Moscovian]] 
+﻿# [[Age~Moscovian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 315.2 to 307.0 million years ago.
 
 #has_/abbreviation :: c5
 
-#has_/time_/created/Ma :: -315.2 
-#has_/time_/destroyed/Ma :: -307.0 
+#has_/time_/started /Ma :: -315.2 
+#has_/time_/stopped /Ma :: -307.0 
 
     sh:order 96 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~Moscovian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.md) 
+
+### [Age~Moscovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.internal.md) 
+
+### [Age~Moscovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.protect.md) 
+
+### [Age~Moscovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.private.md) 
+
+### [Age~Moscovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.personal.md) 
+
+### [Age~Moscovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.secret.md) 

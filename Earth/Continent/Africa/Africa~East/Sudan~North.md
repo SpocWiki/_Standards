@@ -1,4 +1,4 @@
----
+﻿---
 location: [15.6,32.53]
 type: Country
 tags:
@@ -53,9 +53,15 @@ Capital :: [[Sudan~North/Counties/Khartoum]]
 
 
 ## Confidential Links & Embeds: 
-- [[geo/Continent/Africa/Africa~East/Sudan~North|Sudan~North]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~East/Sudan~North.internal|Sudan~North.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~East/Sudan~North.protect|Sudan~North.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~East/Sudan~North.private|Sudan~North.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~East/Sudan~North.personal|Sudan~North.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~East/Sudan~North.secret|Sudan~North.secret]] 
+
+### [Sudan~North](/_public/Earth/Continent/Africa/Africa~East/Sudan~North.md) 
+
+### [Sudan~North.internal](/_internal/Earth/Continent/Africa/Africa~East/Sudan~North.internal.md) 
+
+### [Sudan~North.protect](/_protect/Earth/Continent/Africa/Africa~East/Sudan~North.protect.md) 
+
+### [Sudan~North.private](/_private/Earth/Continent/Africa/Africa~East/Sudan~North.private.md) 
+
+### [Sudan~North.personal](/_personal/Earth/Continent/Africa/Africa~East/Sudan~North.personal.md) 
+
+### [Sudan~North.secret](/_secret/Earth/Continent/Africa/Africa~East/Sudan~North.secret.md) 

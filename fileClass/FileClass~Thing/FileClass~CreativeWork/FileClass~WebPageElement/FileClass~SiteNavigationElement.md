@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A navigation element of the page.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~SiteNavigationElement](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.md) 
+
+### [FileClass~SiteNavigationElement.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.internal.md) 
+
+### [FileClass~SiteNavigationElement.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.protect.md) 
+
+### [FileClass~SiteNavigationElement.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.private.md) 
+
+### [FileClass~SiteNavigationElement.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.personal.md) 
+
+### [FileClass~SiteNavigationElement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement/FileClass~SiteNavigationElement.secret.md) 

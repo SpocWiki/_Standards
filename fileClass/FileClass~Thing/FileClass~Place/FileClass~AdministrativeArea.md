@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -31,3 +31,17 @@ A geographical region, typically under the jurisdiction of a particular governme
 
 ## Properties:
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~AdministrativeArea](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.md) 
+
+### [FileClass~AdministrativeArea.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.internal.md) 
+
+### [FileClass~AdministrativeArea.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.protect.md) 
+
+### [FileClass~AdministrativeArea.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.private.md) 
+
+### [FileClass~AdministrativeArea.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.personal.md) 
+
+### [FileClass~AdministrativeArea.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea.secret.md) 

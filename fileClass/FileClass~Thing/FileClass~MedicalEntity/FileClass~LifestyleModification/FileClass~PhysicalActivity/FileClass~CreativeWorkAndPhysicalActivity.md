@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -1223,3 +1223,17 @@ A work that is a translation of the content of this work. E.g. 西遊記 has an 
 
 WorkTranslation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/CreativeWork')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~CreativeWorkAndPhysicalActivity](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.md) 
+
+### [FileClass~CreativeWorkAndPhysicalActivity.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.internal.md) 
+
+### [FileClass~CreativeWorkAndPhysicalActivity.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.protect.md) 
+
+### [FileClass~CreativeWorkAndPhysicalActivity.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.private.md) 
+
+### [FileClass~CreativeWorkAndPhysicalActivity.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.personal.md) 
+
+### [FileClass~CreativeWorkAndPhysicalActivity.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~LifestyleModification/FileClass~PhysicalActivity/FileClass~CreativeWorkAndPhysicalActivity.secret.md) 

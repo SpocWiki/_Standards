@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,3 +55,17 @@ One of a set of signs and symptoms that can be used to distinguish this diagnosi
 DistinguishingSign:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity/MedicalCondition/MedicalSignOrSymptom')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~DDxElement](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.md) 
+
+### [FileClass~DDxElement.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.internal.md) 
+
+### [FileClass~DDxElement.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.protect.md) 
+
+### [FileClass~DDxElement.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.private.md) 
+
+### [FileClass~DDxElement.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.personal.md) 
+
+### [FileClass~DDxElement.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DDxElement.secret.md) 

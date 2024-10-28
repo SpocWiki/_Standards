@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A condition or factor that indicates use of a medical therapy, including signs, 
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalIndication](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.md) 
+
+### [FileClass~MedicalIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.internal.md) 
+
+### [FileClass~MedicalIndication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.protect.md) 
+
+### [FileClass~MedicalIndication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.private.md) 
+
+### [FileClass~MedicalIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.personal.md) 
+
+### [FileClass~MedicalIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ A unique instance of a radio BroadcastService on a CableOrSatelliteService lineu
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~RadioChannel](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel.md) 
+
+### [FileClass~RadioChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel.internal.md) 
+
+### [FileClass~RadioChannel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel.protect.md) 
+
+### [FileClass~RadioChannel.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel.private.md) 
+
+### [FileClass~RadioChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel.personal.md) 
+
+### [FileClass~RadioChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastChannel/FileClass~RadioChannel.secret.md) 

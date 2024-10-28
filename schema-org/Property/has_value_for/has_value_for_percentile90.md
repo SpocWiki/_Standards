@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_percentile90|has_value_for_percentile90]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_percentile90.public|has_value_for_percentile90.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_percentile90.internal|has_value_for_percentile90.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_percentile90.protect|has_value_for_percentile90.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_percentile90.private|has_value_for_percentile90.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_percentile90.personal|has_value_for_percentile90.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_percentile90.secret|has_value_for_percentile90.secret]] 
+
+### [has_value_for_percentile90](/_public/schema-org/Property/has_value_for/has_value_for_percentile90.md) 
+
+### [has_value_for_percentile90.internal](/_internal/schema-org/Property/has_value_for/has_value_for_percentile90.internal.md) 
+
+### [has_value_for_percentile90.protect](/_protect/schema-org/Property/has_value_for/has_value_for_percentile90.protect.md) 
+
+### [has_value_for_percentile90.private](/_private/schema-org/Property/has_value_for/has_value_for_percentile90.private.md) 
+
+### [has_value_for_percentile90.personal](/_personal/schema-org/Property/has_value_for/has_value_for_percentile90.personal.md) 
+
+### [has_value_for_percentile90.secret](/_secret/schema-org/Property/has_value_for/has_value_for_percentile90.secret.md) 

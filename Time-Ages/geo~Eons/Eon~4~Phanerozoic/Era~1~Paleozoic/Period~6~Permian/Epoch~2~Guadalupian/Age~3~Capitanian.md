@@ -1,4 +1,4 @@
-# [[Age~3~Capitanian]] 
+﻿# [[Age~3~Capitanian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 264.28 to 259.51 million years ago.
 
 #has_/abbreviation :: p7
 
-#has_/time_/created/Ma :: -264.28 
-#has_/time_/destroyed/Ma :: -259.51 
+#has_/time_/started /Ma :: -264.28 
+#has_/time_/stopped /Ma :: -259.51 
 
     sh:order 82 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Capitanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.md) 
+
+### [Age~3~Capitanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.internal.md) 
+
+### [Age~3~Capitanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.protect.md) 
+
+### [Age~3~Capitanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.private.md) 
+
+### [Age~3~Capitanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.personal.md) 
+
+### [Age~3~Capitanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~3~Capitanian.secret.md) 

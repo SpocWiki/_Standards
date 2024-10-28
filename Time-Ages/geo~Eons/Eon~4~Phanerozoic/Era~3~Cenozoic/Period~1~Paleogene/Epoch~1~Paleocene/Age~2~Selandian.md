@@ -1,4 +1,4 @@
-# [[Age~2~Selandian]] 
+﻿# [[Age~2~Selandian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 61.6 to 59.2 million years ago.
 
 #has_/abbreviation :: e2
 
-#has_/time_/created/Ma :: -61.6
-#has_/time_/destroyed/Ma :: -59.2
+#has_/time_/started /Ma :: -61.6
+#has_/time_/stopped /Ma :: -59.2
 
     sh:order 31 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Selandian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.md) 
+
+### [Age~2~Selandian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.internal.md) 
+
+### [Age~2~Selandian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.protect.md) 
+
+### [Age~2~Selandian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.private.md) 
+
+### [Age~2~Selandian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.personal.md) 
+
+### [Age~2~Selandian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~1~Paleocene/Age~2~Selandian.secret.md) 

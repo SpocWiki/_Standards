@@ -1,4 +1,4 @@
-# [[Age~3~Artinskian]] 
+﻿# [[Age~3~Artinskian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 290.1 to 283.5 million years ago.
 
 #has_/abbreviation :: p3
 
-#has_/time_/created/Ma :: -290.1 
-#has_/time_/destroyed/Ma :: -283.5 
+#has_/time_/started /Ma :: -290.1 
+#has_/time_/stopped /Ma :: -283.5 
 
     sh:order 87 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Artinskian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.md) 
+
+### [Age~3~Artinskian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.internal.md) 
+
+### [Age~3~Artinskian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.protect.md) 
+
+### [Age~3~Artinskian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.private.md) 
+
+### [Age~3~Artinskian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.personal.md) 
+
+### [Age~3~Artinskian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~3~Artinskian.secret.md) 

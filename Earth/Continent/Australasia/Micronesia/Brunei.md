@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 4.89028
     - 114.942
@@ -139,10 +139,15 @@ Capital :: [[Brunei/Bandar_Seri_Begawan]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Brunei|Brunei]] 
-- [[../../../../_public/Earth/Continent/Oceania/Brunei.public|Brunei.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Brunei.internal|Brunei.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Brunei.protect|Brunei.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Brunei.private|Brunei.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Brunei.personal|Brunei.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Brunei.secret|Brunei.secret]] 
+
+### [Brunei](/_public/Earth/Continent/Australasia/Micronesia/Brunei.md) 
+
+### [Brunei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei.internal.md) 
+
+### [Brunei.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei.protect.md) 
+
+### [Brunei.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei.private.md) 
+
+### [Brunei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei.personal.md) 
+
+### [Brunei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei.secret.md) 

@@ -1,4 +1,4 @@
-
+﻿
 # [[Sub-Period~Pennsylvanian]] 
 
 #is_a_/time_/Period 
@@ -33,8 +33,8 @@ A time period from 323.2 to 298.9 million years ago.
 
 #has_/abbreviation :: C2
 
-#has_/time_/created/Ma :: -323.2 
-#has_/time_/destroyed/Ma :: -298.9 
+#has_/time_/started /Ma :: -323.2 
+#has_/time_/stopped /Ma :: -298.9 
 
     sh:order 99 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Sub-Period~Pennsylvanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.md) 
+
+### [Sub-Period~Pennsylvanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.internal.md) 
+
+### [Sub-Period~Pennsylvanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.protect.md) 
+
+### [Sub-Period~Pennsylvanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.private.md) 
+
+### [Sub-Period~Pennsylvanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.personal.md) 
+
+### [Sub-Period~Pennsylvanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian.secret.md) 

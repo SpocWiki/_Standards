@@ -45,10 +45,15 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 [ #has_/properties :: [ additionalType, alternateName, associatedAnatomy, category, code, description, disambiguatingDescription, epidemiology, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, pathophysiology, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity|physical_activity]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.public|physical_activity.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.internal|physical_activity.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.protect|physical_activity.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.private|physical_activity.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.personal|physical_activity.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.secret|physical_activity.secret]] 
+
+### [physical_activity](/_public/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.md) 
+
+### [physical_activity.internal](/_internal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.internal.md) 
+
+### [physical_activity.protect](/_protect/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.protect.md) 
+
+### [physical_activity.private](/_private/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.private.md) 
+
+### [physical_activity.personal](/_personal/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.personal.md) 
+
+### [physical_activity.secret](/_secret/schema-org/Class/is_a_/medical_entity/lifestyle_modification/physical_activity.secret.md) 

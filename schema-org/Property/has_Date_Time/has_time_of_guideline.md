@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Date)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_guideline|has_time_of_guideline]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_guideline.public|has_time_of_guideline.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_guideline.internal|has_time_of_guideline.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_guideline.protect|has_time_of_guideline.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_guideline.private|has_time_of_guideline.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_guideline.personal|has_time_of_guideline.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_guideline.secret|has_time_of_guideline.secret]] 
+
+### [has_time_of_guideline](/_public/schema-org/Property/has_Date_Time/has_time_of_guideline.md) 
+
+### [has_time_of_guideline.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_guideline.internal.md) 
+
+### [has_time_of_guideline.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_guideline.protect.md) 
+
+### [has_time_of_guideline.private](/_private/schema-org/Property/has_Date_Time/has_time_of_guideline.private.md) 
+
+### [has_time_of_guideline.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_guideline.personal.md) 
+
+### [has_time_of_guideline.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_guideline.secret.md) 

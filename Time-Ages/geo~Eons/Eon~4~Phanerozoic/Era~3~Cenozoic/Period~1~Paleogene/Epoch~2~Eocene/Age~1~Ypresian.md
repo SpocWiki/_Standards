@@ -1,4 +1,4 @@
-# [[Age~1~Ypresian]] 
+﻿# [[Age~1~Ypresian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 56.0 to 47.8 million years ago.
 
 #has_/abbreviation :: e4
 
-#has_/time_/created/Ma :: -56.0
-#has_/time_/destroyed/Ma :: -47.8
+#has_/time_/started /Ma :: -56.0
+#has_/time_/stopped /Ma :: -47.8
 
     sh:order 29 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Ypresian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~1~Ypresian.md) 
+
+### [Age~1~Ypresian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~1~Ypresian.internal.md) 
+
+### [Age~1~Ypresian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~1~Ypresian.protect.md) 
+
+### [Age~1~Ypresian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~1~Ypresian.private.md) 
+
+### [Age~1~Ypresian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~1~Ypresian.personal.md) 
+
+### [Age~1~Ypresian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~2~Eocene/Age~1~Ypresian.secret.md) 

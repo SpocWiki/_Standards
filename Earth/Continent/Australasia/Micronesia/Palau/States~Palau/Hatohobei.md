@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 3.04 , 131.16 ] 
 type: geo-Region
 title: Hatobohei
@@ -40,11 +40,15 @@ markerFolder: ./Hatobohei/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Hatobohei|Hatobohei]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Hatobohei.public|Hatobohei.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Hatobohei.internal|Hatobohei.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Hatobohei.protect|Hatobohei.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Hatobohei.private|Hatobohei.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Hatobohei.personal|Hatobohei.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Hatobohei.secret|Hatobohei.secret]] 
 
+### [Hatohobei](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.md) 
+
+### [Hatohobei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.internal.md) 
+
+### [Hatohobei.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.protect.md) 
+
+### [Hatohobei.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.private.md) 
+
+### [Hatohobei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.personal.md) 
+
+### [Hatohobei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Hatohobei.secret.md) 

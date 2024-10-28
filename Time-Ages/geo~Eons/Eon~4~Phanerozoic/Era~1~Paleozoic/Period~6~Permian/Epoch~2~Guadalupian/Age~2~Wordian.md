@@ -1,4 +1,4 @@
-# [[Age~2~Wordian]] 
+﻿# [[Age~2~Wordian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 266.9 to 264.28 million years ago.
 
 #has_/abbreviation :: p6
 
-#has_/time_/created/Ma :: -266.9 
-#has_/time_/destroyed/Ma :: -264.28 
+#has_/time_/started /Ma :: -266.9 
+#has_/time_/stopped /Ma :: -264.28 
 
     sh:order 83 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Wordian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~2~Wordian.md) 
+
+### [Age~2~Wordian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~2~Wordian.internal.md) 
+
+### [Age~2~Wordian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~2~Wordian.protect.md) 
+
+### [Age~2~Wordian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~2~Wordian.private.md) 
+
+### [Age~2~Wordian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~2~Wordian.personal.md) 
+
+### [Age~2~Wordian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~2~Guadalupian/Age~2~Wordian.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: ItemList, MusicRecording )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_track|has_track]] 
-- [[../../../../../_public/schema-org/Relation/has/has_track.public|has_track.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_track.internal|has_track.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_track.protect|has_track.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_track.private|has_track.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_track.personal|has_track.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_track.secret|has_track.secret]] 
+
+### [has_track](/_public/schema-org/Relation/has/has_track.md) 
+
+### [has_track.internal](/_internal/schema-org/Relation/has/has_track.internal.md) 
+
+### [has_track.protect](/_protect/schema-org/Relation/has/has_track.protect.md) 
+
+### [has_track.private](/_private/schema-org/Relation/has/has_track.private.md) 
+
+### [has_track.personal](/_personal/schema-org/Relation/has/has_track.personal.md) 
+
+### [has_track.secret](/_secret/schema-org/Relation/has/has_track.secret.md) 

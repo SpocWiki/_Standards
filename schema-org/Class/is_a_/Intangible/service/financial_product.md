@@ -45,10 +45,15 @@ A product provided to consumers and businesses by financial institutions such as
 [ #has_/properties :: [ additionalType, aggregateRating, alternateName, annualPercentageRate, areaServed, audience, availableChannel, award, brand, broker, category, description, disambiguatingDescription, feesAndCommissionsSpecification, hasOfferCatalog, hoursAvailable, identifier, image, interestRate, isRelatedTo, isSimilarTo, logo, mainEntityOfPage, name, offers, potentialAction, produces, provider, providerMobility, review, sameAs, serviceArea, serviceAudience, serviceOutput, serviceType, slogan, subjectOf, termsOfService, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/service/financial_product|financial_product]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/service/financial_product.public|financial_product.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/service/financial_product.internal|financial_product.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/service/financial_product.protect|financial_product.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/service/financial_product.private|financial_product.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/service/financial_product.personal|financial_product.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/service/financial_product.secret|financial_product.secret]] 
+
+### [financial_product](/_public/schema-org/Class/is_a_/Intangible/service/financial_product.md) 
+
+### [financial_product.internal](/_internal/schema-org/Class/is_a_/Intangible/service/financial_product.internal.md) 
+
+### [financial_product.protect](/_protect/schema-org/Class/is_a_/Intangible/service/financial_product.protect.md) 
+
+### [financial_product.private](/_private/schema-org/Class/is_a_/Intangible/service/financial_product.private.md) 
+
+### [financial_product.personal](/_personal/schema-org/Class/is_a_/Intangible/service/financial_product.personal.md) 
+
+### [financial_product.secret](/_secret/schema-org/Class/is_a_/Intangible/service/financial_product.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MaximumDoseSchedule )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_maximum_intake|has_maximum_intake]] 
-- [[../../../../../_public/schema-org/Relation/has/has_maximum_intake.public|has_maximum_intake.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_maximum_intake.internal|has_maximum_intake.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_maximum_intake.protect|has_maximum_intake.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_maximum_intake.private|has_maximum_intake.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_maximum_intake.personal|has_maximum_intake.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_maximum_intake.secret|has_maximum_intake.secret]] 
+
+### [has_maximum_intake](/_public/schema-org/Relation/has/has_maximum_intake.md) 
+
+### [has_maximum_intake.internal](/_internal/schema-org/Relation/has/has_maximum_intake.internal.md) 
+
+### [has_maximum_intake.protect](/_protect/schema-org/Relation/has/has_maximum_intake.protect.md) 
+
+### [has_maximum_intake.private](/_private/schema-org/Relation/has/has_maximum_intake.private.md) 
+
+### [has_maximum_intake.personal](/_personal/schema-org/Relation/has/has_maximum_intake.personal.md) 
+
+### [has_maximum_intake.secret](/_secret/schema-org/Relation/has/has_maximum_intake.secret.md) 

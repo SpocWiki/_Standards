@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: CreativeWork )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_cheat_code|has_cheat_code]] 
-- [[../../../../../_public/schema-org/Relation/has/has_cheat_code.public|has_cheat_code.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_cheat_code.internal|has_cheat_code.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_cheat_code.protect|has_cheat_code.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_cheat_code.private|has_cheat_code.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_cheat_code.personal|has_cheat_code.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_cheat_code.secret|has_cheat_code.secret]] 
+
+### [has_cheat_code](/_public/schema-org/Relation/has/has_cheat_code.md) 
+
+### [has_cheat_code.internal](/_internal/schema-org/Relation/has/has_cheat_code.internal.md) 
+
+### [has_cheat_code.protect](/_protect/schema-org/Relation/has/has_cheat_code.protect.md) 
+
+### [has_cheat_code.private](/_private/schema-org/Relation/has/has_cheat_code.private.md) 
+
+### [has_cheat_code.personal](/_personal/schema-org/Relation/has/has_cheat_code.personal.md) 
+
+### [has_cheat_code.secret](/_secret/schema-org/Relation/has/has_cheat_code.secret.md) 

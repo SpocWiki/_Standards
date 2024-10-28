@@ -45,10 +45,15 @@ An eCommerce site.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/online_business/online_store|online_store]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/organization/online_business/online_store.public|online_store.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/organization/online_business/online_store.internal|online_store.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/organization/online_business/online_store.protect|online_store.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/organization/online_business/online_store.private|online_store.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/organization/online_business/online_store.personal|online_store.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/organization/online_business/online_store.secret|online_store.secret]] 
+
+### [online_store](/_public/schema-org/Class/is_a_/organization/online_business/online_store.md) 
+
+### [online_store.internal](/_internal/schema-org/Class/is_a_/organization/online_business/online_store.internal.md) 
+
+### [online_store.protect](/_protect/schema-org/Class/is_a_/organization/online_business/online_store.protect.md) 
+
+### [online_store.private](/_private/schema-org/Class/is_a_/organization/online_business/online_store.private.md) 
+
+### [online_store.personal](/_personal/schema-org/Class/is_a_/organization/online_business/online_store.personal.md) 
+
+### [online_store.secret](/_secret/schema-org/Class/is_a_/organization/online_business/online_store.secret.md) 

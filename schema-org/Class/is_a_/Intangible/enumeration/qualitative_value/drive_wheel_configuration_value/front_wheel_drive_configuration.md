@@ -45,10 +45,15 @@ Front-wheel drive is a transmission layout where the engine drives the front whe
 [ #is_/enum_of :: [[../DriveWheelConfigurationValue]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration|front_wheel_drive_configuration]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.public|front_wheel_drive_configuration.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.internal|front_wheel_drive_configuration.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.protect|front_wheel_drive_configuration.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.private|front_wheel_drive_configuration.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.personal|front_wheel_drive_configuration.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.secret|front_wheel_drive_configuration.secret]] 
+
+### [front_wheel_drive_configuration](/_public/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.md) 
+
+### [front_wheel_drive_configuration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.internal.md) 
+
+### [front_wheel_drive_configuration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.protect.md) 
+
+### [front_wheel_drive_configuration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.private.md) 
+
+### [front_wheel_drive_configuration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.personal.md) 
+
+### [front_wheel_drive_configuration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/qualitative_value/drive_wheel_configuration_value/front_wheel_drive_configuration.secret.md) 

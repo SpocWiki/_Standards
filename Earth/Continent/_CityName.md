@@ -1,14 +1,19 @@
-_Cities/{{City}}.md
+﻿_Cities/{{City}}.md
 
 
 
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/Earth/Continent/_CityName|_CityName]] 
-- [[../../../_public/Earth/Continent/_CityName.public|_CityName.public]] 
-- [[../../../_internal/Earth/Continent/_CityName.internal|_CityName.internal]] 
-- [[../../../_protect/Earth/Continent/_CityName.protect|_CityName.protect]] 
-- [[../../../_private/Earth/Continent/_CityName.private|_CityName.private]] 
-- [[../../../_personal/Earth/Continent/_CityName.personal|_CityName.personal]] 
-- [[../../../_secret/Earth/Continent/_CityName.secret|_CityName.secret]] 
+
+### [_CityName](/_public/Earth/Continent/_CityName.md) 
+
+### [_CityName.internal](/_internal/Earth/Continent/_CityName.internal.md) 
+
+### [_CityName.protect](/_protect/Earth/Continent/_CityName.protect.md) 
+
+### [_CityName.private](/_private/Earth/Continent/_CityName.private.md) 
+
+### [_CityName.personal](/_personal/Earth/Continent/_CityName.personal.md) 
+
+### [_CityName.secret](/_secret/Earth/Continent/_CityName.secret.md) 

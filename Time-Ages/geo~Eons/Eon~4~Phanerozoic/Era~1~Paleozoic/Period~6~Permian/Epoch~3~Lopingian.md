@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~3~Lopingian]] 
 
 #is_a_/time_/Epoch 
@@ -36,8 +36,8 @@ A time period from 259.51 to 251.902 million years ago.
 
 #has_/abbreviation :: P3
 
-#has_/time_/created/Ma :: -259.51 
-#has_/time_/destroyed/Ma :: -251.902 
+#has_/time_/started /Ma :: -259.51 
+#has_/time_/stopped /Ma :: -251.902 
 
     sh:order 80 
 
@@ -57,3 +57,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~3~Lopingian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.md) 
+
+### [Epoch~3~Lopingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.internal.md) 
+
+### [Epoch~3~Lopingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.protect.md) 
+
+### [Epoch~3~Lopingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.private.md) 
+
+### [Epoch~3~Lopingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.personal.md) 
+
+### [Epoch~3~Lopingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian.secret.md) 

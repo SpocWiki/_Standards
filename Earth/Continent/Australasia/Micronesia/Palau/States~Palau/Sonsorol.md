@@ -1,4 +1,4 @@
----
+﻿---
 location: [ 5.3 , 132.22 ] 
 type: geo-Region
 title: Sonsorol
@@ -40,11 +40,15 @@ markerFolder: ./Sonsorol/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Palau/Counties/Sonsorol|Sonsorol]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Palau/Counties/Sonsorol.public|Sonsorol.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Palau/Counties/Sonsorol.internal|Sonsorol.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Palau/Counties/Sonsorol.protect|Sonsorol.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Palau/Counties/Sonsorol.private|Sonsorol.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Palau/Counties/Sonsorol.personal|Sonsorol.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Palau/Counties/Sonsorol.secret|Sonsorol.secret]] 
 
+### [Sonsorol](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.md) 
+
+### [Sonsorol.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.internal.md) 
+
+### [Sonsorol.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.protect.md) 
+
+### [Sonsorol.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.private.md) 
+
+### [Sonsorol.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.personal.md) 
+
+### [Sonsorol.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -104,3 +104,17 @@ The value of a [[QuantitativeValue]] (including [[Observation]]) or property val
 Value:: {"type":"Boolean","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MonetaryAmount](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.md) 
+
+### [FileClass~MonetaryAmount.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.internal.md) 
+
+### [FileClass~MonetaryAmount.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.protect.md) 
+
+### [FileClass~MonetaryAmount.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.private.md) 
+
+### [FileClass~MonetaryAmount.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.personal.md) 
+
+### [FileClass~MonetaryAmount.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~MonetaryAmount.secret.md) 

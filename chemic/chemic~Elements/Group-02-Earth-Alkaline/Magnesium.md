@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -33,10 +33,15 @@ SpocWebEntityId: 21914
 > [Wikipedia](https://en.wikipedia.org/wiki/Magnesium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-02-Earth-Alkaline/Magnesium|Magnesium]] 
-- [[../../../../_public/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.public|Magnesium.public]] 
-- [[../../../../_internal/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.internal|Magnesium.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.protect|Magnesium.protect]] 
-- [[../../../../_private/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.private|Magnesium.private]] 
-- [[../../../../_personal/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.personal|Magnesium.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-02-Earth-Alkaline/Magnesium.secret|Magnesium.secret]] 
+
+### [Magnesium](/_public/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.md) 
+
+### [Magnesium.internal](/_internal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.internal.md) 
+
+### [Magnesium.protect](/_protect/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.protect.md) 
+
+### [Magnesium.private](/_private/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.private.md) 
+
+### [Magnesium.personal](/_personal/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.personal.md) 
+
+### [Magnesium.secret](/_secret/chemic/chemic~Elements/Group-02-Earth-Alkaline/Magnesium.secret.md) 

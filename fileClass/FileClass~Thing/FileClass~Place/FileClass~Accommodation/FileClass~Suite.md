@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -39,3 +39,17 @@ luxury accommodations, the key feature of which is multiple rooms
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Suite](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.md) 
+
+### [FileClass~Suite.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.internal.md) 
+
+### [FileClass~Suite.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.protect.md) 
+
+### [FileClass~Suite.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.private.md) 
+
+### [FileClass~Suite.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.personal.md) 
+
+### [FileClass~Suite.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.secret.md) 

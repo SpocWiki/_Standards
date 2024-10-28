@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of installing an application.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~InstallAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.md) 
+
+### [FileClass~InstallAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.internal.md) 
+
+### [FileClass~InstallAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.protect.md) 
+
+### [FileClass~InstallAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.private.md) 
+
+### [FileClass~InstallAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.personal.md) 
+
+### [FileClass~InstallAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~InstallAction.secret.md) 

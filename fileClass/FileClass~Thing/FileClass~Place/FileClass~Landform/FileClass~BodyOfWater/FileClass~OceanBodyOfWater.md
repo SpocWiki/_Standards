@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ An ocean (for example, the Pacific).
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~OceanBodyOfWater](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~OceanBodyOfWater.md) 
+
+### [FileClass~OceanBodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~OceanBodyOfWater.internal.md) 
+
+### [FileClass~OceanBodyOfWater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~OceanBodyOfWater.protect.md) 
+
+### [FileClass~OceanBodyOfWater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~OceanBodyOfWater.private.md) 
+
+### [FileClass~OceanBodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~OceanBodyOfWater.personal.md) 
+
+### [FileClass~OceanBodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~OceanBodyOfWater.secret.md) 

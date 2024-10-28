@@ -45,10 +45,15 @@ Should not be used where the nature of the alignment can be described using a si
 [ #has_/properties :: [ additionalType, alignmentType, alternateName, description, disambiguatingDescription, educationalFramework, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, targetDescription, targetName, targetUrl, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/alignment_object|alignment_object]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/alignment_object.public|alignment_object.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/alignment_object.internal|alignment_object.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/alignment_object.protect|alignment_object.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/alignment_object.private|alignment_object.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/alignment_object.personal|alignment_object.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/alignment_object.secret|alignment_object.secret]] 
+
+### [alignment_object](/_public/schema-org/Class/is_a_/Intangible/alignment_object.md) 
+
+### [alignment_object.internal](/_internal/schema-org/Class/is_a_/Intangible/alignment_object.internal.md) 
+
+### [alignment_object.protect](/_protect/schema-org/Class/is_a_/Intangible/alignment_object.protect.md) 
+
+### [alignment_object.private](/_private/schema-org/Class/is_a_/Intangible/alignment_object.private.md) 
+
+### [alignment_object.personal](/_personal/schema-org/Class/is_a_/Intangible/alignment_object.personal.md) 
+
+### [alignment_object.secret](/_secret/schema-org/Class/is_a_/Intangible/alignment_object.secret.md) 

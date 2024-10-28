@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 9.17222
 - 6.46778
@@ -148,9 +148,15 @@ Capital :: [[Abuja]]
 
 
 ## Confidential Links & Embeds: 
-- [[Nigeria|Nigeria]]  
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~Central/Nigeria.internal|Nigeria.internal]]  
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~Central/Nigeria.protect|Nigeria.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~Central/Nigeria.private|Nigeria.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~Central/Nigeria.personal|Nigeria.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret|Nigeria.secret]] 
+
+### [Nigeria](/_public/Earth/Continent/Africa/Africa~Central/Nigeria.md) 
+
+### [Nigeria.internal](/_internal/Earth/Continent/Africa/Africa~Central/Nigeria.internal.md) 
+
+### [Nigeria.protect](/_protect/Earth/Continent/Africa/Africa~Central/Nigeria.protect.md) 
+
+### [Nigeria.private](/_private/Earth/Continent/Africa/Africa~Central/Nigeria.private.md) 
+
+### [Nigeria.personal](/_personal/Earth/Continent/Africa/Africa~Central/Nigeria.personal.md) 
+
+### [Nigeria.secret](/_secret/Earth/Continent/Africa/Africa~Central/Nigeria.secret.md) 

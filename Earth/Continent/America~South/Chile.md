@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -33.45
     - -70.67
@@ -147,9 +147,15 @@ Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]
 
 
 ## Confidential Links & Embeds: 
-- [[Chile|Chile]] 
-- [[../../../../_internal/Earth/Continent/America~South/Chile.internal|Chile.internal]] 
-- [[../../../../_protect/Earth/Continent/America~South/Chile.protect|Chile.protect]] 
-- [[../../../../_private/Earth/Continent/America~South/Chile.private|Chile.private]] 
-- [[../../../../_personal/Earth/Continent/America~South/Chile.personal|Chile.personal]] 
-- [[../../../../_secret/Earth/Continent/America~South/Chile.secret|Chile.secret]] 
+
+### [Chile](/_public/Earth/Continent/America~South/Chile.md) 
+
+### [Chile.internal](/_internal/Earth/Continent/America~South/Chile.internal.md) 
+
+### [Chile.protect](/_protect/Earth/Continent/America~South/Chile.protect.md) 
+
+### [Chile.private](/_private/Earth/Continent/America~South/Chile.private.md) 
+
+### [Chile.personal](/_personal/Earth/Continent/America~South/Chile.personal.md) 
+
+### [Chile.secret](/_secret/Earth/Continent/America~South/Chile.secret.md) 

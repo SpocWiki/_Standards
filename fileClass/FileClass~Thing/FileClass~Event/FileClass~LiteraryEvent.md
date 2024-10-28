@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ Event type: Literary event.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~LiteraryEvent](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.md) 
+
+### [FileClass~LiteraryEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.internal.md) 
+
+### [FileClass~LiteraryEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.protect.md) 
+
+### [FileClass~LiteraryEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.private.md) 
+
+### [FileClass~LiteraryEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.personal.md) 
+
+### [FileClass~LiteraryEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~LiteraryEvent.secret.md) 

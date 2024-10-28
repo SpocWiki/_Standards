@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -53,3 +53,17 @@ The type of bed to which the BedDetail refers, i.e. the type of bed available in
 TypeOfBed:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~BedDetails](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.md) 
+
+### [FileClass~BedDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.internal.md) 
+
+### [FileClass~BedDetails.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.protect.md) 
+
+### [FileClass~BedDetails.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.private.md) 
+
+### [FileClass~BedDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.personal.md) 
+
+### [FileClass~BedDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.secret.md) 

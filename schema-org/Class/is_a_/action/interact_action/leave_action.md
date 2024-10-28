@@ -50,10 +50,15 @@ Related actions:
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, event, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/leave_action|leave_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/interact_action/leave_action.public|leave_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/leave_action.internal|leave_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/leave_action.protect|leave_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/leave_action.private|leave_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/leave_action.personal|leave_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/leave_action.secret|leave_action.secret]] 
+
+### [leave_action](/_public/schema-org/Class/is_a_/action/interact_action/leave_action.md) 
+
+### [leave_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/leave_action.internal.md) 
+
+### [leave_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/leave_action.protect.md) 
+
+### [leave_action.private](/_private/schema-org/Class/is_a_/action/interact_action/leave_action.private.md) 
+
+### [leave_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/leave_action.personal.md) 
+
+### [leave_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/leave_action.secret.md) 

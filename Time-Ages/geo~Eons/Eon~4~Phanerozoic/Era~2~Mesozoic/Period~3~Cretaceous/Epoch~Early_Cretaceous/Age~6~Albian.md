@@ -1,4 +1,4 @@
-# [[Age~6~Albian]] 
+﻿# [[Age~6~Albian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 113.0 to 100.5 million years ago.
 
 #has_/abbreviation :: b6
 
-#has_/time_/created/Ma :: -113.0 
-#has_/time_/destroyed/Ma :: -100.5
+#has_/time_/started /Ma :: -113.0 
+#has_/time_/stopped /Ma :: -100.5
 
     sh:order 43 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~6~Albian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~6~Albian.md) 
+
+### [Age~6~Albian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~6~Albian.internal.md) 
+
+### [Age~6~Albian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~6~Albian.protect.md) 
+
+### [Age~6~Albian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~6~Albian.private.md) 
+
+### [Age~6~Albian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~6~Albian.personal.md) 
+
+### [Age~6~Albian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~6~Albian.secret.md) 

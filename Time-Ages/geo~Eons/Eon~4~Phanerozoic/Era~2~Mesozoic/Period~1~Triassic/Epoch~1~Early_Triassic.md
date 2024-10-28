@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:LowerTriassic
 ---
@@ -40,8 +40,8 @@ A time period from 251.902 to 247.2 million years ago.
 #has_/label_/zh  :: 早三叠世
 
 #has_/abbreviation :: T1
-#has_/time_/created/Ma :: -251.902 
-#has_/time_/destroyed/Ma :: -247.2
+#has_/time_/started /Ma :: -251.902 
+#has_/time_/stopped /Ma :: -247.2
 
     sh:order 75 
 
@@ -61,3 +61,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~1~Early_Triassic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic.md) 
+
+### [Epoch~1~Early_Triassic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic.internal.md) 
+
+### [Epoch~1~Early_Triassic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic.protect.md) 
+
+### [Epoch~1~Early_Triassic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic.private.md) 
+
+### [Epoch~1~Early_Triassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic.personal.md) 
+
+### [Epoch~1~Early_Triassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~1~Early_Triassic.secret.md) 

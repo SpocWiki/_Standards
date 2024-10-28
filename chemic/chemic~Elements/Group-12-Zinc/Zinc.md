@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -40,10 +40,15 @@ SpocWebEntityId: 21928
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-12-Zinc/Zinc|Zinc]] 
-- [[../../../../_public/chemic/Elements/Group-12-Zinc/Zinc.public|Zinc.public]] 
-- [[../../../../_internal/chemic/Elements/Group-12-Zinc/Zinc.internal|Zinc.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-12-Zinc/Zinc.protect|Zinc.protect]] 
-- [[../../../../_private/chemic/Elements/Group-12-Zinc/Zinc.private|Zinc.private]] 
-- [[../../../../_personal/chemic/Elements/Group-12-Zinc/Zinc.personal|Zinc.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-12-Zinc/Zinc.secret|Zinc.secret]] 
+
+### [Zinc](/_public/chemic/chemic~Elements/Group-12-Zinc/Zinc.md) 
+
+### [Zinc.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Zinc.internal.md) 
+
+### [Zinc.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Zinc.protect.md) 
+
+### [Zinc.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Zinc.private.md) 
+
+### [Zinc.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Zinc.personal.md) 
+
+### [Zinc.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Zinc.secret.md) 

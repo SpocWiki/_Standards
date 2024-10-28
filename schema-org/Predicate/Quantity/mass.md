@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Properties that take Mass as values are of the form '[[../../Class/is_a_/data_ty
 [ #has_/properties :: [ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/quantity/mass|mass]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/quantity/mass.public|mass.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/quantity/mass.internal|mass.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/quantity/mass.protect|mass.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/quantity/mass.private|mass.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/quantity/mass.personal|mass.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/quantity/mass.secret|mass.secret]] 
+
+### [mass](/_public/schema-org/Predicate/Quantity/mass.md) 
+
+### [mass.internal](/_internal/schema-org/Predicate/Quantity/mass.internal.md) 
+
+### [mass.protect](/_protect/schema-org/Predicate/Quantity/mass.protect.md) 
+
+### [mass.private](/_private/schema-org/Predicate/Quantity/mass.private.md) 
+
+### [mass.personal](/_personal/schema-org/Predicate/Quantity/mass.personal.md) 
+
+### [mass.secret](/_secret/schema-org/Predicate/Quantity/mass.secret.md) 

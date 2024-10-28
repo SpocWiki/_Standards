@@ -1,4 +1,4 @@
-# [[Age~1~Anisian]] 
+﻿# [[Age~1~Anisian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 247.2 to 242 million years ago.
 
 #has_/abbreviation :: t3
 
-#has_/time_/created/Ma :: -247.2
-#has_/time_/destroyed/Ma :: -242 
+#has_/time_/started /Ma :: -247.2
+#has_/time_/stopped /Ma :: -242 
 
     sh:order 71 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Anisian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.md) 
+
+### [Age~1~Anisian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.internal.md) 
+
+### [Age~1~Anisian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.protect.md) 
+
+### [Age~1~Anisian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.private.md) 
+
+### [Age~1~Anisian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.personal.md) 
+
+### [Age~1~Anisian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic/Age~1~Anisian.secret.md) 

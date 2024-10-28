@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: ReturnMethodEnumeration )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_return_method|has_return_method]] 
-- [[../../../../../_public/schema-org/Relation/has/has_return_method.public|has_return_method.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_return_method.internal|has_return_method.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_return_method.protect|has_return_method.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_return_method.private|has_return_method.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_return_method.personal|has_return_method.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_return_method.secret|has_return_method.secret]] 
+
+### [has_return_method](/_public/schema-org/Relation/has/has_return_method.md) 
+
+### [has_return_method.internal](/_internal/schema-org/Relation/has/has_return_method.internal.md) 
+
+### [has_return_method.protect](/_protect/schema-org/Relation/has/has_return_method.protect.md) 
+
+### [has_return_method.private](/_private/schema-org/Relation/has/has_return_method.private.md) 
+
+### [has_return_method.personal](/_personal/schema-org/Relation/has/has_return_method.personal.md) 
+
+### [has_return_method.secret](/_secret/schema-org/Relation/has/has_return_method.secret.md) 

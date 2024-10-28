@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 ---
@@ -43,10 +43,15 @@ SpocWebEntityId: 21975
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-12-Zinc/Mercury|Mercury]] 
-- [[../../../../_public/chemic/Elements/Group-12-Zinc/Mercury.public|Mercury.public]] 
-- [[../../../../_internal/chemic/Elements/Group-12-Zinc/Mercury.internal|Mercury.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-12-Zinc/Mercury.protect|Mercury.protect]] 
-- [[../../../../_private/chemic/Elements/Group-12-Zinc/Mercury.private|Mercury.private]] 
-- [[../../../../_personal/chemic/Elements/Group-12-Zinc/Mercury.personal|Mercury.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-12-Zinc/Mercury.secret|Mercury.secret]] 
+
+### [Mercury](/_public/chemic/chemic~Elements/Group-12-Zinc/Mercury.md) 
+
+### [Mercury.internal](/_internal/chemic/chemic~Elements/Group-12-Zinc/Mercury.internal.md) 
+
+### [Mercury.protect](/_protect/chemic/chemic~Elements/Group-12-Zinc/Mercury.protect.md) 
+
+### [Mercury.private](/_private/chemic/chemic~Elements/Group-12-Zinc/Mercury.private.md) 
+
+### [Mercury.personal](/_personal/chemic/chemic~Elements/Group-12-Zinc/Mercury.personal.md) 
+
+### [Mercury.secret](/_secret/chemic/chemic~Elements/Group-12-Zinc/Mercury.secret.md) 

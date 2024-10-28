@@ -1,4 +1,4 @@
-# [[Age~4~Callovian]] 
+﻿# [[Age~4~Callovian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 165.3 to 161.5 million years ago.
 
 #has_/abbreviation :: j4
 
-#has_/time_/created/Ma :: -165.3 
-#has_/time_/destroyed/Ma :: -161.5 
+#has_/time_/started /Ma :: -165.3 
+#has_/time_/stopped /Ma :: -161.5 
 
     sh:order 55 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~4~Callovian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.md) 
+
+### [Age~4~Callovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.internal.md) 
+
+### [Age~4~Callovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.protect.md) 
+
+### [Age~4~Callovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.private.md) 
+
+### [Age~4~Callovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.personal.md) 
+
+### [Age~4~Callovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~2~Middle_Jurassic/Age~4~Callovian.secret.md) 

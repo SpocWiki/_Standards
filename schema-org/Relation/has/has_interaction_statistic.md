@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Relation describes that:
 `Supersedes` `has_interaction_count`.
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_interaction_statistic|has_interaction_statistic]] 
-- [[../../../../../_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_interaction_statistic.internal|has_interaction_statistic.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_interaction_statistic.protect|has_interaction_statistic.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_interaction_statistic.private|has_interaction_statistic.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_interaction_statistic.personal|has_interaction_statistic.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_interaction_statistic.secret|has_interaction_statistic.secret]] 
+
+### [has_interaction_statistic](/_public/schema-org/Relation/has/has_interaction_statistic.md) 
+
+### [has_interaction_statistic.internal](/_internal/schema-org/Relation/has/has_interaction_statistic.internal.md) 
+
+### [has_interaction_statistic.protect](/_protect/schema-org/Relation/has/has_interaction_statistic.protect.md) 
+
+### [has_interaction_statistic.private](/_private/schema-org/Relation/has/has_interaction_statistic.private.md) 
+
+### [has_interaction_statistic.personal](/_personal/schema-org/Relation/has/has_interaction_statistic.personal.md) 
+
+### [has_interaction_statistic.secret](/_secret/schema-org/Relation/has/has_interaction_statistic.secret.md) 

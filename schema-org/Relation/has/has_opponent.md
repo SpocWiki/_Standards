@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/sub_property_of  :: participant ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_opponent|has_opponent]] 
-- [[../../../../../_public/schema-org/Relation/has/has_opponent.public|has_opponent.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_opponent.internal|has_opponent.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_opponent.protect|has_opponent.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_opponent.private|has_opponent.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_opponent.personal|has_opponent.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_opponent.secret|has_opponent.secret]] 
+
+### [has_opponent](/_public/schema-org/Relation/has/has_opponent.md) 
+
+### [has_opponent.internal](/_internal/schema-org/Relation/has/has_opponent.internal.md) 
+
+### [has_opponent.protect](/_protect/schema-org/Relation/has/has_opponent.protect.md) 
+
+### [has_opponent.private](/_private/schema-org/Relation/has/has_opponent.private.md) 
+
+### [has_opponent.personal](/_personal/schema-org/Relation/has/has_opponent.personal.md) 
+
+### [has_opponent.secret](/_secret/schema-org/Relation/has/has_opponent.secret.md) 

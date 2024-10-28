@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -48,3 +48,17 @@ The payment method(s) to which the payment charge specification applies.
 AppliesToPaymentMethod:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~PaymentChargeSpecification](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~PaymentChargeSpecification.md) 
+
+### [FileClass~PaymentChargeSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~PaymentChargeSpecification.internal.md) 
+
+### [FileClass~PaymentChargeSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~PaymentChargeSpecification.protect.md) 
+
+### [FileClass~PaymentChargeSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~PaymentChargeSpecification.private.md) 
+
+### [FileClass~PaymentChargeSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~PaymentChargeSpecification.personal.md) 
+
+### [FileClass~PaymentChargeSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~PriceSpecification/FileClass~PaymentChargeSpecification.secret.md) 

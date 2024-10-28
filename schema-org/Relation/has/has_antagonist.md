@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Muscle )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_antagonist|has_antagonist]] 
-- [[../../../../../_public/schema-org/Relation/has/has_antagonist.public|has_antagonist.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_antagonist.internal|has_antagonist.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_antagonist.protect|has_antagonist.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_antagonist.private|has_antagonist.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_antagonist.personal|has_antagonist.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_antagonist.secret|has_antagonist.secret]] 
+
+### [has_antagonist](/_public/schema-org/Relation/has/has_antagonist.md) 
+
+### [has_antagonist.internal](/_internal/schema-org/Relation/has/has_antagonist.internal.md) 
+
+### [has_antagonist.protect](/_protect/schema-org/Relation/has/has_antagonist.protect.md) 
+
+### [has_antagonist.private](/_private/schema-org/Relation/has/has_antagonist.private.md) 
+
+### [has_antagonist.personal](/_personal/schema-org/Relation/has/has_antagonist.personal.md) 
+
+### [has_antagonist.secret](/_secret/schema-org/Relation/has/has_antagonist.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21994
@@ -34,10 +34,15 @@ SpocWebEntityId: 21994
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Actinide-Group/Einsteinium|Einsteinium]] 
-- [[../../../../_public/chemic/Elements/Actinide-Group/Einsteinium.public|Einsteinium.public]] 
-- [[../../../../_internal/chemic/Elements/Actinide-Group/Einsteinium.internal|Einsteinium.internal]] 
-- [[../../../../_protect/chemic/Elements/Actinide-Group/Einsteinium.protect|Einsteinium.protect]] 
-- [[../../../../_private/chemic/Elements/Actinide-Group/Einsteinium.private|Einsteinium.private]] 
-- [[../../../../_personal/chemic/Elements/Actinide-Group/Einsteinium.personal|Einsteinium.personal]] 
-- [[../../../../_secret/chemic/Elements/Actinide-Group/Einsteinium.secret|Einsteinium.secret]] 
+
+### [Einsteinium](/_public/chemic/chemic~Elements/Actinide-Group/Einsteinium.md) 
+
+### [Einsteinium.internal](/_internal/chemic/chemic~Elements/Actinide-Group/Einsteinium.internal.md) 
+
+### [Einsteinium.protect](/_protect/chemic/chemic~Elements/Actinide-Group/Einsteinium.protect.md) 
+
+### [Einsteinium.private](/_private/chemic/chemic~Elements/Actinide-Group/Einsteinium.private.md) 
+
+### [Einsteinium.personal](/_personal/chemic/chemic~Elements/Actinide-Group/Einsteinium.personal.md) 
+
+### [Einsteinium.secret](/_secret/chemic/chemic~Elements/Actinide-Group/Einsteinium.secret.md) 

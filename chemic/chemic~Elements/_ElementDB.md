@@ -1,4 +1,4 @@
-
+﻿
 ---
 database-plugin: basic
 
@@ -554,10 +554,15 @@ filters:
 ```
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/chemic/Elements/_ElementDB|_ElementDB]] 
-- [[../../../_public/chemic/Elements/_ElementDB.public|_ElementDB.public]] 
-- [[../../../_internal/chemic/Elements/_ElementDB.internal|_ElementDB.internal]] 
-- [[../../../_protect/chemic/Elements/_ElementDB.protect|_ElementDB.protect]] 
-- [[../../../_private/chemic/Elements/_ElementDB.private|_ElementDB.private]] 
-- [[../../../_personal/chemic/Elements/_ElementDB.personal|_ElementDB.personal]] 
-- [[../../../_secret/chemic/Elements/_ElementDB.secret|_ElementDB.secret]] 
+
+### [_ElementDB](/_public/chemic/chemic~Elements/_ElementDB.md) 
+
+### [_ElementDB.internal](/_internal/chemic/chemic~Elements/_ElementDB.internal.md) 
+
+### [_ElementDB.protect](/_protect/chemic/chemic~Elements/_ElementDB.protect.md) 
+
+### [_ElementDB.private](/_private/chemic/chemic~Elements/_ElementDB.private.md) 
+
+### [_ElementDB.personal](/_personal/chemic/chemic~Elements/_ElementDB.personal.md) 
+
+### [_ElementDB.secret](/_secret/chemic/chemic~Elements/_ElementDB.secret.md) 

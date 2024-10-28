@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 14.6333
     - -90.5
@@ -145,9 +145,15 @@ Capital :: [[Guatemala_City]]
 
 
 ## Confidential Links & Embeds: 
-- [[Guatemala|Guatemala]] 
-- [[../../../../_internal/Earth/Continent/America~Central/Guatemala.internal|Guatemala.internal]] 
-- [[../../../../_protect/Earth/Continent/America~Central/Guatemala.protect|Guatemala.protect]] 
-- [[../../../../_private/Earth/Continent/America~Central/Guatemala.private|Guatemala.private]] 
-- [[../../../../_personal/Earth/Continent/America~Central/Guatemala.personal|Guatemala.personal]] 
-- [[../../../../_secret/Earth/Continent/America~Central/Guatemala.secret|Guatemala.secret]] 
+
+### [Guatemala](/_public/Earth/Continent/America~Central/Guatemala.md) 
+
+### [Guatemala.internal](/_internal/Earth/Continent/America~Central/Guatemala.internal.md) 
+
+### [Guatemala.protect](/_protect/Earth/Continent/America~Central/Guatemala.protect.md) 
+
+### [Guatemala.private](/_private/Earth/Continent/America~Central/Guatemala.private.md) 
+
+### [Guatemala.personal](/_personal/Earth/Continent/America~Central/Guatemala.personal.md) 
+
+### [Guatemala.secret](/_secret/Earth/Continent/America~Central/Guatemala.secret.md) 

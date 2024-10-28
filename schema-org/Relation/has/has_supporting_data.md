@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: DataFeed )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_supporting_data|has_supporting_data]] 
-- [[../../../../../_public/schema-org/Relation/has/has_supporting_data.public|has_supporting_data.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_supporting_data.internal|has_supporting_data.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_supporting_data.protect|has_supporting_data.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_supporting_data.private|has_supporting_data.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_supporting_data.personal|has_supporting_data.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_supporting_data.secret|has_supporting_data.secret]] 
+
+### [has_supporting_data](/_public/schema-org/Relation/has/has_supporting_data.md) 
+
+### [has_supporting_data.internal](/_internal/schema-org/Relation/has/has_supporting_data.internal.md) 
+
+### [has_supporting_data.protect](/_protect/schema-org/Relation/has/has_supporting_data.protect.md) 
+
+### [has_supporting_data.private](/_private/schema-org/Relation/has/has_supporting_data.private.md) 
+
+### [has_supporting_data.personal](/_personal/schema-org/Relation/has/has_supporting_data.personal.md) 
+
+### [has_supporting_data.secret](/_secret/schema-org/Relation/has/has_supporting_data.secret.md) 

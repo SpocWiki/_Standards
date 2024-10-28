@@ -47,10 +47,15 @@ A FundingScheme combines organizational, project and policy aspects of grant-bas
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/organization/funding_scheme|funding_scheme]] 
-- [[../../../../../_public/schema-org/Class/is_a_/organization/funding_scheme.public|funding_scheme.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/organization/funding_scheme.internal|funding_scheme.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/organization/funding_scheme.protect|funding_scheme.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/organization/funding_scheme.private|funding_scheme.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/organization/funding_scheme.personal|funding_scheme.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/organization/funding_scheme.secret|funding_scheme.secret]] 
+
+### [funding_scheme](/_public/schema-org/Class/is_a_/organization/funding_scheme.md) 
+
+### [funding_scheme.internal](/_internal/schema-org/Class/is_a_/organization/funding_scheme.internal.md) 
+
+### [funding_scheme.protect](/_protect/schema-org/Class/is_a_/organization/funding_scheme.protect.md) 
+
+### [funding_scheme.private](/_private/schema-org/Class/is_a_/organization/funding_scheme.private.md) 
+
+### [funding_scheme.personal](/_personal/schema-org/Class/is_a_/organization/funding_scheme.personal.md) 
+
+### [funding_scheme.secret](/_secret/schema-org/Class/is_a_/organization/funding_scheme.secret.md) 

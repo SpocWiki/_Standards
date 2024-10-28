@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -75,3 +75,17 @@ Indicates whether this image is representative of the content of the page.
 RepresentativeOfPage:: {"type":"Boolean","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ImageObject](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.md) 
+
+### [FileClass~ImageObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.internal.md) 
+
+### [FileClass~ImageObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.protect.md) 
+
+### [FileClass~ImageObject.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.private.md) 
+
+### [FileClass~ImageObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.personal.md) 
+
+### [FileClass~ImageObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~ImageObject.secret.md) 

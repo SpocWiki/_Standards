@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -167,3 +167,17 @@ The person or organization the reservation or ticket is for.
 UnderName:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Organization')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Reservation](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.md) 
+
+### [FileClass~Reservation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.internal.md) 
+
+### [FileClass~Reservation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.protect.md) 
+
+### [FileClass~Reservation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.private.md) 
+
+### [FileClass~Reservation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.personal.md) 
+
+### [FileClass~Reservation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Reservation.secret.md) 

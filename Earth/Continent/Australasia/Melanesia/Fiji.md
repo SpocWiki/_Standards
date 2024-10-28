@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - -18.1667
     - 178.45
@@ -140,10 +140,15 @@ Capital :: [[Fiji/Divisions~Fiji/Fiji~Central/counties~Central/Rewa/Suva]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/Earth/Continent/Oceania/Fiji|Fiji]] 
-- [[../../../../_public/Earth/Continent/Oceania/Fiji.public|Fiji.public]] 
-- [[../../../../_internal/Earth/Continent/Oceania/Fiji.internal|Fiji.internal]] 
-- [[../../../../_protect/Earth/Continent/Oceania/Fiji.protect|Fiji.protect]] 
-- [[../../../../_private/Earth/Continent/Oceania/Fiji.private|Fiji.private]] 
-- [[../../../../_personal/Earth/Continent/Oceania/Fiji.personal|Fiji.personal]] 
-- [[../../../../_secret/Earth/Continent/Oceania/Fiji.secret|Fiji.secret]] 
+
+### [Fiji](/_public/Earth/Continent/Australasia/Melanesia/Fiji.md) 
+
+### [Fiji.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji.internal.md) 
+
+### [Fiji.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji.protect.md) 
+
+### [Fiji.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji.private.md) 
+
+### [Fiji.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji.personal.md) 
+
+### [Fiji.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji.secret.md) 

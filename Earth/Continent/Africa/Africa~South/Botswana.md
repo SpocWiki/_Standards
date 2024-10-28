@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - -24.6333
 - 25.9167
@@ -140,9 +140,15 @@ Capital :: [[Gaborone]]
 
 
 ## Confidential Links & Embeds: 
-- [[Botswana|Botswana]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~South/Botswana.internal|Botswana.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~South/Botswana.protect|Botswana.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~South/Botswana.private|Botswana.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~South/Botswana.personal|Botswana.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~South/Botswana.secret|Botswana.secret]] 
+
+### [Botswana](/_public/Earth/Continent/Africa/Africa~South/Botswana.md) 
+
+### [Botswana.internal](/_internal/Earth/Continent/Africa/Africa~South/Botswana.internal.md) 
+
+### [Botswana.protect](/_protect/Earth/Continent/Africa/Africa~South/Botswana.protect.md) 
+
+### [Botswana.private](/_private/Earth/Continent/Africa/Africa~South/Botswana.private.md) 
+
+### [Botswana.personal](/_personal/Earth/Continent/Africa/Africa~South/Botswana.personal.md) 
+
+### [Botswana.secret](/_secret/Earth/Continent/Africa/Africa~South/Botswana.secret.md) 

@@ -45,10 +45,15 @@ Any medical test, typically performed for diagnostic purposes.
 [ #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/medical_entity/medical_test|medical_test]] 
-- [[../../../../../_public/schema-org/Class/is_a_/medical_entity/medical_test.public|medical_test.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/medical_entity/medical_test.internal|medical_test.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/medical_entity/medical_test.protect|medical_test.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/medical_entity/medical_test.private|medical_test.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/medical_entity/medical_test.personal|medical_test.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/medical_entity/medical_test.secret|medical_test.secret]] 
+
+### [medical_test](/_public/schema-org/Class/is_a_/medical_entity/medical_test.md) 
+
+### [medical_test.internal](/_internal/schema-org/Class/is_a_/medical_entity/medical_test.internal.md) 
+
+### [medical_test.protect](/_protect/schema-org/Class/is_a_/medical_entity/medical_test.protect.md) 
+
+### [medical_test.private](/_private/schema-org/Class/is_a_/medical_entity/medical_test.private.md) 
+
+### [medical_test.personal](/_personal/schema-org/Class/is_a_/medical_entity/medical_test.personal.md) 
+
+### [medical_test.secret](/_secret/schema-org/Class/is_a_/medical_entity/medical_test.secret.md) 

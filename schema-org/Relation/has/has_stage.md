@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalConditionStage )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_stage|has_stage]] 
-- [[../../../../../_public/schema-org/Relation/has/has_stage.public|has_stage.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_stage.internal|has_stage.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_stage.protect|has_stage.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_stage.private|has_stage.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_stage.personal|has_stage.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_stage.secret|has_stage.secret]] 
+
+### [has_stage](/_public/schema-org/Relation/has/has_stage.md) 
+
+### [has_stage.internal](/_internal/schema-org/Relation/has/has_stage.internal.md) 
+
+### [has_stage.protect](/_protect/schema-org/Relation/has/has_stage.protect.md) 
+
+### [has_stage.private](/_private/schema-org/Relation/has/has_stage.private.md) 
+
+### [has_stage.personal](/_personal/schema-org/Relation/has/has_stage.personal.md) 
+
+### [has_stage.secret](/_secret/schema-org/Relation/has/has_stage.secret.md) 

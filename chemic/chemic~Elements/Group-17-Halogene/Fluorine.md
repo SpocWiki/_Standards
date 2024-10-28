@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21911
@@ -40,10 +40,15 @@ SpocWebEntityId: 21911
 > [Wikipedia](https://en.wikipedia.org/wiki/Fluorine)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-17-Halogene/Fluorine|Fluorine]] 
-- [[../../../../_public/chemic/Elements/Group-17-Halogene/Fluorine.public|Fluorine.public]] 
-- [[../../../../_internal/chemic/Elements/Group-17-Halogene/Fluorine.internal|Fluorine.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-17-Halogene/Fluorine.protect|Fluorine.protect]] 
-- [[../../../../_private/chemic/Elements/Group-17-Halogene/Fluorine.private|Fluorine.private]] 
-- [[../../../../_personal/chemic/Elements/Group-17-Halogene/Fluorine.personal|Fluorine.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-17-Halogene/Fluorine.secret|Fluorine.secret]] 
+
+### [Fluorine](/_public/chemic/chemic~Elements/Group-17-Halogene/Fluorine.md) 
+
+### [Fluorine.internal](/_internal/chemic/chemic~Elements/Group-17-Halogene/Fluorine.internal.md) 
+
+### [Fluorine.protect](/_protect/chemic/chemic~Elements/Group-17-Halogene/Fluorine.protect.md) 
+
+### [Fluorine.private](/_private/chemic/chemic~Elements/Group-17-Halogene/Fluorine.private.md) 
+
+### [Fluorine.personal](/_personal/chemic/chemic~Elements/Group-17-Halogene/Fluorine.personal.md) 
+
+### [Fluorine.secret](/_secret/chemic/chemic~Elements/Group-17-Halogene/Fluorine.secret.md) 

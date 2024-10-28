@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 5.55
 - -0.25
@@ -143,9 +143,15 @@ Capital :: [[Accra]]
 
 
 ## Confidential Links & Embeds: 
-- [[Ghana|Ghana]] 
-- [[../../../../../_internal/Earth/Continent/Africa/Africa~West/Ghana.internal|Ghana.internal]] 
-- [[../../../../../_protect/Earth/Continent/Africa/Africa~West/Ghana.protect|Ghana.protect]] 
-- [[../../../../../_private/Earth/Continent/Africa/Africa~West/Ghana.private|Ghana.private]] 
-- [[../../../../../_personal/Earth/Continent/Africa/Africa~West/Ghana.personal|Ghana.personal]] 
-- [[../../../../../_secret/Earth/Continent/Africa/Africa~West/Ghana.secret|Ghana.secret]] 
+
+### [Ghana](/_public/Earth/Continent/Africa/Africa~West/Ghana.md) 
+
+### [Ghana.internal](/_internal/Earth/Continent/Africa/Africa~West/Ghana.internal.md) 
+
+### [Ghana.protect](/_protect/Earth/Continent/Africa/Africa~West/Ghana.protect.md) 
+
+### [Ghana.private](/_private/Earth/Continent/Africa/Africa~West/Ghana.private.md) 
+
+### [Ghana.personal](/_personal/Earth/Continent/Africa/Africa~West/Ghana.personal.md) 
+
+### [Ghana.secret](/_secret/Earth/Continent/Africa/Africa~West/Ghana.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 type: LangFamily
 tags: 
 - Lang_Family
@@ -9,10 +9,15 @@ tags:
 
 
 ## Confidential Links & Embeds: 
-- [[../../../_Standards/lang/Family/LangFamily-isolated|LangFamily-isolated]] 
-- [[../../../_public/lang/Family/LangFamily-isolated.public|LangFamily-isolated.public]] 
-- [[../../../_internal/lang/Family/LangFamily-isolated.internal|LangFamily-isolated.internal]] 
-- [[../../../_protect/lang/Family/LangFamily-isolated.protect|LangFamily-isolated.protect]] 
-- [[../../../_private/lang/Family/LangFamily-isolated.private|LangFamily-isolated.private]] 
-- [[../../../_personal/lang/Family/LangFamily-isolated.personal|LangFamily-isolated.personal]] 
-- [[../../../_secret/lang/Family/LangFamily-isolated.secret|LangFamily-isolated.secret]] 
+
+### [LangFamily-isolated](/_public/Language/Lang~Family/LangFamily-isolated.md) 
+
+### [LangFamily-isolated.internal](/_internal/Language/Lang~Family/LangFamily-isolated.internal.md) 
+
+### [LangFamily-isolated.protect](/_protect/Language/Lang~Family/LangFamily-isolated.protect.md) 
+
+### [LangFamily-isolated.private](/_private/Language/Lang~Family/LangFamily-isolated.private.md) 
+
+### [LangFamily-isolated.personal](/_personal/Language/Lang~Family/LangFamily-isolated.personal.md) 
+
+### [LangFamily-isolated.secret](/_secret/Language/Lang~Family/LangFamily-isolated.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -15.4 , 167.8 ] 
 type: geo-Region
 title: Penama
@@ -40,11 +40,15 @@ markerFolder: ./Penama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Vanuatu/Counties/Penama|Penama]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Vanuatu/Counties/Penama.public|Penama.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Vanuatu/Counties/Penama.internal|Penama.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Vanuatu/Counties/Penama.protect|Penama.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Vanuatu/Counties/Penama.private|Penama.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Vanuatu/Counties/Penama.personal|Penama.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Vanuatu/Counties/Penama.secret|Penama.secret]] 
 
+### [Penama](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.md) 
+
+### [Penama.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.internal.md) 
+
+### [Penama.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.protect.md) 
+
+### [Penama.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.private.md) 
+
+### [Penama.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.personal.md) 
+
+### [Penama.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Penama.secret.md) 

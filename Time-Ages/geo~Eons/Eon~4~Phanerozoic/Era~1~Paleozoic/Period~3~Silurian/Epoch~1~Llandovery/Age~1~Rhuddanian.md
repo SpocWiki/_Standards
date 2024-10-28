@@ -1,4 +1,4 @@
-# [[Age~1~Rhuddanian]] 
+﻿# [[Age~1~Rhuddanian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 443.8 to 440.8 million years ago.
 
 #has_/abbreviation :: s1
 
-#has_/time_/created/Ma :: -443.8 
-#has_/time_/destroyed/Ma :: -440.8 
+#has_/time_/started /Ma :: -443.8 
+#has_/time_/stopped /Ma :: -440.8 
 
     sh:order 129 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Rhuddanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~1~Rhuddanian.md) 
+
+### [Age~1~Rhuddanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~1~Rhuddanian.internal.md) 
+
+### [Age~1~Rhuddanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~1~Rhuddanian.protect.md) 
+
+### [Age~1~Rhuddanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~1~Rhuddanian.private.md) 
+
+### [Age~1~Rhuddanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~1~Rhuddanian.personal.md) 
+
+### [Age~1~Rhuddanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~1~Rhuddanian.secret.md) 

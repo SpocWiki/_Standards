@@ -1,4 +1,4 @@
----
+﻿---
 title: Deutschland (Germany)
 linkTitle: Germany
 type: Country
@@ -648,7 +648,7 @@ has_name:
 [has_place_longitude::10.1207]
 [has_place_latitude::50.8699]
 
-#has_/time_/created :: 1949-05-23 
+#has_/time_/started :: 1949-05-23 
 ## International Names
 
 [	name	 :: Germany ]
@@ -855,12 +855,15 @@ Capital :: [[../../../../WikiData/WD~Berlin,64]]
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/Earth/Continent/Europe/Europe~Central/Germany|Germany]] 
-- [[../../../../../_public/Earth/Continent/Europe/Europe~Central/Germany.public|Germany.public]] 
-- [[../../../../../_internal/Earth/Continent/Europe/Europe~Central/Germany.internal|Germany.internal]] 
-- [[../../../../../_protect/Earth/Continent/Europe/Europe~Central/Germany.protect|Germany.protect]] 
-- [[../../../../../_private/Earth/Continent/Europe/Europe~Central/Germany.private|Germany.private]] 
-- [[../../../../../_personal/Earth/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]] 
-- [[../../../../../_secret/Earth/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]] 
 
+### [Germany](/_public/Earth/Continent/Europe/Europe~Central/Germany.md) 
 
+### [Germany.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany.internal.md) 
+
+### [Germany.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany.protect.md) 
+
+### [Germany.private](/_private/Earth/Continent/Europe/Europe~Central/Germany.private.md) 
+
+### [Germany.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal.md) 
+
+### [Germany.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret.md) 

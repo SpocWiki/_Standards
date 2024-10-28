@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:LowerOrdovician
 ---
@@ -32,8 +32,8 @@ A time period from 485.4 to 470.0 million years ago.
 
 #has_/abbreviation :: O1
 
-#has_/time_/created/Ma :: -485.4 
-#has_/time_/destroyed/Ma :: -470.0 
+#has_/time_/started /Ma :: -485.4 
+#has_/time_/stopped /Ma :: -470.0 
 
     sh:order 139 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~1~Early_Ordovician](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.md) 
+
+### [Epoch~1~Early_Ordovician.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.internal.md) 
+
+### [Epoch~1~Early_Ordovician.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.protect.md) 
+
+### [Epoch~1~Early_Ordovician.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.private.md) 
+
+### [Epoch~1~Early_Ordovician.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.personal.md) 
+
+### [Epoch~1~Early_Ordovician.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~1~Early_Ordovician.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Formal Predicate:
 (range::Duration)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_of_grace_period|has_duration_of_grace_period]] 
-- [[../../../../_public/schema-org/Predicate/Durations/has_duration_of_grace_period.public|has_duration_of_grace_period.public]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_of_grace_period.internal|has_duration_of_grace_period.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_of_grace_period.protect|has_duration_of_grace_period.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_of_grace_period.private|has_duration_of_grace_period.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_of_grace_period.personal|has_duration_of_grace_period.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_of_grace_period.secret|has_duration_of_grace_period.secret]] 
+
+### [has_duration_of_grace_period](/_public/schema-org/Property/has_duration_of/has_duration_of_grace_period.md) 
+
+### [has_duration_of_grace_period.internal](/_internal/schema-org/Property/has_duration_of/has_duration_of_grace_period.internal.md) 
+
+### [has_duration_of_grace_period.protect](/_protect/schema-org/Property/has_duration_of/has_duration_of_grace_period.protect.md) 
+
+### [has_duration_of_grace_period.private](/_private/schema-org/Property/has_duration_of/has_duration_of_grace_period.private.md) 
+
+### [has_duration_of_grace_period.personal](/_personal/schema-org/Property/has_duration_of/has_duration_of_grace_period.personal.md) 
+
+### [has_duration_of_grace_period.secret](/_secret/schema-org/Property/has_duration_of/has_duration_of_grace_period.secret.md) 

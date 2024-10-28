@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -83,10 +83,15 @@ but that may well be a concrete instance of the [[Pattern~Strategy|Strategy-Patt
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/intangible/class|class]] 
-- [[../../../../../_public/schema-org/Class/is_a_/intangible/class.public|class.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/intangible/class.internal|class.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/intangible/class.protect|class.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/intangible/class.private|class.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/intangible/class.personal|class.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/intangible/class.secret|class.secret]] 
+
+### [Class](/_public/schema-org/Class.md) 
+
+### [Class.internal](/_internal/schema-org/Class.internal.md) 
+
+### [Class.protect](/_protect/schema-org/Class.protect.md) 
+
+### [Class.private](/_private/schema-org/Class.private.md) 
+
+### [Class.personal](/_personal/schema-org/Class.personal.md) 
+
+### [Class.secret](/_secret/schema-org/Class.secret.md) 

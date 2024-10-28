@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: Organization, Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_hiring_organization|has_hiring_organization]] 
-- [[../../../../../_public/schema-org/Relation/has/has_hiring_organization.public|has_hiring_organization.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_hiring_organization.internal|has_hiring_organization.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_hiring_organization.protect|has_hiring_organization.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_hiring_organization.private|has_hiring_organization.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_hiring_organization.personal|has_hiring_organization.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_hiring_organization.secret|has_hiring_organization.secret]] 
+
+### [has_hiring_organization](/_public/schema-org/Relation/has/has_hiring_organization.md) 
+
+### [has_hiring_organization.internal](/_internal/schema-org/Relation/has/has_hiring_organization.internal.md) 
+
+### [has_hiring_organization.protect](/_protect/schema-org/Relation/has/has_hiring_organization.protect.md) 
+
+### [has_hiring_organization.private](/_private/schema-org/Relation/has/has_hiring_organization.private.md) 
+
+### [has_hiring_organization.personal](/_personal/schema-org/Relation/has/has_hiring_organization.personal.md) 
+
+### [has_hiring_organization.secret](/_secret/schema-org/Relation/has/has_hiring_organization.secret.md) 

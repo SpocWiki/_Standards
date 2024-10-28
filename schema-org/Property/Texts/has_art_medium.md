@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -47,10 +47,15 @@ Predicated describes that:
 [ #is_/sub_property_of  :: material ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_art_medium|has_art_medium]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_art_medium.public|has_art_medium.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_art_medium.internal|has_art_medium.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_art_medium.protect|has_art_medium.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_art_medium.private|has_art_medium.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_art_medium.personal|has_art_medium.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_art_medium.secret|has_art_medium.secret]] 
+
+### [has_art_medium](/_public/schema-org/Property/Texts/has_art_medium.md) 
+
+### [has_art_medium.internal](/_internal/schema-org/Property/Texts/has_art_medium.internal.md) 
+
+### [has_art_medium.protect](/_protect/schema-org/Property/Texts/has_art_medium.protect.md) 
+
+### [has_art_medium.private](/_private/schema-org/Property/Texts/has_art_medium.private.md) 
+
+### [has_art_medium.personal](/_personal/schema-org/Property/Texts/has_art_medium.personal.md) 
+
+### [has_art_medium.secret](/_secret/schema-org/Property/Texts/has_art_medium.secret.md) 

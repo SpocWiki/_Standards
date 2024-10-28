@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -148,10 +148,15 @@ Lower Managers, similar to Employees, have no liabilities, except specified by t
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Class/is_a_/organization/corporation|corporation]] 
-- [[../../../../../_public/schema-org/Class/is_a_/organization/corporation.public|corporation.public]] 
-- [[../../../../../_internal/schema.org/Class/is_a_/organization/corporation.internal|corporation.internal]] 
-- [[../../../../../_protect/schema.org/Class/is_a_/organization/corporation.protect|corporation.protect]] 
-- [[../../../../../_private/schema.org/Class/is_a_/organization/corporation.private|corporation.private]] 
-- [[../../../../../_personal/schema.org/Class/is_a_/organization/corporation.personal|corporation.personal]] 
-- [[../../../../../_secret/schema.org/Class/is_a_/organization/corporation.secret|corporation.secret]] 
+
+### [corporation](/_public/schema-org/Class/is_a_/organization/corporation.md) 
+
+### [corporation.internal](/_internal/schema-org/Class/is_a_/organization/corporation.internal.md) 
+
+### [corporation.protect](/_protect/schema-org/Class/is_a_/organization/corporation.protect.md) 
+
+### [corporation.private](/_private/schema-org/Class/is_a_/organization/corporation.private.md) 
+
+### [corporation.personal](/_personal/schema-org/Class/is_a_/organization/corporation.personal.md) 
+
+### [corporation.secret](/_secret/schema-org/Class/is_a_/organization/corporation.secret.md) 

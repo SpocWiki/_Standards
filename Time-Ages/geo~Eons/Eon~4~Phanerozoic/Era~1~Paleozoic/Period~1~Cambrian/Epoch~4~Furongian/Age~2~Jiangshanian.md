@@ -1,4 +1,4 @@
-# [[Age~2~Jiangshanian]] 
+﻿# [[Age~2~Jiangshanian]] 
 
 #is_a_/time_/Age 
 
@@ -12,8 +12,8 @@ A time period from 494 to 489.5 million years ago.
 #has_/label_/zh  :: 江山期 
 
 #has_/abbreviation :: ep9
-#has_/time_/created/Ma :: -494 
-#has_/time_/destroyed/Ma :: -489.5 
+#has_/time_/started /Ma :: -494 
+#has_/time_/stopped /Ma :: -489.5 
 
     sh:order 143 
 
@@ -33,3 +33,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Jiangshanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.md) 
+
+### [Age~2~Jiangshanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.internal.md) 
+
+### [Age~2~Jiangshanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.protect.md) 
+
+### [Age~2~Jiangshanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.private.md) 
+
+### [Age~2~Jiangshanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.personal.md) 
+
+### [Age~2~Jiangshanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.secret.md) 

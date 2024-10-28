@@ -1,4 +1,4 @@
-# [[Age~Bashkirian]] 
+﻿# [[Age~Bashkirian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 323.2 to 315.2 million years ago.
 
 #has_/abbreviation :: c4
 
-#has_/time_/created/Ma :: -323.2 
-#has_/time_/destroyed/Ma :: -315.2 
+#has_/time_/started /Ma :: -323.2 
+#has_/time_/stopped /Ma :: -315.2 
 
     sh:order 97 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~Bashkirian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.md) 
+
+### [Age~Bashkirian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.internal.md) 
+
+### [Age~Bashkirian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.protect.md) 
+
+### [Age~Bashkirian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.private.md) 
+
+### [Age~Bashkirian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.personal.md) 
+
+### [Age~Bashkirian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.secret.md) 

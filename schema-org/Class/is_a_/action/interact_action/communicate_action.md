@@ -45,10 +45,15 @@ The act of conveying information to another person via a communication medium (i
 [ #has_/properties :: [ about, actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, inLanguage, instrument, language, location, mainEntityOfPage, name, object, participant, potentialAction, provider, recipient, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/interact_action/communicate_action|communicate_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/interact_action/communicate_action.public|communicate_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/interact_action/communicate_action.internal|communicate_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/interact_action/communicate_action.protect|communicate_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/interact_action/communicate_action.private|communicate_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/interact_action/communicate_action.personal|communicate_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/interact_action/communicate_action.secret|communicate_action.secret]] 
+
+### [communicate_action](/_public/schema-org/Class/is_a_/action/interact_action/communicate_action.md) 
+
+### [communicate_action.internal](/_internal/schema-org/Class/is_a_/action/interact_action/communicate_action.internal.md) 
+
+### [communicate_action.protect](/_protect/schema-org/Class/is_a_/action/interact_action/communicate_action.protect.md) 
+
+### [communicate_action.private](/_private/schema-org/Class/is_a_/action/interact_action/communicate_action.private.md) 
+
+### [communicate_action.personal](/_personal/schema-org/Class/is_a_/action/interact_action/communicate_action.personal.md) 
+
+### [communicate_action.secret](/_secret/schema-org/Class/is_a_/action/interact_action/communicate_action.secret.md) 

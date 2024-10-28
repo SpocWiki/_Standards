@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -14.2 , 167.5 ] 
 type: geo-Region
 title: Torba
@@ -40,11 +40,15 @@ markerFolder: ./Torba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Vanuatu/Counties/Torba|Torba]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Vanuatu/Counties/Torba.public|Torba.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Vanuatu/Counties/Torba.internal|Torba.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Vanuatu/Counties/Torba.protect|Torba.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Vanuatu/Counties/Torba.private|Torba.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Vanuatu/Counties/Torba.personal|Torba.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Vanuatu/Counties/Torba.secret|Torba.secret]] 
 
+### [Torba](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.md) 
+
+### [Torba.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.internal.md) 
+
+### [Torba.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.protect.md) 
+
+### [Torba.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.private.md) 
+
+### [Torba.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.personal.md) 
+
+### [Torba.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Torba.secret.md) 

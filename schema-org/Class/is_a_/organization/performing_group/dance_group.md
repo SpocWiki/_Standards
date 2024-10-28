@@ -43,10 +43,15 @@ A dance group—for example, the Alvin Ailey Dance Theater or Riverdance.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalType, address, aggregateRating, alternateName, alumni, areaServed, award, awards, brand, contactPoint, contactPoints, correctionsPolicy, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, globalLocationNumber, hasCredential, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, legalName, leiCode, location, logo, mainEntityOfPage, makesOffer, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, ownershipFundingInfo, owns, parentOrganization, potentialAction, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, sponsor, subOrganization, subjectOf, taxID, telephone, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/organization/performing_group/dance_group|dance_group]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/organization/performing_group/dance_group.public|dance_group.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/organization/performing_group/dance_group.internal|dance_group.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/organization/performing_group/dance_group.protect|dance_group.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/organization/performing_group/dance_group.private|dance_group.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/organization/performing_group/dance_group.personal|dance_group.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/organization/performing_group/dance_group.secret|dance_group.secret]] 
+
+### [dance_group](/_public/schema-org/Class/is_a_/organization/performing_group/dance_group.md) 
+
+### [dance_group.internal](/_internal/schema-org/Class/is_a_/organization/performing_group/dance_group.internal.md) 
+
+### [dance_group.protect](/_protect/schema-org/Class/is_a_/organization/performing_group/dance_group.protect.md) 
+
+### [dance_group.private](/_private/schema-org/Class/is_a_/organization/performing_group/dance_group.private.md) 
+
+### [dance_group.personal](/_personal/schema-org/Class/is_a_/organization/performing_group/dance_group.personal.md) 
+
+### [dance_group.secret](/_secret/schema-org/Class/is_a_/organization/performing_group/dance_group.secret.md) 

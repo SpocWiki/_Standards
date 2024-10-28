@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 SpocWebEntityId: 21977
 ---
@@ -40,10 +40,15 @@ SpocWebEntityId: 21977
 > [Wikipedia](https://en.wikipedia.org/wiki/Lead)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Group-14-Carbon/Lead|Lead]] 
-- [[../../../../_public/chemic/Elements/Group-14-Carbon/Lead.public|Lead.public]] 
-- [[../../../../_internal/chemic/Elements/Group-14-Carbon/Lead.internal|Lead.internal]] 
-- [[../../../../_protect/chemic/Elements/Group-14-Carbon/Lead.protect|Lead.protect]] 
-- [[../../../../_private/chemic/Elements/Group-14-Carbon/Lead.private|Lead.private]] 
-- [[../../../../_personal/chemic/Elements/Group-14-Carbon/Lead.personal|Lead.personal]] 
-- [[../../../../_secret/chemic/Elements/Group-14-Carbon/Lead.secret|Lead.secret]] 
+
+### [Lead](/_public/chemic/chemic~Elements/Group-14-Carbon/Lead.md) 
+
+### [Lead.internal](/_internal/chemic/chemic~Elements/Group-14-Carbon/Lead.internal.md) 
+
+### [Lead.protect](/_protect/chemic/chemic~Elements/Group-14-Carbon/Lead.protect.md) 
+
+### [Lead.private](/_private/chemic/chemic~Elements/Group-14-Carbon/Lead.private.md) 
+
+### [Lead.personal](/_personal/chemic/chemic~Elements/Group-14-Carbon/Lead.personal.md) 
+
+### [Lead.secret](/_secret/chemic/chemic~Elements/Group-14-Carbon/Lead.secret.md) 

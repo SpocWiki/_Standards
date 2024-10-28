@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21997
@@ -37,10 +37,15 @@ SpocWebEntityId: 21997
 > [Wikipedia](https://en.wikipedia.org/wiki/Nobelium)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Nobelium|Nobelium]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Nobelium.public|Nobelium.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Nobelium.internal|Nobelium.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Nobelium.protect|Nobelium.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Nobelium.private|Nobelium.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Nobelium.personal|Nobelium.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Nobelium.secret|Nobelium.secret]] 
+
+### [Nobelium](/_public/chemic/chemic~Elements/Lanthanide-Group/Nobelium.md) 
+
+### [Nobelium.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Nobelium.internal.md) 
+
+### [Nobelium.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Nobelium.protect.md) 
+
+### [Nobelium.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Nobelium.private.md) 
+
+### [Nobelium.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Nobelium.personal.md) 
+
+### [Nobelium.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Nobelium.secret.md) 

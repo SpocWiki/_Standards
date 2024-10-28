@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:MiddleTriassic
 ---
@@ -38,8 +38,8 @@ A time period from 247.2 to 237 million years ago.
 
 #has_/abbreviation :: T2
 
-#has_/time_/created/Ma :: -247.2
-#has_/time_/destroyed/Ma :: -237 
+#has_/time_/started /Ma :: -247.2
+#has_/time_/stopped /Ma :: -237 
 
     sh:order 72 
 
@@ -59,3 +59,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~2~Middle_Triassic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic.md) 
+
+### [Epoch~2~Middle_Triassic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic.internal.md) 
+
+### [Epoch~2~Middle_Triassic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic.protect.md) 
+
+### [Epoch~2~Middle_Triassic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic.private.md) 
+
+### [Epoch~2~Middle_Triassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic.personal.md) 
+
+### [Epoch~2~Middle_Triassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~2~Middle_Triassic.secret.md) 

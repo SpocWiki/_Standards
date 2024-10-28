@@ -45,10 +45,15 @@ An ItemList ordered with no explicit order.
 [ #is_/enum_of :: [[../ItemListOrderType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered|item_list_unordered]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.public|item_list_unordered.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.internal|item_list_unordered.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.protect|item_list_unordered.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.private|item_list_unordered.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.personal|item_list_unordered.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/item_list_order_type/item_list_unordered.secret|item_list_unordered.secret]] 
+
+### [item_list_unordered](/_public/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.md) 
+
+### [item_list_unordered.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.internal.md) 
+
+### [item_list_unordered.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.protect.md) 
+
+### [item_list_unordered.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.private.md) 
+
+### [item_list_unordered.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.personal.md) 
+
+### [item_list_unordered.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/item_list_order_type/item_list_unordered.secret.md) 

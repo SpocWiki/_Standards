@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -75,3 +75,17 @@ Indicates whether pets are allowed to enter the accommodation or lodging busines
 PetsAllowed:: {"type":"Boolean","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ApartmentComplex](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.md) 
+
+### [FileClass~ApartmentComplex.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.internal.md) 
+
+### [FileClass~ApartmentComplex.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.protect.md) 
+
+### [FileClass~ApartmentComplex.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.private.md) 
+
+### [FileClass~ApartmentComplex.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.personal.md) 
+
+### [FileClass~ApartmentComplex.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence/FileClass~ApartmentComplex.secret.md) 

@@ -41,10 +41,15 @@ Systems of medical practice.
 [ #is_/sub_class_of :: [[../MedicalEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system|medicine_system]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.public|medicine_system.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.internal|medicine_system.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.protect|medicine_system.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.private|medicine_system.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.personal|medicine_system.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medicine_system.secret|medicine_system.secret]] 
+
+### [medicine_system](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.md) 
+
+### [medicine_system.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.internal.md) 
+
+### [medicine_system.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.protect.md) 
+
+### [medicine_system.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.private.md) 
+
+### [medicine_system.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.personal.md) 
+
+### [medicine_system.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medicine_system.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 aliases:
   - ischart:UpperJurassic
 ---
@@ -32,8 +32,8 @@ A time period from 161.5 to 145 million years ago.
 
 #has_/abbreviation :: J3
 
-#has_/time_/created/Ma :: -161.5 
-#has_/time_/destroyed/Ma :: -145 
+#has_/time_/started /Ma :: -161.5 
+#has_/time_/stopped /Ma :: -145 
 
     sh:order 54 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~3~Late_Jurassic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.md) 
+
+### [Epoch~3~Late_Jurassic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.internal.md) 
+
+### [Epoch~3~Late_Jurassic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.protect.md) 
+
+### [Epoch~3~Late_Jurassic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.private.md) 
+
+### [Epoch~3~Late_Jurassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.personal.md) 
+
+### [Epoch~3~Late_Jurassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic.secret.md) 

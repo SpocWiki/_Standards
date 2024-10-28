@@ -1,4 +1,4 @@
----
+﻿---
 type: Meta
 license: CC BY-SA 4.0
 publish: true
@@ -58,11 +58,15 @@ Basic Levels of Factuality are
 > [Wikipedia](https://en.wikipedia.org/wiki/Claim%20(philosophy))
 
 ## Confidential Links & Embeds: 
-- [[../../_Standards/schema-org/Proposition|Proposition]] 
-- [[../../_public/schema-org/Proposition.public|Proposition.public]] 
-- [[../../_internal/schema.org/Proposition.internal|Proposition.internal]] 
-- [[../../_protect/schema.org/Proposition.protect|Proposition.protect]] 
-- [[../../_private/schema.org/Proposition.private|Proposition.private]] 
-- [[../../_personal/schema.org/Proposition.personal|Proposition.personal]] 
-- [[../../_secret/schema.org/Proposition.secret|Proposition.secret]]
 
+### [Proposition](/_public/schema-org/Proposition.md) 
+
+### [Proposition.internal](/_internal/schema-org/Proposition.internal.md) 
+
+### [Proposition.protect](/_protect/schema-org/Proposition.protect.md) 
+
+### [Proposition.private](/_private/schema-org/Proposition.private.md) 
+
+### [Proposition.personal](/_personal/schema-org/Proposition.personal.md) 
+
+### [Proposition.secret](/_secret/schema-org/Proposition.secret.md) 

@@ -1,4 +1,4 @@
-# [[Age~2~Darriwilian]] 
+﻿# [[Age~2~Darriwilian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 467.3 to 458.4 million years ago.
 
 #has_/abbreviation :: o4
 
-#has_/time_/created/Ma :: -467.3 
-#has_/time_/destroyed/Ma :: -458.4 
+#has_/time_/started /Ma :: -467.3 
+#has_/time_/stopped /Ma :: -458.4 
 
     sh:order 135 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Darriwilian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.md) 
+
+### [Age~2~Darriwilian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.internal.md) 
+
+### [Age~2~Darriwilian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.protect.md) 
+
+### [Age~2~Darriwilian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.private.md) 
+
+### [Age~2~Darriwilian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.personal.md) 
+
+### [Age~2~Darriwilian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~2~Ordovician/Epoch~2~Middle_Ordovician/Age~2~Darriwilian.secret.md) 

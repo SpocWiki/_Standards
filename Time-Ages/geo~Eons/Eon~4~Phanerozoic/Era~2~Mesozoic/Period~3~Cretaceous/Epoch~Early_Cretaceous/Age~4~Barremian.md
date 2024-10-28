@@ -1,4 +1,4 @@
-# [[Age~4~Barremian]] 
+﻿# [[Age~4~Barremian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 125.77 to 121.4 million years ago.
 
 #has_/abbreviation :: b4
 
-#has_/time_/created/Ma :: -125.77
-#has_/time_/destroyed/Ma :: -121.4 
+#has_/time_/started /Ma :: -125.77
+#has_/time_/stopped /Ma :: -121.4 
 
     sh:order 45 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~4~Barremian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~4~Barremian.md) 
+
+### [Age~4~Barremian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~4~Barremian.internal.md) 
+
+### [Age~4~Barremian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~4~Barremian.protect.md) 
+
+### [Age~4~Barremian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~4~Barremian.private.md) 
+
+### [Age~4~Barremian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~4~Barremian.personal.md) 
+
+### [Age~4~Barremian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~3~Cretaceous/Epoch~Early_Cretaceous/Age~4~Barremian.secret.md) 

@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~2~Pliocene]] 
 
 #is_a_/time_/Epoch 
@@ -32,8 +32,8 @@ A time period from 5.333 to 2.58 million years ago.
 
 #has_/abbreviation :: N2
 
-#has_/time_/created/Ma :: -5.333
-#has_/time_/destroyed/Ma :: -2.58
+#has_/time_/started /Ma :: -5.333
+#has_/time_/stopped /Ma :: -2.58
 
     sh:order 12 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~2~Pliocene](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.md) 
+
+### [Epoch~2~Pliocene.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.internal.md) 
+
+### [Epoch~2~Pliocene.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.protect.md) 
+
+### [Epoch~2~Pliocene.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.private.md) 
+
+### [Epoch~2~Pliocene.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.personal.md) 
+
+### [Epoch~2~Pliocene.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene.secret.md) 

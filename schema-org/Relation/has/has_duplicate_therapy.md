@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: MedicalTherapy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_duplicate_therapy|has_duplicate_therapy]] 
-- [[../../../../../_public/schema-org/Relation/has/has_duplicate_therapy.public|has_duplicate_therapy.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_duplicate_therapy.internal|has_duplicate_therapy.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_duplicate_therapy.protect|has_duplicate_therapy.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_duplicate_therapy.private|has_duplicate_therapy.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_duplicate_therapy.personal|has_duplicate_therapy.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_duplicate_therapy.secret|has_duplicate_therapy.secret]] 
+
+### [has_duplicate_therapy](/_public/schema-org/Relation/has/has_duplicate_therapy.md) 
+
+### [has_duplicate_therapy.internal](/_internal/schema-org/Relation/has/has_duplicate_therapy.internal.md) 
+
+### [has_duplicate_therapy.protect](/_protect/schema-org/Relation/has/has_duplicate_therapy.protect.md) 
+
+### [has_duplicate_therapy.private](/_private/schema-org/Relation/has/has_duplicate_therapy.private.md) 
+
+### [has_duplicate_therapy.personal](/_personal/schema-org/Relation/has/has_duplicate_therapy.personal.md) 
+
+### [has_duplicate_therapy.secret](/_secret/schema-org/Relation/has/has_duplicate_therapy.secret.md) 

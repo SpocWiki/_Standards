@@ -1,4 +1,4 @@
-# [[Eon~3~Proterozoic]] 
+﻿# [[Eon~3~Proterozoic]] 
 
 #is_a_/time_/Eon 
 
@@ -31,8 +31,8 @@ A time period from 2500 to 538.8 million years ago.
 #has_/label_/sv  :: proterozoikum
 #has_/label_/zh  :: 元古宙
 
-#has_/time_/created/Ma :: -2500
-#has_/time_/destroyed/Ma :: -538.8 
+#has_/time_/started /Ma :: -2500
+#has_/time_/stopped /Ma :: -538.8 
 
     sh:order 170 
 
@@ -66,3 +66,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Eon~3~Proterozoic](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic.md) 
+
+### [Eon~3~Proterozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic.internal.md) 
+
+### [Eon~3~Proterozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic.protect.md) 
+
+### [Eon~3~Proterozoic.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic.private.md) 
+
+### [Eon~3~Proterozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic.personal.md) 
+
+### [Eon~3~Proterozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic.secret.md) 

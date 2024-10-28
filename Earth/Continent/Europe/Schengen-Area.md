@@ -1,4 +1,4 @@
----
+﻿---
 has_member:
   - "[[Europe~Central/Germany|Germany]]"
   - "[[Europe~West/France|France]]"
@@ -32,7 +32,7 @@ has_member:
 ---
 
 
-#has_/time_/created :: 1985 
+#has_/time_/started :: 1985 
 
 > The **Schengen Area** (English:  SHENG-ən, Luxembourgish: [ˈʃæŋən] ) 
 > is an area encompassing 29 European countries 
@@ -77,3 +77,17 @@ has_member:
 
 
 
+
+## Confidential Links & Embeds: 
+
+### [Schengen-Area](/_public/Earth/Continent/Europe/Schengen-Area.md) 
+
+### [Schengen-Area.internal](/_internal/Earth/Continent/Europe/Schengen-Area.internal.md) 
+
+### [Schengen-Area.protect](/_protect/Earth/Continent/Europe/Schengen-Area.protect.md) 
+
+### [Schengen-Area.private](/_private/Earth/Continent/Europe/Schengen-Area.private.md) 
+
+### [Schengen-Area.personal](/_personal/Earth/Continent/Europe/Schengen-Area.personal.md) 
+
+### [Schengen-Area.secret](/_secret/Earth/Continent/Europe/Schengen-Area.secret.md) 

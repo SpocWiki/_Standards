@@ -43,10 +43,15 @@ A set of characteristics belonging to businesses, e.g. who compose an item's tar
 [ #has_/properties :: [ additionalType, alternateName, audienceType, description, disambiguatingDescription, geographicArea, identifier, image, mainEntityOfPage, name, numberOfEmployees, potentialAction, sameAs, subjectOf, url, yearlyRevenue, yearsInOperation ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/audience/business_audience|business_audience]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/audience/business_audience.public|business_audience.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/audience/business_audience.internal|business_audience.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/audience/business_audience.protect|business_audience.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/audience/business_audience.private|business_audience.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/audience/business_audience.personal|business_audience.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/audience/business_audience.secret|business_audience.secret]] 
+
+### [business_audience](/_public/schema-org/Class/is_a_/Intangible/audience/business_audience.md) 
+
+### [business_audience.internal](/_internal/schema-org/Class/is_a_/Intangible/audience/business_audience.internal.md) 
+
+### [business_audience.protect](/_protect/schema-org/Class/is_a_/Intangible/audience/business_audience.protect.md) 
+
+### [business_audience.private](/_private/schema-org/Class/is_a_/Intangible/audience/business_audience.private.md) 
+
+### [business_audience.personal](/_personal/schema-org/Class/is_a_/Intangible/audience/business_audience.personal.md) 
+
+### [business_audience.secret](/_secret/schema-org/Class/is_a_/Intangible/audience/business_audience.secret.md) 

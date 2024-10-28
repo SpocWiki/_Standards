@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~3~Miaolingian]] 
 
 #is_a_/time_/Epoch 
@@ -11,8 +11,8 @@ A time period from 509 to 497 million years ago.
 
 #has_/abbreviation :: Ep3
 
-#has_/time_/created/Ma :: -509 
-#has_/time_/destroyed/Ma :: -497 
+#has_/time_/started /Ma :: -509 
+#has_/time_/stopped /Ma :: -497 
 
     sh:order 148 
 
@@ -32,3 +32,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~3~Miaolingian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian.md) 
+
+### [Epoch~3~Miaolingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian.internal.md) 
+
+### [Epoch~3~Miaolingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian.protect.md) 
+
+### [Epoch~3~Miaolingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian.private.md) 
+
+### [Epoch~3~Miaolingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian.personal.md) 
+
+### [Epoch~3~Miaolingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian.secret.md) 

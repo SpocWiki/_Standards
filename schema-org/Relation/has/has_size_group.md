@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: SizeGroupEnumeration, Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_size_group|has_size_group]] 
-- [[../../../../../_public/schema-org/Relation/has/has_size_group.public|has_size_group.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_size_group.internal|has_size_group.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_size_group.protect|has_size_group.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_size_group.private|has_size_group.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_size_group.personal|has_size_group.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_size_group.secret|has_size_group.secret]] 
+
+### [has_size_group](/_public/schema-org/Relation/has/has_size_group.md) 
+
+### [has_size_group.internal](/_internal/schema-org/Relation/has/has_size_group.internal.md) 
+
+### [has_size_group.protect](/_protect/schema-org/Relation/has/has_size_group.protect.md) 
+
+### [has_size_group.private](/_private/schema-org/Relation/has/has_size_group.private.md) 
+
+### [has_size_group.personal](/_personal/schema-org/Relation/has/has_size_group.personal.md) 
+
+### [has_size_group.secret](/_secret/schema-org/Relation/has/has_size_group.secret.md) 

@@ -1,4 +1,4 @@
-# [[Age~3~Rhaetian]] 
+﻿# [[Age~3~Rhaetian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 208.5 to 201.4 million years ago.
 
 #has_/abbreviation :: t7
 
-#has_/time_/created/Ma :: -208.5 
-#has_/time_/destroyed/Ma :: -201.4 
+#has_/time_/started /Ma :: -208.5 
+#has_/time_/stopped /Ma :: -201.4 
 
     sh:order 66 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Rhaetian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian.md) 
+
+### [Age~3~Rhaetian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian.internal.md) 
+
+### [Age~3~Rhaetian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian.protect.md) 
+
+### [Age~3~Rhaetian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian.private.md) 
+
+### [Age~3~Rhaetian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian.personal.md) 
+
+### [Age~3~Rhaetian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~3~Rhaetian.secret.md) 

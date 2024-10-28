@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -42,10 +42,15 @@ Relation describes that:
 ( #has_/range :: AnatomicalStructure, AnatomicalSystem, SuperficialAnatomy )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_associated_anatomy|has_associated_anatomy]] 
-- [[../../../../../_public/schema-org/Relation/has/has_associated_anatomy.public|has_associated_anatomy.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_associated_anatomy.internal|has_associated_anatomy.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_associated_anatomy.protect|has_associated_anatomy.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_associated_anatomy.private|has_associated_anatomy.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_associated_anatomy.personal|has_associated_anatomy.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_associated_anatomy.secret|has_associated_anatomy.secret]] 
+
+### [has_associated_anatomy](/_public/schema-org/Relation/has/has_associated_anatomy.md) 
+
+### [has_associated_anatomy.internal](/_internal/schema-org/Relation/has/has_associated_anatomy.internal.md) 
+
+### [has_associated_anatomy.protect](/_protect/schema-org/Relation/has/has_associated_anatomy.protect.md) 
+
+### [has_associated_anatomy.private](/_private/schema-org/Relation/has/has_associated_anatomy.private.md) 
+
+### [has_associated_anatomy.personal](/_personal/schema-org/Relation/has/has_associated_anatomy.personal.md) 
+
+### [has_associated_anatomy.secret](/_secret/schema-org/Relation/has/has_associated_anatomy.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -68,10 +68,15 @@ We are using this Relation exclusively, because there is typically only one (sma
 The Reverse Relation typically has multiple Values.
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Property/has_location/has_location_within|has_location_within]] 
-- [[../../../../_public/schema-org/Property/has_location/has_location_within.public|has_location_within.public]] 
-- [[../../../../_internal/schema-org/Property/has_location/has_location_within.internal|has_location_within.internal]] 
-- [[../../../../_protect/schema-org/Property/has_location/has_location_within.protect|has_location_within.protect]] 
-- [[../../../../_private/schema-org/Property/has_location/has_location_within.private|has_location_within.private]] 
-- [[../../../../_personal/schema-org/Property/has_location/has_location_within.personal|has_location_within.personal]] 
-- [[../../../../_secret/schema-org/Property/has_location/has_location_within.secret|has_location_within.secret]] 
+
+### [has_location_within](/_public/schema-org/Property/has_location/has_location_within.md) 
+
+### [has_location_within.internal](/_internal/schema-org/Property/has_location/has_location_within.internal.md) 
+
+### [has_location_within.protect](/_protect/schema-org/Property/has_location/has_location_within.protect.md) 
+
+### [has_location_within.private](/_private/schema-org/Property/has_location/has_location_within.private.md) 
+
+### [has_location_within.personal](/_personal/schema-org/Property/has_location/has_location_within.personal.md) 
+
+### [has_location_within.secret](/_secret/schema-org/Property/has_location/has_location_within.secret.md) 

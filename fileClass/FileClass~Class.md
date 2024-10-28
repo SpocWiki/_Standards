@@ -1,4 +1,4 @@
----
+﻿---
 limit: 100
 mapWithTag: true
 icon: list
@@ -37,3 +37,17 @@ fields:
 ![[../schema-org/Class/is_sub-class_of|subclassOf]] 
 is_sub_class_of::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/Class')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Class](/_public/fileClass/FileClass~Class.md) 
+
+### [FileClass~Class.internal](/_internal/fileClass/FileClass~Class.internal.md) 
+
+### [FileClass~Class.protect](/_protect/fileClass/FileClass~Class.protect.md) 
+
+### [FileClass~Class.private](/_private/fileClass/FileClass~Class.private.md) 
+
+### [FileClass~Class.personal](/_personal/fileClass/FileClass~Class.personal.md) 
+
+### [FileClass~Class.secret](/_secret/fileClass/FileClass~Class.secret.md) 

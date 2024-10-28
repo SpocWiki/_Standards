@@ -43,10 +43,15 @@ Enumerates several types of return labels for product returns.
 [ #is_/sub_class_of :: [[../Enumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_label_source_enumeration|return_label_source_enumeration]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_label_source_enumeration.public|return_label_source_enumeration.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration.internal|return_label_source_enumeration.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration.protect|return_label_source_enumeration.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration.private|return_label_source_enumeration.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration.personal|return_label_source_enumeration.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_label_source_enumeration.secret|return_label_source_enumeration.secret]] 
+
+### [return_label_source_enumeration](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.md) 
+
+### [return_label_source_enumeration.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.internal.md) 
+
+### [return_label_source_enumeration.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.protect.md) 
+
+### [return_label_source_enumeration.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.private.md) 
+
+### [return_label_source_enumeration.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.personal.md) 
+
+### [return_label_source_enumeration.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_label_source_enumeration.secret.md) 

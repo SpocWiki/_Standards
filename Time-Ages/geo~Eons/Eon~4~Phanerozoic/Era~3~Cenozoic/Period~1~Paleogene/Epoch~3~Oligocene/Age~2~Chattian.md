@@ -1,4 +1,4 @@
-# [[Age~2~Chattian]] 
+﻿# [[Age~2~Chattian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 27.82 to 23.03 million years ago.
 
 #has_/abbreviation :: e9
 
-#has_/time_/created/Ma :: -27.82
-#has_/time_/destroyed/Ma :: -23.03
+#has_/time_/started /Ma :: -27.82
+#has_/time_/stopped /Ma :: -23.03
 
     sh:order 22 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Chattian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.md) 
+
+### [Age~2~Chattian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.internal.md) 
+
+### [Age~2~Chattian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.protect.md) 
+
+### [Age~2~Chattian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.private.md) 
+
+### [Age~2~Chattian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.personal.md) 
+
+### [Age~2~Chattian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~1~Paleogene/Epoch~3~Oligocene/Age~2~Chattian.secret.md) 

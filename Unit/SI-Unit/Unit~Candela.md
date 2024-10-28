@@ -1,4 +1,4 @@
-
+﻿
 # [[Unit~Candela]] 
 
 #is_an_ :: [[../SI-Unit]] 
@@ -18,3 +18,17 @@ Unit :: #Unit/SI/cd
 
 1 Candela is the luminous intensity of a source that emits monochromatic radiation of frequency 5.4×1014 hertz and that has a radiant intensity in that direction of 1/683 watt per [steradian](https://en.wikipedia.org/wiki/Steradian "Steradian"). 
 
+
+## Confidential Links & Embeds: 
+
+### [Unit~Candela](/_public/Unit/SI-Unit/Unit~Candela.md) 
+
+### [Unit~Candela.internal](/_internal/Unit/SI-Unit/Unit~Candela.internal.md) 
+
+### [Unit~Candela.protect](/_protect/Unit/SI-Unit/Unit~Candela.protect.md) 
+
+### [Unit~Candela.private](/_private/Unit/SI-Unit/Unit~Candela.private.md) 
+
+### [Unit~Candela.personal](/_personal/Unit/SI-Unit/Unit~Candela.personal.md) 
+
+### [Unit~Candela.secret](/_secret/Unit/SI-Unit/Unit~Candela.secret.md) 

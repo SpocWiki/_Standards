@@ -1,42 +1,41 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_director
-
 linkTitle: has_director
-keywords: [director]
+keywords:
+  - director
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 supersedes: directors
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- director
-- director
-- director
-- has_director
+  - director
+  - director
+  - director
+  - has_director
+  - schema:director
+  - dbo:director
+  - wdt:P57
 ---
 
 Use it like this: 
 - [ #has_/director :: Person ] or 
 - [ has_director :: Person ] 
 
-A director of e.g. TV, radio, movie, video gaming etc. content, or of an event. Directors can be associated with individual items or with a series, episode, clip.
+A director of e.g. Company,TV, radio, movie, video gaming etc. content, or of an event. 
+Directors can be associated with individual items or with a series, episode, clip.
 
 Relation describes that: 
 [ #has_/domain  :: Clip, CreativeWorkSeason, Episode, Event, Movie, MovieSeries, RadioSeries, TVSeries, VideoGame, VideoGameSeries, VideoObject ]
@@ -44,10 +43,15 @@ Relation describes that:
 ( #has_/range :: Person )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_director|has_director]] 
-- [[../../../../../_public/schema-org/Relation/has/has_director.public|has_director.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_director.internal|has_director.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_director.protect|has_director.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_director.private|has_director.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_director.personal|has_director.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_director.secret|has_director.secret]] 
+
+### [has_director](/_public/schema-org/Relation/has/has_director.md) 
+
+### [has_director.internal](/_internal/schema-org/Relation/has/has_director.internal.md) 
+
+### [has_director.protect](/_protect/schema-org/Relation/has/has_director.protect.md) 
+
+### [has_director.private](/_private/schema-org/Relation/has/has_director.private.md) 
+
+### [has_director.personal](/_personal/schema-org/Relation/has/has_director.personal.md) 
+
+### [has_director.secret](/_secret/schema-org/Relation/has/has_director.secret.md) 

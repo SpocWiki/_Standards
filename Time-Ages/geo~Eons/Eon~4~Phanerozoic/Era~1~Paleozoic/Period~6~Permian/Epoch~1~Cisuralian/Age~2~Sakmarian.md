@@ -1,4 +1,4 @@
-# [[Age~2~Sakmarian]]
+﻿# [[Age~2~Sakmarian]]
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 293.51 to 290.1 million years ago.
 
 #has_/abbreviation :: p2
 
-#has_/time_/created/Ma :: -293.51 
-#has_/time_/destroyed/Ma :: -290.1 
+#has_/time_/started /Ma :: -293.51 
+#has_/time_/stopped /Ma :: -290.1 
 
     sh:order 88 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Sakmarian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~2~Sakmarian.md) 
+
+### [Age~2~Sakmarian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~2~Sakmarian.internal.md) 
+
+### [Age~2~Sakmarian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~2~Sakmarian.protect.md) 
+
+### [Age~2~Sakmarian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~2~Sakmarian.private.md) 
+
+### [Age~2~Sakmarian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~2~Sakmarian.personal.md) 
+
+### [Age~2~Sakmarian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~1~Cisuralian/Age~2~Sakmarian.secret.md) 

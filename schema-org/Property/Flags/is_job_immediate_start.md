@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -48,10 +48,15 @@ Predicate describes that:
 ( #has_/range :: Boolean )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Flags/is_job_immediate_start|is_job_immediate_start]] 
-- [[../../../../_public/schema-org/Predicate/Flags/is_job_immediate_start.public|is_job_immediate_start.public]] 
-- [[../../../../_internal/schema.org/Predicate/Flags/is_job_immediate_start.internal|is_job_immediate_start.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Flags/is_job_immediate_start.protect|is_job_immediate_start.protect]] 
-- [[../../../../_private/schema.org/Predicate/Flags/is_job_immediate_start.private|is_job_immediate_start.private]] 
-- [[../../../../_personal/schema.org/Predicate/Flags/is_job_immediate_start.personal|is_job_immediate_start.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Flags/is_job_immediate_start.secret|is_job_immediate_start.secret]] 
+
+### [is_job_immediate_start](/_public/schema-org/Property/Flags/is_job_immediate_start.md) 
+
+### [is_job_immediate_start.internal](/_internal/schema-org/Property/Flags/is_job_immediate_start.internal.md) 
+
+### [is_job_immediate_start.protect](/_protect/schema-org/Property/Flags/is_job_immediate_start.protect.md) 
+
+### [is_job_immediate_start.private](/_private/schema-org/Property/Flags/is_job_immediate_start.private.md) 
+
+### [is_job_immediate_start.personal](/_personal/schema-org/Property/Flags/is_job_immediate_start.personal.md) 
+
+### [is_job_immediate_start.secret](/_secret/schema-org/Property/Flags/is_job_immediate_start.secret.md) 

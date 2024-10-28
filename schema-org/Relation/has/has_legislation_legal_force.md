@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 ( #has_/range :: LegalForceStatus )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_legislation_legal_force|has_legislation_legal_force]] 
-- [[../../../../../_public/schema-org/Relation/has/has_legislation_legal_force.public|has_legislation_legal_force.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_legislation_legal_force.internal|has_legislation_legal_force.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_legislation_legal_force.protect|has_legislation_legal_force.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_legislation_legal_force.private|has_legislation_legal_force.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_legislation_legal_force.personal|has_legislation_legal_force.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_legislation_legal_force.secret|has_legislation_legal_force.secret]] 
+
+### [has_legislation_legal_force](/_public/schema-org/Relation/has/has_legislation_legal_force.md) 
+
+### [has_legislation_legal_force.internal](/_internal/schema-org/Relation/has/has_legislation_legal_force.internal.md) 
+
+### [has_legislation_legal_force.protect](/_protect/schema-org/Relation/has/has_legislation_legal_force.protect.md) 
+
+### [has_legislation_legal_force.private](/_private/schema-org/Relation/has/has_legislation_legal_force.private.md) 
+
+### [has_legislation_legal_force.personal](/_personal/schema-org/Relation/has/has_legislation_legal_force.personal.md) 
+
+### [has_legislation_legal_force.secret](/_secret/schema-org/Relation/has/has_legislation_legal_force.secret.md) 

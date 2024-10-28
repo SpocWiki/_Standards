@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ The serial number or any alphanumeric identifier of a particular product. When a
 SerialNumber:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~IndividualProduct](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.md) 
+
+### [FileClass~IndividualProduct.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.internal.md) 
+
+### [FileClass~IndividualProduct.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.protect.md) 
+
+### [FileClass~IndividualProduct.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.private.md) 
+
+### [FileClass~IndividualProduct.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.personal.md) 
+
+### [FileClass~IndividualProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -170,3 +170,17 @@ Indicates a target EntryPoint, or url, for an Action.
 
 Target:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Intangible/EntryPoint')"}}
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Action](/_public/fileClass/FileClass~Thing/FileClass~Action.md) 
+
+### [FileClass~Action.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action.internal.md) 
+
+### [FileClass~Action.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action.protect.md) 
+
+### [FileClass~Action.private](/_private/fileClass/FileClass~Thing/FileClass~Action.private.md) 
+
+### [FileClass~Action.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action.personal.md) 
+
+### [FileClass~Action.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action.secret.md) 

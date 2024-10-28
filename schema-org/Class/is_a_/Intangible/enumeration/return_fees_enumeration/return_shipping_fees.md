@@ -47,10 +47,15 @@ Specifies that the customer must pay the return shipping costs when returning a 
 [ #is_/enum_of :: [[../ReturnFeesEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees|return_shipping_fees]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.public|return_shipping_fees.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.internal|return_shipping_fees.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.protect|return_shipping_fees.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.private|return_shipping_fees.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.personal|return_shipping_fees.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/return_fees_enumeration/return_shipping_fees.secret|return_shipping_fees.secret]] 
+
+### [return_shipping_fees](/_public/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.md) 
+
+### [return_shipping_fees.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.internal.md) 
+
+### [return_shipping_fees.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.protect.md) 
+
+### [return_shipping_fees.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.private.md) 
+
+### [return_shipping_fees.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.personal.md) 
+
+### [return_shipping_fees.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/return_fees_enumeration/return_shipping_fees.secret.md) 

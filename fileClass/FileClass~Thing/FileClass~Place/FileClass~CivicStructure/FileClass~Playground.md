@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: false
 excludes: 
@@ -33,3 +33,17 @@ A playground.
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~Playground](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.md) 
+
+### [FileClass~Playground.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.internal.md) 
+
+### [FileClass~Playground.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.protect.md) 
+
+### [FileClass~Playground.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.private.md) 
+
+### [FileClass~Playground.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.personal.md) 
+
+### [FileClass~Playground.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.secret.md) 

@@ -1,4 +1,4 @@
-# [[Epoch~4~Furongian]] 
+﻿# [[Epoch~4~Furongian]] 
 
 #is_a_/time_/Epoch 
 
@@ -31,8 +31,8 @@ A time period from 497 to 485.4 million years ago.
 
 #has_/abbreviation :: Ep4
 
-#has_/time_/created/Ma :: -497 
-#has_/time_/destroyed/Ma :: -485.4 
+#has_/time_/started /Ma :: -497 
+#has_/time_/stopped /Ma :: -485.4 
 
     sh:order 144 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~4~Furongian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.md) 
+
+### [Epoch~4~Furongian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.internal.md) 
+
+### [Epoch~4~Furongian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.protect.md) 
+
+### [Epoch~4~Furongian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.private.md) 
+
+### [Epoch~4~Furongian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.personal.md) 
+
+### [Epoch~4~Furongian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian.secret.md) 

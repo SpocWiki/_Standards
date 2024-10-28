@@ -1,4 +1,4 @@
----
+﻿---
 location: [ -0.52 , 166.91 ] 
 type: geo-Region
 title: Denigomodu
@@ -40,11 +40,15 @@ markerFolder: ./Denigomodu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/Earth/Continent/Oceania/Nauru/Counties/Denigomodu|Denigomodu]] 
-- [[../../../../../../_public/Earth/Continent/Oceania/Nauru/Counties/Denigomodu.public|Denigomodu.public]] 
-- [[../../../../../../_internal/Earth/Continent/Oceania/Nauru/Counties/Denigomodu.internal|Denigomodu.internal]] 
-- [[../../../../../../_protect/Earth/Continent/Oceania/Nauru/Counties/Denigomodu.protect|Denigomodu.protect]] 
-- [[../../../../../../_private/Earth/Continent/Oceania/Nauru/Counties/Denigomodu.private|Denigomodu.private]] 
-- [[../../../../../../_personal/Earth/Continent/Oceania/Nauru/Counties/Denigomodu.personal|Denigomodu.personal]] 
-- [[../../../../../../_secret/Earth/Continent/Oceania/Nauru/Counties/Denigomodu.secret|Denigomodu.secret]] 
 
+### [Denigomodu](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.md) 
+
+### [Denigomodu.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.internal.md) 
+
+### [Denigomodu.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.protect.md) 
+
+### [Denigomodu.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.private.md) 
+
+### [Denigomodu.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.personal.md) 
+
+### [Denigomodu.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Denigomodu.secret.md) 

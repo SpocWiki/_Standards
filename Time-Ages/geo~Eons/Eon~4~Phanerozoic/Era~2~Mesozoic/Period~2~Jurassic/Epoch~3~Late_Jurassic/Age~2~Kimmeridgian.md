@@ -1,4 +1,4 @@
-# [[Age~2~Kimmeridgian]] 
+﻿# [[Age~2~Kimmeridgian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 154.8 to 149.2 million years ago.
 
 #has_/abbreviation :: j6
 
-#has_/time_/created/Ma :: -154.8 
-#has_/time_/destroyed/Ma :: -149.2 
+#has_/time_/started /Ma :: -154.8 
+#has_/time_/stopped /Ma :: -149.2 
 
     sh:order 52 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Kimmeridgian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.md) 
+
+### [Age~2~Kimmeridgian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.internal.md) 
+
+### [Age~2~Kimmeridgian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.protect.md) 
+
+### [Age~2~Kimmeridgian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.private.md) 
+
+### [Age~2~Kimmeridgian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.personal.md) 
+
+### [Age~2~Kimmeridgian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~3~Late_Jurassic/Age~2~Kimmeridgian.secret.md) 

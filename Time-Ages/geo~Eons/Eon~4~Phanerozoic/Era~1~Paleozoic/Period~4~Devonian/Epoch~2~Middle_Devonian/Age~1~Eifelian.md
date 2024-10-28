@@ -1,4 +1,4 @@
-# [[Age~1~Eifelian]] 
+﻿# [[Age~1~Eifelian]] 
 
 #is_a_/time_/Age 
 
@@ -32,8 +32,8 @@ A time period from 393.3 to 387.7 million years ago.
 #has_/label_/zh  :: 艾菲尔期
 
 #has_/abbreviation :: d4
-#has_/time_/created/Ma :: -393.3 
-#has_/time_/destroyed/Ma :: -387.7 
+#has_/time_/started /Ma :: -393.3 
+#has_/time_/stopped /Ma :: -387.7 
 
     sh:order 112 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Eifelian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~1~Eifelian.md) 
+
+### [Age~1~Eifelian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~1~Eifelian.internal.md) 
+
+### [Age~1~Eifelian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~1~Eifelian.protect.md) 
+
+### [Age~1~Eifelian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~1~Eifelian.private.md) 
+
+### [Age~1~Eifelian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~1~Eifelian.personal.md) 
+
+### [Age~1~Eifelian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~1~Eifelian.secret.md) 

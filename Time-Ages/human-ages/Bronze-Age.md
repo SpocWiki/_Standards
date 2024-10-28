@@ -1,4 +1,4 @@
-# [[Bronze-Age]] 
+﻿# [[Bronze-Age]] 
 
 #is_a_/time_/Culture 
 
@@ -15,8 +15,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Bronze%20Age)
 
 
-#has_/time_/created/ka :: -3.3 
-#has_/time_/destroyed/ka :: -1.2 
+#has_/time_/started /ka :: -3.3 
+#has_/time_/stopped /ka :: -1.2 
 
 
 ## Edit
@@ -34,3 +34,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Bronze-Age](/_public/Time-Ages/human-ages/Bronze-Age.md) 
+
+### [Bronze-Age.internal](/_internal/Time-Ages/human-ages/Bronze-Age.internal.md) 
+
+### [Bronze-Age.protect](/_protect/Time-Ages/human-ages/Bronze-Age.protect.md) 
+
+### [Bronze-Age.private](/_private/Time-Ages/human-ages/Bronze-Age.private.md) 
+
+### [Bronze-Age.personal](/_personal/Time-Ages/human-ages/Bronze-Age.personal.md) 
+
+### [Bronze-Age.secret](/_secret/Time-Ages/human-ages/Bronze-Age.secret.md) 

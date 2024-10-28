@@ -1,4 +1,4 @@
----
+﻿---
 type: Element
 
 SpocWebEntityId: 21953
@@ -37,10 +37,15 @@ SpocWebEntityId: 21953
 > [Wikipedia](https://en.wikipedia.org/wiki/Lanthanum)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/chemic/Elements/Lanthanide-Group/Lanthanum|Lanthanum]] 
-- [[../../../../_public/chemic/Elements/Lanthanide-Group/Lanthanum.public|Lanthanum.public]] 
-- [[../../../../_internal/chemic/Elements/Lanthanide-Group/Lanthanum.internal|Lanthanum.internal]] 
-- [[../../../../_protect/chemic/Elements/Lanthanide-Group/Lanthanum.protect|Lanthanum.protect]] 
-- [[../../../../_private/chemic/Elements/Lanthanide-Group/Lanthanum.private|Lanthanum.private]] 
-- [[../../../../_personal/chemic/Elements/Lanthanide-Group/Lanthanum.personal|Lanthanum.personal]] 
-- [[../../../../_secret/chemic/Elements/Lanthanide-Group/Lanthanum.secret|Lanthanum.secret]] 
+
+### [Lanthanum](/_public/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.md) 
+
+### [Lanthanum.internal](/_internal/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.internal.md) 
+
+### [Lanthanum.protect](/_protect/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.protect.md) 
+
+### [Lanthanum.private](/_private/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.private.md) 
+
+### [Lanthanum.personal](/_personal/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.personal.md) 
+
+### [Lanthanum.secret](/_secret/chemic/chemic~Elements/Lanthanide-Group/Lanthanum.secret.md) 

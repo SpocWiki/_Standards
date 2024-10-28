@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Formal Predicate:
 (range::Duration)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Durations/has_duration_total|has_duration_total]] 
-- [[../../../../_public/schema-org/Predicate/Durations/has_duration_total.public|has_duration_total.public]] 
-- [[../../../../_internal/schema.org/Predicate/Durations/has_duration_total.internal|has_duration_total.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Durations/has_duration_total.protect|has_duration_total.protect]] 
-- [[../../../../_private/schema.org/Predicate/Durations/has_duration_total.private|has_duration_total.private]] 
-- [[../../../../_personal/schema.org/Predicate/Durations/has_duration_total.personal|has_duration_total.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Durations/has_duration_total.secret|has_duration_total.secret]] 
+
+### [has_duration_total](/_public/schema-org/Property/has_duration_of/has_duration_total.md) 
+
+### [has_duration_total.internal](/_internal/schema-org/Property/has_duration_of/has_duration_total.internal.md) 
+
+### [has_duration_total.protect](/_protect/schema-org/Property/has_duration_of/has_duration_total.protect.md) 
+
+### [has_duration_total.private](/_private/schema-org/Property/has_duration_of/has_duration_total.private.md) 
+
+### [has_duration_total.personal](/_personal/schema-org/Property/has_duration_of/has_duration_total.personal.md) 
+
+### [has_duration_total.secret](/_secret/schema-org/Property/has_duration_of/has_duration_total.secret.md) 

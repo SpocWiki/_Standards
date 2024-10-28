@@ -1,4 +1,4 @@
-
+﻿
 # [[Epoch~1~Early_Jurassic]] 
 
 #is_a_/time_/Epoch 
@@ -34,8 +34,8 @@ A time period from 201.4 to 174.7 million years ago.
 
 #has_/abbreviation :: J1
 
-#has_/time_/created/Ma :: -201.4 
-#has_/time_/destroyed/Ma :: -174.7 
+#has_/time_/started /Ma :: -201.4 
+#has_/time_/stopped /Ma :: -174.7 
 
     sh:order 65 
 
@@ -55,3 +55,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Epoch~1~Early_Jurassic](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic.md) 
+
+### [Epoch~1~Early_Jurassic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic.internal.md) 
+
+### [Epoch~1~Early_Jurassic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic.protect.md) 
+
+### [Epoch~1~Early_Jurassic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic.private.md) 
+
+### [Epoch~1~Early_Jurassic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic.personal.md) 
+
+### [Epoch~1~Early_Jurassic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~2~Jurassic/Epoch~1~Early_Jurassic.secret.md) 

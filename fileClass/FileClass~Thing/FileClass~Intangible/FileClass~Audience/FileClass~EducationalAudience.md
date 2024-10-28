@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -43,3 +43,17 @@ An educationalRole of an EducationalAudience.
 EducationalRole:: {"type":"Input","options":{}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~EducationalAudience](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.md) 
+
+### [FileClass~EducationalAudience.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.internal.md) 
+
+### [FileClass~EducationalAudience.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.protect.md) 
+
+### [FileClass~EducationalAudience.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.private.md) 
+
+### [FileClass~EducationalAudience.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.personal.md) 
+
+### [FileClass~EducationalAudience.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Audience/FileClass~EducationalAudience.secret.md) 

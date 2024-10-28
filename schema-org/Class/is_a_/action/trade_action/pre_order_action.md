@@ -43,10 +43,15 @@ An agent orders a (not yet released) object/product/service to be delivered/sent
 [ #has_/properties :: [ actionStatus, additionalType, agent, alternateName, description, disambiguatingDescription, endTime, error, identifier, image, instrument, location, mainEntityOfPage, name, object, participant, potentialAction, price, priceCurrency, priceSpecification, provider, result, sameAs, startTime, subjectOf, target, url ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/schema-org/Class/is_a_/action/trade_action/pre_order_action|pre_order_action]] 
-- [[../../../../../../_public/schema-org/Class/is_a_/action/trade_action/pre_order_action.public|pre_order_action.public]] 
-- [[../../../../../../_internal/schema.org/Class/is_a_/action/trade_action/pre_order_action.internal|pre_order_action.internal]] 
-- [[../../../../../../_protect/schema.org/Class/is_a_/action/trade_action/pre_order_action.protect|pre_order_action.protect]] 
-- [[../../../../../../_private/schema.org/Class/is_a_/action/trade_action/pre_order_action.private|pre_order_action.private]] 
-- [[../../../../../../_personal/schema.org/Class/is_a_/action/trade_action/pre_order_action.personal|pre_order_action.personal]] 
-- [[../../../../../../_secret/schema.org/Class/is_a_/action/trade_action/pre_order_action.secret|pre_order_action.secret]] 
+
+### [pre_order_action](/_public/schema-org/Class/is_a_/action/trade_action/pre_order_action.md) 
+
+### [pre_order_action.internal](/_internal/schema-org/Class/is_a_/action/trade_action/pre_order_action.internal.md) 
+
+### [pre_order_action.protect](/_protect/schema-org/Class/is_a_/action/trade_action/pre_order_action.protect.md) 
+
+### [pre_order_action.private](/_private/schema-org/Class/is_a_/action/trade_action/pre_order_action.private.md) 
+
+### [pre_order_action.personal](/_personal/schema-org/Class/is_a_/action/trade_action/pre_order_action.personal.md) 
+
+### [pre_order_action.secret](/_secret/schema-org/Class/is_a_/action/trade_action/pre_order_action.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicate describes that:
 ( #has_/range :: Number )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Quantities/has_value_for_step|has_value_for_step]] 
-- [[../../../../_public/schema-org/Predicate/Quantities/has_value_for_step.public|has_value_for_step.public]] 
-- [[../../../../_internal/schema.org/Predicate/Quantities/has_value_for_step.internal|has_value_for_step.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Quantities/has_value_for_step.protect|has_value_for_step.protect]] 
-- [[../../../../_private/schema.org/Predicate/Quantities/has_value_for_step.private|has_value_for_step.private]] 
-- [[../../../../_personal/schema.org/Predicate/Quantities/has_value_for_step.personal|has_value_for_step.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Quantities/has_value_for_step.secret|has_value_for_step.secret]] 
+
+### [has_value_for_step_value](/_public/schema-org/Property/has_value_for/has_value_for_step_value.md) 
+
+### [has_value_for_step_value.internal](/_internal/schema-org/Property/has_value_for/has_value_for_step_value.internal.md) 
+
+### [has_value_for_step_value.protect](/_protect/schema-org/Property/has_value_for/has_value_for_step_value.protect.md) 
+
+### [has_value_for_step_value.private](/_private/schema-org/Property/has_value_for/has_value_for_step_value.private.md) 
+
+### [has_value_for_step_value.personal](/_personal/schema-org/Property/has_value_for/has_value_for_step_value.personal.md) 
+
+### [has_value_for_step_value.secret](/_secret/schema-org/Property/has_value_for/has_value_for_step_value.secret.md) 

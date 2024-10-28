@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -44,10 +44,15 @@ Relation describes that:
 [ #is_/inverse_of  :: parentOrganization ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_sub_organization|has_sub_organization]] 
-- [[../../../../../_public/schema-org/Relation/has/has_sub_organization.public|has_sub_organization.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_sub_organization.internal|has_sub_organization.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_sub_organization.protect|has_sub_organization.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_sub_organization.private|has_sub_organization.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_sub_organization.personal|has_sub_organization.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_sub_organization.secret|has_sub_organization.secret]] 
+
+### [has_sub_organization](/_public/schema-org/Relation/has/has_sub_organization.md) 
+
+### [has_sub_organization.internal](/_internal/schema-org/Relation/has/has_sub_organization.internal.md) 
+
+### [has_sub_organization.protect](/_protect/schema-org/Relation/has/has_sub_organization.protect.md) 
+
+### [has_sub_organization.private](/_private/schema-org/Relation/has/has_sub_organization.private.md) 
+
+### [has_sub_organization.personal](/_personal/schema-org/Relation/has/has_sub_organization.personal.md) 
+
+### [has_sub_organization.secret](/_secret/schema-org/Relation/has/has_sub_organization.secret.md) 

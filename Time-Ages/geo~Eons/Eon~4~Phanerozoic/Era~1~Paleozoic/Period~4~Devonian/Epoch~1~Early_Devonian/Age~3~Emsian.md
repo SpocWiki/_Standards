@@ -1,4 +1,4 @@
-# [[Age~3~Emsian]] 
+﻿# [[Age~3~Emsian]] 
 
 #is_a_/time_/Age 
 
@@ -32,8 +32,8 @@ A time period from 407.6 to 393.3 million years ago.
 #has_/label_/zh  :: 艾姆斯期
 
 #has_/abbreviation :: d3
-#has_/time_/created/Ma :: -407.6 
-#has_/time_/destroyed/Ma :: -393.3 
+#has_/time_/started /Ma :: -407.6 
+#has_/time_/stopped /Ma :: -393.3 
 
     sh:order 114 
 
@@ -53,3 +53,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~3~Emsian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.md) 
+
+### [Age~3~Emsian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.internal.md) 
+
+### [Age~3~Emsian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.protect.md) 
+
+### [Age~3~Emsian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.private.md) 
+
+### [Age~3~Emsian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.personal.md) 
+
+### [Age~3~Emsian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~1~Early_Devonian/Age~3~Emsian.secret.md) 

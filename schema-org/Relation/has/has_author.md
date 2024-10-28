@@ -1,33 +1,32 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_author
-
 linkTitle: has_author
-keywords: [author]
+keywords:
+  - author
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- author
-- author
-- author
-- has_author
+  - author
+  - author
+  - author
+  - has_author
+  - schema:author
+  - dbo:author
+  - wdt:P50
 ---
 
 Use it like this: 
@@ -44,10 +43,15 @@ Relation describes that:
 #is_/sub_relation_of :: [[has_creator]] 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_author|has_author]] 
-- [[../../../../../_public/schema-org/Relation/has/has_author.public|has_author.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_author.internal|has_author.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_author.protect|has_author.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_author.private|has_author.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_author.personal|has_author.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_author.secret|has_author.secret]] 
+
+### [has_author](/_public/schema-org/Relation/has/has_author.md) 
+
+### [has_author.internal](/_internal/schema-org/Relation/has/has_author.internal.md) 
+
+### [has_author.protect](/_protect/schema-org/Relation/has/has_author.protect.md) 
+
+### [has_author.private](/_private/schema-org/Relation/has/has_author.private.md) 
+
+### [has_author.personal](/_personal/schema-org/Relation/has/has_author.personal.md) 
+
+### [has_author.secret](/_secret/schema-org/Relation/has/has_author.secret.md) 

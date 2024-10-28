@@ -1,4 +1,4 @@
-# [[Atlantic~North]] 
+﻿# [[Atlantic~North]] 
 
 ## Edit
 
@@ -31,3 +31,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Atlantic~North](/_public/Earth/Ocean/Ocean~Atlantic/Atlantic~North.md) 
+
+### [Atlantic~North.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Atlantic~North.internal.md) 
+
+### [Atlantic~North.protect](/_protect/Earth/Ocean/Ocean~Atlantic/Atlantic~North.protect.md) 
+
+### [Atlantic~North.private](/_private/Earth/Ocean/Ocean~Atlantic/Atlantic~North.private.md) 
+
+### [Atlantic~North.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Atlantic~North.personal.md) 
+
+### [Atlantic~North.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Atlantic~North.secret.md) 

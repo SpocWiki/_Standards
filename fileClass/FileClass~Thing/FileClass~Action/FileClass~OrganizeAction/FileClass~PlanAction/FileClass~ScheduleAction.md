@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -37,3 +37,17 @@ Related actions:
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ScheduleAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.md) 
+
+### [FileClass~ScheduleAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.internal.md) 
+
+### [FileClass~ScheduleAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.protect.md) 
+
+### [FileClass~ScheduleAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.private.md) 
+
+### [FileClass~ScheduleAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.personal.md) 
+
+### [FileClass~ScheduleAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ScheduleAction.secret.md) 

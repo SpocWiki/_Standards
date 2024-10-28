@@ -45,10 +45,15 @@ SoundtrackAlbum.
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type/soundtrack_album|soundtrack_album]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type/soundtrack_album.public|soundtrack_album.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/soundtrack_album.internal|soundtrack_album.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/soundtrack_album.protect|soundtrack_album.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/soundtrack_album.private|soundtrack_album.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/soundtrack_album.personal|soundtrack_album.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/soundtrack_album.secret|soundtrack_album.secret]] 
+
+### [soundtrack_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.md) 
+
+### [soundtrack_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.internal.md) 
+
+### [soundtrack_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.protect.md) 
+
+### [soundtrack_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.private.md) 
+
+### [soundtrack_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.personal.md) 
+
+### [soundtrack_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/soundtrack_album.secret.md) 

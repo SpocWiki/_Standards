@@ -1,4 +1,4 @@
----
+﻿---
 location:
 - 17.9667
 - 102.6
@@ -152,9 +152,15 @@ Capital :: [[Laos/Counties/Vientiane]]
 
 
 ## Confidential Links & Embeds: 
-- [[Laos|Laos]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal|Laos.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~South~East/Laos.protect|Laos.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~South~East/Laos.private|Laos.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~South~East/Laos.personal|Laos.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret|Laos.secret]] 
+
+### [Laos](/_public/Earth/Continent/Asia/Asia~South~East/Laos.md) 
+
+### [Laos.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Laos.internal.md) 
+
+### [Laos.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Laos.protect.md) 
+
+### [Laos.private](/_private/Earth/Continent/Asia/Asia~South~East/Laos.private.md) 
+
+### [Laos.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Laos.personal.md) 
+
+### [Laos.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Laos.secret.md) 

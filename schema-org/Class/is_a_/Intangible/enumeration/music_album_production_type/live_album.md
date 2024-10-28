@@ -45,10 +45,15 @@ LiveAlbum.
 [ #is_/enum_of :: [[../MusicAlbumProductionType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album|live_album]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.public|live_album.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.internal|live_album.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.protect|live_album.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.private|live_album.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.personal|live_album.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/music_album_production_type/live_album.secret|live_album.secret]] 
+
+### [live_album](/_public/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.md) 
+
+### [live_album.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.internal.md) 
+
+### [live_album.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.protect.md) 
+
+### [live_album.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.private.md) 
+
+### [live_album.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.personal.md) 
+
+### [live_album.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/music_album_production_type/live_album.secret.md) 

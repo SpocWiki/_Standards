@@ -1,4 +1,4 @@
-# [[Age~2~Norian]] 
+﻿# [[Age~2~Norian]] 
 
 #is_a_/time_/Age 
 
@@ -31,8 +31,8 @@ A time period from 227 to 208.5 million years ago.
 
 #has_/abbreviation :: t6
 
-#has_/time_/created/Ma :: -227 
-#has_/time_/destroyed/Ma :: -208.5 
+#has_/time_/started /Ma :: -227 
+#has_/time_/stopped /Ma :: -208.5 
 
     sh:order 67 
 
@@ -52,3 +52,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~2~Norian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.md) 
+
+### [Age~2~Norian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.internal.md) 
+
+### [Age~2~Norian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.protect.md) 
+
+### [Age~2~Norian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.private.md) 
+
+### [Age~2~Norian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.personal.md) 
+
+### [Age~2~Norian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~2~Mesozoic/Period~1~Triassic/Epoch~3~Late_Triassic/Age~2~Norian.secret.md) 

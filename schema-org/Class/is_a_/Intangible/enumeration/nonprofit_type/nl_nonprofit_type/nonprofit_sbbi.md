@@ -47,10 +47,15 @@ NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institut
 [ #is_/enum_of :: [[../NLNonprofitType]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi|nonprofit_sbbi]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.public|nonprofit_sbbi.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.internal|nonprofit_sbbi.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.protect|nonprofit_sbbi.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.private|nonprofit_sbbi.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.personal|nonprofit_sbbi.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.secret|nonprofit_sbbi.secret]] 
+
+### [nonprofit_sbbi](/_public/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.md) 
+
+### [nonprofit_sbbi.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.internal.md) 
+
+### [nonprofit_sbbi.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.protect.md) 
+
+### [nonprofit_sbbi.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.private.md) 
+
+### [nonprofit_sbbi.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.personal.md) 
+
+### [nonprofit_sbbi.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/nonprofit_type/nl_nonprofit_type/nonprofit_sbbi.secret.md) 

@@ -47,10 +47,15 @@ Indicates demo game availability, i.e. a somehow limited demonstration of the fu
 [ #is_/enum_of :: [[../GameAvailabilityEnumeration]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/game_availability_enumeration/demo_game_availability|demo_game_availability]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/game_availability_enumeration/demo_game_availability.public|demo_game_availability.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/demo_game_availability.internal|demo_game_availability.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/demo_game_availability.protect|demo_game_availability.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/demo_game_availability.private|demo_game_availability.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/demo_game_availability.personal|demo_game_availability.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/game_availability_enumeration/demo_game_availability.secret|demo_game_availability.secret]] 
+
+### [demo_game_availability](/_public/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.md) 
+
+### [demo_game_availability.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.internal.md) 
+
+### [demo_game_availability.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.protect.md) 
+
+### [demo_game_availability.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.private.md) 
+
+### [demo_game_availability.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.personal.md) 
+
+### [demo_game_availability.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/game_availability_enumeration/demo_game_availability.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -55,3 +55,17 @@ Current location of the item.
 ItemLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/Place')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~ArchiveComponent](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.md) 
+
+### [FileClass~ArchiveComponent.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.internal.md) 
+
+### [FileClass~ArchiveComponent.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.protect.md) 
+
+### [FileClass~ArchiveComponent.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.private.md) 
+
+### [FileClass~ArchiveComponent.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.personal.md) 
+
+### [FileClass~ArchiveComponent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ArchiveComponent.secret.md) 

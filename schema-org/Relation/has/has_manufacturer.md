@@ -1,33 +1,30 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
-#Obsidian well-known Keys
-cssclasses: Predicate Relation
+cssclasses:
+  - Predicate
+  - Relation
 publish: true
-
-# Hugo Tags
 type: Predi_Relation
 title: has_manufacturer
-
 linkTitle: has_manufacturer
-keywords: [manufacturer]
+keywords:
+  - manufacturer
 layout: 
 draft: false
-publishDate:
+publishDate: 
 expiryDate: 
-
 tags:
-- class/Relation
-- schema-org/Relation
-
+  - class/Relation
+  - schema-org/Relation
 aliases:
-- manufacturer
-- manufacturer
-- manufacturer
-- has_manufacturer
+  - manufacturer
+  - has_manufacturer
+  - schema:manufacturer
+  - dbo:manufacturer
+  - wdt:P176
 ---
 
 Use it like this: 
@@ -42,10 +39,15 @@ Relation describes that:
 ( #has_/range :: Organization )
 
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/schema-org/Relation/has/has_manufacturer|has_manufacturer]] 
-- [[../../../../../_public/schema-org/Relation/has/has_manufacturer.public|has_manufacturer.public]] 
-- [[../../../../../_internal/schema.org/Relation/has/has_manufacturer.internal|has_manufacturer.internal]] 
-- [[../../../../../_protect/schema.org/Relation/has/has_manufacturer.protect|has_manufacturer.protect]] 
-- [[../../../../../_private/schema.org/Relation/has/has_manufacturer.private|has_manufacturer.private]] 
-- [[../../../../../_personal/schema.org/Relation/has/has_manufacturer.personal|has_manufacturer.personal]] 
-- [[../../../../../_secret/schema.org/Relation/has/has_manufacturer.secret|has_manufacturer.secret]] 
+
+### [has_manufacturer](/_public/schema-org/Relation/has/has_manufacturer.md) 
+
+### [has_manufacturer.internal](/_internal/schema-org/Relation/has/has_manufacturer.internal.md) 
+
+### [has_manufacturer.protect](/_protect/schema-org/Relation/has/has_manufacturer.protect.md) 
+
+### [has_manufacturer.private](/_private/schema-org/Relation/has/has_manufacturer.private.md) 
+
+### [has_manufacturer.personal](/_personal/schema-org/Relation/has/has_manufacturer.personal.md) 
+
+### [has_manufacturer.secret](/_secret/schema-org/Relation/has/has_manufacturer.secret.md) 

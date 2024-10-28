@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -46,10 +46,15 @@ Formal Predicate:
 (range::DateTime, Text)
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Date_Times/has_time_of_cvd_collection|has_time_of_cvd_collection]] 
-- [[../../../../_public/schema-org/Predicate/Date_Times/has_time_of_cvd_collection.public|has_time_of_cvd_collection.public]] 
-- [[../../../../_internal/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.internal|has_time_of_cvd_collection.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.protect|has_time_of_cvd_collection.protect]] 
-- [[../../../../_private/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.private|has_time_of_cvd_collection.private]] 
-- [[../../../../_personal/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.personal|has_time_of_cvd_collection.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Date_Times/has_time_of_cvd_collection.secret|has_time_of_cvd_collection.secret]] 
+
+### [has_time_of_cvd_collection](/_public/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.md) 
+
+### [has_time_of_cvd_collection.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.internal.md) 
+
+### [has_time_of_cvd_collection.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.protect.md) 
+
+### [has_time_of_cvd_collection.private](/_private/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.private.md) 
+
+### [has_time_of_cvd_collection.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.personal.md) 
+
+### [has_time_of_cvd_collection.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_cvd_collection.secret.md) 

@@ -43,10 +43,15 @@ A car rental business.
 [ #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental|auto_rental]] 
-- [[../../../../../../../_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.public|auto_rental.public]] 
-- [[../../../../../../../_internal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.internal|auto_rental.internal]] 
-- [[../../../../../../../_protect/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.protect|auto_rental.protect]] 
-- [[../../../../../../../_private/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.private|auto_rental.private]] 
-- [[../../../../../../../_personal/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.personal|auto_rental.personal]] 
-- [[../../../../../../../_secret/schema.org/Class/is_a_/organization/local_business/automotive_business/auto_rental.secret|auto_rental.secret]] 
+
+### [auto_rental](/_public/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.md) 
+
+### [auto_rental.internal](/_internal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.internal.md) 
+
+### [auto_rental.protect](/_protect/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.protect.md) 
+
+### [auto_rental.private](/_private/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.private.md) 
+
+### [auto_rental.personal](/_personal/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.personal.md) 
+
+### [auto_rental.secret](/_secret/schema-org/Class/is_a_/organization/local_business/automotive_business/auto_rental.secret.md) 

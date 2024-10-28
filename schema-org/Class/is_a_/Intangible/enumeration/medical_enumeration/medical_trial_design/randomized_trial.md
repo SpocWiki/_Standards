@@ -45,10 +45,15 @@ A randomized trial design.
 [ #is_/enum_of :: [[../MedicalTrialDesign]] ]
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial|randomized_trial]] 
-- [[../../../../../../../../_public/schema-org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.public|randomized_trial.public]] 
-- [[../../../../../../../../_internal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.internal|randomized_trial.internal]] 
-- [[../../../../../../../../_protect/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.protect|randomized_trial.protect]] 
-- [[../../../../../../../../_private/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.private|randomized_trial.private]] 
-- [[../../../../../../../../_personal/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.personal|randomized_trial.personal]] 
-- [[../../../../../../../../_secret/schema.org/Class/is_a_/intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.secret|randomized_trial.secret]] 
+
+### [randomized_trial](/_public/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.md) 
+
+### [randomized_trial.internal](/_internal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.internal.md) 
+
+### [randomized_trial.protect](/_protect/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.protect.md) 
+
+### [randomized_trial.private](/_private/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.private.md) 
+
+### [randomized_trial.personal](/_personal/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.personal.md) 
+
+### [randomized_trial.secret](/_secret/schema-org/Class/is_a_/Intangible/enumeration/medical_enumeration/medical_trial_design/randomized_trial.secret.md) 

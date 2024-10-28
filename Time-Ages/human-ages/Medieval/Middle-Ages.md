@@ -1,4 +1,4 @@
-# [[Middle-Ages]] 
+﻿# [[Middle-Ages]] 
 
 #is_a_/time_/Culture 
 
@@ -14,8 +14,8 @@
 > 
 
 
-#has_/time_/created/ka :: 0.8 
-#has_/time_/destroyed/ka :: 1.5 
+#has_/time_/started /ka :: 0.8 
+#has_/time_/stopped /ka :: 1.5 
 
 ## Edit
 
@@ -32,3 +32,17 @@ briefMax: 128
 noteOnly: true
 ```
 
+
+## Confidential Links & Embeds: 
+
+### [Middle-Ages](/_public/Time-Ages/human-ages/Medieval/Middle-Ages.md) 
+
+### [Middle-Ages.internal](/_internal/Time-Ages/human-ages/Medieval/Middle-Ages.internal.md) 
+
+### [Middle-Ages.protect](/_protect/Time-Ages/human-ages/Medieval/Middle-Ages.protect.md) 
+
+### [Middle-Ages.private](/_private/Time-Ages/human-ages/Medieval/Middle-Ages.private.md) 
+
+### [Middle-Ages.personal](/_personal/Time-Ages/human-ages/Medieval/Middle-Ages.personal.md) 
+
+### [Middle-Ages.secret](/_secret/Time-Ages/human-ages/Medieval/Middle-Ages.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
@@ -45,10 +45,15 @@ Predicated describes that:
 ( #has_/range :: Text )
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/schema-org/Predicate/Texts/has_bitrate|has_bitrate]] 
-- [[../../../../_public/schema-org/Predicate/Texts/has_bitrate.public|has_bitrate.public]] 
-- [[../../../../_internal/schema.org/Predicate/Texts/has_bitrate.internal|has_bitrate.internal]] 
-- [[../../../../_protect/schema.org/Predicate/Texts/has_bitrate.protect|has_bitrate.protect]] 
-- [[../../../../_private/schema.org/Predicate/Texts/has_bitrate.private|has_bitrate.private]] 
-- [[../../../../_personal/schema.org/Predicate/Texts/has_bitrate.personal|has_bitrate.personal]] 
-- [[../../../../_secret/schema.org/Predicate/Texts/has_bitrate.secret|has_bitrate.secret]] 
+
+### [has_bitrate](/_public/schema-org/Property/Texts/has_bitrate.md) 
+
+### [has_bitrate.internal](/_internal/schema-org/Property/Texts/has_bitrate.internal.md) 
+
+### [has_bitrate.protect](/_protect/schema-org/Property/Texts/has_bitrate.protect.md) 
+
+### [has_bitrate.private](/_private/schema-org/Property/Texts/has_bitrate.private.md) 
+
+### [has_bitrate.personal](/_personal/schema-org/Property/Texts/has_bitrate.personal.md) 
+
+### [has_bitrate.secret](/_secret/schema-org/Property/Texts/has_bitrate.secret.md) 

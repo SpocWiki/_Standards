@@ -1,4 +1,4 @@
-# [[Age~1~Aquitanian]] 
+﻿# [[Age~1~Aquitanian]] 
 
 #is_a_/time_/Age 
 
@@ -33,8 +33,8 @@ A time period from 23.03 to 20.44 million years ago.
 
 #has_/abbreviation :: n1
 
-#has_/time_/created/Ma :: -23.03
-#has_/time_/destroyed/Ma :: -20.44
+#has_/time_/started /Ma :: -23.03
+#has_/time_/stopped /Ma :: -20.44
 
     sh:order 19 
 
@@ -54,3 +54,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Age~1~Aquitanian](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.md) 
+
+### [Age~1~Aquitanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.internal.md) 
+
+### [Age~1~Aquitanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.protect.md) 
+
+### [Age~1~Aquitanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.private.md) 
+
+### [Age~1~Aquitanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.personal.md) 
+
+### [Age~1~Aquitanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~1~Miocene/Age~1~Aquitanian.secret.md) 

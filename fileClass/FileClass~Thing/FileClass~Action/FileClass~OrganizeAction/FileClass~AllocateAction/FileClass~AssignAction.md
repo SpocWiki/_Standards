@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -33,3 +33,17 @@ The act of allocating an action/event/task to some destination (someone or somet
 ## Properties:
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~AssignAction](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.md) 
+
+### [FileClass~AssignAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.internal.md) 
+
+### [FileClass~AssignAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.protect.md) 
+
+### [FileClass~AssignAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.private.md) 
+
+### [FileClass~AssignAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.personal.md) 
+
+### [FileClass~AssignAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~AllocateAction/FileClass~AssignAction.secret.md) 

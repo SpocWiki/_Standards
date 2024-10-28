@@ -1,4 +1,4 @@
-
+﻿
 # [[Period~1~Tonian]] 
 
 #is_a_/time_/Period 
@@ -36,8 +36,8 @@ A time period from
 #has_/label_/zh  :: 拉伸纪
 
 #has_/abbreviation :: NP1
-#has_/time_/created/Ma :: -1000
-#has_/time_/destroyed/Ma :: -720
+#has_/time_/started /Ma :: -1000
+#has_/time_/stopped /Ma :: -720
 
     sh:order 161 
 
@@ -57,3 +57,17 @@ noteOnly: true
 ```
 
 
+
+## Confidential Links & Embeds: 
+
+### [Period~1~Tonian](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.md) 
+
+### [Period~1~Tonian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.internal.md) 
+
+### [Period~1~Tonian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.protect.md) 
+
+### [Period~1~Tonian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.private.md) 
+
+### [Period~1~Tonian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.personal.md) 
+
+### [Period~1~Tonian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.secret.md) 

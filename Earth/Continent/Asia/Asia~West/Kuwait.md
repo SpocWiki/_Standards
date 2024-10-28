@@ -1,4 +1,4 @@
----
+﻿---
 location:
     - 29.33
     - 48
@@ -145,9 +145,15 @@ Capital :: [[Kuwait/Counties/Hawalli/City/Kuwait=Kuweit]]
 
 
 ## Confidential Links & Embeds: 
-- [[Kuwait|Kuwait]]  
-- [[../../../../../_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal|Kuwait.internal]]  
-- [[../../../../../_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect|Kuwait.protect]] 
-- [[../../../../../_private/Earth/Continent/Asia/Asia~West/Kuwait.private|Kuwait.private]] 
-- [[../../../../../_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal|Kuwait.personal]] 
-- [[../../../../../_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret|Kuwait.secret]] 
+
+### [Kuwait](/_public/Earth/Continent/Asia/Asia~West/Kuwait.md) 
+
+### [Kuwait.internal](/_internal/Earth/Continent/Asia/Asia~West/Kuwait.internal.md) 
+
+### [Kuwait.protect](/_protect/Earth/Continent/Asia/Asia~West/Kuwait.protect.md) 
+
+### [Kuwait.private](/_private/Earth/Continent/Asia/Asia~West/Kuwait.private.md) 
+
+### [Kuwait.personal](/_personal/Earth/Continent/Asia/Asia~West/Kuwait.personal.md) 
+
+### [Kuwait.secret](/_secret/Earth/Continent/Asia/Asia~West/Kuwait.secret.md) 

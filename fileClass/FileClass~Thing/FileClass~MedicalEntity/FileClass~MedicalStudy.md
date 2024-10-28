@@ -1,4 +1,4 @@
----
+﻿---
 limit: 9
 mapWithTag: true
 excludes: 
@@ -82,3 +82,17 @@ A subject of the study, i.e. one of the medical conditions, therapies, devices, 
 StudySubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/MedicalEntity')"}}
 
 
+
+## Confidential Links & Embeds: 
+
+### [FileClass~MedicalStudy](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.md) 
+
+### [FileClass~MedicalStudy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.internal.md) 
+
+### [FileClass~MedicalStudy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.protect.md) 
+
+### [FileClass~MedicalStudy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.private.md) 
+
+### [FileClass~MedicalStudy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.personal.md) 
+
+### [FileClass~MedicalStudy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.secret.md) 
