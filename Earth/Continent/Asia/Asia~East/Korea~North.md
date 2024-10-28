@@ -1,18 +1,19 @@
 ﻿---
 location:
-    - 39.0333
-    - 125.75
+  - 39.0333
+  - 125.75
 type: Country
 tags:
-    - geo/Country
-has_id_wikidata: Q423 
+  - geo/Country
+has_id_wikidata: Q423
 SpocWebEntityId: 26940
 isDeleted: false
 confidential: public
 aliases:
-    - North-Korea
-    - Korea~Dem-Rep
-    - Nordkorea
+  - North-Korea
+  - Korea~Dem-Rep
+  - Nordkorea
+  - North Korea
 icon: flag-kp
 ---
 

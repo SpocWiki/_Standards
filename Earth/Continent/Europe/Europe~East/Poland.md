@@ -140,7 +140,7 @@ into a Subfolder named `Poland`, so that this Link into the Sub-Repository works
 > 
 > The country has 17 UNESCO World Heritage Sites, 15 of which are cultural. 
 > Poland is a founding member state of the United Nations, 
-> as well as a member of the [[../../../../db/World Trade Organization]], [[OECD]], [[NATO]], 
+> as well as a member of the [[../../../../db/World Trade Organization]], [[../../../../../Knowledge/Literature/Workshop-Tactics/Ideation-Workshop/OECD]], [[NATO]], 
 > and the [[../EU(European_Union)|European Union]] (including the [[../Schengen-Area]]).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poland)
