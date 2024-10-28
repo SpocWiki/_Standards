@@ -1,18 +1,20 @@
 ﻿---
 title: United States of America
 type: Country
-
-location: [39.2641,-94.8153]
+location:
+  - 39.2641
+  - -94.8153
 has_id_wikidata: Q30
 SpocWebEntityId: 27047
 isDeleted: false
 confidential: public
 tags:
-- geo/Country
+  - geo/Country
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 linkTitle: 
 keywords: 
@@ -21,10 +23,11 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
+  - United States of America
+  - United States
 Languages:
-- en-US
+  - en-US
 icon: flag-us
-
 ---
 
 # [[USA]] 

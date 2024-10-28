@@ -67,6 +67,7 @@ For more Details, check out this Repository into this Subfolder:
 
 [Russia/ReadMe](Russia/ReadMe) 
 
+#has_/previous_item :: [[USSR]] 
 
 [	ISO4217-currency_alphabetic	 :: RUB ]
 [	ISO4217-currency_name	 :: Russian Ruble ]

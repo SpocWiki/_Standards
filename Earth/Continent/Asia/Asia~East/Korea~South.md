@@ -1,19 +1,19 @@
 ﻿---
 location:
-    - 37.55
-    - 126.97
+  - 37.55
+  - 126.97
 type: Country
 tags:
-    - geo/Country
-has_id_wikidata: Q884 
+  - geo/Country
+has_id_wikidata: Q884
 SpocWebEntityId: 26941
 isDeleted: false
 confidential: public
 aliases:
-    - South-Korea
-    - Korea-Republic
-    - Südkorea
-    - South Korea 
+  - South-Korea
+  - Korea-Republic
+  - Südkorea
+  - South Korea
 icon: flag-kr
 ---
 
