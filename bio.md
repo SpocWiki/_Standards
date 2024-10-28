@@ -8,12 +8,12 @@ arranged in a Folder-Hierarchy with Species Name as Folder Names in [[bio/bio~Tr
 
 ### [bio](../_public/bio.md) 
 
-### [bio.internal](/_internal/bio.internal.md) 
+### [bio.internal](../_internal/bio.internal.md) 
 
 ### [bio.protect](../_protect/bio.protect.md) 
 
 ### [bio.private](../_private/bio.private.md) 
 
-### [bio.personal](/_personal/bio.personal.md) 
+### [bio.personal](../_personal/bio.personal.md) 
 
 ### [bio.secret](../_secret/bio.secret.md) 

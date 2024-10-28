@@ -36,7 +36,10 @@ Use it like this:
 - [ #has_/taxon_rank :: PropertyValue, Text, URL ] or 
 - [ has_taxon_rank :: PropertyValue, Text, URL ] 
 
-The taxonomic rank of this taxon given preferably as a URI from a controlled vocabulary � typically the ranks from TDWG TaxonRank ontology or equivalent Wikidata URIs.
+The taxonomic rank of this taxon; 
+given preferably as a URI from a controlled vocabulary, 
+typically the ranks from TDWG TaxonRank ontology 
+or equivalent Wikidata URIs.
 
 Relation describes that: 
 [ #has_/domain  :: Taxon ]
